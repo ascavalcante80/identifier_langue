@@ -1,0 +1,60 @@
+mendekati intinya. Suhu inti sebuah bintang deret utama atau bintang raksasa paling tidak berada dalam besaran 107 °C. Suhu dan tekanan yang dialami inti pembakar hidrogen pada bintang deret utama cukup untuk memungkinkan fusi nuklir terjadi dan untuk menghasilkan energi yang cukup guna menghindari keruntuhan bintang.
+Ketika mengalami fusi nuklir dalam inti bintang, inti atom memancarkan energi dalam bentuk sinar gama. Foton-foton ini berinteraksi dengan plasma sekitarnya dan meningkatkan energi termal pada inti. Bintang-bintang deret utama mengubah hidrogen menjadi helium yang membuat proporsi helium dalam intinya meningkat secara perlahan namun pasti. Akhirnya muatan helium akan menjadi dominan dan produksi energi pun berhenti dalam inti. Namun bagi bintang yang bermassa lebih dari 0,4 kali massa matahari, reaksi fusi terjadi pada lapisan yang perlahan mengembang di sekitar inti helium degenerat.
+Selain kesetimbangan hidrostatis, bagian dalam sebuah bintang yang stabil juga akan mempertahankan kesetimbangan termal. Terdapat gradien suhu di seluruh bagian dalam bintang yang mengakibatkan aliran energi mengalir ke bagian luar. Aliran energi yang meninggalkan tiap lapisan dalam bintang ini akan sama dengan aliran yang datang dari bawah tiap lapisan.
+Zona radiasi adalah daerah pada bagian dalam bintang di mana transfer radiatif cukup efisien untuk mempertahankan aliran energi. Dalam daerah ini plasma bintang tidak akan bergerak dan setiap gerakan massa akan terhenti. Namun, jika tidak demikian, maka plasma menjadi tidak stabil dan akan terjadi konveksi yang membentuk zona konveksi. Hal ini dapat terjadi misalnya pada daerah di mana aliran energi yang sangat tinggi terjadi, seperti dekat inti bintang atau di daerah dengan kelegapan (opacity) tinggi seperti pada lapisan luar.
+Terjadinya konveksi pada lapisan luar bintang deret utama bergantung pada massanya. Bintang dengan massa berapa kali massa matahari memiliki zona konveksi jauh di bagian dalam bintang dan zona radiasi pada lapisan luar. Bintang yang lebih kecil seperti matahari adalah kebalikannya, dengan zona konveksi yang terletak di lapisan luar. Katai merah dengan massa kurang dari 0,4 kali massa matahari hanya memiliki zona konveksi di seluruh lapisannya sehingga mencegah terbentuknya inti helium. Pada sebagian besar bintang, zona konveksi juga akan berubah-ubah dari waktu ke waktu seiring dengan menuanya bintang dan berubahnya susunan inti bintang.
+
+Bagian dari sebuah bintang yang terlihat bagi pengamat disebut fotosfer. Ini adalah lapisan plasma bintang yang menjadi transparan terhadap foton cahaya. Dari sini, energi yang dihasilkan oleh inti menyebar bebas ke luar ke angkasa. Di fotosfer inilah bintik bintang, atau wilayah bersuhu dibawah rata-rata, muncul.
+Di atas fotosfer adalah atmosfer bintang. Pada bintang deret utama seperti matahari, bagian terbawah atmosfer merupakan daerah kromosfer yang tipis tempat munculnya spikula dan dimulainya semburan bintang. Kromosfer ini dikelilingi oleh daerah transisi, di mana suhu meningkat dengan cepat dalam jarak hanya 100 km. Di luarnya adalah korona, volume plasma maha panas yang dapat menjangkau ke luar hingga beberapa juta kilometer. Keberadaan korona tampaknya bergantung pada zona konveksi pada lapisan luar bintang. Meskipun suhunya tinggi, korona hanya memancarkan sedikit sekali cahaya. Wilayah korona matahari biasanya hanya terlihat pada gerhana matahari.
+Dari korona, angin bintang bermuatan partikel plasma mengembang keluar dari bintang, menyebar hingga berinteraksi dengan medium antarbintang. Untuk matahari, pengaruh angin suryanya meluas hingga ke seluruh wilayah heliosfer yang berbentuk gelembung.
+
+
+== Jalur reaksi fusi nuklirSunting ==
+
+Berbagai reaksi fusi nuklir yang berbeda berlangsung dalam inti bintang sebagai bagian dari nukleosintesis bintang, dengan bergantung pada massa dan komposisinya. Massa bersih inti atom yang terfusi lebih kecil dari jumlah massa inti-inti atom pembentuknya. Massa yang hilang ini dilepaskan sebagai energi elektromagnetik, sesuai dengan hukum kesetaraan massa-energi di mana E = mc2.
+Proses fusi hidrogen adalah proses yang peka suhu. Sedikit saja peningkatan suhu inti akan menyebabkan peningkatan laju fusi yang cukup besar. Akibatnya, suhu inti bintang-bintang deret utama hanya bervariasi dari 4 juta derajat celsius untuk bintang kelas M yang kecil hingga 40 juta derajat celsius untuk bintang kelas O yang masif.
+Pada inti matahari yang bersuhu 10 juta derajat celsius, hidrogen di-fusi hingga membentuk helium dalam reaksi rantai proton-proton:
+41H → 22H + 2e+ + 2νe (4.0 MeV + 1.0 MeV)
+21H + 22H → 23He + 2γ (5.5 MeV)
+23He → 4He + 21H (12.9 MeV)
+Reaksi-reaksi ini menghasilkan reaksi keseluruhan:
+41H → 4He + 2e+ + 2γ + 2νe (26.7 MeV)
+di mana e+ adalah positron, γ adalah foton sinar gama, νe adalah neutrino, dan H dan He masing-masing isotop hidrogen dan helium. Energi yang dilepaskan oleh reaksi adalah dalam jutaan elektronvolt, yang sebenarnya hanyalah jumlah energi yang sangat kecil. Namun reaksi ini terus-menerus terjadi dalam jumlah yang banyak, menghasilkan seluruh energi yang dibutuhkan untuk mempertahankan produksi radiasi bintang.
+Dalam bintang yang lebih masif, helium dihasilkan dalam siklus reaksi yang dikatalisasi oleh karbon yang disebut siklus karbon-nitrogen-oksigen.
+Dalam bintang yang sudah berkembang, dengan suhu inti 100 juta derajat celsius dan massa antara 0,5 dan 10 kali massa matahari, helium dapat diubah menjadi karbon lewat proses tripel alfa yang menggunakan berilium sebagai unsur perantaranya:
+4He + 4He + 92 keV → 8*Be
+4He + 8*Be + 67 keV → 12*C
+12*C → 12C + γ + 7.4 MeV
+Dengan keseluruhan reaksi berupa:
+34He → 12C + γ + 7.2 MeV
+Dalam bintang masif, unsur-unsur yang lebih berat dapat juga dibakar dalam inti yang mengerut lewat proses pembakaran neon dan proses pembakaran oksigen. Tahapan akhir proses nukleosintesis bintang adalah proses pembakaran silikon yang mengakibatkan dihasilkannya isotop besi-56 yang stabil. Setelah itu reaksi fusi tidak dapat diteruskan lagi kecuali lewat proses endotermik, sehingga energi yang lebih banyak hanya dapat dihasilkan lewat runtuhan gravitasi.
+Contoh di bawah ini menunjukkan waktu yang dibutuhkan bintang bermassa 20 kali massa matahari untuk menghabiskan seluruh bahan bakar nuklirnya. Bintang ini masuk dalam kategori bintang kelas O yang berukuran delapan kali jari-jari matahari dan memiliki lumonisitas 62.000 kali matahari.
+
+
+== Bintang terdekat dari MatahariSunting ==
+Berikut 5 Bintang terdekat dari Matahari.
+Alpha Centauri. Alpha Centauri dikenal juga sebagai Rigil Kentaurus adalah bintang paling cerah dalam rasi Centaurus. Walaupun tampak seperti satu titik dilihat dengan mata telanjang, bintang ini sebenarnya memiliki tiga komponen bintang. Antara lain; Alpha Centauri A (α Cen A), Alpha Centauri B (α Cen B) komponen ketiga disebut Proxima Centauri (α Cen C). Alpha Centauri adalah sistem bintang terdekat dari Bumi kita, dengan jarak 4,2 sampai 4,4 tahun cahaya.
+Bintang Barnard. Bintang Barnard adalah bintang katai merah yang memiliki massa sangat kecil. Terletak sekitar 6 juta tahun cahaya dari Bumi. Bintang ini merupakan bintang terdekat yang terletak di rasi bintang Ophiuchus, dan bintang keempat terdekat dari Matahari, setelah ketiga komponen Bintang dalam sistem Alpha Centauri.
+Wolf 359. Wolf 359 adalah bintang katai merah yang terletak di konstelasi Leo, dekat ekliptika. Berjarak sekitar 7,8 tahun cahaya dari Bumi, dan memiliki magnitudo tampak sebesar 13,5 dan hanya dapat dilihat dengan teleskop besar. Wolf 359 adalah salah satu bintang terdekat dengan tata surya kita, setelah Alpha Centauri, Proxima Centauri, dan bintang Barnard. Kedekatannya pada Bumi menyebabkan Bintang ini banyak disebut dalam beberapa karya fiksi.
+Lalande 21185. Lalande 21185 adalah bintang merah kecil di konstelasi Ursa Major. Berjarak sekitar 8,3 tahun cahaya dari Bumi. Walaupun relatif dekat, namun demikian terlalu redup dilihat dengan mata telanjang. Dalam waktu sekitar 19.900 tahun, Lalande 21185 akan berada pada jarak terdekatnya sekitar 4,65 ly (1,43 pc) dari Matahari.
+Sirius. Sirius adalah bintang paling terang di langit malam yang terletak di rasi Canis Major. Sirius dapat dilihat hampir di semua tempat di permukaan Bumi kecuali oleh orang-orang yang tinggal pada lintang di atas 73,284° utara. Sirius adalah salah satu sistem bintang terdekat dengan Bumi pada jarak 2,6 parsec atau 8,6 tahun cahaya.
+
+
+== Catatan kakiSunting ==
+
+
+== ReferensiSunting ==
+
+
+== Daftar pustakaSunting ==
+Pickover, Cliff (2001). The Stars of Heaven. Oxford University Press. ISBN 0-19-514874-6. 
+Gribbin, John; Mary Gribbin (2001). Stardust: Supernovae and Life — The Cosmic Connection. Yale University Press. ISBN 0-300-09097-8.  
+Hawking, Stephen (1988). A Brief History of Time. Bantam Books. ISBN 0-553-17521-1. 
+
+
+== Pranala luarSunting ==
+How Stars Work at HowStuffWorks
+Query star by identifier, coordinates or reference code. Centre de Données astronomiques de Strasbourg
+Star, World Book @ NASA
+Portraits of Stars and their Constellations. University of Illinois
+How To Decipher Classification Codes. Astronomical Society of South Australia

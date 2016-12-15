@@ -1,0 +1,26 @@
+yrelsen
+Udlændingestyrelsen
+
+
+== Afslutning ==
+Med de muligheder, der ligger i brugen af XML, er der skabt et stærkt værktøj til at høste mange af de muligheder, som netværkssamfundet tilbyder. Data kan vha. XML florere mellem organisationer og bruges bedst muligt, uden at organisationerne skal støde på forhindringer i form af for eksempel dataets format. Der er således skabt et udvekslingsformat, som alle kan bruge og som ligger offentligt tilgængeligt så organisationer ikke vil blive mødt af f.eks. copyright på udvekslingsformatet. Endvidere kan organisationerne let få informationer om, hvorledes nye digitale systemer skal opbygges for at kunne kommunikere og udveksle data med andre organisationer, hvilket er med til at sikre, at der skabes en høj grad af interoperabilitet. Dette gør, at der ikke tøves med at bruge formatet, hvilket betyder, at formatet er bredt accepteret, hvilket er en af de vigtigste forudsætninger for en standard til udveksling af data bryder igennem og bliver brugt.
+
+
+== Eksempel på XML dokument ==
+<?xml version="1.0" encoding="UTF-8"?>
+<personer>
+<person id="1">
+<navn>Rune</navn>
+<adresse>
+<vej>eksempelvej 4</vej>
+<by>St. Eksempelby</by>
+<postnummer>8520</postnummer>
+
+</adresse>
+<profession>IT-arkitekt</profession>
+
+</person>
+<person id="2">
+....
+</person>
+</personer>

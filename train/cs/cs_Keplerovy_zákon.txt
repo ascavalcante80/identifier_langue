@@ -1,0 +1,79 @@
+Keplerovy zákony jsou tři fyzikální zákony popisující pohyb planet kolem Slunce. Platí však obecněji pro pohyb libovolného tělesa v centrálním silovém poli, tedy v oblasti působení nějaké dostředivé síly, jejíž přitažlivost klesá s druhou mocninou vzdálenosti stejně jako gravitace výrazně hmotnějšího tělesa. Lze je tedy použít například i na pohyb Měsíce či umělé družice kolem Země, avšak s menší přesností, neboť vliv Slunce je v tomto případě nezanedbatelný.
+
+
+== Historie ==
+Johannes Kepler při odvození těchto zákonů využil systematická a ve své době nejpřesnější astronomická měření Tychona Brahe, jemuž byl Kepler asistentem v letech 1600 až 1601. První dva zákony vydal ve svém díle Astronomia nova (1609), třetí vyšel roku 1618 v Harmonices mundi. Později (1687) Isaac Newton ukázal, že Keplerovy zákony jsou důsledkem jeho obecnější fyzikální teorie mechaniky a gravitace.
+
+
+== Formulace zákonů ==
+
+
+=== 1. Keplerův zákon ===
+
+Planety obíhají kolem Slunce po eliptických drahách, v jejichž jednom společném ohnisku je Slunce.
+
+
+==== Význam 1. Keplerova zákona ====
+Tento zákon popisuje tvar trajektorií planet pohybujících se v gravitačním poli Slunce. Říká, že planety se pohybují po rovinných křivkách (elipsách či kružnicích), kolem stálého středu (centra). To znamená, že vektor zrychlení, a tedy i síla způsobující tento pohyb, leží v rovině dráhy. Planety se periodicky vzdalují a přibližují ke Slunci.
+Planety obíhají kolem Slunce, takže geocentrický popis nebeské mechaniky již není vhodný.
+Planety ale nemají příliš výstřednou dráhu, takže v prvním přiblížení lze uvažovat, že se pohybují po kružnici. Tento zákon však platí i pro komety, které se pohybují po značně výstředných drahách. Pravděpodobnost, že by se nějaké těleso (dlouhodobě) pohybovalo okolo Slunce přesně po kružnici, je nulová, protože kružnice je ideální případ, ke kterému se lze v praxi pouze přiblížit ale nelze ho dosáhnout.
+Roviny drah všech planet procházejí středem Slunce, jsou přibližně totožné. Slunce se nachází v ohnisku dráhy každé planety. Hlavní vrchol elipsy, v němž je planeta nejblíže Slunci, se nazývá přísluní (perihélium)a hlavní vrchol, v němž je planeta nejdále od Slunce, se nazývá odsluní (afélium).
+
+
+=== 2. Keplerův zákon ===
+
+Obsahy ploch opsaných průvodičem planety (spojnice planety a Slunce) za stejný čas jsou stejně velké.
+Průvodič planety je spojnice hmotného středu planety s hmotným středem Slunce. Velikost i směr průvodiče se při pohybu planety kolem Slunce neustále mění. Průvodič však vždy za stejnou dobu opíše plochu se stejným obsahem. To je důvodem, proč se tento zákon někdy nazývá zákon ploch.
+
+
+==== Význam 2. Keplerova zákona ====
+Planety se v přísluní pohybují nejrychleji, v odsluní zase nejpomaleji.
+Ve výpočtech se používá plocha opsaná průvodičem za infinitezimálně (nekonečně) krátký čas, kdy se může zanedbat zakřivení trajektorie planety a celý výpočet se redukuje na vyjádření obsahu trojúhelníka. Druhý Keplerův zákon je jiné vyjádření zákona zachování momentu hybnosti. Plyne z něj (netriviálně), že oběžná rychlost planet se zmenšuje se vzrůstající vzdáleností od Slunce (těles od centrálního tělesa), to je však zřejmé ze zákona zachování energie.
+
+
+==== Plošná rychlost ====
+Sledujeme-li pohyb tělesa s polohovým vektorem  v gravitačním poli, pak za čas  dojde ke změně průvodiče na , kde elementární přírůstek  spadá do směru dráhy. Obsah elementární plochy opsané tímto průvodičem lze vyjádřit ve tvaru
+
+Pro plošnou rychlost pak s pomocí tohoto vztahu získáme výraz
+
+Vektor plošné rychlosti  je kolmý k rovině, v níž leží trajektorie pohybu. Tento Keplerův zákon říká, že pro plošnou rychlost platí
+
+Ze znalosti vztahu pro moment hybnosti , kde  je hybnost planety, lze psát
+
+Je-li tedy konstantní plošná rychlost, je konstantní také moment hybnosti. Obráceně lze říci, že ze zákona zachování momentu hybnosti vyplývá konstantní plošná rychlost pohybu planety v radiálním gravitačním poli (a tedy také druhý Keplerův zákon).
+
+
+==== Plošné zrychlení ====
+Derivací plošné rychlosti podle času dostaneme plošné zrychlení
+,
+kde bylo využito toho, že .
+Při planetárním pohybu je plošná rychlost stálá a plošné zrychlení tedy musí být nulové. To znamená, že . Vektorový součin dvou vektorů je nulový, je-li jeden z nich nulový, nebo pokud leží v jedné přímce (tzn. mají shodný nebo přesně opačný směr). Avšak  ani  není nulové, neboť pohyb probíhá v určité vzdálenosti od středu (tedy ) a při každém křivočarém pohybu se vyskytuje nějaké zrychlení (tedy ). Znamená to tedy, že zrychlení  (tedy i odpovídající síla) leží ve směru průvodiče .
+Trajektorie dráhy má vždy takový tvar, že vzhledem k tečnému vektoru se vždy zakřivuje směrem k centru. To znamená, že zrychlení směřuje dovnitř uzavřené dráhy (elipsy). V opačném případě by se dráha zakřivovala ven od tečného vektoru a dráha by se neuzavřela. Důsledkem je, že vektor zrychlení směřuje vždy do centra silového působení. Takové silové působení se nazývá centrální. Také pohyb způsobený těmito silami se nazývá centrální pohyb.
+
+
+=== 3. Keplerův zákon ===
+Poměr druhých mocnin oběžných dob dvou planet je stejný jako poměr třetích mocnin jejich hlavních poloos (středních vzdáleností těchto planet od Slunce).
+Pokud označíme  a  oběžné doby dvou planet a  a  délky jejich hlavních poloos, pak lze tento zákon vyjádřit ve tvaru
+
+Tento zákon platí v tomto tvaru jen tehdy, jsou-li hmotnosti planet zanedbatelně malé ve srovnání s hmotností Slunce, což je u planet sluneční soustavy splněno.
+
+
+==== Význam 3. Keplerova zákona ====
+Planety blízko Slunce jej oběhnou za kratší čas než planety vzdálené. Oběžná doba však roste se vzdáleností od Slunce rychleji než tato vzdálenost, takže průměrná úhlová rychlost planet klesá se vzdáleností od Slunce. Např. Saturn je od Slunce vzdálen přibližně 10x více než Země, ale jeho doba oběhu ("Saturnův rok") je již skoro 30x delší (viz tabulku níže).
+
+
+==== Odvození ====
+Předpokládejme, že soustava spojená se Sluncem je inerciální. Excentricity drah planet jsou malé, takže je můžeme považovat za přibližně kruhové. Bližší planety mají větší oběžnou rychlost, protože na ně Slunce působí větší silou. Oběžná rychlost jde vyjádřit z gravitační síly, která je zde silou dostředivou:
+.
+Vidíme tedy, že čím je planeta blíže Slunci, tím rychleji obíhá kolem něho. Protože
+,
+dostaneme dosazením
+,
+což je (obecnější) vyjádření 3. Keplerova zákona.
+Tento vztah lze elementárně uhodnout i rozměrovou úvahou, až na bezrozměrnou konstantu , což však pro původní formulaci nevadí.
+
+
+=== Tabulka 3. Keplerova zákona ===
+
+
+== Odvození Newtonova gravitačního

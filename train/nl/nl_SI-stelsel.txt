@@ -1,0 +1,98 @@
+Het Internationale Stelsel van Eenheden (Frans: Système international d’unités) of SI-stelsel is het metrieke stelsel van uniforme internationale standaardeenheden voor het meten van bijvoorbeeld afstand, gewicht, snelheid en temperatuur. Het werd op 11 oktober 1960 ingevoerd en wordt beheerd door het Bureau international des poids et mesures in Sèvres (Frankrijk). De Conférence Générale des Poids et Mesures (CGPM) beveelt SI in alle talen aan als afkorting voor dit eenhedenstelsel.
+Het SI is bedoeld om internationaal gemakkelijk gegevens te kunnen uitwisselen. Oorspronkelijk hadden veel landen verschillende maatstelsels. Het stelsel is de wettelijke standaard in de Europese Unie. Alle eigenschappen en maten van producten die op de markt gebracht worden, moeten in dit stelsel uitgedrukt worden. In het Verenigd Koninkrijk blijft het gebruik van de imperiale eenheden voor massa en lengte echter geoorloofd, hoewel de Britse overheid al in 1976 uitgebreide campagnes voerde om het metrische stelsel in te voeren. In Nederland werd het gebruik van dit stelsel in beroep, handel en onderwijs in 1978 wettelijk verplicht gesteld door de IJkwet (in 2006 vervangen door de Metrologiewet).
+Het SI vormt een samenhangend geheel. Het is opgebouwd rond een aantal basiseenheden, die in combinatie met elkaar afgeleide SI-eenheden vormen. Door deze samenhang wordt het gebruik van constanten bij het omrekenen van bijvoorbeeld lengte, breedte en hoogte naar oppervlakte en gewicht zo veel mogelijk beperkt.
+
+
+== SI-basiseenhedenBewerken ==
+De zeven, onderling onafhankelijke basiseenheden zijn:
+Lengte, massa, tijd, elektrische stroom, absolute temperatuur, stofhoeveelheid en lichtsterkte worden ook wel de basisdimensies genoemd.
+
+
+== Afgeleide SI-eenhedenBewerken ==
+Alle andere SI-eenheden zijn afgeleide eenheden en kunnen worden uitgedrukt in termen van deze basiseenheden (zie het schema verderop). Voorbeelden zijn m² (vierkante meter) voor oppervlakte en m/s (meter per seconde) voor snelheid. Veel van deze afgeleide eenheden hebben een eigen naam, zoals hertz (gedefinieerd als s-1) voor frequentie en joule (gedefinieerd als kg·m²/s²) voor energie.
+
+
+=== Coherente eenheidBewerken ===
+Een afgeleide eenheid wordt coherent genoemd als deze een product is van machten van de basiseenheden met 1 als numerieke factor. De bovengenoemde voorbeelden m², m/s, hertz en joule zijn voorbeelden van coherente eenheden. Samen met de basiseenheden vormen de coherente eenheden een zogenaamd coherent eenhedenstelsel.
+
+
+== SI-prefixen (vermenigvuldigingsfactoren)Bewerken ==
+Naast de SI-eenheden zijn er ook de SI-voorvoegsels of -prefixen, als volgt gedefinieerd:
+Merk op dat de voorvoegsels mega en groter allemaal op een -a eindigen, en dat micro en kleiner allemaal op een -o eindigen.
+
+
+== SchrijfwijzeBewerken ==
+De eenheden worden vaak verkeerd geschreven – met een hoofdletter als dat niet moet, of andersom.
+Er moet onderscheid worden gemaakt tussen de namen (newton, volt, meter) en de symbolen (N, V, m) voor eenheden. Zie de tabel en de uitleg daaronder.
+
+
+=== NamenBewerken ===
+De namen van de eenheden (dus voluit geschreven) volgen de regels van de betreffende taal. In het Nederlands worden zij met een kleine letter geschreven, ook wanneer zij zijn afgeleid van een persoonsnaam (newton, ampère, volt). Vanzelfsprekende uitzondering: als de eenheid aan het begin van een zin staat schrijft men een hoofdletter. In het Duits worden ze met een hoofdletter geschreven omdat het zelfstandige naamwoorden zijn. Ook kan de spelling van de voluitgeschreven naam in sommige talen afwijken (bijvoorbeeld Duits: Zentimeter).
+
+
+=== SymbolenBewerken ===
+Voor de symbolen voor eenheden geldt dat zowel de spelling als het gebruik van hoofd- en kleine letters onafhankelijk van de taal in de hele wereld gelijk is. De regel is dat het symbool met een kleine letter wordt geschreven, tenzij de naam van de eenheid van een eigennaam is afgeleid: in dat geval wordt de eerste letter een hoofdletter. Enkele voorbeelden:
+m (de meter is niet van een naam afgeleid),
+V (de volt is genoemd naar Alessandro Volta),
+T (de tesla is genoemd naar Nikola Tesla),
+Ω (de ohm is genoemd naar Georg Ohm).
+
+De meeste symbolen zijn van een eigennaam afgeleid en worden daarom met een hoofdletter geschreven.
+Decimale voorvoegsels voor kilo en kleiner worden met een kleine letter geschreven, die voor mega en hoger met een hoofdletter.
+De schrijfwijze van de symbolen (incl. de voorvoegsels) is in alle talen dezelfde. Dit geldt ook voor talen die zelf niet met het Latijnse alfabet geschreven worden, zoals Russisch (cyrillisch schrift), Hebreeuws en Arabisch.
+Achter een symbool komt geen punt (het is geen afkorting, maar een symbool), behalve natuurlijk aan het einde van een zin. Schrijfwijzen als K.M. of KM (voor kilometer) zijn onjuist.
+Dit gebruik van hoofd- en kleine letters mag niet ondergeschikt worden gemaakt aan artistiek-typografische keuzes. In een document dat om welke reden dan ook geheel in kleine letters is geschreven, moeten de symbolen toch volgens bovenstaande internationale standaard worden geschreven. Dit is van belang voor onder meer de reclamebranche.
+Zelfs als een symbool dat met een kleine letter geschreven wordt aan het begin van een zin staat, wordt geen hoofdletter gebruikt:
+
+m is het symbool voor meter.
+
+Deze regels brengen met zich mee dat het samengestelde symbool met een kleine letter kan beginnen en ergens middenin een hoofdletter heeft: kHz voor kilohertz.
+Er is nog een typografische conventie die in elk geval de leesbaarheid ten goede komt: symbolen voor grootheden worden cursief geschreven, die voor eenheden worden rechtop (romein) geschreven: m = 25 kg (m (massa) is een grootheid, kg (kilogram) is een eenheid); I = 30 mA (I (stroom) is een grootheid, mA (milliampère) is een eenheid). Ook hier is het aan te raden deze regel bóven artistiek-typografische keuzes te laten prevaleren. Alleen als cursivering moeilijk of niet te realiseren is, mag van deze regel worden afgeweken.
+
+
+=== Prioriteit van operatiesBewerken ===
+Toepassen van een voorvoegsel heeft een hogere prioriteit dan machtsverheffen, bijvoorbeeld km² = (km)². Machtsverheffen heeft echter een hogere prioriteit dan andere vermenigvuldigingen: m·s² = m·(s²). De half-hoge punt als vermenigvuldigingsteken (of een spatie: m s²) wordt aanbevolen omdat anders bijvoorbeeld ms zowel milliseconde als meter·seconde zou kunnen betekenen. Bij ondubbelzinnige combinaties, zoals Nm dat alleen newton·meter kan betekenen, is weglating van het vermenigvuldigingsteken of de spatie minder ernstig.
+Direct voor of na een getal wordt een kruisje (×) als vermenigvuldigingsteken gebruikt, om verwarring met een duizendtallenscheider te voorkomen.
+
+
+== Consequent gebruikBewerken ==
+De symbolen worden gecombineerd met een waarde in cijfers. Het is niet correct symbolen en namen door elkaar te gebruiken.
+Onjuist is dus:
+dertien km
+300 000 km per seconde
+Correct is:
+dertien kilometer, 13 km, 13 kilometer
+300 000 kilometer per seconde, 300 000 km/s
+Officieel dient een komma als decimaalteken te worden gebruikt. Alleen in Engelstalige geschriften is een punt als decimaalteken toegestaan. De keuze tussen punt of komma dient binnen de betreffende tekst wel consequent volgehouden te worden.
+Cijfers kunnen met spaties verdeeld worden in groepjes van drie. Punten (respectievelijk komma's in Engelstalige geschriften) zijn hier niet toegestaan.
+Onjuist is dus:
+7.654.321,123.4
+Correct is:
+7 654 321,123 4
+Tussen het laatste cijfer en het eenheidssymbool hoort in de meeste talen – waaronder het Nederlands – een spatie te staan. Een regelovergang binnen het getal en tussen getal en eenheidssymbool is niet toegestaan. Extreem lange getallen komen in wetenschappelijke en technische documenten overigens niet voor; daarvoor worden machten van 10 (bijvoorbeeld 3,47 × 10–12) of prefixen gebruikt.
+
+
+== MeervoudBewerken ==
+
+
+=== NamenBewerken ===
+Soms kunnen de namen van eenheden (dus voluit geschreven) in het meervoud staan. In het Nederlands is dat alleen gebruikelijk bij de eenheid van tijd: acht seconden of acht secondes, en verder in bepaalde grammaticale constructies, bijvoorbeeld als er een woord tussen getal en eenheid staat: tien zware kilometers, of als het getal zelf in het meervoud staat: duizenden meters. In andere talen kan een meervoud onvermijdbaar zijn doordat de grammatica het eist: five kilogrammes, deux mètres, ...
+
+
+=== SymbolenBewerken ===
+De symbolen hebben nimmer een meervoudsvorm. Anderstaligen hebben soms de neiging een 's' (of, afhankelijk van de taal, een andere letter) aan het symbool toe te voegen (3 cms, 5 kgs). Dat is echter in strijd met internationale afspraken. Bovendien kan het verwarrend zijn, doordat de 's' ook het symbool voor seconde is.
+
+
+== Verschillende talenBewerken ==
+Hoewel de symbolen voor de eenheden in alle talen gelijk zijn, kunnen er bij de namen verschillen optreden, vooral bij eenheden die vanouds in het dagelijks leven bekend zijn:
+Frans: mètre, kilogramme
+Engels: second, kilogram(me), amp(ere). In het Engels worden de namen van eenheden die van eigennamen zijn afgeleid, ook vaak met een hoofdletter geschreven.
+Duits: Sekunde, Kilogramm, Zentimeter. Bovendien worden, zoals reeds gezegd, de namen van de eenheden in het Duits met een hoofdletter geschreven, omdat dat in deze taal met alle zelfstandige naamwoorden gebeurt.
+In het dagelijks leven wordt kilogram(me) in veel talen afgekort als kilo. Engelstaligen zeggen ook wel kilo als afkorting voor kilometre. Deze afkortingen zijn gebruikelijk bij huishoudelijke toepassingen; bij wetenschappelijk gebruik zijn ze taboe. Daar komt nog bij dat men bij huishoudelijk gebruik bij een kilo(gram) aan gewicht denkt en niet aan massa.
+Een eigenaardigheid in het gesproken Engels is, dat in woorden die met kilo- beginnen, oorspronkelijk de tweede lettergreep beklemtoond werd (kilometre). Door de invoering van het SI in het Verenigd Koninkrijk, kwamen er veel meer van dit soort woorden, waardoor de neiging ontstond de klemtoon te verschuiven naar de meer onderscheidende eerste lettergreep (kilometre). Ook het Spaans en het Italiaans hebben een van het Nederlands afwijkende klemtoon: kilómetro.
+
+
+== Herdefinitie van de basiseenhedenBewerken ==
+In oktober 2011 nam de 24e vergadering van de CGPM een resolutie aan waaraan deze nota neemt van het voornemen van het BIPM om het SI op een bepaalde manier te wijzigen. De 25e General Conference on Weights and Measures van 18-20 november 2014 heeft de beslissing uitgesteld tot de 26e conferentie.
+Het betreft nieuwe definities van de basiseenheden, zodanig dat deze voortaan alleen nog van fundamentele natuurkundige constanten afhangen. De oude definities van de kilogram (gekoppeld aan een artefact), de ampère, de kelvin (gekoppeld aan water) en de mol (gekoppeld aan koolstof) komen te vervallen. De nieuwe definities worden zodanig vastgelegd dat de waarde van de eenheden volgens de nieuwe definities binnen de vereiste nauwkeurigheid gelijk blijft aan de waarde volgens de oude definities.
+De nieuwe definities zijn afhankelijk van de volgende constanten 

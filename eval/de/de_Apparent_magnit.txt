@@ -1,0 +1,25 @@
+en Objekten (Planeten, Zwergplaneten, Asteroiden, TNOs u. a.) – zusätzlich von der Phase und vom Abstand zum zentralen Stern. So erscheint der Mond aufgrund seiner Nähe wesentlich heller als weit entfernte Sterne, obwohl diese milliardenfach stärker leuchten.
+Eine von der Entfernung unabhängige Größe ist die absolute Helligkeit.
+Ursprünglich wurde unter scheinbarer Helligkeit jene verstanden, wie sie dem Auge erscheint. Sie wird heute visuelle Helligkeit genannt – im Gegensatz zur fotografischen Magnitude, die einer etwas anderen spektralen Empfindlichkeit entspricht.
+
+
+== Siehe auch ==
+Absolute Helligkeit, bolometrische Helligkeit, Leuchtkraft
+Astrophysik, Fotometrie, Farbindex, Polsequenz
+Liste der hellsten Sterne
+Scheinbarer Ort
+
+
+== Anmerkungen ==
+↑ Grundsätzlich kann jede Logarithmusfunktion (zu einer beliebigen Basis) benutzt werden; hier verwenden wir die beiden häufigsten Varianten (dekadischer bzw. natürlicher Logarithmus).
+↑ Da die -Funktion an der Stelle  die Steigung 1 und den Funktionswert 0 hat, kann man die Funktion für  durch eine Gerade approximieren, und es gilt dann . Daher gilt für  die Näherung .
+
+
+== Einzelnachweise ==
+↑ Definiert als 0 in traditionellen photometrischen Systemen; wegen Kalibrationsschwierigkeiten weichen diese Systeme ein bisschen ab.
+↑ vgl. z. B. Hans-Ulrich Keller, Kosmos Himmelsjahr 2013, ISBN 978-3-440-13097-1
+↑ Seite der IAU (letzter Abschnitt, „5.17 Magnitude“)
+↑  H. L. Johnson, W. W. Morgan: Fundamental stellar photometry for standards of spectral type on the revised system of the Yerkes spectra atlas. In: The Astrophysical Journal. 117, 1953, S. 313–352.
+↑ a b Definition der visuellen Helligkeit
+↑ Luigi Foschini: On the airbursts of large meteoroids in the Earth's atmosphere. The Lugo bolide: reanalysis of a case study. In: Astronomy and Astrophysics. 337, (1998), L5–L8; astro-ph/9805124
+↑ Supernova 1006

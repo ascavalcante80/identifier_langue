@@ -1,0 +1,71 @@
+Web-stranica je web dokument pogodan za World Wide Web i internetski preglednik. Internetski preglednik prikazuje web-stranicu na monitoru ili mobitelima. Web-stranica je ono što se prikazuje, ali termin označava i datoteku, često napisanu HTML kodom ili sličnim markup jezikom, čija je glavna funkcija obezbijediti hypertext koji će navigirati prema ostalim web stranicama preko linkova. Web preglednici upravljaju web resursima centriranim oko zapisane web-stranice, poput style sheet-ova, skripti i slika, da bi prikazali web stranicu.
+Na mreži, web preglednik može "hvatati" web-stranicu sa udaljenog web servera. Na višem nivou, web server može ograničiti pristup na samo privatne mreže poput zajedničkih intranet mreža ili može pustiti pristup prema World Wide Webu. Na nižem nivou, web preglednik koristi Hypertext Transfer Protocol (HTTP) na napravi takve zahtjeve.
+Statična web-stranica je dobavljena upravo onakva kakva je pohranjena, kakav je i web sadržaj na web serverovom sistemu datoteka , dok je dinamična web stranica generirana web aplikacijom koja je upravljana softverom sa strane servera ili sa strane klijenta. Dinamične web stranice pomažu pregledniku (klijentu) unaprijediti web stranicu preko korisničkog inputa ka serveru.
+
+
+== Boja, tipografija, ilustracija i interakcija ==
+Web-stranice često sadrže informacije u obojenom tekstu i pozadinama i veoma često također sadrže linkove prema slikama i ponekad drugim tipovima medijskih datoteka prilikom prikazivanja završnog prikaza. Izgled, tipografska i shematska u boji informacija je omogućena preko Cascading Style Sheeta (CSS) instrukcija, koje mogu biti ugrađene u HTML ili predate preko zasebne datoteke, koja je izdvojena iz HTML-a. U drugom slučaju je posebno relevantno u kojoj je jedan dugi stylesheet relevantan za čitavu web-stranicu: zbog načina HTTP rada, pretraživač će ga samo jednom preuzeti sa web servera i koristiti keširanu kopiju za cijeli sajt.
+Slike su pohranjene na web serveru kao zasebne datoteke, ali opet HTTP dopušta fakt da jednom kada se web-stranica skine na preglednik, veoma je tačno da će se sve povezane datoteke poput slika i tabela biti zatražene i procesuirane. HTTP 1.1 web-server će održati konekciju sa preglednikom sve dok se svi povezani resursi koji se traže ne omoguće. Web preglednici obično renderiraju slike zajedno sa tekstom i drugim materijalima prikazanim na web-stranici.
+
+
+=== Dinamično ponašanje ===
+
+Kompjuterski kod sa strane klijenta poput JavaScript-a ili kodnog implementiranja Ajax tehnika može biti obezbijeđen bilo ugrađen u HTML u web-stranici ili, kao CSS stylesheets, kao zasebna, povezana preuzimanja opisana u HTML. Ove skripte mogu se pokretati na klijentskom računaru, ako korisnik dozvoljava.
+
+
+== Preglednici ==
+
+Internetski preglednici mogu imati grafički korisnički interfejs, kao što su Internet Explorer, Mozilla Firefox, Chrome i Opera, a može biti i tekstualno baziran, poput Lynxa.
+Korisnici sa nesposobnostima često koriste pomoćne tehnologije i adaptivne strategije prilikom pristupa web-stranicama. Korisnici mogu biti daltoniste, ne mogu ili ne žele koristiti miš možda zbog ponovljene ozljede ili problema motornih neurona, mogu biti gluhii i zahtjevati zvuk da bude natpisan, mogu biti slijepi i koristiti zaslonski čitač ili brajlov prikazivač, možda trebaju približavanje slike, itd.
+Sa invaliditetom i nesposobni korisnici mogu onemogućiti preuzimanje i gledanje slika i drugih medija, uštede vremena, propusnost mreže ili samo da pojednostave svoje iskustvo pregledanja. Korisnici mobilnih uređaja često imaju ograničen prikaz i bandwidth. Svako može ne preferirati koristiti fontove, veličinu fonta, stilove i sheme boja po izboru dizajnera web-stranice i mogu primijeniti ​​vlastite CSS stilove na stranicu. U World Wide Web Consortium (W3C) i Web Accessibility Initiative (WAI) preporučuju da bi sve web-stranice trebale biti dizajnirane sa svim ovim opcijama.
+
+
+== Elementi ==
+Web-stranica, kao set informacija, može sadržavati brojne tipove informacija, koje je moguće vidjeti, čuti ili uzajamno djelovati od strane korisnika:
+Uočene (renderirane) informacije:
+Tekstualne informacije: sa raznim varijantama renderiranja.
+Ne-tekstualne informacije:
+Statične slike mogu biti rasterska grafika, tipično GIF, JPEG ili PNG; ili vektorski formati kao SVG ili Flash.
+Animacione slike tipično animirani GIF i SVG, ali i Flash, Shockwave, ili Java applet.
+Zvučne, tipično MP3, ogg ili razni odgovarajući formati.
+Video, WMV (Windows), RM (RealMedia), FLV (Flash Video), MPG, MOV (QuickTime)
+
+Interaktivna informacija.
+Za "na stranici" interakciju:
+Interaktivni tekst: pogledati DHTML.
+Interaktivne ilustracije: raniranje od "klikni da igraš" slike za igrice, tipično koristeći skripte orkestracije, Flash, Java applets, SVG, ili Shockwave.
+Tipke: formiraju pružanje alternativnog interfejsa, tipično za korištenje sa skriptama orkestracije i DHTML.
+
+Za "između stranica" interakciju:
+Hiperlinkovi: standardna "promijeni stranicu" reaktivnost.
+Forme: obezbjeđuju više interakcije sa serverom i serverskim bazama podataka.
+
+Unutrašnja (skrivena) informacija:
+Komentari
+Povezane datoteke preko hiperlinkova (kao: DOC, XLS, PDF, itd.)
+Metapodaci sa semantčkom meta-informacijom, setovi simbola, Document Type Definition (DTD), itd.
+Dijagrami i informacije o stilu: informacija o renderiranim pojedinostima (poput veličine slike i atributima) i vizuelne specifikacije, kao Cascading Style Sheets (CSS).
+Skripte, obično JavaScript, nadopunjuju interaktivnost i funkcionalnost.
+
+Napomena: na serverskoj strani, web-stranica može također imati tzv. "Processing Instruction Information Items".
+Web-stranica može također sadržavati dinamično adaptirane informacione elemente, zavisne od renderiranja preglednika na lokaciji krajnjeg korisnika (preko korištenja IP adresnog praćenja ili "cookie" informacija). Sa malo više generalnog/šireg pogleda, neki informacijski (grupisani) elementi, kao što je navigacijska traka, su uniformni za sve web-stranice, kao standard. Ova vrsta "websajtove standardne informacije" snabdjevene tehnologijama kao što su web šablonski sistemi.
+
+
+== Renderiranje ==
+Web-stranice često zahtijevaju više prostora na ekranu nego što je na raspolaganju za određenu rezoluciju ekrana. Većina modernih preglednika ima klizač (klizni alat na strani ekrana koji omogućuje korisniku pomjeranje stranice gore ili dolje, ili sa strane u stranu) u prozoru kako bi se omogućilo korisniku da vidi čitav sadržaj. Pomicanje horizontalno je manje zastupljeno nego okomito pomicanje, ne samo zbog toga što se takve stranice često ne ispisuju ispravno, nego zbog neprijatnosti korisnika korištenja istog u odnosu na okomito pomicanje (miš ima samo vertikalni klizač). Kada se web-stranice čuvaju u zajedničkom direktoriju na web serveru, oni postaju web-sajt.
+Web-sajt obično sadrži grupu web-stranica koje su međusobno povezane ili imaju neku drugu koherentnu metodu navigacije. Najvažnija stranica na web-sajtu je index stranica. Zavisno od konfiguracije web servera, ove index stranice mogu imati više različitih imena, ali je najčešće ime: index.html. Kada preglednik posjeti homepage na web-sajtu, ili bilo koji URL ciljajući na direktorij umjesto na specifičnu datoteku, web server će servirati index stranicu prema zahtjevajućem pregledniku. Ako nema indexne stranice definisane u konfiguraciji, ili ne postoji takva datoteka na serveru, ili će se prikazati greška ili će se prikazati lista datoteka koje su na serveru. Web-stranica može biti jedna HTML datoteka, ili može biti više HTML datoteka koristeći okvire ili SSI-ove.
+Okvirovi su poznati po uzrokovanju problema sa web pristupnosti, autorskom pravu, navigaciji, printanju i rangiranju pretraživačkih mašina i danas su manje korištene nego u 1990-tim. Okviri i SSI-ovi dopuštaju određeni sadržaj koji se pojavljuje na dosta stranica, kao što je stranična navigacija ili zaglavlja stranica, da budu ponovljeni bez ponavljanja HTML koda u više datoteka. Okvirovi i W3C preporučuju alternativu od 2000, <object> oznaku, koja također dopušta nekom sadržaju da ostane na jednom mjestu dok ostali sadržaj može biti skliznut koristeći konvencionalne trake klizača (scrollbar). Moderni CSS i JavaScript klijentske tehnike također mogu postići sve ove golove i još više.
+Kada se kreira web-stranica, važno je osigurati kompatibilnost sa World Wide Web Consortium (W3C) standardima za HTML, CSS, XML i druge standarde. W3C standardi osiguravaju svim preglednicima koji se pridržavaju njihovih standarda prikazivanje identičnog sadržaja bez specijalnih dodataka i tehnika. Ispravno kodirana web-stranica je dostupna većini preglednika, starijim i novijim, rezolucijama ekrana, ako i korisnicima sa audio i vizuelnim nedostacima/poteškoć ama.
+
+
+== URL ==
+
+Obično, web-stranice danas postaju više dinamične. Dinamična web-stranica je ona koja je kreirana od strane servera u trenutku zahtjeva, koju šalje server prema krajnjem korisniku. Ovi tipovi web-stranica obično nemaju direktni link ili statični URL koji je sa njima asociran. Danas, ovo može biti viđeno kod većine popularnih foruma, online shoppinga, čak i na Wikipediji. Ova praksa teži da smanji količinu statičnih stranica u cilju spremanja relevantne web staničnne informacije u bazi podataka. Neke pretraživačke mašine imaju težak posao prilikom indeksiranja web stranice koja je dinamična, tako da statična web-stranica može biti omogućena za ove svrhe.
+
+
+== Prikazivanje ==
+U cilju grafičkog prikaza web-stranice, potreban je internetski preglednik. Ovo je tip softvera koji može "dobaviti" web-stranice sa Interneta. Većina danjašnjih internetskih preglednika sadržava mogućnosti prikazivanja izvornog koda. Prikaz stranice u tekstualnom pregledniku će također prikazati izvorni kod.
+
+
+== Kreiranje ==
+Za kreiranje web-starnice, potreban je tekstualni uređivač ili specijalni HTML uređivač (poput Adobe Dreamweaver). U cilju uploada kreiranje web-stranice na web server, obično je potreban FTP client progra

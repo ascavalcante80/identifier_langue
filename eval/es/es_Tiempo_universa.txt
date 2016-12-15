@@ -1,0 +1,20 @@
+o de transformación.
+Cada huso horario tiene una letra correlativa como identificación, comenzando por Greenwich. Cuando una hora se expresa en CUT, en UTC o en Zulu, es en realidad la hora en la longitud 0° que atraviesa Greenwich, Inglaterra. Todos los husos horarios del planeta están establecidos en referencia a la longitud 0° conocida también como el meridiano de Greenwich.
+Como ejemplo, si estamos en Perú y la hora aeronáutica es 22:30Z, entonces la hora local será 17:30R (R de ROMEO en el alfabeto fonético aeronáutico y diferencia de -05:00 horas).
+
+
+== Véase también ==
+Tiempo medio de Greenwich
+Horario universal
+Huso horario
+Huso horario militar
+Tiempo sidéreo
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Vea la fecha y la hora UTC en el reloj UTC de la Oficina Internacional de Pesas y Medidas.
+United States Naval Observatory - ¿Qué es el tiempo universal?
+W3C: Especificación sobre la fecha y la hora UTC

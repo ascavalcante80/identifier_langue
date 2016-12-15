@@ -1,0 +1,294 @@
+Acciaio è il nome dato a una lega composta principalmente da ferro e carbonio, quest'ultimo in percentuale non superiore al 2,06%: oltre tale limite, le proprietà del materiale cambiano e la lega assume la denominazione di ghisa.
+
+
+== Classificazione in base al tenore di carbonioModifica ==
+Il carbonio si presenta esclusivamente sotto forma di cementite o carburo di ferro. Le particelle di cementite presenti nella microstruttura dell'acciaio, in determinate condizioni, bloccano gli scorrimenti delle dislocazioni, conferendo all'acciaio caratteristiche meccaniche migliori di quelle del ferro puro.
+Gli acciai sono leghe sempre plastiche a caldo, cioè fucinabili, a differenza delle ghise. In base al tasso di carbonio gli acciai si dividono in:
+extra dolci: carbonio compreso tra lo 0,05% e lo 0,15%;
+dolci: carbonio compreso tra lo 0,15% e lo 0,25%
+semidolci: carbonio compreso tra lo 0,25% e lo 0,40%;
+semiduri: carbonio tra lo 0,40% e lo 0,60%;
+duri: carbonio tra lo 0,60% e lo 0,70%;
+durissimi: carbonio tra lo 0,70% e lo 0,80%;
+extraduri: carbonio tra lo 0,80% e lo 0,85%.
+Gli acciai dolci sono i più comuni e meno pregiati.
+
+
+== Classificazione in base ai tenori di altri legantiModifica ==
+Oltre al carbonio possono essere presenti degli ulteriori elementi alliganti aggiunti per lo più sotto forma di ferroleghe. In base alla composizione chimica gli acciai si possono distinguere in quattro gruppi:
+acciai non legati sono acciai nel quale i tenori degli elementi di lega rientrano nei limiti indicati dal prospetto I della UNI EN 10020;
+acciai legati sono acciai per i quali almeno un limite indicato del suddetto prospetto I viene superato.
+Per convenzione gli acciai legati si suddividono in:
+bassolegati: nessun elemento al di sopra del 5%,
+altolegati: almeno un elemento di lega al di sopra del 5%.
+
+
+=== Elementi di lega e proprietà dell'acciaioModifica ===
+Gli elementi di lega, naturalmente presenti nell'acciaio o aggiunti per conferire caratteristiche specifiche, determinano alcune modifiche delle proprietà chimico/fisiche del materiale, quali ad esempio:
+fosforo (massima percentuale tollerata 0,05%) e zolfo (massima percentuale tollerata 0,05%):
+riducono la tenacità dell'acciaio;
+idrogeno:
+favorisce la fragilità, nocivo in tenori superiori a 2 ppm;
+induce la formazione di fiocchi;
+ossigeno:
+riduce la lavorabilità a caldo;
+abbassa le caratteristiche meccaniche;
+azoto:
+promuove l'invecchiamento dell'acciaio al carbonio;
+aumenta la resistenza al pitting negli acciai inossidabili (coefficiente 16 nella formula di calcolo del PREN);
+aumenta la resistenza meccanica degli acciai inossidabili;
+stabilizza l'austenite negli acciai inossidabili;
+manganese (massima percentuale tollerata 0,8%):
+agisce come desolforante e disossidante;
+in alte percentuali aumenta il tasso di incrudimento;
+alluminio:
+disossidante;
+affinante del grano;
+silicio (massima percentuale tollerata 0,4%):
+disossidante;
+titanio e niobio:
+disossidante;
+il Titanio denitrurante;il Niobio nitrurante durante la conversione in A.O.D.
+affinante del grano;
+previene la corrosione intergranulare negli acciai inox;
+niobio e tantalio:
+essenziali negli acciai indurenti per precipitazione
+aumentano la resistenza meccanica;
+aumentano la resistenza a fatica;
+aumentano la resistenza a corrosione;
+aumentano la resistenza all'usura;
+molibdeno:
+aumenta la temprabilità;
+aumenta la resistenza a caldo;
+aumenta la durezza a caldo e la resistenza all'usura;
+aumenta la resistenza alla corrosione degli acciai inox, in particolare la resistenza al pitting (coefficiente 3,3 nella formula di calcolo del PREN);
+aumenta la resistenza meccanica ad alta temperatura;
+viene utilizzato con concentrazioni notevoli (9% circa) per produrre acciai per utensili;
+cromo:
+aumenta la temprabilità;
+aumenta la resistenza all'usura;
+aumenta la stabilità al rinvenimento;
+con concentrazioni superiori al 12% è utilizzato negli acciai inossidabili ferritici e martensitici;
+aumenta la resistenza al "pitting" (Coefficiente 1 nella formula di calcolo del PREN);
+nichel:
+aumenta la resistenza e la durezza dopo la bonifica;
+aumenta di poco la temprabilità;
+partecipa alla resistenza alla corrosione dell'acciaio inox, dove raggiunge percentuali molto elevate (25% circa);
+vanadio:
+aumenta la resistenza meccanica e la resistenza all'usura;
+tungsteno:
+aumenta la resistenza all'usura e la durezza;
+è impiegato con tenori che vanno dal 13 al 25% negli acciai rapidi per utensili;
+rame:
+può provocare cricche a seguito di lavorazioni a caldo;
+migliora la resistenza alla corrosione (acciaio Corten);
+stagno:
+favorisce la fragilità.
+
+
+== Cenni storiciModifica ==
+L'importanza dell'acciaio è enorme, i suoi usi sono innumerevoli, come anche le varietà in cui esso viene prodotto: senza la disponibilità di acciaio in quantità e a basso costo, la rivoluzione industriale non sarebbe stata possibile. Col passare del tempo le tecniche di produzione dell'acciaio si sono andate perfezionando e diversificando, per cui ai nostri giorni esistono molteplici tipologie di acciai, ciascuna relativa a diverse esigenze progettuali e di mercato.
+
+
+== Produzione dell'acciaioModifica ==
+
+Nel mondo si producono ogni anno oltre 1 miliardo di tonnellate di acciaio, ottenute sia dal ciclo integrale con l'affinazione della ghisa dell'altoforno sia con la fusione dei rottami ferrosi, e successivamente lavorate tramite diversi processi di produzione industriale, quali ad esempio la laminazione, la forgiatura, il trattamento termico e lo stampaggio.
+
+
+=== Estrazione e preparazione dei minerali di ferroModifica ===
+
+Il processo industriale siderurgico comincia con l'estrazione dei minerali metalliferi contenenti il ferro (che non si trova allo stato puro in natura) dalle cave o dalle miniere. Come per molti metalli, si effettua la frantumazione dei minerali estratti e una successiva macinazione. Questi vengono lavati da polveri e impurità e categorizzati a seconda della concentrazione dei metalli contenuti mediante separazione magnetica o gravitazionale. Seguono poi le operazioni di flottazione, vagliatura, calibratura, essiccazione, calcinazione e arrostimento dei minerali. A questo punto i minerali di ferro sono stati ripuliti dalla maggior parte delle impurità e sono pronti per essere fusi negli altiforni.
+
+
+=== Produzione della ghisa grezzaModifica ===
+
+La ghisa è una lega ferro-carbonio a tenore di carbonio relativamente alto (> 2,06% fino al 6%); è il prodotto finito risultante dai processi chimici e termici che avvengono all'interno dell'altoforno. L'altoforno è composto dal crogiolo (parte bassa) e dal tino (parte alta). La lavorazione nell'altoforno inizia con la preparazione della cosiddetta carica, ossia un composto a strati di minerale ferroso, coke e calcare, dopodiché questa è introdotta nella bocca dell'altoforno, sita sulla cima del tino, da montacarichi a piano inclinato. La disposizione della carica è a strati alterni di minerale ferroso, coke e calcare. L'aria calda proviene dal Cowper che è un tipo di scambiatore di calore rigenerativo in cui una corrente (d'aria) viene scaldata dal calore delle pareti divisorie di refrattario che a loro volta sono riscaldate dai gas usciti dalla bocca dell'altoforno. L'aria calda immessa nella parte bassa dell'altoforno reagisce sul coke che diventa subito incandescente grazie all'ossigeno in essa contenuto:
+C + O2 → CO2 (+ 97.000 cal)
+CO2 + C → 2CO
+FeO + CO → Fe + CO2
+ossia viene separato l'ossigeno dal ferro presente nei minerali caricati. Quindi il ferro fuso per via delle alte temperature d'esercizio mescolandosi col carbonio del coke, si raccoglie nel crogiolo. La corrente dei gas caldi che defluisce dalla parte alta del tino (dell'altoforno) preriscalda i materiali appena immessi provocandone anche la disidratazione. L'estrazione della ghisa fusa (spillatura) e delle scorie avviene dal basso con l'altoforno acceso, in funzione. Lo spillaggio avviene solitamente ogni 2-3 ore, ma tra il caricamento e l'estrazione del prodotto finito si calcola che intercorrano 6 ore. Durante la colata della ghisa in siviera o carri siluro, all'esterno, il vento caldo proveniente dal Cowper viene arrestato (il crogiolo rimane caldo per circa un'ora senza aria calda). Il processo di produzione della ghisa è continuo, lo si interrompe solo quando il rivestimento refrattario dell'altoforno, dopo anni d'utilizzo, deve essere rifatto o riparato.
+A partire dagli anni novanta del novecento è disponibile industrialmente il processo Corex che può sostituire l'altoforno introducendo numerosi vantaggi (tra cui l'eliminazione della cokeria). La ghisa liquida così prodotta può essere inviata in acciaieria o essere colata in lingottiere; lasciata raffreddare per essere inviata alla fonderia per ulteriori lavorazioni o essere venduta così com'è.
+
+
+=== Affinazione della ghisa grezza per la produzione degli acciaiModifica ===
+
+All'uscita dall'altoforno la ghisa presenta un tasso di carbonio ancora elevato, superiore normalmente al 4%, quindi, allo stato liquido, viene inviata e trattata in apposite strutture (convertitori), e qui è decarburata; il carbonio si combina con l'ossigeno formando anidride carbonica.
+Durante tutto il processo d'affinazione della ghisa in acciaio, si toccano temperature prossime ai 1750 °C e non è necessario fornire ingenti quantità di calore, in quanto le reazioni di ossidazione di carbonio, manganese, ferro e soprattutto silicio, con formazione dei relativi ossidi, sono esotermiche e consentono al processo di autoalimentarsi. Per la fabbricazione dell'acciaio sono state usate diverse tecniche per l'affinazione della ghisa:
+La tecnica del puddellaggio: era quella adottata prima del 1860, quando si diffuse l'uso del forno Martin-Siemens. La ghisa veniva versata in un crogiolo riscaldato dal carbone posto sotto di esso in una camera di combustione separata. La fiamma e i fumi caldi prima di essere dispersi in atmosfera surriscaldavano la superficie del crogiolo; il bagno metallico che vi è contenuto veniva così riscaldato e si poteva procedere all'affinazione della ghisa. Poiché la temperatura raggiunta non era mai sufficiente a mantenere fluida la massa metallica, gli operai dovevano continuamente rimestare e agitare il bagno affinché non si raffreddasse e non si solidificasse (il nome di questa tecnica deriva dal verbo inglese to puddle, ossia rimestare, mescolare una massa).
+Il processo al forno Martin-Siemens: l'affinazione avviene in due tempi distinti. Il primo consiste nell'ossidazione del bagno di metallo fuso all'interno del forno, il secondo consiste nella desolforazione del bagno e la liberazione degli ossidi di ferro. Quest'ultima operazione avviene all'interno di una siviera dove è colato il metallo fuso. Dopo la colata e la creazione della scoria (scorificazione), il metallo è lasciato riposare in modo che si liberino i rimanenti gas in esso contenuti, dopodiché si procede al colaggio nelle lingottiere.
+I processi al convertitore: contemporaneamente al processo al forno Martin-Siemens venne sviluppato quello al convertitore. Esso nacque nel 1856 dall'idea di Henry Bessemer di far attraversare la ghisa liquida da un getto d'aria compressa insufflata da fori posti sul fondo del crogiolo. L'inventore inglese notò l'estrema facilità con cui il carbonio, il silicio e il manganese si combinavano con l'ossigeno. Dato che queste sostanze erano presenti nella ghisa fusa, volle applicare la sua intuizione alla siderurgia per affinare la ghisa dalle sostanze dannose per la lega metallica risultante. Inoltre, l'ingegnere inglese volle trovare il modo di produrre molto calore così che la temperatura del bagno si mantenesse costante. Il convertitore da lui inventato fu fornito di un rivestimento refrattario acido, per questo il processo era acido e poteva convertire solo ghisa ad alto tenore di silicio, quindi inadatto alle ghise ad alto tenore di fosforo. Dato questo limite strutturale nel 1879 fu ideato da Thomas e Gilcrist un convertitore con rivestimento basico.
+Più recentemente si è diffuso l'uso di un convertitore dove viene soffiato solo ossigeno, tramite una lancia raffreddata ad acqua, al disopra del bagno: il cosiddetto convertitore a ossigeno.
+
+Il più diffuso è il convertitore LD. I vantaggi economici e la buona qualità dell'acciaio prodotto con il convertitore LD hanno, in pochi anni, reso obsoleto il processo Bessemer, e in parte, anche i processi Thomas e Martin-Siemens. Il convertitore è un grosso recipiente a forna di doppio tronco di cono, simile ai convertitori Bessemer e Thomas, ma con il fondo chiuso. La carica metallica, che è costituita in gran parte da ghisa madre, fino al 90%, il resto è costituito da rottame, calce, fluorina e minerale di ferro, viene affinata con un getto d'ossigeno puro al 99,5 %; più recenti modifiche sono state apportate introducendo anche l'insufflaggio di argon, gas quasi inerte, dal fondo per omogeneizzare il bagno e velocizzare la decarburazione. L'ossigeno viene immesso in quantità fino a 1500 Nmc/min e in pressione di circa 10/15 bar, il che dà luogo a un'affinazione molto rapida. Il forte e rapido aumento della temperatura della carica metallica, rende necessaria l'aggiunta di minerale di ferro o rottami d'acciaio, sino a una percentuale del 30%, affinché la temperatura stessa non raggiunga valori eccessivamente elevati e, pertanto, pericolosi. Il rivestimento interno è costituito da uno strato di mattoni di dolomite cotta impastata con il 6% di catrame sopra uno strato di magnesite. Le lance dei primi convertitori avevano un unico ugello centrale, ma successivamente si sono adottate lance a fori multipli. L'acciaio che viene prodotto è molto buono, perché è privo del dannoso azoto che provoca fragilità, la percentuale di fosforo è molto bassa e anche quella dell'ossigeno è nettamente inferiore quella degli acciai ottenuti secondo altri processi. Per questo motivo il processo si è andato rapidamente diffondendo in tutto il mondo. Negli anni novanta più dell'80 % della produzione mondiale di acciaio è avvenuta con il processo LD.
+
+Il processo O.B.M. è un metodo di produzione dell'acciaio che, partendo dalla ghisa madre, accomuna i processi Thomas e LD. Questo processo utilizza un convertitore nel quale dal fondo, attraverso un certo numero di ugelli, da 10 a 18, viene soffiato ossigeno e un gas combustibile tipo metano oppure propano. Più precisamente, nella parte centrale di ogni tubo fuoriesce ossigeno puro e nell'anello periferico, che costituisce una specie di guaina del getto centrale, fluisce il gas combustibile. L'immissione di ossigeno ha naturalmente lo stesso scopo nel convertitore LD; mentre l'aggiunta di gas combustibile è effettuate perché questo gas piroscindendosi, raffredda la zona di contatto ossigeno-ghisa evitando la rapida corrosione del fondo del convertitore, che in tal modo può effettuare 350/400 colate.
+
+Produzione di acciaio al forno elettrico (Processo EAF) per fusione di rottami ferrosi La nascita dei primi forni elettrici risale all'inizio del Novecento. Il sistema è costituito da una trasformatore, dal forno, dalle ceste di carico del rottame e dall'impianto di aspirazione fumi. Il processo consiste nella fusione dei rottami ferrosi preparati in apposita pezzatura, grazie al calore sprigionato da un arco voltaico generato fra tre elettrodi di grafite e il rottame sottostante. Il rottame può essere preriscaldato dai fumi caldi emessi dal forno, e per agevolarne la fusione si possono utilizzare bruciatori a gas metano e lance a ossigeno. Il forno in funzione della sua capacità avrà un diametro di 4-8 metri, il suo fondo è ricoperto di refrattari. Le pareti del tino e la volta sono costituiti da pannelli di rame raffreddati esternamente da acqua. La volta è rotante per permettere la carica del rottame contenuto in ceste. Contemporaneamente al bagno di metallo durante la fusione si deve formare la scoria costituita da calcare in quantità tale da combinare gli ossidi di ferro, silicio e manganese e altri minori. L'iniezione nella scoria, che è più leggera del metallo quindi galleggia, di carbone in polvere con una lancia, provoca la riduzione dell'ossido di ferro e la formazione di gas anidride carbonica che contribuisce alla creazione di una scoria voluminosa, schiumosa, che avvolge l'arco voltaico, tra la punta degli elettrodi e il bagno, proteggendo le pareti del forno dalla sicura erosione. Lo spillaggio del metallo avviene dal becco o foro di spillaggio che può essere a sifone o a cassetto, per trattenere la scoria in forno e poter iniziare in siviera il processo di affinazione.
+Processi di affinazione: elaborazione fuori forno LF (solo per acciai speciali) L'acciaio, sia di provenienza convertitore L.D. sia forno elettrico, spillato in siviera, con un minimo quantitativo di scoria proveniente dal forno, viene elaborato con aggiunta di ferro leghe. Il sistema è definito LF (Ladle Furnace) dove l'omogeneità del bagno è garantita da un flusso di gas inerte Argon, dal fondo; la temperatura da un sistema ad arco voltaico simile a quello del forno elettrico. Una volta centrata l'analisi chimica desiderata e la temperatura, la siviera viene destinata a uno dei processi di colaggio descritti dopo.
+Elaborazione sotto vuoto RH (solo per acciai speciali) L'acciaio proveniente dall'LF o raramente direttamente dal forno elettrico viene ricircolato sotto vuoto in un impianto per la rimozione dell'idrogeno. A volte il processo di deidrogenazione si effettua contemporaneamente al processo LF insilando la siviera in una camera stagna e generando poi il vuoto. In quest'ultimo caso il processo non sarà più RH.
+Produzione di acciai inossidabili AOD La base si ottiene fondendo rottami e ferroleghe in forno elettrico. L'acciaio semilavorato viene spillato in siviera e trasferito nel convertitore AOD, del tutto simile al convertitore LD con l'unica varianza che l'elemento ossidante viene insufflato dal fondo attraverso ugelli detti tubiere. La miscela è costituita da Ossigeno e Argon in rapporti variabili e tali da garantire sempre la limitata ossidazione del Cromo a discapito di quella del Carbonio e il controllo della temperatura che avviene anche attraverso immissioni di rottami e/o ferroleghe. Una volta centrata l'analisi chimica desiderata e la temperatura l'acciaio inossidabile è spillato in siviera e inviato a uno dei processi di colaggio descritti dopo.
+
+
+=== Colata dell'acciaioModifica ===
+
+
+==== Colata in lingottiModifica ====
+La siviera dove è stato colato l'acciaio presenta un foro sul fondo aperto da un dispositivo a spina; sulla parete del contenitore sono posti due perni per il suo sollevamento e un maniglione per il suo rovesciamento. Una volta sollevata, la siviera è posta sopra a delle lingottiere in ghisa e si procede al colaggio del metallo. Esistono tre sistemi per versare l'acciaio nelle lingottiere:
+colaggio diretto: consiste nel portare la siviera sopra la lingottiera e colare in essa il metallo.
+colaggio in sorgente: l'acciaio è scaricato in una colonna, essa è collegata a canali sotterranei che portano il metallo a sorgere nella lingottiera dal fondo.
+colaggio sotto vuoto: è impiegato solamente per la produzione di grossi lingotti ed evita che si formino occlusioni gassose.
+Dopo il colaggio le lingottiere vengono portate nel reparto per lo strippaggio, ossia si estraggono i lingotti appena solidificati dalle lingottiere. Queste sono capovolte e, tramite due becchi posti ai lati, con due speciali tenaglie si provvede a sfilare il lingotto dal contenitore.
+
+
+==== Colata continuaModifica ====
+
+La colata continua è un procedimento più recente della colata in lingotti, che abbina il processo di solidificazione alla laminazione primaria.
+L'acciaio liquido elaborato coi metodi elencati in precedenza, viene portato con recipienti detti siviere alla macchina di colaggio; le siviere a sezione tronco conica con conicità rivolta al basso, sono contenitori in acciaio rivestiti di adeguato materiale refrattario essenzialmente dolomitico. A seconda della capacità del forno, le siviere hanno una portata di 60÷350 t e vengono posizionate stabilmente sopra la macchina di colata continua.
+L'acciaio liquido dalla siviera, esce dal basso attraverso un foro calibrato, cade, protetta da un tubo refrattario, in un recipiente detto paniera, e da questo, tramite un tubo, detto tuffante (o scaricatore), o a getto libero, in una lingottiera di rame raffreddata da acqua demineralizzata che scorre in una intercapedine avvolgendo e raffrescando tutte le pareti a contatto con l'acciaio liquido. La lingottiera di rame può avere varie forme; parallelepipedo con base rettangolare, quadrata o cilindro. La superficie dell'acciaio liquido sia in paniera sia in lingottiera a possibile contatto con l'atmosfera viene ricoperta di polveri isolanti per impedirne l'ossidazione e anche in paniera conservare la temperatura. L'acciaio liquido in paniera ha una temperatura di 25 - 35 gradi superiore alla temperatura di solidificazione. A volte si inseriscono esternamente all'intercapedine di raffreddamento delle bobine per creare un campo magnetico che influisce sulla velocità di solidificazione e sulla qualità interna dell'acciaio grezzo. A seconda della forma del prodotto finale, grezzo, colato il processo si differenzia per prodotti piani o lunghi o "tondi". I prodotti "piani" hanno solitamente in sezione lato stretto di 150÷250 mm e lato largo almeno 4 volte il lato stretto. I prodotti lunghi possono essere a sezione quadra, rettangolare o tonda dove il rapporto lato stretto lato largo è inferiore a 4.
+Nella lingottiera l'acciaio inizia la solidificazione (raffreddamento primario) formando un guscio solido. La solidificazione si completa anche internamente nella fase immediatamente successiva, attraverso il raffreddamento secondario. L'acciaio nella forma voluta viene trascinato verso il basso scorrendo in apposite guide, descrivendo un arco a raggio calcolato per consentirne la solidificazione completa che avviene tramite acqua industriale spruzzata da una serie di ugelli direttamente sulla superficie. A solidificazione ultimata, il prodotto grezzo viene sezionato nella macchina di taglio in parti di lunghezza definita ed è quindi pronto per la fase successiva di laminazione, eventualmente preceduta da trattamenti termici.
+
+
+== Designazione alfanumerica degli acciaiModifica ==
+Esistono moltissimi tipi di acciaio, le cui composizioni e denominazioni sono stabilite da apposite norme tecniche: in Europa le euronorme (EN) emesse dal Comitato Europeo di Normazione (CEN) e nel continente americano l'ASTM (American Society Testing Materials), in collaborazione con l'AISI (American Iron and Steel Institute) e internazionalmente le ISO (International Standard Institute).
+Gli acciai possono essere classificati in:
+gruppo I (UNI EN 10027-2): acciai di base e di qualità.
+gruppo II: acciai speciali (differiscono dagli altri acciai per la loro composizione chimica).
+
+
+=== Gruppo I (UNI EN 10027-2)Modifica ===
+Costituiscono il tipo più comune e meno costoso. Comprendono gli acciai di base e di qualità, anche detti acciai da costruzione di uso generale.
+Hanno caratteristiche meccaniche inferiori rispetto agli acciai speciali. In particolare, sono adatti a resistere a sollecitazioni soprattutto statiche (come nel caso delle costruzioni civili).
+Attualmente, sono di solito posti in opera mediante saldatura, da cui la necessità di un'adeguata saldabilità. Sono generalmente impiegati allo stato grezzo di laminazione (non hanno quindi bisogno di essere sottoposti a trattamento termico), anche se in qualche caso sono sottoposti a normalizzazione.
+A temperature molto basse possono perdere resilienza, diventando fragili (fenomeno della transizione duttile fragile).
+La designazione deve comprendere i seguenti simboli:
+TA ricottura di distensione
+TB ricottura di coalescenza
+TC ricottura completa
+TD normalizzazione
+TE normalizzazione e rinvenimento di distensione
+TF bonifica
+TG austenizzazione.
+Requisiti particolari:
+KD acciaio adatto alla deformazione plastica a freddo
+KQ acciaio adatto alla bordatura
+KR acciaio adatto alla produzione di tubi saldati
+KU acciaio adatto alla costruzione di utensili
+KW acciaio adatto all'impiego ad alte temperature.
+
+
+=== Gruppo IIModifica ===
+Corrisponde agli acciai speciali, che sono acciai con caratteristiche particolari. Talvolta hanno caratteristiche meccaniche superiori, che si ottengono a seguito di un appropriato trattamento termico. Si posso dividere in 4 sottogruppi:
+2.1 acciai non legati (con l'eccezione degli acciai per lavorazioni meccaniche ad alta velocità), con tenore medio di manganese inferiore all'1%;
+La designazione deve comprendere i seguenti simboli: La lettera C, un numero corrispondente alla percentuale media di carbonio moltiplicata per 100 (ad esempio C50).
+2.2 acciai non legati con tenore medio di manganese maggiore all'1%; acciai non legati per lavorazioni meccaniche ad alta velocità, debolmente legati con massa ponderale di ciascun elemento inferiore al 5%;
+La designazione deve comprendere i seguenti simboli: Un numero corrispondente alla percentuale media di carbonio moltiplicata per 100, i simboli degli elementi di lega se superano un limite loro caratteristico (es. Mn 0,8-1%, Si 1%), il tenore percentuale in massa del primo elemento moltiplicato per: 4 per Ni e Cr 10 per Mo 1000 per B e arrotondato all'intero più vicino (ad esempio 36 CrNiMo7).
+2.3 acciai fortemente legati (se hanno almeno un elemento di lega superiore al 5%);
+La designazione deve comprendere i seguenti simboli: La lettera X, un numero corrispondente alla percentuale media di carbonio moltiplicata per 100, i simboli degli elementi di lega se superano il limite loro caratteristico, le percentuali in massa degli elementi citati solo se superano il 5%, scritti in 2 numeri e separati da trattino (ad esempio X 10CrNi 18-08).
+2.4 acciai rapidi.
+La designazione deve comprendere i seguenti simboli: Lettere HS, i numeri corrispondenti agli elementi in lega separati da trattini. I numeri corrispondono ai seguenti elementi in questo ordine: W, Mo, V, Co (Es. Hs 2-9-1-8).
+
+
+== Classificazione in base alla destinazione d'usoModifica ==
+
+
+=== Acciaio da bonificaModifica ===
+È adatto a sopportare carichi elevati, urti e soprattutto a resistere a fatica. Possiede il miglior compromesso fra resistenza meccanica e tenacità. Ha una concentrazione di carbonio compreso fra lo 0,21% e lo 0,60%.
+Gli elementi leganti, oltre a permettere di diminuire la concentrazione di carbonio alla quale si ha la massima tenacità, hanno le seguenti funzioni:
+nichel: favorisce tenacità e temprabilità;
+cromo: favorisce la temprabilità;
+molibdeno: opera contro lo svilupparsi della malattia di Krupp (fragilità al rinvenimento);
+manganese: migliora la temprabilità;
+vanadio: affina la grana cristallina.
+È di solito trattato con la tempra, in acqua o in olio, e con il rinvenimento a circa 620 °C.
+Esempi di acciai da bonifica: C40, 39NiCrMo3, 34NiCrMo16, 42CrMo4, 36CrMn5.
+
+
+=== Acciaio da nitrurazioneModifica ===
+Sono di solito acciai dolci o da bonifica con la presenza di alluminio o altri elementi leganti (nichel, cromo, molibdeno), che possano formare nitruri a azoturi (composti superficiali molto duri).
+Poiché contengono un basso tenore di carbonio ( circa lo 0,4% in peso di carbonio) riescono ad accogliere, nella loro superficie, azoto per una profondità fino a 0,5 mm.
+Lo strato nitrurato è ottenuto con un processo di precipitazione dell'azoto.
+Si ottiene mediante un trattamento termochimico in vasche a una temperatura che varia tra i 500 e i 520 °C in presenza di ammoniaca, per una durata di circa 50 ore.
+Dopo aver subito il suddetto trattamento tali acciai presentano una superficie indurita mentre nel cuore mantengono ancora caratteristiche di tenacità.
+Questi acciai sono impiegati per costruire ruote dentate, alberi di distribuzione, perni, rulli, boccole, spinotti, alberi a camme etc
+
+
+=== Acciaio autotempranteModifica ===
+Questi acciai hanno una velocità di raffreddamento talmente bassa che assumono una struttura di tempra (martensitica) per semplice raffreddamento all'aria. Ulteriore caratteristica è la temperatura del rinvenimento, generalmente intorno ai 200 °C. Queste caratteristiche sono dovute al notevole tenore di elementi pregiati in lega, quali il nichel, il cromo, il molibdeno e il tungsteno, che spostano nettamente verso destra le curve anisoterme. Anche le caratteristiche meccaniche sono eccezionali, con resistenze a trazione elevatissime (dell'ordine di 2000 MPa) e una tenacità soddisfacente anche in virtù del raffreddamento meno drastico in aria. Sono autotempranti anche gli acciai al manganese e al nichel corrispondenti a punti della zona a struttura perlitica dei rispettivi diagrammi di Guillet, vicini alla zona di transizione con quelli a struttura martensitica, ma queste leghe non hanno applicazioni pratiche perché troppo fragili.
+Interessanti applicazioni hanno invece gli acciai al cromo-nichel con C = 0,3% - 0,5%; Ni = 3% - 6%; Cr = l% - 2%, e somma dei tre elementi almeno uguale a 5%. Tali materiali dopo ricottura presentano struttura perlitica, assumono facilmente struttura martensitica con semplice raffreddamento all'aria e hanno sia elevata durezza sia duttilità e tenacità soddisfacenti: possono rappresentare una valida alternativa ad acciai cementati o nitrurati. Caratteristiche di questi acciai sono:
+indeformabilità alla tempra, permettendo al pezzo di essere temprato successivamente alla lavorazione senza comprometterne la forma;
+semplificazione dei cicli di lavorazione con la soppressione di qualsiasi operazione di indurimento superficiale;
+assenza dello strato superficiale fragile la cui presenza, con la nitrurazione, impedisce di elevare la pressione unitaria, per pericolo di sfondamento dello strato stesso;
+resistenza elevata del pezzo, molto superiore a quelle ottenibili nel nucleo sia con gli acciai da cementazione sia con quelli da nitrurazione.
+la tempra non richiede vasche di raffreddamento e in presenza di aria calma risulta sufficientemente omogenea, dunque ideale per componenti di grosse dimensioni..
+
+
+=== Acciaio da cementazioneModifica ===
+ll termine cementazione non è molto corretto anche se ormai universalmente accettato; per essere precisi si dovrebbe usare il termine "carbocementazione" o "cementazione carburante".
+Dato che contengono meno dello 0,2% in peso di carbonio essi possono accogliere altro carbonio nella loro superficie per una profondità fino a 2 mm.
+Dopo aver subito un particolare trattamento termico essi presentano una superficie indurita mentre il cuore dell'acciaio mantiene ancora caratteristiche di tenacità.
+La superficie indurita resiste bene all'usura e all'azione di forze concentrate.
+Essendo la cementazione costosa, non conviene risparmiare sulla tempra, che invece è indispensabile per massimizzare la durezza ottenibile. Il rinvenimento si ferma sempre al primo stadio.
+Possono essere acciai non legati (C10, C16) oppure debolmente legati.
+Si utilizzano i leganti tipici dell'acciaio da bonifica:
+nichel, per la tenacità e la temprabilità;
+cromo e molibdeno, per la temprabilità e la stabilizzazione dei carburi.
+Esempi: C10 (è il più debole), C16, Acciaio 16NiCrMo12 (è il più forte), Acciaio 20NiCrMo2, Acciaio 18NiCrMo5.
+Questi acciai servono a costruire ruote dentate, alberi di distribuzione, perni, rulli, boccole, spinotti etc.
+
+
+=== Acciaio per molleModifica ===
+Proprietà richieste sono:
+tensione di snervamento vicina alla tensione di rottura;
+resistenza alla fatica, ottenuta con struttura omogenea di almeno 80% di martensite al cuore (quindi l'acciaio è molto temprabile).
+Con le leghe al solo carbonio, in concentrazione superiore allo 0,40%, si hanno gli acciai armonici, per cemento armato precompresso, funi (in questo caso vengono patentati), strumenti musicali.
+Per usi più impegnativi si aggiunge soprattutto il silicio fino al 2%, che rafforza ma infragilisce; il cromo aumenta la temprabilità, il nichel aumenta la tenacità. Alcuni esempi: 55Si7 per sospensioni e balestre dei treni; 52SiCrNi5 per molle di pregio; 50CrV4 (KVRG).
+Si esegue sempre il rinvenimento a 450 °C così che i carburi precipitino ma non inizino a coalescere.
+
+
+=== Acciaio per cuscinetti a rotolamentoModifica ===
+Sono acciai di altissima qualità, sono esenti da materiali intermetallici. Hanno un alto tenore di carbonio e si ottengono da una tempra seguita da rinvenimento a circa 150 °C.
+Proprietà
+elevata durezza
+resistenza a usura
+elevata resistenza a fatica.
+Il più utilizzato è l'acciaio 100Cr6.
+
+
+=== Acciaio inossidabileModifica ===
+
+Acciaio inox o acciaio inossidabile è il nome dato correntemente agli acciai con un tenore di cromo indicativamente superiore al 13%, per la loro proprietà di non arrugginire se esposti all'aria e all'acqua: il cromo, ossidandosi a contatto con l'ossigeno, si trasforma in ossido di cromo (CrO2) che crea uno strato aderente e molto resistente, impedendo un'ulteriore ossidazione (tale fenomeno è noto come passivazione).
+Sono una classe estremamente importante di acciai, usata per gli scopi più disparati: a partire dalla loro scoperta nel 1913, e grazie soprattutto ai successivi progressi della metallurgia fra gli anni quaranta e sessanta, hanno ampliato il loro sviluppo e le loro applicazioni; tuttora vengono perfezionati e adattati alle richieste dei vari settori industriali, come il petrolifero/petrolchimico, minerario, energetico, nucleare e alimentare (molto noto in quest'ultimo settore l'acciaio inox 18/10, contenente il 18% di Cromo e il 10% di Nichel).
+
+
+=== Acciaio per utensiliModifica ===
+Per le applicazioni meno severe si possono usare acciai al solo carbonio, altrimenti è necessario aggiungere elementi leganti per aumentare la durezza.
+Carbonio: una concentrazione dello 0,6% potrebbe già offrire la massima durezza, tuttavia parte del C si combina con altri elementi presenti e quindi può essere necessario aumentarne il contenuto.
+Manganese: ha azione disossidante, migliora la temprabilità e facilita la formazione di carburi.
+Silicio: ha azione disossidante, aumenta la resistenza all'ossidazione.
+Cromo: aumenta la temprabilità, stabilizza i carburi.
+Vanadio: previene l'ingrossamento del grano, utile per avere durezza ad alta temperatura.
+Tungsteno e molibdeno: utili per la resistenza all'usura alle alte temperature.
+Cobalto: presente negli acciai super-rapidi.
+Data la presenza di carburi di difficile soluzione, la tempra è eseguita ad alta temperatura; si deve comunque valutare bene quest'ultima in quanto, se troppo bassa, il carbonio non si scioglie e si forma martensite povera; se troppo alta, un'eccessiva quantità di carbonio entra nell'austenite stabilizzandola fino a bassa temperatura.
+Nel caso di acciai per lavorazioni a caldo e rapidi, si ha un indurimento secondario aumentando la temperatura di rinvenimento oltre i 400 °C.
+
+
+==== Acciaio rapidoModifica ====
+È la più importante tipologia di acciaio utilizzato nella costruzione di utensili per la lavorazione veloce del metallo. Se ne può fare la seguente schematizzazione:
+super rapido (ad esempio X78WCo1805 KU), riconoscibile dalla presenza del cobalto e adatto ad alte velocità di taglio (vt = 40 m/min su materiale con Rm = 500 MPa) ma non a utensili sottoposti a urti (ad esempio: barrette, placchette, frese...);
+rapido (ad esempio X85WMo0605 e X85WMoCoV6.5.4.2 KU), che si distingue dal precedente soprattutto per l'assenza del cobalto, acquistando così maggiore tenacità (punte elicoidali, maschi, creatori, coltelli...);
+semi rapido per medie e basse velocità di taglio (vt = 15 m/min su materiale con Rm = 500 MPa).
+Normalmente l'acciaio rapido è ricotto a 800-900 °C, temprato a 1180-1300 °C e rinvenuto a 550 °C anche più volte (a causa dell'enorme quantità di austenite residua).
+
+
+==== Acciaio per lavorazioni a caldoModifica ====
+È una tipologia di acciaio utilizzato nelle lavorazioni con temperatura maggiore di 300 °C e le sue caratteristiche principali sono:
+resistenza all'ossidazione
+resistenza meccanica a caldo
+resistenza allo shock termico
+resistenza alla fatica termica
+Le ultime due caratteristiche derivano dall'elevata tenacità del materiale dovuta alla bassa concentrazione di carbonio (0,3% - 0.4% C) e alla presenza del Vanadio che serve per mantenere ridotte le dimensioni del grano ad alte temperature.
+
+
+==== Acciaio per lavorazioni a freddoModifica ====
+L'elevata durezza è solitamente dovuta all'alto tenore di carbonio; altre proprietà, quali tenacità, resistenza all'usura, indeformabilità al trattamento termico, penetrazione di tempra, capacità di taglio..., sono raggiunte con ulteriori elementi in soluzione. Non ci si deve s

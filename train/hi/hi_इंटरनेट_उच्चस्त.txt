@@ -1,0 +1,9 @@
+The following is a list of currently existing Internet Top-level domains (TLDs). See top-level domain for information on the concept.
+While the following list should be correct, there is a more definitive list on the IANA website. (The IANA list does not include .root, which exists only via a second-level domain.)
+↑ The IDNA TLDs have been added for the purpose of testing the use of IDNA at the top level, and are likely to be temporary. Each of the eleven TLDs encodes a word meaning "test" in some language. See the ICANN announcement of 15 अक्टूबर 2007 and the IDN TLD evaluation gateway.
+
+
+== See also ==
+Generic top-level domain
+Country code top-level domain
+ISO 3166-1 alpha-2, the s

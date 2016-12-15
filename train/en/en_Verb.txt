@@ -1,0 +1,74 @@
+A verb, from the Latin verbum meaning word, is a word (part of speech) that in syntax conveys an action (bring, read, walk, run, learn), an occurrence (happen, become), or a state of being (be, exist, stand). In the usual description of English, the basic form, with or without the particle to, is the infinitive. In many languages, verbs are inflected (modified in form) to encode tense, aspect, mood, and voice. A verb may also agree with the person, gender, and/or number of some of its arguments, such as its subject, or object. Verbs have tenses: present, to indicate that an action is being carried out; past, to indicate that an action has been done; future, to indicate that an action will be done.
+
+
+== AgreementEdit ==
+
+In languages where the verb is inflected, it often agrees with its primary argument (the subject) in person, number, and/or gender. With the exception of the verb to be, English shows distinctive agreements only in the third person singular, present tense form of verbs, which are marked by adding "-s" ( walks) or "-es" (fishes). The rest of the persons are not distinguished in the verb (I walk, you walk, they walk, etc.).
+Latin and the Romance languages inflect verbs for tense–aspect–mood (abbreviated 'TAM'), and they agree in person and number (but not in gender, as for example in Polish) with the subject. Japanese, like many languages with SOV word order, inflects verbs for tense-aspect-mood, as well as other categories such as negation, but shows absolutely no agreement with the subject - it is a strictly dependent-marking language. On the other hand, Basque, Georgian, and some other languages, have polypersonal agreement: the verb agrees with the subject, the direct object, and even the secondary object if present, a greater degree of head-marking than is found in most European languages.
+
+
+== Verb typesEdit ==
+Verbs vary by type, and each type is determined by the kinds of words that accompany it and the relationship those words have with the verb itself. Classified by the number of their valency arguments, usually three basic types are distinguished: intransitives, transitives, ditransitives and double transitive verbs. Some verbs have special grammatical uses and hence complements, such as copular verbs (i.e., be); the verb "do" used for do-support in questioning and negation, and tense or aspect auxiliaries, e.g., "be", "have" or "can". In addition, verbs can be nonfinite, namely, not inflected for tense, and have various special forms such as infinitives, participles or gerunds.
+
+
+=== Intransitive verbsEdit ===
+An intransitive verb is one that does not have a direct object. Intransitive verbs may be followed by an adverb (a word that addresses how, where, when, and how often) or end a sentence. For example: "The woman spoke softly." "The athlete ran faster than the official." "The boy wept."
+
+
+=== Transitive verbsEdit ===
+A transitive verb is followed by a noun or noun phrase. These noun phrases are not called predicate nouns, but are instead called direct objects because they refer to the object that is being acted upon. For example: "My friend read the newspaper." "The teenager earned a speeding ticket."
+A way to identify a transitive verb is to invert the sentence, making it passive. For example: "The newspaper was read by my friend." "A speeding ticket was earned by the teenager."
+
+
+=== Ditransitive verbsEdit ===
+Ditransitive verbs (sometimes called Vg verbs after the verb give) precede either two noun phrases or a noun phrase and then a prepositional phrase often led by to or for. For example: "The players gave their teammates high fives." "The players gave high fives to their teammates."
+When two noun phrases follow a transitive verb, the first is an indirect object, that which is receiving something, and the second is a direct object, that being acted upon. Indirect objects can be noun phrases or prepositional phrases.
+
+
+=== Double transitive verbsEdit ===
+Double transitive verbs (sometimes called Vc verbs after the verb consider) are followed by a noun phrase that serves as a direct object and then a second noun phrase, adjective, or infinitive phrase. The second element (noun phrase, adjective, or infinitive) is called a complement, which completes a clause that would not otherwise have the same meaning. For example: "The young couple considers the neighbors wealthy people." "Some students perceive adults quite inaccurately." "Sarah deemed her project to be the hardest she has ever completed."
+
+
+=== Copular verbsEdit ===
+Copular verbs (aka linking verbs) can't be followed by an adverb or end a sentence, but instead must be followed by a noun or adjective, whether in a single word or phrase. Common copulae include be, seem, become, appear, look, and remain. For example: "His mother looked worried." "Josh remained a reliable friend." Copulae are thought to 'link' the adjective or noun to the subject.
+The verb be is manifested in eight forms: be, is, am, are, was, were, been, and being. These verbs precede nouns or adjectives in a sentence, which become predicate nouns and predicate adjectives similar to those that function with a linking verb. They can also be followed by an adverb of place, which is sometimes referred to as a predicate adverb. For example: "Her daughter was a writing tutor." "The singers were very nervous." "My house is down the street."
+Adjectives that come after copular verbs are predicate adjectives, and nouns that come after linking verbs are predicate nouns.
+
+
+== ValencyEdit ==
+
+The number of arguments that a verb takes is called its valency or valence. Verbs can be classified according to their valency:
+Avalent (valency = 0): the verb has neither a subject nor an object. Zero valency does not occur in English; in some languages such as Mandarin Chinese, weather verbs like snow(s) take no subject or object.
+Intransitive (valency = 1, monovalent): the verb only has a subject. For example: "he runs", "it falls".
+Transitive (valency = 2, divalent): the verb has a subject and a direct object. For example: "she eats fish", "we hunt nothing".
+Ditransitive (valency = 3, trivalent): the verb has a subject, a direct object, and an indirect object. For example: "He gives her a flower" or "She gave the watch to John".
+A few English verbs, particularly those concerned with financial transactions, take four arguments, as in "Pat1 sold Chris2 a lawnmower3 for $204" or "Chris1 paid Pat2 $203 for a lawnmower4".
+Weather verbs often appear to be impersonal (subjectless, or avalent) in null-subject languages like Spanish, where the verb llueve means "It rains". In English, French and German, they require a dummy pronoun, and therefore formally have a valency of 1. However, as verbs in Spanish incorporate the subject as a TAM suffix, Spanish is not actually a null-subject language, unlike Mandarin (see above). Such verbs in Spanish also have a valency of 1.
+Intransitive and transitive verbs are the most common, but the impersonal and objective verbs are somewhat different from the norm. In the objective the verb takes an object but no subject; the nonreferent subject in some uses may be marked in the verb by an incorporated dummy pronoun similar to that used with the English weather verbs. Impersonal verbs in null subject languages take neither subject nor object, as is true of other verbs, but again the verb may show incorporated dummy pronouns despite the lack of subject and object phrases.
+Verbs are often flexible with regard to valency. In non-valency marking languages such as English, a transitive verb can often drop its object and become intransitive; or an intransitive verb can take an object and become transitive. For example, in English the verb move has no grammatical object in he moves (though in this case, the subject itself may be an implied object, also expressible explicitly as in he moves himself); but in he moves the car, the subject and object are distinct and the verb has a different valency. Some verbs in English, however, have historically derived forms that show change of valency in some causative verbs, such as fall-fell-fallen:fell-felled-felled; rise-rose-risen:raise-raised-raised; cost-cost-cost:cost-costed-costed.
+In valency marking languages, valency change is shown by inflecting the verb in order to change the valency. In Kalaw Lagaw Ya of Australia, for example, verbs distinguish valency by argument agreement suffixes and TAM endings:
+Nui mangema "He arrived earlier today" (mangema today past singular subject active intransitive perfective)
+Palai mangemanu "They [dual] arrived earlier today"
+Thana mangemainu "They [plural] arrived earlier today"
+verb structure : manga-i-[number]-TAM "arrive+active+singular/dual/plural+TAM"
+Nuidh wapi manganu "He took the fish [to that place] earlier today" (manganu today past singular object attainative transitive perfective)
+Nuidh wapi mangamanu "He took the two fish [to that place] earlier today"
+Nuidh wapil mangamainu "He took the [three or more] fish [to that place] earlier today"
+verb structure : manga-Ø-[number]-TAM "arrive+attainative+singular/dual/plural+TAM"
+The verb stem manga- take/come/arrive at the destination takes the active suffix -i (> mangai-) in the intransitive form, and as a transitive verb the stem is not suffixed. The TAM ending -nu is the general today past attainative perfective, found with all numbers in the perfective except the singular active, where -ma is found.
+
+
+== Tense, aspect, and modalityEdit ==
+
+Depending on the language, verbs may express grammatical tense, aspect, or modality. Grammatical tense is the use of auxiliary verbs or inflections to convey whether the action or state is before, simultaneous with, or after some reference point. The reference point could be the time of utterance, in which case the verb expresses absolute tense, or it could be a past, present, or future time of reference previously established in the sentence, in which case the verb expresses relative tense.
+Aspect expresses how the action or state occurs through time. Important examples include:
+
+perfective aspect, in which the action is viewed in its entirety through completion (as in "I saw the car")
+imperfective aspect, in which the action is viewed as ongoing; in some languages a verb could express imperfective aspect more narrowly as:
+habitual aspect, in which the action occurs repeatedly (as in "I used to go there every day"), or
+continuous aspect, in which the action occurs without pause; continuous aspect can be further subdivided into
+stative aspect, in which the situation is a fixed, unevolving state (as in "I know French"), and
+progressive aspect, in which the situation continuously evolves (as in "I am running")
+
+perfect, which combines elements of both aspect and tense and in which both a prior event and the state resulting from it are expressed (as in "he has gone there", i.e. "he went there and he is still there")
+discontinuous past, which combines elements of a past event and the implication that the state resulting from it was later rever

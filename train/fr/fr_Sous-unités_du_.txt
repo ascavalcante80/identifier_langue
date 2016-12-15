@@ -1,0 +1,46 @@
+Le degré, unité de mesure d’angle, représente π/180 radians, soit le trois-cent-soixantième d’un tour complet.
+Pour mesurer des angles plus précis, des sous-unités du degré sont utilisées. Le degré ayant été inventé par les Babyloniens, il y a cohabitation entre le système sexagésimal (base 60) et le système décimal (base 10) pour la construction des sous-unités.
+Notation : si dans un nombre le dernier chiffre est souligné, ceci signifie que ce chiffre se répète à l'infini : 1/3 est ainsi 0,3, usuellement écrit 0,333….
+
+
+== Sous-unités sexagésimales courantesModifier ==
+Un degré est subdivisé en 60 minutes d’arc (de symbole ′, prime), elles-mêmes divisées en 60 secondes d’arc (de symbole ″, double prime).
+1′ (minute d'arc) = 1°/60 = 0,016 6°
+1″ (seconde d'arc) = 1°/3600 = 0,000 277°
+C’est toujours en secondes d’arc par siècle qu’on exprime l’anomalie orbitale de Mercure finalement expliquée par Einstein (43 secondes d’arc par siècle).
+Ils se nomment également minute et seconde angulaire, arcminute et arcseconde (calque des termes anglais).
+Le rapport entre minutes et secondes est identique dans le domaine temporel et dans le domaine angulaire. Par pure commodité, les minutes et secondes peuvent être définies « comme si » les degrés étaient des heures (il convient d’employer cette analogie avec précaution, puisqu’il existe d’autres unités d’angles utilisant le mot « heure »).
+Toutes ces unités reposant sur le système sexagésimal, on peut expliquer que le tour complet ait été divisé en 360 et non en 60 car il existe également une autre sous-division du cercle entier en quatre parties égales de 90°, le quadrant, remarquable par sa forme et utilisé dans toutes les cultures et qui contient une fois et demie la base 60. Sans doute y a-t-il un rapport également et pour les mêmes raisons avec le fait que le calendrier babylonien comptait 360 jours.
+Sauf mention contraire, les mots « minute » et « seconde » dans le domaine des angles font bien référence aux minutes et secondes d’arc. Il existe des unités homonymes, mais elles ne sont utilisées que dans des contextes particuliers (mesure de l’ascension droite).
+
+
+== Système décimalModifier ==
+Aujourd’hui, ce système cohabite avec un système en partie décimal : on note par exemple « 1,1° » pour « 1° 6′ ».
+Les coordonnées (latitude / longitude) d'un lieu sur Terre peuvent être exprimées soit sous la forme degrés, minutes, secondes (et si les coordonnées sont vraiment précises, les secondes peuvent être exprimées avec des chiffres après la virgule), soit sous forme de degrés avec plusieurs chiffres après la virgule.
+
+
+== Unités pour les mesures très précisesModifier ==
+
+
+=== Système sexagésimalModifier ===
+Les Babyloniens étaient allés encore plus loin dans les mesures : la seconde d’arc est subdivisée en 60 tierces d’arc (symbole ‴ triple prime). La tierce d’arc est subdivisée en 60 quartes (symbole ⁗ quadruple prime), et ainsi de suite par conformité avec le système sexagésimal. Le symbole des subdivisions du degré est en réalité un chiffre romain en exposant : une valeur de 12 quartes sera notée 12⁗ ou 12IV, une valeur de 25 quintes sera notée 25V et ainsi de suite. Ces unités se trouvent dans certains calculs astronomiques anciens menés avec une grande précision.
+
+
+=== Unités contemporainesModifier ===
+De nos jours, pour les mesures les plus précises, les astronomes actuels utilisent les préfixes des unités SI devant la seconde d’arc (ils sont au contraire interdits devant le degré ou la minute). Ainsi les mouvements très faibles par rapport à la seconde d’arc ne sont pas mesurés en quartes mais en millisecondes d’arc (ou milliarcseconde), voire micro-, nano- ou picoseconde d'arc (symbole as, mas, µas, nas et pas respectivement) dans le cas de certains instruments .
+
+
+== Unités de distance dérivéesModifier ==
+
+
+=== ParsecModifier ===
+
+Le parsec, unité de longueur employée en astronomie, est défini en fonction de la seconde d’arc.
+Il est défini comme étant la distance à laquelle une unité astronomique (au) sous-tend un angle d’une seconde d'arc. Si la parallaxe d’une étoile est mesurée en secondes d’arc, alors la distance entre cette étoile et le Soleil, exprimée en parsecs, est égale à l’inverse de cette valeur.
+
+
+=== Mille marinModifier ===
+
+Le mille marin représente quant à lui la distance parcourue à la surface de la Terre quand on décrit un angle de 1 minute d’arc sur un grand cercle ; la valeur d’un mille marin international a été fixée à 1 852 m par convention, valeur représentant une moyenne en raison de la rotondité imparfaite de la Terre et d’une valeur retenue d’un tour de terre de près de 40 000 km. En réalité, le kilomètre a été défini plus tard à la révolution, au début de façon à ce qu'un quart de méridien fasse exactement 10 000 km avec le système de mesure décimal, en divisant le quart de méridien deux fois successivement en 100 parties et en abandonnant le système de mesure sexagésimal de l'ancien régime, et de là est né la première définition du mètre ; le mille marin à l’origine était défini pour que le méridien terrestre fasse exactement une longueur de 21 600 milles. Les mesures actuelles du méridien terrestre ne correspondent plus à cette égalité simple, d’une part à cause du changement de définition du mille en référence au mètre, et d’autre part à cause de la définition plus précise aujourd'hui du mètre, de sorte que ni le mille ni le mètre ne sont aujourd’hui liés à la longueur moyenne du méridien terrestre ni à un angle précis.
+La fixation actuelle du mille marin international à 1 852 m par convention a pour conséquence qu'un méridien terrestre moyen mesure en fait environ 40 008 km, ce qui aujourd’hui l’éloigne légèrement de l’arc sous-tendu d’une minute d’arc de grand cercle.
+De même, une second

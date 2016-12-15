@@ -1,0 +1,3 @@
+Kidekone on yksinkertainen radiovastaanotin, joka ei tarvitse ulkopuolista virtalähdettä, vaan se saa käyttövoimansa suoraan vastaanottamistaan radioaalloista. Kidekoneet olivat suosittuja erityisesti radion alkuaikoina.
+Kidekone vastaanottaa AM-lähetyksiä ja siinä oleva diodi tasasuuntaa kantoaallon jättäen jäljelle vain signaalin verhokäyrän, joka sisältää radion välittämän ohjelmasignaalin. Yleisradionkin aiemmin lähettämät keskipitkä- ja pitkäaaltoalueiden lähetykset olivat siten vastaanotettavissa kidekoneella.
+Voimakkaan radioaseman läheisyydessä ei tarvita edes virityspiiriä. Mutta jos vastaanotettav

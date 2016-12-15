@@ -1,0 +1,24 @@
+ot support shear stress, meaning that the shear modulus is always zero. This also implies that Young's modulus is always zero.
+In some English texts the here described quantity is called elastic constant, while the inverse quantity is referred to as elastic modulus.
+
+
+== See alsoEdit ==
+Bending stiffness
+Dynamic modulus
+Elastic limit
+Elastic wave
+Flexural modulus
+Hooke's Law
+Impulse excitation technique
+Proportional limit
+Stiffness
+Tensile strength
+Transverse isotropy
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Hartsuijker, C.; Welleman, J. W. (2001). Engineering Mechanics. Volume 2. Springer. ISBN 978-1-4020-4123-5. 
+De Jong, Maarten; Chen, Wei (2015). "Charting the complete elastic properties of inorganic crystalline compounds". Scientific Data 2. doi:10.1038/sdata.2015.9.

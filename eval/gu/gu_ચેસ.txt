@@ -1,0 +1,83 @@
+nizations may also award titles, usually to the advanced players still under the level needed for international titles; an example is the Chess expert title used in the United States.
+In order to rank players, FIDE, ICCF and national chess organizations use the Elo rating system developed by Arpad Elo. Elo is a statistical system based on assumption that the chess performance of each player in their games is a random variable. Arpad Elo thought of a player's true skill as the average of that player's performance random variable, and showed how to estimate the average from results of player's games. The US Chess Federation implemented Elo's suggestions in 1960, and the system quickly gained recognition as being both fairer and more accurate than older systems; it was adopted by FIDE in 1970.
+The highest ever FIDE rating was 2851, which Garry Kasparov had on the July 1999 and January 2000 lists. In the most recent list (January 2009), the highest rated player is the former world champion Veselin Topalov of Bulgaria with a rating of 2796.
+
+
+== Mathematics and computers ==
+
+The game structure and nature of chess is related to several branches of mathematics. Many combinatorical and topological problems connected to chess were known of for hundreds of years. In 1913, Ernst Zermelo used it as a basis for his theory of game strategies, which is considered as one of the predecessors of game theory.
+The number of legal positions in chess is estimated to be between 1043 and 1050, with a game-tree complexity of approximately 10123. The game-tree complexity of chess was first calculated by Claude Shannon as 10120, a number known as the Shannon number. Typically an average position has thirty to forty possible moves, but there may be as few as zero (in the case of checkmate or stalemate) or as many as 218.
+The most important mathematical challenge of chess is the development of algorithms which can play chess. The idea of creating a chess playing machine dates to the 18th century; around 1769, the chess playing automaton called The Turk became famous before being exposed as a hoax. Serious trials based on automatons, such as El Ajedrecista, were too complex and limited to be useful.
+Since the advent of the digital computer in the 1950s, chess enthusiasts and computer engineers have built, with increasing degrees of seriousness and success, chess-playing machines and computer programs. The groundbreaking paper on computer chess, "Programming a Computer for Playing Chess", was published in 1950 by Shannon. He wrote:
+
+The chess machine is an ideal one to start with, since: (1) the problem is sharply defined both in allowed operations (the moves) and in the ultimate goal (checkmate); (2) it is neither so simple as to be trivial nor too difficult for satisfactory solution; (3) chess is generally considered to require "thinking" for skillful play; a solution of this problem will force us either to admit the possibility of a mechanized thinking or to further restrict our concept of "thinking"; (4) the discrete structure of chess fits well into the digital nature of modern computers.
+
+The Association for Computing Machinery (ACM) held the first major chess tournament for computers, the North American Computer Chess Championship, in September 1970. CHESS 3.0, a chess program from Northwestern University, won the championship. Nowadays chess programs compete in the World Computer Chess Championship, held annually since 1974. At first considered only a curiosity, the best chess playing programs, for example Rybka or Hydra, have become extremely strong. In 1997 a computer won a match against a reigning World Champion for the first time: IBM's Deep Blue beat Garry Kasparov 3½–2½ (it scored two wins, one loss and three draws). Nevertheless, from the point of view of artificial intelligence, chess-playing programs are relatively simple: they essentially explore huge numbers of potential future moves by both players and apply an evaluation function to the resulting positions, an approach described as "brute force" because it relies on the sheer speed of the computer.
+With huge databases of past games and high analytical ability, computers also help players to learn chess and prepare for matches. Additionally, Internet Chess Servers allow people to find and play opponents all over the world. The presence of computers and modern communication tools have also raised concerns regarding cheating during games, most notably the "bathroom controversy" during the 2006 World Championship.
+
+
+== Psychology ==
+There is an extensive scientific literature on chess psychology. Alfred Binet and others showed that knowledge and verbal, rather than visuospatial, ability lies at the core of expertise. Adriaan de Groot, in his doctoral thesis, showed that chess masters can rapidly perceive the key features of a position. According to de Groot, this perception, made possible by years of practice and study, is more important than the sheer ability to anticipate moves. De Groot also showed that chess masters can memorize positions shown for a few seconds almost perfectly. The ability to memorize does not, alone, account for this skill, since masters and novices, when faced with random arrangements of chess pieces, had equivalent recall (about half a dozen positions in each case). Rather, it is the ability to recognize patterns, which are then memorized, which distinguished the skilled players from the novices. When the positions of the pieces were taken from an actual game, the masters had almost total positional recall.
+More recent research has focused on chess as mental training; the respective roles of knowledge and look-ahead search; brain imaging studies of chess masters and novices; blindfold chess; the role of personality and intelligence in chess skill, gender differences, and computational models of chess expertise. In addition, the role of practice and talent in the development of chess and other domains of expertise has led to a lot of research recently. Ericsson and colleagues have argued that deliberate practice is sufficient for reaching high levels of expertise, like master in chess. However, more recent research indicates that factors other than practice are important. For example, Gobet and colleagues have shown that stronger players start playing chess earlier, that they are more likely to be left-handed, and that they are more likely to be born in late winter and early spring.
+
+
+== Variants ==
+
+Chess variants are forms of chess where the game is played with a different board, special fairy pieces or different rules. There are more than two thousand published chess variants, the most popular being xiangqi in China and shogi in Japan.
+Chess variants can be divided into:
+Direct predecessors of chess, chaturanga and shatranj.
+Traditional national or regional chess variants like xiangqi, shogi, janggi and makruk, which share common predecessors with Western chess.
+Modern variants of chess, such as Chess960, where the initial position is selected randomly before each game. This random positioning makes it more difficult to prepare the opening play in advance.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Bird, Henry Edward (1893). Chess History and Reminiscences. Forgotten Books. ISBN 1606208977. 
+Davidson, Henry A. (1949). A Short History of Chess. McKay. ISBN 0-679-14550-8. OCLC 17340178. 
+Estes, Rebecca; Robinson, Dindy (1996). World Cultures Through Art Activities. Libraries Unlimited. ISBN 1563082713.  
+Forbes, Duncan (1860). The History of Chess: From the Time of the Early Invention of the Game in India Till the Period of Its Establishment in Western and Central Europe. W. H. Allen & co. 
+Harding, Tim (2003). Better Chess for Average Players. Courier Dover Publications. ISBN 0-486-29029-8. OCLC 33166445. 
+Hooper, David; Whyld, Kenneth (1992). The Oxford Companion to Chess, Second edition. Oxford University Press. ISBN 0-19-866164-9. OCLC 25508610.  
+Kasparov, Garry (2003a). My Great Predecessors, part I. Everyman Chess. ISBN 1-85744-330-6. OCLC 223602528. 
+Kasparov, Garry (2003b). My Great Predecessors, part II. Everyman Chess. ISBN 1-85744-342-X. OCLC 223906486. 
+Kasparov, Garry (2004a). My Great Predecessors, part III. Everyman Chess. ISBN 1-85744-371-3. OCLC 52949851. 
+Kasparov, Garry (2004b). My Great Predecessors, part IV. Everyman Chess. ISBN 1-85744-395-0. OCLC 52949851. 
+Kasparov, Garry (2006). My Great Predecessors, part V. Everyman Chess. ISBN 1-85744-404-3. OCLC 52949851. 
+Leibs, Andrew (2004). Sports and Games of the Renaissance. Greenwood Publishing Group. ISBN 0313327726. 
+Wilkinson, Charles K. (May 1943). "Chessmen and Chess". The Metropolitan Museum of Art Bulletin New Series, Vol. 1, No. 9: 271–279. 
+
+     .
+
+
+== Further reading ==
+Fine, Reuben (1983). The World's Great Chess Games. Courier Dover Publications. ISBN 0-486-24512-8. OCLC 9394460. 
+Gobet, Fernand; de Voogt, Alex; Retschitzki, Jean (2004). Moves in mind: The psychology of board games. Psychology Press. ISBN 1-84169-336-7. OCLC 53962630.  
+Mason, James (1947). The Art of Chess. Dover Publications. ISBN 0-486-20463-4. OCLC 45271009.  (see the included supplement, "How Do You Play Chess")
+Rizzitano, James (2004). Understanding Your Chess. Gambit Publications. ISBN 1-904600-07-7. OCLC 55205602. 
+Tarrasch, Siegbert (1994). The Game of Chess. Algebraic Edition. Hays Publishing. ISBN 1-880673-94-0. OCLC 31152893. 
+
+
+== External links ==
+ઢાંચો:Spoken Wikipedia
+International organizations
+FIDE - World Chess Federation
+
+Official rules - FIDE Laws of Chess
+FIDE list of top rated players
+
+ICCF - International Correspondence Chess Federation
+ACP - Association of Chess Professionals
+News
+Chessbase news
+The Week in Chess
+Other
+ChessGames.com - online chess database and community
+ChessLive - online database
+Mathworld - chess and mathematics
+Jmrw.com - chess and art
+ઢાંચો:Chess

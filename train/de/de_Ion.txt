@@ -1,0 +1,58 @@
+Ein Ion [i̯oːn] ist ein elektrisch geladenes Atom oder Molekül.
+Atome und Moleküle haben im gewöhnlichen, neutralen Zustand genau so viele Elektronen wie Protonen. Besitzt ein Atom oder Molekül jedoch ein oder mehrere Elektronen weniger oder mehr als im Neutralzustand, hat es dadurch elektrische Ladung und wird als Ion bezeichnet. Ionen mit Elektronenmangel sind positiv, mit Elektronenüberschuss negativ geladen (siehe auch Ladungszahl).
+Schnelle Ionen, die sich in einer Richtung bewegen, werden in der Atomphysik, Kernphysik und Teilchenphysik untersucht oder verwendet, siehe Ionenstrahlung, Ionenquelle oder Teilchenbeschleuniger. Ein Plasma (z. B. im Inneren der Sterne) ist ein ungeordnetes Ensemble aus Ionen (zumeist völlig ionisierte, d. h. elektronenlose Atomkerne) und den abgespaltenen Elektronen, die sich beide wie die Moleküle eines Gases ungeordnet in alle Richtungen bewegen, entsprechend der hohen Temperatur jedoch sehr viel schneller.
+Die folgenden Ausführungen beziehen sich im Wesentlichen auf langsame oder stationäre Ionen.
+Positiv geladene Ionen werden Kationen, negativ geladene Anionen genannt, da sie jeweils in einem elektrischen Feld zur Kathode (Minuspol) bzw. zur Anode (Pluspol) wandern. In einem Lösungsmittel bilden sie eine Solvathülle (vgl. Hydrathülle) aus.
+
+
+== BegriffsgeschichteBearbeiten ==
+Der Begriff Ion ist von altgriechisch ἰόν ión „das Gehende“/„das Wandernde“ (Partizip Präsens Aktiv Neutrum zu ἰέναι iénai „gehen“) abgeleitet.
+Bei seinen Untersuchungen zur Elektrizität war Michael Faraday unzufrieden mit den ihm für die Beschreibung der chemischen Zersetzung unter dem Einfluss eines elektrischen Stromes zur Verfügung stehenden Begriffen und wandte sich daher Anfang 1834 unter anderem an William Whewell. Dieser schlug neben weiteren auch die Begriffe Ion, Kation und Anion vor; seitdem wurden sie von Faraday benutzt. Anschließend verbreiteten sie sich rasch in der wissenschaftlichen Nomenklatur.
+
+
+== Bildung von IonenBearbeiten ==
+
+Ionen bilden sich aus Atomen, wenn diese Elektronen abgeben oder aufnehmen. Obwohl die Trennung von Ladungen einen Energieaufwand verursacht, können die gebildeten Ionen energetisch günstig sein, wenn sie besonders stabile Konfigurationen haben, zum Beispiel die Oktettregel erfüllen.
+
+
+=== KationenBearbeiten ===
+Positiv geladene Ionen, sogenannte Kationen, werden gebildet, wenn Atome Elektronen abgeben. Da der Atomkern nach wie vor eine identische positive Ladung besitzt (im neutralen Atom entspricht die Anzahl der Protonen im Kern exakt der Anzahl der ihn umgebenden Elektronen), erscheint das Ion in seiner Gesamtheit als ein positiv geladenes Teilchen.
+Beispiel: Metall-Ionen sind in der Regel positiv geladen.
+Gleichung für die Natrium-Ionen-Bildung: Na → Na+ + e−
+Gleichung für die Magnesium-Ionen-Bildung: Mg → Mg2+ + 2e−
+Gleichung für die Aluminium-Ionen-Bildung: Al → Al3+ + 3e−
+Gleichung für die Zinn-Ionen-Bildung: Sn → Sn4+ + 4e−
+
+
+=== AnionenBearbeiten ===
+Negativ geladene Ionen (Anionen) werden gebildet, indem Atome Elektronen aufnehmen. Dadurch entsteht ein Überschuss an Elektronen (negative Ladungsträger), der durch die vorhandenen Protonen (positive Ladungsträger) nicht mehr ausgeglichen wird – die negativen Ladungen überwiegen, das Ion ist negativ geladen.
+Beispiel: Nichtmetall-Ionen sind in der Regel negativ geladen.
+Gleichung für die Chlorid-Ionen-Bildung: Cl + e− → Cl−
+Gleichung für die Sulfid-Ionen-Bildung: S + 2e− → S2−
+Bewegliche Ionen bilden sich spontan, wenn Salze in polaren Lösungsmitteln (Wasser) gelöst werden, z. B.
+
+Der Index „aq“ steht für aquatisiert, der Index „s“ steht für solid (engl. für fest).
+Als Beispiel seien die wässrigen Milieus von Zellen und Organismen (Elektrolyt­lösung) genannt. Hier spielen sie eine entscheidende Rolle für die elektrischen Vorgänge an Membranen, insbesondere für die Erregbarkeit (Membranpotential, Aktionspotential).
+
+
+== KennzeichnungBearbeiten ==
+Die Ionenladung gibt an, wie viele positive oder negative elektrische Ladungen ein Ion besitzt. Sie wird durch eine hochgestellte arabische Ziffer mit nachstehendem Plus- oder Minuszeichen angegeben. Die allgemeine Form lautet An− beziehungsweise An+.
+
+Beispiele sind:
+Na+ – Natrium-Ion (n wird hier weggelassen, da n gleich eins ist)
+S2− – Sulfid-Ion
+NH4+ – Ammonium-Ion, ein zusammengesetztes Ion
+Bei komplexen Ionen wird das Molekül in eckige Klammern gesetzt und die Ionenladung hochgestellt hinter der Klammer angegeben.
+In der Spektroskopie werden zur Kennzeichnung von Spektren ionisierter Atome auch römische Zahlen verwendet, wobei Spektrallinien des neutralen Atoms mit I (eins) bezeichnet werden. Zum Beispiel wird 'He I' den Linien des neutralen Heliums zugeordnet und 'C IV' den Linien von dreifach ionisiertem Kohlenstoff.
+
+
+== Eigenschaften der IonenBearbeiten ==
+Der Radius von Ionen unterscheidet sich von dem des entsprechenden Atoms. Der Kationenradius ist kleiner – aufgrund der Nichtbesetzung der äußeren Atomorbitale –, der der Anionen meistens größer, da die äußeren Orbitale mit Elektronen aufgefüllt und/oder weitere Orbitale neu besetzt werden. Abhängig vom Verhältnis von Ladung zu Radius wirken Ionen unterschiedlich polarisierend in chemischen Bindungen.
+Ionen unterschiedlicher Ladung bilden durch die Ionenbindung Salze. Lösungen, die ionische Substanzen enthalten, leiten elektrischen Strom und heißen daher Elektrolyte. Die Ursache für die Leitung des elektrischen Stromes ist die translatorische Beweglichkeit der Ionen innerhalb der Lösung. Informationen über die translatorische Beweglichkeit von Ionen in der Elektrolytlösung, wie deren Diffusionskoeffizient oder deren Beweglichkeit  im elektrischen Feld, kann man über Feldgradienten-NMR-Methoden erhalten. Die Messung von  kann aber auch mit der „klassischen Methode“ der „Bewegten Grenzfläche“ (moving boundary) erfolgen.
+Ein cyclisches Ion ist ein Ion, das in einer Ringstruktur aufgebaut ist (cyclische Verbindungen).
+
+
+== VorkommenBearbeiten ==
+Ionen mit mehr als drei Unter- oder Überschussladungen kommen in der Chemie nur selten vor.
+In der Physik werden Ionen zu bestimmten experimentellen Zwecken zum Beispiel mit Ionenquellen erzeugt, sie kommen aber auch in der Natur vor, wie zum Beispiel im Sonnenwind, beim Rekombinationsleuchten von Meteoren, bei Polarlichtern, bei einem Gewitterblitz oder bei einem Elmsfeuer (vergleiche auch Elektrometeore).
+Gasionen spielen bei den Leitungsvorgängen in Leuchtstofflampen und anderen Gasentladungen (elektrische Funken, Blitze) eine Rolle. Ein (fast) 

@@ -1,0 +1,78 @@
+Skák eða tafl, skáktafl eða manntafl er borðspil, sem tveir leikmenn (skákmenn) spila með 32 taflmönnum á taflborði, sem skipt er í átta reiti að lengd og átta að breidd, eða samtals 64 reitir. Þeir sem tefla kallast skákmenn, en þeir sem ná tilteknum árangri í viðurkenndum skákmótum geta hlotið titlana FIDE-meistari (FM, fide master), alþjóðlegur meistari (IM, international master) og stórmeistari (GM, grand master).
+Skák er ævagamall leikur, listgrein, íþróttagrein, þraut og barátta. Talið er að hún sé upprunalega vestur-indversk.
+Skákgyðjan heitir Caissa. Hún var gerð árið 1763 af Sir William Jones.
+
+
+== Hugtök ==
+Skákborð: Flötur sem skiptur er í 64 reiti. Borðið er köflótt í tveimur litum og eru 32 reitir af hvorum lit. Lóðréttu línurnar eru merktar (frá vinstri til hægri) með bókstöfunum a, b, c, d, e, f, g og h en þær láréttu eru númeraðar (upp eftir borðinu) með tölum frá 1 og upp í 8. Allar merkingar byrja frá neðra horninu til vinstri. Reiturinn lengst til hægri skal vera hvítur (ef spilað er með svart og hvítt) og skulu hvítu mennirnir vera þar.
+Skákmaður: Maður sem teflir skák.
+Taflmaður: Hlutur á skákborði, sem notaður er til þess að tefla.
+Leikur (í skák): 2 aðgerðir framkvæmdar, fyrst af þeim sem er með hvítt, og síðan þeim sem er með svart.
+Drepa (í skák): Taflmaður drepur annan taflmann með því að taka reitinn sem hann var á. Taflmaðurinn sem fyrir var á reitnum er drepinn, tekinn af borðinu og settur til hliðar við skákborðið.
+Kóngsvængur: Sá helmingur af skákborðinu sem er þeim megin sem kóngurinn byrjar. Hann byrjar á e-línu og spannar svæðið til og með h-línu.
+Drottningarvængur: Sá helmingur af skákborðinu sem er þeim megin sem drottningin byrjar. Hann byrjar á a-línu og spannar svæðið til og með d-línu.
+Kóngsstaða: Hugtak sem gjarnan er tengt við aðstöðu kóngsins, þ.e.a.s ef kóngsstaða er slæm er hann á hættusvæði en ef hún er góð er hann öruggur. Það hjálpar oft að hafa menn og peð til varnar kóngsins til að tryggja góða kóngsstöðu.
+Kóngspeð: Peðið sem er á reitnum fyrir framan kónginn. Það er annaðhvort á e2 eða e7.
+Drottningarpeð: Peðið sem er á reitnum fyrir framan drottninguna, annaðhvort á d2 eða d7.
+Önnur peð eru nefnd eftir hinum taflmönnunum sem eru fyrir aftan þau.
+Drottningarbiskup, drottningarriddari eða drottningarhrókur: Biskupinn, riddarinn eða hrókurinn sem byrjar á drottningarvæng.
+Kóngsbiskup, kóngsriddari eða kóngshrókur: Biskupinn, riddarinn eða hrókurinn sem byrjar á kóngsvæng.
+Skákbyrjun: Fyrstu leikirnir sem leiknir eru áður en miðtafl hefst. Dæmi um hefðbundnar byrjanir eru sikileyjarvörn sem hefst(1.e4 c5) og drottningarbragð sem hefst(1.d4 d5 2.c4)
+Miðtafl: Þegar báðir skákmennirnir hafa lokið öllum leikjum, sem teljast til hefðbundinna byrjana og komið er að frekari úrvinnslu stöðunnar og uppskiptum.
+Endatafl: Staða sem komin er úr miðtaflinu, stundum stuttu áður en skákinni lýkur. Oftast eru þá fáir taflmenn eftir.
+Valda: Þegar tveir taflmenn af sama lit standa þannig að annar þeirra getur í næsta leik komist á reitinn sem hinn stendur á. Þá valdar sá fyrrnefndi þann síðarnefnda. Ef taflmennirnir eru af mismunandi lit hótar annar að drepa hinn og kallast það að setja á eða hóta.
+
+
+== Manngangurinn ==
+Ákveðnar reglur eru um mannganginn. Taflmennirnir hafa sína hæfileika varðandi hvert þeir geta farið og hve langt. Helstu reglurnar varðandi manngang eru þó þessar (ekki tæmandi):
+Taflmenn geta ekki farið yfir aðra taflmenn (riddarinn er þó undantekning).
+Skákmenn mega eingöngu leika einu sinni í hverri umferð. Í því felst að hreyfa einn taflmann einu sinni. Um leið og sleppt er taki á taflmanni telst keppandi hafa leikið.
+Eingöngu einn taflmaður má vera á hverjum reit.
+Til að drepa annan taflmann skal hreyfa taflmann yfir á reit sem er upptekinn af skákmanni af öðrum lit. Skákmaðurinn sem var á reitnum er því úr leik og tekinn af skákborðinu en skákmaðurinn sem drap skal vera á reitnum í staðinn.
+
+
+=== Kóngur ===
+Kóngurinn er einstakur því skákinni lýkur með sigri annars skákmannsins, þegar hann hótar að drepa kóng hins í næsta leik og engin undankoma er möguleg. Hvor spilari fær einn kóng og kóngurinn getur eingöngu hreyft sig um einn reit í einu en getur þó farið í allar áttir. Kóngur geta aldrei staðið á reitum sem valdaðir eru af hinum kónginum.
+
+
+=== Drottning ===
+Drottningin er einstök eins og kóngurinn og er metin upp á níu stig því að hún getur hreyft sig í allar áttir og eins langt og hún kemst. Hvor spilari fær eingöngu eina drottningu í hverju skákspili og skal hún staðsett á d1 hjá hvítum en d8 hjá svörtum. Þumalputtareglan er sú að drottningin skal alltaf byrja á reit af sama lit og hún er.
+
+
+=== Hrókur ===
+Hrókurinn er staðsettur í hvoru horni í sömu línu og kóngurinn og er hann metinn upp á fimm stig. Hann hreyfir sig í beina línu í allar áttir eins langt og almennar reglur leyfa. Hvor spilari fær tvö stykki af þeim og eru þeir venjulega notaðir í miðtafli eða endatafli. Við hrókeringu getur kóngurinn, ef enginn maður er milli hans og annars hvors hróksins fært kónginn tvo reiti í átt til þess hróks og sett krókinn við hliðina á kónginum, ef kóngurinn fer á g1/g8 fer hrókurinn á f1/f8 en ef kóngurinn fer á c1/c8 fer hrókurinn á d1/d8. Í sumum stöðum er óleyfilegt að hrókera, t.d. ef kóngi eða hróki hefur verið leikið áður eða kóngur stendur í skák. Á ensku heitir hrókurinn rook. Við skráningu skáka stendur H fyrir hrók í íslenskri skráningu en í enskri er það R. Mögulegt er að máta með einungis kóng og einum hróki gegn einungis kóngi.
+
+
+=== Biskup ===
+Biskupinn er metinn á þrjú stig og getur eingöngu hreyft sig á ská eins langt og almennar reglur leyfa. Hver spilari fær tvö stykki af þeim og er hvor þeirra staðsettir á reiti með mismunandi lit en þeir geta síðan eingöngu verið á reitum sem hafa þann lit það sem eftir er af leiknum.
+
+
+=== Riddari ===
+Riddarinn er metinn á þrjú stig eins og biskupinn en aðferðin sem hann notar til að hreyfa sig eru einstakar og getur hann hótað að drepa annan skákmann án þess að sami skákmaðurinn geti drepið hann til baka nema skákmaðurinn sé riddari líka. Hreyfingar riddarans eru L-laga og byggjast á því að riddarinn getur hreyft sig um einn reit upp eða niður og síðan 2 reiti annaðhvort til hægri eða vinstri...eða öfugt. Það skiptir engu máli þótt að aðrir skákmenn séu á þessum reitum þar sem riddarinn hefur þann eiginleika að hoppa á reitinn sem hann lendir á. Hver spilari fær tvo riddara og er hvor þeirra staðsettur á milli hróks og biskups.
+
+
+=== Peð ===
+Peðin eru hermenn og skjöldur æðri skákmanna skákborðsins en hvert þeirra er metið á eitt stig, hver spilari fær 8 peð og er þeim dreift á línuna fyrir ofan hina skákmennina í liðinu. Peð geta eingöngu hreyft sig upp skákborðið í beina línu (nema þegar þau drepa) og aðeins um einn reit í einu, nema í fyrsta leik þeirra, þá getur spilari valið um hvort þau fara áfram um einn reit eða tvo reiti. Reglurnar um hvernig peð drepa eru hins vegar öðruvísi en gengur og gerist hjá öðrum skákmönnum, þau geta eingöngu drepið á ská upp. Peð hafa líka þann eiginleika að ef þau komast alla leið á efstu línu skákborðsins, þá má breyta þeim í drottningu, hrók, riddara eða biskup.
+
+
+== Sérstakir skákleikir ==
+
+
+=== Framhjáhlaup ===
+Framhjáhlaup (e., fr. en Passant) felst í því að ef peð færir sig fram um 2 reiti í fyrsta leik og lendir við hliðina á peði af andstæðum lit, þá má það peð drepa nýhreyfða peðið með því að hreyfa sig ská og lenda á reitum sem það fór yfir. Eingöngu má framkvæma þessa hreyfingu strax í næsta leik. Þessi leikur er almennt viðurkenndur í helstu skákmótum og er hluti af skákreglunum.
+
+
+=== Hrókun ===
+Hrókun er framkvæmd með því að hreyfa kónginn um tvo reiti til hægri eða til vinstri og síðan kemur hrókurinn hinu megin við kónginn. Samkvæmt reglunum má enginn skákmaður vera á milli kóngsins eða hróksins, reitirnir á milli mega ekki vera valdaðir af skákmönnum af öðrum lit, hrókurinn eða kóngurinn valdaðir og þar að auki má hvorki kóngurinn né hrókurinn að hafa hreyft sig áður. Ef að hrókurinn er færður fyrstur er hrókunin ógild, hann talinn hafa fært sig og ekki er hægt að draga hreyfinguna til baka.
+
+
+==== Langhrókun ====
+Langhrókun einkennist af því að hrókað er með kónginum og hróknum sem er á drottningarvæng. Kóngurinn fer þá tvo reiti til vinstri og hrókurinn á drottningarvæng fer til hægri um þrjá reiti.
+
+
+==== Stutthrókun ====
+Stutthrókun einkennist af því að hrókað er með kónginum og hróknum sem er á kóngsvæng. Kóngurinn fer þá tvo reiti til hægri og hrókurinn á kóngsvæng fer til vinstri um tvo reiti.
+
+
+=== Kóngi ógnað ===
+Þegar sagt er orðið „skák“ er verið að meina að hreyfður hefur verið skákmaður sem síðan ógnar kóng af andstæðum lit og hótar því að drepa kónginn ef ekkert er gert í því. Það fyrsta sem spilari gerir þegar

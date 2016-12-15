@@ -1,0 +1,16 @@
+Az abszolút fényesség (M) egy égitest fényessége meghatározott távolságból nézve, melyet magnitúdóban mérünk. (A fényesség annál nagyobb, minél kisebb számértékű).
+
+
+== Meghatározás ==
+Csillagok és galaxisok esetén azt mutatja meg, hogy 10 parszek távolságból milyen fényesnek látnánk, bolygók és más Naprendszerbeli égitestek esetén pedig azt, hogy milyen fényesnek látnánk, ha a Földtől és a Naptól is 1 csillagászati egység (CsE) távolságra lenne.
+Mivel az abszolút fényességet a látszólagosból számítjuk, és ebből többféle is van (lásd Égitestek fényessége), ezt alsó indexben vagy szövegesen meg kell adni, mert esetenként nagyon eltérő is lehet. Így a Nap abszolút magnitúdója +4,83 a V (sárga) sávban és +5,48 a B (kék) sávban.
+A csillagok abszolút fényessége -10M és 17M között mozog, a galaxisok abszolút fényességének értéke sokkal kisebb, mert fényesebbek, például az M87 elliptikus galaxis abszolút fényessége -22M.
+
+
+== Kiszámítása ==
+Az abszolút fényesség számított mennyiség:
+
+ahol M az abszolút fényesség, m a látszólagos fényesség (mindkettő magnitúdóban) és r a csillag távolsága parszekben.
+Amennyiben szükséges a csillagközi fényelnyelést figyelembe venni, akkor:
+
+ahol A a csillagközi fényelnyelés értéke. A Galaxis fősíkjában A=1 m/kpc, a galaktikus pólusok irányában azonban már csak A=0,1 m/kpc. A értéke erősen irányfüggő.

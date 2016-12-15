@@ -1,0 +1,72 @@
+Albedo, ou coeficiente de reflexão, derivado do termo latino albedo (brancura ou luz solar refletida, a partir de albus, branco), é a refletividade difusa ou poder de reflexão de uma superfície. Ela é a razão entre a radiação refletida pela superfície e a radiação incidente sobre ela. Sua natureza adimensional permite que ela seja expressa como uma percentagem, e ela é medida numa escala de zero, para nenhuma reflexão por uma superfície perfeitamente negra, até 1, para uma reflexão perfeita por uma superfície branca.
+O albedo depende da frequência da radiação. Quando citada sem qualificação, ele geralmente se refere a uma média ao longo do espectro de luz visível. Em geral, o albedo depende da distribuição direcional da radiação incidente, com exceção de superfícies Lambertianas, que espalham a radiação em todas as direções de acordo com uma função cossenoidal e, portanto, têm um albedo que é independente da distribuição incidente. Na prática, uma função de distribuição bidirecional da refletância (bidirectional reflectance distribution function - BRDF) pode ser necessária para caracterizar com precisão as propriedades de espalhamento de uma superfície, mas o albedo é muito útil como uma primeira aproximação.
+O albedo é um conceito importante em climatologia, astronomia e para o cálculo da refletividade de superfícies em sistemas de classificação de sustentabilidade de construções do Leadership in Energy and Environmental Design (LEED). O albedo total médio da Terra, ou seu “albedo planetário”, é de 30% a 35%, devido à cobertura de nuvens, mas varia muito localmente devido às diferentes características geológicas e ambientais. 
+O termo foi introduzido na óptica por Johann Heinrich Lambert em seu trabalho Photometria de 1760.
+
+
+== Albedo terrestre ==
+Os albedos de materiais típicos em luz visível variam de até 0,9 para neve recente até cerca de 0,04 para carvão, uma das substâncias mais escuras. Cavidades profundamente sombreadas podem possuir um albedo efetivo aproximando-se do zero de um corpo negro. Quando vista à distância, a superfície do oceano tem um albedo baixo, como a maior parte das florestas, enquanto áreas desérticas possuem os mais altos albedos entre os tipos de terreno. A maior parte das áreas terrestres está na faixa de albedo de 0,1 a 0,4. O albedo médio da Terra é de cerca de 0,3. Isto é muito mais alto do que para os oceanos, principalmente por causa da contribuição das nuvens.
+
+O albedo da superfície da Terra é estimado regularmente por meio de sensores em satélites de observação da Terra, como os instrumentos MODIS, da NASA, a bordo dos satélites Terra e Aqua. Como a quantidade total de radiação refletida não pode ser medida diretamente por satélite, um modelo matemático de BRDF é usado para traduzir um conjunto amostral de medições por satélite da refletância em estimativas da refletância direcional hemisférica e da refletância bi-hemisférica (por exemplo,  ).
+A temperatura superficial média da Terra devido ao seu albedo e ao efeito estufa é atualmente de 15 °C. Se a Terra se congelasse completamente (ficando, portanto, mais refletiva), a temperatura média do planeta cairia para abaixo de −40 °C. Se apenas as massas de terra continentais fossem cobertas por glaciares, a temperatura média do planeta cairia para 0 °C. Por outro lado, se toda a Terra ficasse coberta por água, a temperatura média do planeta subiria para cerca de 27 °C.
+
+
+=== Albedo de céu branco e de céu negro ===
+Foi demonstrado que, para algumas aplicações envolvendo o albedo terrestre, o albedo a um determinado ângulo de zênite solar θi pode ser razoavelmente aproximado pela soma proporcional de dois termos: a refletância direcional hemisférica àquele ângulo de zênite solar, , e a refletância bi-hemisférica, , sendo a proporção definida como a proporção de iluminação difusa .
+O albedo  pode então ser dado por :
+
+A refletância direcional hemisférica é algumas vezes mencionada como albedo de céu negro, e a refletância bi-hemisférica como albedo de céu branco. Esses termos são importantes porque eles permitem que o albedo seja calculado para quaisquer condições de iluminação a partir do conhecimento das propriedades intrínsecas da superfície.
+
+
+== Albedo astronômico ==
+Os albedos de planetas, satélites e asteroides podem ser usados para se inferir muito a respeito de suas propriedades. O estudo dos albedos, sua dependência do comprimento de onda, ângulo de iluminação (“ângulo de fase”) e variações com o tempo compreendem uma parte importante do campo astronômico da fotometria. Para objetos pequenos e distantes em que não há resolução para isso em telescópios, muito do que sabemos deriva do estudo dos seus albedos. Por exemplo, o albedo absoluto pode indicar o teor de gelo superficial de objetos do Sistema Solar externo, a variação do albedo com o ângulo de fase fornece informação sobre propriedades do regolito, enquanto o albedo de radar invulgarmente alto é um indicativo de alto teor de metal em asteroides.
+Encélado, uma lua de Saturno, tem um dos mais altos albedos conhecidos de todos os corpos do Sistema Solar, com 99% de radiação refletida. Outro corpo com albedo notavelmente alto é Éris, com um albedo de 0,96. Muitos objetos pequenos no Sistema Solar exterior e na cintura de asteroides possuem albedos baixos, de até 0,05. Um núcleo cometário típico possui um albedo de 0,04. Acredita-se que uma superfície tão escura seja um indicativo de uma superfície primitiva e com forte erosão espacial, contendo alguns compostos orgânicos.
+O albedo total da Lua está em torno de 0,12, mas é fortemente direcional e não lambertiano (ou seja, não espalha sua luz), apresentando também grande efeito da oposição. Embora tais propriedades de refletância sejam diferentes daquelas de quaisquer regiões terrestres, eles são típicos de superfícies do regolito de corpos sem ar do Sistema Solar.
+Dois albedos comuns que são usados em astronomia são o albedo geométrico (que mede o brilho quando a iluminação vem diretamente por trás do observador) e o albedo de Bond (que mede a proporção total de energia eletromagnética refletida). Os seus valores podem diferir significativamente, o que é uma fonte comum de confusão.
+Em estudos detalhados, as propriedades de refletância direcional de corpos astronômicos são frequentemente expressas em termos dos cinco parâmetros de Hapke, que semiempiricamente descrevem a variação do albedo com o ângulo de fase, inclusive com uma caracterização do efeito da oposição de superfícies do regolito.
+A correlação entre o albedo astronômico (geométrico), magnitude absoluta e diâmetro é:
+,
+onde  é o albedo astronômico,  é o diâmetro em quilômetros e  é a magnitude absoluta.
+
+
+== Exemplos de efeitos do albedo terrestre ==
+
+
+=== Iluminação ===
+Embora o efeito do albedo sobre a temperatura seja mais conhecido nas regiões mais frias e mais brancas da Terra, o albedo máximo é na realidade encontrado nos trópicos, onde a iluminação ao longo do ano é maior. O máximo está no hemisfério norte, variando entre 12 e 13 graus norte. Os mínimos são encontrados nas regiões subtropicais dos hemisférios sul e norte, a partir do que o albedo aumenta sem relação com a iluminação.
+
+
+=== Efeitos na insolação ===
+A intensidade dos efeitos do albedo depende da intensidade do albedo e do nível de insolação local; áreas de alto albedo nas regiões árticas e antárticas são frias devido à baixa insolação, enquanto áreas como o deserto do Saara, que também têm um albedo relativamente alto, são mais quentes devido à alta insolação. Florestas tropicais e subtropicais têm baixo albedo e são muito mais quentes do que as florestas temperadas, que têm menor insolação. Como a insolação tem um papel tão importante nos efeitos do albedo de aquecimento e resfriamento, áreas de alta insolação como os trópicos tendem a mostrar uma flutuação mais pronunciada na temperatura local quando o albedo local se altera.
+
+
+=== Clima ===
+O albedo afeta e direciona o clima. O clima é um resultado do aquecimento irregular da Terra causado pelo fato de que diferentes áreas da Terra têm diferentes albedos. Essencialmente, para o direcionamento do clima, existem dois tipos de regiões de albedo na Terra: as áreas terrestres e o oceano. As regiões terrestres e oceânicas produzem os quatro tipos básicos de massas de ar, dependendo da latitude e, portanto, da insolação: quente e seca, que se forma sobre massas terrestres tropicais e subtropicais; quente e úmida, que se forma sobre oceanos tropicais e subtropicais; fria e seca, que se forma sobre massas terrestres temperadas, polares e subpolares; e fria e úmida, que se forma sobre oceanos temperados, polares e subpolares. Temperaturas diferentes entre as massas de ar resultam em diferentes pressões atmosféricas, e as massas desenvolvem sistemas de pressão. Sistemas de alta pressão fluem em direção aos de baixa pressão, dirigindo o tempo do norte para o sul no hemisfério norte e o oposto no hemisfério sul. Entretanto, devido à rotação da Terra, o efeito de Coriolis complica o fluxo e cria diversas bandas de clima e as correntes de jato.
+
+
+=== Retroalimentação albedo – temperatura ===
+Quando o albedo de uma área se altera devido à queda de neve, resulta uma retroalimentação neve – temperatura. Uma camada de neve aumenta o albedo local, refletindo a luz do Sol e levando ao resfriamento local. Em princípio, se nenhuma mudança de temperatura exterior afeta esta área (por exemplo, uma massa de ar quente), o maior albedo e a menor temperatura manterão a neve e levarão a novas precipitações, reforçando a retroalimentação neve – temperatura. Entretanto, como o clima local é dinâmico devido às mudanças de estações, ao final, massas de ar quente e um ângulo de incidência da luz mais direto (maior insolação) provocam o degelo. Quando a área descongelada revela superfícies com albedo maior, como grama ou solo, o efeito é revertido: a superfície escurecida diminui o albedo, aumentando a temperatura local, que induz a mais degelo e reduz mais o albedo, resultando em maior aquecimento.
+
+
+=== Neve ===
+O albedo da neve é muito variável, variando de 0,9 para a neve recente a cerca de 0,4 para a neve que se derrete, e mesmo 0,2 para a neve suja. Sobre a Antártida, ele é em média pouco maior que 0,8. Se uma área marginalmente coberta de neve se aquece, a neve tende a derreter, reduzindo o albedo e, portanto, levando a maior derretimento de neve porque mais radiação está sendo absorvida pela neve (a retroalimentação positiva neve – albedo). A crioconita, uma poeira soprada pelo vento que contém fuligem, às vezes reduz o albedo em glaciares e áreas nevadas. Portanto, pequenos erros no albedo podem levar a grandes erros em estimativas de energia, motivo pelo qual é importante medir o albedo de áreas cobertas de neve por meio de técnicas de sensoriamento, em vez de aplicar um valor único sobre vastas regiões.
+
+
+=== Efeitos em pequena escala ===
+O albedo funciona em uma escala menor, também. Sob a luz do Sol, roupas escuras absorvem mais calor e roupas claras refletem-na melhor, permitindo assim algum controle sobre a temperatura do corpo ao se explorar o efeito de albedo da cor da vestimenta.
+
+
+=== Efeitos fotovoltaicos solares ===
+O albedo pode afetar a geração de energia elétrica de sistemas fotovoltaicos solares. Por exemplo, os efeitos de resposta espectral do albedo são ilustrados pelas diferenças entre o albedo ponderado espectralmente da tecnologia baseada em silício hidrogenado amorfo (a-SI:H) e a baseada em silício cristalino (C-Si), comparados com as previsões tradicionais de albedo espectral integrado. As pesquisas mostraram impactos acima de 10%. Mais recentemente, o estudo foi estendido para os efeitos de desvio espectral devidos à refletividade especular de 22 materiais superficiais que ocorrem comumente (naturais e artificiais), e analisa os efeitos do albedo sobre o desempenho de sete materiais fotovoltaicos cobrindo três topologias comuns de sistemas fotovoltaicos: industriais (fazendas solares), telhados de edifícios comerciais e aplicações residenciais.
+
+
+=== Árvores ===
+Como árvores geralmente possuem albedo baixo (a maior parte do ultravioleta e do espectro visível é absorvido através da fotossíntese), alguns cientistas sugeriram que a maior absorção de calor pelas árvores poderia superar alguns dos benefícios do reflorestamento (ou diminuir os efeitos negativos do desmatamento para o clima). No caso de florestas sempre verdes com cobertura sazonal por neve, a redução do albedo pode ser suficientemente alta para que o desmatamento provoque um efeito final de resfriamento. As árvores também impactam o clima de formas extremamente complicadas pela evapotranspiração. O vapor d’água provoca o resfriamento da superfície da terra e o aquecimento onde ele se condensa, age como um poderoso gás de efeito estufa e pode aumentar o albedo quando se condensa em nuvens. Os cientistas geralmente consideram a evapotranspiração como um impacto final de resfriamento, e o impacto final no clima de mudanças do albedo e evapotranspiração devido ao desmatamento depende muito do clima local.
+Em zonas sazonalmente cobertas de neve, os albedos de inverno de áreas sem árvores são 10% a 50% maiores do que as áreas florestadas próximas, porque a neve não cobre as árvores tão rapidamente. Árvores caducifólias têm um valor de albedo de cerca de 0.15 a 0,18, enquanto coníferas têm valor entre 0,09 e 0,15.
+Estudos do Hadley Centre investigaram o efeito relativo da (geralmente de aquecimento) mudança de albedo e do efeito (de resfriamento) do sequestro de carbono no plantio de florestas. Eles concluíram que novas florestas em áreas tropicais e latitudes medianas tendem a resfriar; para novas florestas em latitudes altas (Sibéria, por exemplo), o efeito era neutro ou talvez de aquecimento.
+
+
+=== Água ===
+A água reflete a luz de forma muito diferente de materiais terrestres típicos. A refletividade da superfície da água é calculada utilizando-se as equações de Fresnel.
+Na escala do comprimento de onda da luz, mesmo a água com ondas é considerada calma, logo a luz é refletida localmente de forma especular e não difusa. A cintilação da luz na água é um efeito comum disso. Em pequenos ângulos de incidência da luz, a ondulação resulta em redução da refletividade, por causa da curva abrupta da refletividade contra o ângulo de incidência, bem como um ângulo de incidência médio que é localmente aumentado.
+Embora a refletividade da água seja muito baixa em ângulos de incidência da luz pequenos e méd

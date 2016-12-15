@@ -1,0 +1,16 @@
+et av omløpstiden T beskriver en full ellipse med areal A = π ab. Men fra den konstante arealhastigheten følger at dette er også gitt som A = λT/2. Settes disse to uttrykkene lik hverandre, får man
+
+ved å kvadrere begge sidene. Samtidig har man den geometriske sammenhengen b2 = a p, som ble tidligere utledet, hvor nå p = λ2/GM. Dermed blir resultatet
+
+som er Keplers tredje lov. Forholdet T 2/a3 har altså samme verdi for alle planeter i Solsystemet. Ved å innføre vinkelhastigheten ω = 2π/T for det periodiske omløpet, kan denne loven også skrives som ω2 a3 = GM.
+Keplers lover gjelder for alle bundne planeter eller stjerner som beveger seg om en sentral masse. Spesielt kan den tredje loven brukes til å påvise nye masser i Universet. Ved å observere hvordan stjerner beveger seg rundt forskjellige galakser kan man utfra omløpstider T for en stjerne og dens avstand fra sentrum bestemme massen M innenfor banen. Det var slike observasjoner Vera Rubin gjorde og som først påvist eksistensen av ny, usynlig masse som måtte være tilstede i de fleste galakser. Dette kan være ukjent, mørk materie. Videre kan man studere hvordan stjernene beveger seg i sentrum av vår egen galakse. De roterer rundt et eller annet med en masse som tilsvarer flere millioner ganger massen til Solen. Mest sannsynlig er dette et supermassivt sort hull.
+
+
+== Litteratur ==
+L. Motz and A. Duveen, Essentials of Astronomy, Columbia University Press, New York (1971).
+F. R. Moulton, An Introduction to Celestial Mechanics, Dover Publications Inc., New York (1970).
+D. L. Goodstein and J. R. Goodstein: Feynman's Lost Lecture. The Motion of Planets Around the Sun, W. W. Norton & Company, New York (1996), ISBN 0-393-03918-8
+
+
+== Eksterne lenker ==
+Supermassive Black Hole in Galactic Center.

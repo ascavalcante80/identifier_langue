@@ -1,0 +1,11 @@
+êng quỹ đạo bằng 0, acgumen của cận điểm là bất định. Trên thực tế tính toán, người ta có thể quy ước:
+ω = arccos(ex/|e|)
+với ex là thành phần của e chiếu lên phương x của hệ quy chiếu.
+Trong trường hợp quỹ đạo tròn, có thể quy ước ω = 0.
+
+
+== Xem thêm ==
+Tham số quỹ đạo
+
+
+== Tham khảo ==

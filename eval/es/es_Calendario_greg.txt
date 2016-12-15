@@ -1,0 +1,36 @@
+ años antes de Cristo, a. C., y los posteriores son años después de Cristo, d. C..
+Cuando empieza la cuenta de la era cristiana, no existía el concepto matemático de cero y los años se contaban ordinalmente (esto es: primer año, segundo, etc.). El origen del calendario gregoriano, es pues el 1 de enero del primer año (año 1 d.C.), que da comienzo a la primera década, el primer siglo (s. I) y el primer milenio. El año anterior fue el primero antes de Cristo (año 1 a.C.). No hay año 0. Establecido así el origen del calendario, el primer milenio (primeros 1000 años) transcurrió entre el 1 de enero del año 1 hasta el 31 de diciembre del año 1000. De la misma forma, el primer siglo transcurrió entre el 1 de enero del año 1 hasta el 31 de diciembre del año 100.
+
+
+== La importancia del calendario gregorianoEditar ==
+A pesar de que, aparentemente, el calendario persa es más preciso que el Calendario gregoriano, en el que hay un error de un día cada 3300 años, mientras que en el calendario persa el mismo error aparecería cada 3.5 millones de años[2][3], la importancia del calendario gregoriano estriba en que el sistema de tiempo gregoriano es el que se utiliza universalmente, incluso en Irán, la antigua Persia
+Así, el problema del origen de nuestra era y los que se derivan del empleo de múltiples calendarios diferentes quedó resuelto con la creación del calendario gregoriano: si en él se afirma que la Era Cristiana comenzó 1582 años antes de su elaboración y todos los países respetan esta idea, toda discusión debería acabar; y los temas de cuándo nació Cristo o lo que estableció Dionisio el Exiguo dejan de tener importancia (desde el punto de vista de la medición del tiempo). La cuestión final era la adopción de dicho calendario y, como hemos visto, todos los países del mundo lo han venido adoptando a través del tiempo.
+La mayor precisión del calendario persa es algo discutible por una simple razón: se trata de una precisión a la que habría que realizar ajustes en el futuro, lo mismo que sucede con el calendario gregoriano. Si dentro de 3300 años (más o menos, cuestión muy importante) habrá que hacer un ajuste de un día al calendario gregoriano, parece bastante probable que el calendario persa tenga también que ajustarse antes de avanzar 3.5 millones de años en el futuro. El tiempo futuro no se puede determinar: la duración del año, del día, del segundo de tiempo, se desacelera con el tiempo, pero no se puede determinar exactamente cuánto ni a que ritmo. Y, sobre todo, un calendario no es importante por una enorme precisión en la medición del tiempo, sino por tener una precisión razonable y una fundamentación clara y aceptada por todos.
+
+
+== Norma ISOEditar ==
+Norma ISO 8601 para la escritura de fechas y horas.
+Fecha: es el año, mes y día, escritos en ese orden, separados por un guion o no. El año constará de 4 cifras, y el mes y día de dos cifras cada uno -pudiendo ser la primera un cero-. Por ejemplo, el 4 de noviembre de 2007 se escribirá como 20071104 o bien 2007-11-04.
+Fecha de la semana: alternativa a la anterior, añade el número correspondiente a la semana precedido de la letra W -inicial de week, semana, en inglés-. Así, 2005-W07-5 indica el quinto día de la séptima semana del año 2005.
+Hora: dos cifras para las horas, minutos y segundos, en ese orden, siendo la medianoche las 00:00:00. La escala horaria va de 0 a 24 horas. Así, las cinco y cuarto de la tarde serán las 17:15:00.
+Fecha y hora: se indican la fecha y la hora tal como se explicó anteriormente, separándolas por una T -inicial de time, tiempo u hora, en inglés-. Por ejemplo: las dos y media de la madrugada del 30 de diciembre de 2005 se indica: 2005-12-30T02:30:00.
+Además, la Real Academia Española recomienda las escritura de fecha en los siguientes términos: se escribirá 30 de diciembre de 2005, o bien 30 de diciembre del año 2005, aunque esta recomendación no implica que se considere incorrecto utilizar el artículo en estos casos: 30 de diciembre del 2005. Evidentemente, en este último caso, el término año se encuentra sobreentendido.
+
+
+== Véase tambiénEditar ==
+Calendario perpetuo
+Horario universal
+Calendario maya
+Calendario aimara
+
+
+== ReferenciasEditar ==
+
+
+== Enlaces externosEditar ==
+ Wikimedia Commons alberga contenido multimedia sobre Calendario gregorianoCommons.
+ Wikcionario tiene definiciones y otra información sobre calendario gregoriano.Wikcionario
+«Lunario novo» de 1582: la reforma gregoriana del calendario, en el Archivo Secreto Vaticano
+¿Murieron Cervantes y Shakespeare el mismo día? Diversas anécdotas relacionadas con el calendario gregoriano.
+Nuestro calendario. Una explicación científica, simple y completa, por Wenceslao Segura González, ISBN 978-84-614-7306-9.
+La reforma del calendario gregoriano, por Wenceslao Segura González, ISBN 978-84-616-1729-6.

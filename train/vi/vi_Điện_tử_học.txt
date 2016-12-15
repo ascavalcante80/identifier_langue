@@ -1,0 +1,33 @@
+Điện tử học, gọi tắt là khoa điện tử, là một lĩnh vực khoa học nghiên cứu và sử dụng các thiết bị điện hoạt động theo sự điều khiển của các dòng điện tử hoặc các hạt tích điện trong các thiết bị như đèn điện tử hay bán dẫn. Việc nghiên cứu thuần tuý về các thiết bị này được xem như là một nhánh nghiên cứu trong vật lý, trong khi việc thiết kế và xây dựng các mạch điện tử để giải quyết các vấn đề thực tế lại được xem như là một bộ phận của các ngành kỹ thuật điện, kỹ sư điện tử và kỹ sư máy tính.
+Nói theo ngôn ngữ chuyên môn thì điện tử nghiên cứu về phương thức điều chỉnh các dòng điện và các điện thế thông qua các linh kiện điện tử hay bộ phận điện tử tích cực hay bị động được nối nhau tạo thành các mạch điện. Các mạch điện này sẽ thoả màn các nhu cầu hữu dụng cho con người. Do đó, ngành này tìm hiểu về các linh kiện, các mạch điện, và các ứng dụng của chúng.
+Ứng dụng chủ yếu của các mạch điện tử là điều khiển, xử lý và phân phối thông tin; chuyển đổi và phân phối nguồn điện. Cả hai ứng dụng này đều liên quan đến việc tạo ra và nhận biết trường điện từ và dòng điện. Ngày nay, các thiết bị điện tử cho phép thực hiện rất nhiều công việc trong cuộc sống và trong khoa học.
+
+
+== Đối tượng nghiên cứu ==
+Cơ sở Điện học
+Các nguồn điện
+Các thiết bị điện và thiết bị điện tử
+Lý thuyết mạch điện
+Bộ phận điện tử
+Máy điện tử
+Logic số
+Các máy đo da dụng
+Dây dẫn tín hiệu
+Xung và biến điệu
+Các máy dò sóng và máy phát sóng (bao gồm cã kĩ thuật ăng-ten và ra-đa)
+
+
+== Các hệ thống điện tử ==
+Có một cách để khảo sát một hệ thống điện tử đó là chia nó ra thành các phần sau đây:
+Lối vào - Các bộ cảm biến thực hiện nhiệm vụ chuyển đổi như từ các hiện tượng vật lý sang tín hiệu điện (dòng hoặc điện áp).
+Các mạch xử lý tín hiệu - Các mạch này bao gồm các linh kiện điện tử được kết nối với nhau để tính toán, diễn dịch và chuyển đổi các tín hiệu.
+Lối ra - Là các bộ truyền động, kích thích (cũng có thể là các bộ chuyển đổi). Các thiết bị này thực hiện việc chuyển đổi các tín hiệu dòng/điện áp thành các dạng tín hiệu vật lý có ích.
+Lấy ví dụ về máy thu hình (tivi): Lối vào của nó là các tín hiệu sóng truyền hình quảng bá được truyền trong không gian hoặc thông qua cáp tryền hình được thu bởi ăng-ten hoặc lối vào cáp. Các mạch xử lý tín hiệu bên trong của máy thu hình sẽ xử lý tín hiệu thu được và trích ra các thông tin về ánh sáng, màu sắc và âm thanh. Các thiết bị lối ra một ống ca-tốt. Ống ca-tốt sẽ thực hiện việc chuyển đổi các tín hiệu điện tử thành các hình ảnh có thể thấy được trên một màn hình và các âm thanh trên các loa từ.
+
+
+== Các dụng cụ đo đạc kiểm tra điện tử ==
+Am-pe kế - dùng để đo dòng điện.
+Ôm kế - dùng để đo điện trở / trở kháng.
+Vôn kế - dùng để đo điện áp.
+Đồng hồ vạn năng - dùng để đo tất các thông số trên và có thể thêm một số thông số khác.
+Dao động ký hay còn gọi là máy hiện sóng - dùng để đo tất cả các thông số trên khi chúng thay đổi theo thời gian và cho phép hiển thị sự t

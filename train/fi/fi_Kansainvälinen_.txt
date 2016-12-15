@@ -1,0 +1,95 @@
+Kansainvälinen yksikkö­järjestelmä (myös kansainvälinen mittayksikkö­järjestelmä) eli SI-järjestelmä (ransk. Système international d’unités) on maailman yleisin mittayksikkö­­järjestelmä. SI-järjestelmä sai nykyisen nimensä vuonna 1960, mutta keskeisimmiltä osiltaan se perustuu Ranskassa jo 1700-luvun lopulla käyttöön otettuun metrijärjestelmään. Jos nykyään puhutaan metrijärjestelmästä, silläkin käytännössä yleensä tarkoitetaan SI-järjestelmää.
+SI-järjestelmästä päätetään Kansain­välisen paino- ja mittatoimiston (ransk. Bureau international des poids et mesures, BIPM) järjestämissä konferensseissa (CGPM). Suomessa SI-järjestelmän toteutuksesta vastaa Mittatekniikan keskus.
+SI-järjestelmän mittayksiköitä voi käyttää maailmanlaajuisesti, ja useissa maissa lainsäädäntö määrää niiden käytön. Toisaalta joissain yhteyksissä saatetaan yhä suosia muita mittayksiköitä: esimerkiksi moottorien tehot ilmoitetaan usein hevosvoimina, ja jopa Suomen aluevesiraja on määritetty meripeninkulmina. Myös ilmailussa korkeus ilmaistaan jalkoina ja nopeus solmuina. Britanniassa puolestaan on lain mukaan liikennemerkeissä yhä käytettävä maileja ja jaardeja (tosin nämä perinteiset brittiläisen järjestelmän mittayksikötkin on nykyään määritelty suhteessa SI-yksiköihin).
+Yhdysvalloissa metrijärjestelmä laillistettiin jo vuonna 1866, mutta sitä ei ole otettu virallisesti käyttöön. SI-järjestelmä on silti alkanut saada jalansijaa luonnontieteiden ja lääketieteen sekä valtionhallinnon ja useiden teollisuusalojen piirissä. Yhdysvaltain lisäksi Liberia sekä Myanmar eli Burma ovat tiettävästi ainoat maat, joissa SI-järjestelmää ei ole virallistettu.
+
+
+== Kirjoitussäännöt ==
+SI-yksiköihin voidaan viitata käyttäen täydellisiä nimiä, jotka tarvittaessa mukautuvat kielikohtaisesti äänne- ja muoto-oppiin sekä oikeinkirjoitukseen (esimerkiksi suomeksi metri, sekunti, kilogramma, senttimetri, hertsi) tai virallisia tunnuksia, jotka kirjoitetaan aina samalla tavalla kielestä riippumatta (m, s, kg, cm, Hz). Esimerkiksi Euroopan unionin virallisessa viestinnässä mittayksiköiden nimet kirjoitetaan yleensä täydellisinä.
+SI-järjestelmän tunnukset eivät ole varsinaisesti lyhenteitä, vaikka monet niistä on alun perin muodostettu lyhentämällä. SI-tunnusten käyttöön liittyy joitain erikoissääntöjä, jotka eivät koske tavanomaisia lyhenteitä, vaikka yleisesti ottaen lyhenteitä koskevat suomen oikeinkirjoitussäännöt ovat varsin yhdenmukaiset SI-järjestelmän sääntöjen kanssa. SI-järjestelmän mukaan tunnuksen perään ei esimerkiksi merkitä pistettä (jollei se päätä virkettä), mutta vastaavasti suomenkin oikeinkirjoitussääntöjen mukaan kaikki mittayksiköiden lyhenteet ovat pisteettömiä.
+SI-yksiköitä kirjoitettaessa noudatetaan seuraavia sääntöjä:
+
+
+=== Suur- ja pienaakkosten käyttö ===
+Tunnukset kirjoitetaan pienaakkosin, paitsi jos yksikön nimi on johdettu erisnimestä, jolloin tunnuksen alkukirjaimena on suuraakkonen. Yksikön nimessä isoa alkukirjainta ei kuitenkaan käytetä (jollei se aloita virkettä). Esimerkiksi paineen mittayksikön tunnus on Pa (keksijä Blaise Pascalin mukaan), mutta yksikön nimi on pascal. Pienaakkosella kirjoitettu tunnus viittaa melkein aina toiseen yksikköön kuin vastaavalla suuraakkosella kirjoitettu tunnus: s = sekunti, mutta S = siemens (Werner von Siemensin mukaan).
+Poikkeuksellisesti litran tunnus voidaan kirjoittaa paitsi pienaakkosella (l) myös suuraakkosella (L), jos halutaan varmistaa, ettei se sekaannu numeroon 1 tai suuraakkoseen I.
+Kerrannaisyksiköiden muodostamiseen käytettävät etuliitteet kirjoitetaan pienaakkosella kiloa eli tuhatkertaisuutta merkitsevään k-etuliitteeseen asti, mutta sitä suurempaa kerrannaisuutta osoittavat etuliitteet kirjoitetaan suuraakkosella: mm = millimetri (metrin tuhannesosa), mutta Mm = megametri (miljoona metriä). Miljoonasosaa merkitään erityisellä mikro-merkillä µ, joka perustuu käytännöllisesti katsoen samannäköiseen kreikkalaiseen pienaakkoseen myy (μ).
+
+
+=== Kursivoinnin käyttö ===
+Mittayksikön tunnusta ei koskaan kursivoida, vaikka se esiintyisi keskellä muuten kursivoitua tekstiä. Sen sijaan aina kursiivilla kirjoitetaan SI-järjestelmän suureiden tunnukset, kuten ajan tunnus t ja massan tunnus m. Kursivoitu tunnus tarkoittaa siis eri asiaa kuin kursivoimaton: s = sekunti, mutta s = matka; S = siemens, mutta S = näennäisteho.
+
+
+=== Tunnus liitetään lukuun välilyönnillä ===
+Lukuarvon ja yksikön tunnuksen väliin kirjoitetaan sanaväli (mieluiten sitovana välilyöntinä). Tämä koskee myös celsiusasteen tunnusta: 10 °C. Poikkeuksellisesti kiinni lukuarvoon kirjoitetaan kulma-asteen, kulmaminuutin ja kulmasekunnin tunnukset: 30° 22′ 8″.
+
+
+=== Desimaalierottimena pilkku tai piste ===
+Alun perin SI-järjestelmä hyväksyi desimaalierottimeksi ainoastaan pilkun. Vuonna 1997 sallittiin vaihtoehtoisesti pisteen käyttö sellaisissa teksteissä, jotka ovat pääosin englanninkielisiä, ja vuonna 2003 sääntöä väljennettiin edelleen, niin että desimaalipistettä saa käyttää kielestä riippumatta, jos se on joissain tilanteissa tapana. Useimmissa Euroopan maissa desimaalierottimena käytetään silti pilkkua.
+Suomessa desimaalierotin on standardin SFS 4175 mukaan yhä nimenomaan pilkku. Suomen puolustusvoimat on kuitenkin siirtynyt käyttämään aseluokituksissaan desimaalipistettä, joten esimerkiksi 7,62 RK 62 on nykyään 7.62 RK 62.
+
+
+=== Pitkät luvut voidaan jaksottaa välilyönnein ===
+SI-järjestelmä suosittelee hyödyntämään yksiköiden etuliitteitä niin, että lukuarvot pysyvät 0,1:n ja 1000:n välillä: 25 km; 0,25 mg. Jos pitkiä lukuja kuitenkin käytetään, ne voidaan selvyyden vuoksi jaotella kolmen numeron sarjoihin desimaalierottimen paikasta lähtien, vaikka SI-järjestelmä ei tätä varsinaisesti edellytä. Tällöin tuhaterottimena käytetään (sitovaa) välilyöntiä, ei pistettä tai pilkkua (joista kumpi tahansa voi esiintyä desimaalierottimena): 25 000 m; 0,000 25 g.
+
+
+=== Lisätunnus liittyy suureeseen ===
+Lisätunnusta ei voi liittää yksikön tunnukseen, mutta suureen tunnukseen sellainen voidaan liittää alaindeksinä: U (jännite), Ueff (tehollinen jännite); Ueff = 230 V (tehollinen jännite on 230 volttia). Jos alaindeksiä ei ole mahdollista käyttää, lisätunnus voidaan kuitenkin mainita sulkeissa yksikön tunnuksen jälkeen: U = 230 V (eff).
+
+
+=== Sijapääte liittyy tunnukseen ===
+Jos lukusana ja mittayksikkö ovat samassa sijamuodossa, tunnukseen liitetään sijapääte kaksoispisteellä kuten tavallisiin loppulyhenteisiin. Sijapäätettä ei liitetä numeroin kirjoitettavaan lukusanaan vaan ainoastaan tunnukseen:
+Aallonkorkeus kasvoi 4 m:iin (neljään metriin).
+Kun lukusana on nominatiivissa, mittayksikkö on tavallisesti partitiivissa (neljä metriä); vain luvun 1 jälkeen mittayksikkökin on nominatiivissa (yksi metri). Jos lukusana on nominatiivissa, tunnukseen ei merkitä oletusarvoista partitiivin päätettä:
+Aallonkorkeus oli 4 m (neljä metriä).
+Jos sekä lukusana että mittayksikkö ovat partitiivissa, ilmauksen merkitys on toinen, ja tällöin partitiivin pääte on liitettävä tunnukseen:
+Aallonkorkeus ei ylittänyt 4 m:ä (neljää metriä).
+Selvyyden vuoksi tällaisissa tilanteissa kannattaisi kuitenkin pyrkiä kirjoittamaan lukusana kirjaimin ja yksikön nimi täydellisenä:
+Aallonkorkeus ei ylittänyt neljää metriä.
+Johdannaisyksiköissä tunnuksen osa voi toisinaan vastata myös inessiiviä:
+Tuulennopeus oli 10 m/s (kymmenen metriä sekunnissa).
+Tällaisten yhdistelmätunnusten taivuttaminen muissa sijoissa on hankalaa. SI-järjestelmän logiikan mukaan tunnus on jakamaton kokonaisuus, joten sijapääte olisi liitettävä tunnuksen loppuun, vaikka tämä voi vaikuttaa hämmentävältä:
+Tuulennopeus kasvoi 10 m/s:iin (kymmeneen metriin sekunnissa).
+Kielitoimisto sen sijaan suosittelee muotoa ”10 m:iin/s”, mutta se on SI-järjestelmän kannalta epälooginen. Sijapäätettä ei voi noin vain jättää poiskaan (sillä olisi aivan eri asia sanoa tuulennopeuden kasvaneen kymmenen metriä sekunnissa), mutta ilmauksen voi koettaa muotoilla niin, että sijapäätettä ei tarvita:
+Tuulennopeus kasvoi niin, että se oli 10 m/s (kymmenen metriä sekunnissa).
+Tuulennopeus kasvoi arvoon 10 m/s.
+Usein helpoin ratkaisu harvinaisia mittayksiköitä taivutettaessa on kuitenkin käyttää tunnusten sijasta täydellisiä nimiä:
+Tuulennopeus kasvoi 10 metriin sekunnissa.
+Ilmanpaine laski 0,97 baariin (mieluummin kuin ”bar:iin”).
+
+
+== SI-järjestelmän perusyksiköt ==
+SI-järjestelmä koostuu seitsemästä perusyksiköstä suureille pituus, massa, sähkövirta, aika, lämpötila, ainemäärä ja valovoima. Muut paitsi kilogramma on määritelty pohjautuen luonnonilmiöihin ja -vakioihin. Kilogramma pohjautuu prototyyppikappaleeseen.
+Määritelmät on päätetty yleisissä paino- ja mittakonferensseissa (ransk. Conférence générale des poids et mesures, CGPM).
+
+
+=== Ehdotetut uudet määritelmät ===
+Vuoden 2007 yleisessä paino- ja mittakonferenssissa on käsitelty ehdotuksia kilogramman, moolin, ampeerin ja kelvinin määrittelemiseksi uudestaan. Uudet määritelmät perustuvat fysiikan keskeisiin luonnonvakioihin, mutta uudelleen määriteltyinäkin nämä yksiköt olisivat mahdollisimman tarkkaan, useamman desimaalin tarkkuudella entisen suuruisia.
+Ampeeri määriteltäisiin siten, että alkeisvaraus olisi tarkalleen 1,60217653 · 10−19 ampeerisekuntia eli coulombia. Ampeeri olisi siis virta, jossa kulkee yksi elektroni 1,60217653 · 10−19 sekunnissa. Mooli taas määriteltäisiin ainemääräksi, jossa on 6,0221415 · 1023 molekyyliä tai muuta hiukkasta, joten Avogadron vakio olisi tarkalleen 6,0221415 · 1023 mol−1. Kelvin taas määriteltäisiin siten, että termodynamiikassa tärkeä Boltzmannin vakio olisi tarkalleen 1,3806505 · 10−23 J/K.
+Kilogrammalle on esitetty kahtakin vaihtoehtoista määritelmää. Toisen ehdotuksen mukaan kilogramma olisi 6,0221415/12 · 1026 (eli 0,501845125 · 1026) kertaa hiili-12-atomin massa. Tämä määritelmä liittyisi läheisesti moolin määritelmään, sillä gramman ja atomimassayksikön suhde olisi edelleen tarkalleen sama kuin Avogadron vakion luku­arvo. Vaihtoehtona olisi määritellä se Planckin vakion avulla, joka saisi tarkkaan määritellyn arvon 6,6260603 · 10−34 Js. Tällöin kilogramma olisi massa, jota Einsteinin kaavan E=mc2 mukaan vastaava energia olisi teoriassa sama kuin sellaisella fotonilla, jonka taajuus olisi 1,356392664 · 1050 Hz (tosin näin suuritaajuista säteilyä ei tiettävästi ole olemassa).
+Metrin, sekunnin ja kandelan määritelmiin sitä vastoin ei ole ehdotettu muutoksia.
+Uudet määritelmät vahvistetaan mahdollisesti CGPM:n kokouksessa vuonna 2015.
+
+
+== Johdannaisyksiköitä, joilla on erityinen nimi ==
+Useille yleisesti käytetyille yksiköille on annettu omia nimiä niiden käytön helpottamiseksi, vaikka ne ovatkin määriteltävissä perusyksiköiden tuloina ja osamäärinä:
+
+
+== Muita SI-järjestelmän mukaisia johdannaisyksiköitä ==
+Seuraavassa luotellaan SI-järjestelmän mukaisesti johdettuja yksiköitä yleisimmin mitattaville suureille:
+
+
+== Lisäyksiköitä ==
+SI-järjestelmän varsinaisten yksikköjen lisäksi käytetään myös muutamia perinteisiä yksikköjä erityisalojen suureille ja arkisille suureille, koska esimerkiksi ajan ilmoittaminen vain sekuntien kerrannaisina olisi varsin epäkäytännöllistä:
+
+
+== Kerrannaisyksiköt ==
+Etuliitteillä muodostettavat kerrannaisyksiköt ilmoittavat perusyksiköiden monikertoja, esimerkiksi yksi kilometri (1 km) on tuhat metriä (1000 m). Kerrannaisyksiköiden ja etuliitteiden avulla voidaan hyvin suuria tai pieniä lukuja esittää tiiviisti.
+Etuliitteitä suositellaan käytettäväksi siten, että lukuarvo asettuu 0,1:n ja 1 000:n väliin (esimerkiksi 2,5 kJ, ei 2 500 J). Ensisijaisesti käytetään etuliitteitä, joita vastaava eksponentti on kolmella jaollinen. Jos johdannaisyksikkö on muodostettu jakolaskulla, etuliitettä käytetään ensisijaisesti osoittajassa; etuliitettä voidaan käyttää nimittäjässä, jos havainnollisuus sitä vaatii. Osoittajassa ja nimittäjässä etuliitteen yhtäaikainen käyttö ei ole suositeltua.
+Kahta etuliitettä ei saa käyttää samanaikaisesti samassa yksikössä: ei esimerkiksi mµm (”millimikrometri”), vaan nm (nanometri). Massan kerrannaisyksiköt muodostetaan grammasta, ei kilogrammasta, vaikka se onkin historiallisista syistä massan perusyksikkö.
+
+
+== Yksikköjärjestelmien historia ==
+Metrisen SI-yksikköjärjestelmän juuret ovat jo 1700-luvun lopussa, jolloin Ranskan kuningaskunnassa aloitettiin yksikköjärjestelmän järkeistystyö. Loppuun työ saatettiin vasta 1790-luvulla Ranskan suuren vallankumouksen jälkeen, jolloin määriteltiin metri ja kilogramma. Samalla niille rakennettiin mittanormaalit eli vertailukappaleet. Muutos oli suuri, sillä metri ja gramma kerrannaisyksiköineen korvasivat vaikeaselkoisen perinteisen mittajärjestelmän, jossa eri tavaralaatujen painoja, tilavuuksia ja mittoja käsiteltiin omina suureinaan. Samalla yksikköjärjestelmä muuttui kymmenkantaiseksi, mikä helpotti yksikkömuunnoksia. Seuraavalla vuosisadalla metrijärjestelmä tuli vähitellen käyttöön muissakin maissa varsinkin sen jälkeen, kun asiasta vuonna 1875 tehtiin kansainvälinen metrisopimus.
+Nykyisen SI-järjestelmän perusyksiköistä yksi, sekunti, oli kuitenkin jo ollut käytössä kaikkialla Euroopassa jo kauan sitä ennen ja määritelty vuorokauden tiettynä murto-osana. Suunnitelmat vuorokautta lyhempien aikayksiköiden muuttamisesta kymmenkantaiseksi eivät toteutuneet. Kun sekunti tuli metrin ja kilogramman ohella kolmanneksi perusyksiköksi, nimitettiin käyttöön tullutta yksikköjärjestelmää MKS-järjestelmäksi. Kuitenkin myös sekunti on myöhemmin määritelty uudestaan.
+Sähköopin kehitys 1800-luvulla teki tarpeelliseksi määritellä uusia yksiköitä. Vuonna 

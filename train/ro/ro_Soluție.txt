@@ -1,0 +1,54 @@
+O soluție este un amestec omogen format din doi sau mai mulți componenți. Soluțiile pot fi saturate sau nesaturate (după cantitatea de substanță dizolvată). Orice soluție conține un solvent(substanța care dizolvă) și un solvat(substanța care se dizolvă). În cele mai multe cazuri, solventul este apa.
+
+
+== Omogenitatea ==
+Omogenitatea este reprezentată de faptul că conținutul amestecului constituie un aspect unitar. Proprietățile amestecului(concentrația, temperatura, densitatea etc) pot fi distribuite uniform în întregul volum doar în absența fenomenului de difuzie sau în urma încheierii acestuia. În genere, substanța prezentă în cantitatea majoritară este considerată solvent. Solvenții pot fi sub o formă gazoasă, lichidă sau solidă. Unul sau mai multe elemente prezente în soluție, dar care nu coincid cu solventul se numesc solvați. Este obligatoriu ca soluția să aibă aceeași stare de agregare.
+
+
+== Tipuri de soluții ==
+
+
+=== Gaz ===
+Gaz în gaz:
+aerul(solvat: oxigen și alte gaze; solvent: azot)
+
+Solid în gaz:
+praful atomosferic dizolvat în aer
+
+Lichid în gaz:
+vapori de apă în aer
+
+
+=== Lichid ===
+Dacă solventul este un lichid, atunci atât gaze, cât și lichide sau solide pot fi dizolvate. Exemple sunt:
+Gaz în lichid:
+Oxigen în apă
+Dioxidul de carbon în apă(sifon)
+
+Lichid în lichid:
+Etanolul(alcool etilic) în apă
+Băuturile alcoolice sunt în genere soluții de etanol în apă
+
+Solid în lichid:
+Zaharoză (zahăr de masă) în apă
+Cloratul de sodiu sau orice altă sare formează în apă un electrolit: în timpul dizolvării, sarea se disociază în ioni.
+
+Contraexemple: amestecuri lichide ce nu sunt omogene precum: coloizi, suspensii(o dispersie de particule relativ mari într-un lichid) și emulsii(suspensia unor particule lichide într-un alt lichid care nu se amestecă).
+
+
+=== Solid ===
+În caz că solventul este un solid, atunci atât gazele, cât și lichidele sau solidele pot fi dizolvate.
+Gaz în solid:
+Hidrogenul se dizolvă în genere în metale(exemplu: platină).
+
+Lichid în solid:
+Mercurul se dizolvă în aur, formând un amalgam.
+Hexanul în parafină.
+
+Solid în solid:
+Oțelul, o soluție de atomi de carbon într-o matrice cristalină de atomi de fier.
+Alpacca, un aliaj alcătuit din zinc(15%-30%), nichel(10%-30%) și cupru(50%-60%).
+
+
+== Solubilitate ==
+Solubilitatea reprezintă proprietatea unei substanțe de a se dizolva într-o altă substanță. Din punct de vedere cantitativ, aceasta este egală cu cantitatea de substanță ce se dizolvă

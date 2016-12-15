@@ -1,0 +1,47 @@
+g“.
+Für das Drehmoment von Viertaktmotoren gilt entsprechend:
+
+Denn bei zwei Umdrehungen pro Arbeitszyklus halbiert sich die Arbeit pro Umdrehung gegenüber dem Zweitakter.
+
+
+=== Beispiel: Drehmoment und Leistung eines Viertaktmotors ===
+Ein Serienfahrzeug mit 2000 cm³ (= 0,002 m³) Hubvolumen, dessen Viertaktmotor bei einer Drehzahl von 2000/min einen Mitteldruck von 9 bar (= 900.000 Pa; 1 Pa = 1 N/m²) erreicht, in SI-Einheiten gerechnet:
+
+Die Gleichung für die Leistung bei einer Drehbewegung lautet (siehe oben)
+
+und für eine drehzahlabhängige Leistung
+.
+M(n) ist die für die untersuchte Maschine typische drehzahlabhängige Drehmomentkenngröße, die durch Messung erhalten wird.
+Bei einem Verbrennungsmotor, der bei 2000 Umdrehungen pro Minute ein Drehmoment von 143 N m abgibt, berechnet sich die Leistung wie folgt:
+
+
+=== Beispiel: Leistung und Drehmoment eines Hydraulikmotors ===
+Die hydraulische Leistung  eines Hydraulikmotors errechnet sich aus den Drücken  und  am Motoreingang bzw. -ausgang und dem geschluckten Ölvolumen  ( ist das Volumen je Umdrehung):
+
+Aus der Gleichung für die Leistung bei einer Drehbewegung (siehe oben)
+
+folgt das Drehmoment zu:
+
+
+== Literatur ==
+Wolfgang Nolting: Klassische Mechanik. In: Grundkurs Theoretische Physik. Bd. 1, 8. Auflage. Springer, Berlin 2008, ISBN 978-3-540-34832-0.
+Herbert Goldstein, Charles P. Poole und John L. Safko: Klassische Mechanik (Übersetzung: Michael Baer). - 3., vollst. überarb. und erw. Aufl. - Weinheim: Wiley-VCH, 2006. (Lehrbuch Physik) - ISBN 3-527-40589-5.
+Richard P. Feynman: Feynman-Vorlesungen über Physik. Oldenbourg, München/Wien 2007, ISBN 978-3-486-58444-8.
+Paul A. Tipler: Physik. 3. korrigierter Nachdruck der 1. Auflage. 1994, Spektrum Akademischer Verlag, Heidelberg/Berlin, 2000, ISBN 3-86025-122-8.
+Ludwig Bergmann, Clemens Schaefer: Mechanik - Akustik - Wärme. In: Lehrbuch der Experimentalphysik. Bd. 1, 12. Auflage. Walter de Gruyter, Berlin 2008, ISBN 978-3-11-019311-4.
+Istvan Szabó: Einführung in die Technische Mechanik. Springer, 1999, ISBN 3-540-44248-0.
+Peter Gummert, Karl-August Reckling: Mechanik. Vieweg, 1994, ISBN 3-528-28904-X.
+
+
+== Weblinks ==
+
+Drehmoment am einarmigen Hebel – am Beispiel eines Schraubenschlüssels bei zum.de.
+Dr. Wilfried Krimmel: Entwicklung und Zukunft der Drehmomentmesstechnik. Bei lorenz-messtechnik.de.
+
+
+== Einzelnachweise ==
+↑ Das Online-Wörterbuch. Bei: pons.eu. Abgerufen am 21. Dezember 2012.
+↑ Dubbel -- Taschenbuch für den Maschinenbau, Kapitel B "Mechanik, Kinematik", Abschnitte 1.1 und 3.1
+↑ Wolfgang Nolting: Grundkurs Theoretische Physik 1. Springer 2011, ISBN 978-3-642-12947-6, Seite 63.
+↑ Unterscheidung des Drehmomentenvektors vom Kraftvektor durch eine doppelte Pfeilspitze (eingeschränkte Vorschau in der Google-Buchsuche)
+↑  Das Internationale Einheitensystem (SI). Deutsche Übersetzung der BIPM-Broschüre „Le Système international d‘unités/The International System of Units (8e edition, 2006)“. In: PTB-Mitteilungen. 117, Nr. 2, 2007 (übersetzt von Cecile Charvieux), S. 21 (Online Version (PDF-Datei; 1,4 MB)).

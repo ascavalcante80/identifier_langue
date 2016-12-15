@@ -1,0 +1,22 @@
+Artikel ini membahas 'bilangan' sebagai suatu konsep dalam matematika. Pengertian-pengertian lain dari 'bilangan' dapat dilihat pada Bilangan (disambiguasi).
+Bilangan adalah suatu konsep matematika yang digunakan untuk pencacahan dan pengukuran. Simbol ataupun lambang yang digunakan untuk mewakili suatu bilangan disebut sebagai angka atau lambang bilangan. Dalam matematika, konsep bilangan selama bertahun-tahun lamanya telah diperluas untuk meliputi bilangan nol, bilangan negatif, bilangan rasional, bilangan irasional, dan bilangan kompleks.
+Prosedur-prosedur tertentu yang mengambil bilangan sebagai masukan dan menghasil bilangan lainnya sebagai keluran, disebut sebagai operasi numeris. Operasi uner mengambil satu masukan bilangan dan menghasilkan satu keluaran bilangan. Operasi yang lebih umumnya ditemukan adalah operasi biner, yang mengambil dua bilangan sebagai masukan dan menghasilkan satu bilangan sebagai keluaran. Contoh operasi biner adalah penjumlahan, pengurangan, perkalian, pembagian, perpangkatan, dan perakaran. Bidang matematika yang mengkaji operasi numeris disebut sebagai aritmetika.
+
+
+== Silsilah bilangan ==
+
+
+== Angka, bilangan, dan nomor ==
+Dalam penggunaan sehari-hari, angka dan bilangan dan nomor seringkali disamakan. Secara definisi, angka, bilangan, dan nomor merupakan tiga entitas yang berbeda.
+Angka adalah suatu tanda atau lambang yang digunakan untuk melambangkan bilangan. Contohnya, bilangan lima dapat dilambangkan menggunakan angka Hindu-Arab "5" (sistem angka berbasis 10), "101" (sistem angka biner), maupun menggunakan angka Romawi 'V'. Lambang "5", "1", "0", dan "V" yang digunakan untuk melambangkan bilangan lima disebut sebagai angka.
+Nomor biasanya menunjuk pada satu atau lebih angka yang melambangkan sebuah bilangan bulat dalam suatu barisan bilangan-bilangan bulat yang berurutan. Misalnya kata 'nomor 3' menunjuk salah satu posisi urutan dalam barisan bilangan-bilangan 1, 2, 3, 4, ..., dst. Kata "nomor" sangat erat terkait dengan pengertian urutan.
+
+
+== Jenis bilangan-bilangan Sederhana ==
+Ada berbagai jenis bilangan. Bilangan-bilangan yang paling dikenal adalah bilangan bulat 0, 1, -1, 2, -2, ... dan bilangan-bilangan asli 1, 2, 3, ..., keduanya sering digunakan untuk berhitung dalam aritmatika. Bilangan cacah adalah himpunan bilangan bulat yang bukan negatif, yaitu {0, 1, 2, 3 ...}. Dengan kata lain himpunan bilangan asli ditambah 0. Jadi, bilangan cacah harus bertanda positif. Himpunan semua bilangan bulat dalam buku-buku teks aljabar biasanya dinyatakan dengan lambang Z dan sedangkan himpunan semua bilangan asli biasanya dinyatakan dengan lambang N.
+Setiap bentuk rasio p/q antara dua bilangan bulat p dan bilangan bulat bukan nol q disebut bilangan rasional atau pecahan. Himpunan semua bilangan rasional ditandai dengan Q.
+
+
+== Konsep Hingga Terhitung dan Tak Terhitung ==
+Unsur-unsur ketiga himpunan N, Z dan Q di atas masih bisa 'diurutkan' (enumerated) tanpa ada satu pun yg tersisa atau tercecer. Himpunan berukuran tak hingga yg bisa diurutkan ini disebut himpunan terhitung (Inggris: countable atau denumerable).
+Himpunan semua bilangan alami (real numbers), yaitu semua bilangan rasi

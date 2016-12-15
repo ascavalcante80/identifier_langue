@@ -1,0 +1,20 @@
+Periapsisargumentet er det ene af de i alt seks baneparametre der bruges til entydigt at beskrive en elliptisk omløbsbane, f.eks. banen for et rumfartøj eller Månen i kredsløb om Jorden. Periapsisvinklen ω ("lille omega") for en ellipseformet omløbsbane er vinklen mellem knudelinjen og apsidelinjen, målt fra den opstigende knude til periapsis.
+På illustrationen til højre kredser et lille himmellegeme (eller et rumfartøj) A omkring det større legeme B: Det lille legemes baneplan D hælder i forhold til et referenceplan C, som enten kan være ekliptikas plan, eller det større legemes ækvatorplan, så langs knudelinjen (den grønne streg) skærer referenceplanet og baneplanet hinanden. Den røde streg er apsidelinjen, dvs. den linje der går gennem periapsis og apoapsis; de to punkter langs omløbsbanen hvor de to legemer er hhv. tættest på og fjernest fra hinanden.
+
+
+== Sædvanlige omløbsbaner ==
+For sædvanlige omløbsbaner beregnes periapsisargumentet ω, som:
+ for 
+ for 
+hvor:
+ er vektoren pegende mod det punkt, hvor det omkredsende legeme passerer ækvator i opstigende retning – altså vil z-komponenten af  være nul.
+ er excentricitetsvektoren – vektoren pegende mod periapsis.
+
+
+== Ækvatoriale omløbsbaner ==
+Hvis  (altså z-komponenten af excentricitetsvektoren er lig nul), så har omløbsbanen ikke noget periapsisargument. Der vil nemlig være tale om en ækvatorial omløbsbane, og denne har ikke nogen opstigende knude (da den hele tiden er parallel med ækvatorplanen) – den har dog (selvfølgelig) et periapsis.
+I den slags situationer anvender man ofte en alternativ definition udelukkende baseret på excentricitetsvektoren (og altså af periapsis):
+
+
+== Cirkulære omløbsbaner ==
+Hvis der er tale om en cirkulær omløbsbane, h

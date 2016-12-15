@@ -1,0 +1,53 @@
+Semantic Web – projekt, który ma przyczynić się do utworzenia i rozpowszechnienia standardów opisywania treści w Internecie w sposób, który umożliwi maszynom i programom (np. tzw. agentom) przetwarzanie informacji w sposób odpowiedni do ich znaczenia. Wśród standardów Semantic Web znajdują się m.in. OWL, RDF, RDF Schema (inaczej RDFS). Znaczenia zasobów informacyjnych określa się za pomocą tzw. ontologii.
+Semantic Web jest wizją Tima Bernersa-Lee (twórcy standardu WWW i pierwszej przeglądarki internetowej, a także przewodniczącego W3C). W swoich założeniach Semantic Web ma korzystać z istniejącego protokołu komunikacyjnego, na którym bazuje dzisiejszy Internet. Różnica miałaby polegać na tym, że przesyłane dane mogłyby być 'rozumiane' także przez maszyny. Owo 'rozumienie' polegałoby na tym, że dane przekazywane byłyby w postaci, w której można by powiązać ich znaczenia między sobą a także w ramach odpowiedniego kontekstu.
+Informacje przekazywane w ramach Semantic Web wymagałyby nie tylko samych danych, ale także informacji o tychże (tzw. meta-danych). To właśnie meta-dane zawierałyby sformułowania dotyczące relacji między danymi oraz prawa logiki, które można do nich zastosować. Dzięki temu można by:
+powiązać różne dane znajdujące się w Internecie w ramach wspólnych jednostek znaczeniowych (np. strony dotyczące filmów, dziedzin nauki, kuchni francuskiej, etc.)
+rozróżnić dane, które dla maszyn są w tej chwili nierozróżnialne ze względu na identyczny zapis tekstowy (np. zamek - urządzenie do zamykania drzwi; urządzenie do łączenia w ustalonym położeniu elementów ubrania; okazała budowla mieszkalno-obronna)
+przeprowadzać na tychże danych wnioskowania, tzn. otrzymywać informacje na ich temat, które nie są zawarte explicite (np. na podstawie danej "Ewa jest żoną Adama", możemy też dowiedzieć się, że Ewa jest kobietą, Adam mężczyzną, Adam jest mężem Ewy, żaden inny mężczyzna nie jest mężem Ewy, etc.)
+
+
+== Techniczne podstawy Semantic Web ==
+Semantic Web zbudowany ma być na bazie już istniejących, wykorzystywanych i sprawdzonych standardów internetowych, nadbudowanych przez kilka kolejnych standardów. Ponieważ każdy kolejny standard nakłada się na kolejny, dotycząc innego poziomu abstrakcji, toteż ochrzczone zostały one mianem 'warstwowego placka' (ang. layer cake). Inne popularne ich określenie to 'semantyczny stos' (ang. semantic stack).
+Kolejne warstwy placka prezentują się następująco (od dołu):
+Unicode
+URI
+XML i XML Schema
+RDF i RDF Schema
+OWL
+mechanizmy wnioskowania
+mechanizmy certyfikacji i zaufania
+
+
+=== Unicode ===
+Unicode jest standardem pozwalającym na wyrażenie w języku maszyn dowolnego znaku pisanego, dowolnego języka znanego na Ziemi. Standard ten rozwiązuje problem niedogodności związanych z prymatem w świecie komputerów podstawowego alfabetu łacińskiego
+
+
+=== URI ===
+URI jest standardem zapewniającym unikatowość zasobów internetowych. Ponieważ wszystkie dane przesyłane w ramach Semantic Web będą zasobami internetowymi, będą one wymagały także określenia dla nich identyfikatora. Identyfikator będzie mógł składać się właśnie z zestawu znaków Unicode.
+
+
+=== XML i XML Schema ===
+XML jest standardem pozwalającym w ogólności na zapis danych.
+Schematy XML wprowadzają ograniczenia dotyczące typu i struktury danych. Zachowanie typu i struktury daje gwarancję, że dane XML są poprawne w sensie syntaktycznym (np. w polu, w którym oczekujemy wartości liczbowej, wartość taka się pojawi)
+
+
+=== RDF i RDF Schema ===
+RDF jest standardem, który pozwala na zapis danych w postaci grafu skierowanego. W grafie tym dane zawarte są w wierzchołkach a relacje pomiędzy nimi i własności tychże znajdują się w krawędziach.
+Schematy RDF wprowadzają do grafów takie pojęcia jak klasy i podklasy, pozwalające na wspólne grupowanie danych mających cechy wspólne. Dowolna dana może znajdować się w wielu klasach.
+
+
+=== OWL ===
+OWL jest standardem pozwalającym na definiowanie klas na podstawie własności danych, a także na definiowanie logicznych charakterystyk relacji. OWL jest więc standardem formalnie zapisującym ontologię.
+Przykład:
+Mając daną klasę 'Człowiek', a także posiadając w jej zbiorze relację 'jest mężem', chcielibyśmy określić klasę 'Małżonek' (dla czytelności przykładu, uznajemy definicję męża zgodną z polskim stanem prawnym).
+Otóż małżonkiem jest zarówno dana, której podmiotem jest relacja 'jest mężem', jak i dana, której przedmiotem jest dana relacja (w języku grafów: małżonkiem jest wierzchołek grafu, z którego wychodzi krawędź 'jest mężem', jak i wierzchołek, do którego taka krawędź wchodzi).
+Relację 'jest mężem' możemy też dość dokładnie określić. Jest to relacja funkcjonalna (tzn. że każdy podmiot, którego dotyczy ta relacja, ma co najwyżej jeden przedmiot). Jest ona też odwrotnie funkcjonalna (przedmiot tej relacji ma co najwyżej jeden podmiot). Nie jest ona przechodnia (tzn. nie ma takiej własności, że jeśli A jest mężem B a B jest mężem C to A jest mężem C), posiada natomiast relację odwrotną. Tą relacją jest 'jest żoną' (każdy A, który jest mężem B będzie spełniać następującą relację: B jest żoną A).
+
+
+=== Mechanizmy wnioskowania ===
+Język OWL pozwala na definiowanie zależności między danymi, dzięki czemu można przeprowadzać wnioskowanie. Jednakże osobną sprawą jest przygotowanie odpowiednich mechanizmów, które takie wnioskowanie przeprowadzą poprawnie, a jednocześnie w odpowiednio szybkim czasie. Program, przeprowadzający wnioskowanie nosi miano 'reasonera' (brak polskiego odpowiednika - w wolnym tłumaczeniu 'wnioskujący'). W tej chwili zaawansowanie techniczne reasonerów jest wciąż ograniczone i przeprowadzanie wnioskowań nawet na nieskomplikowanych ontologiach trwa zbyt długo jak na uwarunkowania Internetu.
+
+
+=== Mechanizmy certyfikacji i zaufania ===
+Istnieją w tej chwili w sferze rozważań teoretycznych. Mechanizmy te pozwoliłyby na zestandaryzowanie i rozwiązanie problemów autoryzacji użytkowników, identyfikacji ich zasobów, a także określenia praw, na jakich te zasoby są przesyłane i mogą być udostępniane.
+Koncepcja projektu została opisana m.in. w książce pt. "Semantic Web" autor

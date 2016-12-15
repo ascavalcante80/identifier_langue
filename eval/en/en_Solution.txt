@@ -1,0 +1,34 @@
+at does not dissolve in the ocean water but rather floats on the surface.
+
+
+=== Preparation from constituent ingredients ===
+It is common practice in laboratories to make a solution directly from its constituent ingredients. There are three cases in practical calculation:
+Case 1: amount of solvent volume is given.
+Case 2: amount of solute mass is given.
+Case 3: amount of final solution volume is given.
+In the following equations, A is solvent, B is solute, and C is concentration. Solute volume contribution is considered through ideal solution model.
+Case 1: amount (mL) of solvent volume VA is given. Solute mass mB = C VA dA /(100-C/dB)
+Case 2: amount of solute mass mB is given. Solvent volume VA = mB (100/C-1/ dB )
+Case 3: amount (mL) of final solution volume Vt is given. Solute mass mB = C Vt /100; Solvent volume VA=(100/C-1/ dB) mB
+Case 2: solute mass is known, VA = mB 100/C
+Case 3: total solution volume is known, same equation as case 1. VA=Vt; mB = C VA /100
+Example: Make 2 g/100mL of NaCl solution with 1 L water Water (properties). The density of resulting solution is considered to be equal to that of water, statement holding especially for dilute solutions, so the density information is not required.
+mB = C VA =( 2 / 100 ) x 1000 =20 g
+
+
+== See also ==
+
+Solvation
+Molar solution
+Percentage solution (disambiguation)
+Solubility equilibrium
+Stock solution
+Total dissolved solids is a common term in a range of disciplines, and can have different meanings depending on the analytical method used. In water quality, it refers to the amount of residue remaining after evaporation of water from a sample.
+Upper critical solution temperature
+Lower critical solution temperature
+Coil-globule transition
+
+
+== References ==
+
+IUPAC, Compendium of Chemical Terminology, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "solution".

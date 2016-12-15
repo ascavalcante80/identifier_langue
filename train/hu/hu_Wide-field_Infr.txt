@@ -1,0 +1,41 @@
+A WISE (Wide-field Infrared Survey Explorer, magyarul Széles látószögű infravörös felmérő felfedező műhold) infravörös csillagászati műhold, melyet 2009. december 14-én indított a NASA a Medium-class Explorer program keretében. Az égboltfelmérési program célja a teljes égbolt végigfényképezése a 3-25 μm közötti infravörös tartomány négy (3,4, 4,6, 12 és 22 mikrométeres) hullámhosszán, melyből a Hubble űrtávcső épülő utódja, a szintén infravörösben működő James Webb űrtávcső számára állítanak össze katalógust.
+A műhold napszinkron poláris pályán halad, a pálya síkja a Nap irányával mindig derékszöget zár be. A 40 centiméter átmérőjű távcső a Földdel ellentétes irányba néz (megközelítőleg, amikor a Hold a látómezőbe kerülne, akkor a távcsővel ezt „kikerülik”). Összesen 1,3 millió képet (11 másodpercenként egyet) készített az égboltról 2010 júliusáig, melyek felbontása 1 megapixel (1024×1024 pixel), pixelenként 6 ívmásodperc a közeli, 12 ívmásodperc a közepes infravörösben, látómezeje pedig 47 ívperc. A küldetés hat (esetleg kilenc, ha a hűtéshez felhasznált hidrogén kitart addig) hónapos időtartama alatt az égbolt 99%-át legalább nyolc (az egymást követő keringések során készült, egymást átfedő) felvétellel fedik le. (A pálya jellegéből adódóan ez az égi egyenlítőhöz közelebbi területekre igaz, a pólusokhoz közeledve nő az átfedés mértéke, az égi pólusok pedig minden keringés alkalmával a látómezőbe kerülnek.)
+A hagyományos Schmidt-elrendezéssel (melyben egyetlen tükör van, a főtükör) szemben a WISE rendelkezik egy másodlagos, pásztázó tükörrel (scan mirror), melynek feladata a folytonosan mozgó ég elmozdulásának kiküszöbölése. A tükör a képek készítése közben az ég mozgásával ellentétesen elfordul, így a CCD-mátrixra mindig ugyanaz a kép vetül (a két kép készítése közötti időben visszaáll eredeti pozíciójába). A távcsövet és az érzékelőket 15 kilogrammnyi szilárd hidrogén elpárologtatásával hűtik 15 kelvinre, a hűtőanyag fél év utáni elfogyása a küldetés tervezett befejezését jelenti.
+A WISE által kapott adatokat rádiós átvitellel naponta négyszer töltik le műholdas közvetítéssel földi állomásra. A képeket számítógépekkel egyesítik, és az adatokból egy atlaszt hoznak létre (ami várhatóan 300 millió infravörös forrást tartalmaz), ami az egész éggömböt lefedi és egy listát az összes észlelt objektumról. A program szervezését a Jet Propulsion Laboratory végzi.
+A műhold méretei:
+hosszúság: 2,85 m
+átmérő: 2 m
+mélység: 1,73 m
+
+
+== A megfigyelni tervezett objektumok ==
+A WISE által észlelt hullámhosszon jellemzően a 70-100 kelvinnél melegebb objektumok sugároznak.
+
+
+=== A Naprendszeren kívül ===
+
+Észlelhetőek lesznek galaxisok csillagkeletkezési régióinak csillagközi por által eltakart részei is, mert az infravörös sugárzás ezeken áthatol. A korai Univerzum fiatal galaxisaiban a csillagkeletkezés különösen intenzív volt, ezért ezek a többieknél sokkal erősebb infravörös sugárzást bocsátanak ki. Hasonlóan intenzív a csillagkeletkezés a kölcsönható galaxisokban is. A jól észlelhető célok között vannak a csillagközi gázfelhők a Tejútrendszeren belül, és a fiatal csillagok körüli protoplanetáris korongok, ez utóbbiakból néhány ezer felfedezése várható.
+Előzetesen végzett megfigyeléseken alapuló számítások alapján körülbelül 700 új barna törpe felfedezésére van kilátás, ezek közül mintegy 100 felfedezése várható 6 parszeken belül, ezzel a Nap közvetlen környezetében lévő ismert csillagok száma akár meg is duplázódhat. Az eddig felfedezetteknél lényegesen hidegebb, akár -100 °C-os felszíni hőmérsékletű barna törpék is felfedezhetőek. Amennyiben viszonylag nagy számban léteznek olyan kóbor bolygók, melyek nem csillagok körül keringenek, hanem szabadon sodródnak az űrben, miután egy bolygórendszerből kidobódtak, ezek felfedezésére is van remény. A Jupiter tömegének két-háromszorosát nyomó óriásbolygókat 7-11 fényévig, jupiter-méretű bolygókat a távcső 1 fényév (megközelítőleg 63 000 CsE) távolságig, Neptunusz-méretű bolygókat 700 Csillagászati egység távolságig képes a távcső észlelni (ezeknél kisebbeket nem, mert nincsen saját hőtermelésük, így infravörös sugárzásuk, a napjuktól pedig túl távol vannak ahhoz, hogy annak sugárzása felmelegítse őket).
+
+
+=== A Naprendszeren belül ===
+Ha a Naprendszer külső térségeiben tényleg létezik nagy tömegű bolygó vagy törpecsillag (a Naprendszer tizedik bolygója, vagy a Nemezis), akkor ezt a WISE nagy valószínűséggel képes észlelni, bár, mivel a teljes égboltot csak egyszer tapogatja le, elmozdulásának kimutatására kevés az esély.
+Az űrtávcső emellett észlelni tudja a főöv 3 kilométernél nagyobb kisbolygóit (becsült darabszámuk: 100-200 000) és a földsúroló kisbolygókat. A mérések pontosságának finomításával lehetőség lesz akár egy kilométeres átmérőig lemenni (ez a becslések szerint 700 000 kisbolygót jelent). A földközeli objektumok észlelésére a poláris pálya különösen alkalmas lesz, ezekből is száznál több objektum felfedezése várható.
+A WISE a kisbolygók átmérőjét is meg tudja majd mérni. A kisbolygók könnyebben észlelhetők infravörösben, mint látható fényben, mert felületük általában sötét, ami a látható fényt elnyeli (és infravörösben, hőmérsékletének megfelelően, kisugározza). Átmérőjük viszonylag pontos mérését is ez teszi lehetővé. A kisbolygók ugyanis a látható fény nagyon kis részét (néhány százalékát) verik vissza, emiatt a felszínük visszaverő-képességük szórása nagy, akár tízszeres különbségek is előfordulhatnak az egyes kisbolygók között. A sötét objektumok a teljes elnyelt (azaz vissza nem vert) elektromágneses sugárzást a Wien-féle eltolódási törvénynek megfelelően infravörösben sugározzák ki, ebben, pont a visszavert fény kis mennyisége miatt, nagyon kicsik a bolygók eltérő anyagi összetételéből adódó eltérések, a kisugárzott energia eltérő mennyisége csak a kisbolygó eltérő méretéből adódik.
+Az üstökösök pályáján az általuk kibocsátott anyagból álló porfelhőket is képes lesz a távcső észlelni, melyek a Földdel ütközve a meteorhullásokat okozzák (maguk a porfelhők egyes meteorrajoknak feleltethetők meg). Ezek egy része ismert üstökösökhöz köthető, de valószínűleg a már régebben megsemmisült, így nem is ismert üstökösök pályáján keringő porfelhők felfedezésére is van kilátás.
+
+
+== Közreműködők ==
+UCLA – University of California, Los Angeles - a WISE tudományos csoportját vezeti
+JPL – Jet Propulsion Laboratory - rendszermérnöki munkák
+SDL – Space Dynamics Lab, Utah - tudományos műszerek, távcső építése
+BATC – Ball Aerospace & Technology Corporation - a műhold építése
+IPAC – Infrared Processing and Analysis Center - elemzi, archiválja és szolgáltatja a kinyert tudományos adatokat
+UCB – University of California, Berkeley - oktatási és közönségszolgálati tevékenység
+
+
+== Küldetés ==
+
+A műhold fő műszerét jelentő infravörös távcső építését 2009 májusában fejezte be a Space Dynamics Laboratory, ők szállították Boulderbe, a Ball Aerospace céghez, amely a műhold többi részét építi. A hold felbocsátására december 2009. december 14-én került sor, a távcsövet védő kupakot 29-én 22:30 UTC-kor dobták le.
+Az első képet 2010. január 6-án készítették a távcsővel, a rendszeres észlelést január 14-én kezdték, de már ez előtt, 12-én felfedezték az első földsúroló kisbolygót, az 1 km átmérőjű 2010 AB78-at, majd február 9-én bejelentették az első üstökös, a P/2010B2 (WISE) január 22-ei felfedezését.
+A műhold jó műszaki állapota miatt tervezték a program további három hónapos meghosszabbítását, a hűtőközeg elfogyása után felmelegedő távcső négy csatornájából kett

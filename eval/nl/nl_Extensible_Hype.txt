@@ -1,0 +1,24 @@
+n XHTML 2.0 en XHTML 1.0 waren:
+HTML-forms zouden ingewisseld worden met XForms.
+HTML-frames zouden ingewisseld worden met XFrames.
+De DOM Events zouden ingewisseld worden met XML Events die het XML Document Object Model gebruiken.
+Er werd een nieuw lijsttype geïntroduceerd: <nl> was speciaal bedoeld voor het maken van navigaties.
+Elk element kon gebruikt worden als een hyperlink, bijvoorbeeld: <li href="articles.html">Startpagina</li>.
+Elk element kon alternatieve media aangeven met behulp van het src attribuut, bijvoorbeeld: <p src="lbridge.jpg" type="image/jpeg">London Bridge</p> in plaats van <img src="lbridge.jpg" alt="London Bridge" />.
+Naast de kop-elementen h1 tot en met h6 konden ook de h- en section-elementen gebruikt worden om beter de structuur van de tekst aan te geven.
+De lettertype-elementen <i>, <b> en <tt> zouden afwezig zijn in XHTML 2.0. De enige lettertype-elementen die overblijven zijn <sup> en <sub>.
+
+
+=== Andere versies van XHTML ===
+XHTML Basic: een lichte versie van XHTML bedoeld voor veel verschillende useragents.
+XHTML Mobile Profile: een uitbreiding van XHTML Basic door het Open Mobile Alliance speciaal bedoeld voor mobiele telefoons.
+
+
+== Externe link ==
+(en) Algemene informatie van het W3C
+
+
+=== Specificaties ===
+XHTML 1.0-specificatie
+XHTML 1.1-specificatie
+XHTML 2.0 Working Draft (16 december 2010)

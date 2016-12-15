@@ -1,0 +1,40 @@
+nd per day; therefore, after about 800 days, it accumulated to 1 second (and a leap second was then added).
+In the graph of DUT1 above, the excess of LOD above the nominal 86,400 s corresponds to the downward slope of the graph between vertical segments. (The slope became shallower in the 2000s (decade), because of a slight acceleration of Earth's crust temporarily shortening the day.) Vertical position on the graph corresponds to the accumulation of this difference over time, and the vertical segments correspond to leap seconds introduced to match this accumulated difference. Leap seconds are timed to keep DUT1 within the vertical range depicted by this graph. The frequency of leap seconds therefore corresponds to the slope of the diagonal graph segments, and thus to the excess LOD.
+
+
+== FutureEdit ==
+
+As the Earth's rotation continues to slow, positive leap seconds are required more frequently. The long-term rate of change of LOD is approximately +1.7 ms per century. At the end of the 21st century, LOD will be roughly 86,400.004 s, requiring leap seconds every 250 days. Over several centuries, the frequency of leap seconds will become problematic.
+Some time in the 22nd century, two leap seconds will be required every year. The current use of only the leap second opportunities in June and December will be insufficient, and the March and September options will have to be used. In the 25th century, four leap seconds will be required every year, so the current quarterly options will be insufficient. Thereafter there will need to be the possibility of leap seconds at the end of any month. In about two thousand years, even that will be insufficient, and there will have to be leap seconds that are not at the end of a month. In a few tens of thousands of years (the timing is uncertain), LOD will exceed 86,401 s, causing UTC to require more than one leap second per day.
+In April 2001, Rob Seaman of the National Optical Astronomy Observatory proposed that leap seconds be allowed to be added monthly rather than twice yearly.
+There is a proposal to redefine UTC and abolish leap seconds, such that sundials would slowly get further out of sync with civil time. The resulting gradual shift of the sun's movements relative to civil time is analogous to the shift of seasons relative to the yearly calendar that results from the calendar year not precisely matching the tropical year length. This would be a major practical change in civil timekeeping, but would take effect slowly over several centuries. UTC (and TAI) would be more and more ahead of UT; it would coincide with local mean time along a meridian drifting slowly eastward (reaching Paris and beyond). Thus, the time system would lose its fixed connection to the geographic coordinates based on the IERS meridian. The difference between UTC and UT could reach 0.5 hour after the year 2600 and 6.5 hours around 4600.
+ITU‑R Study Group 7 and Working Party 7A were unable to reach consensus on whether to advance the proposal to the 2012 Radiocommunications Assembly; the chairman of Study Group 7 elected to advance the question to the 2012 Radiocommunications Assembly (20 January 2012), but consideration of the proposal was postponed by the ITU until the World Radio Conference in 2015, convening on 2 November.
+The possibility of suppressing the leap second was considered in November 2015 at the World Radiocommunication Conference (WRC-15), which is the international regulatory body which defines Coordinated Universal Time. No decision to suppress leap seconds was reached; the issue will be studied further and reconsidered in 2023.
+
+
+== See alsoEdit ==
+Ephemeris time
+IERS Reference Meridian
+ISO 8601
+Mars Time Coordinated (MTC)
+Terrestrial Time
+World Radiocommunication Conference
+
+
+== ReferencesEdit ==
+
+
+=== NotesEdit ===
+
+
+=== BibliographyEdit ===
+
+
+== External linksEdit ==
+Current UTC time
+Definition of Coordinated Universal Time in German law–ZeitG §1 (3)
+International Earth Rotation Service; list of differences between TAI and UTC from 1961 to present
+U.S. Naval Observatory: Systems of Time
+W3C Specification about UTC Date and Time and IETF Internet standard RFC 3339, based on ISO 8601
+Standard of time definition: UTC, GPS, LORAN and TAI
+What is in a name? On the term Coordinated Universal Time

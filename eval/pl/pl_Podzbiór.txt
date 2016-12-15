@@ -1,0 +1,25 @@
+r właściwy zbioru nie może być jego nadzbiorem właściwym (przeciwsymetria),
+.
+
+Warto zauważyć, że z własności drugiej i trzeciej wynika pierwsza.
+
+
+== Przykłady ==
+zbiór  jest podzbiorem (właściwym) zbioru ,
+zbiór  zawiera się w ,
+zbiór  nie jest podzbiorem zbioru ,
+zbiór liczb naturalnych jest podzbiorem (właściwym) zbioru liczb całkowitych, ale zbiór liczb całkowitych nie jest podzbiorem zbioru liczb naturalnych,
+zbiór liczb rzeczywistych jest nadzbiorem (właściwym) zbioru liczb wymiernych,
+zbiór kwadratów jest całkowicie zawarty w zbiorze rombów, zawiera się również w zbiorze prostokątów, jednakże zbiór rombów nie jest podzbiorem zbioru prostokątów.
+
+
+== Bibliografia ==
+Wojciech Guzicki, Piotr Zakrzewski: Wykłady ze wstępu do matematyki. Wprowadzenie do teorii mnogości. Warszawa: Wydawnictwo Naukowe PWN, 2005.
+
+
+== Zobacz też ==
+Teoria mnogości
+Zanurzenie (matematyka)
+
+
+== Przypisy ==

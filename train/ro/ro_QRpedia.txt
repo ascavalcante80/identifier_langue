@@ -1,0 +1,14 @@
+QRpedia este un sistem mobil de web care utilizează coduri QR pentru a furniza articole Wikipedia pentru utilizatori în limba lor preferată. Codurile QR generează legături (linkuri) web pentru orice Identificator uniform de resurse (URI). Sistemul QRpedia crește permanent în funcționalitate.
+QRpedia a fost concepută de către Roger Bamkin, președinte al Wikimediei din Marea Britanie, și lansată în aprilie 2011. Astăzi este folosită și de diverse instituții, inclusiv muzee din Marea Britanie, Statele Unite și Spania. Codul sursă al proiectului este reutilizabil sub licența MIT.
+
+
+== Utilizare ==
+
+Atunci când un utilizator scanează un cod QR (QRpedia) pe dispozitivul său mobil, aparatul decodează codul QR și-l transformă într-un Localizator uniform de resurse (URL) folosind numele de domeniu "qrwp.org". și calea de a căror (partea finală) este titlul unui articol pe Wikipedia , și trimite o Rezultatul este un titlu de articol Wikipedia în formă de URL. Serverul Web QRpedia transmite dispozitivului și setările de limbă .
+Serverul QRpedia apoi folosește Wikipedia API pentru a determina dacă există o versiune a articolului pe Wikipedia în limba utilizată de aparat, și dacă da, se întoarce într-un format "mobil-friendly". În cazul în care nu există nici o versiune a articolului în limba preferată, serverul QRpedia efectuează o căutare pentru titlul de articol pe Wikipedia de limba relevant, și returnează rezultatele.
+În acest fel, un cod QR poate livra același articol în mai multe limbi,  chiar și atunci când muzeul se află în imposibilitatea de a face traduceri proprii. QRpedia ține evidentă de statistici de utilizare. 
+
+
+== Originile ==
+
+QRpedia a fost concepută de către Roger Bamkin, președintele al Wikimediei din Marea Britanie, și Terence Eden, un consultant de mobile web,. Proiectul este lansat în data de 9 aprilie 2011 , la Derby Muzeului Backstage pass evenimentul,  parte a colaborării GLAM / Derby între Derby Muzeul, Galeria de Arta și Wikipedia, , în timpul căreia peste 1.200 de articole Wikipedia, într-un număr de limbi, au fost create. Numele proiectului este un cuvânt valiză, combinând inițialele "QR" de la "QR (Quick Response) codul" și "pedia" de la

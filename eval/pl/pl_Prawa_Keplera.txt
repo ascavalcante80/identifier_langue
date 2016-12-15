@@ -1,0 +1,51 @@
+i obu gałęzi wzięta z minusem)
+ są masami obu ciał
+ jest stałą grawitacji;
+ jest całkowitą energią orbitalną tj. sumą energii kinetycznej  i potencjalnej  ciała mniejszego w układzie związanym ze środkiem masy układu. Ponieważ  jest ujemne, więc można wartość całkowitej energii wyrazić jako .
+Z analizy powyższego równania wynika, że
+jeśli  czyli , to ciało porusza się po elipsie o półosi równej ,
+jeśli  czyli , to ciało porusza się po paraboli,
+jeśli  czyli , to ciało porusza się po hiperboli o półosi równej .
+Oznacza to, że jeśli energia orbitalna jest nieujemna tj. , to mniejsze ciało porusza się na tyle szybko, że zbliży się do drugiego ciała tylko jednokrotnie.
+
+
+=== Drugie prawo KepleraEdytuj ===
+Prawo to stwierdza, że dla dowolnej stożkowej:
+
+gdzie:
+ jest prędkością polową rozumianą jako wektor prostopadły do płaszczyzny stożkowej
+ wektor powierzchni o wartości pola zakreślanego w czasie  przez promień wodzący o początku w ognisku stożkowej.
+Kinetyczne pojęcie prędkości polowej zastępuje się pojęciem dynamicznym, łatwo bowiem wyrazić je przy użyciu momentu pędu:
+
+gdzie:
+ - moment pędu planety,
+m - masa planety,
+d - nieskończenie mały wektor przesunięcia w ruchu po orbicie
+ - promień wodzący z ogniska
+ - prędkość liniowa na orbicie
+Zastosowano tu wzór na pole trójkąta:  gdzie  jest kątem między promieniem wodzącym a wektorem przesunięcia  na orbicie.
+Stąd:
+
+Powyższą zależność można zinterpretować jako przejaw działania zasady zachowania momentu pędu planety. Siła grawitacyjna bowiem, jako oddziaływanie centralne, w układzie podwójnym nie wywołuje momentów sił, zatem moment pędu układu zostaje zachowany.
+
+
+=== Trzecie prawo KepleraEdytuj ===
+Jeśli planeta porusza się w polu grawitacyjnym gwiazdy, ale jej masa jest na tyle duża, że nie można jej pominąć przy porównaniu z masą gwiazdy, natomiast pominie się oddziaływania z innymi ciałami, obowiązuje zależność zwana uogólnionym III prawem Keplera:
+.
+gdzie:
+ – odległość między środkami mas: planety i obieganej gwiazdy;
+ – stała grawitacji;
+ – masa danej planety;
+ – masa gwiazdy;
+ - okres obrotu planety wokół gwiazdy.
+Z uogólnionego trzeciego prawa Keplera, pomijając masę planety, można wyprowadzić sformułowane przez Keplera prawo, gdy: .
+
+
+== Zobacz teżEdytuj ==
+orbita
+
+
+== Uwagi ==
+
+
+== PrzypisyEdytuj ==

@@ -1,0 +1,100 @@
+Webbrowser [ˈbɹaʊ̯zə˞] apo Shfletues rrjeti (Browser angl. për "shfletues") apo Shfletuesi elektronik është program i kompjuterit për shikimin e faqeve të Internet-it. Përkrah HTML është shfletuesit i tregojnë edhe dokumente të ndryshme si Word (.Doc).
+Shfletuesi elektronik zakonisht kryen më së paku dy funksione : shfletimin (gjurmimin) dhe interpretimin e fletëve të gjetura në internet. Në praktikë këto programe kanë edhe komponent tjera që ju mundësojnë kryerjen më shumë funksioneve si p. sh. : bllokimin e fletëve të padëshiruara, etj.
+Poshtë e shihni listën e Shfletuesve të Internetit të kategorizuar sipas platformës.
+
+
+== Për më shumë platforma ==
+Amaya
+Aphrodite [1]
+Beonex Communicator
+Contiki (edhe mbi 8-Bit-Systemen)
+Dillo
+emacs-w3m (Emacs)
+links
+lynx (Vetëm Tekste)
+Google Chrome
+Mozilla
+Mozilla Firefox (përpara Phoenix)
+Flock
+
+Netscape
+Netscape Navigator
+Netscape Communicator
+Netscape Compact)
+Minimo
+
+NCSA Mosaic
+Netrik (Tekst, Grafika optionale)
+Opera
+Opera
+W3 (Emacs)
+
+
+== Për ? ==
+Maxthon
+WorldWideWeb
+Erwise
+ViolaWWW
+Safari
+
+
+=== Shfletuesit për JAVA ===
+Përdoren vetëm për një platformë të gjuhës programuese JAVA
+HotJava
+ICE Browser [2]
+Jazilla (Mozilla-Klon)
+JRex [3]
+Just
+
+
+== Shfletuesit për Linux ==
+Po ashtu për Linux përdoren shletuesit e sistemit Unix.
+Chromium
+chimera2
+edbrowse
+Encompass
+Epiphany
+Galeon
+Kazehakase
+Konqueror Version 4 do të Funksionon edhe në Windows
+Links2
+w3m
+Internet Explorer for UNIX
+
+
+== Shfletues për Microsoft Windows ==
+Windows Internet Explorer
+K-Meleon
+Maia
+Off By One [4]
+Space-Browser 3D-Browser
+
+
+=== Shfletues me funksione plotsuese për IExplorer ===
+Këta shfletues përdorin bërthamën e Internet Eksplorës, mirëpo i kanë disa funksione më tepër, ose më pakë, por kryesisht të bazuara në Inerenet Eksplorer.
+Avant Browser
+Crazy Browser
+CubicEye 3D-Browser
+DeepNet Explorer
+DX Browser
+Exxoo Browser
+Maxthon (më herët: MyIE2)
+NeoPlanet
+NetCaptor
+Slim Browser
+S Network snetwork.net
+Netscape Navigator 8 (Kombination me Gecko-Engine prej Firefox dhe IE)
+AOL (American Online)
+
+
+== Shfletues për DOS ==
+Arachne
+GEOS Brovser
+
+
+== Emacs ==
+Emacs përdorë dy llojë shfletuesi : W3 dhe emacs-w3m të cilët funksionojnë sikurse në fletat në konsolë (mekanike) dhe në pjesën grafike të përdorimit (vizuale).
+
+
+== Shfletues për Macintosh ==
+Mi

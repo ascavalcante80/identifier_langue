@@ -1,0 +1,28 @@
+XHTML merupakan singkatan dari eXtensible HyperText Markup Language. XHTML merupakan bentuk reformulasi dari HTML menggunakan paradigma XML.
+XHTML adalah bahasa markup penerus dan pengembangan dari HTML yang memiliki kemampuan yang kurang lebih mirip HTML, tapi dengan aturan sintaks yang lebih ketat. HTML merupakan aplikasi dari SGML (Standard Generalized Markup Language) yang sangat fleksibel, sedangkan XHTML adalah aplikasi dari XML, turunan SGML yang lebih terbatas.
+Karena XHTML harus memiliki keteraturan-bentuk (mengikuti sintaks yang tepat), dokumen XHTML dapat diproses otomatis dengan menggunakan standar pemroses XML - tidak seperti HTML yang membutuhkan pemroses yang cukup sulit dan kompleks. XHTML dapat dianggap sebagai perpaduan antara HTML dan XML karena merupakan formulasi ulang HTML dalam bentuk XML. XHTML 1.0 telah menjadi rekomendasi W3C atau World Wide Web Consortium pada tanggal 26 Januari 2000.
+
+
+== Pendahuluan ==
+XHTML adalah sebuah kombinasi dari HTML dan XML (Extensible Markup Language) & merupakan bentuk sempurna (dalam arti, lebih ketat dan bersih dibandingkan HTML). Tujuan XHTML adalah menggantikan HTML. XHTML adalah bentuk HTML yang didefinisikan sebagai aplikasi XML yang berarti XHTML berisi semua elemen dalam HTML 4.01 dikombinasikan dengan sintaks XML.
+XHTML adalah bahasa markup sebagaimana HTML, tetapi dengan gaya bahasa lebih baik. XHTML merupakan versi HTML yang memenuhi persyaratan XML dan merupakan sebuah dokumen HTML,dan XHTML menjadi standar internasional dengan spesifikasi yang ditetapkan oleh W3C (World Wide Web Consortium).
+
+
+== Alasan Menggunakan XHTML ==
+Beberapa alasan mengapa menggunakan XHTML:
+XHTML menyempurnakan kekurangan-kekurangan pada HTML.
+XHTML dapat dijalankan pada berbagai platform, sehingga memungkinkan situs kita dibuka dengan baik melalui PDA dan ponsel.
+
+
+== Penulisan ==
+XHTML tidak terlalu berbeda dengan HTML 4.01 standar. Jika sudah mempunyai kemampuan HTML 4.01 maka akan sangat membantu untuk memulai XHTML. XHTML mengharuskan penulisan tag dengan huruf kecil (lowercase) dan selalu menutup menggunakan penutup tag.
+
+
+=== Deklarasi Pada XHTML ===
+Deklarasi Doctype pada XHTML hampir sama dengan Doctype pada HTML. W3C mengharuskan agar selalu menggunakan Doctype pada XHTML. Terdapat 3 Jenis Doctype pada XHTML:
+XHTML - Strict. Digunakan untuk membuat halaman yang layout dan formatnya dikontrol penuh oleh CSS.
+Pada deklarasi ini menggunakan tag font dan table.
+
+XHTML - Transitional. Digunakan untuk membuat halaman yang sebagian besar menggunakan tag-tag HTML.
+
+XHTML - Frame. Digunakan jika kita memakai frame pada halaman web.

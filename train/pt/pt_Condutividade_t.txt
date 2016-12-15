@@ -1,0 +1,64 @@
+A condutividade térmica () quantifica a habilidade dos materiais de conduzir energia térmica. Estruturas feitas com materiais de alta condutividade térmica conduzem energia térmica de forma mais rápida e eficiente que estruturas análogas feitas contudo de materiais com baixa condutividade térmica. Desta maneira, materiais com alta condutividade térmica são utilizados em dissipadores térmicos e materiais de baixa condutividade térmica são utilizados na confecção de objetos que visam a prover isolamentos térmicos, a exemplo, em cobertores. Esta propriedade, que é uma propriedade do material e não do objeto, guarda íntima relação com a equação de transporte de Boltzmann.
+A condutividade térmica é uma característica específica de cada material, e depende fortemente tanto da pureza como da própria temperatura na qual esse se encontra (especialmente em baixas temperaturas). Em geral, a condução de energia térmica nos materiais, aumenta à medida que a temperatura aumenta.
+A condutividade térmica equivale numericamente à quantidade de calor  transmitida por unidade de tempo através de um objeto com espessura  unitária, numa direção normal à área da superfície de sua seção reta , também unitária, devido a uma variação de temperatura  unitária entre as extremidades longitudinais. O inverso da condutividade térmica é a resistividade térmica.
+A unidade de condutividade térmica segundo o sistema internacional de unidades é o watt por metro e por kelvin, sendo o watt obviamente análogo ao joule por segundo.
+
+
+== Definição matemática ==
+Matematicamente, a condutividade térmica relaciona a quantidade de calor  transmitida por intervalo de tempo  (a potência térmica) através de uma barra de material de comprimento , na direção normal à seção reta de área , com a diferença de temperaturas  imposta às extremidades longitudinais. Assume-se o sistema em regime estacionário, e que não há fontes de calor laterais além da atrelada à manutenção da citada diferença de temperaturas entre as extremidades.  Matematicamente:
+
+De onde conclui-se que a condutividade térmica  do material do qual a barra é feito pode ser experimentalmente determinada pela relação:
+.
+uma vez que todos os termos à direita são grandezas experimentalmente mensuráveis.
+
+
+== Unidades de medida e medição ==
+No Sistema Internacional de Unidades (SI) a condutividade térmica é medida em unidades de watt por metro kelvin [W/(m·K)]. A quantidade recíproca à condutividade térmica é a chamada resistividade térmica que, no sistema internacional de unidades, tem por unidade o metro kelvin por watt (K·m/W).
+Existem várias maneiras de se medir a condutividade térmica. A escolha do método a ser empregado depende do sistema em questão, da temperatura média do sistema, e varia também de acordo com as grandezas com as quais se quer estabelecer a dependência.
+Há uma distinção entre técnicas de estado estacionário e técnicas de estado transiente. Em geral, as técnicas de estado estacionário são úteis quando a temperatura do material não muda com o tempo. Isso faz com que a análise do sinal seja direta, uma vez que estados estacionários implicam em sinais constantes. A desvantagem desses métodos é que uma boa engenharia experimental é necessária. Já as técnicas de transiente realizam medições durante o processo de aquecimento. Sua vantagem é a de ser um processo de medida mais rápido. Esses métodos normalmente são realizados por sondas do tipo agulha.
+
+
+== Fatores que influenciam a condutividade ==
+Como dito anteriormente, podemos ver que seu valor depende diretamente do material empregado. A seguir, vamos citar outros fatores que influenciam o valor da condutividade térmica.
+
+
+=== Fase do material ===
+Quando um material sofre uma mudança de fase de sólido para líquido ou de líquido para gás, a condutividade térmica geralmente muda. Um exemplo é a mudança na condutividade térmica que ocorre quando a água em sua forma sólida, com condutividade térmica de 2,18 W*m-1*K-1 a 0 °C, derrete e passa a ter condutividade térmica de 0,58 W*m-1*K-1 a 0 °C quando em sua forma líquida. Isso se deve ao fato de que o calor se dá de maneira diferente para cada estado da matéria:
+Gases: a transferência de calor por condução se dá através da colisão entre os átomos ou moléculas do gás e, por serem meios mais dispersos, a condutividade é pequena em comparação com a maioria dos sólidos.
+Sólidos não Metálicos: nestes a transferência de calor se dá através das vibrações da rede. Essa transferência é descrita através de fônons, os quanta das vibrações da rede.
+Sólidos Metálicos: esses são os melhores condutores de calor. Isso se dá porque os mesmos os elétrons livres responsáveis pela condução elétrica nos metais também participam de maneira significativa do processo de condução térmica. A condução por elétrons justapõe-se à transmissão via vibrações da rede, e a condução térmica dá-se de forma bem mais eficiente.
+
+
+=== Estrutura do material ===
+Um cristal puro apresenta condutividade térmica diferente ao longo de cada um dos seus diferentes eixos cristalinos, pois há diferenças no acoplamento dos fônons ao longo dos diferentes eixos do cristal.
+
+
+=== Condutividade elétrica ===
+Nos metais, a condutividade térmica esta relacionada com a condutividade elétrica de acordo com a lei Wiedemann-Franz, uma vez que os elétrons de condução, além de possibilitarem a corrente elétrica, transferem também energia térmica. No entanto, a correlação entre a condutância elétrica e a térmica só vale para metais, devido a forte influência dos elétrons no processo de transferência de eletricidade e dos fônons no processo de transferência de energia térmica.
+
+
+=== Convecção ===
+
+O ar e outros gases, na ausência de convecção, geralmente são bons isolantes térmicos. Por isso, muitos dos materiais são isolantes por apresentarem poros que permitem o armazenamento de gases contudo impedem a convecção em grande escala. Exemplos destes materiais incluem polímeros porosos como o isopor, e o aerogel de sílica. Outros isolantes naturais são os biológicos, tais como pelos e penas, que protegem as peles dos animais contra agentes externos. As peles que possibilitam a produção de couro são também excelentes isolantes térmicos.
+As cerâmicas são utilizadas nos sistemas de escape para evitar que haja calor sobre componentes a esse sensíveis. Gases pouco densos, como hidrogênio e hélio, normalmente têm condutividade térmica mais acentuada. Já gases densos como xenonio e diclorodifluorometano apresentam baixa condutividade térmica. Uma exceção é o hexafluoreto de enxofre, um gás denso com alta condutividade térmica, devido à sua capacidade térmica elevada. Argônio é um gás mais denso que o ar, e frequentemente é utilizado para preencher o interior de janelas com vidros duplos a fim de melhorar suas características de isolamento térmico.
+
+
+== Condutividade térmica de materiais a 27 °C (300 K) ==
+
+A tabela acima é autoevidente, contudo algumas considerações adicionais devem ser feitas. A exemplo, é um engano a informação em senso comum de que o ouro (Κ = 317 W·m-1·K-1) é melhor condutor térmico do que os materiais citados. Na temperatura ambiente, o melhor condutor de calor ainda é a prata. Em comparação, usando o cobre como referência, a prata tem condutividade térmica 108 % maior; o cobre 100 %; o ouro 70 %; o alumínio 60 % e o titânio apenas 1 %.
+Entretanto, como meio de estabelecer conexões entre partes metálicas de diferentes elementos, de forma a possibilitar calor de uma superfície à outra, o ouro leva muita vantagem sobre os demais materiais, pois sua oxidação ao ar livre é extremamente baixa; resultando numa elevada durabilidade e bom contato físico, elétrico e térmico. Entre os materiais citados, o alumínio seria o pior material para tais tipos de conexões térmicas ou elétricas, devido à sua facilidade de oxidação e à baixa condutividade térmica da superfície oxidada. Por motivos semelhantes, uma conexão via peças de cobre douradas, ao estilo das encontradas nas placas mãe de computadores, também leva vantagens sobre o alumínio e outros metais.
+Uma conexão entre superfícies feita de cobre, soldada com prata, constitui uma das melhores combinações práticas para se viabilizar tanto a condução térmica bem como a condução de eletricidade entre dois ou mais pontos.
+
+
+== Outras definições relacionadas à condutividade térmica ==
+O inverso da condutividade térmica é a resistividade térmica, geralmente medida em kelvin-metros por watt (K-m/W). Ao lidar com uma quantidade conhecida de material, um objeto em específico, grandezas físicas importantes são a sua condutância térmica e sua propriedade recíproca, à resistência térmica, as quais podem ser facilmente determinadas a partir da geometria do objeto e da condutividade ou resistividade térmicas do material. Embora muito usadas em conjunto, não se deve contudo confundi-las, pois tais grandezas definem-se por diferentes relações constitutivas. A seguir, apresentamos algumas relevantes.
+
+
+=== Condutância ===
+Geralmente, a condutividade térmica é a quantidade de calor que passa por unidade de tempo através de uma prato circular de área  unitária (1m2) e espessura  também unitária (1m) quando a diferença de temperatura entre suas faces é unitária (1 K). Para um prato com condutividade térmica , a condutância térmica é dada por
+ e é medida em W*K-1.
+A condutividade e a condutância térmicas são quantidades que guardam entre si relações análogas as que guardam entre si as grandezas condutividade elétrica e condutância elétrica.
+
+
+=== Coeficiente de calor e outras grandezas ===
+Outra quantidade interessante relacionada à solução de problemas envolvendo condução térmica é o coeficiente de transferência de calor U, grandeza derivada da incorporação da espessura do material à sua característica de natureza intrínseca. Esta quantidade é normalmente utilizada quando tem-se um sistema composto pela justaposição de diversas camadas de diferentes materiais, cada qual com sua espessura própria, sendo definida de forma a permitir uma soma simples a fim de se obter um coeficiente global para o sistema. A última grandeza determina a quantidade de energia, sob a forma de calor, que passa por segundo através de cada metro quadrado de superfície, qua

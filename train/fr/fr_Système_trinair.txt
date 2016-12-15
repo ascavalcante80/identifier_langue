@@ -1,0 +1,69 @@
+Le système ternaire (ou trinaire) est le système de numération utilisant la base trois. Les chiffres ternaires sont connus sous le nom trit (trinary digit), de manière analogue à bit.
+Bien que la plupart du temps, cela fait référence à un système dans lequel les trois chiffres, 0, 1 et 2, sont tous des nombres entiers positifs, l'adjectif qualifie aussi le système ternaire balancé, utilisé pour la comparaison logique.
+
+
+== Comparé à la base 10 et 2 ==
+
+
+== Notation ternaire balancée ==
+Un système de numération appelé ternaire balancé (en) utilise des chiffres avec les valeurs -1, 0, et 1. Cette combinaison est particulièrement intéressante pour les relations ordinales entre deux valeurs, où les trois relations possibles sont inférieur à, égal, et supérieur à. Le ternaire balancé est compté comme suit : (dans cet exemple, le symbole 1 désigne le chiffre -1, mais de manière alternative pour un usage plus facile - peut être utilisé pour désigner -1 et + pour désigner +1.)
+Le ternaire non-balancé peut être converti en notation ternaire balancé en ajoutant 1111.. avec retenue, puis en soustrayant 1111... sans retenue. Par exemple, 0213 + 1113 = 2023, 2023 - 1113 = 1113(bal) = 710.
+
+
+== Utilisation du ternaire balancé ==
+
+
+=== En électronique ===
+Le ternaire balancé est facilement représenté par les signaux électroniques, comme potentiel pouvant être soit négatif, neutre ou positif. Par conséquent, un fil électrique peut transporter plus d'informations en ternaire (trois états) qu'en binaire (deux états). Ainsi, le système ternaire en électronique permet de réduire le nombre de composants, et donc la consommation électrique. L'avantage peut se calculer avec log(3)/log(2)=~1,5849 bits par trit. Soit environ 60 % d'informations en plus dans un trit que dans un bit, ou plus pragmatiquement environ 40 % de fils électriques en moins (pour la même quantité d'informations).
+
+
+=== En développement logiciel ===
+Les processeurs des ordinateurs effectuent des comparaisons de nombres. Trois cas se présentent : un nombre est supérieur, égal ou inférieur à un autre. Cette comparaison entre deux nombres se réalise en soustrayant ces deux nombres, le résultat étant stocké dans un registre du processeur. Le registre d'état associé indique alors si le résultat est négatif, nul ou positif (le drapeau Zero indique si nul ou pas et le drapeau Sign indique le signe).
+Cette capacité ternaire des processeurs est quelquefois exploitée pour réaliser des opérations rapides. Par exemple, prenons le cas d'une fonction retournant un code pouvant prendre trois états différents. De façon académique, cette fonction est implémentée en renvoyant un type énuméré avec trois valeurs possibles. Le code de retour de cette fonction doit donc être comparé à chacune de ces trois valeurs pour réaliser l'opération associée à chaque état. En utilisant cette capacité du processeur, cette fonction peut être implémentée en renvoyant un entier signé. Déterminer le code de retour est alors bien plus rapide car ce sont les drapeaux (bits) du registre d'état qui sont directement vérifiés.
+Exemple de fonction en C exploitant la capacité ternaire du processeur à distinguer les nombres négatifs, nuls et positifs.
+
+
+=== En transaction monétaire ===
+Un système monétaire utilisant le ternaire balancé réglerait le problème de l'accumulation de petite monnaie ou au contraire du manque de monnaie. Il faut pour cela frapper des pièces de valeur 1, 3, 9, 27... En exprimant les prix en ternaire standard, on a un moyen de faire l'appoint en n'utilisant au maximum que deux pièces de chaque valeur. Mais si on exprime les prix en ternaire balancé, alors chaque 1 représente une pièce que le client doit donner au commerçant et chaque -1 une pièce que le commerçant doit lui rendre, la valeur des pièces étant déterminées par la position du chiffre dans le nombre. Par exemple pour payer un prix de 1-10 (soit 6 en décimal), le client donne une pièce de 9 et le commerçant lui rend une pièce de 3. Les 1 et -1 étant également probables, la distribution des pièces reste uniforme. On ne va plus à la banque que pour déposer ou retirer des grandes pièces.
+
+
+=== Dans d'autres domaines ===
+Le ternaire balancé possède d'autres applications. Par exemple, une balance classique à deux plateaux, avec un poids pour chaque puissance de 3, peut peser des objets relativement lourds avec précision avec un petit nombre de poids, en déplaçant les poids entre les deux plateaux et la table. Par exemple, avec des poids pour chaque puissance de 3 jusqu’à 81, un objet de 60 g sera pesé parfaitement avec un poids de 81 g sur l'autre plateau, le poids de 27 g dans le premier plateau, le poids de 9 g dans l'autre plateau, le poids de 3 g dans le premier plateau, et le poids de 1 g restant de côté. Ceci est une solution optimale du point de vue du nombre de poids nécessaires pour peser tout objet. 60 = 11110
+
+
+== Addition ternaire ==
+Pour faire des additions ternaire il y a plusieurs solutions. La première explique ce que la deuxième sera faite de tête. Cela consiste à faire une conversion en décimal (attention tous les nombres en binaire dans le ternaire sont décimaux).
+Exemple :
+
+01010101010101010101+
+11011110101110101011=
+12021211111211111112 (résultat décimal ou ternaire)
+
+Les additions ternaires se font par conversion décimale. Exemple :
+
+ 2102120212+
+ 1110210212=
+ 3212330424 (conversion décimale)
+10220101201 (résultat ternaire)
+  
+
+Dans les additions ternaires, il suffit comme en décimal de mettre une unité au dessus. Exemples :
+décimal
+
+ 99999+
+ 99999=
+199998                 9+9=18 on pose 8 on retient 1 qui vient s'ajouter aux autres chiffres
+
+ternaire
+
+ 2102121+
+ 2121201=
+12001022              
+              
+
+0<1<2 2 est supérieur à 1 qui est supérieur à 0 1<2<0 1 est supérieur à 0 qui est supérieur à 2 2<0<1 0 est supérieur à 2 qui est supérieur à 1
+
+3==0    s'il y a un résultat qui est a 3 on pose 0
+4==1    si un résultat est a 4 on pose une unité au dessus 1
+if 33       s'il y a un résultat de 33 on pose 1 puis 0 sur le dernier 3
+== 

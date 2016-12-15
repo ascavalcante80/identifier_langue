@@ -1,0 +1,40 @@
+Odkształcenie – miara deformacji ciała poddanego działaniu sił zewnętrznych.
+Aby móc mówić o odkształceniu, należy wyróżnić dwa stany ciała: początkowy i końcowy. Na podstawie różnic w położeniach punktów w tych dwóch stanach można wyznaczać liczbowe wartości odkształcenia.
+Zależność pomiędzy stanem odkształcenia a naprężenia określa m.in. Prawo Hooke’a.
+
+
+== Odkształcenie liniowe osioweEdytuj ==
+Przy rozpatrywaniu uproszczonego przypadku rozciągania, bądź ściskania, czyli odkształcenia liniowego pręta tylko wzdłuż jego długości, biorąc pod uwagę dwa dowolnie wybrane punkty wewnątrz nieobciążonego ciała, można określić odległość pomiędzy nimi. W chwili obciążenia tego ciała siłami zewnętrznymi następuje jego deformacja, a w wyniku tego zmienia się odległość pomiędzy rozpatrywanymi punktami. Odkształcenie liniowe ε w dowolnym punkcie ciała jest granicą ilorazu różnicy odległości do odległości wyjściowej, gdy odległość wyjściowa zmierza do zera.
+
+Innymi słowy przy definicji odkształcenia w punkcie rozważa się zmiany odległości w bezpośrednim otoczeniu tego punktu.
+
+
+== Odkształcenie liniowe - przypadek ogólnyEdytuj ==
+Dla ciała o dowolnym kształcie, poddanego dowolnej deformacji wartości odkształcenia liniowego mogą być różne w zależności od kierunku w jakim są badane. Jeśli rozpatrujemy odkształcenie liniowe w punkcie A położonym w początku układu współrzędnych i obierzemy punkt B leżący na osi x układu, który pod wpływem obciążenia przemieścił się do B' to odkształcenie liniowe można zapisać jako:
+
+Przeprowadzając podobną analizę dla osi y i z można otrzymać odpowiednio εy i εz. Mając dane pole przemieszczeń  (czyli wartości wektora przemieszczenia dla wszystkich punktów ciała) można zapisać odkształcenia liniowe jako:
+
+ ;  ; 
+
+
+== Odkształcenie postacioweEdytuj ==
+Podobnie rozważa się zmiany miar kątowych w bezpośrednim otoczeniu punktu. Odkształcenie kątowe γ jest granicą ilorazu różnicy kąta pomiędzy dwoma dowolnie wybranymi odcinkami w ciele nieobciążonym i obciążonym, gdy długości tych odcinków zmierzają do zera. Mając dane pole przemieszczeń jak wyżej można zapisać:
+
+ ;  ; 
+
+
+== Odkształcenie objętościoweEdytuj ==
+Chociaż odkształcenia liniowe ε i kątowe γ w pełni definiują stan odkształcenia, możliwe jest wyznaczenie innych charakterystycznych wartości odkształceń. Jednym z nich jest odkształcenie objętościowe, które jest miarą zmiany objętości ciała. Z definicji odkształcenie objętościowe to:
+
+gdzie: V(0) - objętość początkowa, V - objętość końcowa
+Można udowodnić, że w układzie kartezjańskim:
+
+
+== Zapis tensorowyEdytuj ==
+Stosując jednolite oznaczenie dla obu typów odkształceń można zapisać odkształcenie w postaci tensora odkształcenia:
+
+,
+
+lub w notacji tensorowej:
+
+Porównując zapis tensorowy z tradycyjnym, dla przypadku kartezjańskiego układu współrzę

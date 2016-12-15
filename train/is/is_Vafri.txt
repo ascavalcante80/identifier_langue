@@ -1,0 +1,11 @@
+Vafri (vefskoðari, skoðari, vefsjá, netvafri, rápforrit,, rápari, vafrari eða vefrápari) er forrit sem notað er til að vafra um eða skoða skjöl á vefþjónum eða skráakerfi m.a. með notkun HTTP-samskiptareglnanna. Vafrar lesa kóða vefsíðu og nota hann til að miðla kóðanum á lesanlegu formi til notandans. Þeir eru mest notaða tegund aðgangsbúnaðar. Stærsta netkerfi samansett af samtengdum skrám er þekkt sem veraldarvefurinn.
+
+
+== Algengir netvafrar ==
+Apple Safari
+Google Chrome
+Konqueror
+Microsoft Internet Explorer
+Mozilla Firefox
+Netscape
+Omni

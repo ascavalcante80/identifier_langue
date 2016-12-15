@@ -1,0 +1,23 @@
+hay đổi lên màn hình.
+Bộ phân tích lôgíc - dùng để kiểm tra mức lôgíc của tín hiệu trong các mạch số.
+Bộ phân tích phổ - dùng để đo năng lượng phổ của tín hiệu.
+Bộ phân tích tín hiệu véc-tơ (vector signal analyzer) - giống như bộ phân tích lôgíc nhưng nó có thêm chức năng điều chế số.
+Máy đếm tần số - đo tần số
+Phản xạ kế miền thời gian (time-domain reflectometer) - dùng để kiểm tra tính toàn vẹn của các đường dây cáp dài.
+
+
+== Các thiết bị điện tử ==
+Thiết bị điện tử
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Sách học điện tử trên Wikibooks
+IEEE
+IEEE spectrum
+Electronix Express
+ICGrid Các thiết bị và linh kiện điện tử
+Electronics Discussions Các nhóm mới liên quan đến điện tử
+www.dientuvietnam.net Cộng đồng Điện Tử Việt Nam

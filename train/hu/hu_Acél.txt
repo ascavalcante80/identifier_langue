@@ -1,0 +1,79 @@
+Az acél a vas legfontosabb ötvözete, fő ötvözője a szén, amiből legfeljebb 2,06 tömegszázalékot tartalmaz. Ez az acél egyik definíciója. A másik definíció szerint az acél olyan vasalapú ötvözet, amelyet képlékeny alakítással lehet megmunkálni (kovácsolni, hengerelni stb.). Ebben a megfogalmazásban nem kritérium a szén jelenléte, noha a szén a vas legáltalánosabb ötvözőanyaga. Ötvözőként sok más elem is használatos. A szén és más elemek növelik az acél szilárdságát, egyben csökkentik képlékenységét. Különböző fajta és mennyiségű ötvözőkkel az acél olyan tulajdonságait lehet megváltoztatni, mint a keménység, rugalmasság, hajlékonyság, szilárdság, hőállóság, savállóság, korróziómentesség. Előállítanak a különböző acélfajtákhoz hasonló olyan vasötvözeteket is, amelyekben a szenet más ötvözőanyagokkal helyettesítik, és a ha a szén jelen is van, nemkívánatos szennyeződésnek számít.
+A vas 1538 °C-on, az acél – széntartalmától függően – ennél kisebb hőmérsékleten olvad. Ezeket a hőmérsékleteket – többé-kevésbé – már az ókori technológiai módszerekkel el lehetett érni, ezért a vasat legalább 6000 éve használják (a bronzkorszaktól kezdve).
+
+
+== Vas és acél ==
+
+A vas a Föld kérgének mintegy 4,7%-át alkotja több mint száz vasásvány formájában, de – a fémek többségéhez hasonlóan – elemi állapotban nem található meg. A vas ércásványai közül legfontosabbak az oxidok, pl: a magnetit (mágnesvasérc), a hematit (vörösvasérc), a limonit (barnavasérc), valamint a karbonát alapú sziderit (vaspát). A vasat az ércből úgy állítják elő, hogy redukálják, azaz oxigéntartalmát eltávolítják. A redukciót szénnel és szén-monoxiddal valósítják meg, például:
+
+,      .
+
+Az általános gyártástechnológia szerint az acélt két lépésben gyártják. Először nyersvasat állítanak elő nagyolvasztóban, itt hajtják végre a fenti redukciót (nyersvasgyártás). Mivel a folyékony vas jól oldja a szenet (jól ötvöződik vele), a nyersvasnak olyan magas a karbontartalma, hogy képlékenyen nem alakítható. A képlékenyen alakítható acél előállítása céljából a fölösleges szenet el kell távolítani. Ez az acélgyártás művelete, amely – a nyersvasgyártással szemben – oxidációs jellegű művelet. Az acélgyártás során az acélt a szén eltávolítása mellett szükség esetén más elemekkel is ötvözik, így kapják a sokoldalúan felhasználható acélminőségeket.
+Az acélfajtákat többféle szempont szerint lehet csoportosítani.
+Gyártási módszer szerinti csoportosítás. A különböző gyártási eljárások – sajátos technológiájukból adódóan - különböző minőségű és mennyiségű járulékos ötvözőt hagynak vissza az acélban. Eszerint meg lehet különböztetni
+oxigénnel frissített acélt,
+elektroacélt,
+korábbi gyártási eljárások szerint Bessemer-, Thomas- és Siemens-Martin-acélt.
+
+Felhasználási cél szerinti felosztás. Eszerint lehet szólni a szerkezeti, a szerszám- és a különleges acélfajtákról.
+A szerkezeti acélfajtáktól a szilárdság mellett megfelelő szívósságot is kívánnak, ellenállást a lökésszerű igénybevételekkel szemben. A szerkezeti acélfajták karbontartalma 0,6%-nál többnyire kisebb.
+A szerszámacélok legfontosabb tulajdonságai a keménység és a kopásállóság. Karbontartalmuk 0,6% fölötti, többnyire edzett állapotban használják.
+A különleges acélfajták valamely tulajdonsága a vas megfelelő tulajdonságától gyökeresen különbözik: lehetnek nem rozsdásodó vagy egyes savaknak ellenálló minőségűek, a vasnál jobban vagy rosszabbul mágnesezhetőek, meleg állapotukban teherbíróbbak stb.
+
+Az ötvözés mértéke szerinti felosztás szerint ötvözetlen, gyengén és erősen ötvözött acélt különböztetnek meg.
+Az ötvözetlen acél szándékosan adagolt ötvözőelemet – természetesen a szénen kívül – nem tartalmaz.
+A gyengén és erősen ötvözött acél között a határt rendszerint 5–8% ötvözőfém tartalomnál húzzák meg. Általában az ötvözés következtében a vas valamelyik jellegzetes tulajdonsága ezen a határon változik meg jelentősebben. Ezt a határértéket rugalmasan kell kezelni, például a 3–3,2% szilíciummal ötvözött transzformátorlemez anyaga erősen ötvözöttnek számít.
+Mikroötvözött acélok. Néhány ötvözőelem nagyon kis mennyiségben is hatással van az acél valamelyik tulajdonságára. Például néhány ezred százalék bór az acél átedzhetőségét, néhány század százalék nióbium pedig a kis széntartalmú acél folyáshatárát növeli.
+
+
+== Az acél egyensúlyi állapota ==
+
+A vas legfontosabb ötvözőelemével, a szénnel alkotott egyensúlyi diagramja a vas-szén állapotábra (vas-karbon diagram). A diagramban az átalakulásra jellemző vonalak láthatók, és a jellemző hőmérsékleteket és kémiai összetételeket lehet róla leolvasni. Az ilyen diagramok úgy készülnek, hogy rögzítik adott összetételű ötvözetek lehűlési görbéjét, és az átalakulási diagramban a lehűlési görbén mutatkozó töréspontokat ábrázolják. Az átalakulási diagram tehát nem más, mint egymás mellé helyezett lehűlési görbék pontjainak sorozata.
+Az általános lehűlési görbe szabályos, törés nélküli, folytonos görbe. Az olyan anyagok lehűlési görbéjén, amelyek folyékony állapotból kristályosodnak és szilárd állapotban allotróp átalakulások mennek végbe, különböző egyenes szakaszok és töréspontok figyelhetők meg. A színvas lehűlési görbéjén a kristályosodás hőmérsékletén a folytonosság megszakad, egy vízszintes, azaz állandó hőmérsékletű szakasz jelenik meg. Ennek az az oka, hogy a dermedéskor felszabaduló olvadáshő kiegyenlíti a hűlés hatását, és állandósítja a hőmérsékletet a megszilárdulás végéig. Ezt követően folytatódik a lehűlés jellege a szabályos hűlési görbe szerint. Hasonlóan állandó hőmérsékleten mennek végbe az allotróp átalakulások is, hasonló okból. Az acél – mint vas-szén ötvözet – lehűlési görbéje eltér a vasétól. A dermedés hőmérséklet-csökkenés közben megy végbe, amin belül az ötvözet folyékony és kristályos fázist is tartalmaz („pépesnek” nevezhető állapot).
+A vas-szén diagram elfogadott alakja „ikerdiagram” formájú, ami azt jelenti, hogy folytonos vonallal ábrázolják a vaskarbidos (Fe–Fe3C) állapotra vonatkozó vonalakat, szaggatott vonalakkal pedig a vas–szén (Fe–C) ötvözet viszonyai vannak ábrázolva (utóbbinál a szén a stabilis grafit alakjában van jelen). A diagram jellemző pontjait betűkkel jelölik, értelemszerűen minden ponthoz hőmérséklet és összetétel adat tartozik. Megjegyzendő, hogy a diagram pontjaira jellemző számadatok forrásról forrásra eltérhetnek kissé.
+Természetes, hogy acél esetén a folytonos vonallal rajzolt vas–vaskarbid diagramot kell tekinteni, és csak az E pontig (2,11 tömeg%) terjedő rész veendő figyelembe. A diagram legfelső görbéit likvidusz görbéknek nevezik, itt kezdődik az olvadék kristályosodása. A likvidusz alatt a szolidusz görbék vannak, ezek jelzik a megszilárdulás végét. A diagram többi görbéje a szilárd állapotban végbemenő allotróp átalakulásokat mutatja (az allotrópia a fémek kristályainak többalakúságára utal). Az allotróp módosulatokat a görög ábécé betűivel (α, β, γ, δ stb.), az átalakulás hőmérsékleteit pedig A betűvel (a francia arrêt = megállás szóból) és sorszámmal jelölik. A vasnak két kristályos módosulatát különböztetik meg: 1538 és 1394 °C között a α(δ)-vas, 1394 és 912 °C között a γ-vas, 912 °C-nál kisebb hőmérsékleten pedig az α-vas állandó. A fenti hőmérsékleteket a szén és a többi ötvözők módosítják (l. később). Meg kell jegyezni, hogy a vasmódosulatok közül az α-vas és az α(δ)-vas tulajdonképpen azonosnak tekintendő, megkülönböztetésüknek csupán tradicionális oka van.
+Régi szakirodalmakban még találkozni a β-vas megkülönböztetésével, aminek a hőmérsékletét 770 °C-nak állapították meg, és M (az ábrán nincs jelölve) és O betűvel jelölték. Valójában itt nem történik allotróp átalakulás, ez a hőmérséklet mindössze a vas Curie-hőmérséklete, itt van a mágnesezhetőség határa. Az O pont említésével ma is találkozni, főleg amikor a GOS vonalra hivatkoznak.
+Az acél szövetében megjelenő fázisok és szövetelemek – ásványtani mintára – neveket is kaptak:
+Ferrit vagy α-vas: A diagram G, P és a szobahőmérsékleten jelölt Q pontjai közötti keskeny sávjában állandó. 727 °C-on 0,0218%, szobahőmérsékleten 0,007% szenet old. Acélban az S pontnak megfelelő 0,77% szenet tartalmazó hipoeutektoidos ötvözetekben fordul elő.
+Ausztenit vagy γ-vas: Az NJSEG területen belül állandó, szenet vagy más ötvözőelemeket tartalmaz oldva.
+Cementit vagy vaskarbid, Fe3C: Három változatban fordul elő: az elsődleges vagy primer cementit a C ponttól „jobbra”, azaz a 4,30%-nál nagyobb karbontartalmú hipereutektikus ötvözetekben kristályosodik (értelemszerűen 1148 °C fölött). A másodlagos vagy szekunder cementit a 0,77%-nál nagyobb C-tartalmú ausztenitből válik ki az 1148–727 °C hőmérsékletközben. A tercier vagy harmadlagos cementit a ferritből alakul ki 727 °C alatt.
+Ledeburit: Az ausztenit és a cementit eutektikuma, ami 1148 °C-on kristályosodik 4,30% C-tartalommal (C pont).
+Perlit: A ferrit és a cementit eutektoidja, ami 727 °C-on jön létre (S pont). Szerkezete lemezes, ami annál finomabb, mennél gyorsabb lehűlés közben alakul ki (régebben megkülönböztették szorbit és trosztit nevű változatait, idejétmúlt elnevezések). A perlitnek van szemcsés szerkezetű változata is, ez edzett és megeresztett acélban mutatható ki.
+A fenti elnevezésű szövetelemek és fázisok egyensúlyi állapotban fordulnak elő, olyankor, amikor van elegendő idő az átalakulások végbemeneteléhez. Az egyensúlyi állapotban elő nem forduló szövetelemek:
+Martenzit: Az acél edzésekor jön létre ausztenitből. A γ-vas átalakul α-vassá, de az ausztenit oldott karbontartalma továbbra is oldva marad. A martenzit metastabil anyag, szénnel túltelített α-vas. A szénatomok térközpontú tetragonális szerkezetté torzítják a kockarácsot. A martenzit igen kemény és rideg szövetelem.
+Bénit(de): Ausztenit 727 °C alatt, az átalakulás befejeződéséig való hőntartása során képződik. Ferritbe ágyazott karbidkristályok alkotják.
+
+
+== Ötvözők ==
+A vas-szén ötvözethez gyakran adnak más anyagokat abból a célból, hogy kívánt tulajdonságú acélfajtát nyerjenek. A vas a periódusos rendszer elemei közül nem ötvöződik a nemesgázokkal, a halogénekkel, az alkáli fémekkel és az alkáli földfémekkel, a kis forráspontú fémek közül a higannyal, kadmiummal, magnéziummal, valamint az ezüsttel. Olvadt vassal nehezen elegyíthető a bizmut és az ólom is, de 20%-nál kisebb cinktartalmú vasötvözet is nehezen készíthető. A maradék elemek közül mindössze 20–25-nek van gyakorlati jelentősége.
+A leggyakrabban használt ötvözőelemek közül a nikkel és a mangán az acél szilárdságát növeli, az ausztenitet kémiailag stabilabbá teszi, keménységét és olvadáspontját növeli, és ezzel a szilárdsága magasabb hőmérsékleten javul (hőálló acél). A vanádium ugyancsak növeli a keménységet és a kifáradással szembeni ellenállást. Nagy mennyiségű króm és nikkel az acélt rozsdamentessé (alacsony hőmérsékleten korrózióállóvá), savállóvá teszi. A hőálló acélok nagy hőmérsékleten is kevéssé oxidálódnak, amit króm, alumínium és szilícium ötvözésével érnek el. Az ilyen acélok felületén hibátlan rácsú, tömör spinell-réteg képződik (például FeCr2O4 alakjában). A volfrám a cementit alakulására van hatással, ötvözése esetén a martenzitté alakulás kisebb edzési sebesség mellett is végbemegy, ezek a gyorsacélok, melyeket nagy teljesítményű forgácsolószerszámokhoz használnak. A nitrogén, a kén és a foszfor az acélt törékennyé teszi, ezért ezeket a szennyezőket általában igyekeznek eltávolítani az acélgyártás folyamán.
+
+Az ötvözés folyékony állapotban történik, amikor az ötvözőfém és az alapfém egységes oldatot képeznek, sűrűség alapján nem különülnek el egymástól. Megszilárdulás után ez az oldat megmarad, ezért az ötvözeteket úgy kell tekinteni, mint fémek megszilárdult oldatát, amelyek vegyeskristályok formájában kristályosodnak. Az ötvözőelemek kétféle módon épülhetnek be az alapfém kristályrácsába:
+Helyettesítéses (szubsztitúciós) módon: Ez a lehetőség akkor áll fenn, ha az ötvözőfém atomjai hasonló nagyságúak, mint az alapfém atomjai, és a két fém rácsszerkezete azonos. Ilyenkor az ötvöző atomjai helyettesíteni tudják a rácsban az alapfém atomjait.
+Beékelődéses (intersztíciós) módon: Ilyenkor az ötvözőfém atomjai kisebbek az alapfémétől, emiatt beékelődhetnek a kristályrácsba.
+Az ötvözőelemek hatására – ez már a Fe-C diagramon is látszik – a vas dermedése és allotróp átalakulásai hőmérséklet-közben mennek végbe. Emiatt nyílik egy pontból kiindulva például a likvidusz és a szolidusz görbe. A színvas dermedésének, olvadásának hőmérséklet-közét az ötvözők kivétel nélkül süllyesztik. Azonban az A4 és az A3 átalakulások hőfokközét az ötvözőelemek ellentétesen változtatják meg. Vannak olyan ötvözők, amelyek a felületen középpontos módosulat létrejöttének kedveznek. Ezek az A4 hőmérsékletet növelik, egyben az A3-at csökkentik. Ezeket az ötvözőket ausztenitképzőknek nevezik (szén, kobalt, mangán, nikkel stb.). Más ötvözők a térben középpontos kristályrács kialakulását segítik elő, az A4 hőmérsékletet csökkentik, az A3-at növelik; ezek a ferritképzők (alumínium, bór, króm, molibdén, nióbium, szilícium, ón, titán, vanádium, volfrám stb.). Az ötvözőelemeknek ez a hatása okozza, hogy egy olyan ötvözetben, amelyben az ausztenitképzők hatása érvényesül, a γ-tér lenyúlhat szobahőmérsékletig. Ezek az ausztenites acélok, mint például a 18% krómot és a 8% nikkelt tartalmazó saválló acél.
+
+
+== Hőkezelés ==
+A hőkezelés célja a fémek, ötvözetek bizonyos alaptulajdonságainak, többnyire mechanikai tulajdonságainak módosítása (keménység, szívósság stb.). A hőkezelés alapformulája szerint a fémet felmelegítik adott hőmérsékletre, ott hőntartják, majd meghatározott sebességgel lehűtik. Hőkezelés során a fém mindig szilárd halmazállapotú, az eljárás során összetétele nem változik meg, legfeljebb a felszíni rétegek kissé (van olyan hőkezelés is, amelynek a célja éppen a felületi kéreg összetételének módosítása).
+A hőkezelés elemi műveletei az izzítás, az edzés és a megeresztés. Az izzítás az utána következő lehűtés sebessége szerint lehet lágyító vagy normalizáló. Az összetettebb hőkezelési eljárások ezekből az elemi műveletekből állnak.
+Az acélok hőkezelési eljárásait az elérhető tulajdonságváltozások szerint lehet csoportosítani. Eszerint van:
+lágyító,
+keménységnövelő,
+szívósságot fokozó és
+felületi keménységet növelő hőkezelés.
+
+
+=== Lágyítás ===
+
+A lágyítás – általános megfogalmazás szerint – a képlékenyen hidegen alakított fémnek az alakítás következményeitől való mentesítését jelenti. Ezt többféle módon valósíthatják meg:
+Természetes öregbítés: A régi időkben használt feszültségcsökkentési gyakorlat volt. A kovácsok az acélt kirakták az időre 1–2 évig. Ott a téli-nyári, reggeli-esti hőmérséklet-változás hatására a feszültség körülbelül 40%-a leépült.
+Mesterséges öregbítés: Az anyagot felhevítik 200 °C-ra, és ezen a hőmérsékleten tartják 2–3 napig, majd a kemencével együtt hagyják lehűlni.
+Egyszerű lágyítás vagy feszültségtelenítés: Az eljárás során az acélt az A1 hőmérséklet (a vas-szén diagramon 727 °C), azaz az újrakristályosodási küszöb alá melegítik, hőntartják, majd lassan, általában levegőn lehűtik. Eredményeként a termékben, a hidegalakítás miatt kialakult belső feszültség részben vagy teljes egészében megszűnik.
+Újrakristályosító lágyítás: A hidegen alakított acélt A1–A3 hőmérséklet fölé hevítik és ott hőntartják. Ezalatt a ferrit és perlit ausztenitté alakul, aminek szemnagyságát az izzítás hőmérséklete és a hőntartás időtartama határozza meg, miközben a szerkezet megszabadul a hidegalakítás következményeitől.
+Szferoidizálás: Olyan lágyítási módszer, amely az acél perlitjét szemcséssé alakítja. Szferoidizáláskor az acélt az A1 hőmérséklet körül izzítják.
+
+
+=== Edzés ===
+
+Az edzés célja az, hogy szövetét a kívánt mértékben keménnyé (martenzitessé) tegyék. Ahhoz, hogy az acél martenzitessé alakuljon, azt – ö

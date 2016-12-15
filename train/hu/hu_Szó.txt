@@ -1,0 +1,70 @@
+A szó a nyelv egy jelentéssel bíró egysége, amely egy vagy több szorosan kapcsolódó morfémából áll. Általában a szó a szótőből és az esetleges toldalékokból áll.
+
+
+== A szó definiálásának nehézségei ==
+
+
+=== A szó definíciója a modern nyelvészetben ===
+A modern nyelvészet úgy tartja, hogy a szó a nyelv, ill. a beszéd intuitíven elkülöníthető egysége (mindenki meg tudja mondani, mit tart szónak), ám ez az elkülönítés nem egyértelmű (gondoljunk csak az összetett szavakkal kapcsolatos helyesírási problémákra, amikor a beszélő nem tudja eldönteni, hány szóból áll a leírandó szerkezet). A modern nyelvtudomány szerint a szó nyelvészeti terminusként nem használható. Olyan kritériumok alapján, amelyre a nyelvhasználók intuíciója is támaszkodhat, négyféle szót különböztet meg: a fonológiai szót, a lexikai szót, a morfológiai szót és a szintaktikai szót. (A vonatkozó szakirodalmat lásd ezekben a szócikkekben.)
+
+
+=== A szó definíciója a helyesírásban és a tipográfiában ===
+A szó a sor elején, írásjellel (például nyitó idézőjel) vagy szóköz után kezdődik, és a legközelebbi szóközig vagy írásjelig, vagy a sor végéig tart. A szó általában csak betűkből áll, de egyes írásjelek (például kötőjel, nagykötőjel) a szó részét is képezhetik. Ilyen értelemben a szó állhat számjegyekből (tizedesvesszőből stb.) is, de speciális esetekben számok és betűk kombinációjából is (R2D2). Az írott szónak csak közvetett köze van a szóhoz mint nyelvi egységhez.
+
+
+=== A szó definiálása a korábbi korokban ===
+Valamikor azt tanították, hogy szónak nevezzük a nyelvben a legrövidebb, még jelentéssel bíró, valószínűleg egybeírt jel- (betű-)sorozatot (Arisztotelész egyik művében, a Herméneutikában már szerepel ehhez hasonló definíció). Idegen szóval a szó neve: lexéma. Azonban nem mindegy, hogy a jelentéssel bíró – nem feltétlenül csak írott, hanem akár hangzó alakú szónak, amelynek határait fel kell tudni ismernünk egy hosszabb szövegkörnyezeteben – valójában csak egy jelentése, értelme, vagy több jelentése is van-e.
+A szóhatárok megállapítása bizonyos bizonytalansággal jár, a beszédben nagyobbal, írásban kevesebbel, mert vannak erre vonatkozó helyesírási szabályok (például egybeírás – különírás). Kérdés, hogy szónak tekinthető-e egy betű, amely egy szó kezdőbetűjét jelzi, annak rövidítése, és mint ilyen, általánosan érthető. Például T. Vendégek! További kérdés, hogy ezen az alapon szó-e egy betűszó, például IBM, illetve ha kibontjuk a három szót International Business Machines), akkor együtt egy szónak, vagy három szónak tekinthetők-e?
+Erre a választ már meghozta a élet, amikor nem tekinti mindig szóhatárnak a helyköz jelet, illetve, ha azt aláhúzás jellel helyettesíti, hogy a például a visszakeresésben ne kapjon olyan találatot, amely az IBM-et nem egymással összefüggésben, összekapcsolva találja meg, hanem egymástól távol és teljesen függetlenül.
+
+
+== A szó csoportosítási lehetőségei ==
+A szavak egymástól való megkülönböztetése vagy csoportosítása a jelentésen kívül még sokféle szempont alapján történik. A jelentés és a szóalak összefüggéseit az alak-jelentés viszony szócikk tárgyalja. A nyelvtan szófaji és mondatrész kategóriákba sorolja a szavakat.
+A magyar nyelvben a beszélt és írott mondatokban a szavakhoz végződések (például ragok, képzők) társulnak, illetve a szavaknak vannak elő- és utótagjai. Ezek eltávolításával (lemmatizálás) kapjuk a szavak szótári alakját, amire azért van szükség, hogy „normális, egységes alakra” hozzuk az egy tőből különböző módon képzett vagy ragozott szavakat, amelyek ily módon esetleg a képzésük, közös eredet miatt jelentésük szempontjából is összetartoznak. Az egy szó ragozással előállított alakjainak gyűjteményét paradigmának nevezzük.
+A ragoktól és végződésektől megfosztott köznyelvi szavak nyelvészeti célú, rendszerező összegyűjtésével a lexikográfia foglalkozik, a szakszavak összegyűjtésével és meghatározásával a terminológia.
+
+
+== A szó mint a világ/tapasztalat azonosításának eszköze ==
+A szavak talán legnagyobb nem nyelvtani, hanem logikai csoportját a nevek, a tulajdonnevek és közös főnevek, másképpen szólva névszók, vagy főnévi kifejezések alkotják, amelyek segítségével embereket, tárgyakat stb. azonosítunk. Az azonosításra szolgáló azonosítók, gyakorlatilag nevek azonban nem mindig egy szóból állnak, illetve ugyanazt a dolgot az egyik nyelvben egy szóval, a másik nyelven akár több szóval is jelölhetjük. A nevek keletkezésével, képzésük szabályaival stb. a névtudomány foglalkozik. A szavak címke, név vagy szám formájú azonosítóként való használatával a taxonómia, az osztályozási rendszerek és a nómenklatúrakészítés tudományterülete foglalkozik. Az azonosság törvényeiben a logika illetékes.
+A szavak egyik nyelvtani, nyelvészeti csoportosítása a szófajok szerint történik. Igen tág értelemben véve ezek a szófajok azonos jelentésfajtával rendelkeznek. Például igének nevezzük a cselekvést, történést stb. jelentő szavakat. Önmagában egy szó azonban nem hordozza a jelentést, annak lényeges feltétele a kontextus vagy környezet is. A magyar és angol szavak szófaji csoportosítása eltér; a magyar szófajok helyett izgalmasabb a magyar szavak szintagmakénti csoportosítása, mert a szintagma megmutatja a szó mondaton belüli szabályos, mondatalkotásra alkalmas szókapcsolatait.
+A magyar nyelvben problémát okoz, hogy összefüggő szöveg hallatán, láttán nem mindig világos, hogy egy hallott szó tulajdonképpen egy szó-e vagy két szó, azaz egybeírjuk vagy különírjuk, hiszen attól függően más és más lesz a jelentése. Az egybeírásról a magyar nyelv helyesírási szabályzata ad eligazítást (például: orosz tanárnő ’orosz nemzetiségű tanárnő’, orosztanárnő ’orosz nyelvet oktató tanárnő’, l. AkH.11 107.).
+Egy másik példa a forrás szó, amelynek nemcsak a többértelműsége, hanem más szavak környezetében való viselkedése is gondot okoz. Kiejtés során hajlunk arra, hogy a jelzőt, jelzőként használt főnevekkel együtt, egy szóként ejtsük (például forrásmű, erőforrások, hőforrás, forráspont), vagy ha hosszabb, akkor két szónak (forrás kutatás, ejtése lehet ['forrás 'kutatás]), ill. történeti források (jelzős szerkezeteknél csak különírás lehetséges).
+E problémák és bizonytalanságok miatt szükség van a szó definíciójának revíziójára, a jelentéssel összefüggésben. A jelentés arra hatalmaz fel bennünket, hogy nyelvi jelekkel végezzünk műveleteket valóságos tárgyak helyett, majdnem azonos következményekkel. Az első ilyen művelet rögtön az elnevezés, egy szó összekapcsolása valamilyen reáliával.
+Ehhez fordítsuk meg a szó definícióját, és írjuk le, hogy „egyértelmű jelentése van annak a szónak vagy egy szóval egyenértékű betűsorozatnak, amelynek a határait úgy sikerült megvonni, hogy az egész több, mint a részek összege, azaz nem lehet a kifejezést az azt alkotó tagok jelentéseiből levezetni (szinergia). Ezt a műveletet azonban valamilyen másik nyelvű vagy azonos nyelvű, de egyenértékű megnyilatkozáshoz viszonyítva lehet elvégezni, rekurzió segítségével.
+
+Példa: Ha a szavak arra szolgálnak, hogy valamit egyedileg azonosítsanak, akkor ezt több lépésben elvégezve a végén hely- és időkoordinátákat kapunk, amelyek együttesen alkalmazva valóban egyedileg azonosítják azt, ami az adott hellyel és időponttal összeköthető (minden valaminek térbeli és időbeli kiterjedése van, azaz nem semmi).
+
+Ha viszont adottnak vagy ismertnek vesszük az itt és most értékeit, akkor az elnevezendő, megragadandó dolog attól függően kap más és más nevet, hogy milyen távol vagy közel vagyunk hozzá, és az adott távolságban milyen léptékű leírás áll rendelkezésünkre; ezt úgy is mondhatjuk, egy absztrakt–konkrét kontinuum mentén hol tartunk.
+
+
+== A szó „tudása” ==
+Mit tudunk, ha tudunk, vagy ismerünk egy szót? Arra vagyunk képesek, hogy első hallásra megjegyezzük, utána felidézzük, helyesen leírjuk, helyesen kiejtsük, megfelelő helyzetben, nyelvtani szabályok szerinti jól használjuk, egy másik hasonló értelmű szóval helyettesítsük, ragozzuk, vagy más végződésekkel, toldalékokkal abból más jelentésű, szófajú stb. szavakat képezzünk, hogy ismerjük rövidített, és más változatú alakjait, milyen szavakkal jár együtt, mi a szófaja, meghatározása, jelentése, milyen szavak állnak alatta és felette a szavakkal jelzett dolgok hierarchiájában stb.
+Ám ezek a jellemzők nem mind nyelvészeti indíttatásúak, és nem is találhatók meg egyazon helyen. A különböző fajta szótárak együtt, vagy külön a szavak fenti ismérveit, illetve a különböző kézikönyvek, lexikonok és enciklopédiák tartalmazzák a szavakhoz és/vagy a szavakkal jelölt dolgokhoz, fogalmakhoz stb. tartozó ismereteket, szövegeket.
+Amit egy magyar szóhoz kapcsolódóan, az adott szóval kapcsolatosan a teljesség igénye nélkül tudhatunk a forrás típusának vagy nevének is a megjelölésével:
+A szó írott alakját (helyesírását) – helyesírás-ellenőrző program, helyesírási szótár
+A szó hangalakját (kiejtést) – kiejtési szótár, szókiejtő szótárprogram, szövegfelolvasó program
+A szó jelentését – értelmező szótár, kétnyelvű szótár
+A szó meghatározását – értelmező szótár
+A szó szinonimáit – szinonima szótárak
+A szó alá- és fölé rendelt kapcsolatait – tezaurusz
+A szó faj és nem viszonyai – tezauruszok, nomenklatúrák, osztályozási rendszerek
+A szó szófaját – kétnyelvű szótár
+A szó vonzatait – kollokációs szótár
+A szó kifejezésekben való előfordulásait – idióma szótár
+A szó képzett alakjait – ragozási táblázat
+A szóhoz tapadó képzeteket (konnotáció) – mindenkinek a saját fejében van
+A szó leggyakoribb kapcsolatait (asszociáció) – értelmező szótár, tanulmányok, irodalmi művek
+A szó stiláris, használati jellemzőit, besorolását – értelmező szótár, nyelvkönyvek, irodalmi művek, tanulmányok
+A szó szövegösszefüggéseit – értelmező szótár, irodalmi tanulmányok
+A szavak ilyen és hasonló tulajdonságai szerint készülő szógyűjtemények általában betűrendben rendezett, könyv alakú listák. A számítógép segítségével azonban újfajta kapcsolat is megteremthető egy adott szöveg kiválasztott szavához kötődően, anélkül, hogy a kiválasztott szó és a hozzá valamiért tartozó szöveg fizikailag is egymást mellett lenne, és/vagy hogy ez a kapcsolat ne lenne dinamikusan változtatható, beleértve a kiválasztott szavak vagy a hozzájuk tartozó szöveg(részek)sorrendjét (rendezettségét is). A másik újdonság, hogy a kiválasztott szóhoz nemcsak írott szöveg, hanem hang és kép is társulhat, sőt az áttéréshez a szóról a kapcsolataira elég, ha az egeret mozgatjuk a képernyőn a könyvbéli lapozás helyett. A harmadik újdonság a szövegfeldolgozásban van, abban a lehetőségben, hogy a szövegek szavai megszámolhatóak, sorba rakhatóak, vizsgálható az előfordulásuk (gyakorisága), környezetük stb.
+
+
+== A szó nem tudása ==
+A szó nem tudása a mindennapi életben azt eredményezi, hogy a beszélő keresi a szavakat, nem megfelelő kifejezésekkel helyettesíti a hiányzókat, illetve eltéveszti a használatukat. A szótévesztés gyakori dolog, főleg a hasonló szóhangzás okán keverjük össze a szavakat. A pontos, szabatos szóhasználat az elemi iskola alsó tagozatban, ahol gyakorlatilag állandóan új szavakat és szóhasználatot tanulnak a gyerekek sokkal jellemzőbb, mint a kamaszkorban és az ifjúkorban, amikor igénytelen a fogalmazás, hiányos és szegényes a beszéd. Egyik oka, hogy szemben például az USA-val, nálunk csak az elemi iskolában tantárgy a fogalmazás (composition), és hogy bizonyos emberek kerülik a folyamatos beszédet, az összefüggő fogalmazást, rosszul vannak az egy oldalnál (egy oldal felolvasva három perc) hosszabb műfajú írásoktól, beszédtől stb.
+A szó nem tudása olyan emberek esetében, akik foglalkozásszerűen sokat beszélnek vagy írnak hasonlóan gyakori, mivel az élet nem készít fel bennünket arra, hogy hosszabb ideig tudjunk magunkban fogalmazni, egy tárgyról beszélni. Ennek egyik következménye a baki, amelyek gyakoriságáról csak becsléseink lehetnek, mert számos nyilvános szöveg csak próbák után vagy több részben készülő felvételekről hangzik el, míg az írott szöveg szinte sohasem rögtönzött, annak kijavítására mindig adódik alkalom/jelentkező/hivatott. A fentiek a szó aktív nem tudásának a hiányáról szóltak.
+A szó passzív nem tudása sokkal gyakoribb, arra a tényre utal, hogy a naponta olvasott, hallott szavak többségét nem ismerjük, és nem is akarjuk megismerni. Általában megelégszünk azzal, hogy "eszik-e vagy isszák", vagy hogy "mi fán terem" és az se zavar bennünket, ha el sem tudjuk ismételni, ki sem tudjuk mondani, vagy nem tudjuk felolvasni. Ilyenkor például a "kütyü", "kacat", "ketyere" szavakkal élünk, vagy az adott dolog fölérendelt fogalmával segítjük ki magunkat. Ez különösen a fordításnál van így, ahol a dolog lényege szerint rendszeresen találkozunk olyan elnevezésekkel, amelyek magyar nyelvi megfelelője még nem született meg.
+
+
+== A szótanulás ==
+Az anyanyelv részét alkotó szavak tanulása az iskolában és az intenzív olvasással történik, míg az új, jövevény szavak tanulását a divat és a szükség irányítja, maga a tevékenység parttalan. Az idegennyelv tanulás során "tervszerűen" megtanulandó szavak körét és számát különböző oktatási stílusok és módszerek segítik, legújabban az internet. Az idegennyelv tanulásban tehát minden szó "új", azt kell "bekötni" a régi, már meglévő, ismert szókincsünk megfelelő részéhez. Azonban nem mindegy, hogy ezen bevésés során a szót sikerül-e először az adott helyzethez, környezethez, alkalomhoz, vagy egyéb már létező idegennyelvi tudásunkhoz kötni, vagy csupán a szó magyar "jelentésével való összekapcsolással" próbálkozunk.
+Ettől függően igyekezzünk a szavakat egyenként, egyszerre több oldalról is ismerős dologhoz kötve megtanulni, amiben segít, ha megtanulandó új szó olyan alakot, formát vagy jegyeket mutat, amelyek az emlékezést elősegítik. E

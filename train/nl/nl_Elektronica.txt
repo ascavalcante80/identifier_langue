@@ -1,0 +1,129 @@
+Elektronica is de tak van elektrotechniek die zich bezighoudt met het gedrag van elektronen in actieve componenten zoals elektronenbuizen en transistors of in niet-lineaire componenten zoals bijvoorbeeld diodes.
+Deze kennis wordt toegepast in apparaten die elektrische stromen en/of elektromagnetische velden manipuleren. Hiermee kan informatie verzonden en/of gemanipuleerd worden, maar ook kan er energie mee verspreid, geregeld en gecontroleerd worden. Deze laatste toepassingen worden bestudeerd in de vermogenselektronica. Alhoewel elektriciteit al langer gebruikt werd om informatie via de telegraaf en de telefoon te verzenden, nam het gebruik van elektronica pas echt een hoge vlucht na de uitvinding van de radio. Hedendaagse elektronica verricht een grote verscheidenheid aan taken. Indien de elektronica wordt toegepast in vliegtuigen dan wordt gesproken over avionica.
+Een elektronisch systeem kan als volgt worden beschouwd:
+ingangen – Elektrische of mechanische sensoren of opnemers, die een signaal opnemen (zoals temperatuur, luchtdruk, etc.) en deze omzetten in een variabele elektrische spanning, elektrische stroom, capaciteit of weerstand.
+signaalverwerkingseenheden – deze bestaan uit elektronische onderdelen die zo met elkaar verbonden zijn dat ze de aangeboden signalen manipuleren, interpreteren en transformeren.
+uitgangen – elektrisch bedienbare aandrijvers die een elektrisch signaal weer om kunnen zetten in een andere fysieke vorm, zoals geluid, mechanische beweging, licht et cetera.
+Neem bijvoorbeeld de televisie. Het ingangssignaal van een tv is het zendsignaal, uitgezonden door een televisiezender; dit wordt ontvangen via de antenne of kabel. Signaalverwerkingseenheden in het televisietoestel extraheren uit het ontvangen signaal informatie over de helderheid, de kleur en audio-informatie. Het apparaat dat het televisiebeeld uitgeeft, is dan ten slotte de beeldbuis en het apparaat dat de audio-informatie uitgeeft, is de luidspreker.
+
+
+== Elektronische meetapparatuur ==
+Ampèremeter, of galvanometer: meet elektrische stroom in ampère (A)
+Ohmmeter: meet de elektrische weerstand in ohm (Ω)
+Voltmeter: meet elektrische spanning in volt (V)
+Wattmeter of vermogensmeter (meet elektrisch vermogen in watt (W)
+capaciteitsmeter: meet de waarde van een condensator in farad (F)
+inductiemeter: meet de waarde van een spoel in henry (H)
+frequentiemeter: meet de frequentie van een signaal in hertz (Hz)
+multimeter: meet verschillende van de bovenstaande grootheden en geeft deze numeriek weer)
+oscilloscoop: meet verschillende van de bovenstaande tijdveranderlijke grootheden en geeft deze grafisch weer
+signaalgenerator: ook wel functiegenerator genoemd, wekt gepaste signalen op die nodig zijn bij metingen
+logische analysator: test digitale circuits
+elektrostaat: meet elektrostatische ladingen
+spectrumanalyzer: meet het spectrum van een elektrisch signaal en geeft dit weer
+network analyser: meet de karakteristieken van twee- of vierpool netwerken, bijvoorbeeld het opmeten van de bodediagramma van een versterker, en geeft deze weer
+
+
+== Verbindingsmethoden voor elektronische componenten ==
+draad en verbindingsmateriaal, zoals klemmen – connectoren
+gedrukte bedradingskaart (printplaat, PCB)
+geïntegreerd circuit
+punt-naar-puntconstructie
+wire-wrap
+experimenteerplank (breadboard)
+
+
+== Componenten ==
+
+Elektronische componenten kunnen op verschillende wijzen ingedeeld worden:
+Actieve of passieve componenten. Actieve componenten kunnen een spanning of stroom versterken.
+Discrete en geïntegreerde componenten. Discrete componenten zijn de basisonderdelen zoals weerstand, condensator of transistor. IC’s vallen onder de geïntegreerde componenten.
+Lineaire of niet-lineaire componenten. Bij lineaire componenten is er een lineair verband tussen het ingangssignaal en het uitgangssignaal. Digitale schakelingen (AND, OR, NOT, XOR) en complexe samenbouw van deze schakelingen) vallen onder de niet-lineaire componenten of digitale componenten.
+Digitale en analoge componenten. Zie lineaire en niet-lineaire componenten.
+Vermogens componenten. Dit zijn componenten die (relatief) grotere stromen, spanningen en vermogens kunnen ‘verwerken’. Componenten in gebruik in niet-vermogensschakelingen worden niet als zodanig aangeduid.
+Over de hiervoor genoemde indelingen bestaan veelal geen eenduidige definities. Hieronder volgt een indeling van elektronische componenten
+
+
+=== Passieve componenten ===
+weerstand
+condensator
+spoel
+transformator
+piëzoelektrisch kristal
+
+
+=== Actieve componenten (Halfgeleiders) ===
+diode
+licht-emitterende diode
+fotodiode
+solid-state laser
+schottkydiode
+zenerdiode
+avalanchediode
+variabele-capaciteitsdiode
+
+memristor
+transistor
+veldeffecttransistor
+bipolaire transistor
+IGBT
+unijunctiontransistor
+fototransistor
+darlingtontransistor
+
+geïntegreerde schakeling of IC
+elektronische schakelaars
+diac
+triac
+thyristor
+RCT en GTO-thyristor
+IGBT
+
+
+=== Actieve componenten (Elektronenemissie en -beïnvloeding) ===
+elektronenbuis of radiobuis
+beeldbuis
+telbuis
+klystron
+magnetron
+travelling wave tube (TWT) of lopende-golfbuis
+
+
+=== Elektromechanische opnemers en activatoren ===
+microfoon
+luidspreker
+elektromagneet
+rekstrookje
+relais
+elektromotor
+
+
+=== Thermo-elektrische onderdelen ===
+thermistor
+thermokoppel
+Peltier-element
+
+
+=== Lichtgevoelige onderdelen ===
+lichtgevoelige weerstand
+fotodiode
+lichtgevoelige transistor
+fototransistor
+
+
+=== Diversen ===
+antenne
+kabels
+batterij
+loodaccu
+sensoren
+
+
+== Schakelingen ==
+(Netwerken van elektrische en elektronische componenten.)
+
+
+=== Analoge schakelingen ===
+De meeste analoge elektronische apparaten, zoals radio-ontvangers, worden geconstrueerd met een samenvoeging van de volgende bouwblokken:
+elektronische versterkers
+ele

@@ -1,0 +1,106 @@
+iterio de demarcación de Karl Popper. La corroboración experimental de una teoría científicamente "probada" —aun la más fundamental de ellas— se mantiene siempre abierta a escrutinio (ver falsacionismo).
+En las ciencias empíricas no es posible la verificación; no existe el "conocimiento perfecto", es decir, "probado". En las ciencias formales las deducciones lógicas o demostraciones matemáticas generan pruebas únicamente dentro del marco del sistema definido por ciertos axiomas y ciertas reglas de inferencia. Según el teorema de Gödel, no existe un sistema aritmético recursivo perfecto, que sea al mismo tiempo consistente, decidible y completo.
+Existe una serie de pasos inherentes al proceso científico que, aunque no suelen seguirse en el orden aquí presentado, suelen ser respetados para la construcción y el desarrollo de nuevas teorías. Éstos son:
+
+Observación: registrar y examinar atentamente un fenómeno, generalmente dentro de una muestra específica, es decir, dentro de un conjunto previamente establecido de casos.
+Descripción: detallar los aspectos del fenómeno, proponiendo incluso nuevos términos al respecto.
+Hipótesis: plantear las hipótesis que expliquen lo observado en el fenómeno y las relaciones causales o las correlaciones correspondientes.
+Experimentación: es el conjunto de operaciones o actividades destinadas, a través de situaciones generalmente arbitrarias y controladas, a descubrir, comprobar o demostrar las hipótesis.
+Demostración o refutación, a partir de los resultados de uno o más experimentos realizados, de las hipótesis propuestas inicialmente.
+Inducción: extraer el principio general implícito en los resultados observados.
+Comparación universal: el permanente contraste de hipótesis con la realidad.
+La experimentación no es aplicable a todas las ramas de la ciencia; su exigencia no es necesaria por lo general en áreas del conocimiento como la vulcanología, la astronomía, la física teórica, etc. Sin embargo, la repetibilidad de la observación de los fenómenos naturales es un requisito fundamental de toda ciencia que establece las condiciones que, de producirse, harían falsa la teoría o hipótesis investigada (véase falsación).
+Por otra parte, existen ciencias, especialmente en el caso de las ciencias humanas y sociales, donde los fenómenos no sólo no se pueden repetir controlada y artificialmente (que es en lo que consiste un experimento), sino que son, por su esencia, irrepetibles, por ejemplo, la historia.
+
+
+== Consenso científico y objetividadEditar ==
+
+El consenso científico es el juicio colectivo que manifiesta la comunidad científica respecto a una determinada posición u opinión, en un campo particular de la ciencia y en determinado momento de la historia. El consenso científico no es, en sí mismo, un argumento científico, y no forma parte del método científico; sin embargo, el consenso existe por el hecho de que está basado en una materia objeto de estudio que sí presenta argumentos científicos o que sí utiliza el método científico.
+El consenso suele lograrse a través del debate científico. La ética científica exige que las nuevas ideas, los hechos observados, las hipótesis, los experimentos y los descubrimientos se publiquen, justamente para garantizar la comunicación a través de conferencias, publicaciones (libros, revistas) y su revisión entre pares y, dado el caso, la controversia con los puntos de vista discrepantes. La reproducibilidad de los experimentos y la falsación de las teorías científicas son un requisito indispensable para la buena práctica científica.
+El conocimiento científico adquiere el carácter de objetividad por medio de la "comunidad y sus instituciones", con independencia de los individuos. D. Bloor, siguiendo a Popper y su teoría del mundo 3, convierte simétricamente el reino de lo social en un reino sin súbditos individuales, en particular reduce el ámbito del conocimiento al estado del conocimiento en un momento dado, esto es, a las creencias aceptadas por la comunidad relevante, con independencia de los individuos en concreto. El conocimiento científico es únicamente adscrito a la "comunidad científica".
+Pero esto no debe llevar a pensar que el conocimiento científico es independiente de un individuo concreto como algo autónomo. Lo que ocurre es que se encuentra "socialmente fijado" en documentos y publicaciones y está causalmente relacionado con los conocimientos de los individuos concretos que forman parte de la comunidad.
+
+
+== Aplicaciones de la lógica y de las matemáticas en la cienciaEditar ==
+
+La lógica y la matemática son esenciales para todas las ciencias por la capacidad de poder inferir con seguridad unas verdades a partir de otras establecidas; es lo que las hace recibir la denominación de ciencias exactas.
+La función más importante de ambas es la creación de sistemas formales de inferencia y la concreción en la expresión de modelos científicos. La observación y colección de medidas, así como la creación de hipótesis y la predicción, requieren a menudo modelos lógico-matemáticos y el uso extensivo del cálculo; resulta especialmente relevante la creación de modelos científicos mediante el cálculo numérico, debido a las enormes posibilidades de cálculo que ofrecen los ordenadores.
+Las ramas de la matemática más comúnmente empleadas en la ciencia incluyen el análisis matemático, el cálculo numérico y la estadística, aunque virtualmente toda rama de la matemática tiene aplicaciones en la ciencia, incluso áreas "puras" como la teoría de números y la topología.
+El empirismo lógico llegó a postular que la ciencia venía a ser, en su unidad formal, una ciencia lógico-matemática capaz de interpretar adecuadamente la realidad del mundo. La utilidad de la matemática para describir el universo es un tema central de la filosofía de la matemática.
+
+
+== Divulgación científicaEditar ==
+
+La divulgación científica tiene como objetivo hacer asequible el conocimiento científico a la sociedad más allá del mundo puramente académico. La divulgación puede referirse a los descubrimientos científicos del momento, como la determinación de la masa del neutrino, de teorías bien establecidas como la teoría de la evolución o de campos enteros del conocimiento científico. La divulgación científica es una tarea abordada por escritores, científicos, museos y periodistas de los medios de comunicación. La presencia tan activa y constante de la ciencia en los medios y viceversa ha hecho que se debata la conveniencia de utilizar la expresión «periodismo científico» en lugar de divulgación científica.[cita requerida]
+Algunos científicos que han contribuido especialmente a la divulgación del conocimiento científico son: Jacob Bronowski (El ascenso del hombre), Carl Sagan (Cosmos: Un viaje personal), Stephen Hawking (Historia del tiempo), Richard Dawkins (El gen egoísta), Stephen Jay Gould, Martin Gardner (artículos de divulgación de las matemáticas en la revista Scientific American), David Attenborough (La vida en la tierra) y autores de ciencia ficción como Isaac Asimov. Otros científicos han realizado tareas de divulgación tanto en libros como en novelas de ciencia ficción, como Fred Hoyle. La mayor parte de las agencias o institutos científicos destacados en los Estados Unidos cuentan con un departamento de divulgación (Education and Outreach), si bien no es una situación común en la mayoría de los países. Muchos artistas, aunque la divulgación científica no sea su actividad formal, han realizado esta tarea a través de sus obras de arte: gran número de novelas y cuentos y otros tipos de obras de ficción narran historias directa o indirectamente relacionadas con descubrimientos científicos diversos, como las obras de Julio Verne.
+
+
+== Influencia en la sociedadEditar ==
+Dado el carácter universal de la ciencia, su influencia se extiende a todos los campos de la sociedad, desde el desarrollo tecnológico a los modernos problemas de tipo jurídico relacionados con campos de la medicina o la genética. En ocasiones la investigación científica permite abordar temas de gran calado social como el Proyecto Genoma Humano y grandes implicaciones éticas como el desarrollo del armamento nuclear, la clonación, la eutanasia y el uso de las células madre.
+Asimismo, la investigación científica moderna requiere en ocasiones importantes inversiones en grandes instalaciones como grandes aceleradores de partículas (CERN), la exploración espacial o la investigación de la fusión nuclear en proyectos como ITER.
+
+
+== Véase tambiénEditar ==
+ Portal:Ciencias naturales y formales. Contenido relacionado con Ciencias naturales y Ciencias formales.
+ Portal:Ciencias humanas y sociales. Contenido relacionado con Ciencias humanas y Ciencias sociales.
+
+
+== NotasEditar ==
+
+
+== Notas y referenciasEditar ==
+
+
+== BibliografíaEditar ==
+Bachelard, G. (1973). La filosofía del no. Buenos Aires. Amorrortu. ISBN 978-950-518-387-6. 
+Bunge, M. (1975). Teoría y realidad. Barcelona. Ariel. ISBN 84-344-0725-6. 
+— (1969). La ciencia: su método y su filosofía. Buenos Aires. 
+— (1980). Epistemología: curso de actualización. Barcelona. Ariel. ISBN 84-344-8004-2. 
+— (1981). Materialismo y ciencia. Barcelona. Ariel. ISBN 84-344-0828-7. 
+Cassirer, E. El problema del conocimiento en la filosofía y en la ciencia modernas, México, FCE, 1979, 4 vols.
+Dancy, J. (1993). Introducción a la epistemología contemporánea. Madrid, Tecnos. ISBN 978-84-309-4612-9. 
+Eco, U. (Con la colaboración de Rorty, R., Culler, J. y Brooke-Rose, Ch.) (1997). Interpretación y sobreinterpretación. Cambridge, University Press. ISBN 0-521-42554-9. 
+Ferrater Mora, J. (1984). Diccionario de Filosofía (4 tomos). Barcelona. Alianza Diccionarios. ISBN 84-206-5299-7. 
+Feyerabend, P. Como ser un buen empirista: defensa de la tolerancia en cuestiones epistemológicas. Valencia. Universidad de Valencia. Revista Teorema 7. ISBN 84-600-0507-0. 
+— (1975). Contra el método: esquema de una teoría anarquista del conocimiento. Barcelona. Ariel. ISBN 84-344-0735-3. 
+— (1990). Diálogo sobre el método. Madrid. Cátedra. ISBN 84-376-0956-9. 
+— (1984). Adiós a la razón. Madrid. Tecnos. ISBN 84-309-1071-9. 
+Fried Schnitman, D., Prigogine, I., Morin, E. et al. (1994). Nuevos paradigmas, Cultura y Subjetividad. Buenos Aires. Paidós. ISBN 950-12-7023-8. 
+Geymonat, L. (1965). Filosofía y filosofía de la ciencia. Barcelona. Editorial Labor. 
+Felip Cid (Director) (1977). Historia de la ciencia (4 tomos). Barcelona. Planeta. ISBN 978-84-320-0840-5 (obra completa). 
+Honderich, T. (Editor) (2001). Enciclopedia Oxford de filosofía. Madrid. Tecnos. ISBN 84-309-3699-8. 
+Gran Enciclopedia Larousse (10 tomos + apéndices). Barcelona. Planeta. 1977. ISBN 978-84-320-2030-8 Obra completa. 
+Hurtado, G. ¿SABER SIN VERDAD? OBJECIONES A UN ARGUMENTO DE VILLORO. CRÍTICA, Revista Hispanoamericana de Filosofía. Vol. 35, No. 103 (abril 2003) pp. 121–134
+Thomas S. Kuhn (1990). La estructura de las revoluciones científicas. México. Fondo de Cultura Económica. ISBN 84-375-0046-X. 
+Lakatos, I. (1983). La metodología de los programas de investigación científica. Madrid. Alianza Editorial. ISBN 84-206-2349-0. 
+Lyotard, J.F. (1994). La condición postmoderna: informe sobre el saber. Madrid, Cátedra. ISBN 84-376-0466-4. 
+Ilya Prigogine e Isabelle Stengers (1983). La nueva alianza: metamorfosis de la ciencia. Madrid. Alianza Universidad. ISBN 84-206-2368-7. 
+Padilla Gálvez, J. (2007). Verdad y demostración. Madrid. Palacio y Valdés. ISBN 978-84-96780-19-4. 
+París, C. (1952). Física y filosofía: El problema de la relación entre ciencia física y filosofía de la naturaleza. Consejo Superior de Investigaciones Científicas. Universidad de Madrid. 
+— (1992). Ciencia, tecnología y transformación social. Universitat de Valencia. ISBN 84-370-0966-9. 
+Popper (2004). La lógica de la investigación científica. Madrid. Tecnos. ISBN 84-309-0711-4. 
+— (1984). Sociedad abierta, universo abierto. Madrid. Tecnos. ISBN 84-309-1105-7. 
+— (2002). Conjeturas y refutaciones: el desarrollo del conocimiento científico. Tecnos. ISBN 84-309-0723-8. 
+Putnam, H. (1988). Razón, verdad e historia. Madrid. tecnos. ISBN 84-309-1577-X. 
+— (1994). Las mil caras del realismo. Barcelona. Paidós. ISBN 84-7509-980-7. 
+Putnam, H. Epistemology, methodology, and philosophy of science: essays in honour of Carl G. Hempel on the occasion of his 80 th. birthday. January 8th. 1985. Edited by W. K. Essler, H. Putnam and W. Stegmüller.
+Quesada, D. (1998). Saber, opinión y ciencia: Una introducción a la teoría del conocimiento clásica y contemporánea. Barcelona. Ariel. ISBN 84-344-8746-2. 
+Quine, W.V. (1998). Del estímulo a la ciencia. Barcelona. Ariel. ISBN 84-344-8747-0. 
+Russell, B. (1959). El conocimiento humano:su alcance y sus limitaciones. Madrid. Taurus. 
+— (1982). La evolución de mi pensamiento filosófico. Madrid. Alianza Editorial. 84-206-1605-2. 
+Schrödinger, E.. (1975). ¿Qué es una ley de la naturaleza?. México. Fondo de Cultura Económica. 
+Villoro, J. (1982): Creer, saber, conocer, Siglo XXI Editores, México DF, ISBN 968-23-1151-9.
+Villoro, L. (Editor) (2009-2013). El conocimiento. Enciclopedia Iberoamericana de Filosofía. vol. 20. Ed. Trotta. CSIC. ISBN 978-84-87699-48-1 (0bra completa) ISBN 84-8164-358-0 (edición impresa) ISBN 978-84-9879-402-1 (edición digital). 
+
+
+== Enlaces externosEditar ==
+Wikilibros
+ Wikilibros alberga un libro o manual sobre Ciencias.
+ Wikinoticias tiene noticias relacionadas con Ciencia.Wikinoticias
+ Wikisource contiene obras originales de o sobre Declaración sobre la Ciencia y el Uso del Saber Científico.Wikisource
+ Wikcionario tiene definiciones y otra información sobre ciencia.Wikcionario
+ Wikiversidad alberga proyectos de aprendizaje sobre Ciencias.Wikiversidad
+ Wikimedia Commons alberga contenido multimedia sobre Ciencia. Commons
+ Wikiquote alberga frases célebres de o sobre Ciencia. Wikiquote
+Scientific American
+La edición española de Scientific American: "Investigación y Ciencia"

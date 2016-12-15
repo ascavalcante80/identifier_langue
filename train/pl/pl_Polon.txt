@@ -1,0 +1,28 @@
+Polon (Po, łac. polonium) − pierwiastek chemiczny o liczbie atomowej 84, radioaktywny metal. W układzie okresowym leży w bloku p (grupa 16, okres 6). Polon bywa błędnie klasyfikowany jako półmetal, mimo że wykazuje on typowe właściwości metalu.
+
+
+== Historia odkrycia ==
+Pierwiastek ten został odkryty w 1898 r. przez Marię Skłodowską-Curie i Piotra Curie – w tym samym roku co rad. Curie nadała mu nazwę na cześć Polski (od łacińskiego słowa Polonia), która była wówczas pod zaborami, licząc na to, iż odkrycie nagłośni ten fakt na arenie międzynarodowej. Został on w ten sposób prawdopodobnie pierwszym pierwiastkiem, którego nazwa nosi w sobie wątek polityczny.
+
+
+== Właściwości radioaktywne ==
+Polon jest silnie radioaktywnym, srebrzystoszarym metalem. Jego właściwości fizyczne i chemiczne zbliżone są do selenu.
+Jest silnym emiterem promieniowania alfa – miligram polonu-210 emituje tyle samo cząstek alfa co 4,5 grama radu-226. Próbka polonu emanuje niebieską poświatą – jest to efekt wzbudzenia otaczającego ją powietrza. Jeden gram polonu wydziela 140 watów mocy, ogrzewając się przy tym do ponad 500 °C. Z tego względu był on niegdyś używany jako lekkie źródło ciepła w satelitach i pojazdach kosmicznych, na przykład w radzieckich Łunochodach do ogrzewania podzespołów podczas zimnych nocy księżycowych. Obecnie jest jeszcze czasami stosowany jako wygodne, wysokowydajne źródło cząstek α.
+
+
+== Izotopy ==
+Polon ma 33 izotopy z przedziału mas 188–220. Nie ma stabilnych izotopów. Najtrwalszy izotop 209, o okresie połowicznego rozpadu wynoszącym 103 lata, nie występuje naturalnie. Jego nukleosynteza, podobnie jak izotopu 208 (t½ = 2,9 lat), wymaga bombardowania ołowiu lub bizmutu naładowanymi cząstkami (protonami, deuteronami lub cząstkami α) w synchrotronie. Najtrwalszym naturalnie występującym izotopem jest 210Po o t½ = 138,3 dnia. Produktem tego rozpadu jest stabilny izotop ołowiu 206Pb. Praktycznie wszystkie badania polonu prowadzone są z użyciem izotopu 210.
+
+
+== Występowanie ==
+Polon występuje w skorupie ziemskiej w śladowych ilościach w rudach uranu oraz jako tlenek. Jego stężenie w tych rudach jest jednak tak małe (7,4×10−11 g 210Po/g 238U), że przemysłowo opłaca się go otrzymywać na drodze bombardowania bizmutu neutronami:
+20983Bi + 10n __͕ 21083Bi + γ _t½ = 5,01 dnia_͕ 21084Po + β− + νe
+Powstały 210Po jest oczyszczany przez destylację próżniową. Roczne naświetlanie kilograma bizmutu strumieniem 1024 n/(cm²·s) daje ok. 25 mg 210Po, co jest ilością niemożliwą do wyizolowania ze źródeł naturalnych. Światowa produkcja tego izotopu wynosi ok. 100 gramów rocznie. Ilość polonu w skorupie ziemskiej jest na tyle mała, że nie podaje się żadnych, nawet szacunkowych danych na ten temat; jego zawartość w wodzie morskiej oceniana jest na 2×10−11 ppb.
+
+
+== Związki chemiczne ==
+Znanych jest kilkanaście związków chemicznych polonu: tlenki PoO2 i PoO3, wodorek PoH2, wodorotlenek Po(OH)2, halogenki, np. PoCl2, PoBr4, siarczek PoS i związki metaloorganiczne. Związki te nie mają jednak żadnego praktycznego zastosowania ze względu na gigantyczny koszt produkcji samego polonu. PoF6 był używany w latach sześćdziesiątych XX wieku w ZSRR jako aktywator lakierów luminescencyjnych stosowanych w świetlówkach, obecnie został już jednak zastąpiony tańszymi zamiennikami.
+
+
+== Oddziaływanie na organizmy żywe ==
+Polon wprowadzony do organizmu jest silnie toksyczny. LD50 dla polonu wynosi ok. 1 mikrograma, co czyni go około 50 000 razy bardziej trującym niż cy

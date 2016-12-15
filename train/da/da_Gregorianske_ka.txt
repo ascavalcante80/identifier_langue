@@ -1,0 +1,59 @@
+Den gregorianske kalender er den almindelige danske kalender, som vi bruger til at holde styr på, hvilken dato det er i løbet af året.
+
+
+== Historie ==
+
+At lave en kalender, der præcis dækker et år, giver lidt problemer, da det "tropiske år" ikke er på 365 døgn, men på 365,24219878 døgn. Da den overskydende del siden oldtiden har været erkendt til at være et kvart døgn, indførte Julius Cæsar efter forslag af grækeren Sosigenes i år 46 f.Kr. den julianske kalender. Ifølge den julianske kalender skulle år delelige med tallet fire være skudår, dvs. indeholde 366 dage i stedet for normalt 365 dage. Det julianske år har derfor længden 365,25 dage.
+Årslængden på 365,25 dage gjorde dog, at der i 1500-tallet var kommet en afvigelse på ca. 10 døgn. Dette problem blev løst i 1582, da pave Gregor XIII indførte den gregorianske kalender. Samtidig med indførelsen af denne kalender blev datoen rettet med 10 dage (den 4. oktober blev efterfulgt af den 15. oktober).
+Det er bemærkelsesværdigt, at den gregorianske kalender blev fastlagt, medens det (fejlagtige) geocentriske verdensbillede endnu var det vedtagne.
+Den gregorianske kalender har, ligesom den julianske, skudår hvert fjerde år, men til gengæld er år delelige med 100 ikke skudår. Dog er disse hele hundredeår alligevel skudår, hvis de er delelige med 400. Denne sidste sjældne regel kom i anvendelse i år 2000, som var skudår.
+Denne beregningsmetode giver en årslængde på i snit 365,2425 dage, meget tæt på det ønskede. Denne kalender giver kun en fejl på ca. 3 dage på 10.000 år.
+I Danmark blev den gregorianske kalender indført den 1. marts 1700 efter forarbejde af Ole Rømer. Man stoppede med brug af den julianske kalender den 18. februar, (altså et spring i datoen på 11 dage).
+Den gregorianske kalender blev imidlertid indført af paven kort efter Luther og reformationen, så mange protestantiske og ortodokse fyrstedømmer og lande valgte først at indføre den nye kalender meget senere for ikke at give indrømmelser over for modparten. Storbritannien indførte den nye kalender i 1752. Sverige og Finland overgik til kalenderen i 1753 ved at udelade 11 dage af året, den 17. februar 1753,som derved blev til den 1. marts.
+Selv om Sovjetunionen overgik fra den julianske kalender til den gregorianske kalender den 14. februar 1918, benytter den russisk-ortodokse kirke stadig den gamle julianske kalender, og derved fejres julen i Rusland senere end i Vesteuropa; omtrent på samme tidspunkt som vi fejrer helligtrekonger. Desuden fejredes oktoberrevolutionen efter den gregorianske kalender i november, selv om den faktisk skete i oktober efter den julianske kalender.
+I Storfyrstendømmet Finland, der var underlagt Det Russiske Kejserrige, anvendtes den gregorianske kalender, som på 1800-tallet afveg med 12 dage og på 1900-tallet med 13 dage fra de øvrige dele af kejserriget. Eftersom der fulgtes forskellige kalendere i Rusland og i Finland, blev alle dokumenter vedrørende Finland i Skt. Petersborg udfærdiget med dobbelt-dato, en ”ny” og en ”gammel” af praktiske årsager.
+
+
+== Algoritme til beregning af dato og ugedag mv. ==
+Skal man til at beregne ugedag eller antal dage mellem to datoer, vil en algoritme derfor kun give fornuftige data, såfremt man tager hensyn til, hvilket land det drejer sig om, og datoen for den gregorianske kalenders indførelse, samt hvilken dato, man foretog justeringen.
+
+
+=== Datostandard ===
+I Danmark har vi to valgmuligheder for at skrive en dato. Den traditionelle danske er dd-mm-åååå, hvilket vil sige, at rækkefølgen er dag, måned og år. Et eksempel på dette kunne være 29-12-2005. Udover dette kan den internationale standard ISO-8601 også benyttes. Heraf fremgår det, at datoer skrives som åååå-mm-dd, hvor et eksempel kunne være 2005-12-29. Hvis du skriver månedens navn ud, skal det skrives i rækkefølgen dag, måned og år. Med det samme eksempel vil det blive d. 29. december 2005.
+
+
+=== Ugenumre ===
+Det er torsdagen, der bestemmer, hvilket år en uge tilhører. Derfor er ugen fra mandag den 28. december 2009 til søndag den 3. januar 2010 uge 2009-53, da torsdagen (den 31. december) er i 2009.
+
+
+=== Genbrug af den gregorianske kalender ===
+Den gregorianske kalender kan genbruges hvert 28. år. Dog med undtagelse af, når et århundredeskifte ikke er et skudår. Derfor havde bl.a. år 1900 og år 1928 ikke den samme kalender. År 1928 var et skudår, og havde altså 29 dage i februar, mens år 1900 ikke var et skudår (da 1900 ikke er deleligt med 400), og derfor kun havde 28 dage i februar.
+Skal man til at beregne ugedag, eller antal dage mellem to datoer i den gregorianske kalender, vil en algoritme kun give fornuftige data, såfremt man tager hensyn til hvilket land det drejer sig om, og datoen for den gregorianske kalenders indførelse, samt hvilken dato man foretog justeringen.
+
+
+=== Opbygning af algoritmen ===
+Det første, man opdager ved at se på kalenderen, er, at den er opbygget af år, måneder, og dage, hvor der ikke umiddelbart ser ud til at være nogen pæn lineær sammenhæng. Et brute force kodet program til ugedagsberegning vil derfor kunne komme til at bestå af mange "if/case" konstruktioner til at tage højde for de forskellige regler.
+For at undgå dette indser man at der må laves en anden skala, f.eks. antal dage siden et "fiktivt" år 0. Dette er meget nemmere at udregne, idet reglerne i den gregorianske kalender er meget klare. Så antallet af dage fra år 0 til den 0. januar kan så beregnes på følgende måde:
+
+Forkortes lidt fås:
+
+Faktor = 365*ÅR + (ÅR-1)/4 – ((ÅR-1)/100)*3/4 ;
+
+Næste problem bliver februar, som kan være på enten 28 eller 29 dage. Alle andre måneder har et fast antal dage. Det nemmeste er at flytte årets start til marts, idet februar derved kommer sidst. Nu er det ikke nødvendigt at tages hensyn til, om det er skudår eller ej, når den aktuelle "faktor" skal udregnes for en given dato. Derefter mangler der kun at skabe en lineær sammenhæng mellem dag i året og aktuel måned og dag. Hvis man starter med at tælle fra marts, får man følgende tabel:
+
+Nu kunne en sådan tabelløsning være ideel, og de fleste ville nok kunne stille sig tilfreds her. Algoritmen ville komme til at se ud som følgende:
+
+Tabellen kan forenkles noget. Tegner man tabellen på millimeterpapir, og gives januar og februar henholdsvis månedsnummeret 13 og 14, vil man opdage, at man (næsten) kan tegne en ret linje gennem de plottede punkter. Ved enten at aflæse eller ved at benytte lineær regression, kan man få hældningskoefficient (m) og skæring med Y-aksen (b):
+m = 30,6013986 , b = -91,77855478 .
+Ved beregningen fremkom korrelationskoefficienten 0,999996, som er et ganske godt resultat, da 1,00 ville være fuldkommen korrelation. Tabellen fra før kan derfor erstattes med:
+
+For ikke at skulle benytte reelle tal (float), udregnes det hele i en heltal udgave, og samtidig forenkles beregningen ved januar og februar. Den færdige rutine bliver så:
+
+Datastrukturen for RTCtime er lavet for at holde lidt styr på dag, måned og år.
+
+
+=== Beregning af ugedag ===
+Der er 7 dage i en uge, og dagene gentager sig hele tiden, så beregning af ugedag kan nemt gøres ved modulus 7. Ønskes derudover, at søndag er ugedag nr. 0, skal der først adderes 6 til faktoren.
+
+
+=== Beregning af a

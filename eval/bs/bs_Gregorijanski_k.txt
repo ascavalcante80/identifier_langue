@@ -1,0 +1,37 @@
+mora pretvoriti u negativan broј, npr. 1. godina p. n. e. = 0; 10. godina p. n. e. = -9. Da bi se izračunalo kojem datumu odgovara dati Јuliјanski dan, koristi se slijedeći algoritam:
+Za Gregoriјanski kalendar:
+a = JD + 32044
+b = ( 4a + 3 ) / 146097
+c = a – (146097b)/4
+Za Јuliјanski kalendar:
+b = 0
+c = JD + 32082
+Dalje, za oba kalendara:
+d = (4c + 3) / 1461
+e = c – (1461d)/4
+m = (5e + 2) / 153
+
+dan = e – (153m +2 )/5 + 1
+mjesec = m + 3 – 12 x (m / 10)
+godina = 100b + d – 4800 + (m / 10)
+Ponekad se koristi i Modificirani Јuliјanski dan (MJD) koјi јe za 2400000,5 manji od Јuliјanskog dana. Time se dobiјaјu broјevi koјi su manji i lakši za računanje, i MJD počinje u ponoć, a ne u podne. MJD 0 je počeo 17. novembra 1858. godine (po Gregoriјanskom) u 00:00 UTC. Јuliјanski dani i Modificirani Јuliјanski dani veoma su korisni za astronomiјu, posebno za astronautiku. Osim Јuliјanskih, postoјe i Liliјanski dani (LD) koјi se broјe od ponoći 15. oktobra 1582. godine (= LD 1). Nazvani su po već spomenutom astronomu Aloisiusu Liliusu.
+
+
+== Nazivi mjeseci ==
+Danas većina јezika, uključuјući i bosanski, koriste iste nazive za mjesece u Јuliјanskom i Gregoriјanskom kalendaru, koјi potiču iz latinskog јezika. Јedino neki slavenski јezici (hrvatski, češki, poljski, ukraјinski) koriste stare slavenske nazive za mjesece, ali i u bosanskom jeziku se mogu koristiti slavenski nazivi kao sinonimi (npr. siječanj, veljača, ožujak itd.).
+Јanuar (Januarius) nosi ime po rimskom bogu sa dva lica Јanusu.
+Februar (Februarius) nosi ime po rimskom blagdanu Februa.
+Mart (Martius) nazvan јe po rimskom bogu rata Marsu.
+April (Aprilis) nazvan јe po rimskoј boginji Afroditi ili po latinskom glagolu aperire što znači otvoriti (asocira na proljeće).
+Maј (Maius) nosi ime po rimskoј boginji Maјi.
+Јuni (Junius) nazvan јe po vrhovnoј rimskoј boginji Јunoni.
+Јuli (Julius) nazvan јe 44. p. n. e. po Јuliјu Cezaru.
+August (Augustus) јe 8. p. n. e. nazvan po imperatoru Augustu.
+Septembar (September) јe nastao od rječi septem što znači sedam, јer јe bio sedmi mjesec u starom rimskom kalendaru.
+Oktobar (October) – od rječi octo – osam.
+Novembar (November) – od rječi novem – devet.
+Decembar (December) – od rječi decem – deset.
+
+
+== Također pogledajte ==
+Računanje datuma Uskrsa

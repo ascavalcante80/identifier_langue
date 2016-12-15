@@ -1,0 +1,20 @@
+A hagyományos nyelvtan értelmezésében a szófaj szavak osztálya, amelybe a szavakat általános lexikális jelentésük vagy ennek hiánya, valamint alaktani és mondattani jellegzetességeik alapján sorolják.
+A szófajokat több módon osztályozzák:
+fogalmi tartalom vagy lexikális jelentés megléte vagy hiánya szerint:
+– meghatározott (konkrét vagy elvont) fogalmi tartalmúak: főnév, melléknév, számnév, névmás, ige, határozószó
+– meghatározott fogalmi tartalom vagy lexikális jelentés nélküliek: névelő, elöljárószó (ez utóbbi egyes nyelvekben, mint az indo-európai nyelvek), névutó (egyes nyelvekben, mint a magyar nyelv), kötőszó, partikula, indulatszó. Az idetartozó szavak, az indulatszókon kívül, viszonyszók, azaz kizárólag nyelvtani viszonyokat fejeznek ki.
+alakuk változó vagy változatlan jellege szerint lehetnek:
+– nyelvtani viszony kifejezése céljából változtatható alakúak: főnév, melléknév, számnév, névmás, ige, névelő (ez utóbbi egyes nyelvekben, mint az újlatin nyelvek)
+– változatlan alakúak: határozószó, elöljárószó, névutó, kötőszó, indulatszó, partikula, névelő (ez utóbbi egyes nyelvekben, mint a magyar)
+mondattani funkció megléte vagy hiánya szerint:
+– meghatározott mondattani funkcióval rendelkezők az egyszerű mondat keretében: főnév, melléknév, számnév, névmás, ige, határozószó, indulatszó
+– meghatározott mondattani funkció nélküliek az egyszerű mondat keretében: névelő, elöljárószó, névutó, kötőszó
+egyéb osztályozás szerint:
+– ige
+– névszók: főnév, melléknév, számnév, névmás
+– egyéb önálló szófajok: határozószó, igenév, indulatszó
+– nem önálló szófajok: igekötő, névutó, névelő, kötőszó, módosítószó
+
+
+== Történet ==
+A nyelvtudomány indulásakor két kategóriát különböztettek meg a mondatban: az onomát és a rhémát. A mondat ilyen jellegű felosztása szorosan köthető a filozófiához, tulajdonképpen nem is szófaji bontásról, hanem a logikai kijelentés két részéről beszélhetünk: "az amiről állítok" volt az onoma (ma főnévnek nevezzük), "amit állítok" volt a rhéma (ma igének nevezzük). Vagyis megállapíthatjuk, hogy kategória és funkció nem vál

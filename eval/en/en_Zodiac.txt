@@ -1,0 +1,51 @@
+king use of them; as the regularity of their spaces and distances, upon which their influence depends, would then be invaded and broken in upon.
+
+
+== In modern astronomy ==
+Astronomically, the zodiac defines a belt of space extending 9° either side of the ecliptic, within which the orbits of the Moon and the principal planets remain. It is a feature of a celestial coordinate system centered upon the ecliptic, (the plane of the Earth's orbit and the Sun's apparent path), by which celestial longitude is measured in degrees east of the vernal equinox (the ascending intersection of the ecliptic and equator).
+The Sun's placement upon the vernal equinox, which occurs annually around 21 March, defines the starting point for measurement, the first degree of which is historically known as the "first point of Aries". The first 30° along the ecliptic is nominally designated as the zodiac sign Aries, which no longer falls within the proximity of the constellation Aries since the effect of precession is to move the vernal point through the backdrop of visible constellations (it is currently located near the end of the constellation Pisces, having been within that constellation since the 2nd century AD). The subsequent 30° of the ecliptic is nominally designated the zodiac sign Taurus, and so on through the twelve signs of the zodiac so that each occupies 1/12th (30°) of the zodiac's great circle. Zodiac signs have never been used to determine the boundaries of astronomical constellations that lie in the vicinity of the zodiac, which are, and always have been, irregular in their size and shape.
+The convention of measuring celestial longitude within individual signs was still being used in the mid-19th century, but modern astronomy now numbers degrees of celestial longitude from 0° to 360°, rather than 0° to 30° within each sign.
+The use of the zodiac as a means to determine astronomical measurement remained the main method for defining celestial positions by Western astronomers until the Renaissance, at which time preference moved to the equatorial coordinate system, which measures astronomical positions by right ascension and declination rather than the ecliptic-based definitions of celestial longitude and celestial latitude.
+The word "zodiac" is also used in reference to the zodiacal cloud of dust grains that move among the planets, and the zodiacal light that originates from their scattering of sunlight.
+
+
+== Mnemonics ==
+There are many mnemonics for remembering the 12 signs of the zodiac in order. A traditional mnemonic:
+
+A less poetic, but succinct mnemonic is the following:
+
+Mnemonics in which the initials of the words correspond to the initials of the star signs (Latin, English, or mixed):
+
+Modern mnemonics which use calendar order (January to December order) are arbitrary. For example,
+"Capped aqueous poisons are tainting good crab legs vaguely like scorched sage" corresponds to Capricorn, Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Sagittarius.
+Or, for astronomical IAU boundaries, "Sadly, capsized, aqueous pollutants are tainting good crabs leaving via liberally scorched Oregon" starts with Sagittarius in January and includes Ophiuchus in December.
+
+
+== Unicode characters ==
+In Unicode, the symbols of zodiac signs are encoded in block Miscellaneous Symbols:
+U+2648 ♈ aries (HTML &#9800;)
+U+2649 ♉ taurus (HTML &#9801;)
+U+264A ♊ gemini (HTML &#9802;)
+U+264B ♋ cancer (HTML &#9803;)
+U+264C ♌ leo (HTML &#9804;)
+U+264D ♍ virgo (HTML &#9805;)
+U+264E ♎ libra (HTML &#9806;)
+U+264F ♏ scorpius (HTML &#9807;)
+U+2650 ♐ sagittarius (HTML &#9808;)
+U+2651 ♑ capricorn (HTML &#9809;)
+U+2652 ♒ aquarius (HTML &#9810;)
+U+2653 ♓ pisces (HTML &#9811;)
+In Unicode 6.0 the sign for Ophiuchus has been added, too:
+U+26CE ⛎ ophiuchus (HTML &#9934;)
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+"A Treatise on Zodiacal Signs and Constallations: Unique Jewels on the Benefits of Keeping Time" is a manuscript that dates back to 1831 with a focus on Arabic, Coptic and Syriac calendars.
+Zodiac Constellations at Constellation Guide
+Zodiac Signs

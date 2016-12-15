@@ -1,0 +1,374 @@
+Strefa czasowa – wytyczony obszar powierzchni Ziemi o szerokości średnio 15° (360°/24) długości geograficznej, rozciągający się południkowo między biegunami, w którym urzędowo obowiązuje jednakowy czas (czas strefowy). Przeważnie jest on średnim czasem słonecznym środkowego południka tej strefy, który różni się o całkowitą liczbę godzin od czasu uniwersalnego. Są jednak wprowadzone urzędowo strefy, w których czas różni się od czasu uniwersalnego o niecałkowitą liczbę godzin.
+
+
+== Geneza i zasady podziału ==
+
+Wszystkie punkty położone na tym samym południku mają ten sam czas lokalny (miejscowy). Każda zmiana długości geograficznej powoduje zmianę lokalnego czasu – gdy ludzie zaczęli przemieszczać się coraz częściej i szybciej, stawało się to bardzo niewygodne. Czas uniwersalny i strefy czasowe zostały zaproponowane w 1878 roku przez kanadyjskiego wynalazcę Sandforda Fleminga, zaś wprowadzono je w 1884 roku.
+Całą Ziemię podzielono na 24 strefy czasowe o szerokości 15° każda. W praktyce strefy czasowe o granicach wytyczonych przez południki obowiązują jedynie na morzach i oceanach. Na lądach ich kształt jest zmodyfikowany tak, by w małych i średnich państwach obowiązywała tylko jedna strefa czasowa. Większe państwa znajdują się zwykle w kilku strefach czasowych (m.in. Stany Zjednoczone, Kanada, Brazylia, Rosja, Australia), choć nie jest to regułą – w Chinach obowiązuje jedna strefa czasowa, pomimo iż różnica w czasie słonecznym między wschodnimi i zachodnimi prowincjami wynosi ponad 3 godziny.
+Poza standardowymi strefami, pomiędzy którymi różnice w czasie mierzone są pełnymi godzinami, istnieją strefy o różnicach rzędu 30 minut (m.in. UTC+3:30 używana w Iranie) lub kwadransu (m.in. UTC+5:45 w Nepalu). W przeszłości funkcjonowały także strefy o bardziej nieregularnych różnicach, jak np. UTC+0:20, stosowana w Holandii przed II wojną światową.
+Na obowiązującą w danym kraju strefę czasową nierzadko wpływ ma czas stosowany w sąsiednich państwach. Przykładowo Hiszpania i Francja znajdują się w strefie UTC+1:00, wspólnej ze znaczną częścią Europy, choć położone są na długościach geograficznych odpowiadających strefie UTC+0:00. Na niektórych wyspach leżących na Oceanie Spokojnym na wschód od południka 180° (tj. na półkuli zachodniej), jak Tokelau czy Tonga związki polityczno-ekonomiczne z państwami wschodniej półkuli (Australia, Nowa Zelandia) spowodowały zaadoptowanie niestandardowych stref, jak UTC+14:00, które poprzez przesunięcie o 24 godziny w przód względem standardowych dla tych długości stref typu UTC-10:00, zapewniają spójność daty z tymi krajami (jednocześnie powstaje jednak różnica nawet 26 godzin między tymi wyspami a podobnie położonymi terytoriami, w których te strefy nie funkcjonują).
+
+
+== Czas letni ==
+
+Na faktyczny czas w poszczególnych krajach wpływ ma także obserwowanie bądź nie czasu letniego. W jego wyniku część krajów dokonuje w okresie letnim (odmiennym dla półkuli północnej i południowej) przestawienia czasu o godzinę w przód względem standardowego. Data dokonania zmiany często jest przy tym odmienna dla różnych terytoriów – na północ od równika zmianę na czas letni wykonuje się w marcu lub kwietniu, a odwrotną w okresie od września do listopada, na południe od równika czas letni wprowadza się we wrześniu lub październiku, a powrót następuje między lutym a kwietniem. Zdarza się, że czas letni obserwowany jest jedynie w części kraju (np. w Kanadzie, do terytoriów, gdzie zmiany się nie dokonuje zalicza się prowincja Saskatchewan).
+
+
+== Linia zmiany daty ==
+
+Międzynarodowa linia zmiany daty przebiega wzdłuż granicy stref od UTC+12:00 do +14:00 i UTC-12:00, częściowo pokrywając się z południkiem 180°. Czas obowiązujący na terytoriach położonych na zachód od tej linii jest przesunięty o dobę do przodu względem czasu terytoriów położonych na wschód od niej; np. na Fidżi (UTC+12:00) jest zawsze ta sama godzina co na wyspie Baker (UTC-12:00), choć data stale różni się o jeden dzień.
+
+
+== Lista stref czasowych i terytoriów w nich leżących ==
+
+
+=== UTC-12:00 ===
+Strefa całoroczna
+ Baker
+ Howland
+
+
+=== UTC-11:00 ===
+Strefa całoroczna
+ Jarvis
+ Kingman
+ Midway
+ Niue
+ Palmyra
+ Samoa Amerykańskie
+
+
+=== UTC-10:00 ===
+Strefa całoroczna
+ Johnston
+ Polinezja Francuska (Wyspy Tubuai, Tuamotu, Wyspy Towarzystwa)
+ Stany Zjednoczone (Hawaje)
+ Wyspy Cooka
+Półkula północna. Czas letni: UTC-9:00
+ Stany Zjednoczone (Aleuty)
+
+
+=== UTC-09:30 ===
+Strefa całoroczna
+ Polinezja Francuska (Markizy)
+
+
+=== UTC-09:00 ===
+Strefa całoroczna
+ Polinezja Francuska (Wyspy Gambiera)
+Półkula północna. Czas letni: UTC-8:00
+ Stany Zjednoczone (Alaska)
+
+
+=== UTC-08:00 ===
+Strefa całoroczna
+ Wyspa Clippertona
+ Pitcairn
+Półkula północna. Czas letni: UTC-7:00
+ Kanada (zachód)
+ Meksyk (Kalifornia Dolna)
+ Stany Zjednoczone (zachód)
+
+
+=== UTC-07:00 ===
+Strefa całoroczna
+ Meksyk (Sonora)
+ Stany Zjednoczone (Arizona)
+Półkula północna. Czas letni: UTC-6:00
+ Kanada (środkowy zachód)
+ Meksyk (zachód)
+ Stany Zjednoczone (środkowy zachód)
+
+
+=== UTC-06:00 ===
+Strefa całoroczna
+ Belize
+ Chile (Wyspa Wielkanocna)
+ Ekwador (Prowincja Galápagos)
+ Gwatemala
+ Honduras
+ Kanada (Saskatchewan)
+ Kostaryka
+ Nikaragua
+ Salwador
+Półkula północna. Czas letni: UTC-5:00
+ Kanada (środkowy wschód)
+ Meksyk (środek i wschód)
+ Stany Zjednoczone (środkowy wschód)
+
+
+=== UTC-05:00 ===
+Strefa całoroczna
+ Ekwador
+ Jamajka
+ Haiti
+ Kajmany
+ Kolumbia
+ Panama
+ Peru
+Półkula północna. Czas letni: UTC-4:00
+ Bahamy
+ Kanada (środkowy wschód) – EST
+ Kuba
+ Stany Zjednoczone (wschód) – EST
+ Turks i Caicos
+
+
+=== UTC-04:30 ===
+Strefa całoroczna
+ Wenezuela
+
+
+=== UTC-04:00 ===
+Strefa całoroczna
+ Anguilla
+ Antigua i Barbuda
+ Antyle Holenderskie
+ Aruba
+ Barbados
+ Boliwia
+ Brazylia (zachód)
+ Brytyjskie Wyspy Dziewicze
+ Dominika
+ Dominikana
+ Gwadelupa
+ Grenada
+ Gujana
+ Kanada (wschodni Quebec)
+ Martynika
+ Montserrat
+ Portoryko
+ Saint Kitts i Nevis
+ Saint Lucia
+ Saint Vincent i Grenadyny
+ Trynidad i Tobago
+ Wyspy Dziewicze Stanów Zjednoczonych
+Półkula północna. Czas letni: UTC-3:00
+ Bermudy
+ Grenlandia (północny zachód)
+ Kanada (wschód)
+Półkula południowa. Czas letni: UTC-3:00
+ Argentyna (prowincja San Luis)
+ Brazylia (środek)
+ Chile
+ Falklandy
+ Paragwaj
+
+
+=== UTC-03:30 ===
+Półkula północna. Czas letni: UTC-2:30
+ Kanada (Nowa Fundlandia)
+
+
+=== UTC-03:00 ===
+Strefa całoroczna
+ Argentyna (bez prowincji San Luis)
+ Brazylia (północny wschód)
+ Gujana Francuska
+ Surinam
+Półkula północna. Czas letni: UTC-2:00
+ Grenlandia
+ Saint-Pierre i Miquelon
+Półkula południowa. Czas letni: UTC-2:00
+ Brazylia (południowy wschód)
+ Urugwaj
+
+
+=== UTC-02:00 ===
+Strefa całoroczna
+ Brazylia (wyspy atlantyckie)
+ Georgia Południowa i Sandwich Południowy
+
+
+=== UTC-01:00 ===
+Strefa całoroczna
+ Republika Zielonego Przylądka
+Półkula północna. Czas letni: UTC+0:00
+ Grenlandia (wschód)
+ Portugalia (Azory)
+
+
+=== UTC±00:00 ===
+Strefa całoroczna
+ Burkina Faso
+ Gambia
+ Ghana
+ Gwinea
+ Gwinea Bissau
+ Islandia
+ Liberia
+ Mali
+ Maroko
+ Mauretania
+ Sahara Zachodnia
+ Senegal
+ Sierra Leone
+ Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha
+ Togo
+ Wybrzeże Kości Słoniowej
+ Wyspa Bouveta
+ Wyspy Świętego Tomasza i Książęca
+Półkula północna. Czas letni: UTC+1:00
+ Guernsey
+ Hiszpania (Wyspy Kanaryjskie)
+ Irlandia
+ Jersey
+ Portugalia
+ Wielka Brytania
+ Wyspa Man
+ Wyspy Owcze
+
+
+=== UTC+01:00 ===
+
+Strefa całoroczna
+ Algieria
+ Angola
+ Benin
+ Czad
+ Tunezja
+ Demokratyczna Republika Konga (zachód)
+ Gabon
+ Gwinea Równikowa
+ Kamerun
+ Kongo
+ Niger
+ Nigeria
+ Republika Środkowoafrykańska
+Półkula północna. Czas letni: UTC+2:00
+ Albania
+ Andora
+ Austria
+ Belgia
+ Bośnia i Hercegowina
+ Chorwacja
+ Czarnogóra
+ Czechy
+ Dania
+ Francja
+ Gibraltar
+ Hiszpania
+ Holandia
+ Jan Mayen
+ Kosowo
+ Libia
+ Liechtenstein
+ Luksemburg
+ Macedonia
+ Malta
+ Monako
+ Niemcy
+ Norwegia
+ Polska
+ San Marino
+ Serbia
+ Słowacja
+ Słowenia
+ Svalbard
+ Szwajcaria
+ Szwecja
+ Watykan
+ Węgry
+ Włochy
+Półkula południowa. Czas letni: UTC+2:00
+ Namibia
+
+
+=== UTC+02:00 ===
+Strefa całoroczna
+ Botswana
+ Burundi
+ Demokratyczna Republika Konga (wschód)
+ Egipt
+ Lesotho
+ Malawi
+ Mozambik
+ Południowa Afryka
+ Rosja (Obwód kaliningradzki)
+ Rwanda
+ Suazi
+ Zambia
+ Zimbabwe
+Półkula północna. Czas letni: UTC+3:00
+ Akrotiri i Dhekelia
+ Bułgaria
+ Cypr
+ Cypr Północny
+ Estonia
+ Finlandia
+ Grecja
+ Izrael
+ Jordania
+ Liban
+ Litwa
+ Łotwa
+ Mołdawia
+ Palestyna
+ Rumunia
+ Syria
+ Turcja
+ Ukraina
+
+
+=== UTC+03:00 ===
+Strefa całoroczna
+ Arabia Saudyjska
+ Bahrajn
+ Białoruś
+ Dżibuti
+ Erytrea
+ Etiopia
+ Francuskie Terytoria Południowe i Antarktyczne (Wyspy Rozproszone)
+ Irak
+ Jemen
+ Katar
+ Kenia
+ Komory
+ Kuwejt
+ Madagaskar
+ Majotta
+ Rosja (większość europejskiej części kraju)
+ Somalia
+ Sudan
+ Sudan Południowy
+ Tanzania
+ Uganda
+
+
+=== UTC+03:30 ===
+Półkula północna. Czas letni: UTC+4:30
+ Iran
+
+
+=== UTC+04:00 ===
+Strefa całoroczna
+ Francuskie Terytoria Południowe i Antarktyczne (Wyspy Crozeta)
+ Gruzja
+ Oman
+ Reunion
+ Rosja (obwód samarski i Udmurcja)
+ Seszele
+ Zjednoczone Emiraty Arabskie
+Półkula północna. Czas letni: UTC+5:00
+ Armenia
+ Azerbejdżan
+Półkula południowa. Czas letni: UTC+5:00
+ Mauritius
+
+
+=== UTC+04:30 ===
+Strefa całoroczna
+ Afganistan
+
+
+=== UTC+05:00 ===
+Strefa całoroczna
+ Francuskie Terytoria Południowe i Antarktyczne (Wyspy Kerguelena oraz Święty Paweł i Amsterdam)
+ Kazachstan (zachód)
+ Malediwy
+ Rosja (zachodnia część azjatycka)
+ Tadżykistan
+ Turkmenistan
+ Uzbekistan
+ Wyspy Heard i McDonalda
+Półkula północna. Czas letni: UTC+6:00

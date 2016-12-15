@@ -1,0 +1,74 @@
+7 H·m−1 = 4π·10−7 m·kg·s−2·A−2. Die Basiseinheit Ampere – und damit alle anderen elektrischen Einheiten – ist also über eine Naturkonstante auf die Basiseinheiten Meter, Kilogramm und Sekunde bezogen.
+Die 1983 vorgenommene Neudefinition des Meters basiert auf der Lichtgeschwindigkeit im Vakuum: Die Festlegung c = 299 792 458 m·s−1 bezieht das Meter auf die Sekunde.
+
+Zukünftig sind weitere Neudefinitionen von SI-Basiseinheiten zu erwarten, die mit der exakten Festlegung von einigen Naturkonstanten einhergehen. Mögliche Neudefinitionen von SI-Basiseinheiten werden auf der alle vier Jahre stattfindenden Generalkonferenz für Maß und Gewicht diskutiert. Der formale Beschluss zur Neudefinition wird für die 25. Sitzung der Generalkonferenz für Maße und Gewichte, CGPM, im Jahr 2018 erwartet.
+Im Folgenden sind die mit Stand 2011 vorgeschlagenen Neudefinitionen der SI-Basiseinheiten zusammengefasst.
+
+
+=== Sekunde ===
+Die vorgeschlagene Neudefinition entspricht der bisherigen Definition, mit dem Unterschied, dass die Messbedingungen verschärft sind.
+
+
+=== Meter ===
+Die vorgeschlagene Neudefinition entspricht der bisherigen Definition.
+
+
+=== Kilogramm ===
+Die Definition des Kilogramms ändert sich wesentlich. Dessen neue Definition basiert nicht mehr auf einem Prototyp, sondern auf dem als exakt definierten Planckschen Wirkungsquantum mit der Einheit s−1·m2·kg, was der Einheit J·s entspricht.
+Eine Konsequenz daraus wäre, dass das Kilogramm im Gegensatz zur bisherigen Festlegung von der Definition der Sekunde und des Meters abhängig wird.
+
+
+=== Ampere ===
+Die Festlegung des Ampere wird im Vorschlag so geändert, dass sie messtechnisch leichter umzusetzen ist als die bisherige Definition. Die Neudefinition basiert auf der exakt festgelegten Elementarladung e.
+Eine Konsequenz daraus wäre, dass das Ampere nicht mehr auf der Festlegung des Kilogramms und des Meters basiert. Außerdem wäre durch exakte Festlegung der Elementarladung die bisher exakt festgelegte magnetische Feldkonstante , die elektrische Feldkonstante  und daraus abgeleitet auch der Wellenwiderstand des Vakuums nicht mehr exakt festgelegt.
+
+
+=== Kelvin ===
+Die vorgeschlagene Neudefinition des Kelvins basiert auf der exakten Festlegung der Boltzmann-Konstante k.
+Eine Konsequenz daraus wäre, dass die Festlegung des Kelvins auf der Festlegung von Sekunde, Meter und Kilogramm basiert.
+
+
+=== Mol ===
+Die Definition des Mols soll mit der Festlegung der Avogadro-Konstante NA einhergehen. Damit bestünde keine Abhängigkeit vom Kilogramm mehr.
+
+
+=== Candela ===
+Die vorgeschlagene Neudefinition entspricht bis auf Änderung der Formulierung der bisherigen Definition.
+
+
+=== Zusammenfassung ===
+Auf der nächsten Generalkonferenz für Maß und Gewicht im Jahr 2018 sollen diese Definitionen voraussichtlich festgelegt werden: 
+
+
+== Literatur ==
+E. Bodea: „Giorgis rationales MKS-Masssystem mit Dimensionskohärenz“ 2. Aufl. Birkhäuser 1949.
+J. deBoer: „Giorgi and the International System of Units“ in C. Egidi (ed) „Giovanni Giorgi and his contribution to electrical metrology“ Politecnico Torino 1990, S. 33–39.
+
+
+== Weblinks ==
+
+Faltblatt: Die gesetzlichen Einheiten in Deutschland PTB, Stand: Juni 2015 (PDF-Datei; 1,6 MB)
+Konventionen zum Einsatz der SI- Einheiten auf nist.gov (National Institute of Standards and Technology) der USA
+Das Internationale Einheitensystems (SI) Deutsche Übersetzung der SI-Broschüre des BIPM. 8. Aufl. (erschienen als Sonderdruck aus den PTB-Mitteilungen), 2007 PTB (PDF-Datei; 1.467kB)
+Metrologie in Österreich BEV
+Masseinheiten in der Schweiz, Eidgenössisches Institut für Metrologie METAS METAS
+SI-Einheiten in den USA NIST
+Das Internationale Einheitensystem, Internationales Büro für Maß und Gewicht BIPM (engl., frz.)
+United Nations Centre for Trade Facilitation and Electronic Business UN/CEFACT
+
+
+== Einzelnachweise ==
+↑ Le Système international d’unités. 8e édition, 2006, aktualisiert 2014 (die sogenannte „SI-Broschüre“, französisch und englisch).
+↑  Das Internationale Einheitensystem (SI). Deutsche Übersetzung der BIPM-Broschüre „Le Système international d’unités/The International System of Units (8e édition, 2006)“. In: PTB-Mitteilungen. 117, Nr. 2, 2007 (übersetzt von Cécile Charvieux) (Online-Version (PDF-Datei, 1,4 MB)).
+↑ iobic.de Richtlinie 2009/3/EG des Europäischen Parlaments und des Rates vom 11. März 2009 zur Änderung der Richtlinie 80/181/EWG des Rates zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Einheiten im Messwesen
+↑ Weights and Measures. The World Factbook, abgerufen am 23. Januar 2010 (englisch).
+↑ Einer gegen 290 Millionen NZZ Folio 02, 2005, abgerufen am 23. Januar 2010.
+↑ Forschung zum neuen SI, PTB, abgerufen am 1. Februar 2015
+↑ Das Urkilogramm – Der Dinosaurier unter den Maßeinheiten, Bericht aus einer Quarks und Co-Sendung
+↑ Ausführungsverordnung zum Gesetz über die Einheiten im Messwesen und die Zeitbestimmung
+↑ Markus Kuhn: Metric System FAQ. 9. September 2009. Abgerufen am 11. September 2014: „Some countries that do not use the Latin alphabet have standardized their own short symbols for SI units. The Russian standard GOST 8.417:1981, for example, specifies Cyrillic symbols м (m), кг (kg), с (s), А (A), К (K), моль (mol), кд (cd), etc.“
+↑ Bureau International des Poids et Mesures: Report of the 19th meeting of the CCU (2009) (PDF; 208 kB). Abgerufen am 22. November 2015.
+↑ Resolution 1 of the 24th CGPM, bipm.org, Zugriff am 9. April 2013.
+↑ Joachim Ullrich: Das internationale System der Einheiten in: Physik in unserer Zeit Volume 46, Issue 2, page 55, März 2015, doi:10.1002/piuz.201590026
+↑ a b Ian Mills: Draft Chapter 2 for SI Brochure, following redefinitions of the base units (PDF; 249 kB) CCU. 29. September 2010. Abgerufen am 1. Januar 2011.
+↑ PTB-Info

@@ -1,0 +1,31 @@
+Kwadrat (łac. quadratum „czworobok, kwadrat”) – wielokąt foremny o czterech bokach (czworokąt foremny), czyli czworobok o czterech przystających bokach (a stąd równej długości) i tyluż przystających kątach wewnętrznych (a stąd prostych). Można go również scharakteryzować jako prostokąt o przystających bokach (bądź równej długości), romb o przystających (bądź prostych) kątach wewnętrznych. Dowolne dwa kwadraty są podobne.
+Kwadraty są ścianami sześcianu oraz niektórych wielościanów półforemnych, m.in. ośmiościanu ściętego.
+
+
+== Własności ==
+
+Z własności
+czworokątów:
+suma miar wszystkich kątów wewnętrznych wynosi 2π (360°);
+
+równoległoboków:
+przeciwległe boki są równoległe,
+przekątne przecinają się w połowie,
+punkt przecięcia przekątnych jest środkiem symetrii;
+
+prostokątów:
+wszystkie kąty wewnętrzne są przystające (a stąd proste),
+przekątne są przystające (a stąd mają równą długość);
+
+rombów:
+przekątne zawierają się w dwusiecznych kątów wewnętrznych,
+przekątne są prostopadłe;
+
+Dodatkowo następujące własności są charakterystyczne dla kwadratów:
+ma cztery osie symetrii: dwie z nich to proste zawierające przekątne (jak w rombie), pozostałe dwie to symetralne boków (jak w prostokącie).
+osie symetrii dzielą go na osiem przystających trójkątów prostokątnych równoramiennych.
+
+
+== Wzory ==
+
+Niech  oznacza długość boku pewnego kwadratu, a  będzie równe długości jego przekątne

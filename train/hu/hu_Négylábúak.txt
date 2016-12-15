@@ -1,0 +1,28 @@
+A négylábúak (Tetrapoda) az elsődlegesen négylábú gerinces állatok összefoglaló megjelölésére szolgáló fogalom. Közéjük tartoznak a kétéltűek, a hüllők (köztük a visszafejlődött lábú kígyók is), a madarak, az emlősök. Rendszertani kategóriaként ritkán használják, annak ellenére, hogy minden valószínűség szerint monofiletikus (egy közös őstől származó) kategóriáról van szó. Evolúciós szempontból a madarak is a négylábúak főosztályába tartoznak, mivel a szárnyak a mellső lábakból fejlődtek ki.
+A jelenleg leginkább elfogadott hipotézis szerint a négylábúak közös őse a csontos halak (Osteichthyes) osztálya, bojtosúszójúak alosztálya (Crossopterygii), mára már kihalt Rhipidistia (Osteolepiformes) rendjének tagjai között keresendő.
+Az első már valódi négylábúnak tekintett állatok minden bizonnyal a már szintén kihalt páncélos kétéltűek (Labyrinthodontia) alosztályának Ichthyostegalia rendjébe tartoztak. Az Ichthyostega fajok már kétéltűek, de még nagyon sok bélyegben a bojtosúszós halakra emlékeztetnek. Az Ichthyostegák életük nagy részét még a vízben tölthették, erre utal a még felismerhető heterocerk (félszárnyú) farokúszójuk és az oldalvonal-szerv. Apomorf jellemvonása viszont az ötujjú végtag, a váll- és medenceöv fejlettsége. Érdekes, hogy koponyájuk csak egy ízületi bütyökkel (condylus occipitalis) csatlakozik a gerincoszlophoz, amely a mai madarak és a hüllők többségének jellemzője. A ma élő ún. csupasz kétéltűek (Lissamphibia) esetében viszont két ízületi bütyök figyelhető meg hasonlóan az emlősökhöz. A kétéltűek a devon időszakban különültek el a halaktól, páncélos kétéltűek formájában. A páncélos kétéltűek Labyrinthodontia alosztályának egy másik rendjébe, az Anthracosauriák közé tartoztak azok a fajok is, amelyek az első közös anapszida hüllő-ős a Cotylosauria ősei voltak. A páncélos kétéltűek azonban a mezozoikumra (triász, jura és kréta) már fokozatosan kihaltak (erősen visszaszorultak) és átadták helyüket a hüllőknek. A ma élő Lissamphibia kétéltűek (gőték, szalamandrák, békák és lábatlan kétéltűek) fosszíliáit, megkövült maradványait csak a mezozoikum közepétől ismerjük, amikor a páncélos kétéltűek már rég kihaltak, így kapcsolatukról szinte semmit sem tudunk. A páncélos kétéltűekre jellemző bizonyos anatómiai jegyeket leginkább a gilisztagőték mutatnak (apró bőr alatti csontlemezek), ők viszont egy rendkívüli módon specializált, föld alatt élő és kevés fajt számláló csoport.
+Az első hüllőnek tekintett, mára már kihalt, Cotylosauria csoportba kicsi gyíkszerű, de anapszida koponyájú (a mai teknősökre jellemző) állatok tartoztak, amelyek a karbon második felében jelentek meg. A Cotylosauriák már szárazföldre lerakott meszeshéjú tojásokkal szaporodtak. Őket tekintjük minden ma élő magzatburkos állatok (Amnióta = hüllők, madarak, emlősök) ősének. Ebből következően a hagyományos hüllők (Reptilia) csoport rendszertani kategóriaként nem használható, legfeljebb, ha a madarakat és emlősöket is közéjük értjük. E nélkül a mai hüllők többszörösen is parafiletikus (egymástól független evolúciós fejlődésű) csoportot alkotnának, amelyekre csak ősi tulajdonságokban való (esetenként látszólagos) megegyezés (synplesiomorphia)lenne jellemző, amely biológiai csoportképzés alapja nem lehet. Egy taxont akkor érdemes használni, ha az monofiletikus, vagyis egy közös ős minden élő és kihalt leszármazottját magában foglalja, ennek bizonyítéka pedig csak a közös eredetű tulajdonságokban való megegyezés (synapomorphia) lehet. A mai madarak ősei a felső jurától (Archeopterix és korai társai), az emlősöké kicsit korábbról a felső triászból ismertek (Prototheria alosztály, az ősi tojásrakó emlősök).
+
+
+== A négylábúak rendszertani osztályozása ==
+Az alábbi osztályozás a hagyományos rendszertantól jelentősen eltér, és a paleontológia, valamint a modern genetikai kutatások eredményeit tükrözi.
+Főosztály: Négylábúak (Tetrapoda)
+Osztály: Kétéltűek (Amphibia)
+Rend: †Temnospondyli (gyűrött fogú páncélos kétéltűek)
+Alosztály: †Lepospondyli (sima fogú páncélos kétéltűek)
+Alosztály: Csupasz kétéltűek (Lissamphibia) (ma élő, csupasz kétéltűek)
+
+Csoport: Magzatburkosok (Amniota)
+Osztály: Hüllők (Sauropsida/Reptilia)
+Alosztály: Anapsida
+Rend: †Mesosauria
+Rend: Teknősök (Testitudines)
+
+Alosztály: Diapsida
+Rend: †Araeoscelidia
+Rend: †Captorhinida
+Öregrend: †Ichthyopterygia – tengeri halgyíkok, például Ichthyosaurus)
+Alosztályág: Lepidosauromorpha
+Öregrend: †Sauropterygia – bizonyos őshüllők, például fókateknősszerűek (Placodontia)
+Öregrend: Pikkelyesek (Lepidosauria)
+Rend: Felemásgyíkok (Sphenodo

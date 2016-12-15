@@ -1,0 +1,38 @@
+Yahoo! Maps was a free online mapping portal provided by Yahoo!, and powered by Nokia's Here Maps. Functionality includes local weather powered by The Weather Channel, printing maps, and local reviews powered by yelp. In 2014, a mobile site for Yahoo! Maps was released.
+
+
+== NewsEdit ==
+On May 16, 2007, Yahoo! released a new map style designed by the cartography company Cartifact. Data and imagery were also supplied by Cartifact, including shaded relief showing land surface features and land cover coloring indicating major environmental zones.
+At some point before May 2007 maps of India were added to http://in.maps.yahoo.com which is a non Flash interface to Yahoo Maps. In addition to reasonably detailed Indian coverage (not available through http://maps.yahoo.com), the site also allows a user to view maps for the rest of the world.
+At some point between 2011 and 2013, Yahoo Maps became powered by Nokia's HERE Maps
+In late June 2015, Yahoo Maps was no longer available.
+
+
+== Available servicesEdit ==
+The main Yahoo! Maps site offers street maps and driving directions for the United States and Canada. It has the following notable features:
+Address Book: Registered Yahoo! users can store a list of commonly used street addresses, making it unnecessary to type them in again. A recently entered address can be quickly recalled by selecting one from a drop-down list.
+Live Traffic: Traffic incident markers and current highway conditions can be viewed on the map.
+Point of Interest Finder: SmartView (tm) can be used to find businesses and other points of interest near the current location, with clickable icons that supply an address, a telephone number, and links for more information.
+Driving Directions: Driving directions can be displayed on a map or in printable form, with optional turn-by-turn maps, or as simple text. Links to driving directions can be e-mailed, and text directions sent to mobile phones.
+
+
+== Yahoo! Local Maps Rich Internet ApplicationEdit ==
+A new and improved Yahoo! Local Maps has been recently made available. It offers maps with significantly more interactivity for broadband users. It is written using AJAX, leveraging Rich Internet Application techniques. Some features:
+Draggable maps: The current map view can be manipulated by dragging it with the mouse or tapping the arrow keys. Zoom level can be controlled via the mouse scroll wheel, "Page Up"/"Page Down" keys, or the map's zoom bar.
+Multi-point driving directions: Multiple addresses can be entered and manually reordered for complex driving directions.
+Find On The Map: A local search by business name or category can be typed into the "Find On The Map" box to locate it in the current map view. A list of clickable point of interest categories is also available. The results can be further refined by user rating, or related category.
+Widgets: A number of widgets over the map include a navigator widget, map type (map, satellite & hybrid) controller and a zoom level control.
+Satellite Imagery: Labelled (hybrid) and unlabelled satellite imagery is available worldwide.
+Overview map: Collapsible overview map provides context, with draggable grey area controlling the main map view.
+International Coverage: Outside the US and Canada, Yahoo! Maps Beta can recognize city, province, and country names, and provide a small-scale map or satellite views.
+Right click to set waypoint: an origin, destination, or midpoint can be set by right-clicking on the desired location on the map.
+Draggable markers: Any marker can be dragged to the 'Get Map' text entry area to add that location to a route.
+Live traffic, address book, and send to phone features are also available.
+
+
+== Yahoo! Map Web ServicesEdit ==
+Developers can embed Yahoo! Maps into their own web pages (to create a mashup) through the Yahoo! Maps Developer APIs. Many exciting new web sites have come about recently by displaying content from other sources on top of maps provided by the various mapping portals (the Google Maps API getting the most publicity). The Yahoo! Maps APIs come in three basic flavors:
+The Flash APIs, that use the Adobe Flash platform. Three variations, allowing the developer to write in JavaScript, ActionScript, or Adobe Flex 1.5, are available.
+The Ajax API, for interactive maps that use capabilities inherent in web browsers, without using the Flash plug-in. Ajax applications are written in JavaScript.
+The "Simple" API. The Simple API is basically an XML data format, an extension of GeoRSS, for displaying point of interest data on top of Yahoo!'s main map site. The Flash and Ajax APIs also support display of GeoRSS formatted data.
+Yahoo! offers a number of low-level APIs to support maps, for geocoding, getting a map image, searching for a local business, or retrieving traffic information

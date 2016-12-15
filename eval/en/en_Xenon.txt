@@ -1,0 +1,45 @@
+ Argon) to the list of prohibited substances and methods, although at this time there is no reliable drug test.
+
+
+==== ImagingEdit ====
+Gamma emission from the radioisotope 133Xe of xenon can be used to image the heart, lungs, and brain, for example, by means of single photon emission computed tomography. 133Xe has also been used to measure blood flow.
+Xenon, particularly hyperpolarized 129Xe, is a useful contrast agent for magnetic resonance imaging (MRI). In the gas phase, it can be used to image empty space such as cavities in a porous sample or alveoli in lungs. Hyperpolarization renders 129Xe much more detectable via magnetic resonance imaging and has been used for studies of the lungs and other tissues. It can be used, for example, to trace the flow of gases within the lungs. Because xenon is soluble in water and also in hydrophobic solvents, it can be used to image various soft living tissues.
+Xenon with its high nuclear mass is a useful contrast medium for x-ray photography. For this purpose it is supplemented by Krypton and used at concentrations below 35% as otherwise it would act as a narcotic.
+
+
+=== NMR spectroscopyEdit ===
+Because of the xenon atom's large, flexible outer electron shell, the NMR spectrum changes in response to surrounding conditions, and can therefore be used as a probe to measure the chemical circumstances around it. For instance xenon dissolved in water, in hydrophobic solvent, and xenon associated with certain proteins can be distinguished by NMR.
+Hyperpolarized xenon can be used by surface chemists. Normally, it is difficult to characterize surfaces using NMR, because signals from the surface of a sample will be overwhelmed by signals from the far-more-numerous atomic nuclei in the bulk. However, nuclear spins on solid surfaces can be selectively polarized, by transferring spin polarization to them from hyperpolarized xenon gas. This makes the surface signals strong enough to measure, and distinguishes them from bulk signals.
+
+
+=== OtherEdit ===
+In nuclear energy applications, xenon is used in bubble chambers, probes, and in other areas where a high molecular weight and inert nature is desirable. A by-product of nuclear weapon testing is the release of radioactive xenon-133 and xenon-135. The detection of these isotopes is used to monitor compliance with nuclear test ban treaties, as well as to confirm nuclear test explosions by states such as North Korea.
+
+Liquid xenon is being used in calorimeters for measurements of gamma rays as well as a medium for detecting hypothetical weakly interacting massive particles, or WIMPs. When a WIMP collides with a xenon nucleus, it is predicted to impart enough energy to cause ionization and scintillation. Liquid xenon is useful for this type of experiment due to its high density which makes dark matter interaction more likely and permits a quiet detector due to self-shielding.
+Xenon is the preferred propellant for ion propulsion of spacecraft because of its low ionization potential per atomic weight, and its ability to be stored as a liquid at near room temperature (under high pressure) yet be easily converted back into a gas to feed the engine. The inert nature of xenon makes it environmentally friendly and less corrosive to an ion engine than other fuels such as mercury or caesium. Xenon was first used for satellite ion engines during the 1970s. It was later employed as a propellant for JPL's Deep Space 1 probe, Europe's SMART-1 spacecraft and for the three ion propulsion engines on NASA's Dawn Spacecraft.
+Chemically, the perxenate compounds are used as oxidizing agents in analytical chemistry. Xenon difluoride is used as an etchant for silicon, particularly in the production of microelectromechanical systems (MEMS). The anticancer drug 5-fluorouracil can be produced by reacting xenon difluoride with uracil. Xenon is also used in protein crystallography. Applied at pressures from 0.5 to 5 MPa (5 to 50 atm) to a protein crystal, xenon atoms bind in predominantly hydrophobic cavities, often creating a high-quality, isomorphous, heavy-atom derivative, which can be used for solving the phase problem.
+
+
+== PrecautionsEdit ==
+Many oxygen-containing xenon compounds are toxic due to their strong oxidative properties, and explosive due to their tendency to break down into elemental xenon plus diatomic oxygen (O2), which contains much stronger chemical bonds than the xenon compounds.
+Xenon gas can be safely kept in normal sealed glass or metal containers at standard temperature and pressure. However, it readily dissolves in most plastics and rubber, and will gradually escape from a container sealed with such materials. Xenon is non-toxic, although it does dissolve in blood and belongs to a select group of substances that penetrate the blood–brain barrier, causing mild to full surgical anesthesia when inhaled in high concentrations with oxygen.
+At 169 m/s, the speed of sound in xenon gas is slower than that in air due to the slower average speed of the heavy xenon atoms compared to nitrogen and oxygen molecules. Hence, xenon lowers the rate of vibration in the vocal tract when exhaled. This produces a characteristic lowered voice timbre, an effect opposite to the high-timbred voice caused by inhalation of helium. Like helium, xenon does not satisfy the body's need for oxygen. Xenon is both a simple asphyxiant and an anesthetic more powerful than nitrous oxide; consequently, many universities no longer allow the voice stunt as a general chemistry demonstration. As xenon is expensive, the gas sulfur hexafluoride, which is similar to xenon in molecular weight (146 versus 131), is generally used in this stunt, and is an asphyxiant without being anesthetic.
+It is possible to safely breathe dense gases such as xenon or sulfur hexafluoride when they are in a mixture of at least 20% oxygen. Xenon at 80% concentration along with 20% oxygen rapidly produces the unconsciousness of general anesthesia (and has been used for this, as discussed above). Breathing mixes gases of different densities very effectively and rapidly so that heavier gases are purged along with the oxygen, and do not accumulate at the bottom of the lungs. There is, however, a danger associated with any heavy gas in large quantities: it may sit invisibly in a container, and if a person enters a container filled with an odorless, colorless gas, they may find themselves breathing it unknowingly. Xenon is rarely used in large enough quantities for this to be a concern, though the potential for danger exists any time a tank or container of xenon is kept in an unventilated space.
+
+
+== See alsoEdit ==
+
+Buoyant levitation
+Penning mixture
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Xenon at The Periodic Table of Videos (University of Nottingham)
+WebElements.com – Xenon
+USGS Periodic Table – Xenon
+EnvironmentalChemistry.com – Xenon
+Xenon as an anesthetic
+Sir William Ramsay's Nobel-Prize lecture (1904)

@@ -1,0 +1,138 @@
+Mathematica (-ae, f.) (Graece: ἡ μαθηματική (scil. ἐπιστήμη sive τέχνη) a voce μανθάνω 'disco') sive mathematice sive mathesis dicitur doctrinalis scientia, quae abstractam considerat quantitatem variis aspectibus, qui sunt algebraica, geometrica, analytica. Mathematica, quae fundamenta in numeris, logica, et ratiocinatione habet, est lingua physicae et aliarum scientiarum quantitativarum. De mathematica Galilaeus Galilaei scripsit:
+Hodie mathematica, tam necessaria in claves RSA securas creandas, partem magnam etiam agit in technologiis diversis, sicut in mercatura, communicationibus, televisionibus, et incolumitate interretiali vigilanda.
+
+
+== Historia mathematicae brevis ==
+In principio, mathematica creata est ut commercium facilius fiat: ad terram metiendam, ad pretia calculanda, et ad tales res quae sequuntur. Qua de causa in partes tres divisa est mathematica quae, e.g., ad mutationes, structuras spatiaque pertinent: analysis, algebra, geometria. Partes autem mathematicae per aetates variant ob nova reperta et scientiam processam.
+
+
+=== Antiquitas ===
+Aetate Romana, mathematica multas et diversas disciplinas cohibuit, sicut musicam et astronomiam, quas hodie ut mathematicales non habemus. Exempli gratia, Isidori Hispalensis saeculo septimo scripsit de mathematica:
+Iam saeculo XVII, ut a Cartesii Newtonique verbis censamus, autem, soli mathematici dicuntur homines qui methodos novas colunt quantitativas.
+
+
+=== Algebra et geometria a Renato Cartesio coniunctae ===
+
+Mathematici, ut bonae mathematicae exemplar, geometriam classicam a Euclide formulatam diu habent. Euclides enim demonstravit quinque axiomata satis esse de quibus omnia argumenta geometrica per deductionem logicam derivari possunt. De arithmetica quoque Euclides theoremata demonstravit, exempli gratia quot sint numeri primi.
+A mathematicis Arabicis Indicisque saecula primum ad septimum decimum, multae contributiones amplae, sicut systema numericum decimale, functiones sinusoidales, et algebra, ad Europam transmissae sunt. Ibi Europae saeculo XVII Renatus Cartesius, cum puncta in spatio a tribus numeris expressit, geometriam et algebram iunxit, geometriam analyticam comperiens, ut hodie omnes agnoscant aequationem
+
+ut circuli aequatio ubi x et y sunt coordinatae planae et R est circuli radius, et similiter alias huius modi aequationes.
+
+
+=== Calculus, analysis fundamentum ===
+
+Isaacus Newtonus libro Philosophiae naturalis principia mathematica anni 1687 magnopere mathematicam protulit, monstrando sola tria axiomata (et tantas virum leges) in aequationum mathematicalum forma satis esse ut omnia phenomena physica demonstrentur. Ambo Newtonus et Leibnitius item analysim magnopere protulerunt cum calculus deinde comminiscuntur. Subsequenter Gauss, Eulerus, Lagrange, Hamilton et alii calculum et analysim novis methodis, functionibus, theorematisque etiam protulerunt, functiones exponentiales logarithmicasque, calculum vectoralem, et methodos aequationes differentiales solvendi invenientes.
+
+
+=== Algebra abstracta et numeri novi ===
+
+Algebra incepit in amplificatione quadam de arithmetica, qua symbola loco numerorum substituta sunt, ut plures aequationes vel sententias per unam sententiam repraesentiuntur. Haec methodus reperta est ut perutilis ad problemata solvenda quibus sunt relationes inter ignotas quantitates quasdam in aequationum forma. Ad tales aequationes solvendas, mathematicis deinde mox oportuit novos numeros comperiri, sicut numeros irrationales et numeros complexos; et novas structuras algebraicas quoque e numeris factas sicut vectores, matrices, et tensores. Aequatio celeberrima, quae multos tales numeros simul proponit, est aequatio Euleri
+
+ubi e = 2.71828... est numerus Euleri, i =  unitas imaginaria, π = 3.14159... numerus pi, et 0 est numerus zerum. Postquam tanti numeri novi definiuntur, nova algebrae abstractae disciplina incepta est ut numeros suarum operationum, sicut + et *, arithmeticarum contextu abstractiter meditatur et ut condiciones determinentur quibus aequationes algebraicas solvere possumus. Mathematicus Francogallicus Evaristus Galois denique anno 1832 problema magnum supervavit, cum illas condiciones determinavit necessarias sufficientesque ad aequationes polymoniales solvendas solo numeris realibus utendo. Sui labores nobis dederunt fundamentum theoriae Galois, quae pars maior algebrae abstractae est. Galois etiam primus fuit ut nomine grex (Francogallice: groupe) utatur ad collectionem permutationum designandam. Tragice Galois solos viginti annos vixit, in monomachia interfectus.
+
+
+=== Unificatio quam David Hilbert appetivit ===
+
+A Newtoni aetate usque ad hodie, mathematica et physica coniunctim ingrediuntur. Saepe physici e necessitate per argumenta dubia mathematicam novam comminiscuntur, quam mathematici sero bene confirmant. Exempli gratia calculus saeculo sexto decimo inventus est, sed argumentum epsilon-delta, quod integrationem differentiationemque valide sustinuit, solum a Bernardo Bolzano anno 1817 creatur. Etiam sunt exempla quibus ingressae mathematicae physicam proferunt: inventio numeri imagninarii saeculo undevicensimo effecit ut physici saeculo vicensimo potuerant mechanicam quanticam comminisci.
+Modo saeculo septimo decimo, Renatus Cartesius geometriam et algebram coniunxit, modo tandem saeculo vicensimo David Hilbert analysim iunxit ad algebram geometriamque. Circum annum 1909 Hilbert de functionibus cogitabat in aequationum differentialum integralumque contextu, analysis functionalis disciplinam fundans. Hilbert deinde connexionem inter algebram et analysim repente vidit, qua functiones sunt ut vectores in spatium abstractum, quod hodie dicitur spatium Hilbertianum.
+Repertum Hilbertis, quod maximi momenti fuit, sivit Paulum Dirac mechanicam quanticam recolere in formam quam physici ad contexum relativisticum generalizare potuerant. Post unificationem quoque mathematici valde mathematicae fundamenta meditati sunt, maxime Hilbert ipse, qui appetivit totam mathematicam in arithmeticam de thesi dialectica reducere. Curtius Gödel autem tunc comprobavit Hilbertis programma esse impossibilem, quod axiomatum collectiones universaliter sunt inconsummabiles.
+
+
+=== Mathematica applicata ===
+
+Saeculo XX multae disciplinae inceptae sunt novae eo consilio ut homines principiis mathematicis utantur ad problemata specialia solvenda pertinentia ad themata technologica, scientifica, oeconomicaque, sicut: mathematica physicalis, analysis numerica, analysis statistica, geometria differentialis, mathematica argentaria, theoria ludorum.
+Inter eas disciplinas, analysis statistica pertinet ad omnes disciplinas empiricas quae numeros e experimentis tractant errata passis. Eius fundamentum est in fortis scientia, quae dicitur probabilitas, incipiente in laboribus Petri de Fermat, Blaisii Pascalis et Christiani Hugenii saeculo septimo decimo. Analysis numerica specialiter post computatrorum aetatem surgit, quod propositum suum est omnia problemata solvere per usum matricum vectorumque in computatris.
+
+
+== Mathematica et philosophia ==
+Ob modicam mathematicae naturam, philosophi diu de mathematica sententias habere solent. Plato putavit mathematicam referre formas ideales in altero mundo.
+Thomas Aquinas tenuit mathematicam esse scientiam de his quae sine materia sensibile definiuntur sed, ut exsistant, materiam requirunt. Dedit exemplum de curvo et simo: simum includit in proprio definitione materiam sensibilem (i.e., nasum); curvum autem definiri potest sine sensibile materia particulare, sed in re non potest esse sine materia sensibile. Ita scripsit, distinguens philosophiam naturalem a mathematica et metaphysica. Quantitas, quae secundum Thomam dicitur accidens, potest sciri sine omnibus aliis entis formis, quia quantitates sunt communes inter omnes substantias materiales, antequam eae primum formantur, licet in modo potentiae propriae, non actu sint. Hoc amplius intelligibile est quia Thomas ipse docuit potentiam quantitatis praeintelligere in materia, ex dimensionibus non terminatis quae in materia insunt ante omnem formam. Ergo mathematica, quae talibus quantitatibus studet, quoque sine sensibile materia particulare potest sciri.
+In Immanuelis Kantii philosophia, mathematica constituebat unicam scientiae categoriam, de qua certi possumus esse, quod, secundum Kant, sola mathematica est synthetica a priori, quae de experientia non pendet. Ayn Rand, quae Kantem vehementer opposuit, etiam de mathematica sententiam peculiarem habebat. In sua philosophia, omnis scientia, mathematica non excepta, ab experientia venit. Secundum Rand, omnes notiones veniunt ex actione qua magnitudines abstractiter a dimensionibus separamus. Haec actio a Rand dicitur magnitudines omittere.
+
+
+== Modernae disciplinae mathematicae principales ==
+Algebra
+Analysis
+Geometria
+Statistica
+Fundamenta mathematicae
+Algebra comprehendit theoriam numerorum, algebram linearem, et algebram abstractam quae tractat de structuribus algebraicis sicut gregibus.
+Analysis comprehendit systemata dynamica, analysin numericam, et plures applicationes mathematicae ad res physicas, ad biologiam, ad chemiam, necnon ad alias res.
+Geometria comprehendit geometrica algebraica et topologia.
+Statistica theoria probabilitatis utitur (quae theoria pars est analysis).
+Fundamenta mathematicae sunt logica, theoria copiarum, et generatim omnes theoriae quae axiomata praebent ad systemata mathematica describenda.
+
+
+== Mathematici clari ==
+Vide etiam: Mathematicus
+
+
+== Vide etiam ==
+Demonstratio mathematica
+Arithmetica
+Additio, Subtractio, Multiplicatio, Divisio
+Formula:Figurae geometriae, Formula:Figurae Platonicae
+Logica
+Ratiocinationes Aristotelicae
+Ratio Propositionum
+Logicus Infractus
+
+
+== Notae ==
+
+
+== Fontes generales ==
+Res gestae mathematicae a MacTutor.
+Historia mathematicae a Vicipaedia anglica.
+
+
+== Nexus externi ==
+Regulae abaci ab Odone anno 1784
+Francisci Maureolici Opera Mathematica
+Cursus mathematicus: P. GASPARIS SCHOTTI REGIS-CURIANI, E SOCIETATE IESU. Olim in Panormitano Siciliae, nunc in Herbipolitano Franconiae eiusdem SOCIETATIS IESU Gymnasio Matheseos Professoris CURSUS MATHEMATICUS, Sive ABSOLUTA OMNIUM MATHEMATICARUM DISCIPLINARUM. ENCYCLOPAEDIA, In LIBROS XXVIII. digesta, Eoque Ordine disposita, ut quivis, vel mediocri praeditus ingenio, totam Mathesin a primis fundamentis proprio Marte addiscere possit. Opus desideratum diu, promissum a multis, a non paucis tentatum, a nullo numeris omnibus absolutum. Accesserunt in fine THEORESES MECHANICAE NOVAE Additis INDICIBUS locupletissimis - Cum Privilegio Sacrae Caesareae Maiestatis. BAMBERGAE, Sumpt. IOH. MARTINI SCHÖNWETTERI, Bibliopolae Francofurtensis. M. DC. LXXVII.
+Momenti mathematici a Societate Mathematica Americana scripti, linguis pluribus
+Mathematica Reperta, imagines rerum mathematicarum
+Biblioteca digitale rerum mathematicarum
+Fabulae mathematicae, variis linguis
+Porta publica societatis francogallicae rerum mathematicarum
+Biblioteca societatis Europae rerum mathematicarum, apud emis.de
+Certamen internationale ludorum mathematicorum logicorumque, apud vinc17.org
+Docere fontibus historicis utens (anglice), D. Pengelley et R. Laubenbacher
+Mathworld, vel "Mundus mathematicus," a societate Wolfram scriptus (anglice)
+Tabulae geographicae rerum mathematicarum (anglice), D. Rusin
+Biblioteca functionum mathematicarum (anglice), NIST
+Bridges, societas quae pontes facit, ut ita dicam, inter artes et res mathematicas
+Tabula stirpis mathematicorum, magistros et discipulos monstrans
+
+
+== Bibliographia ==
+
+
+=== Mythistoriae et libri pro liberis ===
+
+Abbott, Edwin Abbott. 1884 Flatland: A Romance of Many Dimensions. London: Seeley. (ISBN 978-1-903985-17-5: editio nova cum adnotationibus ab Ian Stewart scriptis)
+Ekeland, Ivar. 2006. The Cat in Numberland. London: Cricket. ISBN 978-0-8126-2744-2.
+Enzensberger, Hans Magnus. 1997 Der Zahlenteufel. München: Hanser. ISBN 3-446-18900-9.
+Guedj, Denis. 2000. Le théorème du perroquet. Lutetiae: Seuil. ISBN 978-2-02-042785-2.
+Haber, Melissa Glenn. 2004. The Heroic Adventures of Hercules Amsterdam. London: Puffin. ISBN 978-0-14-240216-0.
+Moranville, Sharelle Byars. 2006. A Higher Geometry. New York: Henry Holt. ISBN 978-0-8050-7470-3.
+Juster, Norton. 1961. The Phantom Tollbooth. New York: Random House. ISBN 978-0-394-81500-8.
+Tahan, Malba. 1949 O homem que calculava. São Paolo: Edição Saraiva. OCLC 20696544; ISBN 978-85-01-02314-8
+
+
+=== Libri elementarii ===
+Courant, Richard, et Herbert Robbins. 1941 What Is Mathematics? Oxonii: Oxford University Press. ISBN 0-19-510519-2 (editio altera)
+Davis, Philip J., et Reuben Hersh. 1980. The Mathematical Experience. Bostoniae: Birkhäuser. ISBN 3-7643-3018-X
+Glaeser, Georg. 2004 Der Mathematische Werkzeugkasten. M&unchen: Elsevier-Spektrum Akademischer Verlag. ISBN 3-8274-1485-7
+Gowers, Timothy. 2002. Mathematics: A Very Short Introduction. Oxonii: Oxford University Press. ISBN 978-0-19-285361-5
+Kasner, Edward, et James R. Newman. 1940 Mathematics and the Imagination. New York: Simon and Schuster. ISBN 0-486-41703-4
+Livio, Mario. 2010 Is God a Mathematician? New York: Simon and Schuster. ISBN 978-0-7432-9406-5
+Newman, James R., ed. 1956 The World of Mathematics. New York: Simon and Schuster. ISBN 978-0-486-43268-7
+Peterson, Ivars. 2001. The Mathematical Tourist: New and Updated Snapshots of Modern Mathematics New York: Barnes and Noble. ISBN 978-0-7607-2361-6
+Rademacher, Hans, et Otto Toeplitz. 1930. Von Zahlen und Figuren: Proben Mathematichen Denkens für Liebhaber der Mathematik. Berlin: Springer. ISBN 978-3-540-63303-7.
+Reid, Constance. 2006. From Zero to Infinity: What Makes Numbers Interesting, editio quinta. Wellesley: A. K. Peters. ISBN 978-1-56881-273-1
+
+
+=== De mathematicis et historia mathematicae ===
+Bell, Eric Temple. 1937 Men of Mathematics. New York: Simon and Schuster. ISBN 978-0-671-62818-5
+Berlingoff, William P., et Fernando Q. Gouvêa. 2003 Math Through the Ages, editio altera. New York: Mathematical Associat

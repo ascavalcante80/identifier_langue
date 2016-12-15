@@ -1,0 +1,22 @@
+ppartenenza.
+Esempi:
+è esatta:  - cioè  appartiene all'insieme 
+è errata:  - cioè non si può dire che  è incluso nell'insieme 
+è esatta:  - cioè il singoletto di  è incluso nell'insieme 
+
+
+== Note ==
+^ Eventualmente si deve aggiungere  per avere l'inclusione propria.
+
+
+== Voci correlate ==
+Appartenenza
+Sottoclasse (insiemistica)
+Sottoinsieme
+Relazione binaria
+Teoria degli insiemi
+Teoria ingenua degli insiemi
+Teorie formali degli insiemi
+Insieme delle parti
+ : unione
+ : intersezione

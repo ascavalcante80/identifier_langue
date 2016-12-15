@@ -1,0 +1,14 @@
+apauksessa jännitys on leikkausjännitys
+
+missä  on kappaleen pinnan suuntainen voima. Vastaavasti leikkausmyötymä on
+
+Liukukerroin kuvaa materiaalin kykyä vastustaa leikkausvoimia.
+
+
+== PuristuskerroinMuokkaa ==
+Puristuskerroin ( tunnus  tai ) määritellään kappaleen kaikkiin pintoihin kohdistuvan paineen muutoksen  avulla
+
+missä  on paineen muutoksen aiheuttama kappaleen tilavuuden muutos.
+
+
+== LähteetMuokkaa ==

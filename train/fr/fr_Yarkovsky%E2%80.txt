@@ -1,0 +1,17 @@
+En astrophysique, l’effet Yarkovsky-O'Keefe-Radzievskii-Paddack souvent abrégé effet YORP est un phénomène qui explique les modifications de la rotation de certains astéroïdes relativement petits. Il apparaît comme une approximation à l'ordre 2 de l'effet Yarkovsky, souvent négligeable devant celui-ci.
+En particulier, l'influence de cet effet sur un corps est extrêmement liée à la surface et à la constitution de celui-ci : il est absolument nul, par exemple, sur un ellipsoïde parfait ou un corps parfaitement conducteur.
+
+
+== Histoire et origine ==
+
+Au XIXe siècle, Ivan Yarkovsky remarqua que la radiation infrarouge émise par un corps chauffé par le Soleil emportait une partie de la quantité de mouvement de celui-ci, affectant en fin de compte le mouvement de l'objet.
+En termes modernes, on montre en mécanique quantique que tout photon transporte une quantité de mouvement :
+
+avec E = hν son énergie et c la vitesse de la lumière. Selon la manière dont ce photon est émis, il peut résulter de cette interaction une force et un couple sur l'objet et, à très long terme, modifier complètement sa trajectoire. Cette force est responsable de l'effet Yarkovsky, et domine en général largement l'effet du couple. Ce dernier, d'ordre 2, se révèle par ailleurs bien plus difficile à étudier.
+Radzievskii utilisa cette idée sur un corps en rotation, faisant varier l'albédo de celui-ci. Paddack et John A. O'Keefe (en) ont mis en avant le rôle principal de la géométrie de l'objet dans l'intensité de cet effet. Paddack et Rhee ont suggéré que cet effet pouvait expliquer la rareté des petites particules asymétriques dans le système solaire, qui auraient ainsi été éjectées.
+Le nom de l'effet fut proposé par David Rubincam en 2000.
+
+
+== Observations ==
+Début mars 2007, une observation directe de l'effet YORP sur les petits astéroïdes (54509) YORP, et Apollo, a confirmé les prédictions faites a priori,. La vitesse de rotation de (54509) YORP sera doublée d'ici 600 000 ans, et son axe de rotation comme sa période de précession sont affectés. La conséquence à long terme est la mise en résonance des astéroïdes, ce qui pourrait expliquer l'existence d'astéroïdes binaires.
+On observe pour les astéroïdes de 125 km de diamètre et plus une distribution de Maxwell-Boltzmann des vitesses de rotation, alors qu'une majorité des astéroïdes plus petits (entre 50 km et 125 km de diamètre) présentent une vitesse de rotation élevée. Les plus petits astéroïdes montrent un excès marqué de corps en rotation très lente et de corps en rotation très rapide, une observation encore plus frappante quand on considère de petits objets. Ces résultats appuient l'idée qu'un ou plusieurs mécanismes dépendant de la taille des astéroïdes les prive des vitesses de rotation intermédiaires. L'effet YORP est pressenti comme la meilleure explication concernant les pl

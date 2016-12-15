@@ -1,0 +1,10 @@
+ నిర్మాణము. ఈ (క్రింది) ఉదాహరణలో img మూలకానికి src మరియు alt అనే రెండు విశేషణములు ఉన్నాయి: <img src="madonna.jpg" alt='by Raphael'/>. ఇంకొక ఉదాహరణ <step number="3">Connect A to B.</step> ఇందులో విశేషణము యొక్క పేరు "number" మరియు దాని విలువ "3":
+XML ప్రకటన
+ఈ క్రింది ఉదాహరణలో వలె XML డాక్యుమెంట్లు వాటి గురించిన కొంత సమాచారాన్ని ప్రకటించుకొని ప్రారంభం అవ్వచ్చు.
+
+↑ "XML Media Types, RFC 3023". IETF. 2001-01. pp. 9–11. Retrieved 2010-01-04.  
+↑ "XML Media Types, RFC 3023". IETF. 2001-01. pp. 7–9. Retrieved 2010-01-04.  
+↑ "W3C® DOCUMENT LICENSE". 
+↑ "XML 1.0 Origin and Goals". Retrieved July 2009. 
+↑ "XML Applications and Initiatives". 
+↑ "Introduction to iWork Programming Guide. Mac OS X Reference Library". Apple.

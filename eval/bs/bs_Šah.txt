@@ -1,0 +1,78 @@
+ kategorija, 2. kategorija, 1. kategorija i vankategornik), ili po američkom sistemu USCF koji koristi rejting igrača, svrstavajući ih u pojedine klase.
+
+
+=== Svjetska prvenstva ===
+
+FIDE dodjeljuje titulu Svjetske prvakinje u šahu od 1927. godine, a službeno priznati naslov Svjetskog prvaka u šahu od 1948. godine. Iz protesta prema niskoj nagradi 1993. godine tadašnji svjetski prvak Gari Kasparov, osnovao je organizaciju Professional Chess Association (PCE), te organizirao dvoboj sa izazivačem Nigelom Shortom. Ta djelidba šahovskih saveza okončana je Svjetskim šahovskim prvenstvom 2006. godine dvobojem između Vladimira Kramnika, pobjednika PCE turnira i Veselina Topalova, tada svjetskog prvaka u organizaciji FIDE. Trenutni svjetski prvak od 2007. godine je indijac Viswanathan Anand, a u ženskoj kategoriji od 2013. kineskinja Hou Yifan
+
+
+== Računarski šah ==
+
+Računarski šah je nedavno dostigao preokret i vrhunac s napretkom tehnologije i informatike. Pojavili su se mnogi šahovski programi, a interes je porastao za računarskim šahom nakon pobjede IBM-ovog programa Deep Blue nad tadašnjim svjetskim šahovskim prvakom, Garijem Kasparovim. Današnji šahovski programi skoro su nepobjedivi za ljudske mogućnosti, jer ne prave grube previde, nego im je jedina razlika u pozicionalnom programiranju. Trenutni prvak računarskog šaha je program Stockfish 6. Poznati programi koji su aktuelni su Komodo, Houdini, Rybka, Critter i drugi.
+
+
+== Šahovska matematika ==
+
+Šahovska matematika bavi se geometrijskom problematikom šahovske table, te između uostalog proučava razmještaj pojedinih figura na tabli, sa preduslovom da se nijedna figura međusobno ne napada (npr. Problem osam dama). Ostala interesantna područja su kombinacije kretanja skakača tzv. skakačev put, tako da u 64 poteza skakač obiđe sva polja, bez da na jedno od polja stane dva puta. Proračuni maksimalnog broja položaja u raznim otvaranjima su takođe dio šahovske matematike. Značajno područje šahovske matematike je proračun rejtinga, te određivanje rasporeda parova na turnirima pomoću Švicarskog sistema.
+
+
+== Problemski šah ==
+
+Problemski šah je samostalni oblik šahovske djelatnosti, koji je nastao proširenjem šahovske igre u idejnom i konstruktivnom smjeru, a kojemu je osnovni element šahovski problem. Šahovski problem je kompozicija s ugrađenim rješenjem, koja elementima šaha izražava svoju ideju po specifičnim pravilima. Josip Varga u svojoj knjizi "Bajke na šahovskoj ploči" (Zagreb, 1992.) piše:
+
+Opširna je teorija problemskog šaha, ali se ukratko može reći da šahovski problem mora zadovoljiti ove kriterije - šahovska pravila, estetski sud, načelo ekonomije i zanimljivost zagonetke.
+
+Šahovski problem nije nastao iz šahovske partije, već je to umjetno stvorena pozicija jednog ili više autora. Unatoč tome, pozicija problema je legalna, jer za nju postoji dokazna partija. Ako nije tako, problem je nekorektan. Šahovski problemi dijele se u dvije vrste: u ortodoksne i heterodoksne probleme.
+
+
+== Šahovske forme ==
+
+Pored standardne šahovske igre, postoje druge varijante šaha, koje za cilj imaju ili analizu šahovske igre, širenje interesa za šah ili varijante razvijene za specijalne turnire:
+Šah sa živim figurama: Igra se obično na gradskim trgovima, sa ljudima kao figurama. Obično služi kao turistička atrakcija;
+Online šah je pojam za igranje šaha putem elektronskih medija i interneta. Igrači su preko internet stranice povezani serverom, te server može preporučiti osobu na osnovu Elo-broja ili DWZ broja, što omogućava igračima biranje partnera sa otprilike istom jakošću. Uobičajeno je da igrači mogu putem chat potral komunicirati i analizirati šahovsku partiju.
+Dopisni šah je sličan online šahu, sa razlikom da je vrijeme razmišljanja ograničeno na 30 do 60 dana za 10 poteza. Potezi se razmjenjuju emailom, preko šahovskog servera ili poštom. Za razliku od drugih oblika igre, u dopisnom je šahu moguće korištenje literature, banaka podataka i šahovskih komjuterskih programa.
+Simultani šah: U simultanom šahu, jedan igrač igra na više tabli igru sa više protivnika. Obično je taj igrač šahovski velemajstor, te ima uvijek istu boju figura (bijelu). Protivnici imaju toliko vremena za razmišljanje, dok njihov protivnik ne napravi sve poteze protiv igrača u simultanci. Ukoliko se simultanka igra na ograničeno vrijeme, govori se o handicap-simultanci. Partiju sa najviše protivnika, odigrao je 1997. godine jugoslavenski šahista Dimitrije Bjelica u Subotici na 312 tabli od kojih je pobjedio u 219 partija, remizirao 92 puta i samo jednom izgubio.
+Šah na slijepo: U šahovskoj partiji na slijepo igra jedan ili obojica igrača okrenutih leđa, bez pogleda na šahovsku tablu. Ukoliko se partija igra sa više partnera, govori se o simultanki na slijepo.
+Šah za slijepe osobe: Za slijepe ili slabovidne osobe vrijede posebna šahovska pravila. Osim posebne perforirane table, čija veličina mora biti najmanje 20 x 20 cm, figure su na gornjem dijelu posebno označene, da bi ih igrači osjetili i razlikovali dodirom ruke, crna polja su neznatno izdignuta, svaka figura ima kolčić koji odgovara sigurnosnom otvoru za pričvršćivanje, te da su figure tipa Staunton, i da su crne figure posebno označene. Pravilo taknuto-maknuto u ovom slučaju ne vrijedi i potez se povučenim smatra, tek da se figura izvadi iz perforiranog šahovskog polja. Povučeni potezi se u ovoj varijanti jasno definišu iskazivanjem poteza šahovskom notacijom.
+Timski šah: je forma u kojoj se nekoliko igrača može savjetovati o odigravanju pojedinog poteza.
+Brzopotezni šah: Brzopotezna partija je partija u kojoj svi potezi moraju biti odigrani u određenom fiksnom vremenu manjem od 15 minuta po igraču, ili kad je dodeljeno vrijeme + 60 puta bilo kojeg povećanja, manje od 15 minuta. Brzopotezni šah igra se po ovim Pravilima igre FIDE za ubrzani šah, uz slijeedeće zamjene: Pravila vezana za igru sa ubrzanim završetkom, ne primenjuju se, te pravila vezana za nepravilan potez u ubrzanoj igri, ne primenjuju se. Nepravilan potez u brzopoteznom šahu je završen čim je protivnikov sat pokrenut. Protivnik tada ima pravo reklamirati pobjedu, ali samo prije nego što odigra svoj potez. Međutim, ako protivnik ne može matirati igrača bilo kakvom serijom ispravnih poteza ni pri krajnje nevještoj igri, tada igrač ima pravo reklamirati remi, takođe prije nego što odigra svoj potez. Kada protivnik odigra svoj potez, nepravilan potez se ne može ispraviti.
+Handicap šah:Oblik u kome se protivniku, zbog velike razlike u kvalitetu, daje predost u materijalu (bolji igraö igra da jednom figurom manje) ili se u brzopoteznom šahu igra na različito vrijeme.
+
+
+== Šahovske varijante ==
+
+
+== Šah u kulturi ==
+
+
+=== Heraldika ===
+Motivi iz šahovske igre su često primjenju u heraldici. Obično se stilizirane figure topa, prikazuju na srednjovjekovnim grbovima. Motivi šahovske table, tzv. šahovnice, su dio grbova mnogih gradova, plemićkih porodica i predstavljaju obilježja državnog grba Hrvatske.
+
+
+=== Šah u filmu ===
+
+
+=== Šah u beletristici ===
+
+Šah je prisutna tema i u beletristici. Najpoznatije djelo u kome je šah tema je Šahovska novela, Stefana Zweiga, napisana 1942. godine. U svom romanu Asmodejev šal, Ivan Aralica, kao srž romana provlači dopisni šah jednog od glavnih junaka Džafer-bega.
+
+
+=== Šah u umjetnosti ===
+
+
+=== Šah u filateliji ===
+
+
+== Također pogledajte ==
+Spisak šahovskih tema
+
+
+== Reference ==
+
+
+== Vanjski linkovi ==
+Pravila šaha FIDE
+Svjetska šahovska federacija
+Šahovska unija Bosne i Hercegovine
+Hrvatski šahovski savez
+Šahovski savez Srbije

@@ -1,0 +1,39 @@
+oittavat sen sijoittamista.
+Vuonna 1984 tohtori Robert Forward esitti version geostationaarisesta radasta, jossa satelliitti lentää noin 50 km pohjoiseen tai etelään ekvaattorin päällä. Tämä mahdollistaa paljon suuremman määrän tietoliikennesatelliitteja. Se onko tällainen rata stabiili häiriöiden, mm. aurinkotuuli, vaikuttaessa satelliittiin, on selvitelty vuonna 2010, mutta satelliitteja ei ole laukaistu tällaisille radoille. Sama yliopisto, University of Strathclyde's Advanced Space Concepts Laboratory, on pohtinut pohjois- ja etelänavan päällä pysyviä satelliittien kiertoratoja. 
+
+
+=== MEO-rata ===
+MEO-rata (Medium Earth Orbit) on korkeampi kuin LEO-rata mutta alempi kuin GEO-rata. Muun muassa amerikkalaisen GPS- ja venäläiset Glonass-navigaatiosatelliitit ovat MEO-radalla. Tyypillinen ratakorkeus on hieman yli 20 000 kilometriä.
+
+
+=== HEO-rata ===
+Hyvin elliptinen kiertorata (Highly Elliptic Orbit) on liikerata, jolla on matala perigeum ja korkea apogeum. Muun muassa ESAn XMM-Newton-satelliitin rata on tällainen. Yhdysvaltain DSP-ennakkovaroitussatelliitit sijaitsevat tällaisilla radoilla.
+
+
+==== Molnija-rata ====
+Venäjän tietoliikennesatelliitit – esimerkiksi Molnija, josta radan nimitys on tullut – toimivat radoilla, joita kutsutaan tällöin Molnija-radoiksi. Molnija-radan inklinaatio on noin 63,4 astetta, jolloin rata ei kierry. Rataperiodi on 12 tuntia, jolloin pääakseli on 26 600 km.
+
+
+=== Kuun kiertorata ===
+
+
+== Aurinkokunnan planeettojen kiertoradat Auringon ympäri ==
+
+
+=== Maan kiertorata ===
+
+Maan kiertorata on ellipsikiertorata, ja Maan etäisyys Auringosta vastaa astronomista yksikköä.
+
+
+== Katso myös ==
+Keplerin lait
+Kiertoaika
+Lagrangen piste
+Retrogradinen liike
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+T.S. Kelson Celestrak-sivusto, jolla suuri määrä satelliittien rataparametreja

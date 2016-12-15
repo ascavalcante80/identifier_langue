@@ -1,0 +1,33 @@
+Wikivoyage est un guide touristique sur le Web, rédigé de manière participative par des auteurs bénévoles, et dont le contenu est sous licence libre. Le projet a été fondé en septembre 2006 par l'association allemande suprarégionale Wikivoyage e.V. par la création d'un fork de Wikitravel.
+À la mi-2012, la majorité de la communauté des éditeurs de Wikitravel a décidé de se réunir à nouveau avec Wikivoyage et proposé à la Wikimedia Foundation d'héberger le nouveau projet, sous le nom de Wikivoyage. Cette proposition a été acceptée en octobre 2012.
+Le but premier de Wikivoyage est de mettre à disposition de tous un savoir facilement utilisable concernant des destinations et tout ce qui traite de voyage. Le nom se compose de « wiki » (système de gestion de contenu de sites web permettant la modification et l'élargissement du texte par des utilisateurs quelconques) et du mot « voyage ».
+
+
+== Histoire ==
+
+L'histoire remonte au 7 octobre 2004 alors que beaucoup d'auteurs et d'administrateurs actuels faisaient avancer de la même façon[pas clair] la section allemande du projet Wikitravel. La vente de celui-ci à une entreprise commerciale, la société de publicité sur internet Internet Brands, annoncée le 20 avril 2006, créa un grand désarroi parmi les utilisateurs du monde germanophone. Le mécontentement additionnel créé par le mode de management de la direction du projet entraîne une scission, la plupart des administrateurs et auteurs germanophones décidant de continuer le projet indépendamment, en créant un fork.
+Après une phase préparatoire de six mois, l'association à but non lucratif Wikivoyage est fondée le 30 septembre 2006 ; elle acquiert le nom de domaine et opère elle-même son serveur. Le 10 décembre 2006 le projet démarre avec les données reprises de Wikitravel. Au bout de quatre mois, 30 % du contenu se composait de nouveaux articles.
+Initialement il n'existait que deux versions de Wikivoyage : une version en allemand et, à partir du 10 décembre 2007, une version en italien. L'organisation des fichiers média et la gestion des accès d'utilisateurs permettent toutefois d'ores et déjà des versions en langues différentes.
+Malgré un nombre d'articles peu élevé (à peu près 6 300 pages début février 2008 pour la version allemande), le projet est déjà reconnu dans la presse écrite et parlée suisse. Le fait que le nom de domaine et le serveur soient gérés par une association suscite un grand intérêt dans la communauté des wikis.
+Au 11 janvier 2013, il existe neuf variantes linguistiques de Wikivoyage, et la version francophone compte plus de 2400 articles. Fin juillet 2013, les variantes linguistiques sont passée à 14 et la version en français a dépassé les 3000 destinations.
+
+
+== Organisation et opération ==
+
+
+=== Fonctionnement ===
+Comme Wikipédia, Wikivoyage utilise le logiciel Media-Wiki et garde la trace du nom des auteurs des articles (de leur IP ou de leur pseudonymes). Aussi, la qualité du contenu est assurée par le contrôle mutuel des contributeurs. Pour les habitués de Wikipédia, l'utilisation du même logiciel facilite l'apprentissage de l'interface de Wikivoyage.
+
+
+=== Licence ===
+Wikivoyage n'utilise pas la Licence de documentation libre GNU mais la licence Creative Commons Attribution-ShareAlike (c'est-à-dire Paternité-Partage des Conditions Initiales à l'Identique) qui est plus facile à manier. Le but est surtout de faciliter le côté légal de la production de guides imprimés. Cependant, ce type de licence n'est pas utilisé pour les images et autres médias, que l'on s'efforce de rendre disponibles sous la double licence (GNU Creative Commons).
+
+
+=== Structure de l'information ===
+À l'opposé des lexiques, les articles sont structurés de façon thématique, grâce aux catégories bien connues du logiciel MediaWiki et grâce aux fils d'Ariane qui indiquent l'appartenance à d'autres articles.
+Les différents thèmes sont séparés par différents espaces de nom. L'espace principal affiche les destinations de voyages par lieu géographique. Le site permet de croiser destinations et thèmes de voyages.
+Le contenu des articles relève de la responsabilité des auteurs ou de la communauté et non de celle de l'organisation.
+
+
+=== L'autorité qui gère Wikivoyage ===
+Wikivoyage était exploité par l'association suprarégionale

@@ -1,0 +1,31 @@
+Dreiemoment (kraftmoment, torsjonsmoment) beskriver i fysikken en krafts evne til å forandre et legemes rotasjon om sin egen akse. Dreiemoment er definert som kryssproduktet av kraft og arm (hvor armen er korteste avstand mellom kraftens angrepslinje og rotasjonssenteret). En annen definisjon kan være at momentet M er kraften F ganget med armen d der d står vinkelrett på kraften. Altså: M=Fd. Symbolet for dreiemoment er  (den greske bokstaven tau). SI-enheten for dreiemoment er Nm (Newtonmeter).
+For eksempel gir en kraft på 2 Newton satt inn 5 meter fra rotasjonssenteret like stort dreiemoment som en kraft på 10 Newton satt inn 1 meter fra rotasjonssenteret, forutsatt at kraft og arm står vinkelrett på hverandre. Mer generelt kan vi skrive dreiemoment som kryssproduktet av kraft og arm:
+
+Hvor F er kraften og r er vektoren fra rotasjonssenteret til kraftens angrepspunkt. Dreiemoment er dermed en vektoriell størrelse, og retningen er vinkelrett på både kraft og arm.
+Dreiemoment kan også defineres som endringsrate per tid for dreieimpulsen L,
+
+
+== Enheten ==
+Enheten for dreiemoment må ikke forveksles med enheten for arbeid som også er Nm (som tilsvarer 1 joule). Arbeid er definert som skalarproduktet av kraft og strekning,
+
+og dreiemomentet er definert som kryssproduktet av kraft og arm.
+Forskjellen består i at meteren (m) i dreiemomentets Newtonmeter (Nm) står vinkelrett på kraften (N), mens for arbeidets vedkommende har strekning og kraft (m og N) sammenfallende retning. Et dreiemoment på 1 N·m påført gjennom en hel omdreining vil kreve nøyaktig 2π joule.
+
+
+== Dreiemoment som funksjon av tiden ==
+Dreiemoment er den tidsderiverte av dreieimpulsen, akkurat som kraft er den tidsderiverte av bevegelsesmengden:
+
+hvor L er dreieimpulsen.
+Dreieimpulsen på et stivt legeme kan uttrykkes ved legemets treghetsmoment I og vinkelhastighet :
+
+så hvis I er konstant,
+
+der α er vinkelakselerasjonen.
+
+
+== Eksempel ==
+
+
+=== Hvordan løsner skruen lettest? ===
+
+Om man skal løsne en skrue som sitter godt fast som vist på bildet, hvor er det da mest hensiktsmessig å sette inn kraften? Definisjonen på dreimoment er kraft ganger arm. For å løsne skruen er det da mest hensiktsmessig å sette inn kraften så langt fra rotasjonssenteret O som mulig. Altså vil det lønne seg å sette inn kraf

@@ -1,0 +1,37 @@
+Como o momento angular é sempre o mesmo, são percorridas áreas iguais em tempos iguais. Temos a segunda Lei de Kepler
+
+
+==== Terceira lei de Kepler ====
+A terceira Lei de Kepler é mais sutil. Ela é escrita em função do raio médio, então devemos achar esse raio. Na equação do raio:
+
+A única variável é o , de modo que o raio médio corresponde ao valor médio dessa variável. Esse valor corresponde a  . Assim, o raio médio correspondente é:
+
+Podemos pensar também na velocidade angular média, correspondente ao raio médio. Ambos estão ligados através do momento angular (). Então
+
+Uma definição importante é a do período, em função da velocidade angular média:
+
+A presença da velocidade angular média nessa equação é justificada pelo fato de que deve haver algum valor da velocidade angular, em algum instante, que satisfaça a essa equação. Esse valor é justamente o da velocidade angular média.
+É possível demonstrar que o período de um planeta com órbita circular de raio  e velocidade angular  é igual ao período de qualquer planeta com órbita elíptica de raio médio  e velocidade angular média . Isso é feito através da Segunda Lei de Kepler. A área total de um círculo é , e a área total de uma elipse é, pela Segunda Lei, . Através da definição de  acima, vemos:
+
+Lembrando a equação correspondente ao raio médio (), temos:
+
+Que corresponde à área do círculo. Como, pela Segunda Lei, áreas iguais são percorridas em tempos iguais, então o período do planeta de órbita elíptica pode ser tomado a partir do período de uma órbita circular correspondente.
+
+O que constitui a terceira lei de Kepler.
+
+
+== Ver também ==
+Isaac Newton
+Lei da gravitação universal
+Leis de Newton
+Momento angular
+Tycho Brahe
+Galileu Galilei
+Dedução da lei de gravitação universal
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Matéria sobre quarta Lei de Kepler (que não é válida)

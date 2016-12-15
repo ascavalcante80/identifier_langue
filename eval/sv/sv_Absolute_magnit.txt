@@ -1,0 +1,44 @@
+ km
+
+
+=== Skenbar magnitudRedigera ===
+Den absoluta magnituden kan användas för att beräkna den skenbara magnituden hos ett objekt under vissa förutsättningar.
+
+där
+ är 1 AE,  är fasvinkeln, vinkeln mellan sol-objektlinjen och objekt-observatörlinjen. Genom cosinussatsen får vi:
+
+ är fasintegralen (integration av reflekterat ljus, ett värde mellan 0 och 1).
+Exempel: En ideal diffus reflekterande sfär – en rimlig första approximation för planetära objekt.
+
+En fullfas diffus sfär reflekterar ⅔ så mycket ljus som en diffus skiva av samma diameter.
+Avstånd:
+ är avståndet mellan observatören och objektet (body).
+ är avståndet mellan solen och objektet.
+ är avståndet mellan observatören och solen.
+
+
+==== ExempelRedigera ====
+Månen
+ = +0.25
+ =  = 1 AE
+ = 384.5 Mm = 2.57 mAE
+Hur ljus är månen från jorden?
+Fullmåne:  = 0, ( ≈ 2/3)
+
+(Faktiskt värde -12.7) En fullmåne reflekterar 30 % mer ljus vid full fas än en perfekt diffus reflektor förutspår.
+
+Kvartsmåne:  = 90°,  (om diffus reflektor)
+
+(Faktiskt värde -11.0) Den diffusa reflektorn fungerar bättre som approximation vid små faser.
+
+
+== Se ävenRedigera ==
+Skenbar magnitud
+Luminositet
+Hertzsprung-Russell-diagram
+
+
+== Externa länkarRedigera ==
+Magnitudsystemet
+Om stjärnmagnituder
+Hitta magnituden av en stjärna från SIMBAD

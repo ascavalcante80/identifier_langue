@@ -1,0 +1,81 @@
+e pedig közösen zajlik.
+Nehéz meghatározni, hogy melyek a legnépszerűbb wikik, bár bizonyára vezető helyet kapna a könnyed UseModWiki, a TWiki, a MoinMoin és a Wikipédia szoftver. Lásd a Wiki szoftvert a wiki mechanizmusok listájának felsorolásáért.
+
+
+=== Magyar nyelvű kezelőfelülettel ===
+MediaWiki – A Wikipédia szoftvere
+MoinMoin – Pythonban írt, érett wiki rendszer, vizuális szerkesztővel
+Zwiki – Zope alapú egyszerű wiki rendszer, vizuális szerkesztővel
+MagyarTiddlyWiki – Egyetlen HTML fájlból álló, JavaScript alapú wiki
+TikiWiki
+
+
+== Wiki közösségek, oldalak ==
+
+
+=== Magyar ===
+HUPWiki – nyílt forráskódú és/vagy szabad szoftverek
+GO wiki
+hu.Gentoo-Wiki.com – A Gentoo Linux-hoz tartozó Gentoo-wiki.com magyar nyelvű változata
+TikiWiki -
+wiki.ubuntu.hu – a Linux distro információs központja
+ECDL.web – számítástechnikai alapismeretek
+HamWIKI – rádióamatőr wiki
+CoWiki Magyar Enciklopédia
+VeteránPark - magyar veterán autó és motor wiki
+Hogyankell.hu - a "Hogyan kell" típusú kérdésekre választ adó wiki
+
+
+=== Angol ===
+Az angol nyelvű Wikipédia messze a legnagyobb közösségi wiki oldal
+Legnagyobb wikik (angol)
+WorldWideWiki: SwitchWiki – Legteljesebb index (angol)
+CapitanCook
+Grubstreet – London Nyílt Közösség Iránytű [2]
+OpenFacts
+Personal Telco
+This Might Be A Wiki
+WhyClublet
+Wikiquote – idézetgyűjtemény
+Wikitravel – útikalauz
+Wiktionary – szótár
+Lásd még: Wikipédia:MediaWikit használó oldalak, PHP Wiki, social software
+
+
+== Wiki-szerű rendszerek ==
+EditMe [3]
+Everything2
+Halfbakery
+Eksi Sozluk (török nyelvű)
+SnipSnap
+Seedwiki [4]
+
+
+== Jegyzetek ==
+
+
+== Források ==
+
+„Tour bus stop” at MeatballWiki
+WikiWikiWeb (az első wiki)
+Wikinsider
+MeatBall:WikiCommunityList
+MeatBall:BiggestWiki
+wikiwiki.lap.hu
+
+
+== További információk ==
+Aronsson, Lars (2002): Nagy terjedelmű, általános célú Wiki honlap működése: Tapasztalatok a susning.nu honlap működésének első kilenc hónapjáról. Az Elektronikus Publikálás 6. Nemzetközi ICCC/IFIP konferenciáján közzétett tanulmány, 2002. november 6. – 8, Karlovy Vary, Csehország.
+Benkler, Yochai (2002). Coase's penguin, or, Linux and The Nature of the Firm. The Yale Law Jounal. v.112, n.3, pp. 369–446.
+Cunningham, Ward and Leuf, Bo (2001): The Wiki Way. Quick Collaboration on the Web. Addison-Wesley, ISBN 0-201-71499-X.
+Delacroix, Jérôme (2005): Les wikis, espaces de l'intelligence collective M2 Editions, Paris, ISBN 2-9520514-4-5. Web site: http://www.leswikis.com
+Jansson, Kurt (2002): „Wikipedia. Die Freie Enzyklopädie.” Lecture at the 19th Chaos Communications Congress (19C3), December 27., Berlin. Online description: https://de.wikipedia.org/wiki/Benutzer:Kurt_Jansson/Vortrag_auf_dem_19C3
+Möller, Erik (2003). Loud and clear: How Internet media can work.
+Presentation at Open Cultures conference, June 5 – 6, Vienna. Available at: http://opencultures.t0.or.at/oc/participants/moeller
+Möller, Erik (2003). Tanz der Gehirne. Telepolis, May 9-30. Four parts: „Das Wiki-Prinzip”, „Alle gegen Brockhaus”, „Diderots Traumtagebuch”, „Diesen Artikel bearbeiten”. Summary and table of contents: http://www.heise.de/newsticker/data/fr-30.05.03-000/
+Remy, Melanie (2002). Wikipedia: The Free Encyclopedia. Online Information Review. v.26, n.6, pp. 434.
+
+
+== Kapcsolódó szócikkek ==
+MediaWiki
+UseModWiki

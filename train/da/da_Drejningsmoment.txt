@@ -1,0 +1,10 @@
+Drejningsmoment (eller kraftmoment) er et begreb fra den klassiske mekanik, som populært sagt beskriver den "trækkraft" der får roterende legemer (f.eks. hjul) til at dreje rundt.
+Drejningsmomentet er for roterende bevægelser, hvad kraft er for legemer der bevæger sig lineært (translateres), f.eks. togvogne: Forøger man trækkraften, kan man få en togvogn (med konstant masse) til at accelerere hurtigere.
+Analogt for roterende bevægelser vil et forøget drejningsmoment forøge vinkelaccelerationen for et legeme med konstant inertimoment; populært sagt får det større drejningsmoment det roterende legemes "omdrejningstal pr. minut" til at stige hurtigere.
+
+
+== Definition, dimension og måleenhed for drejningsmoment ==
+
+På tegningen til højre strammes en møtrik (1) med en fastnøgle, som derved fungerer som en vægtstang: Hånden griber om et punkt (2) i afstanden L fra møtrikken (dvs. omdrejningsaksen), og trækker i pilens retning med en kraft af størrelse F. Når vinklen mellem håndens trækkraft og vægtstangen (fastnøglens håndtag) er θ, er drejningsmomentet τ givet ved:
+Heraf haves, at den fysiske dimension for drejningsmoment er kraft gange afstand, og SI-enheden for drejningsmoment bliver N·m (newton gange meter)
+Den linje der går vinkelret gennem trækkraften F's retning (ved nr. 3 på tegni

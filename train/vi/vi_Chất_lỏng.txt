@@ -1,0 +1,25 @@
+Chất lỏng là một trạng thái vật chất khá phổ biến. Chất lỏng là một chất lưu gần như không nén được mà các phân tử cấu tạo nên nó có liên kết không chặt so với liên kết rắn và có hình dạng phụ thuộc vào vật chứa nó. Chất lỏng là một trong bốn trạng thái cơ bản của vật chất (gồm chất rắn, chất lỏng, chất khí và plasma). Không giống chất khí, chất lỏng không phân tán đều trong vật chứa mà duy trì mật độ tương đối ổn định. Một tính chất đặc biệt của chất lỏng là sức căng bề mặt, gây ra sự ướt.
+
+
+== Đặc điểm ==
+Hình dạng của chất lỏng được xác định bởi vật chứa nó nên có thể nói các hạt chất lỏng (thường là các phân tử) có thể chuyển động tự do trong khối chất lỏng, nhưng chúng tạo thành một bề mặt rõ ràng không nhất thiết phải giống với bình chứa. Không giống với chất khí, hình dạng của nó không khớp hoàn toàn với bình chứa. [cần dẫn nguồn]
+Ở nhiệt độ bên dưới điểm sôi, chất lỏng sẽ bốc hơi, trừ khi bình được đậy kín, cho đến khi nồng độ hơi của nó đạt đến trạng thái áp suất riêng phần cân bằng ở thể khí. Do đó, không có chất lỏng nào tồn tại trong môi trường chân không tuyệt đối. Bề mặt chất lỏng ứng xử như một màng đàn hồi do xuất hiện sức căng bề mặt cho phép tạo thành các giọt và bong bóng. Hiện tượng mao dẫn là một trường hợp của sức căng bề mặt. Chỉ có chất lỏng mới thể hiện tính không trộn lẫn và tính dính ướt. Hỗn hợp của hai chất lỏng không trộn lẫn được thường gặp nhất trong đời sống hàng ngày là dầu thực vật và nước. Hỗn hợp tương tự khác của các chất lỏng có thể trộn lẫn là nước và rượu. Các chất lỏng ở tại điểm sôi tương ứng sẽ chuyển thành khí (trừ khi đun quá sôi), và tại điểm đông nó chuyển thành chất rắn (trừ khi quá lạnh). Thậm chí bên dưới điểm sôi chất lỏng bốc hơi trên bề mặt của nó. Các vật thể khi nhúng trong chất lỏng sẽ có hiện tượng đẩy nổi, là hiện tượng cũng được quan sát trong các chất lưu khác, nhưng là một trường hợp rất đặc biệt trong chất lỏng vì chúng có tỷ trọng cao. Các thành phần của chất lỏng trong hợp chất có thể tách riêng biệt bởi quá trình chưng cất phân đoạn.
+Thể tích của một lượng chất lỏng được xác định bởi nhiệt độ và áp suất của nó. Trừ khi thể tích này khích hoàn toàn với thể tích của bình chứa, thì cần xem xét đến một hoặc nhiều bề mặt của nó. Các chất lỏng trong trường trọng lực, cũng giống như tất cả các chất lỏng khác, đều tác động áp suất lên các mặt của bình chứa cũng như những vật bên trong chúng. Áp suất này được truyền đi theo tất cả các hướng và tăng dần khi càng xuống sâu. Trong các nghiên cứu về động lực học chất lưu, các chất lỏng thường được sử dụng như là chất không nén được, đặc biệt khi nghiên cứu dòng không nén được.
+Nếu chất lỏng chỉ chịu tác dụng của trọng lực, thì áp suất  tại một điểm xác định bởi
+
+với:
+ = mật độ của chất lỏng (được xem là hằng số)
+ = gia tốc trọng trường
+ = độ sâu của điểm đang xét tính từ mặt thoáng.
+Công thức trên dùng để tính áp suất tai một điểm bất kỳ với áp suất tại mặt thoáng là 0, và không tính đến ảnh hưởng của sức căng bề mặt. Các chất lỏng thường giãn nở khi bị nung nóng, và co lại khi bị lạnh. Nước ở nhiệt độ trong khoảng 0 °C và 4 °C là một trường hợp ngoại lệ; đó là lý do tại sao các tảng băng lại nổi. Các chất lỏng có độ nén rất ít: ví dụ, tỷ trọng của nước không thay đổi một cách rõ ràng trừ khi tác dụng áp suất lên đến hàng trăm bar, vào khoảng 4000 bar (58,000 psi), nước chỉ giảm 11% khối lượng.
+Các chất lỏng thường gặp khác như dầu khoáng và dầu hỏa, và ở dạng hỗn hợp như sữa, máu, và các dung dịch gốc nước khác như thuốc tẩy. Chỉ có sáu nguyên tố ở dạng lỏng trong điều kiện nhiệt độ và áp suất trong phòng như: thủy ngân (chất lỏng đặc), brôm, franxi, xêzi, gali và rubidi. Trong nghiên cứu về định cư trên các hành tinh, nước lỏng được xem là cần thiết cho sự tồn tại của sự sống.
+
+
+== Đo đạc chất lỏng ==
+Lượng chất lỏng thường được tính bằng đơn vị thể tích theo đơn vị SI là mét khối (m³), và đơn vị thường được sử dụng là đề-xi-mét khối (dm3), còn gọi là lít (1l=1dm3=0.001m3), và xăng-ti-mét khối (cm3), còn gọi là mi-li-lít (1ml=1cm3=0.001l=10-6m3) .
+
+
+== Ứng dụng ==
+Chất lỏng có nhiều ứng dụng như bôi trơn, dung môi, và chất làm lạnh. Trong hệ thống thủy lực, chất lỏng được dùng để truyền năng lượng.
+Trong lĩnh vực nghiên cứu chuyển động giữa các bề mặt, các chất lỏng được nghiên cứu các tính chất của chúng dùng làm các chất bôi trơn. Các chất bôi trơn như dầu được chọn vì các đặc điểm về độ nhớt và dòng chảy của nó ổn định trong một khoảng nhiệt độ làm việc của các bộ phận. Các loại dầu thường được dùng trong các động cơ, hộp số, gia công các chi tiết máy, và hệ thống thủy lực vì tính bôi trơn tốt của chúng.
+Nhiều chất lỏng được dùng làm dung môi để hòa tan các chất lỏng khác hoặc chất rắn. Các du

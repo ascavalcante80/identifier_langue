@@ -1,0 +1,46 @@
+i despre datele reale ale evenimentelor și erorile vechi pot fi corectate.
+
+
+== Lunile anuluiModificare ==
+Anul gregorian este împărțit în 12 luni.
+
+
+== Precizia calendarului gregorianModificare ==
+Calendarul gregorian îmbunătățește aproximația făcută de calendarul iulian prin neluarea în calcul a trei ani bisecți iuliani la fiecare 400 de ani, rezultând un an mediu de 365,242503 zile medii solare, ceea ce este o aproximație satisfăcătoare (cu o eroare de 1 zi la 3300 ani) a anului tropic de 365,242187 zile, dar mai puțin de o jumătate de zi prin comparație cu anul echinocțiului de primăvară de 365,24235 zile. Amândouă aprecierile sunt mult mai precise decât cea iuliană, care are o eroare de 1 zi la 128 de ani, rezultând din aproximarea anului ca având 365,250003 zile.
+Pe o perioadă de mai multe mii de ani, calendarul gregorianus va rămâne în urma anotimpurilor datorită scăderii vitezei de rotație a Pământului, care face ca durata zilei să crească în timp, (vezi și accelerația de maree și secunda în plus), în timp ce anul își păstrează durata constantă. Echinocțiul va apărea mai devreme cu un număr de zile egal cu [anul în viitor/5000]2. Această problemă este una comună pentru oricare versiune de calendar, inclusiv pentru cel gregorian.
+
+
+== Eroarea calendarului solarModificare ==
+
+Această imagine arată rămânerea în urmă a calendarului gregorian față de anotimpuri.
+Axa Y este axa a "erorilor zilelor" iar cea X reprezinta anii calendarului gregorian.
+Fiecare punct reprezintă o singură dată într-un an. Eroarea se mută cu aproximativ un sfert de zi pe an. Anii care sunt multipli de 100 dar nu sunt și multipli de 400 nu sunt ani bisecți. Asta face să apară o corecție pentru anii 1700, 1800, 1900, 2100, 2200, și 2300.
+Această corecție face ca 23 decembrie 1903 să fie cel mai târziu solstițiu de iarnă, iar 20 decembrie 2093 să fie cel mai matinal solstițiu —2.25 zile de variație comparat cu fenomenul natural.
+
+
+== Vezi șiModificare ==
+Anul 0
+Calendarul hindus
+Calendarul iranian
+Calendar (astronomic)
+Calendarul chinez
+An solar
+
+
+== NoteModificare ==
+^ Apăruse o întârziere de 10 zile față de timpul astronomic. După 1700 întârzierea devenise de 11 zile, ajungând la 13 în secolul al XIX-lea.
+^ Decretul-lege din 5/18 martie 1919, privind adoptarea calendarului gregorian (calendarul de stil nou).
+^ Bula papală Inter gravissimas a fost dată și semnată în anul 1581 dar, pentru motive rămase necunoscute, a fost tipărită numai pe 1 martie 1582.
+^ La datele care pot crea confuzii se adaugă "Stil Vechi" sau "Stil Nou".
+
+
+== Legături externeModificare ==
+Inter Gravissimas, bula papală a lui Grigore al XIII-lea pentru introducerea noului calendar (în latină și franceză)
+Inter Gravissimas (în latină, franceză și engleză)
+British Calendar Act 1751
+Calendarele iulian și gregorian
+FAQ despre calendare
+Calendarul perpetuu
+Calendar sinoptic iulian-gregorian Comparații ale datelor stil vechi/stil nou anii 1582 - 2100.
+Calendare anuale în firmat Excel (respectă terminologia de numerotare ISO pentru săptămâni)
+O incercare de introducere a calendarului gregorian in timpul domniei lui Cuza, 6 iulie 2012, Bărăganul Ortodox

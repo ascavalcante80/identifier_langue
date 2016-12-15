@@ -1,0 +1,3 @@
+SKY-MAP.ORG je webový server věnovaný astronomii. Jeho hlavní složkou je interaktivní mapa hvězdné oblohy, která funguje na podobných principech jako mapy pozemských území na mnoha jiných serverech.
+Mapa je generována z databáze několika tisíc vesmírných objektů, které lze vyhledat i podle názvu. Samozřejmostí je vyhledání určitého místa na obloze zadaného pomocí rovníkových souřadnic druhého druhu. Velkou výhodou je možnost přepnout mapu do módu Sloan Digital Sky Survey, ve kterém je možné si asi čtvrtinu hvězdné oblohy prohlédnout na fotografiích z ambiciózního projektu Sloan Digital Sky Survey. Mapa tedy v tomto módu velmi připomíná skutečný pohled na oblohu.
+Uživatelské rozhraní této webové služby je přeloženo do více než deseti jazyků. Kromě to

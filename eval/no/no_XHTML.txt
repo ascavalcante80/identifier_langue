@@ -1,0 +1,10 @@
+t kan for eksempel også være lyd.
+User Agent er implementeringen som tar imot og prosesserer (tolker) XHTML-dokumenter.
+Validation er den prosessen med hvilken dokumentet sjekkes og sammenlignes med den DTD som tilhører dokumentet.
+Well-formed – Et dokument er bra formet hvis det er strukturert i følge spesifikke regler, i dette tilfelle regler definert i XML
+
+
+== Eksterne lenker ==
+W3.org
+w3schools
+Norsk Webforum

@@ -1,0 +1,14 @@
+De On-Line Encyclopedia of Integer Sequences (OEIS) is een database van rijen van gehele getallen die via internet kan worden geraadpleegd. Het wordt gezien als een van de belangrijkste bronnen over rijen van gehele getallen in de wiskunde. De database is vrij toegankelijk.
+
+
+== De database ==
+De encyclopedie is een database die informatie bevat over rijen gehele getallen die belangrijk zijn in de wiskunde. De database omvat in 2004 meer dan 100.000 van zulke rijen. Elke ingang in de database bevat onder meer de eerste getallen van de rij, sleutelwoorden, wiskundige motivering en literatuur links.
+De database is volledig te doorzoeken in ongeveer vijftig talen met een zoekmachine op sleutelwoord en op onderdelen van de rij.
+
+
+== Geschiedenis ==
+Neil Sloane begon als student halverwege de jaren 1960 met het verzamelen van rijen van gehele getallen om zijn werk in de combinatoriek te ondersteunen. Twee keer publiceerde hij delen van de database in boekvorm:
+A Handbook of Integer Sequences (1973, ISBN 0-12-648550-X), bevat 2400 rijen.
+The Encyclopedia of Integer Sequences (1995, ISBN 0-12-558630-2), bevat 5487 rijen.
+Deze boeken werden hoog aangeschreven door hun publiek. Vooral na de tweede uitgave gingen mede-wiskundingen Sloane voorzien van nieuwe rijen. De verzameling werd te groot om het in een boek te publiceren. Toen de database 16.000 rijen bevatte, besloot Sloane om de database online te zetten. In het begin (1995) was het een e-mail-service en in 1996 werd het een webservice. Ieder jaar worden er ongeveer 10.000 nieuwe toevoegingen gedaan.
+Bijna 4

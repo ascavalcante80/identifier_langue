@@ -1,0 +1,5 @@
+Se deformation (fysiologi) för deformation av en människokropp eller annan organism.
+Deformation är i fysiken en kropps avvikelse från viloläget genom inverkan av en viss kraft. Den påverkande kraften leder ofta till en förändring av kroppens form, en förändring som dock inte alltid är permanent.
+Inom hållfasthetslära och kontinuummekanik anges deformationen med en deformationstensor av andra ordningen.
+Det finns många matematiska modeller för hur spänning deformerar olika material. Den vanligaste är elastisk-plastisk deformation, där deformationen är proportionell mot spänningen upp till en brottspänning enligt Hookes lag, varefter deformationen blir oändlig.
+I teorin betraktar man också stela kroppar, som inte deform

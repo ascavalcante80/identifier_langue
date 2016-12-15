@@ -1,0 +1,33 @@
+XML (fra Extensible Markup Language) er et opmærkningssprog. Det er et format der blandt andet bruges til at udveksle informationer mellem computere. En lang række formater er udvidelser af XML fx XHTML og XSL men også fx Microsoft Word 2007 og OpenOffice.org Writer gemmer dokumenter i formater der er udvidelser af XML.
+Meningen med XML er at nærme sig idealet for internettets webstruktur, nemlig for enhver internetside at holde struktur, design, dynamik, animering, indhold (data), interaktivitet osv. adskilt separat fra hinanden i kodningen bag.
+Fx: HTML, der udgør en hjemmeside, bør udgøre strukturen eller skelettet bag hjemmesiden – intet andet. CSS bør benyttes fra eksterne filer til at designe, formatere og give siden sit layout. XML bør således benyttes til at indeholde data, som skal hentes ind i HTML-dokumentet og præsenteres.
+Altså, XML bør præsenteres med HTML, formateres med CSS, redigeres med et scriptsprog eller lignende osv. Det eneste, XML i sig selv kan, er at opbevare data – og det er dets vigtigste opgave.
+
+
+== Oprindelse ==
+XML blev designet til at være læsbart for både mennesker og maskiner. For at gøre det læsbart for mennesker er opmærkningen såkaldt selv-beskrivende. Et element kan f.eks. hedde "<total>...</total>" eller "<EAN-nummer>...</EAN-nummer>". Til gengæld fylder XML baserede opmærkningssprog ofte mere end binære filformater.
+XML er et frit (ikke-patenteret) sprog og er i dag standardiseret af organisationen W3C. XML er et meta-opmærkningsprog, en syntaks til at lave opmærkningssprog. XML er en forenklet delmængde af meta-opmærkningssproget SGML med henblik på opmærkning af både dokumenter og data, og specielt velegnet til brug over Internettet. XML har i modsætning til SGML, der var meget komplekst, vundet stor praktisk udbredelse inden for mange områder.
+
+
+== Karakteristika, anvendelse og begrænsninger ==
+XML tilhører ligesom fx SGML sprog-kategorien opmærkningssprog.
+XML er meget udbredt til at overføre data mellem computersystemer i et datanetværk, og bruges som sådan bl.a. til EAI. XML er i kraft af sin fleksibilitet i stand til at udtrykke mange forskellige datatyper, så længe de kan struktureres i en træstruktur. Denne begrænsning skyldes, at XML kun kan udtrykke et hierarki af elementer, men ikke relationer mellem elementerne. XML er således ikke i stand til at modellere fx cykliske grafer.
+
+
+== Tilknyttede og afledte teknologier ==
+Der findes mange forskellige typer XML, hvor bl.a. GML (Geography Markup Language), der er en type af XML, der er specielt beregnet til at håndtere geografiske data, er en af dem. Desuden findes der mange andre typer alt efter hvilken organisation eller branche, der har udviklet typen. Således er det muligt for den enkelte branche at skræddersy den type XML man ønsker at bruge, så det matcher ens behov. Det smarte i dette arbejde ligger således i, at den enkelte type kan udbredes for hele branchen, således at alle bruger den samme type XML og der skabes derved muligheder for, at alle kan høste fordelene ved at kunne udveksle data med hinanden.
+Når der udvikles et XML kan det med fordel ske vha. af et XML-skema. Dette angiver f.eks. hvilke tags, der må bruges, således at det er nemmere at udvikle et XML dokumentet, da skemaet kan bruges som et rette ark for dokumentet. Dette betyder at en bestemt type af XML dokumenter, såfremt de passer med skemaet, kan læses og forstås, i det system de er rettet imod. Dette giver også fordele for programmører, der udvikler klienter, der skal gøre brug at en bestemt type XML dokumenter, hvorfor anvendelsen af skemaet kan hjælpe med dette. På denne måde opfattes XML skemaet som en form for skabelon for hvorledes en speciel type XML skal opbygges. Samtidig giver det ligeledes XML dokumentet et kvalitetsstempel, da der sammen med dokumentet sendes information om at det pågældende dokument er velformet og valid. Hvor det at være velformet betyder, at dokumentet overholder XML syntaks fuldstændig og valid betyder, at dokumentet kan blive verificeret med et XML skema.
+XML Schema og dtd – Sprog, der muliggør tilpasning af XML til specifikke formål.
+XSL (XPath, XQuery, XSLT)- Teknologier til at bearbejde XML.
+SOAP Web Services
+XAML (forkortelse for eXtensible Application Markup Language)
+
+
+== OIOXML ==
+I 2001 blev det besluttet, at XML skulle være et fælles standardiseret udvekslingsformat for offentlige myndigheder i Danmark. Herefter er OIOXML projektet blevet startet, der skal være med til at styre udviklingen, således at organisationer kunne støtte sig hertil i udviklingen af udvekslingsformatet.
+Med denne baggrund blev infostruktur databasen oprettet, hvori det er muligt for alle at se hvilke informationer, en given myndighed eller organisation har givet omkring dennes data, samt hvordan der kan oprettes adgang til disse. Yderligere findes der XML-skemaer, som beskriver hvordan data kan udveksles. Med dette initiativ er der skabt en platform hvor alle kan se relevante oplysninger om data og hvilke initiativer, der skal tages, for at de relevante data kan blive tilgængelige og kan bruges. Infostrukturdatabasen bliver bl.a. brugt af:
+Erhvervs- og Selskabsstyrelsen
+Beskæftigelsesministeriet
+Arbejdsdirektoratet
+Kommunernes Landsforening
+Erhvervs- og Byggest

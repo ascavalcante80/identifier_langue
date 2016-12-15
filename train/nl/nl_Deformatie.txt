@@ -1,0 +1,45 @@
+Deformatie van een vast materiaal, bijvoorbeeld een gesteente, is een proces waarbij de mechanische spanning (Engels: stress) die in het materiaal heerst leidt tot vervorming (Engels: strain) van het materiaal. Er kan een onderscheid worden gemaakt tussen ductiele deformatie, waarbij het materiaal "heel blijft" en brosse deformatie waarbij het materiaal breekt.
+In gesteenten zijn plooien, schuifzones en lenzen producten van ductiele deformatie, terwijl breuken het gevolg van brosse deformatie zijn. Alle gesteenten deformeren, een nog niet geconsolideerd sediment deformeert ook. Er is eigenlijk pas echt sprake van deformatie als de aard van deformatie uit in het gesteente zichtbare structuren afgeleid kan worden. Een foliatie kan bijvoorbeeld een preferente plooirichting aangeven.
+
+
+== Natuurkundige beschrijving ==
+
+
+=== Mechanische oorzaak van deformatie ===
+De hoeveelheid en aard van deformatie hangen af van een aantal natuurkundige grootheden. De belangrijkste daarvan is de mechanische spanning (aangeduid met σ). Spanning is de hoeveelheid kracht (F) die op een bepaald oppervlak (A) staat:
+
+Dit is een uitdrukking voor de mechanische spanning in twee dimensies. Om de deformatie van een materiaal te onderzoeken moet echter met drie dimensies rekening gehouden worden. Als de spanning in alle richtingen op het materiaal gelijk is spreekt men van een confining pressure (aangeduid met het symbool σ3 of Pc), die gelijk is aan de interne cohesie van het materiaal.
+In gesteente in de aardkorst is deze confining pressure gelijk aan de effectieve druk, dat is de lithostatische druk min de poriëndruk:
+
+Dit betekent dat hoe hoger de spanning van het poriënwater in gesteente, hoe kleiner de cohesie is en hoe sneller het gesteente deformeert.
+Een grote spanning op een materiaal in alle richtingen leidt nog niet direct tot deformatie. Dat gebeurt pas als de spanningstoestand niet gelijk is in alle richtingen. In dat geval spreekt men van een differentiaalspanning (σD, Engels: differential stress), die gelijk is aan het verschil tussen de maximale en minimale spanning (dat zijn respectievelijk σ1 en σ3):
+
+Deze differentiaalspanning is de achterliggende reden voor deformatie van een materiaal. Spanningen kunnen echter ook parallel op een oppervlak staan, men spreekt dan van een schuifspanning. Ook schuifspanningen zorgen voor deformatie.
+Er zijn meer factoren die invloed hebben, bijvoorbeeld de materiaalconstanten van het betreffende materiaal en de temperatuur. Bij hogere temperaturen zijn materialen "zachter" en zullen ze eerder deformeren.
+
+
+=== Beschrijving van deformatie ===
+
+De hoeveelheid deformatie van een materiaal wordt aangegeven met de grootheid vervorming (Engels: strain; aangeduid met het teken ε). Vervorming is de verhouding tussen de lengte na deformatie en het lengteverschil door deformatie:
+
+Schuifspanningen leiden tot het type deformatie dat schuif (Engels: shear) genoemd wordt. Bij schuif verandert het volume van het materiaal niet, maar wel de geometrie. De tangens van de hoek tussen een oorspronkelijk loodrecht op het oppervlak waarop de schuifspanning staat staande lijn en zijn nieuwe oriëntatie θ is de schuifvervorming (Engels: shear strain, aangeduid met een γ):
+
+Belangrijk is ook de snelheid van (schuif-)vervorming (Engels: (shear) strain rate; aangeduid met het teken ):
+ en 
+In het geval waarin het materiaal in een richting afgeplat wordt zonder dat schuif optreedt (coaxiale deformatie) spreekt men van pure shear. Als alleen schuif optreedt en geen afplatting plaatsvindt spreekt men van simple shear.
+
+
+== Modellen voor deformatie ==
+Materialen kunnen op een aantal verschillende manieren reageren op een mechanische spanning. Ten eerste kan een materiaal breken, men noemt dit brosse deformatie. Het materiaal verliest daarbij zijn interne cohesie.
+Een andere manier waarop materiaal kan reageren op een spanning is door elastisch gedrag. De vervorming is dan lineair afhankelijk van de spanning, maar alle vervorming is reversibel, dat wil zeggen dat als de spanning wegvalt de vervorming ongedaan gemaakt wordt. Een voorbeeld is een elastiek dat wordt uitgerekt als een trekspanning wordt toegepast, het zal nadat de spanning wegvalt weer terugkeren naar zijn oorspronkelijke vorm.
+Bij lineair-viskeus gedrag is er ook een lineair verband tussen de toegepaste spanning en de vervorming, maar de vervorming raakt niet ongedaan wanneer de spanning wegvalt, de deformatie is onomkeerbaar. De hoeveelheid deformatie hangt af van de viscositeit van het materiaal.
+Bij plastisch of ductiel gedrag is er ook sprake van een onomkeerbaar proces. In tegenstelling tot lineair-viskeuze deformatie is er echter een bepaalde hoeveelheid spanning nodig, voordat er vervorming optreedt. De relatie tussen spanning en vervorming is dus niet lineair.
+In de natuur zal bijna nooit één van deze situaties zich alleen voordoen, meestal is sprake van een combinatie.
+
+
+== Mechanismen op microschaal ==
+
+
+=== Kruip ===
+Deformatie vindt op microschaal plaats door de verplaatsing van massa (in de vorm van deeltjes als atomen of ionen). Een kristallijne stof bestaat uit kristallen ("korrels"), die bestaan uit een regelmatig kristalrooster. In een kristalrooster liggen alle atomen op regelmatige afstanden van elkaar, maar ook zijn er imperfecties (defecten). Er zijn een aantal mechanismen waarmee binnenin kristallen massa verplaatst kan worden. De eenvoudigste manier is wanneer kristallen breken en langs elkaar bewegen, bijvoorbeeld langs de plekken waar twee kristallen tegen elkaar aan zitten (een zogenaamde korrelgrens). Dit is thermodynamisch niet de gunstigste manier om massa binnenin een kristal te verplaatsen, omdat het veel energie kost om alle bindingen van het kristal in een vlak te verbreken. In een korrelmateriaal (zoals een ongeconsolideerd gesteente als zand) kunnen de korrels langs elkaar bewegen waardoor het materiaal in zijn geheel deformeert, al deze mechanismen vallen op microschaal onder brosse deformatie.
+De eenvoudigste soort defecten in een kristalrooster bestaat eruit dat op een plek waar zich normaal gesproken een bepaald deeltje bevindt, zich nu een holte (vacancy) of een ander deeltje (een impurity of een interstitial) bevindt. Dit wordt een puntdefect genoemd. Door middel van diffusie kunnen puntdefecten door kristalroosters bewegen, dit wordt diffusiekruip (Engels: diffusion creep) genoemd. Zoals alle diffusie wordt ook de diffusie van puntdefecten in een kristalrroster aangedreven door een verschil in concentratie. De differentiaalspanning zorgt er namelijk voor dat in de richting van de kleinste spanning puntdefecten aangemaakt worden terwijl ze in de richting van de grootste spanning verdwijnen. Stroming van vacancies naar een bepaald deel van een kristal staat gelijk aan de ve

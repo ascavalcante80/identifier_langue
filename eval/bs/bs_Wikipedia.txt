@@ -1,0 +1,38 @@
+ projekat. Napravio ga je Magnus Menski, i poznat je kao Druga faza.
+Nedugo nakon što je Druga faza bila u upotrebi, pojavili su se veliki problemi. Wikipedia je postala toliko spora da je bilo skoro nemoguće izmijeniti članak. Li Denjel Kroker je potom napisao kompletno novi softver. Ova nova verzija je bila veliki napredak, i postala je standard u julu 2002. godine, i još uvijek se upotrebljava. Treća faza se zove MediaWiki, i upotrebljavaju je i mnogi drugi Wiki projekti.
+Pred kraj 2003. godine ponovo su se pojavile teškoće u radu Wikipedije. Razlog problema je zagušenje jednog jedinog Wikipedia servera. Problemi su prevaziđeni u junu 2004. godine. Fondacija Wikimedija nabavila devet servera, trenutno smještenih u Floridi. U sastavu nove konfiguracije je jedan server za bazu podataka i četiri web servera koji svi rade na Fedora Linux distribuciji.
+
+
+== Wikipedijina baza podataka ==
+Pošto je Wikipedia slobodna enciklopedija čiji je sadržaj određen GNU slobodnom dokumentacionom dozvolom, bilo ko u bilo koje vrijeme može da preuzme "skoro-tekuću" verziju kompletne Wikipedije. Za detalje posjetite stranicu o preuzimanju kompletne Wikipedije na engleskom jeziku.
+
+
+== Srodni projekti ==
+Wikipedia ima nekoliko srodnih projekata:
+Wikirječnik - slobodni rječnik na bosanskom jeziku
+Wikiknjige - slobodno štivo
+Wikicitati - razni citati
+Wikizvor - slobodni dokumenti
+Wikivijesti - slobodne vijesti
+
+
+== Nagrade ==
+
+
+=== 2004. ===
+Prix Ars Electronica, pobjednik - u kategoriji Digitalne zajednice
+Webby Nagrade, pobjednik sekcije "Zajednica"
+
+
+== Također pogledajte ==
+Wiki
+Enciklopedija
+Internetske enciklopedije
+
+
+== Reference ==
+
+
+== Vanjski linkovi ==
+Meta Wikipedia, služi koordinaciji wiki projekata (en)
+Originalna Wikipedia (en)

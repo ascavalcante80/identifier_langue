@@ -1,0 +1,175 @@
+Een mobiele telefoon, ook wel mobiel(tje) (in Nederland), gsm (in België) of cellulair (in Suriname) genoemd, is een apparaat waarmee men draadloos kan telefoneren, met behulp van een netwerk van antennes. Mobiele telefoons maken gebruik van radiogolven en van telefooncentrales om binnen een bepaalde regio communicatie tussen de gebruikers mogelijk te maken. De eerste generaties maakten gebruik van analoge modulatie, latere van digitale (GSM en UMTS).
+Dit kan zowel op een openbaar als een privénetwerk. Een voorbeeld van een privé- (ofwel gesloten) netwerk is het C2000-netwerk voor de hulpverleningsdiensten in Nederland of Astrid in België.
+De term mobiele telefoon omvat niet de zogenaamde draadloze telefoons die gekoppeld zijn aan een vaste telefoonaansluiting, en die alleen gebruikt kunnen worden binnen een straal van honderd meter van het basisstation.
+Om radiofrequenties te gebruiken voor mobiele telefonie is in Nederland een vergunning van het Agentschap Telecom van het ministerie van Economische Zaken noodzakelijk. Mobiele telefoons moeten door dit agentschap (of een vergelijkbare instantie in een ander EU-land) worden goedgekeurd.
+De eerste mobiele telefoon, de DynaTAC 8000X van Motorola, woog bijna een kilo. Tegenwoordig (2010) weegt een mobiele telefoon vaak minder dan 100 gram. Meer geavanceerde toestellen worden smartphones genoemd; deze wegen vaak tussen de 100 en 200 gram.
+In 2010 werden er 1,4 miljard mobiele telefoons verkocht. In 2011 was 65% van de verkochte telefoons een smartphone.
+
+
+== Geschiedenis van de mobiele telefoon in België/NederlandBewerken ==
+In de jaren vijftig begon men met de opzet van een semi-openbaar netwerk van mobilofoons, slechts te gebruiken voor bepaalde groepen. In die tijd was de verbinding simplex en moest men nog “Over!” roepen om tussen spreken en luisteren om te schakelen. Een telefoniste die meeluisterde, schakelde in de centrale de verbinding om.
+
+
+=== ATF-1 tot en met ATF-3Bewerken ===
+In de jaren zeventig ontstonden de zogeheten autotelefoon-netwerken. De Nederlandse PTT (die destijds het staatsmonopolie had op telecommunicatie) hanteerde voor dergelijke netwerken de afkorting ATF. De netwerken gebruikten aanvankelijk frequenties van ca. 150 MHz, later ca. 450 MHz en tenslotte ca. 950 MHz. De netwerken waren analoog; er werd gebruikgemaakt van frequentiemodulatie en iedereen met een simpele ontvanger kon meeluisteren.
+ATF-1, dat rond 150 MHz werkte en in maart 1980 werd geïntroduceerd, was tamelijk omslachtig. Zo moest de gesprekspartner die de abonnee vanaf het vaste net opriep weten in welk van de drie oproepgebieden in Nederland de opgeroepene zich bevond. Wel kon ATF-1 in Duitsland en Oostenrijk worden gebruikt. Omdat de capaciteit slechts toereikend was voor circa 2500 gebruikers zat het systeem na 3 jaar al vol.
+ATF-2 werd in 1985 geïntroduceerd en werkte volgens een in Scandinavië ontwikkeld concept: Nordic Mobile Telephone. Het werd ook wel NMT-450 genoemd vanwege de gebruikte frequentieband. Er konden 50.000 abonnees op worden aangesloten. In 1989 zat het systeem -in Nederland vol. Een uitbreiding op ATF-2 vormde ATF-3, dat met het NMT-900 systeem werkte op de 900MHz-frequentieband en kwam in 1989 in bedrijf. Hiermee konden kleinere toestellen worden gerealiseerd (kleinere antennes, lagere vermogens) en er konden meer gebruikers op worden aangesloten.
+Gebruik was in eerste instantie uitsluitend toegestaan aan boord van voertuigen. Wie een autotelefoon aan boord van een schip gebruikte was in overtreding. Aan boord van schepen was uitsluitend een marifoon als communicatiemiddel toegestaan. Het duurde jaren voordat aan deze situatie een einde kwam.
+ATF-3 werd als laatste ATF-net in 1997 opgeheven.
+Per 1 januari 2005 zijn de frequenties rond 151 MHz van het ATF-1 netwerk vrijgegeven voor kerkradio.
+
+
+=== GreenpointBewerken ===
+Van 1992 tot en met 1998 kende Nederland een semi-mobiel telefoonnetwerk onder de naam Greenpoint (met de zgn. Greenhopper-toestellen die volgens de ETSI-standaard I-ETS 300 131 (CT2) werkten).
+
+
+=== GSMBewerken ===
+Sinds ongeveer 1993, met de start van het GSM-netwerk, is het aantal mensen met een mobiele telefoon zeer sterk gestegen. Tot begin jaren negentig was het gebruik beperkt tot zakenlieden, binnenvaartschippers en beroepschauffeurs. Het eerste netwerk voor mobiele telefonie in België werd door Proximus op 1 januari 1994 opengesteld.
+Thans heeft bijna elke Nederlander of Belg een mobiele telefoon. Hierdoor is het telefoneren in openbare ruimtes, treinen en auto’s gemeengoed geworden. De overheid zag zich genoodzaakt maatregelen af te kondigen tegen het telefoneren in de auto met het toestel in de hand. In ziekenhuizen vroeg men de mobiele telefoon uit te schakelen aangezien oude apparatuur mogelijk gestoord kon worden. Tegenwoordig is medische apparatuur ongevoelig voor mobiele telefoons. Vroeger vroeg men in vliegtuigen om mobiele telefoons uit te schakelen, maar tegenwoordig is het toegestaan om mobiele telefoons in vluchtmodus te gebruiken tijdens de vlucht.
+In gebieden waar geen dekking via een GSM-netwerk beschikbaar is kan telefoneren via een satellietverbinding een geschikte oplossing vormen. Verschillende systemen zijn beschikbaar.
+
+
+== DatadienstenBewerken ==
+Mobiele telefoons bieden behalve de telefoniedienst ook steeds meer datadiensten. Deze data kan weer naar een (draagbare) computer getransporteerd worden. Steeds meer data kan ook op het toestel zelf bekeken en ingevoerd worden. Een belangrijke datadienst is sms, die het mogelijk maakt korte tekstberichten te ontvangen en te versturen. Hiermee zijn semafoons overbodig geworden.
+GPRS, EDGE en UMTS zijn speciaal gemaakt om packet switched data toe te laten op het netwerk.
+Verder is er wifi, een soort semi-netwerk. Er zijn veel hotspots waar men gratis kan internetten.
+In Nederland en België staan ondertussen vele masten, die in een straal van 10 km het signaal van een mobiele telefoon kunnen ontdekken. Bij het bellen zoekt de mobiele telefoon verbinding met de andere mast (ook wel node B genoemd). Al die masten zijn verbonden aan een kast, waarin zich apparatuur bevindt die “weet” in welke cel(bereik van een node B) een bepaalde mobiele telefoon zich bevindt.
+
+
+== Onderdelen van de mobiele telefoonBewerken ==
+Een mobiele telefoon heeft over het algemeen de volgende onderdelen:
+Microfoon voor de opvang van spraak.
+Luidspreker voor de weergave van spraak.
+Toetsen (met ten minste de cijfertoetsen 0 tot en met 9, * en #) (bij een touchscreenmodel kunnen deze ontbreken) Mobiele telefoons hebben meestal niet voor iedere letter een toets. Daarom wordt bij het invoeren van tekst (voor een sms, voor het telefoonboek enz.) gebruikgemaakt van multi-tap of T9.
+Beeldscherm
+Een of meer microcontrollers, tegenwoordig vaak drie: applicatie, baseband en DSP.
+Hoogfrequenteenheid met zender en ontvanger.
+Antenne, al dan niet ingebouwd in de behuizing van het toestel.
+Batterij voor de stroomvoorziening.
+Het beeldscherm kan zijn uitgevoerd als:
+lcd
+tft, al dan niet in kleur.
+In het geval van een Touchscreen, functioneert het beeldscherm tevens als invoereenheid.
+Voorts kan een toestel voorzien zijn van:
+Keramische resonator voor het belgeluid, soms gecombineerd met de luidspreker
+Trilelement voor het stil oproepen van de gebruiker.
+Ingebouwde digitale camera
+Geheugenkaart (tegenwoordig meestal een microSD-kaart)
+Geïntegreerde gps-antenne
+FM-radio (met analoge ontvanger of via Software-defined radio, SDR)
+
+
+== Ontwikkeling van de gebruiksmogelijkhedenBewerken ==
+Een mobiele telefoon had in 1996 de mogelijkheid voor:
+Telefonie met spraakcommunicatie
+Een mobiele telefoon had in 1998 de mogelijkheid voor:
+Telefonie met spraakcommunicatie
+Trilfunctie
+Een mobiele telefoon had in 2003 gewoonlijk de volgende mogelijkheden:
+Telefonie met spraakcommunicatie
+Trilfunctie
+Dual Band
+Bluetooth (in eerste instantie bij de duurdere/zakelijke toestellen)
+Mobiel internet (WAP, onder andere via GPRS) (idem)
+Tri Band (idem)
+Sms-functie
+Fotografie of video-opname
+Vanaf 2004 werden de volgende mogelijkheden toegevoegd:
+Extra gegevensopslag
+EDGE
+Vanaf 2005 werden de volgende mogelijkheden toegevoegd:
+De pda’s geïntegreerd met wifi, GPRS, WAP en GSM.
+Quad Band
+UMTS
+Televisie
+gps-ontvangst
+FM-ontvangst ingebouwd. Daarnaast kan bij een verbinding met internet webradio worden gebruikt.
+Vanaf 2007 werd de volgende mogelijkheid toegevoegd:
+Touchscreen
+Vanaf 2008 werd de volgende mogelijkheid toegevoegd:
+Een applicatiewinkel waar digitaal software kan worden aangeschaft.
+Vanaf 2011 werden de volgende mogelijkheden toegevoegd:
+NFC, een bestandsoverdrachtstechnologie.
+4G, een snellere techniek voor mobiel internet.
+Enkele fabrikanten rusten hun toestellen met 3D-schermen uit.
+Vaak heeft een mobiele telefoon een eenvoudige rekenmachine.
+Een mobiele telefoon kan vaak in eenvoudige uitvoering audio-, afbeeldings- en videobestanden afspelen/weergeven (draagbare mediaspeler-functie), en deze produceren met de audiorecorder-functie en de foto- en videocamera-functie (en dus ook camcorder-functie).
+Hoewel vaak allerlei bestanden naar een mobiele telefoon gezonden kunnen worden, bijvoorbeeld via Bluetooth, kunnen op de telefoon alleen bepaalde bestandstypen worden geopend. Zelfs een tekstbestand (anders dan een binnengekomen sms of een op de mobiele telefoon ingetypte notitie) kan vaak niet worden weergegeven. Een smartphone heeft vaak wel die mogelijkheid.
+Technisch zijn de mobiele telefoons mogelijk geworden door vooruitgang in de miniaturisatie van elektronische componenten, het gebruik van digitale technieken en vooruitgang in de batterijtechnologie. Ze werden ook steeds kleiner (begrensd door de hanteerbaarheid, de ruimte die de toetsen vergen, en de wenselijkheid van een niet te klein scherm) en lichter.
+
+
+== BesturingssystemenBewerken ==
+De meeste mobiele telefoons (niet-smartphones) draaien nog steeds op een propriëtair besturingssysteem dat ontwikkeld wordt door de fabrikant van de betreffende telefoon. Nieuwe smartphones draaien meestal op een van de volgende besturingssystemen:
+Apple iOS
+Google Android
+Windows Phone 7 & 8 (Microsoft)
+BlackBerry 10 (BlackBerry)
+Oudere smartphones draaiden hierop:
+Windows Mobile (Microsoft)
+Symbian OS
+BlackBerry OS (BlackBerry)
+Maemo (Nokia)
+Moblin (Intel)
+MeeGo (Intel en Nokia)
+Limo
+WebOS (Palm)
+PalmOS (Palm)
+Bada (Samsung)
+Toekomstige besturingssystemen voor smartphones zijn:
+Firefox OS (Mozilla)
+Tizen (Samsung en Intel)
+Ubuntu Phone (Canonical)
+Aliyun OS (Alibaba)
+Sailfish OS
+Het voordeel van de nieuwe besturingssystemen ten opzichte van de 'gewone' telefoons is het feit dat de eindgebruiker de functionaliteit van zijn telefoon eenvoudig kan aanpassen. Doordat er tienduizenden verschillende mobiele apps te krijgen zijn voor deze besturingssystemen zijn de mogelijkheden eindeloos. Daarnaast is het mogelijk dat de fabrikant het besturingssysteem kan upgraden, om zo meer en nieuwere functionaliteit brengen aan de gebruikers.
+
+
+== GebruikBewerken ==
+
+
+=== NederlandBewerken ===
+In Nederland zijn er 125 mobiele telefoonaansluitingen per 100 inwoners. (1e kwartaal 2009) In september 2007 waren er in Nederland, volgens een onderzoek van Telecompaper, 18.914.000 mobiele telefoonaansluitingen.
+
+
+=== LuxemburgBewerken ===
+In Luxemburg zijn er 97 mobiele telefoonaansluitingen per 100 inwoners. 
+
+
+=== JapanBewerken ===
+In Japan zijn er 58 mobiele telefoonaansluitingen per 100 inwoners. Japan is een zogenaamd hightechland. (Gegevens uit 2003)
+
+
+=== Verenigde StatenBewerken ===
+In de Verenigde Staten zijn er 46 mobiele telefoonaansluitingen per 100 inwoners. De Verenigde Staten is een zogenaamd hightechland. (Gegevens uit 2003)
+
+
+=== BelgiëBewerken ===
+In 2013 werd de barometer van de informatiemaatschappij opgesteld. Deze stelt dat 90,7 % van de Belgen de laatste drie maanden van 2012 gebruikgemaakt heeft van een mobiele telefoon of smartphone. Onder 16-24-jarigen ligt het gebruik van een mobiele telefoon op 92,3 %.
+
+
+== Betaling van het gebruik van de digitale netwerkenBewerken ==
+Betaling van het gebruik van de digitale netwerken kan met twee systemen:
+Men neemt een abonnement waarbij vaak ook belminuten en/of een aantal sms'jes en dergelijke zijn inbegrepen, en eventueel beperkt of onbeperkt gebruik van internet, en krijgt een maandelijkse rekening voor de vaste kosten en de eventuele bijbetaling achteraf van extra gebruik. Vaak is een toestel goedkoop of gratis bij het afsluiten van een abonnement voor bijvoorbeeld één of twee jaar. De abonnementsprijs fungeert daarbij tevens als “afbetaling” van het toestel.
+Men kiest voor prepaid: men koopt een beltegoed; alleen het gebruik kost geld, ten laste van dit tegoed; wanneer het opraakt kan men door een bedrag te betalen het tegoed opwaarderen. Vaak is er een minimumfrequentie voor opwaarderen, bijvoorbeeld minstens eens in de 6 maanden, en een minimumbedrag per keer, bijvoorbeeld € 10. Als men dit nalaat wordt vaak eerst het bellen en gebeld worden geblokkeerd, behalve de mogelijkheid tot opwaarderen, en na nog enige tijd vervallen de aansluiting en het beltegoed helemaal.
+Een prepaid databundel heeft vaak een bepaalde geldigheidsduur, bijvoorbeeld een dag of een maand. Hij kan dus zowel opraken qua megabytes als qua tijd. Omgekeerd kan bij een internetabonnement met maandelijkse databundel er soms een bijgekocht worden, geldig tot het eind van de maand. Voor een regelmatig gebruiker van internet is het onderscheid tussen een abonnement en prepaid dus niet zo groot. Sommige belbundels kunnen ook voor internet worden gebruikt, waarbij bijvoorbeeld 1 minuut bellen gelijkstaat aan 1 MB; dit kan onder meer voordelig zijn bij zeer beperkt internetgebruik.
+Het abonnement of beltegoed is net als de provider en het telefoonnummer gekoppeld aan de simkaart: als men de kaart in een ander toestel plaatst zijn ze van toepassing bij gebruik van dit andere toestel, voor zover dit gebruik niet verhinderd wordt door een simlock.
+De diverse functies van de mobiele telefoon die niet van het netwerk gebruikmaken zijn (uiteraard) gratis.
+
+
+== Betalen met de mobiele telefoonBewerken ==
+Sinds eind 2006 is in Nederland het mogelijk om met Rabo Mobiel kleine betalingen te doen met de mobiele telefoon. Naast deze betalingen is het sinds begin 2007 mogelijk toegangskaarten voor concerten en evenementen via internet te betalen en direct te ontvangen per sms. Een voordeel van mobiele toegangskaartjes kan zijn dat men, naast de directe ontvangst van het ticket, ook via een aparte ingang het betreffende evenement in kan. Inmiddels is het ook mogelijk om kortingscoupons op de mobiele telefoon te downloaden, geld over te maken naar andere gebruikers, al dan niet via sms en te betalen in parkeergarages, supermarkten, restaurants et cetera.
+
+
+== Gezondheidsrisico'sBewerken ==
+
+
+=== StralingBewerken ===
+De risico’s van de elektromagnetische straling afkomstig van mobiele telefonie, zowel van de toestellen als van de zendmasten, is nog onduidelijk. Enerzijds bestaat er geen onderzoek dat eenduidig en ondubbelzinnig enige gezondheidsschade aantoont. Maar er is ook nog geen onderzoek dat alle effecten uitsluit – met name niet omdat er nog onvoldoende epidemiologisch onderzoek is gedaan naar langdurige blootstelling aan lage doses. Een overzicht van SAR-waarden  geeft weer hoeveel elektromagnetische straling het lichaam binnendringt per telefoon. Er is geen eenduidig bewijs dat een hoge SAR-waarde schadelijk is voor de gezondheid en/of een lage SAR-waarde ook minder schadelijk is voor de gezondheid.
+Volgens de Amerikaanse epidemiologe en publiciste Devra Davis beschikt de mobieletelefonie-industrie over een fonds van 250 miljoen dollar om op voor de industrie negatieve onderzoeksresultaten adequaat in de media te reageren (wargaming the science).
+
+
+==== Aanwijzingen voor gezondheidsrisico’sBewerken ====
+Sommigen menen dat veelvuldig gebruik van de gsm kan leiden tot permanente oogproblemen en zelfs tot een cataract. Wetenschappers van de faculteit geneeskunde van het Israëlische Instituut voor Technologie stelden de ooglenzen van jonge kalveren (qua structuur bijna gelijk aan het menselijk oog) bloot aan warmte die te vergelijken is met de temperatuurstijging die men krijgt tijdens een lang gsm-gesprek en aan microgolfstraling zoals die door een draagbare telefoon wordt geproduceerd. Na twee weken bleek dat het oogweefsel bij de proefdieren een bobbeltje had gevormd, dat sterke overeenkomsten vertoont met de eerste fase van de ernstige oogaandoening cataract.
+Een studie van Prof. Santini vond een duidelijke toename van de volgende symptomen bij mensen die vlak bij een zendmast wonen: hoofdpijn/migraine, slaapstoornissen, irritatiegevoeligheid, depressieve klachten, vermoeidheid, concentratieproblemen, gevoel van onbehagen en geheugenstoornissen. Recentere – onafhankelijke – studies uit Oostenrijk door Hutter et al. en uit Spanje door Navarro et al. komen tot soortgelijke bevindingen. Reeds bij niveaus van 10–100 μW/m²2 is er een verhoogde kans op genoemde symptomen, terwijl veel mensen blootgesteld worden aan meerdere duizenden μW/m².
+Onderzoek van de Radboud Universiteit Nijmegen en het bedrijf Brainclinics, waarin 300 mensen gedurende twee tot drie jaar werden gevolgd, geeft aanwijzingen dat mensen die vaak en lang mobiel bellen, een subtiele vertraging van de hersenfunctie vertonen ten opzichte van mensen die minder bellen, en dat dit effect niet het gevolg is van verschillen in persoonlijkheid. De gevonden vertraging van de hersenfuncties valt binnen de “normale” grenzen, en regelmatige bellers toonden een verbeterde gerichte aandacht dan weinig-bellers. Het is daarom niet geheel duidelijk of hier sprake is van een nadelig gezondheidseffect.
+Een onderzoek dat door fabrikanten van mobiele telefoons werd gefinancierd, geeft aanwijzingen dat de straling van mobiele telefoons de 

@@ -1,0 +1,40 @@
+Albedo (lat.: bjelina) je broj koji pokazuje koliko se svjetlosti reflektira s površine nekoga tijela, omjer odražene svjetlosti prema svjetlosti koja je pala na tijelo. Potpuno bijelo tijelo odrazilo bi svu svjetlost i imalo albedo jednak jedan, a apsolutno crno tijelo ne bi odrazilo ništa i imalo bi albedo jednak nuli. U astronomiji se određuje albedo planeta, satelita, planetoida i drugo. Albedo Mjeseca iznosi 0.07 (Mjesec odbija 7% svjetlosti koja na njega padne sa Sunca). Među planetima najveći albedo ima Venera (0.65), a najmanji Merkur (0.11). Najveći albedo u Sunčevu sustavu ima Saturnov prirodni satelit Enkelad (0.99). Općenito, veći albedo imaju tijela prekrivena gustim oblacima ili ledom, a manji tamna stjenovita tijela. U meteorologiji se vrijednosti albeda određuju za različite vrste površine tla. Albedo za tlo prekriveno šumom iznosi 5% do 10%, suhom zemljom 10% do 15%, travom 25%, svježim snijegom 80%. Prema satelitskim mjerenjima albedo sustava Zemlja – atmosfera iznosi oko 30%. 
+Ljudska djelatnost je izmijenila albedo (preko krčenja šuma i poljoprivrede, na primjer) raznih područja svijeta. Određivanje opsega promjene je teško na globalnoj razini; nejasno je izazivaju li promjene porast ili smanjenje globalnog zagrijavanja. "Klasičan" primjer učinka albeda je povratna veza temperature snijega. Ako se područje pokriveno snijegom zagrije, snijeg se otapa što dovodi do smanjenja albeda, više Sunčeve svjetlosti se upija i temperatura još više raste. Vrijedi i obrat: ako se snijeg uhvati na površini, dolazi do ciklusa hlađenja. Jačina učinka albeda ovisi o promjeni u albedu i količini osunčanosti; stoga učinak može biti izuzetno velik u tropskim krajevima.
+
+
+== Neki primjeri učinka albeda ==
+
+
+=== Fairbanks, Aljaska ===
+Prema podatcima prikupljanima 30 godina, vremenska je postaja sveučilišta u Fairbanksu na Aljasci oko 3°C toplija od zračne luke u Fairbanksu, dijelom zbog konfiguracije tla, ali i zbog nižeg albeda oko sveučilišta zbog veće koncentracije borova i manje otvorenih područja pod snijegom koja bi odbijala toplinu.
+
+
+=== Tropi ===
+Iako je učinak albeda najpoznatiji u hladnijim područjima Zemlje jer tamo pada više snijega, zapravo je mnogo jači u tropskim krajevima jer je tu sunčevo zračenje jače i snažnije. Kad brazilski zemljoposjednici sijeku tamnu prašumu da je zamijene još tamnijom obradivom zemljom, prosječna temperatura područja raste oko 3°C.
+
+
+=== Sitni učinci ===
+Albedo djeluje i na manjoj skali. Ljudi koji ljeti nose tamnu odjeću u većoj su opasnosti od toplotnog udara od ljudi koji nose bijelu ili svijetlu odjeću. Albedo borove šume na 45°N zimi, ako stabla potpuno pokrivaju površinu, iznosi samo oko 9%, što je među najmanjim vrijednostima u prirodnim okolišima. Za to je dijelom odgovorna boja borova, a dijelom raspršavanje svjetlosti u krošnjama koje snižava ukupnu količinu odbijene svjetlosti. Zbog prodiranja svjetla albedo oceana je još niži, oko 3.5%, iako ovo bitno ovisi o upadnom kutu svjetlosti. Močvarno područje dostiže između 9% i 14%. Listopadna stabla daju oko 13%. Travnjaci obično imaju oko 20%. Gola zemlja ovisi o boji tla i može biti samo 5% ili čak 40%, oko 15% je prosjek za obradivu zemlju. Pustinja ili velika plaža obično postižu oko 25% ali se mijenjaju ovisno o boji pijeska.
+
+
+=== Naseljena područja ===
+Naselja najčešće imaju neprirodne vrijednosti albeda jer građevine upijaju svjetlost prije nego što ona dođe do površine. Na sjeveru su gradovi relativno tamni i imaju prosječan albedo od oko 7%, uz malo povećanje tijekom ljeta. U većini tropskih zemalja gradovi dosižu oko 12%.
+
+
+=== Snijeg ===
+Albedo snijega dosiže 90%. To je ipak idalan primjer; svjež dubok snijeg na bezličnom krajobrazu. Iznad Antarktike prosjek je malo iznad 80%.
+
+
+=== Oblaci ===
+Oblaci su drugi izvor albeda koji utječe na globalno zatopljenje. Različiti tipovi obalka imaju različite vrijednosti albeda, teoretski od blizu 0% minimuma do blizu 80% maksimuma. Klimatski modeli ukazuju da bi Zemlja, prekrivena potpuno bijelim oblacimna, imala površinsku temperaturu od oko -151 °C. Ovaj model, iako nesavršen, predviđa da bi za sniženje temperature od 5.0 °C, kao protumjera globalnom zatopljenju, "dovoljno" bilo povećati ukupan Zemljin albedo za oko 12% dodavanjem bijelih oblaka. Albedo i klima su u nekom područjima već izmijenjeni umjetnim oblacima. Studija napravljena nakon 11. rujna 2001., kad su sve zračne luke u SAD bile zatvorene na tri dana, pokazala je lokalno povećanje dnevnog raspona temperature (razlike između dnevne i noćne temperature) od 1 °C.
+
+
+== Albedo i toplinska ravnoteža ==
+Zračenje Sunca pada na planetsko tijelo iz jednog smjera, a odražava se u svim smjerovima. Omjer odraženog i upadnog zračenja zove se albedo. Toplina koju planet primi od Sunca zračenjem ovisi o udaljenosti od Sunca. Na srednjoj udaljenosti Zemlje od Sunca (AJ) kroz 1 m2 površine koja je postavljena okomito na smjer Sunčeve svjetlosti prolazi u 1 sekundi energija od 1366 J; opisana fizikalna veličina, omjer snage zračenja i okomite površine u slučaju planeta naziva se Sunčeva konstanta. Za udaljenost od 1 AJ ona, dakle, iznosi 1366 W/m2. Sunčeva konstanta E za neki planet opada s kvadratom udaljenosti. Budući da planet obilazi Sunce po eliptičnoj stazi, trenutna vrijednost upadnog zračenja ponešto se mijenja. Stvarna vrijednost Sunčeve konstante za Zemlju, na vrhu atmosfere (termosfera), mijenja se u toku godine 6.9 %, u početku siječnja iznosi 1.412 kW/m2, dok u početku lipnja je 1.321 kW/m2, budući da se mijenja udaljenost Zemlje od Sunca.
+
+Što se događa sa zračenjem kada padne na nebesko tijelo? Jedan dio zračenja zaustavlja se u atmosferi i materijalu površine, a drugi dio biva odbačen. Svjetlost koja je upijena preobražava se u druge oblike energije, zagrijava materijal tla, pa se kasnije opet izrači, no u drugom području valnih duljina. Jakost izvora svjetlosti na nekoj valnoj duljini ovisi o temperaturi tijela (Stefan-Boltzmannov zakon). Tijela niske temperature, kao što su planeti, zrače pretežno u infracrvenom području (nevidljivo), a u vidljivom području zračit će tijela usijana kao Sunce. Bez obzira na detalje u prijenosu energije, na razlike u toku jedne godine i na ovisnost o planetografskoj širini, planetsko tijelo mora istu količinu energije koju je prihvatilo odaslati naposljetku u svemir. Dotok topline mora biti jednak gubitku topline. Inače bi se planet u dužim vremenskim razmacima ili hladio ili zagrijavao (toplinska ravnoteža). S obzirom na Sunčevu konstantu E, dotok energije je:
+
+jer zračenje pada na površinu jednaku presjeku sfernog planetskog tijela kojemu je polumjer R. A gubitak? Tijelo s površine gubi zračenjem ovisno o tome kolika mu je temperatura i kolika mu je površina. Primljena toplina raspoređuje se po površini kugle i u postojećoj atmosferi, pa planet postiže neku prosječnu temperaturu. Svemirski prostor oko planeta velika je šupljina i planeti u njoj zrače gotovo kao i crno tijelo. Po Stefan-Boltzmannovom zakonu jedinica površine crnog tijela zrači snagom σT4 (σ je Stefan–Boltzmannova konstanta, jednaka 5.6704 ∙10-8 W m-2 K-4). Izjednačimo li gubitak s primitkom, izlazi:
+
+To je ravnotežna temperatura. Ona služi za prosuđivanje toplinskog stanja planeta. Ona pretpostavlja da je Sunce jedini izvor topline za neki planet. U stvarnosti, planeti imaju u unutrašnji izvor topline.
+Temperaturu atmosfere može podići staklenički učinak. Taj učinak je posebno izražen na Veneri. Količina zračenja koja ulazi po

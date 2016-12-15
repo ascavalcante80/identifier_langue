@@ -1,0 +1,18 @@
+Um objeto estelar jovem (OEJ) refere-se a uma estrela nos primórdios de sua evolução.
+Essa classe consiste em dois grupos de objetos: as protoestrelas e as estrelas pré-sequência principal. Outro critério de subdivisão é baseado na massa; objetos estelares massivos, objetos estelares de massa intermediária e anãs marrons.
+Os OEJ são geralmente classificados utilizando-se critérios baseados na inclinação de suas DEEs, estabelecido por Lada C.J. em 1987. Ele propôs três classes (I, II e III), baseado nos valores dos intervalos do índice espectral :
+.
+Em que  é o cumprimento de onda, e  representa a densidade do fluxo.
+O  é calculado no intervalo do cumprimento de onda de 2.2–20  (região do infravermelho próximo e intermediário). Later Greene et al. em 1994 introduziu uma quarta classe de fontes de "espectro achatado". Em 1993 Andre et al. descobriram uma classe de objetos—0 apresentando uma forte emissão submilimétrica, apesar de bastante fraca em .
+fontes de classe 0 - não-detectável em 
+fontes de classe I possuem 
+fontes de espectro achatado possuem 
+fontes de classe II possuem 
+fontes de classe III possuem 
+Esse esquema de classificação reflete mais ou menos a sequência evolucionária estelar. Acredita-se que as fontes de classe 0 mais embutidas evoluem para o estágio de classe I dissipando seus envelopes circum-estelares. Os OEJ se tornam óticamente visíveis no birthline estelar como estrelas pré-sequência principal.
+Os OEJ são associados a fenômenos comuns nos primórdios da evolução estelar: jatos polares e fluxos moleculares bipolares, masers, objetos de Herbig-Haro, discos protoplanetários (discos circum-estelares ou proplídeos).
+
+
+== Referências ==
+Lada, C. J. (1987), IAU Symposium 115: Star Forming Regions, 115, 1
+Greene, Thomas P.; Wilking, Bruce A.; Andre, Philippe; Young, Erick T.; Lada, Charles J. (1994), Further mid-infrared study of the

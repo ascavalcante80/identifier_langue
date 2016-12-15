@@ -1,0 +1,4 @@
+ia tốc góc;I:momen quán tính. Momen quan tinh của một số vật: +Thanh đều:I=(m*l^2)/12 +Trụ tròn đồng chất:I=(m*R^2)/2 +Trụ rỗng:I=m*R^2 +Cầu đồng chất:I=(m*R2)*2/5 +Hình chữ nhật:I=m*(a^2+b^2)/12 với m: khối lượng l:độ dài R:bán kính a&b: độ dài hai cạnh Đối với trục bất kì ta có I=(m*l^2)/12+m*d^2 với d là khoảng cách từ trục đang xét tới trọng tâm của vật
+
+
+== Tham khảo ==

@@ -1,0 +1,57 @@
+Wide-Field Infrared Survey Explorer (WISE, geplant als Next Generation Sky Survey, NGSS) ist ein unbemanntes Weltraumteleskop der NASA, das ab Januar 2010 den gesamten Himmel in vier Wellenlängenbändern im mittleren Infrarotbereich durchmusterte. Nach dem erfolgreichen Start trug es auch den Namen Explorer 92. Es wurde im Februar 2011 außer Betrieb genommen, jedoch im Herbst 2013 reaktiviert, um drei weitere Jahre nach Asteroiden zu suchen.
+
+
+== Aufgaben ==
+Zu den Objekten, die WISE untersuchte, gehören
+Asteroiden und andere Objekte des Sonnensystems. WISE soll alle Asteroiden des Hauptgürtels mit mehr als 3 km Durchmesser finden
+Kühle und schwache Sterne, darunter die sonnennächsten Sterne und Braunen Zwerge
+Falls der hypothetische Stern Nemesis ein Brauner Zwerg sein sollte, hätte WISE ihn entdeckt.
+Junge Sterne in der Milchstraße und Staubscheiben um bereits weiter entwickelte Sterne
+Die leuchtkräftigsten Galaxien und Infrarotgalaxien.
+Ziele und Fähigkeiten gehen über die der gescheiterten Wide-Field-Infrared-Explorer-Mission hinaus. Die Himmelsdurchmusterung von WISE ist rund hundert Mal empfindlicher als die Durchmusterungen von IRAS und Akari bei vergleichbaren Wellenlängen, und liefert damit eine wichtige Grundlage für viele zukünftige Untersuchungen.
+
+
+== Aufbau ==
+WISE wurde von Ball Aerospace gebaut und hatte ein Startgewicht von 661 kg. Es verbraucht 301 Watt Strom, die von einem Solarzellenfeld mit 551 Watt Maximalleistung geliefert werden. Das Teleskop von WISE hat einen Durchmesser von 40 cm, dessen Optik und Detektoren wurden von einem Kryostaten mit festem Wasserstoff gekühlt. Beobachtet wurde bei vier Wellenlängenbändern um 3,4, 4,6, 12 und 22 μm. Nach Verbrauch des Kühlmittels sind die Bilder bei 12 μm von thermischem Rauschen dominiert; der 22-μm-Detektor wurde abgeschaltet.
+
+
+== Missionsverlauf ==
+
+
+=== Start und erste Durchmusterung ===
+Der Start erfolgte am 14. Dezember 2009 um 14:09:33 Uhr UTC mit einer Delta-II-7320-10C-Rakete von der Vandenberg Air Force Base. Die 525 km hohe Umlaufbahn ist sonnensynchron. WISE schaut dabei stets von der Erde weg und bewegt sich gleichförmig über den Himmel, ein beweglicher Umlenkspiegel friert aber das Gesichtsfeld von 47′ × 47′ für einige Sekunden auf den Detektoren mit je 1024 × 1024 Bildelementen ein. Am 29. Dezember 2009 wurde die Schutzkappe des Teleskops abgesprengt. Die ersten Bilder der Mission wurden am 6. Januar 2010 nach der vollständigen Kalibrierung von WISE veröffentlicht. In der zweiten Hälfte des Juli 2010 schloss WISE die erste Himmelsdurchmusterung ab, wozu er 1,3 Millionen Bilder innerhalb eines halben Jahres machte.
+
+
+=== Zweite Durchmusterung und Stilllegung ===
+Am 5. Oktober 2010 wurde bekanntgegeben, dass nach 1,5 Himmelsdurchmusterungen der Wasserstoff verdampft ist und sich das Teleskop deshalb auf −203 °C erwärmt hat. Die Mission wurde unter der Bezeichnung NEOWISE bis Januar 2011 fortgesetzt, da die Sensoren für die zwei kürzeren Wellenlängen auch bei der höheren Temperatur noch zufriedenstellend funktionieren. Die zweite Himmelsdurchmusterung wurde abgeschlossen und Asteroiden und Kometen in unserem Sonnensystem untersucht. Am 17. Februar 2011 wurde der Sender von WISE abgeschaltet und der Satellit in einen Ruhezustand gebracht, aus dem er bei entsprechender Finanzierung für weitere Nutzung wieder aufgeweckt werden konnte.
+
+
+=== Reaktivierung ===
+Im August 2013 gab die NASA bekannt, WISE zum Aufspüren von Asteroiden für drei Jahre zu reaktivieren. WISE wird jedoch erst mehrere Monate später wieder einsatzfähig sein, da das Teleskop zuerst abkühlen muss und dann kalibriert wird. Auch dieser Einsatz wird die Projektbezeichnung NEOWISE tragen. Nachdem sich WISE Ende Dezember 2013 auf weniger als -200 °C abgekühlt hatte, starteten im Rahmen der Mission NEOWISE weitere Beobachtungen. Am 29. Dezember 2013 entdeckte das Weltraumteleskop ein bislang unbekanntes, erdnahes Objekt, den Asteroiden 2013 YP139.
+
+
+== Ergebnisse ==
+
+Bei der Auswertung der Daten entdeckte eine Gruppe des Jet Propulsion Laboratory rund 2,5 Mio bislang unbekannte, massenreiche und aktive Schwarze Löcher. Weiterhin konnten durch Staubwolken umhüllte Sterneninseln aufgespürt werden, deren Helligkeit über unserer Milchstraße liegen. Sie können jedoch nur indirekt nachgewiesen werden, da deren sichtbares Spektrum durch den Staub abgeschirmt wird.
+Bei der Suche nach einem großen Planet X konnte es keinen Planeten von Jupitergröße innerhalb von 26.000 AE Sonnenabstand nachweisen.
+Im März 2015 veröffentlichte die NASA die Rohdaten, 2,5 Millionen Bildsätze, aus der Zeit vom 13. Dezember 2013 bis zum 13. Dezember 2014. Die Daten enthalten über 10.000 Objekte des Sonnensystems, darunter 129 neu entdeckt, darunter 39 NEOs, und mehr als 10 Milliarden Messungen von Hintergrundobjekten.
+
+
+== Weblinks ==
+
+University of California in Berkeley: Offizielle Projektseite beim Space Sciences Laboratory (englisch)
+JPL: WISE Seite des JPL (englisch)
+JPL: WISE Press Kit der NASA (englisch; PDF; 2,1 MB)
+JPL: WISE Fact Sheet (englisch; PDF; 297 kB)
+IRSA: Wide-field Infrared Survey Explorer (WISE) (englisch)
+
+
+== Einzelnachweise ==
+↑ Bahndaten nach Chris Peat: WISE - Orbit. In: Heavens Above. 6. August 2012, abgerufen am 8. August 2012 (englisch). 
+↑ WISE. NSSDC, abgerufen am 13. November 2013 (englisch). 
+↑ An Avalanche of Dark Asteroids science@nasa, 26. März 2010
+↑ Vorlage:Internetquelle/Wartung/Datum nicht im ISO-FormatLaunch PRESS KIT/DECEMBER 2009 Wide-field Infrared Survey Explorer. NASA, Dezember 2009, abgerufen am 9. Oktober 2010 (PDF; 2,1 MB, englisch). 
+↑ Amanda K. Mainzer, et al.: Preliminary Design of The Wide-Field Infrared Survey Explorer (WISE),S.1: "The single WISE instrument consists of a 40 cm diamond-turned aluminum afocal telescope, a two-stage solid hydrogen cryostat, a scan mirror mechanism, and reimaging optics giving 5″resolution (full-width-half-maximum)." pdf@arxiv; WISE solid hydrogen cryostat design overview@adsabs.harvard.edu; NASA's WISE Cryostatnasa.gov, abgerufen am 21. Februar 2011
+↑ Mission Status Center. Spaceflight Now, 14. Dezember 2009, abgerufen am 14. Dezember 2009 (englisch). 
+↑ a b NASA's WISE Space Telescope Jettisons its Cover NASA 29. Dezember 2009
+↑ WISE observatory sheds lens cap and takes in starligh

@@ -1,0 +1,57 @@
+Drywing is die tempo waarteen arbeid verrig word of waarteen energie oorgedra word. Die SI-eenheid van drywing is die watt (simbool: W).
+
+
+== Definisie ==
+Die definisie van drywing is
+
+waar
+W is energie of arbeid
+t is tyd
+In die SI-stelsel verteenwoordig hierdie stelling 'n energieverbruik van een joule per sekonde.
+Die eerste eenheid vir drywing was die perdekrag (horsepower) (simbool: HP) wat deur James Watt in ongeveer 1770 geskep was. Een perdekrag was die drywing nodig om 550 pond met 'n spoed van een voet per sekonde te hys. Teen die einde wan die negentiende eeu was die Pferdestärke (PS) in Duitsland geskep. Die Pferdestärke was die drywing nodig on 75 kilogram met 'n spoed van een meter per sekonde to hys.
+Die vergelyking van hierdie eenheide is
+1 HP = 746 W
+1 PS = 735,5 W.
+
+
+== Praktyk ==
+Die stelling vir drywing kan vervorm word vir verskeie sisteme.
+
+
+=== Elektriese sisteme ===
+In elektriese sisteme is die stelling vir elektriese drywing:
+
+waar
+V is elektriese potensiaal (Volt (V) in die SI-stelsel)
+I is elektriese stroom (Ampère (A) in die SI-stelsel)
+'n Gemiddelde kragsentrale wek ongeveer 500 megawatt (MW) op. Dit beteken dat dit 500 miljoen joule energie per sekonde opwek.
+
+
+=== Draaiende sisteme ===
+In 'n draaiende sisteme is die stelling vir drwying:
+
+waar
+ω is hoeksnelheid (gemeet in radiale per tydseenheid).
+X is wringkrag. (N·m in die SI sisteem).
+
+
+=== Vloeier meganika ===
+In vloeier meganika is die stelling vir drywing:
+
+waar
+p is druk (Pa in die SI sisteem)
+Q is Volumetriese vloeitempo (m/s3 in die SI sisteen).
+
+In die prakteik word die minimum grootte van 'n elektriese motor vir 'n pomp met die volgende formule bereken:
+
+waar:
+Q = Drywing (W in die SI sisteem)
+ΔP = Drukvermeerdering oor pomp (Pa in die SI sisteem)
+V = Volume vloei (m3/s in die SI sisteem)
+ηpomp = Effektiwiteit van pomp. Hoeveel van die energie wat aan die pomp gegee word, word gebruik om vloeistof te pomp. Verliese is tipies interne sirkulasie in die pomp. Dit word afgelees van die pompkurwe. Dit is ongeveer 0,80 en is onafhanklik van die eenheidstelsel.
+ηdrywer = Effektiwiteit van drywer. Hoeveel verliese is daar tussen die elektriese motor en die pomp. Vir 'n soliede as is die effektiwiteit ~ 1,0. Vir 'n V-band sal dit laer wees. Dit is onafhanklik van die eenheidstelsel.
+ηelektriese motor = Effektiwiteit van elektriese motor (hoeveel van die elektrisiteit word omgesit om die drywer te dryf). Dit is gewoonlik redelik hoog: 0,85 tot 0,95 en is onafhanklik van die eenheidstelsel.
+
+
+== Misgebruik ==
+Die woorde "energie" en "drywing" word dikwels verkeerdelik afgewissel in die geloof

@@ -1,0 +1,44 @@
+Roztwór – jednorodna mieszanina dwóch lub więcej związków chemicznych lub pierwiastków chemicznych. Skład roztworów określa się przez podanie stężenia składników. W roztworach zwykle jeden ze związków chemicznych jest nazywany rozpuszczalnikiem, a drugi substancją rozpuszczaną. Który z dwóch związków uznać za rozpuszczalnik, jest właściwie kwestią umowną, wynikającą z praktyki i tradycji.
+
+
+== Mechanizm tworzenia roztworów ==
+Roztwory powstają w wyniku oddziaływania cząsteczek. Jeżeli przyciąganie cząsteczek tej samej substancji nie jest większe od oddziaływania cząsteczek różnych substancji oraz jest możliwy ruch cząsteczek względem siebie, to dzięki ruchom termicznym cząsteczki będą dążyły do równomiernego rozłożenia się w dostępnej przestrzeni, po to aby osiągnąć jak najwyższą entropię układu. Dlatego roztwory samoistnie nie rozdzielają się. Najprostszym sposobem rozdzielenia lub przynajmniej zmiany stężenia rozpuszczonych substancji jest przeprowadzenie zmiany stanu skupienia (parowanie lub krystalizacja) roztworu.
+
+
+== Podział roztworów ==
+
+
+=== Ze względu na doskonałość ===
+Roztwory dzieli się często na tzw. właściwe i niewłaściwe .
+Roztwory właściwe są całkowicie jednorodne, tzn. że dla objętości kilkakrotnie większych od wielkości cząsteczek, każda porcja zawiera taki sam skład ilościowy cząsteczek.
+Roztwory niewłaściwe nie są całkowicie jednorodne. Są to np. trwałe emulsje, skrajnie rozproszone zawiesiny, zole i żele.
+Odróżnienie roztworów właściwych od niewłaściwych często jest bardzo trudne i wymaga stosowania bardzo zaawansowanych technik analitycznych, takich jak np. mikroskopia elektronowa. Czasami przyjmuje się, że roztworami w ścisłym tego słowa znaczeniu są wyłącznie roztwory właściwe, choć przejście od jednych do drugich ma charakter płynny, co powoduje, że bardzo trudno jest je od siebie praktycznie rozgraniczyć. W dalszej części hasła będzie już mowa tylko o roztworach właściwych.
+
+
+=== Ze względu na rodzaj oddziaływań ===
+Ze względu na sposób oddziaływania cząsteczek związku rozpuszczanego i rozpuszczalnika rozróżnia się roztwory:
+homodynamiczne - między cząsteczkami występują oddziaływania jednego rodzaju, np. między cząsteczkami roztworów różnych węglowodorów.
+heterodynamiczne - między cząsteczkami występują oddziaływania różnego rodzaju, np. w roztworze soli w wodzie występują oddziaływania między jonami pochodzącymi od wody i jonami pochodzącymi od rozpuszczonej soli oraz oddziaływania między parami jonów pochodzących od tego samego związku chemicznego.
+Oddziaływania cząsteczek roztworów (szczególnie heterodynamicznych) tworzą grupy cząsteczek o określonym składzie chemicznym zwanych kompleksami solwatacyjnymi, tworzenie się kompleksów jest często właściwie rodzajem reakcji chemicznych, choć mają one zwykle charakter odwracalny i tworzą swoisty układ równowagi dynamicznej.
+Do typowych procesów zachodzących podczas rozpuszczania należą:
+solwatacja (której szczególnym przypadkiem jest hydratacja) - polegająca na otaczaniu przez cząsteczki rozpuszczalnika, cząsteczek związku rozpuszczanego.
+dysocjacja elektrolityczna - polegająca na rozpadzie związków chemicznych na jony.
+tworzenie i zrywanie układu wiązań wodorowych.
+
+
+=== Ze względu na stan skupienia ===
+Roztwory można podzielić ze względu na ich stan skupienia:
+gazowe (mieszaniny gazów)
+ciekłe
+cieczy w cieczy
+ciała stałego w cieczy
+
+stałe (kryształy mieszane) - powstają podczas krystalizacji
+
+
+==== Roztwory gazowe ====
+Wszystkie gazy mieszają się bez ograniczeń ilościowych. Zjawisko to wynika z tego, że odległości między cząsteczkami gazów są duże a oddziaływania międzycząsteczkowe bardzo słabe. Przy dużych ciśnieniach, w gazie mogą rozpuszczać się ciecze i ciała stałe, które przy małych ciśnieniach nie parują, przy szczególnie dużych ciśnieniach roztwory w gazach przybierają właściwości zbliżone do roztworów ciekłych - są to tzw. roztwory nadkrytyczne.
+
+
+==== Roztwory cieczy w cieczy ====
+Ciecze nie mieszają się wcale (np. olej i woda), lub jeśli mieszają się, to bez ograniczeń (np. woda i alkohol etylowy) lub w pewnym zakresie. Mieszaniny trzech lub więcej cieczy tworzą często złożone układy fazowe, w których, zależnie od stężenia poszczególn

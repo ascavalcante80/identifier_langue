@@ -1,0 +1,15 @@
+Les miroirs de Fresnel sont un dispositif interférométrique composé de deux miroirs plans légèrement inclinés l'un par rapport à l'autre.
+Ce dispositif voit le jour à la même période que l'expérience des trous d'Young, afin de mettre en évidence le caractère ondulatoire de la lumière. Le dispositif des miroirs de Fresnel ne démontre que le phénomène d'interférences, contrairement aux trous d'Young qui permettent de mettre en évidence diffraction et interférences.
+
+
+== Description du dispositif ==
+
+Le dispositif est constitué de deux miroirs plans formant un dièdre. On notera α l'angle entre les deux miroirs.
+On considère une source ponctuelle en S. S1 et S2 sont respectivement les symétriques de S par rapport aux miroirs M1 et M2.
+S1 et S2 sont donc des sources secondaires virtuelles. On note d la distance entre S1 et S2, et on a  :
+ avec 
+
+
+== Description du phénomène ==
+Un faisceau provenant de la source S est réfléchi à la fois sur M1 et sur M2. Les miroirs étant inclinés l'un par rapport à l'autre, ceci forme deux faisceaux par division du front d'onde, semblant provenir des sources secondaires S1 et S2.
+Les deux ondes réfléchies semblant provenir de S1 et S2 sont en réalité émises par une même source (S), elles sont donc synchr

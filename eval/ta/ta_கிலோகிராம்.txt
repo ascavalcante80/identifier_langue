@@ -1,0 +1,20 @@
+பைட்டையே 1 கிலோபைட்டை என எடுத்துக் கொள்வதால் ஹாட்டிஸ்க் தயாரிப்பாளர்களின் கூறும் கொள்ளவானது பிழையாகக் கூடுதல் இட வசதியிருப்பதாகக் பிழையான விளக்கத்தை ஏற்படுத்தலாம். ஏனெனில் கிலோபைட்டை 1000 ஆகவோ அல்லது 1024 ஆகவோ கருதினால் வழுவீதம் 2.4% வீதமே இதுவே பின்னர் ரேராபைட்டாகும் போது 10% ஆகின்றது.
+
+
+== SI பெருக்கங்கள் ==
+
+
+== வெளி இணைப்புகள் ==
+National Institute of Standards and Technology (NIST): NIST Improves Accuracy of ‘Watt Balance’ Method for Defining the Kilogram
+The U.K.’s National Physical Laboratory (NPL): An overview of the problems with an artifact-based kilogram
+NPL: Avogadro Project
+NPL: NPL watt balance
+Metrology in France: Watt balance
+Australian National Measurement Institute: Redefining the kilogram through the Avogadro constant
+International Bureau of Weights and Measures (BIPM): Home page
+NZZ Folio: What a kilogram really weighs
+NPL: What are the differences between mass, weight, force and load?
+BBC: Getting the measure of a kilogram
+
+
+== மேற்கோள் ==

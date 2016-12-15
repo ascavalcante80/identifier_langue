@@ -1,0 +1,33 @@
+ia della deformazione pura, e quantità  (gli spostamenti) che rappresentano i cambiamenti di configurazione dell'intero corpo. Assegnato il campo di spostamenti , tali relazioni determinano univocamente i campi di deformazione, sono cioè di definizione per i tensori : esse sono dette relazioni implicite di congruenza. Il problema può tuttavia essere posto in una forma inversa: assegnati generici campi tensoriali , le relazioni date sono sufficienti a definire un campo di spostamenti? O meglio, esiste un campo vettoriale  compatibile con i campi assegnati  sulla base del soddisfacimento delle precedenti relazioni implicite di congruenza? In generale la risposta a tale problema è negativa.
+Le precedenti relazioni cinematiche risultano pertanto anche di vincolo per le componenti dei descrittori della deformazione: queste non possono essere assegnate arbitrariamente, essendo proprio legate dalla condizione di integrabilità delle relazioni implicite di congruenza in termini del campo di spostamenti. Queste sono integrabili solo se gli assegnati campi tensoriali di deformazione soddisfano ulteriori relazioni, dette condizioni esplicite di congruenza. Nel caso lineare e per un dominio semplicemente connesso della configurazione di riferimento, tali relazioni sono dovute a S. Venant ed espresse in termini tensoriali dalla
+
+In termini scalari, le equazioni di S. Venant
+
+sono rappresentate da 81 relazioni scalari nelle derivate delle componenti del campo tensoriale , di cui solo le 6, qui di seguito riportate per esteso, sono indipendenti
+
+Nel caso che il campo tensoriale  sia dato da componenti costanti o lineari delle coordinate , allora risultano banalmente verificate le precedenti condizioni esplicite di congruenza.
+
+
+== Bibliografia ==
+C. Truesdell, A First Course in Rational Continuum Mechanics, Academic Press, New York, 1977. ISBN 0-12-701301-6
+M. E. Gurtin, An Introduction to Continuum Mechanics, Academic Press, New York, 1981. ISBN 0-12-309750-9
+M. A. Biot, Mechanics of Incremental Deformations, John Wiley & Sons, New York, 1965. ISBN 9780471073109
+L. Ascione, A. Grimaldi, Elementi di Meccanica dei Continui, Liguori Editore, Napoli, 1989. ISBN 88-207-1829-4
+R. Baldacci, Scienza delle Costruzioni, vol I, Utet, Torino, 1984. ISBN 8802038376
+Alfredo Sollazzo, Scienza delle Costruzioni, II, Torino, Utet, 1988, ISBN 88-02-04170-9.
+
+
+== Voci correlate ==
+Continuo di Cauchy
+Teoria dell'elasticità
+Tensione interna
+Deformazioni elastiche e plastiche
+
+
+== Altri progetti ==
+
+ Wikiversità contiene informazioni su Continuum mechanics
+
+
+== Collegamenti esterni ==
+(EN) free download del libro "M.A. Biot, Mechanics of Incremental Deformation, Wiley, 1965"

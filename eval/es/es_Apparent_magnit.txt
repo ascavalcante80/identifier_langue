@@ -1,0 +1,33 @@
+ue si se conocen las magnitudes aparentes y absolutas, se puede determinar la distancia 
+. [8]
+
+
+== Ejemplos ==
+"Calcular la magnitud conjunta del sistema 47 Tauri, cuyas dos componentes son de  y " Se calculan sus brillos por [3] y se suman: , de donde 
+
+luego , y por [4] se haya la magnitud conjunta de las dos estrellas:
+
+En un catálogo, se encuentra con magnitud 4,84. "El Sol dista de nosotros 149 597 870 km, y tiene una magnitud de -26,75. Calculemos la que nos presentaría a 100 veces esa distancia". Por la [3] hallamos su brillo que es  y por [5]
+
+luego , es decir 10 000 veces menor, y por [4] , diez magnitudes menor. Por [1] podemos averiguar las veces que nuestro Sol al desplazarse 100 veces la distancia que nos separa de él, es menor en brillo:
+ veces menor.
+Y ya que hemos obtenido la magnitud conjunta de la estrella 47 Tauri, encontrándola igual a 4,8, calculemos su magnitud absoluta, sabiendo que su paralaje ". Como en [7] nos pide el  y aquí nos dan la paralaje, vamos hacer una pequeña transformación en [7] para utilizar el dato suministrado. Como , luego , que puesto en [7]
+
+o sea,
+
+que es otra forma de obtener la magnitud absoluta, cuando conocemos la paralaje.
+"
+En el catálogo figura con magnitud absoluta de +0,3 y por último para comprobar, por [8]
+
+luego
+
+
+== Escala de magnitudes aparentes ==
+
+
+== Véase también ==
+Magnitud absoluta
+Clasificación estelar
+
+
+== Referencias ==

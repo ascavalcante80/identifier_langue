@@ -1,0 +1,68 @@
+Un cuadrado en geometría plana es un cuadrilátero regular; esto es una figura del plano con sus cuatro lados iguales, y sus cuatro ángulos que son de 90º  . En consecuencia es un cuadrilátero equilátero y equiángulo . Sus dos únicas diagonales son de igual longitud y perpendiculares entre sí, o forman ángulos dos a dos opuestos por el vértice o cada uno igual a cualquiera de sus adyacentes. Tiene 4 ejes de simetría, cuya intersección es el centro de la figura; dos ejes que pasan por cada par de lados opuestos; otros dos que pasan por vértices opuestos de la figura.   Empleando definiciones equivalentes: el cuadrado es un rectángulo de cuatro lados iguales o un rombo de con un ángulo recto. O un cuadrado es un cuadrilátero de cuatro ángulos rectos y cuatro lados iguales.  
+
+
+== Propiedades ==
+Por ser un polígono equilátero y equiángulo es un polígono regular.
+Es el polígono que tiene sus lados opuestos paralelos y, por tanto, es un paralelogramo. Dado que sus cuatro ángulos internos son rectos, es también un caso especial de rectángulo, es un rectángulo equilátero. De modo similar, al tener los cuatro lados iguales, es un caso especial de rombo, es un rombo equiángulo. Cada ángulo interno de un cuadrado mide 90 grados ó  radianes, y la suma de todos ellos es 360° ó  radianes. Cada ángulo exterior del cuadrado mide 90° ó  radianes.
+Entre los rectángulos que tienen el mismo perímetro, el cuadrado es el que tiene mayor área.
+Un cuadrado es un rombo que tiene por lo menos un ángulo recto.
+Cabe aclarar que si se busca la definición de rombo en el diccionario de la Real Academia Española se obtiene el siguiente resultado: Paralelogramo que tiene los lados iguales y dos de sus ángulos mayores que los otros dos, definición a partir de la cual no se consideraría rombo al cuadrado, tal como se deriva de la clasificación de los cuadriláteros que se utiliza en en los países que siguen la escuela de Julio Rey Pastor.
+Sus diagonales se cortan en partes iguales.
+La intersección de sus diagonales es centro de simetría del cuadrado.
+Sus diagonales son iguales.
+Las perpendiculares, trazadas por el centro de simetría, son ejes de simetría del cuadrado.
+Sus diagonales son perpendiculares entre sí, bisectrices de los ángulos cuyos vértices conectan, y ejes de simetría del cuadrado.
+El lado de un cuadrado circunscrito es igual al diámetro de la respectiva circunferencia.
+La diagonal de un cuadrado inscrito es igual al diámetro de la respectiva circunferencia.
+
+
+== Medidas ==
+
+
+=== Perímetro ===
+
+Si un cuadrado C tiene lados que miden L, entonces, el perímetro es igual a 4L, pues los cuatro lados son iguales.
+
+
+=== Expresión de la diagonal ===
+La longitud de la diagonal se puede calcular mediante el Teorema de Pitágoras:
+
+ y recíprocamente
+
+
+=== Área ===
+El área de un cuadrado es el producto de la longitud del lado por sí misma:
+
+Siendo A el área y L el lado.
+
+El área de un cuadrado es la mitad de la segunda potencia de la longitud de la diagonal D:
+
+
+==== Diversas medidas numéricas ====
+El concepto de área está ligado al concepto de número real positivo, de modo que la aparición de los números irracionales se debe para tratar aspectos ligados a la geometría, tal el caso de la longitud de la diagonal de un cuadrado unitario o la longitud del lado de un cuadrado de área 3, y tantos otros. Pues no surge ni del álgebra ni de la aritmética.  . Esto obliga el despliegue sistemático del área del cuadrado en diversos contextos, según la naturaleza de los números que se usan para medir el lado.
+Axiomáticamente se define que el área de un cuadrado de longitud 1 unidad lineal = u, su área es una unidad cuadrada o .
+Luego se considera un cuadrado cuyo lado mida n unidades lineales, donde n es un número entero positivo mayor que 1. Se deduce que el área .
+En seguida se considera que el lado mide  unidades lineales, siendo esta medida un número raciona positivo ≠ 1; se deduce que .
+Finalmente, se considera la longitud del lado s, donde s es un número irracional positivo. Se Aproxima por n. racionales s'< s, obteniendo áreas crecientes menores a s2. De modo decreciente, con valores racionales s < s´´ se aproxima mediante áreas decrecientes pero mayores a s2. Se concluye que . 
+
+
+==== Comparación con otras figuras ====
+Si inscribimos un círculo en un cuadrado de lado L, el radio será la mitad del lado: r = L/2. El área de dicho círculo es: π/4 ≈ 0,785 veces el área del cuadrado.
+Por otro lado, si consideramos un círculo circunscrito, el radio será la mitad de la diagonal, y el área del círculo será: π/2 ≈ 1,57 veces el área del cuadrado.
+Si se une el punto medio del lado de un cuadrado con los vértices del lado opuesto se determinan un triángulo isósceles cuya área es la mitad del área del cuadrado; además dos triángulos rectángulos, cada cual tiene una área que es la cuarta de la del cuadrado.
+Si se inscribe un cuadrilátero en un cuadrado, colocando los vértices en los puntos medios de los lados de este, resulta otro cuadrado, cuya área es la mitad de la del cuadrado exterior.
+Previamente se biseca un lado de un cuadrado, luego se biseca cada uno los subsegmentos anteriores; por sus respectivos puntos medios se trazan dos segmentos a los vértices del lado opuesto y se prolongan, en sentido contrario, hasta formar un triángulo. El área de este triángulo es igual al área del cuadrado. 
+
+
+== Trazado con regla y compás ==
+
+Para trazar un cuadrado de diagonales d centrado en el punto O:
+Marca el punto O donde quieras el centro del cuadrado.
+Traza una línea horizontal que pase por dicho punto O.
+Haciendo centro en el punto O traza una circunferencia de un diámetro d cualquiera, esto genera dos puntos de intersección con la recta horizontal del paso 2.
+Sin variar la apertura del compás y haciendo ahora centro en alguna de las dos intersecciones del paso 3, traza un arco hasta cortar en dos puntos la circunferencia inicial.
+Uniendo los dos puntos hallados en el paso 4 con una línea recta (vertical), dicha recta generará un nuevo punto de intersección sobre la recta horizontal inicial.
+Haz centro con el compás en el punto hallado en el paso 5 y abre el mismo hasta el punto central O y traza una semicircunferencia que intercepte en dos puntos a la línea vertical del paso 5.
+Traza una línea recta que pase por uno de los puntos del paso 6 y por el punto central O, extendiéndola hacia ambos lados hasta intersecar a la circunferencia inicial de paso 3, esto genera sobre la misma dos puntos que son vértices opuestos del cuadrado y también extremos de una de las diagonales.
+Repitiendo el paso anterior pero ahora con el otro punto del paso 6 y el punto central O, obtendrás los dos puntos que son vértices opuestos del cuadrado y también extremos de la segunda diagonal.
+Luego uniendo de modo cíclico con líneas rectas los cuatro puntos vértice hallados en los dos pasos 

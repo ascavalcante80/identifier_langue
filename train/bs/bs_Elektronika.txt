@@ -1,0 +1,49 @@
+Elektronika je grana nauke i tehnologije koja se bavi korištenjem kontrolisanog kretanja elektrona kroz različite prenosioce i kroz vakuum. Mogućnost kontrole protoka elektrona je obično primijenjeno u rad sa informacijama ili za upravljanje uređajima.
+Elektronika se razlikuje od nauke o struji i odgovarajuće tehnologije, koje se bave proizvodnjom, distribucijom, kontrolom i primjenom električne energije. Ovo razdvajanje nastaje oko 1906. godine sa izumom triode od naučnika po imenu Lee De Forest, koja je omogućila električno pojačavanje, bez mehaničkih uređaja. Sve do 1950. tih oblast elektronike se zvala "radio tehnika".
+
+
+== Uvod u elektroniku ==
+Kada je 1904 godine fizičar (John Ambrose) Fleming proučavajući radove koje je (Thomas Alva) Edison postavio usavršavajući električne sijalice, nije ni slutio da će se otvoriti jedna od nauka koja će se najbrže razvijati u uvući u sve pore tehnike i tehnologije. Dodajući unutar staklenog balona još jednu elektrodu izoloranu od grijne niti napravio je prvu elektronsku cijev - diodu . Svi elektronski sklopovi sačinjeni su od elemenata (komponenti) koji se mogu svrstati u dvije grupe
+Aktivne komponente (el.cijevi, poluprovodnici, integrisana kola..)
+Pasivne komponente (provodnici, izolatori, otpornici, kondenzatori, zavojnice..)
+Prema vrsti aktivnih komponenti i sklopovi se dijele u četiri generacije
+generacija-elektronske cijevi
+generacija-tranzistori
+generacija-integralna kola niske integracije
+generacija-integralna kola visoke integracije
+Uređaji koji imaju elemente iz dvije generacije zovu se hibridi.
+
+
+=== Elektronska dioda ===
+
+
+=== Trioda i ostale pojačivačke cijevi ===
+
+
+== Teorija kristala ==
+Četvorovalentni kristali kao što su germanijum i silicijum u čistom stanju ne provode ili vrlo loše provode električnu struju: Njihova četiri elektrona u posljednjoj ljusci su relativno čvrsto vezana za atom organizujući tzv. kristalnu rešetku. Ako se na površinski sloj tankog četvorovalentnog kristala nanesu (fundiraju) petovalentni elementi (donatori ili donori) kavi su kalaj, arsenik.. nastaće višak elektrona pa se ovakav sloj zove N - tip. Ako se na tanku pločicu silicijuma ili nanese tahak sloj bora koji je trovalentan pojaviće se manjek elektrona tzv. "šupljina" P - tip koja može primiti novi elektron. Zahvaljujući slobodnim elektronima i šupljinama (P i N prijelazima) omogućen je jednosmjeran protok električne struje. Kombinacijama slojeva PN moguće je raditi i poluprovodničke elemente različitih namjena: diode, diaci, tiristori, triaci, tranzistori...
+
+
+=== Kristalni poluprovodnici ===
+Prvi poluprovodnici napravljeni su od kristala selena, galenita i pirita. Korišteni su kao demodulatori za AM i radarske prijemnike. Usavršavajući kristalne diode, 1948. godine, dva naučnika J. Bardeen i W. Brattain uspjeli su proizvesti prvi tranzistor. Bio je to tačkasti germanijev tranzistor.
+
+
+=== Kristalna dioda ===
+
+
+=== Tranzistor ===
+
+
+== Integralna (integrisana) kola ==
+Treća i četvrta generacija elektronskih uređaja bazirani su na integralnim kolima i to:
+Integralna kola niske integracije
+Integralna kola visoke integracije
+Prema namjeni integralni sklopovi se dijele na
+
+Prema tehnologiji izrade integralni sklopovi se dalje dijele na:
+Monolitne bipolarne
+Monolitne unipolarne (MOS)
+Hibridne integralne sklopove
+
+
+==

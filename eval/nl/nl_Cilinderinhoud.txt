@@ -1,0 +1,13 @@
+
+== Berekeningsvoorbeeld ==
+Boring = 87,5 mm
+Slag = 83 mm
+Aantal cilinders = 6
+De cilinderinhoud is dan:
+= (3,14 / 4) × 87,5² × 83 × 6
+= 2994575 mm³ = 2994,575 cm³.
+Een zescilindermotor met een boring van 87,5 mm en slag van 83 mm heeft dus een cilinderinhoud van bijna 3 liter.
+
+
+== Zie ook ==
+Compressieverhouding

@@ -1,0 +1,19 @@
+nkin työpaketin kesto on projektikokonaisuuteen nähden järkevän pituinen.
+Jokainen paketti voidaan toteuttaa itsenäisesti ilman ylimääräistä ohjausta.
+
+
+== Esimerkki ==
+Tehtävänäsi on siivota huone. Tämä tehtävä voidaan jakaa seuraaviin alitehtäviin:
+Puhdista verhot
+Imuroi matot
+Kerää lelut ja vaatteet
+Pese seinät
+Pyyhi pölyt
+Nämä kaikki alitehtävät voidaan jakaa vielä pienempiin alitehtäviin. Esimerkiksi imuroi matot -alitehtävän alitehtäviä voivat olla:
+Ota imuri komerosta
+Laita pistoke pistorasiaan
+Työnnä ympäri huonetta
+Tyhjennä pölypussi
+
+
+== Lähteet ==

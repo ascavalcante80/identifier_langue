@@ -1,0 +1,120 @@
+A mobile phone is a telephone that can make and receive calls over a radio frequency carrier while the user is moving within a telephone service area. The radio frequency link establishes a connection to the switching systems of a mobile phone operator, which provides access to the public switched telephone network (PSTN). Modern mobile telephone service uses a cellular network architecture, and therefore mobile telephones are often also called cellular telephones, or cell phones. In addition to telephony, modern mobile phones support a variety of other services, such as text messaging, MMS, email, Internet access, short-range wireless communications (infrared, Bluetooth), business applications, gaming, and photography. Mobile phones which offer these and more general computing capabilities are referred to as smartphones.
+The first handheld mobile phone was demonstrated by John F. Mitchell and Martin Cooper of Motorola in 1973, using a handset weighing c. 4.4 lbs (2 kg). In 1983, the DynaTAC 8000x was the first commercially available handheld mobile phone. From 1983 to 2014, worldwide mobile phone subscriptions grew to over seven billion, penetrating 100% of the global population and reaching the bottom of the economic pyramid. In 2014, the top mobile phone manufacturers were Samsung, Nokia, Apple, and LG.
+
+
+== History ==
+
+A handheld mobile radio telephone service was envisioned in the early stages of radio engineering. In 1917, Finnish inventor Eric Tigerstedt filed a patent for a "pocket-size folding telephone with a very thin carbon microphone". Early predecessors of cellular phones included analog radio communications from ships and trains. The race to create truly portable telephone devices began after World War II, with developments taking place in many countries. The advances in mobile telephony have been traced in successive "generations", starting with the early "0G" (zeroth generation) services, such as Bell System's Mobile Telephone Service and its successor, the Improved Mobile Telephone Service. These "0G" systems were not cellular, supported few simultaneous calls, and were very expensive.
+
+The first handheld mobile cell phone was demonstrated by Motorola in 1973. The first commercial automated cellular network was launched in Japan by Nippon Telegraph and Telephone in 1979. This was followed in 1981 by the simultaneous launch of the Nordic Mobile Telephone (NMT) system in Denmark, Finland, Norway and Sweden. Several other countries then followed in the early to mid-1980s. These first-generation (1G) systems could support far more simultaneous calls, but still used analog technology.
+In 1991, the second-generation (2G) digital cellular technology was launched in Finland by Radiolinja on the GSM standard. This sparked competition in the sector as the new operators challenged the incumbent 1G network operators.
+Ten years later, in 2001, the third generation (3G) was launched in Japan by NTT DoCoMo on the WCDMA standard. This was followed by 3.5G, 3G+ or turbo 3G enhancements based on the high-speed packet access (HSPA) family, allowing UMTS networks to have higher data transfer speeds and capacity.
+By 2009, it had become clear that, at some point, 3G networks would be overwhelmed by the growth of bandwidth-intensive applications, such as streaming media. Consequently, the industry began looking to data-optimized fourth-generation technologies, with the promise of speed improvements up to ten-fold over existing 3G technologies. The first two commercially available technologies billed as 4G were the WiMAX standard, offered in North America by Sprint, and the LTE standard, first offered in Scandinavia by TeliaSonera.
+
+
+== Features ==
+
+All mobile phones have a variety of features in common, but manufacturers seek product differentiation by adding functions to attract consumers. This competition has led to great innovation in mobile phone development over the past 20 years.
+The common components found on all phones are:
+A battery, providing the power source for the phone functions.
+An input mechanism to allow the user to interact with the phone. The most common input mechanism is a keypad, but touch screens are also found in most smartphones.
+A screen which echoes the user's typing, displays text messages, contacts and more.
+Basic mobile phone services to allow users to make calls and send text messages.
+All GSM phones use a SIM card to allow an account to be swapped among devices. Some CDMA devices also have a similar card called a R-UIM.
+Individual GSM, WCDMA, iDEN and some satellite phone devices are uniquely identified by an International Mobile Equipment Identity (IMEI) number.
+Low-end mobile phones are often referred to as feature phones, and offer basic telephony. Handsets with more advanced computing ability through the use of native software applications became known as smartphones.
+Several phone series have been introduced to address specific market segments, such as the RIM BlackBerry focusing on enterprise/corporate customer email needs, the Sony-Ericsson 'Walkman' series of music/phones and 'Cyber-shot' series of camera/phones, the Nokia Nseries of multimedia phones, the Palm Pre, the HTC Dream and the Apple iPhone.
+
+
+=== Sound quality ===
+In sound quality, smartphones and feature phones vary little. Some audio-quality enhancing features, such as Voice over LTE and HD Voice, have appeared and are often available on newer smartphones. Sound quality can remain a problem with both, as this depends not so much on the phone itself, as on the quality of the network and, in long distance calls, the bottlenecks/choke points met along the way. As such, for long-distance calls even features such as Voice over LTE and HD Voice may not improve things. In some cases smartphones can improve audio quality even on long-distance calls, by using a VoIP phone service, with someone else's WiFi/internet connection.
+
+
+=== Text messaging ===
+
+The most commonly used data application on mobile phones is Short Message Service (SMS) text messaging. The first SMS message was sent from a computer to a mobile phone in 1992 in the UK, while the first person-to-person SMS from phone to phone was sent in Finland in 1993.
+The first mobile news service, delivered via SMS, was launched in Finland in 2000, and subsequently many organizations provided "on-demand" and "instant" news services by SMS.
+Multimedia Messaging Service (MMS) was introduced in 2001.
+
+
+=== SIM card ===
+
+GSM feature phones require a small microchip called a Subscriber Identity Module or SIM card, in order to function. The SIM card is approximately the size of a small postage stamp and is usually placed underneath the battery in the rear of the unit. The SIM securely stores the service-subscriber key (IMSI) and the Ki used to identify and authenticate the user of the mobile phone. The SIM card allows users to change phones by simply removing the SIM card from one mobile phone and inserting it into another mobile phone or broadband telephony device, provided that this is not prevented by a SIM lock.
+The first SIM card was made in 1991 by Munich smart card maker Giesecke & Devrient for the Finnish wireless network operator Radiolinja.
+
+
+=== Multi-card hybrid phones ===
+A hybrid mobile phone can hold up to four SIM cards. SIM and R-UIM cards may be mixed together to allow both GSM and CDMA networks to be accessed.
+From 2010 onwards, such phones became popular in India and Indonesia and other emerging markets, and this was attributed to the desire to obtain the lowest on-net calling rate. In Q3 2011, Nokia shipped 18 million of its low-cost dual SIM phone range in an attempt to make up for lost ground in the higher-end smartphone market.
+
+
+=== Kosher phones ===
+There are Jewish orthodox religious restrictions which, by some interpretations, standard mobile telephones overstep. To deal with this problem, some rabbinical organizations have recommended that phones with text-messaging capability not be used by children. Phones with restricted features are known as kosher phones and have rabbinical approval for use in Israel and elsewhere by observant Orthodox Jews. Although these phones are intended to prevent immodesty, some vendors report good sales to adults who prefer the simplicity of the devices. Some phones are approved for use by essential workers (such as health, security and public service workers) on the sabbath, even though the use of any electrical device is generally prohibited during this time.
+
+
+== Mobile phone operators ==
+
+The world's largest individual mobile operator by number of subscribers is China Mobile, which has over 500 million mobile phone subscribers. Over 50 mobile operators have over ten million subscribers each, and over 150 mobile operators had at least one million subscribers by the end of 2009. In 2014, there were more than seven billion mobile phone subscribers worldwide, a number that is expected to keep growing.
+
+
+== Manufacturers ==
+
+Prior to 2010, Nokia was the market leader. However, since then competition has emerged in the Asia Pacific region, from brands such as Micromax, Nexian and i-Mobile, which have chipped away at Nokia's market share. Android-powered smartphones have also gained momentum across the region at the expense of Nokia. In India, Nokia's market share dropped significantly to around 31% from 56% in the same period. Its share was displaced by Chinese and Indian vendors of low-end mobile phones.
+In Q1 2012, according to Strategy Analytics, Samsung surpassed Nokia, selling 93.5 million units as against Nokia's 82.7 million units. In 2012 Standard & Poor's downgraded Nokia to "junk" status, at BB+/B, with negative outlook due to high loss and an expected further decline owing to insufficient growth in Lumia smartphone sales to offset a rapid decline in revenue from Symbian-based smartphones that was forecast for subsequent quarters.
+In Q3 2014, the top ten manufacturers were Samsung (20.6%), Nokia (9.5%), Apple Inc. (8.4%), LG (4.2%), Huawei (3.6%), TCL Communication (3.5), Xiaomi (3.5%), Lenovo (3.3%), ZTE (3.0%) and Micromax (2.2%).
+Note: Vendor shipments are branded shipments and exclude OEM sales for all vendors
+Other manufacturers outside the top five include TCL Communication, Lenovo, Sony Mobile Communications, Motorola. Smaller current and past players include Karbonn Mobile, Audiovox (now UTStarcom), BenQ-Siemens, BlackBerry, Casio, CECT, Coolpad, Fujitsu, HTC, Just5, Kyocera, Lumigon, Micromax Mobile, Mitsubishi Electric, Modu, NEC, Neonode, Openmoko, Panasonic, Palm, Pantech Wireless Inc., Philips, Qualcomm Inc., Sagem, Sanyo, Sharp, Sierra Wireless, SK Teletech, Soutec, Trium, Toshiba, and Vidalco.
+
+
+== Use of mobile phones ==
+
+
+=== General ===
+
+Mobile phones are used for a variety of purposes, such as keeping in touch with family members, for conducting business, and in order to have access to a telephone in the event of an emergency. Some people carry more than one mobile phone for different purposes, such as for business and personal use. Multiple SIM cards may be used to take advantage of the benefits of different calling plans. For example, a particular plan might provide for cheaper local calls, long-distance calls, international calls, or roaming.
+The mobile phone has been used in a variety of diverse contexts in society. For example:
+A study by Motorola found that one in ten mobile phone subscribers have a second phone that is often kept secret from other family members. These phones may be used to engage in such activities as extramarital affairs or clandestine business dealings.
+Some organizations assist victims of domestic violence by providing mobile phones for use in emergencies. These are often refurbished phones.
+The advent of widespread text-messaging has resulted in the cell phone novel, the first literary genre to emerge from the cellular age, via text messaging to a website that collects the novels as a whole.
+Mobile telephony also facilitates activism and public journalism being explored by Reuters and Yahoo! and small independent news companies such as Jasmine News in Sri Lanka.
+The United Nations reported that mobile phones have spread faster than any other form of technology and can improve the livelihood of the poorest people in developing countries, by providing access to information in places where landlines or the Internet are not available, especially in the least developed countries. Use of mobile phones also spawns a wealth of micro-enterprises, by providing such work as selling airtime on the streets and repairing or refurbishing handsets.
+In Mali and other African countries, people used to travel from village to village to let friends and relatives know about weddings, births and other events. This can now be avoided in areas with mobile phone coverage, which are usually more extensive than areas with just land line penetration.
+The TV industry has recently started using mobile phones to drive live TV viewing through mobile apps, advertising, social TV, and mobile TV. It is estimated that 86% of Americans use their mobile phone while watching TV.
+In some parts of the world, mobile phone sharing is common. It is prevalent in urban India, as families and groups of friends often share one or more mobile phones among their members. There are obvious economic benefits, but often familial customs and traditional gender roles play a part. It is common for a village to have access to only one mobile phone, perhaps owned by a teacher or missionary, which is available to all members of the village for necessary calls.
+
+
+=== Smartphones ===
+
+Smartphones have a number of distinguishing features. The International Telecommunication Union measures those with Internet connection, which it calls Active Mobile-Broadband subscriptions (which includes tablets, etc). In the developed world, smartphones have now overtaken the usage of earlier mobile systems. However, in the developing world, they account for only 20% of mobile telephony.
+
+
+=== For distributing content ===
+In 1998, one of the first examples of distributing and selling media content through the mobile phone was the sale of ringtones by Radiolinja in Finland. Soon afterwards, other media content appeared, such as news, video games, jokes, horoscopes, TV content and advertising. Most early content for mobile phones tended to be copies of legacy media, such as banner advertisements or TV news highlight video clips. Recently, unique content for mobile phones has been emerging, from ringtones and ringback tones to mobisodes, video content that has been produced exclusively for mobile phones.
+In 2006, the total value of mobile-phone-paid media content exceeded Internet-paid media content and was worth US$31 billion. The value of music on mobile phones was worth US$9.3 billion in 2007, and gaming was worth over US$5 billion in 2007.
+
+
+=== While driving ===
+
+Mobile phone use while driving is common but controversial. Being distracted while operating a motor vehicle has been shown to increase the risk of accidents; because of this, many jurisdictions prohibit the use of mobile phones while driving. In Egypt, Israel, Japan, Portugal and Singapore, both handheld and hands-free use of a mobile phone is banned. In other countries including the UK and France and in many U.S. states, only handheld phone use is banned, while hands-free use is permitted.
+Due to the increasing complexity of mobile phones, they are often more like mobile computers in their available uses. This has introduced additional difficulties for law enforcement officials when attempting to distinguish one usage from another in drivers using their devices. This is more apparent in countries which ban both handheld and hands-free usage, rather than those which ban handheld use only, as officials cannot easily tell which function of the mobile phone is being used simply by looking at the driver. This can lead to drivers being stopped for using their device illegally for a phone call when, in fact, they were using the device legally, for example, when using the phone's incorporated controls for car stereo or satnav.
+A 2010 study reviewed the incidence of mobile phone use while cycling and its effects on behaviour and safety.
+
+
+=== Mobile banking and payments ===
+
+In many countries, mobile phones are used to provide mobile banking services, which may include the ability to transfer cash payments by secure SMS text message. Kenya's M-PESA mobile banking service, for example, allows customers of the mobile phone operator Safaricom to hold cash balances which are recorded on their SIM cards. Cash can be deposited or withdrawn from M-PESA accounts at Safaricom retail outlets located throughout the country, and can be transferred electronically from person to person and used to pay bills to companies.
+Branchless banking has also been successful in South Africa and the Philippines. A pilot project in Bali was launched in 2011 by the International Finance Corporation and an Indonesian bank, Bank Mandiri.
+Another application of mobile banking technology is Zidisha, a US-based nonprofit micro-lending platform that allows residents of developing countries to raise small business loans from Web users worldwide. Zidisha uses mobile banking for loan disbursements and repayments, transferring funds from lenders in the United States to borrowers in rural Africa who have mobile phones and can use the Internet.
+Mobile payments were first trialled in Finland in 1998 when two Coca-Cola vending machines in Espoo were enabled to work with SMS payments. Eventually, the idea spread and in 1999, the Philippines launched the country's first commercial mobile payments systems with mobile operators Globe and Smart.
+Some mobile phones can make mobile payments via direct mobile billing schemes, or through contactless payments, if the phone and the point of sale support near field communication (NFC). Enabling contactless payments through NFC-equipped mobile phones requires the co-operation of manufacturers, network operators and retail merchants. 
+
+
+=== Tracking and privacy ===
+
+Mobile phones are commonly used to collect location data. While the phone is turned on, the geographical location of a mobile phone can be determined easily (whether it is being used or not) using a technique known as multilateration to calculate the differences in time for a signal to travel from the mobile phone to each of several cell towers near the owner of the phone.
+The movements of a mobile phone user can be tracked by their service provider and, if desired, by law enforcement agencies and their governments. Both the SIM card and the handset can be tracked.
+China has proposed using this technology to track the commuting patterns of Beijing city residents. In the UK and US, law enforcement and intelligence services use mobile phoness to perform surveillance operations. They possess technology that enables them to activate the microphones in mobile phones remotely in order to listen to conversations which take place near the phone.
+
+
+=== Thefts ===
+According to the Federal Communications Commission, one out of three robberies involve the theft of a cellular phone. Police data in San Francisco show that half of all robberies in 2012 were thefts of cellular phones. An online petition on Change.org, called Secure our Smartphones, urged smartphone manufacturers to install kill switches in their devices to make them unusable if stolen. The petition is part of a joint effort by New York Attorney General Eric Schneiderman and San Francisco District Attorney George Gascón, and was directed to the CEOs of the major smartphone manufac

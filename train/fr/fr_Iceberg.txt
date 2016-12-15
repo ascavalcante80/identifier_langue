@@ -1,0 +1,67 @@
+Un iceberg (prononcé « à l'anglaise » [ajs.ˈbɛʁg] ou « à la française » [is.ˈbɛʁg]) est un bloc de glace d'eau douce dérivant sur la mer ; de tels blocs, souvent de masse considérable, se détachent du front des glaciers polaires ou d'une barrière de glace flottante.
+Le terme provient de l'anglais, où il a été emprunté du néerlandais ijsberg, littéralement « montagne de glace », de ijs « glace » + berg « montagne ».
+
+
+== Caractéristiques physiques ==
+90 % du volume d'un iceberg est situé sous la surface de l'eau, et il est difficile de déterminer la forme qu'adopte cette partie à partir de celle qui flotte au-dessus de la mer (comme le suggère l'expression « partie émergée de l'iceberg » ou « la pointe de l'iceberg », signifiant qu'un phénomène n'est qu'une simple manifestation d'un ensemble plus vaste). Pour un grand iceberg tabulaire dont la hauteur apparente hors d'eau est de 35 à 40 m, la partie immergée peut descendre jusqu'à plus de 300 m sous le niveau de la mer.
+
+
+=== Poussée d'Archimède ===
+La flottabilité de l'iceberg s'explique par la poussée d'Archimède. La poussée d'Archimède est la force particulière que subit un corps plongé en tout ou en partie dans un fluide (liquide ou gaz) soumis à un champ de gravité. Cette force provient de l'augmentation de la pression du fluide avec la profondeur (effet de la gravité sur le fluide, voir l'article hydrostatique) : la pression étant plus forte sur la partie inférieure d'un objet immergé que sur sa partie supérieure, il en résulte une poussée globalement verticale orientée vers le haut. C'est à partir de cette poussée qu'on définit la flottabilité d'un corps.
+Considérons un solide de volume V et de masse volumique ρS flottant à la surface d'un liquide de masse volumique ρL. Si le solide flotte, c'est que son poids est équilibré par la poussée d'Archimède :
+Fa = Fp .
+La poussée d'Archimède étant égale (en norme) au poids du volume de liquide déplacé (équivalent au volume V i immergé), on peut écrire :
+ρLV i g = ρSV g.
+Le volume immergé vaut donc
+V i = ( ρS / ρL ) V .
+Si le solide flotte, V > V i et il s'ensuit que ρS < ρL .
+Dans le cas de l'iceberg, considérons un morceau de glace pure à 0 °C flottant dans de l'eau de mer. Soit ρS = 0,917 kg/dm3 (masse volumique ρS de la glace) et ρL = 1,025 kg/dm3 (la masse volumique ρL de l'eau salée ; on aurait ρL = 1,000 kg/dm3 pour de l'eau pure à 3,98 °C). Le rapport ρS / ρL (c’est-à-dire la densité relative) est de 0,895, si bien que le volume immergé V i représente près de 90 % du volume total V de l'iceberg.
+
+
+== Classification ==
+Les icebergs sont classés en fonction de leurs taille et forme. La classification suivante est utilisée par l'International Ice Patrol.
+
+
+=== Taille ===
+
+Lorsqu’un iceberg se détache d’un ice-shelf ou d'un glacier il est toujours accompagné d’une multitude de fragments (< 2 m) appelés « sarrasins » ou brash ice en anglais.
+
+
+=== Forme ===
+Cette classification se fonde sur la forme de la partie visible de l'iceberg :
+iceberg tabulaire (tabular) est un iceberg de forme plate, avec une longueur supérieure à 5 fois sa hauteur ; Les tabulaires sont caractéristiques de la zone Antarctique et de ses nombreuses « barrières de glace » ou ice shelf ;
+iceberg trapu (blocky) : iceberg présentant un dessus plat et des flancs verticaux abrupts, avec une longueur comprise entre 3 et 5 fois sa hauteur ;
+iceberg biseauté (wedge) : iceberg vertical et abrupt d'un côté, et en faible pente de l'autre ;
+iceberg érodé (drydock) : pente douce et surface irrégulière due à une forte érosion ;
+iceberg pointu (pinnacled) : une ou plusieurs pointes de très grande hauteur au-dessus de l'eau en regard de la masse de l'iceberg ;
+iceberg en dôme (dome) : surface douce et arrondie, typique d'un iceberg qui a récemment basculé.
+
+
+=== Couleurs ===
+
+Certains icebergs présentent des zébrures de teinte foncée correspondant à une formation géologique : ce sont de très anciens bancs de cendre volcanique ou des inclusions de moraines.
+Les différentes nuances de bleu que présente la glace des icebergs sont en relation avec son ancienneté.
+Parfois, les icebergs présentent des zones de colorations rouges, orangées ou vertes qui sont dues à la présence de différentes sortes d'algues, les diatomées (Bacillariophyta).
+
+
+== Formation, évolution, effets environnementaux et climatiques ==
+Vêlage : Les icebergs résultent généralement de la fragmentation d'une masse de glace débouchant sur la mer (front de glacier, glace de barrière...). Cette fragmentation, appelée « vêlage », produit une masse de glace flottante pouvant alors dériver vers le large.
+Très souvent, en raison de la taille de leur partie immergée, les icebergs s'échouent temporairement sur le fond qu'ils peuvent racler en y laissant leur empreinte ou divers dépôts, puis reprennent leur errance, parfois des années plus tard. Ces traces, bien étudiées dans une partie de l'hémisphère nord sont des informations intéressantes pour la paléoclimatologie.
+Collision : Dans certain cas, le vêlage peut-être provoqué par la collision d'un iceberg avec une langue glaciaire, comme cela a été le cas en février 2010 lorsque B-9B (de 92 km x 37 km) a percuté la langue du glacier Mertz (67° 00′ 00″ S 145° 00′ 00″ E) et en a détaché l'iceberg C-28 (de 80 km x 37 km), soit une superficie de 2 900 km2 (plus étendu que le Grand Duché du Luxembourg).
+Tsunamis  : Ce sont d'autres causes possibles ; à titre d'exemple, les vagues du tsunami provoqué par le séisme de magnitude 9 au Japon le 11 mars 2011 sont arrivées 18 h plus tard très amorties en Antarctique. De petites vagues de 30 cm et les nombreuses ondes de réfractions causées par les côtes du Pacifique ont libéré deux nouveaux icebergs géants (125 km2 au total) et de nombreux fragments de la plateforme de Sulzberger (77° 00′ 00″ S 152° 00′ 00″ O) en mer de Ross.
+Montée de la mer et réchauffement climatique ; Dans le passé, avec des cycles de 6000 à 7000 ans correspondant à des hausses du niveau de la mer, une grande quantité de glace a quitté le pôle Nord, dont des icebergs emportant des roches prélevées au socle sous-jacent. Ces roches ont parfois été relâchées beaucoup plus au sud, et sont retrouvées dans les sédiments marins.
+Ces évènements sont dits « événements de Heinrich », du nom du géologue qui les a expliqués.
+Le rôle des glaces antarctiques semblait moins important et est resté longtemps mal compris. Il est éclairé depuis 1979 par un suivi satellitaire qui n'a d'abord pas montré de diminution totale de surface (au contraire durant plusieurs décennies), alors que la calotte Arctique diminuait régulièrement. Des zones d'amincissement ont ensuite été observées ainsi que des fragmentations (ex : 3 500 km2 de la banquise Larsen B qui se sont brisés en morceaux en mars 2002, après apparition de crevasses en 1987 alors que cette banquise était considérée comme stable depuis 10 000 ans. En 2009, c'est la plaque Wilkins, qui couvrait antérieurement 16 000 km2 qui s'est également détachée. La superficie de la banquise entourant le continent antarctique augmente plutôt depuis trente ans,. Les scientifiques s'interrogent sur les raisons de l'extension de ces glaces antarctiques. Parmi les explications proposées, selon une étude néerlandaise, la fonte des glaces qui recouvrent le continent pourrait être à l'origine de cette extension probablement parce que l'eau de fonte provoquerait un refroidissement de l'eau de surface favorisant la formation de glace de mer.
+Une étude de la NASA et de l'Université de Californie à Irvine publiée en mai 2014 dans les revues Science et Geophysical Research Letters conclut cependant qu'une partie de l'Inlandsis Ouest-Antarctique fond rapidement, et semble être en déclin irréversible, ; 40 ans d'observation du comportement des six plus grands glaciers de cette région de la mer d'Amundsen dans l'Antarctique occidental : Pine Island, Thwaites, Haynes, Smith, Pope et Kohler indiquent que ces glaciers "ont passé le point de non-retour" ; ils contribuent déjà de façon significative à l'élévation du niveau niveau des mers, relâchant annuellement presque autant de glace dans l'océan que l'Inlandsis du Groenland entier ; ils contiennent assez de glace pour élever le niveau général des océans de 4 pieds (1,2 mètres) et fondent plus vite qu'attendu par la plupart des scientifiques ; pour l'auteur principal (Eric Rignot), ces découvertes impliquent une révision à la hausse des prévisions actuelles d'élévation du niveau marin.
+Les paléoclimatologues comprennent maintenant mieux ce qui s'est passé lors des déglaciations précédentes, et notamment après le dernier maximum glaciaire (survenu il y a - 26 000 à - 19 000 ans) : Les premières données provenaient de quelques carottes de glace et d'autre part de carottages de sédiments marins, temporellement assez peu précises et géographiquement limitées à quelques zones terrestre ou marines peu profondes ,. Depuis l'étude de dépôts marin de couches de débris massivement transportés par les iceberg dans la passé (dénommés « BIRD » pour iceberg-rafted debris ) a permis de reconstituer la dynamique des glaciers Antarctiques dans les millénaires précédents : il y a huit événements documentés de flux accru d'export de grands icebergs à partir de la calotte antarctique (entre 20 000 ans avant nos jours et 9000 ans, ce qui ne correspond pas aux scénarios précédents selon lesquels le principal retrait glaciaire aurait été lancé par une fonte des glaces),,, continue jusqu'à la fin de l'Holocène.
+Le flux maximum de grands icebergs largués en antarctique date d'environ 14 600 ans. C'est la première preuve directe d'une contribution de l'Antarctique à une brutale montée du niveau océanique. Weber & al (2014) en déduisent qu'il existe en Antarctique des rétroactions positives, faisant que de « petites » perturbations de la calotte glaciaire pourraient contribuer à un mécanisme possible d'élévation rapide du niveau marin.
+
+
+== Surveillance ==
+
+Les icebergs sont relativement pérennes et leurs flancs peuvent facilement déchirer les tôles minces qui constituent les coques des navires. En conséquence, ils présentent un réel danger pour la navigation. Le naufrage le plus célèbre dû à une collision avec un iceberg est probablement celui du Titanic, le 14 avril 1912.
+Au cours du XXe siècle, plusieurs organisations furent créées pour l'étude et la surveillance des icebergs. Actuellement, l'International Ice Patrol contrôle et publie leur déplacement dans l'océan Atlantique nord.
+Les icebergs provenant de l'Antarctique sont suivis par le National Ice Center. Ceux qui mesurent plus de 10 milles marins (18,52 kilomètres) de longueur (plus grand axe) sont désignés par un nom composé d'une lettre indiquant le quadrant d'origine, suivie par un nombre, incrémenté pour chaque nouvel iceberg. La première lettre signifie que l'iceberg est issu :
+A : du 1er quadrant entre 0° et 90° de longitude ouest (mer de Bellingshausen et mer de Weddell)
+B : du 2e quadrant entre 90° et 180° de longitude ouest (mer d'Amundsen, Est de la mer de Ross)
+C : du 3e quadrant entre 90° et 180° de longitude es

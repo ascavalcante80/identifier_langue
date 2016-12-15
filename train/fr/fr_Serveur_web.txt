@@ -1,0 +1,28 @@
+Un serveur Web est un serveur informatique utilisé pour publier des sites web sur Internet ou un intranet. L'expression « serveur Web » désigne également le logiciel utilisé sur le serveur pour exécuter les requêtes HTTP, le protocole de communication employé sur le World Wide Web.
+Un serveur web diffuse généralement des sites web, il peut contenir d'autres services liés comme l'envoi d'e-mails, du streaming, le transfert de fichiers par FTP, etc.
+
+
+== PrésentationModifier ==
+Les serveurs Web publics sont reliés à Internet et hébergent des ressources (pages Web, images, vidéos, etc.) du Web. Certains serveurs sont seulement accessibles sur des réseaux privés (intranets) et hébergent des sites utilisateurs, des documents, ou des logiciels, internes à une entreprise, une administration, etc. Techniquement il serait possible qu'un même ordinateur remplisse les deux fonctions, mais c'est rarement le cas pour des raisons de sécurité.
+La fonction principale d'un serveur Web est de stocker et délivrer des pages Web qui sont généralement écrites en HTML. Le protocole de communication Hypertext Transfer Protocol (HTTP) permet de dialoguer avec le logiciel client, généralement un navigateur Web.
+
+
+== Serveur HTTPModifier ==
+
+Le serveur HTTP ou daemon HTTP est le logiciel prenant en charge les requêtes client-serveur du protocole HTTP développé pour le World Wide Web. Les plus connus sont Apache, IIS, Nginx, Lighttpd...
+Ces logiciels intègrent généralement des modules permettant d'exécuter un langage serveur comme PHP pour générer des pages web dynamiques.
+
+
+== Problématiques des serveurs webModifier ==
+La généralisation de l'usage des serveurs web sur internet a soulevé différents problèmes technologiques.
+
+
+=== Équilibrage de chargeModifier ===
+
+L’équilibrage de charge des serveurs Web, ou répartition de charge des serveurs Web, regroupe l’ensemble des mécanismes utilisés pour distribuer les requêtes HTTP sur de multiples serveurs Web. Cette pratique est devenue indispensable depuis l’explosion du trafic du World Wide Web qui a pour conséquence un accroissement important de la charge demandé au serveur web. Cela a entraîné une évolution des architectures, destinée à apporter plus de scalabilité, de disponibilité et de performances.
+
+
+== Autres logicielsModifier ==
+Le plus souvent, un serveur Web utilise d'autres logiciels qui fonctionnent en collaboration avec le serveur HTTP. Selon les besoins, certains services gourmands en ressources, comme le serveur de base de données, peuvent être situés sur la même machine ou un serveur spécialisé.
+Certaines combinaisons de logiciels de base sont connues sous différents acronymes, notamment celle d'Apache (serveur HTTP), MySQL (serveur de base de données) et PHP :
+LAMP pour « Linux, Apache, MySQL, PHP » ;

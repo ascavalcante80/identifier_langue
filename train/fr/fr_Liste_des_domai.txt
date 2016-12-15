@@ -1,0 +1,281 @@
+Cet article contient une liste des domaines de premier niveau (top-level domain en anglais, abrégé en TLD). Elle inclut à la fois les domaines génériques (.net, .com…) et les domaines nationaux de premier niveau (country code top-level domain, en abrégé ccTLD).
+
+
+== Types de domaines de premier niveau ==
+L'IANA distingue actuellement les types de domaines de premier niveau suivants :
+un domaine de premier niveau spécial (.arpa) ;
+des domaines de premier niveau nationaux (en anglais, country-code top-level-domains ou ccTLD);
+des domaines de premier niveau internationalisés :
+des domaines de premier niveau nationaux internationalisés (en anglais, internationalized country code top-level domains ou IDN ccTLD),
+des domaines de premier niveau internationalisés de test ;
+
+des domaines de premier niveau génériques (en anglais, generic top-level-domains ou gTLD)
+des domaines de premier niveau parrainés (en anglais, sponsored top-level-domains ou sTLD),
+des domaines de premier niveau non parrainés.
+
+La liste des domaines de premier niveau d'Internet compte environ 560 domaines de premier niveau. On distingue :
+un domaine de premier niveau spécial ;
+environ 260 domaines de premier niveau nationaux ;
+environ 300 domaines de premier niveau génériques.
+Chaque domaine de premier niveau est géré par une organisation qui est chargée d'allouer (éventuellement de manière commerciale) ses sous-domaines.
+Les domaines génériques se divisent en domaines génériques non commandités et en domaines génériques commandités. D'une manière générale, un domaine générique non commandité obéit à des règles établies par l'ensemble de la communauté Internet représentée par l'ICANN alors qu'un domaine générique commandité obéit à des règles établies par un organisme de gestion représentant la communauté étroite qui utilise le domaine.
+Les domaines génériques non commandités se divisent en domaines génériques non commandités non restreints et en domaines génériques non commandités restreints. Les domaines non restreints sont ouverts à tous, quels que soient leurs domaines d'activités, alors que les domaines génériques non commandités restreints sont destinés à des organisations ou des personnes possédant des caractéristiques précises (tout comme les domaines commandités). En revanche, contrairement aux domaines commandités, les demandes de sous-domaines dans des domaines génériques non commandités restreints ne font pas l'objet d'une validation avant l'attribution du nom de sous-domaine.
+Les domaines génériques commandités sont gérés de façon stricte par un organisme de gestion. Le organisme de gestion, qui a reçu son autorité de l'ICANN, a beaucoup de latitude dans l'établissement des règles et dans la gestion du domaine qui lui est attribué. L'une des fonctions de l'organisme de gestion est de s'assurer que le demandeur d'un sous-domaine possède bien les caractéristiques qui sont affichées par le nom du domaine. Ainsi l'organisme de gestion du domaine .museum s'assure qu'un demandeur est bien un musée, une association muséale ou un membre de la profession muséale.
+Les domaines nationaux sont associés à un pays.
+
+
+== Le domaine de premier niveau spécial ==
+Nom : le nom du domaine de premier niveau générique
+Utilisation : utilisation envisagée
+Commentaires : commentaires sur le domaine
+Mise en service : année de la mise en service du domaine
+
+
+== Liste des domaines génériques internationaux ==
+Nom : le nom du domaine de premier niveau générique
+Utilisation : utilisation envisagée
+Type : type de domaine (ouvert : aucune vérification de l'admissibilité avant l'inscription d'un domaine de second niveau ; parrainé : vérification par l'organisme de gestion avant l'inscription d'un domaine de second niveau)
+Commentaires : commentaires sur le domaine
+Mise en service : année de la mise en service du domaine
+NDI : support pour un nom de domaine internationalisé (NDI)
+DNSSEC : présence d’enregistrements DS pour Domain Name System Security Extensions
+
+
+== Liste des domaines génériques américains ==
+Nom : le nom du domaine de premier niveau générique
+Utilisation : utilisation envisagée
+Type : type de domaine (ouvert : aucune vérification de l'admissibilité avant l'inscription d'un domaine de second niveau ; vérification par l'organisme de gestion avant l'inscription d'un domaine de second niveau)
+Commentaires : commentaires sur le domaine
+Mise en service : année de la mise en service du domaine
+NDI : support pour un nom de domaine internationalisé (NDI)
+DNSSEC : présence d’enregistrements DS pour Domain Name System Security Extensions
+
+
+== Liste des domaines nationaux ==
+Certains ccTLD admettent, depuis 2009 environ, des noms de domaine internationalisés (IDN) comportant des caractères régionaux et/ou spéciaux, hors code ASCII. C'est le cas par exemple des ccTLD .eu (Europe) et .de (Allemagne).
+
+
+=== A ===
+.ac : Île de l’Ascension
+.ad : Andorre
+.ae : Émirats arabes unis
+.af : Afghanistan
+.ag : Antigua-et-Barbuda
+.ai : Anguilla
+.al : Albanie
+.am : Arménie
+.an : Antilles néerlandaises
+Abordée en 2004, la dissolution de l'État Fédéral des Antilles Néerlandaises prend effet le 10 octobre 2010. Le .an est alors programmé pour disparaître le 31 juillet 2015 malgré une demande de l'exécutif néerlandais d'extension du délai au 31 octobre 2015 refusée par l'ICANN. Au 21 juillet 2015, il ne restait qu'une vingtaine de titulaires de noms de domaine en .AN.
+
+Les îles de Bonaire, Saint-Eustache et Saba étant réintégrées au Royaume des Pays-Bas et les îles de Saint-Martin et Curaçao acquérant un statut autonome. En 2011 la norme ISO 3166-1 alpha-2 est utilisée pour la création de l'extension nationale de ces territoires et Saint-Martin se voit attribuer le .SX, Curaçao et Bonaire se voient attribuer le .CW, et Saint-Eustache et Saba se voient attribuer le .BQ. Ce dernier domaine, s'il est bien délégué, n'est pas encore actif en juillet 2015.
+.ao : Angola
+.aq : Antarctique (défini ici comme tout ce qui se trouve au sud de la latitude 60° S)
+.ar : Argentine
+.as : Samoa américaines
+.at : Autriche
+.au : Australie (incluant les îles Ashmore et Cartier et les îles de la Mer de Corail)
+.aw : Aruba
+.ax : Åland, remplace le sous-domaine aland.fi. Mis en service le 15 août 2006 suite au vote, le 17 mars 2006, de la loi le créant.
+.az : Azerbaïdjan
+
+
+=== B ===
+.ba : Bosnie-Herzégovine
+.bb : Barbade
+.bd : Bangladesh
+.be : Belgique
+.bf : Burkina Faso
+.bg : Bulgarie
+.bh : Bahreïn
+.bi : Burundi
+.bj : Bénin
+.bm : Bermudes
+.bn : Brunei
+.bo : Bolivie
+.br : Brésil
+.bs : Bahamas
+.bt : Bhoutan
+.bu : Birmanie, remplacé par .mm (pour Myanmar) en 1997
+.bv : Île Bouvet
+.bw : Botswana
+.by : Biélorussie
+.bz : Belize
+.bzh : Bretagne
+
+
+=== C ===
+.ca : Canada
+.cat : Sites en langue Catalane
+.cc : Îles Cocos
+.cd : République démocratique du Congo
+.cf : République centrafricaine
+.cg : Congo
+.ch : Suisse (Confoederatio Helvetica en latin)
+.ci : Côte d'Ivoire
+.ck : Îles Cook
+.cl : Chili
+.cm : Cameroun
+.cn : Chine (RPC)
+.co : Colombie
+Ce code national est utilisé comme contraction de .com (mise à disposition courant avril 2010)
+
+.cr : Costa Rica
+.cs : Serbie-et-Monténégro (réservation annulée, registre non assigné) ; voir aussi .yu (Yougoslavie), .me (Monténégro) et .rs (Serbie)
+Ce code avait été alloué auparavant à la Tchécoslovaquie (allocation supprimée) : voir maintenant .cz (République tchèque) et .sk (Slovaquie).
+
+.cu : Cuba
+.cv : Cap-Vert
+.cw : Curaçao
+.cx : Île Christmas
+.cy : Chypre
+.cz : République tchèque
+
+
+=== D ===
+.dd : ex-Allemagne de l'Est (RDA, Deutsche Demokratische Republik en allemand)
+.de : Allemagne (Deutschland en allemand)
+.dj : Djibouti
+.dk : Danemark
+.dm : Dominique
+.do : République dominicaine
+.dz : Algérie (DZayer en Amazigh)
+
+
+=== E ===
+.ec : Équateur
+.ee : Estonie
+.eg : Égypte
+.eh : Sahara occidental (réservé, registre non assigné)
+.er : Érythrée
+.es : Espagne
+.et : Éthiopie
+.eu : Union européenne
+
+
+=== F ===
+.fi : Finlande
+.fj : Fidji
+.fk : Îles Malouines (Falkland Islands en anglais)
+.fm : Micronésie
+.fo : Îles Féroé
+.fr : France
+
+
+=== G ===
+.ga : Gabon
+.gb : Grande-Bretagne (réservé, non utilisé ; voir .uk)
+.gd : Grenade
+.ge : Géorgie
+.gf : Guyane française
+.gg : Guernesey
+.gh : Ghana
+.gi : Gibraltar
+.gl : Groenland
+.gm : Gambie
+.gn : Guinée
+.gp : Guadeloupe
+.gq : Guinée équatoriale
+.gr : Grèce
+.gs : Géorgie du Sud-et-les Îles Sandwich du Sud
+.gt : Guatemala
+.gu : Guam
+.gw : Guinée-Bissau
+.gy : Guyana
+
+
+=== H ===
+.hk : Hong Kong
+.hm : Îles Heard-et-MacDonald
+.hn : Honduras
+.hr : Croatie (Hrvatska en croate)
+.ht : Haïti
+.hu : Hongrie
+
+
+=== I ===
+.id : Indonésie
+.ie : Irlande
+.il : Israël
+.im : Île de Man
+.in : Inde
+.io : Territoire britannique de l'océan Indien
+.iq : Irak
+.ir : Iran
+.is : Islande
+.it : Italie
+
+
+=== J ===
+.je : Jersey
+.jm : Jamaïque
+.jo : Jordanie
+.jp : Japon
+
+
+=== K ===
+.ke : Kenya
+.kg : Kirghizstan
+.kh : Cambodge (Khmer)
+.ki : Kiribati
+.km : Comores
+.kn : Saint-Christophe-et-Niévès (Saint-Kitts et Nevis)
+.kp : Corée du Nord (réservé, registre non assigné)
+.kr : Corée du Sud
+.krd : Kurdistan
+.kw : Koweït
+.ky : Îles Caïmans
+.kz : Kazakhstan
+
+
+=== L ===
+.la : Laos
+.lb : Liban
+.lc : Sainte-Lucie
+.li : Liechtenstein
+.lk : Sri Lanka
+.lr : Libéria
+.ls : Lesotho
+.lt : Lituanie
+.lu : Luxembourg
+.lv : Lettonie (Latvija en letton)
+.ly : Libye
+
+
+=== M ===
+.ma : Maroc
+.mc : Monaco
+.md : Moldavie
+.me : Monténégro (réservé, registre non assigné) ; voir aussi .yu (Yougoslavie, Serbie-et-Monténégro) et .cs (Serbie-et-Monténégro, réservation annulée)
+.mg : Madagascar
+.mh : Îles Marshall
+.mk : Macédoine
+.ml : Mali
+.mm : Birmanie (Myanmar)
+.mn : Mongolie
+.mo : Macao
+.mp : Îles Mariannes du Nord
+.mq : Martinique
+.mr : Mauritanie
+.ms : Montserrat
+.mt : Malte
+.mu : Maurice
+.mv : Maldives
+.mw : Malawi
+.mx : Mexique
+.my : Malaisie
+.mz : Mozambique
+
+
+=== N ===
+.na : Namibie
+.nc : Nouvelle-Calédonie
+.ne : Niger
+.nf : Île Norfolk
+.ng : Nigeria
+.ni : Nicaragua
+.nl : Pays-Bas (Nederland en néerlandais)
+.no : Norvège
+.np : Népal
+.nr : Nauru
+.nu : Niue
+.nz : Nouvelle-Zél

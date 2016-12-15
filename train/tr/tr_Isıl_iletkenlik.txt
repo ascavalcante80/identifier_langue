@@ -1,0 +1,10 @@
+Isı iletkenlik ya da termal iletkenlik, fizik'te malzemenin ısı iletim kabiliyetini anlatan bir özelliktir. k harfi ile ifade edilir.
+Isı miktarı Q ile tanımlandığında, malzemenin kalınlığı L ve birim zaman t , ısı geçişinin olduğu yüzey alanı A ve ısı geçişine sebep olan sıcaklık farkı ΔT ile ifade edilirse, sürekli rejim şartları altında ve ısı transferi sadece sıcaklık gradyenine bağlı olduğunda;
+
+Isıl iletkenlik = ısı akış oranı × mesafe / (alan × sıcaklık farkı)
+
+olarak ifade edilir.
+
+
+== Malzemelerin ısı iletkenlikleriDeğiştir ==
+Çoğu malzemenin ısı iletkenliği ile elektrik iletkenliği arasında bir bağ yoktur. Örneğin, çok yüksek elektriksel iletkenliği olan gümüşün ısıl iletkenliği, elektriksel yönden bir yarı-iletken olan elmasdan daha düşüktür. Bunun sebebi elektronlar değil, fononlardır. Fonon kristal yapıdaki titreşim düzeni ile ilgilidir. Metallerde, ısıl iletkenlik, yaklaşık olar

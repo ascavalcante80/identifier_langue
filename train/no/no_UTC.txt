@@ -1,0 +1,9 @@
+For tidssonen, se UTC+0
+
+UTC er en kortform som angir grunnlaget for sivile tidsangivelser i alle land.
+UTC er ingen egentlig forkortelse, de to første bokstavene angir at det er snakk om en variant av universell tid (engelsk Universal Time, fransk Temps Universel) som forkortes UT, og den tredje bokstaven angir at det er koordinert tid (engelsk Coordinated, fransk Coordonné). På norsk skriver man gjerne universell tid UTC hvis man ønsker å presisere hva som menes med de tre bokstavene.
+UTC brukes gjerne for å angi tidssoner og angir da avviket fra tiden som den angis ved nullmeridianen. UTC er dermed etterfølgeren til tidsangivelsen Greenwich Mean Time (GMT).
+Som tidsangivelse angir UTC døgnets timer fra 00 til 23. UTC beregnes som en middelverdi basert på data fra flere atomur rundt om i verden.
+I 2003 ble det brukt data fra 260 atomur. Ingen av disse klokkene får angi tiden med mer enn 30 milliardtedels sekund feil pr. døgn. I Norge er det Justervesenet som bidrar med måledata. Justervesenets utgave av UTC kalles formelt for UTC(JV).
+Skuddsekundet som ble lagt til kl. 00.59:60 1. januar 2009 (norsk normaltid) var det 34. skuddsekundet etter at ordningen ble innført i 1972 av Meterkonvensjonen. Perioden mellom hvert skuddsekund varierer og er avhengig av retardasjonen til jorden.
+Universell tid UT1 er en annen tidsangivelse som baserer seg på jordrotasjonen. En internasjonal avtale sier at UTC og UT1 ikke skal ha et større avvik enn 0,9 sekunder. Derfor må UTC nå og d

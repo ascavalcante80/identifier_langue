@@ -1,0 +1,13 @@
+Ora universală coordonată sau timpul universal coordonat, abreviat internațional ca UTC (compromis între engleză Coordinated Universal Time - CUT și franceză Temps Universel Coordonné - TUC), este un hibrid între timpul civil al meridianului 0 (timpul calculat după mișcarea aparentă a Soarelui, numit timp universal) și timpul fizic determinat cu cea mai mare precizie posibilă (timpul atomic internațional - TAI).
+
+
+== DefinițieModificare ==
+Timpul universal este definit ca timpul civil al meridianului 0. El este determinat prin observații astronomice și este o măsură a poziției Pământului în mișcarea sa de rotație (adică este în esență un unghi).
+Timpul fizic este timpul măsurat pe baza unui fenomen fizic reproductibil. Cel mai precis mod de-a măsura timpul fizic este pe baza oscilațiilor produse la tranzițiile electronilor de pe un nivel energetic pe altul. Pe această bază este definită secunda în Sistemul internațional de unități (SI).
+Datorită neuniformității mișcării de rotație a Pământului, ziua solară medie (media anuală a zilei solare adevărate) nu are niciodată exact 86400 secunde (SI). Dacă ziua solară medie este mai lungă de 86400 secunde SI (cum este cazul în prezent), un ceas precis avansează treptat față de rotația Pământului, astfel încât amiaza dată de ceas este din ce în ce mai devreme față de amiaza determinată astronomic.
+Timpul universal coordonat este definit pe baza secundei SI. Pentru a evita creșterea necontrolată a decalajului dintre UTC și timpul universal, ziua UTC nu grupează întotdeauna 86400 secunde, ci uneori 86399 secunde sau 86401 secunde. Secunda în plus sau în minus este adăugată sau eliminată la sfârșitul ultimei zile dintr-o lună. Dacă se adaugă o secundă, aceasta este marcată ca ora 23:59:60. Dacă se elimină o secundă, atunci ora 23:59:59 nu mai există (devine 00:00:00 a zilei următoare).
+Adăugarea sau eliminarea acestor secunde pentru compensare este determinată de Serviciul internațional de rotație a Pământului. Decizia se bazează pe măsurătorile acestuia asupra rotației Pământului și se anunță cu un avans de câteva luni. De la introducerea UTC în forma actuală, în anul 1971, și până în prezent (2007), au fost adăugate 23 de secunde de compensare și nu a fost eliminată nici una. Din cauza frânării rotației Pământului, determinată de maree, durata zilei solare medii crește cu aproximativ 1,7 milisecunde pe secol. Ca urmare, introducerea secundelor de compensare va deveni din ce în ce mai frecventă.
+
+
+== UtilizareModificare ==
+UTC este baza pentru ora legală. Fusurile orare sunt exprimate ca diferențe pozitive sau negative față de ora universală coordonată.

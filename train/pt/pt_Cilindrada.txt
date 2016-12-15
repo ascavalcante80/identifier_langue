@@ -1,0 +1,25 @@
+A cilindrada ou volume de deslocamento do motor ou ainda volume varrido do motor é definido como o volume varrido pelo deslocamento de uma peça móvel numa câmara hermeticamente fechada durante um movimento unitário. Este conceito aplica-se em diferentes tipos de bombas e motores.
+O movimento unitário corresponde a uma ida e volta no caso de um dispositivo linear como um pistão, ou a uma rotação no caso de um dispositivo giratório.
+
+
+== Cilindrada em motores lineares ==
+No caso específico dos motores de combustão interna, a cilindrada é o volume varrido por um pistão dentro de um cilindro entre o ponto morto superior (PMS) e o ponto morto inferior (PMI), por conseguinte para uma ida e volta. Exemplo: Um motor de automóvel com uma cilindrada de 2 litros (realmente 2 l/rotação) aspira e expira dois litros de gás por cada volta do virabrequim(Português do Brasil)/ da cambota(Português de Portugal) . Quando o virabrequim/a cambota faz uma volta, todos os pistões fizeram uma ida e volta. Em duas voltas do virabrequim/da cambota são aspirados dois litros de gás combustível e expirados outros dois litros de gases de escape, ou seja, quatro litros no total.
+
+
+=== Cálculo da cilindrada ===
+O cálculo da cilindrada parte de dois dados normalmente conhecidos num motor a pistões: o diâmetro e o curso. A partir da fórmula da área do circulo em função do raio, obtém-se a mesma em função do diâmetro:
+
+Para determinar o volume do cilindro gerado pelo movimento do pistão, também chamado volume deslocado ou cilindrada unitária, basta multiplicar a área do pistão pelo respectivo curso(C).
+
+A cilindrada do motor resulta do produto da cilindrada unitária pelo número de cilindros do motor(N)
+
+Ex: Motor de seis cilindros com diâmetro de 84,0 mm e curso de 89,6 mm (8,4 cm x 8,96 cm):
+.
+
+
+== Cilindrada em motores rotativos ==
+A cilindrada de um motor rotativo corresponde ao volume de deslocamento do flanco de cada uma das câmaras que possua. Uma cilindrada típica para este tipo de motores anda na ordem de 650 cm3 por rotor o que, no caso de um motor com dois rotores dará uma cilindrada total de 1300 cm3.
+
+
+=== Cilindrada corrigida ===
+A cilindrada corrigida é o valor da cilindrada que é determinado para efeitos fiscais, de forma a equivaler os motores especiais(Wankel ou eléctricos) à cilindrada de um motor a pistões. Atendendo a que as tecnologias dos motores são distintas, o método utilizado consiste em determinar o volume de mistura gasosa consumido por cada tipo de motor à velocidade de 1000 rpm à entrada da caixa de velocidades. Ao fazer essa determinação 

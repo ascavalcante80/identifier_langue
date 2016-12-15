@@ -1,0 +1,114 @@
+Il wiki è un sito web, costruito appoggiandosi su una piattaforma o software collaborativo detto software wiki o semplicemente Wiki, che permette ai propri utenti di aggiungere, modificare o cancellare contenuti attraverso un browser web, in genere utilizzando un linguaggio di markup semplificato o un editor di testo online.
+Si tratta in altre parole di una raccolta di documenti ipertestuali che viene aggiornata dai suoi stessi utilizzatori e i cui contenuti sono sviluppati in collaborazione da tutti coloro che vi hanno accesso (contenuto generato dagli utenti), memorizzati normalmente su un database o un repository. La modifica dei contenuti è aperta, nel senso che il testo può essere modificato da tutti gli utenti (a volte soltanto se registrati, altre volte anche anonimi) contribuendo non solo per aggiunte, come accade solitamente nei forum, ma anche cambiando e cancellando ciò che hanno scritto gli autori precedenti. Ogni modifica è registrata in una cronologia che permette in caso di necessità di riportare il testo alla versione precedente (rollback); lo scopo è quello di condividere, scambiare, immagazzinare e ottimizzare le informazioni in modo collaborativo.
+Wiki, in base alla etimologia, è anche un modo di essere.
+
+
+== EtimologiaModifica ==
+
+Wiki wiki deriva da un termine in lingua hawaiiana che significa "rapido" oppure "molto veloce". A volte wikiwiki o WikiWiki o Wikiwiki sono usati al posto di wiki. Ward Cunningham (il padre del primo wiki) si ispirò al nome wiki wiki usato per i bus navetta dell'aeroporto di Honolulu. "Wiki fu la prima parola che egli apprese durante la sua prima visita alle isole Hawaii, quando un addetto lo invitò a prendere un "wiki wiki bus" operante tra i vari terminal aeroportuali. Cunningham stesso dice: "Ho scelto wiki-wiki come sostituto allitterativo di quick ("veloce"), evitando quindi di chiamare questa cosa quick-web.". In realtà, non si è ancora rintracciata la prima attestazione di questa parola nella lingua hawaiana e non si può escludere che essa sia derivata da un adattamento fonetico proprio della parola "quickly".
+WikiWikiWeb è un termine usato a volte per riferirsi in maniera specifica al Portland Pattern Repository, il primo wiki mai esistito. I proponenti di questo utilizzo suggeriscono di usare una 'w' minuscola per i wiki in generale.
+Il termine wiki è usato anche come acronimo inverso dell'espressione inglese "What I know it' s", che descrive la sua funzione di condivisione di conoscenza oltre che di scambio e di immagazzinamento.
+
+
+== PronunciaModifica ==
+Adattando all'italiano la pronuncia inglese, i più pronunciano uìki ['wiːki] la parola wiki. In hawaiano, la consonante iniziale della parola è per la precisione un'approssimante labiodentale sonora ([ʋ]), suono intermedio tra il fonema continuo fricativo labiodentale sonoro [v] (l'iniziale dell'italiano voto) e la semiconsonante [w] (l' iniziale dell'italiano uomo). Il suono [ʋ] ricorre nella pronuncia d'una consistente minoranza degli italofoni come una delle possibili R mosce (la cosiddetta èvve, ma non la sua variante velarizzata) o, in italiano, anche come realizzazione veloce e/o trascurata del fonema /v/ in posizione intervocalica: è un suono frequente, ad esempio, in esecuzioni più o meno rapide di frasi come andava via veloce, dove i diversi /v/ tendono a realizzarsi [ʋ] anche per dissimilazione. La pronuncia hawaiiana giustifica perciò anche la variante italiana vìki ['viːki] – preferibile se si considera che in italiano la lettera w è generalmente percepita come una consonante –, sebbene l'idioma parlato in quelle isole non conosca affatto la fricativa labiodentale sonora ([v]) dell'italiano.
+
+
+== StoriaModifica ==
+Il software wiki è nato nel design pattern (schema progettuale, architetturale, di progettazione) di comunità web come una soluzione per scrivere e discutere pattern languages (espressione che può essere tradotta come "linguaggi relativi a un preciso contesto", in riferimento al mondo del software di programmazione). Il Portland Pattern Repository è stato il primo wiki, ideato da Ward Cunningham nel 1995. Cunningham ha inventato il nome e il concetto wiki e ha prodotto la prima implementazione di un motore wiki.
+Alla fine del XX secolo, i wiki sono stati considerati come una strada promettente per sviluppare le basi di una conoscenza pubblica e privata ed è stato questo potenziale a ispirare il progetto dell' enciclopedia Nupedia, avviata da Jimmy Wales con Larry Sanger come capo redattore, usando la tecnologia wiki come base per un'enciclopedia elettronica: Wikipedia è stata lanciata nel gennaio 2001. Originariamente basata su un software UseMod, passò poi al suo attuale software open source MediaWiki, che è ora adottato da numerosi altri wiki.
+Attualmente la Wikipedia in lingua inglese è il più grande wiki, seguita da quella tedesca.
+
+
+== Campi di applicazioneModifica ==
+Documentazione di numerosi progetti informatici, ad esempio Tango Desktop Project, DotClear documentation, EagleFaq, Manuel Blender francophone;
+Progetti collaborativi, ad esempio Documentazione della comunità italiana di Ubuntu, Nasgaïa (distribuzione Linux), CPDL, Choral Public Domain Library;
+Educazione e formazione collaborativa, come libroscuolawiki.altervista.org ;
+Enciclopedie e più generalmente banche del sapere in linea (knowledge based on line), sia generali come Wikipedia o settoriali come Vikidia, Sensei's Library, websemantique.org, xulfr.org, Ekopedia, Wikiartpedia, Anarcopedia, e Nonciclopedia;
+Knowledge base d'impresa, per permettere di condividere conoscenze e di comunicare in seno all'impresa;
+Wiki comunitarie, che raccolgono persone attorno a un argomento al fine di incontrarsi, di condividere la conoscenza, ecc. Per esempio: Wikivoyage, Bennilogia;
+Wiki personali sono utilizzati come strumento di produttività e di gestione dell'informazione: dal block-notes evoluto fino all'applicazione molto varia come un'agenda, ad esempio Tomboy e Gnote.
+
+
+== Caratteristiche principaliModifica ==
+Un wiki permette di scrivere collettivamente dei documenti in un semplice linguaggio di marcatura (markup) usando un navigatore (web browser). Poiché la maggior parte dei wiki si basa sul web, il termine "wiki" è di solito sufficiente. Una singola pagina in un wiki è chiamata "pagina wiki", mentre l'insieme delle pagine, che sono usualmente strettamente interconnesse, è chiamato "il wiki".
+Una caratteristica distintiva della tecnologia wiki è la facilità con cui le pagine possono essere create e aggiornate. Generalmente, non esiste una verifica preventiva sulle modifiche, e la maggior parte dei wiki è aperta a tutti gli utenti—o almeno a tutti quelli che hanno accesso al server wiki. In effetti, perfino la registrazione di un account utente non è sempre richiesta.
+
+
+== Pagine e modificheModifica ==
+Nei wiki tradizionali, ci sono tre possibili rappresentazioni per ogni pagina: il codice HTML (hypertext markup language), la pagina che risulta dalla visione di quel codice con un navigatore (web browser) e il codice sorgente modificabile dagli utenti, dal quale il server produce l'HTML. Quest'ultimo formato, noto come "wikitext", è scritto in un linguaggio di un marcatore (mark up) semplificato il cui stile e la cui sintassi variano tra le implementazioni.
+Il principio che sottostà a questa scelta di design è che l'HTML, con la sua grande libreria di etichettatura (tag), è troppo complicato per permettere modifiche rapide, e distrae dai contenuti veri e propri delle pagine. Talvolta è anche considerato un vantaggio il fatto che gli utenti non possano usare tutte le funzionalità permesse dall'HTML, come JavaScript e i CSS, perché in questo modo si può imporre una maggiore uniformità di aspetto.
+(Citazione da Cronache della Galassia di Isaac Asimov)
+Alcuni wiki recenti usano un metodo differente: forniscono strumenti di modifica "WYSIWYG", solitamente tramite dei controlli ActiveX o dei plugin che traducono istruzioni di formattazione inserite graficamente, come "grassetto" e "corsivo" nei tag HTML corrispondenti. In queste implementazioni, salvare una modifica corrisponde all'invio di una nuova pagina HTML sul server, sebbene l'utente non si accorga dei dettagli tecnici e il markup sia generato in modo a lui trasparente. Gli utenti privi del plugin relativo possono solitamente modificare la pagina modificandone direttamente il codice HTML.
+Le istruzioni di formattazione permesse da una wiki variano considerevolmente a seconda del motore usato; wiki semplici permettono solo formattazioni elementari, mentre wiki più complesse hanno supporto per tabelle, immagini, formule o anche elementi interattivi come sondaggi e giochi. Per questo è in corso un tentativo di definire un Wiki Markup Standard.
+
+
+=== Collegamento e creazione di pagineModifica ===
+I Wiki sono un mezzo completamente ipertestuale, con una struttura di navigazione non lineare. Normalmente ogni pagina contiene un gran numero di link ad altre pagine; nei wiki di dimensioni notevoli esiste comunque una navigazione gerarchica, ma non deve essere necessariamente usata. I collegamenti (link) vengono creati usando una sintassi particolare, la cosiddetta "link pattern."
+La maggior parte dei wiki usa il modello CamelCase per la nomenclatura dei link, che viene prodotta mettendo in maiuscolo la lettera iniziale di ogni parola contenuta in una frase ed eliminando gli spazi (il termine "CamelCase" è esso stesso un esempio di CamelCase). CamelCase oltre a facilitare i collegamenti, induce la scrittura dei link a una forma che devia dallo spelling standard. I wiki basati sul CamelCase sono subito riconoscibili da link con nomi come "IndiceGenerale" e "DomandeIniziali"; il termine CamelCase deriva da queste frasi che assomigliano vagamente al profilo di un cammello (in inglese camel).
+CamelCase ha sollevato molte critiche, e gli sviluppatori di wiki hanno cercato soluzioni alternative. Il primo a introdurre i "free links" (link liberi) mediante questo _(formato di link libero) è stato Cliki. Diversi wiki engine usano parentesi singole, parentesi graffe, sottolineature, barre o altri caratteri come modello di link. Link che collegano differenti comunità wiki sono possibili con l'uso di uno speciale modello di link detto InterWiki.
+Solitamente in un wiki le nuove pagine sono create semplicemente inserendo il link appropriato partendo da una pagina che tratta un argomento correlato. Se il link non esiste, è normalmente evidenziato come link rotto (broken link). Cercando di seguire quel link viene aperta una finestra di modifica, che permette all'utente di inserire il testo della nuova pagina. Questo meccanismo assicura che le pagine cosiddette "orfane" (cioè che non hanno link che puntano a esse) siano create raramente, mantenendo generalmente un alto livello di connessione.
+I wiki generalmente seguono la filosofia di rendere facile la correzione di eventuali errori, piuttosto che rendere difficile commettere un errore. Così, i wiki oltre a essere completamente aperti, forniscono anche vari modi per verificare la validità di aggiornamenti recenti al contenuto delle pagine. Il più importante e usato in quasi tutti i wiki è la cosiddetta pagina delle "Ultime modifiche", che mostra sia uno specifico numero di modifiche recenti sia la lista completa delle modifiche fatte in un determinato lasso di tempo. Alcuni wiki permettono di filtrare dette liste in modo che le modifiche minori - o le modifiche effettuate automaticamente dai cosiddetti bot (codici di programmazione eseguiti in maniera automatica) - possano essere escluse.
+Dalla pagina dei cambiamenti sono accessibili altre due funzioni in quasi tutti i wiki: la cronologia delle revisioni, che visualizza le precedenti versioni di una pagina, e la funzionalità "Confronta", che può evidenziare i cambiamenti tra due revisioni. La cronologia delle revisioni fornisce un editor per aprire e salvare una precedente versione della pagina e, in tal modo, ristabilire il contenuto originale. La funzionalità "Confronta" può essere usata per decidere quale precedente modifica sia opportuna e quale no. Un utente regolare del wiki può vedere il confronto di un cambiamento elencato nella pagina "Ultime modifiche" e, se giudica una ultima versione inaccettabile, può consultare la cronologia per ristabilire una precedente versione. Questo processo è più o meno efficiente in base al software wiki utilizzato.
+
+Alcuni wiki rendono possibile aggiungere segnalazioni di consenso su versioni nella pagina "Ultime modifiche" giudicate accettabili. Tavi di Scott Moonen introduce "subscribed changes" (simile alla "watchlists" di Wikipedia), una forma interna di bookmarking che è usata per generare una lista di cambiamenti recenti per configurare solo un gruppo di pagine specifiche. Wikipedia fornisce link alle pagine che sono di una certa dimensione per essere evidenziate, in modo che creando piccole pagine cosiddette "stubs", queste siano rilevate in tutte le pagine che hanno un link verso di esse.
+Per essere sicuri che una serie di pagine mantengano la loro qualità, una persona può impostare un warning per le modifiche che gli permetta di verificare la validità delle nuove versioni in maniera agevole.
+
+
+== Il controllo delle modificheModifica ==
+Parecchi wiki pubblici evitano le procedure di una registrazione obbligatoria, tuttavia molti dei maggiori motori wiki (inclusi MediaWiki, MoinMoin, UseModWiki e TWiki) forniscono metodi per limitare l'accesso in scrittura. Alcuni motori wiki permettono che utenti singoli siano interdetti dalla scrittura mediante il blocco del loro particolare indirizzo IP o, se disponibile, del loro username. Comunque, parecchi Internet service provider (ISP) assegnano un nuovo indirizzo IP per ogni login, così l'interdizione dell'IP può spesso essere aggirata facilmente. Per evitare il problema, la temporanea interdizione di IP è spesso estesa al range degli indirizzi IP; l'idea è che ciò sia sufficiente come deterrente. Ciò può, tuttavia, interdire anche utenti incolpevoli che utilizzano lo stesso ISP per tutta la durata del divieto.
+Una comune difesa contro i persistenti "vandali" è semplicemente permettere di cancellare e modificare quante pagine desiderano, sapendo che possono essere facilmente tracciati e annullati nei loro atti. Questa regola può facilmente diventare poco pratica di fronte a modifiche sistematiche.
+Come misura di emergenza, alcuni wiki hanno un database che può essere impostato in modalità sola-lettura, quando alcuni impongono la regola per cui solo utenti che si siano registrati prima di una certa data possano continuare a scrivere. Tuttavia ogni danno provocato da un "vandalo" può essere eliminato in maniera rapida e semplice. Più problematici sono gli errori inseriti nelle pagine che passano inosservati, per esempio il cambiamento della data di pubblicazione di un album e le discografie.
+In casi estremi molti wiki forniscono pagine che possono essere protette dalla modifica. Le pagine protette in Wikipedia, ad esempio, possono essere solo modificate dai cosiddetti amministratori, che possono anche revocare la protezione. Questo costume è generalmente considerato come violazione alla filosofia di base del WikiWiki e, quindi, è spesso evitato.
+
+
+== RicercaModifica ==
+La maggior parte delle wiki offre almeno una ricerca per titolo, e spesso è presente una ricerca full text che analizza il testo dei contenuti. La scalabilità della ricerca dipende dall'utilizzo o meno di un database per i contenuti: un accesso a un database indicizzato è indispensabile per ottenere ricerche rapide su wiki di grandi dimensioni. Su Wikipedia, il cosiddetto pulsante "Vai" permette al lettore di visualizzare direttamente la pagina che si avvicina il più possibile ai criteri della ricerca. Il motore di ricerca MetaWiki è stato creato per permettere ricerche parallele su più wiki.
+
+
+== Motori wikiModifica ==
+Il motore Wiki è il sistema software di tipo collaborativo su cui gira un sistema Wiki. La sua implementazione consiste generalmente in un programma installato su diversi server che gestiscono un contenuto solitamente memorizzato in un database relazionale; alcune installazioni tuttavia utilizzano direttamente il file system del server.
+Data la relativa semplicità del concetto di wiki, sono state sviluppate un gran numero di implementazioni, nei più svariati linguaggi di programmazione; esse vanno da semplici hack, che hanno solo le funzioni di base, fino a sistemi di amministrazione del contenuto (Content Management System) molto sofisticati.
+
+
+== Comunità wikiModifica ==
+Per chi è interessato a creare il proprio wiki, ci sono molte "wiki farm" disponibili, qualcuna delle quali gestisce anche wiki privati, protetti da password. La wiki-farm più famosa è Wikia, fondata nel 2004 da Jimmy Wales.
+Le 30 wiki più grandi sono elencate su Biggest Wiki.
+Un modo per trovare una wiki su un particolare soggetto di tuo interesse è seguire il Wiki Node Network da una wiki all'altra. In alternativa, puoi prendere un autobus per un tour delle wiki: TourBusStop.
+
+
+== GergoModifica ==
+Un certo numero di termini gergali sono emersi nel corso dello sviluppo della comunità wiki.
+WikiGnome
+Una persona che contribuisce positivamente a una wiki attraverso piccole correzioni e aggiunte, rendendosi utile pur restando in genere nell'ombra. Ovviamente questo comportamento potrebbe essere adottato più o meno occasionalmente da persone non in grado di collaborare in altri modi per i motivi più svariati alla wiki.
+WikiFairy
+Un'altra persona che collabora positivamente dedicandosi in particolare ad abbellire le pagine di una wiki.
+WikiGremlin
+Una sorta di opposto di un WikiGnome: qualcuno che produce danni attraverso modifiche a volte intelligenti ma sempre con scopi maligni e negativi. È chiaramente una variante del vandalismo.
+Il concetto di WikiGnome e WikiFairy potrebbe essere nato sulla Welcome Visitors Portland Pattern Repository's Wiki, dove si trovano anche ulteriori definizioni più precise.
+
+
+== Comunicazione internaModifica ==
+
+
+=== Uso dei software wikiModifica ===
+
+Il concetto di wiki può essere utilizzato in molti contesti aziendali dopo una corretta analisi dei bisogni, infatti, sono oggi disponibili numerosi strumenti informatici basati su sistemi wiki.
+I sistemi informatici Wiki supportano tutte le numerose implicazioni del knowledge management e della comunicazione attiva tra i dipendenti di una azienda. L'uso del software wiki aiuta nell'analisi, strutturazione, estensione e trasferimento di conoscenze, esperienze, competenze sulle reti all'interno dell'azienda. Inoltre, i sistemi wiki supportano in modo potente il processo di apprendimento informale e il trasferimento delle conoscenze consentendo l'acquisizione delle conoscenze che si producono nel lavoro quotidiano. L'applicazione dei sistemi basati su wiki deve essere adattato alle specifiche esigenze dell'azienda, per quanto riguarda la cultura aziendale e la sua struttura organizzativa, e per questo motivo non esiste una soluzione generale disponibile per tutti ma la scelta deve essere decisa in funzione delle specifiche esigenze aziendali.
+
+
+==== Ricerca dell'Università di TampereModifica ====
+Ricercatori dell'Università di Tampere hanno analizzato le modalità di interazione con sistemi Enterprise wiki (software wiki), per la creazione di intranet aziendali basate su sistemi wiki da parte delle maggiori 50 società finlandesi, rilevando che: l'80 % delle maggiori 50 società finlandesi ha partecipato allo studio, di queste il 26% usa Wikipedia per scopi aziendali, il 15% è in una fase di test, il 18% sta valutando l'opportunità di una presenza su Wikipedia, il 38% non ha ancora deciso nulla in merito e il 3% ha scartato questa possibilità. In generale il 59% ha avuto un approccio positivo con Wikipedia. Le motivazioni che stanno alla base di questo approccio positivo sono:
+Ottimizzazione della trasparenza delle informazioni
+Migliorare l'efficienza della società
+Facilità d'uso di wiki (usabilità)
+Disponibilità di informazioni aggiornate
+L'uso di nuovi modelli di lavoro collaborativo
+Semplice introduzione di software wiki
+Ampliamento e miglioramento della collaborazione aziendale
+Motivazione dei dipendenti che utilizzano il wiki
+Buona disponibilità di soluzioni nel software wiki
+Miglioramento della correttezza delle informazioni aziendali
+Miglioramento della credibilità delle informazioni
+Disponibilità di sistemi di origine sofisticati aperti wiki
+Possib

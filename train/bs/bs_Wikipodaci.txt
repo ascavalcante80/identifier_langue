@@ -1,0 +1,14 @@
+Wikipodaci (eng. Wikidata) je baza znanja koju kolaborativno uređuju korisnici i koju održava Fondacija Wikimedia. Svrha joj je biti zajednički izvor određenih vrsta podataka (npr. datumi rođenja) koje koriste drugi Wikimedijini projekti kao Wikipedia. U tom je smislu slična Wikimedijinoj ostavi gdje se skladište medijske datoteke kojima se pristupa s drugih Wikimedijinih projekata.
+
+
+== Historija razvoja ==
+
+Wikipodaci su pokrenuti 30. oktobra 2012, i predstavlja prvi novi projekt Fondacije Wikimedije od 2006.
+Ostvarenje projekta su financirale donacije Allenovog instituta za umjetnu inteligenciju, Fondacije Gordona i Betty Moore te Google, Inc., s ukupno 1,3 miliona €. Inicijalni razvoj projekta je nadzirala Wikimedia Deutschland i bio je razdvojen u tri faze:
+Centralizacija višejezičnih linkova – linkovi između Wikipedijinih članaka o istoj temi na različitim jezicima
+Pravljenje centralnog mjesta za podatke u infokutijama za sve Wikipedije
+Pravljenje i ažuriranje spiska članaka na temelju podataka u Wikidati
+Prva faza je pokrenuta 30. oktobra 2012. To je omogućilo da se sačinjavaju stavke i pune osnovnim informacijama; oznake—imena ili naslovi, aliasi —alternativni izrazi za oznaku, opisi i međujezični linkovi za sve Wikipedijine članke o istoj temi. Svaki članak se identificira jedinstvenim brojem, kome se dodaje prefiks Q—npr. za politiku je to Q7163. Ovo omogućava da se oznake, aliasi i opisi prevode bez favoriziranja jednog jezika.
+
+Wikipodaci su ispočetka bili samodovoljno skladište višejezičkih linkova. Nijedno jezično izdanje Wikipedije nije moglo imati pristup Wikidati, te je moralo imati vlastite setove višejezičnih linkova. 14. januara 2013. Wikipedija na mađarskomn jeziku je postala prva koja je omogućila opciju višejezičnih linkova preko Wikidate. Ova mogućnost se proširila na Wikipedije na hebrejskom i italijanskom 30. januara. Postavljanje se nastavilo na Wikipediji na engleskom jeziku 13. februara te se planira za sve druge Wikipedije 6. marta.
+Prvi aspekti druge faze su postavljeni 4. februara 2013, čime je uvedeno sparivanje ključnih vrijednosti (izjave; (en)) u Wikidatinim unosima. Vrijednosti su ispočetka ograničena na dva tipa podataka (stavke i slike na Wikimediijnoj ostavi), a drugi tipovi podataka (kao koordinate i datumi) će slijediti kasnije. P

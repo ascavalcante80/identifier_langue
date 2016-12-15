@@ -1,0 +1,78 @@
+A szilárd testek külső mechanikai terhelések (erő, nyomaték, nyomás) hatására alakváltozást szenvednek. Az alakváltozás a test terhelés alatti és terheletlen állapotában mérhető méreteinek különbsége.
+
+
+== Fajlagos nyúlás ==
+A hosszú, állandó keresztmetszetű rúd húzóerő hatására megnyúlik. A deformáció mértékéül a fajlagos nyúlás használatos, mely alkalmas arra, hogy az alakváltozást más esetekkel össze lehessen hasonlítani:
+
+ahol
+
+ a rúd terheletlen hossza, m
+ a húzott rúd megnyúlt hossza, m
+ a rúd megnyúlása, m
+
+A dimenzió nélküli fajlagos nyúlás pozitív, ha a rúd hossza megnő terhelés alatt (húzás esetén) és negatív, ha a rúd hossza csökken (nyomás esetén), mivel a hosszak mindig pozitív értékek, így a fajlagos nyúlás előjele az alakváltozás előjelével változik. A fajlagos nyúlás dimenziónélküli mennyiség, a gyakorlatban 100-szoros értékét százalékban szokták megadni. A közönséges szerkezeti anyagokra (fémekre, fára, betonra, kőre stb.) a fajlagos nyúlás igen kis érték szokott lenni, ezért a gyakorlatban előfordul a mikrométer/méter vagy μm/m megadás is.
+
+
+== Fajlagos nyúlás egy pontban ==
+A rúd egy pontjában a fajlagos nyúlás a fenti hányados határértéke, ha az  hossz tart nullához:
+
+Más szóval a fajlagos nyúlás egy pontban a pont közvetlen szomszédságában lévő távolságok változása.
+
+
+== A lineáris fajlagos nyúlás általános esete ==
+Egy tetszőleges alakú testre, melyen bármilyen alakváltozás lép fel, a fajlagos nyúlás értéke a mérés térbeli irányától függ. Vizsgáljuk meg egy A pont lineáris alakváltozását, mely a koordináta-rendszer origója is egyúttal, az x tengelyen helyezzünk el egy második B pontot, mely az alakváltozás következtében a B' pontba mozdul el, akkor a lineáris fajlagos nyúlás:
+
+Hasonló számítást végezhetünk az y illetőleg a z tengely irányában is, ekkor az εy és az εz értékeket kapjuk. Egy tetszőleges  elmozdulásmezőre (elmozdulásmező = elmozdulásvektorok a test minden pontjára) a lineáris fajlagos nyúlások így írhatók:
+
+ ;  ; 
+
+ahol
+ az i tengely irányába vett fajlagos nyúlás,
+ pedig az  i irányba vett parciális deriváltja egy tetszőleges pontban.
+
+
+== Nyírási fajlagos nyúlás ==
+A fentiekhez hasonlóan határozható meg egy ponton átmenő két egyenes szögének fajlagos változása, melyet nyírási fajlagos nyúlásnak neveznek. A γ nyírási fajlagos nyúlás két egyenes által bezárt szög változásának és a terheletlen állapotban mért szög viszonyának határértéke, ha az egyenes szakaszok hossza tart nullához. Egy adott  elmozdulásmezőhöz az előzőekhez hasonlóan a nyírási fajlagos nyúlások a következőképpen írhatók:
+ ;  ; 
+
+
+== Fajlagos térfogatváltozás ==
+Bár az ε lineáris fajlagos nyúlás és a γ nyírási fajlagos nyúlás teljes mértékben leírja egy test alakváltozását, lehetséges más jellemző fajlagos alakváltozást is definiálni. Ilyen lehet például a fajlagos térfogatváltozás, mely egy test térfogatában végbement változás mértékét adja meg. A fajlagos térfogatváltozás definíciója egy adott pontban:
+
+ahol
+ a fajlagos térfogatváltozás,
+ a kezdeti térfogat,
+ a terhelés alatt felvett térfogat.
+Descartes-koordinátarendszerben mindig igaz az alábbi összefüggés:
+
+ahol
+ a fajlagos térfogatváltozás,
+ a fajlagos nyúlás az x, y és z tengelyek irányába.
+
+
+== Az alakváltozási tenzor ==
+A lineáris és nyírási fajlagos nyúlás fenti jelölései segítségével felírható az alakváltozási tenzor:
+
+Vektoros jelölést használva:
+
+Behelyettesítve a hagyományos jelölést a tenzoros jelölésbe írható Descartes-korrdinátarendszerre:
+
+Ezzel a fajlagos térfogatváltozás egyenlő:
+
+ahol gij egy kontravariáns metrikus tenzor (felhasználva a tenzor jelölést: )
+
+
+== Főnyúlások ==
+A fajlagos nyúlások értéke nemcsak a test deformációjától, hanem a koordináta-rendszer megválasztásától függ. Általános esetben az alakváltozási tenzor minden eleme valós, tehát egy tetszőlegesen felvett „kis kocka” minden lapján mérhető megnyúlás és szögelfordulás is. Minden alakváltozáshoz azonban felvehető három olyan koordináta-rendszer, melyekben csak hosszirányú nyúlás lép fel, szögelfordulás nincs. Ezek a három egymásra merőleges irány a főirány, az ezekben az irányokban mérhető megnyúlás neve főnyúlás. Az alakváltozási tenzor alakja ilyen lesz:
+
+Az  a három főnyúlás
+
+
+== Főnyúlások síkbeli esetre ==
+Mivel az alakváltozási tenzor valós szimmetrikus mátrix, SVD dekompozícióval ortogonális sajátvektorokra lehet bontani. A sajátvektorok irányaiban nincs nyírás, csak húzás vagy nyomás. Kétdimenziós tenzorok esetén:
+
+A  és  főnyúlás értéke:
+
+
+== Nagy alakváltozások ==
+Az eddigiekben feltételeztük, hogy a test méreteihez képest kis a

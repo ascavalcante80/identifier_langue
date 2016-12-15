@@ -1,0 +1,38 @@
+La ingeniería de sistemas es un modo de enfoque interdisciplinario que permite estudiar y comprender la realidad, con el propósito de implementar u optimizar sistemas complejos. Puede también verse como la aplicación tecnológica de la teoría de sistemas a los esfuerzos de la ingeniería, adoptando en todo este trabajo el paradigma sistémico. La ingeniería de sistemas integra otras disciplinas y grupos de especialidad en un esfuerzo de equipo, formando un proceso de desarrollo centrado.
+La ingeniería de sistemas es la aplicación de las ciencias matemáticas y físicas para desarrollar sistemas que utilicen económicamente los materiales y fuerzas de la naturaleza para el beneficio de la humanidad.
+Una de las principales diferencias de la ingeniería de sistemas respecto a otras disciplinas de ingeniería tradicionales, consiste en que la ingeniería de sistemas no construye productos tangibles. Mientras que los ingenieros civiles podrían diseñar edificios o puentes, los ingenieros electrónicos podrían diseñar circuitos, los ingenieros de sistemas tratan con sistemas abstractos con ayuda de las metodologías de la ciencia de sistemas, y confían además en otras disciplinas para diseñar y entregar los productos tangibles que son la realización de esos sistemas.
+Otro ámbito que caracteriza a la ingeniería de sistemas es la interrelación con otras disciplinas en un trabajo transdisciplinario.
+De manera equivocada algunas personas confunden la ingeniería de sistemas con las ingenierías de computación o en informática, cuando ésta es mucho más cercana a la electrónica y la mecánica cuando se aplica.
+Actualmente existe gran controversia respecto a los estudios que se realizan en las universidades, sobre todo en Sudamérica, pues los estudios son similares a los de Ingeniería de Computación o Informática o Software.
+
+
+== HistoriaEditar ==
+La ingeniería de Sistemas comenzó a desarrollarse en la segunda parte del siglo XX con el veloz avance de la ciencia de sistemas. Las empresas comenzaron a tener una creciente aceptación de que dicha ingeniería, podía gestionar el comportamiento impredecible y la aparición de características imprevistas de los sistemas (propiedades emergentes). Las decisiones tomadas al comienzo de un proyecto, cuyas consecuencias pueden no haber sido entendidas claramente, tienen una enorme implicación más adelante en la vida de un sistema. Un ingeniero de sistemas debe explorar estas cuestiones y tomar decisiones críticas .
+
+
+== Otras definicionesEditar ==
+Una definición especialmente completa -y que data de 1974 - es ofrecida por un estándar militar de las fuerzas aéreas estadounidenses sobre gestión de la ingeniería (MIL-STD-499B Systems Engineering).
+Ingeniería de sistemas es la aplicación de esfuerzos científicos y de ingeniería para:
+integrar parámetros técnicos relacionados para asegurar la compatibilidad de todas las interfaces de programa y funcionales de manera que optimice la definición y diseño del sistema total;
+
+Ingeniería de Sistemas es un conjunto de metodologías para la resolución de problemas mediante el análisis, diseño y gestión de sistemas.
+Es el conjunto de recursos humanos y materiales a través de los cuales se recolectan, almacenan, recuperan, procesan y comunican datos e información con el objetivo de lograr una gestión eficiente de las operaciones de una organización.
+
+
+== Campos relacionadosEditar ==
+Muchos de los campos relacionados podrían ser considerados con estrechas vinculaciones a la ingeniería de sistemas. Muchas de estas áreas han contribuido al desarrollo de la ingeniería de sistemas como área independiente.
+
+
+=== Sistemas de InformaciónEditar ===
+Un sistema de información o (SI) es un conjunto de elementos que interactúan entre sí con el fin de apoyar las actividades de una empresa o negocio. No siempre un Sistema de Información debe estar automatizado (en cuyo caso se trataría de un sistema informático), y es válido hablar de Sistemas de Información Manuales. Normalmente se desarrollan siguiendo Metodologías de Desarrollo de Sistemas de Información.
+El equipo computacional: el hardware necesario para que el sistema de información pueda operar. El recurso humano que interactúa con el Sistema de Información, el cual está formado por las personas que utilizan el sistema.
+Un sistema de información realiza cuatro actividades básicas: entrada, almacenamiento, procesamiento y salida de información.
+Es la actualización de datos reales y específicos para la agilización de operaciones en una empresa.
+
+
+=== Investigación de operacionesEditar ===
+La investigación de operaciones o (IO) se enseña a veces en los departamentos de ingeniería industrial o de matemática aplicada, pero las herramientas de la IO son enseñadas en un curso de estudio en Ingeniería de Sistemas. La IO trata de la optimización de un proceso arbitrario bajo múltiples restricciones.Se presentan las ideas fundamentales en las que se basa el enfoque de sistemas, los tipos de problemas de sistemas y las metodologías más adecuadas para abordarlos.
+
+
+=== Ingeniería de sistemas cognitivosEditar ===
+La ingeniería de sistemas cognitivos es una rama de la ingeniería de sistemas que trata los entes cognitivos, sean humanos o no, como un tipo de sistemas capaces de tratar información y de utilizar recursos cognitivos como la percepción, la memoria o el procesamiento de información. Depende de la aplicación directa de la experiencia y la investigación tanto en psicología cognitiva como en ingeniería de sistemas. La ingeniería de sistemas cognitivos se enfoca en cómo los entes cognitivos interactúan con el entorno. La ingeniería de sistemas trabaja en la intersección de

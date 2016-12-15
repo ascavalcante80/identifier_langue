@@ -1,0 +1,21 @@
+nden Raumschiffen als Faustregel bekannt.
+Zum Vergleich der Marsmond Phobos:
+
+Obwohl Phobos also nur einen Durchmesser von etwa 25 Kilometer aufweist, ist die Umlaufzeit für einen oberflächennahen Orbit bei ihm sehr ähnlich der auf der Erde (und sogar größer). Die Bahngeschwindigkeit auf diesem Orbit hingegen beträgt nur rund 33 Kilometer in der Stunde. Ein Astronaut auf der Phobos-Oberfläche könnte also theoretisch einen Ball aus der Hand in eine Umlaufbahn werfen. Da Phobos stark von der Kugelform abweicht, sind die Formeln für oberflächennahe Umlaufbahnen allerdings hier nicht praxistauglich.
+Dass die Umlaufzeit für eine oberflächennahe Umlaufbahn unabhängig vom Radius des Zentralkörpers ist, lässt sich also verallgemeinern: Wenn ein Zentralkörper eine ähnliche mittlere Dichte wie die Erde aufweist, also grob gesprochen „steinig“ strukturiert ist, dann liegt die Umlaufzeit wie bei der Erde in der Größenordnung von 90 Minuten, ob es sich dabei um einen Asteroiden handelt oder einen Exo-Planeten um einen ganz anderen Stern.
+
+
+== ErdumlaufbahnenBearbeiten ==
+
+In einer Umlaufbahn heben sich im lokalen mitbewegten Koordinatensystem die Gravitationskraft der Erde und die Zentrifugalkraft gegenseitig auf. Deshalb herrscht an Bord eines Raumfahrzeuges, das sich in einer Umlaufbahn befindet, Schwerelosigkeit (siehe auch Mikrogravitation). Die meisten Raumflüge finden in niedrigen Bahnen (einige 100 km) um die Erde statt (z. B. Space-Shuttle-Missionen). Physikalisch bedingt gilt, dass die Bahngeschwindigkeit entsprechend dem Abstand zur Erde zu- oder abnimmt. Von besonderer Bedeutung ist die geostationäre Bahn – in rund 35.800 km Höhe und ohne Bahnneigung gegen die Äquatorebene. Satelliten in einem solchen Orbit stehen relativ zur Erdoberfläche still, was insbesondere für Kommunikationssatelliten und Wettersatelliten nötig ist.
+
+
+== Siehe auchBearbeiten ==
+Trajektorie (Physik), Bahnbestimmung
+Bahnstörung, Entdeckung des Neptun
+Vis-Viva-Gleichung
+
+
+== WeblinksBearbeiten ==
+
+Interaktive Simulation der Planetenbahnen im geozentrischen Weltbild

@@ -1,0 +1,2 @@
+Argument perycentrum (ω) – jeden z parametrów (elementów) orbity służących do opisu położenia orbity ciała w przestrzeni. Określa orientację orbity w jej płaszczyźnie. Jest to kąt pozycyjny mierzony w płaszczyźnie orbity między kierunkami od ciała centralnego do węzła wstępującego i do perycentrum. Kąt ω liczony jest w kierunku ruchu ciała opisywanego po orbicie.
+W przypadku ciała obiegającego Słońce kąt ten nazywany jest argumentem peryhelium, natomi

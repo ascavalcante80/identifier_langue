@@ -1,0 +1,75 @@
+Il volume è la misura dello spazio occupato da un corpo. Viene valutato ricorrendo a molte diverse unità di misura. L'unità adottata dal Sistema Internazionale è il metro cubo, simbolo m³.
+Il volume di un oggetto solido è un valore numerico utilizzato per descrivere a tre dimensioni quanto spazio occupa il corpo. Ad oggetti ad una dimensione (come una linea) o a due dimensioni (come un quadrato) si assegna per convenzione volume zero in uno spazio tridimensionale.
+Matematicamente i volumi sono definiti mediante l'applicazione di calcolo integrale, come se il corpo fosse formato dalla somma di una grandissima quantità di piccoli cubi. La generalizzazione di volume, arbitrariamente esteso a più dimensioni, viene chiamato contenuto.
+
+
+== Il volume di alcuni solidi ==
+
+Volume del cubo:
+
+dove l è la lunghezza degli spigoli.
+Prisma rettangolare (o parallelepipedo rettangolo):
+
+a è la lunghezza, b la larghezza, c l'altezza.
+Cilindro:
+
+r il raggio del cerchio, h la distanza tra le basi.
+Sfera:
+
+r il raggio della sfera.
+Ellissoide:
+
+a, b, c sono i tre semiassi dell'ellissoide.
+Piramide:
+
+A è l'area di base, h l'altezza dalla base all'apice.
+Cono:
+
+r è il raggio del cerchio alla base, h la distanza dalla base alla punta.
+Qualsiasi prisma avente la sezione d'area costante lungo l'altezza:
+
+A è l'area di base, h l'altezza.
+Qualsiasi figura che richieda calcolo integrale:
+
+dove h è una figura con qualsiasi dimensione e A(h) è la sezione d'area perpendicolare ad h descritta come una funzione della posizione lungo h; questa va bene per qualsiasi figura (non importa se il prisma è inclinato o la sezione trasversale cambia forma).
+Nel caso di solidi di rotazione si può sfruttare il secondo teorema di Pappo-Guldino, che afferma che il volume di un solido di rotazione  ottenuto ruotando di un angolo  attorno all'asse  una figura piana  è
+
+dove  è l'ascissa del baricentro della figura piana  e  è la sua area.
+
+
+== Misure di volume: SI ==
+L'unità di misura del Sistema Internazionale per il volume è il metro cubo (m³); è tuttavia accettato nell'uso anche il litro, equivalente a un decimetro cubo: per fare un metro cubo sono perciò necessari 1000 litri.
+
+
+== Misure di volume: USA ==
+U.S. oncia liquida, circa 29.6 mL
+U.S. pinta liquida = 16 once liquide, o circa 473 mL
+U.S. pinta secca = 1/64 bushel U.S., o circa 551 mL
+U.S. quarto liquido = 32 once liquide o due pinte U.S., o circa 946 mL
+U.S. quarto secco = 1/32 U.S. bushel, o circa 1,101 L
+U.S. gallone = 128 once liquide o quattro quarti U.S., circa 3.785 L
+U.S. gallone secco = 1/8 U.S. bushel, o circa 4,405 L
+U.S. bushel secco = 2150,42 pollici cubi, o circa 35,239 L
+Il piede acro (simbolo "ac ft" dall'inglese acre-foot) viene usato spesso per misurare il volume di acqua in un serbatoio di un acquedotto. È il volume d'acqua che potrebbe coprire un'area di un acro della profondità di un piede. È equivalente a 43.560 piedi cubi o 1233,481 837 547 52 m³.
+pollice cubico = 16,387 064 cm³
+piede cubico = 1.728 in³ ≈ 28.317 dm³
+yarda cubica = 27 ft³ ≈ 0.7646 m³
+miglio cubico = 5.451.776.000 yd³ = 3.379.200 piedi-acri ≈ 4,168 km³
+
+
+== Misure di volume: UK ==
+UK oncia fluida, circa 28.4 mL (questo valore equivale al volume di un'oncia avoirdupois di acqua sotto certe condizioni)
+UK pinta = 20 once fluide, o circa 568 mL
+UK quarto = 40 once o due pinte, o circa 1.137 L
+UK gallon = 160 once o quattro quarti, o esattamente 4.546 L
+
+
+== Misure di volume: in cucina (paesi anglosassoni) ==
+cucchiaino da te = 1/6 once fluide U.S. (circa 4.929 mL)
+cucchiaino da te = 1/6 once imperiali fluide (circa 4.736 mL) (Canada)
+cucchiaino = 5 mL
+cucchiaino da tavola = 1/2 once fluide U.S. o 3 cucchiaini da te (circa 14.79 mL)
+cucchiaino da tavola = 1/2 once fluide imperiali o 3 cucchiaini da te (circa 14.21 mL) (Canada)
+cucchiaio da tavola = 15 mL o 3 cucchiaini
+cucchiaio da tavola = 5 dramme fluide (circa 17.76 mL) (Inglese)
+tazza = 8 Once fluide U.S. o 1/2 pinta l

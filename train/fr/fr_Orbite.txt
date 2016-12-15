@@ -1,0 +1,53 @@
+En mécanique céleste et en mécanique spatiale, une orbite (/ɔʁ.bit/) est la courbe fermée représentant la trajectoire que dessine, dans l'espace, un objet céleste sous l'effet de la gravitation et de forces d'inertie. Une telle orbite est dite périodique. Dans le Système solaire, la Terre, les autres planètes, les astéroïdes et les comètes sont en orbite autour du Soleil. De même, des planètes possèdent des satellites naturels en orbite autour d'elles. Des objets artificiels, comme les satellites et les sondes spatiales sont en orbite autour de la Terre ou d'autres corps du système solaire.
+Une orbite a la forme d'une ellipse dont l'un des foyers coïncide avec le centre de gravité de l'objet central. D'un point de vue relativiste, une orbite est une géodésique dans l'espace-temps courbe.
+
+
+== Étymologie et sens mathématique ==
+Orbite vient du latin orbita, désignant la trace d'une roue.
+Initialement, le terme orbite est un terme utilisé en mathématiques pour désigner l'ensemble des points parcourus par une trajectoire, c'est-à-dire par une courbe paramétrée. La différence entre "orbite" et "trajectoire" consiste dans le fait que la trajectoire exprime l'évolution du point tandis que l'orbite est un concept "statique". Ainsi pour une trajectoire , l'orbite est l'ensemble .
+Une orbite peut donc avoir n'importe quelle forme selon la dynamique du système étudié, mais avec le temps l'usage du terme s'est vu réservé aux orbites fermées en astronomie et astronautique.
+
+
+== Histoire ==
+Les orbites des cinq planètes du Système solaire visibles à l'œil nu — Mercure, Vénus, Mars, Jupiter et Saturne — ont longtemps été décrites à partir de leur trajectoire apparente.
+
+
+== Orbite képlérienne ==
+Une orbite képlérienne est l'orbite d'un corps assimilable à un point — c'est-à-dire dont la distribution des masses possède une symétrie sphérique — et soumis au champ de gravitation créé par une masse également assimilable à un point, ce dernier étant pris comme origine du référentiel. Autrement dit, c'est l'orbite d'un corps en interaction gravitationnelle avec un seul autre corps, chaque corps étant assimilé à un point,.
+L'orbite képlérienne de chaque corps est une orbite conique dont un des foyers coïncide avec le centre de masse de l'autre corps pris comme origine du référentiel.
+
+
+== Paramètres orbitaux ==
+Une orbite elliptique est décrite au moyen de deux plans — le plan de l'orbite et le plan de référence — et de six paramètres appelés éléments :
+demi-grand axe
+excentricité
+inclinaison
+longitude du nœud ascendant
+argument du périastre
+position de l'objet sur son orbite.
+
+Orbite elliptique
+Deux de ces paramètres (excentricité et demi-grand axe) définissent la trajectoire dans un plan, trois autres (inclinaison, longitude du nœud ascendant et argument du péricentre) définissent l'orientation du plan dans l'espace et le dernier (instant de passage au péricentre) définit la position de l'objet. Voici la description plus détaillée de ces paramètres :
+Demi-grand axe  : la moitié de la distance qui sépare le péricentre de l'apocentre (le plus grand diamètre de l'ellipse). Ce paramètre définit la taille absolue de l'orbite. Il n'a de sens en réalité que dans le cas d'une trajectoire elliptique ou circulaire (le demi-grand-axe est infini dans le cas d'une parabole ou d'une hyperbole)
+Excentricité  : une ellipse est le lieu des points dont la somme des distances à deux points fixes, les foyers ( et  sur le diagramme), est constante. L'excentricité mesure le décalage des foyers par rapport au centre de l'ellipse ( sur le diagramme); c'est le rapport de la distance centre-foyer au demi-grand-axe. Le type de trajectoire dépend de l'excentricité :
+ : trajectoire circulaire
+ : trajectoire elliptique
+ : trajectoire parabolique
+ : trajectoire hyperbolique
+
+Le plan de référence ou plan référentiel est un plan contenant le centre de gravité du corps principal. Le plan de référence et le plan de l'orbite sont ainsi deux plans sécants. Leur intersection est une droite appelée ligne des nœuds. L'orbite coupe le plan de référence en deux points, appelés nœuds. Le nœud ascendant est celui par lequel le corps passe en trajectoire ascendante ; l'autre est le nœud descendant.
+Le passage entre le plan orbital et le plan de référence est décrit par trois éléments qui correspondent angles d'Euler :
+L'inclinaison, notée , qui correspond à l'angle de nutation : l'inclinaison (entre 0 et 180 degrés) est l'angle que fait le plan orbital avec un plan de référence. Ce dernier étant en général le plan de l'écliptique dans le cas d'orbites planétaires (plan contenant la trajectoire de la Terre ; en noir dans la figure 1). L'inclinaison est l'angle orange dans la figure 1.
+La longitude du nœud ascendant, notée ☊, qui correspond à l'angle de précession : il s'agit de l'angle entre la direction du point vernal et la ligne des nœuds, dans le plan de l'écliptique. La direction du point vernal (en noir dans la figure 1) est la droite contenant le Soleil et le point vernal (point de repère astronomique correspondant à la position du Soleil au moment de l'équinoxe du printemps). La ligne des nœuds (en vert dans la figure 1) est la droite à laquelle appartiennent les nœuds ascendant (le point de l'orbite où l'objet passe du côté nord de l'écliptique) et descendant (le point de l'orbite où l'objet passe du côté sud de l'écliptique).
+L'argument du périastre, note , qui correspond à l'angle de rotation propre : il s'agit de l'angle formé par la ligne des nœuds et la direction du périastre (la droite à laquelle appartiennent l'étoile (ou l'objet central) et le périastre de la trajectoire de l'objet), dans le plan orbital. Il est en bleu dans la figure 1. La longitude du périastre est la somme de la longitude du nœud ascendant et de l'argument du périastre.
+Le sixième paramètre est la position du corps orbitant sur son orbite à un instant donné. Elle peut être exprimée de plusieurs manières :
+L'anomalie moyenne à l'époque, notée Mo ;
+L'anomalie vraie ;
+L'argument de latitude.
+Instant τ de passage au périastre : la position de l'objet sur son orbite à un instant donné est nécessaire pour pouvoir la prédire pour tout autre instant. Il y a deux façons de donner ce paramètre. La première consiste à spécifier l'instant du passage au périastre. La seconde consiste à spécifier l'anomalie moyenne M (en rouge dans la figure 1) de l'objet pour un instant conventionnel (l'époque de l'orbite). L'anomalie moyenne n'est pas un angle physique, mais spécifie la fraction de la surface de l'orbite balayée par la ligne joignant le foyer à l'objet depuis son dernier passage au périastre, exprimée sous forme angulaire. Par exemple, si la ligne joignant le foyer à l'objet a parcouru le quart de la surface de l'orbite, l'anomalie moyenne est °°. La longitude moyenne de l'objet est la somme de la longitude du périastre et de l'anomalie moyenne.
+
+
+== Périodes ==
+Lorsqu'on parle de la période d'un objet, il s'agit en général de sa période sidérale, mais il y a plusieurs périodes possibles :
+Période sidérale : Temps qui s'écoule entre deux passages de l'objet devant une étoile distante. C'est la période « absolue » au sens newtonien du terme.
+Période anomalistique : temps qui s'écoule entre deux passages de l'objet à son périastre. Selon que ce dernier est en précession ou en récession, cette péri

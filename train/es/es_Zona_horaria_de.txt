@@ -1,0 +1,28 @@
+La hora de la India es el huso horario que se utiliza en toda la India, con un desplazamiento horario de UTC +5:30. La India no utiliza el horario de verano ni ningún otro tipo de ajuste horario temporal, aunque el horario de verano se usó de forma breve durante la Guerra Sino-India de 1962 y la Guerra Indo-Pakistaní de 1965 y de 1971. En términos de tiempo militar y de aviación, la hora de la India se indica con E* (Echo-Star).
+La hora de la India se calculó sobre la longitud 82,5° E, que se encuentra un poco al oeste de la ciudad de Mirzapur, cerca de Allahabad en el estado de Uttar Pradesh. La diferencia de longitud entre Mirzapur y el Real Observatorio de Greenwich en el Reino Unido es de exactamente 5 horas y 30 minutos en tiempo. La hora local se toma del reloj de la torre del Observatorio de Allahabad (25.15, 82.5) aunque los aparatos de medición de tiempo oficiales están en el Laboratorio Nacional de Física de Nueva Delhi.
+
+
+== Historia ==
+Una de las primeras muestras de «hora estándar» para toda la India data del tratado astronómico Suria-siddhanta, del siglo IV. El libro defendía que la Tierra era esférica y definía el meridiano primero (o longitud 0), como aquel que pasaba por Avanti, el antiguo nombre de la ciudad de Ujjain (23°10′58″N 75°46′38″E), y por Rojtak (28°54′N 76°38′E), una ciudad a 70 km al noroeste de Nueva Delhi y a unos 120 km al sur de donde se pensaba que había ocurrido la mítica batalla de Kurukshetra mencionada en el texto épico Majábharata (siglo III a. C.).
+{{cita|Situado sobre la línea que pasa por la guarida de los demonios [el ecuador y 76º Este] y el monte Meru [la montaña sobre la que se sientan los dioses, posiblemente el Polo norte], están Rojitaka y Avanti.
+En la antigüedad los astrónomos indios consideraban que el día empezaba al amanecer en el meridiano principal de Ujjain, y se dividía en unidades de tiempo más pequeñas de la siguiente manera:
+
+La hora que se puede medir es aquella que se usa, empezando por el prana (la duración de una respiración). El pala contiene seis pranas. La ghalikā son 60 palas, y el nakṣatra ahórātra (o día astronómico) contiene 60 ghalikās. Un nakṣatra māsa (o mes astronómico) consiste de 30 días.
+
+Si se toma un día de 24 horas, la unidad de tiempo más pequeña, el prana o ciclo respiratorio, equivale a 4 segundos, un valor que es coherente con la frecuencia normal de respiración de 15 respiraciones por minuto usada en la investigación moderna medicinal.
+
+
+== Problemas ==
+Se ha demostrado que tener solo un grande huso horario es más caro, y requiere que se replaneen las actividades para hacerlas compatibles con el resto de la zona o con el ciclo del día. La distancia de este a oeste del país es de más de 2.000 kilómetros y cubre más de 28 grados de longitud, lo que hace que el Sol salga y se ponga dos horas antes en la frontera este de la India que en el Rann de Kutch, en el extremo oeste. Los habitantes de los estados del noroeste han pedido durante mucho tiempo un huso horario independiente para poder adelantar sus relojes con el temprano amanecer y así evitar el consumo mayor de energía tras las horas de luz.
+A finales de los años 1980, un equipo de investigadores propuso separar el país en dos o tres husos horarios para ahorrar energía, según las zonas horarias de la época colonial británica. Sin embargo, las recomendaciones no se siguieron. 
+En 2001, el gobierno creó un comité de cuatro miembros bajo la supervisión del Ministerio de Ciencia y Tecnología para estudiar la necesidad de varios husos horarios y el ahorro de luz. Los resultados conseguidos por el comité, que se presentaron al Parlamento en 2004 por el Ministro de Ciencia y Tecnología Kapil Sibal, no recomendaban cambios en el actual sistema unificado, ya que «el meridiano primario se escogió como referencia a una estación central, y que la extensión de la República de la India no es tan amplia».
+Aunque el gobierno ha negado a dividir el país en múltiples husos horarios, algunas leyes laborales como la Ley de Trabajo en Plantaciones de 1951, permiten el gobierno central y los estados definir una hora local para determinadas zonas industriales.
+
+
+== Señales horarias ==
+El Laboratorio de Frecuencias Patrones y Hora del Laboratorio Nacional de Física, ubicado en Nueva Delhi, genera las señales horarias para uso comercial tanto como oficial. Las señales se calculan según los relójes atómicos de esta instalación y se sincronizan con el sistema mundial de los relójes que apoyan el UTC (tiempo universal coordinado).
+Entre las características del laboratorio se destacan:
+Cuatro relojes atómicos de cesio y rubidio;
+Un servicio de alta frecuencia que transmite con una potencia de 10 MHz bajo las siglas ATA, con que el usuario se puede sincronizar su reloj hasta el milisegundo;
+El Sistema Nacional de Satélites de la India, un servicio que transmite la hora y las frecuencias oficiales a través de los satélites, el cual oferece la hora estándar de la India ±10 microsegundos y con calibración de frecuencia hasta ±10−10; y
+Calibraciones de la hora y las frecuencias que se llevan a cabo por medio de contadores de frecuencia y grabadoras de fase que registran intervalos de tiempo hasta la nivel de los picosegun

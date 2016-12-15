@@ -1,0 +1,87 @@
+
+Dados dois triângulos semelhantes ABC e MNP, vamos analisar a razão de semelhança entre a razão entre suas áreas e sua razão de semelhança.
+
+Sejam  e  dois triângulos semelhantes, sendo  a razão de semelhança entre seus lados:
+, então temos 
+Demonstração: Como  e , temos pelas áreas dos triângulos:
+
+Portanto, dados dois triângulos com razão de semelhança  entre seus lados correspondentes, a razão de semelhança entre suas áreas será .
+
+
+==== A prova do teorema de Pitágoras e outras relações métricas no triângulo retângulo através do cálculo de áreas ====
+Seja  um triângulo retângulo no vértice , onde a hipotenusa , e seus catetos  e , considerando ainda a altura relativa à hipotenusa , bem como as projeções dos catetos sobre a hipotenusa  e , temos:
+
+Vamos provar as seguintes relações através do cálculo de áreas:
+I. 
+II.  e 
+III. 
+Demonstração I:
+I.a) Calculando a área  a partir da base  e altura :
+
+I.b) Calculando a área  a partir da base  e altura :
+
+Decorre de I.a) e I.b) temos que .
+Logo 
+Demonstração II:
+II.a) Dado o triângulo , retângulo em , constrói-se quadrados sobre a hipotenusa  e os catetos  e , respectivamente de medidas ,  e . Depois prolonga-se a altura  até interceptar o lado  do quadrado  no ponto .
+
+Observando os segmentos paralelos  e , percebe-se dois triângulos  e  de mesma área, cujas bases medem  e as alturas medem .
+Assim, 
+Vejamos ainda na figura acima que, os triângulos  e  são congruentes pelo caso LAL, pois ,  e . Logo, . E como os segmentos  e  são paralelos temos que , visto que a base  e a altura  são comuns aos dois triângulos.
+Assim: , então 
+Daí, 
+II.b) De maneira análoga, é provado que 
+
+Como , temos nos triângulos  e  que , pois possuem a mesma base  e mesma altura , sendo assim:
+
+Temos ainda que os triângulos  e  são congruentes pelo caso LAL, pois ; ; . Então, como  temos:
+
+Portanto, da congruência  e , temos:
+
+Demonstração III:
+De maneira simplificada, somando as duas igualdades II.a) e II.b) temos:
+ e , logo 
+
+Como , temos:
+ (Teorema de Pitágoras)
+
+Pode-se obter uma demonstração mais elaborada do teorema de Pitágoras por meio do cálculo de áreas. Observando a figura da demonstração II. b) temos que:
+, pelo caso LAL, então . Temos também que  e . Daí, .
+
+Logo, .
+Por outro lado, da demonstração II. b), onde , pelo caso LAL, então . Temos ainda que  e . Daí, .
+
+Logo, .
+Portanto, analisando a área do quadrado  de acordo com as demonstrações II. a) e II. b), temos que:
+
+Concluindo, ,  e 
+
+Então,  (Teorema de Pitágoras)
+
+
+=== Área de um trapézio ===
+No trapézio  de altura , temos os lados paralelos  e , tal que  e .
+
+Demonstração: Vamos supor, sem perda de generalidade, que , e traçar pelo vértice  um segmento paralelo ao lado  de forma que intercepte o lado  no ponto . Assim, como  e , temos o paralelogramo  de altura  e base , e temos ainda um triângulo  de base , e altura .
+Note que:
+
+Portanto,
+
+
+=== Área de um losango ===
+De acordo com o corolário: Se ABCD é um losango de diagonais AC e BD, então  .
+Demonstração: Dado o losango , cujas diagonais interceptam-se no ponto , simultâneamente, ponto médio de ambas as diagonais  e .
+
+Como , os triângulos determinados pelas diagonais  e , são isósceles e como  é ponto médio destas diagonais, temos que, , , portanto os triângulos  e  são congruentes pelo caso LAL, assim como os triângulos  e , pelo mesmo caso.
+Sendo assim, vamos mostrar a área do losango através dos triângulos determinados pela diagonal .
+
+.
+Como , temos:
+
+
+== Ver também ==
+Unidades de área
+Volume
+
+
+== Referências ==

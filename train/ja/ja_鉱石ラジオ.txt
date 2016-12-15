@@ -1,0 +1,68 @@
+鉱石ラジオ（こうせきラジオ）（英: crystal radio）とは、方鉛鉱や黄鉄鉱などの鉱石の整流作用を利用したAMラジオ受信機のことである。真空管ラジオが普及する以前に広く用いられた。
+現在でも、当時の機器を模したキット等が発売されており、科学実験の素材として人気がある。
+
+
+== 鉱石の整流作用 ==
+
+AM（振幅変調）受信機（ラジオ）のうち、構造が最も簡単なものは、
+アンテナ、アース
+同調回路
+検波回路
+受話器（レシーバー）
+から構成される。このうち検波（復調）回路に鉱石検波器を用いたものが鉱石ラジオである。
+振幅変調の電波を受信する場合、電波（振幅変調された高周波の電気信号）から音声信号（低周波の電気信号）を取り出す（包絡線検波による）には、電流を一方向にだけ流す整流作用を持つ素子に電気信号を通す必要がある。方鉛鉱、黄銅鉱などの結晶の表面の適切な位置に細い金属線（「猫のひげ」と呼ばれた）を接触させると、整流作用を示す。これにより、放送を受信できる。鉱石へ接触させる金属線（針）の接触位置によって整流の状態が大きく変わるため微妙な調整が必要である。
+包絡線検波には、整流後、放送電波由来の高周波成分を除去するローパスフィルタが必要である。しかし、実際には聴取に利用する圧電イヤホンの特性から、ローパスフィルタなしでも聴取可能である。
+鉱石ラジオはアンテナから受けた電波のみを電源として利用するため、検波によって得られる音声信号は非常に微弱である。そのためレシーバーも微弱な電流を音声に変えられるものが必要になる。鉱石ラジオが発明された当時はマグネチックレシーバーなどが主流だったが、後にロッシェル塩などの結晶を用いた圧電素子による圧電イヤホン（クリスタルイヤホン）が登場する。ロッシェル塩の潮解性などのために、現代では圧電イヤホンはセラミックによる圧電素子を用いたもの（セラミックイヤホン。これをクリスタルイヤホンと呼んでいることもある）を使用する。
+
+
+=== 使用される鉱石 ===
+方鉛鉱
+黄鉄鉱
+紅亜鉛鉱
+黄銅鉱
+多にも検波器として使用できる鉱石は多数
+
+
+== ゲルマラジオ ==
+
+上記の鉱石の代わりに、ゲルマニウムダイオードを用いたラジオをゲルマラジオまたはゲルマニウムラジオと呼ぶ。ゲルマニウムダイオードは鉱石よりも小さく、安定した性能が得られる。ゲルマニウムダイオードが出現した当時は既に真空管が広く使用されており、さらに直後にトランジスタの普及によりトランジスタラジオに取って代わられたため、ゲルマラジオが実用されたのは限られた用途と期間であった。しかし、現在でも電子工作の入門用としては定番のテーマとなっている。
+ゲルマニウムダイオードはシリコンダイオードに比べ順方向降下電圧が小さく（前者は0.2V程度、後者は0.7V程度）、微弱な信号でも検波できる特性がある。イヤホンを鳴らすだけの電圧が検出されれば聴けるため、「無電源ラジオ」として若干の需要がある。順方向降下電圧は、ダイオードの順方向（電子記号の矢印の向き）に電流が流れ始める電圧で、ゲルマニウムダイオードの方が低い電圧から電気を通し、シリコンダイオードはゲルマニウムダイオードよりも高い電圧でなければ流れ難いということ。つまり、ゲルマニウムダイオードはシリコンダイオードよりも電気抵抗が小さく微弱な電流を整流する特性がある。
+ゲルマニウムダイオードの代用としては、ショットキーバリアダイオードを使用する、シリコンダイオードに順方向に0.4V程度のバイアスをかけて使用する（電源が必要となってしまうが）、などがある。
+
+
+== 主な構造的分類 ==
+もっとも構造が単純なものは塹壕ラジオである。塹壕ラジオは適当な板、木片（角材）、銅線、安全ピン、ゼムクリップ、カミソリの刃、エンピツの芯などでラジオを作るものである。　銅線を角材に巻いてコイルを作り、検波器は安全ピンに縛り付けたエンピツの芯をカミソリに接触させるものである。チューニングはコイルの任意の場所に針金を接触させ対応する周波数に当たる巻き数を得る。このラジオは戦時中に塹壕に缶詰となったアメリカ兵が暇つぶしに作った有名なラジオである。
+昭和中期に流行したμ同調式ゲルマラジオは、コイルの中に棒状のフェライトを出し入れして同調（チューニング）するラジオで、検波器はゲルマニウムダイオードが主流である。構造に無駄が無く、非常に工夫され小型のものが多く作られた。
+現在では贅沢な部品を使って楽しむことができる。図にあるように、コイル、バリコン、ゲルマニウムダイオードを使用するものである。このゲルマニウムラジオの場合、図にあるような単純なものから、ゲルマラジオ専門のコミュニティーともなるとダイオードのブリッジ回路まで利用した非常に高性能なものまである。 中には、変圧器（トランス）の昇圧を使用して電波の電力のみでスピーカーを鳴らしたり、とてつもない巻き数のコイルを内蔵したスピーカーの自作を行なう者まで様々。コイルやバリコンなどの部品に最高のものを使用するなど、その楽しみ方は多様で奥も深い。
+
+
+== 出典 ==
+
+
+=== 解説 ===
+The Xtal Set Society, Dedicated to once again building and experimenting with radio electronics.
+Building a simple crystal radio.Field, Simon Quellen, Scitoys.
+Stay Tuned. Crystal radio plans and projects.
+"SWDXER" ¨The SWDXER¨ - with general SWL information and radio antenna tips.
+Build the Mystery Crystal set A simple and surprisingly effective and sensitive design.
+A website that has instructions on many different kinds of crystal radios, including a design only incorporating an earphone and a diode
+A website that lots of information on early radio and crystal sets
+Hobbydyne Crystal Radios History and Technical Information on Crystal Radios
+Ben Tongue's Technical Talk Section 1 links to "Crystal Radio Set Systems: Design, Measurements and Improvement".
+"Semiconductor archeology or tribute to unknown precusors". earthlink.net/~lenyr.
+Nyle Steiner K7NS, Zinc Negative Resistance RF Amplifier for Crystal Sets and Regenerative Receivers Uses No Tubes or Transistors. November 20, 2002.
+Crystal Set DX? Roger Lapthorn G3XBM
+Building a crystal radio set A guide to building a simple crystal radio receiver.
+Website which has a large selection of homebuilt crystal and tube radios built by Dave Schmarder.
+The Bose Institute
+Varun Aggarwal of MIT's page on Bose
+
+
+=== 特許 ===
+アメリカ合衆国特許第766,840号 "Detector for Electrical Disturbances", 1904, Acharya Jagadish Chandra Bose
+アメリカ合衆国特許第836,531号 "Means for receiving intelligence communicated by electric waves", 1906. G. W. Pickard.
+アメリカ合衆国特許第876,996号 "Intelligence intercommunication by magnetic wave components", 1908. G. W. Pickard.
+アメリカ合衆国特許第956,165号, "Space communication", 1910. G. W. Pickard.
+アメリカ合衆国特許第1,206,911号, "System of radio communication", 1916. G. W. Pickard.
+アメリカ合衆国特許第1,224,499号, "Radio telegraphy and telephony receiver", 1917. G. W. Pickard.
+アメリカ合衆国特許第1,245,266号, "Radio telegraphy and telephony receiver", 1917. G. W. Pickard

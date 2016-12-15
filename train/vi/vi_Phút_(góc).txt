@@ -1,0 +1,13 @@
+Phút góc hay phút cung (còn nói tắt là phút; thuật ngữ tiếng Anh: minute of arc, arcminute, minute arc, viết tắt: MOA) là đơn vị đo góc; 1 phút góc tương đương 1⁄60 độ. Giây góc hay giây cung (tiếng Anh: second of arc hay arcsecond) là tiểu đơn vị của phút góc; 1 giây góc tương đương 1⁄60 phút góc, tức 1⁄3600 độ. Vì 1° được định nghĩa là bằng 1⁄360 của vòng tròn nên 1 phút góc bằng 1⁄21600 vòng, tức là π⁄10800 radian; một giây góc bằng 1⁄1296000 vòng, tức là π⁄648000 radian.
+Đơn vị này được dùng trong các ngành cần thể hiện góc nhỏ, chẳng hạn thiên văn học, đo thị lực, nhãn khoa, quang học, hàng hải,... Nếu cần đơn vị cho các góc nhỏ hơn nữa thì dùng thêm tiền tố SI, chẳng hạn milli giây góc (milliarcsecond, viết tắt: mas).
+
+
+== Ký hiệu và viết tắt ==
+Ký hiệu chuẩn cho phút góc là dấu phẩy trên đơn (′), nhưng trong các văn bản chỉ dùng ký tự ASCII thì người ta dùng dấu nháy đơn ('). Phút góc cũng thường được viết tắt là arcmin hoặc amin, đôi khi còn là  (dấu phẩy trên đi kèm dấu mũ).
+Ký hiệu chuẩn cho giây góc là dấu phẩy trên kép (′′), nhưng trong các văn bản chỉ dùng ký tự ASCII thì người ta dùng dấu nháy kép, hay còn gọi là dấu ngoặc kép ("). Giây góc cũng thường được viết tắt là arcsec hoặc asec.
+Lưu ý rằng còn có dạng thập phân phút góc, ví dụ 36° 27′,182.
+
+
+== Ứng dụng ==
+Phút góc và các tiểu đơn vị của nó được dùng trong bản đồ học và hàng hải. Độ dài tương ứng 1 giây góc đo tại bất kỳ kinh tuyến nào cũng xấp xỉ bằng một hải lý (1,852 km). Một giây góc ứng với khoảng 30 m. Khoảng cách này thay đổi dọc theo kinh tuyến vì Trái Đất có dạng hơi dẹt. Vĩ độ và kinh độ trong tọa độ địa lý thường cũng ở dạng độ, phút, giây. Bất cứ vị trí nào trên elipxôit tham khảo của Trái Đất cũng có thể được định vị chính xác bằng phương pháp này. Tuy nhiên, vì bản chất không được gọn ghẽ của cơ số 60 trong phút góc và giây góc nên thường thì người ta chỉ thể hiện tọa độ dưới dạng phân số hoặc dưới dạng số thập phân của độ, tất nhiên là phải chấp nhận sai số nhất định.
+Thiên văn học cũng dùng phút góc và giây góc khi đo xích vĩ. Giây góc cũng được dùng để thể hiện thị sai do thị sai sao có giá trị rất nhỏ và đường kính góc cũng rất nhỏ (chẳng hạn đối với sao Kim thì đường kính góc chỉ là 9.7″–66.0″). Thị sai, chuyển động riêng và đ

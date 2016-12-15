@@ -1,0 +1,52 @@
+Penjelajah web atau Peramban web (Inggris: web browser) adalah perangkat lunak yang berfungsi untuk menerima dan menyajikan sumber informasi di Internet. Sebuah sumber informasi diidentifikasi dengan pengidentifikasi sumber seragam yang dapat berupa halaman web, gambar, video, atau jenis konten lainnya.
+Meskipun penjelajah web terutama ditujukan untuk mengakses Internet, sebuah penjelajah juga dapat digunakan untuk mengakses informasi yang disediakan oleh server web dalam jaringan pribadi atau berkas pada sistem berkas. Beberapa penjelajah web yang populer adalah Google Chrome, Firefox, Internet Explorer, Opera, dan Safari.
+
+
+== Sejarah ==
+Penjelajah web pertama bernama bernama WorldWideWeb (tanpa spasi) diciptakan Tim Berners-Lee. Nama penjelajah tersebut kemudian diubah menjadi Nexus.
+Pada tahun 1993, Marc Andreessen melakukan inovasi penjelajah web dengan merilis Mosaic (kemudian Netscape), "perampan web populer pertama di dunia", yang membuat sistem Internet mudah digunakan dan lebih mudah diakses oleh orang kebanyakan. Penjelajah web Andreesen memicu ledakan popularitas di Internet pada tahun 1990-an. Andreessen, pemimpin tim Musa di NCSA, segera mendirikan perusahaan sendiri, bernama Netscape, dan merilis Mosaic-yang kemudian mempengaruhi Netscape Navigator pada tahun 1994, yang dengan cepat menjadi browser yang paling populer di dunia, menguasai 90% dari semua penggunaan penjelajah web di dunia (lihat bagian penggunaan web browser).
+Microsoft menanggapinya dengan menciptakan Internet Explorer pada tahun 1995, juga sangat dipengaruhi oleh Mosaic, dan memulai perang penjelajah web pertama di industri Internet. Dibundel dengan Windows, Internet Explorer memperoleh dominasi di pasar penjelajah web. Raihan penggunaan Internet Explorer memuncak dengan jumlah lebih dari 95% pada tahun 2002.
+Opera memulai debutnya pada tahun 1996, meskipun belum pernah mencapai penggunaan secara luas, memiliki kurang dari 2% pangsa penggunaan browser pada Februari 2012 menurut Net Applications. Versi mini Opera (Opera Mini) memberikan tambahan pangsa pasar, pada bulan April 2011 sebesar 1,1% pada penggunaan penjelajah web secara keseluruhan, tetapi terfokus pada pasar ponsel yang tumbuh cepat. Opera Mini terinstal pada lebih dari 40 juta ponsel. Opera Mini ini juga tersedia di beberapa sistem benam lain, termasuk konsol video game Nintendo Wii.
+Pada tahun 1998, Netscape meluncurkan apa yang kemudian akan menjadi Mozilla Foundation dalam upaya menghasilkan browser kompetitif dengan menggunakan model perangkat lunak sumber terbuka. Penjelajah web tersebut akhirnya akan berkembang menjadi Firefox. Hingga Agustus 2011, Firefox memiliki pangsa pasar 28% penjelajah web dunia.
+Safari merilis versi beta pada Januari 2003. Hingga April 2011, Safari memiliki pangsa dominan untuk penjelajah web berbasis Apple, dan menguasai lebih dari 7% dari pasar penjelajah web dunia.
+Pendatang baru di pasar penjelajah web adalah Google Chrome. Pertama kali dirilis pada bulan September 2008, popularitas Chrome meningkat secara signifikan dari tahun ke tahun, dengan menggandakan pangsa penggunaannya dari 8% menjadi 16% pada bulan Agustus 2011. Peningkatan ini berbanding terbalik dengan popularitas Internet Explorer yang cenderung menurun dari bulan ke bulan. Pada Desember 2011, Google Chrome menyalip Internet Explorer 8 sebagai web browser yang paling banyak digunakan namun tetap lebih rendah jika dibandingkan dengan jumlah gabungan semua versi Internet Explorer yang digunakan.
+
+
+== Fitur web dan penjelajah web ==
+Penjelajah web bisa dibedakan lewat fitur-fitur yang mereka dukung. Penjelajah modern dan halaman web biasanya menggunakan banyak fitur dan teknik yang tidak ada pada masa-masa ANAL web. Disebabkan adanya perang Penjelajah web, fitur-fitur Web dan Penjelajah web semakin cepat dikembangkan.
+Berikut daftar beberapa elemen dan fitur-fitur tersebut:
+ActiveX
+Autocompletion (Pengisian otomatis) URL dan formulir data
+Markah buku untuk mengikuti lokasi yang sering diakses
+Cascading Style Sheets (CSS)
+Kuki yang membolehkan sebuah website untuk mengetahui seorang pengguna lama
+Tembolok web - Halaman web "disimpan" dalam memori ketika kita membukanya agar dapat diakses lagi walaupun sedang offline
+Digital certificate (Sertifikat Digital)
+Pemuatan gambar menggunakan format gambar yang sudah terkenal seperti GIF, PNG, JPEG, SVG
+Flash
+Favicon
+Font, ukuran, warna
+Formulir untuk mengirimkan informasi
+Frame dan IFrames
+Gambar
+Integrasi dengan aplikasi desktop lainnya
+Offline browsing (Penjelajah Tertutup) terhadap isi web yang sudah disimpan terlebih dahulu
+Java applet
+JavaScript untuk isi yang lebih dinamis
+Pengaturan pengunduhan
+Penyaringan iklan (Ad filtering)
+Plug-in
+Sejarah kunjungan ke halaman-halaman web terakhir
+Session management
+Tabbed browsing
+Tabel
+XHTML dan XML
+DHTML
+HTTPS
+"Small-Screen Rendering" ("penampilan pada Layar-Kecil") dari Opera adalah suatu cara memformat ulang halaman web agar dapat masuk ke dalam layar yang kecil, misalnya dalam sebuah ponsel, sekaligus operasi gulung (scroll) horisontal tidak diperlukan lagi.
+
+
+== Penjelajah web menurut pangsa pasar ==
+
+Data berikut ini yang diperoleh onestat.com menunjukkan proporsi panguna yang menggunakan satu dari Penjelajah-Penjelajah utama. Data tersebut - yang dikumpul pada November 2004 - diperoleh dengan melihat string agen pengguna 2.000.000 pengguna yang mengunjungi berbagai situs-situs web yang berbeda di 100 negara. [1]
+(Perlu diperhatikan bahwa statistik ini tidak dapat dijadikan pegangan untuk menunjukkan penggunaan sebenarnya karena adanya sesuatu yang dinamakan "pembohongan agen pengguna"

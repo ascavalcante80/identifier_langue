@@ -1,0 +1,16 @@
+ue la bibliothèque multimédia XBMC récupère les informations sur les médias qu'elle gère (affiches et résumés des films et séries TV, jaquette des albums, etc) sur différents sites tels que IMDb ou AlloCiné au moyen de scrapers dédiés.
+
+
+=== Lien externe ===
+(fr) Le Scrapathon
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+Application composite
+Agrégateur
+Robot d'indexation
+ Portail de l’informatique
+ Portail d’Internet

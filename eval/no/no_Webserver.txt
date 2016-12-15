@@ -1,0 +1,5 @@
+ den måten styre adgangen. Webservere må vedlikeholdes med de nyeste sikkerhetsoppdateringer, for å forhindre innbrudd i systemet.
+
+
+== Eksempler på webservere ==
+Som eksempler kan nevnes: Apache, Tux, Roxen og IIS.

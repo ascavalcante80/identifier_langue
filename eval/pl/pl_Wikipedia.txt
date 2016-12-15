@@ -1,0 +1,34 @@
+GNU General Public License i wykorzystane we wszystkich projektach Wikimedia Foundation.
+
+Wikipedia była obsługiwana przez jeden serwer do 2003, gdy instalacja serwerów została rozbudowana do architektury wielowarstwowej. W styczniu 2005 projekt uruchomiony był na 39 serwerach dedykowanych, znajdujących się na Florydzie. Ta konfiguracja zawierała jeden główny serwer bazy MySQL, kilka serwerów zależnych, 21 serwerów sieci Web z serwerem Apache oraz siedem serwerów cache Squid. We wrześniu 2005 liczba serwerów wzrosła do około 100. Są one zgromadzone w czterech miejscach na świecie.
+Żądania wyświetlenia stron są wykonywane najpierw przez serwery pamięci podręcznej Squid. Żądania, które nie mogą zostać przez nie wykonane, wysyłane są do dwóch serwerów z oprogramowaniem Perlbal, które wysyłają żądanie do serwera Apache o zapytanie do bazy danych o dany artykuł. Serwery sieci Web wysyłają strony na żądanie dla wszystkich edycji językowych Wikipedii. Aby jeszcze bardziej przyspieszyć wyświetlanie stron, strony wyświetlane przez anonimowych użytkowników zapisywane są w plikach pamięci podręcznej, aby nie było potrzeby ciągłego generowania danej strony. Wikimedia Foundation rozpoczęła budowanie globalnej sieci serwerów pamięci podręcznej. Trzy takie serwery znajdują się we Francji oraz jeden w Holandii i jeden w Korei Południowej. Dzięki temu ładowanie stron Wikipedii nie przekracza zwykle 15 sekund. Aktualny status Wikipedii jest raportowany przez użytkowników na stronie Wikipedia’s Status (do września 2007 funkcjonowała też strona „Wikipedia Status” w serwisie „OpenFacts, the Open Source Knowledge Database”).
+
+
+== Fundusze ==
+Wikipedia utrzymywana jest z pieniędzy gromadzonych przez Wikimedia Foundation. Na początku istnienia Wikipedii, zanim powstała Wikimedia Foundation, ważną rolę w zakresie finansowania i udostępniania własnej infrastruktury odegrała firma Bomis.
+
+
+== Inne encyklopedie internetowe ==
+Pomimo tego, że istnieją (bądź istniały) inne projekty internetowych encyklopedii, żaden z nich nie osiągnął wielkości i popularności Wikipedii. Wiele encyklopedii internetowych, na przykład Stanford Encyclopedia of Philosophy, H2G2, Everything2 i nieistniejąca już Nupedia, różnią się od Wikipedii tym, że ich mechanizm wymusza pisanie artykułów przez jedną osobę, a później recenzowanie przez rady redakcyjne. W projektach takich jak: Wikipedia, Susning.nu, Enciclopedia Libre, Wikiznanije artykuły mogą być pisane przez wielu autorów, a wynik ich pracy jest widoczny od razu, bez czekania na formalny proces recenzji artykułów. Wikipedia stała się największą encyklopedyczną wiki zarówno według liczby artykułów, jak i zawartych w nich wyrazów. W przeciwieństwie do większości encyklopedii jej treść udostępniana jest na wolnej licencji.
+
+
+== Projekty siostrzane ==
+Pierwszym siostrzanym projektem Wikipedii był „In Memoriam: September 11 Wiki”, który został stworzony w październiku 2002 w celu uszczegółowienia artykułów na temat zamachu na World Trade Center. 12 grudnia 2002 r. uruchomiony został projekt słownika – Wikisłownik. Od 10 lipca 2003 r. tworzona jest kolekcja cytatów – Wikicytaty, jak i zbiór dostępnych za darmo poradników, podręczników i innych opracowań edukacyjnych – Wikibooks. 24 listopada 2003 stworzona została wolna baza tekstów źródłowych – Wikiźródła. 7 września 2004 r. powstało Wikimedia Commons – repozytorium ilustracji, zdjęć i plików multimedialnych dla wszystkich wersji językowych Wikipedii i projektów Wikimedia Foundation. 13 września 2004 r. zaczęło się tworzenie Wikispecies – bazy danych o organizmach żywych. Od 3 grudnia 2004 działa Wikinews, będący serwisem informacyjnym obywatelskiego dziennikarstwa. Wikiversity został wyodrębniony 15 sierpnia 2006 r. z Wikibooks dla tworzenia, gromadzenia i używania wolnych materiałów do nauki i ćwiczeń oraz prowadzenia projektów dydaktycznych. Najmłodszym projektem są Wikidane – wolna baza danych, takich jak np. daty urodzin lub inne jednoznaczne dane przechowywane we wspólnym repozytorium, z którego korzystają wszystkie wersje językowe Wikipedii.
+
+
+== Zobacz też ==
+
+Krytyka Wikipedii
+Nonsensopedia
+Encyklopedia Britannica
+Wikimedia Polska
+(274301) Wikipedia
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Wikipedia.org, wielojęzyczny portal
+Lista wersji językowych Wikipedii.
+Porównanie Wikipedii i Encyklopedii Britannica przez czasopismo Nature i polemika ze strony Encyklopedii Britannica (ang.)

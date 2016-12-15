@@ -1,0 +1,59 @@
+Pojmem deformace tělesa rozumíme změnu jeho tvaru. Těleso mění tvar v důsledku působení síly. Silové působení mění vzájemné polohy atomů, ze kterých se těleso skládá. V případě, že se po odstranění působící síly těleso vrátí do původního tvaru, mluvíme o pružné (elastické) deformaci. Pružné deformace se vyskytují u pružných látek. V důsledku působení sil může rovněž dojít k nevratným změnám v poloze atomů tělesa. Tvar tělesa se po odstranění působící síly již nevrátí do původního stavu. V takovém případě mluvíme o nepružné deformaci popř. úžeji o plastické deformaci. Tyto deformace lze pozorovat např. u plastických látek.
+Zůstávají-li během deformace body původně ležící v jedné rovině ve stejné rovině i po deformaci, označuje se taková deformace jako rovinná.
+Síly působící na těleso lze rozlišovat podle druhu napětí, které v tělese vyvolávají na tahové, tlakové, smykové, ohybové nebo torzní. Tyto síly bývají také označovány jako deformační síly.
+Neuvažuje-li se při popisu tělesa jeho deformace, mluvíme o tuhém tělesu.
+
+
+== Deformace v mechanice kontinua ==
+V mechanice kontinua lze deformace popsat srovnáním deformovaného a nedeformovaného stavu kontinua.
+V čase  můžeme popsat polohu částic kontinua jako . V čase  pak bude poloha odpovídajících částic určena jako . Lze definovat vektor posunutí  jako
+
+Vektor posunutí má tedy počátek v místě, kde se částice nacházela na počátku sledovaného pohybu a konec v místě konečné polohy částice. Pomocí vektoru posunutí je možné deformační pohyb popsat jako
+
+Tento vztah však v sobě zahrnuje nejen deformaci, ale také posunutí a otáčení kontinua jako celku. Pro popis deformací by však bylo vhodné získat z tohoto vztahu pouze část, která je za deformace odpovědná. Toho se dosáhne na základě předpokladu, že při deformacích dochází ke změnám vzdáleností částic kontinua.
+Uvažujeme-li libovolný bod  kontinua a v jeho okolí bod , pak na konci deformačního pohybu se bod z  přesune do bodu  a bod  do bodu . Označíme-li vektor posunutí odpovídající bodu  jako  a vektor posunutí odpovídající bodu  jako , a uvažujeme-li pouze blízké okolí bodu , můžeme použít zápis
+
+Na počátku děje je vzdálenost mezi body  a  určena jako . Na konci děje je vzdálenost částic nacházejících se původně v bodech  a  určena jako  (kde bylo použito Einsteinovo sumační pravidlo). K popisu deformace kontinua v okolí bodu, jehož počáteční souřadnice jsou  a konečné , se použije rozdíl čtverců uvedených délek, tzn. výraz
+
+Úpravou předchozích vztahů pak dostáváme
+
+kde byl zaveden tzv. tenzor velkých deformací
+
+Tenzor velkých deformací je funkcí souřadnic, tzn. , a je to symetrický tenzor druhého řádu.
+
+
+=== Tenzor malých deformací ===
+Jsou-li deformace malé, jsou malé také změny vektoru posunutí  se souřadnicemi , tzn. jsou malé také parciální derivace . V takovém případě je v tenzoru velkých deformací člen  malý ve srovnání s členy  a  a můžeme jej zanedbat. V takovém případě lze deformaci popsat tzv. tenzorem malých deformací
+
+Pro malé deformace lze tedy platí
+
+Vyjdeme-li z deformovaného stavu, lze tenzor malých deformací zavést vztahem
+
+a platí
+
+Pro malé deformace jsou velikosti posunů  v nedeformovaném stavu a jim odpovídající  v deformovaném stavu přibližně stejné a není tedy nutno rozlišovat mezi tenzory malých deformací v nedeformovaném a deformovaném stavu, což znamená, že tenzory malých deformací  a  můžeme považovat za ekvivalentní.
+Často se používá rozklad tenzoru  na izotropní část a deviátor
+,
+kde  je stopa tenzoru malých deformací a  je Kroneckerovo delta. Označuje se
+
+jako izotropní část a
+
+jako deviátor deformací.
+
+
+==== Význam složek tenzoru malých deformací ====
+Význam diagonálních složek tenzoru  lze určit následující úvahou.
+Výraz  je čtverec délky zvoleného elementu látky před deformací. Použijeme pro něj označení . Podobně pro výraz , který označuje čtverec délky zvoleného elementu po deformaci, použijeme označení . Potom platí
+
+Pro malé deformace je , takže lze levou stranu pomocí přibližného vztahu , čímž získáme
+
+Složka tenzoru  malých deformací tedy odpovídá relativní změně délky elementu, který byl původně rovnoběžný s osou  kartézské soustavy souřadnic. Podobně složky  a  přestavují relativní změny délek elementů, které byly původně rovnoběžné s osami  a .
+Pro určení významu nediagonálních složek lze vyjít z rovinné deformace v rovině dané kartézskými osami . Tenzor malých deformací má v takovém případě nenulové pouze složky . Uvažujeme-li deformaci, při které jsou nenulové pouze složky se smíšenými indexy, tzn. , pak element, který byl před deformací rovnoběžný s osou , tzn. lze jej před deformací popsat vektorem , lze po deformaci popsat vektorem , kde  je složka vektoru posunutí podél osy . Pro úhel  mezi vektory  a  platí
+
+Podobně lze pro element, který byl před deformací rovnoběžný s osou , který je možné před deformací popsat vektorem , určit složky tohoto elementu po deformaci jako . Pro úhel  mezi vektory  a  platí
+
+Pro malé deformace lze použít aproximaci , což umožňuje psát
+
+Smíšená složka tenzoru deformace  tedy odpovídá polovině úhlu , o který se při deformaci změní pravý úhel mezi elementy původně rovnoběžnými s kartézskými osami  a . Úhel  se nazývá úhel smyku.
+V obecném případě, kdy nejde o rovinnou deformaci, mohou mít elementy původně rovnoběžné s první nebo druhou kartézskou osou po deformaci také složky ve směru třetí osy. Tyto složky jsou však tak malé, že nemají podstatný vliv na úhel mezi elementy po deformaci. Složka  má tedy i v takovém případě stejný význam jako v případě rovinné deformace.
+Obdobným způsobem lze položit složku  rovnu polovičnímu úhlu smyku mezi první a třetí souřadnicovou osou a složku  rovnu

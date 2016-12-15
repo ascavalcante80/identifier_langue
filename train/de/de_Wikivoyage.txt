@@ -1,0 +1,64 @@
+Wikivoyage [ˌvɪkivo̯aˈjaːʒ] (englisch [ˌvɪkiˈvɔjɪdʒ]) ist ein von ehrenamtlichen Autoren erstellter freier Führer rund ums Reisen. Im Vordergrund von Wikivoyage steht die Bereitstellung von praktisch anwendbarem Wissen zu Reisezielen und Reisethemen. Die Bezeichnung setzt sich aus den Bestandteilen „Wiki“ und dem französischen Wort „voyage“ für Reise zusammen.
+Das im September 2006 vom gleichnamigen, überregional tätigen Verein Wikivoyage e. V. gegründete und seit dem 10. Dezember 2006 im Internet verfügbare Projekt versteht sich in jeder Hinsicht als frei: Seine Inhalte stehen unter der Copyleft-Lizenz Creative Commons Attribution-ShareAlike – die auch eine kommerzielle Nutzung zulässt –, und sie sind sowohl als Online- als auch als downloadbare Offline-Version frei und unentgeltlich verfügbar.
+Ab Mitte 2012 gab es Bestrebungen, Wikivoyage zukünftig als Projekt der Wikimedia Foundation fortzusetzen. Seit Anfang November 2012 wurden die Artikel und Mediendateien auf Server der Wikimedia Foundation übertragen. Offizieller Starttermin dieses Projekts war der 15. Januar 2013.
+
+
+== Geschichte ==
+
+Die Geschichte reicht bis zum 7. Oktober 2004 zurück, als viele der heutigen Autoren und Administratoren in gleicher Form den Aufbau des deutschen Zweiges von Wikitravel vorantrieben. Insbesondere im deutschsprachigen Raum war die Enttäuschung groß, als am 20. April 2006 der Verkauf von wikitravel.org an das Internet-Werbeunternehmen Internet Brands bekannt gegeben wurde. Die zusätzliche Unzufriedenheit mit dem Führungsstil des Projektes führte zum Entschluss der meisten deutschen Administratoren und Autoren, das Projekt als Abspaltung fortzusetzen.
+Nach einer halbjährigen Vorbereitungsphase gründete sich am 30. September 2006 in Stuttgart der inzwischen eingetragene und als gemeinnützig anerkannte Verein Wikivoyage, der Eigentümer der Domains und Betreiber der Webserver ist. Am 10. Dezember 2006 startete das Projekt im Internet mit dem von Wikitravel übernommenen Datenbestand. Bereits vier Monate später waren schon 30 % des Artikelbestandes neu.
+Zunächst wurde nur ein deutschsprachiges Wikivoyage unterhalten. Die Bestandshaltung der Mediendaten und die Verwaltung der Nutzerzugänge waren bereits auf eine Nutzung mit verschiedensprachigen Zweigen vorbereitet.
+Kurz nach dem Start verfügte Wikivoyage über den größten Wiki-basierten Bestand an Reiseinformationen im deutschsprachigen Raum. Auch wenn es noch einige Lücken gab, gab es beispielsweise für die Reiseziele Ägypten, Thailand und die Schweiz beziehungsweise für das Reisethema Radfahren bereits umfangreiche Informationen. Trotz des damals noch geringen Bestandes von etwa 4500 Artikeln Ende Juni 2007 war das Projekt bereits Thema insbesondere im Schweizer Rundfunk und der Presse.
+Am 10. Dezember 2007 wurde mit dem italienischen Wikivoyage die zweite Sprachversion eröffnet.
+Fünf Jahre nach dem Start, im Dezember 2011, verfügte die deutschsprachige Version über 11.400 Artikel mit 26.300 Bildern und Grafiken.
+
+
+=== Organisation und Betrieb bis November 2012 ===
+
+
+==== Funktionsweise ====
+Ähnlich wie die freie Enzyklopädie Wikipedia setzte Wikivoyage von Anfang an die freie Software MediaWiki ein, um eine anmeldungsfreie, internetbasierte Nutzung einschließlich der eigenen Autorenschaft zu ermöglichen. Die Qualitätssicherung erfolgte in gleicher Weise wie bei Wikipedia mittels wechselseitiger Kontrolle durch die Nutzer. Die Verwendung der gleichen Software sollte die Einarbeitung in die Nutzung von Wikivoyage vereinfachen.
+
+
+==== Lizenz ====
+Auf Wikivoyage wurde die Creative Commons Attribution-ShareAlike-Lizenz eingesetzt. Dies sollte insbesondere die Herstellung von gedruckten Führern juristisch vereinfachen. Für Bilder und andere Medien wurden nicht dieselben Lizenzen präferiert. Im Gegensatz zu den Texten wurde die Verwendung von gemeinfreien oder doppelt lizenzierten (GNU, Creative Commons) Mediendateien angestrebt.
+
+
+==== Informationsstruktur ====
+Im Gegensatz zu Lexika war der Informationsbestand deutlich hierarchischer aufgebaut. Zu einer Thematik gehörende Artikel wurden sowohl mit den aus der Mediawiki-Software bekannten Kategorien als auch mit Brotkrümelnavigation, die die Zugehörigkeit zu anderen Artikeln anzeigt, gruppiert. Im Artikelnamensraum wurden aber keine Kategorien geführt.
+Zur Trennung verschiedener Themen wurden verschiedene Namensräume eingesetzt. Der Hauptnamensraum umfasste Reiseziele in ihrer geografischen Hierarchie. Zwei weitere wichtige Namensräume waren den Reisethemen und Reisenachrichten vorbehalten. Eine enge Verflechtung von Reisezielen und -themen war möglich.
+Die inhaltliche Gestaltung der Artikel oblag den Autoren bzw. der Community, nicht dem Verein.
+
+
+==== Trägerschaft Wikivoyage e. V. ====
+Das Wiki „Wikivoyage“ wurde vom überregional tätigen Verein Wikivoyage e. V. mit Sitz in Halle (Saale) betrieben. Dem Verein gehören Mitglieder aus ganz Deutschland und aus der Schweiz an.
+Mit der Vertragsunterzeichnung vom 3. November 2012 zwischen der Wikimedia Foundation und dem Wikivoyage e. V. wurde Wikivoyage ein Projekt der Wikimedia Foundation und ein Schwesterprojekt der Wikipedia.
+Der Verein bleibt weiter bestehen und hat den Namen Wikivoyage lizenziert. Er hat den Antrag auf Anerkennung als eine thematische Organisation der Wikimedia Foundation gestellt.
+
+
+==== Finanzierung ====
+Wikivoyage finanzierte sich aus Spenden und Mitgliedsbeiträgen des Wikivoyage e. V.
+
+
+=== Vorbereitung zur Schaffung eines neuen Wikimedia-Schwesterprojekts ===
+Am 20. März 2012 wurde das Vorstandsmitglied des Wikivoyage e. V., Roland Unger, von James Heilmann, Präsident des kanadischen Chapters der Wikimedia Foundation und Mitglied des Sister Projects Committee zur Etablierung neuer Projekte der Wikimedia Foundation, angefragt, ob Wikivoyage nicht mit der Wikimedia Foundation zusammenarbeiten wolle. James Heilmann vertrat mehrere unzufriedene Autoren und Administratoren des englischen Zweigs von Wikitravel, die selbst nicht öffentlich auftraten und ihre Diskussion in einer „konspirativen“ Google-Gruppe durchführten.
+Bereits am 11. März 2012 veröffentlichte James Heilmann einen Request for Comments (Kommentaranfrage) mit dem Ziel der Schaffung eines Reiseführer-Wikis. Neben vieler Zustimmung für ein derartiges Projekt wurde hier intensiv die Frage nachgegangen, ob denn Reiseführer-Informationen förderwürdiges Wissen darstellten. Zumindest konnte diese Frage schlussendlich bejaht werden. Am 27. Mai 2012 leitete James Heilmann den Vorschlag an die Wikimedia Foundation weiter. Dem Vorschlag wurde am 6. September 2012 entsprochen.
+Auf der 13. Mitgliederversammlung des Wikivoyage e. V. am 9. Juni 2012 in Köln wurde beschlossen, Verhandlungen mit der Wikimedia Foundation über ein neues Schwesterprojekt aufzunehmen.
+Seit dem 18. August 2012 betreibt der Wikivoyage e. V. einen weiteren Server, um die Migration weiterer Sprachversionen voranzutreiben. Am 23. September 2012 wurde der englische Zweig, am 29. September 2012 der niederländische Zweig, am 3. Oktober 2012 der französische Zweig, am 6. Oktober 2012 der schwedische Zweig und am 18. Oktober 2012 der russische Zweig freigegeben.
+Die Wikimedia-Gemeinde hat sich mit großer Mehrheit für die Beibehaltung des Namens Wikivoyage für das zukünftige Wikimedia-Schwesterprojekt entschieden.
+Mit der Vertragsunterzeichnung vom 3. November 2012 zwischen der Wikimedia Foundation und dem Wikivoyage e. V. wird Wikivoyage ein Projekt der Wikimedia Foundation und ein Schwesterprojekt der Wikipedia. Etwa Mitte November 2012 wurden die bisher erstellten Artikel auf Server der Wikimedia Foundation transferiert.
+Am 10. November 2012 ist Wikivoyage im Beta-Status in den sieben Sprachen Deutsch, Englisch, Französisch, Italienisch, Niederländisch, Russisch und Schwedisch als Wikimedia-Projekt gestartet. Die deutsche Sprachversion umfasste zu diesem Zeitpunkt 12.067 Artikel.
+Am 15. Januar 2013 wurde der Start des neuen Projekts der Wikimedia-Stiftung offiziell verkündet.
+Am 31. Mai 2013 gab die Wikimedia Foundation bekannt, dass das neue Projektlogo, welches von der Community in einem zweistufigen Prozess gewählt worden war, ersetzt werden müsse, weil es demjenigen der Welthandelsorganisation (WTO) zu ähnlich sei.
+
+
+== Weiterverbreitung ==
+Eine Weiterverbreitung z. B. durch Spiegelserver ist rechtlich zulässig und erwünscht. Zu diesem Zweck werden wöchentlich aktuelle Archive bereitgestellt. Die in diesen Archiven enthaltenen Dateien sind mit allen lizenzrechtlich nötigen Angaben, der Attributierung der Autoren, versehen. Eine programmtechnische Erweiterung bezüglich der Nennung der Bildautoren ist in Vorbereitung.
+Die Wahl der "Creative Commons Attribution-ShareAlike"-Lizenz ermöglicht eine vereinfachte Weitergabe unter Nennung der Autoren ohne Mitgabe des vollständigen Lizenztextes.
+
+
+== Sprachversionen ==
+
+
+== Geografische Abdeckung ==
+Die geografische Abdeckung in den einzelnen Sprachversionen ist unterschiedlich und hängt stark von der Herkunft und den Vorlieben der Autoren bzw. Reisenden ab. Im englischen Zweig behandeln mehr als ein Viertel der Artikel Reiseziele in den USA. Länder, in denen Englisch als Muttersprache gesprochen wird, sind mit über 50 Prozent der Artikel vertreten. Mit großem Abstand folgen die Reiseländer Indien, das Vereinigte Kön

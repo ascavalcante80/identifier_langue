@@ -1,0 +1,10 @@
+rcunferência inicial do passo 3, isto produzirá sobre a mesma linha dois pontos que são vértices opostas do quadrado e também os extremos de uma das diagonais.
+Repetindo o passo anterior, mas agora com o outro ponto do passo 6 e o ponto central O, obterá os dois pontos que são as vétices opostas do quadrado e também os estremos da segunda diagonal.
+Então, unindo de modo cíclico com linhas retas os quatro pontos de vertice encontrados nos passos anteriores, obterá finalmente o quadrado.
+
+
+== Ver também ==
+Lista de construções do desenho geométrico
+
+
+== Referências ==

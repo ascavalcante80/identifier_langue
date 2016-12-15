@@ -1,0 +1,72 @@
+Un sito web o sito Internet (anche abbreviato in sito se chiaro il contesto informatico) è un insieme di pagine web correlate, ovvero una struttura ipertestuale di documenti che risiede su un server web.
+
+
+== AccessoModifica ==
+I siti risiedono, tramite hosting, su un server web e sono accessibili all'utente client che ne inoltri richiesta di accesso tramite un web browser sul World Wide Web della rete Internet, digitando in esso il rispettivo URL o direttamente l'indirizzo IP.
+Le pagine di un sito web sono accessibili tramite una radice comune (detta "nome di dominio", per esempio "www.kernel.org"), seguita da una serie opzionale di "sotto cartelle" e dal nome della pagina. Il nome completo di ogni pagina è detto "indirizzo web" o, più tecnicamente, URI (o URL).
+
+
+== StrutturaModifica ==
+Dal punto di vista dell'organizzazione o struttura dei contenuti tipicamente un sito web è strutturato in una home page, che rappresenta la pagina principale di presentazione del sito e dei suoi contenuti e dalle pagine web secondarie dei contenuti, raggiungibili dai menù e widget presenti nell'home page stessa tramite link interni (ancore) al sito stesso.
+Quando il sito web costituisce un punto di partenza, una porta di ingresso, ad un gruppo consistente di risorse di Internet o di una Intranet si parla più propriamente di portale web. Spesso inoltre un sito web si accoppia/accompagna ad un database sullo stesso web server per la memorizzazione strutturata di dati e informazioni.
+L'home page di un sito è la prima pagina che si ottiene digitando il solo nome di dominio.
+Per esempio, nell'indirizzo www.w3c.org/Consortium/Offices/role.html:
+www.w3c.org è la radice, o nome di dominio
+/Consortium/Offices/ sono le sottocartelle, separate dal simbolo "/"
+role.html è il nome della pagina
+Solitamente le pagine di un sito risiedono tutte sullo stesso Web server, ossia lo spazio fisico in cui risiedono i files che compongono il sito, e la ramificazione in sottocartelle dell'indirizzo corrisponde ad una uguale ramificazione nell'hard disk dello stesso server.
+Ovviamente l'accesso ad un sito o alle pagine web per eventuali modifiche su contenuti e/o forma da parte degli sviluppatori è del tutto riservato all'amministratore del sito tramite codici o chiavi di accesso.
+Per l'interpretazione del codice che compone una pagina web vengono comunemente utilizzati i browser, ovvero quei software che hanno il compito di interpretare il codice e restituirne un output grafico. Tra i browser più comunemente utilizzati possiamo trovare (a titolo indicativo e non esaustivo) Mozilla Firefox, Google Chrome, Opera, Microsoft Internet Explorer, Microsoft Edge(OS Windows 10) e Safari.
+I file interpretati da questi software all'accesso della pagina web sono solitamente i fogli di stile (CSS) e i vari script che vengono richiamati all'accesso della pagina. Questi determinano dunque l'aspetto grafico finale restituito all'utente all'accesso della pagina.
+
+
+== Tipologie di siti webModifica ==
+Dal punto di vista della struttura e della tecnologia utilizzata, i siti web si possono distinguere sommariamente in due tipologie principali:
+siti statici
+siti dinamici
+I siti web statici formati da pagine statiche presentano contenuti di sola ed esclusiva lettura. Solitamente vengono aggiornati con una bassa frequenza e sono mantenuti da una o più persone che agiscono direttamente sul codice HTML della pagina (tramite appositi editor web). Si tratta storicamente della prima generazione di siti web.
+I siti web dinamici formati da pagine web dinamiche presentano invece contenuti redatti dinamicamente (in genere grazie al collegamento con un database) e forniscono contenuti che possono variare in base a più fattori. I siti web dinamici sono caratterizzati da un'alta interazione fra sito e utente; alcuni elementi che caratterizzano la dinamicità di un sito possono essere: l'interazione con uno o più database, la visualizzazione dell'ora server, operazioni varie sul file system (tipo creazione dinamica di documenti, ecc.), il cloaking basandosi su vari parametri (tra i quali lo user agent, o il browser, o la risoluzione dell'utente), la visualizzazione o stampa o catalogazione degli indirizzi IP degli utenti, e molto altro.
+Essi possono essere scritti tramite linguaggi di scripting come ASP, PHP e molti altri linguaggi web. Particolarità dei siti dinamici è che le "pagine" che costituiscono il sito vengono generate all'atto della chiamata da parte dell'utente (fatta eccezione per i sistemi che adottano una cache) in quanto i contenuti non sono memorizzati direttamente nel codice sorgente della pagina, bensì in sistemi di memorizzazione esterni allo stesso, come le già citate basi di dati.
+La modifica dei contenuti, che spesso possono essere aggiornati grazie ad alcuni editor grafici (detti WYSIWYG) anche senza agire direttamente sul codice, è generalmente frequente. Un chiaro esempio di sito dinamico è www.wikipedia.org.
+
+
+=== CategorieModifica ===
+I siti web vengono poi comunemente divisi in categorie per inquadrarne il settore di operatività o i servizi offerti:
+sito personale - condotto da individui o piccoli gruppi di persone (come una famiglia), che contiene informazioni prevalentemente autobiografiche o focalizzate sui propri interessi personali (ad es. un blog)
+sito aziendale - funzionale alla promozione di un'azienda o di un servizio
+sito di commercio elettronico (o "e-commerce") - specializzato nella vendita di beni e/o servizi via internet
+sito comunità - un sito in cui utenti possono comunicare fra loro, per esempio tramite chat o forum, formando una comunità virtuale
+sito di download - ampie raccolte di link per scaricare software (dimostrativi di videogiochi, immagini, ecc.)
+forum: luogo in cui discutere tramite la pubblicazione e la lettura di messaggi, organizzati per discussioni (thread) e messaggi (post)
+sito informativo - con contenuti tesi a informare l'utente, ma non strettamente per scopi commerciali
+motore di ricerca - registra i contenuti degli altri siti e li rende disponibili per la ricerca
+database - un sito il cui utilizzo principale è di ricercare e mostrare il contenuto di uno specifico database (ad esempio l'Internet Movie Database per i film)
+sito ludico - un sito che è in sé un gioco oppure serve da arena per permettere a più persone di giocare
+aggregatore di notizie - presenta contenuti prelevandoli automaticamente dalla rete da molte fonti contemporaneamente, ed è simile in questo ai motori di ricerca che sfruttano i risultati delle ricerche degli utenti aggregandoli e immagazzinandoli in un database con criteri quali la tipologia dei media (foto, video, testo etc.) e il contenuto testuale. Il risultato è un sito che cresce esponenzialmente e si arricchisce all'infinito di pagine con contenuto inerente all'argomento di base, definito in fase di installazione ma affinato sulle preferenze degli utenti, il tutto in modo automatico.
+link farm - siti creati unicamente per proporre collegamenti verso altri siti a scopo pubblicitario (spesso in cambio di canoni in denaro)
+Molti siti sono un incrocio tra due o più delle precedenti categorie. Ad esempio, un sito aziendale può allo stesso tempo pubblicizzare i propri prodotti e pubblicare materiale informativo.
+Prende il nome di portale un sito web che ha assunto dimensioni tali da costituire un punto di partenza, una porta di ingresso ad un gruppo consistente di risorse per gli utenti del web; l'argomento del portale può essere più o meno generalista oppure specializzato (portale verticale).
+Taluni siti web presentano aree riservate, ovvero sezioni accessibili solamente previo pagamento di un canone, registrazione, o assegnazione di una password.
+
+
+== Progettazione e realizzazioneModifica ==
+La progettazione di un sito web è analoga a larghe linee al modello di sviluppo del software tipica dell'ingegneria del software con la definizione/pianificazione iniziale di ciò che deve essere realizzato a livello logico (analisi/definizione delle specifiche, strutturazione dei contenuti e grafica/formattazione), seguita dalla fase implementativa e dalla fase di testing e successiva eventuale correzione delle incongruenze con le specifiche o l'usabilità del sito stesso.
+La realizzazione/gestione di un sito web fa ampio uso di tecniche e conoscenze proprie della programmazione Web o di format predefiniti direttamente a disposizione dell'utente amministratore forniti da strumenti appositi o reperibili in rete e dall'utilizzo tipicamente user friendly.
+
+
+=== I linguaggiModifica ===
+Il linguaggio più diffuso con cui i siti web sono realizzati è l'HTML (Hyper Text Markup Language), i suoi derivati e i CSS. In particolare l'HTML viene interpretato da particolari software chiamati web browser. Alcuni plugin per i browser, come Flash, Shockwave o applet Java, permettono la visualizzazione di contenuti animati,
+Per i siti web dinamici dove alcuni contenuti possono essere generati dinamicamente sul browser dell'utente, in aggiunta ai precedenti linguaggi si utilizzano linguaggi di scripting come JavaScript o Dynamic HTML, tecnologie supportate per impostazione predefinita da tutti i browser recenti (programmazione web client-side).
+Per la costruzione/realizzazione di siti web dinamici in grado invece di estrapolare dati da database, inviare email, gestire informazioni, ecc., i linguaggi di scripting più diffusi sono PHP, Ruby, Python e ASP in alternativa al Java, solitamente utilizzato per applicazioni enterprise (programmazione web server-side).
+Per la creazione di siti internet molti webmaster utilizzano comunemente strumenti automatizzati, chiamati webeditor (es. WYSIWYG), grazie ai quali possono redigere il codice anche senza avere un'approfondita conoscenza dei linguaggi.
+Sempre più la realizzazione e la gestione di siti web complessi e ricchi di contenuti passa attraverso l'uso di Content Management System (CMS), delle vere piattaforme web (sorta di evoluzione dei web editor) per le quali non è richiesta alcuna conoscenza di tecniche di programmazione web ed utili anche per forum, blog e portali di e-commerce. Queste piattaforme spesso si appoggiano su piattaforme XAMPP.
+
+
+=== Accessibilità dei siti webModifica ===
+I siti web devono soddisfare dei requisiti di accessibilità che rendano i suoi contenuti fruibili a chiunque, compresi i soggetti affetti da disabilità psichica e fisica, definiti in regole precise denominate Web Content Accessibility Guidelines (WCAG) definite dal World Wide Web Consortium (W3C).
+
+
+== Aspetti giuridiciModifica ==
+Gli aspetti giuridici relativi alla pubblicazione di documenti su un sito web sono spesso controversi, poiché documenti siti in una determinata nazione sono resi accessibili anche da luoghi con leggi ed usi del tutto differenti, ma anche perché le stesse leggi delle singole nazioni seguono con fatica la continua e rapida evoluzione del Web.
+In linea generale i contenuti di un sito sono sottoposti alle condizioni di utilizzo del fornitore dello spazio web (hosting) e alle leggi della nazione in cui esso è situato (ad esempio leggi sul copyright, sulla pornografia, ecc.).
+Alcuni ordinamenti prevedono speciali adempimenti a carico dei gestori di siti web. Nei paesi germanofoni, ad esempio, è obbligatorio inserire nel sito una dichiarazione di proprietà e paternità detta Impressum. In Italia, il Dlgs 196/2003 (Legge sulla privacy) impone ad i siti che raccolgono informazioni personali degli utenti, o svolgono attività di commercio elettronico, di fornire all'interessato una idonea informativa sul trattamento dei dati personali. Tuttavia, nel 2014 una ricerca di Federprivacy ha evidenziato che il

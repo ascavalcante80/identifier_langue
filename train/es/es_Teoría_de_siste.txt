@@ -1,0 +1,78 @@
+La teoría de sistemas o teoría general de los sistemas es el estudio interdisciplinario de los sistemas en general. Su propósito es estudiar los principios aplicables a los sistemas en cualquier nivel en todos los campos de la investigación.
+
+En 1950 el biologo Austríaco Ludwig von Bertalanffy planteó la teoría general de sistemas propiamente dicha. Posteriormente, en la década de los setenta, Humberto Maturana desarrolló el concepto de Autopoiesis, el que da cuenta de la organización de los sistemas vivos como redes cerradas de autoproducción de los componentes que las constituyen. W. Ross Ashby y Norbert Wiener desarrollaron la teoría matemática de la comunicación y control de sistemas a través de la regulación de la retroalimentación (cibernética), que se encuentra estrechamente relacionada con la teoría de control. En la mísma década, René Thom y E.C. Zeeman plantearon la teoría de las catástrofes, rama de las matemáticas de acuerdo con bifurcaciones en sistemas dinámicos que clasifica los fenómenos caracterizados por súbitos desplazamientos en su conducta.
+En 1980 David Ruelle, Edward Lorenz, Mitchell Feigenbaum, Steve Smale y James A. Yorke describieron la teoría del caos, una teoría matemática de sistemas dinámicos no lineales que describe bifurcaciones, extrañas atracciones y movimientos caóticos. John H. Holland, Murray Gell-Mann, Harold Morowitz, W. Brian Arthur y otros 90 plantean el sistema adaptativo complejo (CAS), una nueva ciencia de la complejidad que describe surgimiento, adaptación y auto-organización. Fue establecida fundamentalmente por investigadores del Instituto de Santa Fe y está basada en simulaciones informáticas. Incluye sistemas de multiagente que han llegado a ser una herramienta importante en el estudio de los sistemas sociales y complejos. Todavía es un campo de investigación activo.
+
+
+== ContextosEditar ==
+
+Como ciencia emergente, plantea paradigmas diferentes de los de la ciencia clásica. La ciencia de sistemas observa totalidades, fenómenos, isomorfismos, causalidades circulares, y se basa en principios como la subsidiariedad, pervasividad, multicausalidad, determinismo, complementariedad, y de acuerdo con las leyes encontradas en otras disciplinas y mediante el isomorfismo, plantea el entendimiento de la realidad como un complejo, con lo que logra su transdisciplinariedad, y multidisciplinariedad.
+
+
+=== FilosofíaEditar ===
+La Teoría General de los Sistemas (TGS) aparece como una metateoría, una teoría de teorías (en sentido figurado), que partiendo del muy abstracto concepto de sistema busca reglas de valor general, aplicables a cualquier sistema y en cualquier nivel de la realidad.
+La TGS surgió debido a la necesidad de abordar científicamente la comprensión de los sistemas concretos que forman la realidad, generalmente complejos y únicos, resultantes de una historia particular, en lugar de sistemas abstractos como los que estudia la Física. Desde el Renacimiento la ciencia operaba aislando:
+Componentes de la realidad, como la masa.
+Aspectos de los fenómenos, como la aceleración gravitatoria......
+Pero los cuerpos que caen lo hacen bajo otras influencias y de manera compleja. Frente a la complejidad de la realidad hay dos opciones:
+Negar carácter científico a cualquier empeño por comprender otra cosa que no sean los sistemas abstractos, simplificados, de la Física.
+Conviene recordar aquí la rotunda afirmación de Rutherford: «La ciencia es la Física; lo demás es coleccionismo de estampillas».
+O si no:
+Comenzar a buscar regularidades abstractas comunes a sistemas reales complejos, pertenecientes a distintas disciplinas.
+La TGS no es el primer intento histórico de lograr una metateoría o filosofía científica capaz de abordar muy diferentes niveles de la realidad. El materialismo dialéctico busca un objetivo equivalente combinando el realismo y el materialismo de la ciencia natural con la dialéctica hegeliana. La TGS surge en el siglo XX como un nuevo esfuerzo en la búsqueda de conceptos y leyes válidos para la descripción e interpretación de toda clase de sistemas reales o físicos.
+
+
+=== Pensamiento y Teoría General de Sistemas (TGS)Editar ===
+TGS puede ser vista también como un intento de superación, en el terreno de la Biología, de varias de las disputas clásicas de la Filosofía, en torno a la realidad y en torno al conocimiento:
+Materialismo frente a vitalismo.
+Reduccionismo frente a perspectivismo.
+Mecanicismo frente a teleología.
+En la disputa entre materialismo y vitalismo la batalla estaba ganada desde antes para la posición monista que ve en el espíritu una manifestación de la materia, un epifenómeno de su organización (adquisición de forma). Pero en torno a la TGS y otras ciencias sistémicas se han formulado conceptos, como el de propiedades emergentes, que han servido para reafirmar la autonomía de fenómenos, como la conciencia, que vuelven a ser vistos como objetos legítimos de investigación científica.
+Parecido efecto encontramos en la disputa entre reduccionismo y holismo, en la que la TGS aborda sistemas complejos, totales, buscando analíticamente aspectos esenciales en su composición y en su dinámica que puedan ser objeto de generalización.
+En cuanto a la polaridad entre mecanicismo/causalismo y teleología, la aproximación sistémica ofrece una explicación, podríamos decir que mecanicista, del comportamiento orientado a un fin de una cierta clase de sistemas complejos. Fue Norbert Wiener, fundador de la Cibernética quien llamó sistemas teleológicos a los que tienen su comportamiento regulado por retroalimentación negativa. Pero la primera y fundamental revelación en este sentido es la que aportó Darwin con la teoría de selección natural, mostrando cómo un mecanismo ciego puede producir orden y adaptación, lo mismo que un sujeto inteligente.
+
+
+== DesarrollosEditar ==
+Aunque la TGS surgió en el campo de la Biología, pronto se vio su capacidad de inspirar desarrollos en disciplinas distintas y se apreció su influencia en la aparición de otras nuevas. Así se ha ido constituyendo el amplio campo de la sistémica o de las ciencias de los sistemas, con especialidades como la cibernética, la teoría de la información, la teoría de juegos, la teoría del caos o la teoría de las catástrofes. En algunas, como la última, ha seguido ocupando un lugar prominente la Biología.
+Más reciente es la influencia de la TGS en las Ciencias Sociales. Destaca la intensa influencia del sociólogo alemán Niklas Luhmann, pero no ha conseguido introducir sólidamente el pensamiento sistémico en esta área.
+
+
+== Ámbito metamórfico de la teoríaEditar ==
+
+
+=== Descripción del propósitoEditar ===
+La teoría general de sistemas en su propósito más amplio, contempla la elaboración de herramientas que capaciten a otras ramas de la ciencia en su investigación práctica. Por sí sola, no demuestra ni deja de mostrar efectos prácticos. Para que una teoría de cualquier rama científica esté sólidamente fundamentada, ha de partir de una sólida coherencia sostenida por la TGS. Si se cuenta con resultados de laboratorio y se pretende describir su dinámica entre distintos experimentos, la TGS es el contexto adecuado que permitirá dar soporte a una nueva explicación, que permitirá poner a prueba y verificar su exactitud. Por esto se la ubica en el ámbito de las metateorías.
+La TGS busca descubrir isomorfismos en distintos niveles de la realidad que permitan:
+Usar los mismos términos y conceptos para describir rasgos esenciales de sistemas reales muy diferentes; y encontrar leyes generales aplicables a la comprensión de su dinámica.
+Favorecer, primero, la formalización de las descripciones de la realidad; luego, a partir de ella, permitir la modelización de las interpretaciones que se hacen de ella.
+Facilitar el desarrollo teórico en campos en los que es difícil la abstracción del objeto; o por su complejidad, o por su historicidad, es decir, por su carácter único. Los sistemas históricos están dotados de memoria, y no se les puede comprender sin conocer y tener en cuenta su particular trayectoria en el tiempo.
+Superar la oposición entre las dos aproximaciones al conocimiento de la realidad:
+La analítica, basada en operaciones de reducción.
+La sistémica, basada en la composición.
+
+La aproximación analítica está en el origen de la explosión de la ciencia desde el Renacimiento, pero no resultaba apropiada, en su forma tradicional, para el estudio de sistemas complejos.
+
+
+=== Descripción del usoEditar ===
+El contexto en el que la TGS se puso en marcha, es el de una ciencia dominada por las operaciones de reducción características del método analítico. Básicamente, para poder manejar una herramienta tan global, primero se ha de partir de una idea de lo que se pretende demostrar, definir o poner a prueba. Teniendo claro el resultado (partiendo de la observación en cualquiera de sus vertientes), entonces se le aplica un concepto que, lo mejor que se puede asimilar resultando familiar y fácil de entender, es a los métodos matemáticos conocidos como mínimo común múltiplo y máximo común divisor. A semejanza de estos métodos, la TGS trata de ir desengranando los factores que intervienen en el resultado final, a cada factor le otorga un valor conceptual que fundamenta la coherencia de lo observado, enumera todos los valores y trata de analizar todos por separado y, en el proceso de la elaboración de un postulado, trata de ver cuántos conceptos son comunes y no comunes con un mayor índice de repetición, así como los que son comunes con un menor índice de repetición. Con los resultados en mano y un gran esfuerzo de abstracción, se les asignan a conjuntos (teoría de conjuntos), formando objetos. Con la lista de objetos completa y las propiedades de dichos objetos declaradas, se conjeturan las interacciones que existen entre ellos, mediante la generación de un modelo informático que pone a prueba si dichos objetos, virtualizados, muestran un resultado con unos márgenes de error aceptables. En un último paso, se realizan las pruebas de laboratorio. Es entonces cuando las conjeturas, postulados, especulaciones, intuiciones y demás sospechas, se ponen a prueba y nace la teoría.
+Como toda herramienta matemática en la que se opera con factores, los factores enumerados que intervienen en estos procesos de investigación y desarrollo no alteran el producto final, aunque sí pueden alterar los tiempos para obtener los resultados y la calidad de los mismos; así se ofrece una mayor o menor resistencia económica a la hora de obtener soluciones.
+
+
+== AplicaciónEditar ==
+La principal aplicación de esta teoría está orientada a la empresa científica cuyo paradigma exclusivo venía siendo la Física. Los sistemas complejos, como los organismos o las sociedades, permiten este tipo de aproximación sólo con muchas limitaciones. En la aplicación de estudios de modelos sociales, la solución a menudo era negar la pertinencia científica de la investigación de problemas relativos a esos niveles de la realidad, como cuando una sociedad científica prohibió debatir en sus sesiones el contexto del problema de lo que es y no es la conciencia. Esta situación resultaba particularmente insatisfactoria en Biología, una ciencia natural que parecía quedar relegada a la función de describir, obligada a renunciar a cualquier intento de interpretar y predecir, como aplicar la teoría general de los sistemas a los sistemas propios de su disciplina.
+
+
+== Ejemplo de aplicación de la TGS: Teoría del caosEditar ==
+
+Los factores esenciales de esta teoría se componen de:
+Entropía: Viene del griego ἐντροπία (entropía), que significa transformación o vuelta. Su símbolo es la S, y es una metamagnitud termodinámica. La magnitud real mide la variación de la entropía. En el Sistema Internacional es el J/K (o Clausius) definido como la variación de entropía que experimenta un sistema cuando absorbe el calor de 1 Julio (unidad) a la temperatura de 1 Kelvin.
+Entalpía: Palabra acuñada en 1850 por el físico alemán Clausius. La entalpía es una metamagnitud de termodinámica simbolizada con la letra H. Su variación se mide, dentro del Sistema Internacional de Unidades, en julio. Establece la cantidad de energía procesada por un sistema y su medio en un instante A de tiempo y lo compara con el instante B, relativo al mismo sistema.
+Neguentropía: Se puede definir como la tendencia natural que se establece para los excedentes de energía de un sistema, de los cuales no usa. Es una metamagnitud, de la que su variación se mide en la misma magnitud que las anteriores.
+Aplicando la teoría de sistemas a la entropía, obtenemos lo siguiente: Cuanta mayor superficie se deba de tomar en cuenta para la transmisión de la información, esta se corromperá de forma proporcional al cuadrado de la distancia a cubrir. Dicha corrupción tiene una manifestación evidente, en forma de calor, de enfermedad, de resistencia, de agotamiento extremo o de estrés laboral. Esto supone una reorganización constante del sistema, el cual dejará de cumplir con su función en el momento que le falte información. Ante la ausencia de información, el sistema cesará su actividad y se transformará en otro sistema con un grado mayor de orden. Dicho fenómeno está gobernado por el principio de Libertad Asintótica.
+
+
+==== Proceso de estudioEditar ====
+Proceso 1: Se registra lo directamente observado, se asocia un registro de causa y efecto, y para aquellas que han quedado huérfanas (solo se observa la causa pero se desconoce el efecto) se las encasilla como propiedades diferenciales. Estas propiedades nacen de la necesidad de dar explicación al porqué lo observado no corresponde con lo esperado. De esto nacen las propiedades emergentes.
+Proceso 2: Se establecen unos métodos que, aplicados, rompen dicha simetría obteniendo resultados físicos medibles en laboratório. Los que no se corroboran, se abandonan y se especulan otras posibilidades.
+Resumen general:
+L

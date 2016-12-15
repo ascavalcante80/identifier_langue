@@ -1,0 +1,90 @@
+ и 1050, със сложност на игрово дърво приблизително 10123. За пръв път сложността на игровото дърво на шахмата е изчислено от Клауд Шанън на 10120, резултат известен като „Числото на Шанън“. Обикновено средностатистическата позиция има от 30 до 40 възможни хода, но има и някои с нула (в случаите на мат или пат), или с 218.
+Най-важното математическо предизвикателство на шахмата е създаването на алгоритъм, който да може да играе шах. Идеята за създаване на машина, играеща шахмат, датира от 18 век; около 1769 г., играещ шахмат автомат, наречен Турчинът, става известен преди да бъде разкрит като измама. Сериозните опити, основаващи се на автоматите, такива като El Ajedrecista (на български: Шахматистът), били твърде сложни и ограничени, за да бъдат полезни.
+
+До изобретяването на дигиталния компютър през 50-те години на 20 век, шахматни ентусиасти и компютърни инженери построяват, с увеличаваща се степен на сериозност и успех, играещи шахмат машини и компютърни програми.
+С огромни бази данни на минали партии и висока аналитична способност, компютрите също помагат на играчите да изучават шахмата и да се подготвят за мачове. Допълнително, интернет шахматните сървъри позволяват на хората да намират и играят с противници от цял свят. Наличието на компютри и съвременни комуникационни устройства също повишават тревогата за евентуално мамене по време на партии, с най-известен случай „тоалетната война“ от световното първенство през 2006 г.
+
+
+== Психология ==
+Съществува обширна научна литература за шахматната психология. Адриан де Гроот, в своята докторска теза, посочва че шахматните майстори могат бързо да разберат ключовите особености на позицията. Според де Гроот, това умение, постигнато с години на практика и обучение, е по-важно от способността за предвиждане на ходове. Де Гроот също посочва, че майсторите по шахмат могат да запомнят позиции, които са показани за няколко секунди, почти перфектно.
+По-съвременните изследвания се фокусират върху шахмата като тренировка на ума; относителните роли на познанието и предвиждането; блинд шахмата; ролята на личността и интелекта в шахматното умение, разликите при половете и компютърните модели на шахматното познание. В допълнение, ролята на практика и талант в развитието на шахмата и други области на познание водят до много изследвания в днешни дни. Ериксон и колеги спорят дали преднамерената практика е достатъчна за достигане високи нива на познание, като майстор в шахмата. Друго съвременно изследване посочва, че други фактори освен практиката са важни. Например, Гобет и колеги посочват, че по-силните играчи започват да играят шахмат от по-рано и че по-вероятно е те да са леворъки и да са родени в късна зима или ранна пролет.
+
+
+== Варианти ==
+
+Шахматните варианти са форма на шахмата, където партията се играе върху различна дъска, със специални допълнителни фигури или по различни правила. Има повече от две хиляди официално оповестени шахматни варианти, от които най-известни са сянци в Китай и шоги в Япония.
+Шахматните варианти могат да бъдат разделени на:
+Пряки предшественици на игрите шахмат, чатуранга и шатрандж.
+Традиционни национални или регионални шахматни варианти като сянци, шоги, джианци и макрук, които имат общи предшественици със западния шахмат.
+Съвременни варианти на шахмата, такива като Шах960, където началната позиция се избира произволно преди всяка партия. Това произволно разположение на фигурите прави по-трудна задачата да се подготви дебютната игра предварително.
+
+
+== Вижте още ==
+Гамбит
+Кодове на шахматните дебюти
+Списък на шахматисти
+Върхови ЕЛО постижения в шахмата
+Световно първенство по шахмат за юноши и девойки до 20 години
+Шахматна олимпиада
+Първенство по шахмат на България
+Шахбокс
+
+
+== Външни препратки ==
+
+Български организации
+Българска федерация по шахмат (БФШ)
+Българска федерация по кореспондентен шахмат (БФКШ)
+Международни организации
+((en)) Международна федерация по шахмат (ФИДЕ)
+((en)) Международна федерация по кореспондентен шахмат (ICCF)
+((en)) Асоциацията на шахматните професионалисти
+Друго
+Шахматни сайтове на български в проект „Отворена директория“
+
+
+== Източници ==
+↑ Tal, Mikhail. The Life and Games of Mikhail Tal. ISBN 1-85744-202-4.
+↑ E.I. Laws of Chess. //   Посетен на 2008-08-12.
+↑ а б в г Harding, Tim. Better Chess for Average Players. Courier Dover Publications, 2003. ISBN 0-486-29029-8.
+↑ Collins, Sam. Understanding the Chess Openings. Gambit Publications, 2005. ISBN 1-904600-28-X.
+↑ Tarrasch, Siegbert. The Game of Chess. Courier Dover Publications, 1987. ISBN 0-486-25447-X.
+↑ Hooper, David и др. The Oxford Companion to Chess. второ издание. Oxford University Press, 1992. ISBN 0-19-866164-9.
+↑ а б ((en)) Calvo, Ricardo. Valencia Spain: The Cradle of European Chess. //   GoddessChess, 1998. Посетен на 2009-07-26.
+↑ Yalom, Marilyn. Birth of the Chess Queen. ISBN 0060090642.
+↑ ((en)) Dr René Gralla. XiangQi – an alternate to Western Chess. //   ChessBase.com, 2006-11-19. Посетен на 2009=07-26.
+↑ ((en))  Kramnik plays Makruk Thai. //   Посетен на 2009-07-26.
+↑ ((en))  Louis Charles Mahe De La Bourdonnais. //   ChessGames. Посетен на 2009-07-26.
+↑ Metzner, Paul. Crescendo of the Virtuoso: Spectacle, Skill, and Self-Promotion in Paris during the Age of Revolution. Berkeley: University of California Press, 1998. ISBN 0-520-20684-3.
+↑ ((en)) Bird, Henry Edward. Chess History and Reminiscences. //   Gutenberg. Посетен на 2009-07-26.
+↑ ((en))  History of Simpson's-in-the-Strand. //   http://www.savoygroup.com/.+Посетен на 2010-01-19.
+↑ ((en))  London Chess Club. //   ChessGames. Посетен на 2009-07-26.
+↑ Шахматна енциклопедия. София, Държавно издателство „Д-р Петър Берон“, 1989.
+↑ Parr, Larry. London, 1851. //   World Chess Network. Посетен на 2008-11-26.
+↑ Hartston, W.. The Kings of Chess. Pavilion Books Limited, 1985. ISBN 0-06-015358-X. с. 36.
+↑ Burgess, Graham и др. The Mammoth Book of the World's Greatest Chess Games. Carroll & Graf Publishers, 1998. ISBN 0-7867-0587-6. OCLC 40209258. с. 14.
+↑ Shibut, Macon. Paul Morphy and the Evolution of Chess Theory. Courier Dover Publications, 2004. ISBN 0-486-43574-1. OCLC 55639730.
+↑ Steinitz, William и др. The Steinitz Papers: Letters and Documents of the First World Chess Champion. McFarland & Company, 2002. ISBN 0-7864-1193-7. OCLC 48550929.
+↑ Kasparov, Garry. My Great Predecessors, part II. Everyman Chess, 2003. ISBN 1-85744-342-X.
+↑ ((bg))  Крамник стана Световен шампион по шахмат. //   bgnewsroom.com, 2006-10-13. Посетен на 2009-07-29.
+↑ ((bg))  Вишванатан Ананд е новият световен шампион по шах. //   Bulgarian Post, 2007-09-30. Посетен на 2009-07-29.
+↑ ((bg))  Вишванатан Ананд защити световната си титла. //   в. „Стандарт“, 2008-10-30. Посетен на 2009-07-29.
+↑ http://chennai2013.fide.com/
+↑ ((en))  Schacholympiade Dresden 2008. //   Архив на оригинала от 2009-01-30. Посетен на 2009-08-01.
+↑ ((en))  Top 100 Women July 2009. //   ФИДЕ. Посетен на 2009-07-26.
+↑ ((de)) Christoph Eichhorn. Christoph: Der Beginn der Formalen Spieltheorie: Zermelo (1913). //   2004-07-31. Посетен на 2008-09-03.
+↑ ((en))  Chess. //   Mathworld.Wolfram.com. Посетен на 2009-08-03.
+↑ ((en))  The biggest Number of simultaneous possible legal Moves. //   www.chessbox.de. Посетен на 2009-08-03.
+↑ Levitt, Gerald M.. The Turk, chess automaton. McFarland & Company, 2000. ISBN 0-7864-0778-6.
+↑ Individual differences in chess expertise: A psychometric investigation. //  Acta Psychologica 124 (3). March 2007. с. 398–420.
+↑ Gobet, Fernand и др. Moves in mind: The psychology of board games. Psychology Press, 2004. ISBN 1-84169-336-7.
+↑ Holding, Dennis. The psychology of chess skill. Erlbaum, 1985. ISBN 978-0-89859-575-8.
+↑ Saariluoma, Pertti. Chess players' thinking: A cognitive psychological approach. Routledge, 1995. ISBN 0415120799-1-DBS.
+↑ de Groot, A.D.. Thought and choice in chess. Mouton Publishers, 1965.
+↑ ((en)) Richards J. Heuer, Jr.. Psychology of Intelligence Analysis (Глава 3). //   Center for the Study of Intelligence, 1999. Посетен на 2008-08-03.
+↑ ((en)) K. Anders Ericsson, Ralf Th. Krampe, и Clemens Tesch-Romer. The Role of Deliberate Practice in the Acquisition of Expert Performance. //   Посетен на 2008-08-03.
+↑ ((en)) Fernand Gobet и Philippe Chassy. Season of birth and chess expertise. //   Посетен на 2009-08-03.
+↑ ((en)) Fernand Gobet и Guillermo Campitelli. The role of domain-specific practice, handedness and starting age in chess. //   Посетен на 2009-08-03.
+↑ Pritchard, David. The Encyclopedia of Chess Variants. Games & Puzzles Publications, 1994. ISBN 0-9524142-0-1.
+↑ Pritchard, David. Popular Chess Variants. Batsford Chess Books, 2000. ISBN 0-7134-8578-7.
+↑ ((en)) Eric van Reem. The birth of Fischer Random Chess. //   chessvariants.com, 2001-07-24. Посетен на 2009-07-29.

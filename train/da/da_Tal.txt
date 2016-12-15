@@ -1,0 +1,40 @@
+Tal er et abstrakt begreb, der bruges til at angive mængde.
+I matematikken findes der mange forskellige tal, for eksempel de naturlige tal, heltal, brøker, rationale tal, irrationale tal, reelle tal, imaginære tal og komplekse tal.
+De naturlige tal ℕ (N) som 1, 2, 3, 4... osv. er fundamentale for al matematik; De betegnes  eller – hvis man vil præcisere, at tallet 0 medregnes – .
+Udvider vi de naturlige tal (inkl. 0) med de negative, hele tal, får vi de hele tal ℤ (Z).
+Dette kan igen udvides med de positive og negative brøker til det rationale tallegeme ℚ (Q). Den del af de rationale tal, som kan repræsenteres ved en endelig decimaludvikling, kaldes de decimale tal og benævnes D.
+Ved yderligere udvidelse af tallegemet opstår de reelle tal ℝ (R), hvoriblandt findes de irrationale tal som er de reelle tal, der ikke tilhører det rationale tallegeme.
+Udvides det reelle tallegeme yderligere med rødderne til de generelle polynomier med komplekse koefficienter, fås det komplekse tallegeme ℂ (C).
+Dette kan udtrykkes i den særlige skrifttype blackboard bold således:
+
+Betydningen af begreberne tallegeme og tal kan fastlægges til følgende: Man kalder en uendelig mængde af symboler for et tallegeme, og det enkelte symbol for et tal, hvis mængden opfylder følgende tre betingelser:
+at de naturlige tal indgår i mængdens elementer
+at der findes et størrelseskriterium, som kan afgøre om to elementer er lige store (eller hvilket der er størst).
+at der for to vilkårlige elementer i mængden kan udvikles et skema for at lægge dem sammen og gange dem med hinanden, som har samme egenskaber som de tilsvarende operationer for de naturlige tal (og som reduceres til disse, når de to elementer er naturlige tal). De egenskaber, der her tænkes på, er de grundlæggende egenskaber at være kommutativ, associativ og distributiv.
+Visse mængder af tal er bestemt ved særlige egenskaber, for eksempel primtal, kvadrattal, fuldkomne tal og Fibonaccis tal.
+Visse tal har særlige egenskaber eller betydninger, som er beskrevet andetsteds i Wikipedia: Kategorien for artikler om bestemte tal indeholder en oversigt over disse artikler.
+Her er en lille skala over tal:
+0,000 000 000 000 000 000 000 001 = 10−24 = Kvadrilliontedel
+0,000 000 000 000 000 000 001 = 10−21 = Trilliardtedel
+0,000 000 000 000 000 001 = 10−18 = Trilliontedel
+0,000 000 000 000 001 = 10−15 = Billiardtedel
+0,000 000 000 001 = 10−12 = Billiontedel
+0,000 000 001 = 10−9 = Millardtedel
+0,000 001 = 10−6 = Milliontedel
+0,001 = 10−3 = Tusindedel
+0,01 = 10−2 = Hundrededel
+0,1 = 10−1 = Tiendedel
+1 = 100 = En
+1 0 = 101 = Ti
+1 00 = 10² = Hundrede
+1 000 = 103 = Tusind
+1 000 000 = 106 = Million
+1 000 000 000 = 109 = Milliard
+1 000 000 000 000 = 1012 = Billion
+1 000 000 000 000 000 = 1015 = Billiard
+1 000 000 000 000 000 000 = 1018 = Trillion
+1 000 000 000 000 000 000 000 = 1021 = Trilliard
+1 000 000 000 000 000 000 000 000 = 1024 = Kvadrillion
+1 000 000 000 000 000 000 000 000 000 = 1027 = Kvadrilliard
+1 000 000 000 000 000 000 000 000 000 000 = 1030 = Kvintillion
+1 000 000 000 000 000 000 000 000 000 000 000 = 1033 = Kvinti

@@ -1,0 +1,9 @@
+Questo è l'elenco alfabetico di tutti i domini Internet di primo livello attualmente in uso, assegnati dalla Internet Assigned Numbers Authority (IANA) che li suddivide in tre tipi differenti:
+Domini di primo livello nazionali (country-code top-level domain o ccTLD): usati da uno Stato o una dipendenza territoriale e costituiti da due lettere;
+Domini di primo livello generici (generic top-level domain o gTLD): usati da particolari classi di organizzazioni (per esempio, com per le organizzazioni commerciali) e costituiti da tre o più lettere. La maggior parte dei gTLD sono disponibili in tutto il mondo, ma per ragioni storiche gov, mil e edu sono riservati rispettivamente al governo, all'esercito e agli enti educativi statunitensi;
+Domini di primo livello infrastrutturali (infrastructure top-level domain): il dominio di primo livello arpa è l'unico di questo tipo attualmente esistente.
+^ Gli IDNA TLD sono stati aggiunti allo scopo di testare l'utilizzo di IDNA al massimo livello, e hanno la caratteristica di essere temporanei. Ognuna delle undici TLDs codifica una parola che significa "prova" in diverse lingue. Vedi la ICANN annuncio del 15 ottobre 2007 e TLD IDN valutazione gateway.
+
+
+== Voci correlate ==
+Domini di primo

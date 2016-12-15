@@ -1,0 +1,8 @@
+HF-signalstyrken over svingningskredsen stige og falde med AM-modulationssignalets styrke på begge side af/symmetrisk om nul.
+Noget af denne svingningsenergi tappes af dioden i takt med lyd AM-signalets modulationsstyrke. Det AM-modulerede signals positive (eller negative) del "gives" krystaløreproppen. Og er signalet stærk nok høres lydsignalet.
+Udover lydsignalet er der faktisk en omtrent dc-spænding over krystaløreproppen og den eventuelle afkoblingskondensator. Denne jævnspænding er stort set proportional med disse frekvensers signalstyrke, som er indenfor resonansfrekvensintervallet.
+
+
+== Eksterne henvisninger ==
+God beskrivelse på engelsk: electronics-tutorials.com: Crystal Radio set
+Med billeder af gamle krystalapparater: Radiofonimodtagere / broadcast receivers

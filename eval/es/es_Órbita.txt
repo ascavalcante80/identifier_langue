@@ -1,0 +1,94 @@
+nes elípticas de Jacobi la integral (**) se puede integrar como:
+
+con módulo dado por , usando este resultado par ala ecuación de la órbita se tiene:
+
+(***)
+
+donde:
+
+, es el módulo de las función elíptica de Jacobi para la órbita.
+Si , entonces  y en ese caso la órbita queda reducida al caso newtoniano clásico:
+
+Que es una elipse de excentricidad e. La órbita relativista sin embargo no es periódica es una cuasi-elipse que gira lentamente alrededor del sol. Esto se conoce como avance del perihelio que es más acusado para el planeta Mercurio. A partir de la solución (***) el perihelio aparece en  y el siguiente valor para el que se da es  (donde K es un cuarto del período, dado por la integral elíptica de primera especie completa), por lo tanto entre dos perihelios el ángulo girado no es  sino una cantidad ligeramente mayor:
+
+Para Mercurio con  el avance del perihelio predicho es de  (siendo su período de 88 días), que es prácticamente el valor experimental . Este gran acuerdo constituyó uno de los éxitos iniciales de la teoría que le dio gran aceptación general.
+
+
+== Período orbital ==
+
+El período orbital es el tiempo que tarda un planeta u otro objeto en realizar una órbita completa. Existen varios tipos de períodos orbitales para los objetos alrededor del Sol:
+El período sidéreo es el tiempo que tarda el objeto en dar una órbita completa alrededor del Sol, respecto de las estrellas. Se considera como el período orbital verdadero del objeto.
+El período sinódico es el tiempo que tarda el objeto en reaparecer en el mismo punto del cielo, respecto al Sol, cuando es observado desde la Tierra. Este período comprende el tiempo entre dos conjunciones sucesivas y es el período orbital aparante del objeto. El período sinódico difiere del sidéreo porque la Tierra también gira alrededor del Sol.
+El período draconítico es el tiempo que tarda en pasar dos veces el objeto por su nodo ascendente, el punto de su órbita que cruza la eclíptica desde el hemisferio sur al norte. Se diferencia del período sidéreo porque la línea de nodos suele variar lentamente.
+El período anomalístico es el tiempo que tarda en pasar dos veces el objeto por su perihelio, el punto más próximo al Sol. Se diferencia del período sidéreo porque el semieje mayor también suele variar lentamente.
+El período tropical es el tiempo que tarda en pasar dos veces el objeto por la ascensión recta de cero. Es ligeramente más corto que el período sidéreo debido a la precesión de los equinoccios.
+
+
+== Parámetros geométricos de la órbita ==
+
+Los elementos orbitales son los parámetros necesarios para especificar una órbita, utilizando un modelo de dos masas obedeciendo las leyes de movimiento de Newton. Existe seis parámetros básicos, también denominados elementos keplerianos en honor a Kepler:
+Longitud del nodo ascendente () .
+Inclinación().
+Argumento del perihelio ().
+Semieje mayor ().
+Excentricidad ().
+Anomalía media de la época ().
+Además, otros elementos orbitales son: anomalía verdadera (), semieje menor (), excentricidad linear (), anomalía excéntrica (), longitud media (), longitud verdadera () y período orbital ().
+
+
+== Tipos de órbitas ==
+
+
+=== Por características ===
+
+
+=== Por cuerpo central ===
+
+
+==== Órbitas terrestres ====
+Órbita geocéntrica
+Órbita geosíncrona
+Órbita geoestacionaria
+Órbita de transferencia geoestacionaria
+
+Órbita baja terrestre
+Órbita media terrestre
+Órbita de Molniya
+Órbita casi ecuatorial
+Órbita de la Luna
+Órbita polar
+Órbita tundra
+
+
+==== Órbitas marcianas ====
+Órbita areosíncrona
+Órbita areoestacionaria
+
+
+==== Órbitas lunares ====
+Órbita lunar
+
+
+==== Órbitas solares ====
+Órbita heliocéntrica
+Órbita heliosíncrona
+
+
+== Véase también ==
+Asistencia gravitatoria
+Exponente Lyapunov
+Trayectoria
+Velocidad orbital
+Vector Excentricidad
+
+
+== Referencias ==
+Abell, Morrison, and Wolff (1987). Exploration of the Universe (5ª Ed. edición). Saunders College Publishing. 
+“Rumbo al Cosmos. Los secretos de la astronáutica”
+
+
+== Enlaces externos ==
+Orbital Mechanics (en inglés)
+Motion under different kinds of force (requiere Java)
+¡Dispara una bola de cañón en órbita!, animación del cañón de Newton (requiere Flash)
+Animación interactiva de formas de órbitas

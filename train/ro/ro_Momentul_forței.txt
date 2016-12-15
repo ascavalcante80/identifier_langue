@@ -1,0 +1,53 @@
+Momentul forței este o mărime fizică vectorială ce exprimă cantitativ capacitatea forței de a roti un rigid in jurul unei drepte ce trece printr-un punct și este perpendiculara pe planul format de dreapta suport a forței și punctul respectiv. Este important în funcționarea unor aparate de zbor ca de exemplu elicopterul.
+
+
+== Momentul unei forțe în raport cu un punct ==
+
+Momentul forței  , care acționează asupra unui solid rigid ,în raport cu punctul O, numit pol, este o mărime vectorială notată cu  sau mai simplu notată cu  și reprezintă produsul vectorial dintre vectorul de poziție care unește punctul O cu un punct oarecare de pe suportul forței și forță:
+
+unde:
+ este unghiul dintre  și 
+ și este brațul forței F fața de punctul O , care reprezintă distanța de la punctul O până la dreapta suport a forței F , adica lungimea perpendicularei dusă din punctul O pe dreapta suport a forței F.
+
+Momentul unei forțe  în raport cu un punct O se exprimă analitic în raport cu sistemul de referință cartezian triortogonal drept OXZY prin relația:
+
+unde: 
+ sunt proiecțiile momentului forței F in raport cu punctul O pe axele Ox , Oz si Oz
+
+Caracteristicile vectorului moment:
+punctul de aplicație este în O , ceea ce inseamna ca vectorul moment este un vector legat;
+direcția este normală pe planul format de O și suportul forței;
+sensul este corespunzător triedrului drept;
+mărimea (modulul) acestuia este:
+
+unde d = OB se numește brațul forței și reprezinta lungimea perpendicularei dusa din O pe dreapta suport a forței.
+
+
+=== Proprietăți ===
+Momentul unei forțe în raport cu un punct arbitrar de pe dreapta suport a forței este întotdeauna nul.
+
+ ,deoarece  si  sunt coliniari.
+
+Momentul unei forțe în raport cu un punct care nu aparține dreptei suport al forței este intotdeauna constant la alunecarea forței pe dreapta sa suport.
+
+
+==== Demonstrație: ====
+
+deoarece BA si F sunt vectori coliniari.
+Punctul O se deplasează pe o dreaptă paralelă cu (Δ).
+Momentul unei forțe se schimbă dacă se schimbă polul din O în O1:
+
+iar  este legea de variație a momentului unei forțe la schimbarea punctului in raport cu care este calculat.
+
+
+== Momentul unei forțe în raport cu o axă ==
+
+Momentul unei forțe în raport cu o axă, de versor  este proiecția pe acea axă a momentului forței calculat în raport cu un punct oarecare al axei respective:
+
+
+=== Proprietăți ===
+ dacă cei trei vectori sunt coplanari: forța este paralelă cu axa Δ sau suportul forței intersectează axa.
+ nu depinde de alegerea punctului O pe axa Δ:
+Astfel, dacă se consideră un alt punct O1:
+
+Momentul unei forțe în raport cu o axă Δ este egal cu mă

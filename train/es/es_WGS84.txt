@@ -1,0 +1,13 @@
+El WGS84 es un sistema de coordenadas geográficas mundial que permite localizar cualquier punto de la Tierra (sin necesitar otro de referencia) por medio de tres unidades dadas. WGS84 son las siglas en inglés de World Geodetic System 84 (que significa Sistema Geodésico Mundial 1984).
+Se trata de un estándar en geodesia, cartografía, y navegación, que data de 1984. Tuvo varias revisiones (la última en 2004), y se considera válido hasta una próxima reunión (aún no definida en la página web oficial de la Agencia de Inteligencia Geoespacial). Se estima un error de cálculo menor a 2 cm. por lo que es en la que se basa el Sistema de Posicionamiento Global (GPS).
+Consiste en un patrón matemático de tres dimensiones que representa la tierra por medio de un elipsoide, un cuerpo geométrico más regular que la Tierra, que se denomina WGS 84 (nótese el espacio). El estudio de este y otros modelos que buscan representar la Tierra se llama Geodesia.
+
+
+== Coordenadas cartesianasEditar ==
+Por una cuestión de practicidad, proyectamos este sistema de coordenadas geodésicas (expresados en grados, minutos, segundos) a algún otro sistema de coordenadas cartesiano (pasar de un modelo 3D a uno 2D) llamados sistema de proyección típicamente UTM que se expresan en metros (en orden a su relación a un punto de origen arbitrario) que facilita cálculos de distancia y superficie.
+
+
+== Parámetros Básicos de DefiniciónEditar ==
+Semieje Mayor a: 6,378,137.0 m
+Achatamiento f: 1/298.257223563
+Producto de la Constante Gravitacional

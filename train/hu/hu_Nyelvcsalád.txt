@@ -1,0 +1,67 @@
+Nyelvcsaládnak nevezzük azon nyelvek összességét, amelyek nyelvtörténetileg bizonyítottan avagy feltételezhetően egyetlen közös ősből származnak. A nyelvcsaládokon belül ezen kívül meg lehet különböztetni kisebb csoportokat is, amelyekbe az egymáshoz leginkább közel álló nyelveket sorolják a nyelvcsalád más tagjaihoz/csoportjaihoz képest.
+A nyelvcsaládokba nem sorolható nyelveket izolált (elszigetelt) nyelveknek nevezzük (ilyen például a baszk nyelv is).
+
+
+== Az alapnyelv ==
+Egy nyelvcsalád közös ősét korábbi szóval „ősnyelvnek”, mai terminussal inkább alapnyelvnek vagy protonyelvnek nevezzük. A legismertebb nyelvcsalád, az indoeurópai nyelvcsalád alapnyelvét ős-indoeurópai nyelvnek nevezzük. Léteznek olyan alapnyelvek, amelyek történelmileg ismert nyelvek. Ilyen például az újlatin nyelvek ősnyelve, a „vulgáris latin” nyelv, de ilyen az óészaki nyelv is, melyet a norvég, svéd, dán és izlandi nyelv ősének tekintenek. Sok esetben azonban egy adott nyelvcsalád létezése, vagyis az oda sorolt nyelvek valódi rokonsága és közös ősének megléte nem bizonyított, csupán területi, nyelvtipológiai, hangtani és egyéb hasonló tulajdonságok alapján feltételezett (ilyen például a kaukázusi nyelvcsalád). A magyar nyelv a történeti nyelvészek szerint finnugor nyelvcsaládba tartozik.
+
+
+== A nyelvcsaládok szerkezete és ábrázolása ==
+A nyelvcsaládok a Föld kétdimenziós felszínén az időben alakulnak ki az alapnyelvből, majd tagjai egymás mellett illetve egymástól távolabbra elszakadva fejlődnek. Vannak nyelvek, amelyek előbb válnak ki a közösségből, így csoportok jönnek létre a családon belül, majd ezek a csoportok később újabb csoportokra válhatnak szét, miközben a nyelv terjed a Földön. A folyamat tehát legjobban egy háromdimenziós ábrával lenne szemléltethető, amely két tér és egy időkoordinátát használ. Ennek nyilvánvalóak a nehézségei egy papírlapon, ezért már a 19. században kétféle egyszerűsített ábrázolásmódot alkalmaztak, a nyelvfát és a hullámelmélet nyelvtérképét. 
+
+
+=== Nyelvfa ===
+August Schleicher 1853-ban közölte első fatörzsszerű nyelvfáját, amelyik egy idő- és egy térdimenziót használva közelítve szemléltette az indoeurópai nyelvcsalád időbeli kifejlődését az általa még indogermánnak nevezett alapnyelvből. Egyszerűsített formában ez gráfelméleti fadiagramként is ábrázolható, Schleicher azonban először valóban fatörzsszerű ábrázolást adott, amellyel szemléltette az egyes nyelvek beszélőinek feltételezett számát. Később 1861-ben és 1863-ban egyszerűsített fagráfszerű, de több nyelvet tartalmazó ábrákat adott. Ez az evolúciós diagram és szemlélet egyébként megelőzte Darwin elméletét a fajok eredetéről (1859), tehát nem annak hatására született. Teljes formájában azonban 1863-ban fogalmazta meg és ábrázolta elméletét. 
+A nyelvfa jól szemléltette időben az egyes nyelvcsoportok és nyelvek szétválását, a térben viszont csak az egyszerűsített kelet-nyugati elterjedés szemléltetését tette lehetővé, de azt is csak a kiválás pillanatában. Nem alkalmas tehát az egyes dialektusok egy-egy pillanatban elfoglalt valódi helyének és egymáshoz képesti helyzetének, a nyelvek későbbi kölcsönhatásának szemléltetésére. Nem tudta szemléltetni az elválás után megmaradó, illetve újonnan kialakuló kapcsolatokat, a közös újításokat, az egyszerű árvételeket, tehát az izoglosszákat. Ezeket a hiányosságokat már maga Schleicher felismerte. 
+
+
+=== Hullámelmélet ===
+Schleicher tanítványa, Johannes Schmidt, a nyelvfaelmélet hiányosságait részben felismerve 1872-ben tetté közzé saját elméletét, amelyet hullámelméletnek neveznek. Ennek előképe lehetett talán Adolphe Pictet 1859–83 között készült hullámelméletszerű nyelvtérképe. Hullámelméletében Schleicher nyolc izoglosszacsoportot állított fel, amelyeket egymást részben átfedő halmazszerű zárt ovális görbékkel szemléltetett. A halmazok közös részei jelképeztek egy-egy nyelvcsaládon belüli csoportot vagy nyelvet. 
+A modell először mutatta meg, hogy az egyes dialektusok közötti egyezések között nemcsak genetikus – tehát a szétválás előtti közös újításos – eredetűek, hanem affinitásos – a szétválás utáni egymás közötti kapcsolatokból származó – valamint máshonnan történő közös átvételek is. Ez a tétel lett a kiindulópontja Nyikolaj Szergejevics Trubeckoj későbbi nyelvszövetség-elméletének is. A hullámelmélet jól tudja ábrázolni adott időpillanatban a nyelvek egymáshoz képesti relatív földrajzi helyzetét, szomszédsági viszonyait. Legnagyobb hátránya azonban éppen az, hogy mindezt csak statikusan, egyetlen időpillanatban képes megtenni, nem tud számot adni az időbeli változásról. Ha pedig a nyelvcsaládban kialakult összes dialektust próbálják így ábrázolni, akkor egymástól akár több ezer évre létező dialektusok kerülhetnek egymás mellé.
+
+
+=== Nyelvfa-hullámelmélet ===
+A nyelvfamodell és hullámelmélet hiányosságait egyesítésükkel lehet kiküszöbölni, amikor minden időpontban, amikor lényeges változás történik, ábrázoljuk a hullámelmélet izoglosszáit, ahol az egyes nyelvek fejlődési irányait az izoglosszákra merőleges gráfvonalak jelzik. Erre már 1876-ban történt kísérlet, de az első használható ábrát csak 1965-ben tudta megalkotni az indoeurópai nyelvek esetére Pentti Aalto. 
+
+
+=== Nyelvszövetség-elmélet ===
+A nyelvszövetség-elmélet szerint, amelynek első formáját Trubeckoj alkotta meg,  nem szükségszerű, hogy feltételezzünk egy kis csoport által beszélt alapnyelvet, amelyik szétvándorlás során vált szét leánynyelvekre. Hosszú ideig, nagy földrajzi térségben együtt élő különböző nyelvek között akkor is kialakulnak hasonlóságok, ha eredetileg nagyon különböztek egymástól. Ma ilyen a Duna-völgyi nyelvszövetség, amely a cseh–szlovák–szerb–horvát–magyar–német nyelvekből áll. Ezen kívül Európában még legalább kilenc nyelvszövetség van. 
+Hajdú Péter korszerű nyelvszövetség-elmélete szerint  az őskőkorban, legalább 10 ezer éve az egyes nemzetségek különböző nyelveinek területi (areális) érintkezései bizonyos nagyságú területeken belül hozták létre a rokon nyelvek családjait. A terület azonban nem lehet akármilyen nagy, lehetővé kellett tennie a rendszeres érintkezést. A terület így nem lehet Himalája vagy Kaukázus nagyságú hegyrendszer. Hajdú Péter szerint is elengedhetetlenül szükséges volt egy valamikori egységes indoeurópai és uráli alapnyelv kialakulása.  A nyelvszövetség-elmélet eddig még meg nem rajzolt indoeurópai nyelvfája a koronához hasonló gyökereket is tartalmazna. 
+Az elméletnek két különösen támadható pontja van. Az egyik az, hogy nem ad számot arról, miért uralkodnak bizonyos ideig olyan viszonyok, amelyek az egységesülés felé hatnak, majd miért fordul mindez teljesen ellentétes irányba, hogy a nyelvek újra jelentősen differenciálódjanak, miközben a területi egység még fennáll, ráadásul tudásunk szerint mindez olyan időszakokban, amikor a feltételek éppen kedvezőtlenek az adott irányú folyamat számára. A mezolitikum viszonyai között jött volna létre az egységesülés, amikor azok éppen a differenciálódásnak kedveztek és a régészet is a kis kultúrák tarka viszonyait mutatja szemben mind az az őskőkori, mind az újkőkori kulturálisan sokkal egységesebb képével. Majd a neolitikum egységesülés felé ható gazdasági integrálódási folyamatai – eke, fazekaskorong, stb. elterjedése – idején jött létre a nyelvi differenciálódás. Az elmélet másik gyengéje, hogy nem tud meghatározni időpontokat és időhatárokat, így teljességgel lehetetlen a régészeti azonosítás. Nem tudjuk például, mit jelent régészeti szempontból egy őskőkori nemzetség terület, létszám és jellemzők szempontjából. 
+
+
+== Nyelvcsaládok ==
+Bár az alábbi csoportok neve legtöbbször „nyelvcsalád” vagy „nyelvek”, helyettük sokszor inkább az annál is bővebb nyelvtörzs, ill. nagy nyelvtörzs kategória értendő.
+A nyelvcsaládok elnevezése vagy földrajzi alapú (pl. kaukázusi nyelvek), vagy az adott nyelvcsalád két – vagy időben / térben (leg)távolabbi vagy legreprezantatívabb (pl. indoeurópai, korábban indogermán: szanszkrit és német nyelv; sino-tibeti: kínai és tibeti nyelvek) – nyelvének nevéből tevődik össze, ritkábban etnikai alapú (pl. koiszan nyelvek: a khoi és a busman (szan) népcsoport nevéből).
+
+
+=== Elsődleges nyelvcsaládok ===
+Nagy, elsődleges, fő vagy legfelső szintű nyelvcsaládok (phylum, stock), melyek között a földrajzi közösségen kívül genetikai rokonság is kimutatható. Létezésük és nyelvészeti használatuk általánosan elfogadott. Valamennyi nagy nyelvcsalád további al-nyelvcsaládokat tartalmaz, több nagy nyelvcsalád összekapcsolásával pedig úgynevezett makronyelvcsaládok (lásd lejjebb) jönnek létre.
+Afroázsiai nyelvcsalád
+Altaji nyelvcsalád
+Ausztroázsiai nyelvcsalád
+Ausztronéz nyelvcsalád
+Dravida nyelvcsalád
+Eszkimó-aleut nyelvcsalád
+Indoeurópai nyelvcsalád (ide tartozik valamennyi európai nyelv, köztük egyes világnyelvek – angol, spanyol, német, francia –; kivéve a finnugor nyelveket, valamint a máltai és a baszk nyelvet)
+Kaukázusi nyelvcsalád
+Koiszan nyelvcsalád
+Niger-kongói nyelvcsalád (a korábbi kongó-kordofáni nyelvcsalád tagjait ebbe és az afroázsiai nyelvcsaládba sorolták be)
+Nílus-szaharai nyelvcsalád
+Sino-tibeti nyelvcsalád
+Tai-kadai nyelvcsalád (olykor kam-thai nyelvcsalád vagy thai nyelvek)
+Uráli nyelvcsalád (ezen belül a finnugor nyelvek)
+
+
+=== Csak földrajzi alapú nyelvcsaládok ===
+A csak földrajzi alapon létrehozott nyelvcsaládok (vagy még inkább "nyelvközösségek") több, egymással nem rokon nyelvcsaládot tartalmaznak. A földrajzi alapú átfogó elnevezés ebben az esetben a nyelvek és al-nyelvcsaládok nagy száma miatt szükséges.
+Amerikai indián nyelvek (benne például az algonkin és a sziú nyelvcsalád)
+Ausztráliai nyelvek
+Pápua nyelvek
+Paleoszibériai nyelvek
+
+
+=== Makronyelvcsaládok ===
+A makronyelvcsaládok (macrofamily, superfamily, phylum) több fő nyelvcsalád összekapcsolásából létrehozott, feltételezett óriás nyelvcsaládok. Létezésük és megítélésük általában vita tárgya, érdekességük azonban, hogy a klasszikus rendszerezés alapján besorol(hat)atlan, úgynevezett szigetnyelveket is magukba képesek foglalni. Néhány példa:
+Ausztro-tai nyelvcsalád (ausztronéz + tai-kadai)
+Eurázsiai nyelvcsalád (indoeurópai, urál-altaji, eszkimó-aleut; koreai, japán, etruszk)

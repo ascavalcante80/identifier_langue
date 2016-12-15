@@ -1,0 +1,40 @@
+Vridmoment eller kraftmoment är ett mått på en krafts förmåga att vrida ett objekt kring en viss axel. Det kan också beskrivas som den hävstångsverkan som kraften ger upphov till. Vridmomentet beror av kraften som verkar på hävarmen och hävarmens längd. Storheten vridmoment betecknas ofta med den grekiska bokstaven  men andra beteckningar som M och N förekommer. Den härledda SI-enheten för vridmoment är newtonmeter (Nm). Tidigare mättes vridmoment ofta i kilopondmeter. Ett vridmoment kan anges antingen som en skalär eller en vektoriell storhet.
+
+
+== Beräkning av vridmomentRedigera ==
+
+
+=== Skalär storhetRedigera ===
+Vridmomentet är proportionellt mot kraften F och mot momentarmen (hävarmen), det vill säga mot det vinkelräta avståndet r mellan kraftens verkningslinje (tänkt linje parallell med kraften genom kraftens angreppspunkt) och rotationsaxeln. Vridmomentet med avseende på rotationsaxeln är då
+
+
+=== Vektoriell storhetRedigera ===
+
+En kraft F (se figur 1) utövas från en position bestämd av lägesvektorn r relativt rotationsaxeln. Endast den vinkelräta komponenten F⊥ ger upphov till ett vridmoment
+
+alternativt
+
+med beloppet τ = |r| |F⊥| = |r| |F| sin θ och har en riktning vinkelrät mot både r och F⊥ (är parallell med rotationsaxeln) och som kan bestämmas med högerhandsregeln.
+
+
+== Relation till rörelsemängdsmomentRedigera ==
+Vridmomentet är ett mått på ändringen av en kropps rörelsemängdsmoment enligt
+
+där Lo är rörelsemängdsmomentet med avseende på en fix punkt O och t är tiden. Motsvarande relation gäller även med avseende på kroppens masscentrum.
+Därmed kommer vridmomentets vektor att ha samma riktning som den ändring av rörelsemängdsmomentets vektor som den orsakar. Speciellt förblir rörelsemängdsmomentet konstant om vridmomentet är lika med nollvektorn.
+För en partikel kan relationen härledas från rörelsemängdsmomentets definition
+
+där p är rörelsemängden.
+Genom att derivera med avseende på tiden erhålls
+
+vilket enligt definitionen av rörelsemängd, p = mv, kan skrivas som
+
+Den andra faktorn i den första termen i högerledet är enligt Newtons andra lag den totala kraft som verkar på partikeln, medan den andra termen är noll då den är kryssprodukten av två parallella vektorer och därmed erhålls den sökta relationen som
+
+Motsvarande samband för en kropp med utbredning i rummet kan härledas på liknande sätt genom att modellera denna som ett system av partiklar som påverkar varandra med centralkrafter.
+
+
+== Vridmoment och energiRedigera ==
+Om en kraft tillåts verka över en viss distans uträttas ett mekaniskt arbete. Om ett vridmoment verkar under en viss rotation uträttas likaså ett mekaniskt arbete. För rotation kring en fix axel genom en kropps tyngdpunkt kan detta arbete skrivas
+
+där W är arbetet (energin), τ är vridmomentet oc

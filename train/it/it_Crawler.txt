@@ -1,0 +1,41 @@
+Un crawler (detto anche web crawler, spider o robot), è un software che analizza i contenuti di una rete (o di un database) in un modo metodico e automatizzato, in genere per conto di un motore di ricerca.
+Un crawler è un tipo di bot (programma o script che automatizza delle operazioni). I crawler solitamente acquisiscono una copia testuale di tutti i documenti visitati e le inseriscono in un indice.
+Un uso estremamente comune dei crawler è nel Web. Sul Web, il crawler si basa su una lista di URL da visitare fornita dal motore di ricerca (il quale, inizialmente, si basa sugli indirizzi suggeriti dagli utenti o su una lista precompilata dai programmatori stessi). Durante l'analisi di un URL, identifica tutti gli hyperlink presenti nel documento e li aggiunge alla lista di URL da visitare. Il processo può essere concluso manualmente o dopo che un determinato numero di collegamenti è stato seguito.
+Inoltre i crawler attivi su Internet hanno la facoltà di essere indirizzati da quanto indicato nel file "robots.txt" posto nella root del sito. All'interno di questo file, è possibile indicare quali pagine non dovrebbero essere analizzate. Il crawler ha la facoltà di seguire i consigli, ma non l'obbligo.
+Ecco di seguito una tabella con i nomi degli spider dei principali motori di ricerca aggiornati al 21 febbraio 2008:
+
+
+== Esempi di Web crawlers ==
+La seguente è una lista di architetture pubbliche di crawler di carattere generico:
+Bucean (Eichmann, 1994) è stato il primo crawler pubblico. È basato su due programmi: il primo, "spider" mantiene la richiesta in un database relazionale, e il secondo "mite", è un browser www ASCII che scarica le pagine dal web.
+WebCrawler (Pinkerton, 1994) è stato usato per costruire il primo indice testuale di pubblicità di un ramo del web. Era basato su lib-WWW per scaricare le pagine, e un altro programma per analizzare e ordinare URL per esplorazione tramite metodo grafico breadth-first. Include anche un crawler in tempo reale che segue i collegamenti basati sulle similarità del testo-ancora con la query condizionale.
+TennSpider (McBryan, 1994) era un crawler usato per costruire un semplice indice di titoli di documento e URL. L'indice poteva essere cercato usando il comando grep Unix.
+Google Crawler (Brin and Page, 1998) è descritto in alcuni dettagli, ma il riferimento è solo su una precedente versione di quell'architettura, la quale è basata su C++ e Python. Il crawler fu integrato col processo di indicizzazione, perché la selezione del testo fu fatta per indicizzare completamente il testo e anche per l'estrazione degli URL. Un server URL invia liste di URL per essere prelevato da diversi processi di crawling. Durante il parsing, gli URL trovati sono inviati a un server URL che controlla se l'URL è stato visto precedentemente. Se no, l'URL è aggiunto all'interrogazione del server URL.
+VnzOwna (da Silva et al., 1999) usato come schedulatore centrale e serie di collettori distribuiti. I collettori parsificano le pagine web scaricate e inviano gli URL scoperti allo schedulatore, il quale assegna il turno ai collettori. Lo schedulatore rinforza la ricerca ordinata breadth-first con una politica senza ordine per evitare il sovraccarico dei server web. Il crawler è scritto in Perl.
+Mercator (Heydon and Najork, 1999; Najork and Heydon, 2001) è un web crawler modulare distribuito e scritto in Java. La sua modularità sorge dall'uso di "moduli di protocollo" intercambiabili e "modelli di processo". I moduli di protocollo sono correlati per acquisire le pagine web (es: HTTP), e i moduli di processo sono correlati per processare le pagine web. I moduli standard possono essere usati per indicizzare il testo delle pagine, o per raccogliere statistiche dal Web.
+WebFountain (Edwards et al., 2001) è un crawler simile a Mercator ma scritto in C++. La sua particolarità sta nella "controller machine" che coordina una serie di "macchine-formiche". Dopo un ripetitivo scarico di pagine, un fattore di cambio è calcolato per ogni pagina e un metodo di programmazione non lineare deve essere usato per risolvere il sistema di equazione per massimizzare l'aggiornamento. Gli autori raccomandano di usare questo ordine di crawling nelle prime parti, e poi scambiare l'ordine uniforme nel quale tutte le pagine sono state visitate con la stessa frequenza.
+PolyBot [Shkapenyuk and Suel, 2002] è un crawler scritto in C++ e Python, composto da un manager, uno o più downloader e uno o più rilevatori DNS. Gli URL collezionati sono aggiunti su disco e processati più tardi per cercarli in modalità batch. La regolamentazione considera entrambi domini di terzi e secondi livelli (es di terzo: www.aaa.com, www2.aaa.com) perché i domini di terzo livello sono solitamente ospitati dallo stesso webserver.
+WebRACE (Zeinalipour-Yazti and Dikaiakos, 2002) è un modulo sviluppato in Java di crawling e caching, e usato come parte di un sistema più generico chiamato eRACE. La maggior funzionalità che spicca in Webrace è che, mentre molti crawler iniziano a cercare con un set di semi URL, WebRACE riceve continuamente nuovi URL dal form.
+Ubicrawler (Boldi et al., 2004) è un crawler scritto in Java. È composto da un numero di 'agenti' identici e la funzione di assegnamento è calcolata usando l'hashing dei nomi di host. Non c'è overlap, questo significa che nessuna pagina è indicizzata due volte, fino a quando un agente crawler non crasha; raggiunge alta scalabilità ed è tollerante ai fallimenti.
+FAST Crawler (Risvik and Michelsen, 2002) è un crawler usato dai Fast Search & Transfer.
+Labrador,un crawler privato che collabora con il progetto Open Source chiamato Terrier Search Engine.
+Spinn3r, è un crawler usato per costruire l'anima di Tailrank.com. Spinn3r è basato su Java e la maggior parte dell'architettura è Open Source.
+HotCrawler, è scritto in C e PHP.
+
+
+=== Crawler di tipo open-source ===
+DataparkSearch è un crawler e motore di ricerca distribuito sotto la GNU General Public License.
+Ebot è un crawler scalabile e distribuito scritto in Erlang e distribuito sotto la GNU General Public License.
+Wget è un crawler a riga di comando scritto in C e distribuito sotto la GNU General Public License. È tipicamente usato per siti mirror e FTP.
+Heritrix è il crawler di maggior qualità di estrazione dagli archivi web, studiato per archiviare periodici screenshot di una larga porzione del web. È stato scritto in Java.
+Htdig include un crawler web nel suo motore di indicizzazione.
+HTTrack usa un web crawler per creare una replica di un sito web per la consultazione off-line. È stato scritto in C e distribuito sotto licenza GNU GPL.
+JSpider è un web spider altamente personalizzabile distribuito sotto licenza GNU GPL.
+Methabot è un web crawler ottimizzato per la velocità e a riga di comando scritta in C e distribuito sotto licenza ISC. Comprende un sistema di configurazione, un modulo di sistema e supporto per obiettivi di crawling attraverso il file system locale, HTTP o FTP.
+Nutch è un crawler scritto in Java sotto licenza Apache. Può essere usato assieme all'indice testuale creato con Lucene.
+WebVac è un crawler usato dal Stanford WebBase Project.
+WebSPHINX (Miller e Bharat, 1998) è composto da una libreria Java che implementa la query multipla delle pagine web e il parsing HTML, un'interfaccia utente grafica per impostare gli indirizzi di partenza per estrarre i dati scaricati e per implementare un motore di ricerca basilare di testo.
+WIRE - Web Information Retrieval Environment (Baeza-Yates e Castillo, 2002) è un web crawler scritto in C++ e distribuito sotto licenza GPL, inclusi diverse linee di condotta per catalogare le pagine web scaricate e un modulo per generare statistiche e rapporti sulle pagine scaricate, usato per la caratterizzazione web.
+LWP::RobotUA (Langheinrich , 2004) è una classe Perl distribuita sotto licenza Perl5.
+Web Crawler è web crawler open source per .NET scritto in C#.
+Sherlock Holmes raccoglie e indicizza dati testuali (file di testo, pagine web, ecc.), sia localmente che nella r

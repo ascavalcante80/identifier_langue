@@ -1,0 +1,13 @@
+Daya dalam fisika adalah laju energi yang dihantarkan atau kerja yang dilakukan per satuan waktu. Daya dilambangkan dengan S. Mengikuti definisi ini daya dapat dirumuskan sebagai:
+<math>
+S= \frac{W}{t}\, </math> di mana
+S adalah daya
+W adalah usaha
+t adalah waktu
+Daya rata-rata (sering disebut sebagai "daya" saja bila konteksnya jelas) adalah kerja rata-rata atau energi yang dihantarkan per satuan waktu. Daya sesaat adalah limit daya rata-rata ketika selang waktu Δt mendekati nol.
+<math>
+S = \lim_{\Delta t\rightarrow 0} \frac{\Delta W}{\Delta t} = \lim_{\Delta t\rightarrow 0} P_\mathrm{avg} \, </math>
+
+Bila laju transfer energi atau kerja tetap, rumus di atas dapat disederhanakan menjadi:
+<math>
+S = \frac{W}{t}

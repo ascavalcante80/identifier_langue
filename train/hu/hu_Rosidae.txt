@@ -1,0 +1,28 @@
+A Rosidae a zárvatermők egy csoportja. A hagyományos rendszertanok (pl. Cronquist-rendszer, Tahtadzsjan-rendszer) a kétszikűek osztályának egy alosztályaként tartják számon. Az Angiosperm Phylogeny Group rendszertanaiban, így a legkorszerűbb APG III-rendszerben is a rosids névvel jelzett kládnak feleltethető meg.
+Fosszíliáik a kréta időszak óta ismertek. Molekuláris órán alapuló becslések szerint a rosids csoport a kréta időszak apti vagy albai korszakában jelent meg, 125-99,6 millió évvel ezelőtt. Az alkalmazott leírástól függően 16-20 rend tartozik ide, melyekbe mintegy 140 növénycsaládot sorolnak.
+Körülbelül 70 000 faj tartozik ide, ami az összes zárvatermőfaj több mint egynegyedét jelenti.
+
+
+== Név ==
+A „rosids” név a „Rosidae” rendszertani néven alapul, amit általában alosztálynak tekintenek. 1967-ben Armen Tahtadzsjan megmutatta, hogy a „Rosidae” név alapja a Friedrich Gottlieb Bartling által 1830-ban készített taxonleírás. Ezt a csoportot nevezték át később „Rosidae”-ra; később különböző szerzők különféleképpen határolták be a taxont. A „rosids” név informális, azaz nincs hozzá rendelve semmilyen taxonómiai szint, mint amiket az ICBN osztogat. A rosids monofiletikus csoport, a kládok molekuláris filogenetikai vizsgálata alapján.
+A rosids csoport három különböző leírása van jelenleg használatban. Egyes szerzők idesorolják a Saxifragales és Vitales rendeket. Mások mindkettőt kizárják a csoportból. Ebben a cikkben az APG III-rendszer leírása szerepel, ami a csoportba tartozónak tekinti a Vitales, de nem a Saxifragales rendet.
+
+
+== Kapcsolatok ==
+A rosids és a Saxifragales együtt monofiletikus csoportot alkotnak. Ez a 6 csoport egyike, melyek együtt a Pentapetalae kládot („ötszirmúak”, a core eudicots mínusz a Gunnerales rend) alkotják, ahol a másik öt csoport a Berberidopsidales, Caryophyllales, Dilleniales, Santalales és az asterids. A csoportok közötti kapcsolatról még keveset tudunk.
+A rosid klád morfológiailag igen változatos, így nehezen jellemezhető csoport. Gyakori, hogy az egyszerűbb, háromnyílású (pl. trikolpát) pollenszemeket összetettebb (pl. poliporát) virágporszem váltja fel.
+
+
+== Felbontása ==
+A rosids két csoportra osztható: a Vitales rendre és az eurosids (valódi rosids) csoportra.
+Az eurosids tovább osztható, az eurosids I (fabids) csoportra, a Geraniales, Myrtales, Crossosomatales és Picramniales rendekre (Ha a négy rendet belefoglaljuk az eurosids I-be, akkor a tágabb értelemben vett (sensu lato), egyébként sensu stricto eurosids I-ről beszélhetünk. Az APG III-rendszer belátta a sensu lato leírás monofiletikusságát.), az eurosids II (malvids) csoportra és a rendbe nem sorolt Apodanthaceae családra. Az Apodanthaceae család az APG III eredeti publikációjában még a zárvatermők szintjén incertae sedis taxon volt, azóta úgy tűnik, az eurosids csoporton belül található.
+
+
+=== Rendek ===
+A rosids 17 rendből és két rendbe nem sorolt családból áll. Az alapi helyzetű Vitales renden kívül a 8-8 rendet tartalmazó eurosids I (fabids) és eurosids II (malvids) kládokból áll. Korábban négy rendet, a Geraniales, Myrtales, Crossosomatales és Picramniales a fabids és a malvids kládokon kívül írták le, vagy legfeljebb a malvids 'sensu lato'-hoz sorolták őket. 2009-ben azonban Hengchang Wang és társai javaslatot tettek arra, hogy a malvids csoportba foglalják bele a Geraniales, Myrtales, Crossosomatales és Picramniales rendeket is. Ezt a tágabb leírást az általuk elvégzett analízis igen erősen támogatta (100% bootstrapping). Egyes ide tartozó rendeket csak nemrég írtak le. Ezek a Vitales, Zygophyllales, Crossosomatales, Picramniales, és Huerteales rendek.
+
+
+=== Rendbe nem sorolt családok ===
+Az Apodanthaceae és Huaceae családok a rosids csoporton belül találhatók, de nem sorolták őket egyik rendhez sem.
+Az Apodanthaceae a klorofillt nem tartalmazó, parazita növények rejtélyes családja. Egyes szerzők a Cucurbitales rendbe helyezték, de kapcsolataik még nem világosak. A növényi leszármazási fa meghatározását általában nagyban segítő kloroplasztiszgének itt nem nyújtanak sok információt, mivel a klorofillt nem tartalmazó növényeknél ezek nem működő, ún. pszeudogének.
+A Huaceae család

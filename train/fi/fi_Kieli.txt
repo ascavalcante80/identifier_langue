@@ -1,0 +1,42 @@
+Kieli on järjestelmä, jossa ihminen ilmaisee ajatuksensa kielellisillä merkeillä, abstraktioilla. Näitä merkkejä nimitetään kielellisiksi ilmauksiksi. Puhutuissa kielissä kuuluvia (auditiivisia) merkkejä tuotetaan puhe-elimillä. Kirjoitetussa kielessä kielelliset ilmaukset on tehty silmin nähtäviksi eli luettaviksi. Viitotuissa kielissä kielelliset ilmaukset ovat visuaalisia, eivät auditiivisia. Eri kieliä tutkii kielitiede. Kognitiotiede tutkii kieltä hieman erilaisesta näkökulmasta: biolingvistiikka tutkii niitä ihmisaivojen rakenteita jotka tuottavat kaikki kielet ja niiden samankaltaisen perusrakenteen.
+Kieli on viestinnän ja abstraktin ajattelun väline. Sitä on pidetty eräänä olennaisena erona ihmisen ja muiden eläinten välillä. Useimmat eläimet tosin viestivät jollakin tavalla, mutta ihmiskieli on kehittynyt selvästi pisimmälle. Eräät kädellisten yksilöt, kuten simpanssit ja gorillat, ovat ihmisten koulutuksessa oppineet ilmaisemaan monimutkaisiakin käsitteitä viittomilla.lähde?
+Kieli mahdollistaa abstraktina ajatteluna tulevaisuuden ja menneisyyden käsittelyn. Kieli siis laajentaa ja tehostaa niiden vasteiden määrää, joilla yksilö voi sopeutua ympäristöönsä, erityisesti yhteisönä, yhteistyötä tekevänä yksilöiden kokonaisuutena. Kielen syntyminen on ilmeisesti ollut laukaiseva tekijä tieteen, taiteen ja tekniikan syntyyn.
+Eläinten ja hyönteisten viestintä tapahtuu myös kemiallisen "kielen" välityksellä, esimerkkinä reviirin rajojen merkitseminen hajuilla. Kemiallisella kielellä on merkitystä myös ihmisten viestinnässä. Ihmisellä on esimerkiksi kyky tunnistaa jollain merkitystä omaavalla tasolla vastakkainen sukupuoli, jolla on mahdollisimman erilainen immuunijärjestelmä. Evoluution kannalta tämä takaa jälkeläisille mahdollisimman monipuolisen immuunijärjestelmän, siis eloonjäännin.
+
+
+== Luonnolliset kielet ==
+Luonnollinen kieli on ”luonnollinen” kolmessa eri mielessä:
+Se on kehittynyt vuosituhansien aikana jossakin ihmisyhteisössä.
+Se on jonkun yksilön ensikieli eli äidinkieli, jonka hän on lapsena omaksunut (ei opiskellut tietoisesti).
+Sitä käytetään erilaisissa tilanteissa yhteydenpitovälineenä ja maailman hahmotustapana.
+Luonnollisen kielen ominaispiirteitä ovat:
+Äänellisyys, eli kieli välittyy ensisijaisesti puhe-elinten avulla muodostetun äänen avulla (tästä poikkeuksena viittomakielet).
+Sisällön riippumattomuus muodosta, eli esimerkiksi sana lapsi ei mitenkään muistuta lasta.
+Sisällön ja muodon konventionaalinen suhde, eli tietyssä kielessä tietty ilmaus (muoto) on vakiintunut tarkoittamaan juuri tiettyä asiaa (sisältöä). Esimerkiksi suomessa tietynlaista eläintä sanotaan kissaksi, mutta muissa kielissä muoto on erilainen, kuten engl. cat, ruots. katt, unk. macska ja ven. кοшка (koška).
+Vapaus tilannesidonnaisuudesta, eli kielen avulla voidaan puhua asioista, jotka eivät ole läsnä tietyssä tilanteissa tai joita ei ole lainkaan olemassa.
+Kielikyvyn myötäsyntyisyys, eli ihmislapsella on synnynnäinen kyky omaksua kieli, jota hänen ympäristössään puhutaan.
+
+
+=== Kielten luokittelu ja kielikunnat ===
+Maailmassa on tuhansia kieliä. Tavallisesti arvio liikkuu 6 000 kielen paikkeilla. Se vaihtelee kuitenkin tuhansilla puoleen ja toiseen, koska kielen ja murteen välinen rajanveto on vaikeaa. Tässä ei pyritäkään täyteen johdonmukaisuuteen: esim. ruotsi, norja ja tanska lasketaan kolmeksi eri kieleksi, vaikka ne ovat keskenään melko hyvin ymmärrettävissä, mutta kiinan kieli ja arabian kieli lasketaan kumpikin yhdeksi kieleksi, vaikka murre-erot ovat niin suuret, etteivät kaikki kiinan puhujat ymmärrä toisiaan eivätkä kaikki arabian puhujat toisiaan.
+Luonnolliset kielet luokitellaan
+typologisesti tyyppeihin (lingvistinen typologia eli kielitypologia)
+genealogisesti kielikuntiin (historiallis-vertaileva eli komparatiivinen kielentutkimus),
+
+
+== Keinotekoiset kielet ==
+
+
+=== Kansainväliset apukielet ===
+Kansainvälinen apukieli on keinotekoinen kieli, joka on kehitetty universaalikieleksi eli erikielisten ihmisten väliseksi apukeinoksi. Niiden taustalla on yleensä ihanteellisia pyrkimyksiä: on haluttu ratkaista maailman monikielisyyden aiheuttamat ongelmat ja pyritty maailmanrauhaan. Menestyksellisimmät apukielet perustuvat luonnollisiin kieliin. Sanasto perustuu yleensä romaanisiin tai germaanisiin kieliin, ja kieliopista on pyritty tekemään mahdollisimaan yksinkertainen. Tunnetuimpia apukieliä ovat:
+volapük (1880)
+esperanto (1887)
+ido (1907)
+novial (1928)
+interlingua (1951)
+lingua franca nova (1965)
+slovio (2001)
+
+
+=== Formaalit kielet ===
+Formaalisia kieliä ovat esimerkiksi propositiologiikka ja tietokoneen ohjelmointikielet. Toisin kuin luonnolliset kielet, ne ovat keinotekoisia. Formaaliset ki

@@ -1,0 +1,28 @@
+I fysikken er effekt definert som arbeid utført per tidsenhet. Måleenheten for effekt i SI-systemet er watt og målenheten for arbeid er Joule. En watt tilsvarer å omsette eller forbruke en Joule per sekund.
+Mens watt uttrykker arbeid per sekund, uttrykker kWh/h arbeid per time, et uttrykk som benyttes innen kraftproduksjon.
+Siden en Joule tilsvarer et arbeid lik det å skyve med en kraft av 1 Newton over en avstand av 1 meter, vil en effekt på 1 watt kunne skyve en gjenstand med en kraft av 1 Newton med en hastighet av 1 meter per sekund. Dette tilsvarer å heise ca. 102 gram 1 meter opp per sekund ved jordoverflaten.
+En eldre enhet for effekt som fremdeles er mye i bruk er hestekraft. En metrisk hestekraft tilsvarer 735,49875 watt, eller å heise 75 kg en meter opp per sekund.
+En kW tilsvarer 1,36 hestekraft.
+
+
+== Formler ==
+Sammenheng mellom effekt, turtall og dreiemoment er gitt ved:
+
+der
+ står for effekt
+ står for dreiemoment i Newtonmeter og
+ står for omdreiningshastighet i radianer per sekund.
+En omdreining er 2  radianer. Har man for eksempel oppgitt at en motor yter 100 Nm ved 6000 omdreininger per minutt er effekten således
+100 * (6000/60) * 2  = ca. 63 Kilowatt
+
+Sammenheng mellom effekt, kraft og hastighet er gitt ved:
+
+der
+ står for hastighet i meter per sekund og
+ står for kraft i Newton
+Hvis man skyver en kjelke av gårde med en kraft på 10 Newton i en hastighet av 2 meter per sekund yter man en effekt på 20 Watt. Vi forutsetter her at retningen på kraften man skyver med i er i samme retning som hastigheten.
+
+Sammenheng mellom effekt, arbeid og tid er gitt ved
+
+der
+ står for arbeid målt i Joule

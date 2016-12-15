@@ -1,0 +1,19 @@
+En astronomía, magnitud absoluta ('M') es la magnitud aparente, 'm', que tendría un objeto si estuviera a una distancia de 10 parsecs (alrededor de 32,616 años luz, o 3 × 10 14km) en un espacio completamente vacío sin absorción interestelar. La ventaja de la magnitud absoluta es que tiene una relación directa con las luminosidades de los astros, siendo la misma relación para cada uno de ellos, pudiendo así, al comparar las magnitudes absolutas entre dos o más astros, también comparar las luminosidades entre ellos —ya que la distancia no influye de ninguna forma.
+Magnitud absoluta de un cometa o asteroide es el brillo que tendría el astro en cuestión si estuviera situado a 1 ua tanto del Sol como de la Tierra y su ángulo de fase fuese 0º, es decir completamente iluminado por el Sol.
+
+
+== DefiniciónEditar ==
+Para definir la magnitud absoluta es necesario especificar el tipo de radiación electromagnética que está siendo medida. La magnitud absoluta se deduce generalmente de la magnitud visual medida con un filtro V, expresándose como Mv. Si está definida para otras longitudes de onda, llevará diferentes subíndices, y si se considera la radiación en todas las longitudes de onda, recibe el nombre de magnitud absoluta bolométrica (Mbol).
+La magnitud absoluta se puede hallar, si se conoce la magnitud aparente () y la distancia () en parsec por medio de:
+
+M = m + 5 – 5 × log d   [1]
+
+o bien si se conoce el paralaje (π) por
+
+M = m + 5 + 5 × log π   [2]
+
+Por ejemplo, para Vega (α Lyr) es m = +0,03 y π = 0”129; teniendo entonces:
+
+M = 0,03 + 5 + (5 × (—0,88941)) = 0,58
+
+único en su clase, es el Sol; su magnitud visual es m = —26,75, pero la paralaje solar es la que corresponde a la 

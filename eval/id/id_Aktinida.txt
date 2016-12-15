@@ -1,0 +1,63 @@
+nsi: 1.42 Å
+Struktur Kristal: orthorombic
+Massa Jenis: 18.95 g/cm3
+Konduktivitas Listrik: 3.6 x 106 ohm−1cm−1
+Elektronegativitas: 1.38
+Konfigurasi Elektron: [Rn]5f3 6d1 7s2
+Formasi Entalpi: 15.48 kJ/mol
+Konduktivitas Panas: 27.6 Wm−1K−1
+Potensial Ionisasi: 6.05 V
+Titik Lebur: 1408 K
+Bilangan Oksidasi: 6,5,4,3
+Kapasitas Panas: 0.12 Jg−1K−1
+Entalpi Penguapan: 422.58 kJ/mo
+
+
+=== Neptunium, Plutonium, dan Ameresium ===
+Kimiawi U, Np, Pu dan Am sangat mirip dan senyawaan padat biasanya isomorf. perbedaan utama unsur-unsur tersebut adalah dalam kestabilan tingkat oksidasinya dalam larutan. Dari unsur-unsur tersebut yang dapat dijumpai dalam kehidupan sehari-hari adalah ameresium yang dipakai sebagai “detector asap” dalam gedung dengan memanfaatkan udara (dalam gedung) terionisasi sehingga mengakibatkan arus listrik mengalir dan pertikel-partikel asap akan menghalangi aliran ion-ion sehingga arus listrik terhenti dan tanda bahaya/alarm berbunyi.
+Keterangan Unsur Neptunium:
+Simbol: Np
+Radius Atom: 1.3 Å
+Volume Atom: 21.1 cm3/mol
+Massa Atom: 237.048
+Titik Didih: 4175 K
+Radius Kovalensi: Å
+Struktur Kristal: orthorombic
+Massa Jenis: 20.2 g/cm3
+Konduktivitas Listrik: 0.8 x 106 ohm−1cm−1
+Elektronegativitas: 1.36
+Konfigurasi Elektron: [Rn]5f4 6d1 7s2
+Formasi Entalpi: kJ/mol
+Konduktivitas Panas: 6.3 Wm−1K−1
+Potensial Ionisasi: 6.19 V
+Titik Lebur: 912 K
+Bilangan Oksidasi: 6,5,4,3
+Kapasitas Panas: Jg−1K−1
+Entalpi Penguapan: kJ/mol
+Keterangan Unsur Plutonium:
+Simbol: Pu
+Radius Atom: 1.51 Å
+Volume Atom: 12.32 cm3/mol
+Massa Atom: -244
+Titik Didih: 3505 K
+Radius Kovalensi: 1.08 Å
+Struktur Kristal: Monoclinic
+Massa Jenis: 20.2 g/cm3
+Konduktivitas Listrik: 0.8 x 106 ohm−1cm−1
+Elektronegativitas: 1.28
+Konfigurasi Elektron: [Rn]5f6 7s2
+Formasi Entalpi: kJ/mol
+Konduktivitas Panas: 6.3 Wm−1K−1
+Potensial Ionisasi: 6.19 V
+Titik Lebur: 913 K
+Bilangan Oksidasi: 6,5,4,3
+Kapasitas Panas: Jg−1K−1
+Entalpi Penguapan: kJ/mol
+
+
+== Daftar Referensi ==
+
+Sugiyarto, K. H., 2012, Dasar – Dasar Kimia Anorganik Transisi, Yogyakarta: Graha Ilmu
+Cotton dan Wilkinson, 2013, Kimia Anorganik Dasar, Jakarta: Penerbit Universitas Indonesia (UI-Press)
+Saito Taro (diterjemahkan oleh Ismunandar), 1996, BUKU TEKS KIMIA ANORGANIK ONLINE Terjemahan, Terbit dengan izin dari Iwanami Publishing Company
+http://www.chem-is-try.org/

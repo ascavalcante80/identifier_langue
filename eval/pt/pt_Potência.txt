@@ -1,0 +1,14 @@
+ estando a corrente alternada em equilíbrio, a potência fornecida é dado por: 
+
+No qual V e I representam respectivamente, a tensão entre as fases e á corrente presente em uma das fases. Em relação a corrente alternada, a potência pode ser decomposta em duas componentes: a potência Ativa, relacionada com as cargas de caráter resistivo, e a potência Reativa, decorre da formação periódica dos campos magnético e elétrico no circuito. 
+
+
+== Potência e energia ==
+Potência pode estar relacionado a qualquer processo em que haja fluxo de energia. E um sistema no qual se fornece (ou recebe) energia , em um intervalo de tempo , a potência média fornecida(ou recebida) pelo sistema pode ser dado por: 
+
+
+== Rendimento ==
+Potência esta relacionado com a energia recebida, no qual um objeto ao receber uma potência não é capaz de transformar a energia total inteiramente em trabalho, energia será perdida em algum momento do processo. A potencia total entregue num sistema sera denominada potencia total, enquanto que a energia perdida num processo, por exemplo, a energia perdida com o atrito, sera denominada de potência dissipada, a energia que sobra, que e capaz de realizar um trabalho é denominada de potencia útil. O rendimento esta relacionado entre o quociente entre a potência utilizada para provocar a ação e a potencia total fornecida. 
+
+
+== Referências ==

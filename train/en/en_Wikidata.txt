@@ -1,0 +1,28 @@
+Wikidata is a collaboratively edited knowledge base operated by the Wikimedia Foundation. It is intended to provide a common source of certain data types (for example, birth dates) which can be used by Wikimedia projects such as Wikipedia. This is similar to the way Wikimedia Commons provides storage for media files and access to those files for all Wikimedia projects. Wikidata is powered by the software Wikibase.
+
+
+== Concepts ==
+
+Wikidata is a document-oriented database, focused around items. Each item represents a topic (or an administrative page used to maintain Wikipedia) and is identified by a unique number, prefixed with the letter Q—for example, the item for the topic Politics is Q7163. This enables the basic information required to identify the topic the item covers to be translated without favouring any language.
+Information is added to items by creating statements. Statements take the form of key-value pairs, with each statement consisting of a property (the key) and a value linked to the property.
+
+
+== Development history ==
+The creation of the project was funded by donations from the Allen Institute for Artificial Intelligence, the Gordon and Betty Moore Foundation, and Google, Inc., totaling €1.3 million. Initial development of the project is being overseen by Wikimedia Deutschland and has been split into three phases:
+Centralising interlanguage links – links between Wikipedia articles about the same topic in different languages
+Providing a central place for infobox data for all Wikipedias
+Creating and updating list articles based on data in Wikidata
+
+
+=== Phase 1 ===
+Wikidata was launched on 30 October 2012 and was the first new project of the Wikimedia Foundation since 2006. At this time, only the first phase was available. This enabled items to be created and filled with basic information: a label – a name or title, aliases – alternative terms for the label, a description, and links to articles about the topic in all the various language editions of Wikipedia.
+Initially, Wikidata was a self-contained repository of interlanguage links. No Wikipedia language editions were able to access Wikidata, so they needed to continue to maintain their own sets of interlanguage links. On 14 January 2013, the Hungarian Wikipedia became the first to enable the provision of interlanguage links via Wikidata. This functionality was extended to the Hebrew and Italian Wikipedias on 30 January, to the English Wikipedia on 13 February and to all other Wikipedias on 6 March. After no consensus was reached over a proposal to restrict the removal of language links from the English Wikipedia, the power to delete them from the English Wikipedia was granted to automatic editors (bots).
+
+
+=== Phase 2 ===
+The first aspects of the second phase were deployed on 4 February 2013, introducing statements to Wikidata entries. The values were initially limited to two data types (items and images on Wikimedia Commons), with more data types (such as coordinates and dates) to follow later. The first new type, string, was deployed on 6 March.
+The ability of the various language editions of Wikipedia to access data added to Wikidata as part of phase two was rolled out progressively between 27 March and 25 April 2013.
+
+
+=== Phase 3 ===
+Phase 3 will involve database q

@@ -1,0 +1,42 @@
+ó, csak e kisebb egységre érvényes alapfelületeket alkalmaznak.
+
+
+== Geodéziai koordináták ==
+
+A gömbi és elliptikus közelítésben az ekvatoriális koordinátákat használják:
+1. A Föld forgástengelye jelöli ki a koordináta-rendszer pólusait.
+2. A délkörök (hosszúsági körök, meridiánok) a két pólust összekötő felületi görbék, félkörök.
+3. A greenwichi délkör nemzetközi megállapodás tárgya.
+4. Az Egyenlítő síkja a két pólust összekötő szakaszt merőlegesen felezi.
+5. A földrajzi szélesség az alapfelület normálisának az Egyenlítő síkjával bezárt szöge.
+
+6. A szögeket fok-perc-másodperc (DMS=Degree-Minute-Second) egységben, vagy újabban a tizedfokokban (DD = Decimal Degrees) adják meg.
+7. A hagyományos [φ;λ], azaz (szélesség;hosszúság) sorrendben adják meg a koordinátákat. Szélesség: 0°.. ±90°; hosszúság: 0°.. ±180°.
+8. Az előjelezés helyett az égtájakkal jelölik az irányokat. Szélesség: (+)→ Észak, (-)→ Dél; Hosszúság: (+)→ Kelet, (-)→ Nyugat.
+9. A magassági adatokat a referenciafelülethez viszonyítják (tengerszint feletti magasság).
+
+
+== A földrajzi koordináta-rendszer története ==
+Egy földrajzi hely szélességgel és hosszúsággal történő meghatározását, illetve az elnevezéseket már Hipparkosz (i. e. 190–125) is használta geográfiai munkájában. Ptolemaiosz (i. sz. 2. sz.) Almageszt című munkájában közel 8000 település, sziget, tájékozódási pont koordinátáit adta meg.
+Elsőként Dikaiarkhosz (i. e. 3. sz.) rajzolt térképére skálázott tengelykeresztet.
+
+
+== Források ==
+Stegena Lajos: Vetülettan – Tankönyvkiadó, Budapest, 1988.
+Gelcich–Sauter–Dinse: Kartenkunde – Göschen'sche Verlagshandlung, Leipzig, 1909.
+Gábris–Marik–Szabó: Csillagászati földrajz. Nemzeti Tankönyvkiadó, Budapest, 1998. ISBN 963-19-2397-5
+
+
+== Kapcsolódó szócikkek ==
+Helymeghatározás
+Baktérítő és Ráktérítő
+Csillagászati koordináta-rendszer
+Ekvatoriális koordináta-rendszerek
+Földrajzi információs rendszer (GIS)
+Globális Helymeghatározó Rendszer (GPS)
+Gömbi koordináták
+Vetület
+
+
+== Külső hivatkozások ==
+Interaktív Csillagászati Portál

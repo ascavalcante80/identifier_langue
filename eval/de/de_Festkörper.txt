@@ -1,0 +1,25 @@
+ kristallartigen Feinstruktur. Im kleinsten sind solche Deformationen nur schwer modellierbar, doch über Millionen oder Trillionen von Teilchen folgen sie klaren Gesetzen. Sie hängen mit der Elastizität und ihren Modulen zusammen, sowie mit der Form und Dimension der zu deformierenden Körper.
+Ein idealisierter Festkörper, der in der klassischen Mechanik als Modell eines Festkörpers verwendet wird, ist der starre Körper. Er unterliegt keinerlei Verformungen, kommt aber in der Natur nicht vor. In den meisten Fällen ist er ein gutes Modell für die realen Objekte in unserer Umwelt. Der reale Festkörper hingegen hat in der Regel keine einfache, sondern eine richtungsabhängige Verformbarkeit. Dies behandelt zum Beispiel die Festkörperphysik.
+
+
+=== Reaktivität ===
+Im Vergleich zu Reaktionen in Lösung zeichnen sich Festkörperreaktionen normalerweise durch sehr hohe Aktivierungsbarrieren aus. Der Grund ist der Reaktionsmechanismus, nach dem Festkörperreaktionen ablaufen: Die Leerstellen im Kristallgitter wandern wie in einem „Schiebepuzzle“. Dafür muss die Kristallstruktur deformiert werden, was einen großen Energieaufwand verursacht.
+
+
+=== Andere Eigenschaften ===
+Weitere typische Attribute von Festkörpern sind ihre Leitfähigkeit für Wärme oder elektrischen Strom. Diese beiden Eigenschaften sind meist eng gekoppelt.
+
+
+== Festkörper bei hohen Drücken ==
+Unter der Einwirkung von hohen Drücken gehen Festkörper von der Normalphase mit Eigenschaftsänderungen in eine Hochdruckphase über, oder es entstehen andere Modifikationen des Stoffes. Beispiele hierfür sind die Umwandlung von Graphit in Diamant bei einem Druck über 60 kbar oder die Umwandlung von α-Bornitrid in β-Bornitrid (Borazon). Silicium weist bei einem Druck von über 150 kbar einen drastischen Widerstandsabfall auf und geht dabei in eine metallische Hochdruckmodifikation mit einem β-Zinn-Strukturtyp über. Das Natriumchloridgitter von Kaliumhalogeniden wandelt sich bei einem Druck über 20 kbar in das Cäsiumchlorid­gitter um. Im Allgemeinen gehen bei einer Druckausübung die Teilchen des Festkörpers in eine dichtere Packung, verbunden mit einer Erhöhung der Koordinationszahl, über. Kovalente Bindungen werden dabei oftmals zu metallischen Bindungen mit delokalisierten Elektronen. Hochdruckverfahren eignen sich zur Herstellung bzw. Kristallzüchtung von Verbindungen, die dann auch unter Normaldruck metastabil sind, beispielsweise um künstliche Diamanten zu produzieren.
+
+
+== Siehe auch ==
+Kondensierte Materie
+Kristallographie
+Mechanik fester Körper
+
+
+== Einzelnachweise ==
+↑ Brockhaus ABC Chemie. F. A. Brockhaus Verlag, Leipzig 1965, S. 405.
+↑  Klaus-Jürgen Range: Festkörperchemie bei hohen Drücken. 10, Nr. 6, 1976, S. 180–188, doi:10.1002/ciuz.19760100604.

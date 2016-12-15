@@ -1,0 +1,1 @@
+Indenfor matematik, og specielt indenfor mængdelæren, er en mængde A en delmængde af en mængde B hvis A er "indeholdt" i B (hvis alle elementer af A også er elementer af B). I symboler skriver vi . A er en ægte delmængde af B hvis og kun hvis A er en delmængde af B, og det samtidig er gældende at . Dette symboliseres således: . Ders

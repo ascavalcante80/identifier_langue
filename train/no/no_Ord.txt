@@ -1,0 +1,118 @@
+Et ord er en språklig enhet som oppfattes å ha en egenbetydning, og som i tale skilles fra omgivelsene ved at det har selvstendig trykk. I skrift skilles ord ofte med mellomrom.
+Begrepet ord kan i tillegg til betydningen «enkeltord», også brukes om hele uttrykk og tekster.
+
+
+== Definisjoner ==
+Hvor enkelt eller vanskelig det er å tyde et ord avhenger av språket. Ordbøker kategoriserer et språks leksikon (dvs. dets ordforråd) i lemmata. Disse kan tas som en indikasjon på hva som utgjør et «ord» i oppfatningen til brukerne av dette språket.
+
+
+=== Semantisk definisjon ===
+Leonard Bloomfield introduserte begrepet "minimale frie former" i 1926. Ord blir tenkt på som den minste meningsfulle enhet av tale som kan stå av seg selv. Dette korrelerer fonemer (enheter av lyd) til leksemer (enheter av betydning). Men noen skrevne ord er ikke minimale frie former da de gir ingen mening for seg selv (for eksempel the og of i engelsk).
+
+
+=== Trekk ===
+Innen den minimalistiske skolen av teoretisk syntaks, ses ord (også kalt leksikalske elementer i litteraturen) som "bunter" av språklige funksjoner som er forent i en struktur med form og mening. For eksempel har ordet "bjørner" semantiske egenskaper (det betegner virkelige objekter, bjørner), kategorifunksjoner (det er et substantiv), tallfunksjon (det er flertall, og må samsvare med pronomen og demonstrativer i sitt domene), fonologiske funksjoner (det blir uttalt en bestemt måte), etc.
+
+
+=== Ordgrenser ===
+Oppgaven med å definere hva som utgjør en "ord" innebærer å bestemme hvor ett ord slutter og et annet ord begynner, med andre ord å identifisere ordgrenser. Det er flere måter å finne ut hvor ordgrensene for talespråk bør plasseres:
+Potensiell pause: En som snakker blir bedt om å gjenta en gitt setning langsomt, noe som åpner for pauser. Taleren vil tendere til å legge inn pauser på ordgrensene. Denne metoden er likevel ikke idiotsikker: Den som snakker kan ofte bryte opp flerstavelsesord, eller unnlate å skille to eller flere nært beslektede ord.
+Udelbarhet: En som snakker blir bedt om å si en setning høyt, og deretter om å si setningen igjen med ekstra ord lagt til. For eksempel kan Jeg har bodd i denne landsbyen i ti år kanskje bli Min familie og jeg har bodd i denne lille landsbyen i omtrent ti år. Disse ekstra orden vil en som oftest bli lagt til i ved ordgrensene i den opprinnelige setningen. Men noen språk har infikser som er satt inni et ord. Tilsvarende noen har delbare verb, i den tyske setningen «Ich komme gut zu Hause an» er verbet ankommen delt.
+Fonetiske grenser: Noen språk har særlige regler for uttale som gjør det lett å få øye på hvor en ordgrense skal være. For eksempel, i et språk som regelmessig legger trykk den siste stavelsen i et ord vil ordgrensen sannsynligvis ligge etter hver stavelse med trykk. Et annet eksempel kan sees i et språk som har vokalharmoni (som tyrkisk), hvor vokalene innenfor et gitt ord har samme kvalitet, så en ordgrense sannsynligvis oppstår når vokalen endrer kvalitet. Ikke alle språk har slike praktiske fonetiske regler, og selv i de som har det finnes sporadiske unntak.
+Ortografiske grenser: Se nedenfor.
+
+
+==== Ortografi ====
+I språk med litterære tradisjoner, er spørsmålet om hva som regnes ett enkelt ord et samspill mellom rettskrivning og talemål. Orddelere (typisk mellomrom) er vanlig i moderne rettskriving i språk som benytter alfabetskrift, men disse er (med unntak av isolerte tilfeller) en relativt moderne utvikling.
+I engelsk rettskrivning kan sammensatte uttrykk inneholde mellomrom. Eksempler er ice cream (iskrem) og air raid (luftangrep)), disse må derfor anses som mer enn ett ord.
+Vietnamesisk rettskrivning setter grensen ved enstavelsesmorfemer, ikke ord. Østasiatisk ortografi (språk som bruker piktografiske tegn) har også en tendens til å avgrense stavelser (som er tilfelle med kinesiske tegn) eller moraer (som er tilfelle med kana) i stedet for fulle ord. Hangul, det koreanske alfabetet, grenser både mellom stavelser og ord, ved å gruppere grafemer i stavelsesblokker, men legger også til mellomrom mellom ord. Omvendt kombinerer syntetiske språk ofte mange leksikalske morfemer inn enkle ord, noe som gjør det vanskelig å koke dem ned til den tradisjonelle oppfatning av ord funnet i analytiske språk; dette er spesielt vanskelig for polysyntetiske språk, for eksempel inuktitut og ubykhisk, hvor hele setninger kan bestå av ett enkelt ord.
+
+
+== Røtter og affikser ==
+Et ord som ikke kan deles i mindre deler med egen betydning – for eksempel «mann» – kalles rotord. En kombinasjon av to eller flere rotord – for eksempel «sjømann» – kalles en sammensetning. Når en rot kombineres med et element som i seg selv ikke er et eget ord (et affiks) – for eksempel «mannlig» – dannes en avledning. Affikser som står foran roten, kalles prefiks. Affikser som står etter roten, kalles suffiks.
+En spesiell type suffiks er bøyningsendelsene. En ordform uten bøyningsendelser, men med ev. avledningsaffiks, kalles ordets stamme. Når et avledningsaffiks settes til et ord, dannes en ny stamme; når en bøyningsendelse settes til, er stammen fortsatt den samme. Noen ord bøyes ved at endelsen legges til ulike stammer: «gammel – eld-re – eld-st». Dette kalles suppletivbøying.
+
+
+== Inndeling ==
+Det er vanlig å dele ordene i et språk i leksikalske ord, grammatiske ord og pro-ord. Leksikalske ord refererer til forhold utenfor kommunikasjonssituasjonen, for eksempel «mann», «kjøre». Pro-ord refererer til forhold i kommunikasjonen, for eksempel «dette», «der», «nå». Grammatiske ord får sin betydning kun i forhold til andre ord i teksten, for eksempel «som», «og». Pro-ord og grammatiske ord skiftes sjelden ut i et språk; de utgjør lukkede klasser. De leksikalske ordene er en åpen klasse, der ord går ut av bruk, nye ord importeres eller eksisterende ord danner nye sammensetninger.
+
+
+=== Ordledd ===
+Affiks – ordledd som er føyd til en ordstamme eller -rot
+Infiks – innskudd i stammen i et verb
+Prefiks – forstaving eller forledd i et ord
+Suffiks – etterledd til et ord
+
+
+=== Ordklasser ===
+Ordene i et språk grupperes videre i et antall ordklasser etter form eller funksjon.
+Substantiv – navn på noe eller noen
+Adjektiv – beskriver substantiv
+Pronomen – settes i stedet for et substantiv
+Determinativ – bestemmer substantivet nærmere
+Verb – navn på en handling
+Adverb – beskriver verb
+Preposisjon – forteller hvor verbet eller substantivet befinner seg i forhold til et annet i tid eller rom
+Konjunksjon – binder sammen to ord eller setninger
+Subjunksjon – innleder bisetninger
+Interjeksjon - Spesielle ord som gir et bilde av lyder som ikke kan skrives, følelser eller enighet/uenighet
+Tidligere brukte en også betegnelsene:
+Adverb
+Artikkel (ordklasse)
+Tallord
+Infinitivsmerke
+
+
+== Flere ordtyper og beslektede begreper ==
+Det er en mengde begreper i språkvitenskapene og ellers for forskjellige slags ord. Listen viser noen fagbetegnelser fra forskjellige felt som beskriver ordets form eller funksjon.
+Akronym – ord bygd opp av forbokstavene i flere ord
+Anagram – ord som er satt sammen av bokstavene fra et annet ord
+Antonym – ord som har motsatt betydning av et annet ord
+Arveord – ord nedarvet fra de eldste tider
+Degenererte varemerker eller deproprialiserte navn – varenavn som er blitt allmennord
+Demonym – innbyggernavn
+Diminutiv – forminskelsesord
+Ekkoord – ord der samme ledd gjentas, for eksempel «namnam»
+Eponym – personnavn som er blitt fellesnavn for en gjenstand
+Eufemisme – forskjønnende omskriving
+Frase – uttrykksmåte eller vending
+Fremmedord – ord som er lånt fra et annet språk og føles fremmed
+Glose – ord fra fremmed språk
+Heiti – poetisk omskrivning fra nordisk middelalder
+Homofon – ord som uttales likt, men skrives forskjellig
+Homonym eller homograf – ord som uttales eller skrives likt, men har ulik betydning
+Hyperonym – overbegrep (for eksempel «fisk» i forhold til «makrell»)
+Hyponym – ord for noe som tilhører en finere inndeling av et overbegrep (for eksempel «makrell» i forhold til «fisk»)
+Idiom – fast uttrykk som er særegent for et bestemt språk
+Initialord – ord sammensatt av forbokstaver
+Katakrese – en «død» metafor, det vil si en vanlig sammenlikning
+Korruptel – forvansket ord eller tekststed
+Kenning – fast omskrivning i nordisk middelalder
+Leksem eller lemma – alle bøyingsformene av et ord
+Lånord – ord lånt fra et annet språk og som ikke føles fremmed
+Metafor – ord eller uttrykk med overført betydning
+Monoptoton – ord med samme form for alle kasus
+Navn – ord knyttet til en bestemt ting, person eller sted
+Neologisme – nyord i et språk
+Onomatopoetikon – lydord
+Palindrom – ord eller uttrykk som staves likt forlengs og baklengs
+Paronym – ord som er avledet av eller beslektet med et annet ord
+Perifrase – omskrivning
+Pleonasme – unødvendig tilleggsord
+Parisyllab – ord som har like mange stavelser som et annet ord
+Psevdonym – fiktivt navn
+Synonym – ord med lik betydning som et annet
+Teleskopord – ord som er en sammentrekning av flere ord
+Term
+Terminologi – fagord eller -uttrykk
+Vokabel – ord eller uttrykk
+
+
+=== Andre uttrykk, begreper og navn ===
+Det er også mange begreper for forskjellige slags velformulerte uttrykk eller fyndord, for eksempel ordtak, ordspråk, visdomsord, aforismer, sentenser, sitater og epitafer (minneord på gravstein). Floskler og klisjéer er utbrukte ordsammenlikninger som har mistet sin opprinnelige kraft.
+Det er i norsk i tillegg svært mange sammsatte begreper der «ord» inngår som en del av begrepet, Det kan være alt fra banneord, tabuord (fyord) og noaord til passord, kodeord, stikkord og nøkkelord. Andre eksempler er forord, etterord,, rimord, honnørord, minneord, slagord, æresord,, trylleord, minusord, sjømannsord og kjæleord, men også begreper som ordbilde (mentalt bilde eller konkret skriftbilde), ordfører og ordstyrer.
+«Ord» inngår dessuten i mange egennavn på organisasjoner og annet, Eksempler er Fritt Ord, de kristne Livets Ord, Levende Ord, Ordet og Israel, Ordets liturgi, tidsskriftet Ordet, Ord & Bilde, Svevende ord bibelsenter, Ordknappen, De skjulte ord og bandet Gode Ord Dør Sist.
+
+
+== Ordmagi ==
+Alt språk er i vid forstand ordmagi, det vil si bruk av ord for å kontrollere omgivelsene eller å få ting til å skje. Når en setter ord på det en har rundt seg og definerer begreper, bestemmer en samtidig hvordan en skal se på verden og 

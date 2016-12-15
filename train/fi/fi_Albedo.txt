@@ -1,0 +1,13 @@
+Albedo eli heijastuvuus tai heijastuskyky on jonkin kappaleen kyky heijastaa siihen osuvaa säteilyä. Se kuvaa kappaleeseen osuneen ja siitä heijastuneen säteilyn suhdetta. Albedo määritetään jakamalla pinnan heijastaman säteilyn teho saapuvan säteilyn teholla. Albedoa merkitään yleensä kreikkalaisella kirjaimella α, alfa tai isolla A-kirjaimella. Täysin valoa heijastava pinta on valkoinen, ja sen albedo on 1,0 tai 100 %. Täysin musta imee eli absorboi kaiken siihen saapuvat säteilyn, ja sen albedo on siksi 0. Muiden väristen kohteiden albedot ovat tältä väliltä. Lisäksi eri värien heijastama säteilyjakautuma on monesti erilainen kuin vastaanotettu säteily. Albedoa käytetään muun muassa tähtitieteessä, säätieteessä ja laskettaessa vaikkapa Auringon taloa lämmittävää vaikutusta.
+
+
+== Geometrinen albedo ja Bondin albedoMuokkaa ==
+
+Yleensä taivaankappaleen albedosta puhuttaesa tarkoitetaan Bondin albedoa A, joka on taivaankappaleesta heijastuneen ja sinne saapuvan säteilyn suhde. Se on vaikea määrittää, koska silloin on mitattava kappaleen heijastus kaikkiin suuntiin. Tämän takia monen taivaankappaleen Bondin albedo tunnetaan huonosti.
+Geometrinen albedo p on jonkin kappaleen valonheijastuskyky suoraan takaisin kohti valonlähdettä verrattuna kaikilla aallonpituuksilla heijastavaan levyyn, niin sanottuun Lambertin levyyn. Mattapintainen valkea seinä on lähellä Lambertin levyä. Monille asteroideille on helppo mitata geometrinen albedo. Geometrinen albedo voi olla ykköstä suurempi ja jopa ääretön jos kappale heijastaa peilinä takaisin tulosuuntaan.
+Joidenkin taivaankappaleiden geometrisia ja Bondin albedoja
+
+
+== Maan albedoMuokkaa ==
+Maan albedo on keskimäärin 0,39 (0,36–0,43) Albedon avulla pystyy määrittämään, kuinka paljon pinta imee Auringon säteilyä itseensä. Maan albedoon vaikuttaa kolme eri tekijää, maasta ja vesistä heijastuva valo, pilvistä heijastuva valo ja ilmakehästä ylöspäin siroava valo.
+Maassa albedo vaihtelee tummien ja kosteiden maaperien 0,08:sta tuoreen lumen 0,86–0,95:een. Jälkimmäisessä tapauksessa lähes kaikki säteily heijastuu takasiin, joten aurinko lämmittää pintaa vain hyvin vähän. Pilvien albedo on myös suuri, joten ne estävät ison osan a

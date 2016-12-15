@@ -1,0 +1,192 @@
+El Sistema Internacional de Unidades, abreviado SI, es el sistema de unidades que se usa en todos los países del mundo, a excepción de tres que no lo han declarado prioritario o único.
+Es el heredero del antiguo Sistema Métrico Decimal y por ello también se conoce como «sistema métrico».
+Se instauró en 1960, en la XI Conferencia General de Pesas y Medidas, durante la cual inicialmente se reconocieron seis unidades físicas básicas. En 1971 se añadió la séptima unidad básica: el mol.
+Una de las características trascendentales, que constituye la gran ventaja del Sistema Internacional, es que sus unidades se basan en fenómenos físicos fundamentales. Excepción única es la unidad de la magnitud masa, el kilogramo, definida como «la masa del prototipo internacional del kilogramo», un cilindro de platino e iridio almacenado en una caja fuerte de la Oficina Internacional de Pesas y Medidas.
+Las unidades del SI constituyen referencia internacional de las indicaciones de los instrumentos de medición, a las cuales están referidas mediante una concatenación ininterrumpida de calibraciones o comparaciones.
+Esto permite lograr equivalencia de las medidas realizadas con instrumentos similares, utilizados y calibrados en lugares distantes y, por ende, asegurar —sin necesidad de duplicación de ensayos y mediciones— el cumplimiento de las características de los productos que son objeto de transacciones en el comercio internacional, su intercambiabilidad.
+Entre los años 2006 y 2009 el SI se unificó con la norma ISO 31 para instaurar el Sistema Internacional de Magnitudes (ISO/IEC 80000, con las siglas ISQ).
+
+
+== Unidades básicas fundamentales ==
+
+El Sistema Internacional de Unidades consta de siete unidades básicas (fundamentales), que expresan magnitudes físicas. A partir de estas se determinan el resto de unidades (derivadas):
+Las unidades pueden llevar prefijos del Sistema Internacional, que van de 1000 en 1000: múltiplos (ejemplo: kilo indica mil; 1 km = 1000 m), o submúltiplos (ejemplo: mili indica milésima; 1 mA = 0,001 A).
+Múltiplos (en mayúsculas a partir de Mega): deca (da), hecto (h), kilo (k), mega (M), giga (G), tera (T), peta (P), exa (E), zetta (Z), yotta (Y).
+Submúltiplos (en minúsculas): deci (d), centi (c), mili (m), micro (μ), nano (n), pico (p), femto (f), atto (a), zepto (z), yocto (y).
+
+
+== Unidades derivadas ==
+
+Mediante esta denominación se hace referencia a las unidades utilizadas para expresar magnitudes físicas que son resultado de combinar magnitudes físicas básicas.
+No se debe confundir este concepto con los de múltiplos y submúltiplos, que se utilizan tanto en las unidades básicas como en las derivadas, sino que siempre se le ha de relacionar con las magnitudes expresadas.
+Si éstas son longitud, masa, tiempo, intensidad de corriente eléctrica, temperatura, cantidad de substancia o intensidad luminosa, se trata de una magnitud básica. Todas las demás son derivadas.
+
+
+=== Ejemplos de unidades derivadas ===
+Unidad de volumen o metro cúbico, resultado de combinar tres veces la longitud.
+Unidad de densidad o cantidad de masa por unidad de volumen, resultado de combinar masa (magnitud básica) con volumen (magnitud derivada). Se expresa en kilogramos por metro cúbico. Carece de nombre especial.
+Unidad de fuerza, magnitud que se define a partir de la segunda ley de Newton (fuerza = masa × aceleración). La masa es una de las magnitudes básicas; la aceleración es derivada. Por tanto, la unidad resultante (kg • m • s−2) es derivada, de nombre especial: newton.
+Unidad de energía. Es la energía necesaria para mover un objeto una distancia de un metro aplicándole una fuerza de un newton; es decir, fuerza por distancia. Se le denomina julio (unidad) (en inglés, joule). Su símbolo es J. Por tanto, J = N • m.
+En cualquier caso, mediante las ecuaciones dimensionales correspondientes, siempre es posible relacionar unidades derivadas con básicas.
+
+
+=== Definiciones de las unidades derivadas ===
+
+
+==== Unidades con nombre especial ====
+Hertz o hercio (Hz). Unidad de frecuencia.
+Definición: un hercio es un ciclo por segundo.
+
+Newton (N). Unidad de fuerza.
+Definición: un newton es la fuerza necesaria para proporcionar una aceleración de 1 m/s² a un objeto cuya masa sea de 1 kg.
+
+Pascal (Pa). Unidad de presión.
+Definición: un pascal es la presión normal (perpendicular) que una fuerza de un newton ejerce sobre una superficie de un metro cuadrado.
+
+Julio o Joule (J). Unidad de trabajo y energía.
+Definición: un julio es el trabajo realizado por una fuerza de 1 newton para desplazar 1 m en la dirección de la fuerza a un objeto cuya masa sea de 1 kg.
+
+Vatio (W). Unidad de potencia.
+Definición: un vatio es la potencia que genera una energía de un julio por segundo. En términos eléctricos, un vatio es la potencia producida por una diferencia de potencial de un voltio y una corriente eléctrica de un amperio.
+
+Culombio (C). Unidad de carga eléctrica.
+Definición: un culombio es la cantidad de electricidad que una corriente de un amperio de intensidad transporta durante un segundo.
+
+Voltio (V). Unidad de potencial eléctrico y fuerza electromotriz.
+Definición: diferencia de potencial a lo largo de un conductor cuando una corriente eléctrica de una intensidad de un amperio utiliza un vatio de potencia.
+
+Ohmio (Ω). Unidad de resistencia eléctrica.
+Definición: un ohmio es la resistencia eléctrica existente entre dos puntos de un conductor cuando -en ausencia de fuerza electromotriz en éste- una diferencia de potencial constante de un voltio aplicada entre esos dos puntos genera una corriente de intensidad de un amperio.
+
+Siemens (S). Unidad de conductancia eléctrica.
+Definición: un siemens es la conductancia eléctrica existente entre dos puntos de un conductor de un ohmio de resistencia.
+
+Faradio (F). Unidad de capacidad eléctrica.
+Definición: un faradio es la capacidad de un conductor que con la carga estática de un culombio adquiere una diferencia de potencial de un voltio.
+
+Tesla (T). Unidad de densidad de flujo magnético e intensidad de campo magnético.
+Definición: un tesla es una inducción magnética uniforme que, repartida normalmente sobre una superficie de un metro cuadrado, a través de esta superficie produce un flujo magnético de un weber.
+
+Weber (Wb). Unidad de flujo magnético.
+Definición: un weber es el flujo magnético que al atravesar un circuito uniespiral genera en éste una fuerza electromotriz de un voltio si se anula dicho flujo en un segundo por decrecimiento uniforme.
+
+Henrio (H). Unidad de inductancia.
+Definición: un henrio es la inductancia de un circuito en el que una corriente que varía a razón de un amperio por segundo da como resultado una fuerza electromotriz autoinducida de un voltio.
+
+Radián (rad). Unidad de ángulo plano.
+Definición: un radián es el ángulo que limita un arco de circunferencia cuya longitud es igual al radio de la circunferencia.
+
+Estereorradián (sr). Unidad de ángulo sólido.
+Definición: un estereorradián es el ángulo sólido que, teniendo su vértice en el centro de una esfera, sobre la superficie de ésta cubre un área igual a la de un cuadrado cuyo lado equivalga al radio de la esfera.
+
+Lumen (lm). Unidad de flujo luminoso.
+Definición: un lumen es el flujo luminoso producido por una candela de intensidad luminosa, repartida uniformemente en un estereorradián.
+
+Lux (lx). Unidad de iluminancia.
+Definición: un lux es la iluminancia generada por un lumen de flujo luminoso, en una superficie equivalente a la de un cuadrado de un metro por lado.
+
+Becquerelio (Bq). Unidad de actividad radiactiva.
+Definición: un becquerel es una desintegración nuclear por segundo.
+
+Gray (Gy). Unidad de dosis de radiación absorbida.
+Definición: un gray es la absorción de un julio de energía ionizante por un kilogramo de material irradiado.
+
+Sievert (Sv). Unidad de dosis de radiación absorbida equivalente.
+Definición: un sievert es la absorción de un julio de energía ionizante por un kilogramo de tejido vivo irradiado.
+
+Katal (kat). Unidad de actividad catalítica.
+Definición: un katal es la actividad catalítica responsable de la transformación de un mol de compuesto por segundo.
+
+
+==== Unidades aceptadas por el SI ====
+El SI ha aceptado como unidades legales una serie de unidades de sistemas anteriores.
+Litro (l o L). Unidad de volumen igual a 1 dm³.
+Bar o baria (bar). Unidad de presión, equivalente a 100 kPa, un poco menos que la presión atmosférica (que, en condiciones normales, es igual a 101,3 kPa). Se utiliza a menudo su submúltiplo, el milibar.
+Grado Celsius (°C). Unidad de temperatura termodinámica.
+Definición: la magnitud de un grado Celsius (1 °C) es igual a la de un kelvin.
+, donde t es la temperatura en grados Celsius, y T en kelvin.
+hectárea (ha). Unidad de superficie.
+Definición: procede del área, antigua medida de superficie del Sistema Métrico Decimal, igual a 1 dam2, luego
+1 ha = 100 áreas = 1 hm2
+tonelada métrica (T). Unidad de masa, equivalente a 103 kg.
+Asimismo se aceptan las medidas de tiempo día, hora y minuto, la medida de longitud milla marina (= 1852 m}, así como la medida de velocidad, nudo, equivalente a una milla marina por hora, (1852 m/h = 1852/3600 m/s).
+
+
+==== Unidades derivadas sin nombre especial ====
+En principio, las unidades básicas se pueden combinar libremente para generar otras unidades. A continuación se incluyen las importantes.
+Unidad de área.
+Definición: un metro cuadrado es el área equivalente a la de un cuadrado de un metro por lado.
+
+Unidad de volumen.
+Definición: un metro cúbico es el volumen equivalente al de un cubo de un metro por lado.
+
+Unidad de velocidad o de rapidez.
+Definición: un metro por segundo es la velocidad de un cuerpo que, con movimiento uniforme, en un segundo recorre una longitud de un metro.
+
+Unidad de ímpetu lineal o cantidad de movimiento.
+Definición: es la cantidad de movimiento de un cuerpo con una masa de un kilogramo que se mueve a una velocidad instantánea de un metro por segundo.
+
+Unidad de aceleración.
+Definición: es el aumento de velocidad regular -que afecta a un objeto- equivalente a un metro por segundo cada segundo.
+
+Unidad de número de onda.
+Definición: es el número de onda de una radiación monocromática cuya longitud de onda es igual a un metro.
+
+Unidad de velocidad angular.
+Definición: es la velocidad de un cuerpo que, con una rotación uniforme alrededor de un eje fijo, en un segundo gira un radián.
+
+Unidad de aceleración angular.
+Definición: es la aceleración angular de un cuerpo sujeto a una rotación uniformemente variada alrededor de un eje fijo, cuya velocidad angular, en un segundo, varía un radián.
+
+Unidad de momento de fuerza y torque.
+Definición: es el momento o torque generado cuando una fuerza de un newton actúa a un metro de distancia del eje fijo de un objeto e impulsa la rotación de éste.
+
+Unidad de viscosidad dinámica.
+Definición: es la viscosidad dinámica de un fluido homogéneo, en el cual, cuando hay una diferencia de velocidad de un metro por segundo entre dos planos paralelos separados un metro, el movimiento rectilíneo y uniforme de una superficie plana de un metro cuadrado provoca una fuerza retardatriz de un newton.
+
+Unidad de entropía.
+Definición: es el aumento de entropía de un sistema que -siempre que en el sistema no ocurra transformación irreversible alguna- a la temperatura termodinámica constante de un kelvin recibe una cantidad de calor de un julio.
+
+Unidad de calor específico o capacidad calorífica.
+Definición: es la cantidad de calor, expresada en julios, que, en un cuerpo homogéneo de una masa de un kilogramo, produce una elevación de temperatura termodinámica de un kelvin.
+
+Unidad de conductividad térmica.
+Definición: es la conductividad térmica de un cuerpo homogéneo isótropo en la que una diferencia de temperatura de un kelvin entre dos planos paralelos de un metro cuadrado y distantes un metro, entre estos planos genera un flujo térmico de un vatio.
+
+Unidad de intensidad del campo eléctrico.
+Definición: es la intensidad de un campo eléctrico que ejerce una fuerza de un newton sobre un cuerpo cargado con una cantidad de electricidad de un culombio.
+
+Unidad de rendimiento luminoso.
+Definición: es el rendimiento luminoso obtenido de un artefacto que gasta un vatio de potencia y genera un lumen de flujo luminoso.
+
+
+== Normas ortográficas relativas a los símbolos ==
+Los símbolos de las unidades son entes matemáticos, no abreviaturas. Por ello deben escribirse siempre tal cual están establecidos (ejemplos: «m» para metro y «A» para amperio), precedidos por el correspondiente valor numérico, en singular, ya que como tales símbolos no forman plural.
+Al expresar las magnitudes numéricamente, se deben usar los símbolos de las unidades, nunca los nombres de unidades. Por ejemplo: «50 kHz», nunca «50 kilohercios»; aunque sí podríamos escribir «cincuenta kilohercios», pero no «cincuenta kHz».
+El valor numérico y el símbolo de las unidades deben ir separados por un espacio, y no deben quedar en líneas diferentes (espacio duro). Ejemplo: 50 m es correcto, mientras que 50m es incorrecto). 
+Los símbolos de las unidades SI se expresan con minúsculas. Si dichos símbolos corresponden a unidades derivadas de nombres propios (apellidos), su letra inicial es mayúscula (W de Watt, V de Volta, Wb de Weber, Ω —omega mayúscula— de Ohm, etcétera).
+Para evitar confusiones con el número 1 se puede exceptuar el litro, cuyo símbolo puede escribirse también como L mayúscula. El uso de una letra ele minúscula ovoide en la parte superior y abierta en la porción inferior; así: ·"ℓ", no está reconocido por el CIPM. En cualquier caso, el Comité Internacional de Pesos y Medidas recomienda que los resultados de mediciones precisas de volumen se expresen en unidades del Sistema Internacional y no en litros.
+Asímismo, los submúltiplos y los múltiplos, incluido el kilo (k), se escriben con minúscula. Desde mega hacia valores superiores se escriben con mayúscula. Se han de escribir en letra redonda (no en bastardillas), independientemente del resto del texto.  Por ejemplo: mide 20 km de longitud. Esto permite diferenciarlos de las variables.
+Los símbolos no se pluralizan, no cambian aunque su valor no sea la unidad, es decir, no se debe añadir una s. Tampoco ha de escribirse punto (.) a continuación de un símbolo, a menos que sea el que sintácticamente corresponde al final de una frase.
+Por lo tanto es incorrecto escribir, por ejemplo, el símbolo de kilogramos como Kg (con mayúscula), kgs (pluralizado) o kg. (con punto). El único modo correcto de simbolizarlo es «kg».
+La razón es que se procura evitar malas interpretaciones: «Kg», podría entenderse como kelvin • gramo, ya que «K» es el símbolo de la unidad de temperatura kelvin. A propósito de esta unidad, se escribe sin el símbolo de grados «°», pues su nombre correcto no es «grado Kelvin» °K, sino sólo kelvin (K).
+El símbolo de segundos es «s» (en minúscula, sin punto posterior), no seg, ni segs. Los amperios no se han de abreviar Amps., ya que su símbolo es A (con mayúscula, sin punto). Metro se simboliza con m (no Mt, ni M, ni mts.).
+
+
+== Normas ortográficas referentes a los nombres ==
+Al contrario que los símbolos, los nombres relativos a aquellos no están normalizados internacionalmente, sino que dependen de la lengua nacional donde se usen (así lo establece explícitamente la norma ISO 80000). Según el SI, se consideran siempre sustantivos comunes y se tratan como tales (se escriben con minúsculas).
+Las designaciones de las unidades instituidas en honor de científicos eminentes mediante sus apellidos deben escribirse con ortografía idéntica a tales apelativos, pero con minúscula inicial. No obstante son igualmente aceptables sus denominaciones castellanizadas de uso habitual, siempre que hayan sido reconocidas por la Real Academia Española. Ejemplos: amperio, culombio, faradio, voltio, vatio, etcétera.
+
+
+== Normas referentes a los números ==
+El separador decimal debe estar alineado con los dígitos, mediante una coma (,), salvo en textos en inglés, en los cuales se emplea punto (.). No se ha de usar otro signo entre los números.
+Para facilitar la lectura, los guarismos pueden agruparse en grupos de tres, de derecha a izquierda, sin utilizar comas, ni puntos, en los espacios entre grupos. El número completo debe quedar en la misma línea (espacio duro). Ejemplo: 123 456 789 987 546.
+Para este efecto, en algunos países se acostumbra separar los miles con un punto (ejemplo: 123.456.789.987.546). Esta notación es desaconsejable y ajena a la normativa establecida en el Sistema Internacional de Unidades.
+En escritos referentes a fechas se exceptúan las cifras relativas a años: 2012 en vez de 2 012.
+
+
+== Tabla de múltiplos y submúltiplos ==
+
+
+== Legislación acerca del uso del SI ==
+El SI se puede usar legalmente en cualquier país, incluso donde aún no lo hayan implantado. En muchas otras naciones su uso es obligatorio. A efectos de conversión de unidades, en los países que todavía utilizan otros sistemas de unidades de medidas, como los Estados Unidos y el Reino Unido, se

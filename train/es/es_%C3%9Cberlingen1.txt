@@ -1,0 +1,51 @@
+La colisión aérea en Überlingen del 1 de julio de 2002 fue un accidente aéreo que tuvo lugar en el sector fronterizo entre Alemania y Suiza, cuando dos aviones, identificados como los vuelos 2937 de Bashkirian Airlines y 611 de DHL, chocaron en pleno vuelo aproximadamente a las 23:35 horas (GMT) sobre la localidad alemana de Überlingen, causando la total pérdida de vidas de los pasajeros y tripulación.
+De acuerdo con la investigación llevada por la Bundesstelle für Flugunfalluntersuchung de Alemania, el accidente se produjo por sobrecarga de trabajo del controlador aéreo de Skyguide, las instrucciones contradictorias entre el controlador y el TCAS equipado en los aviones, lo que produjo la confusión en la tripulación del vuelo de Bashkirian Airlines.
+
+
+== Accidente ==
+El accidente ocurrió a las 21:34:35 (GMT) sobre la ciudad de Überlingen, en las cercanías de la frontera de Alemania y Suiza (47°46′42″N 9°10′26″E).
+Los aviones involucrados en el accidente hicieron descensos previos al choque, debido a las advertencias de descenso provenían de diversas fuentes: mientras el avión de Bashkirian Airlines tenía una orden enviada por el controlador en tierra de descender de su nivel de vuelo FL360 (11.000 metros) a FL350 (10.000 metros aprox), el vuelo de DHL recibió la orden del sistema TCAS de hacer el mismo descenso al mismo nivel de vuelo.
+El impacto de la aeronave fue perpendicular, siendo el avión más dañado el Tupolev, ya que el impacto de la cola y el timón del Boeing 757 hizo que se partiera en la unión alar (zona central del avión), explotando casi inmediatamente en el aire y cayendo trozos del avión a varios cientos de metros desde el punto de colisión; por su parte, el Boeing 757 resultó menos dañado, pudiendo continuar en el aire por dos minutos más hasta que se precipitó a tierra.
+De acuerdo a las grabaciones recuperadas de la CVR del avión de Bashkirian Airlines, el avión ruso logró notar la presencia del avión de carga tan sólo 8 segundos antes de la colisión, evitando una colisión total entre ambos aviones, pero no fue suficiente tiempo para cambiar la altitud necesaria para salvar ambas naves.
+
+
+=== Relato de testigos ===
+De acuerdo a testigos presenciales, apenas ocurrió el choque se escucharon algunas explosiones, el cielo enrojecido y a continuación una serie de trozos que caían ardiendo al suelo. Las primeras imágenes televisivas mostraban el grado de destrucción del avión y la dispersión de los restos que llegaban a la tierra tras el accidente.
+
+
+== Causas ==
+Las causas del accidente, según la investigación alemana, se centran en dos aspectos críticos que influyeron en la colisión:
+Se ignoró que el sistema TCAS indicaba un ascenso a los pilotos del avión ruso, ya que la orden que provenía desde el controlador aéreo en tierra era descender, por lo cual pesó más la orden de él. El entrenamiento recibido por los pilotos rusos en ese punto era contradictorio.
+El controlador en tierra poseía una sobrecarga de trabajo, ya que él solo atendía dos radares, mientras un compañero tomaba un descanso. Este hecho no estaba especificado en las normas de Skyguide, empresa responsable del tráfico aéreo, y la llamada de un avión que esperaba instrucciones de aterrizaje hizo que el controlador aéreo no viera la colisión inminente.
+El avión de DHL no contactó al controlador, siguiendo la autodeterminación de respetar las indicaciones del TCAS sin saber cuáles eran las órdenes de la torre de control (La contradicción entre ambas indicaciones causó el accidente).
+La empresa Skyguide realizó un mantenimiento de sistemas que implicaban, al mismo tiempo, al radar principal y al sistema telefónico prioritario.
+Una causa indirecta del accidente fue la avería del radar principal de Skyguide, lo que limitaba su rango de acción, al funcionar con el radar de emergencias, además de que las líneas telefónicas no estaban operativas esa noche. Esto, según las normas de Skyguide hubiera supuesto tener más personal presente pero, como este corte en las comunicaciones no fue notado por el jefe de turno -Allan Rossier-, no reforzaron la seguridad.
+
+
+== Víctimas ==
+El vuelo de DHL iba tripulado solamente por el piloto Paul Phillips y el copiloto Brant Campioni, que tenían por ruta Bahrain a Bruselas con escala en la ciudad italiana de Bérgamo.
+El vuelo 2937 de Bashkirian Airlines viajaban un total de 69 personas (12 tripulantes y 57 pasajeros), quienes iban desde Moscú a Barcelona. La mayoría de los pasajeros eran adolescentes quienes iban en un viaje escolar a España por una iniciativa UNESCO con el estado de Bashkortostán. Al mando de este vuelo iba el capitán Alexander Mihailovich Gross (Александр Михайлович Гросс), como primer oficial Oleg Pavlovich Grigoriev (Олег Павлович Григорьев), segundo oficial Murat Ahatovich Itkulov (Мурат Ахатович Иткулов) ,el navegante Sergei Kharlov y el ingeniero de vuelo que solo aparece con el apellido Gustav. En este vuelo, Grigoriev iba calificando a Gross como parte de su evaluación profesional, relegando a Itkulov como segundo oficial de la aeronave.
+
+
+== Investigación ==
+La investigación fue abordada por la Oficina Federal de Investigación de Accidentes Aeronáuticos de Alemania, quienes recopilaron los datos desde la zona del desastres y recuperaron las cajas negras de voz e instrumentos desde los aviones. A pesar de la magnitud del impacto, la única CVR que no pudo ser usada en la investigación fue la del avión de DHL, ya que resultó totalmente destruida.
+A partir de los datos obtenidos por las cajas negras, se pudo determinar la negligencia por parte de los pilotos de Bashkirian, quienes ignoraron la recomendación de TCAS. Sin embargo, indagando en el manual de usuario del avión Tupolev, los investigadores alemanes notaron que el uso de este sistema es "recomendado".
+
+Para evitar colisiones en vuelo, el control visual de la situación en el espacio aéreo por la tripulación y la correcta ejecución de todas las instrucciones emitidas por el controlador de tránsito aéreo es considerado como la herramienta más importante. TCAS es un instrumento adicional que garantiza la determinación oportuna de tráfico en sentido contrario, la clasificación del riesgo y, si es necesario, la planificación de una maniobra de evasión vertical
+
+Sin embargo, en las páginas siguientes aparece una recomendación de nunca ignorar el TCAS, por lo cual esta contradicción pudo ser clave a la hora de que los pilotos tomaran la decisión de no ascender cuando fue advertido por el sistema.
+Por otra parte, en tierra se indagó acerca del personal que estaba presente en el centro de operaciones de Skyguide, constando que en el minuto del accidente, el controlador aéreo Peter Nielsen se encontraba solo frente a varios radares, y que perdió el foco de atención por el despegue de un Airbus 320 desde el aeropuerto de Zürich. Esta desconcentración, además de la falta de comunicación con otros puntos de aproximación produjeron que entregara una orden temporal al avión de Bakashian, generando la contradicción en el aire.
+
+
+== Consecuencias ==
+
+La tragedia cobró las vidas de 71 personas, entre niños, adultos y la tripulación de las naves. No hubo supervivientes. Se estima que restos del avión de carga cayeron en el sector norte del lago Constanza, donde hubo una afanosa búsqueda. Las autoridades informaron que en un bosque cercano fue localizada una caja negra.
+Los restos de los aviones quedaron esparcidos en un radio de 30 a 40 kilómetros en la orilla norte del lago Constanza que se encuentra en la zona fronteriza entre Alemania y Suiza, y causaron algunos incendios que fueron sofocados. Entre otras cosas, se incendiaron un colegio, una granja y varias casas, temiéndose en un principio que también aquí habría víctimas mortales.
+Bashikirian Airlines exigió al Skyguide una indemnización de US$20 millones de dólares para poder cubrir a las víctimas de la tragedia.
+
+
+=== Asesinato del radiocontrolador de Skyguide ===
+
+Cerca de dos años después de la tragedia, uno de los deudos -el arquitecto ruso Vitaly Kaloyev-, quien había perdido a su esposa Svetlana y a sus dos hijos: Konstantin, de 12 años, y Diana, de 3 años, víctimas del accidente del avión ruso, estaba sumido en una grave depresión.
+Vitaly Kaloyev, después de la tragedia, había esperado una respuesta satisfactoria por parte de Skyguide Control. En 2003 recibió dicha respuesta. En ella se le notificaba que se le indemnizaba con tan solo unos 60 mil francos suizos. A Kaloyev le pareció dicha indemnización una burla a su dolor y decidió hacer justicia por sí mismo.
+Investigó pers

@@ -1,0 +1,68 @@
+Kepler'in gezegensel hareket yasaları, Güneş Sisteminde bulunan gezegenlerin hareketlerini açıklayan üç matematiksel yasadır. Alman matematikçi ve astronom Johannes Kepler (1572-1630) tarafından keşfedilmişlerdir.
+Kepler, Tycho Brahe tarafından yapılan gözlemler sonucu elde edilen verileri inceleyerek, Brahe'in gezegenlerin konumları ile tutmuş olduğu kayıtların görece basit olan üç adet matematiksel ifade ile açıklanabileceğini bulmuştur.
+1. Yasa
+Her gezegen, odak noktalarının birinde güneşin bulunduğu bir elips yörünge üzerinde hareket eder.
+2. Yasa
+Bir gezegeni güneşe bağlayan çizgi eşit zaman aralıklarında eşit alanlar tarar.
+3. Yasa
+Bir gezegenin yörüngesel periyodunun karesi, dolandığı elipsin ana eksen uzunluğunun küpü ile doğru orantılıdır.
+Kepler yasaları, Aristocu ve Batlamyusçu astronomi ve fiziğe meydan okumuştur. Batlamyus modelinden tamamen farklı olarak, gezegenlerin değişken hızlarının, tüm gezegenlerin güneş çevresindeki eliptik yörüngelerde dolandığını iddia ederek doğrulukla açıklanabileceğini söylemiş, astronomi ve fiziği kökten değiştirmiştir. Hemen hemen bir asır sonra Isaac Newton, kendi hareket yasalarından ve yine kendi bulduğu evrensel çekim yasasından yola çıkıp, Öklid geometisini kullanılarak Kepler yasalarının ortaya çıkarılabileceğini göstermiştir.
+Günümüzde Kepler yasaları yapay uyduların ve Kepler'in bile habersiz olduğu güneş yörüngesinde dolanan kimi cisimlerin (uzak gezegenler ve küçük astroidler gibi) yaklaşık yörüngelerini hesaplamakta kullanılmaktadır. Bu yasalar, atmosfer sürtünmesi, görelilik ve diğer cisimlerin etkisi göz önünde bulundurulmadığında, göreli olarak küçük cisimlerin daha büyük ve daha kütleli cisimler etrafında yaptığı hareketleri açıklamada oldukça kullanışlıdır.
+
+
+== Kepler'in Yasaları ==
+
+
+=== Yasaların genelliği ===
+
+Bu yasalar birbiri etrafında dönen herhangi iki cismin hareketini açıklar. Bu cisimlerin kütleleri, yaklaşık olarak birbirine eşit (örn. Charon ve Plüton (~1:10)), birbirinden az miktarda farklı (örn. Ay ve Dünya (~1:100)) veya birbirinden çok farklı (örn. Merkür ve Güneş (~1:10,000,000)) olabilir.
+Tüm durumlarda her iki cisim de ortak bir kütle merkezi noktası etrafında dolanır ve hiçbirinin de kendi kütle merkezi elipsin odaklarından birinde bulunmaz. Buna rağmen her iki yörünge de, odaklarından biri sistemin kütle merkezinde olacak şekilde bir elips şeklindedir. Kütleler birbirinden çok farklı olduğunda (örn. Güneş etrafında dolanan gezegenler), kütle merkezi daha kütleli cismin kendi kütle merkezinin çok yakınında bulunur. Dolayısıyla sistemin kütle merkezi, kütlesi büyük olan cismin içinde kalır. Bu durumda sistemin kütle merkezini büyük kütleli cismin kütle merkezinden ayırt edebilmek için çok hassas ölçümler yapmak gerekir. Bu nedenle birinci yasa Güneş etrafında dolanan gezegenlerin hareketini doğrulukla açıklar.
+Kepler bu yasaların bu genel uygulanabilirliğinden habersiz olarak sadece Güneş'e ve gezegenlere uyguladığından bu maddede de yasalar sadece Güneş'e ve gezegenlere uygulanabilirliği bağlamında incelenecektir.
+
+
+=== Birinci yasa ===
+
+"Her gezegen, güneşin merkezlerinden birinde bulunduğu bir elips üzerinde hareket eder."
+Zamanında bu çok çarpıcı bir iddia idi; önceki inanışa göre yörüngeler mükemmel çemberler üzerinde bulunmalıydı. Bu gözlem evrenin Kopernikçi görüşünü desteklemekteydi. Bu durum, yasanın modern bağlamda ilişkisini yitirdiği anlamına gelmez. Teknik olarak elips çemberden farklı olmasına rağmen, küçük dışmerkezliliğe sahip bir yörüngede dolanan bir gezegenin yörüngesi kabaca bir çember olarak düşünülebilir. Bu nedenle gezegenlerin yörüngeleri kabaca gözlenerek, yörüngelerin gerçekten de eliptik olduğunu görebilmek kolay değildir. Buna rağmen Kepler'in hesaplamaları yörüngelerin eliptik olduğunu göstermiş, Güneş'e çok daha uzak göksel cisimlerin yörüngelerinin de büyük dışmerkezliliğe sahip eliptik yörüngeler olacağını öngörmüştür (bu iki yanından çekilip uzatılmış bir çembere benzer). Kepler'den sonra birçok göksel cisim astronomlar tarafından kuyruklu yıldız veya asteroid olarak adlandırıldı. Cüce gezegen Plüton 1930'ların sonlarına doğru keşfedildi. Keşfin bu denli gecikmesinin nedeni, Plüton'un boyutlarının diğer gezegenlere kıyasla çok daha küçük olması, ve dışmerkezliliğinin çok büyük olmasıdır.
+
+
+=== İkinci yasa ===
+
+"Bir gezegeni güneşe bağlayan çizgi eşit zaman aralıklarında eşit alanlar tarar."
+Sembolik olarak:
+
+Burada  ifadesi "alansal hız"'ı (birim zamanda taranan alan) ifade eder. Matematiksel olarak bu ifadenin zamana göre türevinin sıfır olması, gezegen tarafından birim zamanda taranan alanın sabit olduğu anlamına gelmektedir.
+Bu yasa eşit alanlar yasası olarak ta bilinir. Bu yasayı anlayabilmek için, gezegenin bir A noktasından B noktasına bir günde gittiğini varsayalım. Güneş'ten A ve B noktalarına çizilen çizgiler ve gezegenin A noktasından B noktasına hareket ederken izlediği eğrinin içinde kalan bölge bir alan (kabaca bir üçgen) tanımlar. İkinci yasa der ki gezegen, yörüngesinin hangi konumunda olursa olsun, gezegenin bir günlük hareketi boyunca bu aynı alan kaplanacaktır. Birinci yasa bir gezegenin yörüngesinin eliptik olduğunu söylediğine göre, gezegen, yörüngenin farklı konumlarında Güneş'e farklı uzaklıklarda bulunacaktır. Bu durum, gezegenin güneşe yakın olduğu durumda, uzak olduğu durumdaki ile aynı alanı taraması için daha hızlı gitmesi gerektiği sonucunun çıkmasını gerektirir.
+Kepler'in ikinci yasası, birinci yasasının üzerine eklenen bir gerçeği daha ifade etmektedir. İkinci yasa, birinci yasaya göre eliptik yörüngede dolanan gezegene etkiyen net teğet kuvvetin sıfır olması gerektiğini söylemektedir. 'Alansal hız' adı verilen nicelik açısal momentum ile çok yakından ilişkilidir ve bu sebepten ötürü Kepler'in ikinci yasası açısal momentumun korunumunun da bir ifadesidir.
+
+
+=== Üçüncü yasa ===
+Güneşten uzak gezegenler, daha yakın olanlara kıyasla daha uzun yörüngesel periyotlara sahiptir. Kepler'in üçüncü yasası bu gerçeği niceliksel olarak açıklar.
+"Bir gezegenin yörüngesel periyodunun karesi, dolandığı elipsin ana eksen uzunluğunun kübü ile doğru orantılıdır."
+Sembolik olarak:
+
+ gezegenin yörüngesel periyodu ve  yörüngenin ana eksenidir.
+Orantı sabiti güneş çevresinde dolanan tüm gezegenler için aynıdır.
+
+C sabitinin değeri en son ölçümlere göre MKS sisteminde şu şekilde bulunmuştur:
+
+Örneğin, bir A gezegeninin güneşe olan uzaklığının B gezegeninin güneşe olan uzaklığından dört kat daha büyük olduğunu düşünelim. Bu durumda A gezegeni B her turda, B gezegeninden 4 kat daha fazla yol katedecektir ve dahası A gezegeni B gezegeninin yarısı kadar bir hızla hareket edecektir. Yasaya göre, toplamda A gezegeninin yörüngeyi tamamıyla dolanması için geçen süre, B gezegeninin yörüngeyi dolanması için geçen süreden 4×2=8 kat daha büyük olacaktır (82=43).
+
+
+== Sıfır dışmerkezlilik ==
+Kepler yasaları Kopernik modelini mükemmelleştirir. Eğer bir gezegensel yörüngenin dışmerkezliliği sıfırsa Kepler yasaları aşağıdaki şekli alır:
+Güneş merkezde olacak şekilde gezegensel yörünge çemberseldir.
+Gezegenin yörünge hızı sabittir.
+Gezegenin yörüngesel periyodunun karesi, güneşe olan uzaklığının kübü ile orantılıdır.
+Gerçekten de Kopernik ve Kepler tarafından bilinen altı gezegenin dışmerkezlilikleri oldukça küçüktür, bu nedenle bu gezegenler için Kepler yasalarını yukarıdaki şekilde almak, bu gezegenlerin hareketi için mükemmel yaklaşıklıklar sağlar.
+O zamanlar düzgün çembersel hareketin normal olduğu düşünüldüğünden, bu hareketten herhangi bir sapma bir anormallik olarak görülüyordu. Kepler'in Kopernik modeli üzerine yaptığı düzeltmeler açıkça belli olmuyordu:
+Gezegensel hareketler bir çember şeklinde değil, bir elips şeklindedir ve güneş yörüngenin merkezinde değil, odak noktalarından birindedir.
+Yörüngede dolanan bir gezegenin ne hızı ne de açısal hızı sabittir, sabit olan alansal hızdır.
+Bir gezegenin yörüngesel periyodunun karesi, gezegenin güneşe olan en küçük ve en büyük uzaklıklarının ortalamasının kübü ile orantılıdır.
+Mart ekinoksundan Eylül ekinoksuna kadar olan süre yaklaşık 186 gün iken, Eylül ekinoksundan Mart ekinoksuna kadar olan süre yaklaşık 179 gündür. Bu temel gözlem Kepler'in yasalarını kullanarak gösteriyor ki dünya yörüngesinin dışmerkezliliği sıfır değildir. Bir çap doğrusu yörüngeyi alanları eşit iki kısma ayırırken, ekvator düzlemi ile ekliptik düzlemi arasındaki kesişim, yörüngeyi alanları oranı 186/189 olacak şekilde iki kısma ayırır. Böylece dünya yörüngesinin dışmerkezliliği yaklaşık olarak,
+
+bulunur. Bu değer ölçülen gerçek değere oldukça yakındır.
+
+
+== Sıfır olmayan gezegensel kütle ==
+Kepler yasalarına uygun şekilde hareket eden bir gezegenin ivmesinin güneşe yönelmiş olduğu ve ivmenin büyüklüğünün güneşe olan uzaklığın karesi ile ters orantılı olduğu gösterilebilir. Isaac Newton evrende bulunan tüm kütlelerin, kütleçekim kuvveti olarak tanımladığı bir kuvvet ile birbirini çektiğini varsaymıştır. Gezegenlerin kütlesi güneşe kıyasla çok küçük olduğundan, yörüngeler yaklaşık olarak Kepler yasalarına uyumludur. Newton'ın modeli Keple

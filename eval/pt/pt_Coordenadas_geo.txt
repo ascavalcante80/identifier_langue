@@ -1,0 +1,21 @@
+vez menores.
+
+
+=== Minutos decimais ===
+Neste sistema, cada grau é dividido em 60 minutos, que por sua vez são divididos decimalmente.
+
+
+=== Graus Decimais ===
+Neste sistema, cada grau é dividido em frações decimais.
+A forma de nomeação difere um pouco dos dois primeiros sistemas: a latitude recebe a abreviatura lat e a longitude, long. Há valores positivos e negativos. Os valores positivos são para o Norte (latitude) e o Leste (longitude) e não recebem um símbolo específico. Os valores negativos são para o Sul (latitude) e o Oeste (longitude), sendo acrescidos do símbolo -.
+
+
+=== Universal Transversa de Mercator ===
+
+Para efeitos de comparação, este sistema usa três dados em vez de dois. O primeiro é o setor do globo terrestre, o segundo é a distância relativa ao centro do meridiano - sempre 500000,00 m - e o terceiro é a distância do Polo Sul (para lugares no Hemisfério Sul) ou da Linha do Equador (para lugares no Hemisfério Norte).
+
+
+== Ver também ==
+
+
+== Referências ==

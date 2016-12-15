@@ -1,0 +1,28 @@
+et.
+
+
+== Berekening ==
+Young se modulus, E, kan bereken word deur die rekspanning deur die vervorming te deel:
+
+waar
+E Young se modulus is
+F is die krag wat op die voorwerp uitgeoefen word;
+A0 die die oorspronklike deursnee waaroor die krag toegepas word;
+ΔL is die lengteverandering van die voorwerp;
+L0 is die oorspronklike lengte van die voorwerp.
+
+
+=== Krag uitgeoefen deur gerekte of saamgeperste materiaal ===
+Young se modulus van 'n materiaal kan gebruik word om die krag wat dit uitoefen onder 'n spesifieke vervorming.
+
+waar F die krag is wat uitgeoefen word deur die materiaal wanneer dit met ΔL saamgepers of uitgerek word.
+Uit hierdie formule kan Hooke se wet afgelei word wat die styfheid van 'n ideale veer beskryf:
+
+waar
+
+
+== Verwysings ==
+
+
+== Bronne ==
+James, G. en James, R.C. (1960) "Young's Modulus" In: Mathematics Dictionary. Princeton, New Jersey : Van Nostrand. bl. 257

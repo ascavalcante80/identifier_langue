@@ -1,0 +1,50 @@
+eople remember which direction to shift clocks.
+
+
+== Computing ==
+
+Changes to DST rules cause problems in existing computer installations. For example, the 2007 change to DST rules in North America required many computer systems to be upgraded, with the greatest impact on email and calendaring programs; the upgrades consumed a significant effort by corporate information technologists.
+Some applications standardize on UTC to avoid problems with clock shifts and time zone differences. Likewise, most modern operating systems internally handle and store all times as UTC and only convert to local time for display.
+However, even if UTC is used internally, the systems still require information on time zones to correctly calculate local time where it is needed. Many systems in use today base their date/time calculations from data derived from the IANA time zone database also known as zoneinfo.
+
+
+=== IANA time zone database ===
+The IANA time zone database maps a name to the named location's historical and predicted clock shifts. This database is used by many computer software systems, including most Unix-like operating systems, Java, and the Oracle RDBMS; HP's "tztab" database is similar but incompatible. When temporal authorities change DST rules, zoneinfo updates are installed as part of ordinary system maintenance. In Unix-like systems the TZ environment variable specifies the location name, as in TZ=':America/New_York'. In many of those systems there is also a system-wide setting that is applied if the TZ environment variable isn't set: this setting is controlled by the contents of the /etc/localtime file, which is usually a symbolic link or hard link to one of the zoneinfo files. Internal time is stored in timezone-independent epoch time; the TZ is used by each of potentially many simultaneous users and processes to independently localize time display.
+Older or stripped-down systems may support only the TZ values required by POSIX, which specify at most one start and end rule explicitly in the value. For example, TZ='EST5EDT,M3.2.0/02:00,M11.1.0/02:00' specifies time for the eastern United States starting in 2007. Such a TZ value must be changed whenever DST rules change, and the new value applies to all years, mishandling some older timestamps.
+
+
+=== Microsoft Windows ===
+As with zoneinfo, a user of Microsoft Windows configures DST by specifying the name of a location, and the operating system then consults a table of rule sets that must be updated when DST rules change. Procedures for specifying the name and updating the table vary with release. Updates are not issued for older versions of Microsoft Windows. Windows Vista supports at most two start and end rules per time zone setting. In a Canadian location observing DST, a single Vista setting supports both 1987–2006 and post-2006 time stamps, but mishandles some older time stamps. Older Microsoft Windows systems usually store only a single start and end rule for each zone, so that the same Canadian setting reliably supports only post-2006 time stamps.
+These limitations have caused problems. For example, before 2005, DST in Israel varied each year and was skipped some years. Windows 95 used rules correct for 1995 only, causing problems in later years. In Windows 98, Microsoft marked Israel as not having DST, forcing Israeli users to shift their computer clocks manually twice a year. The 2005 Israeli Daylight Saving Law established predictable rules using the Jewish calendar but Windows zone files could not represent the rules' dates in a year-independent way. Partial workarounds, which mishandled older time stamps, included manually switching zone files every year and a Microsoft tool that switches zones automatically. In 2013, Israel standardized its daylight saving time according to the Gregorian calendar.
+Microsoft Windows keeps the system real-time clock in local time. This causes several problems, including compatibility when multi booting with operating systems that set the clock to UTC, and double-adjusting the clock when multi booting different Windows versions, such as with a rescue boot disk. This approach is a problem even in Windows-only systems: there is no support for per-user timezone settings, only a single system-wide setting. In 2008 Microsoft hinted that future versions of Windows will partially support a Windows registry entry RealTimeIsUniversal that had been introduced many years earlier, when Windows NT supported RISC machines with UTC clocks, but had not been maintained. Since then at least two fixes related to this feature have been published by Microsoft.
+The NTFS file system used by recent versions of Windows stores the file with a UTC time stamp, but displays it corrected to local—or seasonal—time. However, the FAT filesystem commonly used on removable devices stores only the local time. Consequently, when a file is copied from the hard disk onto separate media, its time will be set to the current local time. If the time adjustment is changed, the timestamps of the original file and the copy will be different. The same effect can be observed when compressing and uncompressing files with some file archivers. It is the NTFS file that changes seen time. This effect should be kept in mind when trying to determine if a file is a duplicate of another, although there are other methods of comparing files for equality (such as using a checksum algorithm).
+
+
+== Permanent daylight saving time ==
+A move to "permanent daylight saving time" (staying on summer hours all year with no time shifts) is sometimes advocated, and has in fact been implemented in some jurisdictions such as Argentina, Chile, Iceland, Singapore, Uzbekistan and Belarus. Advocates cite the same advantages as normal DST without the problems associated with the twice yearly time shifts. However, many remain unconvinced of the benefits, citing the same problems and the relatively late sunrises, particularly in winter, that year-round DST entails. Russia switched to permanent DST from 2011 to 2014, but the move proved unpopular because of the late sunrises in winter, so the country switched permanently back to "standard" or "winter" time in 2014.
+The Xinjiang Uyghur Autonomous Region in western China, Argentina, Chile, Iceland, Russia and other areas skew time zones westward, in effect observing DST year-round without complications from clock shifts. For example, Saskatoon, Saskatchewan, is at 106°39′ W longitude, slightly west of center of the idealized Mountain Time Zone (105° W), but the time in Saskatchewan is Central Standard Time (90° W) year-round, so Saskatoon is always about 67 minutes ahead of mean solar time, thus effectively observing daylight saving time year-round. Conversely, northeast India and a few other areas skew time zones eastward, in effect observing negative DST. The United Kingdom and Ireland experimented with year-round DST from 1968 to 1971 but abandoned it because of its unpopularity, particularly in northern regions.
+Western France, Spain, and other areas skew time zones and shift clocks, in effect observing DST in winter with an extra hour in summer. Nome, Alaska, is at 165°24′ W longitude, which is just west of center of the idealized Samoa Time Zone (165° W), but Nome observes Alaska Time (135° W) with DST, so it is slightly more than two hours ahead of the sun in winter and three in summer. Double daylight saving time has been used on occasion; for example, it was used in some European countries during and shortly after World War II when it was referred to as "Double Summer Time". See British Double Summer Time and Central European Midsummer Time for details.
+
+
+== By country and region ==
+
+Daylight saving time by country
+Africa
+Asia
+Europe
+North and South America
+Oceania
+United States
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+"Legal Time 2015", Telecommunications Standardization Bureau of the ITU
+Information about the Current Daylight Saving Time (DST) Rules, U.S. National Institute of Standards and Technology
+Sources for time zone and daylight saving time data

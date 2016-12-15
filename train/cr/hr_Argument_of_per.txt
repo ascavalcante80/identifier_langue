@@ -1,0 +1,7 @@
+Argument perihela je jedan do orbitalnih elemenata kojim se opisuju tijela (npr. planeti) u orbiti sa središtem u Suncu.
+Argument perihela se definira kao kut između uzlaznog čvora i perihela, mjeren od orbitalne ravnine. Zbrajanjem argumenta perihela i longitude uzlaznog čvora dobiva se longituda perihela tijela na njegovoj orbiti oko sunca.
+Argument perihela od 0° znači da će tijelo biti u perihelu u trenutku kada bude prelazilo ekliptiku sa sjeverne na južnu stranu.
+Argument perihela od 90° znači da će tijelo biti u perihelu u trenutku kada bude na najsjevernijoj točki svoje putanje.
+
+
+== P

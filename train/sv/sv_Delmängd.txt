@@ -1,0 +1,3 @@
+Delmängd är ett begrepp inom mängdteorin.  är en delmängd av  om alla element som ingår i  även ingår i . Detta skrivs . Varje mängd är en delmängd av sig själv och den tomma mängden ø är en delmängd av alla mängder. Om  och  så följer . En äkta delmängd B till en mängd A är en delmängd till A som inte är lika med A, dvs A innehåller något element som inte finns i B. Ingen mängd är en äkta delmängd till sig själv och den tomma mängden är en äkta delmängd till alla icke-tomma mängder.
+Exempel:
+Mängden av alla naturliga tal är e

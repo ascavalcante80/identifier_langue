@@ -1,0 +1,71 @@
+Islandština (íslenska) je severogermánský jazyk, kterým mluví asi 300 000 mluvčích na Islandu.
+
+
+== Rozšíření ==
+Mimo Island se používá minimálně a na Islandu jí nekonkurují žádné jiné jazyky. Téměř zde neexistují nářečí (jen drobné odchylky, hlavně ve výslovnosti), což je u země podobné rozlohy a podobně nízké hustoty zalidnění velmi neobvyklé. Islanďané se na základní škole učí dva cizí jazyky, angličtinu a dánštinu.
+
+
+== Historie ==
+Islandština se až na výslovnost od dob osídlení Islandu (9. století) výrazně nezměnila, proto lze téměř bez problémů číst několik století staré literární památky. Vychází ze západní staroseverštiny (tehdy jazyk západního Norska a seveřany osídlených ostrovů v Atlantiku). Svojí gramatikou a slovní zásobou je blízká staré angličtině z období kolem 1000 n. l.
+
+
+== Abeceda a výslovnost ==
+Používá se latinka obohacená o několik speciálních znaků. Ustálila se až v 19. století, zejména za přispění dánského lingvisty Rasmuse Raska.
+Æ - vyslovuje se jako [aj]. Unicode U+00C6 velké, U+00E6 malé.
+Ð - vyslovuje se jako znělé Þ, tedy jako anglické th ve slovech this/the. Nikdy se nevyskytuje na začátku slova. Unicode U+00D0 velké, U+00F0 malé. (Neplést s chorvatským Đ/đ – velké se opticky shoduje, ale malé se liší a mají odlišné kódy: velké U+0110, malé U+0111.)
+Þ - písmeno „thorn“; pozůstatek po runovém písmu, používaném před christianizací. Výslovnost je jako u neznělého anglického th ve slovech jako think/thief. Nikdy se nevyskytuje na konci slova. Unicode U+00DE velké, U+00FE malé.
+
+
+== Fonologie ==
+Islandština má velmi málo nářečních rozdílů. Jazyk má jednoduché hlásky i dvojhlásky a souhlásky mohou být znělé a neznělé.
+Znělost hraje základní roli v odlišení většiny souhlásek včetně souhlásek nosových ale vyjma plozivních souhlásek. Plozivní souhlásky b, d, a g jsou neznělé a liší se od p, t a k pouze tím, že nejsou aspirované. Preaspirace se objevuje při zdvojení p, t a k. Preaspirace se neobjevuje při zdvojení b, d a g. Preaspirované tt je etymologicky a foneticky analogické německému a holandskému cht (srovnejte islandská slova nótt, dóttir s německými slovy Nacht, Tochter a holandskými slovy nacht, dochter).
+
+
+=== Islandské souhlásky ===
+
+
+=== Islandské samohlásky ===
+
+
+== Gramatika ==
+Islandština je poměrně složitý jazyk (z germánských jazyků nejsložitější, spolu s velmi podobnou faerštinou) s rozsáhlou gramatikou, množstvím nepravidelností, originální slovní zásobou a obtížnou výslovností.
+V islandštině se rozlišují 3 rody – mužský, ženský a střední, 4 pády - nominativ, akuzativ, dativ a genitiv, a stejně jako v češtině 2 mluvnická čísla (singulár a plurál) a 3 slovesné osoby. Na rozdíl od většiny ostatních evropských jazyků je vyjadřování budoucnosti stále ještě velmi lexikalizované (tj. neexistuje jeden univerzální gramatický budoucí čas).
+
+
+=== Člen ===
+Islandština má pouze člen určitý. Člen určitý může být vyjádřen dvěma způsoby. Člen určitý je připojen jako přípona k podstatnému jménu. V jednotném čísle mužského rodu je člen určitý tvořen příponou - inn, v ženském rodě -in, a ve středním rodě -ið. V množném čísle je člen tvořen v mužském rodě příponou -inir, v ženském rodě - nar, ve středním rodě - in. V případě dativu plurálu se ztrácí koncové -m v příkladě löndum, se členem löndunum.
+
+
+=== Podstatná jména ===
+Islandská podstatná jména se skloňují ve 4 pádech a 2 číslech. Islandština podobně jako čeština rozlišuje tři rody podstatných jmen - mužský, ženský a střední. Skloňování podstatných jmen může být slabé a silné. Existuje velké množství skloňovacích vzorů.
+
+
+=== Přídavná jména ===
+Přídavná jména se skloňují v rodu, čísle, pádu a stupni a rozlišuje se slabé a silné skloňování. Existuje také množství přídavných jmen, které se neskloňují, např. přídavná jména končící na -a v einmana (osamělý) nebo -i např. v hugsi (zamyšlený). Některá přídavná jména se nestupňují, např. dauður (mrtvý).
+
+
+=== Zájmena ===
+Většina islandských zájmen se skloňuje v rodě, pádu a čísle.
+
+
+=== Číslovky ===
+Číslovky základní od 1 do 4 se skloňují v pádu, rodě a čísle. Ostatní číslovky základní se neskloňují. Výjimkou je, pokud základní číslovka vystupuje jako podstatné jméno.
+Prvních 20 číslovek základních
+Číslovky řadové se skloňují podobně jako přídavná jména, řadové číslovky 1 a 2 mají též silné skloňování.
+Prvních 20 číslovek řadových (v mužském rodě, v 1. pádu).
+
+
+=== Slovesa ===
+Téměř všechna islandská slovesa končí v intinitivu na -a. Některá slovesa končí na -á např. slá (uhodit). Výjimkami jsou modální slovesa munu a skulu, sloveso þvo (mýt) a sloveso přejaté z dánštiny ske (přihodit se).
+Existují dvě příčestí, přítomné a minulé. Koncovka příčestí přítomného je -andi. Příčestí přítomné může vyjadřovat buď podstatné jméno nebo přídavné jméno (v tomto případě je příčestí přítomné nesklonné). Příčestí minulé se skloňuje jako přídavné jméno jak slabě tak silně.
+Islandština vyjadřuje slovními tvary přímo jen přítomný a minulý čas. K vyjádření jiných časů (jako např. předpřítomný, předminulý, průběhový, budoucí) používá pomocná slovesa a výsledkem je buď jiný čas nebo vid.
+Islandština vyjadřuje tři druhy slovesného způsobu - oznamovací, spojovací a rozkazovací.
+Islandština tvoří tři druhy slovesného rodu - činný, trpný a medium. Trpný rod se vyjadřuje pomocí pomocného slovesa vera (být) a verða (stát se).
+
+
+=== Příslovce ===
+Islandská příslovce lze stejně jako česká příslovce stupňovat. V řadě případů se vyskytují nepravidelné komparativní a superlativní tvary, např djúpt (hluboce) - dýpra (hlouběji)- dýpst (nejhlouběji).
+
+
+== Slovní zásoba ==
+Islanďané mají tendenci chránit svůj starobylý jazyk před cizími vlivy a nová slova mnohem raději tvoří skládáním domácích slovních kmenů, místo aby si přizpůsobovali slova cizí. Nejvíce je to vidět na té části slovní zásoby, kterou většina evropských jazyků sdílí. Např. veður = počasí, fræði = věda, veðurfræði = meteorologie. Neznamená to ovšem, že výpůjčky z cizích jazyků jsou úplně tabu, nap

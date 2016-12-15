@@ -1,0 +1,18 @@
+Obsah je v geometrii veličina, která vyjadřuje velikost plochy. Jiné názvy jsou plocha, výměra, rozloha.
+Obsah je mírou (tedy charakteristikou velikosti) dané dvourozměrné části prostoru. Označuje se písmenem S.
+Někdy se toto slovo nesprávně používá také pro objem prostorových (třírozměrných) těles, který se označuje písmenem V.
+
+
+== Jednotky ==
+Jednotka SI
+metr čtvereční, značka jednotky: m2
+další používané jednotky
+kilometr čtvereční (km2): 1km2 = 1 000 000 m2
+hektar (ha): 1ha = 10 000 m2
+ar (a): 1a = 100 m2
+decimetr čtvereční (dm2): 1dm2 = 0.01 m2
+centimetr čtvereční (cm2): 1cm2 = 0.0001 m2
+milimetr čtvereční (mm2): 1mm2 = 0.000001 m2
+nestandardní jednotky
+akr
+měřidla

@@ -1,0 +1,56 @@
+Az XHTML (eXtensible HyperText Markup Language) az XML jelölőnyelvek egy családja, amely a weboldalakhoz széleskörűen használt HyperText Markup Language-t tükrözi vagy kibővíti.
+Amíg a HTML (a HTML5-öt megelőzően) az Standard Generalized Markup Language-t, azaz egy rugalmas jelölőnyelv-keretrendszert felhasználóként volt definiálva, addig az XHTML alapja az XML, amely az SGML-nek egy jóval szigorúbb részhalmaza. Mivel az XHTML dokumentumoknak jól formázottnak kell lenniük, egy standard XML-értelmezővel is értelmezhetők, ellentétben a HTML-lel, amelynek megengedőbb HTML-értelmező szükséges.
+Az XHTML 1.0 W3C-ajánlássá 2000. január 26-án vált a World Wide Web Consortium által. Az XHTML 1.1 2001. május 31-én lett W3C ajánlás. Az XHTML5 2009. szeptembere szerint a HTML5 specifikáció részeként fejlesztés alatt áll.
+
+
+== Áttekintés ==
+Az XHTML 1.0 "a három HTML4 specifikáció újraalakítása az XML 1.0 felhasználásával". A World Wide Web Consortium továbbra is aktívan fenntartja a HTML4.01 ajánlást és a HTML5 és az XHTML5 ajánlása aktív fejlesztés alatt áll. A jelenlegi, 2002. augusztusában kiadott és felülvizsgált ajánlásban a W3C a következőket jegyezte meg: "Az XHTML-család az internet evolúciójának következő lépése. A mostani XHTML-re migrálással a fejlesztők beléphetnek az XML világába minden kísérő előnyével, míg magabiztosak maradhatnak tartalmuk jelenlegi és múltbeli kompatibilitásával kapcsolatban."
+Mindazonáltal 2004-ben a Web Hypertext Application Technology Working Group (WHATWG) megalakult a W3C-től függetlenül és a munkát a sima HTML-en folytatta az XHTML helyett. A WHATWG egy olyan standardon kezdett dolgozni, a HTML5-ön, amely mind az XML-t, mind a nem-XML-t támogatta. 2007-ben a W3C HTML-munkacsoportja hivatalosan is megszavazta a HTML5-öt, mint a következő HTML standardot. 2009-ben a W3C hagyta az XHTML2 munkacsoportját feloszlani, elismerve, hogy a HTML5 lesz az egyedüli következő HTML standard, az XML és nem-XML típusú is. A kettő közül a W3C ajánlása szerint a fejlesztők az XHTML-szintaxis helyett leginkább a HTML-t használják.
+
+
+=== Motiváció ===
+Az XHTML kifejlesztésének oka a HTML kiterjeszthetőségének kövelése és a más adatformátumokkal való átjárhatóság növelése volt. A HTML4 látszólagosan az Standard Generalized Markup Language (SGML) felhasználása volt, ám az SGML specifikációja komplex és semelyik webböngésző és a HTML4 ajánlás sem voltak teljesen SGML-konformak. Az 1998-ban elfogadott XML standard egy egyszerűbb adatformátumot biztosított, mely közelebb volt a HTML4 egyszerűségéhez. Az XML-formátumra váltástól azt remélték, hogy a HTML a gyakori XML-eszközökkel kompatibilis lesz, és, hogy a szerverek és a proxyk szükség szerint átalakíthassák a tartalmat a mobiltelefonokhoz hasonló kisebb képességű eszközökre. A névterek használatával az XHTML kiterjeszthetőséget kapott az egyéb XML-alapú jelölőnyelvekből, például a SVG-ből és MathML-ből való beilleszthetőséggel. Végezetül a felújított munka a HTML újrafejlhasználható elemekre való bontsát (XHTML modularizáció) segíti elő és a nyelvet segít megtisztítani.
+
+
+== Az XHTML verziói ==
+
+
+=== XHTML 1.0 ===
+
+1998-ban jött létre a W3C Working Draft publikációja Reformulating HTML in XML címmel (A HTML XML-beli újraformázása). Ez bevezette a Voyagert, egy új, HTML4-alapú jelölőnyelv kódnevét, ám az XML-hez kapcsolódó szigorúbb szintaxissal. 1999 februárjában a név megvátozott XHTML 1.0: The Extensible HyperText Markup Language-ra, majd 2000 januárjában hivatalos W3C ajánlássá lépett elő. Három hivatalos DTD van az XHTML 1.0-hoz, amely a HTML4.01 három különböző változatához kapcsolódik:
+XHTML 1.0 Strict a HTML4.01 Strict XML verziója, tartalmazza mindazon elemeket és attribútumokat, amelyeket a HTML4.01 nem jelölt elavultnak. A 2011 május 25-ei verzió alapján az XHTML 1.0 Strict a World Wide Web Consortium weboldalához használt DTD.
+XHTML 1.0 Transitionala HTML 4.01 Transitional XML verziója,tartalmazza mindazon kinézeti elemeket (úgy mint a center, font és strike), amelyeket a szigorú verzióból kihagytak.
+XHTML 1.0 Frameset a HTML 4.01 Frameset XML verziója, amely megengedi a frameset dokumentumok definiálását, amely az 1990-es évek végén gyakran használt Webes szolgáltatás volt.
+Az XHTML1.0 második változata 2002 augusztusában lett W3C ajánlás.
+
+
+=== Az XHTML modularizációja ===
+A modularizáció komponensek olyan gyűjteménye, amelyen keresztül az XHTML kibővíthető vagy épp részekre bontható. Ennek a szolgáltatásnak a célja az XHTML újonnan való platformokra való megjelenésének elősegítése, mint például a mobileszközök és webbel rendelkező televíziók. Az XHTML modularizáció kezdeti vázlata 1999 áprilisában vált elérhetővé, míg az ajánlás státuszt 2011 áprilisában érte el.
+Az első moduláris XHTML-variánosk az XHTML 1.1 és az XHTML Basic 1.0 voltak.
+2008 októberében az XHTML modularizációt helyettesítette az XHTML Modularization 1.1, amely egy XML Schema implementációt ad hozzá. Ezt 2010 júliusában váltotta fel egy második változata.
+
+
+=== XHTML 1.1: Modulalapú XHTML ===
+Az XHTML 1.1 az XHTML modularizációjáról szóló specifikációt körülvevő munka során fejlődött ki. A W3C az első kezdeti vázlatot 1999 szeptemberében adta ki, míg az ajánlás státuszt 2001 májusában szerezte meg.Az XHTML 1.1-be kombinált modulok hatékonyan felfrissítik az XHTML 1.0-t. A name attribútumot eltávolították az a és a map elemekből, továbbá az első változatban a lang attribútumot is eltávolították, melyet az xml:lang helyettesített.
+Habár az XHTML1.1 nagyrészt kompatibilis volt a HTML4-gyel, 2002 augusztusában a munkacsoport formális jegyzetet készített, melyben azt javasolta, hogy az XHTML1.1 ne a html médiatípussal legyen továbbítva. Az alternatív application/xhtml+xml típus limitált támogatása miatt az XHTML 1.1-nek nem sikerült széleskörűen elterjednie. 2009 januárjában a dokumentum második verzióját (XHTML Media Types - Second Edition) kibocsátották, amely megkönnyíti eme megkötöttséget és megengedi az XHTML1.1 text/html-ként való továbbítását.
+Az XHTML 1.1 második változatát 2010 november 23-án bocsátották ki. (Először 2009 májusában adták ki, mint "Proposed Edited Recommendation", azaz "Javasolt Szerkesztett Ajánlás")
+
+
+== Szabványos XHTML-dokumentumok ==
+Szabványos egy XHTML dokumentum, amely megfelel az XHTML specifikusnak. A szabványosság biztosítja a dokumentum kódjának következetességét, amely pedig megkönnyíti a feldolgozást, ám ez nem jelenti azt, hogy a böngészők is következetesen renderelik a tartalmat. Egy dokumentum XHTML-érvényességét a W3C Markup Validation Service nevű szolgáltatással lehet ellenőrizni. A gyakorlatban sok webfejlesztőprogram biztosít a W3C standardokon nyugvó szabványosítást.
+
+
+=== Gyökérelem ===
+Az XHTML dokumentum gyökérelemének a html-nek kell lennie, amelynek rendelkeznie kell egy xmlns attribútummal, amely ezáltal az XML névtérrel azonosítja azt. Az XHTML névtér URI-ja http://www.w3.org/1999/xhtml. A következő példa címke tartalmaz emellett egy xml:lang attribútumot is a tartalom nyelvvel való megfeleltetése érdekében:
+
+
+=== DOCTYPE-ok ===
+Az XHTML dokumentumok érvényesítéséhez használható egy Document Type Declaration, avagy DOCTYPE. Egy DOCTYPE a böngészőnek megadja a Document Type Definition-t (dokumentumtípus-definíció, DTD), amelynek a dokumentum megfelel. A DOCTYPE-nak a gyökérelem előtt kell elhelyezkednie.
+
+
+=== Gyakori hibák ===
+Az XHTML használata során bekövetkező leggyakoribb hibák némelyike:
+Az üres címkék bezárásának hiánya (azon HTML-tagok, amelyek a HTML4-ben nem rendelkeznek lezáró címkével):
+Helytelen: <br>
+Helyes: <br />
+Fontos meg

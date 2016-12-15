@@ -1,0 +1,7 @@
+Az On-Line Encyclopedia of Integer Sequences (röviden OEIS) egy internetes matematikai enciklopédia ("Az egész számsorozatok on-line enciklopédiája"). Elterjedt angol neve még – megalkotójáról – Sloane’s.
+Az OEIS profi és amatőr matematikusok számára egyaránt érdekes tudnivalókat gyűjt olyan számsorozatokról, melyek tagjai egész számok. Több, mint 225 000 címszót tartalmaz; a világhálón széles körben, gyakran idézik.
+
+
+== Felépítése, használata ==
+Nemcsak címszó szerint kereshető (pl. Fibonacci-sorozat), de a keresőmezőbe a sorozat első néhány tagját vesszővel elválasztva beírva is képes megtalálni az esetlegesen illeszkedő sorozatokat.
+Minden sorozatot külön weboldalon tárgyal, amely tartalmazza az első néhány (10-50) tagot, a sorozat rekurzív vagy explicit képletét, elnevezését, egy katalógusszámot („OE

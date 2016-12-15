@@ -1,0 +1,17 @@
+Tieteellinen luokittelu on biologian tapa luokitella eliöitä hierarkkisiin kategorioihin, taksoneihin. Systematiikka on tieteenala, joka tutkii eliöiden luokittelua teoriassa, biologinen taksonomia tutkii samoja asioita käytännössä.
+Carolus Linnaeuksen perustama klassinen taksonomia perustuu fenetiikkaan, jossa eliöt luokitellaan ryhmiin yhteisten ominaisuuksien perusteella (varpaiden määrä, itiön muoto, jne.). Se kehitettiin alun perin auttamaan eliöiden tunnistamista.
+Modernin taksonomian pohjana on useimmiten fylogeneettinen systematiikka eli kladistiikka. Kladistiikka on 1950-luvulta alkaen kehitetty taksonomiajärjestelmä, joka esittää eliöiden suhteet toisiinsa ensisijaisesti evolutiivisten suhteiden mukaan.
+DNA-sekvenssien vertailulla on nykyisin kasvava rooli eliöryhmien sukulaisuussuhteiden tutkimisessa, ja se on usein johtanut vanhojen luokittelujärjestelmien muuttamiseen.
+
+
+== Taksonomiset tasot ==
+Taksoni on yleisnimitys mille tahansa taksonomiselle ryhmälle (esimerkiksi linnut, Aves). Kaikki taksonit sijoittuvat johonkin kategoriaan, jotka ovat luokittelun tasoja. Jokaisesta tasosta voi olla ylä-, ala- ja osa- (infra-) luokitukset, mutta näitä kaikkia ei ole määritelty virallisesti. Käytäntö myös vaihtelee eri eliöryhmien välillä.
+Suurimmasta pienimpään edeten yleisesti käytössä olevat klassisen luokittelun tasot eli taksonomiset tasot ovat:
+Yläkunta (Domeeni, Woesen luokittelun mukaan) → Kunta → Pääjakso / kaari → Luokka → Lahko → Heimo → Tribus → Suku → Sektio → Sarja → Laji → Alalaji → Muunnos → Muoto → Erikoismuoto
+Esimerkiksi perinnöllisyystutkijoiden suosima koe-eläin banaanikärpänen (Drosophila melanogaster) luokitellaan yleisimmin käytettyjen taksonomisten tasojen avulla taksoneiksi seuraavasti:
+Ylemmissä kategorioissa tieteelliset nimet ovat yksiosaisia, mutta lajin tieteellinen nimi on kaksiosainen ja koostuu suvun nimestä sekä lajia osoittavasta määreestä, esimerkiksi Homo sapiens (ihminen). Tämä tunnetaan myös binominaalisena eli kaksiosaisena nimenä. Tieteelliset nimet ovat periaatteessa yksikäsitteisiä, ts. kahdella eri lajilla ei voi olla samaa nimeä. Mutta koska luokittelussa tapahtuu muutoksia (kun lajeja esimerkiksi jaetaan uusiksi tieteellisen tiedon karttuessa), lajin yksilöimiseksi tarkasti nimeen täytyy liittää myös tieto siitä, kuka ja milloin on alun perin esittänyt ko. nimeen liittyvän tieteellisen lajinkuvauksen, esimerkiksi "Homo sapiens Linnaeus, 1758". Lajin kuvaajaa (nimen antajaa, esim. Linnaeus) sanotaan auktoriksi.
+Lajia alempien taksonomisisten tasojen käytöstä on ei vallitse yksimielisyyttä, ja käytännöussä on suurta vaihtelua kasvien ja eläinten välillä. Molemmilla käytetään tasoa alalaji (subspecies, lyhenne subsp. tai ssp.), mutta kasveista puhuttaessa voidaan käyttää myös tasoja muunnos (varietas, lyhenne var.), muoto (forma, lyhenne f.) ja lajike.
+
+
+== Nimien yleispiirteitä ==
+Suvun yläpuolella oleville taksoneille yleensä annetaan nimiä, jotka perustuvat hierarkiassa alemmalla tasolla olevan taksonin nimeen (esimerkiksi heimolla tyyppisukuun) ja joiden perään lisätään useimmiten standardipääte. Päätteet riip

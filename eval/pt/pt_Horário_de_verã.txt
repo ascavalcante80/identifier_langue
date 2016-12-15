@@ -1,0 +1,25 @@
+rio normal. Porém, as emissoras são obrigadas a exibir as atrações classificadas para maiores de 12 e 14 anos em relação do horário de Brasília, como no caso da Rede Globo entre 2009 a 2010.
+Em Portugal, quando se está no período de horário de verão, o sol põe-se entre as 18h45min e as 21h05min, em contra-partida, o nascente dá-se entre as 6h10min e as 7h55min. Notar que o horário de verão está em vigência durante a primavera e verão, mas também durante o primeiro mês de outono. Assim, os últimos dias de outubro, anteriores à mudança de horário, são o período do ano em que o sol nasce mais tarde na hora oficial, e não durante o mês de dezembro, que corresponde aos dias mais curtos.
+A mudança de horário impacta os sistemas críticos de informática em uso nas empresas. Alguns destes sistemas precisam ser desligados e religados para que a atualização de horário não provoque problemas internos nos programas e nem efeitos indesejáveis. O mesmo acontece para a volta ao horário normal .
+Em 08 de setembro de 2008 foi publicado, pela Casa Civil da Presidência da República, o decreto N° 6558 que definiu regras para as datas de início e término do horário de verão no Brasil. A partir da publicação deste decreto, passou a ser possível saber, antecipadamente, quais serão as datas de início e término do horário de verão, informação essa que era definida e publicada anualmente. Até a publicação deste decreto, a definição anual das datas exatas era um enorme problema pra área de Tecnologia da Informação (TI), que precisava ajustar todos os sistemas, todos os anos, com as datas de início e término do horário de verão. Em resumo, o decreto diz que nos Estados onde o horário de verão é observado, ele inicia-se no terceiro domingo de outubro e encerra-se no terceiro domingo de fevereiro, exceto quando o terceiro domingo de fevereiro coincidir com o domingo de Carnaval. Nesse caso, o horário de verão encerra-se no domingo seguinte. O objetivo disso é evitar que, em meio a um feriado, pessoas esqueçam de ajustar seus relógios.
+Apesar de parecer uma regra simples, tal regra do horário de verão é quase impossível de ser implementada em sistemas computacionais por utilizar o Carnaval para calcular as exceções. O Carnaval é uma data móvel, baseada na Páscoa, outra data móvel. Assim, a regra não é tão simples de ser configurada, apesar de parecer simples quando escrita. Ainda assim, foram feitos cálculos da data do Carnaval e foi possível calcular antecipadamente quais anos tal exceção ocorrerá, permitindo que tais anos fossem programados e assim, permitindo que o horário de verão já esteja previamente configurado para vários anos à frente. Sistemas baseados em Unix, por exemplo, que estejam com a definições de horário de verão devidamente atualizadas, já estão corretamente programados para as datas de horário de verão brasileiro até o ano de 2038.
+
+
+== Ver também ==
+Horário de verão no Brasil
+Horário de verão em Portugal
+
+
+== Notas e referências ==
+
+
+== Ligações externas ==
+Observatório Astronómico de Lisboa Responsável pela Hora legal em Portugal
+Hora Legal Brasileira Divisão do Serviço da Hora, do Observatório Nacional Brasileiro.
+Acerte seu Relógio Sincronismo em tempo real, Diretamente do Relógio Atômico de Césio brasileiro.
+Time Zone Editor para Windows (download .zip): aplicativo da Microsoft para ajustar a data de início e fim do horário de verão, para qualquer fuso horário.
+KB317211 Artigo da base de conhecimento da Microsoft que explica como configurar as datas de horário de verão para o Brasil.
+Mudança horária e hora certa Mudança horária em Portugal e no mundo. Averigua com a nossa página quando é que tens que mudar o relógio
+Horas diferença entre o Brasil e os Estados unidos em 2008 Display gráfico de horas pelo horário de verão provocam diferenças tempo
+Hora legal em Portugal Continental
+Decretos sobre o Horário de Verão no Brasil (em português)

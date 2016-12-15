@@ -1,0 +1,5 @@
+ (semelhante ao corte de uma tesoura ou guilhotina);
+Flexão
+solicitação que tende a girar um corpo e ocorre quando a tensão tende a uma rotação angular no eixo geométrico do corpo e tangencial ao apoio ou inércia (semelhante a um trampolim de piscina);
+Torção
+solicitação que tende a torcer o corpo; ocorre quando a tensão tende a uma rotação angular sobre o eixo geométrico do corpo e axial ao apoio ou inércia (semelhante ao eixo cardã dos caminhões).

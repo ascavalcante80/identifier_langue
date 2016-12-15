@@ -1,0 +1,12 @@
+ soustava která je v SI jednotkách a se středem v těžišti Země. Praktickou realizací standardu je International Terrestrial Reference Frame, což je soustava bodů s co nejpřesněji určenými souřadnicemi vzhledem k ITRS. K měření se používají dráhy družic a systém nebeských souřadnic, navázaný ke vzdáleným kvasarům. Význačný poledník tohoto systému, International Reference Meridian, je od Airyho poledníku posunutý o 102,5 metru (V Greenwichi. Rozdíl se s časem mění). Vztah IRM a Greenwichského základního poledníku co se „definičnosti“ týče je dosti komplikovaný. Nesporné naopak je, že základní poledník má výrazně větší historický význam, ale pro praktické účely je dnes důležitější IRM.
+
+
+== Související články ==
+Časové pásmo
+Poledník
+UTC
+
+
+== Externí odkazy ==
+Sborník International Meridian Conference (anglicky)
+terestrial Reference System (PDF)

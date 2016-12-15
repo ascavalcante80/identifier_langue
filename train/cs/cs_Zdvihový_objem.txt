@@ -1,0 +1,12 @@
+Zdvihový objem je část pracovního prostoru všech válců v pístovém motoru s přímočarým vratným pohybem pístu, vymezený horní a dolní úvratí. Zdvihový objem neznamená celkový objem pístového motoru, protože i v horní úvrati pístu zůstává část pracovního prostoru s nenulovým objemem. Tento prostor nazýváme kompresní prostor. Proto se dá zdvihový objem definovat i jako rozdíl objemů pracovního prostoru mezi dolní a horní úvratí.
+Zdvihový objem se označuje Vz a závisí od vzdálenosti mezi úvratěmi tzv. zdvihu (odtud název) a průmětu plochy pístu do roviny kolmé na osu jeho pohybu. Udává se v jednotkách objemu, prakticky nejčastější v litrech nebo krychlových centimetrech.
+Jestliže předpokládáme kruhový průřez pístu, použitý u většiny pístových strojů, potom platí:
+
+d – průměr pístu nebo průměr vrtání válce
+Z – zdvih pístu nebo vzdálenost mezi horní a dolní úvratí
+n – počet válců stroje
+
+
+== Význam zdvihového objemu ==
+Zdvihový objem se používá na porovnávání velikosti pístových stojů, protože je to veličina, na které přímo závisí výkonové parametry stroje.
+Když se

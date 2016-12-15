@@ -1,0 +1,108 @@
+XHTML (ang. Extensible HyperText Markup Language, rozszerzalny język znaczników hipertekstowych) – język służący do tworzenia stron WWW ogólnego przeznaczenia. Specyfikacje XHTML przygotowuje organizacja W3C.
+XHTML/1.0 nie jest następcą HTML, a jedynie przedstawieniem HTML 4.01 w postaci XML. XHTML/2.0 miał być następcą HTML, niekompatybilnym wstecz, ale ze względu na niekompatybilność Internet Explorera, a co za tym idzie niechęć użytkowników, W3C zadecydowało o kontynuowaniu linii XHTML/1.0 i HTML 4 jako XHTML 1.1 i HTML 5.
+W odróżnieniu od HTML-a (który jest zastosowaniem SGML), dokumenty pisane w XHTML są zgodne z oficjalną specyfikacją XML (to znaczy, że dokumenty w XHTML są poprawnymi dokumentami XML) i dzięki temu można je łatwo generować z innych dokumentów XML przy pomocy np. transformacji XSLT, a także automatycznie przekształcać w inne formy XML-a. Dzięki temu dokumenty te posiadają większe możliwości, jak choćby wstawianie innych dokumentów za pomocą jednej metody (element <object/>), zagnieżdżanie wzorów matematycznych (język MathML), czy grafik wektorowych (język SVG).
+Jedną z największych zalet XHTML jest możliwość łączenia z innymi językami zgodnymi z XML, np. wspomniany już MathML czy SVG. Odbywa się to dzięki wykorzystaniu mechanizmu przestrzeni nazw XML.
+Obecnie nowe przeglądarki, takie jak Firefox czy Opera, praktycznie w pełni obsługują XHTML, lecz program mający największy udział w rynku – Internet Explorer – obsługuje XHTML-owy typ zawartości dopiero od wersji 9. W praktyce zmuszało to webmasterów do stosowania dla dokumentów XHTML starego HTML-owego typu zawartości – dzięki temu, że XHTML w wersji 1.0 „symuluje” HTML 4 (tzn. posiada praktycznie taki sam zestaw elementów i atrybutów), wyświetlanie XHTML jako HTML nie sprawia większych problemów w żadnej przeglądarce, o ile dokument nie wykorzystuje dodatkowych możliwości XHTML, których nie ma w HTML (przedrostków nazw elementów, innych przestrzeni nazw, XML DOM), zachowanie to uznawane jest za nieprawidłowe, choć dopuszczalne, ze względu na niezgodność wcześniejszych wersji Internet Explorera.
+Jednak aby prawidłowo wyświetlać strony zarówno w nowoczesnych, jak i starszych przeglądarkach należy wykorzystać metodę negocjowania zawartości.
+
+
+== Podstawowe reguły XHTMLEdytuj ==
+Zasady konstruowania dokumentów XHTML – najważniejsze różnice w porównaniu z HTML:
+Jeśli strona XHTML zawiera błędy, nie może zostać wyświetlona;
+Strony XHTML muszą mieć typ zawartości application/xhtml+xml (lub inny XML);
+Dzięki użyciu XHTML można stosować inne aplikacje XML (jak MathML czy SVG) bezpośrednio w dokumencie, czego nie da się w HTML;
+Dokument powinien rozpoczynać się od deklaracji XML (np. <?xml version="1.0" encoding="utf-8"?>); nie jest ona wymagana, gdy dokument ma kodowanie znaków UTF-8 lub UTF-16, albo gdy odpowiednie kodowanie zostało określone w nagłówkach HTTP (jednak nawet wtedy warto dołączać deklarację XML, gdyż pozwala ona ustalić kodowanie np. w przypadku zapisania strony na dysku);
+Element główny (html) musi zawierać atrybut xmlns określający przestrzeń nazw XHTML: http://www.w3.org/1999/xhtml;
+Znacznikowi otwierającemu każdego niepustego elementu powinien odpowiadać znacznik zamykający (np. <li> ... </li>);
+Puste elementy muszą także być zamykane (np. zamiast <br> musi być <br/>, albo <br></br>);
+Elementy muszą być zagnieżdżane w odpowiedni sposób (np. zamiast <p>Tekst z <em>wyróżnieniem</p></em> – <p>Tekst z <em>wyróżnieniem</em></p>); wprawdzie w HTML także istniał taki wymóg, lecz nie był egzekwowany przez przeglądarki;
+Nazwy elementów i atrybutów XHTML muszą być pisane małymi literami;
+Wszystkie wartości atrybutów muszą być ujęte w cudzysłów (podwójny, np. <td rowspan="3">, albo apostrof, np. <td rowspan='3'>);
+Niedozwolona jest minimalizacja atrybutów (np. zamiast <textarea readonly> musi być <textarea readonly="readonly">);
+Wewnątrz elementów script i style komentarze XML (<!-- -->) zamiast ukrywać je przed starszymi przeglądarkami (które i tak nie obsługują XHTML), powodują ignorowanie tych stylów lub skryptów. W sekcji CDATA natomiast komentarze są traktowane jako element stylu/skryptu;
+Jeśli zawarte wewnątrz dokumentu arkusze stylów lub skrypty zawierają znaki & lub <, zawartość elementów style i script należy umieścić w sekcji CDATA (np.: <style type="text/css"><![CDATA[ arkusz stylów]] ></style>); alternatywnie można użyć encji lub zewnętrznego arkusza stylów/skryptu;
+Ze względu na trudności z parsowaniem, nie powinno się używać w XHTML-u javascriptowej metody document.write() i właściwości innerHTML; jednak niektóre przeglądarki już obsługują te konstrukcje także w dokumentach XML. Zamiast nich należy używać metod DOM.
+
+
+== Kompatybilność z HTMLEdytuj ==
+Ponieważ nadal są używane nieobsługujące XHTML przeglądarki internetowe, jeżeli chcemy wysyłać dokument zarówno jako XHTML, jak i HTML (dla starszych przeglądarek), możemy się zastosować do kilku reguł. Jednak niektórzy uważają, że XHTML zgodny z HTML pozbawia całkowicie sensu ideę HTML-a jako XML (patrz: http://www.hixie.ch/advocacy/xhtml).
+Znaczniki pustych elementów powinny zawierać dodatkową spację przed ukośnikiem, np. zamiast <br/> powinno być <br />
+Należy unikać używania zminimalizowanej formy (np. <p/>) w przypadku pustych elementów, które mogą mieć zawartość; np. stosowanie znacznika <script type="text/javascript" src="skrypt.js"/> w dokumencie przesyłanym jako HTML prowadzi zwykle do niewyświetlenia reszty dokumentu; należy w tym wypadku używać <script type="..." src="..."></script>
+Obok lub zamiast instrukcji xml-stylesheet należy odwoływać się do zewnętrznych arkuszy stylów przy pomocy obsługiwanego w HTML-u znacznika <link rel="stylesheet" ... />
+Objęcie wewnętrznych skryptów i stylów sekcją CDATA może powodować ich błędne działanie; należy w związku z tym zakomentować znaczniki początku i końca sekcji CDATA, np.: <style type="text/css">/* <![CDATA[ */ arkusz stylów /*]] > */</style>
+Oprócz typowej dla XML deklaracji języka za pomocą atrybutu xml:lang, należy też używać zgodnego z HTML atrybutu lang.
+Dla kompatybilności z IE6 należy pomijać deklarację XML – powoduje to w nim przejście w tryb wstecznej zgodności. Nie ma sensu jednak dodawać jej dla innych przeglądarek (skryptami po stronie serwera), gdyż i tak jest ona nieobowiązkowa. Strona musi być zakodowana jako UTF-8/USC-*, a jeżeli jest zakodowana inaczej, musimy odpowiednią informację dodać do nagłówka Content-Type (np. kodem PHP: header("Content-Type: $mime; charset=\"iso-8859-2\"");, gdzie $mime to ustalony w wyniku negocjacji zawartości typ pliku).
+W DOM należy używać createElementNS zamiast createElement i trzeba uważać na wielkość liter (DOM HTML podaje nazwy elementów wielkimi literami, DOM XML zachowuje wielkość liter i w XHTML dopuszcza tylko małe litery).
+
+
+== XHTML a PHPEdytuj ==
+Używając języka PHP w dokumentach XHTML często można się spotkać z błędem podczas parsowania instrukcji przetwarzania lub deklaracji XML (konstrukcje typu <?xml version="1.0" encoding="utf-8"?>). Przyczyną jest włączona opcja używania krótkich znaczników (<? ?>) do oznaczania bloku PHP, co powoduje, że deklaracje XML są traktowane przez parser jak kod PHP.
+Wyłączenie krótkich znaczników PHP można osiągnąć dokonując następującego wpisu do pliku php.ini:
+
+short_open_tag = Off
+
+Ten sam efekt można osiągnąć przez umieszczenie w pliku .htaccess (serwer Apache) wpisu:
+
+php_flag short_open_tag Off
+
+Jeśli nie mamy możliwości lub nie chcemy wyłączać krótkich znaczników, akceptowalnym obejściem problemu jest używanie PHP-owej konstrukcji echo lub print do wypisywania deklaracji XML:
+
+<?php echo "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" ?>
+
+
+== Walidacja XHTMLEdytuj ==
+Tak jak każdy dokument XML, dokument XHTML powinien spełniać dwa rodzaje poprawności:
+poprawność składniowa (well-formedness) – zgodność z podstawowymi regułami XML; można ją sprawdzić wysyłając dokument z typem treści ustawionym na application/xhtml+xml i otwierając w obsługującej XHTML przeglądarce, w przypadku błędu ma ona obowiązek nie wyświetlić dokumentu, lub w walidatorze
+poprawność strukturalna (validity) – zgodność z regułami określonymi w skojarzonym z danym typem dokumentu schemacie; sprawdzanie tej poprawności to właśnie walidacja, dokonuje się jej przy pomocy walidatorów; walidator wychwytuje także błędy w kodowaniu znaków.
+Schematy określające definicję typu dokumentu w przypadku XHTML są zwykle wyrażone w DTD. Aby walidator wiedział wobec jakiej wersji i odmiany języka ma sprawdzać poprawność, konieczne jest umieszczenie w dokumencie deklaracji typu dokumentu (DOCTYPE). Deklaracja ta powinna być umieszczona po deklaracji XML (jeśli jest obecna); obie te deklaracje tworzą razem prolog XML. W XHTML 1.0 istnieją 3 różne DTD, każda z nich definiuje osobną odmianę tej wersji języka. W XHTML 1.1 jest już tylko jedna DTD, ale dzięki modularyzacji XHTML można łatwo na jej bazie tworzyć własne DTD.
+DTD (i bazujący na nim walidator W3C) ma jednak sporo ograniczeń i nie potrafi wyrazić wszystkich reguł języka XHTML. Możliwe więc, że dokument, który pozytywnie przeszedł walidację względem DTD wcale nie jest poprawny. Wielu ograniczeń DTD pozbawiony jest inny język schematów – XML Schema. W3C opublikowało specjalną notę zawierającą definicję XHTML 1.0 w XML Schema, przygotowywane jest też drugie wydanie XHTML 1.1, uzupełniające specyfikację o schematy w tym języku. XML Schema w porównaniu z DTD potrafi np. sprawdzić poprawność wartości atrybutu accesskey (powinien to być jeden znak, DTD pozwala na wiele znaków), czy atrybutu tabindex (powinna się zawierać między 0 a 32767, walidator DTD przyjmie dowolny ciąg znaków). Chcąc walidować dokument względem XML Schema można, choć nie jest to konieczne, do elementu głównego (html) dodać atrybut schemaLocation z przestrzeni nazw http://www.w3.org/2001/XMLSchema-instance, określający lokalizację schematu.
+Innym językiem schematów mogącym służyć do walidacji XHTML jest RELAX NG. W porównaniu do XML Schema ma on bardziej intuicyjną składnię, lecz podobnie oferuje dużo więcej możliwości niż DTD (choć na tym polu nieco ustępuje językowi XML Schema). RELAX NG ma być kolejnym, obok DTD i XML Schema, językiem, w którym zostanie zdefiniowany schemat XHTML 2.0 (jednak odwoływanie się w dokumencie do tego schematu nie będzie potrzebne, w przeciwieństwie do dwóch pozostałych języków).
+
+
+== Wersje XHTMLEdytuj ==
+
+
+=== XHTML 1.0Edytuj ===
+XHTML 1.0 został zatwierdzony jako rekomendacja W3C 26 stycznia 2000 roku. Rekomendacja ta jest po prostu odpowiednim przeformułowaniem języka HTML 4 – SGML jako język definiowania został zastąpiony przez XML. XHTML 1.0 dysponuje więc praktycznie tym samym zestawem elementów i atrybutów, co HTML 4; analogiczny jest też podział na 3 wersje DTD:
+XHTML 1.0 Strict – odmiana ścisła, zalecana przez W3C, przeznaczona do tworzenia dokumentów z oddzieloną warstwą semantyki od prezentacji; nie zawiera prawie żadnych elementów prezentacyjnych
+XHTML 1.0 Transitional – odmiana przejściowa, obok elementów odmiany ścisłej zawiera wiele elementów prezentacyjnych
+XHTML 1.0 Frameset – zawiera wszystkie elementy wersji przejściowej, a dodatkowo także elementy przeznaczone do wyświetlania ramek.
+Warto pamiętać, że DTD XHTML 1.0 nie jest w pełni analogiczne do DTD HTML 4.01 (bardziej przypomina DTD HTML 4.0). W związku z tym niektóre atrybuty dozwolone w HTML 4.01 Strict są niedozwolone w XHTML 1.0 Strict (ale można je stosować w odmianach Transitional i Frameset). Na przykład w odmianie ścisłej XHTML 1.0 nie można używać atrybutu name dla elementu form (mimo że jest to możliwe w HTML 4.01 Strict).
+
+
+=== XHTML 1.1Edytuj ===
+Najnowszą rekomendacją XHTML jest opublikowana 31 maja 2001 r. i uaktualniona jako wydanie drugie 23 listopada 2010 specyfikacja XHTML 1.1. W3C zaleca jej używanie do wszystkich nowo powstających stron WWW, jednak ze względu na niemożliwość obsłużenia typu application/xhtml+xml w Internet Explorerze w wersji wcześniejszej niż 9, standard ten nie jest jak dotąd powszechnie stosowany.
+XHTML 1.1 został opracowany zgodnie z regułami modularyzacji XHTML. Zawiera elementy i atrybuty takie, jak XHTML 1.0 Strict, usunięto tylko atrybut name dla elementu a oraz atrybut lang. Natomiast nowością w tej wersji XHTML są elementy i atrybuty służące do wyświetlania znaków ruby, używanych w typografii języków Dalekiego Wschodu.
+
+
+=== XHTML 2.0 (zarzucony projekt)Edytuj ===
+Specyfikacja XHTML 2.0 miała wprowadzić wiele znaczących zmian do języka bez względu na kompatybilność z poprzednimi wersjami XHTML, jednak z czasem zdecydowano o pozostawieniu w XHTML 2.0 takich elementów, jak img, czy h1–h6, aż wreszcie XHTML 2 został porzucony na rzecz HTML 5, który zachowuje większą kompatybilność wstecz.
+Siódma wersja szkicu roboczego XHTML 2 została opublikowana 27 maja 2005 r. Najważniejsze zmiany wprowadzone w projekcie specyfikacji:
+prawie każdy element będzie mógł stanowić hiperłącze, np. będzie można pisać: <li href="index.xhtml">Strona główna</li>; element a zostanie jednak zachowany,
+element obrazka img zostanie uznany za przestarzały na rzecz elementu object, ale atrybut src będzie można stosować dla prawie każdego elementu, a zawartość tego elementu będzie wyświetlana tylko przy braku możliwości renderowania obrazka (lub innego medium, np. dźwięku): <p src="logo" type="image/png; image/gif;q=0.2">Tekst zamiast obrazka.</p>,
+stare, odziedziczone po HTML-u formularze zostaną zastąpione przez XForms, które zapewniają większą elastyczność i ograniczają konieczność stosowania skryptów,
+ograniczony zbiór atrybutów obsługujących zdarzenia zostanie zastąpiony przez XML Events – możliwe będzie odwoływanie się do zdarzeń DOM 2, a nawet definiowanie własnych zdarzeń; jednocześnie obsługujący zdarzenia element script zostanie przemianowany na handler,
+elementy nagłówków h1 – h6 zostaną uznane za przestarzałe i zastąpione przez jeden element h, zaś stopień nagłówka będzie można ustalać przez ich odpowiednie zagnieżdżenie w elementach section oznaczających rozdziały dokumentu,
+pozioma linia hr zostanie zastąpiona przez element separator, który nie będzie musiał mieć ani kształtu linii, ani układu poziomego (w XHTML < 2.0 można to było zrobić przez kaskadowe arkusze stylów),
+pusty element końca linii br, do którego nie można było się odwoływać w arkuszach stylów, zostanie zastąpiony przez element l obejmujący pojedynczy wiersz,
+element p oznaczający akapit będzie mógł oprócz tekstu zawierać także m.in. wykazy i tabele,
+usunięte będą ostatnie elementy prezentacyjne dozwolone w XHTML 1.1, takie jak b, czy i; jako wyjątek pozostawione zostaną elementy indeksu górnego i dolnego: sup i sub,
+inne nowe elementy:
+nl – lista nawigacyjna,
+di – skojarzanie terminu i definicji w liście definicyjnej,
+quote – cytat, zastąpi element q,
+blockcode – blok kodu komputerowego,
+summary – długi opis tabeli, zastąpi atrybut o tej samej nazwie,
+access – skrót (np. klawiaturowy) do innego elementu, zastąpi atrybut accesskey,
+standby – informacja wyświetlana podczas ładowania obiektu.
+
+Aktualna, ósma wersja szkicu roboczego XHTML 2 została opublikowana 26 lipca 2006 r. 2 lipca 2009 r. konsorcjum W3C ogłosiło, że działanie grupy roboczej XHTML 2 nie zostanie przedłużone po jej wygaśnięciu z końcem 2009 roku. W zamian zostaną zwiększone zasoby na grupę roboczą HTML, czym W3C ma nadzieję przyspieszyć rozwój standardu HTML 5.
+
+
+=== HTML5 (projekt)Edytuj ===
+
+Alternatywnie wobec XHTML2 jest rozwijany projekt HTML 5, przygotowywany przez W3C na podstawie projektu specyfikacji Web Applications WHATWG. Serializacja HTML 5 dla XML jest określana jako XHTML5.
+
+
+== Modularyzacja XHTMLEdytuj ==
+W 2001 r. dokonano podziału XHTML na moduły. Zdefiniowano jednocześnie reguły tworzenia nowych modułów, a także reguły, według których moduły mogą być łączone. Umożliwia to tworzenie nowych języków składają

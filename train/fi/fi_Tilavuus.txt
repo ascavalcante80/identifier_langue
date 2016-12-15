@@ -1,0 +1,34 @@
+Tilavuus (vetoisuus, tunnus ) on kolmiulotteisen kappaleen koon mitta. Se kertoo paljonko kappaleessa on tilaa. SI-järjestelmän mukainen tilavuuden yksikkö on kuutiometri (lyhenne m³). Lisäyksikkönä tilavuudelle on käytössä litra (tunnus l). Tuhat litraa on yksi kuutiometri, ja yksi litra on yksi kuutiodesimetri (dm³).
+
+
+== Kappaleiden tilavuuksiaMuokkaa ==
+Kuutio: , missä  on kuution särmän pituus.
+Suorakulmainen särmiö: , missä ,  ja  ovat pituus, leveys ja korkeus.
+Pallo:  , missä  on pallon säde.
+Lieriö:  , jossa  on lieriön pohjan pinta-ala ja  lieriön korkeus. Erityisesti ympyrälieriölle pätee , jossa  on pohjan säde.
+Kartio:  , jossa  on kartion pohjan pinta-ala ja  kartion korkeus. Erityisesti ympyräkartiolle , jossa  on pohjan säde.
+
+
+== SI-järjestelmään kuulumattomia tilavuuden mittayksiköitäMuokkaa ==
+Tilavuuden yksiköt ovat vaihdelleet eri maissa eri aikoina, mutta myös mitattavan tavaran mukaan. Ns. vetomittoja käytettiin aikaisemmin nesteen ja hienojakoisen kuivatavaran mittaamiseen.
+
+
+=== Brittiläisiä ja amerikkalaisia tilavuusyksiköitäMuokkaa ===
+
+Barreli eli tynnyri voi tarkoittaa useita eri tilavuusmittoja.
+Bushel
+Gallona on yhä käytössä muun muassa Yhdysvalloissa.
+Pintti
+
+
+=== Vanhoja suomalaisia tilavuusyksiköitäMuokkaa ===
+
+Aami on vanha Suomessa käytetty veto- eli tilavuusmitta. Yksi aami on 60 kannua eli 120 tuoppia eli noin 157,03 litraa.
+Kannu on vanha Suomessa, Ruotsissa ja Norjassa käytetty tilavuusmitta. Kannu oli tilavuudeltaan 2,6172 litraa.
+Kappa on vanha Suomessa ja Ruotsissa käytetty tilavuusmitta. Vanha kappa oli tilavuudeltaan 4,58 litraa eli 1/32 tynnyriä, myöhemmin autonomian aikana käytetty 5,4961 litraa eli 1/30 tynnyriä. Kappaa käytetään yhä torikaupassa perunoiden mittaamiseen. Nykyinen metrinen kappa on tilavuudeltaan noin 5 litraa ja pieni kappa 2 litraa.
+Kortteli = 3,2715 dl
+
+
+=== Puutavaran yksiköitäMuokkaa ===
+
+Standartti on vanha Pohjoismaissa käytetty puutavaran tilavuuden mittayksikkö. Yksi standartti (1 std) sahattua puutavaraa 

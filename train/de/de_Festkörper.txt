@@ -1,0 +1,60 @@
+Festkörper (auch Feststoff) bezeichnet in den Naturwissenschaften Materie im festen Aggregatzustand. Im engeren Sinne versteht man hierunter auch einen Stoff, welcher bei einer Temperatur von 20 °C einen festen Aggregatzustand aufweist, wobei die Bezeichnung Feststoff in diesem Fall stoffspezifisch, jedoch nicht temperaturspezifisch ist. Festkörper haben im technischen Sprachgebrauch eine gewisse Mindest-Ausdehnung, die aber nicht scharf definiert ist. Sie sind demnach makroskopische Körper – im Gegensatz zu mikroskopischen Körpern. Zum Beispiel gilt im Regelfall ein Makromolekül für sich allein noch nicht als Festkörper. Materie im Übergangsbereich bezeichnet man als Cluster.
+Reale Festkörper sind durch Kräfte etwas verformbar (elastisch oder plastisch), im Gegensatz zu idealisierten starren Körpern. Denn alle Festkörper kann man sich aus Bausteinen zusammengesetzt vorstellen. Solche Elementarteile können einzelne Atome oder Moleküle, aber auch Gruppen davon sein. Sind alle Bausteine gleichartig, so spricht man von Monostrukturen, andernfalls von Heterostrukturen. Die Eigenschaften der Festkörper unterscheiden sich aufgrund der gegenseitigen Wechselwirkung der Bausteine der Materie erheblich von den Eigenschaften freier Teilchen oder Lösungen. Besonderes Kennzeichen von Festkörpern ist die Beständigkeit der Ordnung (amorph oder kristallin) ihrer Bausteine. Ein anderer Aufbau der gleichen Bausteine – die Modifikation – beeinflusst die Eigenschaften des Festkörpers maßgeblich.
+Die Festkörperphysik befasst sich mit der Physik von Materie im festen Aggregatzustand, als Spezialfall der kondensierten Materie, die Flüssigkeiten einschließt. Die Materialwissenschaft beschäftigt sich hauptsächlich mit den physikalischen und chemischen Eigenschaften von Festkörpern. Die Festkörperchemie ist neben der chemischen Zusammensetzung bestehender insbesondere an der Synthese neuer Materialien interessiert. Die Disziplinen sind sowohl untereinander als auch zur Mineralogie, der Metallurgie und der Kristallographie nicht scharf abgegrenzt.
+
+
+== Typen ==
+Man unterscheidet zwischen amorphen (im kleinsten Maßstab „gestaltlosen“) und kristallinen (aus Kristallen bestehenden) Festkörpern. Die Festkörperphysik beschäftigt sich vorwiegend mit den Eigenschaften kristalliner Festkörper. Darunter wird – wie in der Geologie – ein feines Gefüge verstanden, wie es beispielsweise beim Marmor am Funkeln kleinster Körner erkennbar ist. Im Vergleich zu Gesteinen ist dieses Gefüge bei den meisten in Festkörper- oder Geophysik, Industrie und Technik betrachteten oder verwendeten Festkörpern jedoch viel feiner und selbst im Mikroskop bei stärkster Vergrößerung kaum erkennbar.
+Einkristalle
+Bei Einkristallen besteht der ganze Körper aus einem einzigen Kristall. Es gibt also eine regelmäßige Anordnung ihrer Bausteine. Die Art der zugrunde liegenden Struktur ist verantwortlich für viele Eigenschaften eines Festkörpers. Beispielsweise besitzt Kohlenstoff zwei verschiedene Kristallstrukturen – Graphit und Diamant – welche völlig verschiedene elektrische Leitfähigkeiten haben (Graphit leitet den Strom, Diamant ist ein Isolator). Einige Mineralien kommen als natürliche Einkristalle mit charakteristischer äußerer Form vor.
+Quasikristalle
+Bei Aluminium-Metall-Legierungen die sogenannte ikosaedrische Phase, die zum neuen Forschungsgebiet der quasiperiodischen Kristalle zählen und von Dan Shechtman entdeckt wurden.
+Amorphe Festkörper
+Die Physik der amorphen Festkörper ist vielschichtig, weil hierunter alle Festkörper zusammengefasst werden, die keine regelmäßige Struktur besitzen. Die meisten Gläser oder manche erstarrte Flüssigkeiten sind nur einige Vertreter dieser Gattung. Mit dem Verlust einer makroskopischen Struktur gehen auch viele typische Eigenschaften eines Kristalls verloren. Beispielsweise sind die meisten amorphen Festkörper schlechte elektrische Leiter. Dennoch stellt dieses Gebiet ein interessantes Thema in der Forschung dar, da ein Fehlen der Kristallstruktur auch ein Fehlen von Anisotropie-Effekten bedeutet.
+Polykristalline Festkörper
+Kristallin und amorph sind nicht die einzigmöglichen Erscheinungsformen von Festkörpern. Dazwischen gibt es einen Bereich, der gewissermaßen eine Mischform darstellt: Die polykristallinen Festkörper. Diese bestehen aus einer Ansammlung von kleinen Einkristallen, die ungeordnet zu einem großen Ganzen verbaut sind.
+
+
+== Bindungen ==
+Der Zusammenhalt eines Festkörpers beruht auf einer attraktiven (anziehenden) Wechselwirkung zwischen den Atomen bzw. Molekülen auf großen Distanzen und einer repulsiven auf kurzen. Den energetisch günstigsten Abstand nennt man Gleichgewichtsabstand. Ist die thermische Energie der Atome zu niedrig, um dieser Potentialfalle zu entkommen, so bilden sich starre Anordnungen aus – die Atome sind aneinander gebunden. Die so eingenommenen Gleichgewichtsabstände sind für den jeweiligen Stoff charakteristisch und liegen typisch im Bereich von etwa 0,1 nm bis 0,3 nm.
+Es gibt im Wesentlichen vier Bindungsarten, welche den Aufbau und die Eigenschaften eines Festkörpers maßgeblich beeinflussen:
+
+
+=== Ionenbindung ===
+Die Ionenbindung tritt – zumindest anteilig – immer auf, wenn der Festkörper aus unterschiedlichen Elementen aufgebaut ist, welche eine unterschiedliche Elektronegativität besitzen. Dabei gibt das eine Element dem anderen ein Elektron ab, also wird das eine zum Anion und das andere zum Kation. Die unterschiedlichen Ladungen bewirken eine elektrostatische Anziehung. Salze sind ein typischer Vertreter dieser Bindungsart.
+
+
+=== Kovalente Bindung ===
+Die Kovalente Bindung, auch Atombindung genannt, beruht auf einem Absenken der elektronischen Energie. Das Prinzip ist das gleiche wie bei der Bildung von Molekülen (z. B. O2). Elemente der vierten Hauptgruppe (Kohlenstoff, Silicium, Germanium) sind auf diese Art gebunden. Man bezeichnet den Zustand der Elektronen dann auch als sp3-Hybridisierung.
+
+
+=== Metallbindung ===
+Die Metallbindung ist ein Extremfall der kovalenten Bindung. Auch diese Bindung ist durch eine Absenkung der elektronischen Energie bedingt. Nur ist hier die Überlappung der Orbitale der Atome so groß, dass diese auch noch mit denen ihrer übernächsten (oder noch mehr) Nachbarn wechselwirken. Man kann es sich so vorstellen, dass die Ionenrümpfe der Atome in einen Elektronensee eingebettet sind. Wie der Name bereits andeutet, bilden Metalle diese Bindung aus.
+
+
+=== Van-der-Waals-Bindung ===
+Van-der-Waals-Wechselwirkungen treten grundsätzlich immer auf, sind allerdings so schwach, dass sie sich nur bei Abwesenheit anderer Bindungsarten so bemerkbar machen, dass von regelrechten Van-der-Waals-Bindungen gesprochen werden kann. Die anziehende Kraft dabei ist eine Komponente der gesamten elektrostatischen Wechselwirkungen, die mit dem reziproken Abstand in 7. Potenz abnimmt und durch lokal induzierte Dipolmomente in der Elektronendichte verursacht wird. Edelgas- und Molekülkristalle werden nur durch diese zusammengehalten. Van-der-Waals-Wechselwirkungen zählen zu den Dispersionswechselwirkungen, die im Bänder- oder Orbitalmodell aus störungstheoretischen Beiträgen 2. und höherer Ordnung der interelektronischen Repulsion verursacht werden.
+Diese Bindungsarten sind keineswegs isolierte Fälle, die nur entweder-oder auftreten. Der Übergang von ionischer zu kovalenter zu metallischer Bindung ist fließend. Zudem können in Festkörpern verschiedene Bindungen nebeneinander auftreten. Graphit z. B. besteht aus Schichten kovalent gebundener Kohlenstoffatome, während die Schichten als Ganzes untereinander über Van-der-Waals-Bindungen zusammenhalten. Da letztere Bindung so schwach ist, nutzt man Graphit als Bleistiftminen – beim Reiben über Papier reißen die Bindungen bereits auf. Kristallstrukturen mit verschiedenen Bindungsarten bezeichnet man als heterodesmisch, solche mit nur einer Bindungsart als homodesmisch.
+
+
+== Oberflächen ==
+Mit der Oberfläche meint man die abschließenden 1–3 Atomlagen an der Grenze zum Vakuum. Das Fehlen von Bindungspartnern zu einer Seite zieht für Atome dieser Schichten üblicherweise eine Relaxation, Rekonstruktion oder Rekombination nach sich. Dabei versuchen die Atome durch Ändern ihrer Bindungslänge zu tiefer liegenden Schichten (Relaxation) oder durch Umordnung ihrer Positionen und Absättigen offener Bindungen (Rekombination) einen energetisch günstigeren Zustand einzunehmen. Das Resultat sind neue Oberflächenstrukturen, die eine andere Periodizität als das Substrat (tiefer liegende Schichten) aufweisen können.
+Eine weitere Besonderheit ist das Auftreten von Oberflächenzuständen. Das bedeutet, dass in den sonst energetisch verbotenen Bereichen – den Bandlücken – erlaubte Energiezustände für Elektronen entstehen können. Bei Halbleitern sorgen diese neuen Zustände für eine Verbiegung der Bänder und damit einer Veränderung der elektrischen Leitfähigkeit. Es können so Leitungskanäle entstehen, was zum Beispiel für Feldeffekttransistoren genutzt wird.
+
+
+== Eigenschaften von Festkörpern ==
+
+
+=== Elektrische Leitfähigkeit ===
+Je nach ihrer elektrischen Leitfähigkeit lassen sich Festkörper in Leiter, Halbleiter und Nichtleiter einteilen. Diese Einteilung wurde historisch so festgelegt. Eine Erklärung für die Unterschiede der Leitfähigkeit konnte jedoch erst das Bändermodell liefern. Heutzutage wird daher die Gruppenzuordnung durch die Größe der Bandlücke festgelegt.
+Leiter
+Fast alle Metalle zählen zu den elektrisch guten Leitern. Die Leitungselektronen verhalten sich so, als ob sie sich frei im Festkörper bewegen können. Bei steigender Temperatur nimmt die Leitfähigkeit jedoch ab, was mit vermehrten Stößen der Elektronen mit den Gitterschwingungen begründet werden kann.
+Halbleiter
+Auffälligstes Merkmal der Leitfähigkeit von Halbleitern ist ihre starke Abhängigkeit von inneren (Reinheitsgrad) wie auch äußeren Parametern (Temperatur). Bei reinen (intrinsische) Halbleitern nimmt die Leitfähigkeit bei steigender Temperatur sehr stark zu – oft um eine Größenordnung bei etwa 20 K Unterschied. Neben Elektronen tragen hier auch sogenannte Defektelektronen, auch Löcher genannt, zur Leitfähigkeit bei. Die Ladungsträgerdichten von Löchern und Elektronen sind in intrinsischen Halbleitern gleich groß, das Verhältnis kann jedoch durch gezieltes Verunreinigen (Dotieren) einseitig verändert werden.
+Nichtleiter
+Isolatoren leiten unter normalen Umständen praktisch keinen elektrischen Strom.
+Die elektrische Leitfähigkeit gehört zu den variabelsten Größen in der Physik, die möglichen Werte erstrecken sich über mehr als 30 Größenordnungen. Dabei zeigen die meisten nichtmagnetischen Festkörper bei sehr tiefen Temperaturen einen weiteren erstaunlichen Effekt: Unterhalb einer kritischen Temperatur verschwindet der elektrische Widerstand völlig, diesen Zustand nennt man supraleitende Phase.
+
+
+=== Deformierbarkeit ===
+Anders als bei Flüssigkeiten und Gasen sind die Teilchen im festen Aggregatzustand nur minimal gegenseitig verschiebbar – entsprechend ihrer

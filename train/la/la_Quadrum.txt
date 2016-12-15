@@ -1,0 +1,18 @@
+Quadrum, vel quadratum, est rectangulum cui sunt quattuor latera aequalis longitudinis. Rectangulum invicem est parallelogrammum cuius omnes anguli recti sunt. Ergo quadrum est figura geometrica plana, cui quattuor latera aequalis longitudinis et quattuor anguli recti sunt.
+
+
+== Area rectangulorum quadrorumque ==
+Area A rectanguli computari potest per formulam
+
+ubi a est longitudo unius lateris et b longitudo alterius.
+In quadris, quod a = b, deinde habemus simpliciter :::
+
+
+== Circuitus quadri ==
+Quod quadro quattuor latera aequalis longitudinis sunt, circuitus huius figurae geometricae computari potest formula:
+
+a longitudo unius lateris quadri est.
+
+
+== Lineae diagonales quadri ==
+Quarum longitu

@@ -1,0 +1,51 @@
+ Surinam
+.st - Sao Tome i Principe
+.su - SSSR
+.sv - Salvador
+.sy - Sirija
+.sz - Svazilend
+.tc - Ostrva Turks i Caicos
+.td - Čad
+.tf - Francuske južne teritorije
+.tg - Togo
+.th - Tajland
+.tj - Tadžikistan
+.tk - Tokelau
+.tm - Turkmenistan
+.tn - Tunis
+.to - Tonga
+.tp - Istočni Timor
+.tr - Turska
+.tt - Trinidad i Tobago
+.tv - Tuvalu
+.tw - Tajvan
+.tz - Tanzanija
+.ua - Ukrajina
+.ug - Uganda
+.uk - Ujedinjeno Kraljevstvo
+.um - manja udaljena ostrva SAD
+.us - Sjedinjene Američke Države
+.uy - Urugvaj
+.uz - Uzbekistan
+.va - Vatikan
+.vc - Sveti Vincent i Grenadini
+.ve - Venecuela
+.vg - Britanska djevičanska ostrva
+.vi - Američka djevičanska ostrva
+.vn - Vijetnam
+.vu - Vanuatu
+.wf - Ostrva Wallis i Futuna
+.ws - Samoa
+.ye - Jemen
+.yt - Mayotte
+.yu - Jugoslavija
+.za - Južnoafrička Republika
+.zm - Zambija
+.zr - Demokratska republika Kongo
+.zw - Zimbabve
+
+
+=== Internacionalizovani kodovi zemalja ===
+
+
+== Reference ==

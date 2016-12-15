@@ -1,0 +1,18 @@
+Een wiki of wiki wiki is een verzameling hypertextdocumenten, inclusief de hiervoor benodigde software. Een wiki is een applicatie of computerprogramma, waarmee webdocumenten door meer redacteuren samen kunnen worden bewerkt. Bekende voorbeelden van wiki's zijn Wikipedia en Wikia. De term is afgeleid van het Hawaïaanse woord wiki, dat 'snel, vlug, beweeglijk' betekent.
+
+
+== GeschiedenisBewerken ==
+In 1995 ontwikkelde Ward Cunningham het eerste wikicomputerprogramma (ook bekend als Ward's Wiki), een technologie waarmee het mogelijk werd om informatie door meerdere gebruikers te laten organiseren. Hij noemde het 'wiki' omdat dat snel betekent in het Hawaïaans en omdat het een alliteratie vormt met het WWW (World Wide Web, ofwel internet). Cunningham haalde zijn inspiratie voor de wiki uit het HyperCard-programma van Apple waarmee gebruikers virtuele card stacks konden maken van informatie. Dit concept was op zijn beurt geïnspireerd op een idee van Vannevar Bush, dat hij in 1945 beschreef in zijn artikel 'As we may think' dat verscheen in het blad Atlantic Monthly. Volgens Bush zou er een machine moeten zijn die koppelingen legde tussen artikelen en boeken in een microfilm, wat in uitgewerkte vorm overeenkomt met de hyperlinks in de Wikisoftware. Wiki-ontwikkelaar Cunningham bouwde de HyperCard-stacks zelf op in de late jaren tachtig. Hij was de eerste die het wiki-programma Ward's Wiki aan een server koppelde. In navolging daarvan zijn er vele andere wiki's geprogrammeerd om allerlei pagina's te beheren.
+Cunningham installeerde op 25 maart 1995 het WikiWikiWeb op zijn bedrijfswebsite Cunningham & Cunningham. Hij noemde het WikiWikiWeb omdat hij dacht aan een baliemedewerker van Honolulu International Airport die hem verteld had over de Wiki Wiki Shuttle, een snelle pendelbus die heen en weer rijdt tussen de terminals van de luchthaven. "Wiki wiki" is een verdubbeling van "wiki", een Hawaïaans woord voor snel. Cunninghams idee was de pagina's snel bewerkbaar te maken door de gebruikers, zodat hij er eerst over dacht om het "QuickWeb" te noemen, maar later doopte hij het "WikiWikiWeb".
+De welkomstpagina van WikiWikiWeb beschreef de site als volgt:
+"Our site's primary focus is PeopleProjectsAndPatterns in SoftwareDevelopment. Nevertheless, it is much more than just an InformalHistoryOfProgrammingIdeas. It has a culture and DramaticIdentity of its own. In particular, all Wiki content is WorkInProgress and this will always be a forum where people share new ideas. WardsWiki changes as people come and go. Much of the information that remains is subjective or dated. If you are looking for a dedicated reference site, try WikiPedia."
+Vertaling:
+"Onze site is vooral gericht op mensen, projecten en patronen in software-ontwikkeling. Maar hij biedt meer dan een vlotte geschiedenis van programmeerideeën: een eigen cultuur en theatrale persoonlijkheid. Met name is alle Wiki-inhoud tijdelijk en deze website zal altijd een forum blijven voor uitwisseling van nieuwe ideeën. WardsWiki verandert als men komt en gaat. Veel van de informatie die blijft is subjectief of verouderd. Als u op zoek bent naar een speciale opzoekwebsite, probeer WikiPedia dan eens."
+Sommige woorden waren weergegeven in CamelCase, de opmaak voor interpaginalinks van de WikiWikiWeb-software.
+
+
+== WikiWikiWeb en zijn dochtersitesBewerken ==
+
+
+== ToepassingBewerken ==
+In principe kan een wiki zich plooien naar alle mogelijke wensen van gebruikers. Het systeem is opgezet voor sam

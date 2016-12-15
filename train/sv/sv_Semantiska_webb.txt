@@ -1,0 +1,21 @@
+Semantiska webben är ett begrepp myntat av World Wide Web Consortiums (W3Cs) chef Tim Berners-Lee, som också är skapare av världswebben (WWW). Begreppet beskriver metoder och teknik för att möjliggöra för maskiner att förstå innebörden eller "semantiken" i informationen på webben.
+Den ursprungliga visionen var att tillgången på maskinläsbara metadata skulle möjliggöra för automatiska agenter och annan programvara att ansluta till internet på ett mer intelligent sätt.
+Även om termen "semantiska webben" inte är formellt definierad, så används den för att beskriva den modell och de tekniker som föreslagits av W3C. Dessa tekniker inkluderar Resource Description Framework (RDF), olika format för datautbyte (till exempel RDF / XML, JSON-LD, N3, Turtle, N-Tripplar), och notationer som RDF Schema och Web Ontology Language (OWL), som alla syftar till att ge en formell beskrivning av koncept, termer och relationer inom ett givet kunskapsområde.
+Många av de tekniker som föreslagits av W3C finns redan och används i olika projekt. Den semantiska webben som en global vision har dock inte ännu realiserats, och dess kritiker har ifrågasatt om tillvägagångssättet är möjligt. Dessutom har andra tekniker med liknande mål, till exempel mikroformat, utvecklats, vilka inte alltid beskrivs som "den semantiska webben".
+
+
+== Teknisk översikt ==
+Medan världswebben är en standard för att presentera (sammanlänkade) dokument så går semantiska webben längre och standardiserar även hur man uttrycker data och kunskap. Man har bl a standardiserat hur man refererar till objekt som man vill beskriva. Man identifierar sådana objekt med unika identifierare, så kallade URIs, som tekniskt sett är webbadresser. Data och kunskap uttrycks sedan genom att skapa tripletter av objekt, predikat och subjekt, där både objektet, predikatet och subjektet så långt som möjligt skall använda standardiserade identifierare.
+Ett exempel på en triplett, på vanlig svenska, är:
+Subjekt: Stockholm
+Predikat: "är huvudstad i"
+Objekt: Sverige
+Exempel på hur tripletten ovan kunde se ut, i RDF-form (Det exakta formatet är påhittat):
+Subjekt: <http://example.org/citiesOntology/Stockholm>
+Predikat: <http://example.org/geographyOntology/CapitalIn>
+Objekt: <http://example.org/countriesOntology/Sweden>
+Genom att all data och kunskap som uttrycks om ett visst objekt (till exempel Stockholm), idealt refererar till samma unika URI, är tanken att man lätt kan samla ihop alla data som finns på webben, om just detta objekt. Vidare, om man knyter ihop de relationer som bildas mellan subjekten och objekten, med prediktet som "länk", så får man en sorts "webb av data". Tekniskt sett bildar detta nätverk av en graf. Den semantiska webben Semantisk webbteknik brukar sägas göra data läsbart av datorer (eng. uttryck: "machine readable"). Detta lägger grunden för en avsevärd förenkling av informationsutbyte mellan system, och dataintegration med färre beroenden än med tekniker som Web Services via SOAP.
+
+
+== Exempel ==
+Svenska projekt som gjort sina data till en del av den semantiska webben:

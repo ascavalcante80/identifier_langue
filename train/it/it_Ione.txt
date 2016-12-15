@@ -1,0 +1,17 @@
+In chimica si definisce ione un'entità molecolare elettricamente carica. In pratica, quando un atomo (o una molecola o un gruppo di atomi legati tra loro) cede o acquista uno o più elettroni si trasforma in uno ione.
+Bisogna fare attenzione a non confondere il concetto di ione con i concetti di "radicale" e "gruppo funzionale".
+
+
+== Storia ==
+Gli ioni vennero teorizzati per la prima volta da Michael Faraday attorno al 1830, per descrivere quella porzione di molecole che viaggiano verso un anodo o un catodo. Comunque, il meccanismo con cui questi si ottengono, fu descritto solo nel 1884 da Svante August Arrhenius nella sua dissertazione per il dottorato all'Università di Uppsala. La sua teoria fu inizialmente rigettata (passò l'esame con il minimo dei voti) ma ottenne il Premio Nobel per la chimica nel 1903 per la stessa dissertazione.
+
+
+== Terminologia ==
+Il fenomeno a seguito del quale un atomo perde o guadagna uno o più elettroni viene detto ionizzazione. In fisica, atomi completamente ionizzati, come quelli delle particelle alfa, vengono comunemente detti particelle cariche. La ionizzazione viene eseguita solitamente tramite applicazione di alta energia agli atomi, in forma di potenziale elettrico o radiazione. Un gas ionizzato viene detto plasma.
+Gli ioni caricati negativamente sono conosciuti come anioni (che sono attratti dagli anodi) e quelli caricati positivamente sono chiamati cationi (e sono attratti dai catodi). Gli ioni si dividono in monoatomici e poliatomici.
+
+
+== Energia di ionizzazione ==
+Per atomi singoli nel vuoto, esiste una costante fisica associata al processo di ionizzazione. L'energia richiesta per rimuovere gli elettroni da un atomo è chiamata energia di ionizzazione o potenziale di ionizzazione. Questi termini sono usati anche per descrivere la ionizzazione di molecole e solidi, ma i valori non sono costanti, poiché la ionizzazione è influenzata dai legami chimici locali, dalla geometria e dalla temperatura.
+L'energia di ionizzazione decresce lungo un gruppo della Tavola periodica, e incrementa da sinistra a destra attraverso il periodo. Queste tendenze sono esattamente opposte a quelle del raggio atomico, questo perché, visto che lo scopo di un atomo è formare un ottetto (grazie agli elettroni di valenza), allora spostandoci maggiormente sulla parte destra "gas nobili" della tavola periodica incontriamo atomi con un alto valore di energia di ionizzazione.
+Si chiama energia di prima ionizzazione l'energia richiesta per rimuovere un elettrone, energia di seconda ionizzazione quella richiesta per rimuovere due elettroni, e così via. Le successive energie di ionizzazione sono sempre significativamente più grandi delle precedenti. Per questo motivo gli ioni tendono a formarsi in certi modi. Ad esem

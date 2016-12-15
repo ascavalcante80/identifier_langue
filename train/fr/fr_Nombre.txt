@@ -1,0 +1,83 @@
+La notion de nombre en linguistique est traitée à l’article « Nombre grammatical ».
+Un nombre est un concept permettant d’évaluer et de comparer des quantités ou des rapports de grandeurs, mais aussi d’ordonner des éléments par une numérotation[réf. souhaitée]. Souvent écrits à l’aide d’un ou plusieurs chiffres, les nombres interagissent par le biais d’opérations qui sont résumées par des règles de calcul. Les propriétés de ces relations entre les nombres sont l’objet d’étude de l’arithmétique, qui se prolonge avec la théorie des nombres.
+En l’absence d’une définition générale satisfaisante de cette notion, les mathématiques proposent plusieurs types de nombres pour exprimer des mesures physiques, résoudre des équations, voire pour appréhender l’infini.
+En physique, les grandeurs sans dimension sont souvent appelées « nombres », tels le nombre de Reynolds en mécanique des fluides ou les nombres quantiques.
+
+En dehors de leur utilisation scientifique, plusieurs nombres ont aussi acquis une charge symbolique forte dans les cultures populaires et religieuses.
+
+
+== Conception ==
+
+
+=== Principe ===
+Le concept de nombre trouve son origine dans l’idée d’appariement, c’est-à-dire de la mise en correspondance d’ensembles (par exemple des êtres humains d’une part et des chevaux d’autre part). Si l’on tente de répartir tous les éléments en couples comprenant un élément de chaque ensemble, il se peut qu’il reste des éléments d’un ensemble en trop, ou qu’il en manque, ou encore qu’il y en ait juste assez. L’expérience montre alors que la manière de faire la répartition ne change pas le résultat, d’où la notion de quantité, caractère intrinsèque et qui peut être comparé.
+Cette quantité n’est pas encore un nombre mais est parfois désignée comme un « nombre-de ». Le nombre en tant que tel ne possède pas d’unité de mesure. Il est d’après Euclide « un assemblage composé d’unités », où « l’unité est ce selon quoi chacune des choses existantes est dite une. »
+Parallèlement à la notion de quantité, lié à l’aspect « cardinal », la notion de repérage dans une liste mène à la définition du nombre « ordinal » : le premier nombre est suivi d’un deuxième, lui-même suivi d’un autre et ainsi de suite « jusqu’à l’infini ».
+
+
+=== Extension progressive ===
+Sans calcul, les nombres sont limités à la quantité de symboles utilisables. La découverte des opérations numériques élémentaires (addition et multiplication notamment) va permettre aux mathématiques de faciliter la description des nombres beaucoup plus grands à l’aide de divers systèmes de numération. La civilisation babylonienne découvre notamment la notation positionnelle dès le IIIe millénaire avant notre ère et pratique alors le calcul avec des nombres ayant une partie fractionnaire.
+Les fractions sont conçues en Égypte antique sous formes de « quantièmes », c’est-à-dire d’inverses d’entiers. Leur manipulation est alors soumise à certaines contraintes qui ne seront surmontées que par l’interprétation géométrique comme rapport de longueurs (entières). Toutefois, ni les fractions ni les autres proportions géométriques telles que pi, le nombre d’or ou la diagonale du carré ne seront vraiment considérées comme des nombres par les mathématiciens de la Grèce antique, pour qui les seuls nombres sont entiers.
+Même si le chiffre « 0 » est employé dans certains systèmes de numération positionnelle par plusieurs civilisations antiques, le nombre zéro n’apparait en tant que tel qu’au VIIe siècle dans les mathématiques indiennes. Il est repris par la civilisation de l’Islam et importé en Europe au Xe siècle. Sous le qualificatif d’« absurdes », les nombres négatifs sont déjà étudiés au XVIe siècle mais leurs propriétés arithmétiques font encore polémique au début du XIXe siècle.
+Les nombres algébriques réels positifs sont étudiés avec le développement de l’algèbre par les mathématiciens arabes. Ces derniers en calculent des valeurs approchées en notation décimale dès le XIIe siècle. Cette même algèbre conduira certains mathématiciens italiens à inventer au XVIe siècle des nombres « imaginaires », première approche des nombres complexes qui ne seront définis de manière satisfaisante qu’au XVIIIe siècle. Leur construction géométrique sera d’ailleurs rapidement suivie de celle des quaternions puis d’autres nombres hypercomplexes pendant le siècle suivant.
+Paradoxalement, il faudra cependant attendre le XIXe siècle pour que soit reconnue l’existence de nombres transcendants, juste avant que soit formalisée la notion de nombre réel indépendamment de la géométrie. La procédure de complétion des nombres rationnels sera imitée au début du XXe siècle pour construire les nombres p-adiques.
+Les nombres transfinis sont introduits de diverses manières à partir de la fin du XIXe siècle, lorsque Georg Cantor définit les ordinaux et cardinaux. Dans la seconde moitié du XXe siècle, l’analyse non standard fait usage de nombres hyperréels puis superréels, tandis que Conway présente les nombres surréels et pseudo-réels.
+
+
+=== Pédagogie ===
+Diverses expériences explorent les capacités numériques chez l’enfant en bas âge.
+
+Dans l’éducation, l’apprentissage du nombre débute avec l’acquisition de la « chaine numérique », notamment à l’aide de comptines : « un, deux, trois… » Cette liste sera progressivement prolongée pour permettre à l’enfant d’énumérer des objets qu’il manipule afin de les dénombrer (en associant à cette quantité le dernier terme de l’énumération), mais aussi pour repérer une position dans une série ordonnée.
+
+Au cours de la scolarité, l’enfant est amené à considérer divers types de nombres rangés dans une suite croissante d’ensembles :
+l’ensemble N des entiers naturels, qui peuvent s’écrire à l’aide des dix chiffres arabes ;
+l’ensemble Z des entiers relatifs, qui sont munis d’un signe positif () ou négatif () ;
+l’ensemble D des nombres décimaux, qui admettent une partie entière et une partie décimale de longueur finie, en général notées de part et d'autre d'une virgule ;
+l’ensemble Q des nombres rationnels, qui sont représentés par des fractions avec un numérateur et un dénominateur entiers (ou décimaux) ;
+l’ensemble R des nombres réels, qui repèrent tous les points d’un axe orienté continu ;
+l’ensemble C des nombres complexes, qui peuvent décrire tous les points d’un plan.
+
+
+== Numération ==
+
+
+=== Origine ===
+L’idée de quantité et sa codification visuelle sont vraisemblablement antérieures à l’apparition de l’écriture. Plusieurs procédés de comptage sont progressivement développés pour décrire la taille d’un troupeau et contrôler son évolution, suivre un calendrier ou mesurer des récoltes.
+Au IVe millénaire avant notre ère, les civilisations mésopotamiennes utilisent ainsi des boules creuses d’argile contenant des jetons, puis des tablettes d’argile munies de marques. Un système de notation (dit « système S ») est employé pour la désignation des quantités discrètes, tandis que les surfaces et autres grandeurs sont représentées chacune selon un système de notation propre. Il faut attendre la fusion de ces systèmes, à la fin du IIIe millénaire avant notre ère, pour voir se former véritablement le concept du nombre abstrait, indépendant de ses réalisations concrètes.
+
+
+=== Du signe au chiffre ===
+
+Dans les systèmes de numération additifs, certains symboles (variables selon les cultures) représentent des quantités précises et sont juxtaposés pour désigner tous les nombres utiles.
+Les systèmes alphabétiques associent la liste des lettres de l’alphabet (employant en renfort des lettres inusitées, désuètes ou inventées) aux neuf unités, neuf dizaines et neuf centaines pour écrire chaque nombre entre 1 et 999 en trois caractères maximum. Pour écrire des valeurs supérieures, un nouveau groupe de trois lettres maximum désignant les milliers est placé à gauche, séparé par une apostrophe.
+Ce système est proche de l’écriture positionnelle chiffrée, dans laquelle chaque position ne contient (au plus) qu’un seul chiffre.
+
+
+== Arithmétique ==
+
+
+=== Opérations ===
+Dès lors que les quantités sont représentées par des symboles, la manipulation des quantités doit être traduite par des opérations sur les nombres. Ainsi, la réunion de deux quantités définit l’opération d’addition et la répétition d’une certaine quantité donne lieu à la multiplication. Ces deux opérations directes admettent des opérations réciproques : la soustraction et la division, qui permettent de retrouver l’un des opérandes à partir du résultat et de l’autre opérande.
+Chacune de ces opérations est réalisée selon diverses techniques de calcul. Mais contrairement aux opérations directes qui sont définies sans restriction, les opérations réciproques n’aboutissent que sous certaines conditions. Ainsi, avant l’utilisation des nombres négatifs, un nombre ne peut être soustrait qu’à un nombre plus grand. De même, la notion de divisibilité décrit la réalisabilité d’une division. Le processus de division euclidienne a cependant l’avantage de fournir un résultat même sans l’hypothèse de divisibilité. Cette dernière s’exprime alors par l’absence de reste.
+À partir du moment où la multiplication apparaît comme une opération purement numérique, sa répétition définit les puissances d’un nombre, dont les opérations réciproques sont appelées racines. D’autres opérations telles que la factorielle sont développées dans le cadre de la combinatoire.
+
+
+=== Multiple et diviseur ===
+Dans ce paragraphe, les nombres considérés sont des entiers naturels non nuls.
+Étant donné un nombre, l’ensemble de ses multiples est infini mais régulièrement réparti et facile à décrire par une suite arithmétique. Par exemple, les multiples de 2 sont les nombres pairs, qui sont alternés avec les nombres impairs parmi tous les entiers.
+Au contraire, l’ensemble des diviseurs d’un nombre est toujours fini et sa répartition n’a pas du tout le même genre de régularité. Il contient certes toujours le nombre à diviser et le nombre 1, les éventuels autres diviseurs se situant entre ces deux extrêmes. Mais il est en général difficile de lister ces autres diviseurs à partir d’une écriture du nombre dans une base donnée.
+Ce problème est lié en partie à la rareté de critères simples pour déterminer sans calcul si un nombre est divisible par un autre. Dans un système de numération positionnelle décimale, plusieurs critères de divisibilité sont connus pour de petits diviseurs (surtout pour 2, 3, 5, 9 et 10), mais en dehors de ces quelques cas, c’est essentiellement la division euclidienne qui permet de répondre à cette question.
+
+
+=== Nombre premier ===
+Hormis le nombre 1, qui est son seul diviseur, tout nombre admet donc au moins deux diviseurs distincts. Ceux qui en admettent exactement deux sont appelés nombres premiers. Ils sont les seuls à pouvoir réduire d’autres nombres par division, sans être eux-mêmes décomposables en produit de nombres strictement plus petits. Il en existe une infinité et chaque nombre se décompose de manière unique en un produit de nombres premiers. Cette décomposition permet entre autres de comprendre la structure de l’ensemble des diviseurs.
+
+
+=== Vers la théorie des nombres ===
+Les opérations définies sur les entiers s’étendent à d’autres objets mathématiques qui ne prendront que progressivement le statut de nombre. Les nombres avec une partie fractionnaire, les fractions, puis zéro et les nombres négatifs, les nombres algébriques et certains nombres d’abord qualifiés d’« imaginaires » sont l’objet d’étude d’une arithmétique qui se développe jusqu’à prendre le nom de théorie des nombres.
+
+
+== Géométrie ==
+
+
+=

@@ -1,0 +1,24 @@
+Toplotna provodljivost ili toplotna kondukcija, , je fizikalna konstanta koja označava sposobnost određenog materijala da provodi toplotu. Pojavljuje se prvenstveno u Fourierovom zakonu kondukcije. Prijenos toplote preko materijala visoke toplotne provodljivosti je puno brži od prijenosa preko materijala sa niskom provodljivosti. U tom smislu materijali sa visokom termalnom provodljivosti se koriste u uređajima za hlađenje, dok se materijali sa niskom provodljivosti koriste kao toplotni izolatori.
+Toplotna provodljivost materijala zavisi od njegovog hemijskog sastava, građe, agregatnog stanja, kao i okolne temperature te pritiska. Općenito uzevši, materijali bolje provode toplotu kada se prosječna okolna temperatura poveća.
+
+
+== Definicija ==
+Toplotna provodljivost je količina toplote, Q, koja se za vrijeme t sprovede kroz supstanciju na rastojanju L, u pravcu normalnom na poprečni presjek površine S, usljed temperaturne razlike ΔT, u stacionarnim uvjetima i kada je prijenos toplote uzrokovan isključivo temperaturnom razlikom.
+
+toplotna provodljivost = količina provedene toplote × rastojanje / (površina × temperaturna razlika)
+
+Količina toplote koja se prenese u jedinici vremena je zavisna od toplotne provodljivosti, i u diferencijalnom obliku se može predstaviti:
+
+gdje je:
+dT/dx - gradijant temperature
+S - površina kroz koju prolazi toplota
+k - konstanta toplotne provodljivosti.
+Jedinica za toplotnu provodljivost u SI sistemu je W/(m · K) = W m-1 K-1 (vat kroz metar-kelvin).
+
+
+== Spisak toplotnih provodljivosti ==
+Približna vrijednost toplotne provodljivosti nekih materijala je dat u sljedećoj tabeli:
+
+
+== Praktična primjena ==
+Za građevinske materijale navodi se sposobnost izolacije kao vrijednost toplotne kondukcije. U tom kontekstu se ta vrijednost označava sa λ i naziva lambda vrijednost. Vrlo često se taj broj nalazi na specifikacijama izolacionih materijala. Što je taj broj m

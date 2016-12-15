@@ -1,0 +1,32 @@
+Denne artikkelen nevner Wikimedia eller et av Wikimedias prosjekter. Vær oppmerksom på at Wikipedia er et Wikimedia-prosjekt.
+Wikimedia Foundation er en amerikansk ideell organisasjon med hovedkvarter i San Francisco i California som driver flere wikiprosjeker. Stiftelsen er mest kjent for å drive Wikipedia, et flerspråklig nettleksikon som er blant verdens ti mest besøkte nettsteder, samt Wiktionary, Wikiquote, Wikibøker, Wikisource, Wikimedia Commons, Wikispecies, Wikinytt, Wikiversity, Wikidata, Wikivoyage og en rekke støtteprosjekter til disse. Wikimedia Foundation eide også det nå nedlagte nettleksikonet Nupedia.
+Organisasjonen ble stiftet 20. juni 2003 av Jimmy Wales, en av grunnleggerne av Wikipedia, for å kunne støtte Wikipedia og dets søsterprosjekter.
+
+
+== Formålsparagraf ==
+Stiftelsens generelle formål og målsettinger skal være det følgende: Wikimediastiftelsen er dedikert til utviklingen og vedlikehold av fritt og åpent nettilgjengelige leksika, sitatsamlinger, lærebøker og andre samlinger av dokumenter, informasjon og andre informasjonelle databaser på alle verdens språk som vil bli distribuert omkostningsfritt til publikum gjennom en fri dokumentasjonslisens slik som Free Documentation License skrevet av Free Software Foundation Inc. på http://www.fsf.org eller liknende lisensieringsordning, se http://www.wikimedia.org. Stiftelsens mål er å oppmuntre den fortsatte vekst og utvikling av åpent innholdbasert sosial programvareprosjekter basert på WikiWiki ... ]
+Målet med stiftelsen er å stimulere veksten og utviklingen av wiki-baserte prosjekter med åpent innhold og å sørge for at det komplette innhold av disse prosjektene er tilgjengelig for offentligheten, gratis og uten reklame. I tillegg til å støtte Wikipedia, som er en encyklopedi på mange ulike språk, støtter man også Wiktionary, en ordbok, Wikiquote, en samling av sitater, samt Wikibooks, som er en samling av e-bøker som henvender seg til studenter. Stiftelsen tar seg også av det nesten døde Nupedia-prosjektet (det er ikke en wiki, men det er åpent innhold).
+Med annonseringen av stiftelsen, overførte Wales også eierskapet av alle Wikipedia-, Wiktionary- og Nupedia-domenenavnene til Wikimedia sammen med opphavsretten til alt materiale i forbindelse med prosjektene, som er laget av ansatte på Bomis eller av Wales selv. De datamaskiner som brukes for å kjøre alle Wikimedia-prosjektene er også donert til stiftelsen av Wales.
+Wales har tidligere ved flere anledninger nevnt at båndbredde og strøm fortsatt vil bli sponset gratis av Bomis til disse prosjektene. Håpet er at eksistensen av den ideelle stiftelsen vil muliggjøre at det kommer nok donasjoner og gaver til å sikre den fortsatte vekst av hvert av Wikimedia-prosjektene.
+
+
+== Teknisk plattform ==
+
+
+=== Programvare ===
+Wikimedias plattform er basert på åpen kildekode og er en blanding av det egenutviklede wikiprogrammet Mediawiki og programmer som PHP, Apache, MySQL, Linux og andre programmer.
+
+
+=== Maskinvare ===
+Wikimedia Foundation har tre datasentre, et i Florida, USA, et i Nederland og et i Korea. Med over 300 datamaskiner kan brukerne lese nettsider og lagre endringer og ny informasjon, både tekst og media. Wikimedias datasentre har svært stor trafikk:
+80 tusen SQL forespørsler pr. sekund mot databasen
+50 tusen http forespørsler pr. sekund
+250 millioner sidelenker
+220 millioner ulike versjoner av artikler (ulike revisjoner)
+1,5 terabyte med komprimert data
+Det meste av trafikk mot Wikimedias servere er lesing av data og involverer ikke databasene da de håndteres av Squid cacheservere.
+
+
+== Referanser ==
+^ «Staff and contractors» (engelsk). Wikimedia Foundation. 29. august 2014. Besøkt 31. august 2014. 
+^ «The top 500 sites on the web.» (engelsk). Al

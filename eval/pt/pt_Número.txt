@@ -1,0 +1,40 @@
+to, sexto etc.Dauben, J.W.. Georg Cantor. His Mathematics and Philosophy of the Infinite. New Jersey: Princeton University Press, 1979., pp. 156−159.</ref>.
+O número 26 é o único que existe que se encontra entre um quadrado (25 = ) e um cubo (27 = ) (provado por Pierre de Fermat).
+O número 69 é o único que existe cujos algarismos que compõem seu quadrado ( = 4761) e seu cubo ( = 328509) formam todos os números entre 0 e 9 sem repetição.
+O número de Skewes (10^10^10^34 = 10^10^10.000.000.000.000.000.000.000.000.000.000.000) é um dos maiores números que já serviram a algum propósito em Matemática (na fórmula de Gauss). O número de Graham, ainda maior, aparece em problemas de combinatória.
+
+
+=== Números contáveis e números computáveis ===
+Quando um conjunto possui o mesmo tamanho dos naturais, dizemos que ele é um conjunto contável (Aleph-zero). Porém nem todos os conjuntos são contáveis, como o conjunto dos números Reais, provado pelo método de diagonalização, ou seja, podemos dizer que o infinito dos Reais é maior que o infinito dos naturais.
+Mas se o conjunto dos Reais é composto pelo conjunto dos Racionais e Irracionais, e foi provado que os Racionais possuem o mesmo tamanho dos Naturais, então podemos afirmar que quem faz a diferença na contagem são os números Irracionais. Mas que Irracionais fazem essa diferença? Existem vários tipos deles também. Alguns irracionais são construídos como raízes de polinômios com coeficientes inteiros, chamados de irracionais Algébricos.
+Porém, pela mesma técnica de Godel, podemos provar que os Irracionais algébricos também são contáveis, associando cada coeficiente do polinômio a um expoente de um número primo. Por exemplo: , por exemplo, escreveríamos como . Já que os Irracionais algébricos são contáveis, quem faz a diferença são justamente os irracionais não-algébricos, chamados transcendentes. Mas mesmo dentre os transcendentes, existem diferentes tipos, como PI, por exemplo, que não podemos ter ele como raiz de um polinômio, mas podemos aproximá-lo tão precisamente quanto desejemos por meio de um algoritmo. Números dessa forma são chamados Computáveis.
+Mas ainda podemos provar que os Computáveis também são contáveis. Fazemos isso provando que se existe um algoritmo que aproxima o número (chamado computável), então esse algoritmo pode ser implementado numa linguagem (mostrado por Turing). Mas como existem contáveis codificações em uma linguagem finita, então existem contáveis números Computáveis.
+Então, quem são os não-contáveis? Existem números que não podemos gerar por meios de algoritmos, por exemplo: a constante de Chaitin. Resumidamente, podemos construir calculando o seguinte somatória: para cada algoritmo existente (cujo natural associado é n), se o algoritmo pára, soma-se 2-n, senão não soma nada. Como a somatória não pode ser calculada porque não podemos saber se um algoritmo pára (Problema da Parada), então a constante de Chaitin é um número não-computável.
+Surpreendentemente a constante de Chaitin ainda se encontra num conjunto contável! Não conseguimos dizer um algoritmo para gerar esses números, mas podemos descrever como gerá-los (por isso são chamados de Números Definíveis). Podemos argumentar da seguinte forma: se escrevermos uma descrição numa folha de papel a respeito de como obter um número definível, então essa descrição também pode ser associada a um número natural.
+Então quais números fazem os números Reais serem um infinito maior que o dos números naturais? São os números que não podemos construir, não podemos aproximar e não podemos descrever, ou seja, nem dá pra pensar sobre eles.
+Pode-se por fim organizar os números dividindo-os em sistemas como na tabela abaixo:
+
+
+== Referências ==
+
+
+== Ver também ==
+
+
+== Bibliografia ==
+Números inteiros e criptografia RSA. Rio de Janeiro: IMPA, 2005. 226 p. ISBN 8524401249
+Curso de álgebra. 3 ed. Rio de Janeiro: IMPA, 2002. 226 p. ISBN 852440079X
+Milies, César Polcino, Números: Uma introdução à Matemática. 3 ed. São Paulo: Editora da Universidade de São Paulo, 2003. ISBN 8531404584
+Moreira, Carlos Gustavo Tamm de Araujo, Primos de Mersenne: e outros primos muito grandes. [S.l.]: IMPA, 1999. 81 p. vol. 1. ISBN 8524401494
+Brochero Martínez, Fabio , Moreira, Carlos Gustavo , Saldanha, Nicolau, Teoria dos Números: um passeio com primos e outros números familiares pelo mundo inteiro. [S.l.]: IMPA, 2010. 450 p. vol. 1. ISBN 8524403125
+Números primos: Mistérios e records. Rio de Janeiro: IMPA, 2001. 292 p. ISBN 8524401680
+Introdução à Teoria dos Números. Rio de Janeiro: IMPA, 2007. 198 p. ISBN 9788524401428
+John H. Conway, Richard K. Guy, Le Livre des nombres, Paris, Eyrolles, 1998. ISBN 2-212-03638-8.
+Heinz-Dieter Ebbinghaus, et al. , Numbers, New York, Springer, 1991. ISBN 0-387-97497-0.
+
+
+== Ligações externas ==
+
+História dos Números, Dicionário Enciclopédico Conhecer - Abril Cultural.
+A origem dos números, Miriam Gongora e Ulysses Sodré.
+Números Romanos

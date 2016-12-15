@@ -1,0 +1,72 @@
+Le zodiaque est une zone de la sphère céleste, dont l'écliptique occupe le milieu. Il y a une différence d'acception de sens du terme zodiaque : zodiaque astronomique (zodiaque des treize constellations que le Soleil semble traverser en une année) et zodiaque astrologique (zodiaque des douze signes astrologiques que le Soleil semble aussi traverser en une année). Le plus souvent, le grand public a entendu parler de ce second zodiaque (astrologique) et non du premier.
+
+
+== ÉtymologieModifier ==
+Le mot « zodiaque » vient du mot grec zodiakos [kyklos], « cercle de petits animaux », de zodiaion, diminutif de zoon : « animal ». Ce nom vient du fait que toutes les constellations du zodiaque (sauf la Balance, anciennement partie du Scorpion et le Verseau) figurent des créatures vivantes.
+
+
+== Constellations du zodiaqueModifier ==
+
+La trajectoire du Soleil sur la voûte céleste est l'écliptique. Les planètes et la Lune s'en écartent plus ou moins, et l'on retient comme limite conventionnelle du zodiaque une bande de huit degrés d'arc de part et d'autre de l'écliptique. L'écliptique traverse treize constellations dans le ciel, mais l'une d'entre elles, Ophiuchus (ou le Serpentaire), ne fait pas partie du zodiaque traditionnel de l'astrologie. Celui-ci a été divisé au Ve siècle av. J.-C. en douze parties égales (une pour chaque mois de l'année) auxquelles on a donné le nom de l'astre le plus proche.
+Les constellations présentes dans le zodiaque sont : le Bélier, le Taureau, les Gémeaux, le Cancer (ou le Scarabée, ou le Crabe), le Lion, la Vierge, la Balance, le Scorpion, l'Ophiuchus (ou le Serpentaire), le Sagittaire, le Capricorne (ou la Chèvre), le Verseau et les Poissons.
+
+
+== Signes du zodiaqueModifier ==
+
+Le zodiaque a été divisé au Ve siècle av. J.-C. en douze parties égales (une pour chaque mois de l'année) portant le même nom que la constellation se trouvant "derrière" (certains affirment que les constellations ont donné leur nom aux signes; d'autres soutiennent l'inverse):
+le Bélier, premier signe du Zodiaque, est le secteur où le Soleil entre à l'équinoxe de printemps, le 21 mars, qui était la période de la nouvelle année dans les calendriers antiques ;
+le Taureau ;
+les Gémeaux ;
+le Cancer
+le Lion ;
+la Vierge ;
+la Balance accueille le Soleil à partir de l'équinoxe d'automne, le 21 septembre ;
+le Scorpion ;
+le Sagittaire ;
+le Capricorne est le secteur où le Soleil entre au solstice d'hiver, le 21 décembre, date à laquelle il culmine au zénith du tropique du Capricorne ;
+le Verseau ;
+les Poissons, qui achèvent le cycle.
+Ces signes sont des secteurs réguliers de 30°, conventionnellement décomptés à partir du point vernal. Ils n'ont dès l'origine qu'un rapport lointain avec les constellations du même nom, dont les limites et positions sont irrégulières. De plus, ce rapport s'est constamment distendu au fil du temps, du fait de la précession des équinoxes. Les signes du zodiaque dit tropique/tropical (du grec "tropikos", qui tourne) ne doivent donc pas être confondus avec les constellations du même nom, qui appartiennent au zodiaque dit sidéral.
+Pendant plus de deux millénaires, les astronomes (et les astrologues) ont repéré le mouvement des corps célestes non pas en degrés depuis le point vernal comme de nos jours, mais en degrés depuis le signe courant. Ces deux méthodes sont équivalentes : une position planétaire à 17° du Lion (le cinquième signe) est à 4 × 30 + 17 = 137° du point vernal. Cette notation a été abandonnée par les astronomes à la seconde moitié du XIXe siècle.
+
+
+=== Signes et constellations du zodiaqueModifier ===
+Voici un tableau des signes et des constellations du zodiaque avec les dates auxquelles le soleil s'y trouve. Les deux colonnes montrent bien la différence entre un signe et une constellation du zodiaque.
+
+Une personne de notre époque née quand le Soleil se trouve dans la constellation de la Balance ne sera pas du signe de la Balance. La précession des équinoxes a déplacé le point de référence du zodiaque tropique, la position du Soleil par rapport aux étoiles lors de l'équinoxe du printemps, qui en est le point de départ (début du signe du Bélier). Le point vernal a ainsi reculé de la constellation du Taureau (il y a environ 6 000 ans) à celle du Bélier (il y a environ 4 000 ans), et de la constellation du Bélier à celle des Poissons (il y a environ 2 000 ans). Les constellations étant de tailles inégales, une astrologie entièrement sidérale verrait des irrégularités comme le fait de présenter une proportion importante de gens nés sous le signe de la Vierge. Une autre question pour l'astrologie sidérale est de situer précisément le début de son zodiaque. Les constellations n'ayant que des limites conventionnelles (dessinées en 1930), où situer la limite entre le Bélier et les Poissons autrement que par convention ?
+
+
+=== Caractères UnicodeModifier ===
+En Unicode, les symboles sont encodés dans le bloc des symboles divers:
+U+2648 ♈ bélier (HTML : &#9800;)
+U+2649 ♉ taureau (HTML : &#9801;)
+U+264A ♊ gémeaux (HTML : &#9802;)
+U+264B ♋ cancer (HTML : &#9803;)
+U+264C ♌ lion (HTML : &#9804;)
+U+264D ♍ vierge (HTML : &#9805;)
+U+264E ♎ balance (HTML : &#9806;)
+U+264F ♏ scorpion (HTML : &#9807;)
+U+26CE ⛎ serpentaire (HTML : &#9934;)
+U+2650 ♐ sagittaire (HTML : &#9808;)
+U+2651 ♑ capricorne (HTML : &#9809;)
+U+2652 ♒ verseau (HTML : &#9810;)
+U+2653 ♓ poissons (HTML : &#9811;)
+
+
+== Zodiaque et astrologieModifier ==
+Les signes du zodiaque sont utilisés dans l'astrologie comme repères spatio-temporels permettant d'établir les correspondances sur lesquelles repose cette pratique. Elle utilise pour cela la position de divers objets dans le zodiaque. Entre autres : les planètes, le Soleil, la Lune, et sur le plan local : l'horizon (l'ascendant étant le point de l'écliptique coupé par l'horizon est) et le méridien (le milieu du ciel correspondant au point où se trouve le Soleil à midi).
+
+
+=== Nature des signesModifier ===
+
+
+=== L'astrologie sidéraleModifier ===
+L'astrologie sidérale, pratiquée essentiellement hors d'Occident (astrologie chinoise et astrologie védique ou jyotish), divise également l'écliptique en douze zones de grandeur égale, mais elle aligne la frontière de la constellation astrologique du Bélier avec une étoile particulière plutôt qu'avec l'équinoxe de printemps, ce qui fait que les signes astrologiques sont assujettis à la même précession que les constellations.
+Le décalage entre les signes et les constellations est de nos jours (en 2004) de l'ordre de 25° environ selon la mesure de l'Ayanamsa par les astrologues hindous.
+Les astrologies chinoises et indiennes ont une tradition propre pour désigner les signes, dont la liste n'a pas de lien avec les signes du zodiaque traditionnels.
+À noter l'astrologie hellénistique, qui semble utiliser une astrologie sidérale fondée sur le zodiaque ptolémaïque.
+
+
+== Influence de la symbolique zodiacaleModifier ==
+Cette symbolique a été fréquemment et largement utilisée depuis l'époque gréco-romaine jusqu'à nos jours. Selon Jacques Halbronn, le zodiaque a subi diverses corruptions et les attributions des dieux-planètes aux signes ne correspondent pas. Ainsi, les gémeaux évoquaient au départ un couple (dans les almanachs et les livres d'heures, le mois de mai représente un couple, comme dans Les Très Riches Heures du duc de Berry) ce qui correspond à Vénus et non à Mercure comme on peut le lire dans le Tetrabiblos de Claude Ptolémée (IIe siècle de notre ère).
+Dans certaines représentations de la France 

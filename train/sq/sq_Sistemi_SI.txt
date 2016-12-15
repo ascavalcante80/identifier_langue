@@ -1,0 +1,23 @@
+Sistemi Ndërkombëtar i Njësisive, SI është forma bashkëkohore e sistemit metric dhe është sistemi i njësive me shtrirjen më të madhe në botë, i përdorur edhe në tregti dhe në shkencë. Ai përbëhet nga një sistem koherent i njësive të madhësive të ndërtuara në shtatë baza. Ai përkufizon 22 njësi të emëruara, dhe përfshinë shumë njësi të tjera të rrjedhura. Sistemi po ashtu përmban edhe 22 parashtesa.
+Sistemi u publikua në vitin 1960 si rezultat i një iniciative që filloi në vitin 1948. Ai bazohet në sistemin metër-kilogram-sekond të njësive (MKS) më shumë se çdo variant tjetër i sistemit centimetër-gram-sekond (CGS).
+
+
+== Njësitë dhe parashtesat ==
+Sistemi SI përbëhet nga një grup i njësive bazë, një grup i njësive të nxjerra me emra të veçantë, dhe një grup i koeficientëve të bazës dhjetore që përdoren si parashtesa. Tërmi Njësi SI përfshin tri kategori, por termi njësi koherente SI përfshin vetëm njësitë bazë dhe njësitë e nxjerra koherente. 
+
+
+=== Njësitë bazë ===
+Njësitë bazë të sistemit SI janë blloqet ndërtuese të sistemit dhe të gjitha njësitë e nxjerra nga to. Kur Maksuelli paraqiti konceptin e sistemit koherent, ai identifikoi tri madhësi që do të përdoreshin si bazë: masa, gjatësia dhe koha. Giorgi më vonë paraqiti nevojën për një njësi bazë elektrike. Teorikisht cilado e rrymës elektrike, potencialit elektrik, rezistencës elektrike, ngarkesës elektrike. Kështu, u zgjodh njësia e rrymës elektrike. Tri njësitë e tjera bazë të sistemit (për temperaturë, substancë dhe intensitet të dritës) u shtuan më vonë.
+
+
+=== Njësitë e nxjerra ===
+Njësitë e nxjerra të sistemit SI janë formuar nga fuqizimi, prodhimi ose herësi i njësive themelore dhe një të palimituara në numër. Njësitë e nxjerra janë të lidhura me madhësi të nxjerra, për shembull shpejtësia është madhësi që rrjedh nga madhësitë themelore të kohës dhe gjatësisë, kështu në sistemin SI njësia e nxjerr është metër për sekond (simboli m/s). Dimensionet e njësive të nxjerra mund të shprehen në terma të dimensioneve të njësive themelore.
+Për hirë të komoditetit, disa njësi kanë emrat e vet.
+
+
+=== Parashtesat ===
+Parashtesat janë shtuar në emrat e njësisë për të prodhuar shumëfishin ose nënfishin e njësive origjinale. Të gjithë ata janë fuqi me bazën 10. Për shembull, kilo- shënon njëmijë dhe mili- shënon një të njëmijtën, kështu që janë një mijë milimetra në metër dhe një mijë metra në kilometër. Parashtesat nuk kombinohet asnjëherë, për shembull një e milionta e një metri është mikrometri dhe jo një milimilimetër. Shumëfishat për kilogramin janë shënuar duke marrë për bazë gramin, kështu që një e milionta e një kilogrami është miligrami, njo mikrokilogrami.
+
+
+== Lidhje të jashtme ==
+BIPM Bureau International des Poids et Mesures (SI maintenance agen

@@ -1,0 +1,128 @@
+Az elektronika olyan eszközökkel foglalkozik, amelyek az elektronok áramlásának szabályozását, fizikai mennyiségek elektromos jellé alakítását végzik. A fő felhasználási területei az elektronikus áramköröknek a szabályozás és vezérlés, az információfeldolgozás, a műsorszórás. Az elektronikus áramkörökben kis értékű áramok, feszültségek vannak jelen, mivel feladatuk nem az elektromos áram energiájának továbbítása, hanem az elektromos jelek információ-hordozó képességének felhasználása. Az elektronika nem tévesztendő össze az elektrotechnikával, amely az elektromos áram energiájának ipari felhasználásával foglalkozik (részterületei az erősáramú és a gyengeáramú technika).
+Az elektronikus rendszerek az alábbi fő egységekre oszthatók fel:
+bemenet – elektromos vagy mechanikus érzékelők (jelátalakítók) jeleket fognak fel, (például: hőmérséklet, nyomás, fordulatszám), és azt átalakítják elektromos jellé (feszültség, áram stb.),
+jelfeldolgozó áramkör – az elektromos jelet erősíti, feldolgozza, átalakítja.
+kimenet – a feldolgozott jelet visszaalakítja másik fizikai formába (például: hang).
+Például a televízió a műsorjelet felfogja az antennájával, a jelfeldolgozó áramkörök a bemenetet átalakítják szín-, fényerő- és hanginformációkká. A kimeneti eszköz, például a katódsugárcső a szín és fényerő jeleket a képernyőjén látható képpé, a hangszóró a hangjeleket általában mágneses úton hanggá alakítja át.
+
+
+== Elektronikai mérőműszerek ==
+Digitális multiméter
+Oszcilloszkóp
+Logikai analizátor
+Spektrumanalizátor (jeleloszlás-vizsgáló)
+Frekvenciaszámláló
+
+
+== Áramkörök ==
+Nyomtatott áramkör (NYÁK)
+Integrált áramkör (IC)
+
+
+== Elektronikai szereléstechnológia ==
+Wire-wrap (huzalcsavarásos csatlakozás)
+Termi-point
+Vezetőpasztás kötés
+
+
+== Passzív alkatrészek ==
+Ellenállás
+Olvadóbiztosító
+Kondenzátor
+Tekercs
+Transzformátor
+Piezokristály
+Csatlakozó
+
+
+== Félvezető alkatrészek ==
+Dióda
+Fénykibocsátó dióda (LED)
+Fotodióda
+Lézerdióda
+Zener-dióda
+Schottky-dióda
+Feszültség levezető dióda
+Változó kapacitású dióda (Varicap)
+Alagútdióda
+
+Tranzisztor
+Térvezérlésű tranzisztor (FET)
+Bipoláris tranzisztor (BJT)
+Darlington-tranzisztor
+Fototranzisztor
+
+Integrált áramkör
+Digitális integrált áramkör
+Analóg integrált áramkör
+
+Egyéb aktív elemek
+TRIAC
+Tirisztor
+Varisztor
+
+
+== Félvezető áramkörök technológiája ==
+Vastagréteg technológia : 25 mikrométertől nagyobb
+Vékonyréteg technológia
+
+
+== Elektroncső ==
+Katódsugárcső (CRT)
+Klisztron
+Magnetron
+Dióda
+Kételektródás elektroncső, mely anóddal, és katóddal rendelkezik. A villamosan fűtött katódból elektronok lépnek ki, melyeket az anód pozitív feszültsége esetén begyűjti. Negatív anódfeszültség esetén ez nem következik be. Ezáltal az áramot létrehozó elektronáramlás csakis a katódtól az anód felé folyhat.
+Trióda: háromelektródás elektroncső, mely anóddal, katóddal, és vezérlőráccsal rendelkezik. A villamosan fűtött katódból elektronok lépnek ki, melyek a pozitív feszültségre kapcsolt anódba csapódnak, de ezt megelőzően áthaladnak a vezérlőrács spiráljai által létrehozott erőtéren is. Ennek változtatásával befolyásolhatjuk az átáramló elektronok mennyiségét, vezérelhetjük az anódáramot. Tehát a trióda aktív elem, és régen, főleg hangfrekvenciás feszültségerősítő fokozatokban, és URH fokozatokban használták.
+Tetróda, Sugártetróda
+Pentóda
+Hexóda
+
+
+== Kijelzőeszközök ==
+Folyadékkristályos kijelző (LCD)
+Katódsugárcső
+LED kijelző
+Nixie-cső
+Varázsszem
+
+
+== Elektromechanikai érzékelők ==
+Mikrofon
+Hangszóró
+Nyúlásmérő bélyeg
+Nyomáskapcsoló
+Fordulatszámmérő
+
+
+== Termoelektronikai eszközök ==
+Peltier-cella
+Termisztor
+
+
+== Fotoelektronikai eszközök ==
+Fotocella
+Napelem
+CCD
+Fotoellenállás
+
+
+== Antenna ==
+Ferritantenna
+Parabolaantenna
+Keretantenna
+Lepkeantenna
+Yagi antenna
+Huzalantenna
+Botantenna
+
+
+== Analóg áramkörök ==
+Rádiókban, erősítőkben, elektronikus szabályzókban használt áramkörök:
+Analóg számítógép
+Analóg szorzó
+Erősítő
+Aktív szűrő
+Oszcillátor
+Fáziszárt hurok (PLL)
+Kev

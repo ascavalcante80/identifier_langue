@@ -1,0 +1,12 @@
+Vervorming of deformasie is die verandering in 'n vastestof se vorm as gevolg van meganiese spanning en temperatuursveranderinge. Die reguitlynige vervorming word deur die trekvervorming van die materiaal beskryf, en die sywaardse vervorming deur die skuifvervorming.
+
+
+== Beskrywing van vervorming ==
+Trekvervorming beskryf hoe 'n materiaal uitrek as dit aan 'n trekspanning blootgestel word. Dit gebeur wanneer daar 'n krag loodreg aan die dwarsdeursnee van die materiaal toegepas word. 'n Voorbeeld hiervan is die manier hoe 'n elastiese tou rek wanneer hy styfgespan word.
+
+Skuifvervorming beskryf hoe 'n materiaal vervorm as dit aan 'n skuifspanning onderwerp word. Dit gebeur as daar 'n krag parallel met die dwarsdeursnee toegepas word.
+Wanneer die spanning slegs in 'n tweedimensionele vlak plaasvind, word daar van vlakvervorming gepraat. In die algemene driedimensionele geval kan die plaaslike vervorming deur drie trekvervormings, en drie skuifvervormings beskryf word. Die vervormingstensor is 'n simmetriese matriks wat hierdie ses komponente bevat.
+
+
+== Vervormingstipes ==
+Wanneer 'n materiaal vervorm word gaan hy deur verskillende vervormingsfases. Aanvanklik, terwyl die vervorming klein is, vind elastiese vervorming (verbygaande vormverandering) plaas en sal die materiaal weer na sy oorspronklike vorm toe terugkeer nadat die spanning verwyder is. By groter vormveranderinge, wanneer die materiaal se elastisiteitsgrens oorskry word, begin die materiaal meegee en vervorm 

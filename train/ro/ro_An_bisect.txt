@@ -1,0 +1,4 @@
+Anii bisecți sunt anii în care luna februarie are 29 de zile în loc de 28 de zile, iar anul per total 366 de zile în loc de 365 de zile. Ziua suplimentară este necesară aproximativ o dată la 4 ani din cauză că perioada de rotație a Pământului în jurul Soarelui nu este un număr întreg de zile, ci este de 365,2422 zile. Fără această zi suplimentară anotimpurile ar începe să se deplaseze față de calendar, astfel încât în aproximativ 70000 de ani luna iulie ar fi o lună de iarnă în emisfera nordică.
+Pentru o aproximare mai bună a perioadei de 365,2422 regula exactă din calendarul Gregorian este: Un an este bisect dacă este divizibil cu 4, exceptând cazurile când este divizibil cu 100 fără a fi divizibil cu 400. Urmând această regulă durata medie a anului calendaristic este de 365,2425 zile care este o aproximație destul de bună.
+Câteva exemple pentru a înțelege mai bine această regulă:
+ani bisecți "obișnuiți": 1872, 1912, 1960, 1996, 2

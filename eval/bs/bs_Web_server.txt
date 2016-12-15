@@ -1,0 +1,6 @@
+i stalnu IP adresu, kako bi mogli registrovati domenu i tu domenu usmjeriti na dotični IP. Na taj način posjetitelji ne moraju pamtiti brojeve (IP) servera već samo adresu kao što je bs.wikipedia.org.
+
+
+== Vanjski linkovi ==
+http://tools.ietf.org/html/rfc2616
+http://www.c64web.com/

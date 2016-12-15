@@ -1,0 +1,3 @@
+Serwer WWW (ang.) web server – program działający na serwerze internetowym, obsługujący żądania protokołu komunikacyjnego HTTP. Z serwerem WWW łączy się, poprzez sieć komputerową, przeglądarka internetowa, będąca jego klientem, aby pobrać wskazaną stronę WWW.
+Serwer WWW może też korzystać z usług innego, równolegle działającego oprogramowania, np. MySQL i PHP, udostępniając wynikowe, dynamicznie utworzone strony WWW, wzbogacone danymi z bazy danych.
+Statystyki wykorzystania serwerów www (dane z sierpnia 2014 według

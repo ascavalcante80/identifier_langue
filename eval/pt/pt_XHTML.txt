@@ -1,0 +1,49 @@
+Voice: XHTML combinado com VoiceXML para suportar ambas visuais e sonoras interações.
+
+
+== Documentos XHTML válidos ==
+Um documento XHTML que está em conformidade com uma especificação XHTML, é dito válido. Validade garante consistência no código, que por sua vez facilita o processamento, mas não necessariamente garante renderização consistente nos navegadores.
+
+
+== Editores de HTML que suportam XHTML ==
+EditPlus
+Microsoft Expression Web
+Microsoft Frontpage
+Adobe GoLive
+Adobe Dreamweaver
+Aptana
+NVU
+Bluefish
+Quanta
+CoffeeCup HTML Editor
+CoffeeCup VisualSite Designer
+Evrsoft 1st.Page
+Kompozer
+Namo Web Editor
+Trellian WebPage
+Evrsoft First Page
+Geany
+Notepad++
+E Text Editor
+
+
+== Referências ==
+
+
+== Ver também ==
+HTML
+XML
+Tableless
+Cascading Style Sheets
+HTML 5
+
+
+== Ligações externas ==
+
+W3C's XHTML (em inglês)
+XHTML 1.0 Specification (em inglês)
+XHTML 1.1 Specification (em inglês)
+Esboço do XHTML 2.0 (em inglês)
+Introdução ao XHTML 2 e as diferenças das versões anteriores (em inglês)
+Tutorial explicativo das diferenças de HTML e XHTML (em português)
+Sending XHTML as text/html Considered Harmful (em inglês)

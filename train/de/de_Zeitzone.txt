@@ -1,0 +1,117 @@
+Eine Zeitzone wird durch diejenigen Teile der Erdoberfläche gebildet, in denen die gleiche, staatlich geregelte Uhrzeit und das gleiche Datum gelten.
+Die ideale Zeitzone ist ein Gebiet von 15° geographischer Längendifferenz, zu dem auch die betroffenen Meeresteile gehören. Sie hat die Form eines Kugelzweiecks, das sich von Pol zu Pol erstreckt. Die zur Zeitzone gehörende Zonenzeit entspricht idealerweise der mittleren Sonnenzeit der Zonenmitte, so dass an den Zonen-Rändern die Abweichung von der mittleren Sonnenzeit nur zwischen plus (Westen) und minus (Osten) eine halbe Stunde beträgt. In den direkt benachbarten Zeitzonen ist die Zonenzeit eine Stunde zurück- (Westen) beziehungsweise vorgestellt (Osten). Die realen Zeitzonen weichen teilweise erheblich davon ab, weil sie sich nach den Staatsgrenzen – bei mehreren Zeitzonen in großen Ländern zusätzlich nach innerstaatlichen Grenzen – richten.
+Durch die Anwendung der Sommerzeit können in einer Zeitzone zwei Zonenzeiten vorkommen: Normal-(/Winter-) und Sommerzeit.
+
+
+== Ideale und tatsächliche ZeitzonenBearbeiten ==
+Teilt man die Erde in genau 24 gleiche Kugelzweiecke ein, so entstehen 24 ideale Zeitzonen. Diese erstrecken sich über je 7½ Längengrade zu beiden Seiten des Bezugslängengrades, der im Ideal ein ganzes Vielfaches von 15° mit Bezug auf den international vereinbarten Nullmeridian ist. Daraus ergeben sich folgende Vorteile:
+Die Zeitverschiebung zu den benachbarten Zeitzonen beträgt ± 1 Stunde.
+Die Zonenzeit weicht an den Zonengrenzen nur ± ½ Stunde von der mittleren Sonnenzeit ab.
+Die meisten Staaten haben eine (oder Staaten mit großer Ost-West-Ausdehnung mehrere) dieser 24 Zonenzeiten als gesetzliche Uhrzeit gewählt. Eine tatsächliche Zeitzone ist die Summe aus allen Staaten oder Staatenteilen mit gleicher gewählter Zonenzeit und aus Gebieten der Ozeane, die immer Teil einer idealen Zeitzone sind.
+Eine solche tatsächliche Zeitzone weicht zunächst einmal von einer idealen Zeitzone ab, weil die westlichen und östlichen Grenzen der Staaten nicht auf die Grenzen einer idealen Zeitzone fallen, und in der Regel keinem Längengrad folgen. Zudem hat die Bindung an die Sonnenzeit oft keine Priorität vor Traditionen, wirtschaftlichen Rücksichten oder kulturellen Bindungen an Nachbarstaaten. Folglich kann die Zonenzeit einer benachbarten oder weiter entfernten idealen Zeitzone als gesetzliche Zeit gewählt sein. Eine tatsächliche Zeitzone mit bereits ausgefransten Rändern ist deshalb gelegentlich in Ost-West-Richtung versetzt, und ist nicht immer ein in Nord-Süd-Richtung zusammenhängender Streifen. Am ehesten ist sie über den Ozeanen ein längerer Teil des idealen Kugelzweiecks, weil sie hier nicht für innerstaatliche Zwecke, sondern von der Schiff- und Luftfahrt und vom Militär (zum Beispiel von der NATO, siehe DTG) definiert und benutzt wird.
+Umgangssprachlich kann mit dem Begriff Zeitzone auch nur das Gebiet eines Staates gemeint sein, anstatt dieses Gebiet als einer Zeitzone zugehörig zu bezeichnen. Weitere Verwirrung entsteht, wenn die Begriffe Zeitzone und Zonenzeit synonym verwendet werden.
+Manche Staaten verwenden nicht eine der 24 „idealen“ Zonenzeiten, die sich um eine ganze Stunde voneinander unterscheiden. Sie wählen eine Zeit dazwischen und schaffen damit eine an ihrer Süd- und Nordgrenze endende Zeitzone (zum Beispiel Indien).
+Staaten mit großer Ost-West-Ausdehnung haben in der Regel mehrere Zonenzeiten (zum Beispiel USA, Kanada und Russland). Sie unterteilen ihr Gebiet mehr oder weniger in Anlehnung an die „idealen“ Zeitzonen. Es können doppelt oder mehrfach breite innerstaatliche Zeitzonen gebildet sein (so in Russland von 2010 bis 2014), oder im Staat wird nur eine einzige Zonenzeit verwendet (so in der Volksrepublik China).
+Die Zonenzeiten werden relativ zur allgemein gültigen koordinierten Weltzeit (UTC, Universal Time Coordinated) angegeben, zum Beispiel als UTC+1h (Mitteleuropäische Zeit MEZ) oder UTC−3:30h (Newfoundland Standard Time). Da der Sprachgebrauch nicht immer eindeutig ist, wird eine Zonenzeit UTC±x manchmal auch als Zeitzone bezeichnet.
+In manchen Staaten wird zusätzlich etwa halbjährlich zwischen normaler Zonenzeit (Normalzeit, englisch Standard Time) und Sommerzeit (englisch DST, Daylight Saving Time) gewechselt.
+
+
+== KarteBearbeiten ==
+Die folgende Karte zeigt die durch die staatlichen Grenzen und die individuelle staatliche Wahl einer beziehungsweise mehrerer Zonenzeiten entstandenen tatsächlichen Zeitzonen. Es gibt mehr als 24 Zeitzonen, da
+einzelne Staaten eine nicht ganzstündige Verschiebung zur UTC wählten,
+einzelne Staaten an der Datumsgrenze das Datum der anderen Seite dieser Grenze wählten (z. B. Tonga, Kiribati, Samoa).
+Auf Grund des zweiten Faktums sind zwei Orte erst dann in der gleichen Zeitzone, wenn sowohl Uhrzeit als auch Datum übereinstimmen.
+Die gesetzlichen Uhrzeiten (Zonenzeiten, auch Standardzeiten oder Normalzeiten) der tatsächlichen Zeitzonen sind häufig nicht optimal:
+Die Staatsgrenzen erstrecken sich über mehr als 15 Längengrade, so dass die Abweichung von der Sonnenzeit größer als ± ½ Stunde ist. Das trifft bei größeren Staaten zu, die mit nur einer oder wenigen Zonenzeiten auskommen wollen (Beispiel: nur eine Zonenzeit in China).
+Der Bezugslängengrad ist nicht ein ganzes Vielfaches von 15°, wodurch die Verschiebung zur Zeit der benachbarten Zeitzonen nicht ± 1 Stunde beträgt. Das hat oft historische Gründe, indem keine Anpassungen vorgenommen wurden, als die weltweite Ordnung der Zeitzonen infolge der Vereinbarung über den Nullmeridian geschah (Beispiele: Iran, Afghanistan, Indien, Nepal, Mittel-Australien, Neufundland).
+Der Bezugslängengrad liegt außerhalb des betroffenen Gebietes, in folgenden Beispielen immer östlich davon, so dass eine erhebliche, beispielsweise immer positive Abweichung von der Sonnenzeit besteht:
+
+Argentinien:        +0:48h bis +1:56h   ( −57° • [UTC−3h: −45°] •   −74°),
+Island:             +0:52h bis +1:40h   ( −13° • [UTC±0h:  ±0°] •   −25°),
+Spanien:            +0:42h bis +1:38h   (+4,5° • [UTC+1h: +15°] •  −9,5°),
+Frankreich:         +0:26h bis +1:22h   (+8,5° • [UTC+1h: +15°] •  −5,5°),
+Kanarische Inseln:  +0:52h bis +1:14h   ( −13° • [UTC±0h:  ±0°] • −18,5°),
+Belgien:            +0:34h bis +0:50h   (+6,5° • [UTC+1h: +15°] •  +2,5°),
+Niederlande:        +0:30h bis +0:47h   (+7,5° • [UTC+1h: +15°] • +3,25°).
+
+
+== Entstehung der ZonenzeitenBearbeiten ==
+Ursprünglich hatte jeder Ort seine eigene als Ortszeit bezeichnete Uhrzeit, die sich nach der Sonne richtete: Wenn die Sonne ihren höchsten Punkt über dem Horizont erreichte, war es 12 Uhr mittags. Reisende richteten sich nach der Ortszeit des jeweils erreichten Ortes. Mit dem Entstehen der Eisenbahn wurde ein Zeitnormal nötig, das im ausgedehnteren Gebiet der Eisenbahnstrecke galt, zum Beispiel um allgemein gültige Fahrpläne schreiben zu können. So wurde die Ortszeit einer größeren Stadt, oft die einer der Endstationen der Eisenbahnlinie, zur überregional gültigen Standardzeit. Das war teilweise auch die Ortszeit der Hauptstadt. Beispiele: Berliner, Hamburger, Münchener, Prager, Berner und Genfer Zeit. Nicht zufriedenstellend war die Situation in Städten, in denen mehrere Eisenbahnlinien endeten. Genf war Endstation für eine aus Paris und für eine aus Bern kommende Eisenbahnlinie und hatte die Pariser Zeit und die Berner Zeit neben der eigenen Genfer Zeit.
+Eine Verbesserung entstand durch die in der ersten Hälfte des 19. Jahrhunderts eingeführte Telegrafie. In den 1840er bis 1860er Jahren wurde in fast allen europäischen Ländern eine einheitliche Standardzeit festgelegt, die man landesweit mittels telegrafisch ausgesendeter Zeitsignale bekanntmachen konnte. Man wählte meistens die Ortszeit der jeweiligen Hauptstadt.
+Die späteren systematischen Zonenzeiten wurden erstmals nicht von Staaten, sondern von den nordamerikanischen Eisenbahngesellschaften 1883 eingeführt. Die quer über den Kontinent geführten Eisenbahnstrecken machten mehr als eine Standardzeit nötig. Die Gebiete wurden in vier (später fünf) Zeitzonen unterteilt. USA und Kanada konnten diese Zonenzeiten später mit geringen Korrekturen in ihre staatlichen Regelungen übernehmen, denn sie unterschieden sich von der Greenwich-Zeit (später UTC) um ganze Stunden.
+Das weltweite systematische Zeitzonensystem war eine Folge der internationalen Vereinbarung des Greenwich-Meridians als Nullmeridian auf der Washingtoner Internationalen Meridiankonferenz 1884. Der für die Kartografie wichtige Nullmeridian diente fortan auch als Bezugsmeridian für die Unterteilung der Erde in Zeitzonen.
+
+
+=== Einführung der MEZ in DeutschlandBearbeiten ===
+Im Deutschen Reich wurde mit dem Zeitgesetz (Gesetz betreffend die Einführung einer einheitlichen Zeitbestimmung) von 1893 die mittlere Mitteleuropäische Zeit (MEZ) als gesetzliche Zeit verankert.
+Zuvor galten in den einzelnen Ländern individuelle Zeiten, in Bayern beispielsweise die Münchner Zeit, die gegenüber der in ganz Preußen geltenden Berliner Zeit sieben Minuten (entsprechend etwa zwei Längengraden) nachging. Die Münchner Zeit ging auch 23 Minuten gegenüber der damals gültigen Zeit im Königreich Württemberg vor.
+Vorreiter einer einheitlichen Zeit waren auch in Deutschland die Eisenbahnen. Die Preußischen Staatseisenbahnen verwendeten auf dem Gebiet des ehemaligen Norddeutschen Bundes ab den 1880er Jahren die Berliner Zeit als interne Betriebszeit, die süddeutschen Bahnen jedoch bereits die spätere MEZ. 1890 einigten sich die im Verein Deutscher Eisenbahnverwaltungen organisierten Staatsbahnen auf die MEZ als gemeinsame Betriebszeit.
+Ab dem 1. April 1892 wurde die MEZ für die Südländer Baden, Bayern und Württemberg als allgemeine Zeit im Alltag verbindlich. Ein Jahr später, mit dem Inkrafttreten des erwähnten Zeitgesetzes, galt sie für das gesamte Reichsgebiet (Umstellung am 1. April 1893).
+
+
+=== Einführung der MEZ in ÖsterreichBearbeiten ===
+Anders als in den meisten anderen Ländern wurde in Österreich Mitte des 19. Jahrhunderts nicht die Zeit der Hauptstadt Wien (16° östliche Länge), sondern die Prager Zeit (14,5° östliche Länge) verwendet. Im Eisenbahnbereich wurden jedoch neben der Prager, je nach Strecke, die Lindauer, Münchner, Budapester oder Lemberger Zeit verwendet. Seit dem 1. August 1872 bildete der Wiener Meridian die Grundlage für die Zeitbestimmung des Zugverkehrs.
+Die Wiener Mittagszeit wurde von der Universitätssternwarte an die Wiener Bahnhöfe telegrafisch signalisiert, von denen das Mittagszeichen an die Hinterbahnen telegrafisch weitergegeben wurde.
+Die Mitteleuropäische Zeit MEZ wurde im österreichischen Eisenbahn- und Telegraphendienst 1891 und in Wien durch Beschluss des Gemeinderats 1910 eingeführt. Eine gesetzliche Verordnung wie in Deutschland erfolgte nicht. Für das damalige Österreich, die Doppelmonarchie Österreich-Ungarn mit einer Ausdehnung vom etwa 9. bis 23. Längengrad war das ein gutes Mittel. Da der Unterschied zur Prager Zeit weniger als zwei Minuten betrug, war die Umstellung, zumindest für die Hauptstädter, nicht sehr groß.
+
+
+=== Einführung der MEZ in der SchweizBearbeiten ===
+In der Schweiz wurde mit der Gründung des Bundesstaates schon 1848 die Berner Zeit als einheitliche Zeit eingeführt. Ab 1859 erfolgte die Ermittlung in der neuen Sternwarte Neuenburg, wurde aber weiterhin in Berner Ortszeit umgerechnet verbreitet. Zumindest in einigen Orten wurde parallel die eigene Ortszeit weiter verwendet, so hatte der Genfer Inselturm beispielsweise um 1880 drei Uhren: Die rechte zeigte die Berner Zeit, die mittlere zeigte die Ortszeit (Berner Zeit −5 Minuten) und die linke zeigte die Zeit von Paris beziehungsweise die der Bahnlinie nach Paris (Berner Zeit −20 Minuten).
+Bedingt durch die Einführung der MEZ in Deutschland und Österreich erließ der (kantonale) Berner Regierungsrat am 18. Mai 1894 eine Weisung, nach der „zur Vermeidung einer verwirrenden Zweispaltigkeit der Zeitbestimmung […] diese mitteleuropäische Zeit auch für das bürgerliche und amtliche Leben eingeführt wird, und es sollten sämtliche öffentlichen Uhren (Kirchenuhren und andere) auf den 1. Juni nächsthin um 30 Minuten vorgerückt werden“. Die runde Zahl 30 ergab sich, weil Bern 7,5° östliche Länge hat. Der Wechsel der Berner wurde von den anderen Kantonen zum selben Datum mitgemacht.
+
+
+== Zonenzeiten heuteBearbeiten ==
+Zu Lande obliegt es den jeweiligen Staaten, ihre Zeitrechnung gesetzlich zu regeln. Die internationale Harmonisierung basiert auf wissenschaftlicher Zusammenarbeit der internationalen und nationalen Zeitinstitute und zwischenstaatlichen Verträgen.
+Auf den Weltmeeren und im Luftraum, wie auch in der Raumfahrt gelten die Usancen und Standards der internationalen See-, Luft-, und Raumfahrt, die über die meist aus dem militärischen Bereich kommenden nationalen oder supranationalen Verbindlichkeiten wie zum Beispiel die Nautical time (NATO) geregelt sind.
+Heute sind die Zonenzeiten überwiegend an die koordinierte Weltzeit (UTC) und nur noch teilweise an die Greenwich Mean Time (GMT) gekoppelt. Die Unterschiede zur UTC und zu benachbarten Zonenzeiten sind konstante, meist ganzzahlige Stundenbeträge. Die USA, Kanada, Russland, Brasilien, Mexiko, Indonesien, die Mongolei, die Europäische Union und Australien haben wegen der großen Ost-West-Ausdehnung mehrere Zonenzeiten. Die Volksrepublik China hat dagegen heute nur noch eine (s. u.).
+Länder mit spezifischen Zonenzeiten, deren Abweichungen zur UTC bzw. zu den Zonenzeiten benachbarter Länder keine vollen Stunden betragen, sind z. B. der Iran (UTC+3:30h), Afghanistan (UTC+4:30h), Indien (UTC+5:30h), Nepal (UTC+5:45h) und die australischen Bundesstaaten Northern Territory und South Australia (UTC+9:30h). Zum 9. Dezember 2007 wurden die Uhren auch in Venezuela (zuvor UTC−4h) um eine halbe Stunde zurückgestellt (Venezuelan Standard Time VST, nun UTC−4:30h). Die Gründe für diese Sonderfälle sind meist die geographische Lage zwischen zwei Zeitzonen, wie auch historischer oder politischer Natur.
+Artikel zu Ländern, die mehr als einer Zeitzone angehören:
+Zeitzonen in Australien
+Zeitzonen in Brasilien
+Zeitzonen in China (historisch)
+Zeitzonen in den Vereinigten Staaten
+Zeitzonen in Indonesien
+Zeitzonen in der Mongolei
+Zeitzonen in Kanada
+Zeitzonen in Kasachstan
+Zeitzonen in Mexiko
+Zeitzonen in Russland
+Artikel zu Ländern mit Überseebesitzungen in anderen Zeitzonen:
+Zeitzonen im Königreich der Niederlande
+Zeitzonen im Vereinigten Königreich und dessen Überseebesitzungen
+Zeitzonen in Chile
+Zeitzonen in Dänemark
+Zeitzonen in Frankreich und dessen Überseebesitzungen
+Zeitzonen in Neuseeland
+Zeitzonen in Portugal
+Zeitzonen in Spanien
+
+
+== Politisch motivierte Wahl von ZonenzeitenBearbeiten ==
+Die meisten Länder der Europäischen Union haben die MEZ. In einigen europäischen Ländern ohne MEZ gibt es immer wieder Versuche, die MEZ auch einzuführen, um die Europäische Gemeinsamkeit zu betonen. Dass aber auch große staatliche Gemeinschaften im Gebrauch mehrerer Zonenzeiten keinen Nachteil sehen, zeigen die USA, und so sind für das Gebiet der EU die bisher üblichen drei Zonenzeiten relativ zur Sonnenzeit durchaus passend.
+Frankreich und Spanien hatten allerdings schon vor dem europäischen Einigungsbestreben – Frankreich seit der deutschen Besatzung 1940, Spanien seit einem Erlass General Francos aus dem Jahr 1942 – anstatt der passenderen UTC±0h die MEZ, die dort bereits im Winter (Normalzeit) erheblich von der Sonnenzeit abweicht, so dass z. B. der wahre Mittag im Westen Spaniens erst ungefähr um 13:40 Uhr stattfindet. Spanien hatte sich bis 1942, als General Franco die Angleichung der Zeit an Deutschland und Italien verfügte, in der gleichen Zeitzone wie das Nachbarland Portugal befunden; es gibt (Stand: 2013) dort Bestrebungen, wieder zur UTC±0h zurückzukehren.
+Eine spanische parlamentarische Kommission etwa konstatierte im September 2013, Spanien habe sich (mit allen negativen Begleiterscheinungen) „für mehr als 71 Jahre nicht in der richtigen Zeitzone befunden“, und empfahl dementsprechend die Umstellung.
+In der Volksrepublik China – deren Territorium etwa fünf Zeitzonen (UTC+5h bis UTC+9h) überschneiden würde – entschied die Regierung, nur eine einzige Zeit (UTC+8h) zu benutzen. Diese passt gut zur Hauptstadt Peking und zu Shanghai. Im westlichsten Zipfel von China ist wahrer Mittag um 15 Uhr, im östlichsten um 11 Uhr.
+In Nepal gilt UTC+5:45h, um sich vom großen Nachbarn Indien (UTC+5:30h) abzugrenzen.
+In Kuba wurde 2004 aufgrund einer massiven Energiekrise beschlossen, in der Sommerzeit zu verbleiben. Kuba hatte bis Herbst 2006 ganzjährig UTC−4h anstatt der geographisch „richtigen” UTC−5h.
+1964 wechselte Venezuela von UTC−4:30h zu UTC−4h. Am 9. Dezember 2007 wurde unter Hugo Chávez die geographisch günstigere UTC−4:30h wieder eingeführt. Das war auch politisch motiviert als Unterscheidung von den Gepflogenheiten in den großen amerikanischen Nachbarstaaten.
+In der Vergangenheit wurde oft einem besetzten Land die Zonenzeit der Besatzer aufgezwungen. So wurde Frankreich 1940 unter der deutschen Besatzung im Zweiten Weltkrieg von UTC±0h auf MEZ umgestellt. Auch in den Niederlanden führte sie die MEZ ein. Hier hatte seit 1909 die Amsterdamer Zeit gegolten (auch Niederländische Zeit): ursprünglich UTC+0:19h, seit 17. März 1937 auf UTC+0:20h gerundet.
+1942 eroberte Japan im Zuge des Pazifikkriegs die Malaiische Halbinsel. Malaysia wurde unter japanischer Besatzung 1942 von UTC+7:30h auf UTC+9h umgestellt.
+Im März 2014 kam es auf der Krim zum Referendum über den Status der Krim und deren Aufnahme in die Russische Föderation (siehe Krimkrise). In der Nacht zum 30. März 2014 wurde die bislang auf der Krim verwendete Uhrzeit UTC+2h der Moskauer Zeit, damals UTC+4h (heute jedoch: UTC+3h) angepasst (d. h. die Uhren wurden um zwei Stunden vorgestellt).
+Nordkorea kündigte Anfang August 2015 an, zum 70. Jahrestag der Befreiung von der japanischen Kolonialherrschaft am 15. August 2015 eine eigene, Pjöngjanger Zeit mit UTC+8:30h einzuführen. Begründet wurde die Änderung in den staatlichen nordkoreanischen Medien als Revision eines Relikts der Kolonialzeit, Zitat: „Die boshaften japanischen Imperialisten verübten unverzeihliche Verbrechen, wie etwa Korea sogar seine Standardzeit zu nehmen.“ Tatsächlich hatte (Gesamt-)Korea seit 1908 UTC+8:30h und wurde 1912 (2 Jahre nach der Besetzung durch Japan ab 1910) auf japanische Zeit UTC+9h umgestellt. Nordkorea behielt nach der Befreiung (1945) diese Zeit bei, während Südkorea – jedoch nur zwischen 1945 und 1961 – zur vor der Besetzung gültigen Zeit zurückwechselte. Das südkoreanische Vereinigungsministerium warnte, Nordkoreas Schritt könnte Verwirrung stiften, etwa beim Pendelverkehr zum gemeinsamen Industriekomplex in der grenznahen nordkoreanischen Stadt Kaesong. Südkorea habe aus praktischen Gründen beschlossen, die geltende Standardzeit beizubehalten.
+
+
+== SommerzeitBearbeiten ==
+
+Viele Länder stellen die Uhrzeit im Frühling eine Stunde vor, im Herbst wieder zurück. So gilt in Deutschland im Winter die MEZ (UTC+1h) (Winter- oder Normalzeit), in den Sommermonaten aber die mitteleuropäische Sommerzeit (MESZ, UTC+2h).
+In der Vergangenheit wurde ein derartiger Wechsel gelegentlich wieder aufgegeben. Die sogenannte Winterzeit wurde wieder ganzjährig gebrauchte Normalzeit. In jüngerer Vergangenheit wurde in Russland (2011) und in Chile (2015) nicht mehr zur Winterzeit zurück gewechselt. Die vorherige Sommerzeit wurde zur ganzjährig gebrauchten Normalzeit. Das bedeutete faktisch einen Wechsel in die nächst östlichere Zeitzone (in Russland für die Zeitzonen-Teile einzeln zutreffend). Im Oktober 2014 wurde dieser Schritt in Russland jedoch wieder rückgängig gemacht; seitdem gilt dort ganzjährig die „Winterzeit“.
+Die beiden Wechseltermine sind in den EU-Ländern gleich. Andere Staaten verwenden zum Teil andere Termine, so dass die Zeitdifferenz zwischen den EU-Ländern und anderen Ländern um ± 1 Stunde schwanken kann.
+Auf der Südhalbkugel (z. B. in Teilen Australiens) wird von Sommerzeit auf Normalzeit umgestellt, wenn auf der Nordhalbkugel von Normalzeit auf Sommerzeit gewechselt wird und umgekehrt. Die Zeitdifferenz von den dortigen Ländern zu Europa schwankt während des Jahres um ± 2 Stunden. Bei anderen Umstellterminen als in den EU-Ländern ändert sie sich kurzzeitig nur um ± 1 Stunde.
+
+
+== Handhabung in der SeefahrtBearbeiten ==
+Bei Ost-West- oder West-Ost-Reisen an Bord eines Schiffes wird die Zeitumstellung recht willkürlich gehandhabt und die Tage, an denen eine Umstellung erfolgt, den betrieblichen Erfordernissen an Bord entsprechend festgelegt. In der Regel wird an einem Tag maximal eine Stunde umgestellt. Der Tag, an dem das geschieht, muss nicht zwingend mit dem Queren der geographischen Grenze zwischen zwei Zeitzonen zusammenfallen. Die Uhr wird in der Regel in mehreren Schritten während der Nacht umgestellt, um die dadurch bedingte Mehr- beziehungsweise Minderarbeit auf alle Wachen gleichmäßig zu verteilen.
+
+
+== Liste der ZonenzeitenBearbeiten ==
+Außer der Bezeichnung der Zonenzeiten in Rel

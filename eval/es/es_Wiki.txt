@@ -1,0 +1,63 @@
+tienen la calidad. A un usuario dispuesto a mantener esas páginas se le avisará en caso de modificaciones, y así se le permitirá verificar rápidamente la validez de las nuevas ediciones.
+
+
+==== VandalismoEditar ====
+Consiste en realizar ediciones (generalmente hechas por desconocidos o gente mal intencionada) que borran contenido importante, introducen errores, agregan contenido inapropiado u ofensivo (por ejemplo, insultos) o simplemente incumplen flagrantemente las normas del wiki. También son frecuentes los intentos de spam, por ejemplo:
+La introducción de enlaces en un wiki con el fin de subir en los buscadores de Internet (véase PageRank).
+Los intentos de publicitarse o hacer proselitismo (de su ideología, religión u otros) a través del wiki.
+Ingresar material que viola derechos de autor.
+Ingresar contenido inapropiado para menores de edad.
+Algunas soluciones que se utilizan para luchar contra el vandalismo son:
+Revertir rápidamente sus cambios, para que así se desanimen.
+Bloquearlos temporalmente por su nombre de usuario o dirección IP, de tal forma que no puedan seguir editando. Esta solución se ve dificultada por las IPs dinámicas y el uso de proxies abiertos, que, al ser bloqueados, pueden afectar también a personas inocentes.
+Si se produce siempre en una misma página, la protección de esa página.
+No permitir que editen páginas usuarios que no estén registrados en la wiki.
+En casos extremos (generalmente, ataques por medio de herramientas automáticas), bloquear la base de datos del wiki, sin permitir ningún tipo de edición.
+
+
+== SoftwareEditar ==
+Existen varios programas, generalmente scripts de servidor en Perl o PHP, que implementan un wiki. Con frecuencia, suelen utilizar una base de datos, como MySQL.
+Suelen distinguirse por:
+Destino: para uso personal, para intranets, para la web, etc.
+Funcionalidad: pueden o no mantener historiales, tener opciones de seguridad, permitir subir archivos, tener editores visuales WYSIWYG, etc.
+Algunos de los más utilizados son:
+UseModWiki: el más antiguo, escrito en Perl.
+MediaWiki: utilizado en todos los proyectos de Wikimedia. Basado en PHP y MySQL.
+PhpWiki: basado en UseMod. Escrito en PHP, puede utilizar distintas bases de datos.
+TikiWiki: CMS completo, con un wiki muy desarrollado, usando PHP y MySQL.
+DokuWiki: Un wiki completo escrito en PHP sin necesidad de bases de datos (usa sólo ficheros de texto)
+WikkaWiki: basado en WakkaWiki, un wiki muy ligero. Usa PHP y MySQL
+MoinMoin: Modular. Escrito en Python.
+OpenWiking: Wiki programado en ASP.
+Swiki: Wiki programado en Squeak
+
+
+== UtilidadesEditar ==
+Pueden realizarse búsquedas en varios wikis a la vez, incluso en esta web y en la de Ward, utilizando un MetaWiki.
+El wiki es una práctica innovadora que ha expandido su uso, por ejemplo, a las empresas, las cuales utilizan este medio para que el conocimiento adquirido por los trabajadores pueda ser compartido y complementado por todos, se utiliza como una herramienta que favorece la innovación.
+
+
+== Véase tambiénEditar ==
+Escritura colaborativa
+Producción textual colaborativa
+Software para wikis
+TiddlyWiki
+Wiki estructurada
+Wikitexto
+
+
+== NotasEditar ==
+
+
+== ReferenciasEditar ==
+
+
+== Enlaces externosEditar ==
+ Wikimedia Commons alberga contenido multimedia sobre WikiCommons.
+ Wikcionario tiene definiciones y otra información sobre wiki.Wikcionario
+WikiWikiWeb. El wiki original (en inglés).
+Wikimatrix. Web que permite la comparación de diferentes software wiki.
+Wikis del mundo, enlistadas en WikiIndex.
+Wikis en español registradas en WikiIndex.
+wikia:Wikia. Web que permite crear al usuario, gratuitamente, su propia wiki (en inglés).
+Wikia en español.

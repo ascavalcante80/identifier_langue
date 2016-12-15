@@ -1,0 +1,84 @@
+ere
+Konqueror
+
+Mosaic-baserte nettlesere
+Internet Explorer
+
+Presto-baserte nettlesere
+Opera
+Nintendo nettleser for DS og Wii.
+
+CLI-baserte
+Links
+Lynx
+w3m
+
+WebKit-baserte (videreføring av KHTML)
+Safari
+Google Chrome
+OmniWeb
+Maxthon 3
+Rekonq
+Arora
+
+Trident-baserte nettlesere
+Maxthon
+AOL Explorer
+Avant Browser
+Enigma Browser
+SlimBrowser
+NeoPlanet
+NetCaptor
+Netscape Browser 8
+iRider
+Smart Bro
+Sleipnir
+Tencent Traveler
+UltraBrowser
+
+Pr mars 2013 hadde nettleserne følgende markedsandeler:
+Chrome 38.01%
+Microsoft Internet Explorer 29.37%
+Firefox 20.87%
+Safari 8.49%
+Opera 1.17%
+Android 0.77
+Yandex Browser 0,2
+Silk 0.17%
+Maxthon 0.17%
+
+
+== Verdensveven og nettleserfunksjoner ==
+De forskjellige nettleserne kan skilles fra hverandre utfra de funksjoner den støtter. Moderne nettlesere og websider har en tendens til å bruke funksjoner og teknikker som ikke fantes i verdensvevens tidligere dager. Som bemerket tidligere, nettleserkrigene førte til en rask og kaotisk utvidelse av nettleseren og verdensvevens funksjonsett.
+Her følger en liste over de mest benyttede funksjonene:
+
+
+=== Standardstøtte ===
+HTTP and HTTPS
+HTML, XML og XHTML
+Grafiske filformater som GIF, PNG, JPEG og SVG
+Cascading Style Sheets
+JavaScript
+Java
+Informasjonskapsel (cookie)
+Digitale sertifikater
+Favicon
+
+
+=== Grunnleggende funksjoner ===
+Bokmerkeadministrasjon
+Nedlastningsadministrasjon
+Mellomlagring av nettinnhold
+Støtte av mediatyper
+Mulighet for utvidelser eller Widgets
+
+
+=== Brukervennlighet og tilgangsfunksjoner ===
+Autofullføring av URL-er og form-data
+Faner (tabbed browsing)
+Reklamefiltrering
+RSS-leser
+
+
+== Referanser ==
+^ [1]

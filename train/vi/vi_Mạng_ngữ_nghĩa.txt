@@ -1,0 +1,28 @@
+Semantic Web (tiếng Việt: Web ngữ nghĩa) là một phong trào hợp tác được dẫn đầu bởi tổ chức W3C. Tiêu chuẩn này phát triển các định dạng dữ liệu chung trên World Wide Web. Bằng cách khích lệ sự bao hàm của nội dung ngữ nghĩa trong các trang web, Semantic Web hướng đến việc chuyển đổi các nội dung web hiện tại bao gồm phần lớn các văn bản không có cấu trúc hoặc bán cấu trúc thành "dữ liệu web" (dữ liệu có ngữ nghĩa). Ngăn xếp Semantic Web xây dựng trên RDF thuộc W3C. Theo W3C, "Semantic Web cung cấp một framework chung cho phép dữ liệu được chia sẻ và tái sử dụng thông qua các ứng dụng, các công ty và các biên giới cộng đồng". Thuật ngữ này được đặt ra bởi Tim Berners-Lee cho dữ liệu web có thể thực thi bởi máy tính.
+Bài báo gốc với tên Scientific American năm 2001 của Berners-Lee, Hendler, và Lassila mô tả sự phát triển dự kiến của Web hiện thời sang Web ngữ nghĩa, nhưng điều này chưa xảy ra. Năm 2006, Berners-Lee và đồng sự tuyên bố rằng: "Đây là một ý tưởng đơn giản nhưng... phần lớn chưa được thực hiện".
+
+
+== Xem thêm ==
+Dữ liệu liên kết
+
+
+== Tham khảo ==
+
+Roger Chaffin: "The concept of a semantic Relation". In: Adrienne Lehrer u. a. (Hrsg.): Frames, Fields and contrasts. New essays in semantic and lexical organisation, Erlbaum, Hillsdale, N.J. 1992, ISBN 0-8058-1089-7, S. 253–288.
+Hermann Helbig: Die semantische Struktur natürlicher Sprache. Wissenspräsentation mit MultiNet, Springer, Heidelberg 2001, ISBN 3-540-67784-4.
+M. Ross Quillian: "Word concepts. A theory and simulation of some basic semantic capabilities". In: Behavioral Science 12 (1967), S. 410–430.
+M. Ross Quillian: "Semantic memory". In: Marvin Minsky (Hrsg.): Semantic information processing, MIT Press, Cambridge, Mass. 1988.
+Klaus Reichenberger: Kompendium semantische Netze: Konzepte, Technologie, Modellierung, Springer, Heidelberg 2010, ISBN 3-642-04314-3.
+John F. Sowa: Principles of semantic networks. Explorations in the representation of knowledge, Morgan Kaufmann, San Mateo, Cal. 1991, ISBN 1-55860-088-4.
+
+
+== Nghiên cứu thêm ==
+Aaron Swartz's A Programmable Web: An unfinished Work donated by Morgan & Claypool Publishers after Aaron Swartz's death in January 2013.
+Liyang Yu (ngày 6 tháng 1 năm 2011). A Developer's Guide to the Semantic Web. Springer. ISBN 978-3-642-15969-5. 
+Grigoris Antoniou, Frank van Harmelen (ngày 31 tháng 3 năm 2008). A Semantic Web Primer, 2nd Edition. The MIT Press. ISBN 0-262-01242-1. 
+Dean Allemang, James Hendler (ngày 9 tháng 5 năm 2008). Semantic Web for the Working Ontologist: Effective Modeling in RDFS and OWL. Morgan Kaufmann. ISBN 978-0-12-373556-0. 
+John Davies (ngày 11 tháng 7 năm 2006). Semantic Web Technologies: Trends and Research in Ontology-based Systems. Wiley. ISBN 0-470-02596-4. 
+Pascal Hitzler, Markus Krötzsch, Sebastian Rudolph (ngày 25 tháng 8 năm 2009). Foundations of Semantic Web Technologies. CRCPress. ISBN 1-4200-9050-X. 
+Thomas B. Passin (ngày 1 tháng 3 năm 2004). Explorer's Guide to the Semantic Web. Manning Publications. ISBN 1-932394-20-6. 
+Liyang Yu (ngày 14 tháng 6 năm 2007). Introduction to Semantic Web and Semantic Web Services. CRC Press. ISBN 1-58488-933-0. 
+Jeffrey T. Pollock (ngày 23 th

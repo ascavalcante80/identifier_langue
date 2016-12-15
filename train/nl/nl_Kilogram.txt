@@ -1,0 +1,41 @@
+De kilogram (ook het kilogram) is sinds 1901 de internationale standaardeenheid voor massa en daarmee een van de zeven basiseenheden van het SI.
+Een kilogram is gelijk aan duizend gram. Toch is kilogram een basiseenheid en niet gram.
+
+
+== Standaardkilogram ==
+Het SI-systeem definieert de kilogram als gelijk aan de massa van het internationale prototype, dat van een platina-iridiumlegering is gemaakt en bewaard wordt op het Bureau international des poids et mesures (BIPM) (het internationale bureau van gewichten en maten) in het Franse Sèvres. Het internationale prototype is een cilinder van 90 massa% platina en 10 massa% iridium, met een hoogte en diameter van 39,0 mm. De kilogram is de enige SI-eenheid die is gerelateerd aan een door mensen gemaakt voorwerp in plaats van aan een natuurkundige eigenschap. Het is ook de enige basiseenheid in het SI die een SI-prefix (kilo) in de naam heeft staan. Dit is om historische en praktische redenen zo gehouden; logischer zou zijn een nieuwe naam te kiezen.
+Officiële kopieën van de standaardkilogram zijn als nationale prototypen beschikbaar. De huidige standaard van Nederland, kopie nummer 53, bevindt zich bij VSL (Van Swinden Laboratorium) te Delft. Een vorige massastandaard van Nederland is te bewonderen in het Rijksmuseum te Amsterdam.
+Het internationale prototype van de kilogram werd in gebruik genomen in 1889.
+De massa van de standaardcilinder is echter niet vast. Dit wordt geconstateerd door de massa van de referentiecilinder te vergelijken met de massa van kopieën van die cilinder. Er is onder andere vervuiling van de cilinder in de orde van 1 µg per jaar. Er zijn speciale schoonmaakprocedures om deze vervuiling te verwijderen. In de jaren tachtig werd opnieuw bevestigd dat (ondanks schoonmaken) de massa van de internationale kilogram niet constant was. Omdat er geen hogere standaard beschikbaar is, is het niet te bepalen of de massa was toe- of afgenomen, maar sinds die tijd wordt er wel hard gewerkt aan het realiseren van een nieuwe kilogram, één die niet afhankelijk is van een fysiek voorwerp. Hierbij wordt onder andere gekeken naar het tellen van het aantal siliciumatomen in een bol van monokristallijn silicium, of naar het afleiden van de kilogram van natuurkundige constanten. Op dit moment zijn er echter nog te grote verschillen tussen de verschillende methoden, zodat de internationale kilogram in Parijs voorlopig nog steeds de eenheid van massa vertegenwoordigt.
+
+
+== De definitie van de kilogram ==
+
+
+=== 1795 ===
+Het gram was tijdens de invoering van de Franse wet in 1795 de eenheid van massa, door de Franse Academie van Wetenschappen gedefinieerd als de massa van 1 cm3 gedistilleerd water van 0°C. Omdat een verdampende standaard niet erg geschikt is moest een fysieke standaard gemaakt worden. Ook het aandeel zwaar water stelt een meetprobleem. Een gram is echter te klein om daarvoor te dienen; daarom werd er een prototype van 1000 g, dus 1 kilogram gefabriceerd, dat als voorlopige standaard dienst deed.
+
+
+=== 1799 ===
+Toen in 1799 de meter een klein beetje veranderde werd ook een nieuw standaardkilogram gemaakt, de kilogramme des Archives, ditmaal van het corrosiebestendige platina. De massa verschilde niet alleen van de vorige doordat de meter lichtjes veranderd was, men was inmiddels tot het inzicht gekomen dat het nauwkeuriger was water bij zijn grootste dichtheid, bij 4°C, te gebruiken.
+
+
+=== 1889 ===
+De kilogram van 1799 bleek geen tegen de tijd bestande eenheid, omdat zuiver platina te zacht is en krassen kan oplopen. Daarom werd in 1875 besloten om een hardere legering te gebruiken. De nieuwe cilindervormige kilogram werd gemaakt van 90% platina en 10% iridium. De opzet was een stabielere standaard te verkrijgen; de massa werd niet gewijzigd.
+
+
+=== Toekomst ===
+
+Experts van het BIPM ontdekten in 2007 dat het stuk metaal 50 µg aan massa had verloren ten opzichte van het gemiddelde van enkele tientallen kopieën. Dit kwam onder meer door onzuiverheden uit de lucht die zich aan het oppervlak afzetten waardoor de massa 1,11 µg per maand aangroeide. Het BIPM sprak tussen 1939 en 1946 een standaard reinigingsprocedure af: poetsen met gelijke delen ether en ethanol, afstomen met dubbel gedistilleerd water, 7–10 dagen laten drogen. Elke reiniging haalde 5 tot 60 µg vervuiling weg. Nogmaals reinigen haalde 10 µg weg.
+Dit dwong wetenschappers tot het zoeken naar een nieuwe definitie. Volgens de voorgestelde herdefinitie van de basiseenheden wordt de kilogram gedefinieerd door de constante van Planck een bepaalde exacte waarde te geven. De relatieve verandering van de numerieke waarde van massa's die hier in theorie het gevolg van is is van de orde van de huidige relatieve onnauwkeurigheid in de constante van Planck, die geschat wordt op 4,4 × 10−8. De 25e General Conference on Weights and Measures van 18-20 november 2014 verdaagde de beslissing tot de 26e conferentie.
+
+
+== Mogelijke verwarring ==
+
+
+=== Kilogram als (foutieve) aanduiding voor gewicht ===
+Een kilogram wordt in het dagelijks taalgebruik beschouwd als eenheid van gewicht. Natuurkundig gezien is dat niet juist. Het gewicht van een voorwerp is namelijk gelijk aan de zwaartekracht die op de massa van het voorwerp wordt uitgeoefend. Een voorwerp met een massa van 1,0 kilogram weegt (hier op het oppervlak van de aarde) bijna 9,81 N (newton), wat te berekenen is uit de formule , waarbij de g staat voor de valversnelling (of zwaarteveldsterkte), die bij het aardoppervlak ongeveer gelijk is aan 9,81 m/s2.
+Doordat de zwaartekracht op de maan minder sterk is dan op aarde, weegt op de maan alles minder dan op aarde. Een kilogram suiker op aarde heeft op de maan nog steeds een massa van één kilogram, want de suiker is nog steeds uit evenveel en dezelfde deeltjes opgebouwd, maar een meegebrachte aardse weegschaal zal op de maan bij genoemd kilogram suiker nog geen 200 g aangeven. Eigenlijk zou dus niet deze kilogram als eenheid op de weegschaal vermeld moeten staan, maar de eenheid van gewicht (en kracht): de newton (N).
+Het bovenstaande geldt voor een weegschaal die een veer gebruikt voor de tegendruk, wat bij de meeste huiselijke weegschalen het geval is. Een balans (met twee schalen) vergelijkt twee gewichten met elkaar. Met een balans constateert men dat het pak suiker hetzelfde gewicht (en dus dezelfde massa) heeft als een gewicht waarop 1 kg staat.
+Toch worden 'gewichten' in het handelsverkeer steeds uitgedrukt in kilogram. In het dagelijks spraakgebruik (niet in de wetenschap) wordt de eenheid gram vaak weggelaten, zoals in: Een kilo suiker.
+Ook het principe van veerweegschalen levert al gauw een bijdrage aan deze verwarring, omdat weegschalen van dit type in feite gewichtskracht meten, maar (via een omrekening met behulp van de formule ) massa's weergeven. Dus in plaats van het feitelijke gewicht van bijvoorbeeld 98,1 N aan te wijzen, wordt dit omgerekend naar een massa van 10 kg en dit is wat men afleest. Indien het "gewicht" van een voorwerp wordt gegeven in kilogram, wordt

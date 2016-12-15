@@ -1,0 +1,37 @@
+ode sera plus courte ou longue que la sidérale.
+Période draconitique : temps qui s'écoule entre deux passages de l'objet à son nœud ascendant ou descendant. Elle dépendra donc des précessions des deux plans impliqués (l'orbite de l'objet et le plan de référence, généralement l'écliptique).
+Période tropique : temps qui s'écoule entre deux passages de l'objet à l'ascension droite zéro. À cause de la précession des équinoxes, cette période est légèrement et systématiquement plus courte que la sidérale.
+Période synodique : temps qui s'écoule entre deux moments où l'objet prend le même aspect (conjonction, quadrature, opposition, etc.). Par exemple, la période synodique de Mars est le temps séparant deux oppositions de Mars par rapport à la Terre; comme les deux planètes sont en mouvement, leur vitesses angulaires relatives se soustraient, et la période synodique de Mars s'avère être 779,964 d (1,135 années martiennes).
+
+
+== Relations entre les anomalies et les rayons ==
+Dans ce qui suit,  est l'excentricité,  l'anomalie vraie,  l'anomalie excentrique et  l'anomalie moyenne.
+Le rayon  de l'ellipse (mesuré depuis un foyer) est donné par :
+
+Les relations suivantes existent entre les anomalies :
+
+ou encore
+
+Une application fréquente consiste à trouver  à partir de . Il suffit alors d'itérer l'expression :
+
+Si on utilise une valeur initiale , la convergence est garantie, et est toujours très rapide (dix chiffres significatifs en quatre itérations).
+
+
+== Les différents types d'orbite ==
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Liste d'orbites
+Problème à deux corps
+Orbitographie
+Two-Line Elements (TLE), représentation standard des paramètres orbitaux d'objets en orbite terrestre
+Orbiteur, un logiciel gratuit de simulation spatiale
+
+ Portail de l’astronautique
+ Portail de l’astronomie

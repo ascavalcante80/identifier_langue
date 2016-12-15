@@ -1,0 +1,78 @@
+nt waren und mit welcher Methodik verfahren wurde.
+Aus nicht vollständig geklärten Gründen legte die darauffolgende griechische Mathematik einen großen Wert auf die Geometrie, trotz des Einflusses der Pythagoreer, unter denen die Arithmetik als grundlegend aufgefasst worden war. Bedeutende Protagonisten waren hier Eudoxos von Knidos (* zw. ca. 397 und 390 v. Chr., † zw. ca. 345 und 338 v. Chr.) und Euklid (ca. 360–280 v. Chr.).
+Bezüglich des Zahlbegriffs der Griechen muss festgestellt werden, dass sie nicht über ein Konzept rationaler Zahlen als algebraische Objekte oder Erweiterung der natürlichen Zahlen verfügten. Die aus moderner Sicht oft als Aussagen über solche interpretierten Ergebnisse wurden geometrisch als Aussagen über Längen- und Flächenverhältnisse formuliert: Eine Länge oder Fläche konnte ein ganzzahliges Vielfaches einer anderen sein, dementsprechend lassen sich Verhältnisse zwischen zwei solchen Vielfachen einer Länge oder Fläche im heutigen Verständnis als (positive – mit negativen Zahlen vergleichbare Konzepte waren nicht vorhanden) rationale Zahlen beschreiben, im griechischen Verständnis von Zahlen waren sie jedoch nicht enthalten. Erst recht gab es keine irrationalen Zahlen in der griechischen Mathematik – es traten lediglich geometrische Verhältnisse auf, die keinem Verhältnis von zwei ganzzahligen Vielfachen einer Größe entsprachen; man spricht von Inkommensurabilität. Selbst die Eins wurde bei Euklid nicht zu den Zahlen gezählt.
+Die Existenz der inkommensurablen Verhältnisse war spätestens seit Aristoteles (384–322 v. Chr.), welcher einen recht allgemeinen Beweis lieferte, womöglich aber schon vor 400 v. Chr. in Griechenland bekannt. Dies zeigte die Unmöglichkeit des pythagoreischen Ansatzes, die in der Geometrie auftretenden Verhältnisse mittels der Arithmetik zu beschreiben – in heutiger Begrifflichkeit eine Unzulänglichkeit der rationalen Zahlen. Der Übergang zu einer geometrischen Grundlegung, die den Umgang mit solchen Verhältnissen erlaubte, wird maßgeblich auf Eudoxos zurückgeführt, welcher selbst noch Schüler des bedeutenden Pythagoreers Archytas gewesen war, welcher die Arithmetik als einzige mögliche Grundlage für Beweise ansah.
+Eudoxos lieferte eine Definition der Gleichheit zweier geometrischer Verhältnisse (von Längen oder Flächen): Zwei Verhältnisse sind demzufolge gleich, wenn alle – in moderner Interpretation – rationalen Verhältnisse, die kleiner bzw. größer sind als das eine Verhältnis, auch kleiner bzw. größer sind als das andere. Diese Definition gilt sogar analog für den heutigen Begriff der reellen Zahlen. Einige Stimmen sahen oder sehen hierin bereits ein Vorhandensein der reellen Zahlen in der griechischen Mathematik. Diese Aussagen sind jedoch problematisch: Zum einen war eben nicht einmal das Konzept der rationalen Zahlen vorhanden, zum anderen wurde nichts darüber ausgesagt, dass bestimmte Verhältnisse existieren, sodass diese etwa ordnungsvollständig sind, sondern vielmehr durch die Geometrie gegebene Verhältnisse untersucht. In jedem Fall ermöglichte diese Definition eine Vielzahl von Beweisen, deren Techniken wie die Exhaustionsmethode als Vorläufer heutiger Begriffe der Analysis gelten, wobei gewisse Abschätzungen bereits eine zentrale Rolle spielten. Zudem war Richard Dedekind bei seiner Definition der reellen Zahlen eigenen Angaben zufolge durch Eudoxos inspiriert.
+
+Archimedes von Syrakus (287–212 v. Chr.), welcher aufbauend auf Eudoxos besonders weitreichende Beweise für bestimmte geometrische Verhältnisse sowie bestimmte Näherungen lieferte, gilt auch als erste Person, die infinitesimale Größen einführte: Im Palimpsest des Archimedes wandte er ein Prinzip vergleichbar dem Prinzip von Cavalieri an, bei dem eine Fläche in unendlich viele infinitesimale Linien zerlegt wird. Eine solche Vorgehensweise entsprach schon damals nicht den Ansprüchen an einen mathematischen Beweis, Archimedes sah in diesem mechanisch motivierten Verfahren jedoch ein nützliches Werkzeug, um an ein Problem heranzugehen und später einfacher einen korrekten Beweis finden zu können. Die Existenz von von Null verschiedenen infinitesimalen Größen widerspricht der Definition des Eudoxos von Gleichheit und auch dem von Archimedes selbst aufgestellten sogenannten Archimedischen Axiom.
+
+
+== Siehe auch ==
+Arithmetik (das „Zahlenrechnen“)
+Liste besonderer Zahlen
+Numerologie (Betrachtung außermathematischer Bedeutungen von Zahlen, mitunter pseudowissenschaftlich)
+Zahlen in unterschiedlichen Sprachen
+
+
+== Literatur ==
+ Heinz-Dieter Ebbinghaus et al.: Zahlen. Springer, Berlin 1992, ISBN 3-540-55654-0.
+ Georges Ifrah: Universalgeschichte der Zahlen. Parkland, Köln 1998, ISBN 3-88059-956-4.
+ Heinz Lüneburg: Von Zahlen und Größen. Dritteinhalb Jahre Theorie und Praxis. Birkhäuser, Basel 2008, ISBN 978-3-7643-8776-1..
+Albrecht Beutelspacher: Zahlen – Geschichte, Gesetze, Geheimnisse. Verlag C.H. Beck, München 2013, ISBN 978-3-406-64871-7.
+
+
+== Weblinks ==
+
+Artikel „Ziffer“ aus Meyers Konversationslexikon (Memento vom 3. Februar 2008 im Internet Archive)
+Artikel „Zahl“ aus Meyers Konversationslexikon (Memento vom 28. Dezember 2007 im Internet Archive)
+
+
+== Einzelnachweise ==
+↑  John Bigelow, Sam Butchart: Number. In: Donald M. Borchert (Hrsg.): Encyclopedia of Philosophy. 2005, ISBN 0-02-866072-2.
+↑ Merzbach, Boyer, S. 198.
+↑ a b Vladimir Orel: A Handbook of Germanic Etymology. Brill, Leiden 2003, S. 400 f.
+↑ August Fick: Wörterbuch der Indogermanischen Sprachen. Dritter Teil: Wortschatz der Germanischen Spracheinheit. (PDF; 2,8 MB). Vandenhoeck & Ruprecht, Göttingen 1909.
+↑ a b c Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm (Band 31, Sp. 36–42.)
+↑ a b c Julius Pokorny: Indogermanisches etymologisches Wörterbuch, Francke, Bern 1959. Band I, S. 193, Datenbankeintrag
+↑  Friedrich Kluge, Elmar Seebold: Etymologisches Wörterbuch der deutschen Sprache. 24. Auflage. de Gruyter, Berlin 2002, ISBN 3-11-017472-3., S. 1002.
+↑ Zahl. In: Duden, abgerufen am 11. Juni 2012.
+↑ Richard Dedekind: Was sind und was sollen die Zahlen? 2. unv. Auflage. Verlag Friedrich Vieweg und Sohn, Braunschweig 1893, S. 7–8.
+↑  Jouko Väänänen: Second-Order Logic and Foundations of Mathematics. 2001, S. 19 (math.helsinki.fi (PDF; 194 kB), abgerufen am 2. Mai 2013).
+↑  Stewart Shapiro: Foundations without Foundationalism. A Case for Second-order Logic. Oxford University Press, Oxford 1991, ISBN 0-19-853391-8, S. vii, 204 ff.
+↑  Uta Merzbach, Carl Benjamin Boyer: A History of Mathematics. John Wiley & Sons, 2011, ISBN 978-0-470-52548-7.
+↑  Michael C. Frank, Daniel L. Everett, Evelina Fedorenko, Edward Gibson: Number as a cognitive technology: Evidence from Pirahã language and cognition. In: Cognition. Bd. 108, Nr. 3, Elsevier, 2008, S. 819–824, doi:10.1016/j.cognition.2008.04.007 (stanford.edu (PDF; 328 kB), abgerufen am 23. Dezember 2012).
+↑  Daniel L. Everett: Cultural Constraints on Grammar and Cognition in Pirahã. Another Look at the Design Features of Human Language. In: Current Anthropology. Bd. 46, Nr. 4, The Wenner-Gren Foundation for Anthropological Research, 2005 (pnglanguages.org (PDF; 961 kB), abgerufen am 23. Dezember 2012).
+↑ Ifrah, S. 110.
+↑ Ifrah, S. 27 ff.
+↑  Thomas Bedürftig, Roman Murawski: Philosophie der Mathematik. De Gruyter, ISBN 978-3-11-019093-9, S. 101 (books.google.de).
+↑  Hans-Ludwig Wußing: 6000 Jahre Mathematik. Eine kulturgeschichtliche Zeitreise. Von den Anfängen bis Leibniz und Newton. Springer, Berlin u. a. 2008, ISBN 978-3-540-77189-0 (springerlink.com).
+↑ Anne Hauzeur, in: Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures. S. 1144.
+↑ Ifrah, S. 21–23.
+↑ Merzbach, Boyer, S. 10.
+↑  Howard Eves: An introduction to the history of mathematics. 3. Auflage. Saunders College Pub., Philadelphia 1990, ISBN 0-03-029558-0, S. 39.
+↑ Eves, S. 38.
+↑ Wußing, S. 121.
+↑ Wußing, S. 118.
+↑ Merzbach, Boyer, S. 14.
+↑ Eves, S. 40–41.
+↑ Merzbach, Boyer, S. 23–27.
+↑ Wußing, S. 140.
+↑ Merzbach, Boyer, S. 28–29.
+↑ Wußing, S. 142.
+↑ Merzbach, Boyer, S. 38.
+↑ Merzbach, Boyer, S. 44.
+↑ Merzbach, Boyer, S. 45.
+↑ Wußing, S. 174.
+↑ Merzbach, Boyer, S. 47.
+↑ Ebbinghaus, S. 26–27.
+↑ Matvievskaya, S. 253.
+↑ Wußing, S. 165.
+↑ David E. Joyce: Elemente – Buch 7, Definition 8.1. Abgerufen am 22. Dezember 2012. 
+↑ Merzbach, Boyer, S. 70.
+↑ Merzbach, Boyer, S. 65–67.
+↑  Morris Kline: Mathematical Thought from Ancient to Modern Times. Bd. 1, Oxford University Press, New York / Oxford 1972, ISBN 0-19-506135-7, S. 48–49.
+↑ Ebbinghaus, S. 26–27.
+↑ Brad Rogers: A History of Real Numbers, and the First Crisis of Western Knowledge. Archiviert vom Original am 3. Dezember 2011, abgerufen am 22. Dezember 2012 (PDF; 94 kB). 
+↑ Wußing, S. 263.
+↑ a b c John J. O’Connor, Edmund F. Robertson: Eudoxus of Cnidus. In: MacTutor History of Mathematics archive (englisch)
+↑ Reviel Netz: Methods of Infinity. The Archimedes Palimpsest Project, abgerufen am 7. November 2012.

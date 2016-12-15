@@ -1,0 +1,20 @@
+Wikidata är ett databasprojekt startat 2012 och sedan 2013 drivet av Wikimedia Foundation. Det utvecklas som ett öppet samarbetsprojekt, i likhet med Wikipedia och andra av stiftelsens projekt. Syftet med Wikidata är att skapa gemensamma källor till exempelvis födelsedata, personidentifikation och kopplingar mellan olika språkversioner av Wikipedia. Wikidata fungerar som databaskälla på samma sätt som Wikimedia Commons erbjuder mediafiler för alla Wikimedia Foundation-projekt.
+
+
+== Historia ==
+Wikidata startades (efter långa förberedelser) 29 oktober 2012 av Wikimedia Deutschland, den tyska stödföreningen för Wikimedias projekt. Wikidata var då det första nya Wikimediaprojektet att etableras sedan 2006. I april 2013 lanserades Wikidata officiellt av Wikimedia Foundation och till att börja med tog projektet över länkningen mellan artiklar i olika Wikipediaversioner.
+Finansieringen av Wikidata kom 2012 bland annat via donationer från bland annat Allen Institute for Artificial Intelligence och Google Inc., totalt 1,3 miljoner euro.
+Det första artikeln som fick ett motsvarande Wikidataobjekt var universum, detta skedde 29 oktober 2012. Ungerskspråkiga Wikipedia blev 14 januari 2013 den första Wikipediaversion att använda systemet genom att låta Wikidata hantera länkar till artiklar på andra språkversioner av Wikipedia.
+
+
+== Kritik ==
+Viss kritik har framförts mot Wikidata och dess funktionalitet. Kritiken går bland annat ut på att Wikidata binder de lokala Wikipediaversionerna tätare till en central enhet och därmed minskar deras egen utvecklingsfrihet. Det innebär också att allt mer av de viktiga funktionerna utvecklas i en miljö där kunskaper i engelska (bland annat vid diskussioner och felanmälan) blir nödvändiga.
+
+
+== Källor ==
+^ ”Wikidata.org Site Info”. Alexa Internet. http://www.alexa.com/siteinfo/Wikidata.org. Läst 8 October 2014. 
+^ ”Wikipedia’s Next Big Thing: Wikidata, A Machine-Readable, User-Editable Database Funded By Google, Paul Allen And Others” (på engelska). TechCrunch. 30 mars 2012. http://techcrunch.com/2012/03/30/wikipedias-next-big-thing-wikidata-a-machine-readable-user-editable-database-funded-by-google-paul-allen-and-others/. Läst 4 januari 2013. 
+^ Chalabi, Mona (2013-04-26): "Welcome to Wikidata! Now what?". Theguardian.com. Läst 15 oktober 2014. (engelska)
+^ Lakshane, Rohini (2012-12-08):"Wikidata: Summing the sum of human knowledge". Firstpost.com. Läst 15 oktober 2014. (engelska)
+^ ”Paul Allen Invests In A Massive Project To Make Wikipedia Better” (på engelska). Business Insider. 2012-03-30. http://articles.businessinsider.com/2012-03-30/tech/31259697_1_wikimedia-foundation-wikipedia-project. Läst 15 oktober 2015. 
+^ "Q1". Wikidata.org, 2012-10-29. Läst 15 oktober 2014.

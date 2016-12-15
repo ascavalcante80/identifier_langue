@@ -1,0 +1,47 @@
+La conductividad térmica es una propiedad física de los materiales que mide la capacidad de conducción de calor. En otras palabras la conductividad térmica es también la capacidad de una sustancia de transferir la energía cinética de sus moléculas a otras adyacentes o a sustancias con las que está en contacto. En el Sistema Internacional de Unidades la conductividad térmica se mide en W/(K·m) (equivalente a J/(m·s·K) )
+La conductividad térmica es una magnitud intensiva. Su magnitud inversa es la resistividad térmica, que es la capacidad de los materiales para oponerse al paso del calor. Para un material isótropo la conductividad térmica es un escalar  (k en Estados Unidos) definido como:
+
+donde:
+, es el flujo de calor (por unidad de tiempo y unidad de área).
+, es el gradiente de temperatura.
+Una conductividad térmica de 1 vatio por metro y kelvin indica que una cantidad de calor de un julio (J) se propaga a través de un material por conducción térmica:
+en 1 segundo,
+por una superficie de 1 m2,
+por un grosor de 1 m,
+cuando la diferencia de temperatura entre las dos caras es de 1 K.
+Cuanto mayor sea su conductividad térmica, un material será mejor conductor del calor. Cuanto menor sea, el material será más aislante. Por ejemplo, el cobre tiene una conductvidad de 380 vatios por kelvin y metro, y es más de 10 000 veces mejor conductor del calor que el poliuretano (0,035 vatios por kelvin y metro).
+
+
+== Origen molecular de la conductividadEditar ==
+Cuando se calienta la materia la energía cinética promedio de sus moléculas aumenta, incrementándose su nivel de agitación. La conducción de calor, que a nivel macroscópico puede modelizarse mediante la ley de Fourier, a nivel molecular se debe a la interacción entre las moléculas que intercambian energía cinética sin producir movimientos globales de materia. Por tanto la conducción térmica difiere de la convección térmica en el hecho de que en la primera no existen movimientos macroscópicos de materia, que sí ocurren en el segundo fenómeno. Todas las formas de materia condensada tienen la posibilidad de transferir calor mediante conducción térmica, mientras que la convección térmica en general solo resulta posible en líquidos y gases. De hecho los sólidos transfieren calor básicamente por conducción térmica, mientras que para gradientes de temperatura importante los líquidos y los gases transfieren la mayor parte del calor por convección.[cita requerida]
+
+
+== Conductividades térmicas de los materialesEditar ==
+La conductividad térmica es una propiedad de los materiales que valora la capacidad de transmitir el calor a través de ellos. Es elevada en metales y en general en cuerpos continuos, es baja en polímeros, y muy baja en algunos materiales especiales como la fibra de vidrio, que se denominan por ello aislantes térmicos. Para que exista conducción térmica hace falta una sustancia, de ahí que es nula en el vacío ideal, y muy baja en ambientes donde se ha practicado un vacío bajo.
+El coeficiente de conductividad térmica (λ) caracteriza la cantidad de calor necesario por m2, para que atravesando durante la unidad de tiempo, 1 m de material homogéneo obtenga una diferencia de 1 °C de temperatura entre las dos caras. Es una propiedad intrínseca de cada material que varía en función de la temperatura a la que se efectúa la medida, por lo que suelen hacerse las mediciones a 300 K para poder comparar unos elementos con otros. Cuando el elemento no es homogéneo, pero su heterogeneidad se distribuye uniformemente, como por ejemplo, un muro de ladrillo con juntas de mortero, se obtiene en laboratorio un λ útil, media ponderada de los coeficientes de cada material.
+Es un mecanismo molecular de transferencia de calor que ocurre por la excitación de las moléculas. Se presenta en todos los estados de la materia pero predomina en los sólidos.
+La tabla que se muestra a continuación se refiere a la capacidad de ciertos materiales para transmitir el calor.
+En algunos procesos industriales se busca maximizar la conducción de calor, bien utilizando materiales de alta conductividad, bien configuraciones con una gran área de contacto, o ambas cosas. Ejemplos de esto son los disipadores y los intercambiadores de calor. En otros casos el efecto buscado es justo el contrario, y se desea minimizar el efecto de la conducción, para lo que se emplean materiales de baja conductividad térmica, vacíos intermedios (ver termo), y se disponen en configuraciones con poca área de contacto.
+
+
+== Factores que influyen en la conductividad térmicaEditar ==
+
+
+=== TemperaturaEditar ===
+El efecto de la temperatura en la conductividad térmica es diferente para metales y para no metales. En metales la conductividad es primariamente debido a electrones libres. De acuerdo con la ley Wiedemann-Franz la conductividad térmica de los metales es aproximadamente proporcional al producto de la temperatura absoluta expresada en Kelvins, multiplicada por la conductividad eléctrica. En metales puros la resistividad eléctrica frecuentemente se incrementa de manera proporcional a la temperatura, y por tanto la conductividad térmica permanece aproximadamente constante. En aleaciones el cambio de conductividad eléctrica es usualmente menor y por tanto la conductividad térmica se incrementa con la temperatura, frecuentemente de manera proporcional.
+Por otro lado, la conductividad en los no metales se debe fundamentalmente a las vibraciones de la red (ver intercambio de fonones). Excepto para cristales de calidad alta a bajas temperaturas, el camino libre medio de un fonón no se reduce de manera significativa par altas temperaturas. Por tanto la conductividad de los no metales es aproximadamente constante. Así la conductividad térmica es baja siempre y cuando la temperatura no sea demasiado baja. A bajas temperaturas por debajo de la temperatura de Debye la conductividad decrece justo como lo hace la capacidad calorífica.
+
+
+=== Cambios de fase del materialEditar ===
+Cuando un material sufre cambios de fase de sólido a líquido o de líquido a gas, la conductividad térmica puede cambiar. Un ejemplo de esto sería el cambio en conductividad térmica que ocurre cuando el hielo (conductividad térmica de 2,18 W/(m·K) a 0 °C) se derrite formando agua líquida (conductividad térmica de 0,90 W/(m·K) a 0 °C).
+
+
+=== Estructura del materialEditar ===
+Las substancias cristalinas puras pueden exhibir diferentes conductividades térmicas en diferentes direcciones del cristal, debido a diferencias en la dispersión de fonones según diferentes direcciones en la red cristalina. El zafiro es un ejemplo notable de conductividad térmica según la dirección, con una conductividad de 35 W/(m·K) a lo largo del eje-c, y 32 W/(m·K) a lo largo del eje a.
+
+
+=== Conductividad eléctricaEditar ===
+En metales, la conductividad térmica, varía muy a la par con la conductividad eléctrica de acuerdo con la ley de Wiedemann-Franz ya que los electrones de valencia que se mueven libremente transportan no sólo corriente eléctrica sino también energía calórica. Sin embargo, la correlación general entre conductancia eléctrica y térmica no se mantiene para otros materiales, debido a la importancia de la transmisión por fonones en no metales.
+
+
+=== Convecc

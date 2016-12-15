@@ -1,0 +1,28 @@
+Cấp sao biểu kiến (m-magnitude) của một thiên thể (ngôi sao, hành tinh,...) là một thang đo về độ sáng biểu kiến của vật thể tính theo lôgarít của mật độ photon phát ra bởi vật thể nhận được trong một đơn vị thời gian bởi máy thu. Vật thể càng sáng thì m càng có giá trị nhỏ.
+Cấp sao biểu kiến không thể hiện độ sáng thực của vật thể. Vật thể rất sáng, nhưng lại ở quá xa có thể trông tối và có cấp sao biểu kiến thấp. Độ sáng thực của vật thể được đo bằng cấp sao tuyệt đối.
+
+
+== Lịch sử ==
+Người Hy Lạp cổ đại phân chia các vì sao thành 6 mức độ sáng đối với mắt người. Sao sáng nhất có m = 1, còn sao tối nhất có m = 6, tương đương với giới hạn tối nhất mà mắt người có thể cảm thụ. Mỗi mức sáng được coi là sáng gấp đôi mức thấp hơn. Phương pháp này được Ptolemy phổ biến trong quyển Almagest, và thường được cho là phát minh bởi Hipparchus. Phương pháp này không dùng để đo độ sáng của Mặt Trời. Vì sự cảm nhận sáng của mắt người theo hàm lôgarít, thang đo này là một thang đo lôgarít.
+Năm 1856, Norman Robert Pogson chuẩn hóa hệ thống này, bằng cách định nghĩa sao sáng nhất với m = 1, sáng gấp 100 lần sao có m = 6. Như vậy, sao có m = n sáng gấp khoảng 2,512 lần sao có m = n+1. 2,512 là căn bậc 5 của 100 (một số vô tỉ) được gọi là Tỉ số Pogson. Thang Pogson lúc đầu dùng Polaris để chuẩn hóa cho m = 2. Sau này, các nhà thiên văn thấy Polaris thay đổi độ sáng, do đó họ chuyển sang dùng Vega làm chuẩn về độ sáng, rồi sau đó lập bảng các mốc không cho các đo đạc dòng ánh sáng. Độ sáng lúc này phụ thuộc vào dải bước sóng ánh sáng.
+Hệ thống hiện đại không giới hạn trong 6 cấp sao biểu kiến hay trong phổ nhìn thấy. Các vật thể rất sáng có m âm. Như, Sirius, sao sáng nhất thiên cầu, có cấp sao biểu kiến trong khoảng −1,44 đến −1,46. Hệ thống hiện đại đo cấp sao cho cả Mặt Trăng và Mặt Trời; (mTrăng = −12,6 và mMặt Trời = −26,8). Kính viễn vọng Hubble có thể đo được vật thể với cấp sao yếu tới 30 trong phổ nhìn thấy còn kính thiên văn Keck có khả năng nhìn tương tự trong phổ hồng ngoại.
+
+
+== Định nghĩa ==
+Định nghĩa hiện đại của cấp sao biểu kiến, trong vùng phổ x là:
+
+với  là quang thông đo trong vùng phổ x, và  là hằng số phụ thuộc đơn vị đo quang thông, định nghĩa trong Aller và cộng sự, 1982 cho các hệ thống đo lường thông dụng.
+
+
+== Cấp sao biểu kiến một số thiên thể ==
+Các giá trị trong bảng làm gần đúng cho phổ nhìn thấy.
+
+
+== Xem thêm ==
+Cấp sao tuyệt đối
+Danh sách các sao sáng nhất
+
+
+== Tham khảo ==
+
+Magnitudes of Thirty-six of the Minor Planets for the first day of each month of the year 1857, N. Pogson, MNRAS 17 pp 12 1856—in which Pogson first introduced his mag

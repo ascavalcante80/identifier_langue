@@ -1,0 +1,24 @@
+creation of a web page which is typically dynamic.
+In order to graphically display a web page, a web browser is needed. This is a type of software that can retrieve web pages from the Internet. Most current web browsers include the ability to view the source code. Viewing a web page in a text editor will also display the source code.
+Pages are frequently found with assistance from a search engine.
+
+
+== Saving ==
+While one is viewing a web page, a copy of it is saved locally; this is what is being viewed. Depending on the browser settings, this copy may be deleted at any time, or stored indefinitely, sometimes without the user realizing it. Most GUI browsers provide options for saving a web page more permanently. These may include:
+Save the rendered text without formatting or images, with hyperlinks reduced to plain text
+Save the HTML as it was served — Overall structure preserved, but some links may be broken
+Save the HTML with relative links changed to absolute ones so that hyperlinks are preserved
+Save the entire web page — All images and other resources including stylesheets and scripts are downloaded and saved in a new folder alongside the HTML, with links to them altered to refer to the local copies. Other relative links changed to absolute
+Save the HTML as well as all images and other resources into a single MHTML file. This is supported by Internet Explorer and Opera. Other browsers may support this if a suitable plugin has been installed.
+Most operating systems allow applications such as web browsers not only to print the currently viewed web page to a printer, but optionally to "print" to a file that can be viewed or printed later. Some web pages are designed, for example by use of CSS, so that hyperlinks, menus and other navigation items, which will be useless on paper, are rendered into print with this in mind. Sometimes, the destination addresses of hyperlinks may be shown explicitly, either within the body of the page or listed at the end of the printed version. Web page designers may specify in CSS that non-functional menus, navigational blocks and other items may simply be absent from the printed version.
+
+
+== References ==
+
+
+== Further reading ==
+Castro, Elizabeth (2005). "Creating a Web Page with HTML: Visual quick project guide," San Francisco, CA, USA: Peachpit Press, ISBN 032127847X, see [1], accessed 19 September 2015.
+Souders, Steve (2007). "High Performance Web Sites: Essential Knowledge for Front-End Engineers," Sebastopol, CA, USA: O'Reilly Media, ISBN 0596550693, see [2], accessed 19 September 2015.
+
+
+== See also ==

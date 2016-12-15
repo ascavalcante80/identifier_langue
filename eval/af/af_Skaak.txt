@@ -1,0 +1,57 @@
+wêreld se sterkste spelers; dié sluit in Spanje se Linares-gebeurtenis, Monte Carlo se Melody Amber-toernooi, die Dortmund Sparkassen-byeenkoms, Sofia se M-tel Meesters en Wijk aan Zee se Corus-toernooi.
+Gereelde spanskaakbyeenkomste sluit die bogenoemde Skaakolimpiade en die Europese Spankampioenskap in. Die 37ste Skaakolimpiade is in 2006 in Turyn, Italië gehou; Armenië het goud gewen in die onbeperkte kompetisie en Oekraïne het die topmedalje vir vroue verower. Die Wêreldskaakprobleemoploskampioen en Wêreldkorrespondensieskaakkampioenskappe is beide span en indiwiduele byeenkomste.
+Benewens hierdie vooraanstaande kompetisies is daar duisende ander skaaktoernooie, wedstryde en feeste wat jaarliks oral ter wêreld gehou word en wat spelers op alle vlakke dien, van beginners tot meesters. Skaak word as 'n "denksport" bevorder deur die Denksportorganisasie, tesame met ander denkspele soos brug, Go en Scrabble.
+
+
+=== Titels en ranglyste ===
+
+Die beste skaakspelers kan spesifieke lewenslange titels verwerf wat deur FIDE toegeken word:
+Grootmeester (afgekort tot GM, soms word Internasionale Grootmeester of IGM gebruik) word toegeken aan wêreldklas skaakmeesters. Behalwe vir wêreldkampioen is Grootmeester die hoogste titel wat 'n skaakspeler kan behaal. FIDE sal die titel slegs aan 'n speler toeken as hy op 'n stadium 'n Elo-skaakgradering (sien onder) van ten minste 2500 gehad het en drie gunstige resultate (genaamd "norme") in toernooie wat ander grootmeesters betrek het behaal het, insluitend van lande buiten dié van die aansoeker. Daar is ook mylpale wat 'n speler kan behaal op pad na die titel soos om die Wêreldjuniorskaakkampioenskap te wen.
+Internasionale Meester (afgekort as IM). Die voorwaardes is soortgelyk GM, maar is minder veeleisend. Die minimumgradering vir die titel is 2400.
+FIDE Meester (afgekort as FM). Spelers kwalifiseer normaalweg vir die FIDE-Meester titel deur 'n FIDE-Gradering van 2300 of hoër.
+Kandidaatmeester (afgekort as CM). Soortgelyk aan FM, maar met 'n FIDE-gradering van ten minste 2200.
+Al die titels is oop vir mans en vroue. Aparte vrouetitels, soos Vrouegrootmeester (WGM), bestaan ook. As deel van 'n tendens wat deur Nona Gaprindashvili begin is in 1978, het 'n aantal vroue die GM-titel behaal en meeste van die top-tien vroue hou tans die onbeperkte GM-titel.
+Internasionale titels word aan skaakkomponiste en oplossers toegeken en aan korrespondensieskaakspelers (deur die Internasionale Korrespondensieskaakfederasie). Verder kan nasionale skaakorganisasies ook titels toeken, gewoonlik aan gevorderde spelers wat nog nie op hoë genoeg vlak is vir die internasionale titels nie; 'n voorbeeld is die Chess expert-titel wat in die VSA gebruik word.
+Om spelers in rangvolgorde te plaas gebruik FIDE, ICCF en nasionale skaakorganisasies die Elo-graderingsstelsel wat deur Arpad Elo ontwikkel is. Elo is 'n statistiese stelsel wat gegrond is op die aanname dat die skaakprestasie van elke speler in hulle spelle 'n willekeurige veranderlike is. Arpad Elo het 'n speler se ware vermoë as die gemiddeld van daardie speler se willekeurige veranderlike beskou en aangetoon hoe die gemiddelde uit die speler se spelle bepaal kon word. Die VSA-Skaakfederasie het Elo se voorstelle in 1960 geïmplimenteer en die stelsel het gou erkenning verkry as beide regverdiger en akkurater as ouer stelsels. Dit is in 1970 deur FIDE aangeneem.
+Die hoogste FIDE-gradering ooit was 2851, wat Garry Kasparov op die Julie 1999 en Januarie 2000 lyste gehad het. In die mees onlangse lys (Oktober 2010), was die hoogste gegradeerde speler Magnus Carlsen van Noorweë, met 'n gradering van 2813.
+
+
+== Wiskunde en rekenaars ==
+
+Die spelstruktuur en aard van skaak is verwant aan verskeie takke van wiskunde. Baie kombinatoriese en topologiese probleme wat verband hou met skaak is reeds vir honderde jare bekend. In 1913 het Ernst Zermelo dit gebruik as die grondslag van sy teorie van spelstrategieë wat beskou word as een van die voorlopers van spelteorie.
+Die aantal wettige posisies in skaak word geskat op tussen 1043 en 1050 met 'n spelboomkompleksiteit van ongeveer 10123. Die spelboomkompleksiteit van skaak is vir die eerste keer deur Claude Shannon as 10120 bereken, 'n getal wat as die "Shannon-getal" bekend staan. Tipies het 'n gemiddelde posisie dertig tot veertig moontlike skuiwe, maar daar kan so min as nul (in die geval van skaakmat of pat) wees, of soveel as 218.
+Die belangrikste wiskundige uitdaging van skaak is die ontwikkeling van algoritmes wat skaak kan speel. Die idee om 'n masjien wat skaak kan speel te ontwikkel dateer terug tot die 18de eeu: in ongeveer 1769 het die skaakspelende outomaat "Die Turk" beroemdheid verwerf voor dit as kullery blootgestel is. Ernstige proewe gegrond op outomate, soos El Ajedrecista (1912), was te ingewikkeld en te beperk om bruikbaar te wees.
+Sedert die koms van die digitale rekenaar in die 1950's het skaakentoesiaste en rekenaarwetenskaplikes met al hoe meer erns en sukses skaakspeelmasjiene en skaakprogramme ontwikkel. Die baanbreker artikel oor rekenaarskaak, "Programming a Computer for Playing Chess", is in 1950 deur Shannon gepubliseer. Hy het geskryf:
+
+Die skaakmasjien is 'n ideale een om mee te begin, aangesien: (1) die probleem presies gedefinieer word in beide die toegestane operasies (die skuiwe) en die uiteindelike doel (skaakmat); dit is nóg so eenvoudig om onbeduidend te wees, nóg te moeilik vir 'n bevredigende oplossing; (3) daar word oor die algemeen aanvaar dat skaak "denke" vir vaardige spel benodig; 'n oplossing van hierdie probleem sal ons dwing om óf die moontlikheid van meganiese denke te erken, óf om ons konsep van "denke" verder te beperk; (4) die diskrete struktuur van skaak pas goed in die digitale natuur van moderne rekenaars.
+
+Die Association for Computing Machinery (ACM) het die eerste belangrike hoofskaaktoernooi vir rekenaars gereël, die Noord-Amerikaanse rekenaarskaakkampioenskap in September 1970. CHESS 3.0, 'n skaakprogram van Northwestern Universiteit, het die kampioenskap gewen. Vandag ding skaakprogramme mee in die Wêreldrekenaarskaakkampioenskap wat sedert 1974 jaarliks gehou word. Hoewel dit eerste as slegs 'n eienaardigheid beskou is, het die beste skaakprogramme soos Rybka en Hydra baie sterk geword. In 1997 het 'n rekenaar vir die eerste keer daarin geslaag om 'n heersende Wêreldkampioen te klop: IBM se Deep Blue het Garry Kasparov 3½–2½ verslaan (dit het twee keer gewen, een keer verloor en drie keer gelykop gespeel. Nogtans is skaakprogramme uit die oogpunt van kunsmatige intelligensie betreklik eenvoudig: hulle ondersoek in wese reuse aantal toekomstige skuiwe deur beide spelers en pas 'n evaluasiefunksie op die resulterende posisies toe, 'n benadering wat as "brute-krag" (volledige soektog) bekend staan, aangesien dit op die pure spoed van die rekenaar staat maak.
+Met beskikking tot reuse databasisse van wedstryde uit die verlede en hoë analitiese vermoë kan rekenaars ook spelers help om skaak te leer en vir wedstryde voor te berei. Verder kan rekenaars spel tussen menslike spelers bemiddel soos wat deur Internetskaakbedieners gedoen word. Die teenwoordigheid van rekenaars en moderne kommunikasiegereedskap wek ook kommer aangaande verneuking tydens spelle, mees vernaamlik die "badkameromstredenheid" tydens die 2006 Wêreldkampioenskap, waartydens een speler daarvan beskuldig is dat hy hulp verkry het tydens 'n besoek aan die badkamer.
+
+
+== Sielkunde ==
+
+Daar is uitgebreide wetenskaplike literatuur oor skaaksielkunde. Onder andere die Franse psigoloog Alfred Binet (1857–1911) het aangetoon dat kennis en verbale vermoë (eerder as visueel-ruimtelike vermoë) die kern van die vernuf vorm. Die Nederlandse skaakmeester en psigoloog Adriaan de Groot het in sy doktorale tesis aangetoon dat skaakmeesters die sleuteleienskappe van 'n posisie baie vinnig kan herken. Volgens De Groot is hierdie persepsuele vermoë, wat deur jare se oefen en studie moontlik gemaak word, belangriker as die blote vermoë om skuiwe te voorsien. Hy het ook aangetoon dat skaakmeesters posisies vir 'n paar sekondes byna perfek kan memoriseer. Memorisering verklaar egter nie op sigself die vermoë nie, aangesien meesters en nuwelinge dieselfde vermoë het om willekeurige rangskikkings van skaakstukke te onthou (omtrent 'n halfdosyn posisies in beide gevalle). Dit is eerder die vermoë om patrone te herken wat bekwame spelers van beginners onderskei. Toe posisies uit werklike spel geneem is, het die meesters byna al die posisies kon onthou.
+Meer onlangse navorsing is gefokus op skaak as verstandelike opleiding; die onderskeie rolle van kennis en vooruitkykende soek; breinafbeeldingstudies van skaakmeesters en beginners; blindskaak; die rol van persoonlikheid en intelligensie in skaakvermoë, geslagsverskille en rekenmodelle van skaakvermoë. Verder het die rol van oefen en talent in die ontwikkeling van skaak en ander kundigheidsdomeins onlangs tot baie navorsing gelei. Dr. K. Anders Ericsson en sy kollegas voer aan dat doelbewuste oefen genoegsaam is om hoe vlakke van vernuf te bereik, soos meester in skaak. Meer onlangse navorsing dui egter dat faktore buiten oefen belangrik is: die psigoloë Fernand Gobet and Guillermo Campitelli voer aan dat aangebore talent ook 'n groot rol speel.
+
+
+== Variante ==
+
+Skaakvariante is vorms van skaak waar die spel met 'n ander bord, spesiale feestukke of ander reëls gespeel word. Daar is meer as tweeduisend gepubliseerde skaakvariante waarvan die bekendste chiangtsi in Sjina en shogi in Japan is.
+Skaakvariante kan verdeel word in:
+direkte voorgangers van skaak, tsjastoeranga en sjatrandja;
+tradisionele nasionale of streeksskaakvariante soos chiangtsi, shogi, janggi en makruk, wat gemene voorgangers met Westerse skaak deel;
+moderne variante van skaak soos Chess960 of Fischerrandom waar die aanvanklike posisie willekeurig gekies word. Dit is deur die voormalige Wêreldkampioen Bobby Fischer uitgevind en is daarop gemik om die rol van openingskennis te verminder. Chess960 is 'n voorbeeld van 'n variant wat die standaardskaakbord en stukke gebruik maar ander beginposisies. Ander variante het ongelyke magte, soos in Dunsany se skaak waarin die een kant die standaardstukke het en die ander 32 pionne, variante met standaardstukke en reëls, maar wat op 'n ander bord gespeel word met minder of meer blokkies of driehoekige of heksagonale blokkies ens., skaak met ongewone reëls soos Ruitermat waar 'n enkele ruiter eerder as een van die twee konings in mat geplaas moet word, skaak met onvolledige inligting of 'n element van kans, veelskuif- en veelspelervariante, multidimensionele skaak en variante met ongewone stukke soos die maharajah wat soos 'n dame en 'n ruiter kan beweeg.
+
+
+== Verwysings ==
+
+
+== Eksterne skakels ==
+
+Amptelike FIDE webwerf
+FICGS
+Aanhalings van Wikiquote (in Engels)
+Werf oor skaak variante
+Werf om skaak te speel en meesters se spelle te bestudeer
+Aan-lyn skaak databank

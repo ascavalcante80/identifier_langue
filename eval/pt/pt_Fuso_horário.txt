@@ -1,0 +1,27 @@
+GMT -9
+no Atlântico - GMT -1 e GMT -2
+O fuso com mais países é o UTC+1 (GMT +1), oeste da Europa e meio oeste da África, com 42 países.
+O fuso que passa, na direção dos meridianos, por mais terras (menos mares) é o UTC+2 (GMT +2), que cobre do extremo norte da Noruega ao sul da África do Sul, cerca de 11 mil km. O fuso UTC-3 (GMT -3) tem seus pontos extremos, norte da Groenlândia e Terra do Fogo (Argentina), mais distantes (cerca de 14,5 mil km), porém passa por longa extensão do Oceano Atlântico.
+
+
+== Swatch Internet Time ==
+Swatch Internet Time (também conhecido por Tempo Internet, Internet Time ou Biel Universal Time) é uma outra forma de contar o tempo mundial, tendo como unidade o .beat, criada pela fabricante de relógios Swatch da Suíça. Biel Meantime (BMT) é o meridiano inicial (@000), situado na rua Jakob-Staempfli, em Biel, na Suíça. Foi inaugurado em 23 de outubro de 1998. O sistema consiste na eliminação da base hexadecimal e dos fusos horários utilizados atualmente. A hora mundial torna-se padrão em todos os lugares sendo o dia dividido em 1000 beats. A simbologia deste sistema é representada pelo @ (@500 .beats, @650 .beats, @700 .beats...), assim quando em um lugar for @300 .beats do outro lugar também será @300 .beats. O sinal de arroba (@) pronunciado como at, significa em ou às. Beat em inglês é batida. Um beat é equivalente a 1 minuto e 26,4 segundos.
+A vantagem desta atribuição é não ser necessário a utilização de fórmulas, pois não existem fusos horários diferentes; internautas podem marcar encontros na rede mundial de computadores sem ficar calculando os fusos.
+Este é o Tempo Internet quando esta página foi gerada: @008.
+
+
+== Jet lag ==
+
+O jet lag (também conhecida por doença do fuso horário) é a perda de ritmo e concentração ao se passar por fusos horários diferentes em pouco tempo. Seus sintomas consistem em irritabilidade, cefaleia, taquicardia e alteração dos padrões de sono e fome. Esse tipo de alteração ocorre devido às mudanças de hábitos (hora de comer e de dormir, por exemplo). Os efeitos do jet lag são mais evidentes quando a diferença de horário entre o ponto de saída e o destino é superior a quatro horas. É necessário, em média, um dia de descanso para cada hora de diferença.
+
+
+== Referências ==
+
+
+== Ver também ==
+Linha Internacional de Data
+
+
+== Ligações externas ==
+Horário de Brasília - Hora certa oficial do Brasil.
+Time Ticker (em inglês) Hora atual de qualquer zona horária do mundo

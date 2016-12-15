@@ -1,0 +1,82 @@
+Um navegador, também conhecido pelos termos em inglês web browser ou simplesmente browser, é um programa de computador que habilita seus usuários a interagirem com documentos virtuais da Internet, também conhecidos como páginas da web, que podem ser escritas em linguagens como HTML, XHTML ou HTML5 com ou sem linguagens como o CSS e que estão hospedadas num servidor Web.
+
+
+== Protocolos e padrões ==
+Os Navegadores Web, ou Web Browsers comunicam-se geralmente com servidores Web (podendo hoje em dia se comunicar com vários tipos de servidores), usando principalmente o protocolo de transferência de hiper-texto HTTP para efetuar pedidos a ficheiros (português europeu) ou arquivos (português brasileiro), e processar respostas vindas do servidor. Estes arquivos, são por sua vez identificados por um URL.
+O navegador, tem a capacidade de ler vários tipos de arquivos, sendo nativo o processamento dos mais comuns (HTML, XML, JPEG, GIF, PNG, etc.), e os restantes possíveis através de plugins (Flash, Java, etc.).
+Os navegadores tem a capacidade de trabalhar também com vários outros protocolos de transferência.
+A finalidade principal do navegador é fazer-se o pedido de um determinado conteúdo da Web e providenciar a exibição do mesmo. Geralmente, quando o processamento do ficheiro não é possível através do mesmo, este apenas transfere o ficheiro localmente. Quando se trata de texto (Markup Language e/ou texto simples) e/ou imagens bitmaps, o navegador tenta exibir o conteúdo.
+Os primeiros navegadores suportavam somente uma versão mais simples de HTML. O rápido desenvolvimento do mercado de navegadores, (ver As Guerras dos Navegadores) levou à criação de dialetos não-padronizados do HTML, causando problemas de interoperabilidade na Web. Navegadores mais modernos (tais como o Mozilla Firefox, Opera, Google Chrome, Apple Safari e Microsoft Internet Explorer) suportam versões padronizadas das linguagens HTML e XHTML (começando com o HTML 4.01), e mostram páginas de uma maneira uniforme através das plataformas em que rodam.
+Alguns dos navegadores mais populares incluem componentes adicionais para suportar Usenet e correspondência de e-mail através dos protocolos NNTP e SMTP, IMAP e POP3 respectivamente
+
+
+== História ==
+Os primeiros navegadores continham apenas texto depois de algum tempo foi aperfeiçoada.
+Com o advento da Internet, ampliou-se o campo da informação. A Internet é uma grande teia ou rede mundial de computadores. Para utilizarmos todos os recursos disponíveis nesta imensa ferramenta de informação, necessitamos de um software que possibilite a busca pela informação e para isso temos o navegador.
+Tim Berners-Lee, que foi um dos pioneiros no uso do hipertexto como forma de compartilhar informações, criou o primeiro navegador, chamado WorldWideWeb, em 1990. Ele ainda o introduziu como ferramenta entre os seus colegas do CERN em Março de 1991. D tem sido intrinsecamente ligado ao desenvolvimento da própria Web.
+A Web, entretanto, só explodiu realmente em com a introdução do NCSA Mosaic, que era um navegador gráfico (em oposição a navegadores de modo texto) rodando originalmente no Unix, mas que foi também portado para o Apple Macintosh e Microsoft Windows logo depois. A versão 1.0 do Mosaic foi lançada em Setembro de 1993. Marc Andreessen, o líder do projeto Mosaic na NCSA, demitiu-se.
+A Netscape lançou o seu produto líder Navigator em Outubro de 1994, e este tornou-se o mais popular navegador no ano seguinte. A Microsoft, que até então havia ignorado a Internet, entrou na briga com o seu Internet Explorer, comprado às pressas da Splyglass Inc. Isso marca o início da Guerra dos Browsers, que foi a luta pelo mercado dessas aplicações entre a gigante Microsoft e a companhia menor largamente responsável pela popularização da Web, a Netscape.
+O Opera, um navegador rápido e pequeno, popular principalmente em [[Compu1996 e permanece um produto de nicho no mercado de navegadores para os computadores pessoais ou PCs.
+Essa disputa colocou a Web nas mãos de milhões de usuários ordinários do PC, mas também mostrou como a comercialização da Web podia arruinar os esforços de padronização. Tanto a Microsoft como a Netscape deliberadamente incluíram extensões proprietárias ao HTML em seus produtos, e tentaram ganhar superioridade no mercado através dessa diferenciação. A disputa terminou em 1998 quando ficou claro que a tendência no declínio do domínio de mercado por parte da Netscape era irreversível. Isso aconteceu, em parte, pelas ações da Microsoft no sentido de integrar o seu navegador com o sistema operacional e o empacotamento do mesmo com outros produtos por meio de acordos OEM; a companhia acabou enfrentando uma batalha legal em função das regras antitruste do mercado norte-americano.
+A Netscape respondeu liberando o seu produto como código aberto, criando o Mozilla. O efeito foi simplesmente acelerar o declínio da companhia, por causa de problemas com o desenvolvimento do novo produto. A companhia acabou comprada pela AOL no fim de 1998. O Mozilla, desde então, evoluiu para uma poderosa suíte de produtos Web com uma pequena mas firme parcela do mercado.
+O Lynx Browser permanece popular em certos mercados devido à sua natureza completamente textual.
+Apesar do mercado para o Macintosh ter sido tradicionalmente dominado pelo Internet Explorer e pelo Netscape Navigator, o futuro parece pertencer ao próprio navegador da Apple Inc., o Safari, que é baseado no mecanismo de renderização KHTML, parte do navegador de código aberto Konqueror. O Safari é o navegador padrão do Mac OS X.
+Em 2003, a Microsoft anunciou que o Internet Explorer não seria mais disponibilizado como um produto separado, mas seria parte da evolução da plataforma Windows, e que nenhuma versão nova para o Macintosh seria criada.
+
+
+=== Lista de navegadores ===
+
+WorldWideWeb - por Tim Berners-Lee em 1990 para NeXTSTEP.
+Viola, por Pei Wei, para Unix em 1992.
+Midas - por Tony Johnson em 1992 para Unix.
+Samba - por Robert Cailliau para Macintosh.
+Mosaic - por Marc Andreessen e Eric Bina em 1993 para Unix. Aleks Totic desenvolveu uma versão para Macintosh alguns meses depois.
+Arena - por Dave Raggett em 1993.
+Lynx - o Lynx surgiu na Universidade de Kansas como um navegador hypertexto independente da Web. O estudante Lou Montulli adicionou a o recurso de acesso via TCP-IP na versão 2.0 lançada em março de 1993.
+Cello - por Tom Bruce em 1993 para PC.
+Opera - por pesquisadores da empresa de telecomunicações norueguesa Telenor em 1994. No ano seguinte, dois pesquisadores, Jon Stephenson von Tetzchner e Geir Ivarsøy, deixaram a empresa e fundaram a Opera Software.
+Netscape - pela Netscape em outubro de 1994.
+Internet Explorer - pela Microsoft em 23 de agosto de 1995.
+Safari - pela Apple Inc. em 23 de Junho de 2003.
+Mozilla Firefox - pela Mozilla Foundation com ajuda de centenas de colaboradores em 9 de Novembro de 2004.
+SeaMonkey - pelo Mozilla Foundation - Baseado no Gecko (Mozilla) - Site: http://www.seamonkey-project.org/releases/seamonkey2.0.5/.
+Flock - pela Flock Inc. baseado no Firefox em 22 de Junho de 2006.
+Google Chrome - pela Google em Setembro de 2008.
+Baidu Spark Browser pela Baidu.
+Konqueror - pelo Time de Desenvolvedores do KDE.
+Dooble - por... - Um navegador Open Source para Linux/Unix, MAC OS e Windows - Site: http://dooble.sourceforge.net/.
+Midori - por Christian Dywan - Um navegador leve baseado no WebKitGTK+ e o navegador official do XFCE - Site: http://www.twotoasts.de/.
+
+
+== A Web e as características dos navegadores ==
+Os principais navegadores possuem características em comum na interface tais como: voltar para a página anterior, ir para página posterior, recarregar (refresh) a página atual, espaço para digitar a URL, estratégias para escolher sites favoritos e o conceito de abas (entre outros). Uma outra característica comum entre eles é apresentar um histórico dos sites navegados ao longo do tempo.
+Diferentes navegadores podem ser distinguidos entre si pelas características que apresentam. Navegadores modernos e páginas Web criadas mais recentemente tendem a utilizar muitas técnicas que não existiam nos primórdios da Web. Como notado anteriormente, as disputas entre os navegadores causaram uma rápida e caótica expansão dos próprios navegadores e padrões da World Wide Web. A lista a seguir apresenta alguns desses elementos e características:
+ActiveX
+Bloqueio de anúncios
+Preenchimento automático de URLs e dados de formulário
+Bookmarks (marcações, favoritos) para manter uma lista de locais freqüentemente acessados
+Suporte a CSS
+Suporte a cookies, que permitem que uma página ou conjunto de página rastreie usuários
+Cache de conteúdo Web
+Certificados digitais
+Gerenciamento de downloads
+DHTML e XML
+Imagens embutidas usando formatos gráficos como GIF, PNG, JPEG e SVG
+Flash
+Favicons
+Fontes, (tamanho, cor e propriedades)
+Histórico de visitas
+HTTPS
+Integração com outras aplicações
+Navegação offline
+Applets Java
+JavaScript para conteúdo dinâmico
+Plugins
+Tabbed browsing
+Modo Anônimo de Navegação
+Verificador de Spyware
+
+
+== Segurança ==
+Hoje em dia, a maioria dos browsers suportam protocolo de transferência de hipertexto seguro (HTTPS) [identificado no browser por um cadeado fechado] e oferecem uma forma rápida e fácil para deletar cache da web, cookies e histórico.
+Com o crescimento e as inovações das técnicas de invasões e infecções que existem na Internet, torna-se cada vez mais necessária segurança nos navegadores. Atualmente eles são "obrigados" a possuir proteções contra scripts m

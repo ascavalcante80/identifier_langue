@@ -1,0 +1,68 @@
+um-Laser sowie einiger Typen des Kohlendioxidlasers. Es dient als Stoßpartner zur An- oder Abregung der Laserniveaus der eigentlichen aktiven Lasermedien.
+Reinsthelium dient als Trägergas in der Gaschromatographie (Analytik).
+In Gasentladungsröhren leuchtet Helium gelblich/weiß.
+Aufgrund seiner thermodynamischen Eigenschaften ist Helium ein sehr gutes Arbeitsmedium für Stirlingmotoren.
+Hyperpolarisiertes 3He wird in der Diagnostik versuchsweise als Kontrastmittel für kernspintomografische Aufnahmen der Lunge verwendet.
+Statt Druckluft zum Antrieb von Schlagschraubern beim Radwechsel im Formel 1-Automobilsport, damit konnten diese bei einem bestimmten Druck um 30 % schneller betrieben werden. Um Kosten zu vermeiden ab 2012 per Reglement verboten.
+
+
+== Gefahren ==
+Obwohl Helium an sich ungiftig ist und unter Umweltbedingungen keine chemischen Verbindungen eingeht, wird davon abgeraten, das Gas einzuatmen oder in geschlossene Räume ausströmen zu lassen, da Helium die Atemluft verdrängt, was Sauerstoffmangel bewirken kann. Dies kann zu dauerhaften Gesundheitsschäden bis hin zum Tod führen. Symptome können Orientierungsschwierigkeiten und Bewusstseinsverlust sein. Das Gefährliche daran ist, dass das Opfer die Erstickung kaum bis gar nicht bemerkt, bis es zu spät ist.
+Beim Hantieren mit Flüssig-Helium (UN-Nummer UN 1977) – es ist um 73 K kälter als Flüssig-Stickstoff, der ebenfalls als „tiefkalt“ bezeichnet wird – ist die Verwendung von Schutzkleidung notwendig, um Erfrierungen durch Kontakt zu verhindern. Die Gefahr geht im Wesentlichen von tiefgekühlten Behältern, Apparaturen und Armaturen bzw. durch die Vorkühlung durch LN2 aus, da Flüssig-Helium selbst nur eine extrem geringe Kühlleistung (220 ml LHe hat die Kühlleistung von 1 ml LN2) hat. Eine Brille schützt die Augen oder ein Visier das ganze Gesicht, dichte Handschuhe einer gewissen Dicke und mit Stulpe die Hände. Offene Taschen oder Stiefelschäfte sind Eintrittspforten für Spritzer und daher zu vermeiden. Weitere Gefahren gehen durch Vereisung und damit verbundener Verstopfung und Explodieren von Leitungen und Gefäßen aus.
+Heliumdruckgasbehälter – meist nahtlose Stahlzylinder für 200 bar Hochdruck oder aber geschweißte (oft: Einweg-)Flaschen – stehen unter hohem Druck. Ihr Erhitzen über den Richtwert von 60 °C oder Kontakt mit Feuer ist strikt zu vermeiden. Denn einerseits steigt der Innendruck mit der Temperatur und andererseits nimmt die Festigkeit der Stahlwandung ab, sodass ein sehr energisches Platzen des Gefässes droht. Auch das Abreissen des Ventils, etwa wenn eine Flasche ohne Schutzkappe fällt, oder das Brechen einer Berstscheibe löst einen Gasstrahl mit gefährlichen Folgen aus. Auch Ballonfüllventile mit integriertem Druckregler liefern ein Vielfaches von dem Druck, den Lunge, Mund oder jede andere Körperhöhle aushält.
+
+
+== Sonstiges ==
+Nach dem Einatmen von Helium klingt, solange die Atemwege einen relevant hohen Anteil an Helium enthalten, die menschliche Stimme erheblich höher. (Populär wird dieser Effekt „Micky-Maus-Stimme“ genannt, die allerdings durch schnelleres Abspielen von Tonband, also Erhöhung aller Frequenzen (und des Tempos) um einen bestimmten Faktor erzielt wurde.) Die Klangfarbe einer Stimme hängt nämlich von der Lage der Formanten im Mundraum ab, die durch Faktoren wie Zungen- und Lippenstellung beeinflusst werden. (Formanten sind diejenigen Frequenzbereiche, die am stärksten durch Resonanzwirkung verstärkt werden.) Diese Formanten hängen auch von der Schallgeschwindigkeit c im entsprechenden Medium ab (cLuft = 350 m/s, cHelium = 1030 m/s). Beträgt zum Beispiel die Lage der ersten drei Formanten in Luft 220, 2270 und 3270 Hz, so ändert sich dies in (reinem) Helium zu 320, 3900 und 5500 Hz. Dadurch ergibt sich ein anderes Stimmbild und die Stimme erscheint insgesamt höher, selbst wenn die Höhe des Stimmtones durch das Edelgas unverändert bliebe.
+Einen ähnlichen Effekt gibt es, wenn ein (anfangs nur luftgefülltes) Blasinstrument mit Helium angeblasen wird.
+
+
+== Siehe auch ==
+Pomerantschuk-Effekt
+
+
+== Literatur ==
+P. Häussinger, R. Glatthaar, W. Rhode, H. Kick, C. Benkmann, J. Weber, H.-J. Wunschel, V. Stenke, E. Leicht, H. Stenger: Noble Gases. In: Ullmann's Encyclopedia of Industrial Chemistry. Wiley-VCH, Weinheim 2006 (doi:10.1002/14356007.a17_485).
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 417–429.
+F. A. Cotton, G. Wilkinson, C. A. Murillo, M. Bochmann: Advanced Inorganic Chemistry. Kap. 18. D. Wiley, New York 61999, ISBN 0-471-19957-5, S. 974.
+C. Haberstroh (2010): Flüssigheliumversorgung, Dresden, ISBN 978-3-941298-77-4.
+C. E. Housecroft, A. G. Sharpe: Inorganic Chemistry. Kapitel 22.8a. Pewson, Prentice Hall 2005, ISBN 0-13-039913-2. S. 666.
+Ekkehard Fluck, Klaus G. Heumann: Periodensystem der Elemente, Tafel. Wiley-VCH, Weinheim 2002, ISBN 3-527-30716-8.
+R. B. King (Hrsg.): Encyclopedia of Inorganic Chemistry. Bd. 8. D. Wiley, New York 1994, ISBN 0-471-93620-0. S. 4094.
+
+
+== Weblinks ==
+
+Jahresbericht des Bureau of Land Management (englisch, PDF, 76 KiB)
+Fribourg group for Atomic Physics (englisch)
+Low Temperature Laboratory Helsinki (englisch)
+
+
+== Einzelnachweise ==
+↑ Harry H. Binder: Lexikon der chemischen Elemente, S. Hirzel Verlag, Stuttgart 1999, ISBN 3-7776-0736-3.
+↑ Die Werte für die Eigenschaften (Infobox) sind, wenn nicht anders angegeben, aus www.webelements.com (Helium) entnommen.
+↑ Michael E. Wieser und Tyler B. Coplen: Atomic weights of the elements (IUPAC Technical Report) In: Pure and Applied Chemistry Vol. 83, No. 2, 2011, S. 359–396.
+↑ IUPAC, Standard Atomic Weights Revised 2013.
+↑ a b c Eintrag zu Helium in der GESTIS-Stoffdatenbank des IFA, abgerufen am 12. Juli 2009 (JavaScript erforderlich).
+↑ R. E. Glick: On the Diamagnetic Susceptibility of Gases. In: J. Phys. Chem. 1961, 65, 9, S. 1552–1555, doi:10.1021/j100905a020.
+↑ a b Yiming Zhang, Julian R. G. Evans, Shoufeng Yang: Corrected Values for Boiling Points and Enthalpies of Vaporization of Elements in Handbooks. In: Journal of Chemical & Engineering Data. 56, 2011, S. 328–337, doi:10.1021/je1011086.
+↑ L. C. Allen, J. E. Huheey: The definition of electronegativity and the chemistry of the noble gases.
+↑ Stoffdatenblatt Helium (verdichtet).
+↑ a b c Eintrag zu Helium. In: Römpp Online. Georg Thieme Verlag, abgerufen am 27. März 2013.
+↑ Spektrum der Sonne und die Anteile von Wasserstoff und Helium.
+↑ William Ramsay: Helium, a Gaseous Constituent of Certain Minerals. Part I. In: Proceedings of the Royal Society of London (1854-1905). 58, 1895, S. 80–89, doi:10.1098/rspl.1895.0010.
+↑ a b Kaltes Gas – heiss begehrt. In: Linde Technology, #1, 2008. Linde AG, 2008, S. 11–15, abgerufen am 13. September 2014 (PDF). 
+↑ hda: Edelgas, Nobelpreisträger warnt vor weltweitem Helium-Mangel, in Spiegel Online, Datum: 24. August 2010, Abgerufen: 30. Juni 2012.
+↑ a b Robert Gast: Inerte Gase, Das unterschätzte Element, in Spektrum.de, Datum: 29. Juni 2012, Abgerufen: 30. Juni 2012.
+↑ a b baden-wuerttemberg.de: Drucksache 15 / 2739 vom 26. November 2012.
+↑ The Encyclopedia of the Chemical Elements, S. 261.
+↑ Enns, Hunklinger (2000): Tiefentemperaturphysik, S. 13 ff.
+↑  Angelika Leute: Atomphysik: Suprafestes Helium entdeckt. In: Physik in unserer Zeit. 35, Nr. 6, WILEY-VCH, Weinheim 2004, S. 261, doi:10.1002/piuz.200490097.
+↑ Zur Umrechnung von in Kelvin angegebenen Energieeinheiten in Joule siehe Kelvin#Temperatur und Energie.
+↑ R. E. Grisenti, W. Schöllkopf, J. P. Toennies, G. C. Hegerfeldt, T. Köhler, M. Stoll: Determination of the Bond Length and Binding Energy of the Helium Dimer by Diffraction from a Transmission Grating. Phys. Rev. Lett. 85, 11, 2000, S. 2284–2287 (online).
+↑ 'Energie vom Mond', heise.de/tr, 31. August 2007.
+↑ Technisches Tauchen in Unterwasser, Ausgabe 05/2010 vom 13. April 2010.
+↑ ZZulV: Anlage 3 (zu § 5 Abs. 1 und § 7) Allgemein zugelassene Zusatzstoffe.
+↑ a b Jens Wiebe: Aufbau einer 300-mK-Ultrahochvakuum-Rastertunnelmikroskopie-Anlage mit 14-T-Magnet und Untersuchung eines stark ungeordneten zweidimensionalen Elektronensystems (PDF; 7,4 MB). Inauguraldissertation zur Erlangung des Doktorgrads des Fachbereichs Physik der Universität Hamburg. Vorgelegt von aus Hamburg, 2003. S. 17 (S. 23).
+↑ Helium-Verbot in Schlagschraubern geplant, Artikel auf www.motorsport-total.com, abgerufen am 10. November 2011.
+↑ http://www.auto-motor-und-sport.de/formel-1/f1-reglement-2012-whiting-erklaert-die-neuen-regeln-4517418.html Formel 1-Reglement 2012, Whiting erklärt die neuen Regeln, auto-motor-und-sport.de, November 2011. Abgerufen 29. April 2015.

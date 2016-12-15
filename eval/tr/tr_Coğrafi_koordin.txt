@@ -1,0 +1,7 @@
+= Jeodezi sistemleri, datumDeğiştir ==
+PD ya da RD (Potsdam Datum); NTF ('Nouvelle triangulation de la France'); CH1903 (Schweizer Datum 1903); ED50, ED77, ED79 gibi 1950 sonrası ED ('European Datum') sistemleri; NAD27, NAD83 gibi NAD (The North American Datum) sistemleri ve GRS80, WGS60, WGS64, WGS72, WGS84 (NAD83 ile aynıdır) gibi daha evrensel datumlar arasında, NATO askeri standardı olan ED50 1950'lerden itibaren Türkiye tarafından da benimsenmiş, ancak 2000'li yıllarda yerini daha evrensel durumdaki WGS84 ('World Geodetic System 1984') standardına bırakmaktadır.
+
+
+== Ayrıca bakınızDeğiştir ==
+Küresel koordinat sistemi
+GPS

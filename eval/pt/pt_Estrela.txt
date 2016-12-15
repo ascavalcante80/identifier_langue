@@ -1,0 +1,63 @@
+06, a estrela com a maior magnitude absoluta conhecida é a LBV 1806-20, com magnitude de -14,2. Esta estrela é pelo menos cinco milhões de vezes mais luminosa do que o Sol. As estrelas menos luminosas atualmente conhecidas estão localizadas no aglomerado NGC 6397. As anãs vermelhas mais fracas no aglomerado têm magnitude 26, enquanto uma anã branca de magnitude 28 foi também descoberta. Essas estrelas fracas são tão luminosas quanto uma vela de aniversário na Lua, quando vista da Terra.
+
+
+== Classificação ==
+
+A classificação atual das estrelas se originou no início do século XX, quando as estrelas foram classificadas de A a Q com base na força da linha de hidrogênio. Não se sabia na época que a maior influência nessa força era a temperatura; a força da linha de hidrogênio atinge um máximo a cerca de 9000 K e é mais fraca a temperaturas menores e maiores. Quando a classificação foi reordenada pela temperatura, ela ficou mais parecida com o esquema moderno.
+Há classificações diferentes de uma só letra para estrelas de acordo com os seus espectros, variando do tipo O, que são as muito quentes, até M, tão frias que podem se formar moléculas em suas atmosferas. As principais classificações em ordem decrescente de temperatura superficial são: O, B, A, F, G, K e M. Alguns tipos espectrais raros têm classificações especiais. As mais comuns desses tipos são L e T, que indicam as estrelas mais frias de pequena massa e as anãs marrons. Cada letra possui 10 subdivisões, numeradas de 0 a 9, em ordem decrescente de temperatura. Entretanto, este sistema se rompe a temperaturas extremamente altas: podem não existir estrelas classes O0 e O1.
+Além disso, as estrelas podem ser classificadas pelos efeitos da luminosidade encontrados em suas linhas espectrais, que correspondem ao seu tamanho espacial e são determinados pela gravidade superficial. Elas variam de 0 (hipergigantes) a V (anãs da sequência principal), passando pela III (gigantes). Alguns autores acrescentam a classe VII (anãs brancas). A maior parte das estrelas pertencem à sequência principal, que consiste das estrelas normais que queimam hidrogênio. Elas caem numa estreita banda diagonal quando representadas em gráfico considerando sua magnitude absoluta e o tipo espectral. O Sol é uma anã amarela G2V da sequência principal, de temperatura intermediária e tamanho comum.
+Nomenclaturas adicionais, na forma de letras minúsculas, podem se seguir ao tipo espectral, para indicar características peculiares do espectro. Por exemplo, um "e" pode indicar a presença de linhas de emissão, "m" representa níveis excepcionalmente altos de metais e "var" pode significar variações no tipo espectral.
+As estrelas anãs brancas têm a sua própria classe, que começa com a letra D, depois subdividida nas classes DA, DB, DC, DO, DZ e DQ, dependendo dos tipos de linhas predominantes encontradas no espectro. Esta denominação é seguida por um valor numérico que indica o índice de temperatura.
+
+
+== Estrelas variáveis ==
+
+Estrelas variáveis têm mudanças periódicas ou randômicas na luminosidade devido a propriedades intrínsecas ou extrínsecas. Das estrelas intrinsecamente variáveis, os tipos principais podem ser subdivididos em três grupos principais.
+Durante a sua evolução, algumas estrelas passam por fases em que podem se tornar variáveis pulsantes. Elas variam com o tempo em raio e luminosidade, expandindo-se e contraindo-se em períodos que variam de minutos a anos, dependendo do tamanho da estrela. Esta categoria inclui as Cefeidas e estrelas similares, bem como variáveis de longo ciclo, como Mira.
+Variáveis eruptivas são estrelas que passam por aumentos súbitos da luminosidade devido a erupções ou eventos de ejeção de massa. Este grupo inclui as protoestrelas, estrelas de Wolf-Rayet e estrelas eruptivas, bem como estrelas gigantes e supergigantes.
+As variáveis cataclísmicas ou explosivas passam por mudanças dramáticas em suas propriedades. Este grupo inclui as novas e supernovas. Um sistema binário de estrelas que inclui uma anã branca próxima pode produzir alguns tipos dessas explosões estelares espetaculares, incluindo a nova e a supernova Tipo 1a. A explosão é criada quando a anã branca acreta hidrogênio proveniente da estrela companheira, acrescentando massa até que o hidrogênio se funde. Algumas novas são recorrentes, apresentando explosões periódicas de amplitude moderada.
+As estrelas também podem variar em luminosidade por causa de fatores extrínsecos, como eclipses de binárias e estrelas rotativas que produzem manchas estelares extremas. Um exemplo notável de um eclipse de binária é Algol, que regularmente varia em magnitude de 2,3 para 3,5, num período de 2,87 dias.
+
+
+== Estrutura ==
+
+O interior de uma estrela estável está em estado de equilíbrio hidrostático: as forças em qualquer pequeno volume se contrabalançam quase exatamente. Em direção ao centro a força é a gravitacional e, para o exterior, a força se deve ao gradiente de pressão dentro da estrela. O gradiente de pressão é estabelecido pelo gradiente de temperatura do plasma pois a parte externa da estrela é mais fria do que o núcleo. A temperatura no núcleo de uma estrela da sequência principal ou uma gigante é da ordem de 107 K. A temperatura e pressão resultantes de um núcleo que queima hidrogênio são suficientes para que ocorra a fusão nuclear e para que seja produzida energia suficiente para impedir o colapso da estrela. 
+À medida que os núcleos atômicos são fundidos no núcleo, eles emitem energia na forma de raios gama. Esses fótons interagem com o plasma circundante, acrescentando energia térmica ao núcleo. As estrelas na sequência principal convertem hidrogênio em hélio, aumentando lenta, mas constantemente, a proporção de hélio no núcleo. Finalmente, o teor de hélio se torna predominante e a produção de energia cessa no núcleo. Para estrelas com mais de 0,4 massa solar, entretanto, a fusão ocorre numa camada que se expande lentamente em torno do núcleo degenerado de hélio.
+Além do equilíbrio hidrostático, o interior de uma estrela estável mantém um balanço de energia de equilíbrio térmico. Há um gradiente radial de temperatura em todo o interior, que resulta em um fluxo de energia para o exterior. O fluxo de energia que sai de qualquer camada dentro da estrela é exatamente igual ao fluxo que chega do interior.
+
+A zona de radiação é a região no interior da estrela onde a transferência por radiação é suficientemente eficiente para manter o fluxo de energia. Nesta região o plasma não é perturbado e não existe nenhum movimento de massa. Se isto não acontece, o plasma se torna instável e ocorre convecção, formando uma zona de convecção. Isto pode ocorrer, por exemplo, em regiões em que há fluxos de energia muito alta, tais como as proximidades do núcleo ou em regiões com alta opacidade, como no envoltório externo.
+A ocorrência de convecção no envoltório externo de uma estrela da sequência principal depende da massa. Estrelas com várias vezes a massa do Sol têm uma zona de convecção no interior profundo e uma zona de radiação nas camadas externas. Estrelas menores, como o Sol, são exatamente o oposto, com a zona de convecção localizada nas camadas externas. Estrelas anãs vermelhas com menos de 0,4 massa solar são totalmente convectivas, o que impede a acumulação de um núcleo de hélio. Para a maioria das estrelas, as zonas de convecção também variam com o tempo, à medida que a estrela envelhece e a constituição do seu interior se modifica.
+A parte de uma estrela que é visível para um observador é chamada fotosfera. Esta é a camada em que o plasma da estrela fica transparente para os fótons de luz, e a energia gerada no núcleo fica livre para se propagar para o espaço. É dentro da fotosfera que aparecem as manchas estelares, regiões de temperatura menor do que a média.
+Acima do nível da fotosfera está a atmosfera estelar. Numa estrela da sequência principal como o Sol, o menor nível da atmosfera é a fina região da cromosfera, onde as espículas aparecem e as erupções estelares começam. Ela é circundada por uma região de transição, onde a temperatura aumenta rapidamente numa distância de apenas 100 km. Para além desta está a coroa, um volume de plasma superaquecido que pode se estender por vários milhões de quilômetros. A existência de uma coroa parece depender de uma zona de convecção nas camadas externas da estrela. Apesar de sua alta temperatura, a coroa emite muito pouca luz. A região da coroa do Sol normalmente só é visível durante um eclipse solar.
+A partir da coroa, um vento estelar de partículas de plasma se expande para fora da estrela, propagando-se até interagir com o meio interestelar. Para o Sol, a influência do vento solar se estende por toda a região em forma de bolha chamada heliosfera.
+
+
+== Caminhos da reação de fusão nuclear ==
+
+Um conjunto de diferentes reações de fusão nuclear acontece no núcleo das estrelas, dependendo da sua massa e composição, como parte da nucleossíntese estelar. A massa final dos núcleos atômicos fundidos é menor do que a soma dos seus constituintes. Esta perda de massa é liberada como energia eletromagnética, de acordo com a relação de equivalência massa-energia E = mc2.
+O processo de fusão do hidrogênio é sensível à temperatura, portanto um aumento moderado na temperatura do núcleo resulta em um aumento significativo na taxa de fusão. Como resultado, a temperatura do núcleo de estrelas da sequência principal varia de 4 milhões de kelvin, para uma estrela pequena da classe M, até 40 milhões de kelvin, para uma estrela de grande massa da classe O. No Sol, com um núcleo a 10 milhões de kelvin, o hidrogênio se funde para formar hélio na reação em cadeia próton-próton:
+41H → 22H + 2e+ + 2νe (4.0 MeV + 1.0 MeV)
+21H + 22H → 23He + 2γ (5.5 MeV)
+23He → 4He + 21H (12.9 MeV)
+Essas reações resultam na reação global:
+41H → 4He + 2e+ + 2γ + 2νe (26.7 MeV)
+onde e+ é um pósitron, γ é um fóton de raio gama, νe é um neutrino e H e He são isótopos de hidrogênio e hélio, respectivamente. A energia liberada por esta reação está em milhões de elétron-volts, o que é na realidade uma pequena quantidade de energia. Entretanto, números enormes dessas reações ocorrem constantemente, produzindo toda a energia necessária para sustentar a emissão de radiação da estrela.
+Em estrelas com massas maiores, o hélio é produzido em um ciclo de reações catalisadas pelo carbono - o ciclo carbono-nitrogênio-oxigênio.
+Em estrelas evoluídas com núcleos a 100 milhões de kelvin e massas entre 0,5 e 10 massas solares, o hélio pode ser transformado em carbono no processo triplo-alfa, que usa o elemento intermediário berílio:
+4He + 4He + 92 keV → 8*Be
+4He + 8*Be + 67 keV → 12*C
+12*C → 12C + γ + 7.4 MeV
+Para a reação global:
+34He → 12C + γ + 7.2 MeV
+Em estrelas de grande massa, os elementos mais pesados também podem ser queimados em um núcleo em contração através dos processos de fusão do neônio e de fusão do oxigênio. O estágio final no processo de nucleossíntese estelar é o processo de fusão do silício, que resulta na produção do isótopo estável ferro-56. A fusão não pode avançar mais exceto por um processo endotérmico e, portanto, energia adicional só pode ser produzida pelo colapso gravitacional.
+O exemplo abaixo mostra o tempo requerido para uma estrela de 20 massas solares consumir todo o seu combustível nuclear. Como uma estrela da sequência principal da classe O, ela teria 8 vezes o raio solar e 62.000 vezes a luminosidade do Sol.
+
+
+== Ver também ==
+Constelação
+Dinâmica estelar
+Estrela escura
+Lista das maiores estrelas conhecidas
+
+
+== Referências ==

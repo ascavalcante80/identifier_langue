@@ -1,0 +1,59 @@
+Un ion est une espèce chimique électriquement chargée - atome ou groupes d'atomes - qui a gagné (ou perdu) un ou plusieurs électrons. Un ion n'est donc pas électriquement neutre. La valeur de la charge électrique est indiquée en exposant à la fin de la formule chimique de l'ion, en multiple de la charge électrique élémentaire e.
+Le mot « ion » a été formé en 1834 par le physicien anglais Michael Faraday par emprunt au grec ancien ἰόν (ion), se traduisant par « allant, qui va », participe présent neutre du verbe ἰέναι « aller ».
+
+
+== Histoire ==
+Le nom « ion » a été donné, en 1834, par le physicien britannique Michael Faraday, pour désigner les espèces chimiques responsables de la conductivité électrique dans les solutions. Faraday voulait expliquer le transport du courant dans les solutions d'électrolytes. Ce néologisme sert d'abord à désigner les espèces chimiques migratrices vers l'anode ou la cathode d'une pile ou d'une batterie : il provient simplement du grec iôn, participe présent du verbe ienai, aller. L'Académie des sciences l'enregistre dans la langue française en 1842. Faraday pense que la décomposition ionique est provoquée par le courant électrique. Mais les études ultérieures au voisinage des électrodes montrent des difficultés, en particulier pour comprendre l'apparition des produits de l'electrolyse aux électrodes. Pour garder une cohérence à la théorie, il faut se résoudre à affirmer que les ions apparaissent simplement, lorsque les sels se dissolvent naturellement dans des phases liquides et sont donc présents, antérieurement à toute excitation électrique ou application d'un champ électrique conséquent. L'explication de la dissolution des sels est longtemps restée une énigme : ce sont les physiciens et chimistes pionniers en électrochimie qui, étudiant la conductibilité électrique des solutions, ont soupçonné une possible voie de recherche. Theodor Grotthuss, Rudolf Clausius, Johann Wilhelm Hittorf, Edward Frankland, Wilhelm Ostwald, Svante August Arrhenius sont des partisans de la théorie de l'ionisation en solution.
+Dès 1853, Hittorf étudie les variations de concentrations au voisinage des électrodes. Il en conclut que les ions d'une solution migrent avec des vitesses différentes vers les électrodes. Il caractérise les ions par un nombre de transport et affirme que la conductivité est fonction de la réactivité chimique. Clausius démontre en 1857 la validité de la loi d'Ohm pour la solution d'électrolytes et postule l'existence d'ions libres avant toute application du champ électrique. Kohlrausch étudiant les électrolytes forts (entièrement dissociés) démontre que la conductivité limite d'une solution est la somme des mobilités électriques des ions. Les travaux théoriques de Jacobus Henricus van 't Hoff et François-Marie Raoult sur les solutions salines permettent vers 1880 la prise en compte globale de leurs propriétés : osmotiques, tonométriques, cryoscopiques et ébulliométriques.
+En 1885, le suédois Svante August Arrhenius répond à ce « cahier des charges » en proposant une explication théorique, acceptée non sans une profonde résistance durable par une majeure partie de la communauté scientifique, du mécanisme de conduction en solution, théorie pour laquelle il est récompensé plus tard par le prix Nobel de chimie en 1903. Cette théorie qui pose les fondements de la chimie ionique met aussi à l'épreuve : les considérations sur les équilibres, validant ainsi la loi de Guldberg et Waage, et les raisonnements de Marcellin Berthelot sur l'effet thermique des réactions.
+Des faisceaux d’ions de haute énergie sont utilisés en physique atomique, physique nucléaire et physique des particules (voir accélérateur de particules). Des faisceaux de basse énergie sont utilisés dans l'analyse des surfaces (voir SIMS).
+
+
+== Cation et Anions ==
+Les cations sont des ions chargés positivement. Les anions sont des ions chargés négativement.
+
+
+== Classification ==
+Les ions sont caractérisés par :
+La nature de leur charge :
+Cations : Ions chargés positivement
+Anions : Ions chargés négativement
+Zwitterions : Ions possédant en même temps des charges positives et négatives : Acides aminés...
+
+Le nombre d'atomes qui les composent :
+Monoatomiques : Ions constitués d’un seul atome
+Polyatomiques : Ions constitués de plusieurs atomes.
+
+Leur composition :
+Inorganique
+Organique
+
+Leur dépendance du pH :
+Ions forts : Complètement dissociés quel que soit le pH :
+Anions : Sulfonate, Sulfate, halogénures…
+Cations : Ammonium quaternaire, Na+, K+, Mg2+, Ca2+…
+
+Ions faibles : Dissociation partielle dépendante du pH :
+Anions : Carboxylate...
+Cations : Ammoniums tertiaire, secondaire et primaire...
+
+
+== Solides ioniques ==
+Les solides ioniques sont constitués d'un empilement alterné de cations et d'anions reliés par des liaisons dites « ioniques » ; la cohésion de l'ensemble est assurée par les forces électrostatiques. Par exemple, le sel de table (chlorure de sodium) est un empilement d'ions chlorure et d'ions sodium. Nombreux solides ioniques sont très solubles dans l'eau ou d'autres solvants polaires, car les ions y sont facilement solvatés (interaction favorable avec les molécules du solvant), même s'il existe des solides ioniques très peu solubles dans l'eau comme le chlorure d'argent ou le sulfate de baryum. Ces derniers composés sont obtenus comme précipités dans des méthodes analytiques basées sur des titrages.
+
+
+== Solutions ioniques ==
+Un liquide contenant des ions parmi le solvant est appelé solution ionique. Dans la solution, les ions se déplacent facilement sous l'effet d'un champ électrique, d'où la forte conductibilité électrique des solutions ioniques. La mesure de la conductivité électrique d'une solution (conductimétrie) permet donc d'estimer sa teneur globale en ions. Une solution ionique est électriquement neutre.
+Ainsi, l'eau des océans, qui constituent la plus importante réserve hydrique de la Terre, est riche en ions :
+La quantité de matière d'une espèce d'ions dans un volume de solution est appelé concentration molaire de cette espèce d'ions. Si S est la solution et X l'espèce d'ions, la concentration molaire est donnée par la relation :
+ d'où 
+Cependant, dans le langage courant, on utilise davantage la concentration massique, donnée par la relation :
+
+
+== Ionisation de composés moléculaires ==
+Dans certains corps moléculaires, certains atomes attirent plus les électrons de liaisons que d'autres. On dit alors que les liaisons entre atomes sont polarisées. Au contact d'un solvant polaire, comme l'eau, les molécules de ces composés tel l'acide sulfurique, l'ammoniac ou le dioxyde de carbone, se dissocient en ions au cours de la dissolution.
+
+
+== Électroneutralité ==
+Tout composé chimique étant électriquement neutre, s’il contient des ions, il contient alors nécessairement à la fois des cations et des anions, dans des proportions telles que la charge positive des cations compense exactement la charge négative des anions. Cette propriété est valable pour les solides comme pour les solutions ioniques.
+Exemple : le chlorure de calcium solide est constitué d'ions calcium Ca2+ et d'ions chlorure Cl−. La charge d'un ion calcium vaut +2e (2 charges élémentaires, tandis que celle d'un ion chlorure vaut -e ; pour que l'ensemble soit neutre, les proportions des ions sont d

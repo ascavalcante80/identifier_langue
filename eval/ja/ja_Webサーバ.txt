@@ -1,0 +1,32 @@
+NCSA HTTPd
+Internet Information Services
+AN HTTPD
+04webserver
+lighttpd
+Cherokee (web server)
+Hiawatha Webserver （英語版)
+thttpd
+RaidenHTTPD
+nginx
+Zope
+他
+
+
+== 個別の製品の特徴 ==
+Oracle HTTP Server
+RDBMSベンダであるオラクルが提供するWebサーバ (Oracle HTTP Server) においては、Java EEを使用したWebアプリケーションサーバと連携して、HTMLドキュメント内にデータベースに検索を行わせるためのSQL文を直接記述し、データベースからデータをHTMLベースで呼び出して加工する事が可能となっている。
+
+
+== 関連項目 ==
+インターネット
+ウェブブラウザ
+アプリケーションサーバ
+コンテンツマネージメントシステム (CMS)
+ホスティングサーバ
+FTPサーバ
+ドメインネームサーバ
+サーバ
+バーチャルホスト
+Server Side Includes (SSI)
+帯域幅調整 - トラフィックシェーピング
+サーバログ

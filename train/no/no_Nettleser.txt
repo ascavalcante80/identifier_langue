@@ -1,0 +1,34 @@
+En nettleser (engelsk web browser) er et program som vanligvis brukes til å vise innhold fra Internett som oftest finnes i HTML-formatet. Nettleserens jobb er å «oversette» HTML-kodene som angir plassering av tekst og eventuelt bilder, filmer og lignende og vise dette i henhold til koden. Nettlesere opererer vanligvis på den delen av Internett som kalles Verdensveven (WWW -- World Wide Web).
+
+
+== Protokoller og standarder ==
+Nettlesere bruker hovedsakelig HTTP for å snakke med webtjenere for å hente websider. HTTP tillater også nettlesere å sende informasjon til webtjeneren i tillegg til å hente sider fra dem. Den mest vanlige versjonen av HTTP er HTTP/1.1 som er spesifisert i RFC 2616. HTTP/1.1 har sine egne standardkrav, som ikke fullt ut er støttet av Internet Explorer, mens som de andre av dagens generasjon av nettlesere gjør.
+Sider lokaliseres ved hjelp av en URL. Denne behandles som en adresse og begynner med http: for HTTP kommunikasjon. Mange nettlesere støtter også andre URL-typer og deres tilhørende protokoller slik som ftp: for FTP, gopher: for Gopher og https: for HTTPS. HTTPS er en SSL kryptert versjon av HTTP.
+Filformatet for en webside er vanligvis HTML og er identifisert i HTTP protokollen ved hjelp av en MIME innholdstype. De fleste nettlesere støtter også en rekke andre formater i tillegg til HTML slik som JPEG, PNG og GIF bildeformater og kan ved hjelp av plugins bli utvidet til støtte mere. Kombinasjonen av HTTP innholdstype og URL protokollspesifikasjon tillater websideutviklere å inkludere bilder, animasjoner, filmsnutter, lyd og mediastrømmer til en webside eller å tilgjengeliggjøre dem på en webside.
+Tidlige nettlesere støttet kun en veldig enkel versjon av HTML. Den raske utviklingen av proprietære nettlesere som førte til dialekter som ikke fulgte standarden. Dette førte til problemer med å vise sider i enkelte lesere. Moderne nettlesere som Mozilla, Opera og Safari støtter standarder basert på HTML og XHTML (fra og med HTML 4.01) som skal vises på samme måte i alle nettlesere. Internet Explorer støtter ennå ikke fullt ut HTML 4.01 og XHTML 1.x ennå. Mange nettsteder er idag laget ved hjelp av WYSIWYG HTML generatorer som for eksempel Macromedia Dreamweaver og Microsoft Frontpage. Disse genererer normalt kode som ikke er standard HTML kode noe som hindrer arbeidet til W3C med å definere standarder, spesielt med XHTML og CSS som er benyttet for sidelayout.
+Noen av de mest populære nettleserne inneholder tilleggskomponenter for å støtte Usenet-nyheter, IRC og e-post. Støttede protokoller kan for eksempel være NNTP, SMTP, IMAP og POP.
+
+
+== Historie ==
+Tim Berners-Lee som pionerte bruken av hypertekst for informasjonsdeling laget den første nettleseren WorldWideWeb i 1990 og introduserte den til sine kolleger ved CERN i mars 1991. Siden da har utviklingen av nettleseren vært uadskillelig knyttet til utviklingen av selve Internett.
+Nettleseren ble sett på som en brukbar applikasjon for å håndtere CERNs store telefonkatalog. Brukerens bruk av leseren protokollene gopher/telnet som muliggjør enhver bruker med enkelhet å lese nettsteder som andre har skrevet. Det var dog den senere integreringen av grafikk i nettleseren som revolusjonerte Internett.
+Den eksplosive populariteten av nettet ble utløst av NCSA Mosaic som var en grafisk nettleser som kjørte opprinnelig på Unix, men ble fort skrevet for Apple Macintosh og Microsoft Windows plattformene. Versjon 1.0 ble sluppet i september 1993. Marc Andreessen som ledet Mosaic teamet ved NCSA sluttet for å danne et firma som senere skulle bli kjent som Netscape Communications Corporation.
+Netscape utga sitt hovedprodukt Navigator for første gang i oktober 1994 og det løsnet i løpet av det neste året. Microsoft som så langt ikke hadde vært med på internettbølgen kom nå på banen med sin Internettutforsker som de i all hast hadde kjøpt fra Spyglass, Inc. Dette startet Nettleserkrigen, kampen for nettlesermarkedet mellom programvaregiganten Microsoft og Netscape som bygde inn sine egne utvidelser av HTML i sine produkter. De forsøkte å få et fortrinn for sitt produkt. Krigen endte effektivt i 1998 da det ble klart at Netscapes fallende markedsandel var ureverserbar. Det var delvis på grunn av at Microsoft integrerte sin nettleser inn i sitt operativsystem og de tegnet OEM-kontrakter som gjorde at deres nettleser ble lagt ved leveranser. På grunn av dette ble det ført antimonopolsak mot Microsoft.
+Netscape sin respons var å gjøre sitt nettleser om til et åpen kildekode-prosjekt som resulterte i Mozilla. Dette bremset imidlertid ikke Netscapes fallende markedsandel. Firmaet ble kjøpt opp av America Online mot slutten av 1998. Til å begynne med hadde Mozilla-prosjektet problemer med å tiltrekke seg utviklere, men innen 2002 hadde den utviklet seg til å bli en relativt stabil og kraftfull applikasjonssamling for Internett. Mozilla 1.0 ble sluppet for å markere dette. I 2002 kom også et annet prosjekt på banen som bygget på samme kode og som ville resultere i den populære Mozilla Firefox nettleseren. I 2004 ble Firefox 1.0 sluppet. I 2005 har Mozilla og dens variasjoner ca. 10% av netttrafikken.
+I 1996 ble en rask norskutviklet nettleser ved navn Opera sluppet. Opera er blitt populær for håndholde enheter og har blitt en nisjespiller i nettlesermarkedet for PCer.
+Lynx nettleseren er helt tekstbasert og fortsatt populær blant dem som ikke kan eller vil bruke et grafisk grensesnitt. Det er også flere andre tekstmodus nettlesere med avanserte egenskaper slik som links og ELinks.
+Mens Macintosh tradisjonelt har vært dominert av Microsofts internettutforsker og Netscape, ser fremtiden dog ut til å tilhøre Apples egen Safari leser som er basert på KHTML motoren fra det åpne kildekodeprosjektet Konqueror sin nettleser. Safari er standard nettleser i Mac OS X.
+I 2003 annonserte Microsoft at internettutforskeren ikke lengre ville være tilgjengelig som et eget produkt, men ville være en del av videreutviklingen av deres Windows plattform, og at ingen flere versjoner ville bli sluppet for Macintosh. Dog så nylig som tidlig i 2005 endret Microsoft sine planer og annonserte at versjon 7 av internettutforskeren ville bli sluppet for deres Windows XP og Windows 2003 Server operativsystemer i tillegg til det fremtidige operativsystemet Windows Vista.
+
+
+== Liste over forskjellige nettlesere ==
+Gecko-baserte nettlesere
+Epiphany
+Firefox
+Galeon
+Netscape Navigator
+Mozilla
+Songbird
+Camino
+
+KHTML-baserte nettles

@@ -1,0 +1,27 @@
+Le Temps universel coordonné ou UTC (en anglais : « Coordinated Universal Time ») est une échelle de temps adoptée comme base du temps civil international par la majorité des pays du globe.
+
+
+== DescriptionModifier ==
+UTC est une échelle de temps comprise entre le Temps atomique international ou TAI qui est stable mais déconnecté de la rotation de la Terre et le Temps universel (TU), directement lié à la rotation de la Terre et donc lentement variable. Le terme « coordonné » indique que le Temps universel coordonné est en fait identique au Temps atomique international dont il a la stabilité et l’exactitude à un nombre entier de secondes près, ce qui lui permet de coller au Temps universel à moins de 0,9 s près.
+Coordinated Universal Time a été abrégé en UTC, au lieu de CUT correspondant au sigle en anglais ou de TUC correspondant au sigle en français. En effet, si les experts de l’Union internationale des télécommunications étaient d’accord pour définir une abréviation commune à toutes les langues, ils étaient divisés sur le choix de la langue. Finalement, c’est le compromis UTC, nécessitant un effort des deux parties, qui fut choisi. C’est cette notation qui est utilisée par la norme ISO 8601.
+
+
+== Temps atomique internationalModifier ==
+
+Le problème du Temps universel ou UT est qu’il définit le jour comme la durée moyenne de rotation de la Terre autour de son axe. Or, cette rotation n’est pas constante, elle ralentit lentement sous l’effet des marées et, de plus, présente des irrégularités imprévisibles : la durée des jours UT augmente donc très lentement en moyenne. Mais dans les années 1960 et jusqu’à ces dernières années, plusieurs activités dont la navigation astronomique et le suivi de sondes spatiales, avaient toujours besoin du Temps universel, c’est-à-dire se référaient toujours à la rotation terrestre, tout en nécessitant une échelle de temps la plus stable possible.
+Initialement, avant l’instauration du TAI, le temps atomique délivré par les horloges atomiques était modifié en fréquence pour suivre la rotation terrestre et faire en sorte que la différence UTC − UT reste dans une limite fixée. Ce système devint vite lourd et trop compliqué à mettre en œuvre. C’est pour remédier à tous ces problèmes qu’en 1972 on instaura un Temps atomique international ou TAI intangible et on lia UTC à ce TAI.
+UTC a la même marche et la même fréquence que le TAI mais en diffère par un nombre entier de secondes. Pour faire en sorte que la différence entre UTC et UT reste inférieure à 0,9 s, tout en assurant un écart d’un nombre entier de secondes par rapport au temps atomique, UTC est occasionnellement incrémenté ou décrémenté d’une seconde atomique entière.
+Le TAI est établi par le Bureau international des poids et mesures, à partir de plus de 400 horloges atomiques réparties dans plus de 70 laboratoires dans le monde. Ces horloges de référence sont majoritairement des horloges atomiques au césium, mais des masers à hydrogène et quelques horloges atomiques au rubidium sont aussi utilisés.
+
+
+=== Détails et mise en œuvreModifier ===
+Afin de garder le Temps universel coordonné synchronisé avec la rotation de la Terre, une seconde intercalaire (en anglais : « leap second ») est donc parfois rajoutée, ou retranchée, à la fin des mois de juin ou de décembre. Jusqu’à présent ces secondes intercalaires ont toujours été ajoutées, jamais retranchées : le temps UTC retarde donc sur le temps TAI. Ces insertions ne sont pas systématiques, elles sont décidées par l’International Earth Rotation and Reference Systems Service ou IERS, basé en particulier à l’Observatoire de Paris, au vu de l’évolution de la rotation terrestre.
+Pour ajouter ou retrancher une seconde, le décompte du temps affiché par les horloges atomiques est simplement modifié :
+En temps normal, au passage de minuit UTC, l’horloge atomique indiquerait 23 h 59 min 59 s puis 0 h 0 min 0 s.
+Pour ajouter une seconde, on lui fait afficher 23 h 59 min 59 s puis 23 h 59 min 60 s et enfin 0 h 0 min 0 s. Une deuxième horloge atomique sur laquelle on ne serait pas intervenu afficherait alors 0 h 0 min 1 s : la première a bien pris une seconde de retard.
+Pour retrancher une seconde, on lui ferait afficher 23 h 59 min 58 s puis 0 h 0 min 0 s. Ainsi, une deuxième horloge atomique sur laquelle on ne serait pas intervenu afficherait alors 23 h 59 min 59 s : la première a bien pris une seconde d’avance.
+La modification de l’affichage se fait automatiquement. Il suffit de programmer la date à laquelle le saut de seconde doit avoir lieu.
+
+
+=== HistoriqueModifier ===
+Le 1er janvier 2006, ajout d’une seconde. Le décalage entre UTC et TAI passe à 33 secondes, après avoir été de 32 secondes durant 7 an

@@ -1,0 +1,8 @@
+భూమి మీద ఒకే వేళకు ఒకే సమయాన్ని పాటించే ప్రాంతాలను కలిపి ఒక సమయ ప్రాంతంగా పరిగణిస్తారు. సాధారణంగా పక్కపక్కన ఉండే సమయ ప్రాంతాలు ఒక గంట తేడాలో ఉంటాయి. సాంప్రదాయికంగా గ్రీన్విచ్ మీన్ టైముతో పోల్చి తమ స్థానిక సమయాన్ని లెక్కవేస్తాయి.
+
+
+== బయటి లింకులుసవరించు ==
+The tz database - Provides specific information on the beginning and ending dates of daylight saving time for each zone and tracks time zones over the years. Often called tz or zoneinfo, this database is used by several implementations, including the GNU C library used by many Unix variants.
+Animated time zones - Shows the relationship between arbitrary time zones and "natural" zones
+US Official Time Clock - Java enabled clock to graphically display night and day around the globe.
+The World Clock -

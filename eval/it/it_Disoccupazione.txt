@@ -1,0 +1,74 @@
+a offrire in base al salario atteso uguale al rapporto tra il salario nominale e il livello dei prezzi percepito pertanto:
+
+Chiaramente l'offerta di lavoro aumenta con l'aumentare del salario atteso quindi calcolando la funzione h inversa di g si ha:
+
+con 
+Ricavando W dalla prima e sostituendola nell'altra nell'ipotesi che la domanda di lavoro eguagli l'offerta di lavoro si ottiene:
+
+e quindi:
+
+che si può scrivere nella forma:
+
+integrando ambo i membri rispetto a L si ottiene:
+ con c costante di integrazione arbitraria.
+Ora imponendo la condizione che in corrispondenza di  il PIL assuma il valore  si ricava la costante 
+Sostituendo c si ottiene:
+
+Quindi esistono 4 possibilità:
+Se aumenta il PIL rispetto a  e il salario reale diminuisce (o attraverso un aumento dell'inflazione con emissione di moneta da parte della Banca Centrale o attraverso una diminuzione del salario nominale) cresce pure il numero di occupati.
+Se aumenta il PIL in modo maggiore dell'aumento del salario reale cresce anche il numero di occupati.
+Se aumenta il PIL e il salario reale rimane invariato cresce anche il numero di occupati.
+Se diminuisce il PIL indipendentemente dal fatto che il salario reale cresca, diminuisca o resti invariato, diminuisce anche il numero di occupati.
+In base a recenti analisi della Bank for International Settlements, il valore nominale dei contratti derivati a livello mondiale alla fine del 2007 è stata stimata in oltre 600 trilioni di dollari, pari a 11 volte il PIL dell’intero pianeta (10 anni fa tale valore non superava i 75 trilioni di dollari).In altri termini, con tutti i vantaggi e i privilegi che si sono creati,risulta più conveniente investire nei mercati finanziari in luogo di un sano reinvestimento di capitali nell’economia reale.Questo è il motivo di precarietà e disoccupazione.
+
+
+== Bibliografia ==
+Pierluigi Ciocca (a cura di), Disoccupazione di fine secolo. Studi e proposte per l'Europa, Bollati Boringhieri, Torino, 1997, ISBN 978-88-33-91051-2.
+Paolo Crepet. Le malattie della disoccupazione. Ed. Lavoro, Roma, 1990
+Enrico Pugliese, Sociologia della disoccupazione, il Mulino, Bologna, 1993.
+Paolo Savona, La disoccupazione e il terzo capitalismo, Sperling & Kupfer, 1997
+
+
+== Voci correlate ==
+Politica economica
+Curva di Phillips
+Domanda di lavoro e Offerta di lavoro
+Mercato
+Mercato del lavoro
+Salario
+Sindacato
+Tasso di disoccupazione
+Disoccupazione europea
+NEET
+Flessibilità (lavoro)
+Indici per il mercato del lavoro
+Disoccupazione ordinaria
+
+
+== Note ==
+^ F. A. Hayek, The Constitution of Liberty, Chicago, University of Chicago Press, 1960.
+^ a b Alain Anderton, Economics, Fourth, Ormskirk, Causeway, 2006, ISBN 1-902796-92-6.
+^ P. Garegnani, Heterogeneous Capital, the Production Function and the Theory of Distribution, in Review of Economic Studies, vol. 37, nº 3, 1970, pp. 407–436, JSTOR 2296729.
+^ Robert L. Vienneau, On Labour Demand and Equilibria of the Firm, in The Manchester School, vol. 73, nº 5, 2005, pp. 612–619, DOI:10.1111/j.1467-9957.2005.00467.x.
+^ Arrigo Opocher e Ian Steedman, Input Price-Input Quantity Relations and the Numéraire, in Cambridge Journal of Economics, vol. 3, nº 5, 2009, pp. 937–948, DOI:10.1093/cje/bep005.
+^ Michael Anyadike-Danes e Wyne Godley, Real Wages and Employment: A Skeptical View of Some Recent Empirical Work, in The Manchester School, vol. 62, nº 2, 1989, pp. 172–187, DOI:10.1111/j.1467-9957.1989.tb00809.x.
+^ Graham White, The Poverty of Conventional Economic Wisdom and the Search for Alternative Economic and Social Policies, in The Drawing Board: An Australian Review of Public Affairs, vol. 2, nº 2, 2001, pp. 67–87.
+^ Murray Rothbard, America's Great Depression, Princeton, Van Nostrand, 1963, p. 45.
+^ Richard Vedder e Lowell Gallaway, Out of Work: Unemployment and Government in the Twentieth-Century America, New York, NYU Press, 1997, ISBN 0-8147-8792-4.
+^ John Maynard Keynes, The General Theory of Employment, Interest and Money, Basingstoke, Hampshire, Palgrave Macmillan [1936], 2007, ISBN 0-230-00476-8. 
+^ Seymour E. Harris, The New Economics: Keynes' Influence on Theory and Public Policy, Kessinger Publishing, 2005, ISBN 1-4191-4534-7.
+^ Marx, Karl (2009). Capital: An Abridged Edition. Edited by David McLellan, Oxford Paperbacks, Oxford, UK. ISBN 978-0-19-953570-5.
+^ Karl Marx, The Communist Manifesto, marxists.org. URL consultato il 22 ottobre 2010.
+^ Josh Bivens e Heidi Shierholz, Lagging Demand, Not Unemployability, Is Why Long-term Unemployment Remains So High, Economic Policy Institute.
+
+
+== Altri progetti ==
+
+ Wikiquote contiene citazioni sulla disoccupazione
+ Wikizionario contiene il lemma di dizionario «disoccupazione»
+ Wikimedia Commons contiene immagini o altri file sulla disoccupazione
+
+
+== Collegamenti esterni ==
+Dati disoccupazione ed impiego in Italia
+Disoccupazione - Cronache della memoria La Storia siamo noi

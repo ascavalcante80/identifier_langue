@@ -1,0 +1,70 @@
+Der Elastizitätsmodul (auch Zugmodul, Elastizitätskoeffizient, Dehnungsmodul, E-Modul oder Youngscher Modul, benannt nach dem englischen Arzt und Physiker Thomas Young) ist ein Materialkennwert aus der Werkstofftechnik, der den Zusammenhang zwischen Spannung und Dehnung bei der Verformung eines festen Körpers bei linear elastischem Verhalten beschreibt.
+Der Elastizitätsmodul wird mit E-Modul oder als Formelzeichen mit E abgekürzt und hat die Einheit einer mechanischen Spannung. Der Plural von „der Elastizitätsmodul“ lautet „die Elastizitätsmoduln“.
+Der Betrag des Elastizitätsmoduls ist umso größer, je mehr Widerstand ein Material seiner elastischen Verformung entgegensetzt. Ein Bauteil aus einem Material mit hohem Elastizitätsmodul (z. B. Stahl) ist also steifer als ein Bauteil gleicher Konstruktion (gleichen geometrischen Abmessungen), welches aus einem Material mit niedrigem Elastizitätsmodul (z. B. Gummi) besteht.
+Der Elastizitätsmodul (bzw. in anderer Notation die Federkonstante) ist die Proportionalitätskonstante im Hookeschen Gesetz. Bei anisotropen, insbesondere bei kristallinen Materialien ist der Elastizitätsmodul jedoch richtungsabhängig und muss durch den Elastizitätstensor beschrieben werden, dessen Komponenten durch die elastischen Konstanten vereinfacht dargestellt werden. Die elastischen Konstanten sind Materialkonstanten und können innerhalb eines realen Festkörpers variieren.
+
+
+== DefinitionBearbeiten ==
+
+Der Elastizitätsmodul ist als Steigung des Graphen im Spannungs-Dehnungs-Diagramm bei einachsiger Belastung innerhalb des linearen Elastizitätsbereichs definiert. Dieser lineare Bereich wird auch als Hookesche Gerade bezeichnet.
+
+Dabei bezeichnet (=Kraft/Fläche) die mechanische Spannung (Normalspannung, nicht Schubspannung) und  die Dehnung. Die Dehnung ist das Verhältnis von Längenänderung  zur ursprünglichen Länge . Die Einheit des Elastizitätsmoduls ist die einer Spannung:
+E in , in SI-Einheiten: E in  (Pascal)
+Der Elastizitätsmodul wird als Materialkonstante bezeichnet, da mit ihm und den Querkontraktionszahlen das Elastizitätsgesetz aufgestellt wird. Der Elastizitätsmodul ist aber nicht bezüglich aller physikalischen Größen konstant. Er hängt von verschiedenen Umgebungsbedingungen wie z. B. Temperatur, Feuchte oder der Verformungsgeschwindigkeit ab.
+
+
+=== AnwendungBearbeiten ===
+Bei ideal linear elastischem Werkstoffgesetz (Proportionalitätsbereich im Spannungs-Dehnungs-Diagramm) ergibt sich die Federkonstante c eines geraden Stabes aus seiner Querschnittsfläche A, seiner Länge  und seinem Elastizitätsmodul E.
+
+Mit den Ausdrücken  für die Spannung und  für die Dehnung erhält man aus obiger Gleichung das Hookesche Gesetz für den einachsigen Spannungszustand
+
+und daraus den E-Modul
+
+
+=== Typische ZahlenwerteBearbeiten ===
+Hinweise zur Einheitenumrechnung:
+ (ein Newton pro Quadratmillimeter ist ein Megapascal)
+ (ein Kilonewton pro Quadratmillimeter ist ein Gigapascal)
+Bei flächigen Bauteilen wird mit Flüssen an Stelle von Spannungen gerechnet . Daher setzt man hier einen dickenbezogenen Elastizitätsmodul ein, was einer Steifigkeit entspricht. Diese Größe hat die Einheit .
+
+
+== Beziehungen elastischer KonstantenBearbeiten ==
+Neben dem Elastizitätsmodul wird der Schubmodul, auch Scher- oder G-Modul genannt, verwendet, der bei Torsion gemessen wird und je nach Querkontraktionszahl das 0,33- bis 0,5-fache des Elastizitätsmoduls beträgt. Bei steifen Materialien wird meistens der Elastizitätsmodul gemessen, bei weichen (Gele, Polymer-Schmelzen) der Schubmodul, da sich der Elastizitätsmodul bei solchen Systemen meist nicht mehr gut messen lässt, weil sich die Probe unter ihrem eigenen Gewicht verformt, das sog. Sagging.
+Es gilt für ein linear-elastisches, isotropes Material folgender Zusammenhang zwischen dem Schubmodul G, dem Kompressionsmodul K und der Poissonzahl ν:
+
+
+== Häufige MissverständnisseBearbeiten ==
+
+
+=== „Bezug E-Modul zu anderen Materialkonstanten?“Bearbeiten ===
+Häufig wird der Elastizitätsmodul mit anderen Materialkennwerten in Verbindung gebracht. Dies ist jedoch nicht einfach:
+Der E-Modul hat keinen strengen Bezug zur Härte des Materials
+Der E-Modul hat keinen strengen Bezug zur Streckgrenze  des Materials
+Der E-Modul hat keinen strengen Bezug zur Zugfestigkeit  des Materials
+Ein einfacher Baustahl hat (fast) den gleichen E-Modul wie ein hochlegierter, hochfester rostfreier Edelstahl, d. h., beide verformen sich bei gleicher Belastung nahezu gleich. Allerdings kann der „bessere“ Werkstoff deutlich höher belastet (und dabei natürlich auch stärker verformt) werden als der „einfache“.
+Es gibt aber einen generellen Trend:
+Der E-Modul eines Metalls steigt mit seiner Schmelztemperatur.
+Wolfram hat einen höheren E-Modul als Eisen, als Kupfer, als Aluminium, als Blei.
+Außerdem gilt:
+Der E-Modul von kubisch raumzentrierten Metallen ist (bei vergleichbarer Schmelztemperatur) höher als der von kubisch flächenzentrierten.
+Der Grund für die Zusammenhänge ist, dass sowohl der E-Modul als auch die Schmelztemperatur der Metalle von der Kraft-Abstands-Kurve der Atome abhängig sind.
+
+
+=== „Spannungsreduktion durch besseres Material?“Bearbeiten ===
+Spannungen im Material hängen nur von der Last (einwirkende Kräfte) und der Geometrie ab (Kraft pro Fläche), nicht vom gewählten Material. In Fällen „statischer Überbestimmtheit“ (z. B. Durchlaufträger, behinderte Wärmeausdehnung, Bewegungen schwimmender Körper im Wellengang oder im Tidenhub) sind die Kräfte und Spannungen abhängig von der Steifigkeit des statischen Systems. In solchen Fällen können Werkstoffe mit niedrigerem Elastizitätsmodul dazu führen, dass Bauteilspannungen reduziert werden.
+
+
+=== „E-Modul ≠ Steifigkeit“Bearbeiten ===
+Die Steifigkeit eines Bauteils hängt ab vom verwendeten Material und der Verarbeitung, aber auch von der Geometrie des Bauteils. Beim einachsig gespannten Zugstab ist die Dehnsteifigkeit das Produkt aus E-Modul und Querschnittsfläche, beim Biegebalken hängt die Biegesteifigkeit vom E-Modul und dem Flächenträgheitsmoment des Balkens ab. Bei Seilen ist die Steifigkeit außer vom Material sehr stark von der Flechtart abhängig.
+Für komplexe Geometrien lässt sich kein einfacher Ausdruck für die „Steifigkeit“ formulieren. Mit Hilfe der Finite-Elemente-Methode lassen sich diese mittels einzelner Elemente nachbilden und mit einer hierfür aufgestellten Gesamtsteifigkeitsmatrix lösen.
+
+
+=== „σ = E ⋅ ε“Bearbeiten ===
+Die Beziehung  gilt nur für den einachsigen Zug. Im allgemeinen 2D- oder 3D-Spannungszustand muss das Hookesche Gesetz in seiner allgemeinen Form angewandt werden – hier kommen mehrere Spannungen in jeden Dehnungsterm, und mehrere Dehnungen in jeden Spannungsterm, z. B.
+ .
+Hier bezeichnet  die Poissonzahl.
+Eine Bestimmung der Dehnung, z. B. mittels Dehnungsmessstreifen oder Speckle-Interferometrie ist also noch keine Bestimmung der Spannungen im Bauteil.
+
+
+== Zweiachsige SpannungszuständeBearbeiten ==
+Beim Übergang vom einachsigen (uniaxialen) in den zweiachsigen (biaxialen) Spannungszustand können für homogene, isotrope Materialien zwei einfache Sonderfälle unterschieden werden. Dabei wird aufgrund der B

@@ -1,0 +1,5 @@
+Een webpagina is een pagina op het world wide web. Webpagina's bestaan uit HTML- of XHTML-code en zijn bedoeld om met een webbrowser bekeken te worden. De browser zet de broncode om naar een leesbare pagina. Door hypertekst links in de HTML-code kan eenvoudig van de ene pagina naar de andere worden genavigeerd, een bezigheid die ook wel surfen op het internet wordt genoemd.
+
+
+== Webpagina en URLBewerken ==
+Elke webpagina heeft in principe een eigen uniek adres in de vorm van een URL. Daar zijn echter uitzonderingen op, sommige webpagina's worden dynamisch gegenereerd door een programma of script (zie ook server-side scripting), waardoor dezelfde URL een andere pagina kan tonen op basis van acties van de gebruiker of andere variabele factoren (soort browser, cookies, tijd etc). Het bestaan van frames is ook verwarrend voor de een-op-eenrelatie tussen een webpagina en een URL. Frames maken het namelijk mogelijk dat binnen een webpagina (met een URL) meerdere andere webpagina's (met ieder een eigen URL) kunnen worde

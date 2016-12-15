@@ -1,0 +1,17 @@
+En webbplats är en sammanhängande samling av texter, dokument, bilder och multimedia som lagras på en webbserver, och som är nåbar över webben (det vill säga, genom kommunikation över Internet med protokollet HTTP).
+För att besöka en webbplats används en webbläsare där webbplatsens adress, dess URL, anges. Olika bitar information – webbsidor, bilder etcetera – hämtas från webbplatsen när besökaren önskar se dem. Hyperlänkar gör att vissa ord kan leda vidare till andra sidor och kan även leda till information på andra webbplatser. För att kunna göra en webbplats tillgänglig för andra behövs en webbserver (ofta hyrs plats på ett webbhotell). Man brukar komma åt en webbplats genom IP-adress men man brukar oftast använda ett Domännamn . Webbplatsen byggs främst upp genom programmering där grunden består av HTML följt av Cascading Style Sheets och Javascript . Det finns företag som utvecklar webbplatser åt andra företag eller privatpersoner, så kallade webbyråer.
+
+
+== Nomenklatur ==
+Webbplats kallas också informellt för sajt, webbsajt, website med flera anglicismer.
+Ordet webbplats används ibland felaktigt med betydelsen ”webbsida”, det vill säga en enskild sida på en webbplats.
+Ordet hemsida (engelska: Home page) används också ibland som synonym till webbplats, i synnerhet en personlig webbplats, men kan även ha andra betydelser. På grund av detta rekommenderar Svenska datatermgruppen att man undviker ordet till förmån för mer precisa ord som ”webbplats”, ”webbsida”, ”ingångssida” och ”startsida” i de olika betydelserna.
+
+
+== Se även ==
+Webbdesign
+Webbutveckling
+Webbhotell
+
+
+== Ref

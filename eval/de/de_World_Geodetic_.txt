@@ -1,0 +1,10 @@
+rt und wird deshalb vom GPS-Kontrollsegment weiterhin verwendet, um an die mit dem neueren Wert prognostizierten Satellitenpositionen Kepler-Ellipsen anzupassen, deren Parameter den GPS-Empfängern als Ephemeriden übermittelt werden.
+Zur Epoche 1989.0 waren das ITRS und das ETRS innerhalb der Messgenauigkeit identisch. Letzteres ist aber über Fundamentalstationen an die Eurasische Platte verbunden und bewegt sich mit 2,5 cm pro Jahr gegen das globale System.
+
+
+== Gebrauch des SystemsBearbeiten ==
+Momentan (Stand 2000) sind 123 lokale Daten an das WGS-84-Ellipsoid angebunden, was die Konvertierung von Positionsangaben zwischen den Koordinatensystemen wesentlich vereinfacht. Der Standard WGS 84 wurde durch Beschluss der ICAO 1989 für die Luftfahrt übernommen.
+
+
+== WeblinksBearbeiten ==
+NIMA – National Imagery and Mapping Agency: Department of Defense World Geodetic System 1984; Technical Report, TR 8350.2, 3rd edition; January 2000 (PDF; 1,4 MB)

@@ -1,0 +1,7 @@
+Un minuto de arco, denominado también minuto sexagesimal, abreviado arcmin, es una unidad del ángulo plano frecuentemente utilizada en artillería, astronomía y otras disciplinas, equivalente a 1/60 de un grado sexagesimal.
+Un grado se define como 1/360 de un círculo, de manera que un arcmin es 1/21600 del arco de un círculo o π/10800 radianes. Generalmente se utiliza el índice prima (′), por lo que un minuto de arco se escribe entonces 1′.
+
+
+== Símbolos, abreviaturas y subdivisionesEditar ==
+El símbolo estándar que marca el minuto de arco es (′) "prima" o "comilla". El caracter numerado (U+0027) es de uso general para sustituir a la comilla en aquellas aplicaciones donde sólo están permitidos los caracteres ASCII. Un minuto de arco se escribe 1′. También es abreviado como "arcmin" o "amin", o menos comúnmente, se utiliza la comilla prima con un circumflejo sobre ella ().
+La subdivisión del minuto de arco es el segundo de arco, o arcosegundo. Hay 60 segundos de arco en un minuto de arco. Por lo tanto, el segundo de arco es 1/3600 de un grado, o 1/1296000 de un círculo completo, o (π/648000) radianes, es decir, aproximadamente 1/206265 radianes. El símbolo del segundo de arco es la doble comilla prima (") (U+2033 cuando sólo se pueden utilizar caracteres ASCII). Para expresar los ángulos todavía más pequeños, pueden ser empleados los prefijos del SI estándar. En particular, el miliarcosegundo, abreviado mas, se utiliza a v

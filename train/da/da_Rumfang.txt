@@ -1,0 +1,32 @@
+Rumfang er betegnelsen for størrelsen af det rum, som afgrænses af et 3-dimensionalt lukket legemes overflade. Sagt på en anden måde, er det hvor meget et objekt fylder i det 3 dimensionale rum. Dette kan bl.a. illustreres ved at nedsænke et lukket emne i vand, og derpå måle hvor meget vand det forskyder. I formler benyttes ofte betegnelsen V for rumfanget. V står for volumen, det latinske ord for skriftrulle.
+Der findes mange forskellige enheder til angivelse af mål for rumfang. Mange af de ældre rumfangenheders omregningsfaktorer er forskellige fra land til land. SI-enheder med evt. tilhørende SI-præfiks er derimod ens overalt. Den afledte SI-enhed for rumfang er Kubikmeter, m³. Den kan have et SI-præfiks og se således ud: dm³. 1 dm³ = 1 l (Liter). 1 m³ = 1000 dm³.
+
+
+== Ikke-SI-enheder i anvendelse i dag ==
+Registerton
+kubikfod (eng. cubic foot, cubic feet)
+kubik-yard (eng. cubic yard)
+
+
+== Beregning af rumfang ==
+Rumfanget af nogle geometriske figurer beregnes således:
+For uregelmæssige legemer må rumfanget beregnes ved brug af integration.
+
+
+== Andre enheder ==
+Anker (0,03766 m³)
+Pægl (0,00024 m³)
+Pot (0,00097 m³) = 4 pægle
+Album (0,00145 m³)
+Kande (0,00193 m³)
+Ottingkar (0,00217 m³)
+Fjerdingkar (0,00435 m³)
+Viertel (0,00773 m³) = 8 potter = ¼ dansk kubikfod
+Otting (0,01642 m³)
+Skæppe (0,01740 m³)
+Bimpel (0,01883 m³)
+Kubikfod (0,03090 m³) = 32 potter
+Fjerding (0,03285 m³)
+Anker (0,03766 m³) = 39 potter
+Tønde tjære (ca. 0,116 m³)
+Tønde øl (0,13140 m³) = 136 

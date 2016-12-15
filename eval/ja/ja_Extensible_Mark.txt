@@ -1,0 +1,231 @@
+「特定の『階層構造ではない』統合されていない中立的な形式での、[データの]モデリングと格納と転送」を対象としている。 特許申請によると、この2つの特許は1997年と1999年に出願された。 Scientigoの最高経営責任者 (CEO) である Doyal Bryant は、この2つの特許を「金銭に換える」という願望を述べたが、同社は「世界を敵にするつもりはない」と言明した。 Bryant は、Scientigoは自社の2つの特許についていくつかの大企業と話し合っていると述べた。
+XMLを使う人々や企業に在籍していない専門家たちは、Scientigoの主張に対して懐疑的で批判的な立場で反応した。 一定の人々は、Scientigoをパテント・トロールであると述べた。 ティム・ブレイは、この2つの特許がXMLを対象とするという主張は「ばかげている」と述べた。
+XMLに関係する多くの先行技術がSGMLを含めて存在している。
+
+
+== XMLに対する支持と批判 ==
+多くの論者がXMLに対してさまざまな批判を行ってきた。 こうした批判は、XMLの長所と潜在的な欠点に対する言及を含んでいる。
+
+
+=== XMLの長所 ===
+XMLはテキストに基づいた技術である。
+XMLはUnicodeの文字集合を扱うことができる。Unicodeを採用したことにより、どのような自然言語の書き言葉であってもほとんどの情報を通信の対象とすることができる。
+XMLは汎用的にコンピュータ科学のデータ構造を表現することができる。例えば、レコード（構造体）、リスト、木構造などを表現することができる。
+XMLの自己文書化という形式は、構造とフィールド名とともに値も記述することができる。
+XMLの厳密な構文と構文解析の要件があるため、XMLプロセサ (XMLパーサ) のアルゴリズムは非常に簡潔で効率よく一貫性のあるものとなる。
+XMLは文書データベースおよび文書処理のための技術として、スタンドアロン環境においてもネットワーク環境においても、非常によく活用されている。
+XMLは国際標準に基づいている。
+XMLでは、RELAX NG やスキマトロンのようなスキーマ言語を使うことで妥当性検証を行うことができる。こうした妥当性検証の機構は次のことを容易にする。
+有効な単体テスト
+有効な防火壁 (ファイアウォール)
+有効な受け入れテスト
+契約に基づく有効な仕様
+有効なソフトウェア構築
+
+XMLの階層構造は、(全てではないが) ほとんどの種類の文書の表現に向いている。
+XMLはプレーンテキストとして表現される。プレーンテキストは、他のプロプライエタリな文書形式と比べて制限が少ない。
+XMLはプラットフォーム独立である。このため技術の移り変わりによる影響に比較的強い。
+XML文書は、スキーマが変更されても、前方互換性と後方互換性を保持することは、比較的容易である。
+XMLの前身であるSGMLは、1986年から使われつづけてきている。そのため大量に蓄積された経験やソフトウェアを活用することができる。
+整形式XML文書の要素の断片もまた、整形式のXML文書である。
+
+
+=== XMLの短所 ===
+XML文書の構文は、同じ情報を表すバイナリ表現と比べて、冗長でサイズが大きい。
+XML文書は冗長であり、記憶装置、転送、処理のコストの面で、効率的な運用に悪い影響を与える可能性がある。
+XML文書の構文は、他の「テキストに基づく」データ転送形式と比べて冗長である。
+XMLはその前身であるSGMLよりも簡素化されたとはいえ、その処理は決して軽くはなく、インターネット上のプロトコルなど速度と軽さが要求される分野では、採用が見送られることがしばしばある。
+XMLが表現形式として採用している階層型モデルは、関係モデルやオブジェクト指向グラフと比べると制限が大きい。
+オーバーラップする (階層構造ではない) 節 (ノード) の関連を表現するには、余分な努力が必要である。
+XML名前空間を使うことには問題がともなう。名前空間を正しく扱うXMLプロセサを実装することは、難しい作業になる可能性がある。
+XMLは、「自己文書化」として表現されることが多い。しかしこの表現では、重大なあいまいさがあることを考慮していない。
+XML文書における内容と属性の区別は、一定の人々にとっては不自然に感じられる。XMLのデータ構造の設計を難しくする要因となっている。
+
+
+== 標準化 ==
+先述したISOの標準群のほかに、XML関連では次の文書が発行されている。
+ISO/IEC 8825-4:2002 Information technology -- ASN.1 encoding rules: XML Encoding Rules (XER)
+ISO/IEC 8825-5:2004 Information technology -- ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1
+ISO/IEC 9075-14:2006 Information technology -- Database languages -- SQL -- Part 14: XML-Related Specifications (SQL/XML)
+ISO 10303-28:2007 Industrial automation systems and integration -- Product data representation and exchange -- Part 28: Implementation methods: XML representations of EXPRESS schemas and data, using XML schemas
+ISO/IEC 13250-3:2007 Information technology -- Topic Maps -- Part 3: XML syntax
+ISO/IEC 13522-5:1997 Information technology -- Coding of multimedia and hypermedia information -- Part 5: Support for base-level interactive applications
+ISO/IEC 13522-8:2001 Information technology -- Coding of multimedia and hypermedia information -- Part 8: XML notation for ISO/IEC 13522-5
+ISO/IEC 18056:2007 Information technology -- Telecommunications and information exchange between systems -- XML Protocol for Computer Supported Telecommunications Applications (CSTA) Phase III
+ISO/IEC 19503:2005 Information technology -- XML Metadata Interchange (XMI)
+ISO/IEC 19776-1:2005 Information technology -- Computer graphics, image processing and environmental data representation -- Extensible 3D (X3D) encodings -- Part 1: Extensible Markup Language (XML) encoding
+ISO/IEC 22537:2006 Information technology -- ECMAScript for XML (E4X) specification
+ISO 22643:2003 Space data and information transfer systems -- Data entity dictionary specification language (DEDSL) -- XML/DTD Syntax
+ISO/IEC 23001-1:2006 Information technology -- MPEG systems technologies -- Part 1: Binary MPEG format for XML
+ISO 24531:2007 Intelligent transport systems -- System architecture, taxonomy and terminology -- Using XML in ITS standards, data registries and data dictionaries
+
+
+== 脚注 ==
+
+
+=== 注釈 ===
+
+
+=== 出典 ===
+
+
+== 参考文献 ==
+(株) 日本ユニテック、中山幹敏、奥井康弘 編著 『改訂版 標準XML完全解説 (上)』 技術評論社、2001年。ISBN 978-4-7741-1186-5。
+(株) 日本ユニテック、中山幹敏、奥井康弘 編著 『改訂版 標準XML完全解説 (下)』 技術評論社、2001年。ISBN 978-4-7741-1302-9。
+
+
+== 関連項目 ==
+
+
+=== XML関係の仕様 ===
+スキーマ言語
+Document Type Definition (DTD)
+XML Schema
+Regular Language description for XML (RELAX)
+TREX
+文書スキーマ定義言語 (DSDL: Document Schema Definition Languages)
+RELAX NG
+スキマトロン
+
+スタイルシート
+Extensible Stylesheet Language (XSL)
+XSL Formatting Objects (XSL-FO)
+XSL Transformations (XSLT)
+
+Cascading Style Sheets (CSS)
+Document Style Semantics and Specification Language (DSSSL)
+
+XML Path Language (XPath)
+XML Linking Language (XLink)
+XQuery
+
+
+=== アプリケーションプログラミングインタフェース (API) ===
+アプリケーションソフトウェアからXML文書を読み書きするためのアプリケーションプログラミングインタフェース (API)
+Document Object Model (DOM)
+Simple API for XML (SAX)
+Java Architecture for XML Binding (JAXB)
+Streaming API for XML (StAX)
+ECMAScript for XML (E4X)
+VTD-XML
+Sedna
+
+
+=== XMLの応用 ===
+Extensible HyperText Markup Language (XHTML) - SGMLで定義されていたHTMLをXMLの文法で定義しなおしたマークアップ言語
+RSS - ニュースやブログなど各種のウェブサイトの更新情報を簡単にまとめ、配信するための幾つかのマークアップ言語の総称
+Resource Description Framework (RDF) - ウェブ上にあるリソースを記述するための統一された枠組み
+Mathematical Markup Language (MathML) - 数式を記述するためのマークアップ言語
+MusicXML - 楽譜表記のためのマークアップ言語
+Ajax - ウェブ上で非同期な形でJavaScriptとXMLを活用してユーザインタフェースを構築する技術
+Extensible Binary Meta Language (EBML)
+XMLデータベース - XML文書を格納することができるデータベース
+RosettaNet - 電子商取引の標準化団体
+ebXML - XMLを用いたインターネット上の企業間電子商取引のための仕様群
+ContactXML
+TravelXML - 旅行業界の電子データ交換の仕様
+Canonical XML - XML文書に対して電子署名を行うためにXML文書を「正規化」するための仕様
+Broadcast Markup Language (BML) - データ放送向けのXMLによる記述言語
+データ放送
+Broadcast Contents Markup Language (BCML)
+OAGIS
+Extensible Business Reporting Language (XBRL) - 財務諸表などのビジネスレポートを電子化するためのマークアップ言語
+Universal Business Language (UBL) - 企業間電子商取引のために定義された電子伝票の仕様
+XUL - Mozillaアプリケーションを作成するためのユーザインタフェースマークアップ言語
+Scalable Vector Graphics (SVG) - ベクトル画像を記述するためのマークアップ言語
+Synchronized Multimedia Integration Language (SMIL) - マルチメディアコンテンツを表現するためのマークアップ言語
+SyncML - データ同期のための仕様
+OpenDocument - OASISとISOで仕様が制定されたオフィススイートのためのファイルフォーマット
+Office Open XML - マイクロソフトが提案しているオフィススイートのためのファイルフォーマット
+XML Paper Specification (XPS) - ページ記述言語
+Robot Markup Language (RobotML) - 自律移動型ロボットとロボットコンポーネント間の通信制御のためのマークアップ言語
+APML
+AutomationML
+Category:XMLベースの技術
+
+
+==== Webサービス技術 ====
+Webサービス
+SOAP - ソフトウェア同士がリモートプロシージャコール (RPC) によりメッセージ（オブジェクト）を交換するためのプロトコル
+XML-RPC - リモートプロシージャコール (RPC) をXML文書とHTTPを使って実現する技術、SOAPは、XML-RPCを発展させて開発された
+Web Services Description Language (WSDL) - Webサービスの具体的内容を記述するためのマークアップ言語
+Universal Description, Discovery and Integration (UDDI) - Webサービスのための検索システム
+Business Process Execution Language (BPEL) - ビジネスプロセスを記述するためのマークアップ言語
+
+
+=== 団体 ===
+World Wide Web Consortium (W3C) - 標準化団体の一つ。
+OASIS - 標準化団体の一つ。
+Apache XML - Apacheソフトウェア財団のプロジェクト。
+Apache XML Graphics - Apacheソフトウェア財団のもう一つのプロジェクト。
+
+
+=== XMLと関連する技術 ===
+Abstract Syntax Notation One (ASN.1) - 電気通信やコンピュータネットワークでのデータ構造の表現・エンコード・転送・デコードを記述する記法
+JavaScript Object Notation (JSON) - JavaScriptにおけるオブジェクトの表記法をベースとした軽量なデータ記述言語
+YAML - 構造化データやオブジェクトを文字列に直列化（シリアライズ）するためのデータ形式
+OGDL
+
+
+== 外部リンク ==
+
+
+=== 仕様 ===
+W3C XML 1.0 仕様
+W3C XML 1.1 仕様
+JIS 拡張可能なマーク付け言語（XML）1.0
+W3C XMLインフォメーションセット 勧告 (Second Edition)
+fastinfoset (インフォメーションセットのバイナリ符号化)
+W3C XML名前空間 1.0 仕様
+
+
+=== XMLの起源 ===
+XML, Java, そしてWebの将来 - ジョン・ボサック、岡部恵造(訳、FXIS)、楠裕行(訳、FXIS)、藤岡慎弥(訳、沖ビジネス)、村田真(訳、FXIS)
+XML, Java and the Future of the Web - ジョン・ボサック (原文)
+
+Introduction to Generalized Markup: ISO 8879:1986 (SGML) の Annex A - チャールズ・ゴールドファーブ
+The Multilingual WWW - Gavin Nicol
+Retrospective on Extended Reference Concrete Syntax - Rick Jelliffe
+
+
+=== 回顧 ===
+Thinking XML: The XML decade - Uche Ogbuji
+XML: Ten year anniversary - Elliot Kimber
+Closing Keynote, XML 2006 - ジョン・ボサック
+Five years later, XML... - Simon St. Laurent
+W3C XML 生誕 10 周年 ! XMLが10歳になったことについてのW3Cによるプレスリリース
+
+
+=== 論文 ===
+Lawrence A. Cunningham (2005). "Language, Deals and Standards: The Future of XML Contracts". Washington University Law Review. SSRN 900616
+
+
+=== 団体 ===
+W3C - World Wide Web Consortium
+OASIS - OASIS（営利団体を中心としたXML仕様策定組織）
+日本XMLユーザーグループ
+XMLコンソーシアム
+XMLマスター - XMLマスター（XML技術者育成推進委員会）
+
+
+=== 実装 ===
+Apache XML - Apache XML プロジェクト (Java/C++/Perl)
+Apache XML Graphics - Apache XML Graphics プロジェクト (Java)
+Apache Xerces - Apache Xerces プロジェクト (Java/C++/Perl)
+Expat - ジェームズ・クラークが開発した、Cで実装されたストリーム指向のXMLプロセサ
+サン・マイクロシステムズ Java技術（XML） - サン・マイクロシステムズ
+JDOM - XML文書のためのJavaで実装されたオープンソースの文書オブジェクトモデル
+RubyのXML処理系（REXML） - Ruby
+Libxml2 - フリーのCのXMLプロセサとツールキット
+Open XML Editor
+XML Document Authoring Tools
+XML-DEV Mailing List
+XeML.net Information about XML and XML-Based languages
+RomXML - Embedded XML commercial toolkit written in ANSI-C.
+XML resources - Open Directory Project
+FoX - FORTRANで実装された検証XMLプロセサ
+
+
+=== ニュース ===
+XMLステータスリポート
+OASIS日本語ニュース

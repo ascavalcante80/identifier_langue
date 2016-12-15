@@ -1,0 +1,354 @@
+Le récepteur à cristal connu sous les noms de poste à galène, de poste à diode ainsi que de poste à pyrite est un récepteur radio à modulation d'amplitude extrêmement simple qui historiquement dès le début du XXe siècle permit la réception des ondes radioélectriques des premières bandes radios, des signaux de la tour Eiffel et des premiers postes de radiodiffusion. Le récepteur à cristal équipait les stations de T.S.F. des navires, les stations de T.S.F. des ballons dirigeables, les stations de T.S.F. des avions, les stations portables. Il a aussi permis à des milliers d'amateurs de s'initier à l'électronique et joua un rôle important pour la diffusion de messages pendant la Première Guerre mondiale et pendant la Seconde Guerre mondiale.
+
+
+== Utilisation du récepteur à cristal ==
+Le récepteur à cristal est extrêmement simple, fonctionnant sans alimentation électrique, d’une très haute fidélité sonore et d’une étonnante musicalité comparé au récepteur moderne superhétérodyne. En revanche, la limite de détection du signal radioélectrique est imposée par le niveau absolu des signaux reçus utile au fonctionnement de l’écouteur ou du casque, car seul le signal radioélectrique de la station radio écoutée fait fonctionner le récepteur à cristal. La sensibilité des meilleurs récepteurs à cristal est de l'ordre de -53 dBm ou 54 dBμV, 5 nW, (soit 500 μV à l'entrée d'antenne du récepteur pour une impédance de 50 Ω ou pour une impédance de 600 Ω une tension de 1,73 mV à l'entrée d'antenne du récepteur) soit une correspondance de S-mètre 9+20 dB.Et une station arrivant à l'entrée d'antenne du récepteur avec un signal radioélectrique de 0 dBm ou 107 dBμV, 1 mW, soit (224 mV/50 Ω ou 775 mV/600 Ω soit S-mètre 9+73 dB) sera reçu fort et clair dans l'écouteur audio du poste à détecteur par diode germanium ou par détecteur à galène.
+Ce niveau absolu du signal radioélectrique utile est fonction des éléments essentiels :
+de la puissance d'émission, sur une base watts/kilomètres2 ;
+de la longueur d'onde, exemple : un émetteur de 1 kW sur la longueur d'onde de 600 mètres, donne à 100 km un champ de 800 μV/m sur terrain bon conducteur et un émetteur de 1 kW sur la longueur d'onde de 300 mètres, donne à 100 km un champ de 250 μV/m sur terrain bon conducteur ;
+de l'antenne émettrice ;
+de l'antenne réceptrice ;
+de la prise de terre ;
+de la distance entre les stations : plus la distance entre les stations est grande plus le signal utile au fonctionnement du récepteur est faible, l'atténuation de l’énergie étant fonction du carré de la distance sur une base kilomètres2/watts, avec un renforcement sur terrain bon conducteur et avec un léger renforcement la nuit ;
+du terrain entre les stations, exemple : un émetteur de 1 kW sur la longueur d'onde de 600 mètres, donne à 100 km un champ de 20 μV/m sur terrain mauvais conducteur et 800 μV/m sur terrain bon conducteur ;
+du type de détecteur, la détection a besoin d’un faible seuil de tension proche de zéro Volt, d’une capacité inférieure à 1 pF, l’écouteur de plusieurs kiloohms peut être attaqué par le détecteur de quelques centaines d’ohms.
+du type d'écouteur : l’écouteur est de plusieurs kilo-ohms et doit être très sensible, l’écartement entre la membrane parfaitement plane et le noyau doit être aussi petit que possible ;
+
+
+== Historique ==
+
+L'invention du poste à galène prend place dans l'invention de la radio, invention qui se situe à la fin du XIXe siècle et au début du XXe siècle. Cette invention est à situer dans les avancées globales en matière de télécommunication qui ont émaillé le XIXe siècle.
+Au début du XXe siècle, les chercheurs découvrent que des cristaux métalliques ont des capacités semi-conductrices (la galène (sulfure de plomb) et la pyrite) font partie de ceux-là).
+En 1901 : Jagadish Chandra Bose dépose un brevet aux États-Unis, accordé en 1904 pour un dispositif de détection des perturbations électriques par l'utilisation d'un minerai de cristal de galène.
+Dès 1904, les paquebots équipés du Cohéreur puis de poste à galène effectuaient des liaisons radiotélégraphiques sur la longueur d'onde des 600 mètres, avec la station Ouessant TSF (depuis le Stiff) (indicatif FFU avec un détecteur électrolytique).
+Le 30 août 1906 : Greenleaf Whittier Pickard a déposé un brevet pour un détecteur en cristal de silicium, qui fut approuvé le 20 novembre 1906. Le détecteur de Pickard était un fil métallique mince (nommé moustache du chat) en contact avec un point sensible d’un minerai de cristal produisant l’effet de semi-conducteur.
+La demande pour une station privée de T.S.F. d'écoute était faite au directeur des postes du département où habitait le pétitionnaire de T.S.F.
+Dès le début du XXe siècle, les stations d'amateur de T.S.F. à poste à galène effectuaient des écoutes radiotélégraphiques dans la bande d'amateurs, des signaux de la tour Eiffel, des premières bandes des longueurs d'onde radio.
+Sur les longueurs d'onde des 600 mètres et (300 mètres pour les petits bateaux), les navires effectuaient des liaisons radiotélégraphiques avec les stations côtières et entre navires avec des stations de T.S.F. à galène.
+En 1907, Camille Tissot conçoit, avec F. Pellin, un récepteur à galène sans réglage fastidieux pour recevoir ces signaux à bord des navires de commerce.
+En 1910 : la nouvelle station Ouessant TSF FFU (depuis Lampaul), avec un récepteur à pyrite travaille avec une portée d'exploitation de 700 km.
+Dès 1911, la station Boulogne TSF indicatif FFB effectuait des liaisons radiotélégraphiques avec les navires de pêche avec un poste à galène.
+En 1912 : la nouvelle station Ouessant TSF FFU (depuis Lampaul), avec un récepteur à pyrite de nuit effectue des liaisons radiotélégraphiques avec le grand port de Casablanca et avec l'Afrique du Nord.
+Dès 1914 : 50 navires de pêche français sont pourvus d'un émetteur en radiotélégraphie morse et avec un récepteur à galène.
+En 1915 : arrivée d’amplificateur audio à lampes électroniques (en forme de grosses boules) pour le casque audio et le haut-parleur pour les postes à galène.
+En 1915 : les récepteurs à pyrite et à galène sont très répandus sur le front dans les tranchées pendant la Première Guerre mondiale aussi bien en téléphonie et en télégraphie (car les fils de téléphone sont fréquemment coupés entre les tranchées).
+1917 : En France : Les postes de réception horaires ou météorologiques, dont la concession est sollicitée par des citoyens français, sont autorisés par le chef du service local des P.T.T., sur demande de l'intéressé. Les postes de réception horaires ou météorologiques ne donnent lieu qu’à la perception d'un droit fixe à 5 francs par an et par poste. En temps de guerre, tous les postes privés radioélectriques, sauf ceux utilisés par ou pour le compte des autorités militaires, doivent être supprimés.
+1923 : En France : Arrêté concernant la réception et le service concernant la réception d'amateur est clarifié.
+1925 : Le prix d'un récepteur à galène type Oudin à deux écouteurs est de : 130 Francs Poincaré, bien moins coûteux que les technologies électronique à tubes, un poste à lampes coûte de quelques mois à plus d'un an de salaire d'un ouvrier. (Le prix d'un simple poste à lampes est de : 2 000 Francs Poincaré).
+1935 : Le récepteur portable de radiodiffusion est à galène (car le poste à tube électronique avec des piles bien trop lourd, fragile et volumineux).
+1938 : Des combinaisons de cristaux des détecteurs les plus populaires : Galène/Cuivre • Galène/Laiton • Galène/Argent • Pyrite/Or • Carborundum/Acier • Cuivre/Silicium • Zincite/Acier • Chalcopyrite/Zincite.
+Dès 1939 : Dans quelques pays occupés il y avait des confiscations des postes radios de la population (). Ceci conduit des auditeurs particulièrement déterminés à construire leurs propres récepteurs à pyrite clandestins, car c'était un minerai facile à trouver, à ajuster, stable, suffisant depuis la France pour la diffusion de messages entre Londres et la résistance pendant la Seconde Guerre mondiale.
+Pendant la Seconde Guerre mondiale, les récepteurs de radiodiffusions à réaction et superhétérodyne à lampes ont l'inconvénient de rayonner une onde radio par l’antenne. L'ennemi dispose de son côté d'appareils radiogoniométriques capables de détecter les ondes produites par les oscillateurs internes des appareils superhétérodynes et à réactions. Il peut ainsi déterminer des positions de l'adversaire par les lieux de fonctionnement de réception des ondes radioélectriques. De ce fait l’autorité militaire interdit aux soldats d'utiliser des récepteurs de radiodiffusions à énergie auxiliaire, le récepteur à cristal refait une large apparition dans les zones de combat.
+1946 : utilisation de la diode germanium sylvania 1N34 comme détecteur et de la diode silicium sylvania 1N23B comme détecteur en UHF.
+1950 : Le récepteur à galène et à diode portable est remplacé par le récepteur radio à transistor.
+XXIe siècle : des applications toujours présente : le poste à galène ou le récepteur à galène ; le poste à pyrite ou le récepteur à pyrite le poste diode ou le récepteur à diode depuis 1947 sont utilisés pour l'écoute :
+de la radiodiffusion des GO ou LW, de la radiodiffusion des PO ou MW.
+de la radiodiffusion continentale lorsqu’il fait nuit entre le lieu d’émission et de réception dans la bande décamétrique des 49 mètres, SW de 5,8 à 6,2 MHz (car les signaux radio sont forts).
+
+Utilisations actuelles
+Ce dispositif est toujours utilisé avec une diode comme détecteur sur des appareils de contrôle :
+contrôle de champ produit par une Antenne radioélectrique ;
+recherche de rayonnement de proximité ;
+réglage d'antenne ;
+et permet aussi à des milliers d'amateurs de s'initier à la radioélectricité par l'écoute de la radiodiffusion.
+
+
+== Description d'un poste ==
+
+
+== Antenne et prise de terre ==
+
+L'antenne et la prise de terre sont essentielles. Ce sont elles qui permettent de recevoir la puissance électrique utile au fonctionnement de l’écouteur ou du casque (hormis le signal radio, il n'y a aucune source d'énergie et un courant ne se créera dans l'antenne que si celle-ci est reliée au sol).
+
+L'antenne long-fil est simplement constituée d'un fil électrique d'une vingtaine de mètres soutenue de 7 mètres à 10 mètres au-dessus du sol pour :
+l'écoute de la radiodiffusion départementale des petites ondes et des grandes ondes;
+l'écoute depuis la France de la Météorologie maritime sur 6 175 kHz à 11h30 Temps universel coordonné;
+l'écoute de la radiodiffusion continentale lorsqu’il fait nuit entre le lieu d’émission et de réception dans la bande décamétrique des 49 mètres, de 5,8 à 6,2 MHz.
+
+L'antenne long-fil efficace pour la réception des ondes radioélectriques des grandes ondes (avec une portée jusqu’à 1 000 km) et des petites ondes (avec une portée de quelques centaines de kilomètres) est longue d'une centaine de mètres à plusieurs centaines de mètres et résonne en demi-onde :
+L'antenne peut être soutenue par une construction par exemple un pylône,
+L'antenne peut être soutenue par un cerf-volant porte antenne de type stationnaire,
+L'antenne peut être soutenue par un ballon porte antenne type ballon à gaz.
+Une antenne 1/4 onde peut être utilisée. La longueur d'onde est divisée par 4, mais au sol plusieurs fils de même longueur sont reliés à la masse de la station radio. L'impédance de l'antenne ground plane est de quelques dizaines d'ohms.
+
+L'antenne en T est une antenne fouet monopôle rayonnante à capacité terminale, cette antenne en T plus courte que λ/4 est dédiée à fonctionner là où d'autres types d'antenne ne sont pas adaptés par leur dimension au gabarit disponible d'un navire ou entre deux pylônes. Cette antenne en T fonctionne par onde de sol avec un diagramme de rayonnement omnidirectionnel en polarisation verticale pour la réception des ondes radioélectriques des petites ondes et des grandes ondes (avec une portée jusqu’à 1 000 km).
+À défaut d’antenne.
+De la borne de l’antenne du poste à cristal, un fil d’antenne de plusieurs mètres est simplement torsadé le long d’un prolongateur de plusieurs mètres soit :
+Le long d’un prolongateur électrique monophasé (sans terre) branché a une prise secteur (cela si la ligne EDF est aérienne).
+Ou le long d’un prolongateur téléphonique branché a une prise téléphonique (cela si la ligne téléphonique est aérienne).
+Le passage de l’énergie entre la rallonge et le fil d’antenne du poste à cristal est par capacité donc sans branchement direct.
+
+La prise de terre est réalisée à l'aide d'un contact électrique dans le sol par exemple:
+une prise de terre,
+une canalisation d'eau,
+un piquet de terre,
+le circuit de terre du bâtiment.
+un sol artificiel métallique par exemple en grillage de grande surface directement sous la base de l'antenne et autour de l'antenne.
+un contrepoids en fils de masse de grande longueur réparti régulièrement autour de la base de l'antenne.
+
+
+== Circuit d'accord ==
+
+Sans un syntoniseur ou circuit d'accord, toutes les stations radios sont perçues au même instant.
+
+Description du récepteur à cristal sans circuit d'accord
+Antenne et terre.
+D1: détecteur à diode à pointe type : OA85 ou OA95.
+E1: écouteur d'impédance entre (500 ohms à 10 000 ohms).
+
+Un circuit de résonance inductance-condensateur est accordable pour isoler nettement la station radio à écouter des autres stations. Il est donc constitué d'une bobine de fil (souvent de cuivre) enroulé autour d'un cylindre de carton, ou sur un disque en carton pourvu d'entailles (self dite en « fond de panier »). Le deuxième composant est un condensateur variable à air (afin d'éviter une augmentation de l'amortissement) qui permet donc de faire l'accord du circuit bande passante et de sélectionner la fréquence de la radio désirée. En fonction des soins pour réaliser le circuit d'accord, du type de montage : (Tesla, Oudin, autre) et de la charge branchée à ce circuit d'accord (impédance de l'écouteur et du type de détecteur), de l'effet Ferranti, en fonction du facteur de qualité la bande passante est de 5 à 200 fois inférieure à la fréquence porteuse (), ce qui peut être suffisant pour l'écoute de la radiodiffusion GO, PO. La discrimination entre fréquences proches étant faible, la réception est facilement brouillée. Cette bande passante est inadaptée aux communications modernes dans les bandes décamétriques ou les signaux de dix, quinze, vingt postes d’émission sont perçus au même instant sur le même réglage.
+Le circuit d'accord couple, adapte l'impédance caractéristique de l’antenne au récepteur.
+Plusieurs types de postes utilisent comme condensateur: le volume de l'espace entre l'antenne et le sol, entre le circuit d'antenne et la Masse (électricité); seule la bobine est accordable (sans condensateur).
+La fréquence de résonance  en hertz du circuit d'accord, L en henry, C en farad : 
+Pour qu'il y ait résonance, la résistance R en ohm du circuit d'accord doit être la plus faible possible : 
+Récepteur à sélectivité et à sensibilité variable
+Réglage côté antenne :
+Le volume, la force des stations utiles au fonctionnement du casque audio est maximum,
+Mais la sélectivité est faible (mauvaise séparation entre les stations radios).
+Réglage au centre de la bobine :
+La sélectivité est maximum (meilleure séparation entre les stations radios),
+Mais le volume, la force des stations utiles au fonctionnement du casque audio est plus faible.
+
+Valeur des bobines pour une discrimination optimum:
+Pour la gamme GO (150 kHz à 300 kHz) la bobine peut être de 2200 μH
+Pour la gamme PO (520 kHz à 1 600 kHz) la bobine peut être de 160 μH
+Pour la gamme OC (5,8 à 6,2 MHz) la bobine peut être de 5,5 μH
+
+
+== Détecteur ==
+
+Un circuit de détection est un circuit électrique redresseur simple alternance, composé d'une diode et d'un condensateur en parallèle pour extraire le signal basse fréquence d'une fréquence porteuse modulée en amplitude.
+Le détecteur à cristal est une diode, fonctionne en valve. Le rôle du détecteur est de servir de clapet anti-retour électrique au courant électrique alternatif de haute fréquence en supprimant l'une des alternances reçues, de telle sorte que l'effet résultant est:
+De ne laisser passer le courant électrique alternatif de haute fréquence que dans un seul sens anode à cathode avec le plus faible seuil de tension appelée barrière de potentiel. La résistance dépend du sens du courant électrique qui le parcourt et de l'intensité de ce courant électrique.
+Une demi-alternance électrique avec le + côté de l’anode et le - côté de la cathode trouvera l’image d’une résistance de quelques centaines d’ohms, donc l'intensité du courant traversant la diode sera limitée par l'impédance de l'écouteur et par la résistance du détecteur. C'est cette énergie électrique qui est utile au fonctionnement de l’écouteur, du casque ou du relais de l’inscripteur. (En dessous du seuil de tension de 0,2 volt, le détecteur à galène ou diode à pointe type OA85 présente une résistance de plusieurs kilo-ohms. Donc, l'écouteur avec une impédance de plusieurs kilo-ohms fonctionne toujours avec un signal en dessous du seuil de tension).
+Une demi-alternance électrique avec le - côté de l’anode et le + côté de la cathode trouvera l’image d’une plus forte résistance (de plusieurs kilo-ohms ou plus), donc l'intensité du courant traversant la diode sera la plus faible. Toute cette intensité de courant de fuite va atténuer l’énergie électrique utile au fonctionnement de l’écouteur, du casque ou du relais de l’inscripteur. Toute cette intensité de courant de fuite mettra le circuit d'accord en charge, donc cause une mauvaise bande passante.
+Le détecteur à cristal a une capacité inférieure à un picofarad. Toute l'intensité de courant de la capacité du cristal mettra le circuit d'accord en charge, donc cause une mauvaise bande passante.
+Il est bon d'avoir deux ou trois détecteurs pouvant être mis en circuit l'un ou l’autre par le jeu d’une manette. Donc l'un des détecteurs est une diode à pointe type : (OA85 ou OA95), utilisée comme détecteur de référence ou de détecteur étalon. Ceci évitera avec un détecteur quelconque de rester au milieu d'une écoute, du fait d'un réglage du point sensible et permettra de vérifier par comparaison entre les détecteurs, la valeur d'une audition.
+
+
+=== Détecteur à germanium ===
+L'une des premières diodes germanium, est la diode germanium sylvania 1N34 utilisée comme détecteur dès 1946.
+
+
+==== Caractéristique du détecteur à germanium ====
+
+Prenons une diode à pointe germanium type : (OA85, OA95).
+Fonction détectrice cathode anode sur une diode à pointe type : (OA85, OA95).
+Appliquons à cette diode à pointe une tension progressivement croissante, pour une intensité dans le sens cathode à anode.
+On obtient les valeurs données dans le tableau suivant:
+Fonction détectrice anode cathode sur une diode à pointe type : (OA85, OA95).
+Appliquons à cette diode à pointe un courant progressivement croissant, dans le sens anode à cathode.
+On obtient les valeurs données dans les tableaux suivants :
+Caractéristiques de la diode OA85 et OA95 dans une température ambiante de 25 °C
+Caractéristiques de la diode OA85 et OA95 dans une température ambiante de 60 °C
+Pour avoir une faible tension de détection, il est possible de fixer une résistance électrique contre la diode pour obtenir une température de fonctionnement de 60 °C. Mais, pour une température de 75 °C, la diode subit des dommages irréversibles.
+
+
+=== Détecteur à galène ===
+
+
+==== Le réglage du détecteur à galène ====
+Régler le détecteur à galène (contact chercheur galène), c'est le mettre en état d'assurer toute réception désirée.
+Régler le détecteur à galène c'est mettre la pointe du chercheur sur un point sensible. La surface d'un échantillon de galène n’est pas uniformément sensible en tous ses points. Certains points sont très sensibles, d'autres moins, d'autres, enfin, pas du tout.
+Une forte émission telle qu'un orage proche, l'étincelle d'un interrupteur voisin, est parfaitement susceptible d'anéantir le meilleur de nos points sensibles. C'est pourquoi il faut pouvoir chercher fréquemment un autre point sensible ou dopé. Et c'est le rôle du chercheur (contact chercheur galène).
+
+
+==== Caractéristiques du détecteur à galène ====
+La démodulation (détection de la valeur de crête du signal) est faite par le cristal et la pointe métallique, formant une diode Schottky.
+Ce détecteur comprend un cristal de galène dopé, souvent enserré dans une sorte de coupelle, et un fin fil métallique de laiton ou d'argent enroulé comme un ressort qui « pique » sur cette galène dopée (détecteur à cristaux classique). Diverses combinaisons ont été essayées.
+Appliquons à cet ensemble un courant progressivement croissant, d’abord dans le sens pointe à galène, puis dans le sens galène à pointe.
+On obtient les valeurs données dans le tableau suivant:
+Fonction détectrice pointe-galène :
+
+La société Telefunken, conçoit une diode à galène, un fil de métal enroulé en forme de ressort et pressant sur un fragment de galène (en un point sensible : dopé), le réglage est opéré une fois pour toutes, et le détecteur est ensuite enrobé dans un diélectrique (isolant électrique).
+Le détecteur à galène a quasiment disparu au profit du détecteur à germanium.
+Précautions:
+Ne jamais toucher la face active de la galène avec les doigts et la préserver le plus possible du contact de la poussière de l'oxydation et du contact de l'air. Le détecteur peut fonctionner dans un tube de verre. La galène ne doit se manipuler qu'avec de petites pinces.
+Enfin isoler très soigneusement le tout sur ébonite ou fibre. Telles sont les règles précises qui doivent servir dans la construction d’un détecteur à galène.
+Un choc, même très léger, des vibrations, des pas sur le plancher, des voitures passant sur la route, des trépidations, etc., peuvent faire dévier la pointe du chercheur. Le point sensible est alors perdu et il faut recommencer un nouveau réglage.
+Il est bon également de le préserver des trépidations ; de le réunir aux autres appareils par des fils souples ; de fixer son support sur un gros mur par exemple.
+Il est bon encore d'exécuter deux détecteurs à galène pouvant être mis en circuit l'un ou l’autre par le jeu d’une manette. (Ceci évitera de rester au milieu d'une écoute, du fait de l'affaiblissement du point sensible et permettra de vérifier par comparaison, la valeur d'une audition).
+
+
+==== Construction d'un détecteur à galène ====
+
+ Précaution à prendre.
+La fabrication d'un détecteur à galène
+produit l’intoxication du personnel.
+
+Bases de construction d’un détecteur à galène.
+On sensibilise à température régulière environ : 600 °C (par une lampe à souder ou un chalumeau à gaz ou à essence) en présence de soufre contenant de faibles proportions de tellure en l'absence d'air, des fragments de galène non sensible.
+Pour ce faire, l’on opère dans un creuset de terre rempli de sable sec et quatre parties en poids des fragments de galène à sensibiliser pour une partie en poids de soufre contenant de faibles proportions de tellure (1/100). On bouche le creuset de terre en ne laissant qu'une faible ouverture pour l’échappement des gaz et l’on chauffe lentement et régulièrement dans la flamme du chalumeau, en commençant par la partie supérieure afin de chasser l'air, puis en descendant peu à peu jusqu'à la partie inférieure, où l’on a placé au préalable le mélange de soufre et de tellure. À ce moment, ce soufre se volatilise et traverse la masse supérieure portée à haute température; dans ces conditions, on obtient la formation sure de polysulfures de plomb contenant de faibles proportions de tellurure de plomb. Laisser refroidir lentement l'ensemble avant de casser l’éprouvette pour en sortir le morceau de galène solidifié, qui sans cette précaution serait oxydé au contact de l'air.
+Étant en possession d'un bon échantillon de galène, le monter en le comprimant dans une boulette de papier d'étain (et non d’aluminium) laquelle est sertie dans une petite cupule.
+La pointe est quelconque, mais un conducteur électrique aussi peu oxydable que possible, suffisamment rigide et souple, un fil de laiton ou d'argent aplati à son extrémité, taillé en pointe en deux coups de ciseaux, puis enroulé en spirale assez souple et monté sur une tige permettant l'exploration de toute la surface du cristal et le réglage de la pression doit être aussi léger que possible (légèrement appuyée).
+Galène défectueuse:
+Si après des mois d'usage, tous les points sensibles paraissent avoir disparu, ne croyons pas qu'il faille forcément renouveler la galène. La galène peut être régénérée.
+Une galène est lavée en la trempant dans l’essence à briquet ou l'éther si présence d'une couche de graisse émanant des doigts ou de saletés quelconques.
+Si la sensibilité est sérieusement émoussée par des courants trop violents. Il suffira de la briser avec une pince pour que les morceaux présentant de nouvelles surfaces brillantes soient de nouvelles sources de points sensibles.
+On peut resensibiliser un mauvais échantillon de galène déjà dopée en le faisant chauffer en vase clos avec son volume de soufre.
+
+
+==== Détecteur à galène à doubles pointes ====
+Le détecteur à galène à doubles pointes métalliques a été utilisé vers les années 1940, le fonctionnement se rapprochait du transistor PNP à base commune. Ce détecteur comprend un cristal de galène dopé piqué par deux fils métalliques chacun enroulé comme un ressort ().
+
+
+=== Détecteur à rouille ===
+En appuyant légèrement une mine de crayon sur une tache de rouille (oxyde), on crée un détecteur ().
+
+
+=== Détecteur à lame de rasoir ===
+Un récepteur à cristal se servant comme détecteur électrique d'une tige d'électrode de carbone (issue par exemple d'une pile saline ou d'un crayon à papier) touchant légèrement une lame de rasoir.
+Des récepteurs employant cette technique ont été construits pendant la Seconde Guerre mondiale, également connus avec le nom de foxhole radio (en), du nom de la station de radiodiffusion de l'armée américaine, donc des récepteurs à lame de rasoir ont été conçus pour l'écoute de cette station NVIS.
+
+
+=== Détecteur au silicium ===
+
+La caractéristique du détecteur à diode silicium est par une tension de seuil dans le sens anode à cathode de 0,6 V, donc moins sensible que les détecteurs à galène ou à germanium (jusqu'à 0,6 V, le détecteur est bloqué, le détecteur ne conduit pas) donc une station arrivant avec 0,5 V sera totalement bloquée par la diode silicium (et reçu fort et clair dans l'écouteur audio du poste à détecteur par diode germanium ou par détecteur à galène).
+Le détecteur à diode silicium est utilisable sur le récepteur à diode comme appareil de contrôle de champ produit par une antenne (et réglage d'antenne) où la puissance et la tension sont élevées et avec une limite de fréquence de l’ordre de 10 GHz.
+L'une des premières diodes silicium, est la diode silicium sylvania 1N23B utilisée comme détecteur en UHF par l'armée américaine.
+
+
+=== Détecteur à l'arséniure de gallium ===
+La caractéristique du détecteur à l'Arséniure de gallium est un semi-conducteur type GaAs avec une tension de seuil dans le sens anode à cathode de 1,1 Volt utilisable jusqu'à 300 GHz. Le détecteur à l'arséniure de gallium est utilisé dans la bande Supra-haute fréquence et dans la bande Extrêmement haute fréquence.
+
+
+=== Récepteur à cristal à pile ===
+Pour augmenter la sensibilité d’un détecteur à cristal, en approchant électriquement sa barrière de potentiel vers 0 volt, une pile branchée en série (entre le circuit d'accord et le détecteur) fournit une tension réglable avec le + a l’anode du détecteur à cristal. Cette tension réglée doit toujours être inférieure à la tension de seuil du détecteur.
+Mais ce système est instable (équilibre instable entre la tension réglable de la pile et la tension de seuil du détecteur à cristal) et avec des pannes de contact. Ce système est abandonné.
+Avec ce système dès le début du XXe siècle, plusieurs radioécouteurs ont hétérodyné la radiotélégraphie (type A1A) création d'une tonalité par l’augmentation de la tension, dès le passage de l'intensité dans certains couples de cristaux donnant la création d'oscillations dans les circuits d'accord, c'est l'effet diode tunnel.
+
+
+=== Buzzer ===
+
+Le buzzer est un générateur de bruit radio.
+Tous les points de la galène ne sont pas sensibles, chercher le point le plus sensible au moment d'une émission radio serait perdre un temps précieux d'écoute. Il est donc bon d’effectuer ce réglage avec une source de bruit d’un vibrateur d’essai ou d’un buzzer. Ce petit appareil est un mouvement de sonnerie sans timbre ; placé près de l'appareil de réception, il émet de courtes oscillations amorties qui sont entendues dans le récepteur téléphonique et permettent par la recherche de l’audition maximum, d'effectuer le réglage du détecteur et le réglage des circuits d'accord inductance-condensateur. Une courte antenne sur le buzzer augmente l'intensité des ondes émises.
+Description d'un récepteur à cristal à pile et à buzzer
+(circuit du buzzer B2, S1, BZ)
+L1: self primaire d'antenne et terre.
+L2: self secondaire couplé à la self primaire L1 .
+C1: condensateurs variables à air de 500 pF environ pour la radiodiffusion des petites ondes et des grandes ondes.
+D1: détecteur à galène.
+C2: condensateur fixe papier ou céramique de 2 nF à 3 nF environ.
+E1: écouteur d'impédance entre (500 ohms à 10 000 ohms).
+B1: pile de 1,5 V pour améliorer la sensibilité du détecteur.
+R1: potentiomètre pour régler la sensibilité du détecteur.
+B2: pile de 4,5 V du buzzer.
+S1: interrupteur du buzzer.
+BZ: buzzer pour régler le contact chercheur galène du détecteur D1 et le circuit d'accord L2 C1.
+
+
+=== Détecteur électrolytique ===
+
+Le détecteur électrolytique est le plus sensible des détecteurs. Mais d’un entretien compliqué et utilisable seulement par les stations fixes.
+Principe de fonctionnement du détecteur électrolytique.
+Une pile, un potentiomètre et un écouteur appliquent une tension au détecteur électrolytique pour l'électrolyse de l'eau. La polarisation électrolytique de l'anode est très rapide. Le signal alternatif du circuit inductance-condensateur dépolarise partiellement l'anode aux rythmes de la modulation d'amplitude, ce qui oblige la pile à fournir un nouveau courant pour repolariser l'anode. L'écouteur parcouru par ce courant repolarisant aux rythmes de la modulation d'amplitude fait entendre une image de la modulation.
+Le détecteur électrolytique est seulement utilisable dans les stations fixes, sensibles aux vibrations, aux mouvements. Donc inutilisable dans les stations radios mobiles : navires, aéronefs, ballons dirigeables, stations portables...
+Le détecteur électrolytique a été supplanté par le détecteur à galène pour sa simplicité.
+
+
+== Condensateur audio ==
+
+Aux bornes de l'écouteur un condensateur fixe en papier paraffiné de 2 nF à 3 nF est inséré.
+Ce condensateur est destiné à filtrer et lisser les trains d'ondes des demi-alternances du signal porteur de la fréquence radio de telle sorte que l'effet résultant soit un signal sinusoïdal de la modulation audio (débarrassé des trains d'ondes) parvenant à l'écouteur.
+Ce condensateur fixe en papier est destiné à atténuer les sifflements aigus désagréables.
+Cette capacité électrique peut être réalisée par le volume de l'espace entre les deux fils électriques de grande longueur entre le récepteur radio et les écouteurs.
+
+
+== L'écouteur ==
+
+L'écouteur ou le casque audio est de type monophonique dont le noyau présente une aimantation. L'écouteur énergique doit être très sensible, car seulement l'énergie venant des ondes radio elle-même est utile au fonctionnement de l’écouteur ou du casque (la puissance de fonctionnement débute dès 1 pW/cm2) . L’écartement entre la membrane parfaitement plane et le noyau doit être aussi petit que possible; on obtient ce résultat par l'introduction de rondelles métalliques plus ou' moins épaisses entre le boitier de l’écouteur et la membrane. Il n'y a pas de réglage de volume.
+Avec un détecteur à galène, l'écouteur a une impédance de 500 ohms à 10 000 ohms obtenu par l'emploi d’un fil de cuivre d'enroulement (et non par l'emploi d’un fil d'enroulement en métal ou en alliage résistant).
+Avec un détecteur à germanium, l'écouteur a une impédance de 200 ohms à 10 000 ohms obtenu par l'emploi d’un fil de cuivre d'enroulement (et non par l'emploi d’un fil d'enroulement en métal ou en alliage résistant).
+L'écouteur à une impédance élevée afin d'éviter une augmentation de l'amortissement du circuit d'accord cela pour une meilleure discrimination entre les indésirables fréquences proches. De nos jours, c'est l'écouteur à cristal piézo électrique qui est le plus courant.
+Sans écouteur de grande impédance on peut brancher l'entrée d'un amplificateur électronique et écouter sur haut-parleur ou sur casque audio a faible impédance.
+
+
+== Accessoires ==
+
+
+=== Amplificateur micro téléphonique ===
+
+Dès le début du XXe siècle, l'amateur de TSF qui possède un poste à galène, et qui commence à entendre quelques stations de radiodiffusion, souhaite sans l'application de casque audio faire écouter la TSF à ses amis sur haut-parleur avec un amplificateur micro téléphonique.
+Accoupler un téléphone à un microphone alimente le haut-parleur.
+La figure représente le schéma du montage théorique:
+T est le téléphone de réception,
+M le microphone très sensible,
+HP le haut-parleur.
+Dans les stations TSF aéronautiques, les stations TSF maritimes, les stations TSF militaires et les stations d'amateurs de T.S.F., l'amplificateur micro téléphonique a été progressivement remplacé par l'amplificateur audio à tube électronique.
+Dans les stations portables, l'amplificateur micro téléphonique persiste jusqu'en 1947 puis sera totalement remplacé par l'amplificateur électronique à transistor.
+
+
+=== Ticker ===
+
+Le ticker est destiné à rendre audible la radiotélégraphie sans modulation (type A1A). Il donne une tonalité à la présence d'un signal.
+Principe : Le rôle du ticker est de couper les trains d'ondes ininterrompues formant chaque signal en tranches de courte durée dans l'intervalle desquelles, aucun courant ne passant, la membrane de l'écouteur E du récepteur peut revenir à sa position d'équilibre et, par ces vibrations successives dont la fréquence est réglée par celle du ticker lui-même, déceler la valeur, brève ou longue, des signaux radiotélégraphiques transmis. Le ticker est donc un appareil qui coupe fréquemment le courant de l'écouteur.
+Dès 1910, le ticker est totalement remplacé par l’hétérodyne de la radiotélégraphie.
+
+
+=== Ondemètre ===
+
+L’ondemètre, (nommé de nos jours dipmètre) est un appareil de mesure des longueurs des ondes électromagnétiques utilisant le phénomène de résonance.
+L'ondemètre est utilisé avec le poste à cristal pour :
+L'ondemètre remplace le buzzer (générateur de bruit radio pour le réglage du poste).
+Le réglage de la résonance du l’antenne radioélectrique.
+Le réglage du poste (réglage de la galène, le réglage des circuits d'accord inductance-condensateur).
+Le réglage du couplage poste/antenne.
+L'ondemètre faiblement couplé hétérodyne la radiotélégraphie crée une tonalité (et remplace le ticker).
+Et faiblement couplé donne un semblant de réaction.
+
+
+=== Système à néon ===
+Un système à lampe néon entre l’antenne de grande longueur écoule les surtensions vers le sol.
+Quand l'aérien est soumis à des charges atmosphériques, celles-ci s'écoulent aux travers du néon contenu dans une ampoule entre l’antenne et le sol. Cette lampe à décharge, normalement isolant ne devient conducteur que très momentanément et pour débarrasser le collecteur d'ondes des charges dangereuses qui sont orientées vers le sol.
+
+
+=== S-mètre ===
+
+Avec des récepteurs a galène, les utilisateurs ont voulu trouver un moyen de noter la force des signaux qu'ils recevaient en plaçant en parallèle avec l'écouteur une résistance variable qui shuntait l'écouteur plus ou moins en fonction du curseur linéaire d’un rhéostat qui se déplaçait le long d'une règle graduée de 0 a 10 ().
+En face de 0, la résistance étant infinie, la totalité du courant électrique détecté par la galène traversait l'écouteur.
+En face du point 10 (la règle étant graduée de 0 a 10), la résistance étant nulle, la totalité du courant électrique détecté était court-circuitée et l'écouteur ne recevait plus rien.
+À mi-course du curseur gradué à 5, la résistance du shunt étant égale à l'impédance de l’écouteur, le courant électrique se partageait en deux courants électriques égaux traversant l'un l'écouteur et l'autre la résistance parallèle.
+Plus la station reçue émettait un fort signal radioélectrique et plus loin était poussé le curseur jusqu'à 9, et un peu au-delà même pour une station arrivant très forte, sans toutefois aller jusqu'à 10 (résistance nulle de 0 Ω, donc la puissance reçue est infinie).
+On prit donc l'habitude de noter les reports des émissions reçues de s_0 a s_9 et, au-delà de s_9 de rajouter + pour lire s_9 + (à présent on ajout des dB).
+
+
+== Le poste Oudin ==
+
+Le poste Oudin est pour l'écoute ordinaire, utilisable par le grand public, une plus grande puissance du circuit d'accord inductance-condensateur arrive a l'écouteur, d’une utilisation très simple, aussi peu coûteux que possible, destiné uniquement pour la radiodiffusion des grandes ondes, de la radiodiffusion des petites ondes, la réception nocturne des grands postes européens est possible (portée jusqu’à 1 000 km si l'on dispose d'une antenne radioélectrique soutenue par un cerf-volant ou par un ballon à gaz). Le poste Oudin est le plus facile à construire.
+Le poste Oudin est inadapté aux communications modernes dans les bandes décamétriques où les signaux de dix, quinze, vingt postes d’émission sont perçus au même instant sur le même réglage.
+
+
+=== Caractéristiques ===
+Afin de permettre l'accord dans une plage de 30 kHz à 40 MHz (10 000 mètres à 8 mètres), une bobine de 100 m (environ 1 kg) de fil émaillé 6/10 est enroulée sur un tube de 10 cm de diamètre et de 60 cm de long environ. Ces mesures n'ont rien d'absolu et peuvent varier dans certaines limites sans modification du résultat, elles sont fournies comme base sur appareils en fonctionnement.
+Afin d'éviter une augmentation de l'amortissement, les condensateurs variables de 2 nF environ C1 et C2 doivent être à air.
+
+
+=== Description ===
+Poste complet à cristaux, montage en Oudin.
+A : antenne.
+T : terre.
+B : curseur de self primaire du circuit: BR.
+H : curseur de self secondaire du circuit: HR.
+J : commutateur de circuit périodique.
+D : détecteur.
+E : écouteur (500 ohms à 10 000 ohms).
+M et N : manettes de mise en série, parallèle ou hors circuit du condensateur de Terre.
+C 1 et C 2 : condensateurs variables à air de 500 pF environ pour la radiodiffusion des petites ondes et des grandes ondes.
+C 3 : condensateur fixe à papier paraffiné de 2 nF à 3 nF environ.
+
+
+=== Fonctionnement et réglage ===
+Le schéma de montage Oudin que représente la figure.
+La self primaire de réception est constituée par la partie de self B R comprise entre le curseur d'antenne et la terre; l'accord peut être complété dans ce primaire par le jeu, des manettes M et N permettant la mise en série, en parallèle ou hors-circuit du condensateur de terre C1 La self secondaire est la partie H R comprise entre H, curseur du circuit d'écoute et la terre.
+Le réglage du poste s'effectue de la façon suivante :
+Le point sensible du détecteur ayant été réglé au buzzer par exemple, le commutateur J étant ouvert, notre circuit d'écoute H R M D est en apériodique; mettons le curseur H sur le milieu environ de la self et cherchons le poste en faisant varier l'accord du primaire par le jeu de B (modifications de la longueur d'onde propre de l'antenne par variations de self), et le jeu de C 1 (modifications de cette même longueur d'onde par variations de la capacité), nous chercherons toujours à réaliser le maximum d'intensité du poste désiré en employant le maximum de capacité de C 1 et le minimum de self. Dans presque tous les cas pratiques, le maximum de capacité n'est autre que la mise directe au sol par court-circuitage du condensateur de terre (manette M sur L et N sur V).
+Le poste ainsi réglé, transformons le circuit d'écoute, que nous avons laissé en apériodique, en circuit de résonance, en syntonie. Pour cela, fermons le commutateur J, la capacité C 2 étant minimum. Généralement l'intensité faiblit, parfois même le poste disparaît, rien de plus facile que de le retrouver: diminuons la self H, R par jeu du curseur H, complétons ensuite l'accord par intervention de la capacité C 2. Dès lors le poste est réglé au mieux pour l'onde voulue.
+Nous remarquons ici que nous pouvons trouver cet accord pour de multiples positions du curseur H, à la seule condition dé faire varier simultanément en sens inverse la capacité C 2 afin de conserver une même valeur au circuit de résonance H, R, J, C 2 en maintenant constant le produit de la self par la capacité. Autant que possible, nous chercherons à réaliser cet accord du secondaire en employant le maximum de self et le minimum de capacité C 2. Toutefois, il faut se souvenir que le couplage étant réalisé par la partie de self H, R commune aux deux circuits, nous pourrons relâcher ce couplage en diminuant cette self; diminution qu'il nous faudra compenser par une augmentation de C 2. Ce relâchement de couplage, souvent utile, affaiblit toujours l'intensité, mais isole nettement le poste voisin gênant.
+
+
+=== Dépannage ===
+Les pannes des postes à cristal se manifestent de diverses manières, aussi peut-on en découvrir facilement la cause et appliquer le remède voulu :
+Audition affaiblie pour tous les postes ;
+Le premier cas provient, presque toujours, d'un détecteur à galène mal réglé : employer le buzzer (générateur de bruit radio, ondemètre, marqueur à quartz) et chercher à obtenir le maximum d'intensité ; l'emploi de deux détecteurs, dont l'un contrôle l'autre, évite facilement cette panne. Il peut encore provenir, d’une connexion mal établie : vérifier le serrage des bornes et la correction du montage. Il peut enfin avoir son origine dans l'antenne ou vers la prise de terre : antenne flottante touchant un corps conducteur, prise de terre desséchée ou dont le fil de prise est oxydé.
+Intermittences d'audition, variations brusques d'intensité ;
+Les intermittences d'audition proviennent d'un mauvais contact dans le circuit : vérifier le serrage des bornes. Si le défaut persiste, vérifier la conductibilité électrique des divers circuits avec une pile et un galvanomètre, ou, à défaut, une sonnerie électrique. Vérifier soigneusement les plots de contact, les frotteurs des commutateurs. Ces intermittences se produisent fréquemment dans le cas d'emploi de bobines à curseur : passer légèrement une toile d'émeri usée sur le chemin du curseur et sur le frotteur, vérifier l'élasticité des ressorts des curseurs. Le défaut peut provenir des fils du téléphone : froisser ces fils entre les mains en écoutant pou

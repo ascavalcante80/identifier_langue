@@ -1,0 +1,13 @@
+Pătratul este poligonul regulat cu patru laturi. El este un caz particular de dreptunghi (dreptunghiul cu laturile adiacente egale) și de romb (rombul cu unghiurile drepte).
+
+
+== ProprietățiModificare ==
+laturile opuse sunt paralele;
+toate laturile sunt egale;
+toate unghiurile sunt drepte;
+laturile alăturate sunt perpendiculare;
+aria este egală cu pătratul laturii;
+aria este egală cu produsul diagonalelor împărțit la 2;
+perimetrul este egal cu latura înmulțită cu 4;
+diagonalele sunt congruente și perpendiculare;
+diagonalele sunt și bisectoa

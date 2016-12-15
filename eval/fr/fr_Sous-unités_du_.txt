@@ -1,0 +1,7 @@
+e d’arc (exactement un soixantième de minute d’arc) correspond à environ 31 mètres (exactement 30,86 m) à la surface de la Terre, ou environ 100 pieds.
+Cependant dans des calculs géographiques simples, on continue encore parfois de considérer qu’un mille fait une minute d’arc et que la moitié de méridien terrestre fait environ 10 000 km. L’erreur de longueur obtenue dans les deux cas est voisine de 0,02 % seulement ce qui suffit à de nombreuses utilisations géographiques de mesures de distances sur une carte imprimée de taille raisonnable, d’autant plus que les cartes planes comportent aussi des aberrations loxodromiques (liées à la projection utilisée pour toute mesure non effectuée le long d’un grand cercle, qu’une carte plane ne peut représenter que le long d'un seul trait, généralement le méridien central de la carte). Mais cette approximation ne suffit plus pour la géolocalisation précise avec les instruments de mesure actuels et pour les cartes à la fois très étendues en surface et très détaillées : dans la pratique, la navigation et la géolocalisation utilisent aujourd’hui massivement les GPS et les instruments électroniques, de sorte qu'une telle approximation rapide est de moins en moins utile, et les cartes électroniques prennent de plus en plus le pas sur les cartes préimprimées afin de mieux s'adapter à toutes les orientations et diverses échelles.
+
+
+== Notes et référencesModifier ==
+
+ Portail de l’astronomie

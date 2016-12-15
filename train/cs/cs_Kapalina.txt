@@ -1,0 +1,27 @@
+Kapalina neboli kapalná látka je jedno ze skupenství látek, při kterém jsou částice látky relativně blízko sebe, ale nejsou vázány v pevných polohách a mohou se pohybovat v celém objemu.
+Kinetická energie částic kapaliny je malá ve srovnání s vazební potenciální energií, takže částice se vzájemně udržují v určitých rovnovážných polohách, kolem kterých vykonávají kmitavý pohyb. Tyto rovnovážné polohy se u kapalin mohou přemisťovat, tzn. dochází k přemísťování částic v celém objemu látky. Vazba mezi částicemi zajišťuje, že za běžných podmínek se objem látky nemění. Kapalina bývá také považována za přechodnou fázi mezi pevnou látkou a plynem.
+
+
+== Vlastnosti kapalin ==
+kapalná tělesa nemají svůj tvar, ale jejich tvar odpovídá tvaru nádoby
+kapalná tělesa mají vlastní objem
+kapalná tělesa mají volný povrch označovaný obvykle jako hladina
+kapaliny tvoří kapky (díky přitažlivým silám mezi částicemi)
+kapaliny jsou těžko stlačitelné
+vodičem elektrického proudu ve vodivých kapalinách jsou ionty (neplatí pro kapalné kovy)
+teplo se v kapalinách může šířit prouděním
+změna polohy částice je u kapalin pomalejší než u plynu, což vysvětluje např. pomalou difuzi kapalin ve srovnání s plyny
+Přitažlivé molekulové síly mají poměrně krátký dosah, a proto na vybranou molekulu kapaliny působí pouze molekuly z jejího blízkého okolí. Oblast dosahu molekulového působení jedné molekuly lze vymezit koulí o určitém poloměru, opsanou kolem vybrané molekuly. Silové působení molekul, které se nachází mimo tuto sféru, na vybranou molekulu můžeme zanedbat.
+Nachází-li se vybraná molekula uvnitř kapaliny, je sféra molekulového působení plně obsazena molekulami dané kapaliny a jejich působení na vybranou molekulu je souměrné a v průměru se vyruší. Taková molekula se nachází ve volném (indiferentním) rovnovážném stavu.
+Nachází-li se molekula v tenké vrstvičce hraničící s jiným prostředím, ocitnou se ve sféře molekulového působení i molekuly jiné látky, čímž dojde k porušení souměrnosti silového působení a výslednice silového působení na vybranou molekulu již nebude nulová. To vede ke vzniku vnitřní vnitřního tlaku a povrchového napětí.
+Molekuly, které se nacházejí na povrchu kapaliny mezi sebou působí silami, která jsou tečné k povrchu kapaliny. Je-li molekula vzdálena od místa, kde se povrch (hladina) kapaliny stýká s jinou látkou (např. stěnou nádoby), tečné síly působící na tuto molekulu se vyruší a molekula se může volně přemísťovat po hladině. V místech, kde se kapalina stýká s jinou látkou, se do sféry molekulového vlivu hraniční molekuly dostávají i molekuly cizí látky a výslednice sil je různá od nuly. Důsledkem jsou kapilární jevy na rozhraní kapaliny a pevné látky.
+
+
+== Ideální kapalina ==
+Ideální (dokonalá) kapalina má na rozdíl od skutečné kapaliny tyto vlastnosti:
+je dokonale nestlačitelná a bez vnitřního tření.
+matematický popis jejího chování je poměrně jednoduchý a používá se k modelovému zkoumání mechanických vlastností kapalin.
+Ideální kapalinu lze získat jako speciální případ ideální tekutiny, pokud je hustota tekutiny (v celém objemu tekutiny a za všech podmínek) konstantní, tzn. . V takovém případě je objemová deformace nulová, tzn. stlačitelnost je nulová, což znamená, že kapalina je nestlačitelná.
+
+
+== S

@@ -1,0 +1,27 @@
+evel domains since April 4, 2008, when the first DNS provider had IPv6 glue records added in the TLD. IPv6 was enabled at the transport layer to TLD nameservers a few years prior to that. Just days prior to the World IPv6 day, DK Hostmaster added an IPv6 address in DNS for their web server and that of the web server of its owner, DIFO.
+
+
+=== DNSSEC ===
+After the DNS root zone was signed in mid-July 2010, the .DK-zone was officially signed using NSEC3 on July 23, 2010, and the root zone was updated July 26, 2010, to include the corresponding DS-record. Since August 1, 2010, customers' DS-records have been included in the DK-zone.
+
+
+== Second level domains ==
+In general most companies and people register their desired domain name at the second level, e.g. company.dk and lastname.dk.
+
+
+== Third level domains ==
+Third level domains are allocated by second level domain owners. The registry do not run, recommend nor endorse any general second level domains, such as .com.dk, for third parties, and they are generally not seen.
+
+
+== Oldest .dk domains ==
+The oldest .dk domains still registered in DK Hostmaster's database, are the domains dkuug.dk, diku.dk, bk.dk, ibt.dk, ifad.dk, lego.dk, mainz.dk and nordita.dk which were all registered in 1987 when .dk was registered. With the registration of .dk a dual naming with both .uucp and .dk names was introduced. Of these, diku.dk and ibt.dk can be said to be the oldest names, as these were the initial names on the Danish UUCP network started 2 January 1983.
+
+
+== External links ==
+IANA .dk whois information
+DK Hostmaster A/S
+List of .dk approved registrators
+History of DENet
+
+
+== Notes ==

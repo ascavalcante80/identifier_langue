@@ -1,0 +1,41 @@
+lại phần trên thành:
+
+<table width="100%">
+
+
+=== Việc tối giản thuộc tính là bị nghiêm cấm ===
+HTML chấp nhận cách viết dưới:
+<dl compact>
+<input checked>
+<input readonly>
+<input disabled>
+<option selected>
+<frame noresize>
+XHTML đòi hỏi phải viết lại phần trên thành:
+<dl compact="compact">
+<input checked="checked" />
+<input readonly="readonly" />
+<input disabled="disabled" />
+<option selected="selected" />
+<frame noresize="noresize" />
+
+
+== Xem thêm ==
+World Wide Web Consortium
+HTML
+XML
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+XHTML – Ngôn ngữ đánh dấu của chuẩn web (PDF)
+W3C's HTML Home Page
+XHTML 1.0 Specification
+XHTML 1.1 Specification
+Working Draft of XHTML 2.0
+W3C MarkUp Validation Service (Including XHTML validation)
+XHTML validator on SourceForge
+Wikibooks XHTML tutorial — in progress
+Sending XHTML as text/html Considered Harmful

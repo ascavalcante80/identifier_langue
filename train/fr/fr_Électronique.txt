@@ -1,0 +1,151 @@
+L'électronique est une branche de la physique appliquée, traitant de la mise en forme et de la gestion de signaux électriques, permettant de transmettre ou recevoir des informations.
+On associe souvent l'électronique à l'utilisation de faibles tensions et courants électriques. Les faibles grandeurs électriques généralement utilisées dans les applications électroniques, s'expliquent en partie par le fait que si une information peut être transmise avec peu d'énergie, il y a peu d’intérêt à la transmettre avec beaucoup (lorsque deux personnes veulent échanger une information, elles peuvent le faire en criant, mais elles préfèrent en général le faire en parlant normalement). Il existe une discipline nommée « électronique de puissance » mais celle-ci est une branche de l'électrotechnique et non de l'électronique.
+On date généralement les débuts des applications de l'électronique à l'invention du tube électronique en 1904, l'ancêtre du transistor. Ce dernier compose actuellement l’essentiel des processeurs grand public.
+En raison du succès des appareils fonctionnant grâce à l'électronique et de leur impact sur la vie courante, le grand public amalgame souvent électronique avec cybernétique (science de l'automatique), aussi bien qu'avec informatique.
+L'adjectif « électronique » désigne également ce qui est en rapport avec l'électron.
+
+
+== Définition ==
+L’électronique est une science technique, ou science de l’ingénieur, constituant l'une des branches les plus importantes de la physique appliquée, qui étudie et conçoit les structures effectuant des traitements de signaux électriques, c'est-à-dire de courants ou de tensions électriques, porteurs d’informations.
+Dans cette définition la notion de l’information est considérée dans le sens le plus large : elle désigne toute grandeur (physique, telle la température, le son ou la vitesse, ou abstraite, telle une image, un code…) qui peut évoluer en temps réel selon une loi inconnue à l’avance, ou plus souvent prévu à cet effet (calcul des équations booléenne).
+Comme tous les automatismes, les systèmes électroniques sont souvent conçus en deux parties :
+l’une, opérative, gère les signaux de puissance porteurs d'énergie (courants forts) ;
+l’autre, informationnelle, gère les signaux porteurs d’information (courants faibles).
+Dans les systèmes électroniques classiques traitant le monitoring des outils de performance bi-directionnelle l’information, celle-ci est codée par les tensions ou les courants électriques. Les applications électroniques peuvent être divisées selon deux groupes distinct : le traitement de l’information et la commande. La première englobe les domaines tel que l’informatique, les télécommunications, les mesures, tandis que la seconde s'occupe de la gestion de l'information (elle donne des ordres pour ainsi dire), par exemple les microprocesseurs, les PIC, ou encore les moteurs pas à pas.
+Les applications de commande ont pour objet le contrôle du fonctionnement d’un système naturel ou technique. Un contrôle implique généralement une mesure d'un ou plusieurs paramètres contrôlés, sa comparaison avec le modèle ou la valeur souhaitée et, en cas d’erreur, la génération d’une consigne de correction (principe de contre réaction à la base de nombreux systèmes électroniques). Ainsi, un contrôle peut être vu comme une succession d’opérations de traitement du signal : ceci renvoie à la définition générale donnée plus haut.
+
+
+== Historique ==
+Depuis le début du XXe siècle, au fur et à mesure des découvertes des possibilités de l’électricité, les composants et applications électroniques ont vu le jour (parfois sans possibilité d’application immédiate ou de fabrication industrielle, ces découvertes ne seront utilisées que plus tard). L'invention du transistor, puis du circuit intégré déclenchent un enthousiasme pour l'innovation électronique au début des années 1960.
+La croissance de l'électronique s'est faite par 2 apports simultanés :
+la réduction de la taille des composants élémentaires mis en œuvre (transistors et autre structures semblables) permettant une intégration de plus en plus efficace, ce qui a considérablement augmenté la puissance et le champ d'action des fonctions réalisées
+la sophistication progressive des méthodes et principes employés (traitement du signal, d'abord essentiellement analogique, puis numérique, voire sous forme de logiciel intégré dans les composants)
+Les conséquences pratiques ont été notamment l'intégration de fonctions électroniques de plus en plus complexes et performantes dans la majeure partie des domaines techniques (industriels, scientifiques…) et des objets de la vie courante.
+
+Le développement de l'électronique a également permis celui de la science et des techniques de l'informatique ainsi que certaines avancées sociales (communications):
+En permettant la réalisation de calculateurs  de plus en plus rapides et complexes (associés à des capacités de mémorisation croissantes), à des coûts compatibles pour une large diffusion.
+Ce développement a en retour amélioré les moyens disponibles pour le développement de l'électronique elle-même (logiciels de simulation de circuits, méthode de traitement de signal sophistiquées…)
+Les impacts de l'électronique et de l’alimentation en électricité indispensable à son fonctionnement, sur la vie dans notre société moderne sont majeurs.
+Les axes de développement actuels de l'électronique sont liés à :
+la recherche d'une intégration croissante des composants (loi de Moore), qui passe par la compréhension fine des mécanismes et phénomènes en œuvre au niveau de la physique moléculaire ou électronique (développement de nanotechnologies)
+la nécessité pressentie d'améliorer les performances en termes de rendement (afin de permettre une utilisation la plus efficace possible de l'énergie électrique utilisée ou utilisable).
+Voir aussi les composants électroniques en général.
+
+
+== Disciplines de l’électronique ==
+L’électronique est une famille de disciplines se distinguant suivant le type de signal traité, la famille d’application ou encore le niveau hiérarchique qu’occupe l’élément étudié dans le système global.
+
+
+=== Types de signaux ===
+
+
+==== Introduction ====
+L'électronique a pour objet le traitement par des composants matériels (avec parfois mise en œuvre de logiciel interne) de ce qui est appelé des signaux électroniques. Un signal est une grandeur qui est considérée comme représentant de manière suffisamment satisfaisante une grandeur physique donnée et qui porte l'information à traiter. Il s'agit en général d'une tension électrique, d'un courant, mais ce peut être également un champ électrique ou magnétique.
+Traditionnellement, les signaux sont classés en 3 grands types :
+signaux analogiques ;
+signaux numériques ;
+signaux de puissance ;
+suivant la manière dont on considère ce signal et l'usage que l'on souhaite en faire.
+Il est d'usage également de décomposer un signal en deux composantes :
+
+   signal = signal utile + bruit
+
+le signal utile étant la partie du signal contenant l'information recherchée, le bruit étant toutes les perturbations modifiant cette partie utile. Ce découpage est donc arbitraire et lié à l'usage souhaité.
+
+
+==== Signal analogique ====
+
+La discipline s’intéresse au traitement continu des signaux analogiques, c’est-à-dire ceux évoluant d’une façon continue dans le temps et considérés comme tels (par opposition aux signaux discrétisés ou numérisés pour lesquels on ne prend en compte qu'un nombre fini d'états). Ils peuvent donc prendre des valeurs appartenant à un espace de valeurs continu (ou continu par intervalles). La plupart des systèmes physiques le sont, car les grandeurs physiques évoluent le plus souvent d’une façon continue (par exemple, la température).
+Le domaine de l'analogique est traditionnellement divisé en plusieurs sous-domaines :
+L'instrumentation
+Les fréquences audio (en lien avec l'électroacoustique)
+Les fréquences radio
+Les hyperfréquences (encore appelées fréquences radar ou hautes fréquences)
+La production et la propagation des ondes électromagnétiques
+La vidéo
+Le traitement du signal analogique
+Le codage du signal…
+Ce dernier ne permet ni le stockage de l'information, ni d'effectuer des produits ou des divisions par des variables. C'est pourquoi le traitement numérique du signal remplace parfois les traitements analogiques, bien qu'il occasionne un délai de traitement.
+
+
+==== Signal numérique ====
+
+Par opposition, l’électronique numérique s’intéresse au traitement des signaux dont l’espace de valeurs est discret. Ainsi le nombre de valeurs que peuvent prendre ces signaux est limité. Celles-ci sont codées par des nombres binaires. Dans le cas le plus simple, un signal numérique ne peut prendre que deux valeurs : 1 et 0. L’électronique numérique est utilisée en particulier dans les systèmes contenant un microprocesseur ou un microcontrôleur. Par exemple, un ordinateur est un appareil constitué en majeure partie par de l’électronique numérique.
+À l’heure actuelle le traitement du signal numérique tend de plus en plus à remplacer le traitement du signal analogique, de manière à faciliter le développement des circuits et à apporter une meilleure intégration et une plus grande souplesse d'utilisation. Dans les applications grand public, cette évolution est particulièrement remarquable dans les domaines de l'audio et de la vidéo (caméscopes, télévision) où l'électronique analogique était depuis longtemps répandue — le cas de la photographie est un peu à part dans la mesure où l'acquisition du signal était auparavant non pas électronique mais chimique. Par contre, il ne faut pas oublier que comme les valeurs discrètes n’existent pas physiquement, des phénomènes d’électronique analogique peuvent survenir dans les circuits numériques, notamment dans les hautes fréquences. De plus certaines fonctions comme la mesure ou l'amplification sont intrinsèquement analogiques et ne pourront pas, actuellement, devenir numériques. Les capteurs sont en très grande majorité analogiques, mais les fabricants leur ajoutent de plus en plus souvent une sortie numérique permettant un transfert d'information moins sensibles aux perturbations, grâce à des convertisseurs ADC.
+Les signaux numériques étant également des signaux discrets en temps, on utilise en général un oscillateur à quartz (horloge) de manière à synchroniser les différentes parties d'un circuit entre elles. On appelle les circuits régis par une horloge (ou plus) des circuits synchrones. La fréquence (ou fréquence d’horloge), exprimée en hertz (Hz) d’un circuit numérique représente le nombre de changements d’état possibles d’une valeur par seconde.
+Cependant, il est tout à fait possible de travailler de manière asynchrone (indépendamment d'une horloge) si on organise le fonctionnement du circuit de manière que ses différentes parties se synchronisent entre elles par des échanges de signaux de contrôle (on parle de handshaking). On parle alors de mode de transfert asynchrone.
+
+
+==== Électronique mixte ====
+On parle d’électronique mixte lorsque l'on est en présence d’un système dans lequel coexistent les signaux numériques et analogiques. Les modules particuliers à cette discipline sont le convertisseur analogique-numérique (CAN) et le convertisseur numérique-analogique (CNA). Ils permettent de transformer un signal analogique en signal numérique et vice versa, en réalisant ainsi une interface entre les modules purement analogiques (comme les capteurs) et purement numériques.
+Par exemple, un thermomètre à affichage numérique prélève la température (qui est une grandeur analogique), mesure sa valeur, la code en une séquence numérique et puis l’affiche sur un écran. Ainsi, les deux premières opérations sont effectuées par des modules de l’électronique analogique, la troisième nécessite une conversion analogique-numérique et la dernière relève d’un traitement numérique.
+
+
+==== Signal de puissance ====
+
+L’électronique de puissance est l’ensemble des techniques qui s’intéressent à l’énergie contenue dans les signaux électriques, contrairement aux autres disciplines électroniques, qui elles s'intéressent principalement à l’information contenue dans ces signaux. L'objectif est le contrôle ou la transformation de l'énergie électrique. La gamme de puissance traitée en électronique de puissance varie de quelques microwatts à plusieurs mégawatts.
+L’électronique de puissance repose sur des dispositifs permettant de changer la forme de l’énergie électrique (les convertisseurs) et des dispositifs transducteurs (le plus couramment des turbines et des moteurs électriques). L’électronique de puissance a comme champ d’application l’électrotechnique domestique et industrielle, où elle remplace les anciennes solutions électromécaniques.
+
+
+=== Hiérarchie de l’objet d’étude ===
+D’une façon indépendante de l’application, certaines disciplines de l’électronique sont définies suivant la place qu’occupe l’objet de l’étude dans la hiérarchie d’un système électronique.
+
+
+==== Physique des composants ====
+Au niveau le plus bas se situe un composant, ou un dispositif électronique. La branche s’intéressant à la conception et à l’étude d’un composant électronique élémentaire s’appelle « physique des composants ». Elle est connexe au savoir-faire technologique, qui lui regroupe l’ensemble des connaissances et outils nécessaires pour fabriquer un composant. On parle ainsi de la « technologie de l’électronique ». Les domaines de la technologie et de la physique des composants électroniques font essentiellement appel aux compétences dans les sciences fondamentales, telles que la physique du solide et des procédés chimiques. Même si ces activités sont vitales pour l’électronique, elles ont peu à voir avec l’électronique en tant que génie du traitement du signal. On devrait plutôt les considérer comme une porte d’entrée du monde de la physique fondamentale vers la science appliquée qu’est l’électronique. Les composants de base de l’électronique sont les transistors, les résistances, les condensateurs, les diodes, etc.
+
+
+==== Circuit électronique ====
+Un circuit électronique est le principal objet d’étude de la science de l’électronique. Un circuit électronique est un système incluant plusieurs composants électroniques associés. Le mot circuit vient du fait que le traitement s’effectue grâce à des courants électriques circulant dans les composants interconnectés. La branche étudiant les propriétés des circuits électroniques s’appelle « théorie des circuits ». La discipline qui étudie la méthodologie permettant de réaliser une fonction de traitement particulière à base d’un circuit s’appelle « conception des circuits électroniques ». Les systèmes électroniques modernes comportent des centaines de millions de composants élémentaires. Pour cette raison le génie des circuits électroniques ne s’intéresse qu’à la réalisation de fonctions (ou modules) relativement simples, nécessitant quelques dizaines de composants.
+
+
+=== Taille des circuits électroniques ===
+Le classement précédent se recoupe avec un classement suivant la taille des circuits électroniques considérés.
+
+
+==== Électronique des tubes à vide ====
+
+Comme son nom l’indique, elle recourt à des tubes à vide, ou tubes électroniques comme composants actifs élémentaires (diodes à vide, triodes, tétrodes, pentodes…). Elle ne subsiste guère plus aujourd’hui que sous la forme des tubes cathodiques des récepteurs de télévision et de certains composants d’émetteurs radio de très forte puissance, et ces tubes-là sont d’ailleurs eux aussi en voie de disparition. Reste toutefois la technique des tubes à vide utilisés en audio, dans les amplificateurs guitare notamment.
+Les tubes à vide, dans leur configuration la plus simple (diode), sont composés de deux électrodes, appelées cathode et anode installées dans un tube de verre où le vide a été créé. La cathode est chauffée par un élément chauffant, ce qui permet de créer un nuage d'électrons à proximité de la cathode. Lorsque le circuit électronique auquel le tube est branché crée un potentiel positif à l'anode par rapport à la cathode, il se produit un courant électrique (d'électrons) entre la cathode et l'anode (appelé courant cathodique). Il est possible d'incorporer des grilles métalliques entre la cathode et l'anode. Différents potentiels appliqués à ces grilles auront pour effet de contrôler le courant cathodique. Les tubes équipés d'une grille sont appelés triodes (trois électrodes).
+La conception des tubes à vide la rend extrêmement tolérante aux surcharges. Cette particularité positionne encore aujourd'hui le tube à vide comme un candidat important pour les applications extrêmes, telles que les émetteurs radio (MA et MF) de puissance et les tubes d'émission à rayons X.
+Enfin, la lumière (un seul photon) dirigé vers la cathode est suffisante pour générer un courant cathodique, et ce, sans même utiliser d'élément chauffant. Les 'dynodes' utilisent ce principe en cascade pour détecter les photons dans certaines applications d'imagerie médicales.
+
+
+==== Électronique individuelle ====
+
+Elle recourt à des composants élémentaires individuels ou « discrets » (par opposition à intégrés) assemblés le plus souvent sur des cartes électroniques. Ce type de conception électronique n’est guère plus utilisée que pour des montages expérimentaux ou dans le cadre de l’électronique de loisir, car elle a été supplantée par la micro-électronique. Sur une carte électronique actuelle, bien que les circuits intégrés accomplissent les principales fonctions, on trouve cependant toujours les composants discrets nécessaires à leur mise en œuvre (résistances et condensateurs essentiellement).
+
+
+==== Micro-électronique ====
+
+Ce vocable est né du processus de la miniaturisation des composants électroniques élémentaires. Cette miniaturisation a commencé dans les années cinquante avec la naissance des semi-conducteurs, elle a atteint une phase presque extrême aujourd’hui. En effet, depuis six décennies la taille des composants élémentaires n’a cessé de diminuer, pour atteindre des dimensions de l’ordre de quelques dizaines de nanomètres. Ces progrès sont devenus possibles grâce aux avancées dans les procédés de traitement des matériaux semi-conducteurs, notamment du silicium, qui ont permis de réaliser plusieurs millions de composants élémentaires sur une surface de quelques millimètres carrés. Ainsi, la micro-électronique s’intéresse aux systèmes électroniques utilisant des composants de dimensions micrométriques et nanométriques. L’expression « électronique intégrée » est un synonyme de ce vocable : elle évoque un ensemble de composants « intégrés » sur une seule puce de semi-conducteur, communément appelé circuit intégré.
+
+
+==== Nano-électronique et électronique moléculaire ====
+
+Par ailleurs, en parlant des systèmes de l’électronique moderne, le préfixe « micro » commence à être obsolète, dans la mesure où l’on voit apparaître des composants dont la taille se mesure en nanomètres et parfois comparable à celle des molécules. On évoque ainsi la nano-électronique, les nanotechnologies et l’électronique moléculaire. Des avancées techniques récentes permettent même d’envisager la conception de composants basés sur la propriété des électrons et de leur spin : la spintronique.
+
+
+==== Microsystèmes ====
+
+Avec les progrès dans les micro- et nano-technologies, on observe une fusion des systèmes appartenant à différents domaines techniques (mécaniques, thermiques, optiques…) autour des circuits et systèmes électroniques. Ces fusions sont souvent appelées « systèmes à traitement de signal multi-domaine », ou « systèmes multi-domaines ». À l’origine de ces progrès sont les procédés d’usinage du silicium très évolués, qui permettent de réaliser des structures tridimensionnelles sur les mêmes cristaux de silicium avec les circuits électroniques. Cette proximité offre une interpénétration des traitements traditionnellement se déroulant dans des domaines différents, et une coexistence des signaux de différentes natures physiques (thermique, mécanique, optique…) dans un même système. Ainsi, depuis les années 1990, les microsystèmes électromécaniques (MEMS) sont produits et utilisés en grandes quantités.
+Exemples de microsystèmes :
+Interrupteurs optiques
+Connecteurs optiques
+Matrices de micro-miroirs, ou DMD (Digital Micromirror Device) qui définissent les pixels : la première projection cinéma numérique publique d'Europe effectuée par Philippe Binant, en 2000, reposait sur l'utilisation d'un MOEMS développé par Texas Instruments.
+VCSEL à longueur d'onde variable (Diode laser à cavité verticale émettant par la surface)
+Microbolomètres (bolomètre à l'échelle micrométrique)
+
+
+== Base théorique ==
+
+
+=== Méthodes mathématiques ===
+Il existe un certain nombre d'outils pour la modélisation des propriétés électroniques d'un circuit. On peut citer les principes fondamentaux de l'électricité et de l'électromagnétisme (loi d'Ohm, théorème de Gauss, loi de Lenz-Faraday), les modèles de fonctionnement des matériaux semi-conducteurs (jonction P-N, effet transistor, effet d'avalanche), les outils mathématiques et statistiques (nombre complexe, transformée de Fourier, transformée en ondelettes, loi de Gauss). Les études liées aux signaux de hautes fréquences font appel aux méthodes associées à l'analyse de la propagation des ondes (équations de Maxwell…). La mise en œuvre de signaux rapides au sein d'une carte électronique nécessite des analyses et l'utilisation de logiciels de simulation spécifiques. L'étude des composants électroniques au niveau atomique intègre les résultats et méthodes associées à la physique quantique.
+La simulation de circuits électroniques, parfois complexes et coûteux, est un procédé très répandu et d'un niveau très avancé. Certains logiciels informatiques peuvent intégrer de nombreux paramètres, comme la température ou les champs électromagnétiques.
+
+
+=== Du bruit à l'influence des rayonnements cosmiques ===
+
+Comme tout système, un circuit électronique interagit avec son environnement immédiat, il peut ainsi soit générer des nuisances, soit voir son fonctionnement perturbé par un environnement bruyant. Ces interactions, lorsqu'elles sont estimées nuisibles à la fonction recherchée, doivent être minimisées. L'électronicien doit composer avec des paramètres qui évoluent souvent négativement au fil des avancées technologiques : la miniaturisation et l'intégration des composants et des systèmes (qui les rend souvent plus sensibles aux perturbations), l'augmentation des fréquences de fonctionnement, la généralisation des systèmes radioélectriques (qui ont pour effet d'augmenter globalement le niveau des champs perturbateurs).
+La nécessité de maintenir la température des composants à des valeurs compatibles de la plage d'utilisation pour laquelle ils ont été conçus rend le problème du traitement de leur dissipation thermique un point incontournable et parfois délicat (cas notamment des composants de type processeurs, pour lesquels les dispositifs thermiques associés font l'objet d'études spécifiques). La taille des cellules élémentaires des composants électroniques les rend également 

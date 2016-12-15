@@ -1,0 +1,8 @@
+Wikidane, w języku angielskim Wikidata – projekt internetowy mający na celu stworzenie wolnej, otwartej, wielojęzycznej bazy różnorodnych danych. Głównym zastosowaniem tej bazy danych jest używanie jej w projektach Wikimedia Foundation, przede wszystkim w Wikipedii.
+Dane w projekcie Wikidane publikowane są na licencji Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication, a pozostała treść na licencji Creative-Commons-Attribution/Share-Alike (CC BY-SA 3.0).
+
+
+== Historia ==
+Projekt został zainicjowany przez Wikimedia Deutschland w celu budowy scentralizowanego źródła danych. Dzięki temu jednoznaczne dane, takie jak np. daty urodzin, będą przechowywane w jednym repozytorium i z niego będą mogły korzystać wszystkie wersje językowe Wikipedii. Wikidane zajmują się stworzeniem scentralizowanej bazy danych linków pomiędzy poszczególnymi wersjami językowymi Wikipedii. Równolegle gromadzone są innego rodzaju dane, które można wykorzystywać np. dla tworzenia list i zestawień.
+Wikidane zostały uruchomione 30 października 2012 i jest to pierwszy nowy projekt Wikimedia Foundation od 2006 roku (czyli od czasu powstania Wikiversity) .
+Utworzenie projek

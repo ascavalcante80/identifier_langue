@@ -1,0 +1,6 @@
+Absolutt størrelsesklasse brukes i astronomien til å klassifisere stjernene efter lysstyrke. En stjernes absolutte størrelsesklasse er et tall , som kan beregnes når en kjenner stjernens tilsynelatende størrelsesklasse  og hvor langt borte den er. Dersom dens avstand fra vårt solsystem uttrykt i parsecs er , så er sammenhengen mellom absolutt og tilsynelatende størrelsesklasse gitt ved formelen:
+
+der  står for logaritmen med grunntall 10.
+Grunnen til at logaritmen opptrer, er at størrelseklassebegrepet ikke direkte uttrykker lysstyrken i Watt, men forholder seg til denne via en logaritmisk skala, slik at størrelsesklasseskalaen mest mulig skal følge loven om hvordan øyet naturlig vurderer synsinntrykk av forskjellig styrke.
+En stjernes absolutte størrelsesklasse er intet annet enn det dens tilsynelatende størrelsesklasse ville ha vært, dersom den ble observert fra en standard avstand på 10 parsec.
+Andre norske betegnelser for absolutt størrelsesklasse er absolutt størrelse, og absolutt lysstyrke. På fransk heter det «magnitude absolue», på tysk «absolute Helligkeit», på engelsk «absolute magnitude» og p

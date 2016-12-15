@@ -1,0 +1,22 @@
+A hővezetés vagy konduktív hőátadás a hőátadás olyan formája, amely a szilárd vagy nyugalomban lévő (nem áramló) folyékony vagy légnemű halmazállapotú rendszerekben, hőmérséklet-különbség hatására jön létre. A hőáramlástól (konvektív hőátadás) abban tér el, hogy nem történik anyagáramlás, hanem a hőátadás a belső energia részecskéről részecskére való átadásával történik.
+Hővezetés a termodinamika második főtétele szerint önként mindig a nagyobb hőmérsékletű hely felől a kisebb hőmérsékletű hely felé történik, azaz a hőmérsékleti gradiens irányában. Az energiamegmaradás törvénye értelmében hő a hővezetés során sem tűnhet el vagy semmisülhet meg.
+
+
+== A hővezetés transzportjelenség ==
+Tapasztalatból ismerjük, hogy ha a rendszeren belül például a hőmérséklet pontról pontra nem azonos, akkor önként olyan folyamat indul el, hogy a hőmérséklet kiegyenlítődjék. Hő áramlik a nagyobb hőmérsékletű helyről a kisebb felé. E transzportjelenség neve a hővezetés. Transzportjelenség fogalmán a rendszer valamely extenzív fizikai mennyiségnek, a tér egyik részéből egy másik részébe történő eljutását, szállítását értjük. A hővezetés, vezetéssel létrejövő energiatranszport, a hőterjedés olyan formája, amelynél a terjedés irányában makroszkopikus anyagáramlás nincs.
+
+
+== Áram, hajtóerő, fluxus ==
+A hőtranszport (vezetés, szállítás) során tehát Q hőenergia (extenzív fizikai mennyiség, tömegtől függő) árama alakul ki a hőmérséklet (intenzív fizikai mennyiség), gradiensének, mint termodinamikai „hajtóerőnek” a hatására.
+Hőáram fogalma alatt (JQ) valamely hővezető anyagban, adott keresztmetszeténél a hőmennyiség időegységre eső megváltozását értjük. Ha ezt az áramlás keresztmetszetére (A) – azaz keresztmetszetegységre – vonatkoztatjuk, a hőáramsűrűséget (jQ) kapjuk. A különféle áramsűrűségeknek gyakran használatos másik megnevezése a fluxus. Vagyis az áram és az áramsűrűség definíció szerint:
+ illetve 
+
+
+== Fourier-törvény ==
+
+Két, párhuzamos, egymástól dx távolságra lévő, dT hőmérséklet-különbségű szilárd falfelület között kialakuló hőáramsűrűség nagyságát matematikailag elsőként Jean Baptiste Joseph Fourier fogalmazta meg 1822-ben hosszú vékony rúdra, melynél a jelenség egydimenziós. Az egyenlet az egydimenziós stacionárius hővezetés alapegyenlete:
+
+Általános, térbeli test és térbeli hőmérsékleteloszlás esetében:
+
+A kifejezésben λ az illető anyag hővezetési tényezője, W/(m·K) egységben.
+Véges vál

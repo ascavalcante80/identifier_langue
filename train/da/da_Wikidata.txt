@@ -1,0 +1,11 @@
+Wikidata er en kollektivt redigeret vidensbase drevet af Wikimedia-stiftelsen. Hensigten er at levere et fælles grundlag af konforme datatyper - register-indices (katalognumre) - som kan anvendes af Wikimedia-projekter så som Wikipedia. På samme måde som Wikimedia Commons tillader fælles lagring og adgang til filer (fx billeder) for alle Wikimedia-projekter, således er også wikidata-registrene alment tilgængelige.
+
+
+== Koncept ==
+Wikidata er en dokument-orienteret database, centreret om emner. Hvert emne repræsenterer en side på en Wikipedia og identificeres af et unikt nummer foranstillet af bogstavet Q - fx d:Q7163 for emnet Politik. Dette giver mulighed for, at grundlæggende information om emnet kan oversættes uden at give noget sprog en fortrinssstilling.
+Information tilføjes ved at oprette udsagn. Udsagn udgøres af nøgle-værdi-par, hvor der for hver egenskab (nøglen) findes et eller flere tilfhørende udsagn.
+
+
+== Udviklingshistorie ==
+Etableringen af Wikidata blev muliggjort i kraft af donationer fra Allen Institute for Artificial Intelligence, Gordon and Betty Moore Foundation og Google på i alt 1,3 mio. EUR. Projektet blev indledningsvist forestået af Wikimedia Tyskland og organiseret i tre faser:
+Centralisering af i

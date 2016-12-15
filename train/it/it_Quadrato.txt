@@ -1,0 +1,34 @@
+In geometria, il quadrato è un quadrilatero regolare, cioè un poligono con quattro lati congruenti e quattro angoli uguali (tutti retti).
+Il quadrato è un caso particolare di rombo (in quanto ha tutti e quattro i lati uguali) e di rettangolo (in quanto ha quattro angoli uguali) quindi è un caso particolare di parallelogramma (in quanto ha i lati a due a due paralleli).
+
+
+== Caratteristiche principali ==
+Le diagonali di un quadrato sono uguali e perpendicolari, il loro punto di intersezione le divide a metà e misurano
+
+Questa formula si dimostra con il teorema di Pitagora. Ciascuna diagonale, infatti, divide il quadrato in due triangoli rettangoli per i quali vale che la somma dei quadrati costruiti sui cateti è uguale al quadrato costruito sull'ipotenusa (che è la diagonale).
+.
+Il perimetro di un quadrato, visto che ha tutti i lati uguali, misura:
+
+L'area di un quadrato, visto che l'altezza e la base sono uguali, misura:
+
+ma si può calcolare anche come
+ per il teorema di Pitagora.
+Da ciò si deduce che la diagonale di un quadrato di area a è il lato del quadrato con Area 2a.
+Il quadrato possiede 4 assi di simmetria: 2 passanti per una coppia di vertici opposti e 2 passanti per una coppia di punti medi dei lati.
+Il punto di intersezione delle due diagonali è detto centro del quadrato ed è centro di simmetria di rotazione e di simmetria centrale per il quadrato. L'ordine della simmetria di rotazione del quadrato è 4; in altre parole, il quadrato è invariante per le rotazioni intorno al suo centro relative agli angoli ; naturalmente la rotazione di  radianti è la simmetria centrale.
+
+
+== Equazione di un quadrato su un piano cartesiano ==
+Il quadrato  di lato 2 e centro l'origine può essere descritto in vari modi. Ad esempio:
+
+Il suo bordo è quindi
+
+Questo può essere anche descritto come
+
+In matematica, questo quadrato rappresenta la palla unitaria del piano rispetto alla norma uniforme.
+
+
+== Esistenza del quadrato ==
+
+Una dimostrazione costruttiva dell'esistenza del quadrato è data da Euclide nella proposizione 46 del I libro degli Elementi, subito prima di usare questa figura nell'enunciare e dimostrare il teorema di Pitagora. Nella tradizione didattica moderna l'esistenza dei quadrati è invece in genere data per scontata. Bisogna notare che la dimostrazione euclidea usa indirettamente il V postulato e l'esistenza di quadrati non è garantita nelle geometrie non euclidee.
+Ad esempio, in geometria iperbolica non esistono poligoni con quattro lati uguali e quattro angoli retti: la somma degli angoli interni di un quadrilatero iperbolico è infatti sempre strettamente minore di un angolo giro. 

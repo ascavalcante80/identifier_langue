@@ -1,0 +1,53 @@
+edicare-nek biztosított elszámolástól függetlenül, átlagosan egy 403 amerikai dolláros / 300 eurós technikai díj, és egy külön fizetendő  díj a radiológusnak, ami nagyjából 93 amerikai dollár / 70 euró. Franciaországban valamennyire más a helyzet, ott egy MRI vizsgálat hozzávetőlegesen 150 euró / 205 amerikai dollár környékén mozog. Ez az összeg magába foglal három alapvizsgálatot, amik közül az egyik során intravénás kontrasztanyagot is alkalmaznak, és lefed még egy konzultációt a technikussal, illetve egy írásos jelentést a páciens orvosának. Japánban, ha leszámítjuk a kontrasztanyag és az elkészült képek árát, akkor egy MRI vizsgálat nagyjából 155 amerikai dollár / 115 euró és 180 amerikai dollár / 133 euró között mozog, amihez még hozzájön a radiológus szakmai bérezése, ami 17 amerikai dollár / 12,50 euró. Indiában egy MRI vizsgálat, amiben nincs benne sem a radiológus szakvéleménye, sem a kontrasztanyag ára, olyan 3000-4000 rúpia (37-49 euró / 50-60 amerikai dollár).
+
+
+=== A készülék túlhasználásaSzerkesztés ===
+A különböző egészségügyi szervezetek felállítottak bizonyos irányelveket azzal kapcsolatban, hogy az orvosoknak milyen körülmények között kellene MRI készüléket használni a pácienseken, illetve a túlhasználás ellen is tettek javaslatokat. Bár MRI segítségével jól lehet látni bizonyos egészségügyi problémákat, vagy hasonlóképpen eredményesen lehet alkalmazni egy diagnózis megerősítésére, de az egészségügyi szervezetek mégis inkább azt javasolják, hogy ne az MRI vizsgálat legyen a legelső ötlet egy diagnózis felállítása során, vagy egy páciens panaszainak a feltérképezése esetén. Úgy határozták meg, hogy az MRI készüléket első sorban viszonylag kis hátfájdalom okának feltérképezéséhez használják az orvosok, ennek azonban vannak ellenzői is. Például az ACP (American College of Physicians) felszólalt ezzel az elképzeléssel szemben, merthogy szerintük alapvetően nem tesz jót a pácienseknek ez a fajta vizsgálati eljárás.
+
+
+== Speciális alkalmazásokSzerkesztés ==
+
+
+=== Diffúziós MRISzerkesztés ===
+A diffúziós MRI a biológiai szövetekben a víz molekulák diffúzióját méri. A klinikai gyakorlatban a diffúziós MRI-t sokrétűen fel tudják használni. Alkalmas különböző állapotok (pl. stroke) vagy neurobiológiai rendellenességek (pl. szklerózis multiplex) diagnosztizálására, és segít a központi idegrendszerben a fehérállományi axonok kapcsolódásának részletesebb megértésében. Izotrópikus közegben (példának okáért egy pohár vízben) a vízmolekulák természetes módon random mozognak a turbulencia és Brown-mozgás befolyásolása szerint. Azonban a diffúzió anizotrópikus is lehet abban az esetben, ha a biológiai szövetekben a Reynolds-szám elég alacsony ahhoz, hogy az áramlás lamináris legyen. Például egy molekulának a sejt axonjában viszonylag kevés az esélye, hogy átjusson a myelinhüvelyen. Így ez a molekula főként a neurális rost tengelyén mozog. Tehát, ha tudjuk, hogy egy adott voxelben ezek a molekulák jóformán egy irányba mozognak, akkor feltételezhetjük, hogy az ezen a területen lévő rostok nagy része párhuzamos erre az irányra.
+A manapság is fejlődésben lévő diffúziós tenzor képalkotás (DTI) lehetővé teszi a diffúzió mérését több irányból is, illetve minden irányból a töredékes anizotrópia is meghatározható a segítségével, amit minden egyes voxelben ki lehet számolni. Ez segíti hozzá a kutatókat, hogy úgynevezett térképeket készíthessenek a rostok irányáról, ami alapján megállapíthatóak a kapcsolódások a különböző agyi területeken (taktográfia használatával). Valamint ez alapján meg lehet még vizsgálni a neurális károsodásokat és demylenizációt egyes területeken, amik a különböző betegségekhez köthető, mint például a szklerózis multiplex.
+Egy másik alkalmazási lehetősége a diffúziós MRI-nek a DWI, diffusion-weighted imaging. Ischaemiás stroke-ot követően a DWI kifejezetten érzékeny a különböző elváltozásokra a károsodott területen. Egyelőre az eredmények alapján arra következtetnek a tudósok, hogy a DWI felvételeken megnövekedett jel annak köszönhető, hogy a citotoxikus ödéma miatt nagyobb lesz a víz diffúziójának gátoltsága. A DWI jel megnövekedése már a stroke szimptómáinak megjelenése után 5-10 perccel észrevehető, ami összehasonlítva a CT-vel igen jó eredmény, mivel a CT gyakran az akut infarktus ideje alatt nem képes kimutatni a különbségeket, csak 4-6 órával utána. A DWI jelváltozás még nagyjából két hétig fennáll a stroke-ot követően. Együtt alkalmazva a kérgi perfúzióval, a tudósok ki tudják emelni azokat a területeket, ahol perfúziós/diffúziós különbség lép fel, így meghatározva azokat az agyi területeket, melyek reperfúziós terápiával talán meg tudnak menteni.
+Mint sok más speciális alkalmazást, ezt is gyakran használják echo planáris képalkotással együtt.
+
+
+=== Mágneses rezonancia angiográfiaSzerkesztés ===
+A mágneses rezonancia angiográfiát (MRA) arra tudják felhasználni, hogy képeket készítsenek az artériákról, ami alapján meg tudják határozni az érszűkületeket vagy verőértágulatot (véredények falának tágulata, ami a felrepedés kockázatával jár együtt). Az MRA-t gyakran használják arra, hogy megvizsgálják a nyaki, agyi, mellkasi, hasi, vese és láb artériákat. Többféle technika is létezik arra, hogy miként generáljanak képeket ezzel a módszerrel. Ilyen például a paramágneses kontrasztanyag (gadolinium) használata, vagy az úgynevezett „áramláshoz kapcsolódó kiemelés” technikája, aminél a képen látható jel nagy részét az éppen azon a felületen átfolyó vér adja. Azok a technikák, amik fázis felhalmozódással járnak (melyek úgy is ismertek, mint fázis ellentét angiográfia), szintén alkalmasak arra, hogy az áramlás sebességét könnyen és pontosan feltérképezzék velük. A mágneses rezonancia venográfia (MRV) pontosan ugyanezen az elven működik, csak éppen a vénákról lehet képet készíteni vele. Ezzel a módszerrel a szövetet alulról stimulálják, miközben azonnal összegyűjtik a jeleket a stimulált rész felett található szövetekről, ezáltal képet készítve a vénás vérről, ami éppen áthaladt a stimulált részen.
+
+
+=== Mágneses rezonancia spektroszkópiaSzerkesztés ===
+A mágneses rezonancia spektroszkópiát (MRS) arra használják, hogy megmérjék a különböző metabolitok mennyiségét a test szöveteiben. Az MR jel egy olyan spektrumot a rezonanciákból, amelyek megfelelnek a különböző „izgalomban” lévő izotópok molekuláris elrendeződésének. Ezt a fajta lenyomatot arra szokták használni, hogy diagnosztizáljanak bizonyos anyagcserezavarokat, különös tekintettel azokra, amik befolyásolják az agyműködést, és hogy információt nyerjenek a daganatos elváltozások anyagcseréjéről. A mágneses rezonancia spektroszkópia képalkotás (MRSI) összefogja a spektroszkópiát és a képalkotási eljárásokat, hogy létre lehessen hozni térben lokalizált spektrumokat a vizsgált mintáról vagy páciensről. A térbeli felbontás lényegesen alacsonyabb (az elérhető jel-zaj viszonytól függően), de a spektrum sok metabolitról tartalmaz információt minden voxelben. Mivel az elérhető jelet arra használják, hogy térbeli és spektrum információkat kódoljanak vele, ezért az MRSI igen magas jel-zaj viszonyt igényel, amit csak a nagyobb térerőre képes készülékekkel lehet elérni (3 Tesla és afölött).
+
+
+== JegyzetekSzerkesztés ==
+
+
+== ForrásokSzerkesztés ==
+Damadian RV. Tumor detection by nuclear magnetic resonance. Science 1971;171:1151-3.
+Edelstein WA, Hutchison JMS.Spin warp NMR imaging andapplications to human whole-body imaging. Physics in Medicine& Biology1980;25:751-6.
+Kastler Bruno ; Patay Zoltán : MRI orvosoknak. Budapest : Folia Neuroradiologica, 1993. 252 o. ISBN 88-85980-14-7
+Kumar D. Welti, Ernst RR.NMR fourier zeugmatography. Journalof Magnetic Resonance1975;18:69-83.
+Philip T. English ; Ch. Moore : MRI for Radiographers. Indianapolis : Springer, 1995. VIII, 187 o. ISBN 3-540-19750-8
+
+
+== További információkSzerkesztés ==
+
+Agykutatási technikák: az fMRI
+MRI Suite Safety Calculator
+A 2003-as Nobel-díjak
+MNI-Talairach átalakítás
+FMRI
+Orvosi Nobel-díj 2003
+Tompa Kálmán: Alapok és kutatói gyalogösvények
+
+
+== Kapcsolódó szócikkekSzerkesztés ==
+SMRI
+FMRI
+Agyi képalkotás
+NMR
+Intelligencia mérése agyi képalkotó eljárásokkal

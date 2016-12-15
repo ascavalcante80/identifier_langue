@@ -1,0 +1,21 @@
+Pääsarja (engl. Main sequence MS) on H-R-kaaviossa kohta, missä suurin osa tähdistä on. Pääsarja on pitkäaikaisin vakaa vaihe tähden kehityksessä. Synnyttyään tähti asettuu pääsarjaan tasapainotilaan.
+Pääsarjan tähdet ulottuvat kirkkaasta sinisestä himmeään punaiseen. Aurinko on keltainen, keskimääräisen kirkas, keski-ikäinen pääsarjan tähti, joka kuuluu spektriluokkaan G2 ja jonka absoluuttinen kirkkaus on 4,8. Aurinko muuttuu pääsarjavaiheen jälkeen punaiseksi jättiläiseksi ja nielaisee Maan joskus viiden miljardin vuoden kuluttua. Sitä ennen Auringosta tulee keltainen alijättiläinen, jonka säteily riittää tuhoamaan elämän maan pinnalta.
+Kirkkaat, kuumat siniset pääsarjan tähdet ovat suhteellisen lyhyikäisiä, säästöliekillä vetyä polttavat himmeät pääsarjan tähdet pitkäikäisiä.
+Pääsarjaa merkitään spektriluokituksessa roomalaisella numerolla V, esimerkiksi Aurinko on G2V. Joissain yhteyksissä pääsarjan tähtiä sanotaan hieman hämääväksi kääpiötähdiksi. Himmeimmille pääsarjan tähdille, M-spektriluokan punaisille kääpiöille, tämä nimitys onkin osuva. Auringon spektriluokka on erään merkintätavan mukaan dG2, missä d = dwarf eli kääpiö. Kirkkaita pääsarjan tähtiä merkitään esimerkiksi G0Va, himmeämpiä G0Vb.
+
+
+== Pääsarjan tähdet kirkkauden ja värin mukaan ==
+
+Yleensä tähdet luokitellaan spektriluokan mukaan ryhmiin. Pääsarjan arvioinnin pohjana voi olla myös väri-indeksi joka on positiivinen valkoisesta keltaiseen päin ja negatiivinen siniseen päin. Luminositeetti on sama kuin tähden kirkkaus kaikilla aaltoalueilla, myös esimerkiksi näkymättömässä infrapunassa ja ultravioletissa. Aurinkoa kuumemmat tähdet säteilevät energiaa huomattavasti enemmän ultravioletti- ja röntgenalueella, ja aurinkoa kylmemmät infrapuna-alueella. Todelliset arvot voivat vaihdella jonkin spektriluokan tähdelle 20-30 %:n rajoissa.
+
+
+=== Pääsarjan tähtien energiantuotannosta ja sisäisestä rakenteesta ===
+Suurimassaiset pääsarjan tähdet ovat lyhytikäisä, koska ovat ytimeltään kuumia ja polttavat vetyä hyvin nopeasti. pienet tähdet polttavat vetyä äärimmäisen hitaasti ja elävät pitkään.
+Auringon tyyppisessä alemman pääsarjan tähdessä lämpö kulkee ytimessä säteilyn avulla, ulompana konvektiolla kaasuvirtausten mukana, ja nämä tähdet tuottavat energiaa polttamalla vetyä protoni-protoni-ketjussa.
+Hyvin pienimassaiset alle 0,08-0,25 Auringon massaiset punaiset kääpiöt ovat kokonaan konvektiivisia.
+Ylemmän pääsarjan tähtien massa on yli 1,1 Auringon massaa. Näiden tähtien pääasiallinen energiantuotantomekanismi on vetyä hiilien, typen ja hapen avulla heliumiksi polttava hiilisykli, ja niiden ydin on konvektiivinen, vaippa radiatiivinen.
+Pääsarjan tähden elinikä τrms.
+
+
+=== Nollaiän pääsarja ZAMS ===
+Nollaiän pääsarjalla (engl. Zero Age Main Sequence ZAMS) tarkoitetaan viivaa, jolla tähti on HR-kaaviossa asetuttuaan pääsarjaan. Tähdillä on taipumus hieman kirkastua elinikänsä aikana. Aurinko oli nollaiän pääsarjassa 70 % nykyistä himmeämpi. Jos Auringon metallipitoisuus olisi eri, sen ZAMS-kohta olisi eri kohdassa kuin sen nykyisellä kemiallisella koostumuksella. Alikääpiöt ovat hyvin metalliköyhiä pääsarjan tyyppisiä tähtiä.

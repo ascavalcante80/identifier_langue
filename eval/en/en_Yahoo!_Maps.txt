@@ -1,0 +1,29 @@
+. Some other Yahoo! services, such as Flickr and Upcoming.org, have their content available through web services, with interesting potential for mashups.
+
+
+== Map dataEdit ==
+The street network and other vector data Yahoo! Maps uses is from Navteq, Tele Atlas, and public domain sources. Detailed street network data is currently available for the United States, Canada, Puerto Rico, the Virgin Islands, and most European countries. Country borders, cities, and water bodies are mapped for the rest of the world.
+Low-resolution satellite imagery is available worldwide. 1–2 meter resolution is available for most of the contiguous United States, and select cities worldwide.
+
+
+== ShutdownEdit ==
+On June 4, 2015, Yahoo! announced that Yahoo! Maps would be shut down, along with Yahoo! Pipes, at the end of the month.
+As of 11 November 2015, Yahoo! Maps can still be accessed at https://maps.yahoo.com/b/
+
+
+== See alsoEdit ==
+Comparison of web map services
+Traffic Message Channel
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Yahoo! Maps
+Yahoo! Local
+Yahoo! Local and Maps Blog
+Yahoo! Maps API Documentation
+Yahoo! Maps API Discussion Group
+Yahoo! Maps API Gallery
+Yahoo! Maps API Gallery (older)

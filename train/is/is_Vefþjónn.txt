@@ -1,0 +1,1 @@
+Vefþjónn er netþjónn (miðlari) sem miðlar gögnum á vefinn með HTTP-samskiptastaðlinum. Vefþjónar eru venjulega með DNS nafn sem byrjar á „www“ sem stendur fyrir World Wide Web, líklegast nefnt eftir fyrsta vafranum - WorldWideWeb. Dæmi um vefþj

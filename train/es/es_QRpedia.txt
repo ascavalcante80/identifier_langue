@@ -1,0 +1,16 @@
+QRpedia es un sistema web para móviles que utiliza los códigos QR para mostrar los artículos de Wikipedia a los usuarios en su idioma preferido. Los códigos QR pueden ser fácilmente generados para acceder directamente a cualquier Uniform Resource Identifier (URI), pero el sistema QRpedia añade una funcionalidad adicional. 
+
+
+== Proceso ==
+Cuando un usuario escanea un código QR ​​en su dispositivo móvil, el dispositivo decodifica el código QR ​​en un Uniform Resource Locator (URL) con el nombre de dominio "qrwp.org", donde el final de la ruta es el título de un artículo de Wikipedia, y envía una solicitud del artículo especificado en la URL al servidor QRpedia, en qrwp.org. Durante este proceso también se transmite la configuración de idioma del dispositivo móvil.
+El servidor QRpedia, a continuación, utiliza la API de Wikipedia para determinar si hay una versión del artículo de Wikipedia que se especifica en el mismo lenguaje utilizado por el dispositivo y, si es así, lo devuelve en un formato móvil de fácil lectura. Si no existe una traducción del artículo solicitado disponible, el servidor QRpedia realiza una búsqueda por el título del artículo en la Wikipedia en el idioma correspondiente, y devuelve los resultados.
+De esta manera, una QRCode puede ofrecer el mismo artículo en varios idiomas, aunque el museo no disponga de sus propias traducciones. QRpedia también registra las estadísticas de uso.
+QRpedia fue concebido por Roger Bamkin, presidente de Wikimedia del Reino Unido, y Eden Terence, un consultor de Internet móvil, y fue presentado el 9 de abril de 2011 en el Derby Museum Backstage pass, un acto organizado por el Derby Museum and Art Gallery como parte de la colaboración GLAM/Derby entre el museo y la comunidad wikipedista, durante el cual se crearon más de 1200 artículos de Wikipedia en varios idiomas. El nombre del proyecto es un juego de palabras entre las iniciales QR de Quick Response, «respuesta rápida» en inglés, y Wikipedia. El código fuente del proyecto es libre y reutilizable bajo la licencia MIT.
+
+
+== Implementaciones ==
+
+Aunque fue creado en el Reino Unido, QRpedia se puede utilizar en cualquier lugar del mundo donde el teléfono del usuario tenga señal de datos. Algunas de las exposiciones o museos en las que se ha usado QRpedia son:
+Museo de los Niños de Indianápolis  (Estados Unidos)
+Derby Museum and Art Gallery (Reino Unido)
+Fundación Joan Miró,  incluyendo una exposición te

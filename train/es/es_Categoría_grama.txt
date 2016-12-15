@@ -1,0 +1,66 @@
+Categoría gramatical (parte de la oración o categoría morfosintáctica) es una antigua clasificación de las palabras según su tipo. En la gramática española el término fue introducido por Antonio de Nebrija. Modernamente el término categoría gramatical se refiere a una variable lingüística que puede tomar diferentes valores que condicionan la forma morfológica concreta de una palabra mucho más general que el uso tradicional del término.
+
+
+== Categorías en la gramática tradicionalEditar ==
+En gramática tradicional la clasificación según categorías es de tipo semántico y no funcional. El concepto tal como se introdujo la gramática tradicional se considera superado y ha sido sustituido por un análisis más moderno, no obstante su uso sigue siendo común en la gramática escolar y tradicional.
+Las categorías que reconoce y la clasificación que propone la gramática tradicional son morfológicas y no deben confundirse con la función sintáctica que desempeña la palabra o grupo de palabras (locuciones).
+La gramática tradicional distingue nueve partes de la oración:
+Sustantivo (o nombre)
+Adjetivo
+Artículo
+Pronombre
+Verbo
+Adverbio
+Interjección
+Preposición
+Conjunción
+Las cinco primeras (sustantivo, adjetivo, artículo, pronombre y verbo) son las llamadas partes variables de la oración, pues las palabras que pertenecen a estos tipos pueden variar en género y número, sin dejar de ser la misma palabra. Una excepción la constituye el verbo, que no varía en género, pero sí en número, persona, tiempo, modo, voz y aspecto.
+Obviamente esta clasificación de la gramática tradicional no es aplicable a lenguas como el chino, el turco o muchas lenguas amerindias, bien por carecer de flexión o bien por carecer de preposiciones, o bien porque verbos y adjetivos forman una clase única.
+
+
+== Categorías en la gramática modernaEditar ==
+
+En teoría lingüística moderna, el término categoría gramatical incluye muchos más aspectos que el término tradicional, que en general sólo se refiere a clases semánticas de palabras. En términos generales una categoría gramatical es una variable morfológica que puede tomar diversos valores para una clase de palabras a la que se aplica, por ejemplo, la clase de los verbos presentan variaciones o realizaciones diferentes según su tiempo, modo, persona, etc., y cada una de estas variables puede tomar diferentes valores, por ejemplo en español la variable "tiempo" puede tomar los valores de pasado, presente o futuro. Normalmente las categorías gramaticales están sujetas a restricciones de concordancia gramatical. Algunas de las categorías gramaticales más frecuentes entre las lenguas de mundo son:
+En los elementos predicativos (verbos):
+Aspecto gramatical
+Modo gramatical
+Tiempo gramatical
+Voz gramatical
+Valencia (intrasitividad, transitividad, ditransitividad).
+Animacidad
+Evidencialidad
+Intencionalidad (control)
+
+En los elementos designativos (nombre, adjetivo):
+Caso gramatical
+Género gramatical
+Número gramatical
+Definición gramatical
+Deixis
+
+En elementos designativos y predicativos:
+Género gramatical (en las lenguas semíticas).
+Número gramatical
+Animacidad
+
+
+== Distintas clasificaciones para las categorías gramaticalesEditar ==
+En gramática generativa, las categorías gramaticales se dividen en dos grandes clases:
+Categorías léxicas. Forman parte de ella las clases de palabras que pueden ser seguidas por un complemento con significado nocional y que pueden ser precedidas de otro elemento que las especifique o las modifique gramaticalmente:
+Verbo. Posee los rasgos [+V] (predicativo) y [-N] (no-denominativo). Selecciona complementos verbales y es especificado gramaticalmente por elementos como la negación y los verbos auxiliares. Forma Sintagmas Verbales.
+Sustantivo. Posee los rasgos [-V] (no-predicativo) y [+N] (denominativo). Puede seleccionar complementos del nombre y ser especificado gramaticalmente por determinantes y cuantificadores. Forma Sintagmas Nominales
+Adjetivo. Posee los rasgos [+V] y [+N]. Admite complementos del adjetivo y especificadores gramaticales de 'grado'. Forma Sintagmas Adjetivos o Adjetivales
+Preposición. Caracterizada como [-N] y [-V]. Selecciona obligatoriamente un complemento (el elemento conocido por la tradición gramatical como 'término de la preposición'). Es raro que lleve especificadores de carácter gramatical, pero sí se dan algunos casos: suelen ser especificadores de grado o la negación, como en Juan es [muy de su pueblo]; no tan hacia abajo. Forma Sintagmas Preposicionales
+Adverbio. Categoría con problemas de adscripción de acuerdo con los parámetros [+/-N] y [+/-V]. Hay propuestas que lo asimilan a la preposición con la diferencia de que carecería de un complemento obligado. Actualmente, no hay unanimidad. Admite complementos del adverbio y especificadores gramaticales de 'grado'. Forma Sintagmas Adverbiales.
+
+Categorías funcionales. Forman parte de ella las palabras que no pueden ser modificadas y que hacen parte de una clase cerrada (o sea, que es imposible aumentar su número por creación léxica):
+Determinante
+Cuantificador
+Auxiliar
+Conjunción
+Complementador
+Negación
+Grado
+Los estudios modernos de teoría lingüística han propuesto otras muchas categorías funcionales, cuyo inventario y caracterización no es aceptado de manera unánime.
+
+Las categorías léxicas poseen contenido o significado nocional, del mundo extralingüístico: en este sentido, enlazan con las categorías mayores, de acuerdo a la clasificación de las clases de palabras por la 

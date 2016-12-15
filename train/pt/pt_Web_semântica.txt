@@ -1,0 +1,22 @@
+A Web semântica é uma extensão da World Wide Web atual, que permitirá aos computadores e humanos trabalharem em cooperação. A Web semântica interliga significados de palavras e, neste âmbito, tem como finalidade conseguir atribuir um significado (sentido) aos conteúdos publicados na Internet de modo que seja perceptível tanto pelo humano como pelo computador.
+A ideia da Web Semântica surgiu em 2001, quando Tim Berners-Lee, James Hendler e Ora Lassila publicaram um artigo na revista Scientific American, intitulado: “Web Semântica: um novo formato de conteúdo para a Web que tem significado para computadores vai iniciar uma revolução de novas possibilidades.”
+
+A web semântica é a relação de interatividade do homem e o computador, onde um depende do outro para a conclusão de tarefas, assim acepção de entendimento do comando estipulado do ser humano à interface operacional da maquina dando um significado de ordem a ser executada. Sendo desta forma uma espécie de escrita de entendimento tanto para o computador e para usuário, por meio de organização das informações contida na maquina, através do seu perfil de suas ultimas pesquisa realizada, originando um repositório de dados linkados, como se fosse um verbete de enciclopédia. Podemos fazer uma assimilação da web semântica com a ciência da informação, pelo fato de possuir a ideia estrutural de arranjo sistêmico, agrupando um conjunto de coleta de análise, classificação, armazenamento, disseminação e recuperação de informação como se fosse uma enciclopédia.
+
+O objetivo principal da Web semântica não é, pelo menos para já, treinar as máquinas para que se comportem como pessoas, mas sim desenvolver tecnologias e linguagens que tornem a informação legível para as máquinas. A finalidade passa pelo desenvolvimento de um modelo tecnológico que permita a partilha global de conhecimento assistido por máquinas (W3C 2001). A integração das linguagens ou tecnologias eXtensible Markup Language (XML), Resource Description Framework (RDF), arquiteturas de meta-dados, ontologias, agentes computacionais, entre outras, favorecerá o aparecimento de serviços Web que garantam a interoperabilidade e cooperação.
+Ultimamente tem-se associado Web Semântica a Web 3.0, como um próximo movimento da Internet depois da Web 2.0 que já inicia seu crescimento.
+
+
+== Objetivos ==
+(Tradução livre do site da W3C)
+A proposta da Web Semântica é estender os princípios dos documentos da web para os dados. Os dados podem ser acessados usando a arquitetura Web (URI, por ex.), e estar relacionados uns com os outros da mesma forma que os documentos já são. Isso também significa criar uma plataforma comum que permita o compartilhamento e a reutilização dos dados por meio das fronteiras das aplicações, empresas e comunidades, podendo ser processados automaticamente tanto por ferramentas quanto manualmente, também revelando novos relacionamentos possíveis entre porções de dados.
+
+
+== Principal aplicação ==
+(Tradução livre do site da W3C)
+Não é possível definir ou prever uma aplicação principal para essa tecnologia, mas um bom candidato seria a integração dos diversos e independentes "depósitos de dados" numa aplicação coerente. Exemplos específicos são atualmente explorados em áreas como as Ciências da Saúde e da Vida, Administração Pública, Engenharia, etc.
+A Web Semântica não será visualizada diretamente pelo browser. As tecnologias de Web Semântica podem agir por trás dos panos, resultando em uma melhor experiência do usuário, em vez de influenciar diretamente na aparência do browser. Isso já está acontecendo: há Web sites que utilizam a Web Semântica em segundo plano (por ex.: site da colecção de artigos técnicos da Sun, portal de suporte da Nokia para o seu dispositivo da série S60, sala de imprensa virtual da Oracle, revista on-line Harper's, portal de Finanças da Yahoo! ou agenda cultural colaborativa Artyvarius)
+
+
+== Ilhas de conhecimento ==
+De início, como disse James Hendler, a Web Semântica será formada por "ilhas de conhecimento", ou seja, nichos de conhecimento específicos para alguma aplicação mas que, através de interoperabilidade entre ontologias poderão interagir

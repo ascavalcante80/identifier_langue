@@ -1,0 +1,10 @@
+ritësi shërbyes (Server) dhe nga aty kthehet përgjigja (Response). Llogaritësi shërbyes nuk dërgohen përgjigjet tek klienti pa kërkesën e tij.
+
+
+== Shiko edhe ==
+Interneti
+Fleta e rrjetit
+IEETF
+
+
+== Lidhje të jashtme ==

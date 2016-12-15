@@ -1,0 +1,15 @@
+Joukko B on joukon A osajoukko, jos jokainen joukon B alkio kuuluu joukkoon A, merkitään . Tällöin sanotaan myös, että B sisältyy joukkoon A.
+
+Formaalisti määritellään, että
+, kun .
+
+Joukko B on joukon A aito osajoukko, jos se on joukon A osajoukko, mutta B ei ole sama kuin A, B ≠A.
+Aitoa osajoukkoa merkitään usein , jolloin osajoukkoa merkitään .
+Jokainen joukko C on itsensä osajoukko, . Tyhjä joukko Ø on jokaisen joukon osajoukko ja aito osajoukko jokaiselle joukolle paitsi itselleen.
+Kun joukossa on n alkiota, siitä voidaan muodostaa  osajoukkoa.
+Esimerkkejä:
+Joukko {1, 2} on joukon {1, 2, 3} aito osajoukko.
+
+Sen kaikki osajoukot ovat Ø, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}.
+
+Joukk

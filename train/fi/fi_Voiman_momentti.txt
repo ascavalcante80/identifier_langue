@@ -1,0 +1,23 @@
+Momentti eli voiman momentti (tunnus M tai ) on mekaniikassa pseudovektorisuure, joka kuvaa systeemiin kohdistuvaa vääntövaikutusta. Momentti lasketaan vääntävän voiman ja vipuvarren ristitulona.
+Momentin SI-järjestelmän mukainen yksikkö on newtonmetri (Nm, ei kuitenkaan joule ). Niin sanotun oikean käden sopimuksen mukaan vastapäivään vääntävän momentin etumerkki on plus, myötäpäivään vääntävän miinus. Vektorina vaakatasossa vastapäivään vääntävä momentti osoittaa ylöspäin, myötäpäivään vääntävä alaspäin.
+Momenttia voi epätäsmällisesti ajatella kappaletta ”pyörittävänä voimana”, sillä momentin asema pyörimisliikettä kuvaavissa yhtälöissä on samanlainen kuin etenevässä liikkeessä voimalla. Jos kappaleeseen kohdistuva kokonaismomentti pyörimisakselin suhteen on nollasta poikkeava, kappaleen pyörimismäärä eli impulssimomentti muuttuu.
+Momentin käsite liittyy myös vipuihin. Vipu on tasapainossa silloin, kun siihen kohdistuvien voimien momenttien summa on nolla.
+
+
+== Matemaattinen muotoilu ==
+Voiman momentti on voiman suuruus kerrottuna sen vaikutuspisteen ja pyörimisakselin välisellä etäisyydellä. Yleisemmin momentti voidaan määritellä ristitulona:
+
+missä
+ on pyörimisakselin ja voiman vaikutuspisteen välinen vektori ja
+ on voima vektorina.
+Sekä välimatkaa että voimaa käsitellään näissä vektorisuureina.
+
+Sama skalaarisessa muodossa on
+
+missä  on pyörimisakselin ja voiman välinen kulma.
+
+
+== Vääntömomentti tekniikassa ==
+Vääntömomentti eli kiertomomentti (tunnus T, englanninkielisessä tekstissä usein , engl. torque) kuvaa kiertävän liikkeen vääntövoimaa.
+Ruuvien ja muttereiden kiristysmomentit ilmoitetaan SI-järjestelmää käytettäessä newtonmetreinä. Aikaisemmin käytettiin usein kilopondimetriä (kpm). Anglosaksisia mittajärjestelmiä käyttävässä maailmassa kiristysmomentti ilmoitetaan tuumanauloina (inlbs) tai jalkanauloina (ftlbs). Kiristys tiettyyn momenttiin hallitaan momenttiavaimella.
+Newtonmetreihin tör

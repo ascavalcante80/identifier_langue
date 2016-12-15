@@ -1,0 +1,58 @@
+்தால் நகர்பேசியை செயலிழக்கச் செய்ய உதவுவதோடு களவெடுத்தவரைக் கையும் மெய்யுமாகக் கண்டுபிடிக்கவும் உதவும்.
+
+
+=== நோக்கியா நகர்பேசி ===
+நோக்கியா (Nokia) நகர்பேசிகளின் தயாரித்த திகதியைக் கண்டறிய நகர்பேசியில் *#0000# விசைகளை அழுத்தவும்.
+நோக்கியா நகர்பேசிகளில வேகமான அழைப்புக்களை ஏற்படுத்த xx# என்றவாறு அழுத்தவும் எடுத்துக்காட்டாக 24 ஆவதுசேமிக்கப்பட்ட இலக்கத்தை அழைக்கவேண்டும் எனில் 24# என்றவாறு விரைவாக டயல் செய்யலாம்.
+நோக்கியா நகர்பேசியின் வரண்டி (Warranty) ஐப்பார்க்க *#92702689# அதாவது (*#WAR0ANTY#) வருமாறு அழுத்திப் பெற்றுக் கொள்ளலாம்.
+
+
+== அருஞ்சொற்பொருள் ==
+நகர்பேசி - Cellular Phone
+நகர் நிலையம் - Mobile Station; same as Cellular Phone
+தொலைபேசி இணைப்பகம் - Telephone Exchange
+குறியீடு பிரிப்பு பன்னணுகல் முறை - Code Division Multiple Access
+வானொலிக் குறிகைகள் - Radio Signals
+இலக்கப்படுத்தப்பட்ட குரல் தரவு - Digital Voice Data
+பரவல் குறியீடு - Spreading Code
+அலையெண் கற்றையகலம் - Frequency Bandwidth
+பரவல் நிறமாலை தொழில்நுட்பம் - Spread spectrum technology
+உலகளாவிய நகரும் தொலைதொடர்பு அமைப்பு - Global System for Mobile communication அல்லது GSM
+காலப்பிரிப்பு பன்னணுகல் - Time Division Multiple Access
+வானலைச் செலுத்துப்பெறுவி - Radio Transceiver
+காட்சித் திரை - Display
+இலக்கக் குறிகைச் செயலி - Digital Signal Processor அல்லது DSP
+சூட்டிகையட்டை - Smart Card
+சந்தாதாரர் அடையாளக்கூறு - Subscriber Identification Module அல்லது SIM
+பன்னாட்டு நகர்சாதன அடையாளம் - International Mobile Equipment Identification - IMEI
+பன்னாட்டு நகர்சந்தாதாரர் அடையாளம் - International Mobile Subsriber Identity - IMSI
+தள நிலையம் - Base Station
+தள செலுத்துப்பெறு நிலையம் - Base Transceiver Station - BTS
+தள நிலைய இயக்ககம் - Base Station Controller - BSC
+வானலைவரிவை துவக்கம் - Radio Channel Setup
+அலையெண் துள்ளல் - Frequency Hopping
+கைமாற்றங்கள் - Handovers
+நகர் நிலைமாற்றகம் - Mobile Switching Center - MSC
+பிணையத் துணையமைப்பு - Network Subsystem
+பொது தொலைபேசி பிணையம் - Public Switched Telephone Network - PSTN
+ஒருங்கிணைநத இலக்கச் சேவைப் பிணையம் - Integrated Services Digital Network - ISDN
+பதிவுசெய்தல் - Registration
+உறுதிபடுத்துதல் - Authentication
+இருப்பிடம் புதுப்பித்தல் - Location Update
+அலையும் சந்தாதாரரிற்கு அழைப்பு திவைவு - Roaming Subscriber Call Routing
+குறிகைமுறை - Signalling
+இல் இருப்பிடம் பதிவகம் - Home Location Register - HLR
+விஜய(வருகையாளர்) இருப்பிடம் பதிவகம் - Visitor Location Registor - VLR
+நகர்நிலைய அலையல் எண் - Mobile Station Raoming Number - MSRN
+பரவல் தரவுத்தளம் - Distributed Database
+பயனில்லா காலகட்டங்கள் - Idle Time Slots
+நகர்கருவி ஒலிபரப்பு கட்டுப்பாடுத் தடம் - Broadcast Control Channel
+தாற்காலிக நகர்சந்தாதாரர் அடையாளம் - Temporary Mobile Subscriber Identity - TMSI
+கம்பியில்லா அணுகு நெறிமுறை - Wireless Access Protocol
+
+
+== வெளி இணைப்புகள் ==
+Cell Phone Deal
+நகர்பேசி குறித்த விளக்கப்பக்கம்
+கம்பியில்லாத் தொலைத்தொடர்பு குறித்த விளக்கப்பக்கம்
+உங்கள் செல்பேசிகளில் இருக்கும் தங்கத்தின் அளவு என்ன?

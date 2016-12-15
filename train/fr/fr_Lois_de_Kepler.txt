@@ -1,0 +1,72 @@
+En astronomie, les lois de Kepler décrivent les propriétés principales du mouvement des planètes autour du Soleil. Elles ont été découvertes par Johannes Kepler à partir des observations et mesures de la position des planètes faites par Tycho Brahe, mesures qui étaient très précises pour l'époque.
+Copernic avait soutenu en 1543 que les planètes tournaient autour du Soleil, mais il s'appuyait sur le mouvement circulaire uniforme, hérité de l'antiquité grecque, et les moyens mathématiques n'étaient pas si différents de ceux utilisés par Ptolémée pour son système géocentrique.
+Les deux premières lois de Kepler sont publiées en 1609 et la troisième en 1618. Les orbites elliptiques, telles qu'énoncées dans ses deux premières lois, permettent d'expliquer la complexité du mouvement apparent des planètes dans le ciel sans recourir aux épicycles, excentriques et autre équant (ou substituts de celui-ci) des modèles copernicien et ptoléméen.
+En 1687, s'appuyant sur les travaux de Galilée, Kepler et Huygens, Isaac Newton découvre la loi de la gravitation qui lui permet d'expliquer les trois lois de Kepler.
+
+
+== Énoncé des trois lois de KeplerModifier ==
+
+
+=== Première loi – Loi des orbitesModifier ===
+
+Les planètes du système solaire décrivent des trajectoires elliptiques dont le Soleil occupe l'un des foyers.
+Dans le référentiel héliocentrique, le Soleil occupe toujours l'un des deux foyers de la trajectoire elliptique des planètes qui gravitent autour de lui. À strictement parler, c'est le centre de masse qui occupe ce foyer ; la plus grande différence est atteinte avec Jupiter qui, du fait de sa masse importante, décale ce centre de masse de 743 075 km ; soit 1,07 rayons solaires — des déplacements plus importants peuvent être obtenus en cumulant les effets des planètes sur leur orbite.
+Les ellipses que décrivent les centres de gravité des planètes sont quasi-circulaires, ayant une faible ou très faible excentricité orbitale, les plus élevées étant celles de Mercure (~0,2), suivie de celle de Mars (~0,09). C'est cette dernière que Kepler a utilisée pour sa découverte de la première loi, et il est aidé en cela par la faiblesse de l'excentricité de l'orbite de la Terre (~0,017) relativement à celle de Mars. Les foyers sont eux bien distincts du centre de l'ellipse.
+
+
+=== Deuxième loi – Loi des airesModifier ===
+
+Si S est le Soleil et M une position quelconque d'une planète, l'aire balayée par le segment [SM] entre deux positions C et D est égale à l'aire balayée par ce segment entre deux positions E et F si la durée qui sépare les positions C et D est égale à la durée qui sépare les positions E et F. La vitesse d'une planète devient donc plus grande lorsque la planète se rapproche du Soleil. Elle est maximale au voisinage du rayon le plus court (périhélie), et minimale au voisinage du rayon le plus grand (aphélie).
+De cette deuxième loi, on déduit que la force exercée sur la planète est constamment dirigée vers le Soleil. Kepler écrira à un collègue : Une chose est certaine : du Soleil émane une force qui saisit la planète.
+De la loi des aires découle directement l'équation de Kepler qui permet de trouver l'aire parcourue en fonction de la position exacte d'une planète.
+En effet la deuxième loi de Kepler implique que la planète accélère en approchant du Soleil et décélère en s'éloignant du Soleil. La vitesse n'est donc pas constante mais seulement l'aire parcourue. C'est pourquoi à T/4 la planète n'a pas parcouru un angle de 90° mais a parcouru une aire de (Aire Totale/4).
+L'équation est de la forme M = E - e sin(E). Avec M l'aire parcourue (connue sous le nom d'anomalie moyenne), e l’excentricité et E l'angle au centre de l'ellipse.
+La réciproque de l'équation de Kepler qui revient à trouver l'angle de la planète en fonction de l'aire (et donc du temps), ne possède pas de résolution exacte. Mais il existe des formes approchées sous forme de sommes infinies ainsi que des approximations grâce à la méthode de Newton.
+
+
+=== Troisième loi – Loi des périodesModifier ===
+
+Le carré de la période sidérale P d'une planète (temps entre deux passages successifs devant une étoile lointaine) est directement proportionnel au cube du demi-grand axe a de la trajectoire elliptique de la planète :
+
+avec k constant. Les lois de la gravitation universelle énoncées par Isaac Newton permettent de déterminer cette constante en fonction de la constante gravitationnelle G, de la masse du Soleil M⊙ et de la masse de la planète m gravitant autour du Soleil selon
+
+soit, avec M>>m
+
+En exprimant les distances en unités astronomiques et les périodes en années, la loi s'exprime très simplement :
+
+De cette troisième loi (appelée aussi « loi harmonique de Kepler ») car elle exprime un invariant à travers tout le système solaire, « donc » une certaine harmonie de celui-ci (le mouvement de toutes les planètes est unifié en une loi universelle) on déduit qu'il existe un facteur constant entre la force exercée et la masse de la planète considérée, qui est la constante de gravitation universelle, ou constante gravitationnelle.
+Cette formule avec celles de l'ellipse permet de calculer les différents paramètres d'une trajectoire elliptique à partir de très peu d'informations. En effet, Johann Lambert (1728 - 1777) montra que la connaissance de trois positions datées permettaient de retrouver les paramètres du mouvement (pour une discussion plus approfondie, voir Démonstration des lois de Kepler ; puis satellite, orbitographie).
+
+
+== Forme newtonienne de la troisième loi de KeplerModifier ==
+Isaac Newton comprit le lien entre les lois de la mécanique classique et la troisième loi de Kepler. Il en déduisit la formule suivante :
+, plus souvent sous la forme 
+où
+ est la période de l'objet,
+ est le demi grand axe de la trajectoire elliptique,
+ est la constante de la gravitation universelle,
+ est la masse de la planète,
+ est la masse de l'étoile.
+
+Dans le cas d'un système étoile/planète, la masse  de la planète peut être négligée par rapport à la masse  de l'étoile : 
+
+
+== Quand ces lois s'appliquent-elles ?Modifier ==
+Un exercice mathématique classique consiste à démontrer qu'on trouve les trois lois de Kepler pour un corps en mouvement à partir du moment où on admet que ce corps est soumis à une accélération inversement proportionnelle au carré de sa distance à un point fixe, et dirigée vers ce point. On parle d'accélération en 1/r². Pour un même corps placé dans différentes conditions initiales, la troisième loi s'applique, avec un coefficient dépendant du problème.
+
+
+=== Cas de la gravitationModifier ===
+En admettant que le Soleil est infiniment lourd par rapport aux planètes, et en négligeant leurs interactions entre elles, on constate que les planètes sont soumises aux trois lois.
+De plus, en combinant le principe fondamental de la dynamique (deuxième loi de Newton) et la loi universelle de la gravitation, on trouve que l'accélération est indépendante de la masse du corps mobile dans le cas d'un mouvement pour lequel la force qui s'applique est la gravité. En conséquence, la constante de la troisième loi est la même pour toutes les planètes.
+On peut appliquer les lois de Kepler pour tout autre objet central ; seule la constante de la troisième loi change. C'est le cas, par exemple, de la Lune et de la Terre ou d'un satellite artificiel en orbite autour de celle-ci ou pour les multiples lunes de Saturne.
+
+
+=== Problème à deux corpsModifier ===
+Les lois de Kepler peuvent aussi s'appliquer dans le cas d'un problème à deux corps. Simplement, dans ce cas, le point central auxquelles se réfèrent les deux premières lois n'est pas le centre du corps le plus massif, mais le centre de masse des deux objets.
+
+
+=== Cas de forces autres que la gravitationModifier ===
+Comme on l'a dit plus haut, les lois de Kepler ne sont pas limitées à la gravitation. Elles s'appliquent pour toute accélération en 1/r². Or c'est aussi le cas de la loi de Coulomb en électrostatique.
+Les lois de Kepler s'appliquent donc aussi aux électrons orbitant autour d'un noyau atomique. Le modèle de Bohr–Sommerfeld prévoit d'ailleurs des orbites elliptiques pour les électrons.
+Par contre, on n'a plus indépendance par rapport à la masse du corps mobile. La constante dans la troisième loi dépend des constantes de la force, et de la masse (indépendante d'un électron à l'autre).
+Toutefois aujourd'

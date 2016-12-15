@@ -1,0 +1,8 @@
+Koordineret universaltid (fransk: temps universel coordonné, UTC) er Verdens primære internationale tidsstandard til brug for regulering af ure og klokkeslæt. Tidsstandarden er næsten det samme som Greenwich Mean Time. De forskellige tidszoners afvigelse angives som UTC efterfulgt af et plustegn eller minustegn og et tal (UTC−12 til UTC+14). Standardtiden GMT angives typisk som UTC+0. I Danmark er der indført centraleuropæisk tid og tiden angives som UTC+1 ved zonetid og som UTC+2 ved sommertid.
+UTC-tid er fastlagt ud fra et antal atomure. Indimellem justeres UTC med et skudsekund for at sikre at UTC passer med Jordens rotation. Alle andre tidszoner fastlægges ud fra UTC. I praksis koordineres tiden via internetservere, der bruger NTP til udveksling af tidsinformation. Selv atomure går ikke helt ens.
+UTC er en "forkortelse" for Coordinated Universal Time (faktisk Universal Time, Coordinated). Kaldes på dansk også universel tid eller undertiden verdenstid. Der er to forklaringer på hvorfor bogstaverne i forkortelsen blev byttet om. Man ville lave et kompromis mellem de engelske og franske forkortelser CUT og TUC og man ville lægge sig op ad de astronomiske tidsskalaer som UT1.
+I en del videnskabelige sammenhænge bruges TAI, Temps Atomique International, international atomtid. Denne tidsskala er udelukkende baseret på atomure, og bruger ikke skudsekunder. Forskellen mellem TAI og UTC ændres derfor hver gang, der tilføjes (eller fjernes) skudsekunder. Den store fordel ved TAI er, at tidspunkter altid kan sammenlignes direkte uden en tabel over tilføjede skudsekunder.
+
+
+== Zulutid ==
+UTC benævnes til tider ogs

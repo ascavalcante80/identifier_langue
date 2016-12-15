@@ -1,0 +1,4 @@
+ snúningsvægi er núll.
+Ef kraftur og snúningarmur eru fastar má reikna vægið með jöfnunni:
+,
+þar sem θ er hornið milli krafts og snúningsarms.

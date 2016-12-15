@@ -1,0 +1,13 @@
+e onderliggende ellipsoïde. Wat niet veel zegt over de hoogte boven zeeniveau. De kust van Nederland en Vlaanderen ligt dan bijvoorbeeld op ca. 43 m hoogte. Hoogtes boven zeeniveau wordt daarom bepaald ten opzichte van een geoïde, zoals in Nederland het Normaal Amsterdams Peil (NAP) of in België de Tweede Algemene Waterpassing. Dat is een equipotentiaalvlak van de zwaartekracht, ofwel een vlak dat in elk punt loodrecht op de zwaartekracht staat. Er is ook een wereldwijde geoïde: Earth Gravitational Model 1996 (EGM96). In de praktijk geven gps-ontvangers vaak de hoogte ten opzichte van deze geoïde aan (hoogte boven gemiddeld zeeniveau). In Nederland komt dat (vrijwel) overeen met NAP.
+
+
+== Bronnen ==
+
+
+== Externe links ==
+earth-info.nga.mil, WGS 84
+rdnap.nl, Informatie over coördinaatsystemen
+iers.org, ITRS
+owoma.de/, informatie over de WGS84-geoïde (Duits)
+itrf.ensg.ign.fr, ITRF
+deltavissers.nl, omrekening ED50 naar WGS 84

@@ -1,0 +1,240 @@
+El término acero sirve comúnmente para denominar, en ingeniería metalúrgica, a una mezcla de hierro con una cantidad de carbono variable entre el 0,03 % y el 2,14 % en masa de su composición, dependiendo del grado. Si la aleación posee una concentración de carbono mayor al 2,14 % se producen fundiciones que, en oposición al acero, son mucho más frágiles y no es posible forjarlas sino que deben ser moldeadas.
+No se debe confundir el acero con el hierro, que es un metal duro y relativamente dúctil, con diámetro atómico (dA) de 2,48 Å, con temperatura de fusión de 1535 °C y punto de ebullición 2740 °C. Por su parte, el carbono es un no metal de diámetro menor (dA = 1,54 Å), blando y frágil en la mayoría de sus formas alotrópicas (excepto en la forma de diamante). La difusión de este elemento en la estructura cristalina del anterior se logra gracias a la diferencia en diámetros atómicos, formándose un compuesto intersticial.
+La diferencia principal entre el hierro y el acero se halla en el porcentaje del carbono: el acero es hierro con un porcentaje de carbono de entre el 0,03 % y el 1,075 %, a partir de este porcentaje se consideran otras aleaciones con hierro.
+Cabe destacar que el acero posee diferentes constituyentes según su temperatura, concretamente, de mayor a menor dureza, perlita, cementita y ferrita; además de la austenita (para mayor información consultar el artículo Diagrama Hierro-Carbono).
+El acero conserva las características metálicas del hierro en estado puro, pero la adición de carbono y de otros elementos tanto metálicos como no metálicos mejora sus propiedades físico-químicas.
+Existen muchos tipos de acero en función del elemento o los elementos aleantes que estén presentes. La definición en porcentaje de carbono corresponde a los aceros al carbono, en los cuales este no metal es el único aleante, o hay otros pero en menores concentraciones. Otras composiciones específicas reciben denominaciones particulares en función de múltiples variables como por ejemplo los elementos que predominan en su composición (aceros al silicio), de su susceptibilidad a ciertos tratamientos (aceros de cementación), de alguna característica potenciada (aceros inoxidables) e incluso en función de su uso (aceros estructurales). Usualmente estas aleaciones de hierro se engloban bajo la denominación genérica de aceros especiales, razón por la que aquí se ha adoptado la definición de los comunes o "al carbono" que además de ser los primeros fabricados y los más empleados, sirvieron de base para los demás. Esta gran variedad de aceros llevó a Siemens a definir el acero como «un compuesto de hierro y otra sustancia que incrementa su resistencia».
+
+
+== Historia ==
+
+El término "acero" procede del latín "aciarius", y éste de la palabra "acies", que es como se denomina en esta lengua el filo de un arma blanca. "Aciarius" sería, por tanto, el metal adecuado, por su dureza y resistencia, para ponerlo en la parte cortante de las armas y las herramientas. Se desconoce la fecha exacta en que se descubrió la técnica para obtener hierro a partir de la fusión de minerales. Sin embargo, los primeros restos arqueológicos de utensilios de hierro datan del 3000 a. C. y fueron descubiertos en Egipto, aunque hay vestigios de adornos anteriores. Algunos de los primeros aceros provienen del este de África, cerca de 1400 a. C. Durante la dinastía Han de China se produjo acero al derretir hierro forjado con hierro fundido, en torno al siglo I a. C.  También adoptaron los métodos de producción para la creación de acero wootz, un proceso surgido en India y en Sri Lanka desde aproximadamente el año 300 a. C. y exportado a China hacia el siglo V. Este temprano método utilizaba un horno de viento, soplado por los monzones.  También conocido como acero Damasco, era una aleación de hierro con gran número de diferentes materiales, incluyendo trazas de otros elementos en concentraciones menores a 1000 partes por millón o 0,1 % de la composición de la roca. Estudios realizados por Peter Paufler sugirieron que en su estructura se incluían nanotubos de carbono, lo que podría explicar algunas de las cualidades de este acero -como su durabilidad y capacidad de mantener un filo-, aunque debido a la tecnología de la época es posible que las mismas se hayan obteniendo por azar y no por un diseño premeditado.
+Entre los siglos IX y X se produjo en Merv el acero de crisol, en el cual el acero se obtenía calentando y enfriando el hierro y el carbón por distintas técnicas. Durante la dinastía Song del siglo XI en China, la producción de acero se realizaba empleando dos técnicas: la primera producía acero de baja calidad por no ser homogéneo —método "berganesco"— y la segunda, precursora del método Bessemer, quita el carbón con forjas repetidas y somete la pieza a enfriamientos abruptos.
+
+El hierro para uso industrial fue descubierto hacia el año 1500 a. C., en Medzamor y el monte Ararat, en Armenia. La tecnología del hierro se mantuvo mucho tiempo en secreto, difundiéndose extensamente hacia el año 1200 a. C.
+No hay registros de que la templabilidad fuera conocida hasta la Edad Media. Los métodos antiguos para la fabricación del acero consistían en obtener hierro dulce en el horno, con carbón vegetal y tiro de aire, con una posterior expulsión de las escorias por martilleo y carburación del hierro dulce para cementarlo. Luego se perfeccionó la cementación fundiendo el acero cementado en crisoles de arcilla y en Sheffield (Inglaterra) se obtuvieron, a partir de 1740, aceros de crisol. La técnica fue desarrollada por Benjamin Huntsman.
+En 1856, Henry Bessemer, desarrolló un método para producir acero en grandes cantidades, pero dado que solo podía emplearse hierro que contuviese fósforo y azufre en pequeñas proporciones, fue dejado de lado. Al año siguiente, Carl Wilhelm Siemens creó otro, el procedimiento Martin-Siemens, en el que se producía acero a partir de la descarburación de la fundición de hierro dulce y óxido de hierro como producto del calentamiento con aceite, gas de coque, o una mezcla este último con gas de alto horno. Este método también quedó en desuso.
+Aunque en 1878 Siemens también fue el primero en emplear electricidad para calentar los hornos de acero, el uso de hornos de arco eléctricos para la producción comercial comenzó en 1902 por Paul Héroult, quien fue uno de los inventores del método moderno para fundir aluminio. En este método se hace pasar dentro del horno un arco eléctrico entre chatarra de acero cuya composición se conoce y unos grandes electrodos de carbono situados en el techo del horno.
+
+En 1948 se inventa el proceso del oxígeno básico L-D. Tras la segunda guerra mundial se iniciaron experimentos en varios países con oxígeno puro en lugar de aire para los procesos de refinado del acero. El éxito se logró en Austria en 1948, cuando una fábrica de acero situada cerca de la ciudad de Linz, Donawitz desarrolló el proceso del oxígeno básico o L-D.
+En 1950 se inventa el proceso de colada continua que se usa cuando se requiere producir perfiles laminados de acero de sección constante y en grandes cantidades. El proceso consiste en colocar un molde con la forma que se requiere debajo de un crisol, el que con una válvula puede ir dosificando material fundido al molde. Por gravedad el material fundido pasa por el molde, el que está enfriado por un sistema de agua, al pasar el material fundido por el molde frío se convierte en pastoso y adquiere la forma del molde. Posteriormente el material es conformado con una serie de rodillos que al mismo tiempo lo arrastran hacia la parte exterior del sistema. Una vez conformado el material con la forma necesaria y con la longitud adecuada el material se corta y almacena.
+En la actualidad se utilizan algunos metales y metaloides en forma de ferroaleaciones, que, unidos al acero, le proporcionan excelentes cualidades de dureza y resistencia.
+Actualmente, el proceso de fabricación del acero, se completa mediante la llamada metalurgia secundaria. En esta etapa, se otorgan al acero líquido las propiedades químicas, temperatura, contenido de gases, nivel de inclusiones e impurezas deseados. La unidad más común de metalurgia secundaria es el horno cuchara. El acero, aquí producido, está listo para ser posteriormente colado, en forma convencional o en colada continua.
+
+El uso intensivo que tiene y ha tenido el acero para la construcción de estructuras metálicas ha conocido grandes éxitos y rotundos fracasos que al menos han permitido el avance de la ciencia de materiales. Así, el 7 de noviembre de 1940 el mundo asistió al colapso del puente Tacoma Narrows al entrar en resonancia con el viento. Ya durante los primeros años de la Revolución industrial se produjeron roturas prematuras de ejes de ferrocarril que llevaron a William Rankine a postular la fatiga de materiales y durante la Segunda Guerra Mundial se produjeron algunos hundimientos imprevistos de los cargueros estadounidenses Liberty al fragilizarse el acero por el mero descenso de la temperatura, problema inicialmente achacado a las soldaduras.
+En muchas regiones del mundo, el acero es de gran importancia para la dinámica de la población, industria y comercio.[cita requerida]
+
+
+== Componentes ==
+Los dos componentes principales del acero se encuentran en abundancia en la naturaleza, lo que favorece su producción a gran escala. Esta variedad y disponibilidad lo hace apto para numerosos usos como la construcción de maquinaria, herramientas, edificios y obras públicas, contribuyendo al desarrollo tecnológico de las sociedades industrializadas. A pesar de su densidad (7850 kg/m³ de densidad en comparación a los 2700 kg/m³ del aluminio, por ejemplo) el acero es utilizado en todos los sectores de la industria, incluso en el aeronáutico, ya que las piezas con mayores solicitaciones (ya sea al Impacto o a la fatiga) solo pueden aguantar con un material dúctil y tenaz como es el acero, además de la ventaja de su relativo bajo costo.
+
+
+=== Otros elementos en el acero ===
+
+
+==== Elementos aleantes del acero y mejoras obtenidas con la aleación ====
+Las clasificaciones normalizadas de aceros como la AISI, ASTM y UNS, establecen valores mínimos o máximos para cada tipo de elemento. Estos elementos se agregan para obtener unas características determinadas como templabilidad, resistencia mecánica, dureza, tenacidad, resistencia al desgaste, soldabilidad o maquinabilidad. A continuación se listan algunos de los efectos de los elementos aleantes en el acero: 
+Aluminio: se usa en algunos aceros de nitruración al Cr-Al-Mo de alta dureza en concentraciones cercanas al 1 % y en porcentajes inferiores al 0,008 % como desoxidante en aceros de alta aleación.
+Boro: en muy pequeñas cantidades (del 0,001 al 0,006 %) aumenta la templabilidad sin reducir la maquinabilidad, pues se combina con el carbono para formar carburos proporcionando un revestimiento duro. Es usado en aceros de baja aleación en aplicaciones como cuchillas de arado y alambres de alta ductilidad y dureza superficial. Utilizado también como trampa de nitrógeno, especialmente en aceros para trefilación, para obtener valores de N menores a 80 ppm.
+
+Cobalto: muy endurecedor. Disminuye la templabilidad. Mejora la resistencia y la dureza en caliente. Es un elemento poco habitual en los aceros. Aumenta las propiedades magnéticas de los aceros. Se usa en los aceros rápidos para herramientas y en aceros refractarios.
+Cromo: Forma carburos muy duros y comunica al acero mayor dureza, resistencia y tenacidad a cualquier temperatura. Solo o aleado con otros elementos, mejora la resistencia a la corrosión. Aumenta la profundidad de penetración del endurecimiento por tratamiento termoquímico como la carburación o la nitruración. Se usa en aceros inoxidables, aceros para herramientas y refractarios. También se utiliza en revestimientos embellecedores o recubrimientos duros de gran resistencia al desgaste, como émbolos, ejes, etc.
+Molibdeno: es un elemento habitual del acero y aumenta mucho la profundidad de endurecimiento de acero, así como su tenacidad. Los aceros inoxidables austeníticos contienen molibdeno para mejorar la resistencia a la corrosión.
+Nitrógeno: se agrega a algunos aceros para promover la formación de austenita.
+Níquel: es un elemento gammageno permitiendo una estructura austenítica a temperatura ambiente, que aumenta la tenacidad y resistencia al impacto. El níquel se utiliza mucho para producir acero inoxidable, porque aumenta la resistencia a la corrosión.
+Plomo: el plomo no se combina con el acero, se encuentra en él en forma de pequeñísimos glóbulos, como si estuviese emulsionado, lo que favorece la fácil mecanización por arranque de viruta, (torneado, cepillado, taladrado, etc.) ya que el plomo es un buen lubricante de corte, el porcentaje oscila entre 0,15 % y 0,30 % debiendo limitarse el contenido de carbono a valores inferiores al 0,5 % debido a que dificulta el templado y disminuye la tenacidad en caliente. Se añade a algunos aceros para mejorar mucho la maquinabilidad.
+Silicio: aumenta moderadamente la templabilidad. Se usa como elemento desoxidante. Aumenta la resistencia de los aceros bajos en carbono.
+Titanio: se usa para estabilizar y desoxidar el acero, mantiene estables las propiedades del acero a alta temperatura. Se utiliza su gran afinidad con el Carbono para evitar la formación de carburo de hierro al soldar acero.
+Wolframio: también conocido como tungsteno. Forma con el hierro carburos muy complejos estables y durísimos, soportando bien altas temperaturas. En porcentajes del 14 al 18 %, proporciona aceros rápidos con los que es posible triplicar la velocidad de corte de los aceros al carbono para herramientas.
+Vanadio: posee una enérgica acción desoxidante y forma carburos complejos con el hierro, que proporcionan al acero una buena resistencia a la fatiga, tracción y poder cortante en los aceros para herramientas.
+
+
+==== Impurezas ====
+Se denomina impurezas a todos los elementos indeseables en la composición de los aceros. Se encuentran en los aceros y también en las fundiciones como consecuencia de que están presentes en los minerales o los combustibles. Se procura eliminarlas o reducir su contenido debido a que son perjudiciales para las propiedades de la aleación. En los casos en los que eliminarlas resulte imposible o sea demasiado costoso, se admite su presencia en cantidades mínimas.
+Azufre: límite máximo aproximado: 0,04 %. El azufre con el hierro forma sulfuro, el que, conjuntamente con la austenita, da lugar a un eutéctico cuyo punto de fusión es bajo y que, por lo tanto, aparece en bordes de grano. Cuando los lingotes de acero colado deben ser laminados en caliente, dicho eutéctico se encuentra en estado líquido, lo que provoca el desgranamiento del material.
+Se controla la presencia de sulfuro mediante el agregado de manganeso. El manganeso tiene mayor afinidad por el azufre que el hierro por lo que en lugar de FeS se forma MnS que tiene alto punto de fusión y buenas propiedades plásticas. El contenido de Mn debe ser aproximadamente cinco veces la concentración de S para que se produzca la reacción.
+El resultado final, una vez eliminados los gases causantes, es una fundición menos porosa, y por lo tanto de mayor calidad.
+Aunque se considera un elemento perjudicial, su presencia es positiva para mejorar la maquinabilidad en los procesos de mecanizado. Cuando el porcentaje de azufre es alto puede causar poros en la soldadura.
+Fósforo: límite máximo aproximado: 0,04 %. El fósforo resulta perjudicial, ya sea al disolverse en la ferrita, pues disminuye la ductilidad, como también por formar FeP («fosfuro de hierro»). El fosfuro de hierro, junto con la austenita y la cementita, forma un eutéctico ternario denominado «esteadita», el que es sumamente frágil y posee un punto de fusión relativamente bajo, por lo cual aparece en bordes de grano, transmitiéndole al material su fragilidad.
+Aunque se considera un elemento perjudicial en los aceros, porque reduce la ductilidad y la tenacidad, haciéndolo quebradizo, a veces se agrega para aumentar la resistencia a la tensión y mejorar la maquinabilidad.
+
+
+== Clasificación ==
+
+
+=== Según el modo de fabricación ===
+Acero eléctrico.
+Acero fundido.
+Acero calmado.
+Acero efervescente.
+Acero fritado.
+
+
+=== Según el modo de trabajarlo ===
+Acero moldeado.
+Acero laminado.
+
+
+=== Según la composición y la estructura ===
+Aceros ordinarios.
+Aceros aleados o especiales.
+Los aceros aleados o especiales contienen otros elementos, además de carbono, que modifican sus propiedades. Éstos se clasifican según su influencia:
+Elementos que aumentan la dureza: fósforo, níquel, cobre, aluminio. En especial aquellos que conservan la dureza a elevadas temperaturas: titanio, vanadio, molibdeno, wolframio, cromo, manganeso y cobalto.
+Elementos que limitan el crecimiento del tamaño de grano: aluminio, titanio y vanadio.
+Elementos que determinan en la templabilidad: aumentan la templabilidad: manganeso, molibdeno, cromo, níquel y silicio. Disminuye la templabilidad: el cobalto.
+Elementos que modifican la resistencia a la corrosión u oxidación: aumentan la resistencia a la oxidación: molibdeno y wolframio. Favorece la resistencia a la corrosión: el cromo.
+Elementos que modifican las temperaturas críticas de transformación: Suben los puntos críticos: molibdeno, aluminio, silicio, vanadio, wolframio. Disminuyen las temperaturas críticas: cobre, níquel y manganeso. En el caso particular del cromo, se elevan los puntos críticos cuando el acero es de alto porcentaje de carbono pero los disminuye cuando el acero es de bajo contenido de carbono.
+
+
+=== Según los usos ===
+Acero para imanes o magnético.
+Acero autotemplado.
+Acero de construcción.
+Acero de corte rápido.
+Acero de decoletado.
+Acero de corte.
+Acero indeformable.
+Acero inoxidable.
+Acero de herramientas.
+Acero para muelles.
+Acero refractario.
+Acero de rodamientos.
+
+
+== Características mecánicas y tecnológicas del acero ==
+
+Aunque es difícil establecer las propiedades físicas y mecánicas del acero debido a que estas varían con los ajustes en su composición y los diversos tratamientos térmicos, químicos o mecánicos, con los que pueden conseguirse aceros con combinaciones de características adecuadas para infinidad de aplicaciones, se pueden citar algunas propiedades genéricas:
+Su densidad media es de 7850 kg/m³.
+En función de la temperatura el acero se puede contraer, dilatar o fundir.
+El punto de fusión del acero depende del tipo de aleación y los porcentajes de elementos aleantes. El de su componente principal, el hierro es de alrededor de 1510 °C en estado puro (sin alear), sin embargo el acero presenta frecuentemente temperaturas de fusión de alrededor de 1375 °C, y en general la temperatura necesaria para la fusión aumenta a medida que se aumenta el porcentaje de carbono y de otros aleantes. (excepto las aleaciones eutécticas que funden de golpe). Por otra parte el acero rápido funde a 1650 °C.
+Su punto de ebullición es de alrededor de 3000 °C.
+Es un material muy tenaz, especialmente en alguna de las aleaciones usadas para fabricar herramientas.
+Relativamente dúctil. Con él se obtienen hilos delgados llamados alambres.
+Es maleable. Se pueden obtener láminas delgadas llamadas hojalata. La hojalata es una lámina de acero, de entre 0,5 y 0,12 mm de espesor, recubierta, generalmente de forma electrolítica, por estaño.
+Permite una buena mecanización en máquinas herramientas antes de recibir un tratamiento térmico.
+Algunas composiciones y formas del acero mantienen mayor memoria, y se deforman al sobrepasar su límite elástico.
+La dureza de los aceros varía entre la del hierro y la que se puede lograr mediante su aleación u otros procedimientos térmicos o químicos entre los cuales quizá el más conocido sea el templado del acero, aplicable a aceros con alto contenido en carbono, que permite, cuando es superficial, conservar un núcleo tenaz en la pieza que evite fracturas frágiles. Aceros típicos con un alto grado de dureza superficial son los que se emplean en las herramientas de mecanizado, denominados aceros rápidos que contienen cantidades significativas de cromo, wolframio, molibdeno y vanadio. Los ensayos tecnológicos para medir la dureza son Brinell, Vickers y Rockwell, entre otros.
+Se puede soldar con facilidad.
+La corrosión es la mayor desventaja de los aceros ya que el hierro se oxida con suma facilidad incrementando su volumen y provocando grietas superficiales que posibilitan el progreso de la oxidación hasta que se consume la pieza por completo. Tradicionalmente los aceros se han venido protegiendo mediante tratamientos superficiales diversos. Si bien existen aleaciones con resistencia a la corrosión mejorada como los aceros de construcción «corten» aptos para intemperie (en ciertos ambientes) o los aceros inoxidables.
+Posee una alta conductividad eléctrica. Aunque depende de su composición es aproximadamente de 3 · 106 S/m. En las líneas aéreas de alta tensión se utilizan con frecuencia conductores de aluminio con alma de acero proporcionando éste último la resistencia mecánica necesaria para incrementar los vanos entre la torres y optimizar el coste de la instalación.
+Se utiliza para la fabricación de imanes permanentes artificiales, ya que una pieza de acero imantada no pierde su imantación si no se la calienta hasta cierta temperatura. La magnetización artificial se hace por contacto, inducción o mediante procedimientos eléctricos. En lo que respecta al acero inoxidable, al acero inoxidable ferrítico sí se le pega el imán, pero al acero inoxidable austenítico no se le pega el imán ya que la fase del hierro conocida como austenita no es atraída por los imanes. Los aceros inoxidables contienen principalmente níquel y cromo en porcentajes del orden del 10 % además de algunos aleantes en menor proporción.
+Un aumento de la temperatura en un elemento de acero provoca un aumento en la longitud del mismo. Este aumento en la longitud puede valorarse por la expresión: δL = α δ t° L, siendo a el coeficiente de dilatación, que para el acero vale aproximadamente 1,2 · 10−5 (es decir α = 0,000012). Si existe libertad de dilatación no se plantean grandes problemas subsidiarios, pero si esta dilatación está impedida en mayor o menor grado por el resto de los componentes de la estructura, aparecen esfuerzos complementarios que hay que tener en cuenta. El acero se dilata y se contrae según un coeficiente de dilatación similar al coeficiente de dilatación del hormigón, por lo que resulta muy útil su uso simultáneo en la construcción, formando un material compuesto que se denomina hormigón armado. El acero da una falsa sensación de seguridad al ser incombustible, pero sus propiedades mecánicas fundamentales se ven gravemente afectadas por las altas temperaturas que pueden alcanzar los perfiles en el transcurso de un incendio.
+
+
+=== Desgaste ===
+Es la degradación física (pérdida o ganancia de material, aparición de grietas, deformación plástica, cambios estructurales como transformación de fase o recristalización, fenómenos de corrosión, etc.) debido al movimiento entre la superficie de un material sólido y uno o varios elementos de contacto.
+
+
+== Normalización de las diferentes clases de acero ==
+
+Para homogeneizar las distintas variedades de acero que se pueden producir, existen sistemas de normas que regulan la composición de los aceros y las prestaciones de los mismos en cada país, en cada fabricante de acero, y en muchos casos en los mayores consumidores de aceros.
+Por ejemplo, en España están regulados por la norma UNE-EN 10020:2001 y antiguamente estaban reguladas por la norma UNE-36010, ambas editadas por AENOR.
+Existen otras normas reguladoras del acero, como la clasificación de AISI (de uso mucho más extendido internacionalmente), ASTM, DIN, o la ISO 3506.
+
+
+== Formación del acero ==
+
+
+== Tratamientos del acero ==
+
+
+=== Tratamientos superficiales ===
+
+Debido a la facilidad que tiene el acero para oxidarse cuando entra en contacto con la atmósfera o con el agua, es necesario y conveniente proteger la superficie de los componentes de acero para protegerles de la oxidación y corrosión. Muchos tratamientos superficiales están muy relacionados con aspectos embellecedores y decorativos de los metales.
+Los tratamientos superficiales más usados son los siguientes:
+Cincado: tratamiento superficial antioxidante por proceso electrolítico o mecánico al que se somete a diferentes componentes metálicos.
+Cromado: recubrimiento superficial para proteger de la oxidación y embellecer.
+Galvanizado: tratamiento superficial que se da a la chapa de acero.
+Niquelado: baño de níquel con el que se protege un metal de la oxidación.
+Pavonado: tratamiento superficial que se da a piezas pequeñas de acero, como la tornillería.
+Pintura: usado especialmente en estructuras, automóviles, barcos, etc.
+
+
+=== Tratamientos térmicos ===
+
+Un proceso de tratamiento térmico adecuado permite aumentar significativamente las propiedades mecánicas de dureza, tenacidad y resistencia mecánica del acero. Los tratamientos térmicos cambian la microestructura del material, con lo que las propiedades macroscópicas del acero también son alteradas.
+Los tratamientos térmicos que pueden aplicarse al acero sin cambiar en su composición química son:
+Templado.
+Revenido.
+Recocido.
+Normalizado.
+
+
+==== Tratamientos termoquímicos ====
+Son tratamientos térmicos en los que, además de los cambios en la estructura del acero, también se producen cambios en la composición química de la capa superficial, añadiendo diferentes productos químicos hasta una profundidad determinada. Estos tratamientos requieren el uso de calentamiento y enfriamiento controlados en atmósferas especiales. Entre los objetivos más comunes de estos tratamientos están aumentar la dureza superficial de las piezas dejando el núcleo más blando y tenaz, disminuir el rozamiento aumentando el poder lubrificante, aumentar la resistencia al desgaste, aumentar la resistencia a fatiga o aumentar la resistencia a la corrosión.
+Cementación (C): aumenta la dureza superficial de una pieza de acero dulce, aumentando la concentración de carbono en la superficie. Se consigue teniendo en cuenta el medio o atmósfera que envuelve el metal durante el calentamiento y enfriamiento. El tratamiento logra aumentar el contenido de carbono de la zona periférica, obteniéndose después, por medio de temples y revenidos, una gran dureza superficial, resistencia al desgaste y buena tenacidad en el núcleo.
+Nitruración (N): al igual que la cementación, aumenta la dureza superficial, aunque lo hace en mayor medida, incorporando nitrógeno en la composición de la superficie de la pieza. Se logra calentando el acero a temperaturas comprendidas entre 400 y 525 °C, dentro de una corriente de gas amoníaco, más nitrógeno.
+Cianuración (C+N): endurecimiento superficial de pequeñas piezas de acero. Se utilizan baños con cianuro, carbonato y cianato sódico. Se aplican temperaturas entre 760 y 950 °C.
+Carbonitruración (C+N): al igual que la cianuración, introduce carbono y nitrógeno en una capa superficial, pero con hidrocarburos como metano, etano o propano; amoníaco (NH3) y monóxido de carbono (CO). En el proceso se requieren temperaturas de 650 a 850 °C y es necesario realizar un temple y un revenido posterior.
+Sulfinización (S+N+C): aumenta la resistencia al desgaste por acción del azufre. El azufre se incorporó al metal por calentamiento a baja temperatura (565 °C) en un baño de sales.
+Entre los factores que afectan a los procesos de tratamiento térmico del acero se encuentran la temperatura y el tiempo durante el que se expone a dichas condiciones al material. Otro factor determinante es la forma en la que el acero vuelve a la temperatura ambiente. El enfriamiento del proceso puede incluir su inmersión en aceite o el uso del aire como refrigerante.
+El método del tratamiento térmico, incluyendo su enfriamiento, influye en que el acero tome sus propiedades comerciales.
+Según ese método, en algunos sistemas de clasificación, se le asigna un prefijo indicativo del tipo. Por ejemplo, el acero O-1, o A2, A6 (o S7) donde la letra "O" es indicativo del uso de aceite (del inglés: oil quenched), y "A" es la inicial de aire; el prefijo "S" es indicativo que el acero ha sido tratado y considerado resistente al golpeo (shock resistant).
+
+
+== Mecanizado del acero ==
+
+
+=== Acero laminado ===
+
+El acero que se utiliza para la construcción de estructuras metálicas y obras públicas, se obtiene a través de la laminación de acero en una serie de perfiles normalizados.
+El proceso de laminado consiste en calentar previamente los lingotes de acero fundido a una temperatura que permita la deformación del lingote por un proceso de estiramiento y desbaste que se produce en una cadena de cilindros a presión llamado tren de laminación. Estos cilindros van formando el perfil deseado hasta conseguir las medidas que se requieran. Las dimensiones de las secciones conseguidas de esta forma no se ajustan a las tolerancias requeridas y por eso muchas veces los productos laminados hay que someterlos a fases de mecanizado para ajustar sus dimensiones a la tolerancia requerida.
+
+
+=== Acero forjado ===
+
+La forja es el proceso que modifica la forma de los metales por deformación plástica cuando se somete al acero a una presión o a una serie continuada de impactos. La forja generalmente se realiza a altas temperaturas porque así se mejora la calidad metalúrgica y las propiedades mecánicas del acero.
+El sentido de la forja de piezas de acero es reducir al máximo posible la cantidad de material que debe eliminarse de las piezas en sus procesos de mecanizado. En la forja por estampación la fluencia del material queda limitada a la cavidad de la estampa, compuesta por dos matrices que tienen grabada la forma de la pieza que se desea conseguir.
+
+
+=== Acero corrugado ===
+
+El acero corrugado es una clase de acero laminado usado especialmente en construcción, para emplearlo en hormigón armado. Se trata de barras de acero que presentan resaltos o «corrugas» que mejoran la adherencia con el hormigón. Está dotado de una gran ductilidad, la cual permite que a la hora de cortar y doblar no sufra daños, y tiene una gran soldabilidad, todo ello para que estas operaciones resulten más seguras y con un menor gasto energético.
+
+Las barras de acero corrugado están normalizadas. Por ejemplo, en España las regulan las normas: UNE 36068:1994- UNE 36065:2000 –UNE36811:1998.
+Las barras de acero corrugados se producen en una gama de diámetros que van de 6 a 40 mm, en la que se cita la sección en cm² que cada barra tiene así como su peso en kg.
+Las barras inferiores o iguales a 16 mm de diámetro se pueden suministrar en barras o rollos, para diámetros superiores a 16 siempre se suministran en forma de barras.
+Las barras de producto corrugado tienen unas características técnicas que deben cumplir, para asegurar el cálculo correspondiente de las estructuras de hormigón armado. Entre las características técnicas destacan las siguientes, todas ellas se determinan mediante el ensayo de tracción:
+límite elástico Re (Mpa)
+carga unitaria de rotura o resistencia a la tracción Rm (MPa)
+alargamiento de rotura A5 (%)
+alargamiento bajo carga máxima Agt (%)
+relación entre cargas Rm/Re
+módulo de Young E
+
+
+=== Estampado del acero ===
+
+La estampación del acero consiste en un proceso de mecanizado sin arranque de viruta donde a la plancha de acero se la somete por medio de prensas adecuadas a procesos de embutición y estampación para la consecución de determinadas piezas metálicas. Para ello en las prensas se colocan los moldes adecuados.
+
+
+=== Troquelación del acero ===
+
+La troquelación del acero consiste en un proceso de mecanizado sin arranque de viruta donde se perforan todo tipo de agujeros en la plancha de acero por medio de prensas de impactos donde tienen colocados sus respectivos troqueles y matrices.
+
+
+=== Mecanizado blando ===
+
+Las piezas de acero permiten mecanizarse en procesos de arranque de virutas en máquinas-herramientas (taladro, torno, fresadora, centros de mecanizado CNC, etc.) luego endurecerlas por tratamiento térmico y terminar los mecanizados por procedimientos abrasivos en los diferentes tipos de rectificadoras que existen.
+
+
+=== Rectificado ===
+El proceso de rectificado permite obtener muy buenas calidades de acabado superficial y medidas con tolerancias muy estrechas, que son muy beneficiosas para la construcción de maquinaria y equipos de calidad. Pero el tamaño de la pieza y la capacidad de desplazamiento de la rectificadora pueden presentar un obstáculo.
+
+
+=== Mecanizado duro ===
+En ocasiones especiales, el tratamiento térmico del acero puede llevarse a cabo antes del mecanizado en procesos de arranque de virutas, dependiendo del tipo de acero y los requerimientos que deben ser observados para determinada pieza. Con esto, se debe tomar en cuenta que las herramientas necesarias para dichos trabajos deben ser muy fuertes por llegar a sufrir desgaste apresurado en su vida útil. Estas ocasiones peculiares, se pueden presentar cuando las tolerancias de fabricación son tan estrechas que no se permita la inducción de calor en tratamiento por llegar a alterar la geometría del trabajo, o también por causa de la misma composición del lote del material (por ejemplo, las piezas se están encogiendo mucho por ser tratadas). En ocasiones es preferible el mecanizado después del tratamiento térmico, ya que la estabilidad óptima del material ha sido alcanzada y, dependiendo de la composición y el tratamiento, el mismo proceso de mecanizado no es mucho más difícil.
+
+
+=== Mecanizado por descarga eléctrica ===
+
+En algunos procesos de fabricación que se basan en la descarga eléctrica con el uso de electrodos, la dureza del acero no hace una diferencia notable.
+
+
+=== Taladrado profundo ===
+
+En muchas situaciones, la dureza del acero es determinante para un resultado exitoso, como por ejemplo en el taladrado profundo al procurar que un agujero mantenga su posición referente al eje de rotación de la broca de carburo. O por ejemplo, si el acero ha sido endurecido por ser tratado térmicamente y por otro siguiente tratamiento térmico se ha suavizado, la consistencia puede ser demasiado suave para beneficiar el proceso, puesto que la trayectoria de la broca tenderá a desviarse.
+
+
+=== Doblado ===
+El doblado del acero que ha sido tratado térmicamente no es muy recomendable pues el proceso de doblado en frío del material endurecido es más difícil y el material muy probablemente se haya tornado demasiado quebradizo para ser doblado; el proceso de doblado empleando antorchas u otros métodos para aplicar calor tampoco es recomendable puesto que al volver a aplicar calor al metal duro, la integri

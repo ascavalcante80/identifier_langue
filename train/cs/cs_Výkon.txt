@@ -1,0 +1,37 @@
+Výkon je skalární fyzikální veličina, která vyjadřuje množství práce vykonané za jednotku času.
+Rozlišuje se průměrný výkon, který se vztahuje k určitému časovému intervalu, a okamžitý výkon, který se vztahuje k určitému časovému okamžiku.
+Množství energie spotřebované za jednotku času se označuje jako příkon.
+Vzájemný poměr výkonu a příkonu vyjadřuje poměrnou fyzikální veličinu nazývanou účinnost, která se často vyjadřuje v procentech (poměr násobený 100).
+
+
+== Značení ==
+Označení veličiny: P (performance)
+Jednotka SI: watt (= J·s−1), značka jednotky: W
+Další jednotky: koňská síla, kalorie za sekundu
+
+
+== Výpočet ==
+Průměrný výkon je podílem celkové práce W a doby t za kterou byla práce vykonána, tzn.
+
+Okamžitý výkon získáme ze vztahu
+
+
+== Teorie systémů ==
+Podrobnější informace naleznete v článku Teorie systémů. Na tuto kapitolu je přesměrováno heslo Výkonová veličina.
+Pro účely modelování výkonově kauzálních systémů se zavedly pojmy úsilí a tok, kde součin jejich veličin má být přímo výkon. Obecně však taková funkce musí mít totální diferenciál, jinak je potřeba ještě další faktor k přenásobení.
+
+
+== Mechanický výkon ==
+Mechanický výkon je mechanická práce vykonaná za jednotku času. Stroj, který má větší výkon, vykoná za stejný čas více práce.
+Pro výpočet výkonu P během práce, při které působí stálá síla F působící na těleso pohybující se stálou rychlostí v, platí:
+,
+kde  označuje složku síly ve směru pohybu (tečná složka síly) a  je úhel mezi vektorem rychlosti a vektorem působící síly.
+V případě rotačního pohybu (M je moment síly, ϖ je úhlová rychlost) lze získat vztah
+
+
+== Elektrický výkon ==
+Podrobnější informace naleznete v článku Elektrický výkon.
+Stejnosměrný elektrický výkon se spočítá jako součin napětí a proudu, což plyne z toho, že změnu práce lze vyjádřit jako změnu elektrického náboje při daném napětí, tzn. , odkud získáme
+
+kde Q je elektrický náboj, U je napětí a I je proud.
+U střídavého výkonu je výpočet složitější, protože závisí mimo velikosti napětí a proudu také na tvaru signálu a vzá

@@ -1,0 +1,21 @@
+In der Geometrie ist ein Quadrat (veraltet auch Geviert) ein spezielles Polygon, nämlich ein ebenes, konvexes und regelmäßiges Viereck. Das Quadrat ist ein Sonderfall des Parallelogramms, des Trapezes, des Rechtecks und der Raute. Für die Konstruktion eines Quadrats genügt eine Angabe, z. B. der Länge der Seite oder der Diagonale.
+Quadrate sind die Begrenzungsflächen eines der platonischen Körper (= dreidimensionale reguläre Polytope), nämlich des Würfels. Das Quadrat ist zudem ein Stein einer regulären Parkettierung. Als Spezialfall entsprechender allgemeiner n-dimensionaler Körper ist das Quadrat sowohl der zweidimensionale Hyperwürfel als auch das zweidimensionale Kreuzpolytop.
+
+
+== Eigenschaften ==
+
+Für das Quadrat gilt:
+Die vier Seiten sind gleich lang – es ist gleichseitig.
+Die vier (Innen-)Winkel sind gleich – es ist gleichwinklig (alle Winkel 90°).
+Es hat vier Symmetrieachsen: die beiden Seitensymmetralen (Mittelsenkrechten) und die beiden Diagonalen.
+Es ist 4-zählig drehsymmetrisch und daher auch punktsymmetrisch.
+Die beiden Diagonalen sind gleich lang, halbieren einander und stehen aufeinander senkrecht.
+Der Schnittpunkt der Diagonalen ist Umkreis- und Inkreis­mittelpunkt – das Quadrat ist sowohl Sehnen- als auch Tangentenviereck.
+Der Flächeninhalt des Umkreises ist doppelt so groß wie der des Inkreises.
+
+
+== Formelsammlung ==
+
+
+== Verallgemeinerungen ==
+Der Begriff Quadrat wird in der synthetischen Geom

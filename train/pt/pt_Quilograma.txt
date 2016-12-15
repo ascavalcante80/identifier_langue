@@ -1,0 +1,38 @@
+O quilograma (símbolo no SI: kg) é a unidade básica de massa do Sistema Internacional de Unidades (SI) e é definido como sendo igual à massa do International Prototype Kilogram, IPK, (protótipo internacional do quilograma) que tem peso quase igual ao de um litro de água. Esse protótipo é composto por irídio e platina e encontra-se sob custódia do Escritório Internacional de Pesos e Medidas (BIPM) em Sèvres, França desde 1889, quando foi sancionado pela Conferência Geral de Pesos e Medidas (CGPM).
+A massa de um corpo também é usada para determinar o seu peso. No uso cotidiano, a massa de objetos variados é dada em quilogramas e a partir dela pode-se chegar ao seu peso, que é a medida da gravidade em ação em uma determinada massa. No SI, o peso não é dado em quilograma-força (kgf), sendo essa unidade substituída pelo newton (N). Tanto o quilograma-força quando o newton são unidades derivadas do quilograma.
+Antes de adotar-se o IPK, o quilograma era definido como sendo a massa de um litro d'água desmineralizada a quinze graus Celsius. Abandonou-se esse método, porém, após perceber-se que a massa da mesma quantidade de água variava de acordo com a sua pureza.
+
+
+== Etimologia ==
+A palavra kilograma é derivada do grego χίλιοι (chílioi), que significa "mil" e γράμμα (grámma), que significa "peso pequeno". 
+
+
+== História ==
+Em 7 de abril de 1795, na França, o grama foi definido como sendo igual à massa de um volume de água igual a um cubo com aresta da centésima parte do metro. O conceito de definir uma unidade de massa com base num determinado volume d'água havia surgido com o filósofo inglês John Wilkins em 1668. 
+Como as massas utilizadas pelo homem no seu cotidiano são relativamente maiores do que o grama, e uma vez que um padrão feito com base na água, que não apresenta a mesma densidade em todas as suas amostras, seria incômodo, a regulamentação comercial exigiu um método de definição de massa que mantivesse sua estabilidade e que pudesse ser reproduzido. Assim, o padrão de massa provisório foi feito com um artefato metálico mil vezes mais massivo que o grama, o quilograma.
+Ao mesmo tempo, um projeto para determinar com precisão o quilograma foi encomendado. Embora a definição inicial tivesse decretado que a água deveria estar a 0 ºC, como sendo o seu ponto em que ela está mais estável, o químico francês Louis Lefèvre-Gineau e o naturalista italiano Giovanni Fabbroni, após vários anos de pesquisa, propuseram, em 1799, a redefinição do padrão para a temperatura de 4 °C, considerada a mais estável por ser o momento em que a água atinge a sua densidade máxima.  Nesse mesmo ano, um protótipo de platina foi fabricado com o objetivo de ter a mesma massa de um decímetro cúbico de água a 4 °C. Ele foi formalmente aceito em 10 de dezembro de 1799 e este padrão perdurou por mais noventa anos.
+
+
+== Natureza da massa ==
+
+A massa é constantemente relacionada com o peso, embora nem sempre essa associação seja verdadeira. Fisicamente falando, massa é uma propriedade inercial, isso é, a tendência que um corpo tem de permanecer em seu estado inicial de movimento, a menos que influenciado por uma força. De acordo com Isaac Newton, através de suas leis, pode-se obter uma relação de força, massa e aceleração com a fórmula  (sendo  a força;  , a massa; , a aceleração). Sendo assim, um corpo de massa 1 kg, tendo aplicada sobre ele uma força de 1N, tem aceleração igual a 1m/s². Essa também é a equação utilizada para determinar o peso de um objeto de acordo com a sua massa e com a gravidade local. Para isso, a equação  é utilizada como  (sendo  o peso; , a massa;  a aceleração da gravidade). Em ambos os casos, a massa permaneceu a mesma. Pode-se assim concluir que a massa de um corpo não varia dependendo de onde ele se encontra, o que varia é o peso do corpo em função da aceleração a que ele é submetido.
+Para demonstrar a relação entre força, massa e aceleração, pode-se usar o exemplo de um balanço. As correntes do balanço seguram todo o peso da criança, se alguém a segurar por trás do balanço, ocorre uma variação abrupta de aceleração porque existe uma ação contra a sua inércia, que surge puramente da massa da criança e não do seu peso
+
+
+== Importância do quilograma ==
+A estabilidade do protótipo internacional do quilograma, o IPK, é de suma importância, haja vista que a unidade quilograma sustenta grande parte de derivadas no SI. Por exemplo, o newton é definido como a força necessária para causar aceleração a um quilograma a um metro por segundo ao quadrado. Caso a massa do IPK mude, também mudará o newton e todas as outras unidades que derivem do quilograma. O pascal, unidade de pressão do SI, é derivado do newton, que por sua vez é derivado do quilograma; sendo assim, o pascal é definido indiretamente pelo quilograma. Essa cadeia de dependências se segue por muitas outras unidades. Por exemplo, o joule, unidade de trabalho, é definido pela energia gasta pela ação de uma força ao longo de um deslocamento. A equação abaixo mostra como a unidade joule é dependente da unidade quilograma:
+
+Preocupando-se com a estabilidade do IPK e, portanto, com todas as unidades dele derivadas, foram sugeridos novos modelos para definir o quilograma.
+
+
+== Propostas para alteração do padrão ==
+Estuda-se há algum tempo mudar a definição de quilograma para uma que seja baseada em alguma constante física, como se faz com as outras unidades do SI. Hoje, o quilograma é a única unidade do sistema que é definida por um artefato.
+Constante de Planck: O quilograma é a massa de repouso cuja energia corresponde à de exatos 299792458²/662606896)×10-41 Hz
+Essa definição implicaria o valor exato para a Constante de Planck de h = 6,626 068 96×10-34 J s. Esse valor é consistente com o valor de 2006 da CODATA de 6,626 068 96×10-34 ± 0,000 000 33×10-34 J s.
+
+Constante de Avogadro: O quilograma é a massa de exatos (6,022 141 79×1023/0,012) átomos de carbono em repouso e em seu estado-padrão.
+Essa definição implicaria o valor exato para a constante de Avogadro de NA = 6,022 141 79×1023 entidades elementares por mol, consequentemente dando a definição simples e concisa de mol. Esse valor é consistente com o valor de 2006 da CODATA, de 6,022 141 79×1023 ± 0,000 000 30×1023 mol-1. Com base nessa definição, foi feito o projeto Avogadro.
+Massa do elétron: O quilograma é a unidade básica de massa, igual a 1 097 769 238 499 215 084 016 780 676 223 unidades de massa do elétron.
+Essa definição implicaria o valor exato para a massa do eléctron de me = 9,1093826×10-31 kg. Esse valor é consistente com o valor de 2002 da CODATA, de 9,1093826×10-31 ± 0,0000016×10-31 kg.
+Carga elementar: O quilograma é a massa que será acelerada precisamente a 2×10-7 m/s² quando submetida a uma força por metro entre dois fios condutores retilínios, paralelos, de comprimento infinito e de secções retas desprezíveis, no vácuo, distos um metro, por onde passa uma corrente constante de exatos 6 241 509 479 607 717 888 cargas elementares por segundo.
+Essa definição implicaria o valor exato para a carga elementar (carga do eléctron) de e = 1,602 176 487×10-19 C. Implica também a definição exata de Coulomb como sendo exatas 6 241 509 479 607 717 888 unidades elementares de carga , e de Ampère como sendo exatamente a corrente elétrica de 6 241 509 479 607 717 888 unidades elementares de carga por segundo. Esse valor é consistent

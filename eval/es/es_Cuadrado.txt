@@ -1,0 +1,23 @@
+anteriores, habrás obtenido finalmente el cuadrado.
+
+
+== El cuadrado y el álgebra ==
+Consideremos un cuadrado centrado en el origen de coordenadas, con lados paralelos a los ejes coordenados, de lado 2. Sus vértices señalados con 1, 2 3 y 5 desde el primer cuadrante en sentido antihorario. Interesa los movimientos que conduzcan el cuadrado sobre sí mismo. Hay cuatro rotaciones:
+rω para los ángulos ω=π/2, ω=π, ω =3π/2, ω=2π. Observar que el rotar 2π equivale a rotar 0 grados.
+Además hay 4 reflexiones con respecto a los ejes coordenados X, Y y con respecto a las rectas que contienen a sendas diagonales. que denotaremos αX αy α1 α2, que corresponden a las reflexiones , respectivamente, respecto al eje X, al Y, al eje bisector del primer cuadrante y al eje bisector del segundo cuadrante. Tanto una rotación como una reflexión se llamará acción, y la composición de una acción con otra da una única tercera acción ,obviamente, una de las ocho anteriores. Por ejemplo.
+rπ/2 * rπ/2 = rπ = (rπ/2)2, Así sucesivamente. El conjunto de las ocho acciones sobre el cuadrado y la composición de acciones forma un grupo finito de orden 8, cuyo elemento identidad es la rotación 0 o de 2π. Tema de interés aplicativo en cristalografía. 
+
+
+== Referencias ==
+
+
+== Véase también ==
+Área
+Anexo:Figuras geométricas
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre Cuadrado. Commons
+ Wikcionario tiene definiciones y otra información sobre cuadrado.Wikcionario
+Weisstein, Eric W. «Cuadrado». En Weisstein, Eric W. MathWorld (en inglés). Wolfram Research. 
+¿Cómo se construye un cuadrado? el análisis de una síntesis euclidiana. Clara Helena Sánchez B. Universidad Nacional de Colombia, Bogotá

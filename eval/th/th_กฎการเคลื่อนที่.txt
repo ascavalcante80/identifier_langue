@@ -1,0 +1,60 @@
+่ 1 ===
+
+and get
+
+and
+
+Differentiate
+
+twice:
+
+Substitute into the radial equation of motion
+
+and get
+
+Divide by 
+
+These solutions are
+
+where  and  are arbitrary constants of integration. So the result is
+
+Choosing the axis of the coordinate system such that , and inserting , gives:
+
+If  this is Kepler's first law.
+
+
+=== กฎเคปเลอร์ข้อที่ 3 ===
+
+where:
+T = planet's sidereal period
+r = radius of the planet's circular orbit
+G = the gravitational constant
+M = mass of the sun
+
+โดย:
+T = object's sidereal period
+a = object's semimajor axis
+G = the gravitational constant = 6.67 × 10−11 N • m²/kg²
+M = mass of one object
+m = mass of the other object
+
+Q.E.D.
+
+
+== อ้างอิง ==
+
+
+== See also ==
+Kepler problem
+Circular motion
+Gravity
+Two-body problem
+Free-fall time
+
+
+== แหล่งข้อมูลอื่น ==
+Crowell, Benjamin, Conservation Laws, http://www.lightandmatter.com/area1book2.html, an online book that gives a proof of the first law without the use of calculus. (see section 5.2, p.112)
+David McNamara and Gianfranco Vidali, Kepler's Second Law -JAVA Interactive Tutorial, http://www.phy.syr.edu/courses/java/mc_html/kepler.html, an interactive JAVA applet that aids in the understanding of Kepler's Second Law.
+University of Tennessee's Dept. Physics & Astronomy: Astronomy 161 page on Johannes Kepler: The Laws of Planetary Motion [1]
+Equant compared to Kepler: interactive model [2]
+Kepler's Third Law:interactive model[3]

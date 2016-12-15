@@ -1,0 +1,28 @@
+Le module d'élasticité (souvent appelé « module élastique ») est une grandeur intrinsèque d'un matériau, définie par le rapport de la contrainte à la déformation élastique provoquée par cette contrainte. La déformation est exprimée comme une grandeur sans dimension. L'unité pratique souvent usitée du module est le MPa.
+Le comportement élastique d'un matériau homogène isotrope et linéaire est caractérisé par deux modules (ou constantes) d'élasticité indépendants. Le tableau nommé « Formules de conversion » en bas de page indique les relations des paires de modules d'élasticité, sur un total de six modules : E, G, K, M, ν et λ. L'utilisation des relations données dans ce tableau nécessite cependant des corrections qui sont données dans la littérature.
+En ingénierie structurelle, le choix le plus courant est la paire module d'Young et coefficient de Poisson (E, ν) ; la paire équivalente (E, G) est aussi utilisée. Le module E (lié à la raideur) est souvent utilisé en acoustique.
+La connaissance des caractéristiques rhéologiques en fonction de la température revêt un grand intérêt. Les évolutions de modules ou de viscosités sont souvent importantes. Voir aussi Température de transition vitreuse (Tv) et Thermostabilité.
+
+
+== Typologie ==
+Selon le type de déformation, le module d'élasticité d'un matériau peut être :
+le module d'Young ou de traction, d'élasticité longitudinale, de compression, de flexion (Ef), souvent appelé simplement « module d'élasticité » (E) ;
+le module de cisaillement ou d'élasticité tangentielle, de torsion (Gto), etc. (G) ;
+le module d'élasticité isostatique ou de compressibilité, de compression en flambage, etc. (K) ;
+ou le module d'onde de compression ou d'onde plane (L ou M).
+Divers types de modules d'élasticité correspondant aux différents types de déformation (exemples) :
+
+
+== Modules en régime dynamique ==
+
+En général, pour un matériau viscoélastique, il n'existe pas de relation contrainte  déformation (équation rhéologique) indépendante du temps (t), c'est le cas notamment du rapport contrainte sur déformation. Le rapport contrainte dynamique  sur déformation dynamique  d'un matériau viscoélastique soumis à une vibration sinusoïdale est appelé module complexe ou module dynamique ou module viscoélastique, noté M*
+
+avec :
+M', le module de conservation, partie réelle de M*, représentant la composante élastique de M* et la rigidité du matériau viscoélastique ;
+M'', le module de perte, partie imaginaire de M*, représentant la composante visqueuse de M* ;
+C*, la complaisance complexe, pour un comportement viscoélastique linéaire ;
+ et , les amplitudes des cycles de contrainte et de déformation, respectivement.
+Les contraintes élastiques et visqueuses sont liées aux propriétés du matériau par le module.
+Le schéma ci-dessus représente diverses propriétés mécaniques dynamiques dans le plan complexe, dans une expérience utilisant des déformations sinusoïdales ;  est l'angle de phase entre la contrainte et la déformation.
+Un matériau est considéré comme viscoélastique linéairement si, lorsqu'il est faiblement déformé, le rapport contrainte sur déformation (ou module) n'est fonction que de la fréquence (ou du temps) et de la température (T). À partir d'un niveau de déformation critique, le comportement de l'échantillon est non-linéaire.
+Un module viscoélastique est déterminé en DMA à partir de la géométrie et de la raideur dynamique de l'échantillon. Par exemple, les modules viscoélastiques E' et E'' d'un solide déformable peuvent être mesurés en DMA en soumettant l'échantillon à une contrainte de traction-compression ou de flexion. Les modules viscoélastiques G' et G'' d'u

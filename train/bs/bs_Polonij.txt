@@ -1,0 +1,63 @@
+Polonij (lat. - polonium) jeste hemijski element sa simbolim Po i atomskim brojem 84. Otkrili su ga 1898. godine Marie Curie i Pierre Curie. To je rijetki i veoma radioaktivni element bez stabilnih izotopa. U hemijskom aspektu, polonij je veoma sličan bizmutu i teluru, a javlja se u sklopu ruda uranija. Postoji vrlo mali broj oblasti gdje se koristi polonij. Osim kao sredstvo za generiranje topline u svemirskim probama, koristi se u antistatičkim uređajima i kao izvor neutrona i alfa-čestica. Zbog svog mjesta u periodnom sistemu, gdje je uvršten u VIA grupu, polonij se ponekad smatra metaloidom. Međutim, drugi izvori navode da je on bez sumnje metal, što dokazuju na bazi osobina i djelovanja polonija.
+
+
+== Osobine ==
+
+
+=== Izotopi ===
+Polonij ima 33 poznata izotopa, od kojih su svi radioaktivni. Oni imaju atomske mase u rasponu od 188 do 220 u. Izotop 210Po (vrijeme poluraspada 138,376 dana) je najviše korišten i dostupan. 209Po (sa vremenom poluraspada od 125,2 ± 3,3 godine) jeste polonijev izotop sa najdužim vremenom poluraspada od svih njegovih izotopa. Taj izotop zajedno sa izotopom 208Po (vrijeme poluraspada 2,9 godina) se mogu dobiti putem alfa-, protonskim ili deuteronskim bombardovanjem olova ili bizmuta u ciklotronu.
+Izotop 210Po je emiter alfa-zraka a ima vrijeme poluraspada od 138,4 dana; raspada se direktno u svoj kćerinski stabilni izotop, 206Pb. Miligram (5 kirija) izotopa 210Po emitira toliki broj alfa čestica u sekundi koliko i 5 grama izotopa 226Ra. Nekoliko kirija (1 kiri jednak je 37 GBq (gigabekerela)) izotopa 210Po isijava plavo zračenje uzrokovano pobuđivanjem okolnog zraka. Samo jedna od 100.000 alfa-emisija uzrokuje pobuđivanje u jezgru koje može rezultirati emisijom gama zraka sa maksimalnom energijom od 803 keV.
+
+
+=== U čvrstom stanju ===
+
+Polonij je radioaktivni element koji postoji u dvije metalne modifikacije. Alfa modifikacija je jedini poznati primjer jednostavne kubične kristalne strukture na bazi jednog atoma, čija je ivica dužine 335,2 pikometara; dok je beta modifikacija romboedarske strukture. Karakteristika strukture polonija je difrakcija (prelamanje) x-zraka i difrakcija elektrona.
+210Po (obično zajedno sa 238Pu) ima mogućnost lahkog dospijevanja u zrak: ako se njegov uzorak zagrije u prisustvu zraka na 55 °C (131 °F), oko 50% te količine ispari u periodu od 45 sati u obliku dvoatomskih Po2 molekula, iako je tačka topljenja polonija 254 °C (489 °F) a tačka ključanja 962 °C (1,764 °F). Postoji nekoliko pretpostavki za ovu pojavu; a jedna od hipoteza je da se pri alfa-raspadu od uzorka odlome male skupine atoma polonija.
+
+
+=== Hemijske ===
+Hemijske osobine polonija slične su onima telura i bizmuta. Polonij se lahko rastvara u razblaženim kiselinama, ali mu je rastvorljivost u bazama vrlo slaba. Rastvori polonija najprije poprimaju ružičastu boju zbog iona Po2+, da bi nedugo zatim vrlo brzo postali žuti zbog alfa-radijacije iz polonija koji ionizira rastvor i pretvara ione Po2+ u Po4+. Ovaj proces je praćen nastankom balončića gasa i emisijom toplote i svjetlosti iz staklenog posuđa jer ono apsorbira alfa-zrake. Kao rezultat, rastvori polonija vrlo lahko isparavaju i mogu za nekoliko dana potpuno ispariti ako posuda nije čvrsto zatvorena.
+
+
+== Historija ==
+Ranije provizorno nazvan radij F, polonij su otkrili Marie i Pierre Curie 1898. godine, i dali mu ime u čast Marijine domovine Poljske (lat. Polonia). Današnja Poljska u to vrijeme je bila podijeljenja između Ruskog carstva, Njemačke i Austro-Ugarske pa nije postojala kao nezavisna zemlja. Curiejeva nada kojom se rukovodila pri davanju imena elementa je bila da će to imati odjeka u svijetu i skrenuti pažnju na poljsku težnju ka nezavisnošću. Polonij je bio prvi element koji je dobio ime u svrhu naglašavanja neke političke kontroverze.
+Ovaj je element prvi koji su otkrili Curiejevi dok su istraživali radioaktivnost minerala uraninita. Taj mineral, nakon izdvajanja radioaktivnih elemnata uranija i torija iz njega, bio je još više radioaktivniji nego kad je sadržavao ta dva elementa. Ta pojava navela je Curieje u potragu za drugim radioaktivnim elementima sadržanim u uraninitu. Iz njega su prvo izdvojili polonij u julu 1898. a pet mjeseci kasnije izolirali su radij. U Sjedinjenim Američkim Državama, polonij se proizvodio kao dio potprojekta Dayton u sklopu projekta Manhattan tokom Drugog svjetskog rata. On je bio kritični dio nuklearnog oružja implozivnog tipa koje se koristilo u bombi Fat Man bačenoj na Nagasaki 9. augusta 1945. godine. Polonij i berilij bili su osnovni sastojci moduliranog neutronskog detonatora tipa jež (urchin) koji je postavljan u središte sferno konstruiranog plutonijskog jezgra bombe. Detonator jež je pokretao lančanu nuklearnu reakciju u trenutku dostizanja kritične mase čime se osiguravalo ispravno detoniranje bombe. Veći dio osnovnih fizičkih i hemijskih osobina polonija krio se sve do završetka Drugog svjetskog rata. Činjenica da je korišten kao detonator bila je povjerljiva informacija u vojsci SAD sve do 1960tih.
+Komisija za atomsku energiju SAD i projekt "Manhattan" vršili su eksperimente na ljudima, koristeći polonij dajući ga petero osoba na Univerzitetu u Rochesteru između 1943. i 1947. godine. Tim ljudima su davali između 9 i 22 mikrokirija (330 do 810 kBq) polonija proučavajući način njegovog izlučivanja iz ljudskog organizma.
+
+
+== Detekcija ==
+
+
+=== Mjerenje gama zračenja ===
+Pomoću radiometrijskih metoda kao što je gama spektroskopija (ili koristeći metode hemijske separacije nakon čega se mjeri aktivnost sa brojačem koji ne rasipa energiju), moguće je mjerenje koncentracije radioizotopa i razlikovanje jednih od drugih. U praksi, prisutan je pozadinski šum, te u zavisnosti od detektora, širina linije je veća što otežava identifikaciju i mjerenje izotopa. U biološkim i medicinskim radovima obično se koristi prirodno prisutni 40K u svim tjelesnim tkivima i tekućinama kao proba podešenosti opreme i kao interni standard.
+
+
+=== Alfa-zraci ===
+Najbolji način za testiranje (i mjerenje) mnogih alfa emitera je korištenje spektroskopije alfa-čestica. Obično se stavi kapljica ispitivanog rastvora na metalni disk koji se zatim isušuje te se dobija ravnomjerno obložen disk. On se zatim koristi kao testni uzorak. Ako je debljina sloja formiranog na disku isuviše velika, onda se pri mjerenju javljaju preširoke linije spektra. Ovo se dešava jer se dio energije alfa čestica gubi kretanjem kroz sloj aktivnog materijala. Alternativna metoda je korištenje scintilacije interne tekućine gdje je uzorak pomiješan sa scintiliranim "koktelom". Kada se mjeri emitirano svjetlo, neki uređaji će zabilježiti količinu svjetlosne energije po svakom događaju radioaktivnog raspada.
+Zbog nesavršenosti metode tekuće scintilacije (kao što je nemogućnost detekcije svih fotona, teškoće brojanja kod zamućenih ili obojenih uzoraka) i činjenice da nasumično gašenje može smanjiti broj fotona generiranih po jednom radioaktivnom raspadu, nemoguće je postići proširenje alfa spektra dobijenog pomoću tekuće scintilacije. Moguće je da će ovi spektri tekuće sintilacije biti subjekt Gausovog proširenja umjesto distorcije koja se javlja kada je sloj aktivnog materijala na disku previše debeo. Treći metod raspršavanjem energije radi brojanja alfa čestica sastoji se u upotrebi poluprovodničkog detektora.
+
+
+== Spojevi ==
+Polonij nema prirodnih spojeva, a gotovo svi njegovi spojevi dobijeni su vještački. Do danas je poznato više od 50 takvih spojeva. Najstabilnija klasa spojeva polonija su polonidi, koji se dobijaju direktnom reakciju dvaju elemenata. Na2Po ima antifluoritnu strukturu, a polonidi Ca, Ba, Hg, Pb i lantanoida grade rešetku sličnu NaCl, BePo i CdPo imaju strukturu wurtzita, a MgPo nikl-arsenida. Većina polonida se raspada pri zagrijavanju na oko 600 °C, izuzev HgPo koji se raspada na približno 300 °C te lantanoidnih polonija koji se ne raspadaju već regularno tope pri temperaturama iznad 1000 °C. Naprimjer PrPo se topi na 1250 °C a TmPo na 2200 °C. PbPo je jedan od rijetkih prirodnih spojeva polonija, jer se polonij raspada alfa-raspadom dajući olovo.
+Polonij-hidrid (PoH2) je volatilna (isparljiva) tekućina pri sobnoj temperaturi sklona disocijaciji. Dva oksida polonija PoO2 i PoO3 proizvod su oksidacije polonija. Poznati su i halidi strukture PoX2, PoX4 i PoX6. Oni su rastvorljivi u odgovarajućim vodikovim halidima npr. PoClX u HCl, PoBrX u HBr i PoI4 u HI. Polonij-dihalidi nastaju direktnom reakcijom elemenata ili redukcijom PoCl4 sa SO2 i reakcijom PoBr4 sa H2S pri sobnoj temperaturi. Tetrahalidi se mogu dobiti reakcijom polonij-dioksida sa HCl, HBr ili HI.
+Drugi spojevi polonija uključuju, između ostalih, acetate, bromate, karbonate, citrate, hromate, cijanide, formate, hidrokside, nitrate, selenate, monosulfide, sulfate i disulfate.
+
+Oksidi
+PoO
+PoO2
+PoO3
+Hidridi
+PoH2
+Halidi
+PoX2, npr. polonij-dihlorid, PoCl2
+PoX4, npr. polonij-tetrahlorid, PoCl4
+PoF6 (uslovno)
+
+
+== Otrovnost ==
+Polonij je veoma opasan i nema nijednu poznatu biološku ulogu. Po masi, izotop polonij-210 je oko 250 hiljada puta otrovniji od cijanovodika (HCN) (letalna doza LD50 za 210Po iznosi manje od 1 mikrograma za prosječnog čovjeka u odnosu na oko 250 mg cijanovodika). Najveća opasnost od polonija je njegova intenzivna radioaktivnost (kao alfa-emiter), što predstavlja veliku poteškoću u sigurnom rukovanju s njim. Korištenje čak i mikrogramskih količina 210Po je izuzetno opasno, te zahtijeva specijalnu opremu (rukavice negativnog pritiska pogodne za rad sa alfa-emiterima opremljene filterima visokih performansi), adekvatno nadgledanje i strogo poštivanje procedura za rad kako bi se spriječila bilo kakva kontaminacija. Alfa čestice koje emitira polonij mogu oštetiti organska tkiva mnogo lakše i brže ako se polonij pojede, ušmrka ili apsorbira, mada ne može proći kroz epidermu te stoga nije opasan na koži sve su dok alfa-čestice izvan organizma. Korištenje hemijski otpornih i nepropusnih rukavica je obavezno kako bi se osoba zaštitila od direktne difuzije polonija kroz kožu. Polonij rastvoren u koncentriranoj dušičnoj kiselini može lahko proći kroz neadekvatne rukavice (npr. od lateksa) ili ih ta kiselina može oštetiti.
+Neke studije ukazuju da neki mikrobi mogu metilirati polonij djelovanjem metilkobalamina. Ovo je slično načinu pomoću kojeg se metiliraju i živa, selen i telur u živim bićima dajući organometalne spojeve. Studije koje istražuju metabolizam polonija-210 kod pacova pokazale su da je iz njihovih organizama izlučeno samo 0,002 do 0,009% polonija-210 u vidu isparljivog izotopa.
+
+
+=== Akutni efekti ===
+Srednja letalna doza (LD50) za akutno izlaganje radijaciji općenito iznosi oko 4,5 Sv. Ekvivalent efektivne angažirane doze za 210Po iznosi 0,51 µSv/Bq ako se proguta, a 2,5 µSv/Bq ako se udahne. Stoga smrtonosna doza od 4,5 Sv može se dostići gutanjem 8,8 MBq (2.400 µCi) polonija odnosno oko 50 nanograma (ng), odnosno udisanjem 1,8 MBq (490 µC) tj. 10 ng polonija. Po ovom računanju, jedan gram 210Po bi teoretski bio dovoljan da se otruje 20 miliona ljudi, od čega bi polovina umrla. Stvarna otrovnost polonija-210 je manja od ovih procjena, jer izlaganje radijaciji koja se proteže nekoliko sedmica (biološko vrijeme po

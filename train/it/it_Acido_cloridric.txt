@@ -1,0 +1,197 @@
+L'acido cloridrico è un idracido di formula HCl.
+Essendo comunemente utilizzato in soluzioni acquose, spesso il nome "acido cloridrico" si riferisce a tali soluzioni, mentre per HCl anidro viene usato il nome cloruro di idrogeno.
+È un acido minerale forte (ovvero si ionizza completamente in soluzione acquosa) monoprotico (cioè ogni sua molecola, dissociandosi, libera un solo ione idrogeno), ed è il principale costituente del succo gastrico, oltre ad essere un reagente comunemente usato nell'industria. L'acido cloridrico, in soluzione acquosa, è uno dei liquidi più corrosivi esistenti (una sua soluzione 1 M in acqua a 25 °C ha pH uguale a 0), quindi deve essere maneggiato con attenzione. Si presenta gassoso a temperatura ambiente, incolore, dall'odore e dall'azione irritante. Presenta un TLV-C (ACGIH) pari a 2 p.p.m..
+La produzione di acido cloridrico è stimata attualmente intorno a 20 milioni di tonnellate annue.
+Merceologicamente al nome di acido muriatico corrisponde una soluzione di HCl a concentrazione 10%, spesso di colore giallo per via della presenza di ioni di ferro (II).
+
+
+== Storia ==
+
+L'acido cloridrico fu scoperto nel IX secolo dall'alchimista Persiano- Jabir ibn Hayyan. Egli lo ottenne mescolando il salgemma (NaCl) con del vetriolo verde (acido solforico H2SO4 in soluzione acquosa). Jabir scoprì molti composti chimici, scrisse più di venti opere, permettendo così la diffusione delle sue conoscenze su questo acido e altri prodotti chimici che scoprì egli stesso, come l'acido solforico. Sempre di sua invenzione fu l'acqua regia, miscela di acido cloridrico e acido nitrico, in grado di sciogliere l'oro; nel Medioevo anche questo acido, che a quei tempi era conosciuto come "spirito di sale" o acidum salis, fu preso in considerazione per la ricerca della pietra filosofale.
+Lavoisier lo battezzò acido muriatico, dal latino muria (salamoia), che significa "del sale" o "acqua marina", e tale nome è rimasto in uso, in ambito commerciale, fino ad oggi.
+Un'altra versione del nome viene ricondotta a Berthollet, che facendo reagire HCl con Diossido di manganese (ossido di manganese IV) vide svilupparsi un gas verdastro (cloro molecolare). Erroneamente a quei tempi si pensava che tutti gli acidi contenessero ossigeno e quindi ipotizzò che quel gas fosse un ossido di un non metallo (ovvero un'anidride), che chiamò murio.
+Nel XV secolo Basilius Valentinus, un abate-alchimista dell'abbazia di Erfurt, ne produsse una gran quantità facendo reagire il salgemma con il vetriolo verde.
+Nel XVII secolo, Johann Rudolph Glauber di Karlstadt utilizzò sale da cucina (NaCl) e acido solforico per preparare solfato di sodio (Na2SO4), ottenendo come sottoprodotto acido cloridrico gassoso. Anche Joseph Priestley a Leeds nel 1772 produsse acido cloridrico e nel 1790 Humphry Davy (Regno Unito), producendo l'acido cloridrico (HCl) a partire da idrogeno molecolare (H2) e cloro molecolare (Cl2), dimostrò che questo prodotto chimico è costituito da idrogeno e cloro.
+Durante la rivoluzione industriale, la richiesta di sostanze alcaline, e soprattutto di carbonato di sodio, aumentò fortemente in Europa. Si deve a Nicolas Leblanc (originario d'Issoudun) la messa a punto di un processo di produzione di tale sostanza. Nel processo Leblanc, il sale è trasformato in carbonato di sodio utilizzando acido solforico come reagente, insieme al solfato di calcio (CaSO4) e carbone (C), con una produzione secondaria di acido cloridrico. Considerando che l'acido cloridrico era molto richiesto dal mercato, i produttori non gradivano che venisse liberato come "scarto" nell'aria, quindi decisero di recuperare l'acido cloridrico prodotto e venderlo su scala industriale.
+L'acido cloridrico divenne una sostanza di notevole importanza quando si cominciò a trattare sostanze organiche per ottenere composti sintetici, come il cloruro di vinile e il cloruro di polivinile, o come la miscela di difenilmetano diisocianato e diisocianato di toluene (4,4'-MDI/TDI) per la produzione di poliuretano, ma anche per applicazioni secondarie come la produzione di gelatine o per il trattamento del cuoio.
+Nel XX secolo il processo Leblanc fu sostituito dal processo Solvay. Un problema era rappresentato dal fatto che l'unico modo per produrre carbonato di sodio ricavando anche acido cloridrico come sottoprodotto, era indispensabile utilizzare come reagente acido solforico. Si rese conto che non era conveniente utilizzare questo metodo perché il costo dell'acido solforico è maggiore di quello dell'HCl, quindi per motivi economici si decise di non produrre questo sotto prodotto. In questo modo, però, la produzione di acido cloridrico diminuì considerevolmente e ciò fece allarmare i grandi imprenditori che diedero forti spinte alle industrie di produzione primaria di acido per colmare lo scompenso creato.
+
+
+== Proprietà chimiche ==
+
+L'acido cloridrico è un acido monoprotico, che si dissocia completamente (si ionizza) in soluzione acquosa per dare uno ione H+ (un protone) e uno ione cloro Cl-. In soluzione acquosa lo ione H+ si lega all'acqua (Base di Brønsted) per dare uno ione idronio H3O+.
+HCl(g) + H2O(l) → H3O+ + Cl-(aq)
+L'acido cloridrico può essere anche utilizzato per preparare dei sali contenenti almeno uno ione Cl- chiamati cloruri, come ad esempio il cloruro di sodio (NaCl). I suoi sali vengono chiamati cloruri e sono quasi tutti solubili in acqua, un'eccezione (comunemente sfruttata in analisi chimica) è il cloruro d'argento che forma un precipitato bianco caseoso. Il cloruro più universalmente noto è il cloruro di sodio, il normale sale da cucina.
+L'acido cloridrico è soggetto alla regola di Markovnikov come gli altri acidi alogenidrici eccetto l'acido fluoridrico.
+L'acido cloridrico è un acido forte: è completamente dissociato in acqua.
+
+Gli acidi monoprotici possiedono un'unica costante di dissociazione acida Ka, che è legata al tasso di dissociazione acida in soluzione. Per un acido forte come l'acido cloridrico, la Ka è molto elevata (>1). Alcuni scienziati tentarono di assegnare una Ka all'HCl, ma è impossibile, poiché si tratta di un numero troppo elevato. Per scoprire che si trattava di una Ka elevata, fecero questa osservazione: un cloruro come NaCl deve avere una costante simile all'acido cloridrico; si sperimentò una rilevazione del pH su di una soluzione salina, ma è praticamente neutra, ciò dimostra che lo ione Cl- è una base estremamente debole, si deduce quindi che l'acido coniugato, cioè l'acido cloridrico, sia un acido estremamente forte. Per le soluzioni di acido cloridrico concentrate o diluite, l'ipotesi che la molarità degli ioni H+ sia uguale alla molarità di HCl è ottima, attraverso l'accordo di quattro cifre significative.
+Tra gli acidi forti è l'acido monoprotico che risente meno delle reazioni parassite di ossidoriduzione. È uno degli acidi meno pericolosi: a parte la sua acidità, produce degli ioni cloruro quasi inerti e non tossici. Le soluzioni acquose di acido cloridrico di media concentrazione sono stabili e il rapporto tra acido e acqua non varia nel tempo. Queste proprietà, sommate al fatto che esso può essere un reagente puro, fanno dell'acido cloridrico un ottimo reagente per svariati usi, anche per le titolazioni acido-base. Gli acidi forti sono utilizzati per le titolazioni poiché danno dei punti di equivalenza più marcati rendendo più accurata l'analisi.
+Può essere utilizzato per sciogliere alcuni metalli formando i cloruri ed idrogeno gassoso. È anche utilizzato come catalizzatore acido in alcune reazioni chimiche.
+
+
+== Proprietà fisiche e reattività ==
+Le proprietà fisiche delle soluzioni acquose di acido cloridrico, come il punto di fusione o di ebollizione, dipendono dalla concentrazione.
+La massima concentrazione ottenibile in acqua è il 37% p/p (circa 12 M), in queste condizioni dalla soluzione si sprigionano vapori di acido, per questo viene detto acido cloridrico fumante.
+L'acido cloridrico ha una elevata solubilità in acqua; a 0 °C un litro d'acqua scioglie fino a 525 litri di HCl gassoso, pari a 825 grammi. A temperatura ambiente (20 °C) la solubilità è inferiore, 485 g/litro (pari al 40,4%). La densità di tale soluzione è circa 1,200 g/cm³.
+La miscela binaria di HCl e H2O possiede un azeotropo con punto di ebollizione di 108,6 °C con una frazione di HCl del 20,17%.
+Nella cristallizzazione, possiede quattro eutettici per formare i cristalli di HClxH2O (68% HCl), HClx2H2O (51% HCl), HClx3H2O (41% HCl), HClx6H2O (25% HCl) e ghiaccio d'acqua (0% HCl).
+La relazione tra densità e concentrazione delle soluzioni di acido cloridrico è riassunta nella tabella a fianco; esiste inoltre tra le due una correlazione empirica approssimata dalla formula
+C% = 200 · (D - 1)
+Essendo un acido forte, il pH delle sue soluzioni diluite può essere facilmente calcolato assumendo che la concentrazione di ioni H+ sia praticamente uguale a quella della concentrazione nominale dell'acido. Una soluzione 0,1 M ha quindi pH uguale a 1.
+Una soluzione acquosa di acido cloridrico è un buon conduttore elettrico, dato che tutto l'acido risulta dissociato in ioni H+ e Cl-.
+L'acido cloridrico scioglie la maggior parte dei metalli, dato che i cloruri che si vengono a formare, essendo solubili, non riescono a passivare il metallo. Fanno eccezione, oltre ai metalli nobili, il tantalio, il germanio, il rame ed il mercurio (quest'ultimo resiste all'azione dell'acido cloridrico solo in assenza di ossigeno). In miscela 3:1 con l'acido nitrico forma la cosiddetta acqua regia, uno dei pochi reattivi capaci di intaccare oro e platino per via della sinergia tra l'azione ossidante dell'acido nitrico e quella complessante del cloruro.
+La reazione con un metallo produce il corrispondente cloruro e idrogeno gassoso, ad esempio
+Zn + 2 HCl → ZnCl2 + H2↑
+
+
+== Produzione ==
+
+La stima della produzione annua di acido cloridrico si attesta intorno ai 20 milioni di tonnellate, per cui l'acido cloridrico fa parte degli "High Volume Chemicals" (o HVC) e pertanto viene classificato in base alla matrice di Kline tra le commodity.
+Si sfruttano diversi metodi di produzione dell'acido cloridrico, a seconda della disponibilità dei reagenti, della necessità dei sottoprodotti o delle esigenze sulla purezza di HCl. I più importanti sono:
+recupero dall'industria organica;
+reazione di spostamento di NaCl con acido solforico;
+processo Hargreaves, una variante del precedente;
+sintesi diretta dagli elementi.
+
+
+=== Sintesi diretta ===
+La preparazione per reazione diretta tra cloro (Cl2) e idrogeno (H2) gassosi è il processo preferito per ottenere un prodotto ad elevato grado di purezza. La reazione è fortemente esotermica e può anche essere esplosiva, richiede quindi impianti speciali con assorbitori di calore molto efficienti. Altro svantaggio è costituito dall'elevato costo dei reagenti.
+La produzione di acido cloridrico su scala industriale è strettamente legata alla produzione di altri composti chimici. Per esempio, nella produzione di cloro gassoso, una soluzione salina (NaCl) viene sottoposta ad elettrolisi, ottenendo anche idrossido di sodio diluito e idrogeno. Il cloro e l'idrogeno ottenuti possono essere così fatti reagire per la produzione di HCl gassoso puro:
+Cl2(g) + H2(g) = 2HCl(g)
+(ΔHreaz= -184,74 KJ/mol)
+L'acido cloridrico che si forma, non può essere commercializzato allo stato gassoso, infatti, viene disciolto in acqua distillata per ottenere HCl puro in soluzione acquosa; ciò consente di regolare a proprio piacimento la concentrazione mediante diluizione o concentrazione.
+
+
+=== Reazione di spostamento di NaCl con acido solforico ===
+Il processo era già noto alla fine del XVIII secolo, veniva usato nel processo Leblanc per la produzione di carbonato di sodio, di cui costituiva il primo stadio. La reazione ha luogo in due stadi, il primo condotto a una temperatura intorno ai 150-250 °C, il secondo in un intervallo compreso tra 500 e 600 °C:
+NaCl + H2SO4 → NaHSO4 + HCl↑
+NaCl + NaHSO4 → Na2SO4 + HCl↑
+Si ha quindi la seguente reazione globale:
+2 NaCl + H2SO4 → Na2SO4 + 2HCl↑
+L'equilibrio di reazione di entrambe le reazioni è spostato verso destra a causa dell'allontanamento di HCl gassoso. Nella prima, in cui si usa un acido di forza confrontabile con il cloridrico, si opera a temperatura relativamente bassa, nella seconda è indispensabile aumentare notevolmente la temperatura poiché l'idrogenosolfato di sodio è un acido molto più debole sia del solforico che del cloridrico. Questo metodo permette di ottenere un prodotto con buon grado di purezza e viene quindi usato anche in laboratorio.
+Questo è un processo non percorribile industrialmente (ovvero è antieconomico), in quanto l'acido solforico costa più di quello cloridrico.
+
+
+=== Processo Hargreaves ===
+Il processo Hargreaves risale al XIX secolo e non si discosta molto dal precedente, in questo caso il cloruro di sodio viene fatto reagire con diossido di zolfo, aria e acqua. La reazione questa volta è esotermica e viene condotta intorno ai 450 °C:
+2 NaCl + SO2 + ½ O2 + H2O → Na2SO4 + 2 HCl
+Analogamente alla reazione di spostamento, la convenienza del metodo è legata alla disponibilità di NaCl e alla richiesta di solfato di sodio, che viene usato nell'industria cartaria e del vetro.
+
+
+=== Recupero da processi di sintesi organica ===
+La diffusione su scala mondiale dell'industria chimica organica e l'impiego in essa del cloro, in particolar modo nella sintesi dei polimeri, ha reso disponibile una grande quantità di acido cloridrico come sottoprodotto. Tale via di produzione rende ormai conto di oltre il 90% dell'HCl in commercio.
+La maggior parte della produzione di acido cloridrico viene ottenuta dal trattamento di composti organici clorurati o fluorati, per esempio il teflon, il freon o altri CFC, il cloruro acilico derivato dell'acido acetico o il PVC. Spesso si tratta di una produzione con un riutilizzo del primo composto, per ottenere due molecole di HCl. Durante la reazione, l'atomo di idrogeno del composto organico è rimpiazzato da un atomo di cloro di una molecola e va a ricombinarsi con l'altro atomo di cloro con formazione di acido cloridrico.
+Alcune tra le reazioni principali sono:
+pirolisi dell'1,2-dicloroetano per dare cloruro di vinile:
+Cl-CH2CH2-Cl → Cl-HC=CH2 + HCl
+clorurazione di alcani:
+Cl2 + RH → RCl + HCl
+reazioni di scambio di cloruri alchilici con acido fluoridrico. L'atomo di cloro viene sostituito dall'atomo di fluoro dell'acido fluoridrico, reazione che porta alla formazione di un'altra molecola di acido cloridrico. Questa reazione può venire utilizzata per convertire l'RCl che proviene dalla clorurazione degli alcani.
+RCl + HF → RF + HCl
+sintesi del tetrafluoroetene per pirolisi del monoclorodifluorometano:
+2 CHF2Cl → CF2=CF2 + 2 HCl
+Quelli anzidetti non sono i metodi preferiti se si vuole ottenere un prodotto ad elevato grado di purezza, l'acido cloridrico può essere contaminato con cloro non reagito, composti organici clorurati e residui di catalizzatori. Il cloruro di idrogeno gassoso ottenuto viene disciolto in acqua per dare acido cloridrico alle concentrazioni volute.
+Gran parte dell'acido cloridrico ottenuto dall'industria organica viene riutilizzato nello stesso impianto di produzione, ad esempio rigenerando dicloroetano secondo la reazione:
+CH2=CH2 + 2 HCl + ½ O2 → ClCH2CH2Cl + H2O
+
+
+=== Mercato industriale ===
+L'acido cloridrico è prodotto in soluzioni di concentrazione fino al 38% HCl. Preparare delle soluzioni con concentrazioni più elevate è possibile dal punto di vista chimico (1 litro di acqua a 25 °C scioglie fino a 700 g di cloruro di idrogeno gassoso), ma al di sopra del 38% HCl l'evaporazione diventa considerevolmente elevata, quindi si ha una perdita di HCl puro e servono maggiori precauzioni per maneggiare tale sostanza, come ad esempio conservarla a basse temperature e ad alte pressioni. Le soluzioni prodotte dalle industrie hanno concentrazioni vicine al 30-34% HCl, per evitare perdite per evaporazione, ma vendere alla massima concentrazione possibile. Le soluzione per uso domestico (principalmente prodotti per le pulizie) contengono circa il 10-12% HCl, per cui è raccomandato diluire queste soluzioni prima dell'uso per evitare rischi e ulteriori complicazioni.
+I principali produttori di acido cloridrico a livello mondiale sono la Dow Chemical con 2 milioni di tonnellate annue, ma anche industrie come Formosa plastics, Georgia gulf corporation, Tosoh corporation, AkzoNobel e Tessenderlo con delle produzioni annue comprese tra 0,5 e 1,5 milioni di tonnellate. La produzione mondiale totale è stimata sui 20 milioni di tonnellate annue, di cui 3 milioni di tonnellate per sintesi diretta, il resto viene invece quasi interamente prodotto mediante sintesi organica. La maggior parte dell'acido cloridrico prodotto è utilizzata dagli stessi produttori come reagenti per i loro scopi industriali: il mercato mondiale è stimato intorno ai 5 milioni di tonnellate annue, solo un quarto della produzione effettiva.
+
+
+== Utilizzi ==
+
+L'acido cloridrico è un acido inorganico forte utilizzato in una moltitudine di processi industriali. La qualità dell'HCl dipende dall'applicazione per cui viene adoperato.
+Viene ad esempio impiegato nel trattamento di minerali e di fosfati grezzi, compare nei processi industriali organici in veste di reagente o di sottoprodotto, viene usato nel decapaggio e nel trattamento superficiale dei metalli.
+L'acido cloridrico è anche un reagente importante nell'analisi chimica. Nell'analisi qualitativa consente il riconoscimento della presenza degli ioni di argento, piombo e mercurio (I) ("primo gruppo analitico", o "gruppo dei cloruri"). È il più usato titolante per le misure di alcalinità.
+Come additivo alimentare, è classificato col numero E 507.
+
+
+=== Produzione di composti inorganici ===
+
+
+==== Cloro ====
+I primi processi si basavano sull'ossidazione sotto pressione con ossigeno e catalizzatori a base di azoto:
+4HCl + O2 → 2Cl2 + 2H2O
+il gas veniva seccato con acido solforico. Ad oggi questi processi hanno scarsissima valenza industriale.
+Attualmente si opera mediante elettrolisi:
+2HCl → Cl2 + H2
+mediante una ddp di 2 V. La cella elettrolitica è simile a quella a membrana per la produzione di idrossido di sodio, in questo caso la membrana è in cloruro di polivinile. Gli elettrodi sono di grafite e si ha una sovratensione catodica che può essere ridotta per aggiunta di piccole quantità di metalli nobili. Generalmente l'acido cloridrico utilizzato è quello proveniente dai recuperi dall'industria dei composti organici; l'acido viene fatto assordire adiabaticamente in soluzioni diluite e il calore sviluppato serve per eliminare i composti organici volatili eventualmente presenti.
+
+
+==== Biossido di cloro ====
+Per reazione di clorato di sodio e acido cloridrico si forma diossido di cloro:
+2NaClO3 + 4HCl → 2ClO2 + Cl2 + 2NaCl + 2H2O
+La resa del processo può essere dimunuita dalla reazione parassita:
+NaClO3 + 6HCl → 3Cl2 + NaCl + 3H2O
+che può essere minimizzata mediante diluizione (il ClO2 è molto più solubile in acqua che Cl2). Attualmente gli impianti industriali hanno rese di circa il 90%.
+
+
+==== Sali ====
+L'acido cloridrico viene anche impiegato nella produzione di molti sali con reazioni acido-base per ottenere cloruri vari. Tra questi i più importanti sono il cloruro di ferro(III) e cloruro d'alluminio usati nella depurazione delle acque.
+Fe2O3 + 6HCl → 2FeCl3 + 3H2O
+Il cloruro di ferro(III) e il cloruro d'alluminio vengono anche usati come agenti coagulanti, ma anche per la potabilizzazione dell'acqua e nell'industria della carta.
+Tra gli altri composti inorganici, i più importanti sono il cloruro di calcio (CaCl2) per le salature delle strade per evitare che l'acqua ghiacci, il cloruro di nichel (NiCl2) utilizzato per la nichelatura dei metalli mediante galvanostegia e il cloruro di zinco (ZnCl2) utilizzato per la zincatura e la produzione di batterie e vai altri cloruri utilizzati per le galvanostegie dei metalli.
+
+
+=== Produzione di composti organici ===
+La maggior parte dell'acido cloridrico è utilizzato per la produzione di composti organici sintetici come il cloruro di vinile per la sintesi del PVC o il 4,4'-MDI/TDI per il poliuretano. Per produrre questo composto, le aziende producono in loco la quantità di acido cloridrico che serve per le proprie applicazioni, senza così doverlo acquistare da altre aziende. Anche molti altri composti organici necessitano, durante il loro trattamento, di acido cloridrico, come ad esempio il bisfenolo A per la sintesi dei policarbonati, il carbone attivo e l'acido ascorbico (vitamina C), ma anche numerosi prodotti farmaceutici.
+
+
+=== Rigenerazione degli scambiatori di ioni ===
+Un utilizzo importante dell'acido cloridrico di alta qualità è la rigenerazione delle resine a scambio ionico. Lo scambio dei cationi viene utilizzato per eliminare ioni come Na+ o Ca2+ da soluzioni acquose per produrre acqua demineralizzata:
+Na+ è sostituito da H3O+
+Ca2+ è sostituito da 2H3O+
+Le resine scambiatrici di ioni e l'acqua demineralizzata sono molto utilizzate nell'industria chimica, nella produzione di acqua potabile (filtri dell'acquedotto) e nell'industria agroalimentare.
+
+
+=== Neutralizzazione e controllo del pH ===
+L'acido cloridrico è spesso usato per regolare l'acidità (pH) delle soluzioni acquose:
+OH- + H3O+ + Cl- = 2H2O + Cl-
+e poiché l'anione Cl- è una base trascurabile, il pH della soluzione sarà neutro.
+Nelle industrie che necessitano di un elevato grado di purezza (industrie farmaceutiche, agroalimentari e produzione di acqua potabile), il controllo del pH dell'acqua viene effettuato con acido cloridrico proveniente da sintesi diretta di altissima qualità. Nelle altre industrie, viene adoperato acido cloridrico di minore purezza, anche per neutralizzare le acqua di scarico, o per il trattamento delle acque delle piscine.
+
+
+=== Decapaggio dell'acciaio ===
+Il decapaggio è una tappa essenziale del trattamento superficiale di un metallo, in particolar modo dell'acciaio, per eliminare la pellicola di ossido prima di sottoporlo a procedure di estrusione, galvanizzazione e altre lavorazioni. Il reagente più utilizzato per le operazioni di decapaggio è l'acido cloridrico di media qualità, di concentrazione circa 18%.
+Fe2O3 + Fe + 6(H3O+ + Cl-) = 3(Fe2+ + 2Cl-) + 9H2O
+Il prodotto della reazione in passato veniva riutilizzato poiché si otteneva una soluzione di cloruro di ferro(II), ma la scoperta di una concentrazione considerevole di metalli pesanti non consente più tale utilizzo.
+L'industria metallurgica ha sviluppato un processo di rigenerazione di acido cloridrico permettendo il riutilizzo della stessa sostanza del decapaggio, senza produrne di nuova. Il processo maggiormente utilizzato è il processo Dependeg:
+4(Fe2+ + 2Cl-) + 12 H2O + O2 = 8(H3O+ + Cl-) + 2Fe2O3
+In questo modo, l'acido cloridrico segue un circuito chiuso, e non viene quindi più acquistato. L'ossido ferrico prodotto costituisce un sottoprodotto pregiato, soprattutto utilizzato nei processi all'altoforno.
+L'acido cloridrico non viene però utilizzato come agente di decapaggio per gli acciai inossidabili (è preferibile usare in quel caso una soluzione a base di acido fluoridrico).
+
+
+=== Pulizie ===
+Nel campo delle pulizie trova utilizzo in svariate applicazioni:
+pulizia di cantiere dopo la posa di pavimenti resistenti agli acidi per eliminare tracce di cemento e stucco;
+pulizia dei servizi igienici (eliminazione di residui calcarei);
+pulizia di pietre.
+Tuttavia il suo utilizzo è sempre sconsigliato visto il suo potere fortemente corrosivo ed è preferibile utilizzare detergenti acidi specificatamente studiati per tali impieghi. Sempre nel campo delle pulizie risulta particolarmente dannoso se utilizzato su marmi e pietre calcaree (le rovina irrimediabilmente).
+Deve sempre e comunque essere utilizzato da solo e mai mescolato con altre sostanze con le quali potrebbe reagire producendo sostanze molto nocive; il caso più frequente è l'avvelenamento da cloro causato dal mescolamento di acido muriatico con la varechina.
+
+
+=== Altri utilizzi ===
+L'acido cloridrico è un prodotto chimico fondamentale utilizzato in moltissime applicazioni su grande e piccola scala, come il trattamento del cuoio e per prodotti di uso domestico. Anche la produzione di petrolio è agevolata dall'iniezione di acido cloridrico nelle rocce che costituiscono la trappola, poiché ne corrode parzialmente la struttura rendendola porosa. Questo processo viene utilizzato soprattutto per l'estrazione petrolifera nel Mare del Nord, ove le trappole sono costituite da rocce estremamente dure, molto difficili da penetrare, per cui diviene quasi obbligatorio acidificarle.
+L'acido cloridrico ha una funzione di rilievo nella produzione di ingredienti culinari o di additivi alimentari. I più importanti di questi prodotti sono l'aspartame, il fruttosio, l'acido citrico, la lisina, le proteine idrolizzate e la gelatina. L'acido cloridrico utilizzato è rigorosamente di qualità extra-puro.
+
+
+== L'acido cloridrico e gli esseri viventi ==
+
+
+=== Fisiologia ===
+L'acido cloridrico è il principale componente del succo gastrico (in particolare, è presente in concentrazioni dello 0,3-0,5% nel succo gastrico umano). È quindi presente nello stomaco, ove contribuisce alla digestione degli alimenti. Viene secreto dalle cellule parietali con un meccanismo molto complesso e con un gran dispendio di energia. Queste cellule contengono una riserva di succo nei canaliculi, dai quali il secreto viene riversato nello stomaco. Queste cellule fanno parte del sistema delle ghiandole epiteliali gastriche. Il corpo umano produce circa 15 litri 1 M di acido cloridrico al giorno, tuttavia tiene sotto controllo il pH sanguigno mediante efficaci sistemi tampone (proteine, bicarbonato, nitrato), la respirazione e la filtrazione renale.
+
+
+=== Patologia ===
+I meccanismi che proteggono l'epitelio gastrico dalla potente azione corrosiva dell'acido cloridrico sono:
+una retroazione negativa delle secrezioni acide
+uno strato protettivo di muchi che ricoprono l'epitelio gastrico
+la secrezione di bicarbonato di sodio da parte delle cellule epiteliali dello stomaco e del pancreas
+la struttura dello stesso epitelio gastrico
+un adeguato afflusso sanguigno
+la presenza di cellule in grado di produrre prostaglandine (derivati dell'acido arachidonico che stimolano la secrezione di bicarbonato e muco, mantenendo al riparo l'epitelio, inoltre, queste sostanze permettono un corretto afflusso sanguigno e stimolano la riparazione delle cellule danneggiate dal succo gastrico).
+Quando questi meccanismi non funzionano adeguatamente, possono svilupparsi delle erosioni o delle ulcerazioni. Dei particolari farmaci, chiamati "inibitori della pompa protonica" (omeprazolo, esomeprazolo, pantoprazolo) permettono di evitare un'eccessiva produzione di acido cloridrico e una cura di antiacidi (idrossido di magnesio, idrossido di alluminio) aiuta a neutralizzare l'eccesso di acidi presenti nel succo gastrico. Ulteriori farmaci, come il misoprostolo che mima l'azione delle prostaglandine e gli inibitori del recettore H2 per l'istamina (ranitidina) possono essere utili come protettori gastrici in corso di terapia con FANS e nella terapia delle ulcerazioni gastriche. Esiste inoltre una patologica chiamata sindrome di Zollinger-Ellison caratterizzata da una massiccia produzione di acido cloridrico in seguito alla presenza di una neoplasia secernente gastrina (gastrinoma), un ormone in grado di stimolare la secrezione acida gastrica.
+Può presentarsi però una patologia opposta quando le ghiandole epiteliali secernono troppo poco acido cloridrico. Questo stato patologico è conosciuto con il nome di ipocloridria o acloridria; la mancanza della barriera difensiva acida porta ad una maggiore predisposizione a sviluppare infezioni del tratto gastroenterico. Ad esempio, in presenza di normale secrezione acida gastrica, occorre ingerire

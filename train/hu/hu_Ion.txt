@@ -1,0 +1,16 @@
+Az ion (vagy régies nevén meneny) olyan atom vagy molekula (atomcsoport), mely elektromos töltéssel rendelkezik. A negatív töltésű ion, más néven anion olyan atom vagy molekula, melynek egy vagy több elektrontöbblete van, a kation pedig pozitív töltésű ion, amiben egy vagy több elektronhiány van, mint az eredeti részecskében. A folyamat, mely során létrejönnek az ionok, az ionizáció. Az ionizált atomokat vagy atomcsoportokat úgy jelölik, hogy az atom vagy molekula fölött jelölik az elvesztett vagy szerzett elektronok számát (kivéve ha egy van, akkor nem jelölik), és a töltést (+ vagy −). Példa: H+, O2−.
+Egyszerű atomok esetén a fémek legtöbbször kationokat hoznak létre, a nemfémek anionokat, például a nátrium Na+ kationt, míg a klór Cl− (klorid) aniont hoz létre.
+Bonyolultabb szerves molekulák ikerionos állapotba is kerülhetnek, ekkor egyszerre anionos és kationos tulajdonságúak.
+
+
+== Ionizációs energia ==
+Az az energiamennyiség, mely ahhoz szükséges, hogy kationt hozzunk létre egy semlegesebb (nem feltétlenül semleges) töltésű atomból, az ionizációs energia. Általánosabban egy atom n-edik ionizációs energiája az az energiamennyiség, mely ahhoz szükséges, hogy az n-edik elektront leszakítsuk az atomról, miután az előző n–1-et már leszakítottuk.
+Minden sikeres elektronleszakítás során a következő ionizációs fázishoz szükséges energia mennyisége növekszik. Rendkívüli a növekedés, amennyiben egy adott atompálya kiürül, és a következőről kell leszakítani az új elektront. Ezen okból az atomok igyekszenek úgy elrendeződni, hogy telített atompályáik maradjanak. Emiatt például a nátriumból létrejövő Na+-t gyakran megtaláljuk, de a Na2+-t nem, a nagy ionizációs energiaigény miatt. Ugyanígy a magnézium Mg2+ formája gyakori, míg Mg3+ formája nem, és az alumíniumnak csak az Al3+ formája fordul elő a természetben.
+
+
+== Történelem ==
+Az ionok elméletét először Michael Faraday alakította ki, 1830 körül, hogy leírja azon atomok viselkedését, melyek anódokhoz vagy katódokhoz vonzódnak. Ennek ellenére a mechanizmust, mellyel ezt elérték, nem sikerült leírni 1884-ig, mikor Svante August Arrhenius doktori disszertációjában az Uppsalai Egyetemen le nem írta. Elméletét nem fogadták el teljes körűen (éppen hogy átment a doktori vizsgán). Disszertációjával ennek ellenére megnyerte a Nobel-díjat 1903-ban.
+
+
+== Elektronaffinitás ==
+Az elektronaffinitás az az energia, amely egy atom esetében egy elektron befogásához szükséges. Az elektronaffinitás halogénelemek csoportján belül a rendszám növekedésével csökken (kivétel a fluor, amelynek az elektronaffinitása valamivel kisebb, mint a klóré). Két kapcsolódó atom közül az képes erősebben magához szívni a kötőelektronpárt, amelyiknek nagyobb az elektronaffinitása (vagyis anionná alakulásakor nagyobb energia szabadul fel). Ennek a fogalomnak értelmezéséhez abból indulhatunk ki, hogy ha a kapcsolódó A és B atomok elektronaffinit

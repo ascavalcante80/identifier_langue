@@ -1,0 +1,54 @@
+Koordinaattijärjestelmä (Reference System) on geodesian käsite, jonka avulla kyetään määräämään yksikäsitteisesti pisteen sijainti maapallolla.
+
+
+== Käsitteiden hierarkia ==
+Koordinaattijärjestelmän kaksi keskeistä komponenttia ovat datumi ja koordinaatisto (Reference Frame). Datumi on niiden matemaattisten suureiden joukko, jolla koordinaatisto kiinnitetään maapallon pintaan. Koordinaatit puolestaan ovat lukuarvoja, jotka määrittelevät kunkin pisteen sijainnin käytetyssä koordinaatistossa.
+
+
+== Maan muodon approksimointi ==
+Maapallon muoto geoidi on jonkin verran vääristynyt pallo. Geoidia voidaan approksimoida sopivan muotoisen ja sopivaan kohtaan sijoitetun ellipsoidin avulla varsin suurella tarkkuudella. Koordinaatisto yleensä määritellään tällaisen vertausellipsoidin pinnalle.
+
+
+== Datumi ja koordinaatisto ==
+Datumi määrittelee muun muassa vertausellipsoidin koon ja muodon sekä sen sijainnin maapalloon nähden. Lisäksi se määrittelee sen, kuinka koordinaatisto määritellään vertausellipsoidin pinnalle. Koordinaatisto on koordinaattijärjestelmän realisaatio. Realisaatiolla tarkoitetaan joukkoa pisteitä, joiden sijainti kyseisessä koordinaattijärjestelmässä on mitattu mahdollisimman tarkoin. Näiden pisteiden avulla voidaan määrätä kaikkien muiden pisteiden koordinaatit. Saman pisteen koordinaatit ovat erilaiset eri koordinaatistoissa. Vastaavasti eri koordinaatistojen samat koordinaatit tarkoittavat eri pisteitä.
+
+
+== Useita vertausellipsoideja ==
+Maailmalla on käytössä kymmeniä erilaisia vertausellipsoideja. Tämä johtuu siitä, että historiallisesti kunkin valtion maanmittausorganisaatiot ovat valinneet käyttöönsä oman valtionsa alueen mahdollisimman hyvin kuvaavan vertausellipsoidin. Erityisesti GPS-järjestelmän käyttöönotto on johtanut maiden rajojen ylittävän koordinaattijärjestelmän tarpeeseen.
+
+
+== Koordinaattityypit ==
+Eri tarpeisiin on kehitetty erilaisia koordinaattityyppejä. Saman koordinaattijärjestelmän yhteydessä voidaan yleensä käyttää useita erilaisia koordinaatteja.
+
+
+=== Maantieteelliset koordinaatit ===
+Maantieteelliset koordinaatit ilmaistaan leveys- ja pituusasteina, jotka ovat kulmia. Leveys- ja pituuspiirit yhdessä muodostavat asteverkon. Pituusaste on sijaintipaikan ja nollameridiaanin eli Greenwichin meridiaanin välinen kulmaero. Leveysaste puolestaan ilmaisee pisteen etäisyyden päiväntasaajalta. Leveysasteella tarkoitetaan pisteen kautta kulkevan ellipsoidipinnan normaalin ja päiväntasaajan määrittelemän tason välistä kulmaa. Tämä geodeettinen leveysaste poikkeaa geosentrisestä leveysasteesta suurimmillaan noin 11 kaariminuuttia.
+
+Maantieteellinen pituusaste on lukuarvoltaan 0-180 astetta joko itään tai länteen nollameridiaanista. Maantieteellinen leveysaste on lukuarvoltaan 0-90 astetta joko pohjoiseen tai etelään päiväntasaajasta. Lisäksi koordinaateissa ilmaistaan pisteen sijaintipallonpuolisko. Esimerkiksi Vaasan torin sijainti WGS84-koordinaattijärjestelmän maantieteellisinä koordinaatteina minuutin tarkkuudella on 63 astetta 6 minuuttia pohjoista leveyttä 21 astetta 37 minuuttia itäistä pituutta. Tämä merkitään yleensä 63°06'N 21°37'E.
+
+
+=== Geodeettiset koordinaatit ===
+Kun maantieteellisten pituus- ja leveyskoordinaattien lisäksi esitetään myös korkeus, on kyse geodeettisista koordinaateista. Geodeettinen korkeus h ilmaistaan etäisyytenä vertausellipsoidin pinnasta. Tämä suure on siis eri korkeus kuin korkeus geoidin pinnasta eli korkeus merenpinnasta, joka merkitään H. Geoidin ja vertausellisoidin korkeusero, geoidikorkeus merkitään N ja siten pätee
+h = H+N
+Esimerkiksi Vaasan torin korkeus on noin 10 metriä merenpinnasta ja WGS84-koordinaattijärjestelmän geoidikorkeus alueella on noin +18 metriä. Siten torin geodeettinen korkeus on noin 28 metriä.
+Koska geodeettinen korkeus vaihtelee ajan funktiona muun muassa maannousun takia, korkeus usein ilmoitetaan suhteessa jonkin korkeusjärjestelmän määrittämään nollatasoon.
+
+
+=== Suorakulmaiset avaruuskoordinaatit ===
+On yleinen käytäntö määritellä vertausellipsoidille toisiaan vasten kohtisuorassa sijaitsevat X-, Y- ja Z-akselit siten, että origo on ellipsoidin keskipisteessä. Z-akseli on maan akselin suuntainen osoittaen kohti pohjoista, X-akseli kohti nollameridiaania ja Y-akseli kohti meridiaania 90° itäistä pituutta. Kullakin pisteellä on X-, Y- ja Z-koordinaatti, jonka arvo ilmoitetaan yleensä metreinä. Edellä mainitut Vaasan torin suorakulmaiset avaruuskoordinaatit WGS84-järjestelmässä ovat X=2689908, Y=1065915, Z=5665030.
+
+
+=== Suorakulmaiset tasokoordinaatit ===
+Monessa käyttötarkoituksessa maantieteelliset koordinaatit ovat epäkäytännöllisiä avaruuskoordinaateista puhumattakaan. Useat koordinaattijärjestelmät määrittelevät myös suorakulmaisen tasokoordinaatiston, joka on tasavälinen ruudukko. Esimerkiksi kartastokoordinaattijärjestelmässä Vaasassa sijaitsevan Pohjanmaan museon suorakulmaiset tasokoordinaatit ovat 6999790P 1530588I. Koordinaatit ilmoittavat etäisyyden metreinä ruudukon nollapisteestä.
+
+
+== Maailmanlaajuiset ja alueelliset koordinaattijärjestelmät ==
+Aiemmin kaikki koordinaattijärjestelmät ovat olleet alueellisia; tyypillisesti eri maiden maanmittausorganisaatioiden ylläpitämiä. Koordinaattijärjestelmien vaihtumiskohdassa on yleensä sauma, jonka kohdalla koordinaatit ovat epäjatkuvia. Vasta avaruudesta käsin tehdyt mittaukset ovat mahdollistaneet maapallon massakeskipisteen määrittämisen ja maailmanlaajuisten koordinaattijärjestelmien tuottamisen.
+Maailmanlaajuisen koordinaattijärjestelmien perusongelma on se, että mannerlaattojen liikkeiden takia mitattujen pisteiden sijainti muuttuu jatkuvasti. Mannerlaattojen liike toistensa suhteen on muutamia senttimetrejä vuodessa ja se tulee ottaa huomioon, jos paikanmäärityksen tarkkuusvaatimus on suuri. Maailmanlaajuinen tarkka koordinaattijärjestelmä sisältääkin neljännen ulottuvuuden: ajan. Kullekin koordinaatille ilmoitetaan sijaintipisteen lisäksi se, koska sijainti on määritetty ja kuinka suuri koordinaatin muuttumisnopeus on.
+Koska käytännössä muuttuvat koordinaatit ovat hankalia, eri osissa maailmaa on tuotettu alueellisia koordinaattijärjestelmiä, joiden koordinaatit eivät muutu ajan myötä. Nämä on yleensä kiinnitetty mannerlaatan muodoltaan muuttumattomaan osaan ja lisäksi sidottu johonkin maailmanlaajuiseen koordinaattijärjestelmään jonain tiettynä ajanhetkenä, epookkina.
+
+
+== Käytössä olevia koordinaattijärjestelmiä ja koordinaatistoja ==
+WGS84 on maailmanlaajuinen GPS-järjestelmän koordinaattijärjestelmä. Sen realisaatiossa käytettyjen pisteiden määrä 20 on niin vähäinen, että koordinaatiston tarkkuus ei riitä suurta tarkkuutta vaativiin tehtäviin.
+ITRS (The International Terrestrial Reference System) on maailmanlaajuinen koordinaattijärjestelmä, jonka ero WGS84:n kanssa on tällä hetkellä alle metri. ITRS:n realisaatio ITRF perustuu noin 200 kiintopisteeseen.
+ETRS89 on Euraasian mannerlaattaan kiinnitetty eurooppalainen koordinaattijärjestelmä, joka on yhtenevä ITRS:n kanssa vuoden 1989 alussa. Koordinaattijärjestelmän realisaatio ETRF89 perustui alu

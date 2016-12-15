@@ -1,0 +1,29 @@
+hống gắn tiêu bản (template transclusion), và đổi hướng URL. MediaWiki được phát hành theo Giấy phép Công cộng GNU (GPL) và được sử dụng bởi các dự án Wikimedia, cũng như nhiều dự án wiki khác. Ban đầu Wikipedia chạy trên UseModWiki, một chương trình Perl của Clifford Adams (Phase I). Nó bắt phải viết hoa theo kiểu CamelCase để tạo ra siêu liên kết giữa các bài; cú pháp hai dấu ngoặc vuông được hỗ trợ về sau. Bắt đầu từ tháng 1 năm 2002 (Phase II), Wikipedia bắt đầu sử dụng chương trình PHP wiki với cơ sở dữ liệu MySQL; phần mềm này được viết đặc biệt cho Wikipedia bởi Magnus Manske. Phần mềm Phase II được sửa nhiều lần để thỏa mãn nhu cầu đang lên theo đường lũy thừa (exponential growth). Tháng 7 năm 2002 (Phase III), Wikipedia đổi qua phần mềm thế hệ thứ ba, MediaWiki, mới đầu do Lee Daniel Crocker viết.
+
+Wikipedia chạy trên các nhóm máy chủ Linux tại Florida và hai vị trí khác. Wikipedia chỉ xài một máy chủ cho đến năm 2004; lúc đó hệ thống máy chủ được mở rộng thành cấu trúc đa tầng (multitier architecture) phân phối. Vào tháng 1 năm 2005, dự án chạy trên 39 máy chủ dành riêng ở Florida. Hình dạng này bao gồm một máy cơ sở dữ liệu chủ chạy MySQL, vài máy phụ CSDL, 21 máy chủ web chạy Apache HTTP Server, và bảy máy bộ nhớ Squid. Vào tháng 9 năm 2005, nhóm máy chủ này đã bao gồm 100 máy tại ba vị trí chung quanh thế giới.
+Các yêu cầu trang được gửi cho tầng máy Squid trước. Những yêu cầu mà bộ nhớ Squid không thể thỏa mãn được gửi qua các máy chủ cân bằng tải (load-balancing server) có phần mềm Linux Virtual Server; nó gửi yêu cầu cho một trong những máy chủ Apache để kết xuất trang dùng dữ liệu từ CSDL. Các máy chủ web gửi lại những trang được yêu cầu và kết xuất trang của các phiên bản ngôn ngữ Wikipedia. Để tăng lên tốc độ trả lời nhiều hơn, các trang được kết xuất cho người chưa đăng nhập được bỏ vào bộ nhớ phân phối (distributed memory cache) cho đến khi nó lỗi thời, nên có thể bỏ qua hẳn quá trình kết xuất trang đối với phần nhiều lần truy cập những trang thường gặp. Hai nhóm máy chủ lớn hơn tại Hà Lan và Hàn Quốc hiện xử lý nhiều nhu cầu cho Wikipedia..
+
+
+== Dự án liên quan ==
+
+Wikipedia có vài dự án liên quan:
+Wiktionary, dự án làm bộ từ điển tự do
+Wikibooks, dự án làm thư viện về sách giáo khoa tự do
+Wikiquote, bộ từ điển về danh ngôn
+Wikisource, kho lưu nguồn tư liệu bằng mọi ngôn ngữ có phạm vi công cộng hoặc xuất bản theo GFDL
+Cũng có nhiều dự án cùng loại, như Wikitravel.....
+Vào tháng 2 năm 2001, phần lớn người dùng Wikipedia bằng tiếng Tây Ban Nha không hài lòng với phương hướng của dự án nên đã rút khỏi để bắt đầu dự án Enciclopedia Libre.[cần dẫn nguồn]
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức (Di động) – cổng thông tin đa ngôn ngữ (chứa liên kết tới tất cả các phiên bản ngôn ngữ của Wikipedia)
+Wikipedia trên Twitter (@Wikipedia)
+Wikipedia trên Facebook
+
+Quỹ Hỗ trợ Wikimedia

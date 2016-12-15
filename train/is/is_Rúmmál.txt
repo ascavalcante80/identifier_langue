@@ -1,0 +1,41 @@
+Rúmmál er hugtak notað yfir umfang hlutar eða svæðis í þrívíðu rúmi. SI-mælieining er rúmmetri, táknaður með .
+Nokkur skref til að finna rúmmál hlutar:
+Finna út lengd, breidd, og hæð hlutar og hafa í sömu lengdareiningu.
+Margfalda það saman. Út kemur rúmmál í þessari rúmeiningu.
+Einfalda tölurnar ef þarf.
+Fyrir hverja lengri lengdareiningu, þá skal færa kommuna um 3 tölur til vinstri. Fyrir hverja styttri lengdareiningu, þá skal færa kommuna um 3 tölur til hægri. T.d. er  en annars er cm eingöngu 10 sinnum stærri en mm.
+
+
+== Rúmmál yfir í lítra ==
+Rúmmálseiningin lítri er algeng lagarmálseining, en hann er skilgreindur þannig:
+ = 1000 lítrar
+ = 1 lítri
+ = 0,001 lítri
+
+
+== Rúmmál ýmissa forma ==
+R = Rúmmál
+l = lengd
+b = breidd
+r = radíus
+h = hæð
+
+
+=== Ferstrendingur ===
+
+
+=== Sívalningur ===
+
+
+=== Pýramídi ===
+
+
+=== Keila ===
+
+
+=== Kúla ===
+
+
+== Mælingar og mælitæki ==
+
+Yfirfa

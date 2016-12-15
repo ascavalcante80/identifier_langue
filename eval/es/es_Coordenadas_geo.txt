@@ -1,0 +1,26 @@
+osición relativa: permite localizar distintos espacios territoriales a partir de tomar otro espacio territorial como referencia.
+
+
+== Sistema de Coordenadas Proyectadas ==
+
+Al contrario que las coordenadas geográficas que se caracterizan por no estar proyectadas, se definen diferentes proyecciones cartográficas.
+El sistema más utilizado es el Sistema de Coordenadas Universal.
+
+
+== Véase también ==
+GPS
+Trópico de Cáncer
+Trópico de Capricornio
+Coordenadas esféricas
+Altitud
+
+
+== Notas ==
+
+
+== Enlaces externos ==
+Epsilones - El problema de la longitud
+Obtener las coordenadas de cualquier lugar del Mundo
+Consultar coordenadas de un domicilio o lugar
+Aplicación web para localizar coordenadas GPS en formato UTM, DMS, decimal y MGRS
+Herramienta para obtener las coordenadas GPS con ayuda de Google Maps

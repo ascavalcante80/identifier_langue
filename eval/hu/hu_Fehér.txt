@@ -1,0 +1,28 @@
+ai a főszínek szerint rendezve listázzák a színezékek adatait
+Néhány fémoxid színezék fluoreszcens tulajdonságokkal rendelkezik. Ha ezeket olyan fényforrás világítja meg, amelynek van ibolyántúli komponense, rendkívül fehérnek látszanak (cinkszulfid, stronciumoxid).
+
+
+== A fehér a színinger metrikában ==
+A méréstechnika számára többféle fehérségi mérőszámot is definiáltak. Legfontosabb közülük a CIE White Index
+
+A Carl Zeiss által kidolgozott leukométeres fehérségi mérőszám két hullámhosszon való méréssel volt merghatározható
+
+A BASF fehérségi mérőszáma az RGB értékéből számítható:
+
+ASTM E313-98 Standard Practice for Calculating Yellowness and Whiteness Indices from Instrumentally Measured Color Coordinates számítása a színinger változókból:
+
+
+== Lásd még ==
+Színek
+en:Liturgical colours (angolul)
+en:Dyes festékek (angolul)
+en:Pigment pigmentek (angolul)
+
+
+== Források ==
+
+Lukács, Gyula. A fehér, a fekete és társaik, Színmérés. Budapest: Műszaki Könyvkiadó. ISBN 963-10-4484-X (1982) 
+Nemcsics, Antal. Színtan. Budapest: Tankönyvkiadó (1977) 
+Nemcsics, Antal. Színdinamika. Színes környezet tervezése. Budapest: Akadémiai Kiadó. ISBN 978-963-05-8027-4 (1990) 
+Világítástechnikai kislexikon
+NEMA – ANSI ANSLG C78.377-2008: Specifications for the Chromaticity of Solid State Lighting Products for Electric Lamps. American National Standards Institute, 2008. (Előírások LED fényforrások színességi koordinátáira)

@@ -1,0 +1,296 @@
+Jedna vremenska zona pokriva područja, Zemlje, koja su izabrala isto lokalno vrijeme.
+Nekada su ljudi koristili Sunčevo vrijeme, pa se doba dana razlikovalo od grada do grada. S napretkom telekomunikacija i širenjem željeznice, rasla je potreba za univerzalnim rješenjem. Vremenske su zone djelomično riješile problem jer su zbog njih svi satovi u određenoj regiji podešeni na isto srednje Sunčevo vrijeme.
+Granice vremenskih zona u pravilu leže na meridijanima geografske dužine koji su višekratnici 15º, pa razlika između susjednih vremenskih zona iznosi jedan sat. Ipak, ponegdje je razlika i drukčija. Osim toga, vremenske zone mogu imati prilično nepravilne oblike jer obično prate granice država ili drugih administrativnih područja.
+Sve se vremenske zone definiraju u odnosu na Koordinirano svjetsko vrijeme (Coordinated Universal Time - UTC). Referentna tačka za vremenske zone je nulti meridijan (geografska dužina 000), koji prolazi kroz Kraljevski opservatorij na Greenwichu u Londonu ([1]). Zato se i danas često koristi pojam "srednje vrijeme po Greenwichu" (Greenwich Mean Time - GMT) - naprimjer, koristi ga BBC - kao "osnovno vrijeme" na koje se odnose sva druga vremena. Ipak, UTC je službeni izraz, koji predstavlja kompromis između "atomskog" i "astronomskog" pristupa.
+(Inače, čak i Greenwich ima "osnovno vrijeme" samo između 01:00 UTC zadnje nedjelje u oktobru i 01:00 UTC zadnje nedjelje u martu. Ostatak godine Greenwich ima lokalno vrijeme UTC+1, što je britansko ljetno vrijeme.)
+Vrijeme svake lokacije daje se u odnosu na UTC. Naprimjer:
+Sarajevo: UTC+1 (npr. ako je 12:00 UTC, onda je 13:00 u Sarajevu)
+Mumbai: UTC+5.5 (npr. ako je 13:00 UTC, onda je 18:30 u Mumbaju)
+Tokio: UTC+9 (npr. ako je 11:00 UTC, onda je 20:00 u Tokiju)
+Los Angeles: UTC-8 (npr. ako je 12:00 UTC, onda je 04:00 u Los Angelesu)
+New York: UTC-5 (npr. ako je 11:00 UTC, onda je 06:00 u New Yorku)
+Datum u vremenskoj zoni također ovisi o UTC. Naprimjer:
+Sarajevo: UTC+1 (npr. ako je 23:30 UTC, ponedjeljak, 15. marta, onda je u Sarajevu 00:30, utorak, 16. marta)
+Auckland: UTC+12 (npr. ako je 21:00 UTC, srijeda, 30. juli, onda je u Aucklandu 09:00, četvrtak, 1. augusta)
+New York: UTC-5 (npr. ako je 02:00 UTC, utorak, onda je u New Yorku 21:00, ponedjeljak)
+Buenos Aires: UTC-4 (npr. ako je 03:00 UTC, subota, 23. augusta, onda je u Buenos Airesu 23:00, petak, 22. augusta)
+Honolulu: UTC-10 (npr. ako je 06:00 UTC, ponedjeljak, 1. maja, onda je u Honolulu 20:00, nedjelja, 30. aprila)
+Napomena: Izračun sati ovisi i o tome koristi li određena zona ljetno vrijeme.
+npr. Novi Zeland, koji je inače UTC+12, pomiče vrijeme za jedan sat zbog ljetnog vremena tokom ljeta na južnoj hemisferi, pa onda ima lokalno vrijeme od UTC+13!
+Vremenske je zone izmislio Sanford Fleming zbog potrebe željezničkih kompanija da imaju isto lokalno vrijeme između željezničkih stanica. ([2]) Vremenske su zone prvi put uvedene 18. decembra 1883. godine, kad su željeznice SAD-a i Kanade prve uspostavile vremenske zone (četiri standardne kontinentalne vremenske zone Sjeverne Amerike. Tako više nije bilo zbrke, jer su nekad imali hiljade lokalnih vremena. Svjetsko uvođenje vremenskih zona nastupilo je sljedeće godine.
+
+
+== Karta vremenskih zona ==
+
+
+== Spisak vremenskih zona ==
+Regije označene zvjezdicom (*) imaju ljetno vrijeme, tj. ljeti dodaju 1 sat.
+Napomena: Neke regije imaju vremensku razliku od 24 sata: imaju isto doba dana, ali razlikuju se za čitav jedan dan. Dvije krajnje vremenske zone razlikuju se čak 25 sati, pa se tokom jednog sata dnevno datum razliku za 2 dana.
+
+
+== UTC-11 (BEST - Bering Standard Time) ==
+Američka Samoa
+Midway
+Niue
+Samoa
+
+
+== UTC-10 (HST - Hawaii-Aleutian Standard Time) ==
+Francuska Polinezija (Društvena ostrva uključujući Tahiti, Tuamotu i Tubuai)
+Johnstonov atol
+SAD (Havaji)
+SAD (Aleuti, koji spadaju pod Aljasku)*
+
+
+== UTC-9:30 ==
+Francuska Polinezija (Ostrva Marquesas)
+
+
+== UTC-9 (AKST - Alaska Standard Time) ==
+Francuska Polinezija (Ostrva Gambier)
+SAD (Aljaska*)
+
+
+== UTC-8 (PST - Pacific Standard Time) ==
+Kanada (British Columbia*, Yukon*)
+Meksiko (Baja California*)
+SAD (Kalifornija*, Idaho (sjeverni)*, Nevada*, Oregon (osim okruga Malheur)*, Washington (savezna država)*
+
+
+== UTC-7 (MST - Mountain Standard Time) ==
+Kanada (Alberta*, Northwest Territories*, Nunavut (Mountain)*)
+Meksiko (Baja California Sur*, Chihuahua*, Nayarit*, Sinaloa*, Sonora)
+SAD (Arizona (narod Navajo živi prema DST), Idaho (južni)*, Južna Dakota (zapadna)*, Kolorado*, Montana*, Nebraska (zapadna)*, New Mexico*, Oregon (okrug Malheur)*, Sjeverna Dakota (zapadna)*, Utah*, Wyoming*)
+
+
+== UTC-6 (CST - Central Standard Time) ==
+Belize
+Čile (Uskršnje ostrvo)
+Ekvador (Galapagoška Ostrva)
+Gvatemala
+Honduras
+Kanada (Manitoba*, Nunavut (Ostrvo Southampton), Nunavut (središnji)*, Ontario (zapadni)*, Saskatchewan)
+Kostarika
+Meksiko* (sve države koje nisu navedene gore, kao i Distrito Federal)
+Nikaragva
+Salvador
+SAD (Alabama*, Arkansas*, Illinois*, Indiana* (sjeverozapadna i jugozapadna), Iowa*, Južna Dakota (istočna)*, Kansas*, Kentucky (zapadni)*, Louisiana*, Minnesota*, Mississippi*, Missouri*, Nebraska (istočna)*, Oklahoma*, Sjeverna Dakota*, Tennessee (središnji i zapadni)*, Teksas*, Wisconsin*)
+
+
+== UTC-5 (EST - Eastern Standard Time) ==
+Brazil (Acre)
+Ekvador
+Haiti
+Jamajka
+Kanada (Nunavut (istočni)*, Ontario*, Quebec*)
+Kajmanska ostrva
+Kolumbija
+Kuba*
+Panama
+Peru
+Sjedinjene Američke Države (Connecticut*, Delaware*, District of Columbia (grad Washington)*, Florida*, Georgia*, Indiana (najveći dio), Kentucky (istočni i središnji)*, Maine*, Maryland*, Massachusetts*, Michigan*, New Hampshire*, New Jersey*, New York*, North Carolina*, Ohio*, Pennsylvania*, Rhode Island*, South Carolina*, Tennessee (istočni)*, Vermont*, Virginia*, West Virginia*)
+Ostrva Turks i Caicos*
+
+
+== UTC-4 (AST - Atlantic Standard Time) ==
+Angvila
+Antigva i Barbuda
+Aruba
+Barbados
+Bolivija
+Brazil (Amazonas, Mato Grosso*, Mato Grosso do Sul*, Para (zapadna), Rondonia, Roraima)
+Čile*
+Djevičanska ostrva
+Dominika
+Dominikanska Republika
+Falklandska ostrva*
+Grenada
+Gvadalupa
+Gvajana
+Kanada (Labrador*, New Brunswick*, Nova Scotia*, Prince Edward Island*)
+Martinik
+Montserrat
+Holandski Antili
+Paragvaj*
+Portoriko
+Sveta Lucija
+Sveti Kristofor i Nevis
+Sveti Vincent i Grenadini
+Trinidad i Tobago
+Venecuela
+
+
+== UTC-3:30 (NST - Newfoundland Standard Time) ==
+Kanada (Newfoundland*)
+
+
+== UTC-3 ==
+Argentina
+Bahami*
+Brazil (Alagoas, Amapa, Bahia*, Ceara, Distrito Federal*, Espirito Santo*, Goias*, Maranhao, Minas Gerais*, Para (istočna), Paraiba, Parana*, Pernambuco, Piaui, Rio de Janeiro*, Rio Grande do Norte, Rio Grande do Sul*, Santa Catarina*, Sao Paulo*, Sergipe, Tocantins*)
+Francuska Gvajana*
+Grenland
+Surinam
+Sveti Petar i Mikelon*
+Urugvaj
+
+
+== UTC-2 ==
+Bermudi*
+Brazil (Fernando de Noronha)
+
+
+== UTC-1 ==
+Portugal (Azori*)
+Zelenortska Republika
+
+
+== UTC (WET - West European Time) ==
+Obala Slonovače
+Burkina Faso
+Gambija
+Gana
+Gvineja
+Gvineja Bisau
+Irska*
+Island
+Liberija
+Mali
+Maroko
+Mauritanija
+Farska ostrva*
+Portugal*
+Senegal
+Sijera Leone
+Sveta Helena
+Sveti Toma i Princip
+Španija* (Kanarska ostrva)
+Togo
+Velika Britanija*
+
+
+== UTC+1 (CET - Central European Time) ==
+Albanija*
+Andora*
+Angola
+Austrija*
+Belgija*
+Benin
+Bosna i Hercegovina*
+Crna Gora*
+Centralnoafrička Republika
+Čad
+Češka*
+Danska*
+Ekvatorijalna Gvineja
+Francuska*
+Gabon
+Gibraltar
+Hrvatska*
+Holandija*
+Italija*
+Kamerun
+Kongo, Dem. Rep. (Kinshasa, Bandundu, Bas-Zaire, Equateur)
+Kongo, Rep.
+Lihtenštajn*
+Luksemburg*
+Mađarska*
+Makedonija*
+Malta*
+Monako*
+Namibija*
+Niger
+Nigerija
+Norveška*
+Njemačka*
+Poljska*
+San Marino*
+Slovačka*
+Slovenija*
+Srbija*
+Svalbard i Jan Mayen*
+Španija*
+Švedska*
+Švicarska*
+Tunis
+
+
+== UTC+2 (EET - East European Time) ==
+Bjelorusija*
+Bocvana
+Bugarska*
+Burundi
+Kipar*
+Egipat*
+Estonija*
+Finska*
+Grčka*
+Izrael*
+Jordan
+Južnoafrička Republika
+Kongo, Dem. Rep. (Kasai Occidental, Kasai Oriental, Haut-Zaire, Katanga)
+Lesoto
+Letonija*
+Libanon*
+Libija
+Litva*
+Malavi
+Moldavija*
+Mozambik
+Pojas Gaze*
+Ruanda
+Rumunija*
+Rusija (1. zona*, uključujući Kaliningrad)
+Sirija*
+Svazilend
+Turska*
+Ukrajina*
+Zambija
+Zapadna obala*
+Zimbabve
+
+
+== UTC+3 (MSK - Moscow Time) ==
+Bahrein
+Džibuti
+Eritreja
+Etiopija
+Irak*
+Jemen
+Katar
+Kenija
+Komori
+Kuvajt
+Madagaskar
+Mayotte
+Rusija (2. zona*, uključujući Moskvu i St. Petersburg; ova vremenska zona vrijedi i za vozove širom Rusije)
+Saudijska Arabija
+Somalija
+Sudan
+Tanzanija
+Uganda
+
+
+== UTC+3:30 ==
+Iran*
+
+
+== UTC+4 ==
+Gruzija*
+Kazahstan (zapadni)*
+Mauricijus
+Oman
+Reunion
+Rusija (3. zona*)
+Sejšeli
+Ujedinjeni Arapski Emirati
+
+
+== UTC+4:30 ==
+Afganistan
+
+
+== UTC+5 ==
+Armenija
+Azerbejdžan*
+Kazahstan (

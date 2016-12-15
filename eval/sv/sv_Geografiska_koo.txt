@@ -1,0 +1,30 @@
+antydningarna i marginalen inte vara exakt. Inom ett mindre område, som ett kartblad i stor skala, är avvikelserna dock små. Problemen uppstår om man försöker klistra ihop angränsande kartblad för att täcka ett större område.
+Till detta kommer att papper krymper och sväller då luftfuktigheten varierar. Om två olika kartblad är tryckta vid olika tillfällen med olika luftfuktighet i tryckeriet, blir det extra förskjutningar i skarvarna när dessa kartblad acklimatiserats till samma luftfuktighet. Till råga på allt krymper och sväller papper olika på längden och bredden på grund av fiberriktningen. Detta kan vara kritiskt då kompassriktning ska tas ut för en sträcka, som går över en kartbladsskarv. Särskilt bekymmersamt blir det om sträckan går nära ett hörn, då hela tre kartblad kan vara berörda. Detta har stor betydelse exempelvis då terrängprofiler för radiolänkplanering ska uppgöras, eller vid uttagning av skjutelement för artilleri.
+
+
+== Referenser ==
+
+
+=== Fotnoter ===
+^ I vissa datorprogram, huvudsakligen av amerikanskt ursprung, har man av bekvämlighetsskäl – kontinentala USA ligger alltid västerut(!) – bakat in de västliga longitudernas minustecken i formlerna för storcirkelberäkningar. När västliga longituddata ska läsas in i programmet måste de alltså skrivas med positivt tecken. Som en konsekvens därmed måste östliga longituder skrivas in med minustecken. Andra programförfattare har motsatt teckenkonvention.
+^ Som koordinatangivelse i Wikipedia skrivs en position i DMS som {{location|59|17|37|N|18|4|59|E|region:SE}}
+^ I internationella sammanhang används . som decimaltecken. När , ska användas det måste vara säkerställt att ingen förväxling kan ske med skiljetecknet mellan latitud och longitud.
+^ Som koordinatangivelse i Wikipedia skrivs en position i DD som {{location|59.293611|18.083056|region:SE}}
+
+
+=== Källor ===
+^ Svensk Standard SS 03 61 07, avsnitt 9.2
+^ ISO 6709
+^ svensk standard SS-ISO 6709
+
+
+== Se även ==
+Astronomiska koordinater
+Galaktiskt koordinatsystem
+Geodetisk linje
+Kartprojektion
+Kordafel
+Loxodromnavigering
+Meridiankonvergens
+Polhöjd
+Storcirkel

@@ -1,0 +1,12 @@
+QRpedia is 'n mobiele web-gebaseerde stelsel wat QR-kodes gebruik om Wikipedia artikels aan gebruikers in hulle voorkeurtaal te lewer. Dis maklik om QR-kodes te skep wat na 'n spesifieke URL wys, maar QRpedia voeg verdere funksionaliteit by, deur die gebruiker na die betrokke artikel in die taal van sy keuse aan te stuur.
+
+
+== Proses ==
+'n Gebruiker hou sy selfoon teen die QR-kode om dit in te skandeer. Die foon dekodeer dan die QR-kode na 'n URL (webadres). Die adres gebruik die domein "qrwp.org". Die laaste deel van die adres sal die titel van 'n Wikipedia artikel wees.
+Die foon stuur dan 'n versoek vir die artikel na QRpedia se webbediener. Dit stuur ook die foon se voorkeurtaal deur. 
+Die QRpedia-bediener gebruik dan Wikipedia se API  om te kyk of die artikel in die gebruiker se taal beskikbaar is. Indien wel word die artikel in 'n foon-vriendelike formaat teruggestuur. As 'n geskikte vertaling van die artikel nie beskikbaar is nie, sal die QRpedia-bediener 'n keuse van beskikbare tale offer. Dit sal ook aanbied om 'n Google-vertaling van die artikel te wys.
+Op die manier kan 'n enkele QR-kode gebruik word om dieselfde artikel in verskeie tale te vind. QRpedia versamel ook statistieke oor hoe die diens gebruik word.
+
+
+== Oorsprong ==
+QRpedia is deur Roger Bamkin, die voorsitter van Wikimedia VK, bedink. Terence Eden het die kodering b

@@ -1,0 +1,39 @@
+lakváltozást szenved. Figyelembe kell venni, hogy az alakváltozás növekedésével a lineáris fajlagos nyúlás hibája nő. Nagy deformációk esetén az alakváltozási tenzor így írható:
+
+ahol
+gij a test metrikus tenzora a deformáció után,
+gij(0) pedig a nyugalomban lévő test metrikus tenzora.
+
+
+== Mérnöki nyúlás és valódi nyúlás ==
+A lineáris fajlagos nyúlás definíciójában (ezt hívják mérnöki fajlagos nyúlásnak), a megnyúlásokat nem lehet összegezni. Tegyük fel, hogy a test kétszer szenved deformációt, először  majd  (kumulatív deformáció). A végső fajlagos nyúlás
+
+ez kismértékben eltér a nyúlások összegétől:
+
+és
+
+Mivel , ez így írható át:
+
+és így
+
+A valódi fajlagos nyúlás (természetes nyúlás, logaritmikus nyúlás vagy Hencky-nyúlás) viszont összegezhető. Definíciója:
+
+és így
+
+ahol
+ az anyag eredeti hossza,
+ az anyag végső hossza.
+A mérnöki fajlagos nyúlás a valódi fajlagos nyúlás sorbafejtésével nyerhető.
+
+
+== Lásd még ==
+Mechanikai feszültség
+Nyúlásmérő bélyeg
+Alakváltozási tenzor
+Szakítószilárdság
+Hooke-törvény
+Poisson-tényező
+
+
+== Forrás ==
+Muttnyánszky Ádám: Szilárdságtan. Műszaki könyvkiadó, Budapest, 1981. ISBN 963 10 359 13

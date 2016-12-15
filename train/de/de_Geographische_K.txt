@@ -1,0 +1,39 @@
+Mit den geographischen Koordinaten (geographische Breite und geographische Länge) lässt sich die Lage eines Punktes auf der Erde beschreiben. Die Erde wird dabei in 180 Breitengrade und 360 Längengrade aufgeteilt. Breitengrade verlaufen parallel zum Äquator, Längengrade durch Nord- und Südpol.
+Geographische Koordinaten werden häufig im Sexagesimalsystem angegeben, d. h. 1 Grad ist unterteilt in sechzig Minuten, 1 Minute wiederum in 60 Sekunden.
+
+
+== Koordinatensystem ==
+
+Das Gradnetz der Erde ist ein gedachtes Koordinatensystem auf der Erdoberfläche mit sich rechtwinklig schneidenden Längen- und Breitenkreisen. Es dient zur geographischen Ortsbestimmung, das heißt, zur Festlegung des eigenen Standorts. Die Breitengrade werden dabei vom Äquator aus gezählt, die Pole liegen bei 90° Nord bzw. Süd, die Längengrade werden von einem willkürlichen Nullmeridian nach Osten und Westen gezählt bis jeweils 180°. Die Festlegung der Winkel ist dem in der Mathematik üblichen Kugelkoordinatensystem entgegengesetzt.
+Bis Anfang des 20. Jahrhunderts waren in verschiedenen Ländern unterschiedliche Nullmeridiane gebräuchlich (z. B. der Ferro-Meridian von El Hierro und der Meridian von Paris), heute wird weltweit der Meridian von Greenwich (Sternwarte in London) verwendet.
+Bei der genauen Ortsbestimmung muss beachtet werden, dass die Erde keine Kugel, sondern annähernd ein Ellipsoid ist, was Ortsverschiebungen bis 20 km bewirken könnte. Auch können geographische Koordinaten je nach Land unterschiedliche Bezugsysteme haben, deren Referenzellipsoide dem regionalen Schwerefeld (Geoid) angepasst sind. International wird heute meist das World Geodetic System 1984 (WGS84) benutzt.
+
+
+== Karten ==
+Im 18. und 19. Jahrhundert glichen die Geodäten größere regionale Abweichungen der Erdfigur vom idealen Ellipsoid dadurch aus, dass sie im betreffenden Gebiet ein bestanschließendes Ellipsoid berechneten, das sich der Erdoberfläche im betreffenden Gebiet gut „anschmiegte“. Der Mittelpunkt eines solchen Ellipsoids fiel nicht mit dem Massenmittelpunkt der Erde zusammen, die Umdrehungsachse war aber parallel zur Erdachse. Das Koordinatensystem ist gegenüber anderen derartigen Ellipsoiden „verschoben“ und „verbogen“. So entstanden Dutzende geodätische Systeme (Bezugssysteme für Karten). Mit der Entwicklung der Satellitennavigation musste ein weltweit einheitliches System geschaffen werden, das jetzige WGS84.
+In Land- oder Seekarten, die fast immer auf früheren Systemen beruhen, könnte eine Angabe in einem falschen Bezugssystem (etwa das Eintragen einer GPS-Position) einen Fehler von etlichen Hundert Metern verursachen, wenn das Referenzellipsoid (auch Kartendatum, Bezugssystem) der Angabe nicht dasselbe ist wie das der Karte. Daher soll bei genauen Koordinatenangaben (Faustregel: falls eine Genauigkeit besser als 1 km oder besser als 1 Bogenminute gewünscht wird) das Bezugssystem mit angegeben werden.
+Koordinaten können mit Hilfe geeigneter Transformations-Software von einem System zu einem anderen umgerechnet werden. Solche Software muss die Parameter beinhalten, die die Abweichung der Bezugssysteme voneinander bzw. vom WGS84 mit möglichst hoher Genauigkeit definieren.
+
+
+=== Luftfahrt und Nautik ===
+Genauere Positionsangaben sind in der Luftfahrt und der Nautik erforderlich. Hier werden geographische Breite und Länge in Grad und Minuten angegeben, z. B. Zugspitze Lat = 47° 25' N oder Nord, Lon = 010° 59' E oder Ost.
+Bogenminuten werden dezimal weiter unterteilt.
+Gemäß DIN 13312, gültig für Luft- und Seefahrt, wird die geographische Breite mit Lat oder älter auch φ abgekürzt, die geographische Länge mit Lon oder λ. B und L sind nicht normgemäß.
+Eine Breitenminute entspricht auf der Erdoberfläche einer Strecke von ca. 1,852 km und definiert die Länge einer Seemeile.
+Die Strecke, die einer Längenminute entspricht, beträgt am Äquator ebenfalls 1,852 km, nimmt aber zum Pol hin mit dem Kosinus der geographischen Breite bis auf Null ab. Sie ist also breitenabhängig. Innerhalb Europas liegt die Strecke zwischen 1,0 km und 1,5 km (siehe auch Abweitung).
+
+
+=== Vermessungswesen ===
+Im Vermessungswesen sind cm-Genauigkeiten gefragt – daher genügt die Angabe von Bogensekunden nicht, da eine Bogensekunde (1″) etwa 31 m (Breitenangabe) bzw. 20 m (Längenangabe in Europa) entspricht. In Deutschland wurde bisher die Lage der Festpunkte auf Millimeter genau als Gauß-Krüger-Koordinate, bezogen auf das Bessel-Ellipsoid, beziehungsweise im Gebiet der DDR ab den 1950er Jahren, bezogen auf das Krassowski-Ellipsoid, angegeben. Seit den 1990er Jahren erfolgt in Deutschland eine Umstellung auf UTM-Koordinaten im ETRS89-System, bezogen auf das GRS80-Ellipsoid.
+
+
+== Natürliche, astronomische, ellipsoidische, geodätische Koordinaten ==
+Die natürlichen Koordinaten (astronomische Breite φ und astronomische Länge λ) können durch astronomische Ortsbestimmung ermittelt werden. Sie beziehen sich auf die tatsächliche Lotrichtung am Messpunkt. Die ellipsoidischen Koordinaten (B, L – auch geodätische Koordinaten genannt) beziehen sich hingegen auf die Normalen­richtung des verwendeten Referenzellipsoids. Die Differenz von Lotrichtung und Ellipsoidnormale ist üblicherweise kleiner als 10″ und wird als Lotabweichung bezeichnet. In der Regel verlaufen weder Lotrichtung noch Ellipsoidnormale durch den Erdmittelpunkt.
+Bei geringen Genauigkeitsansprüchen z. B. bei Kartendarstellungen in sehr kleinen Maßstäben wird der Erdkörper zur Vereinfachung durch eine Kugel angenähert. In diesem Fall entsprechen geographische Breite und Länge sphärischen Koordinaten. Nur dann ist die Breite der Winkel im Erdmittelpunkt zwischen dem Äquator und dem gesuchten Punkt.
+
+
+== Geschichte ==
+Die Gradeinteilung als die Einteilung des Vollwinkels des Kreises in 360° geht auf die Astronomen Hypsikles von Alexandria („Anaphorikos“, 170 v. Chr.) und Hipparch von Nikaia (190–120 v. Chr.) zurück.
+Schon Claudius Ptolemäus verwandte in seiner Geographike Hyphegesis um 150 nach Chr. ein Gradnetz mit Längen- und Breitengraden. Sein Null-Meridian war der bis ins 19. Jahrhundert überwiegend verwendete Ferro-Meridian durch den westlichsten damals bekannten Landpunkt. Wegen seiner viel zu kleinen Kalkulation des Erdumfanges (etwa 30.000 km statt 40.000 km) weichen seine Angaben zur geographischen Länge dadurch nicht um 18°3', sondern in Mitteleuropa um gut 24° von den auf Greenwich bezogenen ab. Seine Breitenangaben liegen aus nicht klar ersichtlichen Gründen über den korrekten. Einerseits passt das zu Ptolemäus’ zu geringem Erddurchmesser, andererseits hätte bei seinem zu gering angesetzten Abstand zwischen Sonne und Erde von nur 1210 Erdradien aus dem Sonnenstand auf einen zu geringen Gradabstand vom Äquator geschlossen werden müssen.
+Nach der Wiederentdeckung der Geographike Hyphegesis und ihrer Übersetzung ins Lateinische im frühen 15. Jahrhundert setzte sich das Ptolemäische Gradsystem schnell durch.
+Duarte Pacheco Pereira (1469–1533) verbesserte die antiken Messverfahren für die i

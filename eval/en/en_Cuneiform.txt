@@ -1,0 +1,79 @@
+s are given for number 123 EGIR).
+
+
+=== Numerals ===
+
+The Sumerians used a numerical system based on 1, 10 and 60. The way of writing a number like 70 would be the sign for 60 and the sign for 10 right after. This way of counting is still used today for measuring time as 60 seconds per minute and 60 minutes per hour.
+
+
+== Unicode ==
+
+As of version 8.0, the following ranges are assigned to the Sumero-Akkadian Cuneiform script in the Unicode Standard:
+U+12000–U+123FF (922 assigned characters) "Cuneiform"
+U+12400–U+1247F (116 assigned characters) "Cuneiform Numbers and Punctuation"
+U+12480–U+1254F (196 assigned characters) "Early Dynastic Cuneiform"
+The final proposal for Unicode encoding of the script was submitted by two cuneiform scholars working with an experienced Unicode proposal writer in June 2004. The base character inventory is derived from the list of Ur III signs compiled by the Cuneiform Digital Library Initiative of UCLA based on the inventories of Miguel Civil, Rykle Borger (2003), and Robert Englund. Rather than opting for a direct ordering by glyph shape and complexity, according to the numbering of an existing catalog, the Unicode order of glyphs was based on the Latin alphabetic order of their "last" Sumerian transliteration as a practical approximation.
+
+
+== List of major Cuneiform tablet discoveries ==
+
+
+== See also ==
+
+Old Persian cuneiform pdf
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Adkins, Lesley, Empires of the Plain: Henry Rawlinson and the Lost Languages of Babylon, New York, St. Martin's Press (2003) ISBN 0-312-33002-2
+Bertman, Stephen (2005), Handbook to Life in Ancient Mesopotamia, Oxford University Press, ISBN 9780195183641 
+R. Borger, Assyrisch-Babylonische Zeichenliste, 2nd ed., Neukirchen-Vluyn (1981)
+Borger, Rykle (2004). Dietrich, M. Loretz, O., ed. Mesopotamisches Zeichenlexikon. Alter Orient und Altes Testament 305. Münster: Ugarit Verlag. ISBN 3-927120-82-0. 
+Burnouf, E. (1836). "Mémoire sur deux Inscriptions Cunéiformes trouvées près d'Hamadan et qui font partie des papiers du Dr Schulz", Impr. Roy, Paris.
+Daniels, Peter; Bright, William (1996). The World's Writing Systems. Oxford University Press. p. 146. ISBN 0-19-507993-0. 
+A. Deimel (1922), Liste der archaischen Keilschriftzeichen ("LAK"), WVDOG 40, Berlin.
+A. Deimel (1925–1950), Šumerisches Lexikon, Pontificum Institutum Biblicum.
+F. Ellermeier, M. Studt, Sumerisches Glossar
+vol. 1: 1979–1980, ISBN 3-921747-08-2, ISBN 3-921747-10-4
+vol. 3.2: 1998–2005, A-B ISBN 3-921747-24-4, D-E ISBN 3-921747-25-2, G ISBN 3-921747-29-5
+vol. 3.3: ISBN 3-921747-22-8 (font CD ISBN 3-921747-23-6)
+vol. 3.5: ISBN 3-921747-26-0
+vol 3.6: 2003, Handbuch Assur ISBN 3-921747-28-7
+
+A. Falkenstein, Archaische Texte aus Uruk, Berlin-Leipzig (1936)
+E. Forrer, Die Keilschrift von Boghazköi, Leipzig (1922)
+J. Friedrich, Hethitisches Keilschrift-Lesebuch, Heidelberg (1960)
+Jean-Jacques Glassner, The Invention of Cuneiform, English translation, Johns Hopkins University Press (2003), ISBN 0-8018-7389-4.
+Hayes, John L. (2000). A Manual of Sumerian Grammar and Texts. Aids and Research Tools in Ancient Near Eastern Studies 5 (2d ed.). Malibu: Undena Publications. ISBN 0-89003-197-5. 
+Heeren (1815) "Ideen über die Politik, den Verkehr und den Handel der vornehmsten Volker der alten Welt", vol. i. pp. 563 seq., translated into English in 1833.
+Kramer, Samuel Noah (1981). "Appendix B: The Origin of the Cuneiform Writing System". History Begins at Sumer: Thirty-Nine Firsts in Man's Recorded History (3d revised ed.). Philadelphia: University of Pennsylvania Press. pp. 381–383. ISBN 0-8122-7812-7. 
+René Labat, Manuel d'epigraphie Akkadienne, Geuthner, Paris (1959); 6th ed., extended by Florence Malbran-Labat (1999), ISBN 2-7053-3583-8.
+Lassen, Christian. "Die Altpersischen Keil-Inschriften von Persepolis"
+Mittermayer, Catherine; Attinger, Pascal (2006). Altbabylonische Zeichenliste der Sumerisch-Literarischen Texte. Orbis Biblicus et Orientalis. Special Edition. Academic Press Fribourg. ISBN 978-3-7278-1551-5. 
+O. Neugebauer, A. Sachs (eds.), Mathematical Cuneiform Texts, New Haven (1945).
+Patri, Sylvain (2009). L’adaptation des consonnes hittites dans certaines langues du XIIIe siècle. Zeitschrift für Assyriologie und vorderasiatische Archäologie 99(1): 87–126.
+Pritchard, James Cowles (1844). "Researches Into the Physical History of Mankind", 3rd Ed., Vol IV, Sherwood, Gilbert and Piper, London
+Rawlinson, Henry (1847) "The Persian Cuneiform Inscription at Behistun, decyphered and translated; with a Memoir on Persian Cuneiform Inscriptions in general, and on that of Behistun in Particular", The Journal of the Royal Asiatic Society, Vol X.
+Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash, Paris (1967)
+Chr. Rüster, E. Neu, Hethitisches Zeichenlexikon (HZL), Wiesbaden (1989)
+Sayce, Rev. A. H. (1908). "The Archaeology of the Cuneiform Inscriptions", Second Edition-revised, 1908, Society for Promoting Christian Knowledge, London, Brighton, New York; at pp 9–16 Not in copyright
+Nikolaus Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III nebst ihren charakteristischsten Schreibvarianten, Keilschrift-Paläographie; Heft 2, Rom: Päpstliches Bibelinstitut (1935).
+Wolfgang Schramm, Akkadische Logogramme, Goettinger Arbeitshefte zur Altorientalischen Literatur (GAAL) Heft 4, Goettingen (2003), ISBN 3-936297-01-0.
+F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme, Paris (1898).
+Ronald Herbert Sack, Cuneiform Documents from the Chaldean and Persian Periods, (1994) ISBN 0-945636-67-9
+
+
+== External links ==
+Akkadian font for Windows and Mac
+EDSITEment lesson plan Cuneiform Writing System in Ancient Mesopotamia: Emergence and Evolution
+Babylonian Cunieform offering to the King of Erech
+Epigraphy at DMOZ
+Smarthistory, Cuneiform and the Invention of Writing
+Unicode Fonts for Ancient Scripts and Akkadian font for Ubuntu Linux-based operating system (ttf-ancient-fonts)
+Unicode Fonts for Oracc, fonts for transliterating and displaying cuneiform
+Writing ancient Iranian cuneiform on YouTube by subject-matter expert Soheil Delshad

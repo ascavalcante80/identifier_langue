@@ -1,0 +1,38 @@
+ete. Holmes è sponsorizzato e usato commercialmente dal portale web ceco Centrum. è usato inoltre dal sito Onet.pl.
+YaCy è un motore di ricerca liberamente distribuito, costruito sui principi dei network di p2p (sotto licenza GPL).
+Ruya è open source ad alte prestazioni basato sulla ricerca Breadth-first, crawler di livello base. È usato per gestire siti web inglesi e giapponesi nel miglior modo possibile. È distribuita sotto licenza GPL e scritto interamente in linguaggio Python.
+Universal Information Crawler è un web crawler di uso veloce. Salva e analizza i dati.
+Agent Kernel è una struttura Java per pianificare, trattare e stoccare i dati durante il crawling.
+Squzer, un web crawler open-source, espandibile, multifunzione scritto in Python.
+Arachnode.NET è un web crawler open source promiscuo per scaricare, indicizzare e salvare contenuti Internet incluse e-mail, file, hyperlink, immagini e pagine web. Arachnode.net è scritto in C# usando SQL Server 2005 ed è distribuito sotto licenza GPL.
+BBragnet è un web crawler open source (per server Linux) scritto in PHP
+
+
+== Critiche ==
+Il termine Web Crawler viene utilizzato anche per indicare i controversi offline browser, come: PageNest (ex WebStripper), MSIECrawler, Offline Explorer, etc. Questi programmi sono concepiti per scaricare sul disco fisso del computer dell'utente il contenuto di un intero sito web. Ad esempio, Memory Alpha ne vieta l'utilizzo perché accedono al sito in modo aggressivo, rallentando drasticamente la fruizione del sito stesso da parte degli altri utenti ed i trasgressori rischiano di essere bloccati.
+
+
+== Note ==
+^ (EN) Memory Alpha:Database download, memory-alpha.org. URL consultato il 28 dicembre 2010.
+^ Vedi il file robots.txt di Memory Alpha
+
+
+== Voci correlate ==
+Indicizzazione (motore di ricerca)
+Motore di ricerca
+Robots.txt
+Web scraping
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «crawler»
+
+
+== Collegamenti esterni ==
+PolyBot
+WebRACE
+Ubicrawler
+Labrador
+Spinn3r
+Htdig

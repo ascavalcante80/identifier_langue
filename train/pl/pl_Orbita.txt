@@ -1,0 +1,26 @@
+Orbita – tor ciała (ciała niebieskiego lub sztucznego satelity) krążącego wokół innego ciała niebieskiego. W Układzie Słonecznym Ziemia, inne planety, planetoidy, komety i mniejsze ciała poruszają się po swoich orbitach wokół Słońca. Z kolei księżyce krążą po orbitach wokół planet macierzystych.
+Orbity trzech z piętnastu ciał przyciągających się tylko siłą grawitacji daje się wyznaczyć z newtonowskich praw ruchu. Można w ten sposób opisać ruch większości planet Układu Słonecznego. W przypadku dużych mas położonych blisko siebie lub poruszających się ze znacznymi prędkościami konieczne jest zastosowanie ogólnej teorii względności. Przykładem może być tutaj Merkury, którego ruch orbitalny odbiega na tyle od praw newtonowskich, że jest to widoczne w pomiarach astronomicznych.
+Istnieją analityczne rozwiązania dla płaskiego, ograniczonego problemu trzech ciał (rozwiązanie Lagrange’a); dla większej ilości ciał ścisłe rozwiązanie analityczne jest niewyprowadzane.
+Ciała poruszają się wokół wspólnego środka masy. Staje się to wyraźnie widoczne, gdy masy ciał są porównywalne jak to ma miejsce w przypadku np. gwiazd podwójnych. Gdy jedno ciało jest znacznie masywniejsze niż pozostałe (jak np. Słońce w Układzie Słonecznym), wówczas środek ciężkości układu znajduje się bardzo blisko środka najmasywniejszego składnika układu. Można wówczas w przybliżeniu opisywać ruch ciała o mniejszej masie tak, jakby krążyło ono wokół nieruchomego ciała masywniejszego.
+W przypadku dwóch ciał, orbita jest krzywą płaską (jedną z krzywych stożkowych). Orbita może być otwarta (wtedy ciało nie powraca) lub zamknięta (ciało powraca), co zależy od całkowitej energii (kinetycznej + potencjalnej) układu.
+
+Otwarte orbity mają kształt hiperboli (czasem bardzo bliskiej paraboli); ciała zbliżają się na chwilę, zakrzywiają swój tor w pobliżu siebie – najbardziej w punkcie największego zbliżenia; następnie oddalają się od siebie na zawsze. W ten sposób poruszają się niektóre komety, tzw. jednopojawieniowe.
+Zamknięte orbity mają kształt elipsy (w szczególnym przypadku okręgu). Punkt, w którym krążące ciało jest najbliżej okrążanego, nazywany jest perycentrum, a gdy jest najdalej – apocentrum. Punkty te mają również swoje własne nazwy ze względu na okrążany obiekt, np. dla gwiazd jest to peryastron i apoastron, a dla księżyców peryselenium i aposelenium. Nazwy takie istnieją również dla konkretnych ciał niebieskich, np. dla Ziemi jest to perygeum i apogeum, a dla Słońca peryhelium i aphelium. Nazwy takie tworzone są również dla planet (więcej w artykułach perycentrum i apocentrum).
+Krążące po zamkniętych orbitach ciała powtarzają swój ruch po elipsie w stałych odstępach czasu. Ten ruch jest opisany empirycznymi prawami Keplera, które mogą być wyprowadzone matematycznie z praw Newtona.
+
+
+== Elementy orbity ==
+
+Ciało sztywne poruszające się w trójwymiarowej przestrzeni ma sześć stopni swobody (trzy dla pozycji i trzy dla prędkości). Jego orbita jest dokładnie określona przez siedem niezależnych parametrów. Zwykle używa się następujących parametrów:
+ – półoś wielka (średnia odległość od centrum),
+ – ekscentryczność (mimośród),
+ – inklinacja (nachylenie orbity),
+ – argument perycentrum (lub  – długość perycentrum dla i = 0° lub i = 180°),
+ – długość węzła wstępującego
+ – moment przejścia ciała przez perycentrum (średnia anomalia w danej epoce  albo wartość ),
+ – średni ruch dzienny.
+- inklinacja (przejście i ruch ciała niebieskiego) wartości ponadasteroidalnych
+Równanie biegunowe elipsy ma postać:
+
+skąd łatwo można obliczyć najmniejszą i największą długość promienia wodzącego:
+odległość 

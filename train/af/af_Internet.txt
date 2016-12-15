@@ -1,0 +1,28 @@
+Die Internet is ’n wêreldwye stelsel van rekenaarnetwerke wat met mekaar verbind is en data uitruil met behulp van die gestandaardiseerde Internet Protocol Suite (TCP/IP). Dis ’n netwerk van miljoene private en openbare, akademiese, regerings- en sakenetwerke wat verbind word deur optiese vesel- en koperkabels of verskillende soorte kabellose verbindings.
+Die naam "Internet" word gewoonlik in spreektaal gebruik om na die Wêreldwye Web te verwys, maar laasgenoemde is slegs een van die talle dienste wat deur die Internet beskikbaar is. Ander sluit in e-pos, lêeroordrag (FTP), geselsdienste en aanlynspeletjies.
+
+
+== Die ontstaan ==
+Die voorloper tot die Internet was ARPANET – ’n netwerk van militêre netwerke, en later ook universiteitsnetwerke, wat in 1969 in die VSA ontstaan het. Op 1 Januarie 1983 het ARPANET oorgeskakel van die ou NCP-protokol na TCP/IP en so die weg gebaan vir die ontstaan van die moderne Internet.
+Dit was egter eers in die negentigerjare dat die publiek die Internet "ontdek" het. In Augustus 1991 het Tim Berners-Lee en Robert Cailliau die World Wide Web-projek gepubliseer nadat hulle ’n paar jaar aan HTTP en HTML gewerk het. Die eerste webbladsye het verskyn by CERN in Switserland, waar hulle albei gewerk het.
+Met die uitvinding van bladsye wat aan mekaar verbind word deur klikbare skakels (HTML/WWW) het Tim Berners-Lee die Internet inderwaarheid vir die groot publiek beskikbaar gestel. Hy word dus beskou as die uitvinder/grondlegger van die huidige Internet.
+Sedertdien het dit ’n wêreldwye fenomeen geword met die karakter van ’n massamedium. Dit is die mees gebruikte kommunikasiemiddel ooit. Een van die bydraende faktore tot die Internet se sukses is waarskynlik dat dit in sy geheel aan niemand behoort nie en kommunikasie daarop feitlik onbeperk is.
+
+
+== Toegang ==
+Daar is verskeie metodes om toegang tot die Internet te kry, soos inbelverbindings, breëband (oor ’n koaksiale, optiese vesel- of koperkabel), Wi-Fi, satelliet en 3G-selfone.
+
+
+== Taal ==
+Engels is verreweg die oorheersende taal op die Internet (met 30% van gebruikers), gevolg deur Sjinees, (17%), Spaans (9%), Japannees (7%), Frans (5%) en Duits (5%).
+Die meeste Internetgebruikers is in Asië (40%), gevolg deur Europa (26%), Noord-Amerika (17%), Latyns-Amerika (10%), Afrika (4%), die Midde-Ooste (3%) en Australië (1%).
+Internettegnologie het in die laaste jare so goed ontwikkel, veral in die gebruik van Unicode, dat daar tans in feitlik enige taal gekommunikeer kan word, selfs dié wat ander skryfstelsels as die Latynse alfabet gebruik.
+
+
+== Wêreldwye Web ==
+
+Soos reeds genoem, is die terme "Internet" en "Wêreldwye Web" (soms net die Web genoem) nie sinonieme nie, hoewel dit dikwels so gebruik word.
+Die Wêreldwye Web is ’n groot stelsel dokumente, beelde en ander bronne wat deur hiperskakels en URL's verbind word. Hierdie skakels en URL's stel webbedieners en ander masjiene waarop die oorspronklikes data gestoor word, in staat om die data te stuur met behulp van HTTP (Hypertext Transfer Protocol). HTTP is slegs een van die kommunikasieprotokols op die Internet.
+Met behulp van webblaaiers soos Internet Explorer, Firefox, Opera en ander kan Internetgebruikers toegang kry tot webbladsye. Hulle kan ook tussen webbladsye of webwerwe navigeer met behulp van hiperskakels. Webdokumente kan feitlik enige kombinasie van rekenaardata bevat, onder andere grafika, klank, video's, gewone teks, multimedia en interaktiewe inhoud soos webspeletjies, sagteware en demonstrasies.
+Deur sleutelwoord-soektogte met soekenjins soos Yahoo! en Google het miljoene mense vinnige, maklike toegang tot ’n oneindige verskeidenheid aanlyninligting. In vergelyking met gedrukte ensiklopedieë en tradisionele biblioteke het die Wêreldwye Web ’n skielike en geweldige desentralisasie van inligting en data tot gevolg gehad.
+Buiten webwerwe waarmee individue, organisasies en adverteerders ’n ontsaglike hoeveelheid mense kan bereik, word belangstelling in die Web ook aangevuur deur verskynsels soos webjoernale of blogs, asook versamelings persoonlike webbladsye soos dié op GeoCities, Facebook en MySpace. So word miljoene mense in staat gestel om op die Internet te kommunikeer sonder ’n groot kennis van onder ander

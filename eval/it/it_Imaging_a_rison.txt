@@ -1,0 +1,65 @@
+gior parte della fibre nella regione sono orientate parallelamente a questa direzione.
+
+La tecnica di imaging del tensore di diffusione (Diffusion tensor imaging, o DTI), permette di misurare la diffusione nelle tre direzioni spaziali e l'anisotropia all'interno del singolo voxel. Questo permette il tracciamento di mappe delle direzioni delle fibre del cervello per esaminare le connessioni tra le varie aree (usando la trattografia), oppure esaminare aree di degenerazione neuronale e demielinizzazione in malattie come la sclerosi multipla.
+Un'altra tecnica di misurazione della diffusione è l'imaging pesato in diffusione (Diffusion-weighted imaging, o DWI). Questa tecnica permette la misurazione della distanza di diffusione delle molecole d'acqua. Più breve è questa distanza, più chiara appare la regione considerata. In seguito ad una ischemia cerebrale, le immagini DWI sono molto sensibili ai cambiamenti patofisiologici che avvengono nella lesione Si pensa che l'aumento delle barriere alla diffusione delle molecole d'acqua come risultato dell'edema citotossico (rigonfiamento delle cellule), sia responsabile dell'incremento del segnale in una scansione DWI. Altre teorie propongono che l'effetto sia dovuto a cambiamenti nella permeabilità cellulare o al venir meno della flusso citoplasmatico dipendente dall'ATP. L'aumento del segnale DWI appare entro 5-10 minuti dall'insorgenza dei sintomi dell'attacco ischemico (in contrasto con la tomografia computerizzata, che normalmente identifica i cambiamenti nei tessuti con un ritardo di 4-6 ore) e rimane per un periodo fino a due settimane. La TC, per la sua scarsa sensibilità all'ischemia acuta, è normalmente usata per verificare che non ci sia emorragia, che impedirebbe l'uso dell'attivatore tissutale plasminogeno (t-PA).
+Accoppiato a misure di perfusione cerebrale, alcuni ricercatori sono stati in grado di determinare regioni di discordanza tra perfusione e diffusione, che potrebbero essere recuperate in seguito a terapia di riperfusione del tessuto.
+È stato anche proposto che le misure di diffusione tramite MRI potrebbero essere in grado di identificare cambiamenti molto piccoli nella diffusione dell'acqua extracellulare, il che potrebbe avere applicazioni nel campo della risonanza magnetica funzionale: il corpo cellulare di un neurone si ingrandisce quando conduce un potenziale d'azione, impedendo di conseguenza la naturale diffusione delle molecole d'acqua. Nonostante questo processo sia stato provato a livello teorico, le prove sperimentali non sono ancora del tutto convincenti.
+Come molte altre applicazioni più avanzate, questa tecnica è normalmente associata a sequenze di eccitazione rapide, come ad esempio l'echo planar imaging.
+
+
+== Artefatti tipici ==
+Come con l'imaging a risonanza magnetica sono possibili molte diverse modalità di acquisizione dell'immagine, esistono parallelamente anche una serie di artefatti, cioè l'apparizione di strutture che non sono effettivamente presenti nell'oggetto osservato, tipici di questa branca della radiologia, e che sono normalmente associati a una non corretta codifica del k-spazio.
+
+
+=== Aliasing ===
+
+Quando il field of view nella direzione di codifica di fase dell'immagine acquisita è più piccolo dell'oggetto nello scanner, si ha un fenomeno detto aliasing. Le parti dell'oggetto al di fuori dell'area di imaging producono comunque un segnale, ma l'intensità dei gradienti applicati fa sì che esse acquisiscano una fase superiore a . Esse vengono quindi considerate dall'algoritmo ricostruttivo come sovrapposte all'estremità opposta dell'immagine. Questo artefatto viene corretto aumentando la dimensione del field of view, sopprimendo il segnale indesiderato tramite impulsi di saturazione, oppure tramite algoritmi in grado di riconoscere le sovrapposizioni che sfruttano le diverse intensità ricevute da bobine riceventi poste in punti diversi dello spazio (acquisizione parallela o parallel imaging).
+
+
+=== Ringing (o artefatto di Gibbs) ===
+
+Quando in una immagine è presente un repentino cambiamento di contrasto (nell'immagine a fianco una struttura di plastica, che risulta nera nell'immagine, è immersa in acqua), si formano attorno all'interfaccia delle "onde" spaziate ad intervalli regolari. Questo fenomeno prende il nome di ringing (o artefatto di Gibbs, dal fisico statunitense Willard Gibbs). Questo è un fenomeno conosciuto anche in teoria dei segnali e dovuto al sottocampionamento in frequenza di un segnale. Per rappresentare una repentina variazione di un segnale nel campo della trasformata di Fourier quale è il k-spazio, sarebbe necessaria l'acquisizione di un infinito numero di campioni. Data l'impossibilità pratica di soddisfare questo requisito, l'interfaccia non appare netta ma presenta queste caratteristiche oscillazioni.
+Per eliminare questo artefatto è necessario eseguire la scansione ad una risoluzione più elevata.
+
+
+== Note ==
+^ (EN) http://www.mrisafety.com/
+^ (EN) Neurospin, sito ufficiale del progetto Neurospin.
+^ David L. Price, Janet P. De Wilde, Annie M. Papadaki, Jane S. Curran, Richard I. Kitney, Investigation of acoustic noise on 15 MRI scanners from 0.2 T to 3 T, in Journal of Magnetic Resonance Imaging, vol. 13, nº 2, 2001, pp. 288–293, DOI:10.1002/1522-2586(200102)13:2<288::AID-JMRI1041>3.0.CO;2-P. 
+^ Z.H. Cho, S.H. Park, J.H. Kim, S.C. Chung, S.T. Chung, J.Y. Chung, Analysis of acoustic noise in MRI, in Magnetic Resonance Imaging, vol. 15, nº 7, 1997, pp. 815–822, DOI:10.1016/S0730-725X(97)00090-8. 
+^ S. Allen Counter, Ake Olofsson, H. F. Grahn, Erik Borg, MRI acoustic noise: Sound pressure and frequency analysis, in Journal of Magnetic Resonance Imaging, vol. 7, nº 3, 1997, pp. 606–611, DOI:10.1002/jmri.1880070327. 
+^ M. McJury, R.W. Stewart, D. Crawford, E. Toma, The use of active noise control (ANC) to reduce acoustic noise generated during MRI scanning: Some initial results, in Magnetic Resonance Imaging, vol. 15, nº 3, 1997, pp. 319–322, DOI:10.1016/S0730-725X(96)00337-2. 
+^ Le Bihan D, Breton E, Lallemand D, Grenier P, Cabanis E, Laval-Jeantet M, MR imaging of intravoxel incoherent motions: application to diffusion and perfusion in neurologic disorders, in Radiology, vol. 161, nº 2, novembre 1983, pp. 401-407, 3763909.
+^ Moseley ME, Cohen Y, Mintorovitch J, Chileuitt L, Shimizu H, Kucharczyk J, Wendland MF, Weinstein PR, Early detection of regional cerebral ischemia in cats: comparison of diffusion- and T2-weighted MRI and spectroscopy, in Magnetic Resonance in Medicine, vol. 14, nº 2, maggio 1990, pp. 330-346, 2345513.
+
+
+== Bibliografia ==
+Valli Guido; Coppini Giuseppe. Bioimmagini 2ª ed.. Bologna, Pàtron, 2005. ISBN 978-88-555-2838-2
+Cittadini Giorgio, Diagnostica per immagini e radioterapia, Genova, ECIG, 2002, ISBN 978-88-7545-930-7
+(EN) Haake EM, Brown BW, Thompson MR, Venkatesan R. Magnetic resonance imaging: Physical Principles & Sequence Design. J Wiley-Liss, 1999. ISBN 0-471-35128-8
+(EN) Brevetto US 3,789,832: Raymond V. Damadian, Apparatus and Method for Detecting Cancer in Tissue, 1972 (primo brevetto nel campo dell'MRI)
+
+
+== Voci correlate ==
+Mezzo di contrasto
+Risonanza magnetica nucleare
+Risonanza magnetica funzionale
+Medicina nucleare
+Gradient echo
+FLAIR
+Echo-planar imaging
+Turbo spin echo
+Acquisizione parallela
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Imaging a risonanza magnetica
+
+
+== Collegamenti esterni ==
+(EN) Corso online di introduzione all'MRI.
+(EN) Atlante MRI del cervello umano.
+(EN) Portale informativo sulla tecnologia MR.
+(EN) Sito di informazione sulle misure di sicurezza riguardo all'MRI. Contiene informazioni riguardo alla possibilità di effettuare esami in pazienti con vari tipi di impianti e protesi.
+(EN) Proposed Methodology to Evaluate Unnecessary Imaging .

@@ -1,0 +1,5 @@
+ntele care descriu conținutul ce urmează a fi afișat în pagină, inclusiv elementele noi introduse de XHTML + TIME, care se referă la obiecte multimedia (t:animation, t:audio, t:img, t:media si t:video). Cele mai utilizate elemente de conținut din XHTML sunt p, div, span, precum și elementele pentru descrierea de tabele. Prin adăugarea de atribute XHTML + TIME unui element de continut, poate fi definită o apariție periodică a elementului respectiv. - elemente de stil : descriu stilul de afișare pentru un element. Dintre cele mai utilizate elemente de stil amintim: b, i si em. Atributele aplicate unui element de stil determină atașarea și înlăturarea unor stiluri de afișare pe parcursul timpului.
+
+
+== Referințe ==
+Site official XHTML

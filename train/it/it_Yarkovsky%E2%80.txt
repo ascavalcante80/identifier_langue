@@ -1,0 +1,27 @@
+In astronomia, l'effetto YORP, o per esteso effetto Yarkovsky–O'Keefe–Radzievskii–Paddack, è un ampliamento del più noto effetto Yarkovsky per includere anche altri fattori, oltre all'irraggiamento del calore assorbito dal sole, che influiscono sulla variazione della velocità di rotazione dei corpi di piccole dimensioni del sistema solare.
+
+
+== Origine del termine ==
+Il termine è stato utilizzato per la prima volta dal geofisico statunitense David Perry Rubincam nel 2000 per indicare collettivamente alcuni fattori che si era ipotizzato, e in parte verificato, influire sulla velocità di rotazione degli asteroidi.
+
+
+== Storia ==
+Già nel XIX secolo Ivan Osipovič Jarkovskij aveva ipotizzato che il differente gradiente di emissione di radiazione infrarossa, conseguenza del diverso tempo di esposizione della superficie in rotazione, potesse determinare un momento angolare capace di variare la velocità di rotazione del corpo celeste. Espressa con i termini della fisica quantistica si può asserire che ogni fotone riemesso sottrae un momento . Questa ipotesi, nota come effetto Yarkovsky, è stata dimostrata misurandone gli effetti sull'asteroide 6489 Golevka nell'arco di una dozzina di anni.
+Nel XX secolo Vladimir Vyačeslavovič Radzievskij ipotizzò una variazione del momento angolare indotta dal diverso grado di albedo delle varie parti della superficie, mentre Stephen Paddack e John O'Keefe ipotizzarono una variazione indotta dall'irregolarità della forma.
+
+
+== Conferme attuali ==
+La conferma dell'esistenza dell'effetto YORP è arrivata da vari studi condotti nel 2007 su due piccoli asteroidi, (2000 PH5 e 1862 Apollo), il primo dei quali è stato poi ribattezzato 54509 YORP per celebrare il positivo risultato ottenuto.
+Dalle misure effettuate 54509 YORP raddoppierà la propria velocità di rotazione in circa 600.000 anni per poi raggiungere in 35 milioni di anni i 20 secondi al giro che si ritiene sia la velocità critica che causerà cambiamenti morfologici nell'asteroide, compresa un'eventuale rottura che originerebbe un sistema binario. 54509 YORP ha anche subito nel periodo di osservazione una variazione dell'asse di rotazione e dell'angolo di precessione.
+
+
+== Ulteriori osservazioni ==
+Le osservazioni mostrano che gli asteroidi di dimensione superiore ai 125 km hanno una curva di distribuzione delle velocità di rotazione di tipo maxwelliano, mentre alle dimensioni inferiori si ha una polarizzazione verso le velocità estremamente basse o estremamente alte. Si ritiene che l'effetto YORP sia la causa di questo fenomeno.
+L'effetto YORP offre anche una spiegazione più semplice per la scarsità di oggetti celesti asimmetrici di piccole dimensioni e per l'esistenza di asteroidi binari, che non potrebbero essere unicamente giustificati come risultanza di eventi d'impatto tra asteroidi, data la probabilità estremamente bassa che questi si verifichino con condizioni di velocità e angolo d'impatto adeguati.
+
+
+== Note ==
+^ (EN) David Perry Rubincam, Radiative Spin-up and Spin-down of Small Asteroids, in Icarus, vol. 148, nº 1, 2000, pp. 2-11, DOI:10.1006/icar.2000.6485.
+^ Dove:  è la costante di Planck,  è la frequenza a cui è emesso il fotone,  è la velocità della luce.
+^ V. V. Radzievskii, A mechanism for the disintegration of asteroids and meteorites, in Doklady Akademii Nauk SSSR, vol. 97, 1954, pp. 49–52.
+^ (EN) S

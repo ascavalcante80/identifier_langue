@@ -1,0 +1,46 @@
+For other uses, see Venera (disambiguation).
+
+The Venera (Russian: Венера, pronounced [vʲɪˈnʲɛrə]) series space probes were developed by the Soviet Union between 1961 and 1984 to gather data from Venus, Venera being the Russian name for Venus. As with some of the Soviet Union's other planetary probes, the later versions were launched in pairs with a second vehicle being launched soon after the first of the pair.
+Ten probes from the Venera series successfully landed on Venus and transmitted data from the surface of Venus, including the two Vega program and Venera-Halley probes. In addition, thirteen Venera probes successfully transmitted data from the atmosphere of Venus.
+Among the other results, probes of the series became the first human-made devices to enter the atmosphere of another planet (Venera 4 on October 18, 1967), to make a soft landing on another planet (Venera 7 on December 15, 1970), to return images from the planetary surface (Venera 9 on June 8, 1975), and to perform high-resolution radar mapping studies of Venus (Venera 15 on June 2, 1983). The entire series could be considered highly successful. The surface conditions on Venus are extreme, therefore the probes only survived on the surface for a duration of 23 minutes (initial probes) up to about two hours (final probes).
+
+
+== The Venera probesEdit ==
+
+The first Soviet attempt at a flyby probe to Venus was launched on February 4, 1961, but failed to leave Earth orbit. In keeping with the (then) Soviet policy of not announcing details on failed missions, the launch was announced under the name Tyazhely Sputnik ("Heavy Satellite"). It is also known as Venera 1VA.
+Venera 1 and Venera 2 were intended as fly-by probes to fly past Venus without entering orbit. Venera 1 was launched on February 12, 1961. Telemetry on the probe failed seven days after launch. It is believed to have passed within 100,000 km of Venus and entered heliocentric orbit. Venera 2 launched on November 12, 1965, but also suffered a telemetry failure after leaving Earth orbit.
+Several other failed attempts at Venus flyby probes were launched by the Soviet Union in the early 1960s, but were not announced as planetary missions at the time, and hence did not officially receive the "Venera" designation.
+
+
+=== Venera 3 to 6Edit ===
+
+The Venera 3 to 6 probes were similar. Weighing approximately one ton, and launched by the Molniya-type booster rocket, they included a cruise "bus" and a spherical atmospheric entry probe. The probes were optimised for atmospheric measurements, but not equipped with any special landing apparatus. Although it was hoped they would reach the surface still functioning, the first probes failed almost immediately, thereby disabling data transmission to Earth.
+Venera 3 became the first human-made object to impact another planet's surface as it crash-landed on March 1, 1966. However, as the spacecraft's dataprobes had failed upon atmospheric penetration, no data from within the Venusian boundary were retrieved from the mission.
+On 18 October 1967, Venera 4 became the first spacecraft to measure the atmosphere of another planet. While the Soviet Union initially claimed the craft reached the surface intact, re-analysis including atmospheric occultation data from the American Mariner 5 spacecraft that flew by Venus the day after its arrival demonstrated that Venus's surface pressure was 75-100 atmospheres, much higher than Venera 4's 25 atm hull strength, and the claim was retracted.
+Realizing the ships would be crushed before reaching the surface, the Soviets launched Venera 5 and Venera 6 as atmospheric probes. Designed to jettison nearly half their payload prior to entering the planet's atmosphere, these craft recorded 53 and 51 minutes of data, respectively, while slowly descending by parachute before their batteries failed.
+
+
+=== Venera 7Edit ===
+
+The Venera 7 probe was the first one designed to survive Venus surface conditions and to make a soft landing. Massively overbuilt to ensure survival, it had few experiments on board, and scientific output from the mission was further limited due to an internal switchboard failure which stuck in the "transmit temperature" position. Still, the control scientists succeeded in extrapolating the pressure (90 atm) from the temperature data (465 °C (869 °F)), which resulted from the first direct surface measurements. The Doppler measurements of the Venera 4 to 7 probes were the first evidence of the existence of high-speed zonal winds (up to 100 metres per second (330 ft/s) or 362 kilometres per hour (225 mph)) in the Venusian atmosphere (super rotation).
+Venera 7's parachute failed shortly before landing very close to the surface. It impacted at 17 metres per second (56 ft/s) and toppled over, but survived. Due to the resultant antenna misalignment, the radio signal was very weak, but was detected (with temperature telemetry) for 23 more minutes before its batteries expired. Thus, it became, on 15 December 1970, the first human-made probe to transmit data from the surface of Venus.
+
+
+=== Venera 8Edit ===
+
+Venera 8 was equipped with an extended set of scientific instruments for studying the surface (gamma-spectrometer etc.). The cruise bus of Venera 7 and 8 was similar to that of earlier ones, with the design ascending to the Zond 3 mission. The lander transmitted data during the descent and landed in sunlight. It measured the light level but had no camera. It continued to send back data for almost an hour.
+
+
+=== Venera 9 to 12Edit ===
+
+The Venera 9 to 12 probes were of a different design. They weighed approximately five tons and were launched by the powerful Proton booster. They included a transfer and relay bus that had engines to brake into Venus orbit (Venera 9 and 10, 15 and 16) and to serve as receiver and relay for the entry probe's transmissions. The entry probe was attached to the top of the bus in a spherical heat shield. The probes were optimized for surface operations with an unusual looking design that included a spherical compartment to protect the electronics from atmospheric pressure and heat for as long as possible. Beneath this was a shock absorbing "crush ring" for landing. Above the pressure sphere was a cylindrical antenna structure and a wide dish shaped structure that resembled an antenna but was actually an aerobrake. They were designed to operate on the surface for a minimum of 30 minutes. Instruments varied on different missions, but included cameras and atmospheric and soil analysis equipment. All four landers had problems with some or all of their camera lens caps not releasing.
+The Venera 9 lander operated for at least 53 minutes and took pictures with one of two cameras; the other lens cap did not release.
+The Venera 10 lander operated for at least 65 minutes and took pictures with one of two cameras; the other lens cap did not release.
+The Venera 11 lander operated for at least 95 minutes but neither camera's lens cap released.
+The Venera 12 lander operated for at least 110 minutes but neither camera's lens cap released.
+
+
+=== Venera 13 and 14Edit ===
+
+The descent craft/lander contained most of the instrumentation and electronics, and was topped by an antenna. The design was similar to the earlier Venera 9–12 landers. They carried instruments to take scientific measurements of the ground and atmosphere once landed, including cameras, a microphone, a drill and surface sampler, and a seismometer. They also had instruments to record electric discharges during its descent phase through the Venusian atmosphere.
+The two descent craft landed about 950 kilometres (590 mi) apart, just east of the eastern extension of an elevated region known as Phoebe Regio. The Venera 13 lander survived for 127 minutes, and the Venera 14 lander for 57 minutes, where the planned design life was only 32 minutes. The Venera 14 craft had the misfortune of ejecting the camera lens cap directly under the surface compressibility tester arm, and returned information for the compressibility of the lens cap rather than the surface. The des

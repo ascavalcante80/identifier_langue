@@ -1,0 +1,25 @@
+ng gì họ không sở hữu.
+
+
+=== DIFO dành quyền quản lý ===
+Vào tháng 10, 1998, FIL gửi một lá thư tới Tele Danmark thông báo kết thúc hợp đồng và thỏa thuận đã ký vào tháng 6 năm 1996 (ký lại vào năm 1997) và rằng họ muốn tự quản lý DK hostmaster. Tele Danmark từ chối vì cho rằng FIL không thể làm được. Vào tháng 11 năm 1998, DIL, theo lời mời của Bộ Khoa học, Công nghệ và Sáng tạo Đan Mạch, đã triệu tập cuộc họp giữa các nhân tố trong ngành Internet Đan Mạch, dưới cái tên "ID MoU" (Bản ghi nhớ Internet Đan Mạch) để tạo ra một thỏa thuận lâu dài về sự quản lý tên miền .dk.
+Kế quả của "ID MoU" là số cơ quan và tổ chức tạo ra một cơ quan tự chủ quản tên Dansk INTERNET Forum (DIFO) vào ngày 1 tháng 7, 1999, sau đó với sự giúp đỡ từ nguồn đầu tư bên ngoài đã mua lại "DK hostmaster A/S" vào tháng 12 năm 1999.
+
+
+== Tên miền .dk đầu tiên ==
+Những tên miền .dk đầu tiên vẫn còn lưu giữ trên cơ sở dữ liệu của DK Hostmaster, là các tên miền dkuug.dk, diku.dk, bk.dk, dde.dk, ibt.dk, ifad.dk, lego.dk, mainz.dk và nordita.dk đều được đăng ký vào năm 1987. Dkuug.dk và diku.dk rất quan trọng từ khi họ cung cấp cơ sở hạn tầng. Họ dường như là những tên miền đầu tiên sử dụng .dk.
+
+
+== Nguồn ==
+Top100 oldest .dk domains
+dkuug.dk whois info
+diku.dk whois info
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+IANA .dk whois information
+DK Hostmaster A/S
+List of .dk approved registrators

@@ -1,0 +1,23 @@
+a formula dell'area di Gauss consente di conoscere l'area di una qualsivoglia figura piana attraverso le coordinate cartesiane dei vertici.
+
+
+=== Aree delle superfici di figure tridimensionali ===
+Cubo: , (dove  è la misura della lunghezza del lato).
+Sfera: , (dove  è la misura del raggio della sfera).
+Cilindro: , (dove  è la misura del raggio della base e  è la misura dell'altezza).
+Cono: , (dove  è la misura del raggio della base e  è la misura dell'altezza).
+
+
+== Voci correlate ==
+Ordini di grandezza (superficie)
+Volume
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «area»
+ Wikimedia Commons contiene immagini o altri file su area
+
+
+== Collegamenti esterni ==
+Area, in Tesauro del Nuovo soggettario, BNCF, marzo 2013.

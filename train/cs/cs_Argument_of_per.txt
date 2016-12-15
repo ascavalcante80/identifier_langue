@@ -1,0 +1,4 @@
+Argument šířky pericentra je jedním z elementů dráhy, popisujících pohyb kosmického tělesa (přirozeného, např. planety, komety apod., nebo umělého) v kosmickém prostoru. Vyjadřuje úhel, který svírá průvodič tělesa nacházejícího se ve vzestupném uzlu dráhy se směrem průvodiče téhož tělesa nacházejícího se ve periapsidě (pericentru) své dráhy. Značí se ω a vyjadřuje se ve stupních, řidčeji v radiánech (rad). Tento úhel se vždy měří v rovině oběžné dráhy ve směru pohybu obíhajícího tělesa od vzestupného uzlu k pericentru dráhy; může proto nabývat hodnot v rozmezí 0° ≤ ω <360°.
+Argument šířky pericentra ω je svázán s dalšími elementy dráhy vztahem
+,
+kde Ω je délka vzestupného uzlu a π je délka pericentra. Vyjde-li podle tohoto vzorce 

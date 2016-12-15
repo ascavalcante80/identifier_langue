@@ -1,0 +1,53 @@
+World Wide Web (datatermgruppen rekommenderar istället webben eller www med små bokstäver) är en Internettjänst som gör webbsidor och andra datafiler åtkomliga via Internet eller Intranät. Webbsidorna är så kallade hypertextdokument som kan innehålla text, bilder, video, och annan multimedia, samt klickbara hyperlänkar. Med ett datorprogram som kallas webbläsare kan användaren ladda ned webbsidor som är lagrade på olika webbservrar (webbplatser), och navigera mellan sidorna genom att klicka på hyperlänkarna. Servrarna och sidorna bildar en världsvid väv av sammanlänkade dokument, därav namnet www.
+Att bläddra fritt mellan webbsidor och planlöst följa länkar mellan webbplatser runt om i världen kallas att surfa på nätet. En samling webbsidor som lagras på en specifik webbserver kallas en webbplats.
+
+
+== Teknisk struktur ==
+Webbsidorna ligger fysiskt lagrade på datorer spridda över världen. En dator som tillhandahåller webbsidor kallas en webbserver. Lämplig programvara finns fritt tillgänglig för de flesta operativsystem. Ofta sköter en server en webbplats, men flera webbplatser kan samlas på ett så kallat webbhotell (och större webbplatser kan skötas av flera datorer).
+Nätverkets grundläggande struktur bildas genom webbsidorna och webbplatserna, men de använda hyperlänkarna, webbadresserna ("URL") kan också hänvisa till andra resurser. Webbsidor överförs vanligen med det för ändamålet utvecklade datakommunikationsprotokollet HTTP.
+Webbadressen har formen protokoll://server:portnummer/sökväg/filnamn?parametrar#ankare, där protokollet är http vid vanlig webbkommunikation, och https vid krypterad ("säker") webbkommunikation. Dessa protokoll är de som främst används för själva webben. Man kan ange också andra protokoll som används på Internet, till exempel FTP ("ftp"), Usenet ("news"), E-post ("mailto") och IRC ("irc"), och också en del sådana som inte används på Internet, såsom telefonnummer ("tel"). Servern anges i form av domännamn (DNS-namn) eller IP-adress. En DNS-server anlitas för att översätta domännamnet till en IP-adress, så att man inte behöver minnas IP-nummer. Portnumret låter kontakten styras till rätt process, om webbservern inte använder standardporten 80. Sökväg, filnamn och parametrar tolkas av webbservern, ofta som en fil med namnet ifråga, ett program som skall köras med de givna parametrarna eller en databasnyckel. Ankaret används av webbläsaren för att hitta rätt ställe i dokumentet.
+Filtypen för webbsidor är vanligen html (ett märkspråk konstruerat för ändamålet), men man kan länka till resurser av annan typ och webbsidorna kan inkludera andra sorters filer, till exempel bilder (ofta jpeg, gif eller png), ljud och video. Om protokollet är http eller https specificeras filtypen genom detta protokoll, annars måste webbläsaren i många fall gissa filtypen själv, vanligen utgående från filändelse eller början av själva filen.
+
+
+== Relation mellan Internet och webben ==
+Webben är en av många tillämpningsområden för Internet, men eftersom www är den mest kända tillämpningen så sammanblandas Internet (talspråk nätet) och www ofta. Webben fick sitt genomslag i mitten av 1990-talet, ungefär samtidigt som privathushåll och företag i större skala fick möjlighet att ansluta sig till Internet, och www var vid sidan av e-posten den tjänst nykomlingarna främst använde. De funktioner www erbjöd fanns sedan tidigare i form av bland annat filöverföringsprotokollet FTP och filbläddringssystemet Gopher, vilka kan beskrivas som föregångare till webben, men www var betydligt mångsidigare och mer lättanvänt. Vanliga internettjänster som inte räknas till webben är e-post, IP-telefoni, onlinespel och direktmeddelanden (messengingtjänster). Emellertid suddas gränsen ut mellan webben och andra applikationer, då det finns webbgränssnitt till flera av dessa tjänster, så att man inte behöver starta ett särskilt datorprogram utan kan använda webbläsaren för att komma åt dem. Många tjänster som kräver särskilda program, exempelvis mediaspelare och mobilappar, använder i grunden samma kommunikationsteknik (HTTP-protokollet) som webben, även om tjänsterna inte alltid är tillgängliga via vanliga webbläsare.
+
+
+== Terminologi ==
+World Wide Web är en kombination av fyra ingredienser:
+Hypertext, vilket är en typ av information som gör att man med användning av en dator kan flytta fokus från en del av ett dokument till något annat avsnitt i samma dokument eller i ett helt annat dokument, med hjälp av referenser (hyperlänkar) som lagts in i dokumenten.
+Globalt standardiserade informationsidentifierare, som gör det möjligt att unikt peka ut information som finns lagrad på ett sådant sätt att den kan nås genom Internet.
+Klient–server-modellen, för samspel och kommunikation mellan datorer. Enligt denna modell kan program i en klientdator göra förfrågningar hos program på en serverdator som därefter ger klienten den information som efterfrågas, till exempel ett textdokument.
+Märkspråk, exempelvis HTML och XHTML, är särskild text som finns i dokumentet men inte syns när dokumentet presenteras för användaren, utan istället utgör direktiv till det datorprogram som presenterar dokumentet, om formatering, hyperlänkar, inbäddade bilder, strukturering, till exempel i kapitel och paragrafer, om semantiska relationer mellan textdelar och om hur det ska visas rent grafiskt.
+
+
+== Teknik ==
+Www är byggt kring standarderna:
+Uniform Resource Locator (URL), som specificerar hur webbadresser ser ut,
+Hyper Text Transfer Protocol (HTTP), som specificerar hur webbsidorna skickas, och
+Hyper Text Markup Language (HTML), som specificerar hur webbsidornas innehåll beskrivs.
+En del resurser som från tidigare funnits på nätet och kan länkas från webben kan uppfattas tillhöra denna, trots att de använder andra standarder än HTTP och HTML. Likaså kan nya resurser publiceras på andra sätt. Vad som hör till webben är därmed inte väldefinierat.
+World Wide Web Consortium (W3C) är en organisation som arbetar med att ta fram standarder för World Wide Web.
+
+
+== Användning ==
+För att använda www behövs en internetuppkoppling och, om man vill ha ett användarvänligt gränssnitt, en webbläsare.
+
+
+== Historia ==
+Www kommer ifrån ett projekt på det europeiska forskningscentrumet CERN. Dess uppfinnare är engelsmannen Tim Berners-Lee, som skapade World Wide Web år 1990. Den första webbplatsen fanns på adressen http://info.cern.ch/ och publicerades den 6 augusti 1991. Den första grafiska webbläsaren var Mosaic.
+
+
+== Kultur ==
+
+Se netikett, internetslang och leet.
+
+
+=== Språk ===
+Det populäraste språket för kommunikation på internet är engelska. Det beror dels på USA:s dominans inom många tekniska områden, särskilt datateknik, och att många utanför USA kan engelska. För språk utanför Västeuropa/Nord/Sydamerika var det problem med äldre operativsystem som hade begränsad möjlighet att hantera deras tecken.
+Efter engelska (28 procent av internetanvändarna) är de språk som efterfrågas i störst utsträckning kinesiska (22 procent), spanska (8 procent), japanska (6 procent), franska (5 procent) och portugisiska (4 procent) i september 2009 enligt Internet World Stats. Uppräknat efter världsdel finns 43 procent av alla internetanvändare i Asien, 24 procent i Europa och 15 procent i Nordamerika i september 2009 enligt Internet World Stats.
+
+
+=== Censur ===
+Många webbplatser, speciellt forum, har valt att censurera inlägg eller ord på enskilda sidor. Exempelvis kan grova och stötande ord bytas ut mot asterisker (*) av administratören; detta kan också ske automatiskt. Censursystem som begränsar vilka sidor användarna kan besöka tillämpas även på vissa svenska grundskolor. Internetfilter används också av föräldrar som vill begränsa tillgången till internet för barn och ungdom. Det finns gratis system som openDNS som kan ställas in att filtera på många sätt och som också fungerar på många svenska webbplatser.
+Vissa länder såsom Iran och Kina har satt tekniska begränsningar för vilket material folk i dessa länder får tillgång till på internet, särskilt om det gäller oönskat politiskt och religiöst innehåll. I Kina gäller det även exempelvis sådant som ligger på den kinesiska versionen av Wikipedia . Stora internationella företag såsom Microsoft, Yahoo, Google har anklagats för att vara all

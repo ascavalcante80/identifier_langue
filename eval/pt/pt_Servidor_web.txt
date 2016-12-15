@@ -1,0 +1,34 @@
+wave-flash, application/vnd.ms-excel,
+application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: en-gb,pt;q=0.5
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Host: localhost:79
+Connection: Keep-Alive
+Cookie: infoview_userCultureKey=useBrowserLocale; ASPSESSIONIDQSRCCSAS=KJLFNNNCNHKODOIOCIICJFBA
+
+Resposta
+
+HTTP/1.1 200 OK
+Server: Microsoft-IIS/5.1
+Date: Thu, 25 May 2006 14:20:34 GMT
+X-Powered-By: ASP.NET
+Content-Length: 198
+Content-Type: text/html
+Cache-control: private
+<html>
+ <body>
+  <p>olá mundo</p><p>olá mundo</p><p>olá mundo</p><p>olá mundo</p><p>olá mundo</p>
+
+<p>olá mundo</p><p>olá mundo</p><p>olá mundo</p><p>olá mundo</p><p>olá mundo</p>
+ </body>
+</html>
+
+Como podemos ver, o pedido/resposta de um ficheiro estático ou de um ficheiro dinâmico gera fluxos de informação praticamente iguais, isto é, na web a informação que circula é essencialmente a mesma. a diferença é que um ficheiro dinâmico tem que ser primeiro processado pelo servidor web.
+
+
+== Referências ==
+
+
+== Ver também ==
+Anexo:Lista de servidores web

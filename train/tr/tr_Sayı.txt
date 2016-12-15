@@ -1,0 +1,60 @@
+Sayı, bir çokluğu belirtmek için kullanılan soyut birimdir. Fakat modern matematikte artık büyüklük belirtmediği halde geleneksel sayıların çeşitli özelliklerine benzer özellikler taşıyan nesnelere de sayı denmesi âdettendir. Sayıları yazılı olarak göstermek için rakamlar kullanılmaktadır.
+
+
+== Sayıların sınıflandırılması, sayı sistemiDeğiştir ==
+
+Sayılar kümeler halinde sınıflandırılabilir:
+
+
+=== Sayma sayılarıDeğiştir ===
+
+Sayma sayıları boştan farklı bir kümenin elemanlarını azlık veya çokluk yönünden nitelemekten ziyade onların içindeki eleman miktarına göre verilen bir temsilciler kümesi olarak tanımlanır. Temsilcilere verilen isme kanonik temsilci denir. Her sayma sayısı aynı zamanda bir kanonik temsilcidir. Sayma sayılarına sıfırın dahil olmamasının sebebi boş kümenin içinde temsil edecek bir elemanın olmamasıdır.
+
+
+=== Doğal sayılarDeğiştir ===
+
+Doğal sayılar 0'dan başlayarak sonsuza kadar giden sayılardır. Matematikte doğal sayılar kümesi  ile gösterilir. Doğal sayılar ismi bu sayıların doğada görüp tanıdığımız sayılar olduğu fikrinden ileri gelmektedir. Doğal sayılar kümesi "0" ve pozitif tüm sayıların olduğu kümedir.
+
+
+=== Tam sayılarDeğiştir ===
+
+Tam sayılar eksi sonsuzdan artı sonsuza kadar giderler. Yani "0"ın iki yanından sonsuza kadar uzanırlar. Tam sayılar kümesi  ile gösterilir.
+
+
+==== Pozitif tam sayılarDeğiştir ====
+Başında "+" işareti bulunan veya bir şey bulunmayan tam sayılar pozitif tam sayılar adını alırlar. Sayı ekseninde (sayı doğrusunda) 0'ın sağ yanında yer alırlar. Tüm sayma sayıları pozitif tam sayılardır. Pozitif tam sayılar kümesi  ile gösterilir ve aşağıdaki gibi tanımlıdır:
+
+
+==== Negatif tam sayılarDeğiştir ====
+Başında "-" işareti olan tam sayılar negatif tam sayılar adını alırlar. Sayı ekseninde 0'ın sol yanında yer alırlar. Negatif tam sayılar kümesi  ile gösterilir. Cebirde çıkarma işlemi bu sayıların diğer tam sayılarla toplanması olarak ifade edilir.
+
+
+==== SıfırDeğiştir ====
+Sıfır (0) negatif veya pozitif bir tam sayı değildir.Bir uzlaşma noktasıdır. Bu iki kümeden herhangi birinde yer almaz. Ancak tam sayılar aşağıdaki gibi de tanımlanabilir:
+
+Sıfırın doğal sayı kabul edilmediği (akademik) çevreler azımsanmayacak kadar fazladır. Sıfırı dahil eden çevreler doğal sayılar kümesini  sembolü ile gösterirler, sıfırı dahil etmeyen çevrelerse sıfırın dahil olmadığı sayma sayıları kümesini  ile gösterirler.
+
+
+=== Rasyonel (oranlı) sayılarDeğiştir ===
+
+Oranlı sayılar veya rasyonel sayılar, tam sayılar kullanılarak oluşturulan oranlara denk gelen büyüklüklere denir. Yani, a ve b tam sayı ve sıfır olmamak üzere a/b şeklindeki sayılara rasyonel sayı denir. Rasyonel sayılar Q ile gösterilir.
+
+
+=== İrrasyonel (oransız) sayılarDeğiştir ===
+
+Oransız sayılar veya irrasyonel sayılar ise a/b şeklinde yazılamayan sayılardır. Q' kümesi ile gösterilirler. Bu kümenin en bilinen üyesi pi sayısıdır. Hiçbir oranlı sayı oransız sayılar kümesine dahil değildir. Aynı şekilde hiçbir oransız sayı da oranlı sayılar kümesine dahil değildir.
+Örnek
+
+, 
+
+
+=== Gerçek (reel) sayılarDeğiştir ===
+
+İrrasyonel sayılar kümesi ile rasyonel sayılar kümesinin birleşimi gerçel sayılar kümesini oluşturur. Bu kümeye reel sayılar veya gerçel sayılar da denir. Geometride karşılaşılan bazı büyüklüklerin anlamlandırılabilmesi için Klasik Yunan Dönemi'nde, yaygın inanca göre Pisagor ve öğrencileri tarafından sayı kavramına dahil edilmişlerdir. Anlatılanlara göre Pisagor doğadaki tüm büyüklüklerin rasyonel sayılarla ifade edilebileceğini söylemekteydi. Fakat bulduğu hipotenüs eşitliğinin bir sonucu olarak  gibi bir değerlerle karşılaştı. Uzun yıllar boyu bu tür sayıların uzun kesirlerle ifade edilebileceğini iddia etti ve göstermeye çalıştıysa da, öğrencilerinden birinin bu gibi sayıların kesinlikle kesirli bir biçimde gösterilemeyeceğini ispat etmesiyle ikna olur ama hayatı boyu bunun bir sır gibi gizlenmesi için çalışır ve doğada gerçek sayıların yeri olmadığını söylemeye devam eder.
+Gerçel sayılar, katsayıları tamsayılar ya da rasyonel sayılar olan polinomlar kümesinin çözümlerini göstermek için kullanılırlar. Bu bakımdan gerçel sayılar kümesi, tamsayı katsayılı polinomlar kümesi in bir cisim genişlemesidir.
+Gerçek sayılar kümesi  harfi ile ifade edilir.
+
+
+=== Karmaşık sayılarDeğiştir ===
+
+Tüm cebirsel denklemleri çözebilmek için reel sayılar tekrar genişletilirse karmaşık sayılar veya kompleks sayılar kümesi elde edilir. Karmaşık sayıların sembolü dir. Rönesans döneminde gerçekleşen cebirsel denklemlerin çözüm metotlarındaki ilerlemelerin bir uzantısı olarak sayı kavramına eklenmişlerdir. Gerçek olmayan sayılar fikri reel sayılar kümesinde karşılığı olmayan -1 sayısının karekökünden gelmektedir. Bu sayı "i" sembolü

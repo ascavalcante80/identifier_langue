@@ -1,0 +1,46 @@
+Conductivitatea termică este mărimea fizică prin care se caracterizează capacitatea unui material de a transmite căldura (prin conducție termică) atunci când este supus unei diferențe de temperatură. Conceptul a fost introdus de Joseph Fourier.
+În general, materialele cu conductivitate termică mare au în același timp și o conductivitate electrică mare, și invers. De exemplu, metalele, buni conductori de electricitate sunt și buni conductori termici, iar sticla, materialele plastice, gazele conduc foarte puțin atât căldura cât și electricitatea. Există și excepții, de exemplu diamantul, care are o conductivitate termică extrem de mare (în jur de 1000 W m-1 K-1 pentru diamantul natural și 2000-2500 W m-1 K-1 pentru diamantul sintetic pur), în timp ce din punct de vedere electric este un excelent izolator, având o conductivitate electrică infimă, de ordinul 10−16 S/m. În identificarea diamantelor veritabile conductivitatea termică este un indiciu mai sigur decât celelalte proprietăți remarcabile, indicele de refracție și duritatea, ambele mari.
+În cromatografia în fază gazoasă aparatul catarometru compara proba de analiză cu o probă etalon pe baza conductivității termice a gazelor din cele două probe.
+
+
+== Definiție ==
+În cazul simplu al unui corp omogen, cu o formă prismatică sau cilindrică dreaptă, unde diferența de temperatură se aplică la capete iar suprafețele laterale sunt izolate termic, în regim staționar secțiunile normale intermediare între suprafața de intrare și cea de ieșire a căldurii coincid cu izotermele, iar temperatura de-a lungul axei variază liniar. În acest caz, conductivitatea termică este egală numeric cu cantitatea de căldură (Q) transferată în unitatea de timp (τ) prin unitatea de arie (A) și de-a lungul unei unități de grosime (L), când cele două fețe opuse diferă printr-o unitate de temperatură (T sau t):
+
+În cazul general, folosind mărimi infinitezimale, conductivitatea termică într-un punct se definește ca fiind raportul dintre densitatea fluxului termic și gradientul de temperatură din acel punct, în regim termic staționar:
+
+unde
+   este densitatea de flux termic, [W/m²];
+   este fluxul termic (puterea termică), [W];
+   este gradientul de temperatură, [K/m].
+
+
+== Unitate de măsură ==
+În sistemul internațional de unități, conductivitatea termică este exprimată în wați pe metru-kelvin, (W m-1 K-1) unde:
+wattul este unitatea puterii
+metrul este unitatea lungimii
+kelvinul este unitatea temperaturii
+
+
+== Mărimi înrudite ==
+Conductivitatea termică medie este conductivitatea termică a unui material presupus omogen, determinată într-un anumit interval de temperatură și exprimată corespunzător temperaturii medii din acel interval.
+Conductivitatea termică echivalentă este conductivitatea termică medie a unui sistem eterogen.
+Rezistivitatea termică este inversul conductivității termice; se măsoară în metru kelvin pe watt (m·K/W).
+Rezistența termică a unui sistem termodinamic, măsurată între două suprafețe izoterme ale acestuia, este raportul dintre diferența de temperatură dintre cele două suprafețe și fluxul de căldură (energia termică transferată în unitatea de timp). Se măsoară în kelvin pe watt (K/W).
+Conductanța termică este inversul rezistenței termice și se măsoară în watt pe kelvin (W/K).
+
+
+== Conductivitatea termică a amestecurilor ==
+
+
+=== Amestecuri gazoase ===
+VDI propune pentru calculul conductivității termice a amestecurilor gazoase o relație de forma:
+
+unde  este fracția volumică a componentei i.
+
+
+=== Amestecuri lichide ===
+Pentru amestecuri lichide s-a exprimat conductivitatea prin intermediul sumei de produse fracție masică conductivitate a componentului la un anumit exponent.
+
+
+=== Amestecuri solide ===
+Amestecuri solide deosebit de importante su

@@ -1,0 +1,201 @@
+Voda, sumárním vzorcem (zároveň však racionálním) H2O, systematický název oxidan, je chemická sloučenina vodíku a kyslíku. Spolu se vzduchem, resp. zemskou atmosférou tvoří základní podmínky pro existenci života na Zemi. Za normální teploty a tlaku je to bezbarvá, čirá kapalina bez zápachu, v silnější vrstvě namodralá. V přírodě se vyskytuje ve třech skupenstvích: v pevném – led a sníh, v kapalném – voda a v plynném – vodní pára.
+Systematicky se voda nazývá „oxidan“ (od názvosloví IUPAC 93), vycházející z toho, že se jedná o anorganický jednojaderný hydrid (proto končí na příponu „-an“). IUPAC uvádí ve svých názvoslovných doporučeních i anglický systematický název „dihydrogen oxide“, obdobný český název „oxid vodný“ se v odborné literatuře nepoužívá. I v odborném jazyce se však používalo a používá triviální označení „voda“.
+Podle počtu neutronů v atomu vodíku rozlišujeme
+lehkou vodu (oba vodíky jsou protia, strukturní vzorec je 1H2O),
+polotěžkou vodu (jeden vodík je protium a jeden deuterium, strukturní vzorec se dá zapsat jako HDO),
+těžkou vodu (oba vodíky jsou deuteria, strukturní vzorec je 2H2O, ale dá se také zapsat jako D2O; voda vyrobená z těžkých atomů vodíku, v přírodě se nachází zcela běžně ve směsi s normální vodou v nízké koncentraci, těžká voda sloužila ke konstrukci prvních atomových reaktorů) a
+tritiovou vodu (zvána též supertěžká voda, oba vodíky jsou tritia, strukturní vzorec je 3H2O, ale dá se zapsat i jako T2O).
+
+
+== Rozdělení vody ==
+
+podle tvrdosti
+
+měkká – obsahuje málo minerálních látek
+tvrdá – z podzemních pramenů, obsahuje více minerálních látek
+
+podle salinity (slanosti)
+slaná voda
+sladká voda
+brakická voda (vzniklá mísením sladké a slané vody např. v ústí řek)
+
+podle mikrobiologie
+pitná voda – je vhodná ke každodennímu použití, je zbavená nečistot, obsahuje vyvážené množství minerálních látek tak, aby neškodily zdraví, např. minerální voda (obsahuje mnoho minerálních látek), může to být i balená voda
+užitková voda – v průmyslových závodech (sníží se tvrdost vody a ta se zbaví Fe2+ a Mn2+) a v potravinářství – vyžaduje dezinfikovanou vodu (chlórování, ozonizace, ozařování ultrafialovým zářením), např. napájecí voda (voda pro parní kotle, zbavená minerálních solí, aby nevznikl kotelní kámen, který zanáší potrubí, nebo voda určená k napojení zvířat /má odlišné parametry než voda pitná/)
+odpadní voda, např. splašková voda
+podle obsahu živin (dusík, fosfor, popřípadě i přítomnost draslíku a mikrobiogenních prvků)
+ultraoligotrofní vody (velmi slabě úživné až neúživné vody)
+oligotrofní vody (slabě úživné)
+dystrofní vody – obsahují velké množství huminových kyselin (může být obsahem dalších živin řazena mezi oligotrofní nebo mezotrofní, potom se ale už nejedná o dystrofní vodu)
+mesotrofní vody (středně úživné)
+eutrofní vody (silně úživné)
+polytrofní vody (velmi silně úživné)
+hypertrofní vody (vysoce úživné)
+
+
+== Chemické vlastnosti ==
+
+Voda vzniká prudkým až explozivním slučováním vodíku s kyslíkem (hořením bezbarvým plamenem) podle rovnice:
+2H2 + O2 → 2H2O,
+za vývinu velkého množství tepla (exotermní reakce). Kromě toho vzniká jako vedlejší produkt vedle solí při neutralizaci kyselin zásadami, např.
+HCl + NaOH → H2O + NaCl.
+Voda je obsažena ve spalných plynech při hoření většiny organických látek, např. methanu
+CH4 + 2O2 → 2H2O + CO2,
+nebo oktanu (hlavní složky benzínu)
+2C8H18 + 25O2 → 18H2O + 16CO2.
+Vodné roztoky mohou vykazovat kyselou, neutrální nebo zásaditou reakci. Kyselost (acidita) a zásaditost (bazicita) se vyjadřuje ve stupnici hodnot pH. Rozsah stupnice je od 0 do 14 pH, přičemž hodnotě pH 7 odpovídá roztok neutrální. Hodnoty nižší označují roztok kyselý, hodnoty vyšší zásaditý čili alkalický. Vody kyselé jsou obvykle bez života, protože se v nich nevytváří plankton ani baktérie.
+
+
+== Tvrdost vody ==
+Podrobnější informace naleznete v článku tvrdost vody.
+Veličina nejčastěji udávající koncentraci kationtů vápníku a hořčíku ve vodě. Definice tvrdosti vody je však nejednotná, někdy se tak označuje koncentrace dvojmocných kationtů vápníku, hořčíku, stroncia a barya, nebo všech kationtů s nábojem větším než jedna. Vzhledem k této nejednotnosti se moderní hydrochemie termínu tvrdost vody snaží vyhýbat. V praxi mnoha oborů, například akvaristiky, se však pojem tvrdost vody stále často užívá.
+Celkovou tvrdost můžeme rozdělit na přechodnou, tj. uhličitanovou a na stálou. Přechodnou (karbonátovou) tvrdost vody způsobují rozpustné hydrogenuhličitany a to především hydrogenuhličitan vápenatý Ca(HCO3)2 a hydrogenuhličitan hořečnatý Mg(HCO3)2; tuto tvrdost vody lze odstranit převařením – dekarbonizací:
+Ca(HCO3)2 → CaCO3 + H2O + CO2
+Mg(HCO3)2 → MgCO3 + H2O + CO2.
+Vařením se však nezbavíme tvrdosti trvalé (nekarbonátové), kterou zpúsobují především sírany, a to síran vápenatý CaSO4 a síran hořečnatý MgSO4. K jejich odstranění používáme srážení působením hydroxidu vápenatého Ca(OH)2 a uhličitanu sodného Na2CO3:
+Ca(HCO3)2 + Ca(OH)2 → 2CaCO3 + 2H2O
+Mg(HCO3)2 + Ca(OH)2 → CaCO3 + MgCO3 + 2 H2O
+MgSO4 + Ca(OH)2 → CaSO4 + Mg(OH)2
+CaSO4 + Na2CO3 → CaCO3 + Na2SO4,
+čímž se rozpustné hydrogenuhličitany a sírany převedou na méně rozpustné normální uhličitany, a to uhličitan vápenatý a uhličitan hořečnatý, resp. hydroxid hořečnatý.
+Hodnotu tvrdosti vody uvádíme v mmol/l nebo tzv. německých stupních tvrdosti (dGH). Jeden německý stupeň odpovídá 10 mg CaO v jednom litru vody. Současná (2005) česká norma stanovuje tvrdost vody podle koncentrace Ca a Mg (mmol/l). Mezi uvedenými jednotkami je možno přibližně převádět podle vztahu 1 mmol/l = 5,61°dGH.
+Z celkové tvrdosti vody jsou odvozeny tyto údaje: tvrdost od 1 do 10° značí vodu měkkou, z toho do 5° jde o vodu zvláště měkkou. 10–20° značí střední tvrdost, 20–30° značí vodu tvrdou a přes 30° zvláště tvrdou.
+
+
+== Fyzikální vlastnosti ==
+
+Mimořádné chemické a fyzikální vlastnosti vody jsou důsledkem geometrie její molekuly. Atomy v ní vázané nejsou uspořádány lineárně (v jedné přímce), ale chemické vazby mezi atomy svírají úhel přibližně 105 °. Polaritě vazeb (různé afinitě atomů vodíku a kyslíku) a zmíněné nelinearitě molekuly vděčí molekula vody za svoji polaritu. Vlastnosti molekul způsobují dobrou rozpustnost polárních a iontových látek ve vodě, jsou důvodem vysoké elektrické permitivity vody a díky jejich schopnosti zapojovat se do vodíkových vazeb (zvané též vodíkové můstky) jsou důvodem i významné hustotní anomálie vody.
+
+
+=== Hustota ===
+Největší hustotu nemá led, ale tekutá voda při 3,95 °C, dalším snižováním teploty se objem jednotkové hmotnosti vody zase zvětšuje. Je to způsobeno polymerizací vodních molekul vodíkovými vazbami a úhlem mezi atomy vodíku – díky tomu může mít molekula v ledu pouze 4 nejbližší sousedy a v krystalové struktuře vznikají prázdné prostory. Tato zvláštnost má např. tyto důsledky:
+Led se tvoří na povrchu vodních ploch a tím nezmrzlou vodu izoluje, voda tolik nepromrzá do hloubky, přičemž voda o teplotě 3,95 °C se hromadí na dně vodních ploch. Tato skutečnost je velmi důležitá pro přežití vodních organismů.
+Tento proces urychluje zvětrávání – voda zvětšující svůj objem „trhá“ horniny a další látky.
+Zvětšování objemu má význam pro rostliny a zemědělství – při mrznutí dochází ke kypření ornice.
+
+
+=== Povrchové napětí a viskozita ===
+
+
+=== Tepelná vodivost ===
+
+
+=== Termodynamické vlastnosti ===
+
+Měrná tepelná kapacita (specifické teplo) je u vody třikrát větší než u většiny ostatních látek, jako jsou horniny, železo, hliník, atd. Proto má voda svou tepelnou setrvačností velký klimatický vliv a s výhodou se používá k transportu tepla (např. ústřední topení).
+Skupenské přeměny charakterizuje fázový diagram vody, který je ve zjednodušené podobě uveden na obrázku. Ve skutečnosti existuje pevné skupenství vody, tedy led, v mnoha různých fázích, lišících se krystalovou strukturou a fyzikálními vlastnostmi.
+Podrobnější informace naleznete v článku Led#Exotické fáze ledu..
+O fázovém přechodu mezi kapalným a pevným skupenstvím podrobněji pojednává odstavec hustota. Pro zmrznutí vody je podmínkou, aby v kapalině existovala krystalizační centra. Proto je možné, aby čistá a ustálená voda byla podchlazena i pod teplotu tuhnutí, nebo aby horká voda zmrzla rychleji, než ustálená voda studená (Mpembův jev). K náhlému zmrznutí podchlazené vody stačí i mechanický podnět (zatřesení, vhození tělíska).
+Specifická skupenská tepla (tání a varu) – V tomto parametru je voda naprosto neobvyklá. Vysoké výparné teplo umožňuje efektivní ochlazování teplokrevných obratlovců, jako je člověk – bez pocení by nepřežili.
+Bod varu – Obecný trend v periodické tabulce prvků je takový, že s rostoucí hmotností se zvyšuje teplota varu. Nicméně vodíkové můstky mají větší vliv na teplotu varu než hmotnost dané látky a že voda a všechny sloučeniny s vodíkem v druhé periodě – B2H6, CH4, NH3 a HF – jsou výjimkou v tomto trendu.
+
+Další vybrané termodynamické vlastnosti udává tabulka:
+
+
+=== Elektrické vlastnosti ===
+Voda je výjimečná vysokou permitivitou (relativní permitivita je přibližně 80). Chemicky čistá voda je velmi slabě elektricky vodivá, ale i malé množství rozpustných příměsí výrazně zvyšuje její vodivost.
+
+
+== Voda v přírodě ==
+Podrobnější informace naleznete v článku Koloběh vody.
+Rozšířením vody na Zemi a jejím pohybem se zabývá hydrologie, pohyb vody v zemské atmosféře zkoumá též meteorologie. Výskyt vody na naší planetě je mnohem vyšší než na ostatních planetách sluneční soustavy. Při pohledu z vesmíru vypadá Země jako modrobílá planeta: bílá od vodní páry a modrá od vody. A zákonitě všechny formy života (tak jak ho známe) závisejí na vodě. Část zemského povrchu s obsahem vody v kapalném skupenství nazýváme hydrosféra.
+Většinu povrchu Země (71 %) pokrývá slaná voda moří a oceánů, jež tvoří 97 % celého vodstva na naší planetě. Obsahuje průměrně 35 g solí v jednom litru. Z toho 77,8 % chloridu sodného (NaCl), 10,9 % chloridu hořečnatého (MgCl2) a další soli jako síran hořečnatý, síran vápenatý, síran draselný a jiné.
+Sladká voda tvoří jen nepatrnou část hydrosféry – 3 %, přičemž 69 % této vody je v ledovcích, které jsou v polárních oblastech. Dalších 30 % je voda podzemní a jen necelé procento tvoří voda povrchová a atmosférická.
+
+Koloběh vody na kontinentech začíná srážkami. Jakmile dopadnou z mraků na povrch, mohou putovat třemi cestami:
+zpravidla víc než 50 % (někdy i 100 %) se znovu vypaří
+méně než 30%, většinou 10 % – 20 %, steče do potoků, řek a nakonec do moře
+10 % a méně (ale také nic) se může vsáknout.
+Množství kyslíku rozpuštěného ve vodě nepřesahuje maximální koncentraci 14 mg kyslíku na litr vody při teplotě 4 °C, s rostoucí teplotou pak množství kyslíku klesá a tak voda o teplotě například 20 °C obsahuje pouze 9 mg kyslíku na litr.
+
+
+== Výskyt vody ve vesmíru ==
+
+Voda je druhá nejčastější látka ve vesmíru.
+Ve vesmíru se velké množství vody nachází v molekulárních mračnech v mezihvězdném prostoru. Také protoplanetární mlhovina, ze které vzniklo Slunce a celá sluneční soustava, obsahovala velké množství vody, z níž část se zachovala v Oortově oblaku, kde se z ní zřejmě ještě dnes tvoří nové komety. Jádra komet obsahují desítky procent vody. Podle jedné z teorií právě komety zanesly na Zemi většinu vody, která zde v současnosti je.
+Také některé měsíce planet, tělesa Kuiperova pásu a transneptunická tělesa jsou převážně tvořena vodou v pevném skupenství. Velký podpovrchový oceán vody se předpokládá na Jupiterově měsíci Europa.
+V červenci 2007 bylo oznámeno, že se voda v plynném skupenství nachází i na extrasolární planetě — konkrétně na planetě HD 189733b, nacházející se 63 světelných let od Země v souhvězdí Lištičky.
+plynná (vodní pára)
+Merkur 3,4 % v atmosféře
+Země – stopy, záleží na podnebí
+Mars 0,03 % v atmosféře
+Jupiter 0,1 % v atmosféře
+Saturn 0,1 % v atmosféře
+Enceladus (měsíc planety Saturn) – 100 % v atmosféře
+
+kapalná:
+Země – 71 % povrchu
+Europa (měsíc planety Jupiter) – náznaky, protože na povrchu je led
+Io (měsíc planety Jupiter) – málo nebo žádná voda (předpoklad)
+
+zmrzlá voda (led)
+Mars – výskyt potvrdila na pólech orbitální sonda Mars Express
+Pluto – odhad, že led tvoří asi 30 % Pluta
+Europa (měsíc planety Jupiter) – na povrchu je led
+Merkur – výskyt potvrdila sonda Mariner 10, nachází se v kráterech blízko pólů
+Phoebe (měsíc planety Saturn) – předpoklad podle hustoty
+Enceladus (měsíc planety Saturn) – velmi pravděpodobný předpoklad
+komety – předpoklad
+okraje mlhovin, např. v Oortově oblaku – předpoklad
+
+není vůbec:
+Venuše
+
+
+== Význam a použití ==
+Je základní podmínkou života. Ve vodě vznikl život. Jde o rozpouštědlo, ve kterém probíhají veškeré chemické děje v organismu. Lidské tělo obsahuje 70 % a rostliny až 90 % vody. Už ztráta 20 % tělesné vody je smrtelná. Na dehydrataci člověk umírá asi během 7 dnů. (Podle Guinnessovy knihy rekordů vydržel bez vody nejdéle jeden mladý Rakušan, kterého policie zapomněla v cele pro zadržené. Našla ho po 18 dnech na prahu smrti.)
+Jde o nejdůležitější surovinu všech průmyslových odvětví, používá se ke chlazení, ohřevu, oplachu, k výrobě elektrické energie ve formě páry a v potravinářství k výrobě všech nápojů atd.
+Je základní podmínkou rostlinné a živočišné výroby.
+Stala se zdrojem obživy v přímořských státech.
+Vodní toky (řeky) a plochy (oceány, moře, jezera, velké rybníky) hrají významnou roli v dopravě.
+Přítomnost vodních ploch má v krajině vliv na klima i mikroklima.
+Voda je využívána při osobní hygieně, rekreaci a sportu.Využívání vodních zdrojů k uspokojování lidských potřeb se v moderní době neustále zvětšuje. Kromě využívání vody jako pitného zdroje se připojilo využívání k mytí, zavlažování, k výrobě energie. Mimo to i spotřeba vody v domácnostech je několikanásobně vyšší.
+Minerální voda má léčivé účinky.
+
+
+=== Voda a člověk ===
+„Nepatří mezi živiny, ale je pro lidský organizmus nezbytná. Tvoří prostředí pro životní děje, je rozpouštědlem většiny živin, pomáhá regulovat tělesnou teplotu a umožňuje trávicí procesy. Díky pravidelné výměně vody můžeme z těla vyplavovat škodlivé látky“. Především u minerálních vod však dochází k usazování minerálů v těle. Dospělý člověk by měl denně přijmout 2-3 litry vhodných tekutin (tj. včetně vody obsažené v jídle), při velké fyzické zátěži i více. Nesmí se však přijímat velké množství vody nárazově, aby zatížené ledviny zvládly vyloučit takové množství. Člověk vydrží nejdéle bez vody 7-10 dní. Při dlouhodobém nedostatku vody může dojít k tvorbě ledvinových kamenů a krátkodobý nedostatek se projeví žízní, nevolností, slabostí a křečemi. Dále je důležité dbát na pitný režim u dětí a seniorů, kteří jsou náchylnější k dehydrataci, onemocnění ledvin a močových cest. Nedoporučuje se pít při jídle ani po něm, aby se nesnižovala účinnost trávení. Vodu ztrácíme denně v podobě moči (1,5-2 l), pocením, plícemi (při dýchání se vyloučí asi 400 ml vody), a stolicí.
+
+
+=== Význam vody pro rostliny ===
+Voda má pro rostliny více významů než jako rozpouštědlo živin. Pro mnoho druhů je prostředím kde žijí. U některých rostlin je voda nebo zvýšení nebo jejího obsahu (například v semenech) důležitou součástí některých procesů.
+
+
+==== Fyziologie rostlin ====
+Podrobnější informace naleznete v článku Fyziologie rostlin.
+Voda pomáhá dopravovat látky v rostlinách (transpirační proud a asimilační proud) a je součástí mnoha dalších procesů založených na fyzikálních a chemických principech. Voda je například zdroj H+ při fotosyntéze. Funguje jako termoregulace. Udržuje buněčné napětí (turgor). Voda může někdy nahradit substrát (například hydroponie)
+
+
+==== Hydrofyty ====
+Podrobnější informace naleznete v článku Hydrofyty.
+Jsou vodní rostliny, potřebují vodní prostředí pro svůj život a vývoj a jsou vodnímu prostředí přizpůsobeny.
+
+
+==== Zavlažování ====
+Podrobnější informace naleznete v článku Zavlažování.
+Voda se používá při závlaze rostlin. Hospodářský význam závlahy může být ovlivněn způsobem závlahy.
+
+
+== Vodní hospodářství ==
+Podrobnější informace naleznete v článku Vodní hospodářství v Česku.
+Vodní hospodářství obecně zajišťuje dodávky pitné vody (vodní zdroj, vodárna, vodojem, vodovod, vodovodní přípojka) pro domácnosti i průmysl a nakládá s odpadními vodami. Provádí odběr, transport (stoková síť neboli kanalizace) a čištění odpadních vod v čistírnách odpadních vod. Předchází znečištění vody.
+
+
+=== Pitná voda ===
+Podrobnější informace naleznete v článku Pitná voda.
+
+Pitná voda se získává úpravou surové vody. Surová voda se získává z podzemních nebo povrchových zdrojů. Z některých zdrojů – zejména podpovrchových – je možné získat pitnou vodu bez úpravy.
+Ke shromažďování povrchové vody slouží vodárenská nádrž (přehrada), v níž se nachází odběrová věž s několika odběrovými šachtami v různých hloubkách. Odebírá se podle příkazu z úpravny vody, která bývá v blízkosti přehrady. Vhodná teplota pro odběr je méně než 12 °C.
+Výjimečně se využívá umělé filtrace a sorpční schopnosti půdního sedimentu, protože řasy často ucpávají filtraci. Voda z toku se nechá infiltrovat z umělých nádrží do podzemí a z podzemí se poté čerpá. Příkladem může být vodárna v obci Káraný, která od r. 1911 vyrábí kvalitní pitnou vodu pro přibližně třetinu Prahy a řadu dalších obcí a měst Středočeského kraje.
+Čerpání z podpovrchových zdrojů z podzemních vrtů.
+Surová voda se odvádí do úpravny vod. Tam se upravuje (mechanické předčištění, chemické čeření, filtrace přes pískové filtry, odstranění iontů železa a manganu, někdy i částečné odstranění dusičnanů a dusitanů, dezinfekce). Pak směřuje do vodojemů a z nich se vodovody dopravuje k spotřebitelům.
+K pitné vodě v současnosti (2006) nemá přístup více než 1 miliarda lidí. Proto je zajištění přístupu k pitné vodě jedním z cílů usnesení OSN Rozvojové cíle tisíciletí.
+
+
+=== Balená voda ===
+
+Výroba a prodej balených vod má v Česku dlouhou tradici, kterou můžeme vystopovat až do 16. století. Původně šlo výhradně o vody léčivé (ať už se skutečným nebo domnělým účinkem), stáčené do kameninových džbánků. K nim se později (18. – 19. století) přidaly i vody, které byly pro svou zvláštní chuť považovány za osvěžující nápoj. Jednalo se buď o minerální vody nebo o vody s vysokým obsahem oxidu uhličitého CO2, ať původu přirozeného (kyselky) nebo uměle připravované, stáčené převážně do skla. Tento stav se v Evropě v podstatě udržel do 60.–70. let minulého století, kdy jednak skleněné obaly začaly být postupně vytlačovány plastickými a jednak došlo ještě k jiné, mnohem revolučnější změně: balené vody začaly být používány též jako zdroj „obyčejné“ pitné vody, nejen jako řešení občasných havarijních situací, ale především jako náhrada za pitnou vodu distribuovanou veřejnými vodovody. Což znamená, že se vedle vybraných druhů minerálních vod začaly stáčet i vody z kvalitních podzemních zdrojů pitné vody, které nevykazovaly ani zvláštní chuť, ani zvláštní farmakologický účinek.
+
+
+=== Znečištění vody ===
+Voda má hodnotu nejen ekonomickou, ale i ekologickou. Pětina lidstva nemá přístup k nezávadné vodě. 2,6 miliardy lidí postrádá hygienické zázemí. Ve 20. století zmizelo 50% světových mokřadů. 3 miliony lidí ročně umírají na choroby způsobené kontaminovanou vodou a špatnou hygi

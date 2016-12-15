@@ -1,0 +1,17 @@
+Wikibooks est un projet de Wikimedia Foundation lancé le 10 juillet 2003 pour créer un ensemble d'ouvrages pédagogiques librement accessibles au moyen d'un wiki. Autrefois nommé Wikimedia Free Textbook Project, son nom officiel est Wikibooks en anglais. En français, le nom Wikilivres est utilisé, mais son logo est en anglais.
+
+
+== HistoireModifier ==
+Ce projet a démarré en réponse à une demande de l'éditeur de Wikipédia Karl Wick, qui souhaitait un espace séparé où il serait possible d'écrire des livres pédagogiques de façon communautaire, pour notamment mettre à disposition les connaissances humaines de façon libre et gratuite et ainsi lutter contre les inégalités devant l'éducation. Vingt jours après sa création, le 30 juillet 2003, il comptait déjà 123 modules créés et 47 utilisateurs enregistrés.
+Certains des premiers ouvrages étaient originaux, tandis que d'autres ont démarré à partir d'ouvrages sous GNU Free Documentation License trouvés sur Internet. Tout le contenu du site est couvert par cette licence ainsi que la licence Creative Commons BY-SA. Les contributions demeurent la propriété de leurs auteurs, tandis que le copyleft assure que ceux-ci resteront librement redistribuables.
+L'initialisation du projet en français date de juillet 2004. S'il utilise souvent l'expression « wikilivres » dans les pages d'organisation, l'URL est fr.wikibooks.org. Il existe un projet utilisant « wikilivres » dans son URL, mais celui-ci n'a aucun rapport avec Wikimedia Foundation.
+
+
+== LivresModifier ==
+Le projet a pour but la rédaction de livres pédagogiques. L'une des différences avec Wikipédia est qu'un livre regroupe plusieurs pages, toutes commençant par le même titre : celui du livre. Chacune des pages permet de passer aux autres pages du livre grâce à des modèles de navigation (liste des chapitres, liens vers les chapitres suivants et précédents).
+Le projet en français possède une vitrine présentant les livres les plus aboutis. Les livres sont classés avec les catégories et utilisent également la classification décimale universelle (voir la liste de tous les livres).
+
+
+== WikijuniorModifier ==
+Wikijunior est un sous-projet de Wikibooks visant à réaliser des ouvrages pour des lecteurs âgés de 0 à 12 ans.
+Wikijunior est un projet lancé le 7 novembre 2004 dans le cadre du site Wikibooks. Initié avec l'appui d'une fondation privée, la Beck Foundatio

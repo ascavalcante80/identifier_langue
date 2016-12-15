@@ -1,0 +1,21 @@
+===
+
+Analog devreler sürekli sinyal kullanan devrelerdir.
+
+
+=== Sayısal devrelerDeğiştir ===
+Sayısal devreler ayrık sinyal kullanan devrelerdir. Sayısal devreler Boole cebrini kullanır ve tüm dijital bilgisayarların temelini oluşturur.
+
+
+== Kullanım alanlarıDeğiştir ==
+Günümüzde elektronik aletler birçok alanda kullanılmaktadır. Bunlardan bazıları:
+Haberleşme
+Otomasyon
+Tüketici elektroniği
+
+
+== Ayrıca bakınızDeğiştir ==
+Elektronik mühendisliği
+Telekomünikasyon mühendisliği
+Kontrol mühendisliği
+Elektrik mühendisliği

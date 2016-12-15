@@ -1,0 +1,17 @@
+kaniska komponenter ===
+
+Exempel: relä, strömställare
+
+
+== Konstruktion ==
+EDA programvara som till exempel KiCad används för att sätta samman ett kopplingsschema. Detta överförs sedan till en mönsterkortslayout där bl.a korrigeringar för fysiska och mekaniska förhållanden görs.
+
+
+== Externa länkar ==
+elektronik i Nationalencyklopedins nätupplaga.
+
+
+== Se även ==
+Signal
+Analog
+Digital

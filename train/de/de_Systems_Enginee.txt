@@ -1,0 +1,83 @@
+Systems Engineering (auch Systems Design oder Systems Design Engineering) ist ein interdisziplinärer Ansatz, um komplexe technische Systeme in großen Projekten zu entwickeln und zu realisieren. Systems Engineering ist nötig, da gerade in großen komplexen Projekten Punkte wie zum Beispiel Logistik und Koordination schwerer zu handhaben sind und zu massiven Problemen bei der Abwicklung des Projekts führen können.
+
+
+== Überblick ==
+Im Mittelpunkt des Systems Engineering steht, die vom Kunden gewünschten Anforderungen an das zu liefernde System, die in der Spezifikation enthalten sind, innerhalb des Kosten- und Zeitrahmens zu erfüllen, indem
+das System in Subsysteme, Geräte und Software heruntergebrochen und spezifiziert wird und
+die Implementierung über alle Ebenen kontinuierlich bis zur Übergabe an den Kunden kontrolliert wird.
+Dabei soll insbesondere das gesamte Problem (Betrieb, Kosten, Zeitplan, Performance, Weiterbildung und Support, Test, Produktion und Wiederverwertung) berücksichtigt werden.
+Systems Engineering integriert all diese Ingenieursdisziplinen und Fähigkeiten in einen einheitlichen, teamorientierten strukturierten Prozess, der sich je nach Komplexität des Systems über mehrere Ebenen bis zu einem Gerät eines Unterauftragnehmers erstrecken kann. Dieser Prozess wird von der Konzeption über die Produktion bis hin zum Betrieb und in manchen Fällen bis zum Abbau beziehungsweise zur Wiederverwertung angewandt.
+Idealerweise bedenkt Systems Engineering technische, wirtschaftliche und soziale Notwendigkeiten aller Kunden mit dem Ziel, dem Kunden ein Produkt zu übergeben, das dessen Vorstellungen entspricht. Eine Aufgabe ist es daher, die Grenzen für die Kosten, Zeitplan und Produzierbarkeit zu bestimmen  und deren Einhaltung durch kontinuierliche Risikobewertung und -minimierung sicherzustellen.
+Systems Engineering beruht darauf, dass ein System mehr als die Summe seiner Subsysteme (bzw. Teile) ist und aus diesem Grund die Gesamtzusammenhänge betrachtet werden müssen. Bei einem komplexen System bedient sich der verantwortliche Systemingenieur eines Teams von weiteren Systemingenieuren, die die Verantwortung für verschiedene Gebiete übernehmen.
+Systems Engineering wurde im englischsprachigen Raum ein Synonym für die Entwicklung des ganzen Produkts (Hardware, Software, Service) und zusätzlich notwendiger Systeme (zum Beispiel das Testsystem oder die Maschine zur Herstellung des Produkts). Diese Rolle wurde zuletzt durch die Mensch-Computer-Interaktion (MCI) und die Wiederverwertung ergänzt.
+Der Systemingenieur wird benötigt, da sich zum Beispiel ein Hardware-Ingenieur (mehr oder weniger) mit der Hardware und ein Softwareingenieur (mehr oder weniger) mit der Software beschäftigt und diese daher wenig Zeit haben beziehungsweise ihnen die Qualifikationen fehlen, um sich intensiv mit der optimierten Lauffähigkeit der Software auf der Hardware zu beschäftigen oder dass das ganze System mit seinen Elementen möglichst gut mit seiner Umgebung, insbesondere der Benutzer, interagiert bzw. ob es wie geplant genutzt werden kann. Bei umfassenden Systemen - etwa die Entwicklung von Columbus (Raumlabor) – müssen eine Vielzahl von Disziplinen koordiniert werden (Thermodynamik, Ergonomie usw.), um das Gesamtsystem zu optimieren.
+
+
+=== Methoden und Aufgaben ===
+Methoden und Aufgaben des Systems Engineering sind
+Definition und Planung der Systems Engineering Aufgaben und Fortschrittsbewertung zur Berichterstattung an das Projektmanagement;
+Anforderungsanalyse, Anforderungsdefinition und Anforderungsmanagement, die Grundlage der Systementwicklung;
+Systemdesignoptimierung (Modellbildung, Simulation und Bewertung), die Entwicklung des Systems;
+Systemdokumentation (Funktionsbeschreibungen, Zeichnungen, Handbücher usw);
+Konfigurationskontrolle/Änderungswesen, in der Entwicklung gibt es oft Veränderungen die in alle Dokumente bis zur Fertigungszeichnung nachvollziehbar eingepflegt werden müssen;
+Systemintegration (Schnittstellen-Spezifikation beziehungsweise -Produktentwicklung), um eine perfekte Einbindung in das nächstgrößere System zu gewährleisten;
+System Verifikation und Validation, um sicherzustellen, dass die Anforderungen erfüllt wurden;
+Risikomanagement durch periodische Soll / Ist Vergleiche für kritische Parameter (Masse, elektrische Leistung, SW/Programm Laufzeit/Grösse usw.);
+Produkt- und Qualitätssicherung (also zum Beispiel Fehlerbäume, Fehleranalyse, FMEA);
+Nachhaltige Entwicklung, nachhaltig sollte jedes System entwickelt werden.
+Je nach Komplexität und Projektphase des zu entwickelnden Systems sind die Aufgabenschwerpunkte und Inhalte verschieden.
+
+
+== Geschichte ==
+Der erste bedeutende Einsatz von „Systems Engineering“ fand 1940 in den Bell Laboratories bei der Telefonie statt. Die verschiedenen Teile des Telekommunikationssystems mussten und müssen sehr gut interagieren, was nur durch ein umfangreiches Systemverständnis und genaue Spezifikation der Anforderungen möglich wurde.
+Stärker wurde „Systems Engineering“ nach dem Zweiten Weltkrieg in der amerikanischen Raumfahrt u. a. beim Apollo-Programm und bei der Entwicklung des Space Shuttle eingesetzt. Dabei wurde der Systems-Engineering-Ansatz stetig durch die NASA weiterentwickelt.
+In der europäischen Raumfahrt wurde es nach den Fehlschlägen um die Europa-Raketen intensiv eingesetzt. Zu den Fehlschlägen kam es, da die verschiedenen Stufen ohne gemeinsame Koordination entwickelt wurden und diese somit nicht aufeinander abgestimmt waren. Daher wurde von den Franzosen bei der Entwicklung der Ariane-Rakete Systems Engineering intensiv eingesetzt, was schließlich zu einem großen Erfolg der Rakete führte. Seitdem ist es in der Raumfahrt Standard, Systems-Engineering-Ingenieure einzusetzen.
+Im Allgemeinen wird Systems Engineering in fast allen Unternehmen in verschiedenen Tiefen eingesetzt, dabei hat es zum Teil nur andere Namen. Der extreme Aufwand für die Verifikation, der die Kosten bei Raumfahrtprogrammen in die Höhe treibt, wird bei kommerziellen Unternehmen nur reduziert implementiert.
+
+
+== Geltungsbereich ==
+In der Industrie werden die Neuentwicklungen immer komplexer, da die Anforderungen des Kunden immer stärker steigen. Um diese interdisziplinären Entwicklungen überhaupt in einer annehmbaren Zeit zu ermöglichen ist es wichtig, den Überblick zu behalten. Genau zu diesem Zweck wurde Systems Engineering entwickelt. Wichtig ist dabei, dass das Entwickeln von großen und kleinen Systemen zu neuen Systeminformationen führen kann und diese Informationen für spätere Entwicklungen nicht verloren gehen dürfen.
+Entscheidungen zu Beginn eines Projekts, dessen Auswirkungen noch nicht vollständig verstanden sind, können zu gewaltigen Auswirkungen am Ende des Projekts führen, und es ist eine Aufgabe des modernen System-Ingenieurs, diese Auswirkungen zu finden und kritische Entscheidungen zu treffen. Es gibt und es wird keine Methode geben, die garantiert, dass eine heute gemachte Entscheidung immer noch gültig ist, wenn ein System nach Jahren oder Jahrzehnten in die Wartung geht, aber es gibt Techniken, den Prozess des „Systems Engineering“ zu unterstützen. Beispiele für die Benutzung einfacher System-Methodenlehren sind Jay Wright Forresters „System Dynamics“ Methoden und die Unified Modeling Language (UML), die ständig weiterentwickelt werden, um den Entwicklungsprozess zu unterstützen. Hilfreich ist dabei eine Modellierung und Simulation des Systems, wie es mittlerweile in allen Industrien und Wissenschaften üblich ist, um Fehler und Risiken schon vor der Produktion zu entdecken.
+
+
+== Mit Systems Engineering in Beziehung stehende Bereiche ==
+Es ist offensichtlich, dass viele spezielle Bereiche oder Nischen innerhalb der Ingenieurwissenschaften mit den Teilbereichen des Systems Engineering in Berührung kommen. Die steigende Anzahl von komplexen und sehr unterschiedlichen Systemen erwirkt immer größere Überschneidung zwischen diesen Bereichen. Viele Teilbereiche begreifen ihre eigenen Leistungen nur als Teil der größeren Gebiete, sie tragen jedoch auch zur Weiterentwicklung und Forschung des Systems Engineering bei.
+
+
+=== Softwareentwicklung ===
+Die Softwareentwicklung hat jüngst geholfen, Systems Engineering weiterzuentwickeln. Techniken, die ursprünglich entwickelt wurden, um mit komplexer Software intensive Systeme umgehen zu können, haben geholfen, große Änderungen bei den eingesetzten Tools, Methoden und Prozessen im Systems Engineering zu verwirklichen, zum Beispiel SysML, CMMI, objektorientierte Analyse und Design, Anforderungsmanagement, Formale Methoden und Formale Sprachen.
+
+
+=== Sicherheitstechnik ===
+Sicherheitstechnik wird heute überall dort angewandt, wo Menschen große komplexe Ereignisse absichern wollen, damit diese Systeme keine Schäden auslösen können. Die meisten dieser Sicherheitstechniken dienen dazu, geplant mit Fehlern umzugehen.
+Die momentanen Entwicklungsstandards definieren Risikokategorien und Modelle für Sicherheitsebenen oder Sicherheitsanforderungsstufen und leiten daraus Anforderungen an die Entwicklung sowie die Qualitätssicherung ab. Ein weiterer Bereich ist die Fehlerbaumanalyse (FTA), diese auf die Software fortzusetzen ist, trotz der Komplexität der Software, ein mögliches Ziel in der Entwicklung des Systems Engineering.
+
+
+=== Reliability engineering ===
+Reliability engineering (Ausfallsicherheitsentwicklung) ist eine Disziplin um sicherzustellen, dass ein System die Nutzererwartungen oder die Fehlerfreiheit während des Produktlebens erfüllt. Reliability engineering wird für das ganze System mit seiner Hard- und Software angewandt. Es ist stark mit der Wartbarkeit und der Logistik verknüpft. Reliability engineering wird oft mit Teilbereichen der Sicherheitstechnik angewandt, wie Ausfallverhalten und Fehlerbäume. Reliability engineering vertraut stark auf Statistiken, Wahrscheinlichkeitstheorie und Betriebssicherheitstheorie mit seinen Tools und Vorgängen.
+
+
+=== Schnittstellendesign ===
+Schnittstellendesign beschäftigt sich damit, die Teile eines Systems miteinander zu verbinden. So werden z. B. Kommunikationsprotokolle bestimmt, um die Interaktionen der Systeme bzw. Subsysteme sicherzustellen.
+Ein Beispiel hierfür ist, dass Signale die ein System verlassen, zum Beispiel innerhalb einer Toleranz liegen sollen oder der Empfänger eine größere Signaltoleranz haben soll als der Sender, um das System hinreichend stabil zu halten.
+Mensch-Computer-Interaktion (englisch human-computer interaction, HCI) ist ein anderer Aspekt des Schnittstellendesigns und ein sehr vitaler Teil des modernen Systems Engineering, wenn dazu der User eines Systems betrachtet wird.
+Außerdem ist zu beachten, dass jedes System auch ein Subsystem eines anderen ist. Daher sollte sich beispielsweise ein Pumpenhersteller Gedanken darüber machen, wie sein Kunde die Pumpe einsetzen will und die Schnittstellen dementsprechend gestalten.
+
+
+=== Kognitives „Systems Engineering“ ===
+Kognitives „Systems Engineering“ sieht den Menschen als Teil des Systems. Kognitives Systems Engineering hängt stark mit den Erfahrungen, die über Jahrzehnte in den Anwendungen der beiden Teilbereiche Kognitive Psychologie und Systems Engineering gemacht wurden, zusammen. Kognitives Systems Engineering hat sich stark auf das Erforschen der Interaktionen zwischen Mensch und Umwelt fokussiert, ebenso sollen Systeme entwickelt werden, die das menschliche Denken integrieren. Kognitives Systems Engineering arbeitet an den Punkten:
+Probleme die durch die Umwelt auftreten
+Notwendigkeit von Vermittlern (Mensch und Software)
+Interaktion der verschiedenen Systeme und Technologien, um die Situation beeinflussen zu können.
+
+
+=== Risikomanagement ===
+Risikomanagement ist ein notwendiges Hilfsmittel des Systems Engineering, damit mögliche Gefahren von Entwicklungen abschätzbar werden und somit die Systementwicklung erfolgreich durchgeführt werden kann. Es kann somit zum Beispiel vermieden werden, dass die Auswirkungen einzelner Subsysteme zum Absturz des ganzen Systems führen.
+
+
+== Beispiel für einen Systems Engineering Prozess ==
+Um das ganze System beschreiben zu können ist es wichtig durchgängige Methoden für Entwicklung und Analyse auf System– und Softwareebene zu finden. Eine Möglichkeit besteht in der Nutzung von SysML, welches auf der Grundlage von UML entwickelt wurde, um komplexe Systeme entwickeln und kontrollieren zu können. Zum Teil ist diese Modellierungssprache schon in Entwicklungssoftware integriert worden (z. B. ARTiSAN Studio von ARTiSAN, Enterprise Architect von SparxSystems, Rhapsody von Telelogic, Papyrus 4 SysML Freeware). Wenn dann noch zusätzlich die Anforderungen des Kunden mit Softwaretools (z. B. DOORS und RequisitePro von IBM Rational, IRQA von Visure Solutions, Caliber-RM von Borland, CARE von Sophist Group, in-Step von microTOOL ) in diesen Entwicklungsprozess integriert werden, so ist eine hohe Rückverfolgbarkeit der Entscheidungen in der Entwicklung gegeben.
+
+
+== Studium und Ausbildung ==
+In Deutschland gibt es immer mehr Hochschulen und zwischenzeitlich auch wenige Universitäten, die Systems En

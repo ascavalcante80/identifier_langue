@@ -1,0 +1,141 @@
+Área é um conceito matemático que pode ser definida como quantidade de espaço bidimensional, ou seja, de superfície.
+Existem várias unidades de medida de área, sendo a mais utilizada o metro quadrado (m²) e os seus múltiplos e sub-múltiplos. São também muito usadas as medidas agrárias: are, que equivale a cem metros quadrados; e seu múltiplo hectare, que equivale a dez mil metros quadrados. Outras unidades de medida de área são o acre e o alqueire.
+Na geografia e cartografia, o termo "área" corresponde à projeção num plano horizontal de uma parte da superfície terrestre. Assim, a superfície de uma montanha poderá ser inclinada, mas a sua área é sempre medida num plano horizontal.
+
+
+== Definição formal ==
+Uma abordagem para definir o que se entende por área é por meio de axiomas. Por exemplo, pode-se definir área como sendo uma função a de uma coleção M de figuras planas de um tipo especial (denominadas conjuntos mensuráveis) no conjunto dos números reais satisfazendo as seguintes propriedades:
+Para qualquer S em M, a(S) ≥ 0.
+Se S e T estão em M então S ∪ T e S ∩ T também estão e, além disso, a(S∪T) = a(S) + a(T) − a(S∩T).
+Se S e T estão em M e S ⊆ T então T − S está em M e a(T−S) = a(T) − a(S).
+Se um conjunto S está em M e S é congruente a T então T também está em M e a(S) = a(T).
+Todo retângulo R está em M. Se o retângulo tem largura h e altura k então a(R) = hk.
+Seja Q um conjunto limitado entre duas regiões com degraus, S e T. Uma região com degraus é formada a partir de uma união finita de retângulos adjacentes apoiados em uma mesma base, isto é, S ⊆ Q ⊆ T. Se existe um único número c tal que a(S) ≤ c ≤ a(T) para quaisquer regiões step S e T, então a(Q) = c.
+Pode ser demonstrado que existe uma tal função área.
+
+
+== Unidades ==
+
+Cada unidade de comprimento tem uma unidade de área correspondente, igual à área do quadrado que tem por lado esse comprimento. Desta forma, as áreas podem ser medidas em metros quadrados (²), centímetros quadrados (cm²), milímetros quadrados (mm²), quilómetros quadrados (km²), pés quadrados (ft²), jardas quadradas (yd²), milhas quadradas (mi²), e assim por diante. Algebricamente, estas unidades são os quadrados das unidades de comprimento correspondentes.
+A unidade do Sistema Internacional para área é o metro quadrado, que é considerado uma unidade derivada de SI.
+
+
+=== Conversões ===
+
+A conversão entre duas unidades quadradas é o quadrado do fator de conversão entre as unidades de comprimento correspondentes. Por exemplo, como
+1 Pé = 12 polegadas,
+é a relação entre pés quadrados e polegadas quadradas, temos que
+1 pé = 144 polegadas quadradas,
+sendo 144 = 12² = 12 × 12. Da forma análoga:
+1 quilómetro quadrado = 1 milhão de metros quadrados
+1 metro quadrado = 10 000 centímetros quadrados = 1 000 000 milímetros quadrados
+1 centímetro quadrado = 100 milímetros quadrados
+1 jarda quadrada = 9 pés quadrados
+1 milha = 3.097.600 jardas quadradas = 27.878.400 pés quadrados
+
+
+=== Outras unidades ===
+Existem várias outras unidades usadas para áreas. O are foi a unidade de medida original do sistema métrico para a área.
+1 are = 100 metros quadrados
+Embora o are tenha caído em desuso, o hectare ainda é muito usado para medir terrenos e propriedades:
+1 hectare = 100 ares = 10 000 metros quadrados = 0,01 quilómetros quadrados
+Outras unidades métricas menos habituais para a área incluem a tétrade, hectade e miríade.
+O acre também é muito usado na medição da área de terrenos, sendo
+1 acre = 4.840 jardas quadradas = 43.560 pés quadrados.
+Um acre é aproximadamente 40% de um hectare.
+
+
+== História ==
+Acredita-se que as necessidades cotidianas, tais como as divisões de terra para o plantio às margens dos rios, a construção de residências, assim como os estudos relativos aos movimentos dos astros inserem-se no contexto de atividades ligadas à geometria e desenvolvidas pelos seres humanos ao longo da evolução humana.
+Dentre os principais matemáticos da antiguidade responsáveis pelo desenvolvimento da geometria destacam-se Tales de Mileto (VI a. C.), na Grécia, importando a geometria utilizada pelos egípcios; Pitágoras, conhecido pelo teorema aplicado ao triângulo retângulo que recebeu o seu nome e aperfeiçoou o conceito de demonstração matemática da época. E, ainda nesse século, "os Elementos” de Euclides trouxeram inovações consistentes quanto aos métodos utilizados na antiguidade e que vêm contribuindo há mais de 20 séculos para o desenvolvimento das ciências, baseando-se em três conceitos básicos, tais como ponto, reta e círculo, como também nos cinco postulados. É um sistema axiomático que surge de conceitos e proposições aceitos sem demonstração, conhecidos como, postulados e axiomas.
+Uma curiosidade interessante dentro do trabalho com áreas diz respeito ao corpo humano como unidade. Assim, palmos, pés, passos, braças e cúbitos, foram algumas das primeiras unidades de medida utilizadas direta ou indiretamente. Aproximadamente em 3500 a. C., período em que iniciavam-se a construção dos primeiros templos na Mesopotâmia e no Egito, os responsáveis por tais projetos sentiram a necessidade de encontrar unidades de medidas mais regulares e exatas, usaram então como base de medida as partes do corpo de apenas um homem (por exemplo, o rei) e com tais medidas confeccionaram réguas de madeiras e metal, ou ainda com nós, as quais destacaram-se como as primeiras medidas oficiais de comprimento.
+O cálculo de áreas iniciou-se possivelmente pela prática da arrecadação de impostos pelos sacerdotes, os quais calculavam intuitivamente a extensão dos campos só pela observação visual, com o tempo observaram trabalhadores revestindo uma parte retangular do chão com pedras quadradas e perceberam que para determinar a quantidade de pedras, seria suficiente contar a quantidade de quadrados de uma fileira e multiplicar pelo número de fileiras existentes, dando origem assim à fórmula para o cálculo da área de um retângulo, sendo esta obtida a partir produto da base pela altura.
+Logo após, desenvolveram uma fórmula para o cálculo da área de um triângulo, fundados num pensamento bastante geométrico, no qual tinham a área de um quadrado ou retângulo e dividindo-os ao meio em diagonal obtinham a área do triângulo, assim a área do triângulo é dada pela metade da área do quadrado ou do retângulo. Quando o terreno não tinha a forma retangular ou triangular, os primeiros cartógrafos e agrimensores, utilizavam a triangulação, que consistia num processo de divisão da área em triângulos, cuja soma de suas áreas representava o total da área.
+No entanto, esse processo de triangulação apresentava alguns pequenos erros, ao medir a área de terrenos não planos ou com curvas. Surgiu assim a necessidade de calcular o comprimento da circunferência e a área do círculo. Com uma corda pequena ou grande sendo girada em torno de um ponto fixo tinha-se a figura de um circunferência. Essa corda, medida que conhecemos como raio da circunferência, tinha alguma relação com o comprimento da circunferência, assim, tomando essa corda e observando quantas vezes ela caberia na circunferência, perceberam que cabia pouco mais de seis vezes e um quarto, independente do seu tamanho. Desta forma concluíram que o comprimento da circunferência poderia ser dado por 6,28 vezes a medida do raio o que corresponde ao que calculamos hoje quando fazemos , onde  vale aproximadamente .
+Quanto à área do círculo, por volta de 2000 anos a.C., conta-se que Ahmes, um escriba egípcio, se propôs a determinar a área de um círculo, pensando inicialmente em calcular a área de um quadrado e obter o número de vezes que essa área caberia na área do círculo. Depois para definir qual seria esse quadrado, considerou mais adequado utilizar o quadrado cujo lado tivesse a mesma medida do raio do círculo do qual se desejava calcular a área, assim procedendo provou que o quadrado se inseria no círculo entre três e quatro vezes, o que representava uma aproximação de três vezes e um sétimo, o que atualmente consideramos aproximado a 3,14 vezes. Desta forma determinou a área do círculo multiplicando a área do quadrado por 3,14, situação que utilizamos atualmente com , com  valendo aproximadamente .
+Na Grécia, aproximadamente em 500 a. C. foram fundadas as primeiras universidades. Neste período Tales e seu discípulo Pitágoras organizaram, desenvolveram e aplicaram todo o conhecimento da Babilônia, Etúrria, Egito e Índia à matemática, navegação e religião. Neste período, crescia a curiosidade e a procura por livros de geometria, o conhecimento do Universo ampliava-se velozmente e a escola de Pitágoras fez afirmações quanto à forma da Terra identificando-a como esférica ao invés de plana. Surgiram novas construções geométricas, e suas áreas e perímetros eram agora fáceis de calcular.
+
+
+== Fórmulas de cálculo ==
+
+
+=== Retângulo ===
+
+A mais simples fórmula de cálculo de uma área é a do retângulo Dado um retângulo com base l e altura w, a sua área é:
+ (área do retângulo)
+Ou seja, a área do retângulo é obtida multiplicando a largura pela altura. Um caso particular é a área do quadrado; sendo l o comprimento do seu lado, a sua área é:
+ (área do quadrado)
+A fórmula para a área do retângulo decorre diretamente das propriedades básicas da área, e por vezes é tomada como uma definição ou axioma. Tendo a geometria sido desenvolvida antes da aritmética, o conceito de área pode ser usado para definir a multiplicação de números reais.
+
+
+=== Fórmulas por dissecção ===
+A maioria das outras fórmulas simples para o cálculo da área seguem o método da dissecção. Como o nome indica, este método envolve seccionar a figura em partes mais simples, calcular a área de cada uma dessas partes, que somadas resultarão na área da figura original.
+Por exemplo, um paralelogramo pode ser dividido num trapezoide e num triângulo retângulo, como ilustrado pela figura da esquerda. Se movermos o triângulo para o outro lado do trapezoide, o resultado é um retângulo. A conclusão é que a área do paralelogramo é igual à do retângulo:
+
+ (área do paralelogramo)
+O mesmo paralelogramo pode ser dividido em dois triângulos congruentes através de um corte na diagonal, como mostrado na figura da direita:
+ (área do triângulo)
+É possível fazer raciocínios semelhantes para obter fórmulas para as áreas do trapezoide, do losango e de outros polígonos mais complicados.
+
+
+=== Área de outros polígonos ===
+Área do trapézio:
+ (B = base maior; b = base menor; h = altura)
+Área do losango:
+ (D = diagonal maior; d = diagonal menor)
+Área de qualquer polígono regular:
+ (P = perímetro; a = comprimento do apótema)
+
+
+=== Círculo ===
+A área de um círculo também pode ser calculada através do método de dissecção. Dado um círculo com raio  é possível dividi-lo em setores. Cada setor tem uma forma aproximadamente triangular, e os setores podem ser rearranjados para formar uma figura próxima de um paralelogramo. A altura do paralelogramo é  e a largura é metade da circunferência do círculo, ou seja,  Resulta que a área do círculo é  ou seja, 
+ (área do círculo; r = raio)
+Embora a dissecação usada na fórmula seja aproximada, o erro torna-se cada vez menor à medida que usamos setores cada vez menores. O limite da área quando o tamanho dos setores tendo para zero é exatamente  que corresponde à área do círculo.
+Este raciocínio é uma aplicação simples dos conceitos do cálculo. No passado, o método da exaustão foi usado de forma semelhante para encontrar a área do círculo, sendo reconhecido como um precursor do cálculo integral. Usando os métodos modernos, a área do círculo pode ser calculada usando um integral:
+
+
+=== Área de uma superfície ===
+
+A maioria das fórmulas para o cálculo da área de uma superfície pode ser obtida cortando e endireitando a superfície. Por exemplo, a superfície de um cilindro pode ser cortada e estendida formando um retângulo. Da mesma forma, a superfície de um cone pode ser cortada e endireitada num setor de um círculo, para permitir o cálculo da sua área.
+O cálculo da área da superfície de uma esfera é mais complexo, pois a curvatura da superfície dificulta a sua projeção num plano direito. Isso acontece com sólidos com curvatura gaussiana diferente de zero. O primeiro a obter uma fórmula para o cálculo da área de uma esfera foi Arquimedes na sua obra Sobre a Esfera e o Cilindro. Provou que a área e volume da esfera é exatamente 2/3 da área e volume do cilindro que a envolve. Tal como acontece com a área do círculo, a fórmula para a área da esfera resulta de métodos similares aos do cálculo.
+Á área de uma esfera com raio  é:
+ (área da esfera)
+
+
+== Lista de fórmulas ==
+
+
+== Aplicações ==
+Pode-se operacionalizar as áreas de algumas figuras planas e utilizá-las em algumas aplicações úteis. Evidentemente, associa-se área de uma figura plana a um número positivo, o qual expressa o espaço do plano ocupado por ela.
+
+
+=== Notação ===
+Usa-se a escrita  para indicar a área de um polígono de  vértices. Vale lembrar que em qualquer polígono o número de vértices é igual ao número de lados.
+
+
+=== Área de um triângulo ===
+
+
+==== Critério para equivalência de triângulos ====
+
+
+===== Propriedade 1 =====
+Dois triângulos de mesma base e mesma altura têm áreas iguais.
+Demonstração: Dadas duas retas paralelas  e , a uma distância , marcamos sobre a reta , os pontos  e , e sobre a reta , marcamos os pontos,  e , conforme figura abaixo.
+Essa é uma consequência do corolário: Sejam  e  triângulos tais que . Então  .
+
+Analisando as áreas dos triângulos  e , temos que:
+
+Assim, como  e a distância de  a  dada por , se  e  pertencem a reta  e  pertence a reta , obtendo um ponto qualquer  sobre a reta , temos , portanto os dois triângulos  e  possuem a mesma base  e a mesma altura , logo suas áreas são iguais.
+
+
+===== Propriedade 2 =====
+Se dois triângulos possuem mesma altura, então a razão entre as suas áreas é igual à razão entre as suas bases.
+
+Na triângulo , foi traçada uma ceviana a partir do vértice  intersectando o lado  no ponto , ficando assim determinados dois triângulos:  e , de mesma altura .
+Demonstração: Fazendo a razão entre as áreas temos,
+
+Portanto,
+
+
+==== Triângulos semelhantes ====

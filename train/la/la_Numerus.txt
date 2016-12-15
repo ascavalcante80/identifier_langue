@@ -1,0 +1,63 @@
+Numerus (i, m.) est conceptio, quae finitam multitudinem ex unitatibus constitutam describit. Numeris homines multa ordinant sicut tempus, divitias, et longitudinem, quoque res minoris momenti sicut locos in ordine sive cursus telephonicos.
+Tesseris et inscriptionibus in ossibus lapidisque inventis, usus numerorum primus fertur fuisse annos fere 35 000 a.E.V., inde per saecula artes colebamus quibus operationes cum numeris facilius callidiusque faceremus. Earum sunt simplices additio, subtractio, multiplicatio, et divisio, e quibus artes elegantiores sicut calculus infinitessimalis et trigonometria lente creverunt. Inventiones usus harum artium plane monstrant numeros omnes non aequales esse, etiam monstrant necessitudine exstare numeroros plus minusve difficiles intellectu. In mathematica ergo numeri possunt esse quoque multitudines negativae, infinitae, decimales, sive impossibiles ac theoreticae.
+Symbola quibus scribimus numeros sunt cifrae in systemate numerali, vulgo autem numeri quoque appellantur. Licet systema numerale unum facile a variis culturis linguisque usurpetur, nomina numeralia sunt autem linguae praecipua. Ratio, qua numeri ordinantur, est systema numericum. Latissime adhibetur systema decimale, systemata duodecimale et sexagesimale interdum inveniuntur. Computatra utuntur systemate binario.
+
+
+== Etymologia ==
+De etymologia ambigitur, sed nihil obstat, quin numerus ante rhotacismum *nomesos fuerit, cui a Benveniste significatio 'pars, quantitas' restituta est. Si hoc adprobemus, faciliter videamus hoc nomen, stirpe *nom-es- nixum, positum esse in radice *nom-, quae ex relatione metaphonica ad radicem *nem- 'dividere, impertire, adtribuere' sit. Hac relatione interposita, constet permulta vocabula Graeca huc pertinere, sicut νέμω 'divido; pasco', νομός 'pascua; domicilium', νομάς 'qui vitam pastoriciam agit, nomas', νόμος 'mos; lex' – nec non aliquot vocabula aliarum linguarum, sicut Gothice niman 'capere', Lithuanice namas 'domus, aedes', Lingua Hibernica antiqua nem 'donum'. Sunt etiam qui de numero huc referendo dubitent.
+
+
+== Categoriae numerorum ==
+Etiamsi late intelligitur numerum posse quamlibet magnitudinem esse, proprietates omnium numerorum non sunt inter se aequales. Ergo est prima dissimilitudo inter numeros exempli gratia {0, 1, 2, 3 . . .}, {. . . -3, -2, -1, 0}, 2/4, π ac e, , vel .
+
+
+=== Numeri naturales ===
+sive
+
+In numeris naturalibus exagere licet additionem et multiplicationem. Subtractio solum est possibilis, si minuendus maior est aut aequus quam subtrahendus; aliter necesse est numeris integris. In divisione in casibus plerisque numerus rationalis resultat, neque naturalis.
+Potentia numeri naturalis iterum est naturalis, sed demonstrare possibile neque difficile est radicem semper esse irrationalem, nisi numerus est quadratum (0, 1, 4, 9, 16, ...); in hoc casu scilicet radicem naturalem.
+
+
+=== Numeri integri ===
+Cum subtrahitur numerus naturalis de alio naturali, exsultat interdum non naturalis sed numerus qui est minor quam nullus. Numeri naturales et hi nullo minores appellantur universi numeri integri. Numeri integri generaliter littera  designantur. Ergo
+
+
+=== Numeri irrationales ===
+Numerus irrationalis per definitionem est numerus qui scribi ut fractio numerorum duorum integrum non potest, i.e., numerus  est irrationalis si numeri duos alii a numero zero dissimiles  et  tales ut
+
+non sunt.
+Exempli gratia numerum  esse irrationalem facile demonstratur, quemadmodum infra aspicitur. Hoc est demonstrationis exemplum secundum praeceptum reductionis ad absurdum.
+Pro certo ponamus
+,
+ubi  factores primos aequales non habent. In sequentibus disquisitionibus demonstrabitur hanc coniecturam esse absurdam.
+Si hoc est verum tunc , ergo  est numerus par ideoque  quoque est numerus par (si  numerus impar esset tunc quoque  numerus impar esset). Cum numerus  sit par notum est numerum k esse talem ut , unde a prima aequatione sequitur , ergo . Simili modo comprobatur numerum  esse parem propterea etiam factorem 2 habet, quod absurdum est quia in principio selegimus numeros  qui factores aequales non habeant. Ergo coniectura  erat falsa ideoque  est numerus irrationalis QED.
+
+
+=== Numeri transcendentes ===
+Numerus transcendens est numerus, qui non est algebraicus. Id est: Sit  numerus transcendens. Tunc nullus est  et nulli sunt , ut  sit.
+π ac e
+
+
+=== Numeris imaginarii ===
+Quantitas imaginaria, vel numerus imaginarius, est numerus complexus cuius potestas quadrata est numerus negativus.
+
+
+== Systemata numerica ==
+
+
+== Historia numerorum ==
+
+Primus usus numerorum locum incertum in historia habet. Ut super dictum, prima indicia usus numeralium in ossibus et tesseris fere 35 000 annos abhinc inscriptis inveniuntur. Haec numeralia fuerunt sicut notae ad dexteram pictae; id est non habere cifras. Numeros 1-10 possunt notare, sed opus est novarum notarum ut numeri maiores scribantur. Cum cifris numeri quamvis magni una nota scribi possunt.
+
+Primum systema numericum cum cifris fuit Babylonicum et habuit radicem sexagesimalem.
+
+
+== Notae ==
+↑ Emile Benveniste, Bulletin de la Société linguistique de Paris 32, 1931, 83; Alois Walde & J.B.Hofmann, Lateinisches etymologisches Wörterbuch II (1938) s.v. numerus.
+↑ Alfred Ernout & Antoine Meillet, Dictionnaire étymologique de la langue latine, s.v. numerus (Paris: Klincksieck, 19594); Pierre Chantraine: Dictionnaire étymologique de la langue grecque, s.v. νέμω. (Paris: Klincksieck, 1980).
+
+
+== Bibliographia ==
+Bogomolny, A. "What's a number?". Interactive Mathematics Miscellany and Puzzles. http://www.cut-the-knot.org/do_you_know/numbers.shtml.
+Danzig, Tobias. 1930. Number, the language of science; a critical survey written for the cultured non-mathematician. Novi Eboraci: The Macmillan company.
+Friedman, Eric

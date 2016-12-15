@@ -1,0 +1,37 @@
+Extensible Markup Language (XML) este un meta-limbaj de marcare recomandat de Consorțiul Web pentru crearea de alte limbaje de marcare, cum ar fi XHTML, RDF, RSS, MathML, SVG, OWL etc. Aceste limbaje formează familia de limbaje XML.
+Meta-limbajul XML este o simplificare a limbajului SGML (din care se trage și HTML) și a fost proiectat în scopul transferului de date între aplicații pe internet, descriere structură date.
+XML este acum și un model de stocare a datelor nestructurate și semi-structurate în cadrul bazelor de date native XML.
+Datele XML pot fi utilizate în limbajul HTML, permit o identificare rapidă a documentelor cu ajutorul motoarelor de căutare. Cu ajutorul codurilor javascript, php etc. fișierele XML pot fi înglobate în paginile de internet, cel mai elocvent exemplu este sitemul RSS care folosește un fișier XML pentru a transporta informațiile dintr-o pagină web către mai multe pagini web.
+Avantaje:
+extensibilitate (se pot defini noi indicatori dacă este nevoie)
+validitate (se verifică corectitudinea structurală a datelor )
+oferă utilizatorilor posibilitatea de a-și reprezenta datele într-un mod independent de aplicație
+XML este simplu și accesibil (sunt fișiere text create pentru a structura, stoca și a transporta informația)
+poate fi editat, modificat foarte ușor (necesită doar un editor text simplu precum notepad, wordpad etc.)
+
+
+== Ce este XML ==
+După cum sugerează și numele, este un sistem extensibil de marcare, adică, mai simplu, este un sistem de marcare similar cu HTML, doar că este mult mai bun și mai dinamic, diferența esențială fiind că tagurile nu sunt definite, programatorul fiind liber să experimenteze.
+
+
+== Ce nu este XML ==
+Poate este dificil de înțeles, dar fișierele XML nu fac nimic, sunt doar secvențe de text create pentru a structura, depozita și transporta informație, de exemplu:
+
+<notita>
+    <dela>Iacob</dela>
+    <catre>Alina</catre>
+    <mesaj>Te Iubesc!</mesaj>
+</notita>
+
+În cadrul exemplului anterior se poate observa cum sunt create anumite taguri, spre deosebire de limbajul HTML unde tagurile trebuiau să fie cunoscute pentru a putea fi interpretate, în sistemul XML autorul poate defini propriile taguri pe care urmează să le manipuleze dupa gustul și necesitățile proprii.
+
+
+== Referințe și note ==
+
+
+== Bibliografie ==
+Annex A of ISO 8879:1986 (SGML)
+Lawrence A. Cunningham (2005). „Language, Deals and Standards: The Future of XML Contracts”. Washington University Law Review. 
+Bosak, Jon (1 mai 1999). „XML and the Second-Generation Web”. Scientific American.  Online at XML and the Second-Generation Web.
+Kelly, Sean (6 februarie 2006). „Making Mistakes with XML”. Developer.com. http://www.developer.com/xml/article.php/10929_3583081_1. Accesat la 26 octombrie 2010. 
+St. Laurent, Simon (12 februarie

@@ -1,0 +1,215 @@
+Une étoile est un corps céleste gazeux qui rayonne sa propre lumière par réactions de fusion nucléaire, ou des corps qui ont été dans cet état à un stade de leur cycle de vie, comme les naines blanches ou les étoiles à neutrons. Cela signifie qu'elles doivent posséder une masse minimale pour que les conditions de température et de pression au sein de la région centrale — le cœur — permettent l'amorce et le maintien de ces réactions nucléaires, seuil en deçà duquel on parle d'objets substellaires. Les masses possibles des étoiles s'étendent de 0.085 masses solaires à une centaine de masses solaires. La masse détermine la température et la luminosité de l'étoile.
+La plupart des étoiles se situent sur la séquence principale du diagramme de Hertzsprung-Russell, où les étoiles produisent leur énergie et leur rayonnement par conversion de l'hydrogène en hélium, par des mécanismes de fusion nucléaire comme le cycle carbone-azote-oxygène ou la chaîne proton-proton.
+Pendant une grande partie de son existence, une étoile est en équilibre hydrostatique sous l'action de deux forces qui s'opposent : la gravitation, qui tend à contracter et faire s'effondrer l'étoile, et la pression cinétique (avec la pression de radiation pour les étoiles massives), régulée et maintenue par les réactions de fusion nucléaire, qui tend au contraire à dilater l'astre. À la fin de cette phase, marquée par la consommation de la totalité de l'hydrogène, les étoiles de la séquence principale se dilatent et évoluent en étoile géante qui obtient son énergie d'autres réactions nucléaires, comme la fusion de l'hélium en carbone et oxygène.
+Une étoile rayonne dans tout le spectre électromagnétique, au contraire de la plupart des planètes (comme la Terre) qui reçoivent principalement l'énergie de l'étoile ou des étoiles autour desquelles elles gravitent.
+Le Soleil est une étoile assez typique dont la masse, de l'ordre de 2×1030 kg, est représentative de celle des autres étoiles.
+
+
+== Généralités ==
+
+Historiquement, les étoiles sont les points lumineux du ciel visibles uniquement la nuit et fixes les uns par rapport aux autres, par opposition aux planètes qui suivent des trajectoires errantes dans le ciel nocturne au cours de l'année. Les anciens avaient une connaissance approfondie de la répartition des étoiles dans le ciel, leur attribuant des noms ainsi qu'aux formes qu'elles dessinent — les constellations — et les utilisant notamment pour la navigation. Cependant ils ignoraient tout de leur nature exacte, pensant souvent qu'il s'agissait d'orifices percés à travers la sphère céleste. C'est seulement avec l'essor de l'astronomie moderne que les étoiles ont pu être comprises comme des objets de même nature que le Soleil mais situés à des distances considérablement plus grandes. Cette hypothèse fut énoncée pour la première fois par Giordano Bruno au XVIe siècle avant d'être confirmée expérimentalement en 1838 avec la première mesure de parallaxe réalisée par Friedrich Wilhelm Bessel, ainsi que les observations spectrométriques effectuées grâce à l'appareil inventé en 1814 par l'opticien Joseph von Fraunhofer.
+Une étoile est donc un objet céleste en rotation, de forme a priori sphérique, constitué essentiellement de plasma, et dont la structure est modelée par la gravité. Lors de sa formation, une étoile est essentiellement composée d’hydrogène et d’hélium. Durant la majeure partie de son existence, son cœur est le siège de réactions de fusion nucléaire, dont une partie de l’énergie est rayonnée sous forme de lumière ; la matière qui la compose s’en trouve presque complètement ionisée.
+Le Soleil est l’étoile la plus proche de la Terre, l’énergie qu’il rayonne y permet le développement de la vie. Il apparait bien plus lumineux que toutes les autres étoiles en raison de sa proximité : la seconde étoile la plus proche de la Terre, Proxima du Centaure, est 250 000 fois plus éloignée. Sauf en cas exceptionnel comme une éclipse, les autres étoiles ne sont visibles que la nuit lorsque leur éclat n’est pas noyé par celui du ciel diurne, résultant lui-même de la diffusion de l’éclairement solaire.
+Les étoiles sont regroupées au sein de galaxies. Une galaxie typique, comme la nôtre, la Voie lactée, contient plusieurs centaines de milliards d’étoiles. Au sein des galaxies, les étoiles peuvent être liées dans des systèmes multiples (quelques étoiles) ou des amas (plusieurs dizaines à quelques centaines de milliers d’étoiles).
+La sphère céleste fait également apparaître des groupements d’étoiles, les constellations ; il s’agit en fait d’une illusion optique due à l’effet de projection. Les étoiles composant une constellation sont généralement situées à des distances très différentes de la Terre.
+Une étoile possède une masse comprise entre 0,07 et 300 fois environ celle du Soleil (elle-même égale à 300 000 fois celle de la Terre, soit environ 2×1030 kg). Les astres de masse plus faible ne permettent pas l’amorçage des réactions de fusion nucléaire de l’hydrogène, alors que les étoiles de masse plus élevée sont sujettes à des instabilités entrainant une perte de masse. La durée de vie d’une étoile est essentiellement déterminée par la vitesse à laquelle se produisent les réactions nucléaires : plus la masse de l’étoile est élevée, plus les réactions nucléaires sont rapides et la durée de vie de l’étoile est brève. Les étoiles les plus massives ont une durée de vie de quelques millions d’années seulement, les moins massives, de plus de mille milliards d’années. Une étoile comme le Soleil a une durée de vie de l’ordre de 10 milliards d’années.
+La formation d’étoiles est due à l’effondrement d’un nuage de gaz et à sa fragmentation possible en plusieurs proto-étoiles, lesquelles s’échauffent à mesure qu’elles se contractent. La température atteint alors une valeur telle que le cœur « s’allume » : l’hydrogène fusionne en hélium, fournissant l’énergie qui arrête l’effondrement. L’étoile entre alors dans la séquence principale dans laquelle elle passe la majeure partie de son existence. L’énergie produite par cette conversion est progressivement évacuée par l’étoile à la fois par convection et par radiation et s’échappe finalement de la surface de l’étoile sous forme de rayonnement, de vents stellaires et de neutrinos. Son évolution ultérieure dépend essentiellement de sa masse. Plus celle-ci est élevée, plus l’étoile est en mesure d’amorcer des réactions de fusion avec des éléments chimiques de plus en plus lourds. Elle peut ainsi synthétiser du carbone, puis de l’oxygène, du néon, etc. La quasi-totalité des éléments plus lourds que l’hélium est produite dans les étoiles (on parle de nucléosynthèse stellaire) dans les derniers stades de leur évolution. Si une étoile est suffisamment massive pour synthétiser du fer, alors elle est vouée à connaitre une fin paroxystique sous forme de supernova : son cœur implose et ses couches externes sont disloquées par le processus. Le résidu laissé par l’implosion du cœur est un objet extrêmement compact, qui peut être soit une étoile à neutrons, éventuellement détectable sous la forme d’un pulsar, soit un trou noir. Les étoiles moins massives connaissent une fin de vie moins violente : elles perdent peu à peu la majeure partie de leur masse, qui forme par la suite une nébuleuse planétaire, et voient leur cœur se contracter lentement pour former une naine blanche.
+
+
+== Observation ==
+
+
+=== À l’œil nu ===
+La nuit, les étoiles apparaissent à l’œil nu sous la forme de points (à cause de leur éloignement) brillants de couleur blanche, parfois aussi rouge, orangée ou bleue — généralement scintillants et sans mouvement apparent immédiat par rapport aux autres objets fixes de la voûte céleste. Le phénomène de scintillation est dû à l’extrême petitesse de la taille angulaire des étoiles (quelques millisecondes d’arc voire moins), qui est inférieure à celle de la turbulence atmosphérique. À l’inverse, les planètes, bien qu’apparaissant comme des points, ont en réalité une taille angulaire suffisante pour ne pas être soumises au phénomène de scintillation. Si les étoiles se déplacent les unes par rapport aux autres, ce mouvement propre est très faible, même pour les étoiles les plus proches, n’excédant pas quelques secondes d’arc par an, ce qui explique leur apparente immobilité les unes par rapport aux autres.
+Le jour, le Soleil domine et sa lumière, diffusée par la couche atmosphérique, occulte celle des étoiles. Mais l’astre le plus brillant visible depuis la Terre est bien lui-même une étoile.
+Le Soleil semble beaucoup plus gros que toutes les autres étoiles car celles-ci sont bien plus éloignées : l’étoile la plus proche de la Terre après le Soleil, Proxima du Centaure, est située à environ quatre années-lumière de nous, soit près de 270 000 fois la distance qui nous sépare du Soleil (l’unité astronomique).
+Selon les conditions d’observation, le nombre d’étoiles visibles à l’œil nu varie fortement et peut atteindre plusieurs milliers dans les cas les plus favorables. Hormis le Soleil et Sirius — et encore, uniquement dans d’excellentes conditions d’observation — les étoiles sont trop peu brillantes pour être observables en plein jour (sauf lors des éclipses totales de Soleil et lors de phénomènes temporaires comme les novae ou les supernovae). L’éclat des étoiles est quantifié par une grandeur appelée magnitude apparente. Pour des raisons historiques, la magnitude est d’autant plus petite que l’astre est brillant : l’astronome de la Grèce antique Hipparque avait classifié les étoiles en astres de première grandeur pour les plus brillants, seconde grandeur pour les suivants, et ainsi de suite jusqu’à cinquième grandeur. La définition mathématique précise de la magnitude apparente reprend essentiellement cette classification, avec les étoiles les plus brillantes dotées d’une magnitude proche de 0 (à l’exception de Sirius, de magnitude -1,5 et de Canopus, de magnitude -0,7) et les plus faibles d’une magnitude supérieure à 6. Un écart de 1 en magnitude correspond à un rapport de luminosité de 2,5 environ, un écart de 5 à un rapport de 100. Le Soleil a une magnitude apparente de -26,7, c’est-à-dire que vu de la Terre, il est environ 10 milliards de fois plus brillant que Sirius.
+Les étoiles semblent associées en figures géométriques plus ou moins simples, les constellations ; il s’agit d’un simple effet d’optique. Les structures stellaires réelles sont des amas (rassemblant quelques milliers d’étoiles) ou des galaxies (rassemblant de l’ordre du milliard d’étoiles).
+L’observation à l’œil nu a été la première forme d’astronomie.
+
+
+=== Avec des instruments ===
+Les étoiles sont longtemps restées des points dans le ciel, et ce même vues à travers les plus puissants instruments de grossissement, tels que la lunette astronomique ou le télescope. C'est seulement à partir de la fin du vingtième siècle et du début du vingt-et-unième que la résolution angulaire des meilleurs instruments est devenue inférieure à la seconde d'arc et s'est donc avérée suffisante pour apercevoir des structures autour de certaines étoiles ainsi que pour distinguer ces étoiles comme un disque et non comme un point. Cependant encore de nos jours l'écrasante majorité des étoiles reste inaccessible à une telle observation directe.
+L'essentiel des observations stellaires se concentrent donc sur des données relatives à leur spectre électromagnétique, leur luminosité ou leur polarisation, mesurées respectivement à l'aide du spectrographe, du photomètre et du polarimètre.
+Après l’œil, les détecteurs utilisés furent les plaques photographiques puis les détecteurs numériques comme le CCD.
+L'étude des étoiles comporte aussi celle du Soleil, qui lui peut être observé en détail, mais avec un équipement approprié, notamment de puissants filtres. L'observation du soleil est une activité potentiellement dangereuse pour l'œil et pour le matériel : elle ne doit être pratiquée que par un public averti et compétent.
+
+
+=== Catalogues d’étoiles ===
+Pour repérer les étoiles et faciliter le travail des astronomes, de nombreux catalogues ont été créés. Parmi les plus célèbres, citons le catalogue Henry Draper (HD) et le Bonner Durchmusterung (BD). Les étoiles y sont rangées par leurs coordonnées, alpha (ascension droite) et delta (déclinaison) et un numéro leur est attribué : par exemple, HD 122653 (célèbre géante de Population II, très déficiente en métaux).
+
+
+== Caractéristiques principales ==
+Une étoile est caractérisée par différentes grandeurs :
+
+
+=== Masse ===
+La masse est une des caractéristiques les plus importantes d’une étoile. En effet, cette grandeur détermine sa durée de vie ainsi que son comportement pendant son évolution et la fin de sa vie : une étoile massive sera très lumineuse mais sa durée de vie sera réduite.
+Les étoiles ont une masse comprise entre environ 0,08 et 300 fois la masse du Soleil, soit (très) près de 2,1030 kilogrammes (2 milliards de milliards de milliards de tonnes). En dessous de la masse minimale, l’échauffement généré par la contraction gravitationnelle est insuffisant pour démarrer le cycle de réactions nucléaires : l’astre ainsi formé est une naine brune. Au-delà de la masse maximale, la force de gravité est insuffisante pour retenir toute la matière de l’étoile une fois les réactions nucléaires entamées. Jusqu’à peu, on pensait que la masse d’une étoile ne pouvait excéder 120 à 150 fois la masse solaire mais la récente découverte d’une étoile ayant une masse 320 fois supérieure à celle du Soleil a rendu cette hypothèse caduque.
+
+
+==== Limites de masse des étoiles ====
+
+
+===== Limite basse =====
+Les étoiles ayant la plus petite masse observée (1/20e de masse solaire) sont les naines rouges, qui fusionnent très lentement l'hydrogène en hélium.
+En dessous, il y a les naines brunes qui enclenchent juste la fusion du deutérium à leur formation.
+
+
+===== Limite haute =====
+La masse d'une étoile est limitée par les circonstances du processus de formation et par sa stabilité sur la séquence principale, essentiellement par le taux d'éjection du vent stellaire.
+Les étoiles les plus massives ont généralement une masse d'environ 50 à 80 masses solaires. Les étoiles encore plus massives sont instables car la gigantesque pression de radiation qui règne en leur centre provoque l'expulsion « rapide » de la matière qui les constitue, diminuant ainsi significativement leur masse durant leur « brève » séquence principale.
+On pense que la première génération d'étoiles de l'Univers, celles de la population III, furent des étoiles principalement géantes, typiquement plus de 100 masses solaires, jusqu'à 1000 masses solaires. Elles purent exister (et se maintenir durant leur « courte » séquence principale), car leur métallicité était pour ainsi dire nulle et les ions « métalliques » sont bien plus sensibles à la pression de radiation que l'hydrogène et l'hélium ionisés. Une bonne partie d'entre-elles finissent en hypernovas.
+En janvier 2004, Stephen Eikenberry de l'université de Californie, a annoncé avoir trouvé l'étoile la plus massive jamais observée : LBV 1806-20. Il s'agit d'une étoile très jeune qui ferait au moins 150 masses solaires. En juillet 2010, une équipe internationale d'astronomes annonce la découverte avec le VLT au Chili de l'étoile R136a1 dans la nébuleuse de la Tarentule qui serait 265 fois plus massive que le Soleil. Selon le professeur Paul Crowther de l'Université de Sheffield elle fait 320 fois la masse du Soleil.
+
+
+==== Estimation ====
+La détermination de la masse d’une étoile ne peut se faire de façon précise que lorsqu’elle appartient à un système binaire par l’observation de son orbite. La troisième loi de Kepler permet alors de calculer la somme des masses des deux étoiles de la binaire à partir de sa période et du demi-grand axe de l’orbite décrite et de la distance de la Terre à l’étoile double observée. Le rapport des masses est obtenu par la mesure de la vitesse radiale des deux étoiles de la binaire. La connaissance de la somme et du rapport des masses permet de calculer la masse de chaque étoile. C’est la technique la plus précise.
+D’autres estimations sont possibles pour des étoiles non binaires (simples) en utilisant la détermination spectroscopique de la gravité de surface et la mesure du rayon de l’étoile par interférométrie. Enfin, si l’étoile est observée de façon précise en photométrie et si sa distance, sa composition chimique et sa température effective sont connues, il est possible de la positionner dans un diagramme de Hertzsprung-Russell (noté HR) qui donne immédiatement la masse et l’âge de l’étoile (Théorème de Vogt-Russell).
+
+
+=== Diamètre ===
+
+Comparativement à notre planète (12 756 km de diamètre), les étoiles sont gigantesques : le Soleil a un diamètre d’environ un million et demi de kilomètres et certaines étoiles (comme Antarès ou Bételgeuse) ont un diamètre des centaines de fois supérieur à ce dernier.
+Le diamètre d’une étoile n’est pas constant dans le temps : il varie en fonction de son stade d’évolution. Il peut aussi varier régulièrement pour les étoiles variables périodiques (RR Lyrae, Céphéides, Miras, etc.).
+Des interféromètres comme celui du VLT de l’ESO au Chili ou CHARA en Californie permettent la mesure directe du diamètre des étoiles les plus proches.
+
+
+=== Composition chimique ===
+La composition chimique de la matière d’une étoile ou d’un gaz dans l’Univers est généralement décrit par trois quantités en nombre de masse : X l’hydrogène, Y l’hélium et Z la métallicité. Ce sont des grandeurs proportionnelles satisfaisant la relation : X + Y + Z = 1.
+
+
+==== Métallicité ====
+La métallicité est la quantité (mesurée en nombre, ou généralement par masse) des éléments plus lourds que l’hélium présents dans l’étoile (ou plutôt sa surface). Le Soleil possède une métallicité (notée Z) de 0,02 : 2 % de la masse du Soleil est composée d’éléments qui ne sont ni de l’hydrogène, ni de l’hélium. Pour le Soleil, ce sont principalement du carbone, de l’oxygène, de l’azote et du fer. Bien que cela semble faible, ces deux pour cent sont pourtant très importants pour évaluer l’opacité de la matière de l’étoile, qu’elle soit interne ou dans son atmosphère. Cette opacité contribue à la couleur, à la luminosité et à l’âge de l’étoile (voir diagramme de Hertzsprung-Russell et théorème de Vogt-Russell).
+L’opacité est directement liée à la capacité de l’étoile à produire un vent stellaire (cas extrême des étoiles Wolf-Rayet).
+
+
+=== Magnitude ===
+La magnitude mesure la luminosité d’une étoile ; c’est une échelle logarithmique de son flux radiatif. La magnitude apparente dans un filtre donné (ex. le visible noté mv), qui dépend de la distance entre l’étoile et l’observateur, se distingue de la magnitude absolue, qui est la magnitude de l’étoile si celle-ci était arbitrairement placée à 10 parsecs de l’observateur. La magnitude absolue est directement liée à la luminosité de l’étoile à condition de tenir compte d’une correction dite bolométrique (on la note BC). L’introduction de l’échelle logarithmique des magnitudes vient du fait que l’œil possède une sensibilité également logarithmique, en première approximation (loi de Pogson).
+
+
+=== Température et couleur ===
+La plupart des étoiles paraissent blanches à l’œil nu, parce que la sensibilité de l’œil est maximale autour du jaune. Mais si nous regardons attentivement, nous pouvons noter que de nombreuses couleurs sont représentées : bleu, jaune, rouge (les étoiles vertes n’existent pas). L’origine de ces couleurs resta longtemps un mystère jusqu’à il y a deux siècles, quand les physiciens eurent suffisamment de compréhension sur la nature de la lumière et les propriétés de la matière aux très hautes températures.
+
+La couleur permet de classifier les étoiles suivant leur type spectral (qui est en rapport avec la température de l’étoile). Les types spectraux vont du plus violet au plus rouge, c’est-à-dire du plus chaud vers le plus froid. Ils sont classés par les lettres O B A F G K M. Le Soleil, par exemple, est de type spectral G.
+Mais il ne suffit pas de caractériser une étoile par sa couleur (son type spectral), il faut aussi mesurer sa luminosité. En fait, pour un type spectral donné, la taille de l’étoile est corrélée à sa luminosité, la luminosité étant fonction de la surface — et donc de la taille de l’étoile.
+Les étoiles O et B sont bleues à l’œil comme β Orionis (Rigel) ; les étoiles A sont blanches comme α Canis Majoris (Sirius) ou α Lyrae (Véga) ; les étoiles F et G sont jaunes, comme le Soleil ; les étoiles K sont orange comme α Bootis (Arcturus) ; et enfin les étoiles M sont rouges comme α Orionis (Bételgeuse).
+On peut définir un indice de couleur, correspondant à la différence de flux photométrique dans deux bandes spectrales dites bandes photométriques (les filtres). Par exemple, le bleu (B) et le visible (V) formeront ensemble l’indice de couleur B-V dont la variation est reliée à la température de surface de l’étoile et donc à son type spectral. Les indices de température les plus utilisés sont le B-V, le R-I et le V-I car ce sont les plus sensibles à la variation de la température.
+
+
+=== Vitesse de rotation ===
+
+La rotation du Soleil a été mise en évidence grâce au déplacement des taches solaires. Pour les autres étoiles, la mesure de cette vitesse de rotation (plus précisément, la vitesse mesurée est la projection de la vitesse de rotation équatoriale sur la ligne de visée), s’obtient par spectroscopie. Elle se traduit par un élargissement des raies spectrales.
+Ce mouvement de rotation stellaire est un reliquat de leur formation à partir de l’effondrement du nuage de gaz. La vitesse de rotation dépend de leur âge : elle diminue au cours du temps, sous les effets conjugués du vent stellaire et du champ magnétique qui emportent une partie du moment cinétique de l’astre. Cette vitesse dépend également de leur masse et de leur statut d’étoile simple, binaire ou multiple. Une étoile n’étant pas un corps solide (c’est-à-dire rigide), elle est animée d’une rotation différentielle : la vitesse de rotation dépend de la latitude.
+En 2011, le Very Large Telescope découvre VFTS 102 (en), l’étoile à la plus grande vitesse de rotation jamais observée (seuls les pulsars peuvent tourner beaucoup plus rapidement), soit plus de deux millions de kilomètres par heure.
+
+
+=== Spectre radiatif ===
+Le spectre d’une source lumineuse et donc d’une étoile est obtenu par des spectrographes qui décomposent la lumière en ses différentes composantes et les enregistrent par le biais de détecteurs (historiquement, des plaques photographiques et aujourd’hui des détecteurs de type CCD). Cette décomposition de la lumière révèle la distribution de l’énergie lumineuse venant de l’étoile en fonction de la longueur d'onde. Elle permet de mettre en évidence des raies spectrales en émission et/ou en absorption révélant les conditions de température, de pression et d’abondances chimiques des couches externes de l’étoile.
+
+
+=== Champ magnétique ===
+
+Comme le Soleil, les étoiles sont souvent dotées de champs magnétiques. Leur champ magnétique peut avoir une géométrie relativement simple et bien organisée, ressemblant au champ d’un aimant comme le champ magnétique terrestre ; cette géométrie peut être aussi nettement plus complexe et présenter des arches à plus petite échelle. Le champ magnétique du Soleil, par exemple, possède ces deux aspects ; sa composante à grande échelle structure la couronne solaire et est visible lors des éclipses, tandis que sa composante à plus petite échelle est liée aux taches sombres qui maculent sa surface et dans lesquelles les arches magnétiques sont ancrées.
+Il est possible de mesurer le champ magnétique des étoiles à travers les perturbations que ce champ induit sur les raies spectrales formées dans l’atmosphère de l’étoile (l’effet Zeeman). La technique tomographique d’imagerie Zeeman-Doppler permet en particulier de déduire la géométrie des arches géantes que le champ magnétique dresse à la surface des étoiles.
+Parmi les étoiles magnétiques, on distingue d’abord les étoiles dites « froides » ou peu massives, dont la température de surface est inférieure à 6 500 K et dont la masse ne dépasse pas 1,5 masse solaire - le Soleil fait donc partie de cette classe. Ces étoiles sont « actives », c’est-à-dire qu’elles sont le siège d’un certain nombre de phénomènes énergétiques liés au champ magnétique, par exemple la production d’une couronne, d’un vent (dit vent solaire dans le cas du Soleil) ou d’éruptions. Les taches à la surface du Soleil et des étoiles témoignent également de leur activité ; comme les champs magnétiques, les taches des étoiles peuvent être cartographiées par des méthodes tomographiques. La taille et le nombre de ces taches dépendent de l’activité de l’étoile, elle-même fonction de la vitesse de rotation de l’étoile. Le Soleil, qui effectue un tour complet sur lui-même en 25 jours environ, est une étoile ayant une faible activité cyclique. Le champ magnétique de ces étoiles est produit par effet dynamo.
+Il existe aussi des étoiles chaudes magnétiques. Mais contrairement aux étoiles froides, qui sont toutes magnétiques (à différents degrés), seule une petite fraction (entre 5 et 10 %) des étoiles chaudes (massives) possède un champ magnétique, dont la géométrie est en général assez simple. Ce champ n’est pas produit par effet dynamo ; il constituerait plutôt une empreinte fossile du magnétisme interstellaire primordial, capturé par le nuage qui va donner naissance à l’étoile et amplifié lors de la contraction de ce nuage en étoile. De tels champs magnétiques ont été baptisés « champs magnétiques fossiles ».
+
+
+== Structure d’une étoile ==
+À partir des différentes grandeurs mesurées et de simulations issues de différents modèles, il est possible de construire une image de l’intérieur d’une étoile, bien qu’il nous soit presque inaccessible — l’astérosismologie permettant littéralement de sonder les étoiles.
+En l’état actuel de nos connaissances, une étoile est structurée en différentes régions concentriques, décrites ci-après à partir du centre.
+
+
+=== Noyau ===
+Le noyau (ou cœur) est la partie centrale de l’étoile, concentrant une grande partie de la masse de l’astre, dans laquelle se déroulent les réactions thermonucléaires qui dégagent l’énergie nécessaire à sa stabilité. Le noyau est la zone la plus dense et la plus chaude, et, dans le cas du Soleil, atteint la température de 15,7 millions de kelvins. Dans ces conditions extrêmes, la matière se trouve sous forme de plasma ; par effet tunnel, les noyaux d’hydrogène (protons) ou d’autres éléments chimiques atteignent des vitesses leur permettant de vaincre leur répulsion électrique et de fusionner : par exemple, dans les chaines nucléaires dites proton-proton (ou PP1, PP2…), les protons fusionnent par groupe de quatre pour donner un noyau d’hélium, composé de deux protons et de deux neutrons. Il se produit alors un dégagement d’énergie selon les réactions suivantes :
+2 (1H + 1H → 2D + e+ + νe) (4,0 MeV + 1,0 MeV)
+2 (1H + 2D → 3He + γ) (5,5 MeV)
+3He + 3He → 4He + 1H + 1H (12,86 MeV).
+D’autres réactions thermonucléaires existent dans le centre des étoiles et contribuent plus ou moins à la production d’énergie.
+Une partie de l’énergie dégagée sous forme de photons commence alors un long voyage vers l’extérieur, car un plasma est opaque et la lumière y voyage très difficilement. On estime qu’un photon met plusieurs millions d’années avant d’atteindre la surface de l’étoile par transfert de rayonnement puis par convection vers la surface.
+
+
+=== Zone radiative ===
+L’énergie libérée par les réactions de fusions nucléaires dans le noyau de l’étoile se transmet aux couches externes par rayonnement. Dans les étoiles peu massives et évoluant sur la séquence principale, cette zone radiative est surmontée d’une zone convective externe ; dans les naines rouges, la zone radiative a entièrement disparu au profit de la zone convective. Dans le Soleil, le rayonnement produit dans la partie centrale met près d’un million d’années à traverser la zone radiative.
+
+
+=== Zone convective ===
+Au contraire de la zone précédente, l’énergie se transmet par des mouvements macroscopiques de matière : chauffée à la base de la couche convective, la matière s’élève sous l’effet de la poussée d'Archimède, réchauffe la matière alentour (vers la surface), se refroidit et plonge vers la base de la zone convective pour un nouveau cycle. C’est le principe de la convection. Cette zone convective est plus ou moins grande : pour une étoile sur la séquence principale, elle dépend de la masse et de la composition chimique ; pour une géante, elle est très développée et occupe un pourcentage important du volume de l’étoile ; pour une supergéante, cette zone peut atteindre les trois quarts du volume de l’étoile, comme pour Bételgeuse. Dans les étoiles de très faible masse (naines rouges) ou dans les protoétoiles en formation de faible masse (étoiles T Tauri), la zone convective occupe la totalité du volume de l’étoile ; dans les étoiles plus massives que deux fois la masse du Soleil, la zone convective externe disparaît (laissant la place à la zone radiative) mais la convection subsiste au cœur de l’étoile.
+C’est dans la zone convective externe que sont produits les champs magnétiques de type dynamo des étoiles froides comme le Soleil et les naines rouges.
+
+
+=== Photosphère ===
+La photosphère est la partie externe de l’étoile qui produit la lumière visible. Elle est plus ou moins étendue : de moins de 1 % du rayon pour les étoiles naines (quelques centaines de kilomètres) à quelques dixièmes du rayon de l’étoile pour les géantes les plus grandes. La lumière qui y est produite contient toutes les informations sur la température, la gravité de surface et la composition chimique de l’étoile. Pour le Soleil, la photosphère a une épaisseur d’environ 400 kilomètres.
+
+
+=== Couronne ===
+La couronne est la zone externe, ténue et extrêmement chaude du Soleil. Elle est due à la présence d’un champ magnétique, produit dans la zone convective ; on peut l’observer lors des éclipses de Soleil. C’est grâce à l’étude de la couronne au XIXe siècle que l’astronome Jules Janssen a découvert l’existence du gaz rare dont le nom fait référence au Soleil (Hélios) : l’hélium. Le fait que la température de la couronne atteigne plusieurs millions de degrés est un problème théorique difficile et non encore complètement résolu. Il est probable que la plupart des étoiles de faible masse (contenant une zone convective externe) possèdent des champs magnétiques et donc des couronnes.
+
+
+=== Théorème de Vogt et Russell ===
+Le théorème de Vogt-Russell peut s’énoncer ainsi : si en tous points d’une étoile la connaissance des valeurs de la température, de la densité et de la composition chimique du plasma interne sont suffisantes pour calculer la pression, l’opacité du plasma et le taux d’énergie produit, alors la masse et la composition chimique de l’étoile sont suffisantes pour décrire la structure de celle-ci. Il en résulte les relations masse-rayon ou masse-luminosité des étoiles.
+
+
+== Évolution ==
+
+L’histoire d’une étoile est entièrement déterminée par sa masse M et sa composition chimique X, Y, Z (théorème de Vogt et Russell). M détermine sa durée d’existence, et conditionne sa fin. L’évolution d’une étoile passe par plusieurs phases, la première est la phase naine ou séquence principale, la seconde est la phase géante puis supergéante pour terminer par la phase finale telle une supernova ou une nébuleuse planétaire.
+
+
+=== Formation ===
+
+Une étoile nait de la contraction d’un nuage riche en hydrogène. Sous l’influence d’une onde de densité (bras de galaxie), d’une onde de choc (supernova ou nova proche), ou d’une fluctuation de densité au sein de celui-ci, une région commence à se contracter. Par un effet boule de neige, cette région, de plus en plus dense attire à elle de plus en plus de gaz. La contraction du gaz entraine son échauffement : la proto-étoile rayonne (dans l’infrarouge). Ce rayonnement ralentit par pression de radiation, mais n’interrompt pas, l’inexorable action de la gravitation. Si l’échauffement est suffisant, il peut initier des réactions nucléaires au cœur du nuage. L’énergie dégagée par ces réactions arrête la contraction du fait de la pression de radiation ainsi générée.
+Les étoiles sont formées à partir de gaz et de poussières en suspension dans la galaxie. Au début de la formation d'une étoile, ceux-ci s'unissent pour former des petits nuages. Pendant des milliers d'années, ils sont poussés à se rassembler grâce à la force gravitationnelle. En se contractant, les petits nuages forment les étoiles, les planètes ainsi que les galaxies. Au début, la température dans ces nuages est très basse, mais quand la gravitation les fragmente et les compresse, la température augmente. Au bout de quelques milliers d'années, le nuage prend la forme d'un disque aplati. La haute température qu'a engendré la forte pression gravitationnelle fait fondre le centre du disque qui se transforme en sphère dont la température atteint deux millions de degrés. C'est ce qu'on appelle une protoétoile. Dix millions d'années plus tard, le noyau d'hydrogène de la nouvelle étoile atteint dix-huit millions de degrés. Le noyau devient tellement chaud que les petits atomes d'hydrogène se déplacent rapidement, entrent en collision, et forment de l'hélium. Lorsqu'on augmente la température et que les électrons se détachent du noyau, nous considérons que l'étoile est sous forme de plasma. Les étoiles sont sans cesse soumises à la force gravitationnelle qui tente de les broyer. Pour compenser cette force, les atomes qui bougent rapidement (grâce à la haute température) cognent sur la paroi intérieure de l'étoile, ce qui équilibre les forces. Si la gravité domine, l'étoile se refermera sur elle-même jusqu'à atteindre une grande densité instable. Cette instabilité causera une supernova (mort de l'étoile).
+
+
+=== Séquence principale ===
+
+Sous l’effet de la contraction, le noyau de l’étoile (sa partie centrale) atteint des valeurs de pression et de température extrêmes, qui vont jusqu’à l’allumage des réactions thermonucléaires (voir plus haut). L’étoile entre alors dans ce qu’on appelle la séquence principale, période pendant laquelle son noyau, initialement et essentiellement constitué d’hydrogène et d’hélium, va progressivement se transformer en hélium.
+Durant cette période, l’antagonisme énergie libérée / gravitation concourt à la stabilité de l’astre :
+Si le flux d’énergie venant du noyau vient à diminuer, la contraction qui s’ensuit accélère le rythme de production d’énergie qui stoppe la contraction ; inversement, un emballement de la production d’énergie entraîne une dilatation de l’étoile, donc son refroidissement, et l’emballement s’arrête. Ainsi, il en résulte une grande stabilité de l’étoile qui est décrite dans la théorie de la structure interne stellaire sous l’appellation « pic de Gamow »[réf. à confirmer] : c’est une sorte de thermostat stellaire.
+
+
+=== Fin d’une étoile ===
+
+Plus une étoile est massive, plus elle consomme rapidement son hydrogène. Une grosse étoile sera donc très brillante, mais aura une courte durée de vie. Lorsque le combustible nucléaire se fait trop rare dans le noyau de l’étoile, les réactions de fusion s’arrêtent. La pression créée par ces réactions ne compensant plus les forces de gravitation, l’étoile s’effondre sur elle-même. Plus une étoile est grosse, plus la fin de son existence sera cataclysmique, pouvant aller jusqu’à prendre la forme d’une gigantesque explosion (supernova, voire hypernova) suivie de la formation d’une étoile à neutrons (pulsar, magnétar, etc.) voire dans les cas extrêmes (selon la masse de l’étoile) d’un trou noir.
+
+
+== Types d’étoiles ==
+Les astronomes classent les étoiles en utilisant la température effective et la luminosité. Cette classification à deux paramètres permet de définir des types spectraux (luminosité) variant de VI à I, les naines étant classées V. Le Soleil est de classe V. Parmi ces classes on distingue différentes catégories liées à la température de surface.
+Par exemple les : naines brunes, naines rouges, naines jaunes, géantes rouges, géantes bleues, supergéantes rouges, naines blanches, étoiles à neutrons et trous noirs. Si la plupart des étoiles se placent facilement dans l’une ou l’autre de ces catégories, il faut garder en tête qu’il ne s’agit que de phases temporaires. Au cours de son existence, une étoile change de forme et de couleur, et peut passer d’une catégorie à une autre.
+
+
+=== Naines brunes ===
+
+Les naines brunes ne sont pas des étoiles, mais des objets substellaires qualifiés parfois d'« étoiles manquées ». Leur masse est située entre celles des petites étoiles et des grosses planètes. En effet, au moins 0,08 masse solaire est nécessaire pour qu’une proto-étoile amorce des réactions thermonucléaires et devienne une véritable étoile. Les naines brunes ne sont pas suffisamment massives pour démarrer ces réactions. Elles peuvent rayonner cependant faiblement par contraction gravitationnelle.
+
+
+=== Naines rouges ===
+
+Les naines rouges sont de petites étoiles rouges. On les considère comme les plus petites étoiles en tant que telles. Les astres plus petits comme les naines blanches, les étoiles à neutrons et les naines brunes ne consomment pas de carburant nucléaire. La masse des naines rouges est comprise entre 0,08 et 0,8 masse solaire. Leur température de surface entre 2 500 et 5 000 K leur confère une couleur rouge. Les moins massives d’entre elles (au-dessous de 0,35 masse solaire environ) sont entièrement convectives. Ces étoiles brûlent lentement leur carburant, ce qui leur assure une très longue existence. Elles sont les plus abondantes : au moins 80 % des étoiles de notre Galaxie sont des naines rouges.
+La plus proche voisine du Soleil, Proxima du Centaure, en est une. Il en est de même du second système stellaire le plus proche du Système solaire, l’étoile de Barnard étant aussi une naine rouge.
+
+
+=== Naines jaunes ===
+
+Les naines jaunes sont des étoiles de taille moyenne — les astronomes ne classent les étoiles qu’en naines ou en géantes. Leur température de surface est d’environ 6 000 K et elles brillent d’un jaune vif, presque blanc. À la fin de son existence, une naine jaune évolue en géante rouge, qui en expulsant ses couches externes — déployant alors une nébuleuse planétaire —, dévoile une naine blanche.
+Le Soleil est une naine jaune typique.
+
+
+=== Géantes rouges ===
+
+La phase géante rouge annonce la fin d’existence de l’étoile, qui atteint ce stade lorsque son noyau a épuisé son principal carburant, l’hydrogène : des réactions de fusion de l’hélium se déclenchent, tandis que le centre de l’étoile se contracte, et que ses couches externes gonflent, refroidissent et rougissent. Transformé en carbone et en oxygène, l’hélium s’épuise à son tour et l’étoile s’éteint. Les couches externes de l’astre s’éloignent et son centre se contracte, dévoilant une naine blanche.
+
+
+=== Géantes bleues et supergéantes rouges ===
+
+Sur le diagramme HR, le coin supérieur gauche est occupé par des étoiles très chaudes et brillantes : les géantes bleues. Ces étoiles très massives, au moins dix fois plus grosses que le Soleil, consomment rapidement leur hydrogène.
+Lorsque le noyau d’une géante bleue ne contient plus d’hydrogène, la fusion de l’hélium prend le relais. Ses couches externes enflent et sa température de surface diminue. Elle devient alors une supergéante rouge.
+L’étoile fabrique ensuite des éléments de plus en plus lourds : fer, nickel, chrome, cobalt, titane… À ce stade, les réactions de fusion s’arrêtent et l’étoile devient instable. Elle explose en une supernova et laisse derrière elle un étrange noyau de matière qui demeurera intact et qui deviendra, selon sa masse, une étoile à neutrons ou un trou noir.
+
+
+=== Naines blanches ===
+
+Les naines blanches sont les résidus de l’évolution des étoiles de faible masse (entre ~0,8 et ~5 à 8 masses solaires). Le Soleil ayant (par définition) une masse d’une masse solaire, il finira aussi en naine blanche. Les naines blanches sont des étoiles « mortes » puisqu’elles ne sont plus le lieu de réactions thermonucléaires produisant de la chaleur. Cependant, elles sont initialement très chaudes et de couleur relativement blanche (voir Loi de Wien). Petit à petit, elles se refroidissent par rayonnement, pour devenir des astres froids. Leur taille est environ égale à celle de la Terre.
+Les naines blanches, comme les étoiles à neutrons sont constituées de matière dégénérée. La densité moyenne d’une naine blanche est telle qu’une cuillère à thé de matière d’une telle étoile aurait, sur Terre, le poids d’un éléphant, soit environ 1 t·cm-3. En fait, dans cette matière, les électrons, étant très proches les uns des autres, commencent alors à se repousser énergiquement. Le facteur principal de la pression provient alors du principe d'exclusion de Pauli ; c’est la pression de dégénérescence qui s’oppose à celle de la gravitation. La naine blanche est donc en équilibre malgré l’absence de fusion nucléaire en son noyau. La pression des électrons peut supporter une masse de 1,44 fois celle du Soleil : c’est la limite de Chandrasekhar.
+Si une naine blanche devient plus massive (en aspirant la matière d’une autre étoile, par exemple), elle explose en supernova et est largement pulvérisée en n

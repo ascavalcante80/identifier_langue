@@ -1,0 +1,55 @@
+Work breakdown structure často zkracovaný jako WBS je dokument používaný v projektovém managementu. Obsahuje hierarchický rozklad cíle projektu (předmětu plnění projektu) na jednotlivé dodávané výsledky a dále postupně na jednotlivé produkty a podprodukty až na úroveň jednotlivých pracovních balíků, které musí být vytvořeny v průběhu projektu.
+
+Pojem WBS nemá jednoznačně přijímaný český překlad. Používá se pojem Hierarchická struktura prací nebo Hierarchická struktura činností, který ale může být zavádějící.  Ani v anglických zdrojích není terminologie zcela ustálená. Objevuje se i pojem Scope Breakdown structure (zkratka SBS). Tento název z faktického pohledu popisuje princip tohoto dokumentu a techniky jeho tvorby výstižněji, ale je používán mnohem méně a jeho zkratka má mnoho dalších významů. V dalším textu je používána ustálená zkratka WBS.
+
+
+== Přehled ==
+WBS je používán v projektovém managementu a systémovém inženýrství k rozložení dodávky, nebo cíle projektu na jednotlivé dodávané produkty. Tato technika pomáhá stanovit předem náklady a sledovat postup naplňování dodávky.
+Rozpad dodávky / cíle projektu je vytvářen postupně na podrobnější a podrobnější elementy ve stromové struktuře. Jednotlivými elementy rozpadu jsou vždy produkty nebo výsledky činností. Nikdy ne činnost jako taková. Některé zdroje tuto významnou skutečnost neuvádí správně.
+WBS musí vždy pokrýt celý cíl projektu. WBS neřeší časové závislosti mezi svými jednotlivými elementy.
+Hloubka rozpadu cíle není metodou stanovena taxativně. V různých větvích rozpadového stromu se může hloubka rozpadu lišit. Cílem je definovat tak malé elementy (pracovní balíky, nebo produkty) které již lze smysluplně ohodnotit tak, že to odpovídá účelu, pro který je WBS v daný okamžik vytvářena. Ohodnocení elementů WBS je prováděno z pohledu potřeby času, finančních nákladů a dalších zdrojů projektu nutných pro realizaci dodávky.
+
+
+== Historie ==
+Koncept WBS byl vyvinut ve Spojených státech pro Ministerstvo obrany v rámci Program Evaluation and Review Technique (PERT). PERT byl zaveden americkým námořnictvem v roce 1957 v rámci rozvoje raketového programu Polaris. V té době nebyl ještě používán pojem WBS, ale šlo již o koncept rozpadu cíle do produktově orientovaných kategorií.
+V roce 1987, Project Management Institute (PMI) dokumentoval rozšíření této techniky i pro obecnější použití.
+
+
+== Principy tvorby WBS ==
+
+
+=== Pravidlo 100 % ===
+Jde o základní princip vytváření WBS. Tímto se stanovuje, že WBS obsahuje 100 % definovaného cíle a zachycuje všechny dodávky - vnitřní, vnější i prozatímní - z hlediska práce která musí být vykonána.
+Pravidlo se vztahuje na všechny úrovně v rámci hierarchie. Tedy součet koncových elementů se musí rovnat 100 % kořenového elementu rozpadového stromu. To znamená i to, že WBS nemá obsahovat ani nic navíc. Tedy nesmí obsahovat více než 100 % dodávky.
+
+
+==== Podmínka nepřekrývání obsahu elementů ====
+Pravidlo 100 % doplňuje podmínka, že ve WBS nesmí docházet k překrývání obsahu mezi dvěma prvky WBS, které jsou v různých větvích stromu. Taková dvojznačnost by mohla vést k duplicitní práci, nebo chybám v důsledku překrývání odpovědnosti a autority. Důsledkem takového překrývání mohou být i chyby při kalkulaci nákladů.
+
+
+=== Plánování výstupů, ne činností ===
+WBS nesmí řešit, jak je daného cíle dosaženo. Prvky WBS musí vždy představovat výsledky a ne akce, které vedou k jejich vytvoření. Tím je zaručeno, že WBS neomezuje vynalézavost a tvůrčí myšlení účastníků projektu.
+
+
+=== Úroveň detailů ===
+Metoda sama nestanovuje přesně počet úrovní pro strom rozpadu, ani úroveň detailu nejmenších prvků rozpadu. Pokud bude několik týmů nezávisle na sobě vytvářet WBS pro stejnou dodávku, jejich výsledné WBS nebudou totožné. 
+Existuje několik heuristických pravidel nebo doporučení, které pomáhají indikovat, že úroveň rozpadu cíle je již dostatečná.
+„Pravidlo 80 hodin“ říká, že úsilí pro dodání koncového elementu by nemělo být větší než 80 hodin.
+Žádná aktivita by neměla být delší než je jedno dohodnuté vykazované období.
+Pravidlo smysluplnosti říká, že je nutno posoudit smysluplnost dalšího rozdělení pomocí „zdravého rozumu“.
+Prvek nejnižší úrovně WBS (pracovní balíček):
+lze odhadnout s přijatelnou mírou rizika,
+nemá smysl dále rozkládat,
+může být dokončen v souladu s jedním z výše uvedených heuristických pravidel,
+jeho vytvoření je měřitelné a
+tvoří soubor prací, které mohou být vytvořeny externě nebo na základě smlouvy.
+
+
+== Způsob označování ==
+Obvykle jsou prvky stromové struktury WBS označovány číselným kódováním. Prvky každé úrovně jsou označeny kódem úrovně, ze které jsou vytvářeny a vlastním pořadovým číslem v rámci svého předchůdce ve stromu odděleným tečkou.
+Cílem číslování je umožnit jednoznačnou identifikaci každého prvku WBS, usnadnit jejich nalezení ve struktuře. Metoda také definuje jednotný přístup, který je platný bez ohledu na tvůrce konkrétní WBS.
+Potom lze z příkladu uvedeného níže rozpoznat podle označení 1.1.2 Sedlo poznat, že jde o druhý prvek ze třetí úrovně WBS, protože jde o tři čísla oddělená tečkou.
+
+
+== Příklad ==
+Příklad ukazuje část jednoduché WBS pro projekt jízdního kola na zakázku. Jedná se o příklad, forma zápisu WBS není jednoznačně dána. Použití

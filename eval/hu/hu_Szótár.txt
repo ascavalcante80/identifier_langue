@@ -1,0 +1,42 @@
+ szó szófaját, a szó kifejezésekben való előfordulásait, a szó képzett alakjait, a szó vonzatait, a szó stiláris, használati jellemzőit, besorolását, továbbá esetlegesen a szó szinonimáit, a szóhoz alá- és fölé rendelt kapcsolatban tartozó más szavakat (akár a definíció részeként, vagy a szó faj és nem viszonyait), és a szó szövegösszefüggéseit stb.
+Bár egy szótár forgatásának különböző okai lehetnek, ez a körülmény nem látszik a könyvalapú szótárakon. A magyar nyelv külföldi tanulójának nehézséget jelent egy magyar egynyelvű szótár, de kisebb a probléma egy magyar számára, ha egynyelvű angol szótárban kutat. A Longman Lexicon például azt is megadja egy szóval (szócikkfejjel) kapcsolatosan, hogy milyen mondattani szerkezetbe illik be a szó, vagyis melyek a közvetlen környezetébe tartozó szófajok (mondatrészek). Más nyelvben ragozott alakokat feltételezve ez nyilván sokkal bonyolultabb. Az angolban egyébként a legérdekesebb ilyen szerkesztésű szótár a Word Finder, amelyet egy újságíró készített, hogy változatosabbá tegye a szóhasználatot. Ő azt adja meg, hogy adott igének milyen főnevek lehetnek a tárgyai vagy az alanyai, vagy adott főnevek milyen más szavakkal alkothatnak jelzős szerkezetet stb.
+Mindenképp azt látszanak a mai technikák meghaladni, hogy csak egy szó legyen a keresés fókuszában, hogy csak egy szóra szűkítsük a fordítási problémát. Példádul a magyar éles szó különböző főnevekkel társulva arra mutat rá, hogy a két szó alapjelentését nem lehet külön-külön lefordítani, ismerni kell az "összetételt" is. (éles sarok, szög, kanyar, vita, nyelv, ész stb.)
+A szövegben ehhez magukat a szavakat kellett tudni kódolni mondattani és egyéb formai ismérvek szerint, és megszülettek azok a szövegleíró programnyelvek, amelyek ezeket a lehetőségeket megteremtik.
+
+
+== Kapcsolódó szócikkek ==
+
+
+== Jegyzetek és források ==
+
+
+=== Jegyzetek ===
+↑ Szótár-tündérmese (Nyest.hu, 2009. június 9.)
+
+
+== Külső hivatkozások ==
+Szótár.lap.hu - linkgyűjtemény
+
+
+=== Online szótárak ===
+szotar.com
+Magyar-angol szótár
+Angol-magyar szótár
+Genedict.net, régi latin, magyar, német és szlovák szótár
+Szótárs - Angol-Magyar, Magyar-Angol, Német-Magyar, Magyar-Német szótár
+Kétnyelvű internetes szótárak a SZTAKI honlapján
+Svéd-Magyar Magyar-Svéd online szótár a SVENOPUS honlapján
+Svéd-Magyar Magyar-Svéd online szótár a DICTZONE honlapján
+online szótárak a DICTZONE honlapján
+KirzeN - Multimédiás szótár 40 nyelven
+Deect - többnyelvű, fogalom-alapú szótár és nyelvtanulást segítő oldal
+orosz-magyar és magyar-orosz szótár
+Szotar.info: Angol - Magyar - Román interaktív szótár
+Angol-magyar és magyar-angol szótár, web és szövegfordítás
+Japán-Angol szótár beépített hiragana, katakana és kanji billentyűzettel
+MEK: kínai-magyar szótár
+www.dictionaries24.com/hu/
+
+
+=== Ajánlott irodalom ===
+Tóth Szergej, Földes Csaba, Fóris Ágota: Lexikológiai és lexikográfiai látkép: problémák, paradigmák, perspektívák. Szeged: Generalia 2004.

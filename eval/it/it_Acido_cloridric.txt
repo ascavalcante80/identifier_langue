@@ -1,0 +1,95 @@
+ circa 108 batteri del genere Vibrio per sviluppare il colera; viceversa, in presenza di acloridria, la carica necessaria per sviluppare colera si abbassa a 103-105.
+
+
+=== Armi chimiche ===
+Durante la Prima Guerra Mondiale, il fosgene (COCl2) venne utilizzato molto spesso come arma chimica. Il principale effetto di quest'arma è la dissoluzione del gas nella pleura, ove viene idrolizzato in acido carbonico e acido cloridrico. Quest'ultimo rompe le sottili membrane alveolari e i polmoni si riempiono di acido carbonico e la morte sopraggiunge per edema polmonare acuto.
+L'acido cloridrico è ritenuto responsabile degli effetti del gas mostarda, ove in presenza di acqua (nei polmoni o sugli occhi), reagisce formando acido cloridrico che ne corrode i tessuti.
+
+
+== Analisi ==
+La presenza di acido cloridrico può essere rilevata mediante semplici saggi qualitativi:
+cartina di tornasole per l'acidità
+nitrato d'argento: formazione di un precipitato bianco caseoso di AgCl che si scioglie in ammoniaca diluita.
+Quantitativamente viene misurato con titolazione acido-base.
+
+
+== Sicurezza ==
+
+
+=== Referenza UN per il trasporto di sostanze pericolose ===
+
+Ecco le referenze UN per il trasporto dell'acido cloridrico (UN significa United Nations, le norme in materia di trasporto di materie pericolose derivano dall'Orange Book di fonte ONU):
+In soluzione
+Classe: 8 (sostanze corrosive)
+Numero UN: 1789 (Acido cloridrico)
+Numero di identificazione del rischio (Numero Kemler): 80
+Anidro
+Classe: 2.3 + 8 (gas tossici) + (sostanze corrosive)
+Numero UN: 1050 (Acido cloridrico)
+Numero di identificazione del rischio (Numero Kemler): 68
+Liquefatto
+Classe: 2.3 + 8 (gas tossici) + (sostanze corrosive)
+Numero UN: 2186 (Acido cloridrico)
+Numero di identificazione del rischio (Numero Kemler): 268
+
+
+=== Precauzioni ===
+L'acido cloridrico, oltre ad essere abbastanza corrosivo se concentrato, è molto solubile in acqua con reazione esotermica; in forma concentrata può causare gravi ustioni per contatto con la pelle, specie se quest'ultima presenta lesioni.
+L'acido cloridrico ad elevate concentrazioni forma dei vapori acidi. Sia la soluzione che i vapori hanno effetti fortemente corrosivi sui tessuti, possono danneggiare l'apparato respiratorio, gli occhi, la pelle e l'apparato digerente.
+Il cloro, un gas estremamente tossico, viene prodotto quando l'acido cloridrico è mescolato con prodotti chimici ossidanti, come ipoclorito di sodio (NaClO) o permanganato di potassio (KMnO4).
+Per minimizzare i rischi che potrebbe procurare la manipolazione in laboratorio dell'acido cloridrico, bisogna prendere le opportune precauzioni. Per esempio, mai versare acqua nell'acido per evitare schizzi acidi, ma sempre versare l'acido nell'acqua. È comunque raccomandato portare occhiali protettivi, un camice abbottonato, guanti di sicurezza e stivali in gomma.
+In caso di contatto con la pelle o con gli occhi, è necessario immergere immediatamente e completamente la parte che è venuta a contatto con l'acido cloridrico in acqua abbondante.
+
+
+=== Rilascio nell'ambiente ===
+Nell'ambito della Toxics Release Inventory (TRI), è stato stimato che negli Stati Uniti il rilascio totale (in aria, nell'acqua, nel sottosuolo, ecc.) di acido cloridrico ammonti a più di 270 milioni di chilogrammi all'anno. Sempre secondo la stessa fonte, la maggior parte dell'acido cloridrico rilasciato (circa l'88,5%) riguarda i servizi elettrici.
+
+
+=== Incidenti ===
+Nel giugno del 2004 a New York un automezzo per la raccolta dei rifiuti utilizzato impropriamente per il trasporto di acido cloridrico ha riversato circa 38 litri di acido cloridrico, colpendo due uomini, dimessi dall'ospedale dopo un ricovero immediato.
+Nel maggio 2006, a seguito della corrosione del fondo di una nave cisterna, circa 20.000 litri di acido cloridrico si sono riversati a Saint Paul (Minnesota). Sette persone sono state colpite dalla nube di acido cloridrico che si è sprigionata dall'evento riportando danni agli occhi e alle vie respiratorie.
+Nel dicembre 2009 un operaio dello stabilimento di Terni della ThyssenKrupp è morto per aver inalato vapori di acido cloridrico durante le operazioni di travaso da una cisterna a delle taniche.
+
+
+== Note ==
+
+
+== Bibliografia ==
+Vittorio Villavecchia, Gino Eigenmann, Nuovo dizionario di merceologia e chimica applicata, Hoepli editore, 1982, ISBN 88-203-0528-3.
+W. Büchner, R. Schliebs; G. Winter; K.H. Büchel, Chimica inorganica industriale, Piccin, ISBN 88-299-1348-0.
+Michele Giua, Chimica industriale, USES, 1975.
+Chemicals Economics Handbook, Hydrochloric Acid, SRI International, 2001, p. 733.4000A-733.3003F
+Van Dorst, W.C.A., et al., technical product brochure Hydrochloric Acid, Akzo Nobel Base Chemicals, 2004 (public document)
+Van Dorst, W.C.A., various technical papers, Akzo Nobel Base Chemicals, 1996-2002 (not for open publication)
+Lide, David, NIST, CRC Handbook of Chemistry and Physics, CRC Press, 61st edition, 1980-1981
+Aspen Technology, Aspen Properties, binary mixtures modelling software, calculations by Akzo Nobel Engineering, 2002-2003
+Evison D, Hinsley D, Rice P. Chemical weapons. 2002;324(7333):332-5. PMID 11834561
+Arthur C., M.D. Guyton, John E. Hall, Textbook of Medical Physiology, W.B. Saunders Company; 10th edition (August 15, 2000), ISBN 0-7216-8677-X
+Greenwood, Norman N.; Earnshaw, A. (1997), Chemistry of the Elements (2nd ed.), Oxford: Butterworth-Heinemann, pp. 946–48, ISBN 0-7506-3365-4
+(EN) Robert Perry, Dow. W. Green, Perry's Chemical Engineers' Handbook, 8ª ed., McGraw-Hill Professional, 2007, ISBN 0-07-142294-3.
+(EN) Harold L. Kaplan, Antonio Anzueto, Walter G. Switzer, Robert K. Hinderer, Effects of hydrogen chloride on respiratory response and pulmonary function of the baboon, in Journal of Toxicology and Environmental Health, Parte A, vol. 23, nº 4, aprile 1988, pp. 473-493, DOI:10.1080/15287398809531129.
+(EN) Severin Austin, Arndt Glowacki, Ullmann's Encyclopedia of Industrial Chemistry, "Hydrochloric Acid", Wiley-VCH, 2000, DOI:10.1002/14356007.a13_283.
+(EN) Egon Wiberg, Nils Wiberg, Arnold Frederick Holleman, Inorganic chemistry, Academic Press, 2001, ISBN 0-12-352651-5.
+(EN) Assembly of Life Sciences (US). Committee on Medical and Biologic Effects of Environmental Pollutants, Chlorine and hydrogen chloride, National Academy of Sciences, 1976, ISBN 0-309-02519-2.
+
+
+== Voci correlate ==
+Acido
+Cloruro
+Ossicloruro di fosforo
+Pompa protonica
+
+
+== Altri progetti ==
+
+ Wikizionario contiene il lemma di dizionario «acido cloridrico»
+ Wikimedia Commons contiene immagini o altri file su acido cloridrico
+
+
+== Collegamenti esterni ==
+Acido cloridrico, in Tesauro del Nuovo soggettario, BNCF, marzo 2013.
+Preparazione dell'acido cloridrico
+(EN) International Chemical Safety Cards
+(FR) Fiche toxicologique de l’INRS
+(FR) Densités des solutions d'acide chlorhydrique (HCl aq) dans les CSTP de 0,36% à 40% en masse
+(EN) United States Patent US2196246, Manufacture of chemically pure hydrochloric acid (1937)

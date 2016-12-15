@@ -1,0 +1,225 @@
+Šah je strateška igra na kvadratičnoj šahovskoj tabli sa 64 kvadratna (crno - bijela) polja, na kojoj igrači pokušavaju da protivničkog kralja dovedu u mat poziciju. Tabla može biti od drveta, plastike, stakla ili metala, dok su figure najčešće od drveta ili plastike, mada se dekorativno izrađuju i od stakla, kamena ili metala. Šah se igra sa 16 figura. Jedan igrač vodi crne, a drugi bijele figure. Prvi potez povlači igrač sa bijelim figurama. Može se igrati bez sata (slobodne partije) ili da svaki igrač dobije određeno vrijeme, od jednog minuta do 3,5 sata za cijelu partiju (prema pravilima FIDE). Trenutni svjetski šahovski prvak je Magnus Carlsen sa rejtingom od 2881.
+
+
+== Općenito o šahu ==
+Po broju igrača organiziranih u šahovske klubove, i po broju publikacija, šah je ispred dame, mica, halme, pačizija, najpopularnija igra na ploči u Evropi. Igre slične šahu, kao kineski šah (Xiangqi), Shōgi i Makruk su popularne uglavnom u Istočnoj Aziji. U čitavom svijetu po istraživanju YouGov iz 2012. godine šah igra 605 miliona ljudi.
+Šah se igra, kako iz razonode, ali i u klubovima, na turnirima, svjetskim prvenstvima i šahovskim olmpijadama. Postoje i drugi vidovi igranja šaha, kao što su dopisni, online-šah, Email-šah, ali i šah protv kompjuterski razvijenih programa. Jedna od važnih grana šaha je problemski šah u kojem je cilj riješiti kompozicije i šahovske probleme, koje su razvijene od strane šahovskih stručnjaka.
+Pored goa, šah je jedna od najkompleksnijih igara. Broj mogućih kombinacija procjenjuje se na oko 2,28 · 1046. Već nakon dva poteza postoji 72.084 različitih situacija. Broj mogućih varijanti nakon toga je još mnogo veći: Nakon 40 poteza, procjenju se na 10115 do 10120 razvoja igre. Ovi se proračuni svode proračunom geometrijske sredine sa 30 mogućih polupoteza po položaju.
+U teoriji igre, šah se ubraja u tzv. igre nulte sume i u igre sa perfektnom informacijom. Teoretski se može izračunati, pri postavci da obojica igrača igraju perfektnu igru, da li će se igra završiti pobjedom bijelog, crnog ili remijem. Ali po trenutnim tehničkim mogućnostima, cjelokupni proračun još nije moguć. Rezultati sa šest ili djelomično sa sedam preostalih figura u završnici su proračunati i pohranjeni u banke podataka i pristupačni su u tzv. Tablebases
+Statistički gledano, zbog pravila o povlačenju prvog poteza, bijeli dobija češće nego crni (oko 54 %) Kvota remija svodi se na otprilike jednu trećinu, te sa ujednačenosti igrača tendira ka porastu.
+
+
+== Historija ==
+Izum šaha pripisuje se Legendi o zrnu pšenice. Navodni izumitelj šaha Sissa, zahtjevao je od svog gospodara, kao nagradu da sva 64 polja napuni zrnima pšenice i to tako, da na prvo polje postavi jedno zrno, na drugo dva, na treće četiri, a na svako slijedeće dvostruko više. Vladar se čudio njegovoj skromnosti, ali na kraju bi bilo potrebno 18 triliona (1018) zrna pšenice, što se ne bi moglo zadovoljiti sa svim žetvama pšenice do sada. Legenda jasno ocrtava problem eksponencijalne funkcije i njeno teško shvatanje u ljudskom racionalnom svijetu.
+
+
+== Pravila ==
+Šahovska tabla je prema igračima okrenuta, tako da sa strane svakog igrača dolje desno je jedno bijelo polje. Kod šahovskih tabli sa obilježenom notacijom, su vodoravni redovi od dolje prema gore brojevima od 1 do 8, a kolone su s lijeva na desno obilježene malim slovima od a do h.
+Osnovni položaj šahovskih figura bijelog igrača je od a1 do h1: Top, skakač, lovac, dama, kralj, lovac, skakač i top. Pješaci su poredani u drugom redu od a2 do h2. Za crnog vrijedi isti raspored od a8 do h8 i za pješake od a7 do h7, tako da je raspored figura na tabli simetričan. Latinski izraz za raspored šahovskih figura Regina regit colorem, onačava da svaka dama po svojoj boji, odgovara polju iste boje (Bijela dama - bijelo polje).
+
+
+=== Osnovni pojmovi ===
+
+
+=== Figure ===
+
+Na početku šahovske partije na šahovskoj tabli nalaze se 32 figure (16 bijelih i 16 crnih). Svaki igrač na raspolaganju ima slijedeće figure na raspolaganju: kralja, damu, dva topa, dva skakača, dva lovca i 8 pješaka. Dama i top pripadaju tzv. teškim figurama, dok su skakač i lovac lake figure.
+Da bi se vrijednost pojednih figura mogla utvrditi, ako protivničke strane imaju različit materijal na ploči, približna usporedba sa relativnom vrijednošću je moguća sa tzv. pješačkom jedinicom. Najčešće vrijednosti su:
+Skakač tri pješaka,
+Lovac tri pješaka,
+Top pet pješaka,
+Dama devet pješaka,
+Kako se vrijednost kralja, zbog osobine, da je jedina figura, koju nije moguće ukloniti sa table, kralj se ovim pravilom ne vrednuje, ali u zavšnici, je njegova vrijenost između jedne lake figure i topa. U programima za kompjuterski šah ove se približne vrijednosti prilagođavaju, te su u približnoj formi, sa malim promjenama slične.
+
+
+==== Kralj ====
+
+Kralj ♔, ♚ je najvažnija figura u šahu. Cilj igre jest zarobiti protivnikovog kralja tako da bijeg nije moguć (mat). Ako kralja napada neka figura, tj. ako mu prijeti uzimanjem, kaže se da je u šahu i igrač mora ukloniti tu prijetnju u idućem potezu. Ako se to ne može uraditi, kaže se da je kralj matiran. Iako je kralj najvažnija figura, obično je i najslabija u igri dok se ne dođe u završnicu. Oznaka kralja u algebarskoj notaciji je K.
+Kralj se na šahovskoj tabli, kreće vodoravno, okomito ili dijagonalno i to po jedno polje na susjedno polje u svim pravcima, ukoliko to polje nije zauzeto ili je napadnuto protivničkom figurom. Osim toga kralj se može na početnom redu pomjeriti rokadom, pod uslovom da između njih nije ni jedna figura. Osim toga ni kralj ni top ne smiju biti napadnuti, niti se rokada smije vršiti preko napadnutih polja.
+U otvaranju ili središnjici kralj će rijetko igrati aktivnu ulogu u razvijanju napadačkih ili odbrambenih pozicija. Igrač obično pokušava zaštititi kralja na ivici table, iza svojih pješaka. U završnici, međutim, kralj izlazi iz skrovišta i igra aktivnu ulogu kao napadačka figura i također se koristi da pomogne u promociji preostalih pješaka.
+Teško je procijeniti relativnu vrijednost kralja u odnosu na ostale figure jer ne može biti pojeden ili razmijenjen. U ovom smislu njegova vrijednost je beskonačna. Ali ako se procjenjuje kraljeva korisnost kao napadačke figure u završnici partije, često se smatra da je malo jači od lovca ili konja - Lasker mu je u djelu Lasker's Chess Primer dodijelio vrijednost skakača i pješaka (tj. 4 poena na skali relativne vrijednosti šahovskih figura). Bolji je od skakača u odbrani obližnjih pješaka, a bolji je od lovca u napadanju pješaka.
+
+
+==== Dama ====
+
+Dama (Kraljica) ♕ ♛ je najjača figura u šahu. Zajedno sa topom, pripada tzv. teškim figurama. Praktično su potezi dame kombinacija poteza lovca i topa. Oznaka dame u algebarskoj notaciji je D.
+Dama se u šahu može kretati u svakom pravcu, linearno ili dijagonalno, pod uslovom da ne preskače ni jednu figuru, do prvog slobodnog polja.
+Vrijednost dame po pravilu pješačke jedinice odgovara vrijednosti devet pješaka, te u zavisnosti od položaja i faze u igri, može se usporediti sa dva topa, zatim sa topom, lovcem i skakačem. Postoje mnogobrojne varijacije vrednovanja dame, koje su po skali relativne vrijednosti, u kompjuterskim programima razvijene u drugim srazmjerama.
+Pravila o igranju damom, su u šahovskoj literaturi mnogobrojna, mada se neka od najvažnijih:
+Damom se ne bi trebalo igrati u samom otvaranju, sve dok se pješaci i lake figure ne razviju u početnoj fazi, te obično nakon rokade aktivirati damu. Važan izuzetak od ovog pravila je Skandinavska odbrana, gdje je već drugi potez, potez damom.
+U središnjici partije, bi dama trebali biti centrirana, čime postiže najjači efekat. Treba težiti osvajanju slobodnih dijagonala i redova, čime se protivničkim figurama smanjuje polje djelovanja. Dama je o ovoj fazi mogući cilj protivničkih figura, koje zbog dobre odbrane kralja, mogu napadom na damu, iznuditi njeno povlačenje. Česta taktička varijante je žrtva dame, kojom se može ostvariti velika materijana prednost ili u konačnici mat.
+Najveća prednost dame je u završnici partije, kada na tabli ostaje malo figura, te se pokretljivost dame prikazuje u punom efektu.
+
+
+==== Lovac ====
+
+Lovac ♗ ♝ je pored skakača duga laka figura u šahu. Svaki igrač na početku partije ima dva lovca. Jednog na crnom i jednog na vijelom polju. Lovac se kreće dijagonalno po šahovskoj tabli i u zavisnosti od početnog polja, kreće se po crnim ili po bijelim poljima, te se zbog položaja često nazivaju kraljev lovac i damin lovac. Lovac ne može preskakati druge figure. Oznaka lovaca u algebarskoj notaciji je L.
+Vrijednost lovca po pravilu pješačke jedinice odgovara vrijednosti tri pješaka (po Larryju Kaufmanu 3¼ pješaka), mada se često u literaturi nalazi vrijednost niža od tri pješaka. Postoje mnogobrojne varijacije vrednovanja lovca, koje su po skali relativne vrijednosti, u kompjuterskim programima razvijene u drugim srazmjerama. Posebno je vrijedna kombinacija dva lovca (tzv. lovački par), koja se u literaturi računa kao sedam pješaka (2 puta 3¼ za lovca i ½ za lovački par), odnosno, kao top i dva pješaka. U šahovskoj završnici, dva lovca i kralj, protiv kralja, znači siguran mat.
+Prednost lovca je u njegovoj pokretnosti, jer može u jednom potezu, ukoliko nema drugih figura, preči čitavu dijagonalu. Loš položaj lovca je, ako je opkoljen vlastitim pješacima, dok se dobar položaj lovca postiže fjanketom, čime kontrolišu središnja polja na šahovskoj tabli.
+
+
+==== Skakač ====
+
+Skakač (Konj) ♘ ♞ je pored lovca duga laka figura u šahu. Na početku partije svaki igrač ima dva skakača. Na šahovskoj se tabli nalaze između topa i lovca, te su pored pješaka, jedina figura sa kojom je moguće započeti šahovsko otvaranje. Skakač se kreće dva polja ravno, te jedno polje lijevo ili desno. Po definicije FIDE: Skakačem se može igrati na jedno od najbližih polja onom na kojem se nalazi, ali ne na istom redu, liniji ili dijagonali. Boja startnog i ciljnog polja, kod poteza skakačem uvijek je druge boje. Skakač može preskakati druge figure. Oznaka skakača u algebarskoj notaciji je S.
+Vrijednost skakača po pravilu pješačke jedinice odgovara vrijednosti tri pješaka (po Larryju Kaufmanu 3¼ pješaka), mada se često u literaturi nalazi vrijednost niža od tri pješaka. Postoje mnogobrojne varijacije vrednovanja skakača, koje su po skali relativne vrijednosti, u kompjuterskim programima razvijene u drugim srazmjerama. U pravilu vrijedi kao i lovac, mada je ta vrijednost relativna u odnosu na pješake, položaj, te faze igre (otvaranje, središnjica ili završnica). Dva skakača i kralj, protiv kralja u završnici, ne mogu matirati protivnika, osim ako slabiji protivnik, kao npr. u Trojicki liniji ima pješaka, koji nije mnogo napredovao. Skakač nije pokretna figura, te mu je najpovoljniji položaju u sredini ploče, od kuda, ima mogućnost premještanja na osam polja. Minimalan broj mogućih polja, sama dva, je u položaju skakača na ugaonim poljima.
+
+
+==== Top ====
+
+Top (Kula) ♖ ♜ je druga po jačini figura u šahu. Svaki igrač na početku partije ima dva topa. Jednog na lijevoj i jednog na desnoj strani table, te se po tome razlikuju kraljev top i damin top. Top se kreće okomito i vodoravno, neograničen broj polja pod uslovom, da mu ni jedna figura ne stoji na liniji kretanja. Jedini izuzetak su rokade (mala 0-0 i ili velika 0-0-0, gdje top preskače preko kralja, na polje do njega. Oznaka topa u algebarskoj notaciji je T.
+Vrijednost topa po pravilu pješačke jedinice odgovara vrijednosti pet pješaka. Postoje mnogobrojne varijacije vrednovanja topa, koje su po skali relativne vrijednosti, u kompjuterskim programima razvijene u drugim srazmjerama. U šahovskoj završnici, top i kralj, protiv kralja, mogu uvijek matirati protivničkog kralja. U standardnim okolnostima, top je mnogo jači od skakača i lovca, mada u početku partije, zbog svog zatvorenog položaja igra podređenu ulogu, te igra topom na početku partije nije efektivna i vrlo se rijetko koristi. Mada u zavisnosti od situacije, skakač i lovac, su jači od topa. Uzimanje topa, lovcem ili skakačem smatra se dobitkom materijala, dok se žrtva topa za laku figuru, može definisati kao kvalitetna žrtva, te se njome može zadobiti tempo, ili iznuditi dobru situaciju u završnici.
+
+
+==== Pješak ====
+
+Pješak ♙♟ je figura u šahu. Vrijedi za najmanje vrijednu figuru u šahu. Oznaka pješaka u algebarskoj notaciji je P, ali se oznaka obično izostavlja, te se pješak obilježava slovom početnog položaja (a-e)
+Pješak se u šahovskoj partiji kreće jedno polje naprijed, te je jedina šahovska figura, koja se ne može pomjerati unazad. Jedini izuzetak je, ako se pješak nalazi na početnom polju, može se premjestiti dva polja naprijed. Uzimanje pješakom vrši se dijagonalno naprijed, izuzev u slučaju, kada protivnički pješak preskoči branjeno polje, kada pješak uzima en passant.
+Kada pješak dosegne zadnji red, mora se promovirati u novu figuru, obično u damu, mada se u izuzetnim slučajevima može potpromovirati u topa, lovca ili skakača.
+Svaki igrač na početku partije ima na ploči osam pješaka, koji su poredani u drugom redu. U šahovskoj partiji pješaci pokazuju svoju snagu u slijedećim situacijama:
+ako su pokretni i nisu blokirani od protivničkih pješaka;
+ako su međusobno povezani u jaku liniju;
+ako su prodrli duboko u protivničko polje, te prijete promocijom na zadnjem redu.
+
+
+== Notacija ==
+
+Za notiranje poteza u šahovskoj partiji, danas je uobičajena algebarska notacija. Šahovska se tabla numeriše koordinatnim sistemom u kome se kolone obilježavaju malim slovima od a-h, a redovi brojevima 1-8. Samim tim se pojedino polje definiše kombinacijom slova i brojeva, a numeracija se vrši malim slovima (npr. a1, e4, h8)
+Pojedine figure u algebarskoj notaciji definišu se velikim početnim slovom:
+Bosanski jezik: K = kralj, D = dama, T = top, L = lovac, S = skakač
+Međunarodne oznake: K = kralj (King), Q = dama (Queen), R = top (Rook), B = lovac (Bishop), N = skakač (Knight). (Oznake u drugim jezicima, slijede ovo pravilo sa manjim izmjenama, koje su prouzrokovane specifičnostima drugih jezika)
+Oznaka P, kod pješaka se izostavlja;
+U proširenoj algebarskoj notaciji, bilježi se početno i završno polje, dok u skraćenoj notaciji, samo završno polje. Ukoliko na završno polje mogu doći dvije iste figure, onda se između oznake figure i završnog polja pribilježava kolona ili eventualno red startnog polja.
+Potezi figura na slobodno polje se označavaju oznakom -, potezi kojima se uzima protivnička figura sa x. Napad na kralja (šah), obilježava se sa +, mat sa ++ ili #. Promocija pješaka se označava velikim početnim slovom promovirane figure. Mala rokada obilježava se sa 0–0, a velika sa 0–0-0. Uzimanje pješaka, pješakom en passant, obilježava se dodatnom oznakom e.p.
+Ponuda remija, u notaciji obilježava se sa =.
+Nakon završene partije, u zapisnik, pobjeda bijelog se bilježi sa 1:0, a pobjeda crnog sa 0:1, dok se remi označava sa ½:½. Pobjeda bez borbe bilježi se sa +:−, odnosno sa −:+.
+Osim ovih, glavnih oznaka, u literaturi se često koriste i oznake za dobar potez (!), te za slab potez (?).
+
+
+=== Proširena algebarska notacija ===
+Proširena algebarska notacija je ranije češće korištena u literaturi, mada se i danas katkad koristi.
+Primjeri:
+
+
+=== Skraćena algebarska notacija ===
+U skraćenoj algebarska notaciji, početno polje se ne bilježi, osim u situaciji, kada je taj potez moguć sa drugom istom figurom, kada se pribilježava ili kolona ili red figura, kojom je potez odigran. Ovaj oblik notacije, je čest zbog svoje jednostavnost na turnirima, te polako prelazi i u šahovsku literaturi
+Primjeri:
+
+
+== Tunirska pravila ==
+
+Šahovski turniri, odvijaju se u turnirskoj formi i obično po švicarskom sistemu. Drugi sistemi igre na turnirima su Bergerov, odnosno kružni sistem, sheveningenski i nokaut sistem
+
+
+=== Šahovski sat ===
+
+Šahovski sat na turnirima koristi se za mjerenje preostalog vremena razmišljanja u šahovskoj partiji. Sastoji se od dva odvojena sata, koji neovisno mjere vrijeme razmišljanja svakog igrača. Jedan od satova uvijek radi, dok se drugi aktivira nakon završenog poteza aktivnog igrača pritiskom na dugme. Pravilo u šahu je da se sat (de)aktivira istom rukom kojom je odigran potez. U zavisnosti od turnira, predviđeno vrijeme za partiju na turnirima može biti 120 minuta za prvih 40 poteza, kod brzog šaha 15 do 60, a kod tzv. brzopoteznog šaha samo od 5 do 15 minuta. Ako vrijeme za partiju prođe, igrač gubi partiju. U zavisnosti od turnira, mogu se propisati i druga vremena, te su ovi podaci zapravo preporuke o trajanju partije. Izvedba satova je različita, te se razlikuju mehanički i elektronski satovi, koji imaju i mogućnosti ograničenja vremena po potezu (npr. 30 s po potezu), čime se pokušava izbjeći završetak partije zbog nedostatka vremena. Na mehaničkim satovima postoji obično crvena poluga u obliku zastavice, koja, kad dođe u okomiti položaj, pokazuje da je vrijeme za partiju isteklo.
+
+
+=== Remi ===
+
+U šahovskoj partiji igračima je dozvoljeno u svako vrijeme ponuditi protivniku neriješen rezultat (remi). Partija se inače završava remijem ako igrač koji je na potezu nema legalnog poteza, tj. ako se njegov kralj nalazi u patu, te ako nijedan igrač nema mogućnost matiranja protivnika. Remi se po šahovskim pravilima može proglasiti ako se ista pozicija ponovi 3 puta, te ako se u 50 poteza nijedna figura nije uklonila s ploče ili se nijedan pješak nije pomakao.
+
+
+=== Taknuto-maknuto ===
+
+Vraćanje poteza u šahu nije dozvoljeno. Potezom se smatra i dodirivanje neke figure, čime se naznačuje namjera za njeno pomicanje. Otuda i šahovsko pravilo taknuto-maknuto, kojim se želi naglasiti važnost disciplinarnog ophođenja u partiji šaha. Pravilo se primjenjuje i za protivničke figure, koje, ako su dirnute, igrač ih mora na bilo koji način, ukoliko je to moguće, odstraniti sa ploče. Izuzetak je ako se dirne figura, kojom je potez nemoguć, te se u tom slučaju može igrati bilo kojom figurom. Ukoliko jedan igrač, želi popraviti položaj ili centrirati figure na ploči, obično se to naznačuje francuskim izrazom J’adoube (popravljam) .
+
+
+=== Zabranjena pomoćna sredstva ===
+Za vrijeme šahovske partije, zabranjeno je korištenje zabilješki, koristiti se savjetima trećih, te analiza partije na drugoj tabli. Osim toga zabranjeno je korištenje bilo kakvih elektronskih naprava, sredstava za komunikaciju, kompjutera i šahovskih programa. Napuštanje turnirskog mjesta je samo sa odobrenjem šahovskog sudca dozvoljeno.
+Po pravilima FIDE od 1. jula 2005. godine, oglašaavnje mobilnog telefona, vodi ka automatskog gubitku partije. Za publiku je takođe zabranjena upotreba mobilnih telefona, te je komunikacija među publikom ograničena na minimalnu granicu.
+
+
+=== Bodovanje ===
+Na šahovskim turnirima, pobjede se vrednuju sa 1 bodom, poraz sa nula bodova, dok u remi -partiji, svaki igrač dobija po pola boda. Postoje prijedlozi o promjeni pravila, te uvođenju 3 poena za pobjedu.
+
+
+=== Sudac ===
+
+Na većim turnirima, te u ekipnim natjecanjima više klase, obavezan je jedan sudac, koji nadgleda pridržavanje pravila FIDE, te se brine o redu na turniru. Takođe kontroliše vremena razmišljanja i odlučuje o sankcijama u slučajevima prekršaja.
+Sudija se ne smije mejšati u tok partije, osim u slučajevima opisanim u Pravilima šaha. On neće ukazati na broj odigranih poteza, osim za vrijeme igre sa ubrzanim završetkom, kada je pala bar jedna od zastavica. Sudija treba da se suzdržava od informisanja igrača da je njegov protivnik odigrao potez ili da igrač nije pritisnuo svoj sat.
+Gledaoci i igrači u drugim partijama ne smeju govoriti ili se na drugi način mešati u partiju. Ako je potrebno, šahovski sudija može udaljiti prekršitelje iz sale za igru. Svakom je zabranjena upotreba mobilnih telefona u prostoru za igru i bilo kojem drugom prostoru koje odredi sudija.
+
+
+=== Šahovski bonton ===
+Na početku i na kraju šahovske partije je običaj da se igrači rukuju. Odijanje rukovanja, kao na Svjetskom prvenstvu u šahu 1981. godine između Anatolija Karpova i Viktora Korčnoj smatra se nesportskim potezom, te po odluci Presidential Board FIDE od 26. juna 2007. može voditi ka gubitku partije.
+Za vrijeme partije, zabranjeno je protivnika ometati na bilo koji način. Tome se pribrajaju stalne ponude remija. Stalno kršenje pravila, može sudijskom odlukom dovesti do gubitka partije i oduzimanja turnirskih bodova. Takođe se smatra nepristojnim, u izgubljenoj situaciji, nastaviti sa igrom i ne predati partiju, kao i ponuda remija u lošijoj situaciji.
+
+
+== Strategija i taktika ==
+
+
+=== Faze šahovske igre ===
+Prvih 10 do 15 poteza jedna šahovske partije naziva se šahovsko otvaranje. Ciljevi otvaranja su mobilizacija figura, osiguravanje kralja, te zaposjedanje središnjeg dijela šahovske table. Šahovska otvaranja se mogu podijeliti u otvorena, poluotvorena i zatvorena otvaranja. Otvaranje koji vodi žrtvi figure, obično pješaka u otvaranju, naziva se gambit (npr. Kraljev gambit, Damin gambit)
+Drugi dio igre, tzv. šahovska središnjica, je faza igre u kojoj igrači pokušavaju različitim strategijama i taktikom ostvariti željene ciljeve. Obično se teži osvajanju lake figure ili pješaka, te kasnijim potezima, razmjenama figura, postići materijalna i strateška predmoć, koja se u slijedećoj otvorenijoj fazi igre, može pretvoriti u pobjedu.
+Nakon što na tabli ostane nekoliko figura, govori se o šahovskoj završnici šahovske igre. Ciljevi su, pored napada na kralja, pokušaji osvajanja protivničkih figura, pokušati promovirati pješaka, obično uz pomoć kralja, te materijalnu prednost iskoristiti za matiranje protivničkog kralja.
+
+
+=== Vrijednost figura ===
+
+Izračunavanjem omjera figura i usporedbom sa vrijednošću protivničkih figura, može se stvoriti gruba slika o stanju u nekoj šahovskoj partiji. Mada ove vrijednosti, ovisno od pozicije na tabli ne moraju odlučivati pobjednika, su jednostavni parametar za procjenu stanja, te je na osnovu toga moguće donijeti odluku o daljem stilu igre.
+
+
+=== Žrtva ===
+
+Žrtvom se u šahu smatra, predavanje neke figure s ciljem postizanja taktičke i strategijske prednosti u šahovskoj igri. Poseban oblik žrtve je gambit, žrtva pješaka u šahovskom otvaranju, sa ciljem osvajanja središnjice šahovske ploče
+
+
+=== Svezivanje ===
+
+Svezivanje u šahu označava položaj dviju figura, koje su na istoj liniji protivničke figure (dame, topa ili lovca), te time napadačka figura, zbog mogućeg gubitka, onemogućava pokretanje vezane figure. U slučaju svezivanja kralja, govorimo o apsolutnom svezivanju, jer je potez napadnute figure nemoguć, dok se u drugim slučajevima radi o relativnom svezivanju.
+
+
+=== Ražanj ===
+
+Sličan položaj sa svezivanjem, je ražanj: Napadom figura sa linijskim djelovanjem (dama, top ili lovac) na jednu figuru (npr. kralja), napadnuta se figura prisiljava na povlačenje što vodi gubitku figure, koja se nalazi na istoj liniji kao i napadnuta figura.
+
+
+=== Rašlje ===
+
+Situacija u šahovskoj partiji kad jedna figura napadne dvije ili više protivničkih zove se rašlje. Napad rašljama može biti posebno efektivan ako se vrši skakačem ili pješakom, čime se može steći materijalna prednost te u kasnijoj fazi partije ostvariti pobjeda.
+
+
+=== Otkriveni šah ===
+
+Ako se pomicanjem jedne figure, istovremeno otvara linija napada prema nekoj protivničkoj figuri ili kralju, govori se o otkrivenom šahu.
+
+
+=== Matiranje ===
+
+Najbrži mogući mat u šahu je tzv. budalin mat, mat u dva poteza sa 1. f3? e5 2. g4?? Dh4#. Postoje i druge varijante, kao npr. tzv. školski mat, mat damom i lovcem na f7 ili f2, te Legalov mat, u sedam poteza, gdje bijeli žrtvuje damu, dobijajući tempo, te matira u sredini crnog kralja.
+Jedna od čestih varijanti, koja se može desiti u središnjici partije je tzv. Mat na posljednjem redu, gdje top ili dama matiraju protivničkog kralja u osnovnom redu, koji je zatvoren vlastitim figurama. Slična pozicija je prigušeni mat, kada se kralj okružen vlastitim figurama matira skakačem.
+U završnici, postoje nekoliko varijanti elementarnog matiranja, koje su u zavisnosti od preostalih figura, te se po tome i razlikuju.
+
+
+=== Pješačke formacije ===
+U šahovskoj partiji, važnu ulogu igra položaj i pokretljivost pješaka. Pješak koji može doseći zadnji red, bez da je na njegovoj ili linijama pored njega protivnički pješak naziva se slobodni pješak. Promocija se ovakvog pješaka može spriječiti samo uzimanjem protivničkom figurom.
+Ako se u jednom dijelu šahovske ploče nalazi pješačka formacija, kojoj su suprostavljena protivnički pješaci u manjem broju, govori se o pješačkom majoritetu. Igrač koji posjeduje majoritet u završnici partije ima mogućnost razmjenom pješaka, većinske pješake pretvoriti u slobodne pješake, te ih promovirati u jaču figuru.
+Dva pješaka koja stoje jedan pored drugoga u šahovskoj se partiji nazivaju pješački par. Ova formacija je jako efikasna, jer napada četiri prednja polja, te u kombinaciji sa jednom figurom u poleđini (obično kraljem), može izvesti jak pritisak, te eventualno promociju pješaka na zadnjem redu.
+Pješak, koji na susjednim linijama, nema pješaka svoje boje, naziva se izolirani pješak. Nedostatak izoliranog pješaka je da ga mora braniti jača figura, te ga je lako blokirati protivničkim pješakom.
+Dva pješaka iste boje, koji stoje u jednoj liniji, jedan iza drugoga nazivaju se udvojeni pješaci. Ova formacija je loša, te se često iznuđuje, razmjenama lakih figura u otvaranju. Udvojene pješake je teško braniti i treba težiti u toku partije, razmjeni jednog od pješaka, čime se drugom pješaku otvara put. Slična formacija su tri pješaka u istoj liniji.
+Dva ili više pješaka u dijagonalnom poretku, nazivaju se pješački lanac. Ovdje je značajno da krajnjeg pješaka štiti prvi. Formacija je jaka, mada joj je nedostatak u završnici partije ukoliko nije branjena sa unutrašne strane od vlastitog kralja.
+Dva protivnička pješaka u istoj liniji, koji blokiraju jedan drugoga nazivaje se blokirani pješaci, dok se dva ili više protivničkih pješaka na istoj dijagonali, koji napadaju jedni druge, nazivaju poluga. Korištenje poluge u šahovskoj partji, je značajno za oslobađanje blokiranih pozicija.
+
+
+== Psihologija šaha ==
+
+Šahovska partija, pored aspekta igre, posjeduje posebnu psihološku komponentu, koja se bavi uticajem psiholoških osobina na igru, te djelovanje šaha na ljudsku psihu. Zanimljivo područje promatranja je uticaj šaha na razvoj i sposobnost učenja. Moralni aspekti šaha proučavani su od mnogih filozofa, a američki predsjednik Benjamin Franklin napisao je 1779. godine, knjigu koja se bavi moralom šahovske igre The Morals of Chess.
+
+
+== Historija šaha ==
+
+Preteča svih igara na bazi šaha (kineski šah, šogi, makruk) je vjerovatno igra za četiri osobe iz sjeverne Indije nazvana čatarunga. Čatarunga je iz Sasanidskog carstva, osvajanjem od Arapa i arapskom ekspanzijom prema Evropi, proširena u ovom dijelu svijeta. Najkasnije u 13. stoljeću, šah se već igrao u Evropi, te je postao neazaobilazan kod vitezova. U 15. stoljeću, vjerovatno u Španiji, dolazi do velike reforme šahovskih pravila, gdje su uvedena pravila za damu , pješaka, te pravila rokade. U narednim stoljećima evropski su šahisti doveli do analitičkog i teorijskog razvoja šaha.
+U 18. i 19. stoljeću šah se igra uglavnom u građanskim strukturama, što je dovelo do većeg publiciteta i razvoja šahovskih turnira. Najpoznatije mjesto, gdje se igrao šah je pariški kafe Café de la Régence, gdje se šah već igrao od 1740. Prvi šahovski klub Schachgesellschaft Zürich osnovan je 1809. godine u Zürichu.
+Povodom održavanje Svjetske izložbe u Londonu 1851. godine, na inicijativu engleskog majstora Howarda Stauntona održan je prvi moderni šahovski turnir. Dvoboj, između tada dvojice najboljih šahista svijeta Wilhelma Steinitza i Johannesa Zukertorta 1866. godine, smatra se prvim Šahovskim svjetskim prvenstvom, mada su se slični turniri, bilo u turnirskom, bilo kao dvoboji, održavali i ranije. Kao meč stoljeća nazvano je Svjetsko šahovsko prvenstvo 1972. godine između Bobbyja Fischera i Borisa Spaskog, koje je umnogome doprinijelo popularizaciji šaha u svijetu, posebno na zapadu. Od 1945. do 1990. godine Sovjetski Savez je bio vodeća šahovska nacija, sa najvećim brojem svjetskih prvaka. Povodom šahovskog turnira u Parizu, na inicijativu Francuza Pierre Vincent osnovan je 20. jula 1924. godine Svjetski šahovski zavez FIDE. Prvi predsjednik FIDE-e je bio Holanđanin Alexander Rueb, a prve članice Saveza postale su Argentina, Belgija, Čehoslovačka, Finska, Francuska, Holandija, Italija, Jugoslavija, Kanada, Mađarska, Poljska, Rumunija, Švicarska, Španija i Ujedinjeno Kraljevstvo
+Razvojem informatike došlo je i do razvijanja šahovskih kompjutera, koji uglavnom pobjeđuju i šahovske velemajstore. Računarski programi služe uglavnom za treninge i pripreme vrhunskih šahista za jake turnire.
+
+
+== Moderni svijet šaha ==
+
+
+=== Šahovski savezi ===
+
+Međunarodni šahovski savez FIDE (Fédération Internationale des Échecs), objedinjuje sve nacionalne šahovske saveze, te određuje i normira šahovska pravila, organizira Šahovska svjetska prvenstva, dodjeljuje šahovske titule i uz pomoć Elo sistem rejtingovanja, objavljuje FIDE-inu ljestvicu na kojoj se nalaze svi aktivni šahisti. Nacionalni šahovski savez Bosne i Hercegovine Šahovska unija Bosne i Hercegovine osnovan je 2004. godine. Unija organizira ligaška takmičenja, međunarodne turnire i šalje reprezentaciju na Šahovske olimpijade.
+Jakost igrača, određuje se po metodici zasnovanoj 1960-tih godina od Arpada Eloa. Elo-broj, nazvan često rejting, zasnovan je na statističkim metodama i teoriji vjerovatnoće. Postoje i drugi sistemi vrednovanja, tako npr. u Njemačkoj INGO, a od 1992. godine (Deutsche Wertungszahl) DWZ, ili u bivšoj Istočnoj Njemačkoj (Nationale Wertungszahl) NWZ, engleski ECF, te Glickov broj, jedna razvijena varijanta Elovog broja.
+FIDE dodjeljuje šahistima doživotno, po jasno definiranim pravilima šahovske titule: majstorski kandidat (CM), FIDE-majstor (FM), međunarodni majstor (IM) i velemajstor (GM). U ženskoj kategoriji dodjeljuju se: Woman Candidate Master (WCM), Woman FIDE Master (WFM), Woman International Master (WIM) i Woman Grand Master (WGM). Nacionalni savezi mogu osim ovih titula mogu dodjeljivati i niže kategorije (majstor, majstorski kadidat, 4. kategorija, 3.

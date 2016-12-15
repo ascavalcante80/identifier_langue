@@ -1,0 +1,176 @@
+Les Tétrapodes (Tetrapoda) sont une super-famille d'animaux vertébrés dont le squelette comporte deux paires de membres et dont la respiration est normalement pulmonaire.
+Les premiers tétrapodes étaient des animaux exclusivement aquatiques.
+Les tétrapodes actuels sont les amphibiens, les reptiles, les oiseaux et les mammifères. Des espèces ont perdu certaines des caractéristiques du groupe. Ainsi les pattes ont-elles disparu (des vestiges internes peuvent en subsister) indépendamment chez des animaux serpentiformes, dont les aïstopodes (éteints), les gymnophiones, les orvets, les serpents. Les pattes de devant se sont transformées en ailes chez les oiseaux, les ptérosaures ou les chiroptères. Les poumons ont disparu chez les salamandres de la famille des Plethodontidae.
+L'apparition des tétrapodes aquatiques date de « la fin du dévonien moyen, dans une fourchette étroite comprise entre 375 et 380 Ma ». Les premières sorties de l'eau connues dateraient de -365 Ma, avec Ichthyostega, « le plus ancien des vertébrés connus présentant des adaptations pour une locomotion autre que la nage ».
+
+
+== Description du groupe ==
+
+
+=== Caractéristiques propres ===
+Les tétrapodes constituent un clade au sein des sarcoptérygiens, qui regroupe aujourd'hui deux taxons : les amphibiens et les amniotes (reptiles, oiseaux, mammifères). Ils sont caractérisés par la présence de deux paires de membres chiridiens (deux membres antérieurs ou scapulaires et deux membres postérieurs ou pelviens) qui sont homologues des nageoires paires des poissons. Les membres chiridiens sont divisés en trois parties : stylopode (humérus sur le membre antérieur/fémur sur le membre postérieur), zeugopode (radius-cubitus/tibia-péroné), autopode (carpes-métacarpes-phalanges/tarses-métatarses-phalanges). Ce schéma de base a subi de très nombreuses variations en relation avec l'adaptation à divers modes de locomotion des tétrapodes (vol, nage, saut, course, fouissage...).
+Autres caractères dérivés propres :
+conduit lacrymal entre œil et sac nasal ;
+tête séparée du reste du corps par un cou ;
+os hyomandibulaire de la mâchoire passant dans les os de l'audition ;
+première vertèbre cervicale devenant l'atlas.
+
+
+=== Place des tétrapodes dans le monde animal ===
+
+La définition des tétrapodes n'est pas facile. Entre les premiers Sarcoptérygiens, poissons à nageoires charnues d'une part, et les tétrapodes ayant conquis l'autonomie terrestre (Amniota) d'autre part, il existe de nombreux types intermédiaires, dits amphibiens. Au sein des Vertébrés, les tétrapodes se caractérisent par leur histoire évolutive : celle de la conquête du milieu terrestre.
+
+
+=== Arbre phylogénétique simplifié des tétrapodes ===
+L'apparition de l'œuf amniotique va permettre une large radiation évolutive des tétrapodes, sans faire pour autant disparaître les tétrapodes non amniotiques (Lissamphibia). Tous les vertébrés terrestres actuels sont donc un groupe monophylétique descendant des premiers tétrapodes du Dévonien terminal, et étant donc considéré comme clade en cladistique. La phylogénie ci-dessous représente une des trois hypothèses concurrentes, selon laquelle les lissamphibiens dérivent des temnospondyles. Selon les deux autres hypothèses, les amphibiens actuels dérivent soit des lépospondyles, soit à la fois des temnospondyles et des lépospondyles (ils sont alors polyphylétiques).
+
+o TÉTRAPODES
+├─o Temnospondyli (Arbre détaillé)
+│ └─o Lissamphibia (batraciens modernes - Arbre détaillé)
+│   ├─o Gymnophiones
+│   └─o
+│     ├─o Urodèles (tritons et salamandres)
+│     └─o Anoures (grenouilles et crapauds)
+└─o
+  ├─o Lepospondyli (éteint - Arbre détaillé)
+  └─o Reptiliomorpha
+    └─o AMNIOTA (Arbre détaillé)
+      ├─o Synapsida
+      │ └─o Mammifères (Arbre détaillé)
+      └─o Sauropsida
+        ├─o Anapsida
+        │ └─? Testudines (Tortues - Arbre détaillé)
+        └─o Diapsida
+          ├─o Ichthyosauria (éteint)
+          └─o Sauria
+            ├─o
+            │ ├─o Plesiosauria (reptiles marins éteints)
+            │ └─o Lepidosauria (Arbre détaillé)  
+            │   ├─o Rhynchocephalia (Sphénodon)
+            │   └─o Squamata (serpents et lézards)
+            └─o Archosauria
+              ├─o Crocodilia (crocodiles - Arbre détaillé)
+              └─o
+                ├─o Pterosauria (reptiles volants éteints)
+                └─o Dinosauria (dinosaures - Arbre détaillé)
+                  └─o Aves (oiseaux - Arbre détaillé)
+
+
+== L'apparition de la respiration aérienne ==
+La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon, (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres.
+Cette adaptation est cependant plus ancienne que les tétrapodes, puisqu'elle remonte au-delà de 400 Ma, même si ceux-ci sont aujourd'hui presque les seuls vertébrés à avoir encore un ou des poumons.
+
+
+=== Contraintes adaptatives ===
+La respiration pulmonaire est au départ non pas une adaptation à la vie hors de l'eau, mais à une vie dans des milieux aquatiques pauvres en oxygène. « Pourquoi [...] certains poissons ont-ils évolué vers une respiration à l'air libre ? [...] La forme de leur crâne nous donne un premier indice : le crâne est aplati, ce qui suggère qu'ils vivaient dans des eaux peu profondes».
+« Au Dévonien, certaines plantes se sont diversifiées et multipliées, et nombre d'entre elles ont acquis à cette époque des feuillages caducs [qui tombent de façon saisonnière]. Le bois et autres feuilles mortes produits par ces végétaux ont alors encombré, voir saturé, les milieux aquatiques peu profonds. [...] De surcroît, les eaux chaudes sont moins oxygénées que les eaux froides». Les eaux chaudes ont une capacité de dissolution de l'oxygène de l'air qui est plus faible, et la végétation pourrissante consomme (par oxydation) l'oxygène restant, un phénomène appelé eutrophisation.
+Les eaux des marécages chauds et encombrés de végétation pourrissante sont donc pauvres en oxygène. De nombreuses lignées de poissons vivant dans ces milieux ont donc développé des adaptations spécifiques pour capter directement l'oxygène de l'air. Il en va ainsi des anabantidés, qui ont développé un organe appelé labyrinthe. D'autres poissons « pipent » l'air en surface et le stockent dans leurs intestins, d'où l'oxygène passe dans le sang. Certains Sarcoptérygiens ont ainsi développé un organe spécifique, le poumon. Celui-ci est l'évolution tardive d'une vessie natatoire.
+Les poumons primitifs des sarcoptérygiens, tels qu'ils existent encore chez les dipneustes ou les lissamphibiens modernes (amphibiens), diffèrent peu de ceux des reptiles ou de ceux des mammifères. Les côtes ne bougent en effet pas, et ne jouent aucun rôle lors de l'inspiration puis lors de l'expiration. C'est le mouvement de la bouche, plus précisément les mouvements du plancher buccal, qui envoient l'air dans les poumons, un fonctionnement appelé « pompe buccale ».
+
+
+=== Date de l'apparition des poumons ===
+
+Les Sarcoptérygiens sont apparus vers la fin du Silurien (-444 à -416 Ma). Bien que probablement apparus en milieu marin, des lignées se spécialisent rapidement en eau douce. Les deux lignées principales que sont les Actinistiens (dont les descendants sont les Cœlacanthes) et les Rhipidistiens (dont les descendants sont les tétrapodes et les dipneustes), divergent au début du Dévonien (-416 à -359 Ma).
+Aujourd'hui, les Dipneustes sont des poissons, cousins des tétrapodes, qui ont des poumons (non-alvéolés) parfaitement fonctionnels au côté de branchies. La date de divergence d'avec la lignée qui mène aux tétrapodes étant supérieure à 400 Ma, l'apparition des poumons remonte donc au moins à cette date.
+Par ailleurs, les Cœlacanthes, redevenus purement marins, ont un organe vestigial qui est souvent considéré comme les restes d'un ancien poumon, aujourd'hui non fonctionnel. Si cette interprétation est la bonne, l'apparition des poumons, ou au moins de sacs pulmonaires primitifs, remonte encore quelques millions d'années plus tôt, avant la séparation entre les Actinistiens et les Rhipidistiens, c'est-à-dire tout au début du Dévonien.
+
+
+== Les tétrapodomorphes ==
+
+Après leur apparition à la fin du Silurien, les Sarcoptérygiens ont connu un succès adaptatif important au Dévonien (-416 à -359 Ma). « Au cours de cet âge géologique [...], les poissons Sarcoptérygiens dominaient toutes les mers, ne laissant guère qu'une portion congrue aux placodermes (poissons recouverts de plaques osseuses), aux acanthodiens (poissons à épines) et aux chondrichthyens (requins primitifs) [...][les] actinoptérygiens, les poissons tels que nous les connaissons, étaient alors très peu représentés ».
+Très présents également en eau douce (dont les Sarcoptérygiens marins étaient au moins partiellement originaires), le groupe connaît différentes radiations évolutives. L'une des plus importantes, les Rhipidistiens, va voir apparaître, après -400 Ma un groupe de poissons dit « tétrapodomorphes » qui annonce déjà les tétrapodes par certaines de leurs évolutions osseuses, en particulier au niveau des nageoires, dont certaines caractéristiques commencent à annoncer les pattes des premiers tétrapodes.
+Ci-dessous un arbre généalogique simplifié des Sarcoptérygiens (tous les taxons connus n'y apparaissent pas). On y voit la parenté étroite entre les dipneuste et les poissons tétrapodomorphes.
+
+Sarcoptérygiens
+  |--+--Onychodontiformes
+  |  `--Actinistia (Cœlacanthes)
+  `--Rhipidistia (dipneustes et tétrapodes)
+     |--Dipnomorpha (dipneustes)
+     `--Tetrapodomorphes
+        |--Rhizodontiformes
+        `--Osteolepiformes 
+           |--Tristichopteridae 
+           |  |--Eusthenopteron
+           |  `--+--Cabonnichthys
+           |     `--Mandageria
+           `--Elpistostegalia
+              |--Panderichthys 
+              `--TETRAPODES
+
+
+=== L'évolution des nageoires ===
+
+Des nageoires lobées charnues, soutenues sur les os plutôt que les nageoires renforcées des raies, semblent avoir été un trait original des poissons osseux (Osteichthyes), groupe au sein duquel se sont individualisés les Sarcoptérygiens. Le groupe le plus primitif avec des nageoires de raie, les bichirs, possède toujours des nageoires frontales charnues.
+Les tétrapodes primitifs se sont développés à partir d'un tétrapodomorphe, avec un cerveau à deux lobes dans un crâne aplati, une bouche large et un museau court, et dont les yeux dirigés vers le haut indique qu'il vivait sur le fond. Ses nageoires montraient déjà des signes d'adaptation avec des bases et des os charnus.
+Un tétrapodomorphe encore plus proche des premiers tétrapodes était Panderichthys (-385 Ma), qui possédait même des choanes. Ce poisson utilisait ses nageoires comme des pagaies, car il vivait dans des eaux peu profondes envahies de plantes et de détritus. Il est possible qu'il ait utilisé ses nageoires pour s'accrocher aux plantes ou à autre chose pendant qu'il se tenait en embuscade attendant ses proies. Panderichthys est un Elpistostegalia, comme les tétrapodes, mais il en est plus un cousin qu'un ancêtre direct.
+
+Les tétrapodomorphes vivent dans tous les milieux : eau douce, eau saumâtre (estuaires) et eau salée, et aussi bien dans le grand continent du sud à l'époque, le Gondwana, que le petit continent du nord, l'Euramérique.
+Toujours vers -385 Ma, on connaît également le genre Eusthenopteron, qui montre des formes de dents et d'os du crâne typique des tétrapodes postérieurs, ainsi que des choanes.
+
+
+== Les tétrapodes ==
+
+L'apparition de proto-pattes est le principal signe du passage des tétrapodomorphes comme Panderichthys (-385 Ma) aux premiers véritables tétrapodes, encore totalement aquatiques.
+Contrairement à une idée reçue courante, les membres chiridiens sont d'abord apparus chez des organismes entièrement aquatiques. Les premières pattes fossiles apparaissent ainsi comme des sortes de pagaies, bien adaptées au déplacement (écarter, agripper) dans l'encombrement végétal des rives immergées et des marécages.
+Secondairement, ces « pattes » aquatiques ont été réutilisées pour permettre le déplacement hors de l'eau, comme le montre l'étude des deux espèces de tétrapodes fossiles, Acanthostega et Ichthyostega.
+Les caractéristiques universelles des tétrapodes : membres antérieurs tournés vers l'arrière en direction du coude et membres postérieurs tournés vers l'avant en direction du genou, peuvent être déjà repérées chez les premiers tétrapodes qui vivaient en eau peu profonde.
+Neuf genres de tétrapodes dévoniens ont été décrits, plusieurs ne sont connus, en totalité ou en partie, que par ce qui reste de la mâchoire inférieure. Tous vivaient dans le supercontinent nord-américain-européen, qui comprenait l'Europe, l'Amérique du Nord et le Groenland. La seule exception est un genre unique du Gondwana, Metaxygnathus, qu'on a trouvé en Australie.
+Le premier tétrapode dévonien asiatique identifié a été reconnu à partir d'une mâchoire fossile décrite en 2002. Le tétrapode chinois Sinostega pani a été découvert au milieu de plantes tropicales fossilisées et de sarcoptérygiens dans les sédiments de grès rouges du Ningxia Hui, région autonome de la Chine du nord-ouest. Cette découverte a considérablement étendu la distribution géographique de ces animaux et a soulevé de nouvelles questions sur leur distribution dans le monde et sur la grande diversité taxinomique à laquelle ils ont abouti en un temps relativement court.
+À l'époque du dévonien supérieur, les plantes terrestres avaient stabilisé les habitats d'eau douce, permettant ainsi de se développer aux premiers écosystèmes de zone humide, avec des réseaux alimentaires de plus en plus complexes qui offraient de nouvelles possibilités. Les habitats d'eau douce n'étaient pas les seuls endroits où l'on pouvait trouver de l'eau remplie de matières organiques en liaison avec une végétation dense près du bord de l'eau. Les habitats marécageux comme les zones humides peu profondes, les lagunes côtières et les grands deltas salés des fleuves existaient aussi à cette époque, et bien des spécialistes suggèrent que c'est dans un tel environnement que les tétrapodes ont évolué. Des fossiles des plus anciens tétrapodes ont été découverts dans les sédiments marins et puisqu'on en a retrouvé tout autour du monde, ils doivent avoir fait leur extension en suivant les lignes côtières - ils ne sauraient donc n'avoir vécu que dans l'eau douce.
+
+
+=== Tétrapodes aquatiques ===
+
+L'apparition des tétrapodes aquatiques date de « la fin du dévonien moyen, dans une fourchette étroite comprise entre 375 et 380 Ma ». Tous les scientifiques ne sont pas d'accord avec cette ancienneté, non pas pour des incertitudes de datation, mais plutôt pour des raisons de définition de ce qui fonde la différence entre un tétrapodomorphe et un tétrapode. Certains voient ainsi plutôt l'apparition des tétrapodes vers -370 Ma, avec l'apparition des premiers humérus.
+On suppose traditionnellement que les premiers tétrapodes ont évolué dans des habitats d'eau douce, peu profonds et marécageux.
+Un des plus anciens fossiles connus proches des tétrapodes est celui de Tiktaalik roseae, daté de 380 à 375 Ma
+À côté d'attributs caractéristiques des poissons osseux (écailles, nageoires pectorale et pelvienne munis de rayons), les robustes nageoires pectorales de Tiktaalik étaient rigidifiées par un squelette osseux articulé. « Sa morphologie est similaire à celle des poissons mais l’articulation de ses nageoires pectorales suggère que le Tiktaalik pouvait supporter le poids de son corps. L’épaule et le coude sont flexibles, contrairement aux poissons, expliquent les chercheurs dans la revue Nature ». Ces caractéristiques anatomiques, qui devaient lui permettre d'émerger ponctuellement de l'eau, en font un possible maillon évolutif entre les poissons (comme Panderichthys) et les tétrapodes plus affirmés (comme Acanthostega).
+Quelques scientifiques le considèrent donc comme un tétrapode très primitif, quand d'autres le voient encore comme un tétrapodomorphe, simplement plus avancé que Panderichthys (-385 Ma) sur la voie de l'apparition des pattes. Un de ses découvreurs, Neil Shubin, l'a même qualifié de fishapod, contraction de fish (poisson) et tétrapode.
+Datant de quelques millions d'années après Tiktaalik, « le plus ancien humérus fossile au monde aurait été découvert par des chercheurs [...]. Vieux de plus de 370 Ma, ce dernier offrirait la preuve aux scientifiques que les membres ont d’abord évolué dans l’eau [...]. Après l’analyse de ce fossile, Neil Shubin et ses collègues de l’Université de Chicago (États-Unis) ont constaté que les caractéristiques que les paléontologues attribuent d’habitude à la vie dans le monde terrestre sont plutôt d’un environnement aquatique. Cet humérus appartenant à une nageoire aurait permis, selon eux, à l’animal supporter le corps et, d’autre part l’aurait aidé à relever la tête », peut-être pour la sortir de l'eau afin de respirer l'air.
+
+Vers -363 Ma, Acanthostega est un tétrapode purement aquatique, dont les membres ont huit doigts, mais déjà assez évolués, avec ses quatre pattes nageuses, qui devaient lui permettre de se déplacer en agrippant la dense végétation aquatique des berges. Acanthostega est assez tardif, puisqu'il date de peu avant la grande disparition des tétrapodes du Dévonien terminal. Mais il est un bon modèle des tétrapodes aquatiques. Il est possible qu'il ait utilisé ses pattes de devant afin de prendre appui sur un support (branches immergées, fonds peu profonds), afin de hisser sa lourde tête hors de l'eau pour mieux respirer, mais le dessin de ses côtes et de ses pattes exclut une sortie de l'eau. En effet, « les membres d'Acanthostega étaient trop faibles et mal orientés pour lui permettre de marcher sur la terre ferme »
+
+Vers la même époque qu'Acanthostega, Tulerpeton (-363 Ma) est un autre tétrapode aquatique reconstitué par un squelette fragmentaire retrouvé à Tula, en Russie. Les pattes, épaules antérieures et une partie du museau ont seuls été retrouvés. L'animal avait 6 doigts, et ses membres ressemblent plus à des pagaies aquatiques qu'à des pattes marcheuses. Néanmoins, les doigts sont relativement longs et fins, ce qui suggère un habitat plus terrestre que celui d’Acanthostega. Les os de l'épaule sont eux aussi plus robustes, ce qui aurait pu faciliter également des sorties de l'eau. Enfin, s'il est risqué de définir précisément le mode de vie de Tulerpeton, les ossements retrouvés semblent ceux d'un animal à dominante aquatique, quoique pouvant mieux sortir de l'eau qu’Acanthostega.
+
+
+=== Premières sorties de l'eau ===
+
+Les premières sorties de l'eau connues dateraient du Dévonien supérieur, vers -365 Ma, avec Ichthyostega, « le plus ancien des vertébrés connus présentant des adaptations pour une locomotion autre que la nage ».
+Ichthyostega n'est pas un tétrapode pleinement terrestre, mais il montre de nouvelles adaptations à la vie hors de l'eau. En effet, après l'apparition des poumons chez certains Sarcoptérygiens, de choanes chez les tétrapodomorphes et de pattes/nageoires chez les premiers tétrapodes aquatiques, Ichthyostega a trois adaptations majeures : des pattes antérieures capables de supporter son poids hors de l'eau, des cotes allongées évitant l'écrasement des poumons par le poids du corps hors de l'eau, et « une chaine d'os descendant jusqu'au milieu de la poitrine. Jennifer Clark, une des auteurs de l’étude, précise dans la revue Nature "que ces os au niveau de la poitrine constituent la première apparition, dans l'évolution, d'un sternum corporel. Une telle structure devait renforcer la cage thoracique d'Ichthyostega, lui permettant ainsi de soutenir une partie du poids de son corps au niveau de la poitrine pendant ses mouvements sur terre" ».
+Ces 3 évolutions permettent ainsi à l'animal de respirer avec son corps hors de l'eau, alors que les précédents tétrapodes aquatiques comme Acanthostega ne pouvaient pas sortir de l'eau.
+À ce tire, « Ichthyostega est le plus ancien tétrapode connu adapté à la fois à la nage et à une forme de locomotion terrestre. Il semble qu'il se déplaçait à terre comme un phoque, c'est-à-dire en projetant en avant ses pattes antérieures et sa tête avant de traîner la partie arrière de son corps. Manifestement, l'arrière du corps, avec sa large queue capable d'onduler et ses membres postérieurs en forme de pagaie, avait une vocation aquatique ».
+Il est probable qu'Ichthyostega ne venait que très partiellement à terre. D'une part, son corps est mal adapté à la vie terrestre, avec une mobilité à terre assez réduite et, d'autre part, sa taille pouvant atteindre 1,35 mètre devait rendre difficile de trouver de la nourriture sur terre. À cette époque-là, d'ailleurs, celle-ci était surtout peuplée d'arthropodes. Il est possible que les jeunes se soient nourris de ces derniers, mais ceux-ci ne pouvaient sans doute pas suffire à nourrir un adulte, par ailleurs très lent à terre. Le mode de vie de l'animal est inconnu, et on ne peut donc que supposer les raisons adaptatives de la venue à terre. Celle-ci était peut-être motivée par le besoin d'un refuge contre les prédateurs.
+
+Si le squelette de Ichthyostega est assez bien connu, d'autres tétrapodes du Dévonien terminal (entre -365 et -360 Ma) sont connus par des fossiles plus lacunaire, comme Hynerpeton.
+
+
+== Conquête du milieu terrestre au Carbonifère ==
+La raison pour laquelle les tétrapodes ont commencé à s'installer sur la terre ferme est toujours un sujet de discussion. Mais si elle est encore hésitante au Dévonien tardif (-360 Ma), l'adaptation au milieu terrestre devient très affirmée au cours du Carbonifère (-359 à 299 Ma).
+
+
+=== La lacune de Romer ===
+À partir de -360 Ma commence la période connue sous le nom de « lacune de Romer ». Celle-ci dure une vingtaine de millions d'années, et est marquée par une disparition des fossiles de tétrapodes. « En général, le phénomène est attribué à une nouvelle crise globale, connue sous le nom de crise du Dévonien-Carbonifère ».
+La cause de l'extinction pourrait cependant être plus spécifique. La dérive des continents a en effet fortement rapproché les paléo-continents du Gondwana et de l'Euramérique. La grande majorité des tétrapodes connus vivaient sur ce dernier continent. « Des poissons tétrapodomorphes sont entrés en compétition avec les tétrapodes euraméricains dès que le Gondwana s'est rapproché assez de l'Euramérique ». Pour les tétrapodes de l'époque, encore totalement (Acanthostega) ou largement (Ichtyostega) aquatiques, la compétition semble avoir été trop rude, puisque leurs lignées disparaissent. « Ainsi, il semble qu'aucun des groupes de tétrapodes connus au Dévonien n'ait dépassé la limite séparant le Dévonien et le Carbonifère. [...] Un irréductible petit groupe a toutefois subsisté dans quelques niches écologiques, où les gros poissons prédateurs ne s'aventuraient pas. S'agissait-il de la partie amont des réseaux fluviaux encombrés de plantes et de bois ? ».
+« Les rares tétrapodes peuplant la lacune de Romer ressemblent aux tétrapodes postérieurs à cette lacune, qui sont d'un type bien différent de ceux du Dévonien ». Les animaux comme Ichthyostega ou Acanthostega ne sont ainsi pas les ancêtres des tétrapodes postérieurs. Une lignée encore inconnue a manifestement survécu à l'extinction des tétrapodes il y a 360 Ma, mais a mis quelque 20 millions d'années pour s'adapter pleinement à son nouveau milieu terrestre, et pour s'y répandre.
+
+
+=== Les raisons d'une évolution ===
+Le ou les groupes restreints qui ont survécu à l'extinction de la fin du Dévonien ont progressivement acquis des adaptations beaucoup plus fortes à la vie terrestre, en particulier quatre pattes pleinement marcheuses, ce que n'avait pas Ichtyostega.
+Une première raison pourrait être la forte concurrence des poissons tétrapodomorphes aquatiques, qui en occupant les milieux originels des tétrapodes euraméricains auraient forcé la sélection des variants les plus adaptés au milieu terrestre, dénué de concurrents.
+Il a été posé comme hypothèse que les jeunes auraient été parmi les premiers à coloniser ce milieux, les adultes étant plus aquatiques faute de nourriture suffisante à terre. Si les milieux terrestres semblent en effet avoir été pauvres en nourriture pour de gros animaux, les insectes qui les peuplaient pouvaient plus facilement convenir à des jeunes de petite taille.
+De plus, les jeunes sont aussi les plus vulnérables, et donc les plus à même de bénéficier d'un refuge terrestre. Même sans sortie intégrale de l'eau, les eaux peu profondes près de la terre ferme offraient aussi aux jeunes un refuge. On peut d'ailleurs remarquer que les jeunes poissons actuels (et les amphibiens) passent souvent la première partie de leur vie dans la sécurité relative d'eaux peu profondes, comme les rives, les roseaux ou les mangroves, où les gros prédateurs ne peuvent accéder.
+Finalement, la terre ferme, avec son absence totale de prédateurs, a sans doute offert des opportunités pour des animaux qui avaient développé des adaptations (poumons et pattes) spécifiques à des milieux aquatiques particuliers, mais réutilisables à terre, un phénomène connu en théorie de l'évolution sous le nom d'exaptation.
+
+
+=== Quatre pattes marcheuses ===
+L'un des premiers tétrapodes bien conservé et parfaitement adapté à la vie terrestre date ainsi de -345 Ma, juste un peu avant la fin de la « lacune de Romer », qu'il contribue à combler. Le Pederpes finneyae était une « créature, munie de dents, de quatre pattes et estimée longue de 90 centimètres. [...] Pederpes finneyae pouvait marcher sur la terre ferme, mais également évoluer dans l'eau ». « Il ressemblait à un crocodile un peu disgracieux ».
+S'il n'est pas totalement terrestre, l'animal n'en est pas moins bien adapté à la vie sur terre, même s'il se reproduisait encore certainement dans l'eau. Ses quatre pattes marcheuses (contre seulement deux pattes marcheuses chez Ichtyostega) sont pleinement fonctionnelles. Elles ont déjà 5 doigts, une caractéristique propres aux tétrapodes modernes, alors que Acanthostega avait huit doigts, et que Ichthyostega en avait sept.
+
+
+=== Caractères primitifs et autres adaptations ===
+
+Les tétrapodes primitifs ne sont déjà plus tout à fait des poissons, mais ne sont pas encore complètement indépendants du milieu aquatique. À ce titre, ils conservent encore des branchies au côté de leurs poumons, et ce même à l'âge adulte. La disparition (ou la quasi-disparition) des branchies à l'âge adulte n'est pas bien documentée, mais date forcément du Carbonifère, durant lequel apparaissent les reptiles.
+Au-delà des adaptations les plus visibles : poumons, pattes/nageoires puis pattes marcheuses, choanes, côtes protégeant les poumons de l'écrasement par le poids du corps, les tétrapodes ont aussi acquis des adaptations essentielles à la vie dans un milieu aérien (même si celui-ci n'est que partiel au début).
+le cou devient articulé : l'attache des membres antérieurs recule, se désolidarisant de la tête. Les premières vertèbres se spécialisent pour permettre des mouvements du crâne indépendants du tronc ;
+l'oreille (qui était primitivement consacrée à l'équilibre) se spécialise pour permettre également l'audition dans l'air ;
+l'œil est capable d'accommodation, et s'adapte au milieu aérien. Il se couvre d'une paupière protectrice, et un liquide lacrymal

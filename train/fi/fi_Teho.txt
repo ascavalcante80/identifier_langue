@@ -1,0 +1,41 @@
+Fysiikassa teho (tunnus P) on tehdyn työn tai käytetyn energian määrä aikayksikössä. Tehon SI-yksikkö on watti (W), joka vastaa joulen energiamäärää sekunnissa.
+
+
+== Mekaaninen tehoMuokkaa ==
+Teho mekaaniselle työlle määritellään seuraavasti:
+ missä
+P = teho
+W = mekaaninen työ
+t = aika
+Määritelmää sovelletaan usein seuraavasti:
+
+Mekaaninen teho voidaan siis lausua kappaleeseen vaikuttavan voiman ja sen saaman nopeuden tulona.
+Pyörivän akselin tapaus:
+
+missä  on akselin välittämä vääntömomentti,  on akselin kiertokulma,  on akselin kulmanopeus (yksikkö rad/s).
+
+
+== SähkötehoMuokkaa ==
+Sähköinen teho lasketaan virran voimakkuuden I ja jännitteen U tulona:
+
+Ohmin lain avulla tämä voidaan kirjoittaa myös muotoihin
+
+missä R on sen virtapiirin resistanssi (vastus), jonka ylitse jännite U vaikuttaa tai jonka läpi virta I kulkee.
+Vaihtoehtoisesti teho saadaan sähköisessäkin järjestelmässä energian E kulutuksena (tai tuottona) aikaa t kohti:
+
+Vaihtovirtapiirissä jännitteen ja virran välillä voi vallita vaihe-ero. Siksi vaihtosähkön tapauksessa teho jaetaan pätötehoon, loistehoon ja näennäistehoon. Vain pätöteholle käytetään yksikkönä wattia, loisteholle sen sijaan varia ja näennäisteholle volttiampeeria. Teho voidaan ilmaista kompleksiluvulla , missä on virran kompleksikonjugaatti. Tällöin kompleksiluvun S reaaliosa ilmaisee pätötehon ja imaginaariosa loistehon.
+
+
+=== EsimerkkiMuokkaa ===
+Yksittäisen komponentin aiheuttama tehohäviö virtapiirissä voidaan laskea yllä olevilla tiedoilla. Lasketaan esimerkiksi diodin aiheuttama tehohäviö kaavalla P = UI. Jos diodin ylin vaikuttava jännite on 0,6 V ja diodin läpi kulkeva virta on 0,006 A, niin diodin tehohäviö on P = U · I = 0,6 V · 0,006 A = 0,0036 W = 3,6 mW.
+
+
+== Hydraulinen tehoMuokkaa ==
+Hydraulinen teho saadaan laskettua tilavuusvirran Q [m³/s] ja paine-eron p [Pa] tulona:
+P = Q·p.
+
+
+== Auton teho ja tehonormitMuokkaa ==
+Auton tehon mittaamiseksi on olemassa eri normeja, joista Euroopassa käytetään nykyään pelkästään DIN-normia ja Yhdysvalloissa SAE-normia. Saksalaisessa DIN-normissa moottorin kaikki lisälaitteet ovat mukana tehomittauksessa.
+Ennen vuotta 1972 SAE-teho ilmoitettiin SAE bruttonormin mukaan (englanniksi SAE gross horsepower), SAE standardit J245 ja J1995. Tässä normissa moottorin teho mitattiin ilman lisälaitteita mahdollisimman suuren teholukeman saamiseksi, joten SAE-tehon mittauksessa käytetty moottori poikkesi melko paljon sarjatuotantomoottorista. Mittauksesta puuttuvia lisälaitteita olivat ilmanpuhdistin, generaattori, tuuletin tai vesipumppu, kytkin, bensiinipumppu ja äänenvaimennin. Näin ilmoitetut teholuvut liioittelivat huomattavasti autojen tehoa.
+Vuodesta 1971 lähtien Yhdysvalloissa on käytetty SAE netto -mittaustapaa (englanniksi SAE net horsepower, SAE standardi J1349). Tässä mittaustavassa moottorissa ovat kiinni kaikki lisälaitteet kuten myös imu -ja pakosarjat. 

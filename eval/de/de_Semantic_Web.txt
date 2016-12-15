@@ -1,0 +1,49 @@
+, und Ontologien.
+Die Forschungsfragen sind vielfältig und oft interdisziplinär. So werden z. B. Fragen der Entscheidbarkeit der Kombination bestimmter Sprachelemente für Ontologiesprachen untersucht, wie automatisch Daten, die in verschiedenen Vokabularen beschrieben sind, integriert und gemeinsam abgefragt werden können, wie Benutzerschnittstellen zum Semantic Web aussehen können (so entstanden zahlreiche Browser für Linked Data), wie die Dateneingabe von Semantic Web Daten vereinfacht werden kann, wie Semantic Web Services, also Web Services mit semantisch beschriebenen Schnittstellen, automatisch zusammenarbeiten können, um komplexe Ziele zu erreichen, effektive Veröffentlichung und Verwendung von Semantic Web Daten, und vieles mehr.
+Relevante Zeitschriften sind vor allem das Journal of Web Semantics bei Elsevier, das Journal of Applied Ontologies und das Semantic Web Journal bei IOS Press. Prominente Forscher im Bereich Semantic Web sind, u. a., Wendy Hall, Jim Hendler, Rudi Studer, Ramanathan Guha, Asuncíon Gómez-Pérez, Mark Musen, Frank van Harmelen, Natasha Noy, Ian Horrocks, Deborah McGuinness, John Domingue, Carol Goble, Nigel Shadbold, David Karger, Dieter Fensel, Steffen Staab, Chris Bizer, Chris Welty, Nicola Guarino. Forschungsprojekte mit Schwerpunkten auf dem Bereich Semantic Web sind oder waren, u. a. GoPubMed, Greenpilot, Medpilot, NEPOMUK, SemanticGov, Theseus.
+Diese rege Forschungsarbeit hat sicherlich dazu beigetragen, dem Semantic Web den Ruf akademisch und komplex zu sein einzubringen. Aus dieser Forschung sind aber auch zahlreiche Ergebnisse abgeleitet.
+
+
+== Siehe auch ==
+DBpedia
+F-Logic
+FOAF
+Semantic Grid
+Semantic MediaWiki
+Semantic Web Services
+Semantische Suche
+Semantische Suchmaschine
+Semantischer Desktop
+Semantisches Wiki
+Swoogle
+Wikidata
+
+
+== Literatur ==
+Aaron Swartz’s A Programmable Web: An unfinished Work. gespendet von seinem Verlag Morgan & Claypool Publishers nach Aaron Swartz’s Tod im Januar 2013.
+Tim Berners-Lee with Mark Fischetti: Weaving the web: the original design and ultimate destiny of the World Wide Web by its inventors. 1. Auflage. HarperCollins, San Francisco, 1999, ISBN 0-06-251586-1; aktuelle Auflage: HarperBusiness, New York 2006, ISBN 0-06-251587-X. dt. Ausgabe: Tim Berners-Lee mit Mark Fischetti: Der Web-Report: der Schöpfer des World Wide Webs über das grenzenlose Potential des Internets. Econ, München 1999, ISBN 3-430-11468-3
+Tim Berners-Lee, James Hendler, Ora Lassila: The Semantic Web: a new form of Web content that is meaningful to computers will unleash a revolution of new possibilities. In: Scientific American, 284 (5), May 2001, S. 34–43 (dt.: Mein Computer versteht mich. In: Spektrum der Wissenschaft, August 2001, S. 42–49)
+Lee Feigenbaum, Ivan Herman, Tonya Hongsermeier, Eric Neumann, Susie Stephens: Mein Computer versteht mich – allmählich. In: Spektrum der Wissenschaft, November 2008, S. 92–99.
+Toby Segaran, Colin Evans, Jamie Taylor: Programming the semantic web. O’Reilly & Associates, Sebastopol CA 2009 ISBN 978-0-596-15381-6.
+Grigoris Antoniou, Frank van Harmelen: A Semantic Web Primer. 2nd Edition. The MIT Press, 2008, ISBN 0-262-01242-1
+Dieter Fensel, Wolfgang Wahlster, Henry Lieberman, James Hendler: Spinning the Semantic Web: Bringing the World Wide Web to Its Full Potential. The MIT Press, 2003, ISBN 0-262-06232-1
+Bo Leuf: The Semantic Web. Crafting Infrastructure for Agents. Wiley, 2006, ISBN 0-470-01522-5
+Vladimir Geroimenko, Chaomei Chen: Visualizing the Semantic Web. Springer Verlag, 2003, ISBN 1-85233-576-9
+Jeffrey T. Pollock: Semantic Web For Dummies. For Dummies. 2009, ISBN 978-0-470-39679-7
+Pascal Hitzler, Markus Krötzsch, Sebastian Rudolph, York Sure: Semantic Web. Grundlagen. Springer Verlag, 2008, ISBN 978-3-540-33993-9. Englische Ausgabe: Pascal Hitzler, Markus Krötzsch, Sebastian Rudolph: Foundations of Semantic Web Technologies. CRC Press, 2009, ISBN 978-1-4200-9050-5
+
+
+== Weblinks ==
+Andy Carvin: Tim Berners-Lee: Weaving a Semantic Web (Memento vom 8. Februar 2009 im Internet Archive). Published by the Digital Divide Network, October 2004 (Archivversion vom 8. Februar 2009; englisch)
+W3C Semantic-Web-Initiative (englisch)
+Linked Data – Connect Distributed Data across the Web (Verteilte Daten über das Netz hinweg verbinden) (englisch)
+Tim Berners-Lee: Semantic Web Future. (englisch)
+Webcast Video
+Tim Berners-Lee: The next Web of open, linked data (2009) (englisch)
+Tim Berners-Lee: The Future of the Web (2006) (englisch)
+
+
+== Einzelnachweise und Anmerkungen ==
+↑ John Markoff: Entrepreneurs See a Web Guided by Common Sense. In: New York Times, 12. September 2006
+↑ Robert Tolksdorf: Web 3.0 – die Dimension der Zukunft. In: Der Tagesspiegel, 31. August 2007
+↑ Tim Berners-Lee, James Hendler, Ora Lassila: The Semantic Web: a new form of Web content that is meaningful to computers will unleash a revolution of new possibilities. In: Scientific American, 284 (5), S. 34–43, May 2001 (dt.: Mein Computer versteht mich. In: Spektrum der Wissenschaft, August 2001, S. 42–49)

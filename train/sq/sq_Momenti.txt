@@ -1,0 +1,5 @@
+Në fizikë , termi "moment" mund t'i referohet shumë koncepteve të ndryshme:
+Momenti i forcës , është tendenca e një force për të rrotulluar një objekt rreth nje boshti, (shih artikullin Momenti i forcës për hollësi të mëtejshme. Ky është një koncept themelor në inxhinieri dhe fizikë. (Shënim: Në inxhinierinë mekanike dhe inxhinierinë civile, fjala "moment i forcës" dhe "çift rrotullues" kanë kuptime të ndryshme, ndërsa në fizikë ato janë sinonime. Shihni artikullin "çift rrotullues ".).Produkti i madhesise se forces me krahun e saj,quhet momenti i forces ne lidhje me nje pikë O.Pra M=F x b.
+Momenti është i barabart me Energjinë që shkaktohet nga veprimi i një force në një krah të mbështetur në një pik.
+
+Momenti i nje vektori Euklidian është një përgjithësim i momentit të forcës

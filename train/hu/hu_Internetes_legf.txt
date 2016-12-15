@@ -1,0 +1,282 @@
+Ezen cikk az internetes legfelső szintű tartományneveket (TLD) tartalmazza betűrendben.
+
+
+== Host üzemeltetők rövidítései ==
+.arpa – kizárólag infrastrukturális célokat szolgál (például fordított DNS lekérdezés); eredetileg a már korábban létező ARPANET címek elhelyezésére szolgált a Domain Name rendszerben
+.gov – amerikai kormányzati szervezet
+.nato – Észak-atlanti Szerződés Szervezete (NATO), 1996 júliusa óta megszüntették
+.com – kereskedelmi szervezet
+.int – nemzetközi szervezet
+.net – hálózati szervezet
+.edu – oktatási intézmény
+.mil – amerikai hadsereg
+.org – non-profit szervezet
+
+
+== Új internetes legfelső szintű tartománynevek ==
+.aero – légi közlekedés
+.biz – cégek részére
+.cat – a katalán nyelv- és kultúrközösség részére
+.coop – szövetkezetek részére
+.info – felvilágosításokhoz, információkhoz
+.jobs – Human Resource Management
+.mobi – mobil alkalmazások és szolgáltatások felhasználói és szolgáltatói részére
+.museum – múzeumoknak
+.name – magánszemélyek részére
+.pro – orvosoknak, ügyvédeknek
+.travel – utazással kapcsolatos tevékenységet folytató cégeknek
+
+
+== Országazonosítók ==
+Az országok azonosítására az ISO-3166 szabvány szerinti rövidítések használatosak.
+
+
+== A ==
+ab – Antigua és Barbuda
+ad – Andorra
+ae – Egyesült Arab Emírségek
+af – Afganisztán
+ai – Anguilla
+al – Albánia
+am – Örményország
+an – Holland Antillák
+ao – Angola
+aq – Antarktisz
+ar – Argentína
+as – Amerikai Szamoa
+at – Ausztria
+au – Ausztrália
+aw – Aruba
+ax – Åland
+az – Azerbajdzsán
+
+
+== B ==
+ba – Bosznia-Hercegovina
+bb – Barbados
+bd – Banglades
+be – Belgium
+bf – Burkina Faso
+bg – Bulgária
+bh – Bahrein
+bi – Burundi
+bj – Benin
+bm – Bermuda
+bn – Brunei
+bo – Bolívia
+br – Brazília
+bs – Bahama-szigetek
+bt – Bhután
+bv – Bouvet-sziget
+bw – Botswana
+by – Fehéroroszország
+bz – Belize
+
+
+== C ==
+ca – Kanada
+cc – Kókusz (Keeling)-szigetek
+cf – Közép-afrikai Köztársaság
+cg – Kongói Köztársaság
+ch – Svájc
+ci – Elefántcsontpart
+ck – Cook-szigetek
+cl – Chile
+cm – Kamerun
+cn – Kína
+co – Kolumbia
+cr – Costa Rica
+cu – Kuba
+cv – Zöld-foki Köztársaság
+cx – Karácsony-sziget
+cy – Ciprus
+cz – Csehország
+
+
+== D ==
+de – Németország
+dj – Dzsibuti
+dk – Dánia
+dm – Dominikai Közösség
+do – Dominikai Köztársaság
+dz – Algéria
+
+
+== E ==
+ec – Ecuador
+ee – Észtország
+eg – Egyiptom
+eh – Nyugat-Szahara
+er – Eritrea
+es – Spanyolország
+et – Etiópia
+eu – Európai unió
+
+
+== F ==
+fi – Finnország
+fj – Fidzsi-szigetek
+fk – Falkland-szigetek
+fm – Mikronézia
+fo – Feröer
+fr – Franciaország
+
+
+== G ==
+ga – Gabon
+gb – Nagy-Britannia
+gd – Grenada
+ge – Grúzia
+gf – Francia Guyana
+gh – Ghána
+gi – Gibraltár
+gl – Grönland
+gm – Gambia
+gn – Guinea
+gp – Guadeloupe
+gq – Egyenlítői-Guinea
+gr – Görögország
+gs – Déli-Georgia és Déli-Sandwich-szigetek
+gt – Guatemala
+gu – Guam
+gw – Bissau-Guinea
+gy – Guyana
+
+
+== H ==
+hk – Hongkong
+hm – Heard-sziget és McDonald-szigetek
+hn – Honduras
+hr – Horvátország
+ht – Haiti
+hu – Magyarország
+
+
+== I ==
+id – Indonézia
+ie – Írország
+il – Izrael
+in – India
+io – Brit Indiai-óceáni Terület
+iq – Irak
+ir – Irán
+is – Izland
+it – Olaszország
+
+
+== J ==
+jm – Jamaica
+jo – Jordánia
+jp – Japán
+
+
+== K ==
+ke – Kenya
+kg – Kirgizisztán
+kh – Kambodzsa
+ki – Kiribati
+km – Comore-szigetek
+kn – Saint Kitts és Nevis
+kp – Észak-Korea
+kr – Dél-Korea
+kw – Kuvait
+kz – Kazahsztán
+
+
+== L ==
+la – Laosz
+lb – Libanon
+lc – Saint Lucia
+li – Liechtenstein
+lk – Srí Lanka
+lr – Libéria
+ls – Lesotho
+lt – Litvánia
+lu – Luxemburg
+lv – Lettország
+ly – Líbia
+
+
+== M ==
+ma – Marokkó
+mc – Monaco
+md – Moldova
+me – Montenegró
+mg – Madagaszkár
+mh – Marshall-szigetek
+mk – Macedónia
+ml – Mali
+mm – Mianmar
+mn – Mongólia
+mo – Makaó
+mp – Északi-Mariana-szigetek
+mq – Martinique
+mr – Mauritánia
+ms – Montserrat (Egyesült Királyság)
+mt – Málta
+mu – Mauritius
+mv – Maldív-szigetek
+mw – Malawi
+mx – Mexikó
+my – Malajzia
+mz – Mozambik
+
+
+== N ==
+na – Namíbia
+nc – Új-Kaledónia
+ne – Niger
+nf – Norfolk-sziget
+ng – Nigéria
+ni – Nicaragua
+nl – Hollandia
+no – Norvégia
+np – Nepál
+nr – Nauru
+nt – Semleges terület
+nu – Niue
+nz – Új-Zéland
+
+
+== O ==
+om – Omán
+
+
+== P ==
+pa – Panama
+pe – Peru
+pf – Francia Polinézia
+pg – Pápua Új-Guinea
+ph – Fülöp-szigetek
+pk – Pakisztán
+pl – Lengyelország
+pm – Saint-Pierre és Miquelon
+pn – Pitcairn-szigetek
+pr – Puerto Rico
+pt – Portugália
+pw – Palau
+py – Paraguay
+
+
+== Q ==
+qa – Katar
+
+
+== R ==
+re – Réunion
+ro – Románia
+rs – Szerbia
+ru – Oroszország
+rw – Ruanda
+
+
+== S ==
+sa – Szaúd-Arábia
+sb – Salamon-szigetek
+sc – Seychelle-szigetek
+sd – Szudán
+se – Svédország
+sg – Szingapúr
+sh – Szent Ilona
+si – Szlovénia
+sj –

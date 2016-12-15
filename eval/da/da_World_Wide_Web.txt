@@ -1,0 +1,27 @@
+ing; .
+
+Af alle informationerne ovenfor, behøver brugeren normalt kun at huske eller have (en del af) en URL, resten finder webbrowseren automatisk ud af. F.eks. kan man nøjes med at skrive eller klippe klistre "da.wikipedia.org", "dr.dk" eller "www.dr.dk" – browseren forsøger så at prøve http via tcp-port 80.
+Udover ovenstående, kan websider også indeholde følgende – det er kun et lille udvalg af hvad der findes:
+Ekstra:
+HTML objekt-tags:
+ECMAScript-variant (evt. via Ajax) – ISO/IEC standard. Afarter:
+En javascript-variant – Sun varemærke.
+JScript – Microsoft varemærke.
+
+Filformater der typisk er understøttet af webbrowseren:
+JPEG (.jpg) – åben standard.
+PNG (.png) – åben standard.
+SVG (.svg) – åben standard.
+GIF (.gif) – tidligere proprietær standard, men seneste patent (inkl. kompressionsformatet LZW) udløb år 2004.
+
+Filformater (f.eks. Applets) der ikke er direkte er understøttede af browseren og for det meste kræver plug-ins eller specielt installeret software:
+Java (.class) – delvis åben standard doneret af Sun. Formodentlig åben standard marts 2007.
+Adobe flash (.swf) – proprietær standard.
+ActiveX (.vbd) – kræver Microsoft Windows.
+
+
+== Kilder/referencer ==
+
+
+== Eksterne henvisninger ==
+Historien om World Wide Web (engelsk tekst)

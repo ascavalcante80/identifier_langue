@@ -1,0 +1,24 @@
+World Geodetic System 1984 (WGS 84) är ett globalt geodetiskt referenssystem. WGS 84 är det referenssystem som används i det satellitbaserade positioneringssystemet NAVSTAR Global Positioning System (GPS). Föregångaren var WGS 72.
+Koordinater enligt WGS uppges i allmänhet som sfäriska koordinater: latitud och longitud (och i vissa sammanhang: höjd).
+
+
+== WGS och andra system ==
+Olika koordinatsystem grundar sig på olika modeller för jordens form, så kallade referensellipsoider. Därtill är de knutna till olika punkter på jordytan. Då kontinentalplattorna rör sig kommer olika koordinatsystem att förskjutas i förhållande till varandra. Därmed är WGS inte lämpligt för lantmäteri i Europa.
+Skillnaden mellan WGS 84 och det europeiska ETRS89 och de på det baserade svenska SWEREF 99 och finska EUREF-FIN ökar ungefär två centimeter årligen, vilket ger en skillnad på ett antal decimeter. Skillnaden är tillräckligt liten för att inte vara väsentlig vid till exempel navigation eller orientering (satellitnavigatorer för sådana ändamål ger normalt en precision på cirka 1 m, ofta sämre).
+Skillnaden mellan WGS och de äldre nordiska systemen, som baserar sig på en annorlunda referensellipsoid är större, till KKS (som används på äldre finska sjökort) upp till ett par hundra meter.
+
+
+== Se även ==
+RT 90
+KKS
+
+
+== Källor ==
+”SWEREF 99”. Lantmäteriet. http://www.lantmateriet.se/Kartor-och-geografisk-information/GPS-och-geodetisk-matning/Referenssystem/Tredimensionella-system/SWEREF-99/. Läst 19 februari 2013.  – Bland annat om förhållandet mellan WGS 84 och SWEREF 99.
+”WGS 84”. Lantmäteriet. http://www.lantmateriet.se/Kartor-och-geografisk-information/GPS-och-geodetisk-matning/Referenssystem/Tredimensionella-system/WGS-84/. Läst 19 februari 2013.  – Kort om WGS 84.
+
+
+== Externa länkar ==
+Soler, Tomás och Hothem, Larry D. (1988). ”Coordinate systems used in geodesy: Basic definitions and concepts” (på engelska). Journal of Survey Engineering (ASCE) "Vol. 114" (Nr. 2, maj 1988): sid. Sid. 84—97. ISSN 0733-9453/88/0002-0084. http://www.ngs.noaa.gov/CORS/Articles/SolerHothemJSE.pdf. Läst 18 jan 2010.  – Bland annat historik bakom.
+”DMA TR8350.2: DoD World Geodetic System 1984 - Its Definition and Relationships with Local Geodetic Systems, Third Edition” (på engelska) (PDF). National Imagery and Mapping Agency (NIMA). 4 juli 1997. http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf. Läst 9 mar 2010.  – Definitionen av referenssystemet.
+”DMA TM8358.1: Datums, Ellipsoids, Grids and Grid Reference Systems” (på engelska) (PDF). Defence Mapping Agency (DMA). 20 s

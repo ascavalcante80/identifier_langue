@@ -1,0 +1,19 @@
+Verkkosivu eli web-sivu, www-sivu tai arkikielessä nettisivu tarkoittaa maailmanlaajuisessa verkossa eli Internetissä julkaistua sivua.
+
+
+== Verkkosivujen välitysMuokkaa ==
+Verkkosivut sijaitsevat Internetin palvelinkoneella, josta käyttäjät voivat lukea niitä selainohjelmalla. Selain pyytää sivun palvelimelta käyttäen HTTP-protokollaa. Palvelin vastaa pyyntöön lähettämällä HTML- tai XML-kuvauskielellä koodatun dokumentin, jonka selain muuntaa käyttäjälle näytettävään muotoon.
+Verkkosivut sisältävät yleensä hyperlinkkejä, eli viittauksia, toisiin verkkosivuihin. Käyttäjä voi halutessaan valita hyperlinkin selaimessaan jolloin selain siirtyy linkin osoittamalle verkkosivulle. Verkkosivujen välisistä linkeistä muodostuu hyperteksti, joka oli 1990-luvun alussa uusi, mullistava ominaisuus dokumentoinnissa.
+
+
+== Staattiset ja dynaamiset sivutMuokkaa ==
+Verkkosivut jaetaan staattisiin ja dynaamisiin sivuihin. Staattinen sivu on tiedosto palvelinkoneella. Se näkyy selaimella aina samanlaisena ja muuttuu vain, jos tiedostoa muokataan palvelimella.
+Dynaaminen sivu luodaan vasta, kun selain sitä pyytää. Selaimen hakupyyntö käynnistää palvelinkoneella toimintoja, joiden tuloksena syntyy uusi verkkosivu. Tällaisella järjestelyllä on kaksi etua. Ensinnäkin verkkosivun sisältö voi riippua hakuajankohdasta, mikä mahdollistaa esimerkiksi kellonajan näyttämisen sivulla tai tietokantahaut käyttäjän antamien parametrien pohjalta. Toiseksi html-muotoisen tiedon muodostumismekanismi voidaan piilottaa palvelimelle. Selaimessa ei saa selville, miten dynaaminen tieto on muodostunut.
+
+
+== Sisällön ja tyylin erottaminen toisistaanMuokkaa ==
+Verkkosivun tietosisältö ja ulkoasu erotellaan käyttämällä tyylisivuja (Cascade Style Sheets). Tyylisivuilla määritellään, miltä verkkosivun pitäisi näyttää katselijalle. Näin tietosisällöltään sama verkkosivu voidaan näyttää eri tavalla esimerkiksi tietokoneen WWW-selaimelle, kännykän näytölle, digi-tv:lle tai PDF-tiedostoksi esimerkiksi julkaisua varten. Tämä tekee tietosisällön muokkauksesta eksaktia, sillä se tehdään vain yhden kerran yhteen kohteeseen, josta se välittyy kaikille käyttäjille eri laitteilla. Verkossa jaettaviin XML-dokumentteihin voidaan liittää tyyliohje, jolloin niiden sisältö voidaan tulostaa siististi muotoiltuna.
+
+
+== KäyttötarkoituksiaMuokkaa ==
+Tyypillisiä verkkosivuja ovat ihmisten, yritysten, organisaatioiden, instituutioiden ja hallintoelimien kotisivut. Verkkosivuja käytetään myös tiedonjakamiseen (esimerkiksi Wikipedia) ja liiketoim

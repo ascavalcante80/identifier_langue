@@ -1,0 +1,53 @@
+Vítr je vektor popisující pohyb zvolené částice vzduchu v určitém místě atmosféry v daném časovém okamžiku. Nejčastěji se jím rozumí horizontální složka proudění vzduchu v atmosféře. Je vyvolaný rozdíly v tlaku vzduchu a rotací Země, dále se uplatňuje i síla tření. Při jeho popisu nás zajímá jeho směr, rychlost a ochlazovací účinek. Rychlost a směr větru se měří pomocí anemometru či profileru.
+
+
+== Směr větru ==
+Podrobnější informace naleznete v článku Směr větru.
+Směr větru se udává dle směru, odkud vítr vane – buď přesněji pomocí azimutu (0 až 360°), nebo v meteorologii pomocí světových stran (zpravidla s přesností na 22,5°, tj. s rozlišením na S, SSV, SV, VSV a V směr).
+S výškou (ve vertikálním směru) i vzdáleností (v horizontálním směru) od místa pozorování dochází ke změně směru větru – stáčení větru. Ke stáčení větru dochází i v samotném místě pozorování.
+
+
+== Rychlost větru ==
+Podrobnější informace naleznete v článku Rychlost větru.
+Rychlost (síla) větru se klasifikuje buďto přesným určením jeho rychlosti (kilometry za hodinu, metry za sekundu, míle za hodinu), nebo ve stupních, které se určují odhadem podle Beaufortovy stupnice. Rychlost větru se v čase výrazně mění, proto se často udává průměrná rychlost větru (za určité období, např. 1 nebo 5 minut) a nárazová rychlost větru (maximální rychlost při jednorázovém nárazu).
+
+
+=== Rychlost větru v obecných podmínkách ===
+
+Spektrum rozložení hustoty rychlostí větru v dané lokalitě je poměrně dobře popsatelné Rayleighovým rozdělením jako speciálním případem rozdělení Weibullova. Jde o funkci
+
+kde v je náhodně proměnná rychlost větru,  je tvarový parametr rozložení a  odpovídá střední hodnotě rychlosti větru
+
+Je zřejmé, že maximum hustoty výskytu rychlostí bude vždy ležet vlevo od hustoty výskytu střední rychlosti větru. Pro reálné použití má smysl pracovat s pravděpodobností výskytu rozsahu rychlostí větru v intervalu (v1,v2), kterou lze určit jako
+
+
+=== Profil větru ===
+
+Vertikální profil větru je grafické nebo matematické vyjádření změny rychlosti nebo směru větru s výškou. V troposféře nejčastěji rychlost větru s výškou roste, což vedlo k odvození různých modelů – mocninový, logaritmický či logaritmicko-lineární.
+Skutečný vertikální profil je ovlivňován mnoha faktory, které matematické modely deformují:
+dynamická deformace – tlakový gradient, odstředivá síla, uchylující síla zemské rotace, drsnost povrchu;
+termodynamická deformace – teplotní zvrstvení.
+Změny ve směru a rychlosti větru, zvláště ty výrazné, jsou označovány jako střih větru.
+
+
+== Působení větru ==
+Vítr je odpradávna ničícím živlem i pomocníkem člověka. Vichřice spolu s povodněmi jsou největším zdrojem škod v podmínkách střední Evropy, při poslední velké vichřici v listopadu 2004 došlo k poničení velké části lesů Vysokých Tater. Vítr je jedním z hlavních činitelů působících erozi a zvětrávání hornin.
+
+
+=== Využití větrné energie ===
+Související informace naleznete také v článku Větrná energie.
+Nejčastěji se energie větru využívá pomocí větrné turbíny. Zejména v minulosti turbína konala přímo mechanickou práci - větrný mlýn mlel obilí, větrnými stroji se čerpala voda nebo poháněly katry. V současnosti se mechanická energie, získaná turbínou z energie větru, používá pro pohon alternátoru ve větrných elektrárnách.
+Vítr se také používá k pohonu dopravních prostředků, nejčastěji lodí (plachetnice).
+
+
+=== Vliv větru na rostliny ===
+Podrobnější informace naleznete v článku Poškození rostlin povětrnostními vlivy.
+Mezi podstatné vlastnosti proudění vzduchu s ohledem na poškození rostlin patří jeho směr, rychlost a teplota. Silný vítr spolu s teplem, nebo slunečním zářením může vést k nadměrné transpiraci, vítr nebo jím nesený materiál může mechanicky poškozovat pletiva rostlin. Vlivem intenzity proudění dochází k přímým škodám např. opad plodů, lámání větví, vyvracení stromů, typické deformace růstu ve směru převládajícího proudění.
+Pozitivním efektem je výměna vzduchu, snížení a zvýšení teplot, vítr může zabránit chladovému a tepelnému poškození. Vítr je významný pro rozmnožování anemofilních a anemochorních druhů rostlin.
+
+
+== Vítr na jiných planetách ==
+Vítr nevzniká jen na planetě Zemi, ale je také na jiných planetách sluneční soustavy. Nejrychlejší vítr je na planetách Jupiter, Saturn a Neptun.
+Jupiter – Na Jupiteru dosahují větry díky tryskovému proudění rychlostí až 500 km/h
+Saturn – Větry na planetě Saturn dosahují v troposféře rychlostí až 1500 km/h
+Neptun – Rekordma

@@ -1,0 +1,27 @@
+componente, au fost făcute publice, cu sursele difuzate pe listele e-mail si disponibile prin FTP. Mai mult, la 30 aprilie 1993, apare declaratia CERN asupra caracterului public al tehnologiei World Wide Web.
+Curând după aceea, Ari Luotonen rescrie programul httpd - nucleul serverului Web, implementând si autorizatiile de acces. In august 1993, la Cambridge Massachusets, are loc primul workshop WWW Wizards. In septembrie traficul Web prin nodurile NSF ajunge la 1%. Apar versiuni operationale ale MOSAIC si pentru PC-uri cu MS Windows, si pentru Macintosh. In octombrie erau deja 200 de servere Web în functiune, inclusiv unul la Casa Albă. Se lansează primul proiect European bazat pe Web. Este anuntată prima conferintă privind World Wide Web la Geneva, între 25-27 mai 1994. Conferintă la care s-au înscris peste 800 de doritori (din care au fost selectati 400). Conferinta a subliniat importanta WWW pentru învătământ, materialele fiind accesibile încă la TECFA. In iunie 1994 erau înregistrate deja peste 1500 servere Web.
+Lansat ca un instrument care să sprijine cooperarea cercetătorilor fizicieni, World Wide Web-ul devine în doar câtiva ani aproape sinonim cu Internetul. Cu toate că nici navigatoarele si nici editoarele de pagini Web nu au ajuns încă la performantele visate de Tim Berners-Lee, World Wide Web-ul a ajuns cea mai mare bibliotecă a lumii, cu peste 3 miliarde de documente, în prezent. Această dezvoltare a dus la aparitia de meserii noi, si la reorganizarea multor activităti tinând seama de conditiile publicitatii pe Web si de posibilităti de cooperare greu de imaginat altădată. Cu ajutorul mediilor Web de instruire si cu resursele informationale si educationale de pe Web, invatarea si perfectionarea continuă devin accesibile aproape oricui. Mai mult, pare realizabilă si previziunea profesorului Patrick Suppes (din 1967) că fiecare îsi va putea alege profesorul potrivit, beneficiind de avantajul pe care istoria l-a oferit doar regelui Filip Macedon: ca sa-l aibă pe Aristotel ca profesor pentru fiul său, Alexandru.
+Notă:
+De fapt, data de nastere a Internetului este oarecum discutabilă: Unii autori consideră anul 1969 si momentul când ARPANET a conectat calculatoarele de la Stanford Research Institute, University of California Los Angeles, University of California Santa Barbara si University of Utah. Alti autori, printre care si Tim Berners-Lee, consideră ca dată de nastere a Internetului anul 1974, momentul despărtirii părtii academice de cercetările militare, odată cu constituirea retelei Telenet de către firma Bolt, Beranek&Newman. In sfârsit, altii, printre care si Paul Kunz de la Stanford, sunt de părere că Internetul apare doar în 1982, când este folosit prima oară acest nume si când Bob Kahn, Vint Cerf si altii definesc si implementează protocolul TCP/IP - considerat limbajul de comunicatie al Internetului. Pentru întreaga cronologie si evolutie a Internetului se pot consulta: Net Timeline, Vint Cerf's Brief History of the Internet, Hobbes' Internet Timeline, Internet Society (ISOC) All About The Internet: History of the Internet
+Mărturiile lui Tim Berners-Lee pot fi găsite la: Tim Berners-Lee: A short history of web development, sau mai pe larg în Frequently asked questions by the Press, respectiv în cartea Weaving the Web.
+Lui Tim Berners-Lee i se va decerna Japan Prize pentru punerea bazelor World Wide Web, la Tobyo, în 25 aprilie 2002.
+Berners-Lee este acum directorului Consorțiului World Wide Web W3C, care dezvoltă și menține aceste standarde.
+
+
+== Bibliografie ==
+Rețele de calculatoare, Andrew S. Tanenbaum, ed. Computer Press AGORA sub licență Prentice Hall ISBN 973-97706-3-0
+Standarde web
+
+
+== Referințe ==
+^ The original proposal of the WWW, HTMLized
+
+
+== Vezi și ==
+Standarde web
+Istoria Internetului
+
+
+== Legături externe ==
+Prima pagină web cunoscută
+Prima fotografie de pe web

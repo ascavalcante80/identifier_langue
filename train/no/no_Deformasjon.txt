@@ -1,0 +1,13 @@
+Deformasjon eller deformering er endring i form forårsaket av en tilført kraft. Deformasjon kan være elastisk eller plastisk, eller en kombinasjon av begge. En tilstrekkelig stor deformasjon fører til brudd. For sprø materialer (f.eks. glass) vil denne skje nokså momentant. Ofte vil en deformasjon være en kombinasjon, men slik at den ene typen er så dominerende at man kun betrakter den dominerende typen.
+
+
+== Elastisk deformasjon ==
+Elastisk deformasjon er den type deformasjon et materiale utsettes for uten å få varig endring av form. Etter at belastningen er fjernet, vil den elastiske deformasjonen reverseres og materialet gå tilbake til sin opprinnelige form (ved ren elastisk deformasjon). Dette er i motsetning til plastisk deformasjon hvor materialet får en varig fasongendring. Mengden elastisk deformasjon som et materiale kan utsettes for, er definert av elastisitetsmodulen. Se også Hookes lov. Når du strekker en strikk, forandrer den form så lenge du holder den i strekk. Slipper du strikken, går den tilbake til sin opprinnelige form. Dette er da en elastisk deformasjon.
+
+
+== Plastisk deformasjon ==
+Plastisk deformasjon inntreffer når et materiale strekkes over flytegrensen (seige materialer). Spenningene blir så store at det oppstår glidninger mellom atomplanene slik at deformasjonen blir varig (plastisk). Selv om materialet er endret så henger det fortsatt sammen på molekylærnivå. Når man klemmer på leire, forandrer den form permanent. Det er en plastisk deformasjon.
+
+
+== Brudd ==
+Når et materiale belastes over bruddgrensen blir spenningene mellom molekylene brutt og de blir dermed varig adskilt. Vi får et skille mellom tidliger

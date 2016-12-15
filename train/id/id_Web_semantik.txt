@@ -1,0 +1,18 @@
+Web Semantik (atau Web Bermakna) merujuk kepada teknik yang memungkinkan konten pada Web untuk dapat lebih dimengerti oleh komputer. Istilah Web Semantik itu sendiri dicetuskan oleh Tim Berners-Lee, penemu World Wide Web. Sekarang, prinsip Web Semantik disebut-sebut akan muncul pada Web 3.0, generasi ketiga dari World Wide Web. Bahkan, Web 3.0 itu sendiri sering disamakan dengan Web Semantik. Teknologi Web Semantik ini antara lain adalah RDF, OWL dan SPARQL.
+Tim Berners-Lee berkata:
+
+‘’People keep asking what Web 3.0 is. I think maybe when you've got an overlay of scalable vector graphics - everything rippling and folding and looking misty - on Web 2.0 and access to a semantic Web integrated across a huge space of data, you'll have access to an unbelievable data resource‘’
+Tim Berners-Lee. A ‘More Revolutionary’ Web [1]
+
+
+== Catatan ==
+Victoria Shannon. A ‘More Revolutionary’ Web
+
+
+== Daftar Pustaka ==
+I Wulandari, I Wayan Simri Wicaksana. Semantic-Web Solusi Interoperabilitas Informasi Sebagai Penunjang Jaringan Sistem Produksi.
+
+
+== Pranala Luar ==
+(Indonesia) Teknologi Semantik Web: Trend dan Riset pada Sistem berbasis Ontologi. di amutiara.wordpress.com
+I Wulandar

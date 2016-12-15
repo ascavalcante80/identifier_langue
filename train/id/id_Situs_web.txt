@@ -1,0 +1,153 @@
+Situs web (bahasa Inggris: website) adalah suatu halaman web yang saling berhubungan yang umumnya berada pada peladen yang sama berisikan kumpulan informasi yang disediakan secara perorangan, kelompok, atau organisasi. Sebuah situs web biasanya ditempatkan setidaknya pada sebuah server web yang dapat diakses melalui jaringan seperti Internet, ataupun jaringan wilayah lokal (LAN) melalui alamat Internet yang dikenali sebagai URL. Gabungan atas semua situs yang dapat diakses publik di Internet disebut pula sebagai World Wide Web atau lebih dikenal dengan singkatan WWW. Meskipun setidaknya halaman beranda situs Internet umumnya dapat diakses publik secara bebas, pada prakteknya tidak semua situs memberikan kebebasan bagi publik untuk mengaksesnya, beberapa situs web mewajibkan pengunjung untuk melakukan pendaftaran sebagai anggota, atau bahkan meminta pembayaran untuk dapat menjadi aggota untuk dapat mengakses isi yang terdapat dalam situs web tersebut, misalnya situs-situs yang menampilkan pornografi, situs-situs berita, layanan surel (e-mail), dan lain-lain. Pembatasan-pembatasan ini umumnya dilakukan karena alasan keamanan, menghormati privasi, atau karena tujuan komersil tertentu.
+Sebuah halaman web merupakan berkas yang ditulis sebagai berkas teks biasa (plain text) yang diatur dan dikombinasikan sedemikian rupa dengan instruksi-instruksi berbasis HTML atau XHTML, kadang-kadang pula disisipi dengan sekelumit bahasa skrip. Berkas tersebut kemudian diterjemahkan oleh peramban web dan ditampilkan seperti layaknya sebuah halaman pada monitor komputer.
+Halaman-halaman web tersebut diakses oleh pengguna melalui protokol komunikasi jaringan yang disebut sebagai HTTP, sebagai tambahan untuk meningkatkan aspek keamanan dan aspek privasi yang lebih baik, situs web dapat pula mengimplementasikan mekanisme pengaksesan melalui protokol HTTPS.
+
+
+== Sejarah ==
+Penemu situs web adalah Sir Timothy John "Tim" Berners-Lee, sedangkan situs web yang tersambung dengan jaringan pertamakali muncul pada tahun 1991. Maksud dari Tim ketika merancang situs web adalah untuk memudahkan tukar menukar dan memperbarui informasi pada sesama peneliti di tempat ia bekerja. Pada tanggal 30 April 1993, CERN (tempat dimana Tim bekerja) mengumumkan bahwa WWW dapat digunakan secara gratis oleh publik.
+Sebuah situs web bisa berupa hasil kerja dari perorangan atau individu, atau menunjukkan kepemilikan dari suatu organisasi, perusahaan. biasanya pembahasan dalam sebuah situs web merujuk pada sebuah ataupun beberapa topik khusus, atau kepentingan tertentu. Sebuah situs web bisa berisi pranala yang menghubungkan ke situs web lain, demkian pula dengan situs web lainnya. Hal ini terkadang membuat perbedaan antara situs web yang dibuat oleh individu ataupun perseorangan dengan situs web yang dibuat oleh organisasi bisnis menjadi tidak begitu jelas.
+Situs web biasanya ditempatkan pada server web. Sebuah server web umumnya telah dilengkapi dengan perangkat-perangkat lunak khusus untuk menangani pengaturan nama ranah, serta menangani layanan atas protokol HTTP yang disebut sebagai Server HTTP (bahasa Inggris: HTTP Server) seperti Apache HTTP Server, atau Internet Information Services (IIS).
+
+
+== Deskripsi ==
+Supaya bisa berkomunikasi dengan semua komputer yang tersambung ke Internet, digunakan sebuah protokol komunikasi yang menggunakan TCP/IP (Transmission control protocol/Internet Protocol). Setiap komputer yang terhubung ke Internet mempunyai sebuah alamat, misalnya 192.168.14.96. Untuk memperoleh informasi atau data di Internet, kita dapat mengaksesnya dengan mengetikkan suatu alamat web pada address bar. Alamat suatu situs di Internet disebut nama domain. Jadi nama domain adalah alamat permanen situs didunia Internet yang digunakan untuk mengidentifikasikan sebuah situs. Dengan kata lain Domain Name adalah alamat yang digunakan untuk menemukan suatu situs pada Internet.
+Kaitannya dengan protokol komunikasi TCP/IP, nama domain dapat diibaratkan seperti buku telepon, kita menggunakan sebuah nomor untuk memanggil seseorang. misalnya ketika kita mengekses situs www.wikipedia.com maka penjelajah web Internet Explorer akan menghubungi sebuah IP misalnya 202.68.0.134.
+Istilah umum dan nama domain adalah URL (uniform resource locator) yang merupakan sarana untuk menentukan alamat yang akan dipakai untuk mengakses Internet. Alamat URL merupakan alamat khusus untuk file tertentu yang bisa diakses oleh Internet. Alamat URL mencangkup semua jenis file lain yang bisa diakses oleh Internet, misalnya file html, zip, rar, jpg, gif, dan png.
+Alamat URL yang lengkap adalah sebagai berikut: Protokol://nama-host/path/nama file
+Protokol menunjukan jenis protokol yang akan digunakan, yaitu http, ftp, dan sebagainya.
+Nama host adalah nama host (domain) yang dipanggil.
+Path adalah lokasi atau direktori tempat file-file diletakan pada web server.
+nama file adalah nama file yang dipanggil.
+Contoh: http://www.wikipedia.co.id/artikel/ensiklopedia.htm
+URL diatas menggunakan protokol http
+Nama domain adalah www.wikipedia.co.id
+Path atau direktori yang dituju adalah artikel
+Nama file yang diakses adalah ensiklopedia.htm
+Secara garis besar, situs web bisa digolongkan menjadi 3 bagian yaitu:
+Situs web statis
+Situs web dinamis
+Situs web interaktif
+
+
+== Situs web statis ==
+Situs web statis merupakan situs web yang memiliki isi tidak dimaksudkan untuk diperbarui secara berkala sehingga pengaturan ataupun pemutakhiran isi atas situs web tersebut dilakukan secara manual. Ada tiga jenis perangkat utilitas yang biasa digunakan dalam pengaturan situs web statis:
+Penyunting teks merupakan perangkat utilitas yang digunakan untuk menyunting berkas halaman web, misalnya: Notepad atau TextEdit.
+Penyunting WYSIWYG merupakan perangkat lunak utilitas penyunting halaman web yang dilengkapi dengan antar muka grafis dalam perancangan serta pendisainannya, berkas halaman web umumnya tidak disunting secara lengsung oleh pengguna melainkan utilitas ini akan membuatnya secara otomatis berbasis dari laman kerja yang dibuat oleh pengguna. perangkat lunak ini misalnya: Microsoft Frontpage, Macromedia Dreamweaver.
+Penyunting berbasis templat merupakan beberapa utilitas tertentu seperti Rapidweaver dan iWeb, pengguna dapat dengan mudah membuat sebuah situs web tanpa harus mengetahui bahasa HTML, melainkan menyunting halaman web seperti halnya halaman biasa, pengguna dapat memilih templat yang akan digunakan oleh utilitas ini untuk menyunting berkas yang dibuat pengguna dan menjadikannya halam web secara otomatis.
+
+
+== Situs web dinamis ==
+Situs web dinamis merupakan situs web yang secara spesifik didisain agar isi yang terdapat dalam situs tersebut dapat diperbarui secara berkala dengan mudah. Sesuai dengan namanya, isi yang terkadung dalam situs web ini umumnya akan berubah setelah melewati satu periode tertentu. Situs berita adalah salah satu contoh jenis situs yang umumnya mengimplementasikan situs web dinamis.
+Tidak seperti halnya situs web statis, pengimplementasian situs web dinamis umumnya membutuhkan keberadaan infrastruktur yang lebih kompleks dibandingkan situs web statis. Hal ini disebabkan karena pada situs web dinamis halaman web umumnya baru akan dibuat saat ada pengguna yang mengaksesnya, berbeda dengan situs web statis yang umumnya telah membentuk sejumlah halaman web saat diunggah di server web sehingga saat pengguna mengaksesnya server web hanya tinggal memberikan halaman tersebut tanpa perlu membuatnya terlebih dulu.
+Untuk memungkinkan server web menciptakan halaman web pada saat pengguna mengaksesnya, umumnya pada server web dilengkapi dengan mesin penerjemah bahasa skrip (PHP, ASP, ColdFusion, atau lainnya), serta perangkat lunak sistem manajemen basisdata relasional seperti MySQL.
+Struktur berkas sebuah situs web dinamis umumnya berbeda dengan situs web statis, berkas-berkas pada situs web statis umumnya merupakan sekumpulan berkas yang membentuk sebuah situs web. Berbeda halnya dengan situs web dinamis, berkas-berkas pada situs web dinamis umumnya merupakan sekumpulan berkas yang membentuk perangkat lunak aplikasi web yang akan dijalankan oleh mesin penerjemah server web, berfungsi memanajemen pembuatan halaman web saat halaman tersebut diminta oleh pengguna. ==
+
+
+== Domain ==
+
+Domain adalah adalah alamat sebuah situs web, sebenarnya alamat dari situs-situs yang eksis di Internet ini bentuk dasarnya berupa angka-angka, contohnya 17.125.135.147 bila angka ini diketik di addres bar di penejelajah web maka akan terbuka situs web Google, contoh lain 72.30.38.140 kalau ini yang diketik maka akan terbuka Yahoo. Penggunaan angka-angka ini sering disebut dengan alamat IP padahal itu sebenarnya adalah alamat domain.
+Domain menggunakan kata-kata bertujuan supaya penggunaannya lebih mudah diingat daripada harus menghafal urutan angka-angka yang panjang. Oleh sebab itu, para ahli Internet membuat sistem penamaan domain dalam bentuk kata untuk pengganti urutan angka-angka tersebut.
+Bagian-bagian dari domain.
+nama domain
+extension (ekstensi) yang digunakan
+Contohnya: wikipedia.org yang menjadi nama domain adalah google dan ekstensi yang digunakan adalah .org. Pada awalnya, ekstensi domain tidak begitu banyak, sekarang ekstensi domain sudah sangat banyak di antaranya (.com, .edu, .co.id, .gov, .org dan sebagainya). Pemberian extensi terhadap sebuah domain tidak boleh sembarangan terutama untuk .edu, .gov, .go.id dan berbagai ekstensi yang hanya disediakan bagi lembaga pendidikan dan pemerintah saja.
+
+
+=== Subdomain ===
+Subdomain jika analogikan sebagai sebuah buku, dalam sebuah buku ada bab dan juga ada subbab yang merupakan bagian dari sebuh bab. Begitu juga dengan domain, subdomain merupakan halaman bagian dari sebuah domain. Contohnya http://id.wikipedia.org/ wikipedia.org merupakan sebuah domain dan id adalah subdomain dari domain wikipedia.org tersebut.
+
+
+==== Top Level Domain ====
+Top Level Domain Name adalah deretan kata dibelakang nama domain seperti .com (dotcommercial), .net (dotnetwork), .org (dotorganization), .edu (doteducation), .gov (dotgoverment), dan .mil (dotmilitary).
+Ada dua macam Top Level Domain, yaitu Global Top Level Domain (gTLD) dan Country Code Top Level Domain (ccTLD). gTLD adalah seperti yang diungkapkan diatas dan ccTLD adalah TLD yang diperuntukkan untuk masing-masing negara, seperti Indonesia dengan kode ID (co.id, net.id, or.id) atau Singapura dengan kode SG (com.sg, net.sg, dsb).
+
+
+==== Second Level Domain (SLD) ====
+Second Level Domain Name (SLD) adalah nama domain yang anda daftarkan. Misalnya nama domain yang anda daftarkan adalah domainku.com, maka domainku adalah SLD dan .comnya adalah TLD.
+
+
+==== Third Level Domain ====
+Third Level Domain adalah nama sebelum Second Level Domain dan Top Level Domain. Misalnya nama domain yang anda miliki adalah domainku.com, maka anda dapat menambahkan nama lain sebelum domainku, yaitu mail.domainku.com atau search.domainku.com.
+
+
+== Jenis Domain ==
+Domain dibedakan dalam beberapa tipe sesuai dengan tujuan dan kegunaan masing-masing. Kita bebas dalam memilih dan menggunakan domain yang kita inginkan (kecuali beberapa domain yang harus memiliki izin khusus) namun penggunaan domain harus dipertanggung jawabkan penggunaannya. Ada baiknya penggunaan domain sesuai dengan content dari blog atau situs web. Misalnya domain .info, benar-benar digunakan sebagai media informasi. Berikut adalah jenis-jenis domain:
+
+
+=== GTLD (Generic Top Level Domain) ===
+Domain jenis ini adalah sebenarnya milik Amerika, namun karena domain-domain GTLD sering digunakan sehingga terlihat seperti domain standar untuk alamat Internet.
+Contoh GTLD:
+.com: digunakan untuk kepentingan komersial atau perusahaan.
+.net: digunakan untuk kepentingan network infrastruktur.
+.org: digunakan untuk kepentingan organisasi.
+.info: digunakan untuk kepentingan informasional situs web.
+.name: digunakan untuk kepentingan keluarga atau perorangan.
+.edu: digunakan untuk kepentingan pendidikan (terbatas hanya untuk pendidikan).
+.mil: digunakan untuk kepentingan militer (terbatas hanya untuk militer).
+.biz: digunakan untuk kepentingan bisnis.
+.tv: digunakan untuk entertainment seperti televisi, radio, majalah, dan lain-lain.
+.travel:digunakan untuk kepentingan bisnis pariwisata.
+
+
+=== ccTLD’s (Country Coded Top Level Domains) ===
+Domain yang disediakan untuk masing-masing negara seperti:
+Korea menggunakan: .kr
+Indonesia menggunakan: .id
+Singapura menggunakan: .sg
+Malaysia menggunakan: .my
+China menggunakan: .cn
+Untuk Indonesia terbagi menjadi beberapa sub domain seperti:
+.or.id: digunakan untuk organisasi.
+.co.id: digunakan untuk komersial.
+.go.id: digunakan untuk pemerintahan (khusus pemerintahan dan harus ada izin dari pemerintah bersangkutan).
+.ac.id: digunakan untuk pendidikan seperti universitas.
+.sch.id: digunakan untuk sekolah dasar.
+.net.id: digunakan untuk Internet provider.
+.web.id: digunakan untuk umum.
+
+
+== .id ==
+
+.id adalah top-level domain kode negara Internet untuk Indonesia. Sejak 1 September 2005, domain .id dikelola oleh Kementerian Komunikasi dan Informasi Indonesia. Sebelumnya domain .id dikelola melalui kerjasama antara Asosiasi Penyelenggara Jasa Internet Indonesia (APJII) dan pengelola domain .id (ccTLD-ID).
+Mulai 1 Mei 2007 pengelolaan domain .id sepenuhnya berada di tangan Pengelola Nama Domain Internet Indonesia, sebuah organisasi nirlaba yang dibentuk komunitas teknologi informasi di Indonesia.
+
+
+== URL (uniform resource locator) ==
+
+URL adalah Uniform Resource Locator, yaitu cara penamaan alamat file di Internet. URL merupakan serangkaian karakter (dapat berupa huruf, angka, ataupun simbol) yang sesuai dengan format standar yang sudah ditentukan, URL digunakan untuk menunjukkan alamat/ address suatu sumber yang ada. URL biasa disebut dengan nama domain, contohnya http://www.ensiklopedia.com. URL diciptakan pertama kalinya oleh Tim Berners-Lee yaitu pada tahun 1991.
+URL adalah singkatan dari uniform resource locators yang berarti suatu “pathname” untuk mengidentifikasi sebuah dokumen di web. Di dalam URL terdapat informasi nama mesin/host (dalam hal ini komputer) yang akan diakses, nama dokumen beserta logical pathnamenya serta jenis protokol yang akan digunakan untuk melakukan akses ke web.
+Pengertian URL (uniform resource locator) adalah rangkaian karakter menurut suatu format standar tertentu, yang digunakan untuk menunjukkan alamat suatu sumber seperti dokumen dan gambar di Internet. URL pertama kali diciptakan oleh Tim Berners-Lee pada tahun 1991 agar penulis-penulis dokumen dokumen dapat mereferensikan pranala ke World Wide Web. Sejak 1994, konsep URL telah dikembangkan menjadi istilah Uniform Resource Identifier (URI) yang lebih umum sifatnya.
+Contoh dari URL adalah sebagai berikut:
+http://www.wikipedia.org/
+http://www.ensiklopedia.com/
+URL mempunyai beberapa bagian penting, di antaranya yaitu:
+Protokol
+Tanpa adanya protocol yang tepat maka kita tidak akan dapat mengakses URL, contoh protokol yaitu: http://, https://, ftp://
+Alamat Server/ Penyedia
+Dalam mengakses URL tentunya kita harus mengetahui alamat server/ penyedianya. Contohnya yaitu: temukanpengertian.blogspot.com
+Path File
+Merupakan tempat/ lokasi file yang akan kita tuju. Contohnya kita ingin melihat halaman pada sebuah situs web pada blog ini maka file pathnya yaitu:
+
+
+=== Fungsi atau kegunaan URL ===
+Fungsi atau Kegunaan URL adalah:
+Sebagai pengidentifikasi sebuah dokumen di situs web.
+Untuk memudahkan kita dalam mengakses suatu dokumen melalui situs web.
+Untuk memberikan penamaan terhadap suatu berkas atau dokumen pada situs web.
+Memudahkan kita untuk mengingat suatu alamat situs web.
+
+
+== cPanel ==
+
+cPanel adalah web hosting control panel yang paling populer di dunia. Fasilitas ini memudahkan pemilik akun hos untuk mengatur seluruh fasilitas hos web yang dimilikinya.
+Melalui cPanel, Anda dapat mengelola berbagai fasilitas hosting, di antaranya:
+Mengelola surat-e
+Mengunggah situs web
+Membuat dan mengunggah basis data
+Melihat statistik situs web
+
+
+== Server web ==
+
+Server web atau peladen web dapat merujuk baik pada perangkat keras ataupun perangkat lunak yang menyediakan layanan akses kepada pengguna melalui protokol komunikasi HTTP atau HTTPS atas berkas-berkas yang terdapat pada suatu situs web dalam layanan ke pengguna dengan menggunakan aplikasi tertentu seperti peramban web.
+Penggunaan pa

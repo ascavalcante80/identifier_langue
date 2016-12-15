@@ -1,0 +1,7 @@
+ ==
+Linguaggio lineare
+Gerarchia di Chomsky per le grammatiche formali
+
+
+== Bibliografia ==
+Giorgio Ausiello, Fabrizio d’Amore, Giorgio Gambosi. Linguaggi, Modelli, Complessità. Franco Angeli Editore, 2003 ISBN 88-464-4470-1

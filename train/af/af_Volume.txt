@@ -1,0 +1,34 @@
+Volume, (ook genoem kapasiteit of inhoud) is die hoeveelheid spasie wat 'n voorwerp (liggaam, ruimtelike figuur) inneem. As basis geld dit dat die inhoud van 'n reghoekige blok gelyk is aan lengte × breedte × hoogte. Volume word gemeet in kubieke meter (m³), desimeter (dm³), sentimeter (cm³), millimeter (mm³), ensovoorts. Om vloeistowwe se volume te meet, word 'n maatsilinder gebruik. 'n Vloeistof word versigtig in die silinder gegooi en so word die volume bepaal.
+Mens bepaal die volume van 'n voorwerp V deur die ruimte op te deel in volumes ΔV van 1 eenheid, en die eenhede wat in V lê op te tellen. Omdat nie elke eenheid presies in V lê nie, gee dit 'n benadering:
+.
+Deur die eenhede steeds kleiner te neem word hierdie benadering noukeuriger. Die limietproses lei tot 'n ruimtelike integraal wat in die onderstaande formule gegee is.
+Die SI-eenheid van volume is die kubieke meter, m³.
+
+
+== Formule ==
+Die inhoud van 'n willekeurige voorwerp kan bereken word uit .
+
+
+=== Voorbeeld ===
+Die volume I van die silinder met hoogte h en straal r vanaf die grondvlak, met die z-as as silinderas en staande op die xy-vlak, bereken ons as volg:
+
+
+== Formule vir volumes ==
+
+ (waar x die lengte van die sye is)
+
+ (L = Lengte, B = Breedte, H = Hoogte)
+
+
+== Omskakelings ==
+1 liter = 1000 ml = 109 mm3 = 1000 cm3 = 1 dm3 = 0.001 m3
+1 Amerikaanse gallon = 3.785 liter ~ 750 ml × 5
+1 Imperiële gallon = 4.545 liter ~ 750 ml × 6
+Om te onthou hoeveel 'n Amerikaanse gallon en 'n Imperiële gallon is, is daar 'n baie maklike manier:
+'n Imperiële gallon is 'n kas whiskey, m.a.w. 6 bottels: 750 ml × 6 = 4.5 liter ~ 1 Imperiële gallon.
+Lank gelede het iemand whiskey ingevoer van Skotland na Amerika en bepaal dat 'n kas whiskey slegs 5 bottels is omdat hy vir homself kommissie gevat het (een bottel). Dus is 'n Amerikaanse gallon 750 ml × 5 = 3.75 ~ 1 Amerikaanse gallon
+
+
+=== Volumevloei ===
+1 Agpm (Amerikaanse galonne per minuut) × [60 min/h] × [3.785e-3 m3/Amerikaanse gall] = 0.2271 m3/h
+1 Igpm (Imperiële

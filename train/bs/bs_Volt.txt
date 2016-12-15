@@ -1,0 +1,96 @@
+Volt (simbol: V) je mjerna jedinica SI sistema za napon, odnosno električku razliku potencijala. Broj volti je mjera jačine električnog izvora u smislu koliko je snage potrebno proizvesti za željenu jakost struje. Jedinica volt je ime dobila u čast Alessandra Volte (1745–1827), koji je izumio galvanski članak, prvu hemijsku bateriju.
+
+
+== Definicija ==
+
+Volt se definiše kao razlika potencijala na krajevima provodnika kada struja od jednog ampera disipira snagu od jednog vata. Odnosnu, u SI sistemu m2 · kg · s−3 · A−1, što se isto tako može zapisati i kao joul energije po kulonu napona, J/C.
+1 V = 1 W/A = 1 m2•kg•s–3•A–1
+Od 1990. Volt je međunarodno definisan, za praktična mjerenja, korištenjem Josephsonovog efekta, gdje je uobičajena vrijednost uzeta kao Josephsonova konstanta, definisana u 18-om vijeku kao
+K{J-90} = 0.4835979 GHz/µV.
+
+
+== Objašnjenje ==
+Razliku električnog potencijala možemo zamisliti kao sposobnost pomicanja električnog naboja kroz otpor. U suštini, volt mjeri koliko kinetičke energije posjeduje pojedini elektron. Broj elektrona se mjeri kao napon, u kulonima. Stoga volt pomnožen s tokom struje, mjerna jedinica amper što je kulon po sekundi, daje ukupnu električnu snagu struje, u vatima. U vrijeme kad se u fizici riječ sila koristila dosta slobodno, razlika potencijala je nazvana kao elektromotorna sila ili ems – pojam koji se i danas koristi u pojedinom kontekstu.
+
+
+=== Razlika električnog potencijala (napon) ===
+Između dviju tačaka u električnom polju, poput onoga u električnom krugu, razlika potencijala jednaka je razlici njihovih električnih potencijala. Razlika je proporcionalna elektrostatskoj sili koja teži potiskivanju elektrona, ili ostalih nosioca naboja, iz jedne tačke u drugu. Razlika potencijala, električni potencijal i elektromotorna sila se mjere u voltima, vodeći obično prema nazivu napon i simbolu V (ponekad se označava i s ).
+Napon se može pribrajati na sljedeći način: napon između A i C jednak je sumi napona između A i B i između B i C. Dvije tačke električnog kruga koje su spojene idealnim provodnikom, provodnikom bez otpora i bez prisutnosti promjenjivog magnetskog polja, imaju razliku potencijala jednaku nuli. Međutim drugi parovi tačaka mogu isto tako imati razliku potencijala jednaku nuli. Ako takve dvije tačke povežemo provodnikom kroz njega neće teći struja. Različite napone u strujnom krugu možemo izračunati korištenjem Kirchhoffovih zakona.
+Napon je svojstvo električnog polja, a ne pojedninih elektrona. Elektron koji se giba kroz razliku napona doživljava povećanje energije, često mjereno u elektron voltima. Ovaj efekt analogan je padanju mase s određene visine u gravitacijskom polju.
+
+
+=== Hidraulička analogija ===
+Ako električni krug promatramo kao analognu mrežu cijevi u kojima cirkuliše voda, pogonjena crpkama u prostoru u kojem ne djeluje gravitacija, tada razlika potencijala odgovara razlici pritisaka tekućine između dviju tačke. Ukoliko postoji razlika pritisaka između dvije tačke, tada voda teče iz prve tačke prema drugoj pri čemu može obavljati rad, kao na primjer pokretati turbinu.
+Ova hidraulička analogija je korisna metoda za poučavanje velikog broja električnih pojmova. U hidrauličkom sistemu, rad potreban za pokretanje vode jednak je pritisku pomnoženom sa volumenom pomaknute vode. Slično, u električnom krugu, rad potreban za pomicanje elektrona ili ostalih nosioca naboja jednak je 'električnom pritisku' (stari izraz za napon) pomnoženom s količinom premještenog električnog naboja. Napon je pogodan način kvantificiranja sposobnosti obavljanja rada.
+
+
+=== Tehnička definicija ===
+Razlika električnog potencijala se definiše kao iznos rada po naboju koji je potreban za pomicanje električnog naboja iz druge tačke u prvu, ili ravnopravno, iznos rada koji jedinica naboja koja protječe iz prve tačke prema drugoj može proizvesti. Razlika potencijala između dvije tačke a i b je linijski integral električnog polja E:
+
+
+== Korisne formule ==
+
+
+=== Istosmjerni krugovi ===
+
+Gdje je: U=napon, I=struja, R=otpor, P=snaga
+
+
+=== Izmjenični krugovi ===
+
+Gdje je: U=napon, I=struja, R=otpor, P=snaga, Z=impendancija, θ=fazni kut
+
+
+=== Izmjenično pretvaranje ===
+
+Gdje je:
+Upk=vršni napon (engl. Peak Voltage),
+Uppk=napon od-vrha-do-vrha (engl. Peak-to-Peak Voltage),
+Uavg=srednji napon (engl. Average Voltage),
+Urms=efektivni napon (engl. Effective Voltage)
+
+
+=== Ukupan napon ===
+Serijski spoj naponskih izvora:
+ 
+Paralelni spoj naponskih izvora:
+ 
+
+
+=== Padovi napona ===
+
+Na otporniku (otpornik n):
+
+Na kondenzatoru (kondenzator n):
+
+Na zavojnici (zavojnica n):
+
+Gdje je: U=napon, I=struja, R=otpor, X=reaktancija
+
+
+== Primjeri ==
+
+
+=== Naponski izvori ===
+
+Uobičajeni izvori EMS su:
+baterija
+dinamo (razlika potencijala se generiše na krajevima električki vodljivog materijala koji se giba okomito na smjer magnetskog polja
+elektrostatska indukcija (kada se dva različita električki izolirajuća materijala međusobno trljaju stvara se elektrostatski izboj)
+kondenzator (u stvari element za pohranu energije proizvedene na nekom drugom izvoru)
+
+
+=== Uobičajeni naponi ===
+
+Nominalni naponi poznatih izvora:
+Radni potencijal neuronske ćelije: 40 milivolti
+Jedan članak, jednokratne baterije (npr. AAA, AA, C i D članci): 1.5 volti 
+Električni sistem automobila: 12 volti 
+Domaćinstva: 120 volti Sjeverna Amerika, 230 volti Evropa [1]
+Visokonaponski dalekovod: 110 kilovolti  i više (1150 kV je rekord iz 2005)
+Munja: 100 megavolti
+
+
+== Mjerni instrumenti ==
+
+Instrumenti za mjerenje razlike potencijala obuhvaćaju voltmetar, potenciometar (kao mjerni sklop) i osciloskop. Voltmetar radi na principu mjeren

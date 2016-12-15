@@ -1,0 +1,12 @@
+wschodzącego orbity podana w stopniach całkowitych i dziesiętnych. Węzeł – punkt przecięcia orbity ciała z płaszczyzną równika. Wartość (0.0000° – 359.9999°). Znaki = [18 – 25]
+EEEEEEE – Eccentricity – ekscentryczność, spłaszczenie orbity. Znaki = [27 – 33]
+PPP.PPPP – Argument of Perigee – Argument perygeum podany w stopniach całkowitych i dziesiętnych – kąt zawarty między promieniem wodzącym ciała w perygeum, a linią węzłów, liczony od węzła wstępującego w kierunku ruchu ciała w płaszczyźnie orbity. Element określa położenie osi wielkiej w płaszczyźnie jej orbity. Węzeł – punkt przecięcia orbity ciała z płaszczyzną równika. Znaki = [35 – 42]
+YYY.YYYY – Mean Anomaly – Średnia anomalia w czasie Epoki wygenerowania parametrów TLE, podana w stopniach całkowitych i dziesiętnych. Wartość 0.0000° – 359.9999°. Znaki = [44 – 51]
+ZZ.ZZZZZZZZ – Mean Motion – Ilość obiegów Ziemi w ciągu dnia. Znaki = [53 – 63]
+FFFFF – Revolution number at epoch (Numer orbit w epoce) – Ilość obiegów Ziemi wykonana przez satelitę od jego wystrzelenia. Znaki = [64 – 68]
+
+
+== Linki zewnętrzne ==
+Orbitron - Satellite Tracking System
+SkyMap Software Home Page (ang.)
+CelesTrak: Current NORAD Two-Line Element Sets (ang.)

@@ -1,0 +1,60 @@
+cych się z elementów XHTML, a mogących też zawierać elementy spoza XHTML; nazywa się je językami rodziny XHTML. Niektóre języki rodziny XHTML to:
+XHTML Basic – okrojona wersja XHTML przeznaczona dla telefonów komórkowych i innych urządzeń przenośnych; następca WML i C-HTML
+XHTML Mobile Profile – XHTML Basic wzbogacony o kilka dodatkowych elementów
+XHTML-Print – przeznaczony do drukowania.
+W oparciu o modularyzację powstał również XHTML 1.1. Dzięki temu można bardzo łatwo dostosować ten język do swoich potrzeb. Na przykład rozszerzenie XHTML 1.1 o atrybut target (umożliwiający otwieranie strony w nowym oknie) sprowadza się do użycia trzech encji parametrycznych w DTD: [1]; przykład dokumentu wykorzystującego to DTD: [2].
+
+
+== Typy zawartości XHTMLEdytuj ==
+XHTML 1.0 spełniający zasady kompatybilności z HTML powinno się wysyłać jako text/html tylko dla starszych przeglądarek. W tym typie zawartości dokument jest traktowany jak dokument HTML (aplikacja SGML-a) z błędami składniowymi, a więc m.in. nie jest sprawdzana poprawność składniowa, dokument jest traktowany jako tzw. „zupa znaczników”, a dokument nie ma żadnych zalet poprawnego XHTML-a (w szczególności osadzania innych języków).
+Typ application/xhtml+xml został stworzony specjalnie dla XHTML. Przeglądarki obsługujące ten typ automatycznie sprawdzają zgodność dokumentu z zasadami XML. W application/xhtml+xml nie ma już kilku nietypowych cech charakterystycznych dla HTML, np. element body nie zachowuje się już tak, jak gdyby był elementem głównym (bo jest nim html), a przede wszystkim można osadzać inne aplikacje XML bezpośrednio w kodzie XHTML. Odpowiednikiem wysłania pliku z tym typem na dysku lokalnym jest zmiana rozszerzenia pliku z .html (lub .htm) na .xhtml (lub .xht).
+Typy application/xml i text/xml – są to natywne typy zawartości XML, a jako że XHTML jest aplikacją XML-a, można ich używać równoważnie z application/xhtml+xml.
+
+
+=== Negocjacja zawartościEdytuj ===
+Internet Explorer nie potrafi odczytać stron XHTML podanych jako application/xhtml+xml ― w domyślnej konfiguracji będzie wyświetlał okno dialogowe z prośbą o pobranie takiego pliku. Ogranicza to w znacznym stopniu możliwość korzystania z typu XHTML w sieci WWW.
+Problem ten można obejść przez wysyłanie informacji o typie zawartości ustawionej na application/xhtml+xml przeglądarkom go obsługującym, natomiast pozostałym przesyłanie dokumentu z typem text/html. Można to osiągnąć stosując metodę negocjowania zawartości (content negotiation) po stronie serwera. Można wykorzystać do tego język skryptowy, np. PHP:
+
+Obejścia dla walidatora W3C i Chrome i Safari (WebKit) są konieczne, gdyż obsługują one XHTML, ale wysyłają w nagłówku Accept ciąg */* lub nie wysyłają go wcale, jak Walidator.
+Inne przykłady odpowiednich skryptów można znaleźć na tych stronach: [3], [4], [5].
+
+
+== Przykłady dokumentów XHTMLEdytuj ==
+
+
+=== XHTML 1.1Edytuj ===
+
+Content-Type: application/xhtml+xml; charset="utf-8"
+
+
+=== XHTML 1.0 Strict kompatybilny z HTMLEdytuj ===
+Nie powinien być stosowany, używany tylko ze względu na niekompatybilność Internet Explorera z XHTML.
+
+Content-Type: text/html; charset="utf-8"
+
+
+=== HTML 5Edytuj ===
+
+Content-Type: application/xhtml+xml; charset=utf-8
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzneEdytuj ==
+Specyfikacja XHTML 1.0 – rekomendacja W3C (polski przekład)
+Specyfikacja modularyzacji XHTML – rekomendacja W3C (polski przekład starszej wersji)
+Specyfikacja XHTML 1.1 – rekomendacja W3C (polski przekład)
+Specyfikacja notacji ruby – rekomendacja W3C (polski przekład)
+Typy mediów XHTML – nota W3C
+XHTML 1.0 w XML Schema – nota W3C
+Modularyzacja XHTML w RELAX NG – nieoficjalny schemat
+Profil XHTML + MathML + SVG – szkic roboczy W3C
+XHTML 2.0 – szkic roboczy W3C
+Otwarty kurs XHTML (oparty na Wiki)
+
+
+=== WalidatoryEdytuj ===
+The W3C Markup Validation Service – walidator DTD dla HTML i XHTML
+WDG HTML Validator – walidator DTD dla HTML i XHTML
+XML schema validator – walidator XML Schema

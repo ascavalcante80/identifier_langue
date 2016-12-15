@@ -1,0 +1,26 @@
+agnetisk støj; populært sagt tilfældige, kaotiske radiobølger. Et eksempel på dette er termisk støj, som skabes overalt hvor den elektriske strøm møder modstand, og shot-støj.
+Dertil kommer Solen og andre himmellegemer som naturlige kilder for blandt andet radiobølger; studiet af disse bølger kaldes for radioastronomi.
+Støj kategoriseres efter deres frekvensspektrum (dens "indhold" af signaler, sorteret efter frekvens); man taler bl.a. om farvet støj og hvid støj.
+
+
+== Se også ==
+Analog elektronik
+Digital elektronik
+Elektronisk komponent
+Impedans
+Mikroelektronik
+Optoelektronik
+Point-to-point construction
+Telefon
+Transducer
+
+
+== Eksterne henvisninger ==
+
+
+=== Læreropgaver og projekter ===
+Colin Mitchell: 1 - 200 Transistor Circuits (on-line og en del også som e-bøger)
+http://www.electronics-tutorials.com/
+http://www.williamson-labs.com/
+http://my.integritynet.com.au/purdic
+http://www.ibiblio.org/kuphaldt/electricCircuits/

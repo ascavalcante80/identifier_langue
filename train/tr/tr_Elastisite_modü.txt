@@ -1,0 +1,3 @@
+Elastisite modülü, malzemenin kuvvet altında elastik şekil değişitirmesinin ölçüsüdür. Tanımı gereği Birim kesit alanına sahip bir malzemede (genellikle 1 mm2) birim boyu bir kat arttırmak için (örneğin 1m lik teli 2m yapmak için) uygulanması gerekli kuvveti gösterir. Kimi kaynaklarda Young modülü olarak da geçer.
+Elastik deformasyondaki birim uzama ile normal gerilme (çekme ya da basma gerilmesi) arasındaki doğrusal ilişkinin bir sonucu olup bir birim uzama başına gerilme olarak tanımlanır. Elastisite modülünün birimi N/m2'dir. Örneğin, yapı çeliği için elastisite modülü Eçelik=2×1011 N/m2, alüminyum için Ealüminyum=7×1010 N/m2'dir.
+Birim

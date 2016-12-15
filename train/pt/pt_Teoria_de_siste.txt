@@ -1,0 +1,64 @@
+A teoria de sistemas estuda, de modo interdisciplinar, a organização abstrata de fenômenos, independente de sua formação e configuração presente. Investiga todos os princípios comuns a todas as entidades complexas, e modelos que podem ser utilizados para a sua descrição.
+
+
+== Histórico ==
+A teoria de sistemas, cujos primeiros enunciados datam de 1925, foi proposta em 1937 pelo biólogo Ludwig von Bertalanffy, tendo alcançado o seu auge de divulgação na década de 50. (ALVAREZ, 1990). Em 1956 Ross Ashby introduziu o conceito na ciência cibernética. A pesquisa de Von Bertalanffy foi baseada numa visão diferente do reducionismo científico até então aplicada pela ciência convencional. Dizem alguns que foi uma reação contra o reducionismo e uma tentativa para criar a unificação científica.
+
+
+== Conceito ==
+O Sistema é um conjunto de partes interagentes e interdependentes que, conjuntamente, formam um todo unitário com determinado objetivo e efetuam determinada função (OLIVEIRA, 2002, p. 35).
+Sistema pode ser definido como um conjunto de elementos interdependentes que interagem com objetivos comuns formando um todo, e onde cada um dos elementos componentes comporta-se, por sua vez, como um sistema cujo resultado é maior do que o resultado que as unidades poderiam ter se funcionassem independentemente. Qualquer conjunto de partes unidas entre si pode ser considerado um sistema, desde que as relações entre as partes e o comportamento do todo sejam o foco de atenção (ALVAREZ, 1990, p. 16).
+Sistema é um conjunto de partes coordenadas e não relacionadas, formando um todo complexo ou unitário.
+
+
+== Conceitos fundamentais ==
+Entropia - todo sistema sofre deterioração;
+Sintropia, negentropia ou entropia negativa - para que o sistema continue existindo, tem que desenvolver forças contrárias à Entropia;
+Homeostase - capacidade do sistema manter o equilíbrio;
+Heterostase - toda vez que há uma ação imprópria (desgaste) do sistema, ele tende a se equilibrar. (OBS: O "estado de equilíbrio", segundo a lei da entropia, é um pouco diferente do que pode parecer pelo senso comum)
+Para as ciências administrativas, o pensamento sistêmico é muito importante pois as organizações envolvem vários aspectos:
+Transformações físicas necessárias à fabricação dos produtos e prestação dos serviços;
+Comunicação entre os agentes e colaboradores para desenvolver, produzir e entregar o produto ou serviço atendendo as expectativas e necessidades do cliente;
+Envolvimento das pessoas para que elas se empenhem no processo cooperativo;
+Desenvolvimento de competências, habilidades e conhecimentos, para que as pessoas tenham condições de realizar o trabalho da maneira esperada;
+Por esses motivos, as organizações podem ser entendidas como sistemas abertos.
+
+
+== Pensamento ==
+A ciência do século passado adotava a mecânica clássica como modelo do pensamento científico. Isso equivale a pensar nas coisas como mecanismos e sistemas fechados. A ciência de nossos dias adota o organismo vivo como modelo, o que equivale a pensar em sistemas abertos.
+
+
+== Sistema ==
+O sistema consiste em uma sistemática fatorial em grupos de influência de ações que fundamentam a Teoria Sistemática Geral.
+
+
+== Ambiente ==
+O ambiente de um sistema é um conjunto de elementos que não fazem parte do sistema, mas que podem produzir mudanças no estado do sistema.
+
+
+== Sistemas abertos ==
+Basicamente, a teoria de sistemas afirma que estes são abertos e sofrem interações com o ambiente onde estão inseridos. Desta forma, a interação gera realimentações que podem ser positivas ou negativas, criando assim uma auto regulação regenerativa, que por sua vez cria novas propriedades que podem ser benéficas ou maléficas para o todo independente das partes. Toda organização é um sistema aberto.
+
+
+== Sistemas fechados ==
+Esses sistemas são aqueles que não sofrem influência do meio ambiente no qual estão inseridos, de tal forma que ele se alimenta dele mesmo. A entropia apenas se mantém constante nos sistemas isolados.
+
+
+== Sinergia/entropia ==
+Embora seja possível tentar entender o funcionamento de um carro só olhando as suas partes separadamente, o observador talvez não consiga compreender o que é um carro só olhando suas peças. É preciso entender de que forma as diferentes partes do sistema interagem. Essa interação dos elementos do sistema é chamada de sinergia. A sinergia é o que possibilita um sistema funcionar adequadamente.
+Por outro lado a entropia (conceito da física) é a desordem ou ausência de sinergia. Um sistema pára de funcionar adequadamente quando ocorre entropia interna.
+
+
+== Realimentações ==
+Os organismos (ou sistemas orgânicos) em que as alterações benéficas são absorvidas e aproveitadas sobrevivem, e os sistemas onde as qualidades maléficas ao todo resultam em dificuldade de sobrevivência, tendem a desaparecer caso não haja outra alteração de contrabalanço que neutralize aquela primeira mutação. Assim, de acordo com Ludwig von Bertalanffy, a evolução permanece ininterrupta enquanto os sistemas se autorregulam.
+Um sistema realimentado é necessariamente um sistema dinâmico, já que deve haver uma causalidade implícita. Em um ciclo de retroação uma saída é capaz de alterar a entrada que a gerou, e, consequentemente, a si própria. Se o sistema fosse instantâneo, essa alteração implicaria uma desigualdade. Portanto em uma malha de realimentação deve haver um certo retardo na resposta dinâmica. Esse retardo ocorre devido à uma tendência do sistema de manter o estado atual mesmo com variações bruscas na entrada. Isto é, ele deve possuir uma tendência de resistência a mudanças.
+
+
+== Teoria reducionista e teoria sistêmica ==
+Segundo a teoria de sistemas, ao invés de se reduzir uma entidade (um animal, por exemplo.) para o estudo individual das propriedades de suas partes ou elementos (órgãos ou células), se deve focalizar no arranjo do todo, ou seja, nas relações entre as partes que se interconectam e interagem orgânica e estatisticamente.
+Uma organização realimentada e auto gerenciada, gera assim um sistema cujo funcionamento é independente da substância concreta dos elementos que a formam, pois estes podem ser substituídos sem dano ao todo, isto é, a auto-regulação onde o todo assume as tarefas da parte que falhou. Portanto, ao fazermos o estudo de sistemas que funcionam desta forma, não conseguiremos detectar o comportamento do todo em função das partes. Exemplos são as partículas de determinado elemento cujo comportamento individual, embora previsto, não poderá nos indicar a posição ou movimentação do todo.
+
+
+== Interdisciplinaridade ==
+Em biologia temos nas células um exemplo, pois não importa quão profundo o estudo individual de um neurônio do cérebro humano, este jamais indicará o estado de uma estrutura de pensamento, se for estirpado, ou morrer, também não alterará o funcionamento do cérebro. Uma área emergente da biologia molecular moderna que se utiliza bastante dos conceitos da Teoria de Sistemas é a Biologia Sistêmica.
+Em eletrônica, um transistor numa central telefônica digital, jamais nos dará informações sobre o sistema, embora sua falha possa causar algum tipo de alteração na rede. 

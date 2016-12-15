@@ -1,0 +1,64 @@
+Stål er en legering der jern og karbon er de primære legeringselementene. En klassisk definisjon er at stål er jern-karbonlegeringer med opptil 2,1 prosent karbon.
+
+
+== Legeringer ==
+Karbonet gjør stålet sterkere ved å legge seg interstitielt, det vil si mellom jernatomene, i krystallgitteret. Dermed hindrer karbonet jernatomene i å gli fra hverandre. Karbonatomene vil også påvirke fasetransformasjonene (endringen av krystallstrukturen) i metallet, slik at stålet blir mer herdbart. Herdbarhet er muligheten til å oppnå full hardhet med en gitt kjølingshastighet.
+Andre legeringselementer kan være mangan, krom eller nikkel. Når karboninnholdet i jern overstiger 2,1 prosent, blir legeringen betegnet som støpejern.
+Karbon brukes for å gjøre stålet sterkere, men reduserer seighet og sveisbarheten. Karbon er uten sammenlikning det som påvirker jernets egenskaper mest.
+Silisium eller aluminium brukes for å unngå at smelten bobler og danner porer innvendig (engelsk killed). Videre øker silisium hardheten og herdbarheten, men mindre enn mangan.
+Nitrogen.
+Magnesium brukes på samme måte som karbon, men har mindre effekt. Det øker likevel hardheten i stålet.
+Niob brukes for å øke styrken, formbarheten og duktiliteten.
+Vanadium i små mengder øker styrken i karbonstål.
+Nikkel gir sammen med krom økt herdbarhet, høyere slagstyrke og bedre utmattingsegenskaper. Om mye nikkel brukes er det fare for hydrogensprekker.
+Krom forbedrer herdbarheten.
+Molybden forbedrer herdbarheten mer enn krom, og brukes gjerne sammen med nikkel for å forbedre de mekaniske egenskapene.
+Titan.
+Mangan øker styrken, men er ikke så virkningsfullt som karbon. Det reduserer også duktivliteten og herdbarheten.
+
+
+== Produksjon ==
+I Norge produseres stål i Mo i Rana og på Jørpeland. Den største stålprodusenten i USA er Nucor Corporation.
+
+
+== Krystallstruktur ==
+En legering av jern og karbon kan eksistere ved to krystallstrukturer i fast fase, kalt ferritt og austenitt. Hvilken struktur som er til stede avhenger av temperatur, hvilke legeringselementer som er i stålet samt deres konsentrasjon. Overgangen mellom ferritt og austenitt er svært viktig ved varmebehandling av stållegeringer, ettersom de to fasene har svært forskjellige evne til å løse opp karbon. Ved varmebehandling kan egenskapene til stålet raffineres videre til de ønskede egenskaper. Generelt inneholder ingen stål- eller støpejern-legeringer mer karbon enn 6,7 %.
+
+
+=== Ferritt ===
+Ved romtemperatur vil en karbon-stållegering ha en ferrittisk struktur. Ferritt har en krystallstruktur av typen BCC (Body-Centered Cubic). Den ferrittiske krystallstrukturen vil vedvare ved oppvarming frem til en temperatur på minimum (avhengig av legeringsgrad) 727 grader celsius, hvor ved videre oppvarming austenitt vil dannes. Ved en temperatur på over 1394 grader celsius vil en ferrittisk fase igjen oppstå (avhengig av legeringsgrad) kalt deltafase.
+Ferrittisk stål vil ved en legeringsgrad på over 0,022 % karbon inneholde en viss mengde cementitt. Cementitt er et svært hardt og sprøtt keram som har stor innvirkning for styrken til legeringen.
+
+
+=== Austenitt ===
+Austenitt formes for karbonstål ved temperaturer på over minimum 727 grader celsius. Dersom denne fasen er ønsket ved lavere temperaturer (slik som austenittisk rustfritt stål) må stålet legeres videre med andre legeringselementer. Austenitt har en krystallstruktur av typen FCC (Face-Centered Cubic). Austenitt er i motsetning til ferritt ikke magnetisk.
+
+
+== Mikrostruktur ==
+Stållegeringer har flere typer mikrostrukturer som kan fremstilles ved varmebehandling. Hvilken mikrostruktur som fremkommer avhenger av legeringsgraden av karbon og avkjølingshastighet.
+For varmebehandling av stål med karbonkonsentrasjoner mellom 0,022 % og 0,76 % karbon får vi en proeutektoid struktur. Ved 0,76 % karbon får vi eutektoid struktur. For stållegeringer mellom 0,76 % og 2,1 % får vi en hyperutektoid struktur. Ved konsentrasjon høyere enn 2,1 % karbon har man støpejern.
+Avhenging av hastigheten som stålet kjøles ned med fra austenittisk fase vil strukturen inneholde forskjellige faser som deles inn i Widmanstätten ferritt, martensitt, øvre bainitt, nedre bainitt, perlitt og spheroditt.
+Hvilken fase som finnes og mengden av den enkelte fasen har svært stor innflytelse på egenskapene til stålet.
+
+
+== Stållegeringer ==
+Stål kan legeres til et stort spekter av forskjellige egenskaper avhengig av hvilke og mengden legeringselementer som stålet inneholder.
+
+
+=== Karbonstål ===
+Den mest lettvinte legeringen av stål er legeringer som bare inneholder karbon og jern. Legeringselementene er forholdsvis billige og blir derfor ofte brukt i et stort antall sammenhenger slik som konstruksjonsstål.
+
+
+==== Rustfritt stål ====
+Ettersom vanlig karbonstållegeringer er svært sensitive for korrosjon, blir stål gjerne legert opp til rustfritt stål med formålet om å passivisere det. Passivisering vil si at stålet blir motstandsdyktig mot korrosjon under bestemte forhold ettersom det formes et oksidsjikt på stålets overflate, som motvirker korrosjonsprosessen.
+
+
+== Atmosfærisk forurenset stål ==
+Det kreves mye uforurenset luft til produksjon av stål. Dette har den særegne følgen at alt stål produsert etter Hiroshima/Nagasaki og de over 2000 påfølgende atomprøvesprengningene har spor av radioaktivitet. I spesielt følsomme strålingsmonitorer, f.eks i romskip, er man derfor helt avhengig av å ha tilgang til stål produsert før 1945.
+Den viktigste kilden til slikt gammelt stål er restene av den keiserlige tyske krigsflåten, som etter første verdenskrig lå for anker i Scapa Flow på Orknøyene, og der ble senket av tyskerne selv. I de nærmeste tiårene ble store deler av flåten slept til dokkene i Firth of Forth, men fremdeles ligger noe av det gamle høykvalitetsstålet tilbake på få meters dyp. Utstyr som Apollo etterlot på månen, den del av Galileo-sonden som rakk frem til Jupiter, og Pioneer-sonden som nå har forlatt vårt solsystem - alt dette inneholdt rester av keiserens stolte marine.
+
+
+== Referanser ==
+^ Hughes, Paul, and William Flores. "The Effects of Large Scale Forgings and Heat Treatment on the Mechanical Performance of Mooring Connectors." Offshore Technology Conference. Offshore Technology Conference, 2010, side 3.
+^ DNV-OS-E302 Offshore mooring chains, 2013.
+^ Hughes, Paul, and William Flores. "The Effects of Large Scale Forgings and Heat Treatment on the Mechanical Performance of Mooring Connectors." Offshore Technology Conference. Offs

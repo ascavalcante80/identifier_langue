@@ -1,0 +1,5 @@
+De absolute helderheid of absolute magnitude van een hemellichaam is een maat voor de werkelijke lichtkracht ervan. De absolute helderheid is de helderheid die een hemellichaam zou hebben als het zich op de overeengekomen afstand van exact 10 parsec zou bevinden. Ze wordt uitgedrukt in magnitudes.
+De absolute helderheid van een object hangt alleen af van de werkelijke lichtkracht (omdat alle objecten daarvoor op een gelijke afstand worden 'gezet'). De schijnbare helderheid (zoals we die waarnemen) hangt ook af van de afstand tussen de waarnemer en het object.
+Als m de schijnbare helderheid van het object is en r de afstand, uitgedrukt in parsec, dan wordt de absolute helderheid gegeven door
+.
+Een ster van absolute helderheid 0 is 82,4 keer helderder dan de Zon. De helderste sterren zijn van absolute helderheid -7 of -8, de zwaks

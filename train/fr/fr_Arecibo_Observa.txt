@@ -1,0 +1,33 @@
+Le radiotélescope d’Arecibo est situé à Arecibo sur la côte nord de l’île de Porto Rico. Il est exploité par l’université Cornell avec un accord de coopération avec la National Science Foundation. L’observatoire fonctionne sous le nom de National Astronomy and Ionosphere Center (NAIC) même si les deux noms sont officiellement utilisés.
+Il est le plus grand radiotélescope simple jamais construit. Il collecte des données radioastronomiques, d'aéronomie terrestre et des données radar planétaires pour les scientifiques mondiaux. Son utilisation se fait après soumission de proposition à un comité indépendant.
+Même s'il a été utilisé pour divers usages, il est utilisé principalement pour l'observation d'objets stellaires.
+
+
+== Informations généralesModifier ==
+Le télescope d'Arecibo se distingue par sa grande taille : le diamètre de l'antenne principale est de 305 mètres, construite à l'intérieur de la dépression laissée par un effondrement. L'antenne est la plus grande antenne convergente incurvée du monde, ce qui lui donne la plus grande capacité de collecte d'ondes électromagnétiques. La surface de l'antenne est faite de 38 778 panneaux d'aluminium perforés, chacun mesurant environ 1 m sur 2 m, supportés par un maillage de câbles en acier.
+C'est une antenne sphérique (par opposition à antenne parabolique). Cette forme provient de la méthode utilisée pour pointer le télescope. L'antenne est fixe mais le récepteur se positionne en son point focal pour intercepter les signaux réfléchis des différentes directions par la surface sphérique. Le récepteur est situé sur une plateforme de 900 tonnes suspendue à 150 m au-dessus de l'antenne par 18 câbles à partir de trois tours en béton armé, une de 110 m de hauteur et deux autres de 80 m de haut (les sommets des trois tours sont au même niveau). La plateforme possède une voie tournante de 93 m de long, en forme d'arc, sur laquelle sont montés l'antenne de réception, les réflecteurs secondaires et tertiaires. Cela permet au télescope d'observer n'importe quelle région du ciel dans un cône de 40 degrés autour du zénith local (entre -1 et 38 degrés de déclinaison). La localisation de Porto Rico près de l'équateur permet à Arecibo d'observer toutes les planètes du système solaire pendant environ la moitié de leur orbite.
+
+
+== Conception et architectureModifier ==
+
+La construction du télescope d'Arecibo a été initiée par le professeur William E. Gordon de l'Université Cornell, qui avait l'intention de l'utiliser à l'origine pour étudier l'ionosphère de la Terre. À l'origine, un réflecteur parabolique fixe, pointant dans une direction fixe avec une tour de 150 m pour porter l'équipement au foyer. Cette conception aurait eu un intérêt très limité pour d'autres domaines potentiels de recherche, tels que la science planétaire et la radioastronomie, qui ont besoin de viser différentes positions dans le ciel et de suivre ces positions pendant une longue période, alors que la Terre est en rotation. Ward Low de la Advanced Research Projects Agency (ARPA), a fait remarquer ce point faible et a mis Gordon en contact avec le Air Force Cambridge Research Laboratory (AFCRL) à Boston (Massachusetts) où un groupe dirigé par Phil Blacksmith travaillait sur les réflecteurs sphériques et un autre groupe étudiait la propagation des ondes radio dans et à travers la haute atmosphère. L'Université Cornell a proposé le projet à l'ARPA l'été 1958 et un contrat a été signé entre l'AFCRL et l'Université en novembre 1959. La construction a commencé l'été 1960 et l'ouverture officielle a eu lieu le 1er novembre 1963.
+Le télescope a subi plusieurs modifications durant sa vie. La première grande modification a eu lieu en 1974 quand une surface haute précision a été ajoutée au réflecteur actuel. En 1997, un écran au sol a été installé autour du périmètre pour faire écran au rayonnement au sol et un transmetteur plus puissant a été installé.
+
+
+== DécouvertesModifier ==
+Le télescope d'Arecibo a fait plusieurs découvertes importantes.
+Le 7 avril 1964, peu après son inauguration, l'équipe de Gordon H. Pettengill l'a utilisé pour déterminer que la période de rotation de la planète Mercure n'était pas de 88 jours, comme ce qui était pensé, mais de seulement 59 jours.
+En août 1989, l'observatoire a fait une image d'un astéroïde pour la première fois dans l'histoire : l'astéroïde (4769) Castalia.
+L'année suivante, l'astronome polonais Aleksander Wolszczan a fait la découverte du pulsar PSR B1257+12, qui l'amènera plus tard à découvrir ses deux planètes en orbite. Elles furent les premières planètes extrasolaires jamais découvertes[réf. nécessaire].
+
+
+== UtilisationModifier ==
+Le télescope a également eu des utilisations militaires de renseignement, par exemple pour localiser les installations de radar soviétiques, en détectant leurs signaux rebondissant sur la Lune.
+Arecibo est la source de données pour le projet SETI@home proposé par le laboratoire de sciences spatiales de l'Université de Berkeley.
+En 1974, une tentative a été faite pour envoyer un message vers d'autres mondes. Un message de 1 679 bits a été transmis à partir du radiotélescope vers l'amas globulaire M13, qui se trouve à environ 25 000 années-lumière. Le modèle de 1 et 0 définit une image bitmap de 23 pixels par 73 qui inclut des nombres, des bonshommes dessinés, des formules chimiques et une image brute du télescope lui-même.
+
+Du 3 au 7 mars 2001, l'observatoire a été utilisé pour observer l'astéroïde (29075) 1950 DA, considéré comme étant l'objet le plus proche de la Terre.
+
+
+== Dans la cultureModifier ==
+Le télescope est apparu dans le film de James Bond GoldenEye, où Alec Trevelyan communiquait avec le satellite russe qui devait détru

@@ -1,0 +1,105 @@
+i doprowadza do emisji potężnej fali uderzeniowej, która przyspiesza produkty fuzji do prędkości umożliwiającej ucieczkę z gwiazdy, która w efekcie rozpada się.
+Wszystkie supernowe typu Ia mają bardzo zbliżoną jasność, co pozwala astronomom na użycie ich w charakterze świec standardowych do mierzenia odległości między galaktykami. Mechanizm powstawania nowej jest dość zbliżony, jednakże do eksplozji dochodzi zanim karzeł przekroczy granicę Chandrasekhara. W wyniku reakcji fuzji powstaje dostatecznie dużo energii, aby jasność gwiazdy znacząco wzrosła, jednak nie ulega ona zniszczeniu, więc zjawisko to może występować wielokrotnie dla tej samej gwiazdy.
+Gwiazdy mogą też zmieniać swą jasność z uwagi na wpływ czynników zewnętrznych, takich jak wzajemne przesłanianie się gwiazd w układach zaćmieniowych lub rotacja w wypadku gwiazd świecących niesferycznie – mają one plamy o znaczącej powierzchni i ich jasność zależy w dużej mierze od strony, z której się je obserwuje. Dobrym przykładem układu zaćmieniowego jest Algol, który regularnie co 2,87 dnia zmienia obserwowaną wielkość gwiazdową od 2,3m do 3,5m.
+
+
+== Obiekty towarzyszące ==
+
+Gwiazdom mogą towarzyszyć, oprócz innych gwiazd, także różne inne okrążające je ciała, takie jak brązowe karły oraz obiekty składające się na układy planetarne: planety i ich księżyce, asteroidy, komety czy drobiny pyłu kosmicznego. Pierwszy pozasłoneczny system planetarny odkryto w 1992 wokół pulsara PSR 1257+12, od tego czasu potwierdzono istnienie ponad 1800 egzoplanet.
+
+
+== Budowa ==
+
+Gwiazdy mają kształt zbliżony do kulistego, ponieważ siła grawitacji, działająca w kierunku środka ich masy, dąży do tego, aby jak największa ilość materii osiągnęła jak najmniejszy potencjał grawitacyjny, czyli znalazła się tak blisko środka masy, jak to tylko możliwe. Na kształt gwiazdy wpływają także jej obrót, który stanowi źródło siły odśrodkowej odpowiedzialnej za efekt spłaszczenia biegunowego, oraz obecność w pobliżu innych ciał o znacznej masie, powodująca zniekształcenie pływowe.
+Model matematyczny wnętrza gwiazdy oparty jest na założeniach stabilności i równowagi hydrostatycznej, uwzględniających procesy wytwarzania energii we wnętrzu gwiazdy oraz jej przepływu z wewnętrznych do zewnętrznych warstw gwiazdy, a wyrażony jest za pomocą równań różniczkowych.
+
+Wnętrze stabilnej gwiazdy znajduje się w stanie równowagi hydrostatycznej; w każdym jej miejscu skierowaną do wewnątrz siłę grawitacji działającą na dowolny mały element objętości gwiazdy równoważy skierowana na zewnątrz siła wywołana różnicą ciśnień na jego dolną i górną powierzchnię (gradientu ciśnienia). Siła gradientu ciśnienia zależy od temperatury plazmy; zewnętrzne powłoki gwiazdy są chłodniejsze od jądra. Temperatura jądra gwiazdy ciągu głównego lub olbrzyma wynosi co najmniej 107 K, pod koniec życia w jądrach wielkich gwiazd temperatury sięgają nawet miliardów stopni. Powstałe temperatura oraz ciśnienie wywierane na jądro gwiazdy ciągu głównego są wystarczające, aby zachodziły w nim reakcje fuzji jądrowej wodoru, w wyniku tego procesu powstaje energia zdolna uchronić gwiazdę przed zapadnięciem się pod własnym ciężarem.
+W wyniku reakcji łączenia się atomów w jądrze oprócz cięższych cząstek powstaje także energia w postaci fotonów promieniowania gamma oraz neutrin. Fotony oddziałują z otaczającą je plazmą, zwiększając temperaturę jądra. Gwiazdy ciągu głównego zmieniają wodór w hel, powoli lecz systematycznie zwiększając udział tego pierwiastka w masie jądra. W końcu hel zaczyna przeważać i produkcja energii w centrum gwiazdy ustaje. W gwieździe o masie co najmniej 0,4 masy słońca, reakcje fuzji zachodzą w stopniowo rozszerzającej się powłoce otaczającej zdegenerowane helowe jądro.
+Oprócz równowagi hydrostatycznej, we wnętrzu stabilnej gwiazdy panuje także stan równowagi termodynamicznej. Gradient temperatury zgodny z promieniem gwiazdy powoduje przepływ energii do zewnątrz. Odpływ energii w górę z którejkolwiek z warstw gwiazdy jest dokładnie taki sam, jak dopływ energii nadchodzący do niej z dołu.
+We wnętrzach gwiazd można wyróżnić dwa rodzaje warstw, różniące się mechanizmem transportu energii. Strefa promienista to obszar wnętrza gwiazdy, w którym transport promienisty (którego nośnikiem są fotony) ma wydajność wystarczającą do utrzymania przepływu energii. W regionie takim plazma nie ulega zaburzeniom a każde zakłócenie rozkładu masy podlega samoregulacji. Jeśli jednak nie ma ku temu warunków, plazma staje się niestabilna i podlega procesom konwekcji – wówczas tworzy się strefa konwektywna, w której energia przemieszcza się dzięki makroskopowym ruchom materii. Może do tego dochodzić między innymi w obszarach, w których mają miejsce przepływy ponadprzeciętnych ilości energii, przykładowo w okolicach jądra albo w regionach o dużej nieprzezroczystości, takich jak warstwy zewnętrzne gwiazdy. W zależności od typu, rozmiaru i składu chemicznego gwiazdy, strefy te znajdują się w różnych miejscach i zajmują odmienny procent ich objętości. Gwiazdy przekraczające kilkukrotnie masę Słońca posiadają warstwę konwektywną wewnątrz a promienistą w zewnętrznych warstwach. Mniejsze gwiazdy, takie jak Słońce, mają odwrotną budowę, z warstwą konwektywną w powłokach zewnętrznych. W czerwonych karłach o masie mniejszej od 0,4 masy Słońca występuje tylko transport konwektywny, co zapobiega odkładaniu się helu w jądrze. W wypadku większości gwiazd miejsca występowania stref konwektywnych zmieniają się w czasie wraz z ich postępującą ewolucją i idącą za nią zmianą budowy wnętrza.
+
+Przewodnictwo cieplne, które w typowych gwiazdach jest zaniedbywalnie małe, jest jedynym sposobem przenoszenia energii w białych karłach. To powoduje, że temperatura tych gwiazd zmienia się bardzo wolno, mimo ustania reakcji jądrowych w ich wnętrzu.
+Część gwiazdy widoczną dla obserwatora nazywa się fotosferą. Jest to warstwa, w której plazma tworząca gwiazdę staje się przezroczysta dla fotonów światła widzialnego. Od tego miejsca energia powstająca w jądrze rozchodzi się swobodnie w przestrzeni. Wewnątrz fotosfery występują plamy gwiezdne, obszary o niższych od przeciętnych temperaturach, powstające w efekcie aktywności magnetycznej gwiazdy.
+Ponad fotosferą znajdują się kolejne warstwy atmosfery gwiazdy. W gwieździe ciągu głównego, takiej jak Słońce, najniższą warstwą atmosfery jest cienka, jasnoczerwona warstwa chromosfery. To w niej występują spikule oraz biorą swój początek rozbłyski. Warstwę tę otacza warstwa przejściowa, w obrębie której temperatura rośnie gwałtownie na odcinku zaledwie 100 km. Ponad nią znajduje się korona, składająca się z rozgrzanej do ekstremalnych (ponad milion K) temperatur plazmy, która może rozciągać się na kilkanaście milionów kilometrów. Istnienie korony wydaje się być zależne od obecności obszarów konwektywnych w zewnętrznych warstwach gwiazdy oraz jej aktywności magnetycznej. Pomimo bardzo wysokiej temperatury, korona prawie nie emituje światła, w normalnych warunkach można ją obserwować jedynie podczas zaćmienia. Kwestia osiągania przez nią tak wysokich temperatur nie została jeszcze do końca wyjaśniona.
+Z korony wypływa strumień cząsteczek plazmy wiatru gwiazdowego, rozchodzący się aż do napotkania ośrodka międzygwiazdowego. Dla Słońca strefa wpływu jego wiatru gwiazdowego rozciąga się wewnątrz regionu o kształcie bąbla zwanego heliosferą.
+
+
+== Cykle reakcji gwiezdnej nukleosyntezy ==
+
+Wewnątrz jąder gwiazd zachodzą różne reakcje fuzji jądrowej, zależne od masy i składu gwiazdy, procesy te noszą nazwę gwiezdnej nukleosyntezy. Masa produktów takich reakcji jest mniejsza niż masa ich substratów. Utracona w toku reakcji masa jest uwalniana jako energia elektromagnetyczna zgodnie z zasadą równoważności masy i energii wyrażaną wzorem E = mc².
+W gwiazdach ciągu głównego dominującym źródłem energii są reakcje spalania wodoru, w których cztery jądra wodoru (każde tworzy jeden proton) łączą się w jądro helu (zbudowane z dwóch protonów i dwóch neutronów). Proces spalania wodoru jest bardzo czuły na wahania temperatury w jądrze gwiazdy, więc stosunkowo nieduży jej wzrost skutkuje znacznym przyspieszeniem tempa przebiegu reakcji fuzji. W rezultacie temperatury jąder gwiazd ciągu głównego zawierają się w przedziale od 4 milionów K dla małych gwiazd klasy M do 40 milionów K dla wielkich gwiazd klasy O.
+W Słońcu, którego jądro osiąga temperaturę 10 milionów K, wodór zamieniany jest w hel głównie poprzez reakcje cyklu protonowego, z których najpowszechniej występuje:
+41H → 22H + 2e+ + 2νe (4.0 MeV + 1,0 MeV)
+21H + 22H → 23He + 2γ (5,5 MeV)
+23He → 4He + 21H (12,9 MeV)
+Ostateczny efekt powyższych reakcji można zapisać za pomocą jednego równania jako:
+41H → 4He + 2e+ + 2γ + 2νe (26,7 MeV)
+gdzie e+ oznacza pozyton, γ foton promieniowania gamma, νe neutrino, a H i He izotopy wodoru i helu. Energia uwolniona w tej reakcji jest rzędu milionów elektronowoltów, co nie jest dużą wartością, jednak reakcje te zachodzą nieustannie w wielkich ilościach aż do wyczerpania wodoru, w ich rezultacie powstaje cała energia wypromieniowywana przez gwiazdę.
+W bardziej masywnych gwiazdach hel powstaje w większości poprzez reakcje, w których rolę katalizatora pełni węgiel – reakcje cyklu węglowo-azotowo-tlenowego. Są to procesy dużo bardziej wydajne od cyklu protonowego, mogą zachodzić w temperaturach powyżej 40 milionów K. Na podstawową gałąź reakcji cyklu węglowo-azotowo-tlenowego składają się następujące oddziaływania:
+12C + 1H → 13N + γ + 1,95 MeV
+13N → 13C + e+ + νe + 1,37 MeV
+13C + 1H → 14N + γ + 7,54 MeV
+14N + 1H → 15O + γ + 7,35 MeV
+15O → 15N + e+ + νe + 1,86 MeV
+15N + 1H → 12C + 4He + 4,96 MeV,
+przy czym jądro węgla-12 użyte w pierwszej reakcji jest odtwarzane w ostatniej.
+W dojrzałych gwiazdach o temperaturze jądra rzędu 100 milionów K i masie pomiędzy 0,5 a 10 mas Słońca, hel może być zamieniany w węgiel na drodze potrójnego procesu α, w którym produktem przejściowym jest beryl:
+4He + 4He + 92 keV → 8*Be
+4He + 8*Be + 67 keV → 12*C
+12*C → 12C + γ + 7,4 MeV
+Uogólnione równanie reakcji ma postać:
+34He → 12C + γ + 7,2 MeV
+W wielkich gwiazdach mogą być, na drodze procesów spalania neonu oraz tlenu, spalane także cięższe pierwiastki. Końcowym etapem ciągu reakcji gwiezdnej nukleosyntezy jest proces spalania krzemu, którego ostatecznym produktem jest stabilny izotop żelaza-56. Fuzja nie może przebiegać dalej jako reakcja egzotermiczna, dodatkowa energia może być wyzwolona w gwieździe jedynie w wyniku zapadania grawitacyjnego.
+Poniższy przykład pokazuje czas potrzebny gwieździe o masie 20 do zużycia całego swojego paliwa. Jako gwiazda ciągu głównego klasy O, miałaby ona promień 8 oraz jasność 62 tysiące razy większą od Słońca.
+
+
+== W kulturze ==
+
+
+=== Etymologia ===
+ Ta sekcja jest niekompletna. Jeśli możesz, rozbuduj ją.
+
+
+=== Symbolika ===
+Gwiazdy posiadają rozliczne znaczenia symboliczne i metaforyczne. Utożsamiono je między innymi z nieskończonością, stałością, wzniosłością, ambicją, niedoścignionym ideałem, a także rewolucją. Widnieją na flagach wielu państw, choćby Stanów Zjednoczonych, Chin czy Izraela (Gwiazda Dawida), wykorzystywane są też jako symbole ideologiczne, na przykład komunizmu (czerwona gwiazda).
+Według astrologii gwiazdy determinowały przeznaczenie człowieka, od ich położenia w chwili narodzin zależeć miały jego losy (dlatego astrologowie badali, czy narodziny nastąpiły pod "dobrą" czy "złą" gwiazdą). W wierzeniach ludowych każdy człowiek ma swoją gwiazdę na niebie, która pojawia się przy jego urodzeniu i gaśnie w chwili śmierci.
+Gwiazdy obecne są także w systemach religijnych. Starożytni Egipcjanie wierzyli, że były one wioślarzami okrętu boga słońca Ra. Liczne nawiązania do gwiazd odnaleźć można w Biblii. Pojawiająca się w Ewangelii Mateusza gwiazda Betlejemska miała służyć za przewodnika Trzem Mędrcom poszukującym miejsca narodzin Jezusa. Jako że astronomowie wykluczają istnienie zjawiska o opisanych w Ewangelii cechach, interpretowane jest ono najczęściej jako tradycyjne zjawisko symboliczne poprzedzające przyjście na świat synów bożych, które pojawiało się już we wcześniejszych legen­dach, choćby o Buddzie.
+Pentagram, czyli gwiazda pięcioramienna, symbolizował w starożytnym Egipcie boga Horusa, dla pitagorejczyków zaś był symbolem prawdy oraz doskonałości. Obecnie w kulturze masowej utożsamiany jest on z satanizmem i czarną magią. Czerwona gwiazda jest symbolem idei socjalizmu i komunizmu, stanowi też logo piwa Heineken.
+Gwia­zdą nazywa się także człowieka sławnego, wybitnego w jakieś dziedzinie, w szczególności akto­ra bądź sportowca.
+
+
+=== Literatura, filozofia i muzyka ===
+W historii napotykamy wielu filozofów, poetów, malarzy, a nawet muzyków, którzy znajdywali natchnienie w rozgwieżdżonym niebie. W wielu przypadkach osobiście interesowali się oni astronomią, czego świadectwa noszą ich dzieła.
+Wiele odniesień do gwiazd znajdujemy w dziełach pisarzy starożytnej Grecji i Rzymu. Według astronoma Kennetha Glyna Jonesa, pierwszą znaną wzmianką o Plejadach, słynnej gromadzie otwartej w gwiazdozbiorze Byka, jest fragment z Hezjoda, którego powstanie datuje się na XI wiek p.n.e., Homer wspomina o nich także w Odysei, w Biblii zaś pojawiają się trzykrotnie. Wielu intelektualistów tego okresu tworzyło prace o tematyce astronomicznej, wśród nich wymienić można na przykład Aratosa z Soloj, autora poematu heksametrycznego „Phaenomena – O znakach niebieskich”, Cycerona (porusza ten temat w VI tomie „De re publica”), Marka Maniliusza (twórcę poematu dydaktycznego „Astronomica”), Senekę Młodszego, który opracował encyklopedię „Naturales quaestiones” („Zagadnienia przyrodnicze”), czy też Ptolemeusza, autorstwa którego Almagest to najlepiej zachowany starożytny katalog gwiazd.
+W średniowieczu astronomia stanowiła, obok arytmetyki, geometrii i muzyki, część quadrivium. W „Boskiej Komedii” Dante Alighieri zawarł kilka aspektów wiedzy swojej epoki, w szczególności astronomicznej, trzy części dzieła kończą się zaś słowem „gwiazdy”; jako że są one siedzibą Nieba, według Dantego stanowią ostateczny cel człowieka, a jego pragnienie wiedzy może być zaspokojone dzięki kierowaniu wzroku w górę.
+Inni wybitni pisarze, tacy jak Giacomo Leopardi, także poruszali w swoich dziełach tematy dotyczące aspektów astronomicznych. Pochodzący z Recanati poeta w swoich wierszach umieścił liczne odniesienia do astronomii, na przykład w Canto notturno di un pastore errante dell'Asia lub Le ricordanze, w młodości napisał on także mało znany traktat zatytułowany Storia dell'astronomia („Historia astronomii”). Astronomiczne odniesienia są również obecne w kilku wierszach Giovanniego Pascoli (na przykład w Gelsomino notturno) i Giuseppe Ungarettiego, który w swym dorobku posiada wiersz zatytułowany Gwiazda.
+
+Muzyka epoki romantyzmu, jak inne dziedziny sztuki tej epoki, opierała się na wydarzeniach i zjawiskach wyzwalających w ludziach wzniosłe uczucia. Rozgwieżdżone niebo zainspirowało powstanie nokturnów, z których za najważniejsze uważa się te skomponowane przez Fryderyka Chopina (napisał ich 21). Kolejnych odniesień astronomicznych doszukać można się w kompozycjach fortepianowych i VI symfonii Ludwiga van Beethovena. Nokturny nie odeszły w zapomnienie wraz z końcem romantyzmu, lecz rozwijały się dalej w epoce neoromantyzmu, przykładowo VII symfonia Gustava Mahlera Pieśń nocy zawiera dwa, nawiązania do nocnego nastroju zawierają także kompozycje Richarda Straussa, w szczególności Symfonia Alpejska.
+Choć Leonardo da Vinci nie prowadził badań astronomicznych, w swoich koncepcjach naukowych stosował pojęcia dotyczące natury Wszechświata, porównując je z innymi, bardziej „humanistycznymi” twierdzeniami odnoszącymi się do natury ludzkiej. Inni artyści, tacy jak Albrecht Dürer, Étienne L. Trouvelot, Giacomo Balla czy Maurits C. Escher, angażowali się w studia astronomiczne, aby w swojej twórczości nawiązać do różnych teorii naukowych. Z kolei Salvador Dalí w swych dziełach umieszczał nawiązania do odkryć dwudziestowiecznej fizyki teoretycznej, w szczególności teorii względności Alberta Einsteina. Inni, tacy jak Giotto di Bondone, Vincent van Gogh czy Joan Miró, po prostu ulegali urokowi nocnego nieba i pragnęli je przedstawić na płótnie bądź innym materiale, w którym tworzyli.
+
+
+=== Kultura masowa ===
+Od niepamiętnych czasów gwiazdy zajmowały istotne miejsce w folklorze. Mimo że wiedza przeciętnego człowieka o niebiosach była dość ograniczona i przemieszana z mitami i legendami, posiadała pewien stopień złożoności i utrzymywała ciągłość z wiedzą astronomiczną pochodzącą z czasów prehistorycznych.
+Zimą łatwo zaobserwować "Trzech Mędrców" — Alnilama, Alnitaka i Mintakę — trzy gwiazdy tworzące Pas Oriona. Równie dobrze znane były asteryzmy Małego oraz Wielkiego Wozu. W niektórych miejscach Drogę Mleczną nazywano "Drogą św. Jakuba", gdyż w przybliżeniu wskazywała kierunek katedry w Santiago de Compostela. Rozpoznawalne były też Plejady, przez długi czas stanowiące samodzielną konstelację, nazywane także "siedmioma siostrami" od Plejad — nimf z mitologii greckiej, w wierzeniach hinduistycznych kojarzono je z kolei z sześcioma opiekunkami boga Karttikeja.
+Pojawianie się komet, również uważanych za gwiazdy, uznawano za zły omen budzący strach i niepokój. W tradycji chrześcijańskiej kometa występuje jednak także w pozytywnym kontekście — Gwiazda Betlejemska, uważana tradycyjnie za kometę — miała doprowadzić mędrców do Betlejem, miejsca narodzin Jezusa. Również meteory, popularnie zwane spadającymi gwiazdami, odegrały specjalną rolę w kulturze popularnej — uznawano je za dobry znak, zwłaszcza Perseidy, które można obserwować między innymi w noc św. Wawrzyńca.
+Współcześnie, szczególnie w krajach uprzemysłowionych i rozwijających się, bliski kontakt człowieka z niebem został zerwany, ponieważ znacząco wzrósł stopień zanieczyszczenia świetlnego. Pomimo że niektóre władze lokalne podejmują kroki mające je zredukować (jak tworzenie parków ciemnego nieba), obecnie bardzo trudno obserwować gwiazdy w ośrodkach miejskich, jedynym sposobem na wykonanie dobrych obserwacji jest udanie się na tereny słabo zamieszkane.
+
+
+=== W fantastyce naukowej ===
+
+Od chwili swych narodzin w początkach XX wieku literatura science fiction wzbudza wśród ludzi zainteresowanie gwiazdami. Poruszane przez nią zagadnienia obejmują między innymi kontakt z innymi cywilizacjami, eksplorację i kolonizację kosmosu oraz podróże międzygwiezdne w poszukiwaniu nadających się do zamieszkania planet pozasłonecznych. Autorzy często opisują technologie pozwalające na podróże międzygwiezdne z prędkością nadświetlną, zwykle także osadzają akcję swych dzieł poza Układem Słonecznym. Tendencje, aby tak postępować, nasiliły się znacząco, gdy eksploracja Układu Słonecznego wykazała, iż ponad wszelką wątpliwość nie jest on zamieszkany przez inne oprócz ludzi inteligentne formy życia.
+Jedną z najpopularniejszych serii science fiction jest Star Trek. Prezentuje on wizję przyszłości, w której ludzkość osiągnęła poziom technologiczny pozwalający na podróże międzygwiezdne i nawiązywanie kontaktów z obcymi cywilizacjami naszej galaktyki. Z niektórymi z tych cywilizacji Ziemianie współtworzą quasi-państwową organizację – Zjednoczoną Federację Planet.
+Mimo że część gwiazd, w pobliżu których toczy się akcja opowieści fantastycznonaukowych stanowi jedynie owoc wyobraźni ich autorów, pewien odsetek twórców decyduje się używać nazw faktycznie istniejących i dobrze znanych astronomom gwiazd, często tych łatwo dostrzegalnych na nocnym niebie lub najbliższych Układowi Słonecznemu. Duża część tych gwiazd nie byłaby jednak w stanie zapewnić warunków do rozwoju złożonych form życia. Jasne gwiazdy, takie jak Syriusz czy Wega, mają mniej niż miliard lat — zdaniem astrobiologów jest to za krótki okres, aby mogły powstać inteligentne istoty żywe. Czerwone olbrzymy także nie sprzyjają zamieszkaniu ich systemów, ponieważ są bardzo zmienne, a niekiedy nawet niestabilne.
+Gwiazdy rzeczywiście sprzyjające procesowi ewolucji życia, takie jak czerwone karły, świecą zbyt słabo, by dało się je dostrzec gołym okiem, wskutek czego większość z nich nie posiada atrakcyjnych nazw, które mogłyby przyciągnąć uwagę pisarzy science fiction.
+
+
+== Zobacz też ==
+Gwiazdy położone najbliżej Ziemi
+Lista najjaśniejszych gwiazd według jasności wizualnej
+Lista najjaśniejszych gwiazd według jasności absolutnej
+
+
+== Uwagi ==
+
+
+== Przypisy ==

@@ -1,0 +1,36 @@
+kumenty hipertekstowe i obrazy. URI, często nazywane URL jest definiowane przez IETF RFC 3986 STD / 66: Uniform Resource Identifier (URI): Generic Syntax.
+Protokół HTTP, a konkretnie RFC 2616: HTTP/1.1 i RFC 2617: Autoryzacja HTTP, które określają, jak przeglądarka i serwer uwierzytelniają siebie nawzajem.
+
+
+== Dostępność WWW ==
+Na dzień dzisiejszy dostęp do WWW jest możliwy dla wszystkich, bez względu na to, czy użytkownik jest osobą w pełni czy niepełnosprawną. Niezależnie od rodzaju niepełnosprawności, sieć Web służy przesyłaniu, jak również pozyskiwaniu informacji oraz interakcji ze społeczeństwem, przez co niezmiernie ważne jest, aby umożliwić dostęp do sieci osobom niepełnosprawnym, często ograniczonym ruchowo. Tim Berners-Lee twierdzi, iż „potęga internetu polega na jego uniwersalności. Dostępność dla wszystkich, bez względu na niepełnosprawność jest jej głównym aspektem”. Wiele krajów wymaga od autorów witryn stosowania ułatwień dostępu. Międzynarodowa ustalenia w ramach „Inicjatywy dostępności do sieci” W3 Consortium (Web Accessibility Initiative) doprowadziły do wystosowania pewnych prostych wytycznych, które autorzy treści internetowych, jak również twórcy oprogramowania mogą wykorzystywać, aby umożliwić „surfowanie” po sieci osobom niepełnosprawnym.
+
+
+== Obsługa różnych języków ==
+W3C zapewnia, że usługa WWW będzie dostępna we wszystkich językach świata. Na początku 2004 r. Unicode zyskał znaczną popularność i ostatecznie w grudniu 2007 r., jako najczęściej używany system kodowania znaków w sieci Web, wyparł zarówno ASCII, jak i zestaw znaków dla Europy Zachodniej. Pierwotnie zbiór RFC 3986 zezwalał obiektom sieci na identyfikację tylko poprzez adresy składające się ze znaków z podgrupy US-ASCII. RFC 3987 uznaje rozszerzony zakres znaków i od tej pory zasoby sieci mogą być identyfikowane poprzez adresowanie w każdym z języków.
+
+
+== Prędkość transmisji ==
+Przeciążenie infrastruktury Internetu, wywołane przewagą popytu nad podażą, powoduje, nieraz znaczące, opóźnienia w przeglądaniu stron internetowych. Powstało nawet żartobliwa określenie dla WWW: „World Wide Wait” (czyli: „wielkie, światowe czekanie”). Przyspieszenie działania sieci jest ciągle otwartym tematem dyskusji i rozważań użytkowników, specjalistów oraz polem działania technologii QoS. Inne rozwiązania mające na celu przyspieszenie Internetu można znaleźć na stronie W3C.
+Standardowe wytyczne dla idealnego czasu odpowiedzi z serwera to:
+0,1 sekundy (jedna dziesiąta sekundy) – idealny czas reakcji. Użytkownik nie odczuwa jakichkolwiek opóźnień.
+1 sekunda – największy dopuszczalny czas reakcji. Czas odpowiedzi powyżej 1 sekundy zakłóca pracę użytkownika.
+10 sekund – niedopuszczalny czas reakcji. Przeglądanie zostanie przerwane, a użytkownik prawdopodobnie ujrzy komunikat błędu.
+
+
+== Statystyki ==
+Według badań z 2001 roku, istniało wtedy więcej niż 550 miliardów dokumentów internetowych, najczęściej dostępnych w tzw. „widocznym WWW” (ang. visible Web lub surface Web), czyli skatalogowanych (zindeksowanych) przez wyszukiwarki internetowe lub w tzw. „ukrytym WWW” (ang. hidden Web lub deep Web), czyli nieskatalogowanych przez wyszukiwarki. W 2002 r. przebadano zawartość 2,024 miliarda stron WWW, dzięki czemu wiadomo, że zdecydowanie najwięcej zawartości sieci Web była w języku angielskim: 56,4%; następne były strony w języku niemieckim (7,7%), francuskim (5,6%) i japońskim (4,9%). Najnowsze badania wykorzystywały do zebrania próbek stron internetowych wyszukiwarki internetowe w 75 różnych językach. Ustalono, że od końca stycznia 2005 było ponad 11,5 miliarda publicznie indeksowanych stron internetowych. W marcu 2009 indeksowanych stron było już co najmniej 25,21 miliarda. 25 lipca 2008 inżynierowie oprogramowania Google Jesse Alpert i Nissan Hajaj ogłosili, iż wyszukiwarka odkryła bilion unikatowych adresów URL. Spośród 109,5 miliona domen działających w maju 2009 74% było komercyjne (tzn. strony działające w domenie najwyższego poziomu .com).
+
+
+== Zobacz też ==
+Platform for Internet Content Selection (PICS) – standard służący ochronie przed dostępem do treści zakwalifikowanych jako niebezpieczne;
+W3C Markup Validation Service – darmowa usługa udostępniana przez W3C pozwalająca sprawdzić zgodność dokumentu HTML ze standardami HTML;
+Semantic Web – projektowany standard mający umożliwić opisywanie znaczenia zasobów informacyjnych.
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+World Wide Web Consortium (W3C) (ang.)
+Największe na świecie archiwum stron WWW (ang.)

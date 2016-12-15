@@ -1,0 +1,14 @@
+OEIS sigla em inglês, de On-Line Encyclopedia of Integer Sequences, é uma extensa base de dados, que registra sequências de números inteiros disponível livremente na internet.
+O arquivo possui uma ferramenta de busca, em que o usuário entra com alguns números em sequência e recebe de volta as possíveis sequências. Outras opções de entrada são possíveis, por exemplo textos descritivos ("Mersenne", para obter os números de Mersenne).
+Cada sequência é identificada por um código do tipo A000027 (esta é a sequência dos números naturais positivos).
+Nem todas as sequências são matemáticas, por exemplo A058317 é a sequência (limitada) do número de neutrons do isótopo mais estável de cada elemento químico.
+
+
+== ExemplosEditar ==
+A000040 - números primos
+A000045 - números de Fibonacci
+A001097 - números primos gêmeos
+
+
+== Ligações externasEditar ==
+The On-Line Encyclopedia 

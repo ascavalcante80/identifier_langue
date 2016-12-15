@@ -1,0 +1,64 @@
+Binário (português europeu) ou torque (português brasileiro), momento de alavanca ou simplesmente momento (deve-se evitar este último termo, pois ele pode referir-se também ao momento angular, ao momento linear ou ao momento de inércia), é uma grandeza vetorial da física.
+É definido a partir da componente perpendicular ao eixo de rotação da força aplicada sobre um objeto que é efetivamente utilizada para fazê-lo girar em torno de um eixo ou ponto central conhecido como ponto pivô ou ponto de rotação. A distância do ponto pivô ao ponto onde atua uma força ‘F’ é chamada braço do momento e é denotada por ‘r’. Note que esta distância ‘r’ é também um vetor.
+
+
+== Introdução ==
+O torque é definido pela relação:
+
+Pela segunda lei de Newton,  .
+Como , e a velocidade tem a mesma direção do momento, tem-se que , logo
+
+na qual  é o produto vetorial ou externo. Em módulo,
+
+sendo θ o ângulo entre o braço do momento e a força aplicada.
+Numa linguagem mais informal, poderá dizer-se que o torque é a medida de quanto uma força que age em um objeto faz com que o mesmo gire.
+
+
+== Unidades ==
+É definida no Sistema Internacional de Unidades para o torque é o newton metro. Ainda que matematicamente a ordem destes factores, "newton" e "metros", seja arbitrária, o BIPM (Bureau International des Poids et Mesures) especifica que a ordem deve ser N·m e não m·N.
+
+
+== Cálculos de Forças ==
+Uma forma mais geral e simples de somar qualquer tipo de forças consiste em deslocá-las todas para um mesmo ponto, mas por cada força  deslocada, deverá ser adicionado um torque, igual ao produto do módulo da força e o braço em relação ao ponto onde foi deslocada. A figura abaixo mostra uma força  aplicada num ponto P, que queremos deslocar para a origem O.
+
+O vetor posição  do ponto P tem módulo r e faz um ângulo  com a força  O braço da força em relação a O, que é a distância entre O e a linha de ação da força, é igual a r sin  e, portanto, o torque da força em relação a O é:
+Repare que  é a componente da força na direção perpendicular ao vetor posição  e, assim, podemos dizer que o torque é produzido unicamente pela componente da força perpendicular ao deslocamento, e o valor do torque é igual ao valor absoluto da componente perpendicular da força, vezes a distância r que foi deslocada. O produto denomina-se produto vetorial entre os vetores  e 
+No caso da soma das forças paralelas , o deslocamento das forças para o ponto S introduz dois torques,  e  os dois torques anulam-se e a resultante das duas forças,do ponto S, é a força F, sem nenhum torque.
+É também importante ter em conta o sentido de cada torque. A rotação produzida por  quando for deslocada para a origem será sempre no plano definido por  e . Se designarmos esse plano por xy, uma forma conveniente de representar os dois sentidos possíveis do torque é por meio dos versores  e  Assim, podemos definir o vetor torque  usando a expressão vetorial:
+em que  é, por definição, um vetor com módulo dado pela
+equação  , direção perpendicular ao plano definido por
+ e  e sentido dado pela regra da mão direita:
+afastando os dedos polegar, indicador e médio da mão direita, se o indicador aponta no
+sentido de  e o dedo médio no sentido de  , o sentido
+de  é dado pelo dedo polegar.
+É de salientar que com essa definição, o produto vetorial não é comutativo;  e  são vetores com o mesmo módulo e direção, mas com sentidos opostos. Como o ângulo de um vetor consigo próprio é zero, o produto  é sempre nulo; em particular,
+
+O produto de dois versores perpendiculares é outro versor perpendicular a eles; assim, temos que
+ e  .
+Consequentemente, escolhendo eixos em que os vetores r e F só tenham componentes x e y, obtemos o seguinte resultado útil para calcular produtos vetoriais:
+Concluiremos para o fato de que, em contraste com as forças, os torques sim são vetores livres. O mesmo torque aplicado em qualquer ponto de um objeto produz o mesmo efeito. Uma força e um torque perpendicular a ela são sempre equivalentes à força, sem torque, atuando em outro ponto diferente. Isto é, deslocando a força na direção e distância apropriada, podemos introduzir um torque igual e oposto ao que queremos anular; como os dois torques são vetores livres, somam-se dando um torque nulo. O ponto de aplicação da resultante de várias forças é o ponto onde podemos somá-las produzindo um torque resultante nulo.
+
+
+== Equilíbrio de rotação ==
+Diz-se que uma alavanca está em equilíbrio quando a soma de todos os seus momentos é nula.
+
+
+== Momento e Binários ==
+
+A regra das alavancas pode ser explicada introduzindo o conceito de momento. Define-se o valor do momento de uma força em relação a um ponto O, como o produto do módulo da força pela distância desde o ponto O até a linha de ação da força (braço ),
+
+O momento  representa o efeito de rotação produzido pela força, se o ponto O do corpo rígido estivesse fixo, podendo o corpo rodar à volta desse ponto.
+Quanto mais afastada estiver a linha de ação da força em relação ao ponto fixo O, maior será o efeito rotativo produzido pela força. Isso explica porquê é mais fácil fechar a porta quanto mais longe das dobradiças for aplicada a força; a distância entre a linha de ação da força e a linha das dobradiças é o braço e quanto maior for, maior será o momento da força aplicada.
+Sendo  o vetor posição do ponto P em que a força  é aplicada, em relação à origem O, o braço da força em relação à origem O é igual a , em que o ângulo  é o ângulo entre os vetores  e  (figura ao lado). 
+Conclui-se que valor do momento da força em relação ao ponto O é igual a,
+
+Repare-se que () é a componente da força na direção perpendicular ao vetor posição , ou seja, o valor do momento da força é também igual ao produto da distância desde o ponto de aplicação até a origem, , pela componente perpendicular da força. O momento produzido pela força é devido unicamente à componente perpendicular da força.
+A equação acima mostra que o momento da força é igual ao módulo do produto vetorial entre o vetor posição e a força e mostra a conveniência de definir o momento em forma vetorial:
+
+O vetor  representa um efeito de rotação num plano perpendicular a ele.
+Na figura anterior o momento é um vetor que aponta para fora da figura e costuma ser representado por uma seta circular, no sentido da rotação que segue a regra da mão direita em relação ao sentido do vetor .
+Um binário é um conjunto de duas forças  e , iguais e opostas, com linhas de ação paralelas, como mostra a figura ao lado.
+O binário não produz nenhuma translação em nenhum sentido, mas apenas rotação. O momento total, em relação à origem O, é a soma dos momentos das duas forças,
+
+Os dois vetores de posição dos pontos Q e P dependem da escolha da origem, mas a sua diferença é o vetor  na figura, que não depende do ponto onde estiver a origem.
+Isso quer dizer que o binário produz um momento que não depende de 

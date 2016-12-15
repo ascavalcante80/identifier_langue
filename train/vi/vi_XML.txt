@@ -1,0 +1,47 @@
+XML (viết tắt từ tiếng Anh eXtensible Markup Language, "Ngôn ngữ Đánh dấu Mở rộng") là ngôn ngữ đánh dấu với mục đích chung do W3C đề nghị, để tạo ra các ngôn ngữ đánh dấu khác. Đây là một tập con đơn giản của SGML, có khả năng mô tả nhiều loại dữ liệu khác nhau. Mục đích chính của XML là đơn giản hóa việc chia sẻ dữ liệu giữa các hệ thống khác nhau, đặc biệt là các hệ thống được kết nối với Internet. Các ngôn ngữ dựa trên XML (Ví dụ: RDF, RSS, MathML, XHTML, SVG, GML và cXML) được định nghĩa theo cách thông thường, cho phép các chương trình sửa đổi và kiểm tra hợp lệ bằng các ngôn ngữ này mà không cần có hiểu biết trước về hình thức của chúng.
+
+
+== Lịch sử ==
+Vào giữa những năm 1990, các chuyên gia SGML đã có kinh nghiệm với World Wide Web (vẫn còn khá mới vào thời đó). Họ tin tưởng rằng SGML có thể cung cấp giải pháp cho các vấn đề mà Web đang gặp phải. Jon Bosak đưa ra ý kiến W3C nên tài trợ một chương trình mang tên "SGML trên Web". Sau thời gian này một tập con của SGML ra đời mang tên XML
+
+
+== Đặc điểm ==
+XML cung cấp một phương tiện dùng văn bản (text) để mô tả thông tin và áp dụng một cấu trúc kiểu cây cho thông tin đó. Tại mức căn bản, mọi thông tin đều thể hiện dưới dạng text, chen giữa là các thẻ đánh dấu (markup) với nhiệm vụ ký hiệu sự phân chia thông tin thành một cấu trúc có thứ bậc của các dữ liệu ký tự, các phần tử dùng để chứa dữ liệu, và các thuộc tính của các phần tử đó. Về mặt đó, XML tương tự với các biểu thức S (S-expression) của ngôn ngữ lập trình LISP ở chỗ chúng đều mô tả các cấu trúc cây mà trong đó mỗi nút có thể có một danh sách tính chất của riêng mình.
+Đơn vị cơ sở của XML là các ký tự theo định nghĩa của Universal Character Set (Bộ ký tự toàn cầu). Các ký tự được kết hợp theo các tổ hợp chuỗi hợp lệ để tạo thành một tài liệu XML. Tài liệu này gồm một hoặc nhiều thực thể, mỗi thực thể thường là một phần nào đó của các ký tự thuộc tài liệu, được mã hóa dưới dạng một chuỗi các bit và lưu trữ trong một tệp văn bản (text file).
+Các tệp XML có thể dùng cho nhiều loại dữ liệu đa phương tiện. RFC3023 định nghĩa các loại "application/xml" và "text/xml", với ý rằng dữ liệu được biểu diễn bằng XML mà không nói gì đến ngữ nghĩa của dữ liệu.
+Sự phổ biến của các phần mềm soạn thảo văn bản (word processor) đã hỗ trợ việc soạn thảo và bảo trì tài liệu XML một cách nhanh chóng. Trước XML, có rất ít ngôn ngữ mô tả dữ liệu với các đặc điểm đa năng, thân thiện với giao thức Internet, dễ học và dễ tạo. Thực tế, đa số các định dạng trao đổi dữ liệu thời đó đều chuyện dụng, có tính độc quyền, và có định dạng nhị phân (chuỗi bit thay vì chuỗi ký tự) khó dùng chung giữa các ứng dụng phần mềm khác nhau hay giữa các hệ nền (platform) khác nhau. Việc tạo và bảo trì trên các trình soạn thảo thông dụng lại càng khó khăn.
+Bằng cách cho phép các tên dữ liệu, cấu trúc thứ bậc được phép, và ý nghĩa của các phần tử và thuộc tính có tính chất mở và có thể được định nghĩa bởi một giản đồ tùy biến được, XML cung cấp một cơ sở cú pháp cho việc tạo lập các ngôn ngữ đánh dấu dựa XML theo yêu cầu. Cú pháp chung của các ngôn ngữ đó là cố định — các tài liệu phải tuân theo các quy tắc chung của XML, bảo đảm rằng tất cả các phần mềm hiểu XML ít ra cũng phải có khả năng đọc (phân tích cú pháp - parse) và hiểu bố cục tương đối của thông tin trong các tài liệu đó. Giản đồ chỉ bổ sung một tập các ràng buộc cho các quy tắc cú pháp. Các giản đồ thường hạn chế tên của phần tử và thuộc tính và các cấu trúc thứ bậc được phép, ví dụ, chỉ cho phép một phần tử tên 'ngày sinh' chứa một phần tử tên 'ngày' và một phần tử có tên 'tháng', mỗi phần tử phải chứa đúng một ký tự. Đây là điểm khác biệt giữa XML và HTML. HTML có một bộ các phần tử và thuộc tính không mềm dẻo, chỉ có một tác dụng và nói chung là không thể dùng cho mục đích khác.
+XML không hạn chế về việc nó được sử dụng như thế nào. Mặc dù XML về cơ bản là dạng text, các phần mềm với chức năng trừu tượng hóa nó thành các định dạng khác giàu thông tin hơn đã nhanh chóng xuất hiện, quá trình trừu tượng hóa này được thực hiện chủ yếu qua việc sử dụng các giản đồ định hướng kiểu dữ liệu (datatype-oriented schema) và khuôn mẫu lập trình hướng đối tượng (mà trong đó, mỗi tài liệu XML được thao tác như là một đối tượng). Những phần mềm như vậy có thể coi XML như là dạng text đã được tuần tự hóa chỉ khi nó cần truyền dữ liệu qua mạng.
+Ngoài những đặc điểm trên, công nghệ này còn cần phải được xem xét kỹ bởi lẽ trong quá trình thao tác và truyền dữ liệu, nó đã được thống kê và ghi nhận tỷ lệ sai sót, mất dữ liệu dao động từ 5 - 7%. Tuy con số này không cao, nhưng cũng đáng để những người sử dụng phải có những cân nhắc kỹ càng hơn. [cần dẫn nguồn]
+
+
+== Sơ lược về cú pháp ==
+Cú pháp XML cơ bản cho một phần tử là
+
+Dòng đầu tiên là Khai báo XML (XML declaration): đó là một dòng không bắt buộc, với nhiệm vụ thông báo phiên bản XML đang được sử dụng (thường là phiên bản 1.0), và còn có thể chứa thông tin về mã hóa ký tự và các phụ thuộc bên ngoài.
+Phần còn lại của tài liệu này chứa các phần tử lồng nhau, một số phần tử trong đó có các thuộc tính và nội dung. Một phần tử thường bao gồm hai thẻ (tag), một thẻ bắt đầu và một thẻ kết thúc, có thể bao quanh văn bản và các phần tử khác. Thẻ bắt đầu bao gồm một cái tên đặt trong một cặp ngoặc nhọn, như "<bước>"; thẻ kết thúc bao gồm chính cái tên đó đặt trong một cặp ngoặc nhọn, với một dấu gạch chéo đứng trước, như "</bước>". Nội dung của phần tử là tất cả những gì nằm giữa thẻ bắt đầu và thẻ kết thúc, bao gồm văn bản và các phần tử (con) khác. Dưới đây là một phần tử XML hoàn chỉnh, với thẻ bắt đầu, nội dung văn bản, và thẻ kết thúc:
+
+Bên cạnh nội dung, một phần tử có thể chứa các thuộc tính — các cặp tên - giá trị được đặt trong thẻ bắt đầu, ngay sau tên phần tử. Giá trị của thuộc tính phải được đặt trong cặp nháy đơn hoặc nháy kép, mỗi tên thuộc tính chỉ được xuất hiện một lần trong mỗi phần tử.
+
+Trong ví dụ này, phần tử nguyên_liệu có hai thuộc tính: lượng với giá trị "3", và đơn vị với giá trị "ca". Trong cả hai trường hợp, cũng như tên và nội dung của các phần tử, tại cấp độ đánh dấu, tên và giá trị của các thuộc tính cũng chỉ là dữ liệu text — các giá trị "3" và "ca" không phải một số lượng và một đơn vị đo lường mà chỉ là các chuỗi ký tự mà tác giả tài liệu có thể dùng để biểu diễn những thứ đó.
+Ngoài văn bản, các phần tử còn có thể chứa các phần tử khác:
+
+Trong đó, phần tử chỉ_dẫn chứa ba phần tử bước. XML đòi hỏi rằng các phần tử phải được lồng nhau một cách đúng đắn — các phần tử không được có phần xen vào nhau. Ví dụ, đoạn dưới đây không phải XML định dạng đúng (well-formed XML) vì các phần từ em và strong xen vào nhau:
+
+Mỗi tài liệu XML phải có đúng một phần tử gốc tại bậc trên cùng (còn gọi là phần tử văn bản), do đó đoạn sau cũng sẽ là một tài liệu XML định dạng sai:
+
+XML cung cấp cú pháp đặc biệt để biểu diễn một phần tử với nội dung rỗng. Thay vì viết một thẻ bắt đầu và một thẻ kết thúc ngay sau đó, tài liệu có thể chứa thẻ phần tử rỗng mà trong đó dấu gạch chéo đứng ngay sau tên phần tử. Hai ví dụ sau là tương đương về chức năng:
+
+XML cung cấp hai phương pháp biểu diễn các ký tự đặc biệt: các tham chiếu thực thể (entity reference) và các tham chiếu ký tự số (numeric character reference).
+Trong XML, một thực thể (entity) là một thân dữ liệu được đặt tên với dữ liệu thường là text, chẳng hạn một ký tự đặc biệt.
+Một tham chiếu thực thể là một ký hiệu đại diện cho thực thể đó. Nó bao gồm tên của thực thể với dấu ("&") đứng trước và một dấu chấm phảy (";") đứng sau. XML có năm thực thể đã được khai báo trước:
+&amp; (&)
+&lt; (<)
+&gt; (>)
+&apos; (')
+&quot; (")
+Dưới đây là một ví dụ sử dụng một thực thể XML khai báo trước để biểu diễn dấu & trong tên "AT&T":
+
+Nếu cần khai báo thêm các thực thể khác, việc đó được thực hiện tại DTD của tài liệu. Sau đây là một ví dụ cơ bản về khai báo thực thể tại một DTD nhỏ nội bộ. Các thực thể được khai báo có thể mô tả các ký tự đơn hay các đoạn văn bản, và có thể tham chiếu lẫn nhau.
+
+Khi xem tại một trình duyệt thích hợp,

@@ -1,0 +1,32 @@
+Wikivoyage este un wiki destinat creării de ghiduri turistice cu conținut liber. Este un proiect al Fundației Wikimedia. Până în prezent, există versiuni ale acestui proiect în limbile engleză, olandeză, franceză, germană, ebraică, italiană, poloneză, portugheză, română, rusă, spaniolă, suedeză, ucraineană.
+
+
+== Istoric ==
+Inițial, Wikivoyage a pornit de la secțiunea germană a proiectului Wikitravel, care a fost preluată de către cei mai mulți dintre administratori pe data de 7 octombrie 2004. Ulterior, aceștia au vândut-o companiei de publicitate pe Internet Internet Brands, pe data de 20 aprilie 2006. 
+După o fază de pregătire de șase luni, asociația non-profit Wikivoyage a fost înființată la 30 septembrie 2006; ulterior, a dobândit numele de domeniu și propriul server. La 10 decembrie 2006, proiectul demarează cu datele preluate de la Wikitravel. După patru luni, 30% din conținutul său a constat din articole noi.
+Wikivoyage a fost lansat în mod public pe data de decembrie 2006 ca o versiune în limba germană, care a fost susținută de autori germani și elvețieni. Acesta a fost deținută de un german asociație non-profit numit Wikivoyage. Versiunea în limba italiană a început în decembrie 2007.
+Inițial au existat doar două versiuni ale Wikivoyage: o versiune în germană și, din 10 decembrie 2007, o versiune în italiană. Cu toate acestea, organizarea fișierelor media și accesul utilizatorilor era diferit în cele două limbi.
+În ciuda numărului redus de articole (circa 6300 la începutul lunii februarie 2008 pentru versiunea în limba germană), proiectul era deja recunoscut în presa elvețiană scrisă și vorbită. Faptul că numele de domeniu și server erau gestionate de către o asociație de mare interes în comunitatea wiki.
+În 2012, conținutul proiectului Wikitravel în alte limbi a fost copiat de către Wikivoyage. În același timp, Wikivoyage a început să fie găzduit de Wikimedia Foundation. 
+A fost relansat in mod oficial de către Wikimedia pe data de 15 ianuarie 2013. 
+În România, proiectul a prins viață începând cu data de 17 februarie 2013.
+
+
+== Organizare și operare ==
+
+
+=== Funcționare ===
+La fel ca și Wikipedia, Wikivoyage utilizează platforma MediaWiki și păstrează vechile versiuni ale articolelor împreună cu numele autorilor (IP sau pseudonim) și data editării. De asemenea, un articol poate fi oricând editat de către orice utilizator, și sunt valabile toate celelalte reguli ale altor proiecte wiki.
+
+
+=== Licență ===
+Wikivoyage folosește licența Creative Commons. Scopul principal este de a facilita scrierea de ghiduri turistice. Cu toate acestea, acest tip de licență nu este utilizată pentru imagini și alte mijloace media, care sunt disponibile sub licența dublă (Creative Commons și GNU).
+
+
+=== Structură și informație ===
+Articolele sunt teme structurate, organizate în categorii, la fel ca în orice proiect MediaWiki.
+Temele diferite sunt separate de spații de nume diferite. Principalul domeniu afișează destinațiile de călătorie prin localizarea geografică. Alte două spații de nume sunt rezervate temelor și subiectelor de călătorii. Site-ul permite intersectarea destinațiilor și temelor de călătorie. Responsabilitatea asupra conținutului aparține în exclusivitate autorilor articolelor, nu fundației MediaWiki.
+
+
+=== Organizarea Wikivoyage ===
+Wikivoyage a fost inițial patronat de către Asociația Wikivoyage, cu sediul în Halle (Saxonia-Anhalt), Germania. Asociația are membri din peste tot în Germania, Belgia și El

@@ -1,0 +1,85 @@
+Le noir est un champ chromatique regroupant les teintes les plus obscures. Les objets noirs n'émettent ou ne reflètent qu'une part négligeable du spectre de la lumière visible. Le noir s'oppose ainsi à toutes les couleurs ; mais surtout au blanc, la plus claire de toutes les couleurs.
+Le noir a été associé, dans la culture occidentale, principalement au renoncement, involontaire dans le deuil ou volontaire dans la sobriété, et aussi au mystère.
+
+
+== Définition ==
+La couleur noire n'est pas l'obscurité totale. Quand l'éclairement lumineux est inférieur à 0,01 lux, l'être humain ne distingue pas les couleurs. On parle de vision scotopique. Quand la luminance d'un objet est moindre de 1 µcd⋅m-2, on ne perçoit rien du tout (SC, p. 26). Cependant, cette absence de perception n'est pas du noir ; l'eigengrau représente, en quelque sorte, le bruit de fond de la perception visuelle.
+Le noir absolu peut plutôt se définir comme une luminosité si faible, par rapport au reste du champ visuel, qu'on ne peut y distinguer aucun détail.
+Cette définition a l'avantage de rester valable dans les domaines de la vision mésopique (jusqu'à une centaine de lux) ou de la vision photopique (au delà), où on discerne des couleurs. On décrit comme noire une surface qui réfléchit dans la direction de l'observateur moins de 0,3% de la lumière incidente (PRV3).
+On décrit comme noires des obscurités où on ne peut pas distinguer de détails, mais où on peut discerner une faible tendance vers une autre couleur. C'est ainsi qu'on connaît des nuances de noir bleuté, violacé, ou autre. Le « noir » se trouve ainsi être, en même temps qu'une couleur, un champ chromatique.
+La norme AFNOR X-08-010 « Classification méthodique générale des couleurs » propose des limites de luminosité pour les tons neutres, L*=20% (CIE L*a*b*), soit 3% de la plus forte luminance. Lorsque le noir a une tendance, la limite s'abaisse sensiblement, dans une proportion d'autant plus grande que la coloration est forte, variant selon la dominante (SC, p. 248sq).
+Dans la synthèse additive (superposition de faisceaux lumineux), le noir est une absence de couleur. Un noir parfait exigerait qu'il n'y ait aucune fuite ni lumière parasite dans le système. En pratique, les dispositifs ont chacun une nuance de noir qui dépend de leurs caractéristiques techniques, principalement de leur contraste, c'est-à-dire du rapport maximal entre le niveau de la plus forte lumière possible, et le niveau résiduel de la plus faible.
+Dans la synthèse soustractive, les noirs peuvent s'obtenir soit par un pigment absorbant toutes les lumières visibles, soit par un mélange de pigments absorbant chacun une plage de longueurs d'ondes, combinés de manière à toutes les absorber.
+On oppose le noir au blanc ; par définition, ce sont la moins lumineuse et la plus lumineuse des couleurs. Elles ont en commun de ne pas avoir de longueur d'onde monochromatique dominante. Lorsqu'on combine les trois couleurs primaires en proportions adéquates et constantes dans la synthèse additive, on va du noir au blanc en passant par toutes les nuances de gris.
+
+
+== Pigments et colorants ==
+Les noirs ont été les premiers pigments préparés par l'homme : à partir de bois carbonisé (noir de charbon) puis par combustion (noir de carbone, noir de fumée).
+Mélangé à un liant aqueux, les noirs de carbone et de fumée ont servi à fabriquer les premières encres d'écriture.
+Pline l'Ancien parle d'atramentum à propos des noirs de carbone. Il explique comment obtenir différents noirs :
+
+« On fabrique le noir de plusieurs façons, avec la fumée que donne la combustion de la résine ou de la poix ; aussi a-t-on construit pour cela des laboratoires qui ne laissent pas cette fumée s'échapper. Le noir le plus estimé se fait de cette façon, avec le pinus teda ; on le falsifie avec le noir de fumée des fourneaux et des bains, et c'est de celui-là dont on se sert pour écrire les livres. Il en est qui calcinent la lie de vin dessechée ; et ils assurent que si la lie est d'un bon vin, le noir ainsi obtenu ressemble au noir indien. Polygnote et Micon, les célèbres peintres d'Athènes, en ont préparé avec du marc de raisin, qu'on appelle « tryginon » en grec (de trux = lie). Apelle a imaginé d'en préparer avec l'ivoire brûlé, et lui a donné le nom d'eléphantinum. On apporte aussi de l'Inde le « noir indien » dont jusqu'à présent la composition m'est inconnue. Les teinturiers en font avec une efflorescence noire qui s'attache aux chaudières de cuivre. On l'obtient encore en brûlant le bois du pinus teda, et en triturant les charbons dans un mortier. Les seiches, par une propriété merveilleuse, ont un noir, mais on ne s'en sert pas. La préparation de tout noir se complète au soleil : du noir à écrire, par l'addition de la gomme ; du noir à enduit par l'addition de la colle. »
+
+La couleur noire étant la plus consommée par l'homme pour l'écriture (encre de Chine), l'imprimerie, les photocopieuses, les imprimantes, la peinture, c'est probablement aussi la couleur pour laquelle il existe le plus grand nombre de procédés de production.
+Les pigments noirs sont d'origines diverses. Chacun a une tendance plus ou moins prononcée (vers le bleu, le rouge, le vert, etc.), qui se manifeste quand ils sont dilués.
+En peinture, rabattre un ton, c'est lui ajouter un peu de noir.
+
+
+=== Pigments naturels ===
+Noir de campêche (NBk3) : un colorant végétal ou pigment laqué, extrait du bois de cœur de campêche.
+Bitume ou gilsonite (NBk6) : un noir brun et chaud tiré d'un hydrocarbure. La migration du bitume dans l'huile liant de la peinture à l'huile pose des problèmes.
+Ardoise PBk18. Les pigments d'ardoise broyée sont surtout utilisés en sous-couche de peinture anticorrosion et en extérieurs (PRV1, p. 99).
+
+
+=== Pigments minéraux de synthèse ===
+Noir de fumée (carbone) (PBk6) : le noir le plus noir, opaque et froid, extrait de la suie produite par la combustion incomplète de composés organiques.
+Noir de carbone ou Noir de lampe ou Noir d'acétylène (PBk7) : un noir dense, légèrement bleuté, obtenu en collectant la suie issue d'un bec de gaz, d'une lampe à huile, d'une bougie, qui s'est déposée sur une surface froide.
+Noir de charbon (PBk8) : obtenu par carbonisation de bois ou noyaux. Comprend : Noir de vigne, Noir de pêche, Noir de fusain, Noir de sarment, Noir de liège, Noir de hêtre. Il produit des noirs légèrement bleutés, moins denses que les noirs de fumée.
+Graphite (PBk10) : un carbone cristallin pur de teinte gris foncé, utilisé dans les mines de crayon (PRV1, p. 356).
+Oxyde de fer noir ou Noir de Mars (PBk11) : équivalent synthétique de la magnétite, il produit des noirs fins, neutres et denses, plus intenses que les noirs de charbon.
+Noir spinelle (PBk28) : mélange d'oxydes métalliques (cuivre, chrome, manganèse)
+
+
+=== Pigment synthétique d'origine animale ===
+Noir d'ivoire ou noir d'os (PBk9) : obtenu par calcination d'os durs (ivoire, bois de cerf, de rhinocéros). Aussi connu sous les noms de : Noir de velours, Elephantinum, Noir animal. Un noir brunâtre, plus chaud que les noirs de carbone et très docile en mélanges car peu colorant.
+
+
+=== Pigments organiques de synthèse ===
+Noir d'aniline (PBk1) : par oxydation d'un sel d'aniline, a été utisé pour les encres d'imprimerie, sert pour les peintures d'instruments d'optique ou les laques noir profond des instruments de musique (PRV1, p. 201).
+Noir d'acétylène PBk7
+Noir de pérylène (Pbk31) : un noir verdâtre.
+
+
+=== Noir en nanotechnologie ===
+Des chercheurs de l'Université Rice, aux États-Unis, dirigés par le professeur Pulickel Ajayan ont mis au point un matériau constitué de nanotubes de carbone verticaux qui est le matériau le plus « sombre » jamais créé par l’homme ; avec un indice de réflexion de 0,045 %, il est 30 fois plus sombre que le carbone noir, ce qui lui permet d’absorber 99,9 % de la lumière qu’il reçoit. C’est une performance 3 fois plus élevée que ce que permettait l'alliage de nickel-phosphore qui était le matériau fabriqué antérieurement réputé le plus sombre (les peintures noires commercialisées renvoient 5 à 10 % de la lumière, et plus pour celles qui sont brillantes). Cette innovation pourrait intéresser les secteurs militaires, de la communication, de l’énergie, de l’observation, des colorants. Cependant, des incertitudes concernant les impacts environnementaux des nanotechnologies pourraient imposer des délais, coûts et précautions ne permettant pas de mettre à portée de tous les bénéfices que pourraient permettre ces avancées techniques.
+
+
+== Symbolique ==
+Dans la symbolique occidentale, le noir est associé à la négation, au renoncement :
+la sobriété, l'élégance et le raffinement discrets, la richesse, le luxe, la noblesse (ex : le smoking et autres tenues de cérémonie et objets de luxe ; un étalon noir est l'emblème de la marque de voiture Ferrari) ;
+le mystère, les ténèbres, l'inconnu, ce qui est caché (par exemple le marché noir) ou ce que l'on ne voit pas (la matière noire), l'occulte ; la mort ;
+l'autorité, la puissance, la dignité, le pouvoir, la menace, l'austérité, (par exemple la robe de l'ecclésiastique, l'uniforme du policier, du SS, du surveillant, de l'avocat, du juge) ;
+la mort, le deuil, la tristesse, le désespoir, la peur, le mal, le néfaste. Parfois, il s'agit de l'obscurantisme comme dans l'expression Grande noirceur ;
+la révolte, l'anarchie (le drapeau noir est le drapeau des pirates et des anarchistes) ;
+En ésotérisme la couleur noire est associée à des éléments supposés appartenir à l'autre côté du monde, en particulier les ténèbres : la Lune noire (Lilith), l'origine de cette symbolique réside dans le fait que le noir est la couleur de la nuit, de l'obscurité, du non-visible. À l'opposé du blanc, de la lumière. Le noir représente aussi parfois le renouveau[réf. souhaitée].
+Dans l’Égypte antique, le noir avait une symbolique positive. En effet dans la langue des pharaons, le verbe « kem », qui est tiré du mot « noir », veut dire « mener à bien, s’élever à, accomplir, payer, compléter, servir à » mais aussi « être noir ». Le mot « kem » veut dire aussi : « complet, parfait, obligation, devoir »[réf. souhaitée].
+
+
+== Usages ==
+Dans le code de couleurs des résistances électriques et des condensateurs, la couleur noire correspond au chiffre 0, au multiplicateur ×1 et à un coefficient de température de 200ppm. Dans la norme CEI 60757, on le nomme BK (abréviation de black) ;
+Les panneaux solaires thermiques et de nombreux dispositifs assimilés (moquette solaire...) sont noirs sous une plaque de verre car les pigments noirs absorbent fortement l'infrarouge, et quand ils sont peu réflexifs (surface hyper-mate) une grande partie du spectre lumineux.
+Le constructeur de voitures Henry Ford est célèbre pour avoir dit de son Modèle T, première voiture construite en masse pour être vendue à un prix accessible, vers 1920 : « vous pouvez choisir la couleur que vous souhaitez à condition que ce soit le noir ». Pour réduire les coûts en s'affranchissant de la nécessité d'avoir plusieurs bains de peinture, une seule teinte devait être choisie, et le constructeur estima que le noir était la plus convenable.
+La couleur noire est la plus économique, la plus lisible aussi, c'est pourquoi c'est celle qui est utilisée pour les imprimantes monochromes et pour les photocopieuses et en imprimerie. Journaux, livres et tracts sont la plupart du temps imprimés en noir.
+C'est la couleur principale des documents administratifs, des annonces légales, des affichages légaux. L'impression noire sur papier blanc est réservée en France aux affichages officiels de l'État et de l'administration.
+Le roman noir, la série noire, le film noir, sont des expressions pour désigner un genre d'histoire à caractère dramatique, pessimiste, tragique associé généralement à une intrigue policière ou à un suspense.
+Par métonymie, le "cinéma noir" désigne un genre cinématographique indépendant, né aux États-Unis, où les acteurs sont majoritairement noirs.
+Vêtements noirs et maquillage noir sont les signes distinctifs du mouvement gothique.
+Ceinture noire : grade du judo et du karaté, correspondant au 1er dan (10e niveau) et suivants. Elle suit la ceinture marron ;
+Le ski : en Europe, les pistes les plus difficiles sont représentées par des flèches noires.
+On entend par « viande noire » la chair des chevreuils, daims, sangliers, cerfs et ours (On a aussi la viande rouge et la viande blanche).
+
+
+== Êtres, choses et objets ==
+Animaux : Panthère noire, corbeau, mainate, merle noir, taureau noir, chat noir, coccinelle noire, cygne noir, cheval noir
+Végétaux : bois d'ébène, la morelle noire, le suc de réglisse
+Minéraux : onyx noir, houille, charbon, anthracite, graphite, goudron, bitume, l'or noir, suif, poussière n

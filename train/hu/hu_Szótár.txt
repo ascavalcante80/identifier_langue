@@ -1,0 +1,78 @@
+Szótárnak nevezzük az olyan írásművet, amelynek a témája az egyes szavakhoz kapcsolódó ismeretek, elsősorban a szavak jelentése, és amelyben a szavak sorrendje (pl. egy könyvalakú szótárban) a szavak jelentéseinek kapcsolata alapján, vagy a betűírást használó nyelvek esetében a szavak betűrendjében van kialakítva.
+A nagyon régi szótárak jellemzően egynyelvűek voltak és tematikus sorrendben készültek. Ilyenformában rokonai a lexikonnak és az enciklopédiának, azonban a különbség lényeges, mivel az utóbbiakban az egyes címszavak nem a szavak jelentését, hanem a megnevezett tételhez kapcsolódó, tényeknek tekintett ismereteket tartalmazzák.
+A szótári jelentés rendszerint egy rövid meghatározás az adott szó értelméről, azaz annak megfogalmazása, hogy milyen más szavak válthatják ki az eredeti kifejezést. Ez a megoldás egynyelvű szótárak esetében jól mutatja, hogy a nyelv rekurzió terméke, azaz egy szókincs áll rendelkezésünkre, és ennek elemeit váltogatva használjuk fel a szókincs minden eleme jelentésének meghatározására.
+A szótárak szóanyaga rendszerint szűkebb, mint egy nyelv szókincse, és a használat célja, igényei szerint alakul. A legrégebbi szótárak egyike a nehéz szavak szótára volt, a leggyakrabban használt szótár a helyesírási szótár, míg a legszámosabb szótár típusnak a szószedet, vagy glosszárium számít, amely egy adott írásműhöz vagy feladathoz kapcsolódóan elkészített szójegyzék neve.
+Az, hogy egy szótárban a szavak milyen csoportosításban vagy sorrendben követik egymást, az egyrészt az adott nyelvtől, másrészt a szótár adathordozójától függ. Amióta számítógépet használunk, nem szükségszerű, hogy egy elektronikus médiumon megvalósított szótár „lapja” ugyanúgy nézzen ki, mint egy könyv alakú szótáré, ahogy a keresés sem korlátozódik a lapozásra. A számítógép azt is lehetővé teszi, hogy a szavaknak ne csak az írott képe, hanem hangalakja is rögzíthető – és ezért hallható – legyen, számos más, a szavak jelentéséhez és használatához kapcsolódó egyéb ismerettel együtt.
+
+
+== Szótártípusok ==
+A szótár fizikai megvalósításán alapuló tipológiától eltekintve a szótárak lehetnek egy-, két- és többnyelvű szótárak, amely utóbbi kettő esetében az A nyelv szócikkeihez a B nyelven megadott jelentés tartozik, míg a többnyelvű szótár esetében a dolog kicsit bonyolultabb. Könyv alakú szótár esetében a többnyelvű szótárak készítői kénytelenek bevezetni egy számjegy azonosítót, és kiválasztani egy A vezérnyelvet. Ezután a keresés lehetővé tétele érdekében készítenek egy betűrendes mutatót minden egyes nyelvhez, és a szavak számjegy azonosítója segítségével ki lehet keresni az A nyelvű kifejezés B, C, D stb. megfelelőit.
+A szótár kiinduló anyaga és szerkesztői célja szempontjából vannak egynyelvű értelmező szótárak, amelyek szerkesztését többnyire lexikográfus nyelvészek végzik az adott nyelv írott és beszélt nyelvi megnyilatkozásainak igen széles mintáiból merítve. Ezeknek a kiinduló anyagoknak a neve korpusz, és elektronikusan is rögzítve vannak, a korábban cédulákra gyűjtögetett anyagokkal szemben.
+Vannak továbbá szűkebb és tágabb tudományterületekhez kapcsolódóan készülő szakszótárak, amelyeknek készítői rendszerint nem lexikográfusok, hanem egyrészt az adott szakma művelői, másrészt egyúttal számítástechnikusok is, akik a szótárkészítéshez szükséges szoftverelemeket maguk is elő tudják állítani. Mivel az utóbbi ismeretekkel egyre többen rendelkeznek, számos elektronikus szótár készül lexikográfiai szempontból laikus emberek munkájaként, esetenként annak megfelelő minőséggel.
+A legnagyobb nyomtatott szótár jelenleg az Oxford English Dictionary, a legmerészebb internetes szótári vállalkozásnak pedig a Wortnik tűnik, amely a szavak minden eddiginél szélesebb körét kívánja bemutatni.
+
+
+== A szótárak minősége ==
+A szótárak minőségét a látszat szintjén a szótár kiadója, múltja, a kiadások száma, a szóanyag bősége stb. jelzi.
+Valójában azonban mivel a szótár információkat megtestesítő termék, a minőséget meghatározó szempontok mások. Az első, hogy kinek készült a szótár, megfelel-e a használó igényeinek. Mivel a legtöbbet használt szótárak a kétnyelvű szótárak, és a használat célja az idegennyelv tanulás, a kétnyelvű szótárak használói igen különböző tudással és ezért eltérő igényekkel jellemezhetők. Ez a tény esetenként tükröződik a szótár minőségében.
+Függetlenül a szótárhasználó tudásszintjétől a szótárban található címszavakhoz kapcsolódóan az információtól azt várjuk el, hogy az legyen igaz, pontos, megbízható, naprakész, teljes, érthető, világos, releváns, érvényes, könnyen kezelhető, hozzáférhető stb. Végül a mai szövegfeldolgozási technológiai eljárások egy sor új ismeret előállítását is lehetővé teszik a szavakhoz kapcsolódóan, és az is kívánatos, hogy ezek az ismeretek helyet kapjanak egy -egy szócikk kapcsán. Az Oxford Dictionary of Contemporary English például közli, hogy egy adott szó milyen használati gyakorisággal szerepel az angol nyelvben, és ezzel orientálja a tanulót a tanulásban.
+
+
+== Szótárkészítési eszközök ==
+A szótárkészítés a szótár címszavainak kiválasztásával kezdődik, amely nyelvenként eltérő problémákhoz vezet. Az angol nyelv esetében a kiválasztott azonos alakú szavak (homonima) között különbséget kell tenni, és ez általában az adott szó szófaj osztályba sorolásával oldható meg. További probléma, hogy ugyanaz a szófajú szó több jelentéssel és értelemmel bír, és ahogy kivesszük a szót az eredeti szövegkörnyezetéből, bizonytalanná (többértelművé) válik annak jelentése. Ezért akár az eredeti szöveg beillesztésével, akár annak speciális vagy szakterületi megjelölésével, akár anélkül, számozott jelentésváltozatokat adunk meg egymás után.
+A toldalékoló magyar nyelv esetében a kiválasztott szövegben előforduló szavakat először meg kell fosztani a végződésektől, lemmatizálni kell, hogy megkapjuk a szótövet (lemma). Ezek válhatnak azután szócikkekké (lexéma). Maguknak a jelentéseknek a megadása sem egyformán történik az adott szó szófajától függően, mivel főnevek esetében valószínűleg definíciót használunk, igék és melléknevek esetében pedig szinonimákat. A szavak szótári alakra való lepusztítását lemmatizáló program segítségével végezzük el, az ilyen programok képezik az alapját a számítógépes helyesírásellenőrzésnek.
+Maguknak a szavaknak a kiválasztását egy adott szövegből szintén egy számítógépes program fajtával, a konkordancia elemző segítségével végezzük.
+Ez a program a szöveg összes szavát sorrendbe rakja gyakoriság és/vagy ábécé szerint. Ezen adatok alapján eldönthető, hogy mely szavakra van szükség a szótárban, melyekre nincs. Mivel ezzel a szó jelentéséhez tartozó rész még nincs meg, ugyanez a program könyvtárosi használatból ismert KWIC rutinja segítségével, amely megmutatja az adott szó összes előfordulását minden környezetében, magunk fogalmazzuk meg a jelentést, és/vagy felhasználjuk a szó környezetben adott előfordulását példaképpen.
+A KWIC programhoz hasonlóan működnek az egyszerre több szótárban kereső (alignment) programok, amelyek megmutatják a szó jelentését esetenként akár egy tucat különböző szótárban, és nekünk kell eldöntenünk, hogy melyik esettel állunk szemben. Fontos megjegyezni, hogy mivel az ember mindig értelmes, jelentéssel bíró dolgokat keres a környezetében, nagyon gyakran tévedünk úgy, hogy rossz „helyen” keressük a szó jelentését.
+Egészen más a tennivalónk, ha a szótárat nem betűrendes fekvésben, hanem belső tartalmi összefüggések alapján, tezauruszként akarjuk elkészíteni. A Longman kiadó Longman Lexicon kiadása illusztrálja ezt a megoldást, amely másfajta, de szintén nagyon fontos igényeket elégít ki. Természetesen a tezauruszépítésnek is vannak számítógépes eszközei, és magyar tezauruszok is készültek számítógéppel. Ungvári Rudolf könyvtáros ennek legismertebb képviselője.
+A tezauruszok gyakran decimális vagy más számjegyes azonosítót alkalmaznak a szavak közti összefüggések illusztrálására. A szavak, mint fogalmakat jelölő pontok összefüggéseinek és viszonyainak megjelenítésével, azok grafikus, képszerű ábrázolásával is többen kísérleteztek. Emellett a hypertext eszközök használatával olyan szótár is készült, amely saját definícióit alkotó minden egyes szó szócikként való kezelését, azaz az ahhoz tartozó jelentés azonnali megjelenítését teszi lehetővé. Mindez arra utal, hogy a megértéshez „képet kell alkotnunk”, „képben kell lennünk”, és így az egymás közelségében lévő szavak segítségével kell létrehoznunk a mentális képet, a jelentést. A jelentéshez tehát mindig szükség van a kontextusra, nemcsak az adott szó szövegkörnyezetére, hanem az olvasó és/vagy beszélő által abban a pillanatban észlelt és ismert, a jelentést módosító tágabb összefüggések ismeretére is.
+
+
+== A szóalapú szótárak meghaladása ==
+Mivel a szótárazási igényeknek csak egy része elégíthető ki egyetlen elszigetelt szó jelentésének megadásával, egyre több szótár készül az egyszavas kifejezést meghaladó szövegek szótári formában való összeállításával. A leggyakrabban a kollokációs szótárak, az idiómaszótárak és a kifejezésszótárak szolgálnak ilyen megoldással. A betűrendes szerkezetű szinonimaszótárak elégtelen és „hamis” volta vezette el Bartos Tibort, hogy elkészítse a Magyar szótárt, amely egyedülálló emberi teljesítmény, és amely rendhagyó tezaurusznak és szinonima szótárnak tekinthető. Bartos kifejti, hogy szinonimák nincsenek is, csak egymással helyettesíthető szavak vannak, vagyis rámutat a nyelv rekurzív jellegére, amelyről különben megfeledkezünk.
+Bartos kiinduló „kategóriái” (a láncszemek horgonyai) szófajok szerinti csoportosításban (saját feldolgozás, tehát nem engedélyköteles). Az asszociációkat lefelé olvasva lehet látni
+Ige Főnév Melléknév Határozó
+van állapot fontos
+Nincs helyzet mellékes
+utánoz kapcsolat kölcsönös
+alkot rokonság azonos
+készít különbség más
+illik termelés egyforma
+egyenlít szemmérték változatos
+kiválik fok visszás
+elmarad átlag nagy
+köt növekedés kicsi
+szétválaszt csökkenés tiszta
+bomlik toldás kevert
+erjed elvonás helytálló
+Él vele többlet esendő
+mellőz maradék teljes
+rendez egyesülés hiányos
+zavar egész idegen
+elöljáró rész folytonos
+követ alkotórész általános
+félbeszakad rend egyéni
+gyűlik rendetlenség szabályos
+szór kezdet szabálytalan
+emészt vég számlálhatatlan
+kitaszít közép kettős
+igazodik állás felezett
+elrugaszkodik gyűjtőhely háromszoros
+igazodik osztály harmadolt
+megnégyszerez ismétlés korai
+alakul szám kései
+helyettesít számítás új
+cserél lajstrom régi
+történik negyedrész változó
+okol idő változatlan
+terem időzavar Erős
+pusztul időszámítás gyenge
+megújul időszak termő
+segíti jelen meddő
+ellenzi múlt heves
+borít jövő mérsékelt
+nyit tavasz hajlandó
+zár fiatalság bal
+stb.
+A nem egytagú kifejezések keresése azonban problémát okoz, ezért a legtöbb szótárban ez nem is lehetséges. További probléma, hogy a számítógépes keresés is csak Boole algebra relációkat enged meg, és ezek szegényesek a szükségesekhez képest. Az igények ugyanis olyan megoldás keresésére ösztönöznek, amelyek felhagynak a címszavak kontextusának teljes elhagyásával vagy egyszerűsítésével, és megpróbálnak a kontextusból többet összekapcsolni vagy legalábbis azonnal hozzáférhetővé tenni egy adott szó jelentésének tisztázása kapcsán. Ez különösen a szótárak fordításkori használatánál jelentős. Mivel a fordítást is megsegítik a számítástechnikai eszközök, ma már a fordítás melléktermékeként fordítási memóriák készülnek, amelyek nem mások, mint kifejezés vagy mondat hosszúságú, nyelvpárokba rendezett, bővített tételű vagy „szócikk”-szótárak.
+Egy szóhoz kapcsolódóan, az adott szócikkfejjel kapcsolatosan igen sokféle dolgot lehet tudni, illetve lehet rögzíteni egy szótárban. A teljesség igénye nélkül, a szó írott alakját (helyesírását), a szó hangalakját (kiejtését), a szó jelentését, a szó meghatározását, a

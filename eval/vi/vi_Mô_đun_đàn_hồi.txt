@@ -1,0 +1,6 @@
+ng số ban đầu của Lamé', và mô đun sóng P.
+Các loại vật liệu đồng nhất và đẳng hướng (như nhau ở tất cả các hướng) có các đặc tính đàn hồi (tuyến tính) của chúng được mô tả đầy đủ bởi hai mô đun đàn hồi, và một trong số đó có thể chọn một số cặp. Cho một cặp mô đun đàn hồi, tất cả các mô đun đàn hồi khác có thể được tính toán theo các công thức trong bảng bên dưới.
+Các chất lỏng không nhớt là đặc biệt khi chúng không hỗ trợ ứng suất kéo, có nghĩa là mô đun cắt luôn luôn bằng không và trong trường hợp này mô đun Young luôn luôn bằng không.
+
+
+== Tham khảo ==

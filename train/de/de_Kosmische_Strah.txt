@@ -1,0 +1,104 @@
+Die kosmische Strahlung ist eine hochenergetische Teilchenstrahlung, die von der Sonne, der Milchstraße und von fernen Galaxien kommt. Sie besteht vorwiegend aus Protonen, daneben aus Elektronen und vollständig ionisierten Atomen. Auf die äußere Erdatmosphäre treffen zirka 1000 Teilchen pro Quadratmeter und Sekunde. Durch Wechselwirkung mit den Gasmolekülen entstehen Teilchenschauer mit einer hohen Anzahl von Sekundärteilchen, von denen aber nur ein geringer Teil die Erdoberfläche erreicht.
+Die sekundäre, durch Wechselwirkungen mit der Atmosphäre veränderte kosmische Strahlung (mit bis zu 1011 Teilchen je Primärteilchen) ist am Erdboden oder durch Ballonsonden nachweisbar. Die Luftschauer sind horizontal einige Quadratkilometer groß, vertikal aber nur wenige Meter. Sie geben Hinweise auf die Art und Energie der kosmischen Primärteilchen, der Verlauf ihrer Front auf die Einfallsrichtung.
+Victor Franz Hess postulierte 1912 eine sogenannte Höhenstrahlung, um die bei einer Ballonfahrt gemessene höhere elektrische Leitfähigkeit der Atmosphäre und auch die Zunahme der Gammastrahlung in größerer Höhe zu erklären. Es handelt sich dabei um die sekundäre kosmische Strahlung.
+Die Bezeichnung Strahlung hat sich bis heute gehalten, obwohl die (elektromagnetische) Gammastrahlung nicht zur kosmischen Strahlung gerechnet wird. Zur Unterscheidung von der kosmischen (Teilchen-)Strahlung heißt sie kosmische Gammastrahlung.
+
+
+== Einteilung und Ursprung ==
+
+Abhängig vom Ursprung unterteilt man die kosmische Strahlung in Solarstrahlung (engl. Solar cosmic ray, SCR), galaktische (engl. galactic cosmic ray, GCR) und extragalaktische Strahlung:
+Sonnenwind. Seine Kennzeichen sind: Teilchenstromdichten um 107/(cm²·s), niedrige Energien, vorwiegend Protonen und Alphateilchen. Teilchendichte um 5/cm³; Ursache des Polarlichts;
+Sonnenflares, CME. Kennzeichen: Zunahme der Teilchenstromdichte innerhalb weniger Stunden und Tage auf 108/(cm²·s) bis 1010/(cm²·s), hohe Energien um 10 MeV, Teilchendichte bis 50/cm³.
+Manchmal auch Van-Allen-Gürtel, obwohl seine Strahlung die Erde nicht erreicht.
+Galaktische kosmische Strahlung (GCR). Kennzeichen: geringe Teilchenflussdichten, sehr hohe Energien (1 GeV und höher), Anteil schwerer Ionen. Mit zunehmender Energie verringert sich die Ablenkung durch Magnetfelder und die Anisotropie der Strahlung nimmt zu.
+Anomale kosmische Strahlung (engl. anomalous cosmic rays, ACR) entsteht wahrscheinlich durch Wechselwirkung des Sonnenwinds mit der lokalen interstellaren Materie (LISM) im Bereich des Termination Shock nahe der Heliopause. Kennzeichen: energieärmer als GCR, weniger Wasserstoff- und Kohlenstoffionen als Wasserstoff und Kohlenstoff in der LISM.
+Extragalaktische Teilchen mit Höchstenergien von bis zu 1020 eV. Die Flussdichten liegen unterhalb von 10−20 Teilchen pro Sekunde und Quadratmeter.
+Die Quellen der galaktischen kosmischen Strahlung ließen sich erst seit den letzten Jahren identifizieren. Kandidaten dafür sind unter anderem Schockfronten von Supernova-Explosionen, kosmische Jets von schwarzen Löchern oder von Pulsaren. Für Teilchenenergien unter 1018 eV ( = 1 EeV) wird ein Ursprung innerhalb der Milchstraße angenommen, während für größere Energien andere Galaxien oder Quasare wahrscheinlicher sind. Kosmische Magnetfelder lenken die Teilchen ab. Sie scheinen deshalb isotrop auf die Erde zu strahlen. Da aber viele Quellen neben Teilchen auch Gammastrahlung aussenden, lässt sich so ihr Ursprung zurückverfolgen.
+
+
+== Zusammensetzung ==
+
+Die galaktische kosmische Strahlung besteht ungefähr zu 87 % aus Protonen (Wasserstoffkerne), 12 % Alpha-Teilchen (Heliumkerne) und 1 % schwereren Atomkernen. Die Häufigkeitsverteilung der Atomkerne entspricht in etwa der solaren Elementhäufigkeit. Ausnahmen sind vor allem Lithium (Li), Beryllium (Be) und Bor (B), die in der kosmischen Strahlung als Folge von Spallationsreaktionen beim Durchqueren interstellarer Materie bis zu 500.000-mal häufiger sind als in solarer Materie. Durch Wechselwirkung mit der Atmosphäre beobachtet man auf der Erde nicht die ursprüngliche Strahlung, sondern die Reaktionsprodukte aus der Wechselwirkung mit der Atmosphäre, insbesondere mit Stickstoff und Sauerstoff sowie Kohlenstoff. Der Anteil von Elementen schwerer als Eisen und Nickel ist noch nicht genau bekannt, Spuren von Bismut sind nachgewiesen.
+Die Verteilung der Teilchen pro Zeit, N(E), in Abhängigkeit von der Energie E folgt einem Potenzgesetz:
+N(E) ~ E−γ
+mit:
+γ = 2,7 für E < 4·1015 eV
+γ = 3 für 4·1015 eV < E < 5·1018 eV
+γ < 3 für E > 1018 eV
+γ >>3 für E > 1020eV (Energien größer als 1020eV werden nicht beobachtet)
+Im Jahr 2008 durchgeführte Messungen scheinen den GZK-Cutoff oberhalb 5·1019 Elektronenvolt zu bestätigen. Danach begrenzen Wechselwirkungen mit der kosmischen Hintergrundstrahlung die Teilchenenergie auf 1020 bis 1021 eV, sofern die freie Weglänge von 160 Mio. Lichtjahren überschritten wird.
+
+
+== Geschichte der Erforschung ==
+
+1912 entdeckte Victor Franz Hess die (sekundäre) kosmische Strahlung mithilfe von Ballonfahrten in der Erdatmosphäre. Er veröffentlichte die Entdeckung in der Physikalischen Zeitschrift 13 (1912), 1084. Da der Ursprung der Strahlung unklar war, wurde sie lange Zeit als Höhenstrahlung bezeichnet.
+Walther Bothe und Werner Kolhörster versuchten 1929 den Nachweis dafür zu erbringen, dass die kosmische Strahlung eine hochenergetische Gammastrahlung sei. Für ihre Experimente verwendeten sie eine Messanordnung, die im Wesentlichen aus zwei Geiger-Müller-Zählrohren bestand, zwischen die man verschieden dicke Absorber in Form von Eisen- oder Bleiplatten bringen konnte. Sie gingen davon aus, dass ein Gammaquant mit einem Geiger-Müller-Zählrohr nur nachgewiesen werden kann, wenn es zuvor ein Elektron aus einem Atom schlägt. Dieses Elektron würde dann vom Zählrohr nachgewiesen. Tatsächlich entdeckten sie sehr bald Koinzidenzen, also Ereignisse, die in beiden Zählrohren gleichzeitig auftraten. In diesen Fällen musste ein von einem Gammaquant ausgelöstes Elektron beide Zählrohre durchquert haben.
+Die Energie dieser vermeintlichen Elektronen bestimmten sie, indem sie immer dickere Absorber (Metallplatten) zwischen die beiden Zählrohre brachten, bis keine Koinzidenzen mehr eintreten würden. Bothe und Kolhörster stellten zu ihrem Erstaunen fest, dass 75 % der Koinzidenzen nicht einmal durch einen vier Zentimeter dicken Goldbarren zu verhindern waren. Tatsächlich waren die Teilchen, durch welche die Geiger-Müller Zählrohre ausgelöst wurden, ähnlich durchdringend wie die kosmische Strahlung selbst. Demnach konnte die Strahlung entgegen der allgemeinen Annahme keine Gammastrahlung sein, sondern musste zumindest zu einem Teil aus geladenen Teilchen sehr hoher Durchdringungskraft bestehen. Sie konnten zeigen, dass die sekundäre Strahlung, die von der primären kosmischen Strahlung in der Wechselwirkung mit unserer Atmosphäre erzeugt wird, aus elektrisch geladenen Teilchen besteht.
+Scott E. Forbush wies 1946 nach, dass bei Sonneneruptionen Teilchen bis in den GeV-Bereich ausgesandt werden.
+Um die hohen Energien der Primärteilchen zu erklären, postulierte Enrico Fermi 1949 als möglichen Beschleunigungsmechanismus eine statistische Beschleunigung an magnetisiertem Plasma („Magnetwolken“) mit ebenen Schockfronten. Eine Schockfront kann zum Beispiel durch ein sich im Vergleich zur Umgebung sehr schnell propagierendes Gas gegeben sein. Schockfronten treten vor allem nach Supernovaexplosionen in der abgestoßenen Hülle der Supernova auf. Bei dieser statistischen Beschleunigung wird über längere Zeit mittels „Stößen“ die Energie des Gases auf das Teilchen übertragen. Dabei entsteht ein Potenzspektrum, jedoch mit einem von den Messdaten abweichenden Spektralindex γ.
+
+
+=== Bedeutung in der Wissenschaftsgeschichte ===
+Vor der Entwicklung der Teilchenbeschleuniger für den GeV-Energiebereich war die kosmische Strahlung die einzige Quelle hochenergetischer Teilchen für Experimente der Teilchenphysik. Viele Teilchen, z. B. Myon, Pion, Kaon, wurden zuerst in der kosmischen Strahlung nachgewiesen. Dazu nutzte man Messungen auf Berggipfeln oder mit photoempfindlichen Platten, die von Freiballons getragen wurden.
+In der kosmischen Strahlung findet man nur geringe Spuren von Antimaterie, und diese stammt vermutlich vollständig aus Wechselwirkungen der geladenen Teilchenstrahlung mit interstellarem Gas. Dies wird als Indiz dafür angesehen, dass Antimaterie in unserem Universum nicht dauerhaft vorkommt.
+
+
+== Wechselwirkung mit Materie ==
+Kosmische Strahlung löst beim Durchdringen von Materie Spallationsreaktionen aus. Durch Messung der Häufigkeiten der Spallationsprodukte in Meteoriten kann so zum Beispiel deren Aufenthaltsdauer im Weltall bestimmt werden (Bestrahlungsalter). Auch konnte so festgestellt werden, dass sich die mittlere Intensität der galaktischen kosmischen Strahlung seit mindestens 100 Millionen Jahren höchstens um einen Faktor zwei geändert hat.
+
+
+== Wechselwirkung mit der Erdatmosphäre ==
+
+
+=== Teilchenschauer ===
+
+Beim Eintreten in die Erdatmosphäre in einer Höhe um 20 km über der Oberfläche erzeugt die kosmische Strahlung Teilchenschauer. Aus einem Proton der Energie von 1015 eV entstehen mehr als eine Million Sekundärteilchen. Nur ein kleiner Teil von ihnen erreicht auch die Erdoberfläche.
+Durch Spallation von Stickstoff- und Sauerstoffatomen entstehen Neutronen, Protonen, geladene (π+, π−), und neutrale (π0) Pionen. Die neutralen Pionen zerstrahlen, die geladenen zerfallen in Myonen:
+
+Die Myonen sind ebenfalls instabil und zerfallen in Elektronen und Neutrinos:
+
+Ein Schauer besitzt
+eine weiche elektromagnetische Komponente, unter anderem durch den Zerfall von π0 und der Zerstrahlung von Positron-Elektronen-Paaren
+eine harte myonische sowie
+eine hadronische Komponente, die vorwiegend Protonen und Neutronen enthält.
+Die Komponenten lassen sich unabhängig voneinander auf der Erde registrieren und dienen dem Nachweis der kosmischen Strahlung.
+Die kosmische Strahlung und ihre Zerfallsprodukte tragen zur Entstehung einer Reihe von kosmogenen Radionukliden in der Erdatmosphäre und Erdkruste bei. Oft ist die Produktion durch die kosmische Strahlung die größte natürliche Quelle für diese Radionuklide, was eine Reihe von Anwendungen für die Isotopenuntersuchung bringt. Zu diesen kosmogenen Radionukliden gehören zum Beispiel 14C, 3H, 10Be, 26Al und 36Cl.
+Die Möglichkeit der Radiokohlenstoffdatierung beruht auf der kosmischen Strahlung, die Neutronen freisetzt, welche wiederum Stickstoff in das Radioisotop 14C umwandeln können. Dieses wird nur während des Stoffwechsels lebender Pflanzen in diesen gebunden, zerfällt jedoch mit einer Halbwertszeit von 5730 Jahren, sodass nach Ende des Stoffwechsels dessen Gehalt abnimmt und aus dessen Anteil auf das Alter organischer Substanzen geschlossen werden kann.
+
+
+=== Möglicher Klimaeinfluss ===
+
+Ein Zusammenhang zwischen der Bildung von Wolken und der galaktischen kosmischen Strahlung (GCR) wurde seit den 1970er Jahren in den USA postuliert. Seit den 1990er Jahren trug insbesondere der dänische Physiker und Klimaforscher Henrik Svensmark zur Verbreitung dieser These bei. Eine Überblicksstudie mehrerer internationaler Forschungseinrichtungen aus dem Jahr 2006 sah den Einfluss einer dynamischen Heliosphäre auf das Erdklima bei Betrachtung sehr langer Zeiträume als wahrscheinlich an. Über den Wirkungszusammenhang mit der Wolkenbildung gibt es verschiedene Hypothesen. Forschungsprojekte zum Mechanismus eines Zusammenhangs von kosmischer Strahlung und Wolkenbildung laufen derzeit am CERN (Projekt CLOUD Cosmics Leaving OUtdoor Droplets), der ersten Klimakammer an einem Teilchenbeschleuniger.
+Nir Shaviv deutet das Paradoxon der schwachen jungen Sonne und den Gesamtverlauf der Klimageschichte der Erde über Jahrmillionen im Rahmen eines Gesamtmodells. Dabei werden, zusätzlich zu einem Effekt von Treibhausgasen auf das Klima, ein Zusammenspiel von Sonnenwind, Sternbildungsrate und kosmischer Strahlung postuliert. Während in den ersten drei Jahrmilliarden der Erdgeschichte ein starker Sonnenwind den kühlenden Effekt der Höhenstrahlung weitgehend abgeschirmt habe, fielen danach die regelmäßig stattfindenden globalen Kaltzeiten mit ebenso regelmäßigen Spiralarmdurchgängen der Heliosphäre zusammen, was auf einen bedeutenden Einfluss der globalen Höhenstrahlung hinweise. Eine im Jahr 2009 in The Astrophysical Journal Letters erschienene Studie testete die Hypothese mit Hilfe eines genaueren, auf CO-Daten basierenden Ansatz und fand keinerlei Hinweise auf den von Shaviv et al postulierten Zusammenhang. 2010 wurde behauptet, Svensmarks Thesen zum Einfluss kosmischer Strahlung auf die globale Erwärmung komplett widerlegt zu haben. Ein Forscherteam um Frank Arnold vom Max-Planck-Institut für Kernphysik stellte bei Untersuchungen von sechs markanten Forbush-Ereignissen keine Korrelation zwischen Wolkenbedeckung und Ionenkonzentration fest.
+In einer anderen Studie wurde der Zusammenhang zwischen Sonnenaktivität und kosmischer Strahlung in Bezug auf kurze Zeiträume betrachtet. Demnach könne der kürzliche Anstieg der bodennahen Lufttemperatur keineswegs solaren Effekten zugeschrieben werden. Die von Svensmark angenommene Korrelation von Temperatur und GCR wurde unter anderem als „lediglich indikativ“ sowie als „irreführend“ kritisiert. Es fehle ein messbarer Effekt auf die Wolkenbildung wie auf den Temperaturverlauf. In den Jahren 1951–2006 (vergleiche Bilddarstellung) zeigen die Lufttemperaturen einen kontinuierlichen Trend, der bei der kosmischen Strahlung aber fehlt. Nach Kasting wäre die These auch deswegen “(…) highly speculative and, furthermore, the mechanism is unlikely to work as well as the proposer thinks it will” (Kasting (2005), S. 120,, deutsch: „(…) höchst spekulativ und auch wird der Mechanismus kaum so stark sein wie der Vortragende annimmt“).
+Shaviv erklärt das Ausbleiben einer aktuellen globalen Erwärmung mit dem Wärmespeichervermögen der Ozeane und hält die kosmische Strahlung für deutlich besser geeignet, dies im Zusammenspiel zu erklären als Treibhausgase allein.
+Eine Kontroverse löste die These nach einer gemeinsamen Veröffentlichung Shavivs mit dem Leibnizpreisträger Jan Veizer in GSA Today aus. Dabei unterstellten Stefan Rahmstorf und andere in einem in Eos erschienenen Kommentar Shaviv und Veizer gravierende methodische und inhaltliche Schwächen. Rahmstorfs Argumentation, es fehle ein anerkannter physikalischer Mechanismus, wurde in den IPCC Berichten übernommen. Veizer und Shaviv wiesen Rahmstorfs Vorwürfe als politisch motivierten Rufmord zurück.
+In einer 2012 bei der Royal Astronomical Society erschienenen Studie postuliert Svensmark einen eindeutigen Zusammenhang zwischen der Biodiversität, der Plattentektonik, insbesondere deren Einfluss auf das Ausmaß von Küstenbereichen und der Anzahl von Supernovae im Umfeld der Erde über die letzten 500 Millionen Jahre. Grundsätzlich sei die Biodiversität im Meer vom Meeresspiegel und dem von dem Auftreten von Supernovaerate abgeleiteten kosmischen Strahlungsrate CGR abhängig. Die Primärbioproduktivität des Meeres, das Nettowachstum der photosynthetisch aktiven Bakterien daselbst sei allein mit dem CGR zu erklären. Zudem sei ein inverser Zusammenhang zwischen erhöhten Supernovaeerscheinungen und dem Kohlendioxidanteil der Atmosphäre zu finden, den Svensmark auf in kälteren Ozeanbereichen erhöhte Bioproduktivität zurückführt.
+
+
+== Intensität und Nachweis ==
+Zum Nachweis der kosmischen Strahlung werden verschiedene Methoden genutzt. Bei niedrigen Energien ist der Teilchenfluss (Zahl der einfallenden Teilchen pro Flächeneinheit und Zeiteinheit) groß genug, um direkt mit Ballon- und Satellitendetektoren nachgewiesen zu werden. Bei höheren Energien werden die von der Strahlung ausgelösten Luftschauer vom Boden aus beobachtet; großflächige Anordnungen von vielen Detektoren mit hoher Zeitauflösung ermöglichen es, Energie und Einfallsrichtung des ursprünglichen Teilchens zu rekonstruieren. Nachgewiesen werden dabei die geladenen Teilchen der Luftschauer mit Szintillationsdetektoren (z. B. KASCADE-Grande) oder mit Tscherenkow-Detektoren, die Photonen des Schauers (Bremsstrahlung oder Luft-Tscherenkow-Strahlung) oder das auch quer zum Schauer emittierte Fluoreszenzlicht aus Stickstoffmolekülen. Mit Fluoreszenz-Teleskopen (dem Fly’s-Eye in Utah, USA) wurde 1991 die höchste bisher gemessene Teilchenenergie von 3,2·1020 eV beobachtet, was zu der Bezeichnung „Oh-My-God-Teilchen“ führte. Unter der Annahme, dass es sich bei dem Teilchen um ein Proton handelte, betrug die Schwerpunktsenergie bei Kollisionen mit Teilchen der Erdatmosphäre etwa 1015 eV (zum Vergleich: der LHC am CERN soll bei Proton-Proton-Kollisionen eine Schwerpunktsenergie von 13·1012 eV erreichen, also etwa ein Hundertstel dieser Energie).
+Ein aktuelles Experiment zur Beobachtung hochenergetischer kosmischer Strahlung ist das Pierre-Auger-Observatorium, das sich über eine Fläche von 3000 km² erstreckt. Dieses Experiment verfolgt einen Hybrid-Ansatz mit gleichzeitigem Nachweis mit Tscherenkow-Detektoren und Fluoreszenz-Teleskopen.
+Abgesehen von der langfristigen Konstanz gibt es kurzfristige periodische und nichtperiodische Schwankungen der Intensität der kosmischen Strahlung. So schwankt die Intensität in Abhängigkeit vom elfjährigen Sonnenfleckenzyklus; je mehr Sonnenflecken vorhanden sind, desto geringer die Intensität der galaktischen kosmischen Strahlung. Daneben gibt es noch eine 27-tägige Schwankung, die mit der Sonnenrotation verknüpft ist. Von erdgebundenen Detektoren werden auch schwache ganz- und halbtägige Schwankungen beobachtet. Sonnen-Flares oder sonstige Sonnenaktivitäten können auch plötzliche vorübergehende Intensitätsabfälle hervorrufen, welche nach ihrem Entdecker Scott E. Forbush als Forbush-Ereignisse bezeichnet werden. Seltener wird auch ein plötzlicher Anstieg der Intensität beobachtet.
+
+
+=== Sekundäre kosmische Strahlung ===
+Von den in Wechselwirkungen mit der Atmosphäre erzeugten Sekundärteilchen sind auf Meereshöhe hauptsächlich positive und negative Myonen mit einer Flussdichte von ca. 100 m−2s−1 zu beobachten. Das Zahlenverhältnis positive zu negativen Myonen ist etwa 1,27. Diese Myonen lassen sich wegen ihrer hohen Energien mit gewöhnlichen Mitteln kaum abschirmen und machen sich daher als störender „Untergrund“ in Teilchendetektoren bemerkbar. Für Messungen beispielsweise der Teilchenflussdichte kosmischer Neutrinos oder für die Gammaspektroskopie sehr schwacher Proben weicht man deshalb in tief unter der Erde gelegene Laboratorien (z. B. Laboratori Nazionali del Gran Sasso) in alten Bergwerken oder Tunneln aus.
+
+
+== Höhenstrahlung und Luftverkehr ==
+Energiereiche Strahlung aus dem All tritt in großen Höhen erheblich stärker in Erscheinung als auf Meeresniveau. Daher ist die Strahlenexposition für Flugreisende erhöht. Bereits 1990 ermittelte die Internationale Strahlenschutzkommission (ICRP) aus Abschätzungen, dass Flugpersonal durch die natürliche kosmische Strahlung Dosen ausgesetzt ist, die vergleichbar oder sogar höher sind als diejenige von Personen, die mit künstlicher Strahlung in Medizin und Technik umgehen. Daher legte die ICRP Empfehlungen über Dosisgrenzwerte vor, die 1996 in europäisches Recht und 2001 in die deutsche Strahlenschutzverordnung übernommen wurden.
+Die Einführung von Dosisgrenzwerten verlangt, dass die aktuellen Strahlendosen auch ermittelt werden können. Deshalb legten eine Reihe von europäischen Instituten als Folge der ICRP-Empfehlungen Forschungsprogramme auf, deren Ziel die theoretische und experimentelle Erfassung der natürlichen Strahlenexposition in Flugzeugen war. An der Universität Siegen und am GSF – Forschungszentrum für Umwelt und Gesundheit wurde das Programm EPCARD entwickelt. Mit dessen Hilfe ist es möglich, auf beliebigen Flugrouten und Flugprofilen die Dosis aus allen Komponenten der natürlichen durchdringenden kosmischen Strahlung zu berechnen.
+Mit der Dosisberechnung im Internet bietet sich kleineren Fluggesellschaften auch eine einfache Möglichkeit an, festzustellen, ob ihre Piloten den in der Strahlenschutzverordnung festgelegten Grenzwert von 1 mSv pro Jahr überhaupt erreichen, ab dem eine Dosismeldung an das Luftfahrt-Bundesamt regelmäßig erfolgen muss.
+
+
+== Siehe auch ==
+Matroschka (Strahlungsmessung) Experiment zur Strahlungsmessung
+Strahlenbelastung
+Erdmagnetfeld
+
+
+== Literatur ==
+A. Unsöld, B. Baschek: Der neue Kosmos. Springer-Verlag, ISBN 3-540-42177-7
+C. Grupen: Astroteilchenphysik. Springer-Verlag, ISBN 3-540-41542-4
+Gerhard Börner, Matthias Bartelmann: Astronomen entziffern das Buch der Schöpfu

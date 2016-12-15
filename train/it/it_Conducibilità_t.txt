@@ -1,0 +1,31 @@
+La conducibilità termica (o conduttività termica, indicata con λ o k) è il rapporto, in condizioni stazionarie, fra il flusso di calore (cioè la quantità di calore trasferita nell'unità di tempo attraverso l'unità di superficie) e il gradiente di temperatura che provoca il passaggio del calore nel caso della conduzione termica (ovvero quando i contributi al trasferimento di calore per convezione e per irraggiamento termico siano trascurabili). In altri termini, la conducibilità termica è una misura dell'attitudine di una sostanza a trasmettere il calore (vale a dire maggiore è il valore di λ o k, meno isolante è il materiale). Essa dipende solo dalla natura del materiale, non dalla sua forma.
+La conducibilità termica non va confusa con la diffusività termica (o "conducibilità termometrica"), che è invece il rapporto fra la conducibilità termica e il prodotto fra densità e calore specifico della data sostanza (espressa nel Sistema internazionale in m2/s, analogamente a tutte le "diffusività") e misura l'attitudine di una sostanza a trasmettere, non il calore, bensì una variazione di temperatura.
+
+
+== Definizione ==
+La conducibilità termica è definita come il rapporto fra il flusso di calore osservato e il gradiente spaziale di temperatura corrispondente:
+
+dove:
+q è il vettore flusso termico
+∇T è il gradiente di temperatura.
+Nel caso in cui i due vettori siano paralleli, la conducibilità termica è una grandezza scalare; nel caso generale invece è un tensore del secondo ordine, rappresentabile in un dato riferimento con una matrice quadrata.
+La legge di Fourier corrisponde a dire che la conducibilità termica è una costante di proporzionalità. La conducibilità termica di una sostanza dipende dalla temperatura (per alcuni materiali aumenta all'aumentare della temperatura, per altri diminuisce), dall'induzione magnetica, e da fattori fisici come la porosità (che blocca i fononi responsabili della conducibilità termica nei materiali ceramici), e dipende anche dalla pressione nel caso di aeriformi.
+La conducibilità termica può essere stimata al variare della temperatura ridotta e della pressione ridotta per via grafica, utilizzando un diagramma generalizzato. .
+
+
+== Unità di misura ==
+Nelle unità del Sistema internazionale, la conducibilità termica è misurata in watt per metro-kelvin (W/(m·K) o W·m-1·K-1), essendo il watt (W) l'unità di misura della potenza, il metro (m) l'unità di misura della lunghezza e il kelvin (K) l'unità di misura della temperatura. Nel Sistema tecnico (o Sistema pratico degli ingegneri), invece, essa è misurata in chilocalorie per ora-metro-grado Celsius (Kcal/(h·m·°C)o Kcal·h-1·m-1·°C-1).
+
+
+== Conducibilità termica di alcune sostanze ==
+In genere, la conducibilità termica va di pari passo con la conducibilità elettrica; ad esempio i metalli presentano valori elevati di entrambe. Una notevole eccezione è costituita dal diamante, che ha un'elevata conducibilità termica, ma una scarsa conducibilità elettrica.
+
+
+== Note ==
+^ Confronta con l'equazione della propagazione del calore o più in generale: equazione della diffusione
+^ (EN) IUPAC Gold Book, "thermal conductivity"
+^ Esistono altri diagrammi generalizzati, ad esempio per la stima del fattore di comprimibilità. Il diagramma generalizzato trova ragione di essere dal teorema degli stati corrispondenti.
+
+
+== Bibliografia ==
+(EN) Robert Byron, Warren E. Stewart; Edwin N. Lightfoot, Transport Phenomena, 2ª ed., New York, Wiley, 2005, ISBN 0-470-11539-4.

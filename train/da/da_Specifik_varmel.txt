@@ -1,0 +1,10 @@
+I fysik er specifik varmeledningsevne eller specifik termisk konduktivitet, k, en stofegenskab, som indikerer stoffets evne til at lede varmeenergi.
+Varmeledningsevne er defineret som mængden af varme, Q, overført per tidsenhed t over afstanden L, i retningen vinkelret på tværsnitsarealet A, under en temperaturforskel ΔT, under ligevægtsbetingelser.
+
+varmeledningsevne = varmestrømshastighed × afstand / (tværsnitsareal × temperaturforskel)
+
+SI-enheden for varmeledning er "Watt per meter Kelvin", W/(m·K) = watt per meter per grads temperaturforskel mellem de to temperaturer, dette er også kendt som λ-værdi (lambda værdi).
+
+
+== Varmeledningsevnetabel ==
+Varmeledning

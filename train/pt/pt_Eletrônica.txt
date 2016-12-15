@@ -1,0 +1,105 @@
+A eletrônica (português brasileiro) ou eletrónica (português europeu) é a ciência que estuda a forma de controlar a energia elétrica por meios elétricos nos quais os elétrons têm papel fundamental.
+Divide-se em analógica e em digital porque suas coordenadas de trabalho optam por obedecer estas duas formas de apresentação dos sinais elétricos a serem tratados.
+Numa definição mais abrangente, podemos dizer que a eletrônica é o ramo da ciência que estuda o uso de circuitos formados por componentes elétricos e eletrônicos, com o objetivo principal de representar, armazenar, transmitir ou processar informações além do controle de processos e servo mecanismos. Sob esta ótica, também se pode afirmar que os circuitos internos dos computadores (que armazenam e processam informações), os sistemas de telecomunicações (que transmitem informações), os diversos tipos de sensores e transdutores (que representam grandezas físicas - informações - sob forma de sinais elétricos) estão, todos, dentro da área de interesse da eletrônica.
+Complementar à definição acima, a eletrotécnica é o ramo da ciência que estuda uso de circuitos formados por componentes elétricos e eletrônicos, com o objetivo principal de transformar, transmitir, processar e armazenar energia, utilizando a eletrônica de potência. Sob esta definição, as usinas hidrelétricas, termoelétricas e [[Parque eólico|eólicas (que geram energia elétrica), as linhas de transmissão (que transmitem energia), os transformadores, retificadores e inversores (que processam energia) e as baterias (que armazenam energia) estão, todos, dentro da área de interesse da eletrotécnica.
+Entre os mais diversos ramos que a abrangem, estuda a transmissão da corrente elétrica no vácuo e nos semicondutores. Também é considerada um ramo da eletricidade que, por sua vez, é um ramo da Física onde se estudam os fenômenos das cargas elétricas elementares, as propriedades e comportamento, do elétron, fótons, partículas elementares, ondas eletromagnéticas, etc.
+
+
+== Eletrônica analógica ==
+A eletrônica analógica desenvolveu-se com o advento do controle das grandezas físicas variáveis ou não, formas oscilatórias em baixas ou altas frequências e que são utilizados em quase todos os tipos de equipamentos e quando da necessidade de manipulação das tensões e correntes existentes num circuito, formando circuitos capazes de realizar amplificações de sinais, comutação de máquinas e possibilitou a diversificação das telecomunicações que a principio só trabalhavam com modulações de sinais .
+Seus principais componentes são os chamados transistores, além dos resistores, capacitores, bobinas, potenciômetros e circuitos integrados, cristais e outros. A eletrônica analógica se baseia nos princípios da lei de ohm.
+Na eletrônica analógica, seus valores, quantidades ou sinais, variam de modo contínuo numa escala. Os valores dos sinais não precisam ser inteiros .
+
+
+== Transistores bipolares ==
+Transistores bipolares de porta isolada (IGBTs)
+O transistor bipolar de porta isolada (IGBT) destaca-se pelas características de baixa queda de tensão no estado ligado do Transistor Bipolar de Junção (BJT) com as excelentes características de chaveamento, que traz um circuito de acionamento da porta bem simplificado e com alta impedância de entrada do mosfet. Existem no mercado transistores IGBTs com os valores nominais de corrente e de tensão bem acima dos valores encontrados para Mosfets de potência.
+Os IGBTs estão gradativamente substituindo os mosfets que se dizem em aplicações de alta tensão, onde as perdas na condução precisam ser mantidas em valores baixos. Mesmo as velocidades de chaveamento dos IGBTs sejam maiores (até 50 kHz) do que as do BJTs e as do mosfets.
+Ao contrário do ocorrido no MOSFET, o IGBT não tem nenhum diodo reverso internamente, sendo assim este fator torna sua capacidade de bloqueio para tensões inversas muito baixa, podendo suportar uma tensão inversa máxima em menos de 10 volts.
+Princípios de operação do IGBT A operação do IGBT é muito similar à dos MOSFETs de potência. Para colocá-lo no estado ligado, basta polarizá-lo positivamente no terminal do coletor (C+) em relação ao terminal do emissor (E -). De igual maneira, uma tensão positiva VG aplicada na porta (G) fará o dispositivo passar para o estado ligado (ON), quando a tensão no gate (G) exceder a tensão de limiar. O IGBT passara para o estado desligado (OFF) quando houver o corte de tensão do terminal da porta (G).
+Curva Característica de tensão-corrente do IGBT A curva característica e uma plotagem da corrente de coletor (IC) x a tensão do coletor-emissão (VCE). Quando não houver a tensão aplicada na porta, o transmissor IGBT estará no estado desligado (OFF), onde a corrente (IC) é igual a zero (0) e a tensão que passa através da chave é igual a tensão da fonte.Se a tensão > VGE(th) for aplicada na porta, o dispositivo passará para o estado ligado e permitira a passagem da corrente IC. Essa corrente é limitada pela tensão da fonte e pela resistência de carga. No estado ligado, a tensão através da chave se define a zero.
+
+
+== Eletrônica digital ==
+Na eletrônica digital este controle se faz digitalizando o sinal de controle no seu estágio de geração para evitar as variações térmicas ou de envelhecimento a que todo material está sujeito(desde o sensor até o relê final de um sistema analógico); no mais, o sinal digitalizado pode ter a forma de uma corrente pulsante cuja frequência de pulsação represente fielmente o sinal "variação de resistência por efeito da temperatura".
+O efeito da variação de parâmetros (e aumento do erro de medição) por termo-agitação e envelhecimento é cumulativo nos sistemas analógicos pois as variações de parâmetros devidas ao aumento da temperatura no forno (a medir) são produzidas pelo mesmo processo interno atômico que origina a "deriva", "agitação indesejável" "movimento eletrônico caótico" e se tornam parte das variações espúria que mascaram a medição, e ainda mais serão amplificadas por componentes que têm sua própria agitação térmica que se tornam cumulativos.
+Exemplo de alguns osciloscópios de laboratório que devem permanecer ligados por longos períodos de tempo antes de realizar medições com eles, mesmo assim, antes de fazer as medições deverão ser aferidos para rever qual é o valor ou se não mostram sinais de derivas.(o mais normal é que apresentem variações de posicionamento na vertical do traço horizontal com níveis de entrada "zero");)
+
+
+== Componentes ==
+Considera-se o primeiro componente eletrônico puro a célula fotovoltaica (1839) seguida pela válvula termoiônica (Ver Efeito Édison), ou termiônica e alguns diodos à base de Selênio (Se).
+A válvula termiônica, também chamada de válvula eletrônica, é um dispositivo que controla a passagem da corrente elétrica através do vácuo (ver John Ambrose Fleming), dentro de um bulbo de vidro, sendo utilizada em larga escala até meados da década de 1960. Aos poucos, foi substituída pelos transístores.
+Um transístor é um dispositivo que controla a passagem da corrente elétrica através de materiais semi condutores inteiramente sólidos. Assim, por definição, ambos são componentes eletrônicos que servem para executar trabalhos idênticos, o segundo porém mais moderno que o primeiro.
+A eletrônica, ao passar do tempo, acabou por desenvolver e estudar novos circuitos eletrônicos além de transístores, diodos, fotocélulas, capacitores, indutores, resistores, etc.
+A tecnologia de miniaturização desenvolveu os circuito integrados, os microcircuitos, as memória eletrônicas, os microprocessadores, além de miniaturizar os capacitores, indutores, resistores, entre outros.
+
+
+== Atuação ==
+Quando se tem qualquer tipo de dispositivo onde haja a atuação de um determinado fenômeno físico em correlação com outro, interagindo, modificando, medindo, aí está a eletrônica. Um exemplo seria a conversão de onda sonora para onda eletromagnética, da emissão eletromagnética através do espaço físico, para em seguida a captação desta, sua recepção e reconversão para onda eletromagnética, assim novamente para onda sonora. Sem a eletrônica, isto seria impossível de se conseguir, pois o ato de se transmitir uma onda de radiofrequência e sua posterior recepção necessita de dispositivos eletrônicos que transformarão as manifestações físicas de um determinado tipo de energia que será convertido em outro. Por exemplo: onda sonora em onda elétrica, onda luminosa para onda sonora e vice versa.
+
+
+== Dispositivos ==
+
+Os dispositivos eletrônicos são combinações onde se usa o circuito básico repetitivamente e seus componentes que, uma vez agrupados de forma organizada formam blocos. Estes interligados formam circuitos eletrônicos mais complexos, e assim sucessivamente fazem funcionar os mais diversos equipamentos eletrônicos.
+
+
+== Funcionamento ==
+O funcionamento básico de qualquer circuito eletrônico baseia-se no controle de tensão e intensidade de corrente elétrica, podendo ser moldadas de forma a que o projetista possa tirar proveito desses parâmetros e configurá-los em oscilação e amplificação até chegar ao resultado final quando, por exemplo, através de um feixe de luz, ou feixe de laser numa fibra óptica conseguimos nos comunicar com velocidades cada vez maiores e quantidades de informação imensas a milhares de km de distância e, tudo isso, em segundos, milissegundos.
+
+
+== Medidas eletrônicas ==
+
+
+=== Unidades do Sistema Internacional ===
+São as seguintes as unidades do Sistema Internacional de Unidades:
+V = volt = medida de tensão elétrica ou diferença de potencial
+A = ampère = medida de intensidade da corrente elétrica
+C = coulomb = medida de carga elétrica
+s = segundo = medida de tempo
+Ω = ohm = medida de resistência elétrica
+S = siemens = medida de condutância elétrica
+J = joule = medida de energia
+W = watt = medida de potência
+Hz = hertz = medida de frequência
+F = farad = medida de capacitância
+H = henry = medida de indutância
+Wb = Weber = medida de fluxo magnético
+T = Tesla = medida de densidade do fluxo magnético
+VA - Voltampere = é a unidade utilizada na medida de potência aparente em sistemas elétricos de corrente alternada (AC).
+
+
+=== Outras unidades ===
+As unidades abaixo ainda são utilizadas, embora não façam parte do Sistema Internacional
+hp = horse power (cavalo de força) = medida de potência Obs: 1 hp = 746 W
+cv = cavalo vapor = medida de potência. Obs: 1 cv = 736 W
+
+
+== Histórico ==
+
+A evolução da eletrônica foi lenta no início, porém com o passar do tempo, acelerou-se. Nos séculos XVII, XVIII e XIX, foram informações dispersas, aleatórias.
+Em 1835, Munk, ao gerar centelhas de alta tensão próximo de certos pós metálicos, observou que estes mudavam sua condutividade elétrica. Isto ficou registrado, mas não se encontrou uma utilidade prática para o fenômeno.
+Acredita-se que o dispositivo eletrônico mais antigo foi uma célula fotovoltaica construída em 1839 por Becquerel. Embora funcional, sua utilidade era meramente para curiosidade científica.
+A partir de 1850, a físico-química passou a se interessar nos fenômenos do comportamento da AT (Alta Tensão) e dos gases. A experiência de Julius Plücker pode ser considerada como ponto de partida para tal. O pesquisador, ao conectar tensão elétrica muito alta em dois eletrodos, inseridos numa ampola de vidro com atmosfera rarefeita, mostrou o fenômeno da descarga dos gases. Durante sua demonstração, observou-se um efeito eletroluminescente de cor púrpura sobre as paredes do vidro.
+Em 1861, foi descoberto o efeito fotocondutivo do selênio. Posteriormente, em 1873, Willoughby Smith investigou o efeito e delineou as primeiras leis da fotocondutividade.
+Em 1866, Varley novamente observou a mudança de condutividade de pós metálicos na presença de centelhas elétricas, da mesma forma que Munk em 1835, porém, o fenômeno continuou a parecer meramente curiosidade científica.
+A válvula termiônica teve seus primórdios em 1873, quando Francis Guthrie aqueceu uma esfera metálica e a aproximou de um eletroscópio carregado. Ao fazer isso, o dispositivo se descarregava.
+Braun descobriu o efeito semicondutor no ano de 1874, observando os sulfetos de chumbo e de ferro.
+Alexander Graham Bell e Charles Sumner Tainter em 1878, utilizaram a célula de selênio para fazer experiências com um telefone sem fio, utilizando ondas luminosas.
+David Edward Hughes descobriu como gerar ondas eletromagnéticas em 1874, independentemente do trabalho de James Clerk Maxwell. A intenção de Hughes não era a geração de ondas em si, mas sua detecção através de dispositivos (diodos) semicondutores que consistiam numa agulha de ferro em contato com um glóbulo de mercúrio, que resultava num filme de óxido de mercúrio. Este contato resultava no efeito da retificação por semicondutividade. Hughes, na verdade, se antecipou à geração de radiofrequência em cinco anos a Hertz e em dez anos em sua detecção.
+Julius Elster e Hans Geitel, no início de 1880, encerraram um filamento de uma lâmpada incandescente e uma placa metálica numa ampola com vácuo. O efeito observado foi uma corrente elétrica que fluiu do filamento à placa através do vácuo. Ao mesmo tempo Flemming, naquela época empregado de Thomas Edison, estava investigando o porquê do escurecimento do vidro de uma lâmpada de filamento. Inseriu uma placa metálica e fez uma ligação externa ao dispositivo. Ao fazê-lo, observou que ao se aplicar um potencial positivo à placa em relação ao filamento, imediatamente fluía uma corrente elétrica pelo vácuo. Ao inverter a polaridade, a corrente não fluía. A este efeito se deu o nome de Efeito Edison.
+Calzecchi Onesti, em 1884, voltou a observar a mudança de condutividade de pós metálicos na presença de centelhas elétricas, da mesma forma que Munk em 1835, porém, novamente o fenômeno continuou a parecer meramente curiosidade científica.
+Hertz, no ano de 1887, observou o efeito fotoemissivo, que foi aprimorado em 1890 por Ebert, Wilhelm Hallwachs e Wiedemann. Em 1890, Julius Elster e Hans Geitel desenvolveram a primeira válvula eletrônica fotoemissiva.
+De novo, agora na pessoa de Édouard Branly, em 1890, houve a observação da mudança de condutividade de pós metálicos na presença de centelhas elétricas, da mesma forma que Munk em 1835, porém, o fenômeno ainda continuou a parecer meramente curiosidade científica, sem uso prático.
+Minchin e Oliver Lodge, de forma independente, sugeriram que o fenômeno da alteração da condutividade de pós metálicos na presença de centelhas elétricas era ocasionada por ondas que se propagavam pelo espaço que emanavam das centelhas. Lodge então, em 1894, preparou um tubo com limalhas de ferro, seguindo o método de Branly. Descobriu que este método poderia servir para detectar ondas hertzianas. Ao dispositivo foi dado o nome de coesor, porque quando as ondas eletromagnéticas passavam por si, as limalhas se aglutinavam e tinham que ser extraídas antes de outra emissão de radiofreqüência.
+A partir de 1850, com as experiências de Julius Plücker sobre a eletroluminescência, Hittorf, William Crookes e Eugen Goldstein, iniciaram uma investigação dos efeitos da alta tensão. Crookes inseriu um eletrodo em forma de cruz de malta no tubo de vidro, foi observado que o brilho produzido pelos raios invisíveis, era devido à aceleração de algum tipo de partícula ou raio que provinha do eletrodo negativo para o positivo. A este tipo de manifestação se deu o nome de "raios catódicos", pois acreditou-se que sua carga era negativa. A experiência foi confirmada por Hallwachs. Em 1897, Thomson estudou o efeito e deu o nome de elétrons às partículas aceleradas no tubo de raios catódicos.
+
+Tommasina reinventou o detector de radiofrequência de Hughes em 1899. Ao dispositivo foi dado o nome de coesor de auto-restauração de Castelli, de Solari, ou coesor de auto-restauração da Marinha Italiana.
+O padre Roberto Landell de Moura, em 1893, iniciou as experiências com um telefone sem fio utilizando radiofreqüência. Dia 3 de junho de 1900 fez uma demonstração pública.
+Em 1901, Marconi recebeu os primeiros sinais de rádio através do Atlântico. O detector utilizado foi um retificador de glóbulo de ferro mercúrio idêntico ao inventado por Hughes em 1874.
+As descobertas do século XIX só vieram a ser compiladas no início do século XIX. Com a utilização prática para a emissão termoiônica através da utilização do diodo termiônico, triodo termiônico, tetrodos, pentodos, etc, iniciou-se a era da eletrônica termoiônica, ou termiônica, quando John Ambrose Fleming utilizou estes efeitos para a amplificação de sinais.
+
+
+== Evolução ==
+
+Desde o início do século XX até sua metade, a válvula termoiônica reinou absoluta, quando na metade do século, em 1948, a gigante em telecomunicações Bell Telephone, desenvolveu um dispositivo que em comparação à válvula termoiônica era simplesmente minúsculo. Era o primeiro transistor. Aí estávamos iniciando a era do semicondutor.
+Com o t

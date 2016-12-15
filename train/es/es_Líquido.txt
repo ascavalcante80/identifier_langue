@@ -1,0 +1,37 @@
+El líquido es un estado de agregación de la materia en forma de fluido altamente incompresible lo que significa que su volumen es, bastante aproximado, en un rango grande de presión. Es el único estado con un volumen definido, pero no con forma fija. Un líquido está formado por pequeñas partículas vibrantes de la materia, como los átomos y las moléculas, unidas por enlaces intermoleculares. El agua es, el líquido más común en la Tierra y el más abundante. Como un gas, un líquido es capaz de fluir y tomar la forma de un recipiente. A diferencia de un gas, un líquido no se dispersa para llenar cada espacio de un contenedor, y mantiene una densidad bastante constante. Una característica distintiva del estado líquido es la tensión superficial, dando lugar a fenómenos humectantes.
+
+
+== Descripción de los líquidosEditar ==
+El estado líquido es un estado de agregación de la materia intermedio entre el estado sólido y el estado de gas. Las moléculas de los líquidos no están tan próximas como las de los sólidos, pero están menos separadas que las de los gases. Las moléculas en el estado líquido ocupan posiciones al azar que varían con el tiempo. Las distancias íntermoleculares son constantes dentro de un estrecho margen. En algunos líquidos, las moléculas tienen una orientación preferente, lo que hace que el líquido presente propiedades anisótropas (propiedades, como el índice de refracción, que varían según la dirección dentro del material).
+Los líquidos presentan tensión superficial y capilaridad, generalmente se dilatan cuando se incrementa su temperatura y pierden volumen cuando se enfrían, aunque sometidos a compresión su volumen es muy poco variable a diferencia de lo que sucede con otros fluidos como los gases. Los objetos inmersos en algún líquido están sujetos a un fenómeno conocido como flotabilidad.
+
+
+=== LíquidosEditar ===
+Su forma es esférica si sobre él no actúa ninguna fuerza externa. Por ejemplo, una gota de agua en caída libre toma la forma esférica.
+Como fluido sujeto a la fuerza de la gravedad, la forma de un líquido queda definida por su contenedor. En un líquido en reposo sujeto a la gravedad en cualquier punto de su seno existe una presión de igual magnitud hacia todos los lados, tal como establece el principio de Pascal. Si un líquido se encuentra en reposo, la presión hidrostática en cualquier punto del mismo viene dada por:
+
+Donde  es la densidad del líquido,  es la gravedad (9,8 m/s) y  es la distancia del punto considerado a la superficie libre del líquido en reposo. En un fluido en movimiento la presión no necesariamente es isótropa, porque a la presión hidrostática se suma la presión hidrodinámica que depende de la velocidad del fluido en cada punto.
+
+
+=== Cambios de estadoEditar ===
+
+En condiciones apropiadas de temperatura y presión, la mayoría de las sustancias pueden existir en estado líquido. Cuando un líquido sobrepasa su punto de ebullición cambia su estado a gaseoso, y cuando alcanza su punto de congelación cambia a sólido. Aunque a presión atmosférica, sin embargo, algunos sólidos se subliman al calentarse; es decir, pasan directamente del estado sólido al estado gaseoso (véase evaporación). La densidad de los líquidos suele ser algo menor que la densidad de la misma sustancia en estado sólido. Algunas sustancias, como el agua, son más densas en estado líquido.
+Por medio de la destilación fraccionada, los líquidos pueden separarse de entre sí al evaporarse cada uno al alcanzar sus respectivos puntos de ebullición. La cohesión entre las moléculas de un líquido no es lo suficientemente fuerte por lo que las moléculas superficiales se pueden evaporar.
+
+
+== Propiedades de los líquidosEditar ==
+
+
+=== ViscosidadEditar ===
+
+Los líquidos se caracterizan porque las fuerzas internas del mismo no dependen de la deformación total, aunque usualmente sí dependen de la velocidad de deformación, esto es lo que diferencia a los sólidos deformables de los líquidos. Los fluidos reales se caracterizan por poseer una resistencia a fluir llamada viscosidad (que también está presente en los sólidos viscoelásticos). Eso significa que en la práctica para mantener la velocidad en un líquido es necesario aplicar una fuerza o presión, y si dicha fuerza cesa el movimiento del fluido cesa eventualmente tras un tiempo finito.
+La viscosidad de un líquido crece al aumentar su masa molar y disminuye al crecer la temperatura. La viscosidad también está relacionada con la complejidad de las moléculas que constituyen el líquido: es baja en los gases inertes licuados y alta en los aceites pesados. Es una propiedad característica de todo fluido (líquidos o gases).
+La viscosidad es una medida de la resistencia al desplazamiento de un fluido cuando existe una diferencia de presión. Cuando un líquido o un gas fluyen se supone la existencia de una capa estacionaria, de líquido o gas, adherida sobre la superficie del material a través del cual se presenta el flujo. La segunda capa roza con la adherida superficialmente y ésta segunda con una tercera y así sucesivamente. Este roce entre las capas sucesivas es el responsable de la oposición al flujo, o sea, el responsable de la viscosidad.
+La viscosidad se mide en poises, siendo un poise la viscosidad de un líquido en el que para deslizar una capa de un centímetro cuadrado de área a la velocidad de 1 cm/s respecto a otra estacionaria situado a 1 cm de distancia fuese necesaria la fuerza de una dina.
+La viscosidad suele decrecer en los líquidos al aumentar la temperatura, aunque algunos pocos líquidos presentan un aumento de viscosidad cuando se calientan. Para los gases la viscosidad aumenta al aumentar la temperatura.
+La viscosidad de un líquido se determina por medio de un viscosímetro entre los cuales el más utilizado es el de Ostwald. Este se utiliza para determinar viscosidad relativa, es decir, que conociendo la viscosidad de un líquido patrón, generalmente agua, se obtiene la viscosidad del líquido problema a partir de la ecuación:
+
+
+=== FluidezEditar ===
+La fluidez es una característica de los líquidos o gases que les confiere la habilidad de poder pasar por cualquier orificio o agujero por más pequeño que sea, siempre que esté a un mismo o inferior nivel del recipiente en el que se encuentren (el líquido ), a diferencia del restante estado de agregación conocido como sólido.
+La fluidez se debe a que un fluido puede adquirir una deformación arbitrariamente grande sin necesidad de ejercer una tensión mecánica, dado que en los líquidos la tensión mecánica o presión en el seno del fluido depende esencialmente de la velocidad de la deformación no de la deformación en sí misma (a diferencia de los sólidos que tienen "memoria de forma" y experimentan tensiones tanto más grandes cuanto más se alejan de la forma original, es decir, en un sólido la tensión est

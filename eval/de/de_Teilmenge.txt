@@ -1,0 +1,25 @@
+lt für die Mächtigkeiten:
+
+Bei unendlichen Mengen ist es aber möglich, dass eine echte Teilmenge dieselbe Mächtigkeit hat wie ihre Grundmenge. Zum Beispiel sind die natürlichen Zahlen eine echte Teilmenge der ganzen Zahlen, aber die beiden Mengen sind gleich mächtig (nämlich abzählbar unendlich).
+Nach dem Satz von Cantor ist die Potenzmenge einer Menge A stets mächtiger als die Menge A selbst: .
+Eine endliche Menge mit n Elementen hat genau 2n Teilmengen.
+Die Anzahl der k-elementigen Teilmengen einer n-elementigen (endlichen) Menge ist durch den Binomialkoeffizienten  gegeben.
+
+
+== Siehe auch ==
+charakteristische Funktion
+
+
+== Literatur ==
+Oliver Deiser: Einführung in die Mengenlehre. Springer, 2004, ISBN 978-3-540-20401-5
+ John L. Kelley: General Topology. Springer-Verlag, Berlin / Heidelberg / New
+York 1975, ISBN 3-540-90125-6 (Reprint der Edition bei Van Nostrand aus dem Jahre 1955).
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==
+↑ a b Oliver Deiser: Einführung in die Mengenlehre. Springer, 2004, ISBN 978-3-540-20401-5, S. 33 (Auszug (Google))
+↑ Set theory. In: Encyclopedia of Mathematics.
+↑ Otto Kerner, Joseph Maurer, Jutta Steffens, Thomas Thode, Rudolf Voller: Vieweg Mathematik Lexikon. Vieweg, 1988, ISBN 3-528-06308-4, S. 190

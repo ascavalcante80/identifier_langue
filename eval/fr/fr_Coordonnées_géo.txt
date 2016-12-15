@@ -1,0 +1,32 @@
+iminue, ce jour solaire ne durant plus exactement 24 h, chacune de 60 min de temps, ces dernières durant 60 s de temps).
+Pour ces raisons, on ne doit pas employer les symboles SI des unités de temps (c'est-à-dire min pour minute et s pour seconde) pour noter les mesures angulaires comme la longitude ou la latitude, en raison des ambiguïtés que cela induit.
+
+
+== Altitude ==
+
+L'altitude est une grandeur qui exprime un écart entre un point donné et un niveau de référence ; par convention, sur Terre ce niveau est le plus souvent le niveau de la mer (ou « niveau zéro »). On utilise aussi le terme d'élévation. Mais, on utilise parfois un ellipsoïde comme niveau de référence (le GPS par exemple).
+Les sommets sont associés à une altitude, calculée par divers moyens indirects (géodésie, triangulation). L'altitude est également une donnée exogène utile pour le calcul numérique dans divers domaines : météorologie, physique, biologie.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+(en) Heavens Above, longitude et latitude (recherche par pays et par ville) 
+Trouver les coordonnées GPS d'un lieu précis
+OpenStreetMap cartographie libre et collaborative de la planète terre.
+Google Maps
+Calcul de la latitude et de la longitude en ligne
+Coordonnées GPS et Altitude
+Télégonos conversion de coordonnées Lambert et GPS en France
+Coordonneesgps Conversion de coordonnées UTM/Géographiques, création de carte personnalisée
+Carte GPS Gratuite Projet de cartographie Open Source
+
+ Portail de la géographie
+ Portail de l’information géographique

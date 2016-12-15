@@ -1,0 +1,3 @@
+ standard astronomisk avstand på 10 parsec. Den tenkte, derfra observerte, størrelsesklassen kalles stjernens absolutte størrelsesklasse, symbol M. Idet en stjernes lysintensiteten avtar omvendt proporsjonalt med kvadratet av avstanden, får en da følgende formel for sammenhengen mellom absolutt og tilsynelatende størrelsesklasse:
+
+der p er stjernens parallakse, som er dens avstand fra vårt solsystem målt i parsec.

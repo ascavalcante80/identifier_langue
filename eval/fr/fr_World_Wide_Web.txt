@@ -1,0 +1,119 @@
+le type de chaque ressource. Enfin, CSS permet de proposer différentes présentations, sélectionnées pour leur adéquation avec l’équipement utilisé.
+Le W3C a pour cela créé des normes dans le but de permettre l’indépendance des outils qui servent à créer du contenu avec ceux qui servent à le lire. On appelle cela l’interopérabilité.
+L’accessibilité du web pour les individus handicapés est aussi l’objet d’attentions particulières comme la Web Accessibility Initiative.
+
+
+=== DécentralisationModifier ===
+Les technologies du web n’imposent pas d’organisation entre les pages web, ni à fortiori entre les sites web. Toute page du web peut contenir des hyperliens vers toute autre ressource accessible d’Internet. L’établissement d’un hyperlien ne requiert absolument aucune action du côté de la ressource pointée. Il n’y a pas de registre centralisé d’hyperliens, de pages ou de sites. Le seul registre utilisé est celui du DNS ; c’est une base de donnée distribuée qui répertorie les hôtes, permet de traduire en adresse IP le nom de domaine contenu dans certains hyperliens et qui est utilisée par tous les systèmes accédant à Internet.
+Cette conception décentralisée devait favoriser, et a favorisé, une augmentation rapide de la taille du web. Elle a aussi favorisé l’essor de sites spécialisés dans les informations sur les autres sites : les annuaires et les moteurs de recherche. Sans ces sites, la recherche d’information dans le web serait extrêmement laborieuse. La démarche inverse, le portail web, tente de concentrer un maximum d’informations et de services dans un seul site.
+Une faiblesse de la décentralisation est le manque de suivi lorsqu’une ressource est déplacée ou supprimée : les hyperliens qui la pointaient se retrouvent cassés. Et cela n’est visible qu’en suivant l’hyperlien, le résultat le plus courant étant le message d’erreur 404.
+
+
+== TechnologiesModifier ==
+
+
+=== Pré-existantesModifier ===
+Le web repose sur les technologies d’Internet, notamment TCP/IP pour assurer le transfert des données, DNS pour convertir les noms d’hôte en adresses IP et MIME pour indiquer le type des données. Les standards de codage de caractères et les formats d’image numérique GIF et JPEG ont été développés indépendamment.
+
+
+=== SpécifiquesModifier ===
+Trois technologies ont dû être développées pour le World Wide Web :
+les URL pour pouvoir identifier toute ressource dans un hyperlien ;
+le langage HTML pour écrire des pages web contenant des hyperliens ;
+le protocole de communication HTTP utilisé entre les navigateurs et les serveurs web, qui permet d’indiquer le type MIME des ressources transférées.
+Ces premières technologies ont été normalisées comme les autres technologies d’Internet : en utilisant le processus des Request for Comments. Cela a donné le RFC 1738 pour les URL, le RFC 1866 pour HTML 2.0 et le RFC 1945 pour HTTP/1.0.
+Le World Wide Web Consortium (W3C) a été fondé en 1994 pour développer et promouvoir les nouveaux standards du web. Son rôle est notamment de veiller à l’universalité des nouvelles technologies. Des technologies ont également été développées par des entreprises privées.
+
+
+=== ActuellesModifier ===
+Les principaux standards actuels sont :
+XML 1.0 développé pour donner aux langages de balises, dont HTML, une syntaxe plus simple que SGML ;
+HTML 4.01 fondé sur SGML, et XHTML 1.0 fondés sur XML ;
+le RFC 2396 (Uniform Resource Identifiers), qui recouvre les URL ;
+le RFC 2616 (HTTP/1.1) ;
+les feuilles de styles en cascade CSS level 1 et level 2 ;
+les modèles de document DOM level 1 et level 2 ;
+le langage de script JavaScript pour manipuler les documents ;
+les formats d’image numérique PNG, JPEG et GIF.
+
+
+=== Technologies serveurModifier ===
+Outre les protocoles de communication et formats de données échangés sur le Web, plusieurs techniques propres au Web sont mises en œuvre pour faire fonctionner les serveurs HTTP (ou serveurs web). Comme ces techniques ne concernent pas les logiciels client du Web, elles ne sont pas standardisée par le World Wide Web Consortium.
+
+
+==== Serveur HTTPModifier ====
+
+Le serveur HTTP est chargé d’assurer la communication entre le poste client et les ressources des sites. Il doit être capable d’aiguiller, sur le serveur, en fonction de la requête HTTP, reçue de la part du client, vers les bonnes ressources. Il peut s’agir de ressources statiques, situées sur le système de fichier du serveur ou un système de fichier déporté, comme NFS, ou des contenus dynamiques par différents biais. La fourniture des pages dynamiques est déléguée à des applications autonomes sur le serveur. Il doit également être capable de gérer les erreurs, si les ressources ne sont pas trouvées ou s’il y a une erreur dans la production de la ressource, en retournant le message adéquat au client. Le premier serveur HTTP fut CERN httpd et est rapidement tombé en désuétude. Aujourd’hui[Quand ?], les principaux serveurs Web utilisés sont Apache HTTP Server, serveur dominant du marché depuis une dizaine d’année, Nginx utilisé sur les sites à plus forte audience, mais aussi Microsoft IIS, Google Web Server ou encore Lighttpd.
+Le standard Common Gateway Interface (CGI) est un protocole de communication inter-processus entre le serveur HTTP et des applications externes situées également du côté serveur. Ce standard est géré par l’IETF.
+Le standard FastCGI remplace aujourd’hui majoritairement le CGI. Il permet de séparer plus efficacement le serveur HTTP des applications et de mieux contrôler le nombre d’instances des applications dynamiques du côté serveur.
+Certains langages couramment utilisés avec les services HTTP, comme PHP, Java et Ruby, utilisent également des technologies particulières pour la communication avec le serveur.
+Pour PHP, mod php pour Apache a souvent été utilisé à la place de CGI ; il tend aujourd’hui à être remplacé par le protocole fastCGI, il y a quelques années, via mod fastcgi et aujourd’hui davantage via mod fcgid, soit via php-fpm.
+En Java, le projet Apache Jakarta a permis de réunir plusieurs outils. Dans cette architecture, le module Apache mod jk permet de faire la liaison avec le serveur d’application Tomcat qui exécute les Java Servlet et JavaServer Pages. En Ruby, Phusion Passenger, fonctionnant avec Apache et Nginx est un des principaux outils de communication entre le service HTTP et les applications.
+
+
+==== Langages d’application dynamiques côté serveursModifier ====
+En pratique, CGI et fastCGI permettent d’utiliser n’importe quel langage, cependant, on peut citer certains langages de script qui sont devenus les plus populaires, utilisant du CGI ou une autre technique pour communiquer avec le serveur.
+Le langage de programmation PHP (PHP: Hypertext Preprocessor) a été développé pour générer les pages web. Il jouit d’une forte intégration avec le serveur HTTP et les langages HTML. C’est aujourd’hui le langage le plus utilisé côté serveur avec presque 70 % des sites en 2010. Le moteur ASP (Active Server Pages) a été développé par Microsoft pour interpréter du langage de script dans le serveur IIS (Internet Information Services), il est le second langage le plus utilisé avec un peu moins de 30 % des sites en 2010.
+Le langage Java, dont les pages sont servies par Apache Tomcat est ensuite très utilisé, particulièrement dans le domaine bancaire, la tendance est à y inclure du langage Ruby via le module jRuby. Java était utilisé sur un peu moins de 1 % des serveurs en 2010. Le langage Ruby, avec principalement la serveur d’application Ruby on Rails avec 0,5 % en 2010. Devant la popularité grandissante de JavaScript coté client, liée à Ajax puis HTML5, le côté serveur a suivi avec la plateforme logicielle Node.js, dédiée aux applications serveur.
+Au début des CGI, Perl était très utilisé côté serveur, en raison de ses affinités avec les administrateurs système et réseau, et de sa dominance dans ce domaine.
+
+
+==== Bases de donnéesModifier ====
+Les bases de données sont également une partie importante de la génération des sites à contenu dynamique.
+Les principaux types de base de données sont :
+De type SQL ; MySQL est la plus populaire, suivie de Microsoft SQL Server, PostgreSQL, SQLite, Berkeley DB et Oracle.
+De type NoSQL ; MongoDB est la plus utilisée, mais on peut également citer CouchDB, Amazon SimpleDB ou BigTable utilisé par Google.
+
+
+== Notes et référencesModifier ==
+
+
+=== NotesModifier ===
+
+
+=== RéférencesModifier ===
+
+
+== Voir aussiModifier ==
+
+
+=== Articles connexesModifier ===
+
+
+==== Concepts générauxModifier ====
+Internet, hypertexte, hyperlien, multimédia, réseau informatique
+
+
+==== Concepts du webModifier ====
+Accessibilité du web, Adresse web, agence web, agrégation web, annuaire web, hébergeur web, page web, portail web, serveur web, site web, Web 2.0, Web profond, Web sémantique, Surf rémunéré, Neutralité du réseau
+
+
+==== TechnologiesModifier ====
+ActionScript, DOM, dynamic HTML, CSS, HTML, HTTP, JavaScript, SGML, standards du web, URI, URL, XHTML, XML
+
+
+==== Logiciels serveursModifier ====
+Apache HTTP Server, moteur de recherche, NCSA HTTPd, serveur HTTP, serveur proxy
+
+
+==== Logiciels clientsModifier ====
+Éditeur HTML, guerre des navigateurs, liste de navigateurs web, navigateur web, robot d’indexation
+
+
+==== ActeursModifier ====
+America Online, IETF, Marc Andreessen, Microsoft, Netscape Communications Corporation, Robert Cailliau, Tim Berners-Lee, WHATWG, World Wide Web Consortium, World Wide Web Conference
+
+
+==== ApplicationsModifier ====
+Blog, gestion des connaissances, système de gestion de contenu, Webmail, wiki
+
+
+=== Liens externesModifier ===
+(en) A Little History of the World Wide Web
+(en) (fr) info.cern.ch, rétrospective historique du CERN
+
+ Portail d’Internet
+ Portail du Web sémantique
+ Portail de l’informatique
+ Portail des télécommunications
+ Portail des réseaux informatiques

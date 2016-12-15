@@ -1,0 +1,7 @@
+Ungt stjerneobjekt, Young Stellar Object (YSO) betegner en stjerne i sin tidlige fase av utviklingen. Denne klassen består av to grupper objekter: protostjerner og PMS-stjerner. Noen ganger deles de etter masse – massive YSO (MYSO), middels massive YSO og brune dverger.
+
+
+== Litteratur ==
+Lada, C. J. (1987), IAU Symposium 115: Star Forming Regions, 115, 1
+Greene, Thomas P.; Wilking, Bruce A.; Andre, Philippe; Young, Erick T.; Lada, Charles J. (1994), Further mid-infrared study of the rho Ophiuchi cloud young stellar population: Luminosities and masses of pre-main-sequence stars, The Astrophysical Journal, vol. 434, pp. 614–626
+Andre, Philippe; Ward-Thompson, Derek; Barsony, Ma

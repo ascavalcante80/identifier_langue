@@ -1,0 +1,90 @@
+Die drei Keplerschen Gesetze sind nach dem Astronomen und Naturphilosophen Johannes Kepler benannt. Er fand diese fundamentalen Gesetzmäßigkeiten für die Umlaufbahnen der Planeten um die Sonne, als er sie in Bezug zu einer gesuchten Harmonik brachte und die Abweichungen des Mars von einer Kreisbahn mathematisch analysierte. Die Sätze beschreiben die Bewegung idealer Himmelskörper.
+1. Keplersches Gesetz
+Die Planeten bewegen sich auf elliptischen Bahnen, in deren einem gemeinsamen Brennpunkt die Sonne steht.
+2. Keplersches Gesetz
+Ein von der Sonne zum Planeten gezogener Fahrstrahl überstreicht in gleichen Zeiten gleich große Flächen.
+3. Keplersches Gesetz
+Die Quadrate der Umlaufzeiten zweier Planeten verhalten sich wie die Kuben der großen Bahnhalbachsen.
+Die Bedingungen für die drei Keplerschen Gesetze sind dabei unterschiedlich. Das zweite Gesetz gilt für alle Zentralkräfte (die nicht einmal konservativ zu sein brauchen). Das dritte Gesetz gilt für Kräfte, die mit dem Abstand quadratisch abnehmen. Abweichungen vom ersten Gesetz sieht man jedoch schon im Sonnensystem: Kometen bewegen sich häufig auf parabelähnlichen Bahnen; die Achse der Merkur-Bahn dreht sich aufgrund der Einflüsse der anderen Planeten sowie aus allgemein-relativistischen Gründen langsam um die Sonne.
+
+
+== Grundlegende Bedeutung in der Astronomie ==
+Die beiden ersten Keplerschen Gesetze stellen die exakte Lösung eines Zweikörperproblems im Rahmen der Newtonschen Mechanik dar, das durch die Keplergleichung beschrieben wird. Sie gelten für alle Zweiersysteme, wenn
+die Körper Massepunkte sind
+keine Gravitationskräfte von anderen Körpern ausgehen
+nichtgravitative Bahnstörungen zu vernachlässigen sind
+und
+relativistische Effekte vernachlässigt werden können
+Das dritte Gesetz stellt eine sehr gute Näherung für die Lösung eines Mehrkörperproblems dar, bei dem die Masse des einen Körpers wesentlich größer ist als die der anderen. Ist die Lösung für einen der Körper gefunden, erhält man auch Informationen über die Bewegung der anderen Körper.
+Obwohl die drei Gesetze die Bewegung nur in einem System zweier Himmelskörper exakt beschreiben (Bewegungsgleichung des idealisierten Zweikörpersystems in der Potentialtheorie), sind sie eine gute Näherung für die tatsächlich in einem Sonnensystem durchlaufenen Planetenbahnen. Die aus den Keplerschen Gesetzen zu entnehmenden sechs Bahnelemente (also die Halbachsenlänge, die Exzentrizität, die Inklination, die Knotenlänge, der Periapsiswinkel und die Periapsiszeit) sind die Grundlage jeder Bahnbestimmung. Die geringen Abweichungen von den Keplerbahnen durch die Gravitationswechselwirkung der leichteren Körper untereinander werden Bahnstörungen genannt.
+
+
+=== Geschichte ===
+
+Kepler formulierte die Geometrie und Kinematik der Planetenbahnen in drei Gesetzen, von denen er die beiden ersten relativ rasch fand (Astronomia Nova, „Neue Astronomie“, 1609). Die Suche nach dem dritten dauerte hingegen – einschließlich mehrerer Irrwege über Korbbögen – ein Jahrzehnt, er fand es Mitte 1618 (Harmonice mundi, ‚Weltharmonik‘, publiziert 1619). Dabei kamen ihm Überlegungen zu Hilfe, die heute als anthropisches Prinzip bezeichnet werden, und vermutlich auch die in der Musik zu findende Harmonik. Eine wichtige Grundlage für Kepler waren die Beobachtungen von Tycho Brahe und seine eigenen als Tychos Assistent, die als Rudolfinische Tafeln die Datenbasis bildeten, an der Kepler sein Modell testete. Das vorzügliche, in Prag erstellte Beobachtungsmaterial von Brahe und Kepler vom Planeten Mars war insbesondere für die beiden ersten Gesetze (Ellipsen- und Flächensatz) bedeutsam.
+Ein anderes in diesem Kontext von Kepler aufgestelltes Gesetz über die wirkende Kraft, die Anima motrix, hat sich als nicht zutreffend erwiesen. Die Keplerschen Planetengesetze wurden später von Newton in den allgemeineren Zusammenhang seines Gravitationsgesetzes gestellt.
+
+
+=== Problematik der Mehrkörpersysteme ===
+Schon wenn zwei Körper einander umkreisen, wirkt auch eine Gravitation vom kleinen zum größeren Körper: Daher bewegt sich auch dieser und steht nicht im Brennpunkt der Ellipse, sondern beide umlaufen das Baryzentrum (Massezentrum) des Systems (Unzulänglichkeit des heliozentrischen Weltbilds: Die Sonne steht nicht im „Mittelpunkt“ des Sonnensystems).
+Wenn drei oder mehr Körper einander umkreisen, kommt es aufgrund der wechselseitigen gravitativen Einflüsse zu weiteren Bahnstörungen, für die die Keplerschen Gesetze und Bahnelemente ein bis heute verwendetes Bezugsystem darstellen (oskulierende Ellipsen, eine temporär angenäherte Lösung). Sind zahlreiche Körper gravitativ aneinander gebunden, herrschen praktisch immer chaotische, also langfristig hochgradig instabile Zustände. Daher weicht z. B. die Bewegung der Fixsterne um das galaktische Zentrum merklich vom 2. und 3. Keplerschen Gesetz ab, und auch das Sonnensystem ist kein bis in alle Ewigkeit stabiles Keplersystem (wie die Überschneidung der Neptun- und Pluto-Bahnen zeigt).
+
+
+=== Heliozentrische und fundamentale Formulierung der Gesetze ===
+Kepler formulierte das Gesetz für die Planeten, die ihm bekannt waren. Für die Gesetze gilt aber das kosmologische Prinzip, nachdem sie überall im Universum gültig seien.
+Der heliozentrische Fall des Sonnensystems ist aber der weitaus bedeutendste, daher sind sie in der Literatur häufig einschränkend nur für Planeten formuliert. Sie gelten natürlich auch für Monde, den Asteroidengürtel und die Oortsche Wolke, oder die Ringe des Jupiter und Saturn, für Sternhaufen wie auch für Objekte auf der Umlaufbahn um das Zentrum einer Galaxie, und für alle anderen Objekte im Weltall. Außerdem bilden sie die Basis der Raumfahrt und der Bahnen der Satelliten.
+In kosmischem Maßstab beginnen sich aber die relativistischen Effekte zunehmend auszuwirken, und die Differenzen zum Keplermodell dienen primär als Prüfkriterium für modernere Konzepte über Astrophysik. Die Formungsmechanismen in Spiralgalaxien etwa lassen sich mit einem rein auf den Keplerschen Gesetzen beruhenden Modell nicht mehr stimmig nachvollziehen.
+
+
+== Herleitung und moderne Darstellung ==
+Die Keplerschen Gesetze können elegant direkt aus der Newtonschen Theorie der Bewegungen abgeleitet werden.
+Das erste Gesetz folgt aus der Clairautschen Gleichung, die eine vollständige Lösung einer Bewegung in rotationssymmetrischen Kraftfeldern beschreibt.
+Das zweite Gesetz ist eine geometrische Deutung des Drehimpulssatzes.
+Mittels Integration, der Keplergleichung und der Gaußschen Konstante folgt das dritte Gesetz aus dem zweiten, oder mittels des Hodographen direkt aus den Newtonschen Gesetzen.
+Kepler versuchte mit seinen Gesetzen die Planetenbewegungen zu beschreiben. Aus den beobachteten Werten insbesondere der Mars-Bahn wusste er, dass er vom Ideal der Kreisbahnen abweichen musste. Anders als später Newton sind seine Gesetze daher empirisch und nicht von theoretischen Überlegungen abgeleitet. Aus heutiger Sicht können wir allerdings von der Kenntnis der Newtonschen Gravitation ausgehen und damit die Gültigkeit der Keplerschen Gesetze begründen.
+
+
+=== 1. Keplersches Gesetz (Ellipsensatz) ===
+
+Die Umlaufbahn eines Trabanten ist eine Ellipse. Einer ihrer Brennpunkte liegt im Schwerezentrum des Systems.
+Dieses Gesetz ergibt sich aus Newtons Gravitationsgesetz, sofern die Masse des Zentralkörpers wesentlich größer als die der Trabanten ist und die Wechselwirkung des Trabanten auf den Zentralkörper vernachlässigt werden kann.
+Die Energie für einen Trabanten mit Masse  im Newtonschen Gravitationsfeld der Sonne mit Masse  ist in Zylinderkoordinaten
+
+Mit Hilfe des Drehimpulses  und
+
+lässt sich die Energiegleichung zu
+
+umformen. Diese Differentialgleichung wird mit der Polarkoordinatendarstellung
+
+eines Kegelschnittes verglichen. Dazu wird die Ableitung
+
+gebildet und alle Ausdrücke, die  enthalten, werden durch Einsetzen der zu
+
+umgeformten Gleichung der Bahnkurve eliminiert:
+
+durch Vergleich der Koeffizienten der Potenzen von r.
+Diese Lösung hängt nur von der spezifischen Energie  und dem spezifischen Bahndrehimpuls  ab. Der Parameter  und die numerische Exzentrizität  sind die Gestaltelemente der Bahn. Für den Fall  gilt:
+ … 1. Keplersches Gesetz
+
+Legt man (anders als Kepler) kein zentralsymmetrisches Kraftfeld zugrunde, sondern wechselseitig wirkende Gravitation, so bilden sich ebenfalls Ellipsenbahnen. Es bewegen sich aber beide Körper, das Zentrum der Umlaufbahnen ist der gemeinsame Schwerpunkt von „Zentralkörper“ und Trabant, als fiktive Zentralmasse ist die Gesamtmasse des Systems anzunehmen. Der gemeinsame Schwerpunkt der Sonnensystemplaneten und der Sonne (das Baryzentrum des Sonnensystems) liegt jedoch noch innerhalb der Sonne: Die Sonne ruht nicht relativ dazu, sondern schwingt ein wenig unter dem Einfluss der umlaufenden Planeten (Länge der Sonne ≠ 0). Das Erde-Mond-System zeigt hingegen größere Schwankungen, was die Bahngeometrie betrifft, auch hier liegt der Systemschwerpunkt noch innerhalb der Erde. Satelliten reagieren sogar auf Schwankungen im durch die Erdgestalt unregelmäßigen Kraftfeld.
+Obwohl die Keplerschen Gesetze ursprünglich nur für die Gravitationskraft formuliert wurden, so gilt die Lösung oben auch für die Coulombkraft. Für einander abstoßende Ladungen ist das effektive Potential dann stets positiv und man erhält nur Hyperbelbahnen.
+Für -Kräfte gibt es noch eine Erhaltungsgröße, die für die Richtung der Ellipsenbahn entscheidend ist, den Runge-Lenz-Vektor, der entlang der Hauptachse zeigt. Kleine Änderungen im Kraftfeld (üblicherweise durch die Einflüsse der anderen Planeten) lassen diesen Vektor langsam seine Richtung ändern, wodurch z. B. die Periheldrehung der Merkur-Bahn erklärt werden kann.
+
+
+=== 2. Keplersches Gesetz (Flächensatz) ===
+
+In gleichen Zeiten überstreicht der Fahrstrahl Objekt–Schwerezentrum gleiche Flächen.
+Unter dem Fahrstrahl versteht man die Verbindungslinie zwischen dem Schwerpunkt eines Himmelskörpers, z. B. eines Planeten oder Mondes, und dem Gravizentrum, z. B. in erster Näherung der Sonne respektive des Planeten, um das er sich bewegt.
+
+Eine einfache Herleitung ergibt sich, wenn man die Flächen betrachtet, die der Fahrstrahl in einem kleinen Zeitabschnitt zurücklegt. In der Graphik rechts sei Z das Kraftzentrum. Der Trabant bewegt sich zunächst von A nach B. Würde sich seine Geschwindigkeit nicht ändern, so würde er sich im nächsten Zeitschritt von B nach C bewegen. Es ist dabei schnell ersichtlich, dass die beiden Dreiecke ZAB und ZBC die gleiche Fläche beinhalten. Wirkt nun eine Kraft in Richtung Z, so wird die Geschwindigkeit v um ein  abgelenkt, das parallel zur gemeinsamen Basis ZB der beiden Dreiecke ist. Statt bei C landet der Trabant also bei C' . Da die beiden Dreiecke ZBC und ZBC' dieselbe Basis und die gleiche Höhe haben, ist auch ihre Fläche gleich. Damit gilt der Flächensatz für die beiden kleinen Zeitabschnitte  und . Integriert man derartige kleine Zeitschritte (mit infinitesimalen Zeitschritten ), so erhält man den Flächensatz.
+Die überstrichene Fläche ist für einen infinitesimalen Zeitschritt
+.
+Da für eine Zentralkraft der Drehimpuls wegen
+
+konstant ist, ist das Flächenintegral somit gerade
+.
+Für gleiche Zeitdifferenzen  ergibt sich also die gleiche überstrichene Fläche.
+Das 2. Keplersche Gesetz definiert also sowohl die geometrische Grundlage einer astrometrischen Bahn (als Bahn in einer Ebene), als auch deren Bahndynamik (das zeitliche Verhalten). Kepler formulierte das Gesetz nur für den Umlauf der Planeten um die Sonne, es gilt aber auch auf nicht geschlossenen Bahnen. Das 2. Keplersche Gesetz ist im Gegensatz zu den anderen beiden Gesetzen nicht auf die -Kraft der Gravitation beschränkt (tatsächlich ging Kepler mit seiner Anima motrix auch von einer -Kraft aus), sondern gilt allgemein für alle Zentralkräfte. Kepler war lediglich an einer Beschreibung der Planetenbahnen interessiert, doch ist das zweite Gesetz bereits die erste Formulierung des Gesetzes, das wir heute als Drehimpulserhaltung kennen. Das 2. Keplersche Gesetz kann als spezielle Formulierung des Drehimpulssatzes gesehen werden.
+Das 2. Keplersche Gesetz hat zwei grundlegende Konsequenzen auch für die Bewegungsverhältnisse in Mehrkörpersystemen, sowohl für Sonnensysteme als auch für die Raumfahrt:
+Die Konstanz des Bahnnormalenvektors besagt, dass elementare Himmelsmechanik ein ebenes Problem ist. Tatsächlich ergeben sich auch hier Abweichungen durch die Volumina der Himmelskörper, sodass Masse außerhalb der Bahnebene liegt, und die Bahnebenen präzedieren (ihre Lage im Raum verändern). Daher liegen die Bahnen der Planeten nicht alle in einer Ebene (der idealen Sonnensystemebene, der Ekliptik), sie zeigen vielmehr eine Inklination und auch Periheldrehung, zudem schwankt auch die ekliptikale Breite der Sonne. Umgekehrt ist es verhältnismäßig leicht, einen Raumflugkörper in der Sonnensystemebene zu bewegen, aber enorm aufwändig, etwa eine Sonde über dem Nordpol der Sonne zu platzieren.
+Die Konstanz der Flächengeschwindigkeit besagt, dass von einer gedachten Verbindungslinie zwischen dem Zentralkörper, genauer dem Schwerpunkt der beiden Himmelskörper, und einem Trabanten in gleichen Zeiten stets die gleiche Fläche überstrichen wird. Ein Körper bewegt sich also schneller, wenn er sich nahe an seinem Schwerezentrum befindet und umso langsamer, je weiter er davon entfernt ist. Dies gilt beispielsweise für den Lauf der Erde um die Sonne wie auch für den Lauf des Mondes oder eines Satelliten um die Erde. Eine Bahn stellt sich als dauerndes freies Fallen, nahes Vorbeischwingen um den Schwerpunkt, und Wiederaufsteigen zum fernsten Kulminationspunkt der Bahn dar: Der Körper wird immer schneller, hat im Perizentrum (zentrumsnächsten Punkt) die höchste Geschwindigkeit und wird ab dann immer langsamer bis zum Apozentrum (zentrumsfernsten Punkt), von dem aus er wieder beschleunigt. So gesehen ist die Keplerellipse ein Spezialfall des schiefen Wurfs, der sich in seiner Bahn schließt. Diese Überlegung spielt in der Raumfahrtphysik eine zentrale Rolle, wo es darum geht, mit e

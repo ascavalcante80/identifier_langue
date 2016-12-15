@@ -1,0 +1,26 @@
+Em teoria dos conjuntos, quando todo elemento de um conjunto  é também elemento de um conjunto  dizemos que  é um subconjunto ou uma parte de ; e denotamos  (lê-se:  está contido em ; ou  é subconjunto de ; ou  é uma parte de ) ou ainda  (lê-se:  contém ; ou  é superconjunto de ; ou  tem  como parte) . Esta relação é conhecida por inclusão de conjuntos. Em linguagem simbólica,
+
+
+== Propriedades ==
+A inclusão de conjuntos é uma relação reflexiva, ou seja,  qualquer que seja o conjunto .
+Realmente, a condicional  é uma tautologia. Assim,  tanto se  como também se . E, por definição, .
+
+A inclusão de conjuntos é uma relação transitiva, ou seja, se  e , então .
+Se ,  (e assumir que  é irrelevante). Então, assuma que  e seja . Por hipótese,  e, pela definição de inclusão, . Assim, . Também por hipótese , isto é, se  também . Em particular, para  temos . Como  era arbitrário, todo elemento de  é também elemento de , ou seja, .
+
+A inclusão de conjuntos é uma relação anti-simétrica, ou seja, se  e , então .
+De fato, isto é o que diz o axioma da extensão.
+
+Pelas três propriedades acima, dado um conjunto não-vazio  e uma coleção  de subconjuntos de , a relação de inclusão  é uma relação de ordem parcial em .
+A inclusão de conjuntos é a relação de ordem parcial canônica — no sentido de que todo conjunto parcialmente ordenado (X, ) é isomorfo a alguma coleção de conjuntos ordenada pela inclusão. Os números ordinais constituem um exemplo simples — se cada ordinal  é identificado com o conjunto  de todos os ordinais menores ou igual a , então  se e somente se .
+
+
+== Subconjunto próprio ==
+Dizemos que um conjunto  é um subconjunto próprio de um conjunto  se  ( é subconjunto de ) e  ( é diferente de ). Explicitamos este fato com a notação especial ; ou ainda  (lê-se: A é um superconjunto próprio de B). Isto quer dizer que  está estritamente contido em , ou seja, existe pelo menos um  tal que . Em particular, o conjunto vazio é um subconjunto próprio de todo conjunto não-vazio. E, evidentemente,  é o único subconjunto de um conjunto  que não é próprio. Assim, dizemos que  é um subconjunto impróprio (superconjunto impróprio) de .
+
+
+== Exemplos ==
+O conjunto vazio é um subconjunto de qualquer conjunto dado.
+O conjunto {1, 2} é um subconjunto próprio de {1, 2, 3}.
+O conjunto {x : x é um número primo maior do que 10} é um subconjunto próprio de {x : x é um número ímpar maior do que 10}.
+O conjunto dos números naturais é um subconjunto próprio do con

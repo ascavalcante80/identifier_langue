@@ -1,0 +1,45 @@
+Di dalam astronomi, tiga Hukum Gerakan Planet Kepler adalah:
+Setiap planet bergerak dengan lintasan elips, Matahari berada di salah satu fokusnya.
+Luas daerah yang disapu pada selang waktu yang sama akan selalu sama.
+Perioda kuadrat suatu planet berbanding dengan pangkat tiga jarak rata-ratanya dari Matahari.
+Ketiga hukum di atas ditemukan oleh ahli matematika dan astronomi Jerman: Johannes Kepler (1571–1630), yang menjelaskan gerakan planet di dalam tata surya. Hukum di atas menjabarkan gerakan dua benda yang saling mengorbit.
+Karya Kepler didasari oleh data pengamatan Tycho Brahe, yang diterbitkannya sebagai 'Rudolphine tables'. Sekitar tahun 1605, Kepler menyimpulkan bahwa data posisi planet hasil pengamatan Brahe mengikuti rumusan matematika cukup sederhana yang tercantum di atas.
+Hukum Kepler mempertanyakan kebenaran astronomi dan fisika warisan zaman Aristoteles dan Ptolemaeus. Ungkapan Kepler bahwa Bumi beredar sekeliling, berbentuk elips dan bukannya epicycle, dan membuktikan bahwa kecepatan gerak planet bervariasi, mengubah astronomi dan fisika. Hampir seabad kemudian, Isaac Newton mendeduksi Hukum Kepler dari rumusan hukum karyanya, hukum gerak dan hukum gravitasi Newton, dengan menggunakan Euclidean geometri klasik.
+Pada era modern, hukum Kepler digunakan untuk aproksimasi orbit satelit dan benda-benda yang mengorbit Matahari, yang semuanya belum ditemukan pada saat Kepler hidup (contoh: planet luar dan asteroid). Hukum ini kemudian diaplikasikan untuk semua benda kecil yang mengorbit benda lain yang jauh lebih besar, walaupun beberapa aspek seperti gesekan atmosfer (contoh: gerakan di orbit rendah), atau relativitas (contoh: prosesi preihelion merkurius), dan keberadaan benda lainnya dapat membuat hasil hitungan tidak akurat dalam berbagai keperluan.
+
+
+== Pengenalan Tiga Hukum Kepler ==
+
+
+=== Secara Umum ===
+Hukum hukum ini menjabarkan gerakan dua badan yang mengorbit satu sama lainnya. Massa dari kedua badan ini bisa hampir sama, sebagai contoh Charon—Pluto (~1:10), proporsi yang kecil, sebagai contoh. Bulan—Bumi(~1:100), atau perbandingan proporsi yang besar, sebagai contoh Merkurius—Matahari (~1:10,000,000).
+Dalam semua contoh di atas, kedua badan mengorbit mengelilingi satu pusat massa, barycenter, tidak satu pun berdiri secara sepenuhnya di atas fokus elips. Namun, kedua orbit itu adalah elips dengan satu titik fokus di barycenter. Jika rasio massanya besar, sebagai contoh planet mengelilingi Matahari, barycenternya terletak jauh di tengah obyek yang besar, dekat di titik massanya. Di dalam contoh ini, perlu digunakan instrumen presisi canggih untuk mendeteksi pemisahan barycenter dari titik masa benda yang lebih besar. Jadi, hukum Kepler pertama secara akurat menjabarkan orbit sebuah planet mengelilingi Matahari.
+Karena Kepler menulis hukumnya untuk aplikasi orbit planet dan Matahari, dan tidak mengenal generalitas hukumnya, artikel ini hanya akan mendiskusikan hukum di atas sehubungan dengan Matahari dan planet-planetnya.
+
+
+=== Hukum Pertama ===
+
+"Setiap planet bergerak dengan lintasan elips, Matahari berada di salah satu fokusnya."
+Pada zaman Kepler, klaim di atas adalah radikal. Kepercayaan yang berlaku (terutama yang berbasis teori epicycle) adalah bahwa orbit harus didasari lingkaran sempurna. Pengamatan ini sangat penting pada saat itu karena mendukung pandangan alam semesta menurut Kopernikus. Ini tidak berarti ia kehilangan relevansi dalam konteks yang lebih modern.
+Meski secara teknis elips yang tidak sama dengan lingkaran, tetapi sebagian besar planet planet mengikuti orbit yang bereksentrisitas rendah, jadi secara kasar bisa dibilang mengaproksimasi lingkaran. Jadi, kalau ditilik dari pengamatan jalan edaran planet, tidak jelas kalau orbit sebuah planet adalah elips. Namun, dari bukti perhitungan Kepler, orbit-orbit itu adalah elips, yang juga memeperbolehkan benda-benda angkasa yang jauh dari Matahari untuk memiliki orbit elips. Benda-benda angkasa ini tentunya sudah banyak dicatat oleh ahli astronomi, seperti komet dan asteroid. Sebagai contoh, Pluto, yang diamati pada akhir tahun 1930, terutama terlambat diketemukan karena bentuk orbitnya yang sangat elips dan kecil ukurannya.
+
+
+=== Hukum Kedua ===
+
+"Luas daerah yang disapu pada selang waktu yang sama akan selalu sama."
+Secara matematis:
+
+dimana  adalah "areal velocity".
+
+
+=== Hukum Ketiga ===
+Planet yang terletak jauh dari Matahari memiliki perioda orbit yang lebih panjang dari planet yang dekat letaknya. Hukum Kepler ketiga menjabarkan hal tersebut secara kuantitatif.
+"Perioda kuadrat suatu planet berbanding dengan pangkat tiga jarak rata-ratanya dari Matahari."
+Secara matematis:
+
+dengan  adalah perioda orbit planet dan  adalah sumbu semimajor orbitnya.
+Konstant proporsionalitasnya adalah semua sama untuk planet yang mengedar Matahari.
+
+
+== Sejarah ==
+Pada tahun 1601 Kepler berusaha mencocokkan berbagai bentuk kurva geometri pada data-data posisi Planet Mars yang dikumpulkan oleh Tycho Brahe. Hingga tahun 1606, setelah hampir setahun menghabiskan waktunya hanya untuk mencari penyelesaian perbedaan sebesar 8 menit busur (mungk

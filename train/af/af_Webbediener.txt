@@ -1,0 +1,12 @@
+'n Webbediener (Engels: Webserver) is 'n rekenaarprogram wat via 'n netwerk versoeke vir dokumente ontvang, dit dan opsoek, en aan die kliënte wat die dokumente versoek het aanstuur. Die kliënte is meestal webblaaiers en aflaaiprogramme. Die versoek aan die webbediener geskied volgens die HTTP-protokol.
+Die dokumente wat deur 'n webbediener gelewer word kan vanaf verskillende bronne bekom kom: dit kan van 'n lokale lêer gelees word, of selfs die afvoer van 'n ander rekenaarprogram aanstuur. Die webbediener kommunikeer met ander programme deur byvoorbeeld die CGI (Common Gateway Interface) te gebruik. So 'n program kan moontlik 'n databasis raadpleeg om op die plek vir die kliënt 'n unieke en vars dokument voor te berei.
+
+
+== Soorte webbedieners ==
+Die twee webbedieners wat meeste gebruik word is Apache en IIS. Hier volg 'n (onvolledige) lys van webbedieners:
+Apache van Apache Software Foundation
+Internet Information Services (IIS) van Microsoft
+Sun ONE van Sun Microsystems (voorheen Netscapes iPlanet / Enterprise)
+lighttpd, 'n ligtegewig oopbron webbediener
+NCSA HTTPd, een van die eerste webservers
+PWS van Microsoft (onderdeel van Windows 95 en 98)

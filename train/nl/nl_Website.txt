@@ -1,0 +1,53 @@
+Een website is een verzameling samenhangende webpagina's met gegevens, zoals tekst, afbeeldingen of video's, die opgeslagen worden of in het gebruikte jargon 'gehost' (= letterlijk: 'geherbergd, onderdak geboden') worden. De website is vervolgens op een of meer webservers gezet en is (meestal) opvraagbaar gemaakt via internet. Het woorddeel web in website verwijst naar het wereldwijd web en het Engelse site betekent plek. Een website wordt ook wel aangeduid met het Engelstalige leenwoord site, dat in het Nederlands is aanvaard. Tevens bestaan er de Nederlandse woorden weblocatie of webstek voor. Deze woorden worden echter niet vaak gebruikt.
+
+
+== Webbrowser ==
+Een webbrowser vertaalt het HTTP-bericht in bruikbare informatie voor de gebruiker zoals het tonen van een webpagina.
+
+
+== Domeinnaam ==
+Om een website te kunnen vinden op het internet is er een centrale registratie waar bijgehouden wordt op welke computer een website ofwel domein opgevraagd kan worden met een webbrowser. Een domeinnaam is een naam in het Domain Name System (DNS), het naamgevingssysteem op internet waarmee netwerken, computers, webservers, mailservers en andere toepassingen worden geïdentificeerd. Deze naam verwijst naar een computeradres dat uit nummers bestaat. Het DNS functioneert als het telefoonboek van het computernetwerk. De vertaling van de naam naar het betreffende nummer geschiedt middels DNS-servers, alle verdere datacommunicatie tussen computers maakt gebruik van dat nummer. Informatie over een domein kan opgevraagd worden via Whois (who is).
+Elke website is op de een of andere manier verbonden aan een unieke domeinnaam. De internationale Wikipedia bijvoorbeeld heeft als domein 'wikipedia.org'. Meestal wordt het subdomein 'www' gebruikt (zoals 'www.wikipedia.org'). Vaak wordt foutief verteld dat dit altijd het geval is. Dit is echter niet waar: de Nederlandstalige Wikipedia bijvoorbeeld heeft als subdomein 'nl' (dit geeft dan nl.wikipedia.org). In Nederland verzorgt Stichting Internet Domeinregistratie Nederland de uitgifte en registratie van .nl-domeinnamen en bewaakt de kwaliteit van domeinregistratie in Nederland. Voor particulieren is het niet mogelijk om via de SIDN direct een domeinnaam te registreren. Dat kan alleen via de aangesloten bedrijven (dit kunnen zowel binnen- als buitenlandse bedrijven zijn). In 2013 waren er ruim vijf miljoen .nl-domeinen.
+
+
+== Webpagina ==
+Een webpagina is een document, typisch geschreven in (X)HTML dat vrijwel altijd beschikbaar is via HTTP, een protocol waarmee een webserver communiceert met een client (meestal de webbrowser van een gebruiker).
+Een kerneigenschap van het wereldwijde web vormt de hyperlink, een deel van het concept Hypertext; hiermee kan een gebruiker direct naar een specifieke tekst of andere digitale entiteit springen.
+De webpagina's van een website zijn meestal toegankelijk via een specifieke node (URI). Vaak wordt deze specifieke startnode de hoofdpagina of homepage genoemd. De URI's van de webpagina's zijn meestal georganiseerd in een hiërarchie. De hyperlinks tussen de webpagina's geven echter per gebruiker een andere representatie van de betreffende website.
+
+
+== Standaarden ==
+Alle publiek toegankelijke websites worden over het algemeen collectief benoemd als het "wereldwijde web" wat weer een deel van een bepaalde laag van het internet vormt.
+Belangrijke standaarden rondom het wereldwijde web (www) worden onder andere beheerd en uitgebreid door voorstellen door het World Wide Web Consortium, beter bekend als het W3C. De directeur van het W3C is Tim Berners-Lee, die in 1991 HTML voorstelde, als subset van het complexere SGML als vervolg op de hypertext-achtige uitvoering Gopher (het www is daarmee nog steeds geen hypertext-systeem). Naast verschillende andere initiatieven bleek HTML uiteindelijk het succesvolst.
+
+
+== Geschiedenis ==
+Ook al werd HTML voorgesteld als opvolger van Gopher in 1989 met als publieke uiting 1991, toch was het rond 1993 nog steeds zo dat Gopher de meest gebruikte manier was om het wereldwijd beschikbare informatienetwerk te gebruiken. In mei 1993 waren er dan ook slechts 50 websites wereldwijd. Men had nog steeds het idee dat het wereldwijde web voornamelijk gebruikt zou worden door universiteiten met dure en complexe hardware.
+Pas toen Mosaic verscheen (1993), de eerste webbrowser met een grafische interface in plaats van een tekstgebaseerde interface, veranderde dit langzaam. De meeste wetenschappers in die tijd gebruikten beeldschermen waarop men geen grafische elementen kon tonen en bovendien was de verbinding nog erg traag en bandbreedte kostbaar.
+Naarmate verbindingssnelheid toenam en (grafische) hardware goedkoper werd, nam de omvang van het aantal websites alsmede het aantal gebruikers toe en werden parallel hieraan nieuwe functionaliteiten toegevoegd in en rondom HTML.
+Een webpagina in 1993 kon slechts: 1. informatie tonen in opmaakvorm; en: 2. beelden tonen. Daarnaast kon men "dynamische documenten" maken door middel van: 3. formulieren. Om deze formulieren te verwerken werd de standaard CGI opgesteld, de common gateway interface (versie 1.1 in 1995). Deze specificatie diende ondersteund te worden door de webserver en maakte het mogelijk om zogenaamde CGI-scripts aan te roepen, vaak geschreven in de taal Perl, diverse shell-talen, de taal AWK of zelfs de taal C. Via de HTTPD-browser van Microsoft was het zelfs al mogelijk op die manier CGI-scripts te linken aan Visual Basic om Windows-applicaties als spreadsheets of databases aan te roepen.
+Deze CGI-scripts betekenden ook het begin van beveiliging in websites omdat het vanaf dat moment mogelijk was om "de achterkant" van de website te bereiken via snode wegen.
+Met HTML versie 3.0 kwamen zaken als tabellen, lijsten en diverse andere noviteiten die toegepast konden worden binnen webpagina's.
+Op softwarevlak kregen websites de volgende uitbreidingen en mogelijkheden:
+aan de clientzijde: meer mogelijkheden in markup via HTML en stylingmogelijkheden via CSS
+aan de clientzijde: meer scriptondersteuning zoals clientside-JavaScript, Perl-script en Tcl-script
+aan de clientzijde: meer objectondersteuning zoals Java-applets en Flash Player
+aan de serverzijde naast CGI ook serverside scripting zoals ASP (meestal VB Script), PHP en Serverside JavaScript
+aan de serverzijde meer directe integratiemogelijkheden met het achterlandschap zoals databases die ofwel via een tussenlaag informatie presenteren aan de gebruiker of direct informatie presenteren aan de gebruiker
+Diverse termen als dynamische HTML of AJAX (Web 2.0) zijn niets meer dan combinaties van bovenstaande uitbreidingen.
+
+
+== Toegankelijkheid ==
+Websites worden in toenemende mate geschikt gemaakt voor mensen met een beperking; hierbij wordt er rekening mee gehouden dat blinden bijvoorbeeld geen afbeeldingen kunnen zien maar wel graag willen weten wat er op de illustratie wordt afgebeeld door een begeleidende tekst. Een van de belangrijkste richtlijnen voor het ontwikkelen van toegankelijke websites zijn de zogenaamde Web Content Accessibility Guidelines. Een belangrijk neveneffect van het toegankelijk maken van websites voor gehandicapten is de betere vindbaarheid in internetzoekmachines zoals Google.
+
+
+== Structuur van een website ==
+
+
+=== Hoofdpagina ===
+Elke website heeft een hoofdpagina, ook wel index, homepage of startpagina genoemd. De hoofdpagina biedt een navigatie om door de rest van de site heen te gaan. De homepage kan, maar hoeft niet, een samenvatting te geven van de belangrijkste informatie die op de website staat, bijvoorbeeld in de vorm van categorieën, meest bezochte pagina's, het laatste nieuws etc. De hoofdpagina dient als uitvalbasis voor de bezoeker. Een bezoeker kan bijvoorbeeld via de homepage van het ene naar het andere onderdeel navigeren.
+Een webserver is vaak zo ingesteld dat als alleen het domein wordt aangevraagd en niet een specifiek document, er toch een document naar de gebruiker wordt gestuurd. Meestal is dit de hoofdpagina, alhoewel eind jaren 1990 een zogeheten 'splash page' ook vaak voorkwam. Dit laatste was een document waar de gebruiker niets aan had, maar waarin de aanbieder bijvoorbeeld een logo kon tonen of een animatie kon afspelen.
+
+
+=== Hiërarchie ===
+Vaak is een website hiërarchisch ingedeeld. Een site wordt daarbij onderverdeeld in onderwerpen en eventueel subonderwerpen, die elk hun eigen pagina krijgen. Door eerst naar de homepage te gaan, dan naar een o

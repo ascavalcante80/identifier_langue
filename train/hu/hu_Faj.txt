@@ -1,0 +1,62 @@
+A biológiában a faj (species) a biológiai rendszerezés alapegységei közé tartozik, egyben taxonómiai szint. A leggyakoribb értelmezés szerint élőlények olyan csoportja, melynek egyedei képesek szaporodni egymással, és termékeny utódokat létrehozni. Bár ez a naiv definíció sok esetben megfelelő (de például az élővilág kisebbségét alkotó, kizárólag ivartalanul szaporodó lényekre nem értelmezhető), sokszor precízebb vagy más szempontokat figyelembe vevő meghatározásokat használnak, például a DNS-beli vagy morfológiai hasonlóságok alapján.
+Az állatok, növények köznapi elnevezései néha egybeesnek a faj szintjével: például az oroszlán, a rozmár vagy a cserszömörce mind egy-egy fajra utal. Más köznyelvi neveknél ez nem áll fenn: a szarvas például egy családra utal, amibe 30-nál több faj tartozik, köztük az európai őz, a dámvad vagy a víziőz.
+Specifikus, helyi adaptáció során felvett tulajdonságok alapján a fajok egyes esetekben alfajokra bonthatók szét. A különálló fajok elkülönítése néha nehézségekbe ütközik. Jellemző példája ennek a gyűrűfajok esete. Gyűrűfajról akkor beszélünk, ha két reprodukciós izolációban lévő populációt egymással szaporodni képes köztes populációk sora kapcsolja össze.
+A biológiai rendszertanban a faj fölérendelt fő kategóriák a nemzetség vagy nem, a nemzetségcsoport vagy nemzetség, a család, a rend, az osztály és a törzs; míg alárendelt fogalomként az alfajt és a fajtát említhetjük.
+A faj fogalmának pontos meghatározása például a biodiverzitás mérése miatt is fontos. A tudományosan leírt fajokra a kettős nevezéktan szerint hivatkozhatunk.
+A fajfogalom filozófiai értelmezését Arisztotelész kezdte használni és alkalmazni az élőlényekre, Carl von Linné és más tudósok később tökéletesítették használatát és pontosították értelmezését.
+A földön ismert fajok számát a szakemberek több (akár több tíz-) millióra becsülik. Pontos adataink még meghatározott, egy adott szaktudományon belüli fajfogalomra hagyatkozva sincsenek. Jellemző vélemény biológus körökben, miszerint sokkal pontosabban képesek vagyunk az Univerzum csillagainak számát, mint a Földön található fajok számát felbecsülni.
+
+
+== Definíció ==
+A „faj” fogalmának legjobb meghatározása évszázadok óta foglalkoztatja a biológusokat, a vita a fajfogalom problémája néven vált ismertté (Species Problem). A manapság legelterjedtebb, ugynevezett biológiai fajfogalom (biological species concept) szerint a fajt olyan ténylegesen vagy potenciálisan egymással ivarosan szaporodni képes egyedekből álló populációk alkotják, melyek más hasonló csoportoktól a szaporodás szempontjából elkülönülnek.
+A fenti meghatározást Ernst Mayr, a szintetikus evolúcióelmélet egyik meghatározó alakja adta. A szintetikus evolúcióelmélet szerint a szaporodási izoláció kialakulása a fajképződés legfontosabb kérdése.
+A taxonómusok, akik a fajokat leírják, majd eszerint a begyűjtött példányokat fajokra meghatározzák gyakran egyszerűen nem tudják, hogy két, morfológiailag hasonló élőlénycsoport tagjai vajon képesek-e „potenciálisan” egyedeket nemzeni egymással. Ráadásul abban is jelentős eltérések mutatkoznak, hogy a hibridizáció milyen mértékben megy végbe természetes és kísérleti körülmények között, vagy akár abban, hogy egyes élőlények milyen sűrűn választják az ivaros szaporodást. Ezeket a problémákat is figyelembe véve, a „faj” meghatározására további számos koncepció létezik:
+
+
+=== Tipologikus fajfogalom ===
+Élőlények egy csoportja egy fajba tartozik, ha tagjai bizonyos előre meghatározott tulajdonságokkal bírnak. Az egyedek variációkban, illetve fenotípusokban való eltérései (például hosszabb vagy rövidebb farok) különböztetik meg a fajokat. Ez volt a „klasszikus” módszer a fajok meghatározására, ezt alkalmazta Linné is. Mára nyilvánvalóvá vált, hogy a különböző fenotípusok nem mindig alkotnak különböző fajokat (például egy négyszárnyú Drosophilia, ami kétszárnyú anyától származik nem tartozik külön fajba). Az ezzel a módszerrel meghatározott fajok neve: morphospecies vagy morfológiai faj.
+
+
+=== Morfológiai fajfogalom ===
+Egy populációt vagy populációcsoportot fajnak nevezünk, ha az morfológiailag eltér más populációktól. Például, különbséget tudunk tenni egy csirke és egy kacsa között, mert más alakú a csőrük, a kacsának pedig úszóhártyás lába van. Ilyen alapon határoztak meg fajokat már jóval az írásbeliség kialakulása előtt. A fajmeghatározásnak ez a módja erősen vitatott, mivel az újabb genetikai eredmények azt mutatják, hogy genetikailag eltérő populációk is nagyon hasonlóak lehetnek, vagy épp fordítva, néha nagy morfológiai különbségek léteznek egyébként igen közeli rokonságban lévő populációk között. Minden jogos kifogás ellenére, a jelenleg ismert fajok nagy részét kizárólag morfológiai alapokon írták le.
+
+
+=== Biológiai (izolációs, reprodukciós) fajfogalom ===
+A faj egymással potenciálisan vagy ténylegesen szaporodni képes populációkból (szaporodási közösségekből) áll, melyek között az ivaros szaporodás által megvalósított géncserének nincs biológiai (morfológiai, élettani, viselkedési stb.) akadálya. Ez általában hasznos információt képvisel az emlősökkel, madarakkal, halakkal és más „magasabb” taxonokkal dolgozó tudósok számára, de értelmetlen az ivartalanul szaporodó élőlények esetében. Ez a definíció nem tesz különbséget a kereszteződés elméleti lehetősége és a populációk közötti tényleges génáramlás között, így allopatrikus (földrajzilag izolált) populációk vizsgálatánál nem praktikus a használata. A laboratóriumi körülmények között végzett keresztezési kísérletek nem feltétlenül tükrözik, hogy mi történne ha a két élőlény természetes környezetében találkozna, így bizonytalan, hogy eredményük vonatkoztatható-e a természetes populációkra. Két (különböző nemű) élőlény akkor tartozik egy fajba, ha természetes körülmények között képesek termékeny utódot létrehozni. Ha a két élőlény által nemzett hibridek többnyire terméketlenek, mint az szamár és a ló kereszteződéséből származó öszvérek esetében, akkor nem tekintjük őket egy fajból valóknak.
+
+
+=== Párfelismerési fajfogalom ===
+Élőlények egy csoportja akkor tekinthető fajnak, ha egyedei potenciális párként ismerik fel egymást. A fenti izolációs fajfogalomhoz hasonlóan csak ivarosan szaporodó szervezeteknél értelmezhető. Attól eltérően azonban, a párzást megelőző reprodukciós elkülönülésre koncentrál.
+
+
+=== Filogenetikus (kladisztikus, evolúciós, darwini) fajfogalom ===
+Közös őssel rendelkező élőlények csoportját tekintjük; egy leszármazási vonalat, ami megőrzi integritását más leszármazási vonalakhoz képest térben és időben. Egy ilyen csoport fejlődése során annak tagjai divergálhatnak egymáshoz képest; amikor ez a divergencia kellően egyértelművé válik, a két populációt két külön fajnak tekintjük. Alfajokról nem beszélhetünk ebben a megközelítésben; egy populáció vagy filogenetikus fajt alkot, vagy taxonómiailag nem megkülönböztethető.
+
+
+=== Ökológiai fajfogalom ===
+Egy meghatározott erőforrás-készlethez (niche-hez) adaptálódott élőlények összességét ökológiai értelemben vett fajnak nevezzük. Ebben a megközelítésben populációk alkotják azokat a fenetikai klasztereket, amit fajnak tekintünk, mivel az ökológiai és evolúciós folyamatok, amik az erőforrások elosztását szabályozzák, ezeket a klasztereket hozzák létre.
+
+
+=== Genetikai fajfogalom ===
+A populációk vagy egyedek DNS-ének hasonlóságán alapul. A hasonlóság mértékének meghatározására különféle technikák léteznek, köztük a DNS–DNS-hibridizáció és a genetikai ujjlenyomat képzése (DNS-vonalkód).
+
+
+=== Fenetikai fajfogalom ===
+A fenotípusra alapozott fajfogalom.
+
+
+=== Felismerési fajfogalom ===
+A szaporító rendszerek közös voltára (beleértve a párválasztást) alapozó fajfogalom.
+
+
+=== Mikrofaj ===
+A meiózis vagy megtermékenyítés nélkül szaporodó fajoknál, ahol minden generáció genetikailag megegyezik az előző generációval. Lásd még: apomixis.
+
+
+=== Kohéziós faj ===
+Azon egyedek legbővebb közössége, melyek fenotípusa egyfajta kohéziót képvisel, belső kohéziós mechanizmusokon keresztül. Ez a párfelismerési fajfogalom kiterjesztése, amely magába foglalja a párzás utáni izolációs mechanizmusokat is: nem számít, hogy a populációk között sikeres hibridizáció mehet végbe, továbbra is különálló kohéziós fajnak tekintendők, ha a hibridizáció alacsony mértéke miatt a génállomány nem keveredik teljes mértékben.
+
+
+=== Evolúciósan jelentős egység (ESU, Evolutionarily Significant Unit) ===
+Egy ESU élőlények olyan populációja, amit a megőrzés szempontjából különálló egységként kezelünk. A gyakran fajként vagy „vadon élő fajként” említett evolúciósan jelentős egységnek több lehetséges meghatározása van, amik gyakran megegyeznek a faj egyes definícióival.
+A gyakorlatban a fenti definíciók gyakran egybevágnak, és gyakrabb, hogy csak hangsúlybeli különbségek vannak köztük, mint amikor kifejezetten ellentmondanak. Mindazonáltal egyik fajfogalom sem bizonyult teljesen objektívnek mostanáig, ezért általában mindegyiknél szükség van a felelős, meggondolt döntésre a faj kijelölésénél. Az élet formáinak bonyolultságát figyelembe véve, elképzelhető hogy az objektív definíció soha nem is fog megszületni, egyes vélemények szerint a biológusoknak inkább a lehető legpraktikusabb definícióra kellene szorítkozniuk. A legtöbb gerincesnél ez a reproduktív fajfogalom, kisebb mértékben (vagy más célokra) pedig a filogenetikus (PSC) fajfogalom

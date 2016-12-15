@@ -1,0 +1,28 @@
+ralmente, il browser crea due file, uno per il testo e uno per tutti gli altri tipi di oggetti (immagini, link, ecc.) per ogni pagina web salvata. Internet Explorer supporta il formato .mht che permette di salvare tutto il contenuto di una pagina web in solo file.
+Per una breve pagina un'altra possibilità è salvare un'istantanea dello schermo (utile in alcuni casi particolari): vengono visualizzati i collegamenti ma non la loro destinazione.
+
+
+== Strumenti per la creazione di pagine web ==
+Per creare una pagina web statica, c'è bisogno di un generico web editor, testuale direttamente in HTML oppure visuale (es. i cosiddetti WYSIWYG) (o anche un semplice convertitore in formato HTML come consente di fare, ad esempio, Microsoft Word in fase di salvataggio di un pagina o documento), e un programma FTP per effettuare l'upload della pagina verso il server web che ospiterà (hosting) la pagina web. Si può utilizzare anche il browser web per effettuare l'invio delle pagine web al server, ma non è consigliabile.
+Si può utilizzare anche un modello web già pronto. I modelli web sono pagine html già fatte pronte all'uso. I creatori di pagine web devono solo inserire il titolo ed i contenuti. Inoltre questi modelli sono riusabili.
+Un wiki è invece un modo particolare di creare o modificare e inviare una pagina web senza utilizzare un programma FTP ed effettuare l'upload del file, riempiendo solamente un modulo di testo in una pagina web. Wikipedia è un esempio di applicazione della tecnologia wiki.Per creare una pagina web dinamica occorre invece conoscere almeno un linguaggio di scripting per programmazione Web ed utilizzare i relativi editor.
+
+
+== Voci correlate ==
+Browser web
+Collegamento ipertestuale
+Editor web
+Foglio di stile
+Fusker
+Form
+HTML
+Home page
+Ipertesto
+Nome di dominio
+Sitemap
+Sito web
+Pagina web dinamica
+Pagina web statica
+Traffico web
+Web Template
+Wiki

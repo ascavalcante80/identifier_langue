@@ -1,0 +1,163 @@
+Hoewel schaken een aanduiding is voor een groep verwante bordspellen, beschrijft dit artikel hoofdzakelijk het westers schaken, een strategisch bordspel voor twee spelers. De officiële naam volgens de FIDE van dit westers schaken is het schaakspel. Het is een strategisch spel omdat de spelers veel speelmogelijkheden hebben en omdat het vaak onmogelijk is de consequentie van elke zet te overzien, waardoor inzicht, ervaring en moed de zetkeuze mede bepalen. In sommige schaakpartijen zijn karakteristieke speelstijlen te herkennen zoals: agressief, passief, tactisch, forcerend, radicaal.
+Het doel van het spel is het schaakmat zetten van de vijandelijke koning.
+
+
+== Oorsprong en geschiedenisBewerken ==
+De oervorm van het schaakspel is duizenden jaren oud, waardoor er niet veel bekend is over het ontstaan en de vroegste geschiedenis. Het woord schaak is afkomstig van het Perzische woord shāh, dat koning betekent. Ook het woord mat is Perzisch (maata), dat versteld raken betekent.
+De oudste herkenbare versie van schaken stamt waarschijnlijk uit het zesde-eeuwse Lucknow in Oost-Perzië, nu in Noord-India, en staat bekend als chaturanga, maar er zijn aanwijzingen dat dit spel gebaseerd is op een nog oudere variant voor vier personen die elk aan een zijde van het bord zaten. Verschillende versies van chaturanga verspreidden zich oostwaarts naar China en Japan en, in de vorm van Shatranj, westwaarts naar de Arabische wereld om via Italië en Spanje uiteindelijk tijdens de 11e eeuw in heel Europa door te dringen. Waarschijnlijk hebben de Vikingen hier een belangrijke rol in gespeeld, aangezien de oudste Europese vondsten van schaakstukken langs de kusten zijn.
+De huidige vorm van het schaakspel ontstond aan het eind van de 15e eeuw in Frankrijk, toen de dame met de huidige machtige mogelijkheden haar intrede deed. Tevoren was de dame of koningin een tamelijk beperkt en zwak stuk. Al halverwege de twintigste eeuw werd geopperd dat het schaakspel mogelijk uit China stamt en recentelijk gaan er weer stemmen op die de oorsprong van het schaakspel daar of in Oezbekistan plaatsen.
+Volgens een bekende sage was een koning enthousiast over het spel, en vroeg hij de bedenker wat zijn loon moest zijn. De bedenker van het spel wilde een schaakbord hebben met een graankorrel op het eerste veld, twee korrels op het tweede veld, vier op het derde en zo steeds het dubbele aantal graankorrels. Dat leek een bescheiden loon, maar in werkelijkheid oversteeg het aantal graankorrels de totale oogst.
+
+
+== SpelregelsBewerken ==
+De officiële spelregels worden vastgesteld door de wereldschaakorganisatie FIDE en worden door de KNSB in het Nederlands vertaald. Hieronder enkel de belangrijkste punten.
+
+
+=== MateriaalBewerken ===
+Een schaakbord is een vierkant, regelmatig opgedeeld in 32 lichte (witte) en 32 donkere (zwarte), elkaar afwisselende velden. De horizontalen worden rijen genoemd en zijn genummerd van 1 tot en met 8; de verticalen heten lijnen en worden aangegeven met de letters a tot en met h. Zo is elk veld aan te duiden; de witte dame staat bijvoorbeeld in de beginstelling op d1. Het bord wordt zo neergelegd dat a1 en h8, de hoekvelden links van de spelers, zwart zijn.
+Elke speler beschikt over zestien speelstukken. De ene speler heeft wit (de lichtgekleurde stukken), de ander heeft zwart (de donkergekleurde stukken). Bij aanvang van het spel staan de speelstukken zoals hiernaast getoond op het bord.
+De stukken zijn voor ieder:
+1 koning
+1 dame (of koningin)
+2 torens
+2 lopers (of raadsheren)
+2 paarden
+8 pionnen
+Binnen een schaakpartij worden de pionnen soms niet als stukken aangeduid. Wie zich nauwkeurig uitdrukt zegt wel eens: "De stukken en pionnen worden op het bord gezet". Spreekt men van een stukoffer, stukverlies e.d., dan bedoelt men een licht stuk, dus een loper of paard. In dit artikel worden de pionnen echter wel tot de stukken gerekend.
+
+
+=== ZettenBewerken ===
+Beide spelers doen om beurten een zet naar keuze, waarbij wit begint; het is niet mogelijk een beurt over te slaan.
+
+
+==== SlaanBewerken ====
+Op elk veld staat nooit meer dan één stuk. Door een eigen stuk te spelen naar een veld waarop een stuk van de opponent staat, wordt dat stuk (van de opponent) geslagen en van het bord genomen. Op het diagram hiernaast wordt dit geïllustreerd met de (diagonaal bewegende) witte loper: deze kan niet naar a1, f2 of g1 gespeeld worden, maar wel de zwarte toren op b2 slaan door zelf op dat veld te gaan staan. De pion is het enige stuk dat bij slagzetten anders beweegt dan bij gewone zetten.
+
+
+==== Loop van de stukkenBewerken ====
+De verschillende stukken hebben elk een verschillende loop. Dame, toren en loper kunnen in een enkele zet in een rechte lijn een onbeperkte afstand afleggen, maar ze kunnen niet over andere stukken springen. Gaat een stuk naar een veld waar een stuk van de tegenpartij staat, dan wordt dat stuk geslagen. Een veld waar een stuk van de eigen partij staat, is niet toegankelijk .
+De koning neemt één stap tegelijk, recht of diagonaal, en bestrijkt dus de 3 tot 8 aangrenzende velden. Hij begint op e1 of e8. Daarnaast heeft de koning eenmaal per partij een speciale mogelijkheid, zie korte en lange rokade. Hoewel de schaakpartij om de koning draait, is hij lang niet het sterkste stuk.
+De dame mag naar keuze horizontaal, verticaal of diagonaal bewegen en beheerst 21 tot 27 velden, wat haar veruit het sterkste stuk maakt. Zij begint op d1 of d8.
+Een toren bestrijkt 14 velden. Ze mogen naar keuze horizontaal of verticaal bewegen en zijn daardoor de enige stukken die vanaf de rand hetzelfde bereik hebben als in het centrum. Ze beginnen op a1 en h1, respectievelijk a8 en h8.
+Een loper mag diagonaal bewegen en bestrijkt 7 tot 13 velden. Een loper kan nimmer op een veld van een andere kleur komen. Spreekt men van een witte of zwarte loper, dan bedoelt men vaak de loper die over de witte, respectievelijk zwarte velden beweegt. Lopers beginnen op c1 en f1, respectievelijk c8 en f8.
+Een paardzet is een geknikte beweging van 2 velden horizontaal of verticaal en daarna 1 veld opzij. Een paard kan over een ander stuk springen. Een paard in het centrum beheerst een kring van 8 velden, maar vanuit de hoek slechts 2. Hoewel een paard dus weinig velden beheerst, zijn ze in de praktijk nauwelijks zwakker dan een loper. Dit komt doordat deze stukken als enige mogen springen, en anderzijds doordat lopers zoals gezegd elk maar op één kleur veld kunnen komen. Wel heeft een paard vaak problemen als het aan de rand of zelfs in de hoek staat, wat leidt tot het gezegde: "Paard aan de rand is schakers schand." Paarden beginnen op b1 en g1, respectievelijk b8 en g8.
+
+
+===== PionnenBewerken =====
+Voor alle hierboven genoemde stukken geldt dat ze in alle richtingen op dezelfde manier bewegen en dat ze slaan op dezelfde manier. De pionnen hebben echter andere regels:
+Pionnen bewegen één veld recht vooruit (voor een witte pion is dit naar een hoger rijnummer, voor een zwarte naar een lager).
+Vanuit de beginpositie op rij 2/7 mogen pionnen naar keuze één of twee velden vooruit.
+De pion slaat anders dan hij gaat. Hij slaat namelijk één veld diagonaal naar voren.
+Een bijzonderheid is de en-passantregel die geldt als een pion vanuit zijn beginpositie twee velden tegelijk naar voren is gegaan en daardoor naast een pion van de andere kleur belandt. Zo'n pion mag dan door de vijandelijke pion geslagen worden alsof hij maar één veld opgeschoven is, de vijandelijke pion slaat in dit geval dus gewoon één veld schuin naar voren terwijl het betreffende veld leeg is. De tegenstander kan dit alleen op de eerstvolgende beurt doen, daarna vervalt het en-passantrecht.
+Een pion die de overkant bereikt, promoveert. De eigenaar moet dan de pion vervangen door een dame, paard, loper of toren. Meestal kiest hij een dame, kiest hij een ander stuk dan heet dat minorpromotie. Het is mogelijk om meer stukken van een bepaalde soort te hebben dan in de beginpositie, dus bijvoorbeeld twee dames of drie paarden is mogelijk.
+
+
+==== Korte en lange rokadeBewerken ====
+Er is een zet waarbij in een beurt twee stukken verplaatst worden: de rokade. Hierbij wordt de koning van het beginveld twee velden zijwaarts verplaatst naar een op een hoekveld staande toren toe. Daarna wordt de toren uit die hoek verplaatst naar het veld waar de koning overheen gesprongen is. Bij de korte rokade van wit gaat de koning naar g1 en de toren van h1 naar f1; bij de lange rokade gaat de koning naar c1 en de toren van naar a1 naar d1. Voor zwart gelden de tegenoverliggende velden.
+Er zijn enkele voorwaarden: de koning en de toren mogen niet eerder zijn verplaatst, en de rokade mag niet worden uitgevoerd als de koning schaak staat of over een veld moet springen dat bestreken wordt door een vijandelijk stuk. Ook kan er niet worden gerokeerd als er een stuk tussen de toren en de koning staat.
+De notatie voor een korte rokade is o-o; voor een lange rokade wordt o-o-o gebruikt.
+
+
+=== De koningBewerken ===
+
+De koning heeft in het schaakspel een centrale rol. Hij kan niet geslagen worden.
+Is de opstelling der stukken zo dat een speler (als hij aan zet was geweest) de koning van de tegenstander volgens de loop der stukken zou kunnen slaan, dan zegt men dat de koning van de tegenstander schaak staat. Het is niet geoorloofd dat een koning schaak staat terwijl de tegenstander aan zet is en het is dan ook niet mogelijk de koning te slaan.
+Dit impliceert:
+Een speler mag geen zet doen waardoor de eigen koning schaak komt te staan. Dit is een onreglementaire zet. Bij 'schaak geven' is daarom de koning nooit het stuk dat dreigt de vijandelijke koning te slaan. Wat wel kan is schaak geven door middel van het doen van een koningszet, maar dan betreft dit een aftrekschaak (of de rokade, waarbij ook de toren van positie verandert).
+Staat de eigen koning schaak, dan moet de speler dat pareren, dat wil zeggen dat hij een zet doet waarmee het schaak wordt opgeheven. Elke andere zet is onreglementair.
+Uit de spelregels volgt dat schaak op drie manieren gepareerd kan worden:
+Door de koning te verplaatsen.
+Door het schaakgevende stuk te slaan. Ingeval van dubbelschaak (als twee stukken tegelijk schaak geven) is dit geen optie, uiteraard tenzij er door de koning geslagen wordt (wat al onder het vorige punt valt).
+Door een stuk tussen de koning en het schaakgevende stuk te zetten. Dit kan bij een aanval door een loper, toren of dame; indien een paard of pion schaak geeft werkt het niet, aangezien een paard over tussenstaande stukken kan springen en een pion niet op afstand werkt. Ook bij dubbelschaak is dit geen optie, omdat gelijktijdige aanvallen uit twee richtingen afgeweerd moeten worden.
+Staat de eigen koning schaak en is er geen enkele mogelijkheid om het schaak te pareren, dan staat de koning schaakmat of kortweg mat, en heeft hij verloren. De partij is hiermee onmiddellijk afgelopen; de koning wordt dus niet daadwerkelijk geslagen.
+Staat de eigen koning niet schaak en is er geen enkele reglementaire zet voorhanden, dan is een patstelling ontstaan, of kortweg pat, en eindigt de partij onmiddellijk in remise.
+
+
+=== RemiseBewerken ===
+Naast pat, kan een partij in remise eindigen door de vijftigzettenregel, driemaal dezelfde stelling, een dode stelling en materiaalgebrek; het is bijvoorbeeld niet mogelijk met enkel koning en loper de vijandelijke koning mat te zetten.
+Daarnaast kan een speler ook remise aanbieden, wat door de tegenstander aangenomen of geweigerd kan worden. Het aanbod kan mondeling worden verworpen, of door een zet te doen. Onredelijke of overmatige remise-aanbiedingen kunnen worden beschouwd als het hinderen van de tegenstander en kunnen door de scheidsrechter worden bestraft, doorgaans met een tijdstraf.
+
+
+=== De hand van de schakerBewerken ===
+
+In het competitieschaak wordt het juist uitvoeren van een zet nauwkeurig beschreven. Indien er met schaakklok gespeeld wordt, heeft een speler de beurt zolang hij zijn knop op de klok niet ingedrukt heeft. Hij mag pas drukken nadat de zet op het bord voltooid is, en voor het indrukken van de klok moet hij dezelfde hand gebruiken als waarmee hij de zet deed. Bij het spel zonder klok wordt algemeen de regel gehanteerd dat de tegenstander aan de beurt is zodra men het gespeelde stuk heeft losgelaten.
+Wie een eigen stuk aanraakt moet dit spelen als dat volgens de spelregels mogelijk is; evenzo moet een stuk van de tegenstander geslagen worden als men het aangeraakt heeft, tenzij dat onmogelijk is. Zie Pièce touchée.
+Als een stuk is losgelaten en dit een reglementaire zet is of deel uitmaakt van een reglementaire zet, dan is er geen andere zet meer mogelijk. Ook niet als de klok nog niet is ingedrukt.
+
+
+== SchaakpartijBewerken ==
+
+Een schaakpartij wordt ruwweg ingedeeld in drie fasen, de opening, het middenspel en het eindspel. Vanuit de beginpositie is een groot aantal reeksen van zetten en tegenzetten geanalyseerd waarvan bekend is of die uiteindelijk voordelig zijn voor wit, of voor zwart. Dit zijn de openingen. Na de opening, als de stukken ontwikkeld zijn, begint het middenspel, waarin de spelers proberen door het behalen van kleine voordelen de overmacht in het spel te krijgen. Het aantal zetmogelijkheden is hier zo groot dat er vooraf geen precieze analyses mogelijk zijn. De betere schakers hanteren alleen heuristische vuistregels die betrekking hebben op positiespel, combinatiespel, materiaalsterkte, aanvals- en verdedigingsmogelijkheden en de waarde van stukken in een bepaalde stelling. In deze fase is de speler dus het meest op inzicht, creativiteit en intuïtie aangewezen. Als er over en weer veel stukken zijn geslagen loopt de koning minder gevaar en kan hij een actievere rol gaan spelen; daarmee is de fase van het eindspel aangebroken. Deze fase vereist kalm beraad en een vooruitziende blik, naast kennis van eindspelanalyses.
+
+
+=== DynamiekBewerken ===
+De koning is in zekere zin het enige belangrijke stuk, maar het is zeker niet het sterkste stuk; samen met de mogelijkheid van pionpromotie bepaalt dit de dynamiek van het spel. Terwijl de schaakspeler normaal gesproken streeft naar het veroveren van vijandelijke stukken, vormen koningsaanval en promotie zulke overheersende doelen dat men die kan nastreven onder opoffering van aanzienlijk materiaal.
+
+
+=== Vergelijking met andere spellenBewerken ===
+Een belangrijk aspect van het schaken is dat toeval geen enkele rol speelt in het verloop. Het winnen of verliezen hangt niet af van geluk, maar evenals bij dammen en go volledig van de acties van de spelers. Heel anders is dit bij een spel met dobbelstenen of met kanskaarten zoals Monopoly, waar het toeval vaak de doorslaggevende factor is. Een tweede belangrijk verschil met veel andere spelen is dat de spelers steeds over alle informatie beschikken, dit bijvoorbeeld in tegenstelling tot bridge of Stratego waarbij aanvankelijk de positie van de vijandelijke stukken of kaarten niet volledig bekend is. Hoewel het schaakspel in theorie volkomen uit te rekenen is, is het aantal mogelijke varianten zo groot, dat zowel mens als computer daartoe praktisch (nog?) niet in staat zijn.
+
+
+=== Leren schakenBewerken ===
+Een goede manier om te leren schaken is het volgen van de stappenmethode, die zich vooral concentreert op verdere zetten.
+
+
+== NoterenBewerken ==
+In de schaaksport is het gebruikelijk om de zetten die gespeeld zijn op te schrijven zodat de schaakpartij later nagespeeld en geanalyseerd kan worden. Het noteren van de zetten is verplicht bij officiële partijen; de notatie kan dan ook in voorkomende gevallen door de scheidsrechter gebruikt worden om beslissingen te staven. Aan elk veld op het bord is een coördinaat toegekend: vanuit het standpunt van wit lopen de rijen (horizontaal) van 1 tot en met 8, en de lijnen (verticaal) van a tot en met h. De witte stukken staan bij het begin van de partij dus op de eerste en tweede rij; de zwarte stukken op de zevende en achtste. Op basis hiervan worden de zetten genoteerd.
+
+
+== StrategieBewerken ==
+
+
+=== SpeelfasesBewerken ===
+Een schaakspel bestaat uit drie fases. De opening , middenspel en eindspel. Alle drie de fases hebben hun eigen strategieën.
+
+
+==== OpeningBewerken ====
+De opening van het schaakspel heeft geen duidelijk eind. Tijdens de opening worden de stukken in een stelling gebracht. De veel gespeelde openingen hebben een naam. Zo is er het damegambiet (1.d4 d5 2.c4) van waaruit verder kan worden voortgezet met aangenomen (2. ..., dxc4) of geweigerd damegambiet (een andere zet dan 2. ..., dxc4).
+
+
+==== MiddenspelBewerken ====
+Het middenspel komt na de opening. Men veronderstelt dat het middenspel begonnen is wanneer de eerste aanval op de stelling van de tegenstander is gedaan. Tijdens het middenspel kan er al mat gezet worden voordat het eindspel is begonnen. Het middenspel eindigt vaak wanneer het bord al voor een groot gedeelte leeg is en er nog geen mat is gezet.
+
+
+==== EindspelBewerken ====
+Het eindspel is het uitspelen van de partij, de laatste fase. Vaak wordt er tijdens het eindspel gebruikgemaakt van pionnenloop (pion probeert aan de overkant te komen) en het trachten de vijandelijke koning in de hoek te drijven.
+
+
+=== Strategieën, aanvallenBewerken ===
+Er zijn binnen het schaken verschillende soorten aanvallen. Deze bijzondere aanvallen zijn vaak winstgevender dan normale. Een normale aanval is dat één stuk één ander stuk aanvalt.
+
+
+==== PenningBewerken ====
+Een penning houdt in dat een stuk een ander stuk aanvalt maar dat het aangevallen stuk niet weg kan doordat een stuk of de koning achter hem wordt aangevallen. In het geval van de koning spreekt men dan van een absolute pin omdat het weghalen van het aangevallen stuk een illegale zet zou zijn. Bij een röntgenaanval kan het aangevallen stuk wél weg, maar ten koste van het stuk dat erachter staat. Bijvoorbeeld: een toren valt een loper aan, maar op dezelfde lijn van de loper staat het paard. Nu kan de loper wel weg maar dan wordt het paard geslagen. In het voorbeeld hiernaast is een röntgenaanval te zien.
+
+
+==== VorkBewerken ====
+Een vork houdt in dat een stuk twee andere stukken tegelijk aanvalt, waardoor er twee aanvallen ontstaan door één stuk. Vaak wordt een vork opgelost doordat het waardevolste stuk weg gaat en zo mogelijk het andere aangevallen stuk verdedigt. Wanneer een paard een dubbele aanval pleegt heet dit een paardvork.
+
+
+==== OfferBewerken ====
+Soms laat een speler een stuk 'expres' slaan, en lijkt het of het 'zomaar' wordt weggegeven, waardoor de materiaalverhouding tussen beide spelers in het nadeel lijkt uit te vallen. Is echter hierdoor een betere positie of aanvalsmogelijkheid gecreëerd die wellicht tot winst kan leiden, dan spreekt men van een 'offer'. Het meest spectaculair zijn offers van waardevolle stukken zoals de dame en toren, maar ook pionoffers komen vaak voor. Er wordt dus materiaal geofferd om de partij in iemands voordeel te kunnen beslissen. Een offer kan soms ook worden teruggewonnen in een later stadium van de partij. Men spreekt dan van een schijnoffer.
+Bij een offer in de opening wordt vaak de term gambiet gebruikt.
+
+
+== Varianten van het schaakspelBewerken ==
+Doordat het schaakspel zo veel gespeeld wordt, zijn er onnoemelijk veel varianten bedacht om het spel anders te spelen.
+Soms speelt men in de huiselijke kring volgens licht afwijkende regels omdat men het eenvoudig wil houden of omdat men de spelregels niet precies kent. Veel huisschakers zijn bijvoorbeeld niet op de hoogte van pat of en passant slaan. Een sterkere speler kan een voorgift geven door bij het begin al een pion of stuk weg te laten. Soms wordt afgesproken dat degene die een partij gewonnen heeft, zijn volgende partij met een pion minder speelt.
+Het probleemschaak is in principe geen variant maar een oefening, want de spelregels zijn over het algemeen niet anders. Het zijn eerder opgaven om de strategie te oefenen. De opgave zou eigenlijk moeten zijn "Wat is in deze stelling de beste zet?", maar vaak krijgt de oplosser extra informatie die hij bij een echte partij niet krijgt. Geeft men bijvoorbeeld een opgave als "Wit aan zet wint", dan weet de oplosser vooraf dat er een winnende speelwijze is. Veelvoorkomend is ook de opgave "Wit aan zet wint in drie zetten", en in dat geval weet de oplosser dat hij op de verkeerde weg is als het na drie zetten nog niet mat is, en bovendien heeft hij het probleem niet goed opgelost als hij een matvoering vindt die langer duurt.
+
+
+=== Bekende schaakvarianten met het normale schaakbordBewerken ===
+
+
+==== Dubbel-/doorgeefschaakBewerken ====
+Bij dubbelschaak wordt gespeeld met twee borden en vier spelers. De borden worden zo neergezet dat er aan allebei de kanten een witte en zwarte beginstelling staat. De twee spelers die aan dezelfde kant zitten zijn samen een team. Zodra een van hen een stuk van de tegenstander slaat, geeft hij dat door aan zijn teamgenoot. Deze krijgt nu stukken van zijn eigen kleur. Hij mag deze stukken op een moment naar keuze op zijn bord zetten, maar niet op de plek van een ander stuk. Men mag één stuk per beurt plaatsen. Een pion mag niet op de voorlaatste rij worden gezet en natuurlijk ook niet op de eerste of laatste rij.
+Er is nog een variant op het dubbelschaak die bughouse heet. Bij bughouse mogen de stukken wel met schaak worden ingezet en mogen pionnen ook op de voorlaatste rij worden ingezet.
+
+
+==== GekkenhuisschaakBewerken ====
+Gekkenhuisschaak wordt gespeeld door twee personen op één bord, maar met twee sets stukken. Wanneer je een stuk slaat mag je deze inruilen voor een stuk van je eigen kleur. Dit stuk mag je vervolgens weer inzetten met dezelfde regels als bij dubbelschaak.
+
+
+==== WeggeefschaakBewerken

@@ -1,0 +1,47 @@
+minio della Trasformata di Laplace, della Trasformata di Fourier o della Trasformata zeta.
+Il modello ISU è quello che, tramite lo stato, mette in evidenza maggiori informazioni e proprietà del sistema; si ottiene direttamente dal sistema Ingresso-Uscita mettendone in evidenza le variabili di stato; queste in generale possono non essere univoche, ma la loro scelta è spesso dettata dalla 'ragionevolezza' del caso in oggetto.
+Il modello Ingresso-Uscita ARMA si ottiene invece direttamente come equazione differenziale o integro-differenziale dalle 'equazioni di bilancio' del sistema fisico in oggetto (meccanico, termodinamico, elettrico). In generale da una modellizzazione Ingresso-Uscita differenziale lineare di ordine n si ricavano n equazioni differenziali lineari del primo ordine esprimibili poi in maniera compatta tramite il formalismo matriciale.
+
+
+== Classificazione dei sistemi ==
+Nell'ambito dell'elettronica e della fisica alcune classificazioni dei sistemi sono:
+Sistemi lineari e non lineari
+Sistemi stazionari e non stazionari
+Sistemi statici e dinamici
+Sistemi a costanti concentrate o a costanti distribuite
+Sistemi a tempo discreto o a tempo continuo
+Sistemi a stati discreti o a stati continui
+Sistemi autopoietici o eteropoietici
+Sistemi deterministici o stocastici
+
+
+== Note ==
+^ Ludwig von Bertalanffy, General System Theory: Foundations, Development, Applications, New York, George Braziller, 1968, pp. 295, ISBN 978-0807604533.
+
+
+== Bibliografia ==
+Ludwig von Bertalanffy, 1968, General System Theory. Development, Applications, George Braziller, New York, trad. it. Teoria Generale dei Sistemi, Oscar Saggi Mondadori, 2004.
+Mark Buchanan, Nexus, ISBN 978-88-04-53333-7, Mondadori 2003.
+Steven Johnson, La nuova scienza dei sistemi emergenti, ISBN 88-11-59264-X, Garzanti 2004.
+Gianfranco Minati, 2010, Sistemi: origini, ricerca e prospettive. In: Strutture di mondo. Il pensiero sistemico come specchio di una realtà complessa, (L. Ulivi, Ed.), Il Mulino, Bologna, Italia, pp. 15–46.
+Ruberti, Antonio, and Alberto Isidori. Teoria dei sistemi. Boringhieri, 1979.
+Strassoldo, Raimondo, Sistema e ambiente. Introduzione all'ecologia umana. Angeli, Milano 1977.
+
+
+== Voci correlate ==
+Sistemi complessi
+Complessità
+Oggetto (informatica)
+Entità
+Identificazione dei sistemi
+Pensiero sistemico
+Dinamica dei sistemi
+Design sistemico
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su teoria dei sistemi
+
+
+== Collegamenti esterni ==

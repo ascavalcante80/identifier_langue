@@ -1,0 +1,285 @@
+QRpedia è un sistema Web mobile per smartphone che, tramite codici QR, mette a disposizione degli utenti collegamenti a voci di Wikipedia nella propria lingua. Rispetto ai normali codici QR (che permettono di collegare direttamente qualsiasi URI) il sistema QRpedia aggiunge ulteriori funzionalità. QRpedia come Historypin e PlaceBooks è una tecnologia sociale di condivisione di contenuti che si differenzia dalle altre per il suo approccio guidato dalle politiche comunitarie di Wikipedia. Il codice sorgente del sistema è liberamente riutilizzabile sotto la licenza MIT.
+Il sistema QRpedia è stato ideato da Roger Bamkin, un volontario di Wikipedia, ex-presidente di Wikimedia UK, ed è stato presentato al pubblico nel mese di aprile 2011. È in uso presso le più svariate istituzioni nel mondo tra cui i musei di Regno Unito, Russia, Stati Uniti, Spagna, ma anche fuori da essi dove il movimento Occupy lo utilizza per i suoi manifesti. Molte città hanno dato vita a progetti di utilizzo del mezzo QRpedia e durante il 2012 Monmouth, in Galles, è diventata la prima cittadina del mondo coperta dal sistema grazie al progetto MonmouthpediA. Molte altre città si apprestano a seguire l'esperienza di MonmouthpediA e per questo sono nati i progetti GibilterrapediA, FreopediA, JoburgpediA, TartupediA, UmepediA e SestopediA.
+A gennaio 2012 QRpedia è stato dichiarato il più innovativo dei quattro progetti (su 79 partecipanti) nel campo della telefonia mobile nel Regno Unito del 2011 dalla Smart UK Project. È quindi stato scelto per competere al Mobile World Congress di Barcellona, il 29 febbraio 2012; i criteri sono stati: «essere efficace, facile da capire e con un potenziale impatto globale».
+
+
+== Origini ==
+
+QRpedia è stata ideata da Roger Bamkin, un volontario di Wikipedia, ex-presidente di Wikimedia UK, e Terence Eden, un consulente Web per dispositivi mobili, ed è stata presentata il 9 aprile 2011 durante il Backstage Pass del Derby Museum, istituzione facente parte del GLAM / Derby, collaborazione tra il museo stesso e Wikipedia. Durante l'evento sono stati creati oltre 1.200 articoli di Wikipedia in diverse lingue.
+Il nome del progetto è stato creato combinando attraverso una crasi le iniziali "QR" da Quick Response e "pedia" da "Wikipedia". Il codice sorgente del progetto è liberamente riutilizzabile sotto licenza MIT.
+Dal 16 novembre 2013 la proprietà del codice è passata da Terence Eden e Roger Bamkin a Wikimedia UK. A proposito del passaggio, il cofondatore Terence Eden afferma che «Per quanto mi sarebbe piaciuto che QRpedia fosse stata un'uscita della Silicon Valley con miliardi di dollari svolazzanti in giro - abbiamo convenuto che la cosa più sensata da fare sarebbe stata quella di concedere tutti i diritti di PI a Wikimedia UK e farveli restare perennemente.» Il trasferimento del sito e di tutti i servizi connessi richiederà del tempo in più ma il sorgente rimarrà aperto.
+
+
+== Funzionamento ==
+
+Quando un utente esegue la scansione di un codice a barre QRpedia sul proprio cellulare, il dispositivo decodifica il codice a barre in un URL utilizzando il nome del dominio "qrpedia.org" seguendo un percorso la cui fine è il titolo di una voce di Wikipedia, e invia una richiesta per la voce specificato nell'URL al server QRpedia. Trasmette inoltre l'impostazione della lingua del dispositivo.
+Il server QRpedia utilizza quindi l'API di Wikipedia per determinare se esiste una versione della voce richiesta nella lingua utilizzata dal dispositivo: in caso affermativo l'utente viene indirizzato verso di esso, in "Wikipedia mobile". Se non ci sono traduzioni disponibili della voce richiesto, il server di QRpedia offre una scelta di lingue disponibili per il titolo della voce o delle traduzioni da Google. In questo modo, un singolo codice QR è in grado di fornire la stessa voce in molte lingue. QRpedia registra anche le statistiche di utilizzo.
+Gli URL nel formato di QRpedia possono essere utilizzati anche al di fuori dei codici QR: ad esempio, l'indirizzo http://en.wikipedia.org/wiki/Wikipedia, se tradotto in http://en.qrwp.org/Wikipedia, una volta visitato attraverso un browser in lingua italiana porta a http://it.m.wikipedia.org/wiki/Wikipedia.
+
+
+== Diffusione ==
+
+
+=== Temporale ===
+
+Ad ottobre 2011 QRpedia è usata presso:
+Museo dei bambini di Indianapolis (Stati Uniti d'America).
+Derby Museum and Art Gallery (Regno Unito).
+Fondazione Joan Miró (Spagna), compresa una mostra itinerante presso la Tate Gallery.
+Archivi nazionali (Regno Unito), che comprendono 13 codici QRpedia.
+A novembre 2011 QRpedia è stato utilizzato a:
+San Pietroburgo (Russia) grazie all'iniziativa di Wikipedia e Wikimedia RU "Wiki loves monuments" in un museo della città.
+A dicembre 2011:
+È iniziato il progetto MonmouthpediA nella cittadina di Monmouth in Galles, promosso da Wikimedia UK.
+QRpedia incomincia ad essere usata anche al di fuori dei musei e delle gallerie: l'Occupy Movement la usa sui manifesti della campagna di protesta.
+A gennaio 2012 è iniziato ad utilizzare nello:
+Zoo di Sofia (Bulgaria) che successivamente alla sponsorizzazione della Wikimedia Foundation posiziona nuovi cartelli informativi per i visitatori dello zoo con codici QRpedia diventando il primo giardino zoologico al mondo ad utilizzarli.
+
+A febbraio 2012 QRpedia è stato adottato da:
+Il Museo nazionale dell'elaborazione (Regno Unito)
+A marzo 2012 i codici a risposta rapida di Wikipedia sono stati posizionati:
+Nella chiesa di San Paolo a Birmingham (Regno Unito); è la prima chiesa che ospita il sistema QRpedia.
+Ad aprile 2012:
+Le Gallerie del museo di giustizia, nei pressi di Nottingham (Regno Unito), stanno iniziando la sperimentazione della nuova tecnologia per dispositivi mobili (QRpedia).
+A maggio 2012:
+La chiesa di San Giacomo a Sydney (Australia) ha adottato i codici QRpedia nella cosiddetta cappella dei Bambini.
+Nel Museo de La Plata di La Plata (Argentina) i reperti scientifici sono visibili e accessibili tramite QRpedia.
+A giugno 2012:
+Nel Museo dello sport a Tartu (Estonia) vengono utilizzati dall'8 del mese 30 codici QRpedia come primo passo del progetto TartupediA.
+Il Museo filetico di Jena ha iniziato l'affissione dei codici in occasione della "Lunga Notte della Scienza" (Long Night of Sciences).
+Anche il Museo di storia naturale di Berlino, per l'occasione dello stesso evento, ha installato i QRpedia nei propri spazi.
+A luglio 2012:
+Il Cimitero del Congresso, Washington, si è munito dei codici QRpedia per attrarre più visitatori al fine di far conoscere tutte le personalità più importanti lì sepolte.
+Lo stato di Gibilterra ha lanciato il suo progetto "GibilterrapediA" che mira a far diventare Gibilterra la prima città mondiale di Wikipedia. Verranno aggiunti per ogni monumento e opera trattata su Wikipedia il corrispondente codice QRpedia.
+Ad agosto 2012:
+QRpedia viene adoperato per far conoscere ai clienti del The Bartons Arms (un bar-pub), Birmingham, la storia del locale dalla sua fondazione nel 1901.
+
+A settembre 2012:
+Il distretto municipale Praga 10, Praga, (Repubblica Ceca) ha creato l'iniziativa QRpedia a Praga 10 in circa 10 dei suoi monumenti.
+A novembre 2012:
+Il Museo di storia d'Amburgo ha aperto le porte ai codici QRpedia.
+A dicembre 2012:
+La prima cooperazione fra GLAM e Wikimedia Spagna porta il Museo della scienza di Valladolid a dotarsi di codici QRpedia e a battezzarli "Stelle della Scienza".
+A febbraio 2013:
+Il 1° del mese è avvenuto il lancio del progetto triennale (2013-2016) JoburgpediA finalizzato a far diventare la città di Johannesburg in Sudafrica la prima MetropediA al mondo tramite l'uso dei QRpedia.
+È stato lanciato anche il progetto denominato TartupediA da parte di Wikimedia Estonia volto a pedizzare ogni angolo enciclopedico della città di Tartu.
+A maggio 2013:
+Il 26 è avvenuto il lancio del progetto FreopediA finalizzato a far diventare la cittadina di Fremantle in Australia occidentale la prima wikicittadina dell'emisfero australe tramite l'uso dei codici a risposta rapida di Wikipedia.
+
+Il Museo di storia naturale di Berna ha iniziato a sperimentare, nell'ambito del Progetto pilota di Berna con metodo olistico, l'usabilità dei QRpedia in 20 diorami dei propri spazi.
+Il Museo della Slesia a Opava in Repubblica Ceca ha fatto installare sia nella permanente che nella temporanea più di 50 codici.
+La Nuova galleria d'arte di Walsall utilizza il sistema QRpedia per le sue opere d'arte.
+A giugno 2013:
+La Biblioteca reale dei Paesi Bassi a L'Aia utilizza i QRpedia.
+A luglio 2013:
+È il giardino botanico dell'Università di Graz a introdurre i codici QRpedia su ogni pianta. Quasi 300 voci di Wikipedia sono state compilate e revisionate dalla comunità di biologi per questo evento voluto da Wikimedia Austria.
+A ottobre 2013:
+Il Museo Vasa di Stoccolma, Svezia ha dato modo ai codici di essere utilizzati all'interno di un digitavolo tattile per far conoscere i propri beni storici.
+A novembre 2013:
+La città di Sesto San Giovanni (Italia) ha dato il via al progetto SestopediA, sulla scia di MonmouthpediA.
+
+A gennaio 2014:
+L'Ufficio del turismo e l'Ufficio dei Beni culturali di Brema hanno creato un percorso turistico a Brema, Germania denominato "Ogni edificio narra una storia - la città vecchia e lo Schlachte" (in tedesco: Bauwerke erzählen Geschichte - Altstadt und Schlachte) che si districa tra i 40 edifici più importanti del centro-città. Per ogni edificio è stato creato un pannello informativo, affisso all'entrata, contenente un codice QRpedia che rimanda alla voce dell'edificio e un codice QR che rimanda all'intero itinerario.
+A febbraio 2014:
+Prenderà avvio il progetto UmepediA volto a migliorare la presenza digitale di Umeå, Svezia e a renderla una cittadina QRpedia nel corso del 2014 quando diverrà la Capitale europea della cultura.
+
+
+=== Territoriale ===
+Anche se QRpedia è nato nel Regno Unito è utilizzato anche in altri paesi che ne hanno diffuso il sistema:
+Argentina
+La Plata: Museo de La Plata
+
+Australia
+Fremantle: FreopediA
+Sydney: chiesa di San Giacomo
+
+Austria
+Graz: Giardino botanico dell'Università di Graz
+
+Bulgaria
+Sofia: Zoo di Sofia
+
+Estonia
+Tartu: Museo dello sport estone
+Tartu: TartupediA
+
+Germania
+
+Amburgo: Museo di storia
+Berlino: Museo di storia naturale
+Brema: QRpedia a Schlachte
+Jena: Museo filetico
+
+Gibilterra
+Gibilterra: GibilterrapediA
+
+Italia
+Sesto San Giovanni: SestopediA
+
+Paesi Bassi
+L'Aia: Biblioteca reale
+
+Regno Unito
+Birmingham: chiesa di San Paolo
+Birmingham: The Bartons Arms
+
+Bletchley: Museo nazionale dell'elaborazione
+Derby: Derby Museum and Art Gallery
+Londra: Archivi nazionali
+Monmouth: MonmouthpediA
+Nottingham: Gallerie del museo di giustizia
+Walsall: Nuova galleria d'arte
+
+Repubblica Ceca
+Opava: Museo della Slesia
+Praga: QRpedia a Praga 10
+
+Russia
+San Pietroburgo: Wiki Loves Monuments
+
+Spagna
+Barcellona: Fondazione Joan Miró
+Valladolid: Museo della scienza
+
+Stati Uniti
+Indianapolis: Museo dei bambini di Indianapolis
+New York: Occupy Movement
+Washington: cimitero del Congresso
+
+Sudafrica
+Johannesburg: JoburgpediA
+
+Svezia
+Stoccolma: Museo Vasa
+Umeå: UmepediA
+
+Svizzera
+Berna: Museo di storia naturale
+
+
+== Progetti ==
+
+
+=== QRpedia a Praga 10 ===
+A Praga, il distretto municipale Praga 10 ha adottato i codici QR per una buona parte (circa 10 - 15) dei suoi monumenti.
+Nella Repubblica Ceca è la prima volta che appaiono questi codici e ciò è avvenuto grazie al Comune di Praga che si è impegnato a sviluppare i suoi progetti sulla base delle proposte dei cittadini. I primi codici sono stati utilizzati in occasione delle Giornate europee del patrimonio. Praga 10 funge da esempio per altre parti della città e altre città per come attrarre nuovi turisti e rivalutare la città, quasi gratuitamente.
+Il vicesindaco Ivana Cabrnochová afferma inoltre che il progetto «è stato ispirato dall'iniziativa MonmouthpediA del Galles» e che nell'utilità di questa iniziativa, «la municipalità sta spingendo i cittadini a contribuire alle voci di Wikipedia sui monumenti del proprio quartiere in modo da fornire più informazioni dettagliate ai cittadini e turisti».
+
+
+=== MonmouthpediA ===
+La cittadina gallese di Monmouth, nell'ambito del progetto MonmouthpediA di Wikipedia, in progetto da dicembre 2011, ma iniziato ufficialmente solo il 19 maggio 2012, utilizza i QRPedia in maniera molto originale ed è stata dichiarata per questo «la prima Pediacittadina del mondo». MonmouthpediA funge da battistrada per molti altri progetti di simili vedute come GibilterrapediA, FreopediA, JoburgpediA, TartupediA e più recentemente per SestopediA.
+Il progetto rappresenta l'innovazione sociale e mette in evidenza il ruolo della comunità di base e dei privati nella creazione dell'economia digitale della loro terra (come residenti, ex-residenti, visitatori, lavoratori), nella divulgazione delle loro conoscenze e nella trasposizione delle prospettive che rivolgono su di essa. In quanto tale, quest'innovazione fornisce indicazioni per l'IdC (Internet delle Cose) che sottolinea anche quanto lontano è andata la fase sociotecnica di Internet e, potenzialmente, quanto ancora dovrà andarvi.
+Sono stati utilizzati 4 tipi di QRPedia a seconda dell'ambito. Non saranno in bianco e nero (come di default), ma a colori, per differenziarsi dagli altri codici QR presenti nel luogo. Per gli edifici simbolo della cittadina e luoghi all'aperto, esposti alle intemperie, è stato utilizzato un tipo di codice QRPedia posto su una grande targa in ceramica o in metallo. Per flora e fauna e altri aspetti non legati direttamente al paese di Monmouth sono state utilizzate targhe di plastica o metallo. I codici QRpedia sono stati anche affissi all'interno di edifici e per le opere esposte nei musei. I codici e le placche QRpedia fungono da portale tra il mondo fisico e quello digitale poiché MonmouthpediA è riuscita a creare nuove forme di connettività comuni miscelando appunto il mondo fisico e digitale e contribuendo all'innovazione sociale tramandando le conoscenze genuine e orali di una piccola cittadina in tutto il mondo. Nel progetto MonmouthpediA ci si propone inoltre di descrivere anche gli aspetti di vita quotidiana del borgo, sono stati affissi i QRPedia anche sulle vetrine dei negozi per dare informazioni sulle diverse professioni dei commercianti. Lo scopo ultimo del progetto è quello di ricreare la cittadinanza attraverso le voci di Wikipedia. Per questo gli organizzatori del progetto GLAM affermano: «Miriamo ad avere 1.000 codici QRpedia a Monmouth entro aprile inclusi i musei».
+
+
+==== Inizi ====
+L'idea di Monmouthpedia è stata concepita alla fine del 2011 da John Cummings, un residente di Monmouth che l'ha vista come un'innovazione sociale sostenuta dalla premessa filosofica che la conoscenza ci fornisce un quadro generale delle cose permettendoci di apprezzare di più il nostro ambiente. Successivamente Cummings ha partecipato ad un evento TEDx a Bristol in cui si è discusso del sistema QRpedia in uso al Derby Museum and Art Gallery. Cummings ha fondato il progetto con il presidente di Wikimedia UK, Roger Bamkin, cofondatore di QRpedia. Il progetto è stato successivamente sostenuto dal Monmouthshire Council, e il consiglio dello Shire Hall (ufficio dell'amministrazione della contea di Monmouth) ha successivamente annunciato l'intenzione di instaurare un presidio wikipediano per aiutare i visitatori a contribuire al progetto.
+Intento iniziale di Monmouthpedia era di avere 1.000 codici QR entro aprile 2012 e che ogni voce avesse una corrispondente targa in ceramica decorata con un codice. A maggio 2012 la pagina del progetto ha segnalato 712 voci nuove e migliorate in 25 diverse lingue. Per chi non parla inglese, ove disponibile, vengono autovisualizzate le voci in altre lingue in base alla lingua impostata dall'utente sul proprio cellulare. Al momento del lancio del progetto, erano già disponibili circa 500 voci nelle altre lingue grazie alla collaborazione di redattori stranieri. Oltre a questo il progetto copre oltre 250 voci già esistenti su argomenti relativi a Monmouth. Nello stesso periodo, oltre 1.000 fotografie sono state caricate.
+
+La Biblioteca di Monmouth è diventata la prima biblioteca al mondo ad aggiungere i QRpedia ai propri libri. Gli utenti con cellulari intelligenti possono ora trovare immediatamente le voci di Wikipedia sul libro o sul suo autore. La priorità è stata data alla letteratura locale e ai titoli gallesi, ma recenti acquisizioni sul Giubileo di diamante di Elisabetta II del Regno Unito e sulle Olimpiadi sono state anch'esse codificate in QR.
+
+
+==== Accoglienza ====
+Glyn Moody, scrivendo per Techdirt, mette in dubbio che Monmouthpedia sia il futuro di Wikipedia. Egli ha descritto il progetto come la creazione di «un tipo di frattale Wikipedia» paragonandolo al film del 2010 Inception, che crea potenzialmente una «Wikipedia dentro una Wikipedia dentro una Wikipedia». Pochi giorni dopo il lancio, l'iniziativa aveva portato a un vasto interesse. Stevie Benton da Wikimedia UK ha riferito che la pagina di progetto era stato vista 10.000 volte. Benton ha anche riferito che erano giunte domande in merito al progetto da parte di città in Norvegia, Gran Bretagna, Francia, Scozia e Texas. Una riprova del successo del progetto è stato l'aumento del turismo nella cittadina oltre che la significativa attenzione dei mass media internazionali per una piccola città di confine gallese. L'iniziativa ha ben presto attirato l'interesse di Gibilterra, dove il progetto GibilterrapediA è stato lanciato il 13 luglio 2012.
+
+Jimmy Wales, cofondatore di Wikipedia, è entusiasta dell'iniziativa: «Far rivivere un'intera cittadina su Wikipedia è qualcosa di nuovo ed è un testamento alle lungimiranti persone di Monmouth, a tutti i volontari e alla squadra di Wikimedia UK. Non vedo l'ora di vedere altri paesi e città fare la stessa cosa».
+Il Monmouthshire Council ha annunciato a luglio 2012 che sta progettando di estendere l'iniziativa ad altre parti della zona dell'autorità cittadina, iniziando con Chepstow e Raglan. Un nuovo messaggio, con l'obiettivo di far gestare Monmouthshirepedia, è stato pubblicizzato dal Monmouthshire Council a novembre 2012.
+A Monmouthpedia è stato assegnato il premio "Excellence in Marketing" dal Monmouthshire Business Awards nel mese di ottobre 2012. La Wynndel Property Management, sviluppatrice di nuove abitazioni a "Severn Quay" a Chepstow e sponsor del premio, ha elogiato Monmouthpedia sul suo sito, notando che «il valore pubblicitario per la sola Monmouth è stato stimato 2.12 milioni di sterline», e prevedendo che «ne beneficeranno anche la proprietà di Chepstow, insieme con i nuovi sviluppi di Chepstow e i nuovi sviluppi nel Monmouthshire» quando un progetto simile prenderà avvio a Chepstow.
+
+
+=== GibilterrapediA ===
+GibilterrapediA è un progetto del governo di Gibilterra, un territorio britannico d'oltremare nel sud della penisola iberica, per migliorare la copertura degli argomenti relativi a Gibilterra su Wikipedia. Si basa su MonmouthpediA, un progetto simile che mira a far rivivere la cittadina di Monmouth nel sud del Galles sulla grande Wikipedia. Il progetto Gibilterrapedia è stato annunciato nel Luglio 2012 dal governo di Gibilterra.
+Tra Settembre e Ottobre 2012 il progetto è divenuto oggetto di una controversia pubblica sul ruolo del comitato del turismo di Gibilterra nel progetto, infatti le accuse che piovono sono in primo luogo che il progetto sia stato utilizzato per promuovere gli interessi commerciali del comitato del turismo e in seconda accusa che vi sia un conflitto di interessi derivante da un contratto di consulenza a pagamento tra il governo di Gibilterra e un fiduciario di Wikimedia UK.
+
+
+==== Progetto ====
+
+
+===== Scopo e struttura =====
+
+Secondo il sito di Gibilterrapedia, il progetto «mira a coprire ogni singolo posto notevole, persona, artefatto, pianta e animale di Gibilterra nel maggior numero di lingue possibili.» Il suo campo di applicazione si estende anche allo stretto di Gibilterra, i comuni spagnoli lungo la costa della Baia di Gibilterra, la costa settentrionale del Marocco e la città spagnola di Ceuta, sulla costa africana di fronte a Gibilterra. Il progetto è strutturato come un WikiProgetto, coinvolgendo redattori volontari, il Governo di Gibilterra, il Comitato del Turismo di Gibilterra, il Museo di Gibilterra e Roger Bamkin (ex amministratore di Wikimedia UK).
+
+
+===== Formazione =====
+Il progetto Gibilterrapedia è stato annunciato nel Luglio 2012 dal Governo di Gibilterra. L'idea per Gibilterrapedia originò con Tyson Lee Holmes, un Gibilterriano che contribuisce a Wikipedia. Holmes lesse di Monmouthpedia e credette che Gibilterra potesse prendere la scia di un simile progetto. Holmes contattò Stewart Finlayson del Museo di Gibilterra e Finlayson, quindi fu contattato dai rappresentanti di Wikimedia UK. Gli organizzatori di Monmouthpedia vennero invitati a Gibilterra per discutere la proposta.
+
+Il Governo di Gibilterra vedeva Gibilterrapedia come un mezzo per promuovere il turismo, ma è stato il Comitato del Turismo di Gibilterra a svolgere un ruolo chiave nella formazione del progetto. Il Ministro del Turismo di Gibilterra, Neil Costa, ha detto a un quotidiano gallese, «Noi come governo abbiamo sempre detto che occorre essere reattivi e pronti a cogliere le opportunità come e quando arrivano.» Costa ha organizzato incontri a Gibilterra per gli utenti di Wikipedia, che comprendono tour guidati dei siti storici da parte del personale del Museo di Gibilterra.
+Il Governo era inizialmente preoccupato riguardo al fatto che i redattori di Wikipedia «non avendo a cuore gli interessi di Gibilterra, possano scrivere voci svisate o deleterie.» Tali preoccupazioni sono state fugate dalle rassicurazioni di Wikimedia UK. Un funzionario del governo ha detto al Gibraltar Chronicle: «Le persone di Wikipedia UK ci hanno garantito che Wikipedia ha un elemento di autoregolamentazione, ma noi vogliamo incoraggiare molti volontari locali a tenere d'occhio ciò che succede, e se le cose diventano offensive, allora è molto facile per loro tornare alla pagina di prima in pochi secondi.»
+A Giugno 2012 il Governo di Gibilterra ha firmato una lettera d'intenti con Roger Bamkin (uno dei creatori di Monmouthpedia e direttore di Wikimedia UK) e John Cummings (un redattore di Wikipedia). Bamkin ha fornito la consulenza sulla produzione di codici QR e la formazione per i collaboratori del progetto. Ha anche detto al Western Mail a Luglio 2012 che ha scelto Gibilterra come il suo progetto successivo «dopo esser stato inondato di inviti dai luoghi di tutto il mondo nella speranza di essere la seconda cittadina Wikipedia.»
+
+
+===== Seminari formativi =====
+
+Sono stati pianificati a Gibilterra a fine luglio 2012 dei seminari per facilitare i contributi a Wikipedia e più specificamente a Gibraltarpedia. Tyson Lee Holmes, coordinatore di Gibilterrapedia, ha detto alla Gibraltar Broadcasting Corporation che il progetto spera «di ottenere persone interessate a redigere le pagine, tra le altre cose, di periodi storici, costruzioni prominenti, biografie.»
+
+
+===== Piani d'uso dei codici QR =====
+Il progetto ha in programma di utilizzare i codici QR (codici a risposta rapida) via QRpedia per fornire accesso multilingue alle voci di Wikipedia che riguardano argomenti importanti di Gibilterra. Una volta implementato, i codici avranno lo scopo di consentire ai visitatori di recuperare le voci di Wikipedia nelle loro lingue predefinite utilizzando i loro cellulari intelligenti per leggere i codici QR. Il progetto prevede la posa di placche contenenti i QRpedia sulle o nelle costruzioni significative di Gibilterra. Roger Bamkin ha descritto il sistema come la "tecnologia del colpetto" poiché consente ai visitatori di "colpicchiare" un codice QRpedia tramite telefono cellulare.
+
+
+==== Controversia ====
+
+
+===== Articolo della BBC =====
+Il 18 settembre 2012, BBC News ha pubblicato un rapporto su Gibilterrapedia. La BBC ha riferito che il turismo è «una grande parte dell'economia di Gibilterra» e ha notato che le autorità di Gibilterra erano «pronte a cogliere ogni opportunità per aumentare il cespite.» La BBC ha in ogni caso riferito che i volontari avevano prodotto «fino a 20 articoli al giorno in varie lingue» e che Roger Bamkin era a Gibilterra per la settimana «in cerca di più persone pronte a contribuire con foto, mappe e informazioni sulla storia del territorio».
+
+
+===== Accuse di conflitto d'interessi =====
+
+Inoltre, il 18 settembre 2012 un articolo di CNET asserisce che Bamkin «sembrava adoperare la funzione "Lo sapevi che…" della pagina principale di Wikipedia e le risorse dell'iniziativa GLAM - WikiProgetto di Wikipedia» per promuovere «il progetto del suo cliente». Fox News ha riportato che Gibilterra «era apparsa nell'agognata sezione "Lo sapevi che…" della pagina principale di Wikipedia diciassette volte in Agosto […] dando a Gibilterra un invidiabile centinaio di milioni di visite al mese.» Dappoi si è sviluppato un litigioso dibattito intorno al rapporto di consulenza a pagamento tra Bamkin e il Governo di Gibilterra che ha portato ad una copertura critica di molti media, incluso Forbes, Le Monde, El Pais,Berliner Zeitung, International Business Times, The Daily Telegraph, Frankfurter Rundschau, PC World, Tribune de Genève, 20 minuti, e Computerworld.
+La rivista Slate ha sintetizzato le preoccupazioni di alcuni come segue:
+Notando che la controversia è stata rivelata internamente da parte dei redattori di Wikipedia, Forbes ha osservato che «l'incidente rafforza il potere della comunità di Wikipedia di monitorare se stessa e autodisciplinare le violazioni alle sue norme.» Brandchannel ha scritto sulla controversia e ha notato che il pagamento di soldi ai redattori di Wikipedia rappresenta «la più grande minaccia al marchio [Wikipedia] vista fin'oggi.» Il sito inglese The Register ha scritto sulle preoccupazioni che lo «scandalo che coinvolge un gruppo affiatato di amici e colleghi di lavoro che gestiscono Wikimedia UK può mettere in pericolo il suo status di beneficenza.»
+
+
+===== Reazioni alla controversia =====
+
+Vari organi di stampa hanno scritto sulla reazione alla controversia del fondatore di Wikipedia Jimmy Wales. Wales ha osservato che «è altamente inappropriato che un membro del consiglio, o chiunque altro con un ruolo ufficiale di qualunque tipo in un ente benefico associato a Wikipedia, si faccia pagare dai clienti in cambio di assicurare una posizione vantaggiosa sulla prima pagina di Wikipedia o da un'altra parte.»
+In un'affermazione di dichiarazioni di interessi a Wikimedia UK, Bamkin ha negato il coinvolgimento in qualsiasi modifica a pagamento. Bamkin ha osservato: «Alla fine di Giugno Roger ha firmato un contratto con il Governo di Gibilterra. Non c'è nessun noto CDI [conflitto di interessi] come pure WMUK [Wikimedia UK] non ha relazioni con questo Governo, ma si spera che possano svilupparsi. […] Il contratto prevede la fornitura di formazione e la creazione di placche QRpedia - non c'è nessuna modifica a pagamento coinvolta.»
+Il 20 settembre 2012 Wikimedia UK ha annunciato che Bamkin si era dimesso da amministratore. Chris Keating, il presidente di Wikimedia UK, ha dichiarato che «Roger si è sempre comportato con franchezza e onestà per quanto riguarda i suoi interessi commerciali. […] Tuttavia insieme abbiamo raggiunto la decisione che è meglio se Roger faccia un passo indietro dal Consiglio, quindi il Consiglio ha accettato le sue dimissioni.»
+Il 21 settembre 2012 il Gibraltar Chronicle ha pubblicato un comunicato del Governo di Gibilterra affermando che non vi fosse alcuna base per l'affermazione che essa avesse pagato Bamkin per aumentare il profilo di voci su Gibilterra. Il Governo ha osservato che Bamkin ha continuato a fornire consulenza sulla produzione di QRpedia e sulla formazione ai contributori volontari al "sito Wikipedia di Gibilterra". Il quotidiano ha anche osservato che il Governo «mira a creare il proprio sito Wikipedia di Gibilterra» e che aveva identificato Bamkin come una persona che «giocava un ruolo di primo piano nello sviluppo» dell'originale Wikipedia.
+Sempre il 21 settembre 2012 Wikimedia UK ha pubblicato un comunicato stampa in cui dichiarava di non avere legami formali con Gibilterrapedia. Pur esprimendo il desiderio di fornire un supporto formale a Gibilterrapedia se un protocollo d'intesa possa esser raggiunto con il Governo di Gibilterra, «che definisce obiettivi e finalità comuni», il comunicato ha dichiarato che la beneficenza non ha finanziato il progetto e ha osservato che il suo «solo coinvolgimento materiale è stato quello di fornire alcuni volantini "come modificare Wikipedia" che sono il tipo di cose che faremmo per qualsiasi altra istituzione.»
+
+
+===== Indagine della Wikimedia Foundation =====
+
+Il 2 ottobre 2012 il Daily Telegraph ha riferito che, a seguito della controversia di Gibilterrapedia, Wikimedia UK aveva «proibito l'elaborazione di alcune donazioni» e affrontato «un'indagine su presunti conflitti di interesse». Il vicepresidente della Wikimedia Foundation ha dichiarato che l'indagine è stata provocata da «una serie di attività (altamente) irregolari», ma successivamente ha precisato che intendeva dire «abbastanza insolite da giustificare ulteriori revisioni» più che improprie. Il 7 febbraio 2013 il rapporto è stato stilato e pubblicato individuando Gibilterrapedia come uno degli incidenti che hanno portato all'indagine. Fra le scoperte è venuto fuori che WMUK non poteva gestire in modo appropriato tali conflitti di interesse, e che l'accettazione di Bamkin delle spese di consulenza forniva il pretesto per danneggiare la reputazione dell'ente benefico.
+
+
+===== Restrizioni =====
+Jimmy Wales ha suggerito una moratoria di cinque anni sui contenuti relativi a Gibilterra che appaiono sulla pagina principale di Wikipedia, ma l'idea è stata respinta dalla comunità di Wikipedia, che invece ha accettato le linee guida che limitano la frequenza di apparizione di argomenti relativi a Gibilterra nella pagina principale di Wikipedia, limitando anche il numero di voci al giorno e richiedendo a due revisori di verificare la presenza di problemi di conflitto d'interesse o promozionalismo. Tali norme restrittive sono state revocate a Settembre 2013.
+
+
+=== FreopediA ===
+FreopediA è un progetto emergente, lanciato il 26 maggio 2013 volto a installare i codici QRpedia in vari siti intorno a Fremantle, Australia Occidentale. Il progetto prende spunto da MonmouthpediA, progetto sviluppato nel corso del 2012. Si tratta di una collaborazione tra la Fremantle Society e Wikimedia Australia patrocinato dalla Città di Fremantle, State Records Office e sponsorizzato dalla Fremantle Business Improvement District (BID) e altre organizzazioni di Fremantle. Il lancio ufficiale del progetto ha avuto luogo presso il complesso W D Moore & Co Warehouse il 26 maggio 2013 durante il Fremantle Heritage Festival.
+In occasione del lancio del progetto il sindaco di Fremantle, Brad Pettitt, ha detto che «chiunque con un telefono intelligente sarà in grado di farsi un tour guidato di Fremantle con le informazioni disponibili a portata di mano» e il coordinatore del progetto Roel Loopers ha aggiunto che «Fremantle ha una storia così ricca e interessante che vogliamo per assicurarci che quante più persone possibili possano godere nello scoprire di più su Fremantle».
+L'appellativo FreopediA riflette sia il nome gergale di Fremantle che la tradizione dell'aggiunta del suffissoide "-pediA" a progetti di questa natura. Finora comunque sono già state installate 70 placche che porteranno ad un aumento del turismo e traffico su Wikipedia.
+
+
+=== SestopediA ===
+Nel 2013 il progetto SestopediA è stato messo in gestazione dalla città di Sesto San Giovanni, in collaborazione con Wikimedia Italia e l'Associazione Lavoro e Integrazione ONLUS e sotto il patrocinino del Comune di Sesto San Giovanni, con l'intento di far conoscere la storia e gli aspetti reconditi della città tramite la pedizzazione. Il progetto è nato da un'idea della regista e sceneggiatrice Giusi Castelli.
+Il progetto si ispira all'esperienza di MonmouthpediA e chiede agli abitanti della città «di essere i redattori di questo programma di ricostruzione della storia e della memoria collettiva a partire dalle storie e memorie dei singoli» come afferma Rita Innocenti, (assessore alla cultura di Sesto San Giovanni) che continua dicendo: «Ci piace pensare a una storia di Sesto, plurale e composita, come un tessuto fatto di tante piccole storie, memorie, racconti, ricordi, immagini magari sentiti raccontare o conservati dal nonno, dal professore a scuola, dalla vicina di casa».
+Il progetto si comporrà di quattro fasi. Nella prima la ricerca di informazioni per realizzare voci su Wikipedia, la creazione di un repertorio di video storici, la creazione del logo, la creazione di voci in alcune altre lingue di Wikipedia. Nella seconda fase verranno inoltre organizzate "tavole rotonde" per far conoscere l'iniziativa e per ricercare investitori. Nella terza fase si sensibilizzerà ogni cittadino a diventare "redattore volontario" di Sestopedia e si raccoglieranno testimonianze orali da parte di tutti coloro che non hanno la possibilità di utilizzare internet. Inoltre verranno revisionate le voci già create e create voci derivanti dalle testimonianze orali. Nell'ultima e quarta fase, invece, verranno posate le targhe QRpedia relative alle voci create da tale iniziativa.
+
+
+=== Progetto pilota di Berna ===
+Il progetto pilota di Berna, Svizzera, è un progetto finalizzato a migliorare l'usabilità dei codici QRpedia all'interno di spazi museali. È stato lanciato a maggio 2013 e ha previsto l'installazione di 20 QRpedia in 20 diorami del Polo museale di storia naturale di Berna. Il progetto si basa è stato svolto con un approccio olistico. Sono stati effettuati i primi test su 30 visitatori che sono stati intervistati per tarare il progetto pilota e ancora; dopo la taratura del progetto sono state effettuate verifiche d'impatto delle modifiche che hanno portato al consolidamento della tecnica progetto pilota e all'avvio del sondaggio.
+Sono emersi i vantaggi d'uso del sistema:
+La maggior parte dei visitatori apprezzano l'utilizzo del sistema del Codice-QR per ricevere più informazioni in particolare perché nel museo sono fornite informazioni abbastanza scarse.
+
+Le reazioni d'uso al sistema per il trasferimento delle conoscenze sono state positive; i genitori hanno per esempio trovato le informazioni da Wikipedia per dare ulteriori spiegazioni ai loro figli.
+La quantità di tempo passato dai visitatori nella mostra aumenta grazie con l'uso dei CodiciQR.
+Il guadagno della mostra in attrattività deve ringraziare i QRpedia.
+Tuttavia sono emersi anche degli svantaggi:
+La complessità della chiave WLAN è stata una barriera per utilizzare il sistema (la WLAN è necessaria perché non c'è campo in alcune zone della mostra).
+L'assenza di un app lettrice di codiciQR sui moderni cellulari dei visitatori è stata un'importante barriera all'utilizzo del sistema.
+Le voci di Wikipedia collegate contenevano troppo testo tant'è che è stato difficile trovare le informazioni richieste nella relativamente grande pagina di testo; inoltre voci diverse variano per quanto riguarda la struttura e il contenuto e ciò non rende semplice la ricerca di uno specifico tipo d'informazione.
+In questa mostra le condizioni di luce erano piuttosto pessime; ergo i cellulari più vecchi non sono riusciti a scansionare tutti i codici.
+La maggior parte dei visitatori non sono abituati ad usare i codici-QR; hanno bisogno di una guida per utilizzare il sistema (nel nostro caso un poster con tutte le informazioni necessarie).
+
+
+=== JoburgpediA ===
+JoburgpediA è un progetto di mappamento QRpedia della città di Johannesburg che utilizza gli stessi strumenti e finalità di MonmouthpediA per creare voci riguardanti Johannesburg in inglese e afrikaans e nelle lingue locali isiZulu, xiTsonga, sesotho e isiXhosa. Il progetto che è stato lanciato il 1 febbraio 2013 da Dumisani Ndubane, David Richfield e Douglas Scott è finanziato da Wikimedia Sudafrica, dalla Johannesburg Heritage Foundation ed è patrocinato dal dipartimento d'Arte, Cultura e Patrimonio della Città di Johannesburg.
+
+In particolare lo scopo di questo progetto è quello di aumentare la copertura delle voci di Wikipedia riguardanti gli edifici-icona storici di Johannesburg. Questo progetto combina il successo delle placche QRpedia utilizzate per MonmouthpediA con l'intrinseco valore storico delle placche blu (utilizzate per commemorare i siti più importanti di Johannesburg). Codici QRpedia e placche blu verranno installati nella città l'uno accanto all'altro nel tentativo di creare la prima MetropediA al mondo in Africa tra il 2013 e il 2016.
+Il progetto sarà attuato in quattro fasi tra il 2013 e il 2016. Nella prima fase verrà effettuata la selezione di dieci edifici nei dintorni di Johannesburg, il caricamento di metadati di base e di immagini a bassa risoluzione per le voci di Wikipedia in inglese e infine l'installazione delle piastrelle in ceramica o metallo, fatte a Monmouth, ospitanti i QRpedia. Nelle altre tre fasi verranno effettuate le stesse attività della prima fase ma in sobborghi diversi di Johannesburg quali Inner City, Skyline e Jozi Townships.
+Delle preoccupazioni sono state sollevate circa la mancata fruizione delle risorse di conoscenza presenti sui QRpedia. In Sudafrica i cellulari

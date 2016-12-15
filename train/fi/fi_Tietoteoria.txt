@@ -1,0 +1,105 @@
+Tietoteoria (myös tieto-oppi, epistemologia, gnoseologia) on filosofian osa, jossa tutkitaan käsitteellisin, filosofisin menetelmin tietoa, tiedon mahdollisuutta, luonnetta, alkuperää ja rajoja sekä käsitysten tai teorioiden oikeutusta yleensä.
+Tieteenfilosofia luetaan joskus tietoteorian osaksi. Tietoteoriaan liittyviä suuntauksia ovat muun muassa rationalismi, empirismi, skeptisismi, pragmatismi ja agnostismi.
+
+
+== Johdanto ==
+Tieto-opista kirjoitti Suomessa jo Gabriel Israel Hartman vuonna 1807 ilmestyneessä teoksessaan Kunskapsläran. Sana epistemologia juontuu kreikan sanasta epistēmē, joka merkitsee sekä käsitteellistä tietoa että käytännön taitoa. Sana gnoseologia puolestaan juontaa juurensa kreikan sanoista gnosis eli tieto ja logos eli puhe, sana, peruste, oppi. Tätä termiä suositaan erityisesti marxilaisessa filosofisessa kirjallisuudessa.
+Sanalla tieto on tavallisesti kolme erilaista käyttötapaa, mikä aiheuttaa usein epäselvyyttä tietoa koskevissa keskusteluissa. Eri käyttötavat ovat:
+Tuttuustieto: ”Tiedän Tarja Halosen” (eli ”tunnen Tarja Halosen”).
+Taitotieto eli osaaminen: ”Tiedän, kuinka polkupyörällä ajetaan” (eli ”osaan ajaa polkupyörää”).
+Propositionaalinen eli väitelauseilla ilmaistava tieto: ”Tiedän, että maapallolla on yksi kuu.”
+Näiden erojen lisäksi tehdään jako tiedon ja informaation välillä, joskin suomen kielestä puuttuu sanan informaatio kotoperäinen vastine. Niinpä tietoa voi olla vain toimijalla, kun taas mikä tahansa kaikkeuden osa sisältää informaatiota: ihmiset, kirjat, tietokoneet, kivet ja niin edelleen. Yksi ero informaation ja tiedon välillä on, että informaatio voi olla epätotta. ”Epätosi tieto” on sen sijaan harhaanjohtava käsite, sillä osoittamalla käsityksen epätotuus voidaan osoittaa, ettei kyseinen käsitys ole tietoa. Heikon tiedon määritelmän mukaan tieto tarkoittaa samaa kuin tosi käsitys. Informaation käsite on silti olennainen tieto-opin kannalta, esimerkiksi tieteen tavoitteena voidaan pitää todellisuutta koskevan informaation tuottaminen.
+Tietoteoriaan on viimeisten viidenkymmenen vuoden aikana tullut käytännöllisempiä piirteitä. Kun antiikin ajoista lähtien on tietoteoreetikkojen mieliä vaivannut muun muassa akateemisen skeptisismin haaste eli kysymys siitä, onko sanalla tieto lainkaan ristiriidattomia käyttöjä, on sittemmin osa mielenkiinnosta suuntautunut niin kutsuttuja naturalistisia tietoteorioita kohtaan, jotka pyrkivät käsittelemään tietävää toimijaa luonnontieteiden näkökulmasta. Naturalistisen tietoteorian mukaan tietoteoria voidaan nähdä osana psykologiaa.
+
+
+== Tiedon määritelmä ==
+
+
+=== Perinteinen tiedon määritelmä ===
+Tässä luvussa selitetään käsitystä tiedosta, jota filosofisissa teksteissä usein kutsutaan "perinteiseksi" tai ”klassiseksi” tiedon käsitykseksi. Yleensä se ilmaistaan muodossa ”tieto on hyvin perusteltu tosi uskomus”. Käsitys juontaa juurensa jo Platonin dialogiin Theaitetos. Vaikka käsitys onkin hyvin arkiajattelun kanssa yhteensopiva, poikkeavat sille perustuvat sanan tieto käytöt tarkoituksella yhdessä kohdin tavanomaisista sanan tieto käytöistä. Tämä liittyy siihen, että sanan tieto arkipäiväisten käyttöjen ajatellaan yleensä olevan monimielisiä. Aivan yhtä hyvin kuin voin sanoa: ”tiedän, että olen Helsingissä”, voin myös sanoa: ”tiedän Tarja Halosen” tai ”tiedän, kuinka pyörällä ajetaan”. Kuitenkin kaksi jälkimmäistä käyttöä poikkeavat ensimmäisestä siinä, että vain ensimmäinen on puhdas todellisuutta koskevan käsityksen ilmaus. On hyviä perusteita väittää, että ”tiedän Tarja Halosen” ilmoittaa tietyn ihmisen olevan tuttu ja ”tiedän, kuinka pyörällä ajetaan” vaikuttaa sanovan samaa kuin ”osaan ajaa pyörällä”. Tästä eteenpäin rajoitutaan tässä luvussa vain ensiksi mainittun väitteen esittämään tietoon, niin kutsuttuun propositionaaliseen eli väitelausetietoon.
+Perinteinen tiedon määritelmä jakaa tiedon käsitteen kolmeen osaan. Ensiksi ajatellaan, että jos joku tietää jotakin, esimerkiksi ”ulkona sataa”, hänellä on oltava uskomus kyseisestä asiasta, toisin sanoen hän ajattelee, että lause ”ulkona sataa” on tosi. Toiseksi ei voi olla niin, että joku tietäisi, että ”ulkona sataa”, mutta lause ”ulkona sataa” olisi epätosi. Tieto edellyttää siis totuutta. Kolmanneksi sanan tieto soveltamisella toimijaan ja tiettyyn väitteeseen annetaan merkki kyseisen toimijan luotettavuudesta mainitun väitteen suhteen. Yleensä myös ajatellaan, että toimijalla tulisi tällaisissa tapauksissa olla jonkinlainen henkilökohtainen ja luotettavuudesta viestivä varmuus tarkastellun väitteen suhteen, ja on luonnollista, että tällaisesta varmuudesta seuraa kyky esittää järkeviä perusteluja totena pidetylle väitteelle.
+Muodollisesti esitettynä klassinen tiedon analyysi on seuraava (alla S [subjekti] edustaa tietäväksi väitetyn nimeä ja p [propositio] puolestaan väitettä, joka sanotaan tiedetyksi):
+S tietää, että p, jos ja vain jos seuraavat kolme ehtoa ovat voimassa.
+
+1. S uskoo, että p;
+2. p on tosi;
+3. S on oikeutettu pitämään totena, että p.
+
+Esimerkiksi perinteisen tiedonanalyysin nojalla Pekka tietää, että jääkaapissa on maitoa, jos Pekalla on tosi käsitys ”jääkaapissa on maitoa” ja hän pystyy tarvittaessa esittämään järkiperäisen perustelun (tai muuten osoittamaan tiedollisen asemansa) käsitykselleen, esimerkiksi: ”Kävin juuri kaupassa ja laitoin ostamani maidot jääkaappiin, ja tiedän, ettei kukaan ole käynyt jääkaapilla jälkeeni.”
+
+
+=== Gettierin vastaesimerkit ===
+
+Perinteinen tiedon käsitys on arkiajattelun valossa varsin hyväksyttävä. Kuitenkin Edmund Gettier hätkähdytti filosofeja vuonna 1963 julkaisemallaan artikkelilla ”Is Justified True Belief Knowledge?”, jossa hän pyrki osoittamaan klassisen näkemyksen virheellisyyden. Gettierin artikkeli on ollut innokkaan keskustelun kohteena tietoteoreetikkojen piirissä julkaisuajankohdastaan lähtien.
+Artikkelissaan Gettier pyrki kahden vastaesimerkin avulla osoittamaan, että klassisen näkemyksen kolmen ehdon täyttyminen ei vielä riitä siihen, että voimme sanoa jonkin henkilön tietävän jotakin. Toinen Gettierin vastaesimerkeistä on seuraavan kaltainen tarina:
+
+»Smith ja Jones ovat hakeneet samaa työpaikkaa ja istuvat nyt johtajan toimiston ulkopuolella odottaen kutsua haastatteluun. Työpaikan saaja päätetään välittömästi haastattelun jälkeen. Smith on johtajan hyvä ystävä ja Jonesia kokeneemmaksi tunnustettu työntekijä, joten Smith uskoo saavansa työpaikan Jonesin sijaan. Odotellessaan Smith hypistelee taskussaan olevia kolikoita ja toteaa, että hänellä on täsmälleen 3 kolikkoa taskussaan. Hetken kuluttua Smith ja Jones kutsutaan haastatteluun, erikseen kuten tapana on. Smithin haastattelu sujuu normaalisti. Kun molemmat haastattelut ovat ohi, ei työpaikan saajan nimeä syystä tai toisesta ilmoiteta heti. Silti Smith uskoo, että työpaikan saajalla on täsmälleen 3 kolikkoa taskussaan.»
+
+Smithillä on hyvä perustelu käsitykselleen. Jos hänen käsityksensä on vielä tosi, seuraa perinteisen näkemyksen nojalla, että hän tietää, että työpaikan saajalla on täsmälleen 3 kolikkoa taskussaan. Ajatellaan, että on käynyt seuraavasti. Johtaja päättikin kaikkien yllätykseksi, että Jones saa työpaikan. Lisäksi, aivan sattumalta, Jonesillakin on taskussaan täsmälleen 3 kolikkoa. Tässä tapauksessa Smithillä todellakin on oikeutettu tosi käsitys, joten vaikuttaa siltä, että jos klassinen näkemys pitää paikkaansa, niin Smith tietää, että työpaikan saajalla on täsmälleen 3 kolikkoa taskussaan.
+Monet filosofit, Gettier etunenässä, ovat tehneet yllä esitetystä tarinasta ja muista vastaavista sen johtopäätöksen, että perinteisessä näkemyksessä on jotakin vikaa. Tarina ei tunnu kuvaavan tilannetta, jossa Smithillä on tietoa, vaan tilanteen, jossa Smithillä on tosi uskomus ja vain sattumalta oikeaan uskomukseen ohjanneet perustelut.
+
+Toinen Gettier-kaltainen esimerkki, joka kertoo tiedon klassisen määritelmän heikkoudesta, on ns. "lammas laitumella" -esimerkki, joka kuuluu seuraavasti: Henkilö näkee laitumella lampaan, joka todellisuudessa onkin lammaskoira. Näköesteen (esim. kivi tai kukkula) takana on samalla laitumella kuitenkin oikea lammas. Eli jos henkilö väittää tietävänsä, että "laitumella on lammas" hän on oikeassa, vaikka ei näekään oikeaa lammasta vaan koiran. Filosofinen ongelma siis kuuluu: Onko henkilöllä tietoa lampaasta? Klassisen tiedon määritelmän mukaan on, mutta tämä perustelu on ristiriidassa arkijärjen kanssa.
+Perinteiselle tiedonanalyysille on esitetty monia parannuksia tarkoituksena estää Gettier-tyyppiset ongelmat. Jotkut filosofit ovat etsineet neljättä ehtoa, jonka lisääminen tekisi perinteisestä tiedon analyysistä hyväksyttävän. Toiset ovat taas yrittäneet esittää niin kutsutun reliabilistisen tietoteorian, analysoiden sanan ”tieto” merkitystä korvaten perinteisen oikeutusehdon jonkinlaisella luotettavuusehdolla. Tällaisista teorioista on mainetta kerännyt muiden muassa Robert Nozickin teoria. Niin kutsutussa hyvetietoteoriassa, jonka tunnetuimpiin kehittäjiin kuuluu Linda T. Zagzebski, puolestaan tarkastellaan käsityksen muodostajan ominaisuuksia.
+
+
+== Tiedon oikeuttaminen ==
+Eräs tietoteoreettinen kysymys on, mikä tekee uskomuksista oikeutettuja? Uskomusten oikeutusta voidaan lähestyä kahdesta näkökulmasta, joko internalistisesti tai eksternalistisesti:
+Internalismin mukaan uskomusten oikeutus voi tulla vain mielemme sisältä. Internaalinen voidaan tässä tulkita esimerkiksi niin, että internaaliset asiat ovat ihmiselle jotenkin erityisellä tavalla saavutettavissa.
+Eksternalismin mukaan uskomusten oikeutus tulee tai voi tulla myös mielemme ulkopuolelta.
+
+
+=== Oikeutusteoriat ===
+
+Uskomusten oikeutusteorioita ovat muun muassa:
+Fundamentalismi: on olemassa perususkomuksia, joista muut uskomukset riippuvat.
+Radikaali fundamentalismi: perususkomukset ovat erehtymättömiä, kumoamattomia tai epäilyksettömiä.
+Maltillinen fundamentalismi: perususkomukset voivat kumoutua, jos toisin todistetaan.
+
+Koherentismi: uskomukset ovat oikeutettuja, jos ne sopivat yhteen muiden uskomusten kanssa.
+Positiivinen koherentismi: uskomusten oikeutus vaatii perusteita eli muiden uskomusten tukea.
+Negatiivinen koherentismi: uskomukset ovat lähtökohtaisesti oikeutettuja ja uskomukset voidaan kumota vain perustellusti.
+
+Infinitismi: uskomus voi saada oikeutuksensa äärettömän ja ei-kehämäisen oikeuttamisen ketjun kautta.
+Reliabilismi: uskomukset oikeuttaa tiedon tuottavan prosessin luotettavuus.
+Hyvereliabilismi: uskomus on oikeutettu, kun se on tulos älyllisten hyveiden käyttämisestä.
+
+
+== Tiedon hankkiminen ==
+
+
+=== Rationalismi ===
+
+Rationalismin eli järkeisajattelun mukaan totuuteen pääsee järkeilyllä. Dialektiikka on Sokrateen rationalistinen menetelmä, jossa vuoropuhelulla yritetään päästä totuuden ytimeen. Platonistisen käsityksen mukaan todellisuus on perimmältään idealistinen, eli tosi tieto on pelkkiä ideoita ideoiden maailmassa. Ideoihin pääsee käsiksi ainoastaan järkeilemällä ja päättelemällä.
+René Descartes päätteli myöhemmin, että ulkoinen todellisuus saattaisi hyvin olla pelkkää unta ja että kaikki aistihavainnot saattaisivat pettää, joten pelkkä päättely ja epäily olivat kaiken puhtaan tiedon perusta. Descartesin mukaan tosi idea on selkeärajainen ja tarkka.
+
+
+=== Empirismi ===
+
+Empirismin eli kokemusajattelun mukaan totuuteen päästään vain tekemällä riittävästi havaintoja. David Hume oli jopa sitä mieltä, että kausaliteetille ei ole minkäänlaista pohjaa kokemuksessamme eikä kokemuksen pohjalta tehdyillä yleistyksillä ole muuta perustelua kuin arkikokemus. Vaikka joka aamu olemme nähneet auringon nousevan, emme voi päätellä niin tapahtuvan myös huomenna. Olemme yksinkertaisesti tottuneet ajattelemaan näin, mutta tieteellinen todiste se ei ole.
+Empirismiin liittyvät naturalistiset tietoteoriat.
+
+
+=== Kantilaisuus ===
+
+Immanuel Kant arvosteli sekä rationalismia että empirismiä yksipuolisesta näkemyksestä. Hän arvosteli rationalismia siitä, että järkeilyllä saavutettuja ideoita voi verrata vain havaintoihin. Toisaalta myös ideat ovat havaintojen tuloksia.
+Hän toisaalta arvosteli empirismiä siitä, että havaintojen käsitteellistämisellä päästään tulokseen, joka ylittää äärellisen havaintokyvyn rajat. Toisaalta myöskään empirismi ei ole puolueetonta, vaan tietoisuuden rakenteet ja sisältö vaikuttavat havaintokokemukseen.
+
+
+=== Pragmatismi ===
+
+C. S. Peirce laajensi tietoteoriaa käytännön tasolle. Hän uskoi, että parhaiten todellisuudesta sai tietoa toimimalla ja että tiedon tärkein arviointiperuste oli sen toimivuus.
+Peirce ei ollut sitä mieltä, että pragmatismi voisi laajentaa käsityskyvyn rajoja. Hänen perusväitteensä oli, että mikäli toimintamme onnistuu tietyllä tavalla, tulee maailman vastata toiminnan kannalta tärkein osin oletuksiamme.
+
+
+== Tietoteoreettinen skeptisismi ==
+
+Tietoteoreettinen skeptisismi eli epäily on aina ollut jossakin muodossa olennaisena osana tietoteoriassa. Tietoteoreettinen skeptikko epäilee, tai esiintyy kuten epäilisi, tiedon mahdollisuutta yleensä. Skeptikko tarjoaa perusteluja näkemykselleen tai ainakin pyrkii osoittamaan, ettei vastakkainen näkemys ole perustellumpi kuin hänen omansa. Jos skeptikko onnistuu pyrkimyksissään, hän on osoittanut, ettei tietoväitteillä voi olla järkiperäisiä perusteluja.
+
+
+=== Skeptiset perustelut ===
+Skeptikon tarjoamat todistelut perustuvat ajatukselle, että voimme kuvitella tilanteita, joissa tietona pitämät käsityksemme olisivatkin epätosia. Tilanne voisi olla esimerkiksi tieteisfiktiosta tunnettu tieteellinen koe nimeltä ”aivot altaassa”, jossa aivomme olisi erotettu kehostamme, upotettu ravinneliuokseen ja niitä sähköisesti ärsyttämällä meille muodostettaisiin täsmälleen samat aistimukset kuin nyt. René Descartes taas kirjoitti pahasta demonista joka tekee parhaansa johtaakseen meidät harhaan.
+Tutustumista skeptikon todisteluun helpottaa, kun otamme käyttöön seuraavat lyhennysmerkinnät väitteille:
+p: Tiedän, että luen tekstiä tietokoneelta.
+q: Tiedän, että en ole aivot ravinneliuoksessa.
+Edellisten lauseiden tietoväitteistä p:n on tarkoitus edustaa sellaista, joka on tosi, jos ylipäänsä tiedän yhtään mitään. Väitteitä, kuten "luen tekstiä tietokoneelta", joiden epäileminen arkikokemuksen valossa vaikuttaa mielettömältä, kutsutaan joskus moorelaisiksi tosiasioiksi; q puolestaan viittaa skeptiseen skenaarioon.
+Nyt skeptisen todistelun perusta voidaan esittä

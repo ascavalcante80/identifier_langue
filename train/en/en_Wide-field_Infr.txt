@@ -1,0 +1,102 @@
+Wide-field Infrared Survey Explorer (WISE) is a NASA infrared-wavelength astronomical space telescope launched in December 2009, and placed in hibernation in February 2011 when its transmitter turned off. It was re-activated in 2013. Its observations supported the discovery of the first Y Dwarf and Earth trojan asteroid, tens of thousands of new asteroids, and numerous previously undiscovered star clusters.
+WISE performed an all-sky astronomical survey with images in 3.4, 4.6, 12 and 22 μm wavelength range bands, over ten months using a 40 cm (16 in) diameter infrared telescope in Earth orbit. After its hydrogen coolant depleted, a four-month mission extension called NEOWISE was conducted to search for near-Earth objects such as comets and asteroids using its remaining capability.
+The All-Sky data including processed images, source catalogs and raw data, was released to the public on March 14, 2012, and is available at the Infrared Science Archive. In August 2013, NASA announced it would reactivate the WISE telescope for a new three-year mission to search for asteroids that could collide with Earth. Science operations and data processing for WISE and NEOWISE take place at the Infrared Processing and Analysis Center at the California Institute of Technology in Pasadena.
+
+
+== Mission goals ==
+The mission was planned to create infrared images of 99 percent of the sky, with at least eight images made of each position on the sky in order to increase accuracy. The spacecraft was placed in a 525 km (326 mi), circular, polar, Sun-synchronous orbit for its ten-month mission, during which it has taken 1.5 million images, one every 11 seconds. The satellite orbited above the terminator, its telescope pointing always to the opposite direction to the Earth, except for pointing towards the Moon, which was avoided, and its solar cells towards the Sun. Each image covers a 47-arcminute field of view, which means a 6-arcsecond resolution. Each area of the sky was scanned at least 10 times at the equator; the poles were scanned at theoretically every revolution due to the overlapping of the images. The produced image library contains data on the local Solar System, the Milky Way, and the more distant universe. Among the objects WISE studied are asteroids, cool, dim stars such as brown dwarfs, and the most luminous infrared galaxies.
+
+
+=== Targets outside the Solar System ===
+Stellar nurseries, which are covered by interstellar dust, are detectable in infrared, since at this wavelength electromagnetic radiation can penetrate the dust. Infrared measurements from the WISE astronomical survey have been particularly effective at unveiling previously undiscovered star clusters. Examples of such embedded star clusters are Camargo 18, Camargo 440, Majaess 101, and Majaess 116. In addition, galaxies of the young Universe and interacting galaxies, where star formation is intensive, are bright in infrared. On this wavelength the interstellar gas clouds are also detectable, as well as proto-planetary discs. WISE satellite was expected to find at least 1,000 of those proto-planetary discs.
+
+
+=== Targets within the Solar System ===
+WISE was not able to detect Kuiper belt objects, because their temperatures are too low. It was able to detect any objects warmer than 70–100 K. A Neptune-sized object would be detectable out to 700 AU, a Jupiter-mass object out to 1 light year (63,000 AU), where it would still be within the Sun's zone of gravitational control. A larger object of 2–3 Jupiter masses would be visible at a distance of up to 7–10 light years.
+At the time of planning, it was estimated that WISE would detect about 300,000 main-belt asteroids, of which approximately 100,000 will be new, and some 700 near-Earth objects (NEO) including about 300 undiscovered. That translates to about 1000 new main-belt asteroids per day, and 1–3 NEOs per day. The peak of magnitude distribution for NEOs will be about 21–22 V. WISE would detect each typical Solar System object 10–12 times over about 36 hours in intervals of 3 hours.
+
+
+== Spacecraft ==
+
+Construction of the WISE telescope was divided between Ball Aerospace & Technologies (spacecraft, operations support), SSG Precision Optronics, Inc. (telescope, optics, scan mirror), DRS and Rockwell (focal planes), Lockheed Martin (cryostat, cooling for the telescope), and Space Dynamics Laboratory (instruments, electronics, and testing). The program was managed through the Jet Propulsion Laboratory.
+The WISE instrument was built by the Space Dynamics Laboratory in Logan, Utah. The WISE spacecraft bus was built by Ball Aerospace and Technologies Corp. in Boulder, Colorado. The spacecraft is derived from the Ball Aerospace RS-300 spacecraft architecture, particularly the NEXTSat spacecraft built for the successful Orbital Express mission launched on March 9, 2007. The flight system has an estimated mass of 560 kg (1,230 lb). The spacecraft is three-axis stabilized, with body-fixed solar arrays. It uses a high-gain antenna in the Ku band to transmit to the ground through the TDRSS geostationary system. Ball also performed the testing and flight system integration.
+
+
+== Mission ==
+
+WISE surveyed the sky in four wavelengths of the infrared band, at a very high sensitivity. Its design specified as goals that the full sky atlas of stacked images it produced have 5-sigma sensitivity limits of 120, 160, 650, and 2600 microjanskies (µJy) at 3.3, 4.7, 12, and 23 micrometers (aka microns). WISE achieved at least 68, 98, 860, and 5400 µJy 5-sigma sensitivity at 3.4, 4.6, 12, and 22 micrometers for the WISE All-Sky data release. This is a factor of 1,000 times better sensitivity than the survey completed in 1983 by the IRAS satellite in the 12 and 23 micrometers (micron) bands, and a factor of 500,000 times better than the 1990s survey by the Cosmic Background Explorer (COBE) satellite at 3.3 and 4.7 micrometers. On the other hand, IRAS could also observe 60 and 100 micron wavelengths.
+Band 1 – 3.4 micrometers (microns) – broad-band sensitivity to stars and galaxies
+Band 2 – 4.6 micrometers – detect thermal radiation from the internal heat sources of sub-stellar objects like brown dwarfs
+Band 3 – 12 micrometers – detect thermal radiation from asteroids
+Band 4 – 22 micrometers – sensitivity to dust in star-forming regions (material with temperatures of 70–100 kelvins)
+The primary mission lasted ten months: one month for checkout, six months for a full-sky survey, then an additional three months of survey until cryogenic coolant (which kept the instruments at 17 K) ran out. The partial second survey pass facilitated the study of changes (e.g. orbital movement) in observed objects.
+
+
+=== Congressional hearing ===
+On November 8, 2007, the House Committee on Science and Technology's Subcommittee on Space and Aeronautics held a hearing to examine the status of NASA's Near-Earth Object (NEO) survey program. The prospect of using WISE was proposed by NASA officials.
+NASA officials told Committee staff that NASA plans to use WISE to detect near-Earth objects in addition to performing its science goals. It was projected that WISE could detect 400 NEOs (or roughly 2 percent of the estimated NEO population of interest) within its one-year mission.
+
+
+=== Results ===
+By October 2010, over 33,500 new asteroids and comets were discovered, and nearly 154,000 Solar System objects were observed by WISE.
+Discovery of an ultra-cool brown dwarf, WISEPC J045853.90+643451.9, about 10 to 30 light years away from Earth, was announced in late 2010 based on early data. In July 2011 it was announced that WISE had discovered the first Earth trojan asteroid, 2010 TK7. Also, the third-closest star system, Luhman 16.
+As of August 2015, WISE/NEOWISE has also discovered 211 near-Earth objects and comets (see also section NEOWISE below).
+
+
+== Project milestones ==
+The WISE Mission is led by Dr. Edward L. Wright of the University of California, Los Angeles. The mission has a long history under Wright's efforts, and was first funded by NASA in 1999 as a candidate for a NASA Medium-class Explorer (MIDEX) mission under the name Next Generation Sky Survey (NGSS). The history of the program from 1999 to date is briefly summarized as follows:
+January 1999 — NGSS is one of five missions selected for a Phase A study, with an expected selection in late 1999 of two of these five missions for construction and launch, one in 2003 and another in 2004. Mission cost is estimated at $139 million at this time.
+March 1999 — WIRE infrared telescope spacecraft fails within hours of reaching orbit.
+October 1999 — Winners of MIDEX study are awarded, and NGSS is not selected.
+October 2001 — NGSS proposal is re-submitted to NASA as a MIDEX mission.
+April 2002 — NGSS proposal is accepted by the NASA Explorer office to proceed as one of four MIDEX programs for a Pre-Phase A study.
+December 2002 — NGSS changes its name to Wide-field Infrared Survey Explorer (WISE).
+March 2003 — NASA releases a press release announcing WISE has been selected for an Extended Phase-A study, leading to a decision in 2004 on whether to proceed with the development of the mission.
+April 2003 — Ball Aerospace is selected as the spacecraft provider for the WISE mission.
+April 2004 — WISE is selected as NASA's next MIDEX mission. WISE's cost is estimated at $208 million at this time.
+November 2004 — NASA selects the Space Dynamics Laboratory at Utah State University to build the telescope for WISE.
+October 2006 — WISE is confirmed for development by NASA and authorized to proceed with development. Mission cost at this time is estimated to be $300 million.
+
+December 14, 2009 — WISE successfully launched from Vandenberg Air Force Base, California.
+December 29, 2009 — WISE successfully jettisoned instrument cover.
+January 6, 2010 — WISE first light image released.
+January 14, 2010 — WISE begins its regular four wavelength survey scheduled for nine months duration. It is expected to cover 99% of the sky with overlapping images in the first 6 months and continuing with a second pass until the hydrogen coolant is exhausted about three months later.
+January 25, 2010 — WISE detects a never-before-seen near Earth asteroid, designated 2010 AB78.
+February 11, 2010 — WISE detects a previously unknown comet, designated P/2010 B2 (WISE).
+February 25, 2010 — WISE website reports it has surveyed over a quarter of the sky to a depth of 7 overlapping image frames.
+April 10, 2010 — WISE website reports it has surveyed over half of the sky to a depth of 7 overlapping image frames.
+May 26, 2010 — WISE website reports it has surveyed over three-quarters of the sky to a depth of 7 overlapping image frames.
+July 16, 2010 — Press release announces that total sky coverage will be completed on July 17, 2010. About half of the sky will be mapped again before the instrument's block of solid hydrogen coolant sublimes and is exhausted.
+October 2010 — WISE hydrogen coolant runs out. Start of NASA Planetary Division funded NEOWISE mission.
+January 2011 — Entire sky surveyed to an image density of at least 16+ frames (i.e. second scan of sky completed).
+February 17, 2011 — WISE Spacecraft transmitter turned off at 12:00 noon PST by Principal Investigator Ned Wright. The Spacecraft will remain in hibernation without ground contacts awaiting possible future use.
+
+April 14, 2011 — Preliminary release of data covering 57 percent of the sky as seen by WISE.
+July 27, 2011 — First Earth trojan asteroid discovered from WISE data.
+August 23, 2011 — WISE confirms the existence of a new class of brown dwarf, the Y dwarf. Some of these stars appear to have temperatures less than 300 K, close to room temperature at about 25C. Y dwarfs show ammonia absorption, in addition to methane and water absorption bands displayed by T dwarfs.
+March 14, 2012 — Release of the WISE All-Sky data to the scientific community.
+August 29, 2012 — WISE reveals millions of black-holes.
+September 20, 2012 — WISE was successfully contacted to check its status.
+August 21, 2013 — NASA announced it would recommission WISE with a new mission to search for asteroids.
+December 19, 2013 — NASA releases a new image taken by the reactivated WISE telescope, following an extended cooling down phase. The revived NeoWise mission is underway and collecting data.
+March 7, 2014 — NASA reports that WISE, after an exhaustive survey, has not been able to uncover any evidence of "Planet X", a hypothesized planet within the Solar System.
+April 26, 2014 — The Penn State Center for Exoplanets and Habitable Worlds reports that WISE has found the coldest known brown dwarf, between -48 and -13 degrees Celsius, 7.2 light years away from the Sun.
+May 21, 2015 — NASA reports the discovery of WISE J224607.57-052635.0, the most luminous galaxy in the universe. (image)
+
+
+== History ==
+
+
+=== Launch ===
+The launch of the Delta II rocket carrying the WISE spacecraft was originally scheduled for December 11, 2009. This attempt was scrubbed to correct a problem with a booster rocket steering engine. The launch was then rescheduled for December 14, 2009. The second attempt launched on time at 14:09:33 UTC (06:09 local PST) from Vandenberg Air Force Base in California. The rocket successfully placed the WISE spacecraft into the planned polar orbit at an altitude of 326 miles (525 km) above the Earth.
+WISE avoided the problem that affected Wide Field Infrared Explorer (WIRE), which failed within hours of reaching orbit in March 1999. In addition, WISE was 1,000 times more sensitive than prior surveys such as IRAS, AKARI, and COBE's DIRBE.
+
+
+=== "Cold" mission ===
+A month-long checkout after launch found all spacecraft systems functioning normally and both the low- and high-rate data links to the operations center working properly. The instrument cover was successfully jettisoned on December 29, 2009. A first light image was released on January 6, 2010: an eight-second exposure in the Carina constellation showing infrared light in false color from three of WISE's four wavelength bands: Blue, green and red corresponding to 3.4, 4.6, and 12 micrometers, respectively. On January 14, 2010, the WISE mission started its official sky survey. The WISE group's bid for continued funding for an extended "warm mission" scored low by a NASA review board, in part because of a lack of outside groups publishing on WISE Data. Such a mission would have allowed use of the 3.4 and 4.6 micrometers detectors after the last of cryo-coolant had been exhausted, with the goal of completing a second sky survey to detect additional objects and obtain parallax data on putative brown dwarf stars. NASA extended the mission in October 2010 to search for near-Earth objects.
+By October 2010, over 33,500 new asteroids and comets were discovered, and over 154,000 Solar System objects were observed by WISE. While active it found dozens of previously unknown asteroids every day. In total, it captured more than 2.7 million images during its primary mission.
+
+
+=== NEOWISE ===
+
+In October 2010, NASA extended the mission by one month with a program called Near-Earth Object WISE (NEOWISE). Due to its success, the program was extended a further three months. The focus was to look for asteroids and comets close to Earth orbit, us

@@ -1,0 +1,26 @@
+ parça verinin iki farklı formatta yaratılıp yayınlanmasının daha fazla zaman almasıdır. İnsan algılaması için bir format, makinaların kullanması için özelleştirilmiş ikinci bir format kullanmak gerekecektir. Bu nedenle, firmaların, sadece gelişmelerini yavaşlatma ihtimali olan bu uygulamaları benimsemesi pek olası görünmüyor. Bunun yanında, geliştirilmekte olan birçok web uygulaması bu problemi çözmek için makinalar tarafından okunabilir veriler yayınlıyorlar ve bu tip verileri kullanan istemciler yazıyorlar. Microformat ların geliştirilmesi bu tip eleştiriye bir tepki olarak değerlendirilebilir. Ayrıca RDF verisinin HTML sayfalarına gömülmesini sağlayan eRDF ve RDFa gibi spesifikasyonlar mevcuttur. The "Kaynak Tanımlarını Dil Lehçelerinden Ayıklama (GRDDL - Gleaning Resource Descriptions from Dialects of Language)" mekanizması varolan verinin otomatik olarak RDF gibi yorumlanabilmesini sağlar. Böylece yayıncılar sadece HTML gibi tek bir formata ihtiyaç duyarlar.
+
+
+== Kaynakça ==
+Cardoso, J. (Mart 2007). Semantic Web Services: Theory, Tools and Applications. Idea Group.. ISBN 978-1-59904-045-5. 
+Cardoso, J., Sheth, Amit (2006). Semantic Web Services, Processes and Applications. Springer. ISBN 0-387-30239-5. 
+Michael C. Daconta, Leo J. Obrst, Kevin T. Smith (30 Mayıs 2003). The Semantic Web: A Guide to the Future of XML, Web Services, and Knowledge Management. John Wiley & Sons. ISBN 0-471-43257-1. 
+Dieter Fensel, Wolfgang Wahlster, Henry Lieberman, James Hendler (15 Kasım 2002). Spinning the Semantic Web: Bringing the World Wide Web to Its Full Potential. MIT Press. ISBN 0-262-06232-1. 
+Steffen Staab, Rudi Studer (Ocak 2004). Handbook on Ontologies. Heidelberg: Springer Verlag. ISBN 3-540-40834-7. 
+Vladimir Geroimenko, Chaomei Chen (Ed.), ed. (17 Ocak 2003). Visualizing the Semantic Web. Springer Verlag. ISBN 1-85233-576-9. 
+John Davies, Dieter Fensel, Frank van Harmelen (21 Ocak 2003). Towards the Semantic Web: Ontology-Driven Knowledge Management. John Wiley & Sons. ISBN 0-470-84867-7. 
+Grigoris Antoniou, Frank van Harmelen (1 Nisan 2004). A Semantic Web Primer. The MIT Press. ISBN 0-262-01210-3. 
+Jeffrey T. Pollock, Ralph Hodgson (21 Temmuz 2004). Adaptive Information: Improving Business Through Semantic Interoperability, Grid Computing, and Enterprise Integration. ISBN 0-471-48854-2. 
+Christopher Walton (12 OEkim 2006). Agency and the Semantic Web. Oxford University Press. ISBN 978-0-19-929248-6. 
+
+
+== Dış bağlantılar ==
+Semantic Web- Türkiye
+İstanbul Semantic Web Topluluğu
+Ankara Semantic Web Topluluğu
+İzmir Semantic Web Topluluğu
+Türkiye'de anlamsal web
+Semantic Focus(İngilizce)
+Minding the Planet: The Meaning and Future of the Semantic Web(İngilizce)
+The Third Generation Web is Coming(İngilizce)
+Wikipedia 3.0: The End of Google?(İngilizce)

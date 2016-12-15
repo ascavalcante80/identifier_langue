@@ -1,0 +1,20 @@
+Pencitraan resonansi magnetik (bahasa Inggris: Magnetic Resonance Imaging, MRI) ialah gambaran pencitraan bagian badan yang diambil dengan menggunakan daya magnet yang kuat mengelilingi anggota badan tersebut. Berbeda dengan "CT scan", MRI tidak menggunakan radiasi Sinar-X dan cocok untuk mendeteksi Jaringan Lunak, misalnya Kista ataupun Tumor yang masih sedikit, tetapi pencitraan dengan MRI lebih mahal daripada menggunakan CT scan.
+Magnetic Resonance Imaging (MRI) merupakan suatu teknik yang digunakan untuk menghasilkan gambar organ dalam pada organisme hidup dan juga untuk menemukan jumlah kandungan air dalam struktur geologi. Biasa digunakan untuk menggambarkan secara patologi atau perubahan fisiologi otot hidup dan juga memperkirakan ketelusan batu kepada hidrokarbon.
+
+
+== Cara kerja MRISunting ==
+Pertama, putaran nukleus atom molekul otot diselarikan dengan menggunakan medan magnet yang berkekuatan tinggi.
+Kemudian, denyutan/pulsa frekuensi radio dikenakan pada tingkat menegak kepada garis medan magnet agar sebagian nuklei hidrogen bertukar arah.
+Selepas itu, frekuensi radio akan dimatikan menyebabkan nuklei berganti pada konfigurasi awal. Ketika ini terjadi, tenaga frekuensi radio dibebaskan yang dapat ditemukan oleh gegelung yang mengelilingi pasien.
+Sinyal ini dicatat dan data yang dihasilkan diproses oleh komputer untuk menghasilkan gambar otot.
+Dengan ini, ciri-ciri anatomi yang jelas dapat dihasilkan. Pada pengobatan, MRI digunakan untuk membedakan otot patologi seperti tumor otak dibandingkan otot normal.
+Teknik ini bergantung kepada ciri tenang nuklei hidrogen yang dirangsang menggunakan magnet dalam air. Bahan contoh ditunjukkan seketika pada tenaga radio frekuensi, yang dengan kehadiran medan megnet, membuatkan nuklei dalam keadaan bertenaga tinggi. Ketika molekul kembali menurun kepada normal, tenaga akan dibebaskan ke sekitarnya, melalui proses yang dikenal sebagai relaksasi. Molekul bebas menurun pada ambang normal, tenang lebih pantas. Perbedaan antara kadar tenang merupakan asas gambar MRI—sebagai contoh, molekul air dalam darah bebas untuk tenang lebih pantas, dengan itu, tenang pada kadar berbeda berbanding molekul air dalam otot lain.
+
+
+== Penamaan MRISunting ==
+Walaupun perilaku nuklir atomik terhadap contoh adalah hal terpenting bagi teknik ini, akan tetapi penggunaan istilah nuklir dihindari. Hal ini dilakukan agar tidak menimbulkan kebingungan maupun kekhawatiran yang timbul sebagai akibat adanya kaitan antara perkataan "nuklir" dengan teknologi yang digunakan dalam senjata nuklir dan risiko bahan radioaktif.
+
+
+== Kelebihan MRISunting ==
+Salah satu kelebihan pencitraan MRI adalah, menurut pengetahuan pengobatan masa kini, tidak berbahaya kepada orang yang sakit. Dibandingkan dengan CT scans "computed axial tomography" yang menggunakan aksial tomografi berkomputer yang melibatkan dosis radiasi tertentu, MRI hanya menggunakan medan magnet kuat dan pancarannya tidak mengion dalam jalur frekuensi radio. Bagaimanapun, perlu diketahui bahwa pasien yang membawa benda asing logam (seperti serpihan peluru) atau implant tertanam (seperti tulang Titanium buatan, atau pacemaker) tidak boleh dipindai di dalam mesin MRI, disebabkan penggunaan medan megnet yang kuat.
+Satu lagi kelebihan pencitraan MRI adalah kualitas gambar yang diperoleh biasanya mempunyai resolusi lebih bai

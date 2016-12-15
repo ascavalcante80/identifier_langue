@@ -1,0 +1,21 @@
+La cylindrée est le volume balayé par le déplacement d'une pièce mobile dans une chambre hermétiquement close pour un mouvement unitaire. Ce concept est utilisé pour les pompes et tous les moteurs utilisant un fluide.
+Le mouvement unitaire est un aller-retour dans le cas d’un dispositif linéaire comme un piston ou un tour dans le cas d’un dispositif rotatif.
+La cylindrée est homogène à un volume par nombre de mouvement, elle sera donc exprimée en m³/tour ou m³/aller-retour dans le système SI. Par abus de langage, on exprime la cylindrée comme étant homogène à un volume, on rend alors implicite le fait qu’elle soit rapportée à un mouvement unitaire. Ainsi la cylindrée est plus couramment exprimée en litre pour les voitures et en cm³ pour les motos.
+Dans le cas particulier d'un moteur à combustion interne, la cylindrée est le produit du volume balayé par un piston entre le point mort haut (PMH) et le point mort bas (PMB) et du nombre de pistons que comporte le moteur.
+Par exemple, un moteur d’automobile d’une cylindrée de 2 litres (en réalité 2 l/tr) aspire et refoule 2 litres de fluide pour deux tours du vilebrequin. Lorsque le vilebrequin fait deux tours, tous les pistons ont fait un cycle complet de deux aller-retour.
+
+
+== Calcul d'une cylindrée pour un dispositif à pistons ==
+La surface d’un piston correspond au diamètre ouvert par l'alésage des cylindres et se calcule selon la formule de l'aire d'un disque : :
+Avec R le rayon de la section du piston et d son diamètre.
+En multipliant la surface du piston par la course et le nombre de pistons, on obtient la cylindrée totale. La course C est la distance parcourue entre les deux positions extrêmes du piston. Elle est égale à deux fois l'excentricité du vilebrequin.
+
+avecN, le nombre de cylindres,C, la course du piston,S, l'aire de la section du piston. On fera évidemment attention aux unités comme pour tout calcul.
+Dans le cas de pompes ou moteurs hydrauliques à pistons radiaux le calcul de la cylindrée peut prendre deux formes:
+celle donnée ci-dessus donnant la somme des cylindrées unitaires (pour un seul aller retour de chaque piston) qui constitue ce qu'on peut appeler la cylindrée apparente.
+celle obtenue en considérant les mouvements de tous les pistons pour un tour de l'axe moteur. Par exemple une pompe disposant de 7 pistons commandée par une came à huit lobes offre 7x8=56 aller-retour, ce qui lui confère une cylindrée réelle huit fois supérieure à la cylindrée apparente. Il existe des moteurs thermiques type étoile et sans bielle présentant les mêmes caractéristiques.
+
+
+== Cas des moteurs à combustion interne ==
+
+Pour un taux de compression identique, un moteur de "grosse" cylindrée développe un couple proportionnel à cell

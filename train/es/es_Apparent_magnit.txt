@@ -1,0 +1,75 @@
+La magnitud aparente (m) de una estrella, planeta o de otro cuerpo celeste es una medida de la cantidad de luz (energía) que se recibe del objeto. Mientras que la cantidad de luz recibida depende realmente del ancho de la atmósfera, las magnitudes aparentes se normalizan a un valor que tendrían fuera de la atmósfera. La magnitud absoluta, M, de un objeto, es la magnitud aparente que tendría si estuviera a 10 parsecs.
+La magnitud aparente puede medirse para determinadas bandas del espectro luminoso. En el caso del espectro visible, se denomina magnitud visual () y puede ser estimada por el ojo humano. 
+Actualmente se utilizan los fotómetros que permiten medir magnitudes con mucha precisión. Éste es capaz de catalogar en orden de magnitud aparente y distinguir cuando dos estrellas tienen la misma magnitud aparente o una estrella y una fuente artificial.
+
+
+== Historia ==
+La escala con la que se mide la magnitud, tiene su origen en la práctica helenística de dividir las estrellas visibles con ojo desnudo en seis magnitudes. Las estrellas más visibles a simple vista fueron pensadas para formar parte de la primera magnitud (m = +1), mientras que las más débiles eran consideradas como sexta magnitud (m = +6), el límite del ojo humano (sin ayuda de un telescopio). Este método, algo primitivo, para indicar la visibilidad de las estrellas a simple vista fue divulgado por Ptolomeo en su Almagesto, y se cree que pudo haber sido originado por Hiparco de Nicea. Este sistema original no medía la magnitud del Sol. Debido al hecho de que la respuesta del ojo humano a la luz es logarítmica la escala que resulta es también logarítmica.
+En 1856 Pogson formalizó el sistema definiendo que una típica estrella de primera magnitud es aquella 100 veces más visible que una típica estrella de magnitud sexta; así, una estrella de primera magnitud es aproximadamente 2,512 veces más visible que una de segunda magnitud. La raíz quinta de 100, un número irracional (2,512) se conoce como cociente de Pogson. La escala de Pogson se fijó originalmente asignando a la estrella Polaris la magnitud de 2. Pero dado que los astrónomos han descubierto que la estrella polar es levemente variable, ahora se utiliza la estrella Vega como referencia.
+El sistema moderno no se limita a 6 magnitudes. Los objetos realmente visibles tienen magnitudes negativas. Por ejemplo Sirius, la estrella más visible, tiene una magnitud aparente de -1,44 a -1,46. La escala moderna incluye a la Luna y al Sol; la Luna tiene una magnitud aparente de -12,6 y el Sol tiene una magnitud aparente de -26,7. Los telescopios Hubble y Keck han localizado estrellas con magnitudes de +30.
+
+
+== Explicación matemática ==
+La magnitud aparente en la banda  se puede definir como:
+
+donde  es el flujo luminoso observado en la banda , y  es una constante que depende de las unidades de flujo y de la banda.
+
+Y también:
+, de donde 
+, de donde 
+, de donde 
+, de donde 
+Si se sustituye sucesivamente los valores de las intensidades intermedias:
+
+y como se ha apuntado anteriormente:
+
+luego
+
+Tomando logaritmos en ambos términos:
+
+pero
+
+luego:
+
+y por tanto
+
+que sustituido en
+
+nos dice que la relación entre intensidades luminosas de dos estrellas que difieren en una magnitud, es igual a  y en general, para una diferencia de magnitudes
+
+se tiene:
+
+Siendo
+: brillo y magnitudes de la estrella más brillante
+: brillo y magnitud de otra de brillo inferior
+Entonces queda:
+ [1]
+Como es de suponer, la relación de intensidades se mantiene constante sean cuales sean las unidades en que se mida. Esto permite elegir a conveniencia. No obstante, y por comodidad de cálculo se va a mejorar la presentación de la ecuación tomando logaritmos en ambos miembros:
+
+pero
+
+ [2]
+Y esta nueva expresión constituye la ley de Pogson que dice "la diferencia de magnitud entre dos estrellas es proporcional a la diferencia de los logaritmos de sus brillos aparentes". Se compara ahora una estrella de 6º magnitud con otra cualquiera de magnitud  y brillo 
+
+ [3]
+Luego dada la magnitud de una estrella se puede conocer su brillo  mediante esta última expresión, o :
+ [4]
+Estas dos fórmulas sirven para conocer la magnitud conjunta de dos o más estrellas. Si además de conocer la magnitud de una estrella, se conoce la distancia que nos separa de ella, se está en condiciones de averiguar la magnitud y brillo que presentaría a otra distancia. Esto es posible gracias a que el brillo es inversamente proporcional al cuadrado de la distancia, o sea:
+ [5]
+Todo esto es utilizado en astronomía para comparar estrellas entre sí, según su luminosidad intrínseca. Solo se ha tenido en cuenta el brillo estelar a la observación directa desde la Tierra. Puede ocurrir, y así es, que una estrella aparente ser muy brillante debido a su proximidad, y otra aparece como muy débil por su gran lejanía, pudiendo ser mucho más luminosa que la primera. Así pues, una comparación en estos términos sería totalmente errónea, y para solucionarlo los astrónomos han introducido el concepto de magnitud absoluta. Si se conoce la magnitud absoluta, que llamamos , y su distancia , podemos deducir que magnitud aparente , tendrá esa estrella. Se recuerdan las expresiones
+
+y
+
+si se sustituye en la primera relación de los brillos por la del cuadrado de las distancias
+
+Con el subíndice 2 se indica a una estrella situada a 10 parsec cuya magnitud  será la absoluta (), como se ha visto anteriormente:
+
+Tomando logaritmos,
+
+multiplicando ambos miembros por 2,5 resulta:
+
+y por tanto:
+ [6]
+Lógicamente si se conoce la magnitud aparente, la magnitud absoluta resulta ser:
+ [7]
+Estando la distancia , expresada en parsec. Es claro q

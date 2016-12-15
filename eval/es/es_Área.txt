@@ -1,0 +1,50 @@
+riedad de Riemann de dimensión n > 1 puede definirse el área de ciertas subvariedades cuya dimensión sea 2. Para ello se define un conjunto de dos coordenadas (u, v) que parametricen la subvariedad y se construye un atlas para subvariedad, entonces el área es la integral de una 2-forma sobre dicha variedad. Esta definición coincidiría con la definición de áreas dada a partir de la primera forma fundamental.
+
+
+== Unidades de medida de superficies ==
+
+
+=== Sistema Internacional de Unidades ===
+Según el Sistema Internacional de Unidades, las unidades cuadradas son las que se listan a continuación:
+Múltiplos
+Kilómetro cuadrado: 106 metros cuadrados
+Hectómetro cuadrado o hectárea: 104 metros cuadrados
+Decámetro cuadrado o área: 102 metros cuadrados
+Unidad básica
+metro cuadrado: unidad derivada del SI
+Elenio: litro/centímetro
+Piornio: (candela·estereorradián)/lux
+Submúltiplos
+Decímetro cuadrado: 10−2 m2 (una centésima de metro cuadrado)
+Centímetro cuadrado: 10−4 m2 (una diezmilésima de metro cuadrado)
+Milímetro cuadrado: 10−6 m2 (una millonésima de metro cuadrado)
+barn: 10−28 m2 (metro cuadrado)
+
+
+=== Sistema anglosajón de unidades ===
+Las unidades más usadas del sistema anglosajón son:
+pulgada cuadrada
+pie cuadrado
+yarda cuadrada
+acre
+
+
+== Véase también ==
+Unidad de medida
+Metrología
+Áreas de figuras geométricas
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Spiegel, Murray R.; Abellanas, Lorenzo (1992). McGraw-Hill, ed. Fórmulas y tablas de matemática aplicada. Aravaca (Madrid). ISBN 84-7615-197-7.  
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre Área. Commons
+ Wikcionario tiene definiciones y otra información sobre área.Wikcionario
+Weisstein, Eric W. «Área». En Weisstein, Eric W. MathWorld (en inglés). Wolfram Research. 
+El problema del área, en fca.unl.edu.ar
+El valor del área representada gráficamente, en fca.unl.edu.ar

@@ -1,0 +1,20 @@
+olume in differential geometryEdit ==
+
+In differential geometry, a branch of mathematics, a volume form on a differentiable manifold is a differential form of top degree (i.e. whose degree is equal to the dimension of the manifold) that is nowhere equal to zero. A manifold has a volume form if and only if it is orientable. An orientable manifold has infinitely many volume forms, since multiplying a volume form by a non-vanishing function yields another volume form. On non-orientable manifolds, one may instead define the weaker notion of a density. Integrating the volume form gives the volume of the manifold according to that form.
+Any oriented Riemannian (or pseudo-Riemannian) manifold has a natural volume (or pseudo volume) form. In local coordinates, it can be expressed as
+
+where the  are the 1-forms providing an oriented basis for the cotangent bundle of the n-dimensional manifold. Here,  is the absolute value of the determinant of the matrix representation of the metric tensor on the manifold.
+
+
+== Volume in thermodynamicsEdit ==
+
+In thermodynamics, the volume of a system is an important extensive parameter for describing its thermodynamic state. The specific volume, an intensive property, is the system's volume per unit of mass. Volume is a function of state and is interdependent with other thermodynamic properties such as pressure and temperature. For example, volume is related to the pressure and temperature of an ideal gas by the ideal gas law.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==

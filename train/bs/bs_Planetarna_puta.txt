@@ -1,0 +1,17 @@
+Planetarna putanja ili orbita u fizici predstavlja kretanje jednog tijela oko drugog pod uticajem centripetalne sile (sila prema centru kretanja).
+
+Johannes Kepler je prvi pronašao svoje zakone planetarnog kretanja. Otkrio je da su putanje planeta u našem sunčevom sistemu eliptične.
+
+
+== Također pogledajte ==
+Apsis
+
+
+== Vanjski linkovi ==
+CalcTool: Orbital period of a planet calculator. Has wide choice of units. Requires JavaScript.
+Browser Based Three Dimension Simulation of Orbital Motion. Objects and distance are drawn to scale. Run on JavaScript-enabled browser such as Internet Explorer, Mozilla Firefox and Opera.
+Java simulation on orbital motion. Requires Java.
+NOAA page on Climate Forcing Data includes (calculated) data on Earth orbit variations over the last 50 million years and for the coming 20 million years
+On-line orbit plotter. Requires JavaScript.
+Orbital Mechanics (Rocket and Space Technology)
+Orbital simulations by Varadi, Ghil and Runnegar (2003) provide another, slightly different series for Earth orbit eccentricity, and also a series for orbital inclination. Orbits for the other planets were also calculated, by F. Varadi, B. Runnegar, M. Ghil (2003). "Successive Refinements in Long-Term Integrations of Planetary Orbits". The Astrophysical Journal 592: 620–630. Bibcode:2003ApJ...59

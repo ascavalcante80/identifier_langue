@@ -1,0 +1,31 @@
+あげられている。
+
+
+=== XHTML5(最終草案) ===
+HTML5、XHTML5の正式名称には、アルファベットと数字の間にスペースを含まない。HTML5をXML記法で記述したものをXHTML5と呼ぶ。
+HTML5をXML記法で記述するための仕様も、HTML5仕様の中で定義されている。そのため単純に言えばXHTML5はHTML5のサブセットといえるが、HTML5の仕様ではXML記法とHTML記法の間には違いが多い。そのためXHTML5を単純にHTML5のサブセットとして見ることは難しいかもしれない。以下にHTML記法とXML記法の違いをいくつか挙げる。
+HTML記法の場合は要素名は固定だが、XML記法の場合は要素の名前空間が "http://www.w3.org/1999/xhtml" に属していれば接頭辞付きが許される（XHTML1.x以前には、文書型宣言にモジュールを追加することで接頭辞を付けることを可能としていたが、基本的には許されなかった）
+HTML記法では限定的なSVG, MathMLの拡張しか行えないが、XML記法では名前空間を用いて制限なく拡張ができる（以下の例ではxml:id属性を利用している）
+従来のHTML/XHTMLで許されていたDTDを用いた文字参照が不可能となった。
+上記のような違いによってHTML文法と見た目が大きく異なるXHTML文書として、以下のような例が考えられる。
+
+
+== 関連項目 ==
+HTML
+SGML
+XML
+CSS
+EBML
+XHTML MP
+
+
+== 脚注 ==
+
+
+== 外部リンク ==
+XHTML 1.0 The Extensible HyperText Markup Language
+XHTML Basic 1.1
+XHTML Basic
+XHTML 1.1 - Module-based XHTML
+XHTML 2.0 (Working Draft)
+W3C

@@ -1,0 +1,12 @@
+ befinden sich beispielsweise fast alle (99,7 %) der zwischen 300 und 10.000 auftauchenden Primzahlen im oberen Teil der Kurve. Auch ca. 95 % aller Quadratzahlen zwischen 300 und 10.000 sind dort zu finden. Während die Kurve selbst dem Erwartungswert entspricht, ist die Lücke allerdings auf rein mathematischem Weg bisher nicht zu erklären. Sie ist daher möglicherweise auch auf die Popularität bestimmter Zahlenfolgen in der mathematischen Forschung und somit auf soziale Faktoren zurückzuführen.
+
+
+== EinzelnachweiseBearbeiten ==
+↑ Transfer of IP in OEIS to The OEIS Foundation Inc.
+↑ Nicolas Gauvrit, Jean-Paul Delahaye, Hector Zenil: Sloane's Gap: Do Mathematical and Social Factors Explain the Distribution of Numbers in the OEIS? Abgerufen am 25. Februar 2014.
+
+
+== WeblinksBearbeiten ==
+Die Online-Enzyklopädie der Zahlenfolgen (Suchformular der Datenbank, größtenteils englisch)
+Journal of Integer Sequences (englisch)
+Neil J. A. Sloane: The On-Line Encyclopedia of Integer Sequences (PDF-Datei, 92 kByte), Notices of the AMS Vol. 50 Nr. 8, 2003, S. 912 (englisch)

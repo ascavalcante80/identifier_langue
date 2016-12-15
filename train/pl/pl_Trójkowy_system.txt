@@ -1,0 +1,9 @@
+Trójkowy system liczbowy – pozycyjny system liczbowy, w którym podstawą jest liczba 3. Do zapisu liczb są potrzebne 3 cyfry: 0, 1 i 2. Cyfry trójkowe często nazywa się tritami na podobieństwo bitów w systemie binarnym.
+
+
+== Porównanie z systemem dziesiętnym i dwójkowym ==
+Liczba cyfr do zapisania liczb w systemie trójkowym nie rośnie tak szybko jak w systemie dwójkowym, jednakże jest nadal znaczna w porównaniu do zapisu dziesiętnego. Na przykład 36510, to 1011011012 (9 cyfr) i 1111123 (6 cyfr).
+
+
+== Zbiór Cantora ==
+Liczby w systemie trójkowym są pomocne w definiowaniu zbioru Cantora. Zbiór ten tworzą liczby z przedziału od 0 do 2, których trójko

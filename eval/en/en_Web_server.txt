@@ -1,0 +1,45 @@
+walls to block unwanted traffic coming from bad IP sources or having bad patterns
+HTTP traffic managers to drop, redirect or rewrite requests having bad HTTP patterns
+Bandwidth management and traffic shaping, in order to smooth down peaks in network usage
+
+Deploying web cache techniques
+Using different domain names to serve different (static and dynamic) content by separate web servers, i.e.:
+http://images.example.com
+http://www.example.com
+
+Using different domain names and/or computers to separate big files from small and medium-sized files; the idea is to be able to fully cache small and medium-sized files and to efficiently serve big or huge (over 10 - 1000 MB) files by using different settings
+Using many internet servers (programs) per computer, each one bound to its own network card and IP address
+Using many internet servers (computers) that are grouped together behind a load balancer so that they act or are seen as one big web server
+Adding more hardware resources (i.e. RAM, disks) to each computer
+Tuning OS parameters for hardware capabilities and usage
+Using more efficient computer programs for web servers, etc.
+Using other workarounds, especially if dynamic content is involved
+
+
+== Market shareEdit ==
+
+Below are the latest statistics of the market share of the top web servers on the Internet by Netcraft Survey April, May 2015.
+Apache, IIS and Nginx are the most used web servers on the Internet.
+
+
+== See alsoEdit ==
+Server (computing)
+Application server
+Comparison of web server software
+HTTP compression
+MaidSafe (a proposal for a system calling for the elimination of servers)
+Open source web application
+SSI, CGI, SCGI, FastCGI, PHP, Java Servlet, JavaServer Pages, ASP, ASP.NET, SAPI
+Variant object
+Virtual hosting
+Web hosting service
+Web proxy
+Web service
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+RFC 2616, the Request for Comments document that defines the HTTP 1.1 protocol.
+C64WEB.COM — Commodore 64 running as a web server using Contiki

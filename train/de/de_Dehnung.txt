@@ -1,0 +1,24 @@
+Die Dehnung (Formelzeichen: ε) ist eine Angabe für die relative Längenänderung (Verlängerung bzw. Verkürzung) eines Körpers unter Belastung, beispielsweise durch eine Kraft oder durch eine Temperaturänderung (Wärmeausdehnung). Wenn die Abmessung des Körpers sich vergrößert, spricht man von einer positiven Dehnung (Streckung), andernfalls von einer negativen Dehnung oder Stauchung.
+
+
+== Definition ==
+Die Dehnung ist definiert als:
+
+Dabei ist  die Längenänderung und  ist die ursprüngliche Länge. Die Dehnung wird als dimensionslose Zahl oder mit 100 multipliziert als Prozentwert angegeben.
+Im technischen Bereich ist auch die Angabe der Dehnung in Mikrometer pro Meter (µm/m) üblich. Dafür wird, abgeleitet von Mikroepsilon, auch die Schreibweise µeps oder µε verwendet. 1 µm/m entspricht 0,0001 Prozent, eine 1-prozentige Dehnung entspricht 10 000 µm/m.
+Für viele Werkstoffe ist die Dehnung in gewissen Grenzen proportional zur wirkenden Kraft, was durch das Hookesche Gesetz im linear-elastischen Bereich ausgedrückt wird. Infolge der Querkontraktion ergibt sich auch quer zur Kraftrichtung eine Dehnung. Das Verhältnis aus Quer- und Längsdehnung wird Poissonzahl genannt.
+In einem allgemeinen Belastungsszenario können Zug-, Druck- und Scherkräfte auch kombiniert auftreten. Dies hat ebenso komplexe Dehnungen in allen drei Raumrichtungen zur Folge. Die vollständige mathematische Beschreibung erfolgt über Tensoren der Kraft bzw. Dehnung. Der Dehnungstensor  ist - wie auch der Spannungstensor  - grundlegend für die Elastizitätstheorie fester Körper; sie bilden insbesondere das Grundgerüst für Computermodelle der Verformungssimulation, wie sie beispielsweise für die Finite-Elemente-Methode benötigt werden.
+
+
+=== Technische Dehnung ===
+Bei Betrachtung von Dehnungen als Antwort auf zwei (oder mehr) aufeinander folgende Krafteinwirkungen, sind zwei verschiedene Bezugssysteme für die Berechnung der Dehnung gebräuchlich. Wird sie bezogen auf die Ausgangslänge  vor der ersten Krafteinleitung angegeben, so spricht man von technischer Dehnung. Diese Methode ist besonders einfach, weil die Ausgangslänge  dann eine Konstante ist. Die technische Dehnung wird auch Cauchy-Dehnung  genannt
+Sie weist jedoch den Nachteil der Nichtskalierung auf, denn die Summe der beiden Teildehnungen entspricht nicht mehr der Gesamtdehnung:
+ ist nicht identisch mit .
+Solange jedoch  gilt näherungsweise:
+   bzw.    und damit .
+
+
+=== Logarithmische Dehnung ===
+Im Gegensatz zur technischen Dehnung wird die logarithmische oder „wahre“ Dehnung  auf die aktuelle Länge des Körpers bezogen, nachdem er also durch frühere Krafteinwirkungen bereits vorverformt ist (und auch Hencky-Dehnung  genannt).
+Sie wird definiert durch:
+ u

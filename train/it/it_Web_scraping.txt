@@ -1,0 +1,27 @@
+Il web scraping (detto anche web harvesting o web data extraction) è una tecnica informatica di estrazione di dati da un sito web per mezzo di programmi software. Di solito, tali programmi simulano la navigazione umana nel World Wide Web attraverso l'implementazione di basso livello dell'Hypertext Transfer Protocol (HTTP) o l'incorporamento di un vero e proprio browser, come Internet Explorer o Mozilla Firefox.
+Il web scraping è strettamente correlato all'indicizzazione dei siti Internet; tale tecnica è attuata mediante l'uso di bot dalla maggior parte dei motori di ricerca. D'altro canto, il web scraping si concentra di più sulla trasformazione di dati non strutturati presenti in Rete, di solito in formato HTML, in metadati che possono essere memorizzati e analizzati in locale in un database. Il web harvesting è altresì affine alla web automation, che consiste nella simulazione della navigazione umana in Rete attraverso l'uso di software per computer.
+Il web scraping si può usare per confrontare prezzi online, monitorare dati meteorologici, rilevare modifiche in un sito internet, nella ricerca scientifica, per il web mashup e il web data integration.
+
+
+== Tecniche ==
+
+
+== Questioni legali ==
+
+
+== Strumenti principali ==
+cURL
+Firebug
+Greasemonkey
+Httrack
+IMacros
+Node.js
+Wget
+
+
+== Note ==
+^ (EN) Web Scraping (su webopedia.com), webopedia.com. URL consultato il 17 dicembre 2012 (archiviato il 17 dicembre 2012).
+
+
+== Bibliografia ==
+(EN) Schrenk, Michael, Webbots, Spiders, and Screen Scrapers, 

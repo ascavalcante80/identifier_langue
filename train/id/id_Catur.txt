@@ -1,0 +1,99 @@
+Catur adalah permainan pikiran yang dimainkan oleh dua orang. Pecatur adalah orang yang memainkan catur, baik dalam pertandingan satu lawan satu maupun satu melawan banyak orang (dalam keadaan informal). Sebelum bertanding, pecatur memilih biji catur yang akan ia mainkan. Terdapat dua warna yang membedakan bidak atau biji catur, yaitu hitam dan putih. Pemegang buah putih memulai langkah pertama, yang selanjutnya diikuti oleh pemegang buah hitam secara bergantian sampai permainan selesai.
+
+
+== Arti istilah catur ==
+Kata catur diambil dari bahasa Sanskerta yang berarti "empat". Namun kata ini sebenarnya merupakan singkatan dari caturangga yang berarti empat sudut. Di India kuno permainan catur memang dimainkan oleh empat peserta yang berada di empat sudut yang berbeda. Hal ini lain dari permain catur modern di mana pesertanya hanya dua orang saja.
+Kemudian kata caturangga ini diserap dalam bahasa Persia menjadi shatranj. Kata chess dalam bahasa Inggris diambil dari bahasa Persia shah.
+
+
+== Ketentuan ==
+
+
+=== Pengaturan ===
+Permainan dilangsungkan di atas papan yang terdiri dari 8 lajur dan 8 baris kotak/petak berwarna hitam dan putih (atau terang dan gelap) secara berselang seling. Permainan dimulai dengan 16 buah pada masing-masing pihak, yang disusun berbaris secara khusus pada masing-masing sisi papan catur secara berhadap-hadapan. Satu buah hanya bisa menempati satu petak. Pada bagian terdepan masing-masing barisan - terdapat 8 pion, diikuti di belakangnya dua benteng, dua kuda (dalam bahasa Inggris disebut knight-ksatria), dua gajah (dalam bahasa Inggris disebut bishop-uskup), satu menteri atau ratu atau ster, serta satu raja.
+
+
+=== Gerakan ===
+Sebelum bertanding, pecatur memilih warna buah yang akan ia mainkan. Pemegang buah putih memulai langkah pertama, yang selanjutnya diikuti oleh pemegang buah hitam secara bergantian. Setiap langkah hanya boleh menggerakkan satu bidak saja (kecuali untuk rokade di mana ada dua bidak yang digerakkan). Bidak dipindahkan ke petak kosong, ataupun yang ditempati oleh bidak lawan, yang berarti menangkapnya dan memindahkan bidak lawan dari permainan. Ada pengecualian, yaitu untuk gerakan en passant.
+Setiap bidak catur memiliki gerakan yang unik sebagai berikut:
+Raja dapat bergerak satu petak ke segala arah. Raja juga memiliki gerakan khusus yang disebut rokade yang turut melibatkan sebuah benteng,Raja juga dapat melakukan gerakan untuk menahan Raja lain/men-skak Raja lawan apabila:semua bidak besar Raja telah habis dan tersisa 1 pion atau tidak memiliki sama sekali Bidak.
+Benteng dapat bergerak sepanjang petak horizontal maupun vertikal, tetapi tidak dapat melompati bidak lain. Seperti yang telah disebutkan di atas, benteng terlibat dalam gerakan rokade.
+Gajah dapat bergerak sepanjang petak secara diagonal, tetapi tidak dapat melompati bidak lain.
+Ratu memiliki gerakan kombinasi dari Benteng dan Gajah.
+Kuda memiliki gerakan mirip huruf L, yaitu memanjang dua petak dan melebar satu petak. Kudalah satu-satunya bidak yang dapat melompati bidak-bidak lain.
+Pion dapat bergerak maju (arah lawan) satu petak ke petak yang tidak ditempati. Pada gerakan awal, pion dapat bergerak maju dua petak. Pion juga dapat menangkap bidak lawan secara diagonal, apabila bidak lawan tersebut berada satu petak di diagonal depannya. Pion memiliki dua gerakah khusus, yaitu gerakan menangkap en passant dan promosi.
+
+
+=== Rokade ===
+
+Rokade (dalam bahasa Inggris, castling) merupakan gerakan khusus dalam catur di mana Raja bergerak dua petak menuju Benteng di baris pertamanya, kemudian meletakkan Benteng pada petak terakhir yang dilalui Raja. Persyaratan rokade adalah sebagai berikut:
+Bidak Raja dan Benteng yang akan dilibatkan dalam rokade harus belum pernah bergerak
+Tidak ada bidak lain di antara Raja dan Benteng
+Raja tidak sedang di-skak, dan petak-petak yang dilalui Raja tidak sedang diserang oleh bidak lawan
+Hal-hal berikut ini merupakan kesalah pengertian dalam rokade, yang semestinya tidak berlaku:
+Bidak benteng yang terlibat rokade sedang diserang
+Jika benteng yang dilibatkan berada di sisi Ratu, petak yang berada persis di samping Benteng tersebut tidak boleh dalam serangan
+
+
+=== En passant ===
+
+Ketika pion bergerak dua petak maju dan ada pion lawan yang berada satu petak dalam baris tujuan, maka pion lawan dapat menangkap dan menempati petak yang baru saja dilalui pion tersebut (seolah-olah pion tersebut bergerak satu petak maju). Namun, gerakan ini hanya dapat dilakukan sesaat setelah gerakan pion maju dua petak, atau hak lawan untuk melakukan gerakan en passant ini hilang.
+
+
+=== Promosi ===
+Ketika pion telah maju hingga menempati baris paling akhir, berbarengan dengan gerakan maju tersebut, pion dipromosikan dan harus ditukar dengan bidak berdasarkan keinginan pemain, yaitu Ratu, Benteng, Gajah, ataupun Kuda dengan warna yang sama. Pada umumnya, pion dipromosikan menjadi Ratu. Tidak ada peraturan yang membatasi bidak yang dipilih sebagai promosi, jadi dimungkinkan memiliki bidak yang melebihi jumlahnya waktu awal permainan (semisal, dua Ratu).
+
+
+=== Skak ===
+Ketika Raja sedang diserang oleh satu atau lebih bidak lawan, keadaan ini disebut dengan skak. Pemain yang Rajanya diskak harus menggerakkan Rajanya supaya tidak terserang. Hal ini dapat dilakukan dengan menangkap bidak lawan yang menyerang, menutup serangan lawan dengan menempatkan sebuah bidak di antaranya (apabila yang menyerang Ratu, Benteng, atau Gajah dan ada petak kosong di antara Raja dan bidak lawan), atau memindahkan Raja ke petak yang tidak sedang diserang. Rokade tidak diijinkan apabila Raja sedang diskak.
+
+
+=== Akhir Permainan ===
+Tujuan permainan adalah mencapai posisi skak mat. Hal ini bisa terjadi bila Raja terancam dan tidak bisa menyelamatkan diri ke petak lain. Tidak selalu permainan berakhir dengan kekalahan, karena bisa terjadi pula peristiwa seri atau remis di mana kedua belah pihak tidak mampu lagi meneruskan pertandingan karena tidak bisa mencapai skak mat. Peristiwa remis ini bisa terjadi berdasarkan kesepakatan maupun tidak. Salah satu contoh remis yang tidak berdasarkan kesepakatan - tetapi terjadi adalah pada keadaan remis abadi. Keadaan remis yang lain adalah keadaan pat, dimana yang giliran melangkah tidak bisa melangkahkan buah apapun termasuk Raja, tetapi tidak dalam keadaan terancam skak. Dalam pertandingan catur pihak yang menang biasanya mendapatkan nilai 1, yang kalah 0, sedang draw 0.5.
+Buah putih
+
+Buah hitam
+
+
+== Berbagai versi ==
+Terdapat berbagai macam versi permainan Catur - Catur Klasik, Catur Cepat, Catur Kilat, Catur Buta, Catur Simultan, Catur Tandem, Catur Estafet, Catur Online, Catur Korespondensi, Catur Kartu,Catur Jawa dan ada juga Catur Karo (Suku karo SUMUT)... dimana gerakan beberapa buah catur berbeda dengan Gerakan Catur Konvensional
+
+
+== Juara ==
+
+Seorang pecatur yang telah memenangi berbagai turnamen berhak mendapatkan gelar catur yang sesuai dengan prestasinya. Dalam dunia catur terdapat beberapa macam gelar - Gelar Internasional yaitu Grandmaster (GM), Grandmaster Wanita (GMW), Master Internasional (MI), Master Internasional Wanita (MIW), Master FIDE (MF), Master FIDE Wanita (MFW), Candidate Master (CM) dan Woman Candidate Master Wanita (WCM). Gelar Internasonal dikeluarkan oleh FIDE (Organisasi Catur Dunia). Dan di Indonesia juga dikenal gelar lokal yaitu Master Nasional (MN), Master Nasional Wanita (MNW), Master Percasi (MP) dan Master Percasi Wanita (MPW). Gelar nasional dikeluarkan oleh PERCASI (Persatuan Catur Seluruh Indonesia).
+
+
+== Daftar pecatur ==
+Indonesia saat ini sudah mempunyai 7 pecatur yang bergelar Grandmaster (GM) yaitu :
+Utut Adianto
+Edhi Handoko (Almarhum)
+Cerdas Barus
+Ruben Gunawan (Almarhum)
+Ardiansyah
+Susanto Megaranto (Grandmaster termuda)
+Herman Suradiradja (Grandmaster pertama)
+Sedang pecatur yang bergelar Master Internasional (MI) antara lain :
+Danny Juswanto (Norma GM)
+Dede Liu
+Nasib Ginting
+Salor Sitanggang
+Ivan Situru
+Irwanto Sadikin
+Ir. Tirto (Norma GM)
+Taufik Halay
+Ronny Gunawan (Norma GM)
+Andi Supardi Suhendra
+Tirta Chandra Purnama
+Bobby Kurniawan
+Farid Firmansyah
+Muhammad Miftah Farid
+Yang bergelar Master FIDE (MF) saat ini antara lain :
+Hamdani Rudin
+Awam Wahono
+Anjas Novita
+Nurdin Askali
+Kifli Tunasli
+Syarif Mahmud
+Kasmiran
+Benny Ki

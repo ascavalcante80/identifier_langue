@@ -1,0 +1,116 @@
+Un site, site web (de l'anglais website, littéralement « site de la toile d'araignée » en français) est un ensemble de pages web et de ressources liées et accessible par une adresse web. Un site web est hébergé sur un serveur web, lui-même accessible via un réseau internet ou intranet. Le site web contient textes et multimédia.
+
+
+== HistoireModifier ==
+Le World Wide Web (WWW) a été créé en 1989 par l’ingénieur anglais du CERN Tim Berners-Lee. Le web a été basiquement conçu pour partager automatiquement des informations entre les scientifiques, universités et instituts du monde entier. info.cern.ch fut le premier site web mis en ligne, fonctionnant sur un ordinateur NeXT au CERN. Ce site est toujours accessible sur internet.
+Avant l’introduction de HTML et HTTP, d’autres protocoles tels que FTP et Gopher étaient utilisés pour obtenir des fichiers depuis un serveur. Ces protocoles offraient une organisation hiérarchique de répertoires dans lesquels l’utilisateur naviguait et choisissait les fichiers à télécharger. Les documents étaient principalement des fichiers texte sans mise en page et des fichiers encodés par un traitement de texte.
+
+
+== DéfinitionModifier ==
+Aujourd’hui, le Web est accessible via le protocole HTTP (HyperText Transfer Protocol) et les URL (Uniform Resource Locator). Les fichiers hébergés sur le site web reposent sur du HTML (HyperText Markup Language) + d'autres langages complémentaires. Le protocole HTTP permet au client (généralement via un navigateur web) d'accéder à des ressources par un URL. HTML et de structurer les données ou lier les ressources entre elles, notamment avec des liens hypertexte.
+On parle parfois de "site internet" au lieu de "site web". On devrait parler de website à destination d'internet, mais par abus de langage, l'expression site internet reste souvent utilisée. Les websites ne sont pas forcément accessibles sur internet. Par exemple, les intranet peuvent contenir un ou plusieurs sites web non accessibles via internet.
+
+
+== Organisation d'un projet webModifier ==
+
+Les différentes étapes de la conduite d'un projet web peuvent être résumées ainsi :
+lancement : étude des besoins, de la concurrence et de l'existant pour l'établissement d'un cahier des charges ;
+conception : élaboration de la structure (arborescence), du contenu des pages web, du graphisme, qui font partie du cahier des charges fonctionnel ;
+réalisation : voir ci-dessous ;
+production : le site est mis en ligne, devient accessible au public ciblé ;
+exploitation : phase de maintenance et de promotion du site, avec notamment le référencement naturel (Netlinking) ou payant (Google Adwords, Microsoft Adcenter, ou autres).
+L'étape de réalisation comprend :
+la réservation et gestion d'un nom de domaine (l’adresse web à laquelle le site est accessible) ;
+la mise en œuvre d'une infrastructure d'hébergement du site (serveurs web, base de données...) ;
+le développement de l'interface utilisateur (frontend), la partie visible dans le navigateur ; les différentes pages sont décrites en langages connus des navigateurs web, principalement HTML, CSS et JavaScript. Les éléments graphiques sont intégrés dans ces pages ;
+le développement de l'arrière plan (backend), la partie qui fonctionne côté serveur.
+La création d'un site peut être confiée à une agence web ou faite soi-même. Si la création est confiée à une agence web il est important en amont d'avoir défini un premier cadrage ou cahier des charges du projet. Pour développer un site web soi-même, il est possible d'utiliser un éditeur de pages web ; pour les développeurs web avertis, un simple éditeur de texte peut suffire. On peut aussi avoir recours à un système de gestion de contenu.
+
+
+== Systèmes de gestion de contenuModifier ==
+Les systèmes de gestion de contenu (initiales SGC, CMS en anglais) permettent de fabriquer des sites internet en utilisant des modèles pré établis faits par des programmeurs ou des communautés de programmeurs (voir Liste de systèmes de gestion de contenu). Ces logiciels sont disponibles pour les débutants et simplifient certaines étapes comme la programmation informatique ou l'architecture du site. Les procédures de demande du nom de domaine, d'hébergement du site et de référencement sont semblables aux sites personnalisés classiques.
+
+
+== Structure des pagesModifier ==
+Un site web est un ensemble de pages qui peuvent être consultées en suivant des hyperliens à l'intérieur du site. L'adresse web d'un site correspond en fait à l'URL d'une page web, prévue pour être la première consultée : la page d'accueil. La consultation des pages d'un site s'appelle une « visite », car les hyperliens devraient permettre de consulter toutes les pages du site sans le quitter (sans devoir consulter une page web hors du site). Une visite peut commencer par n'importe quelle page, particulièrement lorsque son URL est donnée par un moteur de recherche. Techniquement, rien ne distingue la page d'accueil d'une autre page.
+
+
+== Sites statiques et dynamiquesModifier ==
+
+On distingue deux types de sites : les sites statiques et les sites dynamiques.
+
+
+=== Sites statiquesModifier ===
+Ces sites ont le mécanisme de fonctionnement le plus simple : les URL correspondent à un fichier renvoyé par le serveur web. Le contenu des pages d'un site statique ne dépend donc pas de variables telles que la date ou de bases de données. Pour changer le contenu d'une page, il est nécessaire de changer le contenu du fichier.
+En outre, les visiteurs peuvent seulement voir le contenu du site mais pas y participer. Pour les réaliser, seuls les langages dits de d'interface utilisateur (frontend) sont nécessaires, c'est-à-dire HTML, CSS et JavaScript (en théorie, il est toutefois possible d'utiliser uniquement le HTML).
+Le HTML permet d'écrire le contenu de sa page ;
+Le CSS permet de la décorer ;
+JavaScript permet d'ajouter du dynamisme, mais uniquement du côté du navigateur (par exemple des animations graphiques).
+
+
+=== Sites dynamiquesModifier ===
+Au contraire ces sites offrent un contenu qui peut évoluer dans le temps. Des programmes tournent du côté des serveurs, à l'arrière plan, (backend) pour générer les pages du site. Ces programmes peuvent se servir de bases de données ou autres sources de données pour composer les pages qui seront affichées dans le navigateur.
+Ce dynamisme apporte des fonctionnalités que ne peuvent offrir les sites dits statiques. Par exemple les visiteurs peuvent y participer (commentaires sur un blog, changement du contenu des pages d'un wiki...). Pour les réaliser, on a également besoin de HTML, de CSS et de JavaScript, mais les programmes qui tournent du côté serveur utilisent d'autres langages qui peuvent créer dynamiquement les pages. Il existe plusieurs langages pour créer ces pages (Java, C#, PHP, Ruby, Python, etc.). Leurs rôles est d'analyser les requêtes des visiteurs pour ensuite fabriquer une réponse adaptée.
+
+
+== NombreModifier ==
+Le nombre de sites web est en progression constante, :
+
+
+=== En fonction de la taille et du type d'entrepriseModifier ===
+Le nombre de sites a augmenté rapidement en 2005 et en 2006 grâce à la popularité croissante des blogs, des pages personnelles et des sites de petites entreprises.[réf. nécessaire]
+
+
+=== Selon les paysModifier ===
+En juillet 2002, les statistiques, en nombre de sites par habitant, montrent une disparité très forte entre les pays :
+ Allemagne : 85 ‰
+ Danemark : 72 ‰
+ Royaume-Uni : 64 ‰
+ États-Unis : 64 ‰
+ France : 11 ‰
+
+
+== TechnologiesModifier ==
+Les technologies mises en œuvre pour un site web sont multiples. On peut les classer ainsi :
+
+
+=== Protocoles de communicationModifier ===
+Hypertext Transfer Protocol (HTTP)
+Hypertext Transfer Protocol Secured (HTTPS)
+
+
+=== Formats de contenus webModifier ===
+Formats de documents :
+Hypertext Markup Language (HTML) ;
+Extensible HyperText Markup Language (XHTML).
+Cascading Style Sheets (En français : Feuilles de style en cascade) (CSS).
+Formats d'images graphiques. Utilisés pour agrémenter les pages et sont reconnus par tous les navigateurs web.
+Graphics Interchange Format (GIF)
+JPEG File Interchange Format (JFIF)
+Portable Network Graphics (PNG) ;
+Autres formats souvent utilisés, requièrent un module d'extension, ou plug-in, sur le navigateur pour fonctionner :
+Applets Java
+Macromedia Flash
+SVG
+
+
+=== Technologies serveurModifier ===
+Server Side Includes (SSI) ;
+PHP: Hypertext Preprocessor (PHP) ;
+JavaServer Pages (JSP) ;
+JavaServer Faces (JSF) ;
+Common Gateway Interface (CGI) ;
+Base de données ;
+Active server pages (ASP).
+
+
+== Maintenance de site webModifier ==
+La maintenance d’un site web consiste en général à s’assurer de son bon fonctionnement ; on peut distinguer quatre types de maintenances :
+
+
+=== La maintenance correctiveModifier ===
+Elle consiste à corriger les problèmes et les défauts de fonctionnement ayant survenu d’une manière inattendue.
+
+
+=== La maintenance préventiveModifier ===
+Un problème a été identifié, mais n’est pas apparu ; alors, p

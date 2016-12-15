@@ -1,0 +1,42 @@
+-C++)
+Gatling HTTP-, FTP- und SMB-Server (GNU General Public License)
+Goron (GNU General Public License)
+Hiawatha (GNU General Public License)
+Hunchentoot (Webserver in Common Lisp, BSD-artige Lizenz)
+iPlanet (Sun Microsystems)
+Jetty (für Webapplikationen in Java)
+W3C Jigsaw (Open Source)
+KF Web Server (KeyFocus, Freeware)
+lighttpd (BSD-Lizenz)
+Microsoft Internet Information Services (IIS)
+Monkey (ressourcenoptimierter Webserver in C; Apache-Lizenz)
+MyServer (MyServer Project; freie Software)
+nginx (BSD-artige Lizenz)
+QtWebApp (C++ Library, Open Source, Lesser GNU Public License)
+Roxen (Webserver) (Roxen Internet Software; GNU General Public License)
+Sun Java System Web Server (Sun Microsystems)
+tclhttpd (scriptfähiger Webserver in Tcl; freie Software)
+thttpd (ACME Laboratories; freie Software)
+Tntnet (für Webapplikationen in C++)
+Tux (GNU General Public License)
+WN server (GNU General Public License)
+Xitami (iMatix Corporation; freie Software)
+Zope (Zope Corporation, freie Software)
+Siehe auch: Vergleich von Webservern in der englischsprachigen Wikipedia
+
+
+== Siehe auch ==
+Virtual Hosting
+Common Gateway Interface
+Servlet
+
+
+== Weblinks ==
+
+Mit 165 Wörtern in die Zukunft. (Stern-Artikel zum 20-Jahr-Jubiläum des WWW)
+Servicing the first web server - Tim Berners-Lee's NeXT (Bilder des ersten Webservers, betrieben durch Tim_Berners-Lee)
+
+
+== Einzelnachweise ==
+↑ CERN httpd. World Wide Web Consortium. Abgerufen am 25. April 2009.
+↑ a b c [1]

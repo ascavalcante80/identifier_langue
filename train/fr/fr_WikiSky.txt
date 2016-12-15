@@ -1,0 +1,28 @@
+SKY-MAP.ORG (ou WikiSky.org) est un wiki et une carte du ciel interactive qui couvre plus d'un demi-milliard d'objets célestes. Les utilisateurs peuvent voir tout le ciel étoilé à la fois et zoomer pour voir des zones plus en détail. WikiSky comprend de nombreuses étoiles, des galaxies, des constellations et des planètes, mais il est encore en développement. Les utilisateurs peuvent également modifier les informations sur les différentes étoiles par la rédaction d'articles, l'ajout de liens Internet, le téléchargement d'images et la création de groupes d'intérêt spéciaux pour des tâches spécifiques.
+
+
+== Histoire ==
+
+
+== Logiciel ==
+L'utilisateur peut parcourir le ciel soit en mode carte ou en mode SDSS. Dans chaque mode, l'utilisateur peut accéder au nom et une brève description des objets visibles. Ceci peut être utilisé pour accéder à des informations plus détaillées, y compris des articles et des images.
+SKY-MAP.ORG a aussi sa propre API afin que du code puisse être écrit pour accéder aux cartes, à l'information des objets et aux données SDSS. L'API a plus de fonctionnalités que la partie interactive du site n'en utilise actuellement.
+
+
+== Les droits d'auteur des images Wikisky ==
+Quelques images de Wikisky, comme les images Digitized Sky Survey (DSS2) et Sloan Digital Sky Survey (SDSS) sont à « utilisation non commerciale ». Les droits des DSS sont détenus par diverses institutions. Les données SDSS sont aussi à « utilisation non commerciale » . Les images de Hubble (HST), Spitzer (infrarouge) ou du télescope spatial Galaxy Evolution Explorer (ultraviolet) sont « PD-National Aeronautics and Space Administration-USgov ».
+
+
+== Cartes similaires ==
+WorldWide Telescope
+Stellarium
+Google Sky (en)
+
+
+== Références ==
+
+
+=== Notes ===
+
+
+==

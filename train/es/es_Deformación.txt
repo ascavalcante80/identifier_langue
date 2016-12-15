@@ -1,0 +1,41 @@
+La deformación es el cambio en el tamaño o forma de un cuerpo debido a esfuerzos internos producidos por una o más fuerzas aplicadas sobre el mismo o la ocurrencia de dilatación térmica.
+
+
+== Medidas de la deformaciónEditar ==
+
+
+=== Deformación unidimensionalEditar ===
+La magnitud más simple para medir la deformación es lo que en ingeniería se llama deformación axial o deformación unitaria se define como el cambio de longitud por unidad de longitud:
+
+(*)de la misma magnitud 
+
+Donde  es la longitud inicial de la zona en estudio y  la longitud final o deformada. Es útil para expresar los cambios de longitud de un cable o un prisma mecánico. La deformación calculada de acuerdo a (*) se llama deformación ingenieril. En la práctica se pueden usar otras medidas relacionadas con estas como el estiramiento:
+
+La deformación axial logarítmica o deformación de Hencky que se define como:
+
+La deformación de Green-Lagrange viene dada por:
+
+La deformación de Euler-Almansi viene dada por:
+
+
+=== Deformación de un cuerpoEditar ===
+En la mecánica de sólidos deformables la deformación puede tener lugar según diversos modos y en diversas direcciones, y puede además provocar distorsiones en la forma del cuerpo, en esas condiciones la deformación de un cuerpo se puede caracterizar por un tensor (más exactamente un campo tensorial) de la forma:
+
+Donde cada una de las componentes de la matriz anterior, llamada tensor deformación representa una función definida sobre las coordenadas del cuerpo que se obtiene como combinación de derivadas del campo de desplazamientos de los puntos del cuerpo.
+
+
+== Deformaciones elástica y plásticaEditar ==
+Tanto para la deformación unitaria como para el tensor deformación se puede descomponer el valor de la deformación en:
+Deformación plástica, irreversible o permanente. Modo de deformación en que el material no regresa a su forma original después de retirar la carga aplicada. Esto sucede porque, en la deformación plástica, el material experimenta cambios termodinámicos irreversibles al adquirir mayor energía potencial elástica. La deformación plástica es lo contrario a la deformación reversible.
+Deformación elástica, reversible o no permanente, el cuerpo recupera su forma original al retirar la fuerza que le provoca la deformación. En este tipo de deformación, el sólido, al variar su estado tensional y aumentar su energía interna en forma de energía potencial elástica, solo pasa por cambios termodinámicos reversibles.
+Comúnmente se entiende por materiales elásticos, aquellos que sufren grandes elongaciones cuando se les aplica una fuerza, como la goma elástica que puede estirarse sin dificultad recuperando su longitud original una vez que desaparece la carga. Este comportamiento, sin embargo, no es exclusivo de estos materiales, de modo que los metales y aleaciones de aplicación técnica, piedras, hormigones y maderas empleados en construcción y, en general, cualquier material, presenta este comportamiento hasta un cierto valor de la fuerza aplicada; si bien en los casos apuntados las deformaciones son pequeñas, al retirar la carga desaparecen.
+Al valor máximo de la fuerza aplicada sobre un objeto para que su deformación sea elástica se le denomina límite elástico y es de gran importancia en el diseño mecánico, ya que en la mayoría de aplicaciones es éste y no el de la rotura, el que se adopta como variable de diseño (particularmente en mecanismos). Una vez superado el límite elástico aparecen deformaciones plásticas (que son permanentes tras retirar la carga) comprometiendo la funcionalidad de ciertos elementos mecánicos.
+
+
+== Conceptos relacionadosEditar ==
+
+
+=== DesplazamientosEditar ===
+Cuando un medio continuo se deforma, la posición de sus partículas materiales cambia de ubicación en el espacio. Este cambio de posición se representa por el llamado vector desplazamiento, u = (ux, uy, uz). No debe confundirse desplazamiento con deformación, porque son conceptos diferentes aunque guardan una relación matemática entre ellos:
+
+donde  son las componentes del tensor deformación de Green-Lagrange. La diferencia entre defomración y desplazamiento puede ilustrarse considerando un voladizo o ménsula empotrada en un extremo y libre 

@@ -1,0 +1,51 @@
+Wikimedia Commons ist eine internationale freie Sammlung von Bildern, Videos und Audiodateien. Die Datenbank ist mit Wikipedia und anderen Projekten verknüpft, so dass die Dateien, hauptsächlich Bilder, in Wikipedia direkt aus Commons eingebunden werden. Das Medienarchiv ist kostenfrei und zum Aufrufen ohne Anmeldung nutzbar. Der Name leitet sich vom englischen Wort “commons” (deutsch: „Allmende“) ab, im Sinne eines Ortes, den alle Dorfbewohner nutzen dürfen.
+Betreiberin von Wikimedia Commons ist die Stiftung Wikimedia Foundation (USA). Das Medienarchiv wurde am 7. September 2004 für die Aufbewahrung von Material für alle Wikimedia-Projekte, beispielsweise Wikipedia, gegründet. Derzeit gibt es 4,8 Mio. registrierte Benutzer.
+Auf Wikimedia Commons dürfen nur Medien (Inhalte) hochgeladen werden, die den Ansprüchen des Freien Wissens entsprechen. Damit können sie weltweit in den Wikimedia-Projekten, wie beispielsweise der Wikipedia, verwendet werden. Allerdings darf auch sonst jedermann die Medien verwenden, kostenlos und ohne Erlaubnis, wobei die Angabe der für die Datei gültigen Lizenz notwendig ist und zum Teil die Angabe des Autors.
+Urheberrechtlich gesehen fallen die Inhalte in zwei Gruppen:
+Public Domain: Inhalte sind nicht mehr urheberrechtlich geschützt, etwa, weil der Urheber vor mehr als siebzig Jahren verstorben ist. Ein Beispiel hierfür ist eine Abbildung der Mona Lisa. Andere Urheber haben Werke bewusst ohne Urheberrechtsanspruch veröffentlicht. Alle diese Werke können ohne Anforderungen verwendet werden.
+Freie Lizenz: Eine Lizenz ist in diesem Zusammenhang ein Rechtstext, der beschreibt, was mit den so lizenzierten Werken getan werden darf und unter welchen Bedingungen. Hat der Urheber ein Werk beispielsweise mit der freien Lizenz CC-BY veröffentlicht, dann darf es unter zwei Bedingungen weiterverwendet werden: Der Urheber muss genannt werden und ebenso die betreffende Lizenz.
+
+
+== Geschichte und aktueller Bestand ==
+Der deutsche Informatiker Erik Möller schlug das Projekt im März 2004 vor, im September desselben Jahres wurde es realisiert. Am 7. September 2004 ging Commons online.
+Wikimedia Commons ist mit mehr als 25 Millionen Mediendateien eine der größten freien Mediensammlungen der Welt. Ein Jahr nach der Gründung hielt sie über 250.000 Mediendaten zur freien Verfügung bereit. Das Gesamtvolumen der Sammlung beträgt über 41 Terabyte, davon 40 Terabyte Bilder. Am 14. Juli 2013 erreichte die Zahl der Edits die 100-Millionen-Marke.
+Die maximale Datenmenge einer Datei beträgt standardmäßig 100 Mebibyte (104.857.600 Bytes). Registrierte Benutzer können das Limit bei „Chunked uploads“ selbst auf 1 Gibibyte (1.048.576.000 Bytes) setzen. Beim „server-side uploads“ existiert keine Deckelung bei der Dateigröße.
+
+
+== Ziele ==
+Die gemeinsame und sprachübergreifende Dateiverwaltung für alle Wikimedia-Projekte hat den Vorteil, dass die Mediendateien nicht mehr für jedes Wiki einzeln hochgeladen werden müssen. Hauptsächlich sind die Dateien durch die Suchfunktionen, durch Kategorien und zum Teil auch durch Galerien (ähnlich den Artikeln bei Wikipedia) erschlossen bzw. auffindbar. In vielen Wikipedia-Artikeln befindet sich am Ende im Abschnitt „Weblinks“ ein Link auf die entsprechende Galerie-Seite oder Kategorie bei Wikimedia Commons. So können die Wikipedia-Leser schnell nachsehen, welche Mediendateien es zu einem Thema bei Wikimedia Commons gibt.
+Der Projektrahmen von Wikimedia Commons besagt, dass die beinhalteten Mediendateien edukativen Charakters sein sollen, wobei edukativ im Sinne von „Wissen bereitstellend; lehrreich oder informativ“ verstanden werden soll. Sie sollen also sinnvoll beispielsweise in der Wikipedia oder einem anderen Wikimedia-Projekt verwendbar sein. Andere Mediendateien sind nützlich für die Arbeit der Wikimedia-Community selbst.
+
+
+== Inhalte ==
+
+Fotografien machen den überwiegenden Teil aus, daneben weiteres Bildmaterial wie Karten, Grafiken, Animationen und Scans. Des Weiteren finden sich dort unter anderem auch mehrere tausend Audioaufzeichnungen von Wörtern, um die korrekte Aussprache zu demonstrieren. Diese werden vor allem in den Wiktionaries, aber auch in Sprachversionen der Wikipedia verwendet. Es gibt hunderte von Aufnahmen klassischer Musik von Komponisten wie Bach, Brahms, Beethoven, Mozart und Tschaikowski sowie eine wachsende Anzahl von Filmaufnahmen historischer Reden, Auszüge aus gemeinfreien Filmen oder wissenschaftliche Kurzvideos.
+Auch Digitalisate von ganzen Büchern befinden sich auf Wikimedia Commons, zum Beispiel das 2006 digitalisierte Rechenbuch des Andreas Reinhard aus dem 16. Jahrhundert. Textdateien sind eher eine kleinere Gruppe.
+
+
+=== Dateiformate ===
+Es werden lediglich quelloffene und nicht patentierte Standards eingesetzt. Akzeptierte Audioformate sind Ogg (mit FLAC, Speex oder Vorbis Codecs), WAV, WebM sowie MIDI. Videos können als Ogg Theora und WebM hochgeladen werden. Für Bilder und Grafiken sind die Formate Scalable Vector Graphics (SVG), Portable Network Graphics (PNG), Graphics Interchange Format (GIF), Tagged Image File Format (TIFF), JPEG und XCF (GIMP) möglich. Für eingescannte Texte wird teilweise DjVu eingesetzt. Des Weiteren wird das Format PDF (für Texte) unterstützt.
+Die Zulassung des patentgeschützten MP4-Video-Formats auf Commons wurde in einer vom Multimedia-Team der Wikimedia Foundation Anfang 2014 initiierten Request for Comments von der Community mit großer Mehrheit abgelehnt.
+
+
+=== Verwendung ===
+Auf Wikimedia Commons werden Dateien akzeptiert, die entweder gemeinfrei (Public Domain) sind oder vom Rechteinhaber unter eine Freie Lizenz gestellt wurden. Die Creative-Commons-Lizenz CC-BY-SA, unter der z.B. auch die Texte der Wikipedia stehen, ist die vom Uploadern am häufigsten gewählte Lizenz. Da die Server in den Vereinigten Staaten stehen, muss die Datei dort und im Herkunftsland legal sein. Dateien von Wikimedia Commons werden aufgrund ihrer Freien Lizenz auch außerhalb der Wikimedia-Projekte verwendet, auch außerhalb des Internets.
+
+
+=== Auszeichnungen und Wettbewerbe ===
+Besonders gute Bilder können eine Auszeichnung in Wikimedia Commons erhalten. Solche Auszeichnungen sind:
+Wertvolle Bilder (englisch Valued pictures)  derzeit über 12.090 wertvolle Bilder und 284 wertvolle Bildergruppen (Valued image sets)
+Qualitätsbilder (englisch Quality pictures)  derzeit über 91.600 Bilder und
+Exzellente Bilder (englisch Featured pictures)  seit November 2004 – „das Beste auf Commons“, derzeit 6.959 Bilder
+Seit 2006 wird jährlich ein Bild des Jahres gekürt. Außerdem wird seit 2004 täglich ein Bild des Tages und eine Multimediadatei des Tages präsentiert.
+Alle Auszeichnungen werden per Abstimmung vergeben, dies schließt auch die exzellenten Bilder aus Wikipedia-Sprachversionen ein.
+Bilder des Jahres
+
+
+== Herkunft der Medien ==
+Häufig sind es Freiwillige der Wikimedia-Projekte wie der Wikipedia, die Medien „produzieren“ und hochladen. Zum Teil wird dies von den Wikimedia-Verbänden wie Wikimedia Deutschland gefördert oder angeregt, etwa mit der Initiative Wiki Loves Monuments.
+Organisationen und Privatleute haben mehrmals große Teile ihrer Sammlung zur Verfügung gestellt. Unter anderem spendete das YorckProject im April 2005 rund 10.000 Digitalisate von Kunstwerken alter Meister. Im Dezember 2008 beispielsweise erhielt Wikimedia Commons durch eine Kooperation mit dem deutschen Bundesarchiv eine Spende von über 100.000 Fotografien – mehrheitlich zum Thema deutsche Geschichte. Ein Beispiel für eine große Privatspende ist die Fotosammlung des Mineralienhändlers Robert Lavinsky aus den USA, bestehend aus insgesamt rund 50.000 Fotografien von Mineralien.
+
+
+== Mitarbeit ==
+Bearbeiten darf bis auf wenige gesperrte Seiten jedermann auch ohne Anmeldung. Ein Sichtungsverfahren wurde im März 2010 eingeführt. Das Hochladen von Medien ist nur für angemeldete Benutzer möglich. Verschiedene Hilfsprogramme helfen dabei, Dateien 

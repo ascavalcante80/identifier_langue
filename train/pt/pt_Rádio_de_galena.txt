@@ -1,0 +1,22 @@
+O rádio de galena é um dos receptores mais simples de modulação AM que se pode construir. Ele utiliza as propriedades semicondutoras do mineral galena, um dos primeiros semicondutores utilizados, ou seja, antes do germânio e silício. Ele demanda uma antena de grande extensão (tipicamente 15 m de fio cru, um circuito ressonante formado por uma bobina em um capacitor, em que um deles é variável (vide indutor variável e capacitor variável) sintonizado na frequência AM de interesse, passando por um circuito retificador (formado pelo diodo de galena) associado com um circuito "passa-baixa" do tipo RC (resistor-capacitor) que filtra as altas freqüências. O sinal sintonizado, retificado e filtrado é transmitido diretamente a um transdutor de alta impedância do tipo transdutor de cristal como monofone (alto-falante). O rádio de galena não necessita de fonte de energia para produzir som audível no monofone pois toda a energia é captada pela antena de grandes dimensões, tipicamente de 1/2, 1/4 e 1/8 do comprimento de onda a ser sintonizado.
+
+
+== Esquema Elétrico ==
+O esquema elétrico de um rádio de galena é muito simples, e uma das implementações é representada na figura abaixo:
+
+Existem outras formas de implementar um rádio de galena, sobretudo quando o elemento sintonizador variável é o indutor.
+
+
+== Esquema de Blocos ==
+O Esquema de blocos de um Rádio de Galena, cujo elemento variável de sintonização é um capacitor, é descrito no esquema a seguir:
+
+Nesse diagrama, o primeiro bloco é formado pelo sintonizador de frequência AM. A frequência de sintonização é dada pela fórmula de Hertz:
+
+ rad/s
+
+ou
+
+ Hertz
+
+Se o capacitor variável é de duas seções de 265 pF associadas em paralelo, obtendo-se 530 pf, o indutor necessário para sintonizar as freqüências das rádios AM (530 até 1700 Khz) é de 0,18 mH.
+O segundo bloco é formado pelo demodulador de AM que consiste de um retificador de altas-frequências formado pelo Diodo de Galena  (que também pode ser substituído por um diodo moderno de RF como o 1N4148 ou mesmo por diodos de germânio p

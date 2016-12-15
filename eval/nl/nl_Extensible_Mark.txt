@@ -1,0 +1,13 @@
+middel van XML-RPC, RPC staat voor Remote Procedure Call, van de client (kantoor) naar de server (website) gestuurd. Deze haalt nieuwe gegevens uit de database van de website en zet deze in een XML-bestand. Het bestand wordt dan door middel van SOAP via het HTTP-protocol verstuurd. Een connectie met een database als Access of een ERP-pakket als SAP of Navision wordt tot stand gebracht met ODBC-drivers. Wanneer dit bestand aankomt op de server van de aanvrager, moet het XML-bestand omgezet worden naar de waarden van het informatiesysteem van de aanvrager. Dat gebeurt door middel van een DTD- of een XSLT-bestand. Na omzetting ontstaat een nieuw XML-bestand dat vervolgens ingeladen kan worden in het informatiesysteem. Dit hele gebeuren werkt voor een kantoormedewerker automatisch.
+
+
+== Zie ookBewerken ==
+libxml2
+XBRL
+Categorie:XML-gebaseerde standaard
+
+
+== Externe linksBewerken ==
+(en) XML.org
+(en) De officiële standaard en omringende informatie bij het World Wide Web Consortium
+(nl) XML in 10 punten, een korte Nederlandstalige inleiding op XML van het World Wide Web Consortium, de instantie die de XML-standaard beheert

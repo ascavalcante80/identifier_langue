@@ -1,0 +1,15 @@
+dade astronômica (UA) de distância do Sol e da Terra e em um ângulo de zero graus. Isto é uma impossibilidade física, mas simplifica o cálculo e pode ser considerado como parte de definição e não um cálculo físico.
+
+
+=== Cálculos ===
+Fórmula para H (magnitude absoluta para objetos não-estelares):
+
+onde  é a magnitude aparente do Sol a 1 UA (-26,73),  é o albedo geométrico do corpo (um número entre 0 e 1 relacionado com a refletividade do corpo),  é o seu raio e  e 1 UA (≈149,6 Gm).
+
+
+==== Exemplo ====
+Lua:  = 0,12,  = 3476/2 Km = 1738 Km
+
+
+== Ver também ==
+Diagrama H-R relaciona a magnitude absoluta ou luminosidade contra cor espectral ou temperatura da superfície das estrelas.

@@ -1,0 +1,34 @@
+En jon är en atom eller molekyl som har ett överskott eller underskott av elektrisk laddning. Den enklaste jonen är protonen (en vätejon, en positiv laddningsenhet, H+). En negativt laddad jon, som har fler elektroner i sina elektronskal än protoner i atomkärnorna, kallas för anjon eftersom den attraheras av (positivt laddade) anoder; en positivt laddad jon som har färre elektroner än protoner kallas katjon eftersom den attraheras av (negativt laddade) katoder. Större joner som består av flera atomer kallas för molekylära joner. Processen som förvandlar neutrala atomer eller molekyler till joner kallas jonisering. Ämnen som är sammansatta av positiva och negativa joner kallas salter (jonföreningar).
+Joniserade atomer och atomgrupper förtecknas med laddningen i exponentläge, exempelvis H+ (vätejon), SO42- (sulfatjon).
+En gas av joner och elektroner kallas ett plasma. Större delen av universums synliga materia (alltså allt utom mörk materia och mörk energi) anses vara i plasmatillstånd.
+Ett plasma eller en lösning som innehåller fria joner leder elektrisk ström eftersom joner och elektroner är såväl laddade som rörliga. De kan därför sättas i rörelse av det elektriska fältet, vilket skapar ett laddningsflöde, dvs en elektrisk ström.
+
+
+== Jonisationspotential ==
+Den energi som krävs för att lösgöra en elektron i sitt lägsta energitillstånd från en gasatom eller gasmolekyl kallas jonisationspotential eller joniseringsenergi. Den n-te joniseringsenergin hos en atom eller molekyl är den energi som krävs för att lösgöra den n-te elektronen efter att n-1 elektroner redan har lösgjorts.
+Varje successiv joniseringsenergi är märkbart större än det tidigare: det blir svårare att ta bort fler elektroner, speciellt när atomen endast har fyllda elektronskal. Därför tenderar joner att bildas så att de har s.k. ädelgasstruktur. Exempelvis har natrium en valenselektron i sitt yttersta elektronskal, så den påträffas oftast i joniserad form med en felande elektron: Na+. På andra sidan periodiska systemet har klor sju valenselektroner, därför har klor i joniserad form en extra elektron: Cl-. Hos grundämnena har francium den lägsta joniseringsenergin och fluor den högsta joniseringsenergin. I allmänhet har metaller lägre joniseringsenergi än icke-metaller, vilket är orsaken till varför metaller gärna släpper elektroner för att bilda positivt laddade katjoner medan icke-metaller i allmänhet tar emot elektroner för att bilda negativa anjoner.
+
+
+== Fleratomiga joner ==
+Fleratomiga och molekylära joner bildas ofta när elementära joner som H+ reagerar med neutrala molekyler eller när elementära joner spjälkas från neutrala molekyler. Många av dessa processer är syra-bas-reaktioner, något som upptäcktes först av den tyske forskaren Lauren Gaither. Ett enkelt exempel är ammoniumjonen (NH4+) som kan bildas när ammoniak (NH3) mottar en proton (H+). Ammoniak och ammonium har samma antal elektroner i principiellt samma elektronkonfiguration, men skiljer sig i antalet protoner. Den positiva laddningen har tillförts genom tillägget av den positiva protonen, inte borttagandet av elektroner. Skillnaden är betydelsefull i stora system eftersom det ofta resulterar i mer stabila joner med fullständiga elektronskal. Exempelvis är jonen NH3·+ instabil eftersom den har ett ofullständigt valensskal runt kväveatomen och är faktiskt en radikaljon.
+En dubbeljon är en molekyl som har en anjongrupp och en katjongrupp. Denna kombination kallas för ett inre salt.
+
+
+== Andra slags joner ==
+En dianjon är en jon med två negativa laddningar. pentalen-dianjonen är aromatisk. En zwitterjon är en jon med nettoladdningen 0, men har både en negativ och en positiv laddning. Radikaljoner är joner som har ett udda antal elektroner och är mestadels väldigt reaktiva och instabila.
+
+
+== Historik ==
+Joner teoriserades först av Michael Faraday omkring 1830, för att beskriva de molekyldelar som rör sig mot en anod eller till en katod. Själva mekanismen bakom molekylrörelsen och spjälkningen förklarades först 1884 av Svante August Arrhenius i sin doktorsavhandling vid Uppsala universitet. Hans teori accepterades inte i början men avhandlingen vann honom Nobelpriset i kemi 1903.
+
+
+=== Etymologi ===
+Ordet jon myntades av Michael Faraday, från grekiskans ἰόν, från verbet ἰέναι, "att gå", alltså "en gångare". Anjon, ἀνιόν, och katjon, κατιόν betyder "[något] som går upp" respektive "[något] som går ner".
+
+
+== Tillämpningar ==
+Joner är en förutsättning för liv. Natrium, kalium, kalcium och andra joner spelar en viktig roll i levande organismers celler, särskilt i cellmembran. De har många praktiska alldagliga tillämpningar i apparater som rökdetektorer, och även i nya okonventionella teknologier som till exempel jonmotorer.
+
+
+== Laddningar ==
+Atomens delar har olika laddningar d.v.s protonerna är positivt laddade, neutronerna är neutrala och

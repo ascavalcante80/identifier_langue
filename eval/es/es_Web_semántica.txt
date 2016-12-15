@@ -1,0 +1,26 @@
+rios comunes de metadatos (Ontología (Informática)) y mapas entre vocabularios que permitan a quienes elaboran los documentos disponer de nociones claras sobre cómo deben etiquetarlos para que los agentes automáticos puedan usar la información contenida en los metadatos (p.ej. el metadato author tenga el significado de "autor de la página" y no el del "autor del objeto descrito en la página").
+Agentes automáticos que realicen tareas para los usuarios de estos metadatos de la Web Semántica
+Servicios Web (a menudo con agentes propios) que provean de información a los agentes (por ejemplo un servicio de garantías a quien un agente pudiera consultar sobre si un comercio electrónico tiene un historial de mal servicio o de generar correo basura).
+Los proveedores primarios de esta tecnología son las URIs que identifican los recursos junto con XML y los namespaces. Si a esto se añade un poco de lógica, mediante una RDF, u otras tecnologías como los mapas temáticos y algo de razonamiento basado en técnicas de inteligencia artificial, Internet podría estar cerca de alcanzar las aspiraciones iniciales de su inventor, Tim Berners-Lee.
+
+
+== Web Semántica y Web 3.0 ==
+Erróneamente se identifican los conceptos de Web semántica y Web 3.0 La Web Semántica es un conjunto de actividades, tal y como indica el propio World Wide Web Consortium, al amparo de las cuales se han desarrollado un conjunto de tecnologías que se aplican en muchos ámbitos: redes sociales, publicación de datos, realización de inferencias, marcado semántico de documentos convencionales, etc. Por su parte la Web 3.0 se refiere a un entorno en el que aplicaciones y agentes de usuario intercambian datos, los procesan e incluso realizan procesos de inferencias para generar nueva información.
+
+
+== Véase también ==
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Pablo Castells (2003) La web semántica. Universidad Autónoma de Madrid
+Carolina García Cataño y David Arroyo Menéndez (2002) Biblioteca Digital y Web Semántica
+Procedimiento semi-automático para transformar la web en web semántica (Tesis doctoral, Luis Criado-Fernández [1], 2009 UNED)
+The Semantic Web: An Introduction (en inglés)
+Presentación: Construyendo la web semántica
+Web semántica, metadatos y herramientas
+SEO en la web semántica, por PabloYglesias el 23 de octubre del 2013.
+Entidades SEO. El SEO semántico por Juan José Fdez Juan
+Etiquetas semánticas HTML5 Estructura de una página Web y etiquetas semánticas (tabla)

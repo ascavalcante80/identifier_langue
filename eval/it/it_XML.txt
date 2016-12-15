@@ -1,0 +1,39 @@
+le nel 1997. A quest'ultimo, l'X3D acclude le capacità, tipiche dell'Extensible Markup Language (XML), di integrazione con le altre tecnologie del World Wide Web, di validazione dei contenuti e dell'aggiunta flessibile di nuove estensioni hardware qualora ve ne fosse necessità. In più, bisogna citare i vantaggi riguardanti la leggerezza del "profilo base" (Core Profile - Esistono sette profili, ognuno dei quali raggruppa un certo insieme di funzionalità comunemente utilizzate per differenti scopi. Questo permette agli sviluppatori di browser di raggiungere livelli intermedi di supporto dell'X3D, senza dover per forza implementare in una volta sola l'intera specifica) e dei browser componentizzati per un download più rapido.
+XBRL (eXtensible Business Reporting Language): è un linguaggio usato per la comunicazione e lo scambio di dati finanziari e contabili in formato elettronico
+
+
+=== XML e le pagine web: XHTMLModifica ===
+XHTML è un linguaggio di markup atto a visualizzare pagine Web tramite browser, come l'HTML, e, essendo XML, ne rispetta la semantica. Ad esempio in XHTML, al contrario che in HTML tradizionale, i tag vuoti vanno chiusi con uno slash (/) finale, gli attributi vuoti devono essere valorizzati con true o false, la chiusura dei tag dev'essere a specchio (se viene aperto un Tag e prima di chiuderlo ne viene aperto un altro, è necessario chiudere prima il secondo tag e poi il primo), alcuni Tag e attributi, rispetto all'HTML 4.0 sono scomparsi, ed esiste una DTD dedicata.
+Il mime type riservato alle pagine XHTML è (application/xhtml+xml). Se si trasmette una pagina XHTML non valida ma come text/html può capitare che venga però visualizzata perché viene interpretata come html (con degli errori, quali i tag chiusi come <br />) solo che non rispetta lo standard e non gode dei suoi vantaggi, primo tra i quali la portabilità su browser e client differenti. Il vero vantaggio di una pagina XHTML è che essendo XML ne trae tutti i pregi, quali facilità di validazione e interpretazione programmatica. Le pagine XHTML sono solitamente più facilmente accessibili, data la loro semantica XML.
+
+
+== NoteModifica ==
+^ (EN) Sending XHTML as text/html Considered Harmful
+
+
+== Voci correlateModifica ==
+Linguaggio di markup
+FXG
+SGML
+XHTML
+TM-XML
+SDMX
+papiNet
+Unique Particle Attribution
+EbXML
+Extensible Stylesheet Language
+XSLT
+
+
+== Altri progettiModifica ==
+
+ Wikibooks contiene testi o manuali su XML
+ Wikimedia Commons contiene immagini o altri file su XML
+
+
+== Collegamenti esterniModifica ==
+(IT) Guida XML - HTML.it
+(EN) Extensible Markup Language (XML) (sito ufficiale del W3C)
+(EN) Parsing and serializing XML (Mozilla Developer center)
+Guide e tutorial su XML - HTML.it
+Validatore Ufficiale del W3C

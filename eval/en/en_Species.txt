@@ -1,0 +1,97 @@
+
+=== Other species concepts ===
+Ecological species
+A set of organisms adapted to a particular set of resources, called a niche, in the environment. According to this concept, populations form the discrete phenetic clusters that we recognize as species because the ecological and evolutionary processes controlling how resources are divided up tend to produce those clusters.
+Reproductive species
+Two organisms that are able to reproduce naturally to produce fertile offspring of both sexes. Organisms that can reproduce but almost always make infertile hybrids of at least one sex, such as a mule, hinny or F1 male cattalo are not considered to be the same species.
+Isolation species
+A set of actually or potentially interbreeding populations. This is generally a useful formulation for scientists working with living examples of the higher taxa like mammals, fish, and birds, but more problematic for organisms that do not reproduce sexually. The results of breeding experiments done in artificial conditions may or may not reflect what would happen if the same organisms encountered each other in the wild, making it difficult to gauge whether or not the results of such experiments are meaningful in reference to natural populations.
+Genetic species
+Based on similarity of DNA of individuals or populations. Techniques to compare similarity of DNA include DNA-DNA hybridization, and genetic fingerprinting (or DNA barcoding).
+
+Cohesion species
+Most inclusive population of individuals having the potential for phenotypic cohesion through intrinsic cohesion mechanisms. This is an expansion of the mate-recognition species concept to allow for post-mating isolation mechanisms; no matter whether populations can hybridize successfully, they are still distinct cohesion species if the amount of hybridization is insufficient to completely mix their respective gene pools.
+Evolutionarily significant unit (ESU)
+An evolutionarily significant unit is a population of organisms that is considered distinct for purposes of conservation. Often referred to as a species or a wildlife species, an ESU also has several possible definitions, which coincide with definitions of species.
+Phenetic species
+Based on phenetics.
+Microspecies
+A species with very little genetic variability, usually one that reproduces by apomixis.
+Recognition species
+Based on shared reproductive systems, including mating behavior. The Recognition concept of species has been introduced by Hugh E. H. Paterson, after earlier work by Wilhelm Petersen.
+Mate-recognition species
+A group of organisms that are known to recognize one another as potential mates. Like the isolation species concept above, it applies only to organisms that reproduce sexually. Unlike the isolation species concept, it focuses specifically on pre-mating reproductive isolation.
+
+
+== Numbers of species ==
+
+Bearing in mind the aforementioned problems with categorizing species, the following numbers are only a guide. Based on various discussions from the first decade of the new millennium, counts can roughly be broken down as follows:
+
+
+=== Number of prokaryotic species, domain Bacteria ===
+This number is very difficult to assess, but the discussed range varies from tens of thousands to billions; most recent approaches and studies appear to favor the larger magnitude number. Smaller numbers arise from assumptions based on a plateauing of identification of new species (which has technical explanations other than that fewer species remain to be identified). Larger numbers address the fact that success in culturing bacteria has only been achieved in half of identified Bacterial phyla (where lack of success in attempts to culture a bacterial isolate limits abilities to study and delineate new species), and address the difficulty of applying traditional botanic and zoologic definitions of species to asexually reproducing bacteria (where more modern sequencing and molecular approaches support higher species tallies).
+
+
+=== Number of prokaryotic species, domain Archaea ===
+As a further microbial domain, the issues and difficulties of domain Bacteria also pertain to any counting of species of Archaea, all the more given their various extreme habitats. The classification of archaea into species is also controversial, as they also reproduce asexually (likewise eliminating applicability of species definitions based on interbreeding), and face the same difficulties associated with organism isolation and culturing (see citations for Bacteria, above). Archaebacteria have been shown to exhibit high rates of horizontal gene transfer (resulting from a bacterial cognate of sex), including between organisms quite separate based on genomic analysis. As the Archaea article notes, "[c]urrent knowledge on genetic diversity is fragmentary and the total number of archaean species cannot be estimated with any accuracy" ... though like domain Bacteria, the number of cultured and studied phyla relative to the total is low (as of 2005, less than 50% of known phyla cultured). Taken together, very high numbers of unique archaebacterial types are likely, as in the case of domain Bacteria.
+
+
+=== Number of eukaryotic species ===
+This number has historically varied from a few million to about 100 millions. However these higher numbers, which were based on the potential deep marine and arthropod diversity, are now considered unlikely. The total number of eukaryotic species is likely to be 5 ± 3 million of which about 1.5 million have been already named. Some older estimates for various eukaryote phyla are:
+As many as 1.5 million fungi
+3,067 brown algae
+17,000 lichens
+321,212 plants, including:
+10,134 red and green algae
+16,236 mosses
+12,000 ferns and horsetails
+1,021 gymnosperms
+281,821 angiosperms
+
+1,367,555 non-insect animals, including:
+1,305,250 invertebrates
+2,175 corals
+85,000 mollusks
+As many as 1.1 million arachnids, including ~1 million mites and ~100,000 other arachnids
+47,000 crustaceans
+68,827 other invertebrates
+
+63,649 vertebrates
+31,300 fish
+7,093 amphibians
+9,768 reptiles
+9,998 birds
+5,490 mammals
+
+As many as 10–30 million insects
+At present, organisations such as the Global Taxonomy Initiative, the European Distributed Institute of Taxonomy and the Census of Marine Life (the last of these only for marine organisms) are trying to improve taxonomy and add previously undiscovered species to the taxonomy system. Current knowledge covers only a portion of the organisms in the biosphere and thus does not enable a complete understanding of the workings of the environment. Humankind is also currently wiping out undiscovered species at an unprecedented rate, which means that even before a new species has had the chance of being studied and classified, it may already be extinct.
+
+
+== Lumping and splitting of taxa ==
+
+The naming of a particular species may be regarded as a hypothesis about the evolutionary relationships and distinguishability of that group of organisms. As further information comes to hand, the hypothesis may be confirmed or refuted. Sometimes, especially in the past when communication was more difficult, taxonomists working in isolation have given two distinct names to individual organisms later identified as the same species. When two named species are discovered to be of the same species, the older species name is usually retained, and the newer species name dropped, a process called synonymization, or colloquially, as lumping. Dividing a taxon into multiple, often new, taxons is called splitting. Taxonomists are often referred to as "lumpers" or "splitters" by their colleagues, depending on their personal approach to recognizing differences or commonalities between organisms.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Other Species Concepts – U.C. Berkeley
+2003-12-31, ScienceDaily: Working On The 'Porsche Of Its Time': New Model For Species Determination Offered
+2003-08-08, ScienceDaily: Cross-species Mating May Be Evolutionarily Important And Lead To Rapid Change
+2004-01-09 ScienceDaily: Mayo Researchers Observe Genetic Fusion Of Human, Animal Cells; May Help Explain Origin Of AIDS
+2000-09-18, ScienceDaily: Scientists Unravel Ancient Evolutionary History Of Photosynthesis
+
+
+== External links ==
+Species (journal)
+Barcoding of species
+Catalogue of Life
+European Species Names in Linnaean, Czech, English, German and French
+Speciation
+Stanford Encyclopedia of Philosophy entry: Species
+VisualTaxa
+Wikispecies – The free species directory that anyone can edit from the Wikimedia Foundation

@@ -1,0 +1,38 @@
+Em astronomia, magnitude absoluta é a magnitude aparente, m, que um objeto teria se estivesse a uma distância padronizada.
+A magnitude absoluta nos permite comparar o brilho de objetos sem levar em consideração as distâncias em que eles se encontram.
+
+
+== Magnitude absoluta para estrelas e galáxias (M) ==
+Em astronomia estelar a distância padrão para uso no cálculo da magnitude absoluta distância é 10 parsecs (em torno de 32,616 anos luz, ou 3×1014 Quilômetros). Uma estrela a 10 parsecs tem um paralaxe de 0.1" (100 mili arcos de segundo).
+Ao se definir a magnitude absoluta é necessário especificar o tipo de radiação eletromagnética sendo medida. Quando nos referimos à saída total de energia, o termo próprio utilizado é a magnitude bolométrica. Quanto mais tênue um objeto (a distância de 10 parsecs) parece, mais alta é a sua magnitude absoluta. Quanto mais baixa a magnitude absoluta, maior a luminosidade. Uma relação matemática define a magnitude aparente em termos da magnitude absoluta, via paralaxe.
+Algumas das estrelas visíveis a olho nu tem uma magnitude absoluta que seria capaz de nos dar sombra se colocadas à distância de 10 parsecs: Rigel (-6,5), Deneb (-7,2), Zeta Puppis (-5,5), e Betelgeuse (-5,6).
+Para comparação, Sirius tem uma magnitude absoluta de 1,4 e o Sol tem uma magnitude visual absoluta de 4,83 (ele na verdade serve de ponto de referência).
+Magnitudes absolutas para estrelas geralmente vão de -10 (as mais brilhantes) até +17 (as mais fracas). As magnitudes absolutas para galáxias podem ser muito menores (mais brilhantes). Por exemplo, a gigante galáxia elíptica M87 tem uma magnitude absoluta de -22.
+
+
+=== Cálculos de magnitude ===
+Pode-se calcular a magnitude absoluta de uma estrela sabendo a magnitude aparente e a distância em que ela se encontra:
+
+onde  são 10 parsecs (≈ 32,616 anos luz) e  é a distância até a estrela; ou:
+
+onde  é a paralaxe estelar e  é 1 arc-sec.
+
+
+==== Exemplos ====
+Rigel tem uma magnitude visual de mV=0,18 e está a uma distância de 773 anos-luz.
+MVRigel = 0,18 + 5*log10(32,616/773) = -6,7
+
+Vega tem uma paralaxe de 0,133", e uma magnitude aparente de +0,03
+MVVega = 0,03 + 5*(1 + log10(0.133)) = +0,65
+
+Alpha Centauri tem uma paralaxe de 0,750" e uma magnitude aparente de -0,01
+MVα Cen = -0,01 + 5*(1 + log10(0,750)) = +4,37
+
+
+=== Magnitude aparente ===
+Dada a magnitude absoluta , você também pode calcular a magnitude aparente  de um objeto a uma distância :
+
+
+== Magnitude absoluta para planetas (H) ==
+Para os planetas, cometas e asteróides uma definição diferente da magnitude é utilizada que faz mais sentido para objetos não-estelares.
+Nesse caso, a magnitude absoluta é definida como a magnitude aparente que o objeto deveria ter se ele estivesse a uma uni

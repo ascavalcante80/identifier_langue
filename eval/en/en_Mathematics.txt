@@ -1,0 +1,45 @@
+to solve problems in number theory and functional analysis but now are pursued with an eye on applications in optimization and computer science. Within differential geometry are the concepts of fiber bundles and calculus on manifolds, in particular, vector and tensor calculus. Within algebraic geometry is the description of geometric objects as solution sets of polynomial equations, combining the concepts of quantity and space, and also the study of topological groups, which combine structure and space. Lie groups are used to study space, structure, and change. Topology in all its many ramifications may have been the greatest growth area in 20th-century mathematics; it includes point-set topology, set-theoretic topology, algebraic topology and differential topology. In particular, instances of modern-day topology are metrizability theory, axiomatic set theory, homotopy theory, and Morse theory. Topology also includes the now solved Poincaré conjecture, and the still unsolved areas of the Hodge conjecture. Other results in geometry and topology, including the four color theorem and Kepler conjecture, have been proved only with the help of computers.
+
+
+==== Change ====
+Understanding and describing change is a common theme in the natural sciences, and calculus was developed as a powerful tool to investigate it. Functions arise here, as a central concept describing a changing quantity. The rigorous study of real numbers and functions of a real variable is known as real analysis, with complex analysis the equivalent field for the complex numbers. Functional analysis focuses attention on (typically infinite-dimensional) spaces of functions. One of many applications of functional analysis is quantum mechanics. Many problems lead naturally to relationships between a quantity and its rate of change, and these are studied as differential equations. Many phenomena in nature can be described by dynamical systems; chaos theory makes precise the ways in which many of these systems exhibit unpredictable yet still deterministic behavior.
+
+
+=== Applied mathematics ===
+Applied mathematics concerns itself with mathematical methods that are typically used in science, engineering, business, and industry. Thus, "applied mathematics" is a mathematical science with specialized knowledge. The term applied mathematics also describes the professional specialty in which mathematicians work on practical problems; as a profession focused on practical problems, applied mathematics focuses on the "formulation, study, and use of mathematical models" in science, engineering, and other areas of mathematical practice.
+In the past, practical applications have motivated the development of mathematical theories, which then became the subject of study in pure mathematics, where mathematics is developed primarily for its own sake. Thus, the activity of applied mathematics is vitally connected with research in pure mathematics.
+
+
+==== Statistics and other decision sciences ====
+Applied mathematics has significant overlap with the discipline of statistics, whose theory is formulated mathematically, especially with probability theory. Statisticians (working as part of a research project) "create data that makes sense" with random sampling and with randomized experiments; the design of a statistical sample or experiment specifies the analysis of the data (before the data be available). When reconsidering data from experiments and samples or when analyzing data from observational studies, statisticians "make sense of the data" using the art of modelling and the theory of inference – with model selection and estimation; the estimated models and consequential predictions should be tested on new data.
+Statistical theory studies decision problems such as minimizing the risk (expected loss) of a statistical action, such as using a procedure in, for example, parameter estimation, hypothesis testing, and selecting the best. In these traditional areas of mathematical statistics, a statistical-decision problem is formulated by minimizing an objective function, like expected loss or cost, under specific constraints: For example, designing a survey often involves minimizing the cost of estimating a population mean with a given level of confidence. Because of its use of optimization, the mathematical theory of statistics shares concerns with other decision sciences, such as operations research, control theory, and mathematical economics.
+
+
+==== Computational mathematics ====
+Computational mathematics proposes and studies methods for solving mathematical problems that are typically too large for human numerical capacity. Numerical analysis studies methods for problems in analysis using functional analysis and approximation theory; numerical analysis includes the study of approximation and discretization broadly with special concern for rounding errors. Numerical analysis and, more broadly, scientific computing also study non-analytic topics of mathematical science, especially algorithmic matrix and graph theory. Other areas of computational mathematics include computer algebra and symbolic computation.
+
+
+== Mathematical awards ==
+Arguably the most prestigious award in mathematics is the Fields Medal, established in 1936 and now awarded every four years. The Fields Medal is often considered a mathematical equivalent to the Nobel Prize.
+The Wolf Prize in Mathematics, instituted in 1978, recognizes lifetime achievement, and another major international award, the Abel Prize, was introduced in 2003. The Chern Medal was introduced in 2010 to recognize lifetime achievement. These accolades are awarded in recognition of a particular body of work, which may be innovational, or provide a solution to an outstanding problem in an established field.
+A famous list of 23 open problems, called "Hilbert's problems", was compiled in 1900 by German mathematician David Hilbert. This list achieved great celebrity among mathematicians, and at least nine of the problems have now been solved. A new list of seven important problems, titled the "Millennium Prize Problems", was published in 2000. A solution to each of these problems carries a $1 million reward, and only one (the Riemann hypothesis) is duplicated in Hilbert's problems.
+
+
+== See also ==
+
+Mathematics and art
+Mathematics education
+Relationship between mathematics and physics
+STEM fields
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==

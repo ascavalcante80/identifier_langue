@@ -1,0 +1,6 @@
+Uglovna ili lučna minuta (oznaka: ' ) predstavlja 1/60 dio uglovnog stepena.
+1°=60' (1 stepen = 60 uglovnih minuta) 
+1'=60" (1 uglovna minuta = 60 uglovnih sekundi)
+1" = 1 uglovna sekunda 
+Uglovni stepen, minuta kao i sekunda koriste se u astronomiji za izražavanje prividne udaljenosti između nebeskih tijela.
+Prividna veličina nebeskih tijela poput galaksija izražava se zbog njihove velike udaljenosti uglovnim minutama. Ukoliko go

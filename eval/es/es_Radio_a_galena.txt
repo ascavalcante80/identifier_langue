@@ -1,0 +1,17 @@
+ado "Slope Detection". Este circuito convierte las variaciones de frecuencia de la FM en una señal de AM que luego es demodulada por el detector, convirtiéndolo así en una señal audible.
+
+
+== Véase tambiénEditar ==
+Telecomunicación
+Radio a válvulas
+Radio (receptor)
+
+
+== BibliografíaEditar ==
+(it) Courmoz F., Battocchio A. La radio a galena. Dal coherer al transistor nella ricezione passiva. Ed. Mosè 2002.
+
+
+== Enlaces externosEditar ==
+Un sitio dedicado a la construcción de radios a galena a partir del reciclado de partes Projectos de Carlos Lopérgolo
+Como construir una radio de galena
+(En inglés) Construcción de una radio a galena para recibir la banda comercial de FM

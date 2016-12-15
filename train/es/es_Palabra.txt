@@ -1,0 +1,138 @@
+En gramática tradicional, una palabra (del latín parabŏla) es cada uno de los segmentos limitados por delimitadores en la cadena hablada o escrita, que puede aparecer en otras posiciones y que está dotado de una función.
+Lingüísticamente, el concepto de palabra es mucho más problemático de lo que la definición anterior sugiere. En efecto, determinar qué constituye fonéticamente o morfosintácticamente una palabra es un problema abierto; así, por ejemplo, junto a los morfemas ligados y las palabras léxicas existen los clíticos cuyo estatus de palabra es discutido. En la cadena hablada ordinariamente no existen pausas y la segmentación de palabras depende de factores prosódicos difíciles de precisar. La rama de la lingüística que estudia la composición y estructura interna de las palabras es la morfología.
+
+
+== Perspectivas de estudio ==
+La palabra puede ser estudiada desde distintos enfoques:
+Criterio fonológico: Segmento limitado por junturas morfológicas, pausas que constituyen el núcleo posible de un grupo acentual. En muchas lenguas la palabra presenta patrones tonales o acentuales específicos, que facilitan a los hablantes el reconocimiento de las palabras.
+Criterio formal o morfológico: Mínima forma libre, caracterizada por la posibilidad de aparecer libremente en cualquier posición de la cadena hablada. Nótese que de acuerdo con este critero los clíticos no constituirían palabras morfológicas.
+Criterio funcional: Unidad dotada de una función, aunque hay unidades mayores y menores que la palabra. Para muchos lingüistas la posibilidad de un determinado morfema de ser un constituyente sintáctico lo convierte en una palabra, si bien este criterio dependerá del número de sintagmas funcionales que se considere.
+Criterio semántico: Asociación de un sentido dado y un conjunto de sonidos dado dentro de una función gramatical. Este criterio permite identificar términos con sentido referencial como verbos, adjetivos, nombres y más difícilmente elementos de otras categorías funcionales.
+
+
+== Clases de palabras ==
+Las palabras pueden clasificarse según criterios morfosintácticos (categoría sintáctica y tipo de flexión), fonológicos (acentuación, número de sílabas) o funcionales.
+
+
+=== Clasificaciones morfosintácticas ===
+
+
+==== Según su categoría gramatical ====
+Las que pertenecen a la categoría léxica:
+Adjetivo, que se refiere a propiedades, estados de una entidad o a características que permiten asignarlo dentro de una determinada categoría semántica. En algunas lenguas la mayoría de adjetivos son verbos estativos.
+Sustantivo o nombre, es una categoría léxica que tiene como referente una entidad o elementos de un conjunto de entidades, ya sean abstractas o concretas.
+Verbo, designan relaciones entre las entidades, así como estados, procesos o sucesos.
+
+Y las que pertenecen a la categoría funcional:
+Determinante, que marca alguna propiedad gramatical de un referente (usualmente un nombre), como la posición respecto al hablante, si ha sido referido previamente, o incluso si es indefinido, al cantidad (para el caso del plural), etc.
+Conjunción, es un nexo sintáctico que tiene funciones semánticas y pragmáticas.
+Adverbio, es modificador de elementos predicativos como el verbo o el adjetivo.
+Preposición, usualmente introduce adjuntos sintácticos, aunque en casos como el complemento directo de persona en español, o el complemento de régimen marca argumentos sintácticos.
+Pronombre, es elemento sin referente fijo. Sintácticamente debe distinguirse propiamente entre pronombres auténticos y anáforas, ambos se encuentran en distribución complementaria.
+
+Otros elementos:
+Interjección, no cumple una función propiamente gramatical sino más bien de orden pragmático.
+
+
+==== Según su estructura interna ====
+Palabras simples, constan de un solo lexema y ningún morfema derivativo, si una palabra simple no presenta flexión entonces se llama palabra invariable.
+Palabras derivadas, se refiere propiamente a una relación entre dos palabras formadas a partir del mismo lexema básico.
+Palabras compuestas, que contienen al menos dos lexemas y ningún morfema derivativo.
+Palabras parasintéticas, pueden ser de dos tipos:
+1. Las palabras compuestas que contienen un morfema derivativo. Por ejemplo: quinceañero. Las palabras compuestas se dividen en Yuxtaposición y Conjunción(conocida también como 'palabra compuesta propiamente dicha'). Ejemplo de P.C Yuxtapuestas: girasol= gira + sol. Ejemplo de P.C Propiamente Dichas: mapamundi= mapa + mundi.
+2. Las palabras que contienen un prefijo y un sufijo, siempre que las correspondientes derivadas previas no existan (de existir se trataría de una doble derivación). P.ej: aniñado (no existen los derivados *aniño, ni *niñado.).
+Sintagma lexicalizado o colocación.
+
+
+=== Clasificaciones fonológicas ===
+
+
+==== Según su acentuación ====
+En ciertas lenguas con acento de intensidad fonológico, la posición del acento de intensidad no está fijado siempre en la misma sílaba; dichas lenguas se denominan lenguas de acento libre. En lenguas de acento libre como el español puede hacerse las siguientes clasificaciones:
+Las palabras agudas son aquellas en la que recae el acento en la última sílaba de la palabra. Estas palabras solamente se tildan cuando terminan en n , s, o vocal. Por ejemplo: salchichón, camión.
+Las palabras llanas o graves son aquellas en las que el acento recae en la penúltima sílaba. Estas palabras se tildan cuando terminan en cualquier consonante o vocal menos en n y s. Por ejemplo: camilla, árbol, María.
+Las palabras esdrújulas son aquellas en las que recae el acento en la antepenúltima sílaba, todas las palabras esdrújulas llevan tilde. Por ejemplo: esdrújula.
+Las palabras sobreesdrújulas son aquellas en las que recae el acento en cualquier sílaba anterior a la antepenúltima. Por ejemplo: rómpeselo.
+Fonológicamente el acento ayuda a segmentar la cadena hablada en grupos fónicos o en palabras. En lenguas de acento en posición fija como el francés donde el acento cae al final de cada palabra tónica, la identificación de la posición del acento permite segmentar en palabras (exceptuando las palabras clíticas).
+
+
+==== Según su número de sílabas ====
+En español el concepto de sílaba no es problemático y puede hacerse recurriendo a criterios estrictamente fonológicos: la posición de las vocales determina qué otros fonemas son inicio de sílaba (ataque silábico) o final de sílaba (coda silábica). En español son frecuentes las palabras de entre 1 y 4 sílabas, siendo bastante menos frecuentes palabras de 5 o más sílabas. Muchas de las palabras de 5 o más sílabas de hecho son palabras que involucran composición de diferentes lexemas o raíces cultas. De acuerdo con el número de sílabas las palabra se pueden clasificar en:
+Palabra monosílaba: aquella palabra con una sola sílaba. Por ejemplo: sol, buey.
+Palabra bisílaba: aquella palabra con dos sílabas. Por ejemplo: nube, bolso.
+Palabra trisílaba: aquella palabra con tres sílabas. Por ejemplo: huracán, teclado.
+Palabra tetrasílaba: aquella palabra con cuatro sílabas. Por ejemplo: catálogo, escopeta.
+Palabra pentasílaba: aquella palabra con cinco sílabas. Por ejemplo: oficialidad.
+Palabra hexasílabas: aquella palabra con seis sílabas. Por ejemplo: responsabilidad.
+Palabra heptasílabas: aquella palabra con siete sílabas. Por ejemplo: piripitiflaútica.
+Palabra octosílabas: aquella palabra con ocho sílabas. Por ejemplo: epigramaticamente.
+Palabra eneasílabas: aquella palabra con nueve sílabas. Por ejemplo: otorrinolaringólogo.
+Palabra decasílabas: aquella palabra con diez sílabas. Por ejemplo: electroencefalografista.
+Palabra dodecasílabas: aquella palabra con doce sílabas. Por ejemplo: Electroencefalográficamente.
+Aunque en español y muchas lenguas el concepto de sílaba no es problemático, en otras lenguas el concepto de sílabas es mucho más problemático y no existe acuerdo entre los especialistas sobre como construir segmentaciones en sílabas. Un ejemplo muy claro son por ejemplo las lenguas salish, que admiten grupos conosonánticos de enorme complejidad, entre los cuales no hay ninguna vocal o sonorante que permita establecer núcleos silábicos claros. El análisis convencional de las sílabas presenta algunas dificultades en varias de estas lenguas. Algunos ejemplos de palabras largas en estas lenguas son:
+sčkʷkʼkʷƛus.tn 'ojos pequeños' (spokane, salish de Montana)
+xłp̓x̣ʷłtłpłłskʷc̓ [xɬpʼχʷɬtʰɬpʰɬːskʷʰts͡ʼ] 'ha tenido en su poder una planta de cornejo (Cornus canadensis)' (bella coola)
+Newman (1947) sugirió que el bella coola carecía de sílabas, aunque Hoard (1978) hace un análisis diferente y sostiene que cualquier consonante puede ser núcleo silábico en esa lengua (en esa interpretación las reglas de silabificación son muy ambiguas).
+
+
+== Morfología y componentes de la palabra ==
+
+Los componentes inmediatos de la palabra son los morfemas, que representan las unidades gramaticales mínimas. El nivel superior es el de los monemas, y el inferior a su vez se divide en fonemas.
+
+
+=== Procesos de formación de palabras ===
+Las palabras que forman parte de las categorías léxicas pueden combinarse entre sí para dar lugar a nuevas palabras, para ello las lenguas del mundo usan diversos procedimientos:
+Composición (lingüística)
+Derivación (lingüística)
+Parasíntesis
+En cambio las categorías funcionales se consideran clases cerradas que no resultan explícitamente ampliables mediante ningún proceso productivo de formación de palabra. Sin embargo, en la evolución histórica de una lengua el inventario de palabras funcionales varía porque se ganan o se pierden elementos, el proceso más importante de creación de nuevas palabras funcionales es la gramaticalización.
+
+
+== Semántica léxica ==
+
+La semántica léxica es el estudio de lo que denotan las palabras de una lengua natural. Las palabras pueden o bien denotar entidades físicas del mundo, o bien conceptos. Las unidades de significado en la semántica léxica se denominan unidades léxicas. Las lenguas naturales tienen la capacidad de añadir nuevas unidades léxicas a medida que surgen cambios históricos y nuevas realidades en las comunidades de hablantes que las usan.
+La semántica léxica incluye teorías y propuestas de clasificación y análisis del significado de las palabras, las diferencias y similiaridades en la organización del lexicón de los diversos idiomas y la relación entre el significado de las palabras y el significado de las oraciones y la sintaxis.
+Una cuestión importante que explora la semántica léxica es si el significado de una unidad léxica queda determinado examinando su posición y relaciones dentro de una red semántica o si por el contrario el significado está localmente contenido en la unidad léxica. Esto conduce a dos enfoques diferentes de la semántica léxica. Otro tópico explorado es la relación de representación entre formas léxicas y conceptos. Finalmente debe señalarse que en semántica léxica resultan importantes las relaciones de sinonimia, antonimia, hiponimia e hiperonomia para analizar las cuestiones anteriores.
+
+
+=== Semántica tradicional ===
+Las palabras son símbolos. Esto quiere decir que tienen como referente objetos del mundo, externos al lenguaje. Las palabras son un cierto tipo de representación cognitiva con las que convencionalmente se asocian los referentes. Tradicionalmente, en la relación entre una palabra (forma fonológica) y el mundo exterior es necesario estudiar tres aspectos:
+la expresión de la palabra
+el concepto con el que se asocia o significado.
+la cosa a la que se refiere o referente.
+El referente de una palabra puede ser múltiple, debido a que en el mundo puede existir una gran cantidad de objetos denotados por la misma palabra. Sin embargo, el significado de la palabra es único.
+El valor semántico de una palabra es el conjunto de objetos o situaciones a los que se puede referir, esto es, su ámbito referencial (que sería una clase de objetos, mientras que el significado sería la propiedad que comparten esos objetos, la idea o representación mental que se tiene de ellos).
+Tradicionalmente, se ha considerado que los significados de las palabras son entidades conceptuales compuestas de otras entidades. Los conceptos en que se pueden dividir los significados se denominan semas o componentes semánticos. Los semas de un significado son las propiedades implicadas o evocadas por ese significado. Así pues, los significados son unidades complejas. A partir de los semas se ha tratado de definir un tipo de entidad más problemática llamada semema.
+El significado de una palabra es el concepto del que es portadora; cuando definimos su significado, precisamos las propiedades de ese concepto. El significado es definido de manera ligeramente diferente dentro de cada teoría semántica. Para algunas teorías sería una especie de abstracción sobre el conjunto de referencias evocadas por la palabra. Otras teorías han tratado de concertar el significado mediante la teoría de prototipos, o mediante agregados de rasgos semánticos o semas.
+Los rasgos semánticos típicos de una clase son aquellas propiedades que son frecuentes en los objetos de esa clase y que marcan el mayor contraste con otras clases. Así, pues, el significado de las palabras no es un concepto que se refiera por igual a todos los objetos que se puedan nombrar con esa palabra, sino que caracteriza solo a los ejemplares típicos.
+La concepción del significado de la palabra como una unidad que comprende tanto el pensamiento generalizado como el intercambio social, es de un valor incalculable para el estudio del pensamiento y el lenguaje; puesto que permite realizar el verdadero análisis causal-genético, el estudio sistemático de las relaciones entre el crecimiento de la capacidad de pensamiento del niño y su desarrollo social. Es por ello que los lingüistas modernos utilizan el fonema, “la más pequeña unidad fonética indivisible que afecta al significado” y es, por tanto, característica del habla humana, distinta de otros sonidos (Vygotsky, 1977; Bruner, 1998).
+
+
+== El concepto palabra y sus problemas de delimitación ==
+
+
+=== Problemas del uso de la palabra ===
+Ambigüedad de término por su uso polivalente y no siempre especializado.
+Distintas aproximaciones al problemas:
+Definición fonológica-ortográfica de palabra (definición tradicional de palabra): unidad fónica entre dos pausas delante y detrás cada una de ellas, que en la escritura se visualizan por medio de espacios en blanco.
+Desdoblamiento de palabra en forma de palabras y expresión de palabras (referencia de los estructuralistas).
+Abandono del término palabra en favor de ítem (referencia de la gramática generativa).
+Uso del término neutro unidad léxica.
+
+
+=== Problemas de la definición fonológica-ortográfica ===
+Hay problemas de aplicación a distintos casos de las lenguas naturales, la definición no se verifica en todas las lenguas naturales y también se encuentran problemas ortográficos que van en contra de esta definición tradicional.
+Existen lenguas que tienen una escritura continua, no espaciada, como es el caso del griego clásico y el latín.
+También por fluctuaciones en la escritura de algunas palabras compuestas (con unidades independientes o amalgamadas). Ejemplos:
+Español: aguanieve o agua nieve, guardia civil o guardiacivil , así mismo o asimismo (actualmente se prefieren las palabras amalgamadas).
+Italiano: perlomeno o per lo meno, vafanculo o va a fare in culo.
+Inglés: land owners, land-owners o landowners.
+
+En todas las lenguas nos encontramos con posibilidades diversas de escritura, con lo que la definición de palabra como una unidad entre dos espacios en blanco no abarca la mayoría de los casos y por lo tanto no puede mantenerse.
+Palabras que se pueden separar, como por ejemplo en alemán: el verbo einladen (invitar), wir laden Sie herzlich ein. ¿Es einladen una palabra o dos?
+
+
+=== Problemas morfosintácticos ===
+También tenemos problemas morfosintácticos de delimitación de la palabra:
+Hay unidades que exceden los límites de la palabra: las unidades pluriverbales. Estas son construcciones que contienen más de una palabra pero mantienen una unidad funcional y de significado. Sintácticamente se comportan como una única palabra y semánticamente su significado no se obtiene por la suma de significados parciales y remiten a un único referente de la realidad extralingüística. Ejemplos:
+Español: "subió por la escalera de mármol" y "subió por la escalera de caracol". En el primer caso tenemos un sintagma preposicional donde el núcleo es "mármol". Tenemos un sintagma 

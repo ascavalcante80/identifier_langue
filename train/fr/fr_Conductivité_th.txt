@@ -1,0 +1,109 @@
+La conductivité thermique ou conductibilité thermique est une grandeur physique caractérisant le comportement des matériaux lors du transfert thermique par conduction. Notée λ (ou k en anglais), cette grandeur apparaît par exemple dans la loi de Fourier (voir Conduction thermique). Elle représente l'énergie (quantité de chaleur) transférée par unité de surface et de temps sous un gradient de température de 1 kelvin par mètre.
+
+
+== Généralités ==
+Dans le système international d'unités, la conductivité thermique est exprimée en watt par mètre-kelvin, (W·m-1·K-1) où :
+
+le watt est l’unité de puissance
+le mètre est l’unité de longueur (épaisseur/surface, m-1 = m/m2)
+le kelvin est l’unité de température
+
+Une conductivité thermique de 1 watt par mètre-kelvin indique la quantité de chaleur qui se propage à travers un matériau par conduction thermique :
+
+à travers une surface de 1 m2,
+sur une épaisseur d'un 1 m,
+lorsque la différence de température entre les deux faces est de 1 K.
+
+On peut utiliser le coefficient de conductivité thermique d'une paroi (mesuré en laboratoire et donné dans les documentations des fabricants) et l'épaisseur du matériau pour calculer les déperditions thermiques au travers de cette paroi sur une période (un an, un hiver...).
+Le watt est une unité de flux d'énergie (et non de quantité d'énergie). Il équivaut à 1 joule par seconde. Un flux de 1 kW pendant une heure équivaut à 1 kilowatt-heure, soit 3600 kilojoule (unité de quantité d'énergie).
+Exemple :
+
+Une paroi d'un mètre d'épaisseur, de conductivité thermique 0,5 W·m-1·K-1 (aussi écrit = W/(m.K)) est soumise à un flux de chaleur de 0,5 watt pour 1 kelvin de différence de température entre ses deux faces, soit une déperdition de 0,5 watt-heure en une heure.
+
+Plus la conductivité thermique est élevée, plus le matériau est conducteur de chaleur. Plus elle est faible, plus le produit est isolant.
+Par exemple : le cuivre avec une conductivité thermique de 380 watts par mètre-kelvin est plus de 10 000 fois plus conducteur de chaleur que le polyuréthane (0,035 watt par mètre-kelvin).
+La conductivité dépend principalement de :
+
+la nature du matériau
+la température
+d’autres paramètres comme l’humidité et la pression.
+
+En général, la conductivité thermique va de pair avec la conductivité électrique. Par exemple, les métaux, bons conducteurs d'électricité sont aussi de bons conducteurs thermiques. Il y a des exceptions comme le diamant qui a une conductivité thermique élevée (entre 1000 et 2 600 W·m-1·K-1) alors que sa conductivité électrique est basse tandis que le graphène (5300 W·m-1·K-1) meilleur conducteur thermique et aussi bien meilleur conducteur électrique (du moins dans certaines directions).
+
+
+== Au niveau atomique ==
+D’un point de vue atomique, la conductivité thermique est liée à deux types de comportements :
+
+le mouvement des porteurs de charges, ions, électrons et trous.
+l’oscillation des atomes autour de leur position d’équilibre.
+
+Dans les métaux, le mouvement des électrons libres est prépondérant alors que dans le cas des non-métaux, la vibration des ions est la plus importante.
+La conductivité thermique est donc liée d’une part à la conductivité électrique (mouvement des porteurs de charge) et d'autre part à la structure même du matériau (vibrations des atomes). En effet, dans un solide, les vibrations des atomes ne sont pas aléatoires et indépendantes les unes des autres, mais correspondent à des modes propres de vibration, aussi appelés « phonons » (on peut faire par exemple l’analogie avec un pendule ou une corde de guitare, dont la fréquence de vibration est fixée. Ces modes propres de vibration correspondent à des ondes qui peuvent se propager dans le matériau, si sa structure est périodique (organisée). Cette contribution sera donc plus importante dans un cristal, ordonné, que dans un verre, désordonné (d’où par exemple la différence de conductivité thermique entre le diamant ci-dessus et le verre dans le tableau).
+Mathématiquement, la conductivité thermique λ peut donc s'écrire comme la somme de deux contributions :
+
+où
+
+λe est la contribution des porteurs de charge (électrons ou trous)
+λp est la contribution des vibrations des atomes (phonons)
+
+La contribution des porteurs de charge est liée à la conductivité électrique σ du matériau par la relation de Wiedemann-Franz :
+
+où L est appelé « Facteur de Lorentz ». Ce nombre L dépend des processus de diffusion des porteurs de charge (ce qui correspond plus ou moins à la façon dont ils sont gênés par des obstacles lors de leurs déplacements, voir aussi diffusion des ondes) ainsi que de la position du niveau de Fermi. Dans les métaux, on le considérera égal au nombre de Lorentz L0, avec :
+
+où
+
+k est la constante de Boltzmann
+e est la charge de l'électron
+
+En réalité, L varie selon la température et le métal considéré :
+
+
+== Évolution avec l'humidité ==
+Pour les matériaux de construction, il est courant d’utiliser la relation suivante :
+
+où
+
+k est un coefficient de dimensions
+λ0 est la conductivité thermique du matériau sec
+H est l’humidité relative en pourcentage.
+e représente la fonction exponentielle
+
+
+== Mesure ==
+
+
+=== État stationnaire ===
+Le principe de la détermination de la conductivité thermique d’un matériau repose sur le lien entre le flux de chaleur qui traverse ce matériau et le gradient de température qu’il génère. Il est illustré sur la figure suivante :
+
+L’une des extrémités de l’échantillon de section A est fixée à un doigt froid (bain thermique) dont le rôle est d'évacuer le flux thermique traversant l'échantillon, et l’extrémité opposée à une chaufferette dissipant dans l’échantillon une puissance électrique Q obtenue par effet Joule, de manière à produire un gradient thermique suivant la longueur de l’échantillon. Des thermocouples séparés par une distance L mesurent la différence de température dT le long de l’échantillon. Un troisième thermocouple, calibré, est également fixé à l’échantillon pour déterminer sa température moyenne (la température de mesure). La conductivité thermique est alors donnée par :
+
+Si dT n’est pas trop important (de l'ordre de 1 °C), la conductivité thermique mesurée est celle correspondant à la température moyenne mesurée par le troisième thermocouple. Le principe de la mesure repose alors sur l’hypothèse que la totalité du flux de chaleur passe par l’échantillon. La précision de la mesure dépend donc de la capacité à éliminer les pertes thermiques, que ce soit par conduction thermique par les fils, convection par le gaz résiduel, radiation par les surfaces de l’échantillon ou pertes dans la chaufferette : la mesure s'effectue donc dans des conditions adiabatiques. Pour assurer la meilleure précision possible, l’échantillon dont on souhaite mesurer la conductivité thermique est donc placé dans une chambre de mesure sous vide (pour minimiser la convection). Cette chambre est elle-même enveloppée dans plusieurs boucliers thermiques dont la température est régulée (afin de minimiser les effets radiatifs). Enfin, les fils des thermocouples sont choisis de manière à conduire le moins possible la chaleur.
+Étant donné qu’il est d'autant plus difficile de minimiser les pertes thermiques que la température augmente, cette technique ne permet la mesure de la conductivité thermique qu’à des températures inférieures à la température ambiante (de 2 kelvins à 200 kelvins sans difficultés, et jusqu’à 300 kelvins (27 °C) pour les meilleurs appareils de mesure).
+
+
+=== Méthode dite « Laser Flash » ===
+Pour les températures supérieures à la température ambiante, il devient de plus en plus difficile d’éliminer ou de tenir compte des pertes thermiques par radiation (conditions adiabatiques), et l’utilisation de la technique à l’état stationnaire présentée ci-dessus n’est pas recommandée. Une solution est de mesurer la diffusivité thermique en lieu et place de la conductivité thermique. Ces deux grandeurs sont en effet liées par la relation :
+
+où
+
+λ(T) est la conductivité thermique en W.cm-1.K-1
+a(T) est la diffusivité thermique en cm2.s-1
+d(T) est la masse volumique en g.cm-3
+Cp(T) est la chaleur spécifique en J.g-1.K-1
+
+Si l’on suppose que la masse spécifique ne varie pas avec la température, il suffit de mesurer la diffusivité thermique et la chaleur spécifique pour obtenir une mesure de la conductivité thermique à haute température.
+La figure suivante schématise l’appareillage utilisé pour la mesure de conductivité thermique par la méthode dite « laser flash » :
+
+Un échantillon cylindrique dont l’épaisseur d est nettement plus faible que son diamètre est placé dans un porte-échantillon qui se trouve à l’intérieur d’un four maintenu à température constante. Une de ses faces est illuminée par des pulses (de l’ordre de la milliseconde) émis par un laser, ce qui assure un chauffage uniforme de la face avant. La température de la face arrière est mesurée, en fonction du temps, à l’aide d’un capteur de mesure infrarouge. En l’absence de pertes thermiques de l’échantillon, la température devrait augmenter de manière monotone. Dans une situation réelle, l’enregistreur mesurera un pic de température suivi d’un retour à la température du four. Le temps t nécessaire pour que la face arrière atteigne la moitié de la température de pic (par rapport à la température du four), permet de déterminer la diffusivité thermique suivant :
+
+Il est alors possible de calculer la conductivité thermique grâce à la masse volumique et la chaleur spécifique.
+La difficulté de cette technique réside dans le choix des paramètres de mesure optima (puissance du laser et épaisseur de l'échantillon).
+
+
+== Dans la construction ==
+
+
+=== Résistance thermique d'une paroi ===
+
+En thermique du bâtiment, la valeur λ de la conductivité thermique rentre dans le calcul de la résistance thermique d'une paroi. Pour qualifier les matériaux hétérogènes au travers desquels la chaleur se propage en même temps par conduction, convection et rayonnement, la donnée de la conductivité thermique n'est pas suffisante. Pour les qualifier, on utilise une valeur de résistance thermique déduite d'essais en laboratoire.
+Comme la conductivité thermique d'un matériau varie en fonction de la température et de l'humidité de celui-ci, les documentations technico-commerciales des matériaux doivent préciser, avec la valeur de λ, les conditions dans lesquelles cette valeur est obtenue. Cette valeur λ déclarée doit être éventuellement certifiée par u

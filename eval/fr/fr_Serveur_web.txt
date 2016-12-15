@@ -1,0 +1,31 @@
+
+WAMP pour « Windows, Apache, MySQL, PHP » ;
+MAMP pour « Macintosh, Apache, MySQL, PHP ».
+Il existe aussi la distribution de Microsoft nommée IIS pour « Internet Information Services » qui comprend plusieurs services : HTTP, FTP, SMTP et NNTP.
+
+
+== Notes et référencesModifier ==
+
+
+== AnnexesModifier ==
+
+
+=== Articles connexesModifier ===
+Serveur HTTP
+Serveur web embarqué
+World Wide Web
+Internet
+Serveur informatique
+Réseau informatique
+Serveur d'applications
+Apache HTTP Server
+nginx
+Internet Information Services
+lighttpd
+
+
+=== Liens externesModifier ===
+(en) What is Web Server ?, sur le site webhosting.uk.com
+ Portail des réseaux informatiques
+ Portail d’Internet
+ Portail de l’informatique

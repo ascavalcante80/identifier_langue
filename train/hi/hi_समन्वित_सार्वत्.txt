@@ -1,0 +1,25 @@
+समन्वित सार्वत्रिक समय (ससस) (Coordinated Universal Time) विश्व के समय का प्राथमिक मानक है जिसके द्वारा विश्वभर में घड़ियाँ एवं समय नियंत्रित किये जाते हैं। यह ग्रीनविच माध्य समय (GMT) के बहुत सारे अनुवतियों (successors) में से एक है। साधारण कार्यों की दृष्टि से समन्वित सार्वत्रिक समय और ग्रीनविच माध्य समय एक ही हैं, किन्तु ग्रीनविच माध्य समय अब वैज्ञानिक समुदाय द्वारा परिशुद्धता पूर्वक (precisely) परिभाषित नहीं किया जाता है।
+अन्तर्राष्ट्रीय परमाण्विक समय(TAI) अनियमित अंतरालों पर जोड़े गये लोन सैकिण्ड सहित है। यह लोन सैकिण्ड पॄथ्वी की धीमी होती गति के कारण जोड़े जाते हैं। इनसे UTC की UT1 से समीपता बनी रहती है। UT1 औसत सौर समय है, जो कि ग्रीनविच की साही वेधशाला में देखा जाता है।
+UTC और UT1 के बीच का अन्तर 0.9 s से अधिक नहीं हो पाता, अतएव यदि उच्च परिशुद्धता आवश्यक ना हो, तो एक सामान्य टर्म विश्वव्यापी समय या युनिवर्सल टाइम, प्रयोग की जा सकती है।
+नैमित्तिक प्रयोगों हेतु, ग्रीनविच मानक समय (GMT) भी UTC और UT1 समान ही होता है। संशय मिटाने हेतु सामायतः सविस (UTC) ही प्रयोग होता है, GMT के प्रयोग से बचा जाता है।
+
+
+== लघुरूप ==
+
+
+== पुस्तक सन्दर्भ ==
+Allan, David W., Neil Ashby, Clifford C. Hodge: The Science of Timekeeping. Hewlett Packard Application Note 1289, 1997.
+ITU-R Recommendation TF.460-4: Standard-frequency and time-signal emissions. International Telecommunication Union. (Annex I of this document contains the official definition of UTC.)
+McCarthy, Dennis D.: "Astronomical Time". Proc. IEEE, Vol. 79, No. 7, July 1991, pp. 915–920.
+Nelson, McCarthy, et al.: "The leap second: its history and possible future"पीडीऍफ (381 KiB), Metrologia, Vol. 38, pp. 509–529, 2001.
+Seidelman, P.K. (ed). Explanatory Supplement to the Astronomical Almanac. Sausalito, CA: University Science Books. 1992.
+
+
+== सन्दर्भ ==
+
+
+== बाहरी कड़ियां ==
+Bureau International des Poids et Mesures UTC/TAI Time Server
+The official U.S. time in UTC zone using Java.
+World Time Server – any location, any time
+thetimeNOW – Current time in all time zo

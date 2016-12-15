@@ -1,0 +1,19 @@
+Una grammatica lineare è una grammatica formale generativa.
+In particolare è una grammatica libera dal contesto (non contestuale) in cui la parte destra delle produzioni contiene al massimo un non terminale.
+Casi particolari di grammatiche lineari sono le grammatiche regolari poiché possono essere lineari destre oppure lineari sinistre.
+
+
+== Definizione ==
+Le produzioni di una grammatica lineare sono del tipo:
+ con al massimo un non terminale.
+I linguaggi generabili con grammatiche lineari sono detti linguaggi lineari. Si può dimostrare che questa classe di linguaggi è strettamente contenuta in quella dei linguaggi liberi dal contesto (non contestuali) e contiene strettamente quella dei linguaggi regolari.
+
+
+== Esempio ==
+Una grammatica lineare con le seguenti regole di produzione:
+S → aSb
+S → ab
+genera il linguaggio  non generabile con una grammatica regolare.
+
+
+== Voci correlate

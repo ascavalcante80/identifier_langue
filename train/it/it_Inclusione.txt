@@ -1,0 +1,31 @@
+In matematica, e in particolare in teoria degli insiemi, l'inclusione, indicata con , è una relazione binaria tra insiemi definita nel seguente modo: "l'insieme  è contenuto o incluso nell'insieme  se e solo se, per ogni elemento , se  appartiene a  allora  appartiene ad ". In simboli, dati due insiemi  e , si ha:
+
+L'insieme  si dice sottoinsieme di .
+Si parla, più propriamente, di inclusione stretta, per indicare che ogni elemento di  è anche elemento di  ma che esistono elementi di A che non sono elementi di .
+Nel caso in cui tutti gli elementi di  appartengono anche a  si parla di sottoinsieme improprio (in altre parole ogni insieme è un sottoinsieme improprio di se stesso). Si parla di sottoinsieme proprio se almeno un elemento di  non è compreso nell'insieme , cioè nel caso dell'inclusione stretta.
+
+Il simbolo usato per indicare un sottoinsieme è , mentre il simbolo per indicare un sottoinsieme proprio è . Tuttavia spesso viene usata una notazione alternativa che indica con  un sottoinsieme e con  un sottoinsieme proprio (quest'ultima si usa anche quando si vuole mettere in evidenza che  non coincide con ).
+Analogamente si definisce il concetto di sovrainsieme; il simbolo usato è  (oppure ) per il sovrainsieme, e  (oppure ) per il sovrainsieme proprio.
+
+
+== Esempio ==
+Siano  e , allora .
+
+
+== Proprietà ==
+L'inclusione è una relazione d'ordine largo, cioè è una relazione riflessiva, antisimmetrica e transitiva; quindi valgono:
+ (riflessività)
+ (antisimmetria)
+ (transitività)
+In particolare, l'antisimmetria della relazione viene tipicamente sfruttata per definire l'uguaglianza di  e :
+" è uguale  se e solo se  è contenuto in  e  è contenuto in ",
+cioè:
+
+L'insieme vuoto  è sottoinsieme di ogni altro insieme, cioè "per ogni insieme  si ha che ".
+Valgono
+
+Se , allora:
+
+
+=== Distinzione fra inclusione ed appartenenza ===
+Bisogna fare molta attenzione a non confondere il concetto di inclusione con quello di a

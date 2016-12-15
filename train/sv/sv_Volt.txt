@@ -1,0 +1,21 @@
+Volt (V), är en härledd SI-enhet för elektrisk spänning (elektromotorisk kraft). Enheten är uppkallad efter den italienske fysikern Alessandro Volta (1745-1827), som uppfann Voltas stapel, sannolikt det första kemiska batteriet.
+I praktiken mätes antalet volt med en voltmeter eller ett oscilloskop, antingen som en potentialskillnad mellan två mätpunkter i en elektrisk krets (som ansluts till instrumentets plus- respektive minusmätstickor), eller som potentialen i en mätpunkt (som ansluts till plusmätstickan) relativt referensjord (minusmätstickan). Referensjorden har således potentialen 0 Volt. Antalet volt kan avse likspänning, det vill säga spänningens tidsmedelvärde (visas om voltmetern ställs i DC-läge), växelspänningens effektivvärde (AC-läge på voltmetern), växelspänningens toppvärde eller amplitud, eller växelspänningens momentanvärde, det vill säga variation med tiden (mätes med oscilloskop).
+Antalet volt som ett elektriskt batteri är märkt med (den så kallade märkspänningen) anger spänningen när batteriet är fulladdat och obelastat. Spänningsfall uppstår när batteriet belastas på grund av dess inre resistans. Batterispänningen sjunker ytterligare i takt med att batteriets laddning förbrukas. Spänningen i ett kortslutet batteri är 0 volt. Spänningen i vägguttaget i bland annat EU-länder är en växelspänning som idag har effektivvärde 230 volt, förr 220 volt.
+
+
+== Definition ==
+Med utgångspunkt i Ohms lag kan en volt definieras som den elektriska spänning som krävs för att driva en strömstyrka om en ampere (A) genom en resistans om en ohm (Ω), och kan således härledas som A×Ω.
+Med utgångspunkt i Joules lag kan en volt definieras som den spänning som krävs för att en strömstyrka om en ampere (A) ska ge upphov till en effekt om en watt (W). En volt härleds således från SI-enheterna watt (W) och ampere (A) och blir då ekvivalent med W/A.
+Antalet volt kan också ses som den energi (det arbete) i joule (det vill säga wattsekunder eller newtonmeter) som krävs för att flytta en laddningsmängd om en coulomb (1 C, ekvivalent med en amperesekund) från den negativa mätpunkten till den positiva. En volt är således en J/C.
+Volt kan således uttryckas i andra SI-enheter på ett flertal sätt:
+
+Uttryckt i enbart SI-grundenheter blir det så här:
+
+
+== Josephsons korsningsdefinition ==
+År 1988 fastställde den 18:e allmänna konferensen för mått och vikt, enheten volt som grundad på en kalibrering utförd med hjälp av Josephson-effekten samt frekvensmätning med atomur som tidsreferens. 
+Denna definition av volt (V90) har varit i kraft sedan 1990.
+
+
+== Vanliga storlekar ==
+Liksom för andra SI-enheter används ett system med prefix för at

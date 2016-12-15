@@ -1,0 +1,50 @@
+Thời gian là một khái niệm để diễn tả trình tự xảy ra của các sự kiện, biến cố và khoảng kéo dài của chúng. Thời gian được xác định bằng số lượng các chuyển động của các đối tượng có tính lặp lại (sự lượng hoá các chuyển động lặp lại) và thường có một thời điểm mốc gắn với một sự kiện nào đó.
+Từ "thời gian" có trong tất cả các ngôn ngữ của loài người. Khái niệm thời gian có thể có cả ở động vật. Định nghĩa về thời gian là một định nghĩa khó nếu phải đi đến chính xác. Đa số chúng ta ai cũng phải dùng từ đó và nói đến nó, ví dụ "thời gian trôi",... và do đó dứt khoát phải có một cách hiểu chung nhất.
+Thời gian là một thuộc tính của vận động và phải được gắn với vật chất, vật thể. Các nhà triết học đúc kết rằng "thế giới" vận động không ngừng (luôn vận động). Giả sử rằng nếu mọi vật trong vũ trụ đứng im, khái niệm thời gian trở nên vô nghĩa. Các sự vật luôn vận động song hành cùng nhau. Có những chuyển động có tính lặp lại, trong khi đó có những chuyển động khó xác định. Vì thế để xác định thời gian người ta so sánh một quá trình vận động với một quá trình khác có tính lặp lại nhiều lần hơn, ổn định hơn và dễ tưởng tượng hơn. Ví dụ chuyển động của con lắc (giây), sự tự quay của Trái Đất hay sự biến đổi của mặt trời trên bầu trời (ngày), sự thay đổi hình dạng của Mặt Trăng (tháng âm lịch),... hay đôi khi được xác định bằng quãng đường mà một vật nào đó đi được, sự biến đổi trạng thái lặp đi lặp lại của một "vật".
+Thời gian chỉ có một chiều duy nhất (cho đến nay được biết đến) đó là từ quá khứ đến hiện tại và tương lai. Do sự vận động không ngừng của thế giới vật chất từ vi mô đến vĩ mô (và kể cả trong ý thức, nhận thức) mà trạng thái và vị trí (xét theo quan điểm động lực học) của các vật không ngừng thay đổi, biến đổi. Chúng luôn có những quan hệ tương hỗ với nhau và vì thế "vị trí và trật tự" của chúng luôn biến đổi, không thể trở về với trạng thái hay vị trí trước đó được. Đó chính là trình tự của thời gian. Theo Stephen Hawking, thời gian có liên quan đến entropi (trạng thái động lực học) vĩ mô . Hay nói cách khác thời gian là một đại lượng mang tính vĩ mô. Nó luôn luôn gắn với mọi mọi vật, không trừ vật nào. Thời gian gắn với từng vật là thời gian riêng, và thời gian riêng thì có thể khác nhau tuỳ thuộc vào bản chất của vật đó và hệ quy chiếu gắn với nó, ví dụ với mỗi hệ chuyển động có vận tốc khác nhau thời gian có thể trôi đi khác nhau. Thời gian của vật này có thể ảnh hưởng đến vật khác.
+Như vậy, "thời điểm" là một trạng thái vật lý cụ thể (có thể xác định được) của một hệ và "thời gian" là diễn biến của các trạng thái vật lý của một hệ (xem hệ vật lý kín).
+
+
+== Đo đạc ==
+Thời gian được tính bằng năm, tháng, tuần, ngày, giờ, phút, giây. Trong đó, đơn vị cơ sở là "ngày", một ngày được chia làm 24 giờ (12 canh giờ - cách tính thường sử dụng thời xưa), 1 giờ chia thành 60 phút, 1 tuần gồm 7 ngày, 1 tháng bao gồm 28 đến 31 ngày tuỳ thuộc vào tháng trong năm...
+Theo quy ước hiện đại trong vật lý 1 giây được định nghĩa như sau:
+Giây là khoảng thời gian bằng 9,192,631,770 lần chu kỳ của bức xạ điện từ phát ra bởi nguyên tử Ce133 khi thay đổi trạng thái giữa hai mức năng lượng đáy siêu tinh vi.
+Các đơn vị thời gian thông dụng khác được định nghĩa dựa trên khái niệm giây như sau:
+Một phút có 60 giây
+Một giờ có 60 phút
+Một ngày có 24 giờ
+Một tuần có 7 ngày
+Một tháng có 4 tuần + 0, 1, 2, 3 ngày, (trung bình 30,4.. ngày)
+Một năm là khoảng thời gian trung bình của một chu kỳ Trái Đất quay quanh Mặt Trời, gồm có 12 tháng, hoặc 52 tuần 1 ngày, hoặc 365 ngày và 6 giờ
+Trong lý thuyết tương đối của Albert Einstein, đại lượng ct, với c là vận tốc ánh sáng và t là thời gian, được coi như là một chiều đặc biệt thêm vào cho không gian ba chiều để tạo thành không-thời gian[cần dẫn nguồn]. Việc cho thêm chiều thời gian giúp việc định vị các sự kiện được dễ dàng khi hệ quy chiếu thay đổi, tương tự như định vị các điểm trong không gian ba chiều cổ điển.
+Vật lý cũng như nhiều ngành khoa học khác xem thời gian là một trong số những đại lượng cơ bản ít ỏi. 
+Nó được dùng định nghĩa nhiều đại lượng khác như vận tốc nhưng nếu dùng những đại lượng như vậy mà định nghĩa trở lại thời gian sẽ tạo ra lối định nghĩa lòng vòng (tiếng Anh: circular definition).
+Một dạng định nghĩa operational về thời gian được diễn tả như sau: quan sát số lần lập cụ thể của một sự kiện có tính chu kì (như chuyển động của con lắc tự do) nảy sinh một loại đơn vị tiêu chuẩn như giây.
+
+
+== Các định nghĩa và tiêu chuẩn ==
+
+Trong hệ đo lường SI cơ bản, đơn vị của thời gian là giây. Từ đó các đơn vị lớn hơn như phút, giờ, và ngày được tính dựa theo đó, các đơn vị thứ cấp này gọi là đơn vị không SI do chúng không được sử dụng trong hệ thống thập phân. Tuy nhiên, chúng cũng được chấp nhận chính thức cùng với SI. Không có tỉ số cố định giữa giây và tháng hay năm, trong khi tháng và năm có những thay đổi đáng kể trong năm về độ dài.
+Định nghĩa về giây chính thức trong SI như sau:
+
+Giây là một khoảng thời gian bằng 9.192.631.770 thời lượng bức xạ tương ứng trong sự chuyển tiếp giữa hai mức năng lượng trong trạng thái cơ bản của nguyên tử caesium 133.
+
+Trong một hội nghị về thời gian năm 1997, CIPM thông báo rằng định nghĩa này đề cập đến một nguyên tử caesium trong trạng thái cơ bản ở 0 K. Trước đó vào năm 1967, giây đã được định nghĩa là:
+
+tỷ lệ 1/31.556.925,9747 của một năm nhiệt đới vào ngày 0 tháng 1 năm 1900 lúc 12 giờ thời gian thiên văn.
+
+Định nghĩa giây hiện tại, kết hợp với định nghĩa hiện tại về met, được dựa trên thuyết tương đối hẹp, để khẳng định rằng không-thời gian của chúng ta là một không gian Minkowski.
+
+
+=== Thời gian thế giới ===
+Điều cơ bản trong khoa học thời gian là việc tính liên tục đơn vị giây dựa trên đồng hồ nguyên tử trên toàn thế giới, hay gọi là thời gian Nguyên tử Quốc tế.
+Giờ phối hợp quốc tế (UTC) là giờ chuẩn hiện đang được sử dụng trên toàn thế giới.
+Giờ GMT là một giờ chuẩn cũ, tính từ ngành đường sắt Anh năm 1847. Sử dụng kính thiên văn thay vì đồng hồ nguyên tử, GMT được hiệu chỉnh theo thời gian Mặt Trời trung bình tại Đài thiên văn Greenwich ở Vương quốc Anh. Giờ vũ trụ (UT) là một thuật ngữ hiện đại được dùng trong hệ thống quốc tế dựa trên quan sát bằng kính thiên văn, được chấp nhận để thay thế cho Giờ trung bình Greenwich ("Greenwich Mean Time") năm 1928 bởi Hiệp hội Thiên văn Quốc tế. Những quan sát tại đào thiên văn Greenwich đã chấm dứt năm 1954, mặc dù vị trí này vẫn còn được sử dụng làm mốc cho hệ thống tọa độ. Do chu kỳ quan của Trái Đất không phải lúc hoàn toàn cố định, khoảng thời gian giây có thể thay đổi nếu được hiệu chỉnh theo tiêu chuẩn dựa trên kính thiên văn như GMT hay UT - trong đó giây được xác định là một tỷ lệ của ngày hay năm.
+Hệ thống định vị toàn cầu (GPS) cũng phát đi các tín hiệu thời gian rất chính xác trên toàn cầu, với những chỉ dẫn về cách chuyển đổi giữa giờ GPS và UTC.
+Trái Đất được chia thành các múi giờ. Hầu hết mỗi múi giờ cách nhau một giờ, và tính toán giờ địa phương khi cộng thêm vào giờ UTC hay GMT. Ở một số nơi việc cộng thêm giờ thay đổi theo năm do những quy ước về giờ tiết kiệm ánh sáng ngày.
+
+
+== Đọc thêm ==
+Barbour, Julian (1999). The End of Time: The Next Revolution in Physics. Oxford University Press. ISBN 0-19-514592-5. 
+Das, Tushar Kanti (1990). The Time Dimension: An Interdisciplinary Guide. New York: Praeger. ISBN 0275926818. - Research bibliography
+Davies, Paul (1996). About Time: Eins

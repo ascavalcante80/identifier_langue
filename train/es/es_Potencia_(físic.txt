@@ -1,0 +1,75 @@
+En física, potencia (símbolo P) es la cantidad de trabajo efectuado por unidad de tiempo.
+Si W es la cantidad de trabajo realizado durante un intervalo de tiempo de duración Δt, la potencia media durante ese intervalo está dada por la relación:
+
+La potencia instantánea es el valor límite de la potencia media cuando el intervalo de tiempo Δt se aproxima a cero. En el caso de un cuerpo de pequeñas dimensiones:
+
+Donde
+P es la potencia,
+W es el trabajo,
+t es el tiempo.
+r es el vector de posición.
+F es la fuerza.
+v es la velocidad.
+
+
+== Tipos de potenciaEditar ==
+
+
+=== Potencia mecánicaEditar ===
+La potencia mecánica aplicada sobre un sólido rígido viene dado por el producto de la fuerza resultante aplicada por la velocidad:
+
+Si además existe rotación del sólido y las fuerzas aplicadas están cambiando su velocidad angular:
+
+donde:
+, son la fuerza resultante y el momento resultante.
+, son la velocidad del punto donde se ha calculado la resultante efectiva y la velocidad angular del sólido.
+Para un sólido deformable o un medio continuo general la expresión es más compleja y se expresa como producto del tensor tensión y el campo de velocidades. la variación de energía cinética viene dada por:
+
+donde:
+, son las componentes del tensor de tensiones de Cauchy.
+, son las componentes del tensor de velocidad de deformación.
+
+
+=== Potencia eléctricaEditar ===
+
+La potencia eléctrica P desarrollada en un cierto instante por un dispositivo viene dada por la expresión
+
+Donde:
+P(t) es la potencia instantánea, medida en vatios (julios/segundos).
+I(t) es la corriente que circula por él, medida en amperios.
+V(t) es la diferencia de potencial (caída de voltaje) a través del componente, medida en voltios.
+Si el componente es una resistencia, tenemos:
+
+Donde:
+R es la resistencia, medida en ohmios.
+
+
+=== Potencia sonoraEditar ===
+La potencia del sonido, considerada como la cantidad de energía que transporta la onda sonora por unidad de tiempo a través de una superficie dada, depende de la intensidad de la onda sonora y de la superficie , viniendo dada, en el caso general, por:
+
+Ps es la potencia
+Is es la intensidad sonora.
+dS es el elemento de superficie sobre alcanzado por la onda sonora.
+Para una fuente aislada, el cálculo de la potencia sonora total emitida requiere que la integral anterior se extienda sobre una superficie cerrada.
+
+
+== Unidades de potenciaEditar ==
+Sistema Internacional (SI):
+Vatio, (W):
+
+Sistema inglés:
+caballo de fuerza o de potencia, horsepower en inglés, (hp)
+1 HP = 550 ft·lb/s
+1 HP = 745,7 871 582 240 22 W
+
+Sistema técnico de unidades:
+kilográmetro por segundo, (kgm/s)
+1 kgm/s = 9,806215 W
+
+Sistema cegesimal
+ergio por segundo, (erg/s)
+1 erg/s = 1x10-7 W
+
+Otras unidades:
+caballo de vapor, (CV)
+1 CV = 75 kgf·m/s = 735,35375

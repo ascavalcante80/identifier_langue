@@ -1,0 +1,16 @@
+s)
+a is positief voor isolatoren, en negatief voor geleiders; dus bij stijgende temperatuur verliest een isolator van zijn isolerende kracht, en een geleider van zijn geleidende kracht.
+
+
+== Analogie met elektriciteitBewerken ==
+We bepalen de thermische weerstand door de dikte van een plaat te delen door de geleidbaarheid (conductie) van het materiaal;
+
+R in m2K/W
+d de dikte in m van de plaat
+λ de thermische conductie in W/mK van die plaat.
+Als we nu het oppervlak van de plaat delen door de weerstand dan krijgen we het vermogen in Watt dat per graad temperatuurverschil door de plaat zal gaan.
+in W/K
+
+Dit kan natuurlijk ook direct:
+
+Er gelden dan sterke analogieën met elektrische stroom, zie thermische weerstand.

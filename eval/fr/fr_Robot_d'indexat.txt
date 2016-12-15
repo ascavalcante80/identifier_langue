@@ -1,0 +1,41 @@
+cte écrit en Java et publié sous Licence Apache. Il peut être utilisé avec le projet Lucene de la fondation Apache.
+Scooter de AltaVista
+OptimalSearch_Bot de Optimal Search
+MSNBot de MSN et Bing
+Slurp de Yahoo!
+KB Crawl de KB CRAWL SAS
+OmniExplorer_Bot de OmniExplorer
+ExaBot de Exalead
+MooveOnBot de mooveon.net
+gloObotBot de gloObot.com
+VerticrawlBot de Verticrawl
+TwengaBot de Twenga (en)
+GNU Wget est un logiciel libre en ligne de commande écrit en C automatisant les transferts vers un client HTTP.
+YacyBot est le robot du moteur de recherche YaCy.
+BingBot, Adidxbot, BingPreview de Bing
+DuckDuckBot de DuckDuckGo
+AynidBot du moteur de recherche Aynid .
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+PageRank
+Apache Ant
+Bot informatique
+Spambot
+Robots.txt
+Web profond
+Piège à robots (en)
+
+
+=== Liens externes ===
+(fr) Encyclopédie des robots (annuaire-info.com) : informations récentes sur plus de 100 robots du Web (user-agent, adresse IP, origine…)
+(fr) Activité des principaux robots (keypi.com) : activité des robots, et cycle d'indexation sur les sites.
+
+ Portail de l’informatique
+ Portail d’Internet

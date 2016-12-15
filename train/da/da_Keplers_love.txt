@@ -1,0 +1,23 @@
+Keplers love er tre love, fremsat af den tyske astronom Johannes Kepler, baseret hovedsagelig på Tycho Brahes omfattende og nøjagtige observationer af planeten Mars. Lovene beskriver hvordan planeterne i Solsystemet bevæger sig i deres baner omkring Solen. De tre love lyder:
+Alle planeter følger baner med facon som en ellipse, med Solen i det ene af ellipsens to brændpunkter.
+Indenfor to vilkårlige, men lige lange tidsrum, vil linjen mellem Solens og en planets centrummer altid passere et konstant areal.
+Hvis en planet med omløbstiden t følger en ellipseformet bane, hvis halve storakse er a, så vil t2 være ligefremt proportional med a3.
+Med Isaac Newtons matematik og den klassiske mekaniks formler har man sidenhen kunnet "præcisere" formlen i den sidste af Keplers love til:
+hvor G er den universelle gravitationskonstant, og M er Solens masse.
+
+
+== Beregninger ==
+
+Overstrøgne areal zxS:
+Da arealerne blot skal sammenlignes, er det ligeså rigtigt – og betydeligt nemmere – at beregne dem for en cirkel med radius R = 1. Linjestykket cz = cx = 1.
+
+Hvor E er cirklens centervinkel mellem perihelium z og planetens aktuelle projekterede placering x angivet i radianer, og e er ellipsens excentricitet = linjestykket cS divideret med linjestykket cz.
+Hvis den anomalistiske omløbstid T er kendt, er det således enkelt at beregne tiden t for bevægelsen fra z til P:
+
+Hvor A angiver hele cirklens areal: π.
+Da arealet czy, med centervinklen M, har præcis samme areal, kan man udlede:
+
+Dette ville have været forholdet ved en jævn bevægelse, kaldet for middelanomalien.
+For Jordens gang omkring solen gælder:
+
+Hvor d er antal døgn siden 1. januar 2000 klokken 00:00 dansk normaltid; og % betyder 

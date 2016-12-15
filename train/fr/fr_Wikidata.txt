@@ -1,0 +1,26 @@
+Wikidata est un projet de base de données éditée de manière collaborative pour aider à la mise à jour des données de Wikipédia. Ce projet est lancé par Wikimedia Deutschland. Présenté lors de la Semantic Tech & Business Conference en février 2012, son ouverture a été initialement annoncée au printemps 2013. Le site a été ouvert aux premières contributions le 31 octobre 2012.
+Il est destiné à fournir une source commune de données objectives, telles que les dates de naissance ou bien le PIB des pays, qui pourront être utilisées dans tous les articles des différentes versions linguistiques de Wikipédia, une mise à jour de Wikidata pouvant être alors répercutée automatiquement sur l'ensemble des Wikipédias en différentes langues. C'est le dernier né des projets de la Wikimedia Foundation depuis 2006.
+Les données de Wikidata sont publiées sous licence Creative Commons Zéro.
+La création de ce projet a été financée par des dons de l'Allen Institute for Artificial Intelligence pour 50 %, la Gordon and Betty Moore Foundation et Google pour 25 % chacun, pour un montant total de 1,3 million d'euros,.
+
+
+== Histoire ==
+
+Historiquement, Wikidata a été précédé d'autres projets de base de données cherchant à exploiter les données de Wikipédia, DBpedia notamment a été largement utilisé pour l'extraction et le traitement de contenu de l'encyclopédie. Le concept a d'abord émergé du côté de Wikimedia Deutschland qui a pris en main le développement du projet jusqu'au déploiement, qui a été alors confié, ainsi que la maintenance, à la Wikimedia Foundation. Une équipe de huit développeurs dirigée par les deux fondateurs de Semantic MediaWiki, Denny Vrandečić et Markus Krötzsch.
+Le déploiement de Wikidata doit se dérouler en trois phases :
+création de l'ensemble des fiches des articles des 280 Wikipédias en différentes langues ;
+ouverture à l'édition et à la création de données ;
+création automatique de listes et de graphiques exploitant les données, réutilisables dans les Wikipédias.
+La naissance de Wikidata s'inscrit dans un contexte croissant de développement du web sémantique, qui consiste en l'agrégation, l'analyse et l'utilisation de données éparses et permet ainsi de répondre à des requêtes complexes. WolframAlpha permet déjà ce type de réponses grâce au moteur de Mathematica et à sa base de données.
+Il était prévu que la Wikipédia en hongrois soit la première à mettre en place l'utilisation des données de Wikidata dans Wikipédia. Cependant, avant ceci, le logiciel MediaWiki devait être mis à jour et un client spécifique à Wikidata devait être créé. Les premiers articles en hongrois ont commencé à exploiter Wikidata à la mi-janvier 2013.
+
+Le logo a été réalisé par Arun Ganesh, sous le pseudonyme Planemad, et a été sélectionné par la communauté internationale de Wikimedia lors d'un vote qui a eu lieu du 3 au 12 juillet 2012. Sur les 33 propositions faites, ce logo a reçu 89 votes favorables sur près de 1000 votes. Le code-barres compose le mot « wiki » en morse.
+
+
+== Fonctionnement ==
+Wikidata est une collection d'articles constitués de données et de couples clé-valeur, particulièrement des liens vers d'autres articles, formant donc un ensemble de graphes sémantiquement structuré. L'ambition est de former un graphe de connaissance unique.
+Wikidata permet d'utiliser les données de son référentiel au sein des projets de la Wikimedia Foundation soit par ajouts spécifiques à la Wikisyntaxe, soit en utilisant le langage Lua.
+
+
+== Risques ==
+Selon Techcrunch, le fait que les données de Wikidata, sous licence Creative Commons (licence CC0), puissent être réutilisées par Google ou tout autre moteur de recherche, pourrait amener moins de consultations

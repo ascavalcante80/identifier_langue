@@ -1,0 +1,23 @@
+Das Volt ist die im internationalen Einheitensystem (SI) für die elektrische Spannung verwendete Maßeinheit. Sie wurde 1897 nach dem italienischen Physiker Alessandro Volta benannt. Als Einheitenzeichen wird der Großbuchstabe „V“ verwendet.
+Das Volt ist eine kohärente abgeleitete SI-Einheit, das heißt, sie ist mit den Basiseinheiten über den numerischen Faktor Eins verbunden.
+
+
+== Definition ==
+
+
+=== Aktuelle Definition als SI-Einheit ===
+Eine der Säulen des SI-Einheitensystems ist die Gleichsetzung der Energieeinheiten Joule (J), Wattsekunde (Ws) und Newtonmeter (Nm)
+
+Da außerdem die SI-Einheit Watt (W) festgelegt ist durch
+,
+kann man nach  auflösen
+
+
+=== Reproduzierbare Referenz ===
+Da die obige Definition in der Praxis nur schwer als genaue Referenz eingesetzt werden kann, wird seit 1990 ein Volt mittels des Josephson-Effekts und der Josephson-Konstante, des Kehrwerts des magnetischen Flussquantums, festgelegt. Diese Konstante beträgt:
+
+Damit kann mit Referenzmessungen die Festlegung von einem Volt auf eine sehr genaue Frequenzmessung (Zeitmessung) zurückgeführt werden.
+
+
+=== Historische Definition ===
+Früher wurde die Definition von einem Volt von dem Weston-Normalelement abgeleitet. Dieses Element liefert bei einer Temperatur von 20 °C eine e

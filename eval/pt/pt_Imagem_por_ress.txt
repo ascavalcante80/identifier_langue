@@ -1,0 +1,58 @@
+feito do CP é provocar um aumento da magnetização de núcleos raros do tipo 13C em favor de núcleos abundantes, 1H, facilitando (diminuindo) a relaxação (RMN) spin-rede (T1) e melhorando (aumentando) a relação sinal/ruído , num fator γH/γC ≈ 4 .
+Neste caso os núcleos abundantes I aproximam-se de um reservatório térmico, e a sua transferência de polarização para o núcleo raro S se dá por processo favorável, de natureza termodinâmica.
+
+Favorecendo um sistema de alta magnetização alinhada a um baixo campo magnético B0. Este contato térmico é estabelecido no chamado sistema girante de coordenadas, quando a condição de Hartmann-Hahn, γHB1H=γCB1C é satisfeita através da aplicação de campos de r.f (radiofrequência) para o núcleo simultaneamente.
+Quando ambos os sistemas de spins apresentarem as mesmas frequências angulares ω1 (=γB1) obtidas através do ajuste da intensidade B1 no sistema de coordenadas girantes, a condição de Hartmann-Hahn é satisfeita, e a transferência de polarização é permitida.
+O sistema girante de coordenadas é um sistema que gira com a frequência de ressonância de cada núcleo em particular em torno de . Em tal sistema, a frequência de precessão de Larmor γB0 é eliminada, o que significa o desaparecimento de .
+O único campo magnético que age sobre cada spin é o campo de RF estático, neste referencial, e tem o mesmo papel de  no sistema de referência do laboratório.
+Neste caso, pode-se observar que a condição de Hartmann-Hahn significa que os dois núcleos terão a mesma frequência de Larmor em seus respectivos sistemas girantes de coordenadas, ω1H = ω1C
+
+
+=== Desacoplamento Dipolar ===
+
+Spins nucleares apresentam um momento de dipolo, que interage com o momento de dípolo de outros núcleos (acoplamento dipolar). A magnitude da interação é dependente dos tipos de rotação (spin), a distância internuclear e a orientação do vetor que liga os dois spins nucleares em relação ao campo magnético externo B (ver figura). O acoplamento máximo dipolar é dada pelo acoplamento dipolar constante , representado por d
+,
+em que r é a distância entre os núcleos, e γ1 e γ2 são os quocientes giromagnéticos  dos núcleos. Em um forte campo magnético, o acoplamento dipolar depende da orientação do vector internuclear com o campo magnético externo
+.
+Consequentemente, dois núcleos com um vector de acoplamento dipolar a um ângulo de θm=54.7° a um forte campo magnético externo, o qual é o ângulo em que D se torna zero, tem acoplamento dipolar equivalente a zero . θm é chamado de ângulo mágico.
+
+
+=== Formação das grandes imagens de Ressonância Magnética ===
+
+Em 1971 Raymond Vahan Damadian mostrou que diferentes tipos de tecidos e tumores possuíam diferentes tempos de relaxação (RMN). Este fato motivou os cientistas a considerarem a ressonância magnética como uma técnica de elevado potencial diagnóstico e a procurarem meios de obter imagens do interior de corpos opacos.
+Para construir uma imagem o elemento chave é saber de que região da amostra provém cada sinal de RMN adquirido. Aproveitando a relação de Larmor, Lauterbur , em 1973, usou um campo magnético com comportamento espacial conhecido para “codificar” o sinal de ressonância magnética. Desta forma foram obtidas as primeiras imagens de RMN , com o método de back projection, já utilizado na tomografia de raio X.
+Em 1975, Richard Robert Ernst e colaboradores propuseram realizar uma codificação completa usando o formalismo da transformada de Fourier (TF), levando em consideração a frequência e a fase do sinal. Pouco depois, muitos outros trabalhos pioneiros mostraram, na prática, a viabilidade desta técnica usada até hoje.
+Gradientes de campo magnético
+O novo elemento codificador do sinal é um campo magnético não homogêneo e variável no tempo. Este campo tem uma componente paralela ao B0 (eixo z) com dependência espacial linear, que é sobreposta ao mesmo. Para poder representar as 3 orientações espaciais de um objeto, são utilizados os gradientes de campo nas 3 direções ortogonais (Figura 6).
+As bobinas encarregadas de gerar esta distribuição de campo são denominadas bobinas de gradiente. Desta maneira, a componente z do campo resultante fica expressa como:
+
+Assim, cada conjunto de spins localizados em uma posição diferente, terá uma frequência de precessão diferente, dada pela expressão:
+
+A frequência de precessão não é a única variável que passa a ter uma dependência espacial. Após um dado tempo de aplicação de qualquer gradiente, o acúmulo de fase também será uma função da posição. Deste modo, estas duas variáveis formam as bases da codificação espacial (Figura).
+O gradiente de campo introduzido corresponde ao termo .
+
+
+== Notas ==
+
+
+== Referências ==
+
+Victor M.S. Gil e Carlos F.G.C. Geraldes - Ressonância Magnética Nuclear - Fundamentos, Métodos e Aplicações - Fundação Calouste Gulbenkian - Coimbra - Portugal - 1987
+R. K. Harris e E.B.Mann - NMR and the Periodic Table - Academic Press - London -1978
+R. K. Harris - Nuclear Magnetic Resonance Spectroscopy - A Physicochemical View - Longman Scientific & Technical -Essex -England
+J. W. Hennel e J. Klinowski - Fundamentals of Nuclear Magnetic Resonance - Longman Scientific & Tecnical - Essex - England - 1993
+J. Mason (Editor) - Multinuclear NMR - Plenum Press - New York -1989
+Jasper D. Memory - Quantum Theory of Magnetic Resonance Parameters - McGraw-Hill Book Co. - New York - 1968
+A. I. Popov e K. Hallenga - Modern NMR Techniques and Their Application in Chemistry - Marcel Dekker, Inc - New York - 1991
+P.Sohar - CRC Nuclear Magnetic Resonance Spectroscopy Vol. I, II e III - CRC Press, Inc - Boca Raton - Florida - USA
+Barry, C.D., North, A.C.T., Glasel, J.A., Williams, R. J.P., Xavier, A.V.(1971) Quantitative determination of mononucleotide conformations in solution using lanthanide ion shift and broadening NMR probes, Nature 232, 236-245
+
+
+== Ligações externas ==
+
+Imageamento Fourier em Ressonância Nuclear Magnética
+RNM animations (en)
+
+
+== Ver também ==
+Lista de medicinas nucleares

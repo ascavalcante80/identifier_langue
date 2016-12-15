@@ -1,0 +1,74 @@
+el de eficient precum energia termica sau electrica.
+Existenta unor niveluri energetice caracteristice pentru diferite substante chimice este folositoare in scopul identificarii lor prin analiza liniilor spectrale. Diverse tipuri de spectre sunt utilizate in cadrul spectroscopiei chimice, ex.infrarosu, microunde, NMR, ESR, etc. Spectroscopia este de asemenea folosita pentru identificarea compozitiei - precum stelele si galaxiile indepartate - prin analiza spectrului de radiatie.
+
+Termenul de energie chimica este de asemenea utilizat pentru a indica potentialul unei substante chimice de a suferi anumite transformari printr-o reactie chimica sau de a transforma alte substante chimice.
+
+
+==== Redox ====
+
+Oxido-reducerea (sau redox) este o reacție ce are loc cu transfer de electroni între speciile atomice. Substanțele ce prezintă proprietatea de a oxida alte substanțe se numesc agenți oxidanți sau simplu, oxidanți. Acestea îndepărtează electroni din alte substanțe. În mod similar, substanțele ce prezintă proprietatea de a reduce alte substanțe se numesc agenți reducători, sau simplu, reducători. Aceștia transferă electroni unei alte specii chimice. Oxidarea reprezintă cedare de electroni, iar reducerea decurge cu acceptare de electroni. Reacțiile redox au loc cu schimbarea numărului de oxidare a speciilor chimice implicate. Astfel, oxidarea decurge cu creșterea acestuia, iar reducerea are loc cu scăderea lui.
+
+
+==== Aciditate si bazicitate ====
+O substanță poate fi deseori clasificată ca un acid sau o bază. Acest lucru este făcut de multe ori pe baza unui anumit tip de reacție, și anume la schimbul de protoni dintre compuși chimici. Conform teoriei protolitice a lui Brönstead si Lowri, acizii sunt specii chimice care cedează protoni, iar bazele sunt specii chimice care acceptă protoni. Cu toate acestea, o extensie a acestui mod de clasificare a fost facută de chimistul american, Gilbert Newton Lewis; în acest mod de clasificare reacțiile nu sunt limitate la cele care au loc într-o soluție apoasă, astfel, nu mai este limitată la soluții în apă. În conformitate cu conceptul lui Lewis, de o importanță crucială sunt schimburile de electroni.
+
+O a treia teorie comună este legea acid-bază a lui Lewis, bazată pe formarea legăturilor chimice noi. Această teorie explică faptul că un acid este o substanță capabilă să accepte o pereche de electroni, în timp ce o bază este o substanță care poate ceda o pereche de electroni, în scopul formării unei noi legături chimice. Conform acestei teorii, elemente cruciale ale acestor schimburi este sarcina electrică.Format:Unreliable source? Exista câteva moduri prin care o substanță poate fi clasificată ca un acid sau o bază, fapt evidențiat prin istoricul acestor concepte.
+Tăria acizilor este măsurată, de regulă, prin 2 metode. Una din ele, bazată pe scala de definire a acidității lui Arrhenius, este pH-ul, care este unitatea de măsură a concentrației ionului de hidroniu într-o soluție, fiind exprimată pe o scală logaritmică negativă. Astfel, soluțiile care au un pH scăzut au o concentrație mare de ion de hidroniu, fiind considerate a fi mult mai acide. Cealaltă măsurătoare, bazată pe definirea lui Brønsted–Lowry, este constanta disocierii acide (Ka), care măsoară abilitatea relativă a unei substanțe de a acționa ca un acid; substantele cu constanta de aciditate mai mare sunt mult mai predispuse să cedeze ioni de hidrogen în cadrul reacțiilor chimice decât cele cu valori scăzute ale constantei.
+
+
+=== Echilibru chimic ===
+
+Cu toate că termenul de echilibru este folosit in cadrul științelor, în contextul chimic, echilibrul apare atunci când un număr diferit de stări de agregare ale compoziției chimice sunt posibile (de exemplu, într-un amestec de compuși chimici ce pot reacționa unii cu alții sau atunci când o substanță poate fi prezentă în mai mult de o stare de agregare).
+Un sistem de substanțe chimice aflate la echilibru, cu toate că prezintă o compoziție neschimbătoare, nu este static; moleculele substanțelor continuă să reacționeze unele cu celelalte, dând naștere astfel unui echilibru dinamic. Prin aceasta, conceptul descrie starea în care parametrii precum compoziția chimică rămâne neschimbată în decursul timpului.
+
+
+=== Legi fundamentale ale chimiei ===
+
+Reacțiile chimice sunt determinate de anumite legi, care au devenit concepte fundamentale în chimie. Unele dintre aceste legi sunt:
+
+
+== Sistemul Internațional de Unități ==
+
+
+== Aplicații practice ==
+
+
+=== Subdiscipline ===
+Ca orice alt obiect de studiu major, chimia este împărțită în câteva subdisciplie:
+Chimie organică este ramura chimiei care se ocupă cu studiul structurii, proprietăților, reacțiilor de sinteză sau de descompunere a compușilor organici. Compușii organici sunt substanțe alcătuite în principal din carbon și hidrogen, dar pot conține și oxigen, azot, sulf, fosfor sau bor, precum și restul elementelor, dar în cantități mult mai mici.
+Chimie anorganică este o ramură a chimiei, ce studiază proprietățile elementelor chimice și compușii formați de acestea. Interpretarea compușilor anorganici se face cel mai bine prin modele calitative ale mecanicii cuantice. Nu există o distincție clară între disciplina organică și anorganică, fiind întrepătrunse în cadrul chimiei organometalice.
+Chimie analitică reprezintă disciplina științifică ce dezvoltă și aplică metode, instrumente și strategii în scopul obținerii de informații cu privire la compoziția și natura elementelor.
+Chimie fizică este ramură a chimiei care se ocupă cu studierea fenomenelor macroscopice, atomice, subatomice și particulare în sistemele chimice, în ceea ce privește legile fizice. Chimie fizică adesea folosește concepte din fizică precum mișcarea, energie, forță, timp, termodinamică, chimie cuantică, mecanică statistică, și dinamică.
+Electrochimie reprezintă un domeniu de intereferență dintre chimie și studiul electricității, care studiază reacțiile electrochimice și aplicațiile acestora: electroliza, coroziunea, acumulatorii electrici, bateriile, procedeele electrochimice de acoperire metalică. Cel mai important procedeu care este studiat de electrochimie este electroliza, ce reprezintă o reacție chimică ce are loc la trecerea curentului electric.
+Biochimie este știința care studiază chimia vieții. Considerată multă vreme o ramură interdisciplinară aflată la granița între chimie și biologie, biochimia s-a dezvoltat în special în ultimele decenii ca o disciplină de sine stătătoare, abordând subiecte ca structura chimică a substanțelor din care sunt formate organismele, interacțiunile între aceste substanțe și transformările metabolice pe care acestea le suferă in vivo. În mare, se poate considera că biochimia are două ramuri: biochimia metabolismelor și biochimia structurală.
+Chimie teoretică este o ramură a chimiei ce se folosește de legile fizicii pentru a explica și prezice proprietățile diferitelor substanțe.
+Chimia materialelor este reprezentată de prepararea, caracterizarea și intelegerea substantelor folositoare. Principalele obiecte de studiu sunt chimia stărilor de agregare (solide, lichide, polimeri) și procesele ce au loc intre stari de agregare diferite.
+Neurochimie o ramură a neurologiei, ce se ocupă cu studierea naturii și funcțiilor neurotransmițătorilor și cu efectul pe care substanțele chimice îl au asupra celulelor nervoase.
+Chimie nucleară este o ramură a chimiei care studiază radioactivitatea, procesele nucleare și proprietățile nucleare ale compușilor. Altfel spus, este studiul chimiei elementelor radioactive, sum sunt actinidele radiu și radon, împreună cu studiul implicării chimiei în echipamentul necesar realizării proceselor nucleare.
+Alte discipline din cadrul chimiei sunt grupate în funcție de tipul materiei studiat sau de tipul studiului. Chimia anorganică studiază materia anorganică, chimia organică studiază materia organică bazată pe carbon, biochimia studiază substanțele chimice prezente în organismele biologice, chimia fizică studiază procesele chimice prin intermediul conceptelor precum termodinamica și mecanica cuantică, iar chimia analitică utilizează analiza mostrelor pentru înțelegerea compoziției și structurii chimice.
+Alte domenii includ agrochimie, astrochimie (and cosmochimie), chimia atmosferică, inginerie chimică, Biologie chimică, Chemo-informatica, electrochimie, chimia mediului, Femtochimia, Chimia aromelor, Chimia fluxului, geochimie, Chimia ecologica, Histochimia, Istoria chimiei, chimia hidrogenarii, Imunochimia, Chimia marina, Stiinta materialelor, Chimie matematica, Mecanochimia, Chimie medicinala, Biologie moleculara, Mecanica moleculara, Nanotehnologie, Chimia produselor naturale, Oenologie, Chimie organometalică, petrochimie, farmacologie, fotochimie, Chimie organica fizica, Fitochimie, Chimia polimerilor, radiochimie, Chimia solidelor, sonochimie, Chimie supramoleculară, termochimie, și multe altele.
+
+
+=== Industria chimică ===
+
+
+=== Societăți profesionale ===
+
+
+== Note ==
+
+
+== Vezi și ==
+Științe naturale
+Tabelul periodic al elementelor
+Cronologia chimiei
+Istoria descoperirii elementelor chimice
+
+
+== Bibliografie ==
+
+Atkins, P.W. Galileo's Finger (Oxford University Press) ISBN 0-19-860941-8
+Atkins, P.W. Atkins' Molecules (Cambridge University Press) ISBN 0-521-82397-8
+Stwertka, A. A Guide to the Elements (Oxford University Press) ISBN 0-19-515027-9
+Roșu (2008). Curs de Chimie generală, Universitatea din București.
+Negoiu, Dumitru. Tratat de chimie anorganică. Vol. 1: Chimie generală. 1972, Ed. Didactică și Pedagogică

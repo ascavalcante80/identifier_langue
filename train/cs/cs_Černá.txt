@@ -1,0 +1,31 @@
+Černá je „barva“, kterou oko vnímá v případě, že z daného směru nepřichází žádné světlo.
+Tento nedostatek světla může být dán jak neexistencí žádného zdroje, tak tím, že příslušný materiál pohlcuje světlo všech barev, namísto aby některé barvy odrážel. Černý pigment může být také tvořen směsí několika pigmentů, z nichž každý pohlcuje některé barvy, čímž v souhrnu pohlcuje tak velkou část viditelného spektra, že se dá označit za černý (viz CMYK níže).
+Tyto dva pohledy vedou k definicím aditivního a subtraktivního míchání barev.
+Černou barvu je možno chápat jako nejtmavší odstín bílé.
+Staročeskou variantou "černý" bylo "črný" či "čirný". Slovo pochází z praslovanského *čьrnъ (např. slovinsky "črna"), z prabaltoslovanského *kirsnos (např. litevsky "kirsnas") a snad souvisí s indickým kršna [1].
+
+
+== CMYK ==
+V barevném modelu CMY(K) je černou barvu možno vytvořit několika způsoby: V původním modelu CMY černá vznikala smíšením všech tří základních pigmentů v příslušném poměru tak, aby výsledná směs pohlcovala všechny barvy. Taková černá barva se ovšem v praxi ukazuje jako nekvalitní, s barevným (nejčastěji špinavě hnědým) nádechem. Proto se ke třem základním pigmentům přidal specializovaný černý pigment, kterým se dosahuje právě dokonalé černi – tím vznikl barevný model CMYK.
+Proto lze černou v barevném modelu CMYK vyjádřit několika způsoby:
+(1, 1, 1, 0) – teoretická čerň v modelu CMY
+(0, 0, 0, 1) – prakticky používaná čerň v modelu CMYK
+(1, 1, 1, 1) – tzv. soutisková černá, její výhodou je, že je vidět na každém ze čtyř barevných výtažků, které tvoří předlohu tisku
+
+
+== Významy ==
+Jako černí (černoši) se označují lidé černé rasy – viz černá rasa.
+Černá barva je v západní tradici barvou s negativním významem, to má pravděpodobně původ ve vnímání noci jako nebezpečné.
+Původně se černé šaty nosily při pohřbu proto, aby duch zemřelého černě oděnou osobu „přehlédl“ a nevzal si ji s sebou. Později se tak stala pohřební barvou a všeobecně barvou smutku.
+Jako „černý den“ se označuje několik smutných či tragických událostí, mimo jiné několik burzovních krachů.
+Černý humor jsou vtipy, které jsou založeny na smrti a vraždách.
+Černá komedie je komediální žánr využívajících morbidních či tragických témat.
+Černá listina (blacklist) je seznam nežádoucích osob či jiných entit.
+Černý trh je označení pro nelegální obchod.
+
+Černá označuje neznámo:
+Černá skříňka označuje mechanismus s neznámou vnitřní funkčností (známý pouze podle vnějších projevů chování).
+
+Černá díra je astronomický objekt, ze kterého neuniká (téměř) žádné záření.
+V automobilových závodech je černá vlajka příkazem řidiči, aby zajel do boxů.
+V barevném značení odporů znamená černá barva č

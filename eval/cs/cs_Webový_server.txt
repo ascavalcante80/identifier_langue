@@ -1,0 +1,46 @@
+usí obsloužit jen jeden server
+
+
+=== Příznaky přetížení ===
+Přetížení se může projevovat např:
+pomalou odezvou serveru (od jednotek po stovky s)
+500, 502, 503, 504 HTTP chyby
+TCP spojení je nuceno se restartovat ještě před tím, než přijde odpověď
+ve výjimečných případech jako odpověď server odešle nekompletní obsah (toto chování je většinou způsobeno chybou)
+
+
+=== Techniky pro zamezení přetížení ===
+kontrola síťového provozu pomocí firewallů, HTTP traffic managerů a traffic shapingu
+použití webových cache
+použití rozdílných doménových jmen pro statické a dynamické dotazy
+použití rozdílných doménových jmen a/nebo počítačů pro oddělení velkých souborů aby ty malé mohly být uloženy v cache
+použití více webových serverů na jednom počítači, každý s vlastní síťovou kartou
+použití více počítačů propojených dohromady a navenek se jevících jako jeden velký server
+přidání více hardware (RAM,CPU)
+vyladění použitého software
+
+
+== Podíl na trhu ==
+Podle posledních průzkumů společnosti Netcraft z června 2013:
+
+
+== Software ==
+Nejrozšířenější programy, které zabezpečují službu webového serveru, jsou:
+Apache HTTP Server
+Internet Information Services
+Sun Java System Web Server
+
+
+== Odkazy ==
+
+
+=== Reference ===
+↑ http://news.netcraft.com/archives/2013/06/06/june-2013-web-server-survey-3.html
+
+
+=== Související články ===
+HTTP, HTTPS
+CGI, FastCGI, ASP, PHP
+Webový prohlížeč
+WWW
+Internet, Intranet

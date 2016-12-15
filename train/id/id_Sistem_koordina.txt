@@ -1,0 +1,3 @@
+Sistem koordinat geografi digunakan untuk menunjukkan suatu titik di Bumi berdasarkan garis lintang dan garis bujur.
+Garis lintang yaitu garis vertikal yang mengukur sudut antara suatu titik dengan garis katulistiwa. Titik di utara garis katulistiwa dinamakan Lintang Utara sedangkan titik di selatan katulistiwa dinamakan Lintang Selatan.
+Garis bujur yaitu horizontal yang mengukur sudut antara suatu titik dengan titik nol di Bumi yaitu Greenwich di London Britania Raya yang merupakan titik bujur 0° atau 360° yang diterima secara internasional. Titik di barat bujur 0° dinamakan Bujur Barat sedangkan titik di timur 0° dinamakan Bujur Ti

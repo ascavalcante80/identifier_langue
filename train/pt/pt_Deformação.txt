@@ -1,0 +1,15 @@
+Em física e engenharia, a deformação de um corpo contínuo (ou de uma estrutura) é qualquer mudança da configuração geométrica do corpo que leve a uma variação da sua forma ou das suas dimensões após a aplicação de uma ação externa (solicitação), a exemplo de uma tensão ou variação térmica que altere a forma de um corpo.
+As deformações por tensão podem ser classificadas basicamente em três tipos:
+deformação transitória ou elástica
+deformação permanente ou plástica
+ruptura.
+Na deformação elástica, o corpo retorna ao seu estado original após cessar o efeito da tensão. Isso acontece quando o corpo é submetido a uma força que não supere a sua tensão de elasticidade (Lei de hooke).
+Na deformação permanente, o corpo não retorna ao seu estado original, permanece deformado permanentemente. Isso acontece quando o corpo é submetido à tensão de plasticidade, que é maior daquela que produz a deformação elástica.
+Na deformação por ruptura o corpo rompe-se em duas ou mais partes. A ruptura acontece quando um corpo recebe uma tensão inicialmente maior daquela que produz a deformação plastica; essa tensão tende a diminuir após o início do processo.
+A forma de aplicação das tensões varia em relação a reação de apoio ou inércia do corpo; elas podem ocorrer por tração, compressão, cisalhamento, flexão e torção:
+Tração
+solicitação que tende a alongar o corpo e ocorre no sentido inverso ao apoio ou inércia resultante do sistema de forças (semelhante aos cabos de aço de um guindaste);
+Compressão
+solicitação que tende a encurtar o corpo e ocorre no mesmo sentido da reação de apoio ou inércia resultante do sistema de forças (semelhante às colunas de uma construção);
+Cisalhamento ou corte
+solicitação que tende a cortar o corpo e ocorre com o deslocamento paralelo em sentido oposto de duas seções contíguas

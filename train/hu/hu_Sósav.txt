@@ -1,0 +1,80 @@
+A sósav a hidrogén-klorid tiszta, színtelen, rendkívül szúrós szagú vizes oldata. Nagyon korrozív, az iparban széles körben használt erős ásványi sav. A természetben is megtalálható, a gyomorsav egyik alkotója.
+Nagyobb mennyiségben az ipari forradalom idején kezdték előállítani, a vegyiparban reagensként használják olyan anyagok tömegtermelésére, mint a vinil-klorid (melyből PVC-t állítanak elő), valamint a metilén-difenil-diizocianát (MDI) és toluol-diizocianát (TDI) – utóbbiak a poliuretán gyártásának alapanyagai. Számos kisebb mennyiséget igénylő alkalmazása is van, többek között háztartási tisztítószer (vízkőoldó), de használják zselatin és más élelmiszer-adalékok gyártása során is, kazánkő eltávolítására és bőrfeldolgozáshoz. A világ éves sósav termelése mintegy 20 millió tonna.
+
+
+== Felfedezése ==
+A királyvizet egy 13. századi alkimista, Pszeudo-Geber említi munkáiban, aki szalmiáksó salétromsavban történő feloldásával állította elő. Más források szerint a királyvizet elsőként a 13. század végére datálható bizánci kéziratok említik.
+A szabad sósavat első leírása Libaviustól származik a 16. századból, ő az új anyagot só agyagtégelyben történő hevítésével állította elő. Más szerzők szerint a tiszta sósavat elsőként Basil Valentine német bencés szerzetes fedezte fel a 15. században, ő só és zöld vitriol elegyét hevítette, míg megint mások szerint a tiszta sósav előállítására a 16. század végéig nincs egyértelmű utalás.
+A 17. században a német Johann Rudolf Glauber nátrium-klorid és kénsav felhasználásával nárium-szulfátot állított elő, melynek során hidrogén-klorid gáz szabadult fel. Joseph Priestley 1772-ben állított elő tiszta hidrogén-kloridot, melyről Humphry Davy 1818-ban bizonyította be, hogy hidrogénből és klórból álló vegyület.
+Az európai ipari forradalom során megnőtt a kereslet a lúgos anyagok iránt. A francia Nicolas Leblanc új ipari eljárása lehetővé tette a nátrium-karbonát (szóda) olcsó, nagy mennyiségben történő előállítását. A Leblanc-szódagyártás során a kősót kénsav, mészkő és szén felhasználásával szódává alakítják, melléktermékként hidrogén-klorid keletkezik. Amíg törvénnyel meg nem tiltották (ilyen például a brit Alkali Act 1863), addig a HCl-t a levegőbe engedték. A törvény elfogadása után a szódagyártókat kötelezték, hogy a hulladékgázt vízben nyelessék el, ezzel iparilag állítottak elő sósavat.
+A huszadik században a Leblanc-szódagyártást felváltotta a Solvay-eljárás, melynek nincs sósav mellékterméke. Mivel a sósav időközben számos felhasználása révén fontos vegyszerré vált, a kereskedelmi igényt más gyártási eljárásokkal kellett kielégíteni, ezek közül némelyiket ma is használják. 2000 után a sósavat főként a szerves kémiai vegyipar által melléktermékként előállított hidrogén-klorid vízben történő elnyeletésével állítják elő.
+
+
+== Kémiai tulajdonságai ==
+A hidrogén-klorid (HCl) egyértékű sav, így disszociációja során egyetlen H+-t (protont) ad le. Vizes oldatban a H+ egy vízmolekulához kapcsolódva H3O+ oxóniumiont képez:
+HCl + H2O → H3O+ + Cl−
+A disszociáció során keletkező másik ion a Cl− kloridion, a sósav így felhasználható a klorid sók – például nátrium-klorid – előállítására. A sósav erős sav, mivel vízben gyakorlatilag teljesen disszociál.
+Az egyértékű savaknak egy savi disszociációs állandója (Ka) van, ennek értéke adja meg, hogy vízben milyen mértékben disszociálnak. Erős savak esetén, mint amilyen a sósav is, Ka értéke nagyon nagy. A HCl Ka értékét megpróbálták elméleti alapon megállapítani. Ha sósavoldathoz klorid sót, például NaCl-ot adunk, akkor az a pH-ra gyakorlatilag nincs hatással, ami arra utal, hogy a Cl− rendkívül gyenge konjugált bázis, és a HCl vizes oldatban teljesen disszociált állapotban van jelen. A hidrogén-klorid közepes és tömény oldatai esetén kitűnő az egyezés a H+ és a HCl feltételezett azonos molaritása között, a két érték négy jegy pontosságig megegyezik.
+A hat hétköznapi erős ásványi sav közül az egyértékű sósav a legkevésbé hajlamos zavaró redoxireakciókra. Az egyik legegyszerűbben kezelhető erős sav, mivel savasságát leszámítva csak a nem reakcióképes és nem mérgező kloridion található benne. A közepes erősségű sósavoldatok tárolás során kellően stabilak, koncentrációjuk hosszabb idő alatt is alig változik. Mindezek miatt, valamint mert tiszta formában elérhető reagens, a sósav kiváló savasító szer.
+Sav-bázis titrálások során a leginkább használt sav a sósav. Az erős savval végzett titrálások egyértelműbb végpontja miatt a kapott eredmény pontosabb. Az azeotrópos (körülbelül 20,2%-os) sósav a mennyiségi elemzésben elsődleges referenciaanyagként használható, bár pontos koncentrációja függ attól, hogy a készítésekor mekkora volt a légnyomás.
+A kémiai elemzésben gyakran használják a sósavat a minták előkészítésére („feltárására”). A tömény sósav számos fémet felold, miközben oxidált fém-kloridok és hidrogéngáz keletkezik. Bázikus anyagokkal, például kalcium-karbonáttal vagy réz(II)-oxiddal is reagál, melynek eredményeként oldott kloridok keletkeznek, melyek azután elemezhetőek.
+
+
+== Fizikai tulajdonságai ==
+
+Fizikai tulajdonságai, mint az olvadás- vagy forráspont, sűrűség és pH a HCl vizes oldatának koncentrációjától vagy molaritásától függenek, a nagyon híg – 0% körüli HCl tartalmú – oldatétól a füstölgő, 40%-osnál is töményebb HCl-éig terjednek.
+A sósav, mint a HCl és H2O kétkomponensű keveréke állandó (108,6 °C) forráspontú azeotróp elegyet képez 20,2% HCl tartalom esetén. A sósavnak négy állandó kristályosodási eutektikus pontja van, ezek a kristályos formák a HCl·H2O (68% HCl), HCl·2H2O (51% HCl), HCl·3H2O (41% HCl), HCl·6H2O (25% HCl) és a jég (0% HCl). Ezeken kívül létezik még egy metastabil eutektikus pont is 24,8%-es összetételnél a jég és a HCl·3H2O kristályforma között.
+
+
+== Előállítása ==
+A sósavat hidrogén-klorid vízben történő oldásával állítják elő. Hidrogén-kloridot számos eljárással gyártanak, így többféle kiindulási anyaga létezik, de nagy mennyiségben történő gyártása csaknem mindig más vegyi anyagok ipari léptékű gyártásához kapcsolódóan történik.
+
+
+=== Ipari célra ===
+Sósavoldatot 38%-os töménységig gyártanak (tömény sósav). Nagyobb, 40%-ot valamivel meghaladó koncentráció is elérhető, de az ilyen oldatok kezelése és tárolása az erős párolgás miatt további óvintézkedéseket, például túlnyomást és alacsony hőmérsékletet igényel. Az ömlesztett ipari termék ezért 30–34%-os, mely még hatékonyan, kis HCl veszteséggel szállítható. Higher concentrations require the material to be pressurized and cooled to reduce evaporation losses. In the United States, solutions of between 20% and 32% are sold as muriatic acid. Az USA-ban a háztartási – főként tisztítási – célokra szánt oldatai jellemzően 10–12%-osak, ezeket felhasználás előtt erősen ajánlják hígítani. Nagy-Britanniában a háztartási sav töménysége az USA-beli ipari minőséggel azonos.
+A világ fő sósav előállítói a Dow Chemical (HCl gázként számítva 2 millió tonna/év), valamint a Georgia Gulf Corporation, Tosoh Corporation, Akzo Nobel és a Tessenderlo (egyenként 0,5–1,5 Mt/év). Összehasonlításul a világon előállított HCl mennyiségét 20 Mt/évre becsülik, melyből 3 Mt/év közvetlen szintézis, a többi szerves kémiai szintézisek és hasonló reakciók mellékterméke. A sósav legnagyobb részét az előállítás helyén fel is használják. Világpiaci forgalmát 5 Mt/évre becsülik.
+
+
+== Felhasználása ==
+A sósav erős szervetlen sav, számos ipari eljárásban alkalmazzák. A felhasználási cél gyakran meghatározza a kívánt minőséget.
+
+
+=== Acél pácolása ===
+A sósav egyik legfontosabb felhasználása az acél pácolása, melynek során a vasról vagy acélról a további megmunkálás – például kisajtolás, hengerlés, galvanizálás vagy más művelet – előtt eltávolítják a rozsda vagy vas-oxid réteget. A szénacélok pácolására leggyakrabban technikai minőségű, jellemzően 18%-os sósavat használnak.
+Fe2O3 + Fe + 6 HCl → 3 FeCl2 + 3 H2O
+A hulladék savat régebben vas(II)-klorid oldatként újrahasznosították, de a páclé magas nehézfémtartalma miatt ez a gyakorlat visszaszorulóban van.
+A hidrogén-klorid regenerálására több eljárást is kifejlesztettek, ilyen például a porlasztva pörkölő vagy a fluidágyas HCl regeneráló eljárás, melyekkel a hulladék pácléből visszanyerhető a HCl. A leggyakrabban alkalmazott regenerálási eljárás a pirohidrolízis, melynek reakcióegyenlete a következő:
+4 FeCl2 + 4 H2O + O2 → 8 HCl+ 2 Fe2O3
+A hulladék sav visszanyerésével zárt savkör hozható létre. A regenerálás során melléktermékként értékes vas(III)-oxid keletkezik, melyet egyéb iparágak hasznosítanak.
+
+
+=== Szerves vegyületek előállítása ===
+A sósav másik fő felhasználási területe a szerves vegyületek előállítása, például a PVC készítéséhez vinil-klorid és 1,2-diklóretán gyártása. Ez gyakran a helyben előállított sósav felhasználásával valósul meg. Sósav szükséges több más szerves vegyület előállításához is, ilyen például a polikarbonátok gyártásához használt biszfenol-A, az aktív szén és az aszkorbinsav, valamint számos gyógyszer hatóanyaga is.
+2 H2C=CH2 + 4 HCl + O2 → 2 ClCH2CH2Cl + 2 H2O (diklóretán előállítása oxiklórozással)
+fa + HCl + hő → aktív szén (kémiai aktiválás)
+
+
+=== Szervetlen vegyületek előállítása ===
+Számos termék állítható elő sósavval hagyományos sav–bázis-reakció révén. Ilyen többek között a víz kezelésére használt vas(III)-klorid és a polialumínium-klorid (PAK):
+Fe2O3 + 6 HCl → 2 FeCl3 + 3 H2O
+Mind a vas(III)-kloridot, mind a PAK-ot flokkulálószerként és koagulánsként használják a szennyvízkezelés, az ivóvíz előállítása és a papírgyártás során.
+További, sósavval felhasználásával gyártott szervetlen vegyület az utak sózására használt kalcium-klorid, a galvanizálásra használt nikkel(II)-klorid, valamint a horganyzásra és szárazelemgyártásban használt cink-klorid.
+CaCO3 + 2 HCl → CaCl2 + CO2 + H2O (kalcium-klorid előállítása mészkőből)
+
+
+=== pH-szabályozás és semlegesítés ===
+A sósavat oldatok savasságának (pH-jának) beállítására is használják.
+OH− + HCl → H2O + Cl−
+Nagy tisztaságot igénylő iparágakban (élelmiszer- és gyógyszeripar, ivóvíz előállítása) kiváló minőségű sósavat használnak a víz pH-jának beállítására. A kevésbé szigorú követelményeket támasztó alkalmazásoknál a technikai minőségű sav is megfelelő a hulladékvizek semlegesítésére.
+
+
+=== Ioncserélők regenerálása ===
+Kiváló minőségű sósavat használnak az ioncserélő gyanták regenerálására. A kationcserét elterjedten alkalmazzák a vizes oldatokból a kationok, például a Na+ and Ca2+ eltávolítására az ionmentes víz előállítása során. A gyantáról a kationokat savval mossák le. A Na+-t H+, míg a Ca2+-t 2 H+ helyettesíti.
+Ioncserélőket és ionmentes vizet a vegyipar minden ágában, valamint az ivóvíz gyártása során és számos élelmiszeripari ágban is használnak.
+
+
+=== További alkalmazások ===
+A sósavnak sokféle, kis mennyiséget igénylő felhasználása is létezik, ilyen például a bőrfeldolgozás, a konyhasó tisztítása, háztartási tisztítószerként történő felhasználás és a magasépítés. Az olajkutak kitermelése növelhető, ha sósavat juttatnak a kőzetekbe, ez ugyanis a kőzet egy részét feloldja, így nagyobb pórusméretű kőzetszerkezet jön létre. Az olajkutak savazása bevett eljárás az Északi-tengeri olajkitermelésben.
+A sósavat használják kalcium-karbonát feloldására, azaz például teáskanna vízkőmentesítésére vagy téglafalakról a habarcs eltávolítására. Téglafalon használva reakciója a habarccsal csak addig tart, amíg az összes sav át nem alakult kalcium-kloriddá, szén-dioxiddá és vízzé:
+2 HCl + CaCO3 → CaCl2 + CO2 + H2O
+Az élelmiszerek, élelmiszer-alapanyagok és -adalékok gyártása során számos sósavat igénylő kémiai reakciót végeznek, jellemző példák az aszpartám, fruktóz, citromsav, lizin, hidrolizált növényi fehérjék és a zselatin gyártása. E folyamat

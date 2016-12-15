@@ -1,0 +1,8 @@
+De cilinderinhoud van een verbrandingsmotor geeft aan hoeveel gas (een mengsel van brandstof en lucht) in de cilinders kan worden verbrand.
+Eigenlijk geeft de cilinderinhoud niet de inhoud van de cilinders weer maar alleen het volume van het deel dat door de zuigers verplaatst wordt. Boven de hoogste stand van de cilinder blijft nog een klein volume van de verbrandingskamer over, dat niet meegerekend wordt. Onder de onderste stand van de zuiger blijft nog een deel van de cilinder over dat dient ter geleiding van de zuiger. Ook dit wordt niet meegerekend.
+De cilinderinhoud wordt meestal aangegeven in kubieke centimeters (afkorting cc) voor brommers en motoren. Voor grotere motoren zoals in auto's, schepen en stationaire toepassingen wordt veelal gerekend in liters (1000 cc = 1 liter).
+Cilinderinhoud mag men niet verwarren met het begrip slagvolume. Het slagvolume is de inhoud van de cilinder tussen het bovenste- en onderste dode punt van de zuiger, de cilinderinhoud is de totale inhoud van de motor, dus het slagvolume x het aantal cilinders. Bij een eencilindermotor zijn beide dus gelijk.
+Aan de hand van de cilinderboring, de slag van de krukas en het aantal cilinders kan met de formule
+
+worden berekend wat de totale cilinderinhoud is.
+

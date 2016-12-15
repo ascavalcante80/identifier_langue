@@ -1,0 +1,13 @@
+The argument of periapsis (also called argument of perifocus or argument of pericenter), symbolized as ω, is one of the orbital elements of an orbiting body. Specifically, ω is the angle from the body's ascending node to its periapsis, measured in the direction of motion. For specific types of orbits, words such as perihelion (for Sun-centered orbits), perigee (for Earth-centered orbits), periastron (for orbits around stars) and so on may replace the word periapsis. See apsis for more information.
+An argument of periapsis of 0° means that the orbiting body will be at its closest approach to the central body at the same moment that it crosses the plane of reference from South to North. An argument of periapsis of 90° means that the orbiting body will reach periapsis at its northmost distance from the plane of reference.
+Adding the argument of periapsis to the longitude of the ascending node gives the longitude of the periapsis. However, especially in discussions of binary stars and exoplanets, the terms "longitude of periapsis" or "longitude of periastron" are often used synonymously with "argument of periapsis".
+
+
+== Calculation ==
+In astrodynamics the argument of periapsis ω can be calculated as follows:
+
+(if  then )
+where:
+ is a vector pointing towards the ascending node (i.e. the z-component of  is zero),
+ is the eccentricity vector (a vector pointing towards the periapsis).
+In the case of equatorial orbits (which have no ascending node), the argument is strictly undefined. However, if the convention of setting the longitude of the ascending node Ω to 0 is follo

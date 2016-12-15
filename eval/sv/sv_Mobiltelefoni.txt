@@ -1,0 +1,74 @@
+använder man frekvensområdet 2,6 GHz men också 800 MHz för att täcka större ytor. I 2,6 GHz bandet kan man få hastigheter teoretiskt upp till 80 Mbit/s. Men mer realistisk är hastigheter mellan 40 och 60 Mbit/s. I 800 MHz bandet ligger de realistiska hastigheterna mellan 20 och 40 Mbit/s vid god signalstyrka. Även vid minimal signalstyrka kan man få hastigheter mellan 1 och 3 Mbit/s. LTE strävar att så mycket som möjligt gå mot TCP/IP.
+
+
+=== Elektromagnetiska fältRedigera ===
+Huvudartikel Biologiska effekter av elektromagnetisk strålning
+I likhet med alla andra radiosändare ger en mobiltelefon ifrån sig elektromagnetiska fält då den sänder. Enligt försiktighetsprincipen i miljöbalken åligger det verksamhetsutövare, det vill säga mobiltelefonoperatörer, att visa att den verksamhet som mobiloperatörerna utövar icke är miljöfarlig. I frågan om elektromagnetiska fält hänvisar de svenska operatörerna till Strålsäkerhetsmyndigheten, SSM, som rekommenderar följande användningsregler för mobiltelefoner:
+Använd handsfree-utrustning
+Håll bort telefonen från kroppen
+Skärma inte av antennen
+Ring vid god täckning
+Använd yttre antenn på bilen
+Välj telefon med lågt SAR-värde.
+
+
+=== Tillverkare av mobiltelefonerRedigera ===
+Samsung är världens största mobiltelefontillverkare med 420 miljoner sålda under 2012 och säljer numera fler telefoner än LG, Apple och Nokia tillsammans (enligt Mobil.se, 2 januari 2013 och Ny Teknik, 29 oktober 2013).
+Alcatel
+Apple
+Benefon
+BenQ
+Fairphone
+Huawei
+LG Electronics
+Motorola
+Neonode
+Nokia
+Panasonic
+Philips
+Sagem
+Samsung
+Sharp
+Sony, tidigare Sony Ericsson respektive Ericsson
+HTC, tidigare Qtek
+HP
+ZTE
+Palm
+Blackberry
+Vertu, tidigare Nokia nu EQT
+
+
+== Se ävenRedigera ==
+Site Acquisition
+DECT
+GSM
+GPRS
+Mobiloperatör
+Nordisk mobiltelefoni
+SMS
+UMTS
+WAP
+WCDMA
+3G
+
+
+== KällorRedigera ==
+^ Eliasson, Gunnar (1995). ”11”. Teknologigenerator eller nationellt prestigeprojekt? : exemplet svensk flygindustri. City University Press. Sid. 100-192. Libris 7648013. ISBN 91-7562-078-2 
+^ Meurling, John; Richard Jeans (2000). ”Mobiltelefonin växer fram”. Ericssonkrönikan. Stockholm: Informationsförlaget. Sid. 337. Libris 8376452. ISBN 91-7736-480-5 
+^ http://www.stralsakerhetsmyndigheten.se/Allmanhet/Magnetfalt--tradlos-teknik/Mobiltelefoni/Mobilrad/
+http://www.tekniskamuseet.se/mobilen/1990_2000.shtml
+
+
+== Externa länkarRedigera ==
+http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164B-2012-PDF-E.pdf
+http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164D-11-2011-PDF-E.pdf
+Post- och Telestyrelsen - om utdelning av certifikat etc
+Statens Strålskyddsinstitut - om elektromagnetiska fält från mobiltelefoner
+Uppgifter om GSM-band i olika länder
+gsmworld.com/roaming/gsminfo/
+List of Mobile Country or Geographical Area Codes (pdf, engelska)
+LEGAL TIME 2014
+
+ Wikimedia Commons har media som rör Mobiltelefoni.
+
+ Wiktionary har ett uppslag om mobiltelefon.

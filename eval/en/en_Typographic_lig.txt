@@ -1,0 +1,50 @@
+ng history of creating new characters by merging parts or wholes of other Chinese characters. However, a few of these combinations do not represent morphemes but retain the original multi-character (multiple morpheme) reading and are therefore not considered true characters themselves. In Chinese, these ligatures are called héwén (合文) or héshū (合書); see polysyllabic Chinese characters for more.
+One popular ligature used on chūntiē decorations used for Chinese Lunar New Year is a combination of the four characters for zhāocái jìnbǎo (招財進寶), meaning "ushering in wealth and fortune" and used as a popular New Year's greeting.
+
+In 1924, Du Dingyou (杜定友; 1898–1967) created the ligature "圕" from two of the three characters 圖書館 (túshūguǎn), meaning "library". Although it does have an assigned pronunciation of tuān and appears in many dictionaries, it is not a morpheme and cannot be used as such in Chinese. Instead, it is usually considered a graphic representation of túshūguǎn.
+In recent years, a Chinese internet meme, the Grass Mud Horse, has had such a ligature associated with it combining the three relevant Chinese characters 草, 泥, and 马 (Cǎonímǎ).
+Similar to the ligatures were several "two-syllable Chinese characters" (雙音節漢字) created in the 19th century as Chinese characters for SI units. In Chinese these units are disyllabic and standardly written with two characters, as 厘米 límǐ 'centimeter' (厘 centi-, 米 meter) or 千瓦 qiānwǎ 'kilowatt'. However, in the 19th century these were often written via compound characters, pronounced disyllabically, such as 瓩 for 千瓦 or 糎 for 厘米 – some of these characters were also used in Japan, where they were pronounced with borrowed European readings instead. These have now fallen out of general use, but are occasionally seen.
+
+
+== Computer typesetting ==
+TeX is an example of a computer typesetting system that makes use of ligatures automatically. The Computer Modern Roman typeface provided with TeX includes the five common ligatures ff, fi, fl, ffi, and ffl. When TeX finds these combinations in a text it substitutes the appropriate ligature, unless overridden by the typesetter. Opinion is divided over whether it is the job of writers or typesetters to decide where to use ligatures.
+
+The OpenType font format includes features for associating multiple glyphs to a single character, used for ligature substitution. Typesetting software may or may not implement this feature, even if it is explicitly present in the font's metadata. XeTeX is a TeX typesetting engine designed to make the most of such advanced features. This type of substitution used to be needed mainly for typesetting Arabic texts, but ligature lookups and substitutions are being put into all kinds of Western Latin OpenType fonts. In OpenType, There are standard liga, historical hlig, contextual clig and discretionary dlig ligatures. These can be enabled in CSS3 using font-feature-settings.
+CSS also support font-variant-ligatures. common-ligatures, discretionary-ligatures, historical-ligatures and contextual are supported.
+This table below shows discrete letter pairs on the left, the corresponding Unicode ligature in the middle column, and the Unicode code point on the right. Provided you are using an operating system and browser that can handle Unicode, and have the correct Unicode fonts installed, some or all of these will display correctly. See also the provided graphic.
+Unicode maintains that ligaturing is a presentation issue rather than a character definition issue, and that, for example, "if a modern font is asked to display 'h' followed by 'r', and the font has an 'hr' ligature in it, it can display the ligature." Accordingly, the use of the special Unicode ligature characters is "discouraged", and "no more will be encoded in any circumstances". Note however that ligatures such as æ and œ are never used to replace arbitrary 'ae' or 'oe' sequences – 'does' can never be written 'dœs'.
+
+Notably, Microsoft Word does not enable ligatures by default, partly for backward compatibility reasons due to its long history. This can be changed from the Advanced tab of the Font dialog box.
+
+
+=== Ligatures in Unicode (Latin alphabets) ===
+
+Also, there are separate code points for the digraph DZ and for the Bosnian, Croatian, Serbian digraphs DŽ, LJ, and NJ. They are not ligatures but digraphs. See Digraphs in Unicode.
+Ligatures used only in phonetic transcription
+
+U+0238 and U+0239 are called digraphs, but are actually ligatures.
+
+
+== Modern art ==
+Typographic ligatures can be used as a form of modern art, as can be illustrated by Chinese artist Xu Bing's work in which he combines Latin letters to form characters that resembles Chinese.
+
+
+== See also ==
+Complex text layout
+List of words that may be spelled with a ligature
+Monogram
+Sigla
+Kerning
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Typedesk.com, Type Desk on ligatures
+Ilovetypography.com, Decline and Fall of the Ligature
+Live example of Ligature Substitutions, Test your browser support for Ligature Substitutions (works on all modern browsers except Safari)
+http://blogs.msdn.com/b/fontblog/archive/2006/08/10/missed-opportunity-for-ligatures.aspx

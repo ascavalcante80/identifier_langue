@@ -1,0 +1,32 @@
+~37,45%)
+Mozilla Firefox (~24,78%)
+Google Chrome (~28,4%)
+Safari (~6,62%)
+Opera (~1,95%)
+Egyéb (~0,79%)
+
+
+=== Szabványok és az Acid3 teszt ===
+Az Acid3 teszt egy független tesztoldal, amely azt vizsgálja, hogy mennyire tartják be a böngészők a különböző webstandardokat, főként a DOM és a JavaScript előírásait. Minél inkább betartja egy böngésző az általuk előírt szabványokat, annál biztosabb, hogy egy weblap megjelenítése egységes és helyes lesz. Az Acid3 teszt eredményei a legnépszerűbb böngészők utolsó verzióira a következők:
+Microsoft Internet Explorer 6 (12/100)
+Windows Internet Explorer 7 (14/100)
+Windows Internet Explorer 8 (20/100)
+Windows Internet Explorer 9 (100/100)
+Windows Internet Explorer 10 (100/100)
+Mozilla Firefox 14.0.1 (100/100)
+Safari (100/100)
+Google Chrome (100/100)
+Opera 10 (100/100)
+
+
+== Jegyzetek ==
+
+
+== További információk ==
+A böngészők fejlődése (1993–2001)
+A különböző böngészők használatának terjedése a világon (2008–2012) – YouTube-videó
+evolt.org – Böngésző archívumok
+W3CSchools böngésző statisztikák
+StatCounter böngésző statisztikák
+Internet.lap.hu – Linkgyűjtemény
+A legnépszerűbb webböngészők egy helyen

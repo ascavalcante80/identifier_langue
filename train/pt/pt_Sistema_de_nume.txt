@@ -1,0 +1,8 @@
+Ternário ou trinário é um sistema de numeração posicional em que todas as quantidades se representam com base em três números, com o que se dispõe das cifras: zero, um e dois (0, 1 e 2).
+
+
+== Comparação com outras bases ==
+
+
+== Em relação ao decimal e binário ==
+Representações de números inteiros em ternário não ficam desconfortavelmente longas tão rapidamente quanto em binário. Por exemplo, o decimal 365 corresponde ao binário 101101101 (9 dígitos) e ternário 111112 (6 dígitos). No entanto, eles ainda 

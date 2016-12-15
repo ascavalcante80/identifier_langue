@@ -1,0 +1,32 @@
+o, ou Método de Pugh, é uma maneira (QFD é uma outra) de se tomar uma decisão ao se considerar todos os critérios de importância. O estudo de balanço informa o design que afeta a representação gráfica do sistema (sem alterar os requisitos). Em um processo SE, esse estágio representa os passos de iteração que são desempenhados até que soluções palpáveis sejam demonstradas. Uma matriz de decisão popula-se, muitas vezes, utilizando-se técnicas de análise estatística, análises de confiabilidade e dinâmica de sistemas (controle reatroativo - feedback control) e métodos de otimização.
+Muitas vezes, o engenheiro de sistemas deve avaliar a existência de soluções plausíveis - raramente as demandas dos clientes se inclinarão para uma única; alguns, por sua vez, não permitirão solução de nenhuma natureza. Deve-se lidar com gargalos ou estreitamentos ao longo do processo para se encontrar soluções plausíveis. Os desejos dos consumidores são os pontos-chave do processo e não podem ser presumidos.
+
+
+== Áreas RelacionadasEditar ==
+Muitos dos campos relacionados poderiam ser considerados unidos fortemente com a engenharia de sistemas; muitas destas áreas tem contribuído para o desenvolvimento da engenharia de sistema como uma entidade distinta.
+
+
+=== Pesquisa operacionalEditar ===
+A Pesquisa operacional (PO) são vinculadas aos departamentos de Engenharia Industrial ou de Matemática Aplicada. Entretanto, suas ferramentas são utilizadas no curso da engenharia de sistemas. A PO trata da otimização de um processo arbitrário sob múltiplas restrições.
+
+
+=== Engenharia de sistemas cognitivosEditar ===
+A engenharia de sistemas cognitivos é a engenharia de sistemas com a integração humana nas partes explícitas dos sistemas. Dependendo da aplicação direta de séculos de experiência e pesquisa tanto em Psicologia Cognitiva como em Engenharia de Sistemas.
+
+
+== Referências ==
+
+
+== Ver tambémEditar ==
+Engenharia de software
+Arquitetura de dados
+Administração de dados
+Modelagem de dados
+
+
+== Ligações externasEditar ==
+Licenciatura em Engenharia de Sistemas - ISEP
+Site do INCOSE
+Site do INCOSE Brasil
+Engenharia de Sistemas UFMG
+Engenharia de Sistemas UNIMONTES

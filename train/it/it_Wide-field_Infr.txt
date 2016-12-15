@@ -1,0 +1,28 @@
+Il WISE (Wide-Field Infrared Survey Explorer) è un telescopio spaziale lanciato dalla NASA il 14 dicembre 2009 nell'ambito del Programma Explorer, nella cui serie è censito come Explorer 92.
+Il satellite che ospita il telescopio compie il suo giro intorno alla Terra in un'orbita polare. Il telescopio infrarosso con cui è equipaggiato possiede uno specchio di 40 cm di diametro attraverso cui sarà scandagliato l'universo nell'intervallo di spettro elettromagnetico compreso tra i 3 e i 25 μm. La strumentazione del telescopio consente di ottenere immagini 1000 volte più sensibili rispetto ai suoi predecessori telescopi infrarossi IRAS (Infrared Astronomical Satellite), AKARI e COBE.
+La missione ha l'obiettivo di creare immagini che assicurino una copertura del 99% del cielo, con almeno otto immagini per ogni porzione di cielo, al fine di accrescerne l'accuratezza.
+Il telescopio si trova su di un'orbita polare, circolare ed elio-sincrona per tutta la durata della sua missione (10 mesi). Durante tale lasso di tempo registrerà 1,5 milioni di immagini, una ogni 11 secondi. Ogni immagine copre un campo visivo di 47 arcmin. Tra gli obiettivi di WISE ci sono anche asteroidi e comete (NEO), le stelle poco luminose e più fredde come le nane brune e le galassie con maggiori emissioni nell'infrarosso.
+
+
+== La sondaModifica ==
+La sonda WISE è stata costruita in Colorado dalla "Ball Aerospace and Technologies Corp." e deriva dall'architettura della sonda RS-300, costruita per la missione Orbital Express, lanciata il 9 marzo 2007. Tutta la struttura ha una massa stimata di 560 kg. La sonda è inoltre stabilizzata da un sistema a tre assi ed attrezzata con pannelli solari. Utilizza un'antenna ad alto guadagno per trasmettere a terra i dati tramite il sistema TDRSS (Sistema geostazionario).
+
+
+== La missione scientificaModifica ==
+WISE ha l'obiettivo di analizzare il cielo, con una sensibilità molto elevata, in quattro lunghezze d'onda dello spettro infrarosso, con una sensibilità rispettivamente di 120, 160, 650 e 2 600 microjanskies (µJy) a 3,3, 4,7, 12 e 23 μm. Queste sensibilità sono 1000 volte superiori a quella dell'IRAS e 500 000 volte più elevate di quella del COBE.
+Le quattro bande IR analizzate consentono le seguenti rilevazioni:
+banda a 3,4 μm — sensibilità alle emissioni di stelle e galassie
+banda a 4,6 μm — sensibilità alle emissioni termiche degli oggetti sub-stellari come le nane brune
+banda a 12 μm — sensibilità alle emissioni degli asteroidi
+banda a 22 μm — sensibilità alle emissioni della polvere interstellare delle regioni di formazione stellare (70–100 K)
+WISE non è in grado di rilevare gli asteroidi della fascia di Kuiper a causa della loro temperatura troppo bassa.
+
+
+== Il progettoModifica ==
+La missione WISE è comandata dal Dr. Edward L. Wright dell'Università della California a Los Angeles.
+
+
+== Attività e scoperteModifica ==
+Durante la sua attività WISE ha raccolto circa 7500 immagini ogni giorno fino a febbraio del 2011 (circa 2,7 milioni in tutta la missione). Durante la sua missione estesa denominata NEOWISE, la sonda è stata la protagonista della più dettagliata ricerca mai realizzata sui NEO. Proprio perché gli asteroidi non emettono ma riflettono la luce, le ottiche a infrarossi di WISE sono degli strumenti potenti per catalogare e studiare la popolazione degli asteroidi. Solo nel 2010 la sonda ha studiato 158 000 corpi rocciosi tra i 600 000 conosciuti, tra cui 21 comete, più 34 000 asteroidi nella fascia principale (tra Marte e Giove) e 135 NEO.
+Dopo un letargo di due anni, nel settembre del 2013 WISE viene riattivato per altri tre anni per dare la caccia ai NEO potenzialmente più pericolosi e, forse, anche per la ricerca di un asteroide che la NASA potrebbe decidere di esplorare e catturare in futuro.
+In particolare, studierà asteroidi che orbitano a meno di 45 milioni di chilometri dalla Terra. WISE tornerà ad usare il suo telescopio con uno specchio da 40 centimetri di diametro e le sue ottiche a infrarossi alla ricerca di circa 150 oggetti, studiandone la forma, le caratteristic

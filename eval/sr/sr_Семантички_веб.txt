@@ -1,0 +1,20 @@
+чки веб је визија која је почела са остваривањем: имати тражени податак на вебу, дефинисан и повезан, линкован на начин, који може бити коришћен машинским путем - не само за сврху приказивања већ и за употребу у различитим апликацијама претраживања и доступности података. Технологија за реализацију семантичког веба постоји, и познат је начин како изградити терминологију и како користити метаподатак.
+Berners-Lee је убеђен да ће се у блиској будућности семантички веб убрзо користити тиме што се повећава примена RDF компатибилних докумената. Он семантички веб види као јединствену моћ која ће разбити све баријере (интелектуалне и културне) које кроз веб данас постоје. Претпоставља се да ће пуну снагу и примену семнатички веб достићи до 2010. године.
+
+
+== Спољашње везе ==
+The World Wide Web Consortium Semantic Web
+Getting Into RDF & Semantic Web Using N3
+Semantic Web Roadmap
+Semantic Web Introduction - Long
+SciAm: The Semantic Web
+Building The Semantic Web
+The Semantic Web, Taking Form
+SW Activity Statement
+Semantic web road map / Tim Berners-Lee (SWAD)
+http://www.w3.org/DesignIssues/Semantic.html
+Web design issues; what a semantic can represent/Tim Berners-Lee
+Realising the full potential of the web / Tim Berners-Lee
+
+
+== Спољашње везе ==

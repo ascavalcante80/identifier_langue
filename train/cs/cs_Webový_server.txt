@@ -1,0 +1,63 @@
+Pojmem webový server se rozumí:
+Počítač, který je odpovědný za vyřizování požadavků HTTP od klientů (nejčastěji webových prohlížečů). Vyřízením požadavků se rozumí odeslání cíle specifikovaného URL (typicky webová stránka, ale též statický text, obrázek či jiný soubor). Webové stránky jsou obvykle dokumenty v jazyku HTML.
+Počítačový program, který provádí činnosti popsané v předchozím bodě (démon).
+Nejpoužívanějším webovým serverem vůbec je Apache HTTP Server, s odstupem následovaný Internet Information Services.
+
+
+== Historie ==
+V roce 1989 Tim Berners-Lee představil nový projekt s cílem zjednodušení výměny informací mezi vědci na bázi hypertextových odkazů. Výsledkem projektu byly dva programy:
+Browser WorldWideWeb
+a první webový server na světě, později známý jako CERN httpd běžící na systému NeXTSTEP.
+V letech 1991 a 1994 jednoduchost a efektivita prvních technologií pro surfování a výměnu dat přes World Wide Web pomohla rozšíření na mnoho operačních systémů a mezi různé sociální skupiny, nejprve vědce, později univerzity a průmysl.
+V roce 1994 se Tim Berners-Lee rozhodnul pro založení World Wide Web konzorcia (W3C), které mělo regulovat budoucí vývoj a standardizaci mnoha technologií jako jsou HTTP, HTML a jiné.
+
+
+== Obecné vlastnosti ==
+Související informace naleznete také v článku Stavové kódy HTTP.
+Jednotlivé webové servery se mohou v různých jednotlivostech značně lišit. Přesto mají několik společných vlastností.
+Každý webový server je připojen k počítačové síti a přijímá požadavky ve tvaru HTTP. Tyto požadavky vyřizuje a počítači, který požadavek vznesl, vrací odpověď. Odpověď obvykle představuje nějaký HTML dokument. Může to být ale i dokument v jiném formátu – text, obrázek apod. Odpověď serveru je opět ve tvaru HTTP, je uvozena hlavičkou obsahující stavový kód, za níž následuje samotný obsah.
+Stavový kód odpovědi udává, zda byl požadavek vyřízen v pořádku, či zda došlo k nějakým obtížím. Dva nejčastější stavové kódy jsou 200 (OK) a 404 (Not Found). Kódy jsou trojciferná čísla, dělící se do následujících skupin:
+2xx – úspěšné vyřízení požadavku
+3xx – problémy spojené s přesměrováním
+4xx – chyby související s vyřízením požadavku (stránka není dostupná, apod.)
+5xx – interní chyby serveru
+Obvykle server nějakým způsobem protokoluje přijímané požadavky a taktéž zaznamenává případné chyby. To pomáhá správci webového serveru vytvářet statistiky a podle typu a množství požadavků optimalizovat obsah, způsob uložení i způsob prezentace požadovaných dat.
+Webový server (program) má téměř vždy nějaké možnosti konfigurace – stanovení kořenového adresáře, z něhož je přístupný obsah poskytovaný on-line, a dále konfigurace pro každý jeho podadresář individuálně, například jaký soubor zpracovat implicitně, obsahuje-li URL pouze daný adresář, nebo v jaké časové zóně se nachází či jaké podporuje jazyky a přípony souborů. Podporuje-li webserver dynamický obsah, je součástí i nastavení interpreterů skriptovacích jazyků, jež tento obsah zpracovávají. Součástí architektury sofistikovanějších webových serverů mohou být různé zásuvné moduly a pokročilé metody řízení požadavků.
+
+
+== Zdroj poskytovaných informací ==
+Webový server má v zásadě dvě možnosti, jak získávat informace, které vrací klientům:
+jsou to buď předem připravené datové soubory (HTML stránky), které webový server bez změny poskytne klientovi (tzv. statický obsah)
+teprve na základě požadavku klienta jsou data shromážděna (přečtena ze souboru, databáze, nebo nějakého koncového zařízení), zformátována a připravena k prezentaci ve formátu HTML a poskytnuta webovému prohlížeči (tzv. dynamický obsah)
+K dynamickému vytváření obsahu se používá celá řada různých technologií (Perl, PHP, ASP, ASP.NET, JSP, Python apod.). Statický obsah je schopen server poskytnout výrazně rychleji než dynamický. Na druhé straně pomocí dynamického obsahu lze poskytovat mnohem větší obsah informací a lze reagovat i na různé „ad hoc“ dotazy klientů. Proto se v praxi v mnoha případech oba způsoby poskytování obsahu kombinují – například cachování, node.js, ….
+
+
+== Průběh zpracování dotazu ==
+Služeb webového serveru nejčastěji využívají uživatelé internetu prostřednictvím webových prohlížečů. Méně časté využití je např. XML-RPC nebo v případě některých desktopových aplikací, které kontrolují nejnovější verze sebe sama, případně řídí automatické aktualizace.
+Odkaz
+
+je klientem převeden na HTTP 1.1 požadavek ve tvaru:
+
+Webový server na adrese www.example.com přidá tuto cestu k cestě kořenového adresáře příslušného webového serveru (pro Linux typicky /var/www/html) a výsledkem bude cesta k lokálnímu souboru:
+
+Poté server soubor přečte (v případě statického obsahu) nebo zpracuje (tj. interpretuje a použije výsledek) a jako odpověď odešle výsledný obsah v případě úspěšného zpracování nebo chybovou hlášku v případě chyby. Celá odpověď je ve formě HTTP hlavičky se stavovou odpovědí, po které následuje výsledný obsah.
+
+
+== Nastavení webserveru ==
+výchozí adresář přístupný z internetu
+které přípony přímo posílat
+které přípony zpracovávat a přes které preprocesory
+pro které adresáře vypíše seznam souborů
+MIME typy a jak je zpracovat
+konfigurace modulů (modů)
+
+
+== Přetížení ==
+Webový server může být přetížen z mnoha důvodů:
+Klasické přetížení (příliš mnoho lidí se připojí ve stejný čas, ale ne z důvodu útoku)
+DDoS útok
+Počítačový vir který napadne mnoho počítačů a donutí je se připojit
+XSS vir způsobí přetížení napadením mnoha prohlížečů nebo webových serverů
+Internetový bot
+Přetížení fyzické sítě
+Obsah je rozložený na více serverech a některý z nich není dostupný. Všechny dotazy m

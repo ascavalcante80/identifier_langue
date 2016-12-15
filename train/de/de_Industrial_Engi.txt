@@ -1,0 +1,256 @@
+Industrial Engineering bezeichnet ein Arbeitsgebiet, in dem es um die Gestaltung, Planung und Optimierung von Leistungserstellungsprozessen im weitesten Sinne mit ingenieurwissenschaftlichen Methoden geht. In der Umsetzung handelt es sich immer um Arbeitsgestaltung. Dementsprechend haben die zugehörigen Studiengänge Studieninhalte sowohl aus den Ingenieurswissenschaften als auch der Managementlehre.
+
+
+== Begriff ==
+Die Wurzeln des Industrial Engineering reichen zurück bis zur Wissenschaftlichen Betriebsführung (Scientific Management) von Frederick Winslow Taylor.
+Der Begriff des Industrial Engineering findet seit Mitte der sechziger Jahre in Deutschland durch die Übersetzung des Industrial Engineering Handbook von Maynard Verwendung. Mittlerweile hat sich das Industrial Engineering im deutschen Sprachraum als eigenständiger Begriff etabliert und löst damit seine ursprüngliche deutsche Vokabel „Arbeitsingenieurwesen“ ab. Bisher existiert jedoch weder im deutschen noch im englischen Sprachraum eine einheitliche Definition.
+Aufbauend auf einer Analyse zahlreicher nationaler und internationaler Beschreibungen charakterisiert Sascha Stowasser das Industrial Engineering wie folgt:
+Das Industrial Engineering zielt auf eine hohe Produktivität der Führungs-, Kern- und Unterstützungsprozesse des Unternehmens ab.
+Das Industrial Engineering definiert und entwickelt Sollzustände und Standards der Prozesse.
+Hierbei sorgt das Industrial Engineering für eine hohe Transparenz, um Abweichungen vom Standard erkennen und wirksame Gegenmaßnahmen ergreifen zu können.
+Das Industrial Engineering verwendet hierzu geeignete Methoden und Instrumente und bedient sich arbeits-, ingenieur- und betriebswirtschaftlicher Kenntnisse und Grundlagen.
+Während die meisten Ingenieurwissenschaften auf sehr spezielle Anwendungsgebiete konzentriert sind, ist das des Industrial-Engineers breit und in nahezu jeder Branche auffindbar. Beispielsweise gehört das Verkürzen der Warteschlangen in einem Vergnügungspark, die effiziente Nutzung eines Operationssaals, die Ausgestaltung eines Logistiksystems – Supply-Chain-Management –, aber auch einfach Rationalisierungen bei der Herstellung von Autos zum Aufgabengebiet. Typisch im Industrial Engineering ist die Nutzung von Computersimulationen, besonders auch Ereignisgesteuerte Prozessketten, zur Systemanalyse und System-Evaluation.
+Mittlerweile ist die Wirkungsbreite des Industrial Engineering deutlich angewachsen und umfasst neben den klassischen Aufgaben der Arbeitsplanung auch weitere Aufgabenfelder wie die Arbeitsplanerstellung, die Zeitwirtschaft, die Entgeltgestaltung, die Planungsvorbereitung, die Materialplanung, Betriebsmittelplanung und Methodenplanung. Im Zuge der Weiterentwicklung ist das moderne Industrial Engineering verantwortlich für das Produktivitätsentwicklungssystem bestehend aus Mensch, Material und Maschine. Das Industrial Engineering gestaltet den Wertstrom von der Produktplanung über die Produktionsplanung/Prozessplanung bis zur Fertigungsoptimierung. Diese gehören zusammen und treiben ganzheitlich die Produktivitätsentwicklung unter Berücksichtigung von Humanaspekten. Des Weiteren sorgt das Industrial Engineering für die notwendige Transparenz und liefert Daten für die strategische Planung des Managements, beispielsweise im Rahmen des Produktivitätsmanagements.
+Bei allen Anstrengungen des Industrial Engineering gilt die primäre Zielsetzung, die Produktivität zu verbessern und so die Wettbewerbsfähigkeit des Unternehmens sicherzustellen.
+
+
+== Aus- und Weiterbildungsangebote ==
+In Deutschland angebotene Studiengänge mit dem Titel Industrial Engineering sind zumeist mit einem englischen Titel versehene Wirtschaftsingenieurstudiengänge, die tatsächlich eher ein halbes Wirtschaftsstudium – inklusive Volkswirtschaftslehre und Finanzwirtschaft – und ein halbes Ingenieursstudium, zumeist aus dem Maschinenbau beinhalten. Die originären Themen des Industrial Engineering fehlen in diesen Studiengängen mitunter gänzlich. Studiengänge, die nicht aus der Tradition eines Wirtschaftsingenieur entstanden sind, sondern sich originär am Aufgabengebiet des Industrial Engineer orientieren, finden sich an Hochschulen in Aachen, Berlin, Kleve, Kiel und Lübeck.
+In Berlin wird der Master berufsbegleitend im Fernstudium erworben, in Kleve an der Hochschule Rhein-Waal findet der Bachelor-Studiengang komplett in englischer Sprache statt, und Aachen trägt der Breite des Einsatzgebietes insofern Rechnung, dass sich in den dortigen Masterstudiengang auch Absolventen wirtschaftswissenschaftlicher Studiengänge einschreiben können, die spezifische Studienschwerpunkte belegt haben. Der Studiengang Produktionstechnik als Master of Science an der Universität Bremen hat eine Vertiefungsrichtung „Industrial Engineering“, die in Kooperation mit dem REFA-Verband angeboten wird. In Zusammenarbeit mit der University of Louisville bietet die Hamburger Fern-Hochschule ein Promotionsstudium dort an.
+Der Weiterbildung im Bereich des Industrial Engineering widmet sich im Wesentlichen und traditionell der REFA-Verband, welcher der Entwicklung unter anderem insofern Rechnung trug, als er mit der Ausgabe 1(2008) seine traditionelle Fachzeitschrift REFA-Nachrichten in Industrial Engineering umbenannte – gleichzeitig mit einer Modernisierung des redaktionellen Konzeptes. Zuvor war mit 1(2007) das European Journal of Industrial Engineering (EJIE) erstmals erschienen. Auch die MTM-Vereinigung hat begonnen, ihre MTM-spezifischen Ausbildungen um weitere Themen des Industrial Engineering zu ergänzen, damit MTM-Anwender neben spezifischen Kenntnissen der Methoden auch ein breiteres Grundlagenwissen erhalten.
+
+
+== Typische Studieninhalte ==
+Als typische Studienfächer für den Industrial Engineer werden angesehen:
+Arbeitswissenschaft besonders Ergonomie
+Angewandte Statistik
+Arbeitsplatzgestaltung
+Computer-aided manufacturing (CAM)
+Fabrikplanung
+Logistik
+Materialwirtschaft
+Operations Research
+Personalmanagement
+Produktionsmanagement
+Produktionsplanung und -steuerung (PPS und MES)
+Produktionssysteme
+Rationalisierungsmethoden
+Simulation
+Stochastische Modelle
+Supply-Chain-Management
+Zeit- und Bewegungsstudium
+Controlling
+Kosten- und Leistungsrechnung
+Investition und Finanzierung
+Strategische Planung, Steuerung und Koordinierung
+Technische Mechanik
+Thermodynamik
+Fluiddynamik
+ABWL
+
+
+== Historische Entwicklung ==
+In der Chronologie werden folgende wesentliche Entwicklungsschritte und Publikationen gesehen:
+1440: In Venedig werden Schiffe in Fließfertigung gebaut und instand gesetzt.
+1474: Erste Patentschrift und weitere industrielle Gesetze in Venedig.
+1568: Jacques Besson publiziert ein illustriertes Werk über Möglichkeiten, hölzerne Maschinen und Einrichtungen durch eiserne zu ersetzen.
+1622: William Oughtred erfindet den Rechenschieber.
+1722: Rene de Réaumur stellt das erste Handbuch zur Stahlbearbeitung vor.
+1733: John Kay patentiert das fliegende Weberschiffchen – elementare Voraussetzung für den Übergang zur textilen Massenproduktion.
+1747: Jean-Rodolphe Perronet errichtet die erste Ingenieurschule.
+1765: James Watt erweitert die Dampfmaschine um einen separaten Kondensator und steigert so deren Leistungsfähigkeit deutlich.
+1770:
+
+James Hargreaves patentiert die „Spinning Jenny“ und Jesse Ramsden entwirft eine Schraubendrehmaschine.
+1774: John Wilkinson baut die erste Horizontalbohrmaschine.
+1775: Richard Arkwright patentiert eine automatisch arbeitende Karde und organisiert industrielle Textilherstellung.
+1776: James Watt stellt die erste wirksame Dampfmaschine vor.
+1776: Adam Smith diskutiert die Arbeitsteilung in „The Wealth of Nations“
+1785: Edmond Cartwright patentiert den „Power Loom“
+1793: Eli Whitney entwickelt die Egreniermaschine zur Entkörnung von Baumwolle.
+1797: Robert Owen führt mit großem Erfolg moderne Arbeits- und Personalmanagementmethoden in einer Spinnerei in New Lanark ein.
+1798: Eli Whitney entwickelt Musketen mit austauschbaren Teilen.
+1801: Joseph-Marie Jacquard erfindet einen automatischen Musterwebstuhl (Jacquardwebstuhl) der durch Lochkarten gesteuert wird.
+1802: Der „Health and Morals Apprentices Act" zielt auf eine Verbesserung der Arbeitssituationen und Isambard Brunel, Samuel Benton sowie Henry Maudsey entwickeln eine Serie von 43 Maschinen um eine Massenproduktion von Blocks für Schiffe zu starten.
+1818: Die „Institution of Civil Engineers“ wird in Britannien gegründet.
+1824: Mit der Aufhebung des Combination Act werden in Britannien die Gewerkschaften – bei starken Restriktionen – legalisiert (Deutschland: Koalitionsfreiheit erstmals 1871).
+1829: Charles Babbage entwirft seine Rechenmaschinen, Vorläufer der heutigen Computer.
+1831: Charles Babbage publiziert „On the Economy of Machinery And Manufactures“ (1839).
+1832: Der Sadler-Report beleuchtet die Ausbeutung der Arbeiter und die Brutalität in den Fabriken.
+1833: Fabrikgesetze werden in Großbritannien beschlossen und insbesondere die Kinderarbeit reguliert und in New York wird die General Trades Union gegründet.
+1835: Andrew Ure veröffentlicht The Philosophy of Manufactures und Samuel Morse führt seinen Telegrafen ein.
+1845: Friedrich Engels veröffentlicht Die Lage der arbeitenden Klasse in England.
+1847: Im britischen „Factory Act“ werden die täglichen Arbeitszeiten für Frauen und Kinder auf 10 Stunden begrenzt und George Stephenson gründete die „Institution of Mechanical Engineers“.
+
+1856: Henry Bessemer leitete mit der Bessemerbirne die Massenproduktion von Stahl ein.
+1869: Die Transcontinental Railroad wird vervollständigt.
+1871: Gesetz zur vollen Legalität der Gewerkschaften durch das britische Parlament.
+1876: Alltagstaugliches Telefon wird von Alexander Graham Bell vorgestellt.
+1877: Der Phonograph von Thomas Alva Edison wird vorgestellt.
+1878: Frederick Winslow Taylor tritt in die Midvale Steel Company ein.
+1880: Die American Society of Mechanical Engineers (ASME) wird gegründet.
+1881: Taylor beginnt seine Zeitstudien.
+1885: Frank Bunker Gilbreth beginnt mit seinen Bewegungsstudien.
+1886: Henry R. Towne veröffentlicht The Engineer as Economist, die „American Federation of Labor (AFL) wird gegründet, Vilfredo Pareto publiziert Course in Political Economy und Charles Martin Hall sowie Paul Héroult entdecken unabhängig voneinander eine kostengünstige Methode der Aluminiumerzeugung.
+1888: Nikola Tesla leitet mit der Entwicklung des Synchronmotors die Verdrängung des Dampfantriebes durch Elektroantriebe ein und Herman Hollerith führt die Tabelliermaschine, die erste erfolgreiche Datenverarbeitungsmaschine, ein.
+1890: Der Sherman Antitrust Act (das erste amerikanische Wettbewerbsrecht) wird erlassen.
+1892: Gilbreth vervollständigt seine Bewegungsstudien an Maurern
+1893: Taylor beginnt seine Laufbahn als Unternehmensberater.
+1895: Taylor präsentiert der ASME A Piece-Rate System.
+1898: Taylor beginnt seinen Auftrag bei Bethlehem Steel und entwickelt zusammen mit Maunsel White den Schnellarbeitsstahl.
+
+1899: Carl Georg Barth entwickelt einen Rechenschieber zur Ermittlung von Schnittgeschwindigkeiten bei Dreharbeiten.
+1901: Nationale amerikanische Normen kommen auf und Yawata Steel startet in Japan.
+1903: Taylor präsentiert der ASME Shop Management, Henry Laurence Gantt führt das Gantt-Diagramm ein, Hugo Diemer schreibt Factory organization and administration und die Ford Motor Company wird gegründet.
+1904: Harrington Emerson implementiert Verbesserungen bei der Santa Fe Eisenbahn und Thorstein Veblen veröffentlicht The Theory of Business Enterprise.
+1906: Taylor präsentiert seine Theorie zum Schneiden von Metallen und Pareto veröffentlicht Manual of Political Economy.
+1907: Gilbreth setzt Zeitstudien am Bau ein.
+1908: Markteinführung des Ford Modell T und an der Pennsylvania State University wird Industrial Engineering als Lehrfach eingeführt.
+1909: Agner Krarup Erlang publiziert die erste Warteschlangentheorie.
+1911: Taylor publiziert The Principles of Scientific Management, die Gilbreths Motion Study und in Japan treten die ersten Fabrikgesetze in Kraft.
+1912: Harrington Emerson schreibt The Twelve Principles of Efficiency, Frank und Lillian Gilbreth präsentieren das Konzept der Therbligs und Yokokawa übersetzt Scientific Management und Shop Management ins Japanische.
+1913: In der Highland Park Ford Plant nimmt das Fließband seinen Betrieb auf, zu dessen Voraussetzung Einförmigkeit und Austauschbarkeit von Teilen gehört und Hugo Münsterberg veröffentlicht Psychology of Industrial Efficiency.
+1914: Erster Weltkrieg. Clarence B. Thompson editiert Taylors Scientific Management als Artikelserie für das American Magazine und erreicht damit eine hohe Popularität.
+1915: Taylors Scientific Management wird in der japanischen Niigata Engineering’s Kamata plant eingesetzt und Robert Franklin Hoxie gibt Scientific Management and Labour heraus.
+1916: Lillian Gilbreth veröffentlicht The Psychology of Management, die Taylor Society wird in den USA gegründet und Charles Bedaux gründet seine Beratungsgesellschaft.
+1917: Die Gilbreths publizieren Applied Motion Study und die Society of Industrial Engineers wird gebildet.
+1918: Mary Parker Follett publiziert The new state: group organization the solution of popular government.
+1919: Gantt publiziert Organization for Work.
+
+1920: Merrick Hataway präsentiert die Ausarbeitung Time Study as a Basis for Rate Settings, General Electric führt die Divisionale Organisation ein und Karel Čapek veröffentlicht „Rossum’s Universal Robots“ (R.U.R.) und prägt damit den Begriff Roboter.
+1921: Die Gilbreths führen eine Symbolik zur Prozessanalyse bei der ASME ein.
+1922: Toyoda Sakichi entwickelt seinen automatischen Webstuhl und Henry Ford publiziert My life and Work.
+1924: Die Gilbreths kündigen Resultate von Bewegungsstudien mit Therbligs an, Elton Mayo führt die Beleuchtungsexperimente bei der Western Electric Company durch und in Deutschland wird der REFA – Verband für Arbeitsgestaltung, Betriebsorganisation und Unternehmensentwicklung als „Reichsausschuß für Arbeitszeitermittlung“ gegründet.
+1926: Ford publiziert Today and Tomorrow.
+1927: Mayo und Mitarbeiter beginnen den zweiten Teil der Hawthorne-Studien in der Relais-Montage.
+1929: Weltwirtschaftskrise, in Frankreich findet die erste internationale Scientific Management-Konferenz statt.
+1930: Hathaway: Machining and Standard Times, Allan H. Mogensen diskutiert 11 Prinzipien der Arbeitsvereinfachung in Work Simplification und Ford publiziert Moving Forward.
+1931: Walter A. Shewhart publiziert Economic control of quality of manufactured product.
+1932: Aldous Huxley veröffentlicht Brave New World, eine Dystopie welche eine entsetzliche, industriebeherrschte Zukunft prophezeit.
+1934: General Electric führt Bewegungsstudien durch.
+1936: D. S. Harder von General Motors prägt den Begriff 'Automation' um die Benutzung von Transfereinrichtungen zur Verkettung von Anlagen zu Transferstraßen zu bezeichnen und Charlie Chaplin produziert Modern Times, der einen durch Routine und unablässigen Arbeitsdruck wahnsinnig werdenden Fließbandarbeiter zeigt.
+1937: Ralph M. Barnes veröffentlicht Motion and time study.
+1941: Robert Lee Morrow veröffentlicht Ratio Delay Study in der Zeitschrift Mechanical Engineering und Fritz Roethlisberger publiziert Management and Morale.
+1943: Der ASME-Ausschuss für Arbeitsstandards legt ein Glossar über Begriffe des Industrial Engineering vor.
+1944: Kurt Lewin wird Leiter des Research Center of Group Dynamics am MIT.
+1945: Marvin E. Mundel erarbeitet die Memo-Motion-Studie, eine Form der Arbeitsstudie mit Hilfe von Zeitrafferaufnahmen, Josef Quick entwickelt das WORK-FACTOR-System und Shigeo Shingō präsentiert ein Konzept der Produktion vor der Japan Management Association als Netzwerk von Arbeitsvorgängen und Funktionen und identifiziert viele Wartezeiten insbesondere zwischen den Arbeitsabläufen.
+1946: Der erste elektronische Univeralrechner, ENIAC, wird an der University of Pennsylvania vorgestellt und bei Ford wird die erste vollautomatische Montageline in Betrieb genommen.
+1947:
+
+Norbert Wiener schreibt Cybernetics.
+1948: Harold Bright Maynard und andere führen Methods-Time Measurement (MTM) ein, Lawrence D. Miles etabliert die Wertanalyse bei General Electric, Shigeo Shingo macht das flussorientierte Werkstattlayout bekannt und das American Institute of Industrial Engineering wird gebildet.
+1950: Marvin E. Mundels Buch Motion and time study erscheint international.
+1951: Statistische Methoden der Qualitätskontrolle werden aus den USA kommend in Japan angewendet.
+1952: Multimoment-Studie bei der ASME vorgestellt.
+1953: B. F. Skinner: Science and human behavior.
+1956: Auf einem Konvent des American Institute of Industrial Engineering wird eine neue Definition des IE präsentiert.
+1957: Chris Argyris: „Personality and organization“ Herbert A. Simon: „Organizations“ Robert Lee Morrow: „Motion and Time Study“ Shigeo Shingō führt für Verbesserungen STM („scientific thinking mechanism“) ein und die Europäische Wirtschaftsgemeinschaft wird gegründet.
+1960: Douglas McGregor: „The Human Side of Enterprise“
+1961: Rensis Likert: „New Patterns of Management“ Shigeo Shingō erfindet ZQC (Lieferantenbewertung und Poka Yoke) und Texas Instruments patentiert die integrierten Schaltkreise.
+1963: Harold Bright Maynard: „Industrial Engineering Handbook“ und Gerald Nadler: „Work Design“
+1964: Abraham Maslow: „Motivation and Personality“
+1965: Transistoren werden in integrierte Schaltkreise eingebracht.
+1966: Frederick Herzberg: „Work and the Nature of Man“
+1968: Roethlisberger: „Man in Organization“ und US-Verteidigungsministerium: „Principles and Applications of Value Engineering“
+1969: Shigeo Shingō entwickelt „Single Minute Exchange of Dies (SMED) und führt „preautomation“ ein und Wickham Skinner: „Manufacturing: missing link in corporate strategy“ in Harvard Business Review 3(1969).
+1971: Taiichi Ōno vervollständigt das Toyota-Produktionssystem und die Intel Corporation stellt den ersten Microprozessor vor.
+1973: Erste jährliche „Systems Engineering Conference“ des AIIE; Winfried Hacker veröffentlicht „Allgemeine Arbeits- und Ingenieurpsychologie“ und verbreitet damit die Handlungsregulationstheorie.
+1975: Shigeo Shingō bewirbt das NSP-SS (nonstock production) System und Joseph Orlicky stellt „MRP: Material Requirements Planning“ vor.
+1976: Apple vermarktet den ersten persönlichen Computer.
+1979: Beginn des „International Motor Vehicle Program“ (IMVP).
+1980: Matsushita Electric nutzt die Mikuni-Methode bei der Produktion ihrer Waschmaschinen, Shigeo Shingō: „A study of the Toyota production system from an industrial engineering viewpoint“, Goldratt kommt mit OPT auf den Markt und Hackman/Oldham: „Work redesign“ mit dem JDS.
+1981: Oliver Wight: „Manufacturing Resources Planning: MRP II“ und erstes Supply-Chain-Management-Projekt bei Landis & Gyr.
+1982: Gavriel Salvendy: „Handbook of Industrial Engineering“
+1984: Shigeo Shingō: „A Revolution in Manufacturing: The SMED System“, Goldratt: „The Goal“.
+1990: Womack, Jones und Roos vom IMVP veröffentlichen „The Machine that changed the World“ und machen damit den Begriff „Lean Production“ populär.
+1993: Hammer und Champy veröffentlichen „Reengineering the corporation“ und verbreiten damit das Konzept des „Business Process Reengineering“.
+1998: Charles H. Fine: „Clockspeed“.
+
+
+== Siehe auch ==
+advanced Industrial Engineering
+Arbeitswissenschaft
+ESTIEM – European Students of Industrial Engineering & Management
+Methods-Time Measurement
+Operations Research
+REFA
+Scientific Management
+System Dynamics
+Systems engineering
+Wirtschaftsingenieurwesen
+
+
+== Literatur ==
+Hinrichsen, Sven: Arbeitsrationalisierung mittels Methoden des Industrial-Engineering in Dienstleistungsbetrieben. Aachen: Shaker, 2007 (Diss. IAW RWTH Aachen). ISBN 978-3-8322-6636-3.
+Badiru, Adedeji B.: Handbook of industrial and systems engineering. Boca Raton, Fla.: CRC, 2006. – ISBN 0-8493-2719-9.
+Blanchard, Benjamin S. ; Fabrycky, Wolter J.: Systems Engineering and Analysis. 4th Ed. Upper Saddle River, N. J.: Pearson Education, 2006. ISBN 0-13-196326-0.
+Salvendy, Gavriel: Handbook of industrial engineering: Technology and operations management. New York: Wiley, 2001. ISBN 0-471-33057-4.
+Turner, Wayne C.: Introduction to industrial and systems engineering. Englewood Cliffs, N. J.: Prentice Hall, 1993. ISBN 0-13-481789-3.
+Stowasser, Sascha: Produktivität und Industrial Engineering. In: Angewandte Arbeitswissenschaft. Zeitschrift für die Unternehmenspraxis, 47 (204), S. 7–20.
+Dorner, Martin: Das Produktivitätsmanagement des Industrial Engineering unter besonderer Betrachtung der Arbeitsproduktivität und der indirekten Bereiche. 2014. Dissertation. Karlsruher Institut für Technologie.
+Video: What is Industrial Engineering?, abgelesen am 11-07-21.
+
+
+== Einzelnachweise ==
+↑ Maybard, H.B. (Hrsg.): Industrial Engineering Handbook, 2. Auflage. New York: McGraw-Hill, 1956.
+↑ Stowasser, Sascha: Produktivität und Industrial Engineering angewandte Arbeitswissenschaft – Zeitschrift für die Unternehmenspraxis, 47 (204), S. 8.
+↑ Stowasser, Sascha: Produktivitätsmanagement als Kernaufgabe der modernen Arbeitsorganisation und des Industrial Engineering. Zeitschrift für Arbeitswissenschaft, 65 (1), S. 64
+↑ Industrial Engineering an der FH Aachen
+↑ Industrial Engineering an der Beuth Hochschule für Technik Berlin
+↑ http://www.hochschule-rhein-waal.de/studium/fachbereiche/technologieundbionik/wirtschaftsingenieurwesen.html
+↑ Industrial Engineering an den Hochschulen Kiel und Lübeck
+↑ Grap, Rolf: Mit Ingenieuren und Betriebswirten gemeinsam zum Industrial Engineer. In: Industrial Engineering 62(2009)2, S. 10–12.
+↑ Bosch, Michael ; Ploch, Uwe: Promotionsstudium Industrial Engineering : Abschluss: Doctor of Philosophy (Ph. D.); Promotionsprogramm der University of Louisville (USA) in Kooperation mit der HFH, Hamburger Fern-Hochschule. Hamburg: HFH, 2008.
+↑ Titeländerung: Seit der Ausgabe 1/2008 heißen die REFA-Nachrichten Industrial Engineering (Memento vom 4. Mai 2009 im Internet Archive)
+↑ European Journal of Industrial Engineering (EJIE)
+↑ Die Liste basiert auf: Badiru, Adedeji B.; Omitaomu, Olufemi A.: Handbook of industrial engineering equations, formulas, and calculations. Boca Raton, Fl.: CRC, 2011. – ISBN 978-1-4200-7627-1. S. 1–10 bis 1-14. Frei ins Deutsche übersetzt und teilweise ergänzt. Allem Anschein nach haben Badiru/Omitaomu die Liste mit kleinen Ergänzungen, unzitiert, im Wesentlichen abgeschrieben bei: Shingō, Shigeo; Bodek, Norman (Hrsg.): Non-stock production: the Shingo system for continuous improvement. Cambridge, Mass.: Productivity Press, 1988. – ISBN 0-915299-30-5, was auch deren eigentliches Ende um 1984 erklärt. Danach folgen nur noch Hinweise auf eigene Werke Badirus und Omitaomus.
+↑ Réaumur, René Antoine de; Smith, Cyril Stanley; Sisco, Anneliese Grünhaldt: Réaumur’s memoirs on steel and iron: A translation from the original printed in 1722. Chicago, 1956.
+↑ Schraubendrehmaschine in der englischen Wikipedia
+↑ Smith, Adam: An Inquiry into the nature and causes of the wealth of nations. London: W. Strahan and T. Cadell, 1776. Deutsche Ausgabe: Smith, Adam; Stirner, Max (Übers.); Schmidt, Heinrich (Hrsg.): Wohlstand der Nationen. Köln: Anaconda, 2009. – ISBN 978-3-86647-410-9.
+↑ Im Englischen steht der Begriff für den mechanischen Webstuhl.
+↑ Health and Morals Apprentices Act in der englischen Wikipedia
+↑ Isambard Brunel in der englischen Wikipedia.
+↑ Combination Act in der englischen Wikipedia.
+↑ a b c d e f g h Kursive Aussage ist nicht durch Badiru/Omitaomu gedeckt.
+↑ Es handelt sich um zwei Maschinen, die Differenzmaschine und die Analytical Engine. Für keine von beiden wird allerdings 1829 als Entwicklungsdatum angegeben sondern stattdessen 1822 und 1837.
+↑ Babbage, Charles: On the Economy of Machinery And Manufactures. London: Charles Knight, 1833. Deutsch: Babbage, Charles: Ueber Maschinen und Fabrikwesen. Berlin: Stuhrsche Buchhandlung, 1833.
+↑ General Trades Union in der englischen Wikipedia
+↑ Ure, Andrew: The Philosophy of Manufactures, or an Exposition of the Scientific, Moral and Commercial Economy of the Factory System of Great Britain. London: Knight, 1835 (PDF, abgelesen am 22. April 2011)
+↑ Engels, Friedrich: Die Lage der arbeitenden Klasse in England: nach eigener Anschauung und authentischen Quellen. Leipzig: Wigand, 1845.
+↑ Henry R. Towne in der englischen Wikipedia.
+↑ Towne, Henry R.; Gantt, Lawrence; Taylor, Frederick Winslow; Smiddy, Harold F. (Hrsg.): Some classic contributions to professional managing. 1, Selected papers. Schenectady, N. Y.: General electric Company, 1956.
+↑ Pareto, Vilfredo: Manuale di economia politica. Düsseldorf: Verl. Wirtschaft und Finanzen, 1992 (Die Handelsblatt-Bibliothek „Klassiker der Nationalökonomie“, Faks.-Ausg. von 1901. – ISBN 3-87881-070-9.)
+↑ Taylor, Frederick Winslow: A Piece Rate System: Being a Step Toward Partial solution of the Labor Problem. In: American Society of Mechanical Engineers (Hrsg.): Transactions of the American Society of Mechanical Engineers. New York City: The Society, 1895 (Vol. XXIV). S. 856–903. (Nachdruck in: Morgan Witzel: Human resource management. Thoemmes Press, Bristol 2000, ISBN 1-85506-629-7)
+↑ Nicht zu verwechseln mit dem Soßen-Hersteller
+↑ Die Gründung des American National Standards Institute, dem Pendant des deutschen DIN (1917) erfolgte erst 1919.
+↑ Taylor, Frederick W.: Shop Management. In: Transactions, American Society of Mechanical Engineers, Bd. XXVIII (1903), S. 1337–1480. Deutsch: Die Betriebsleitung insbesondere der Werkstätten. Berlin: Springer, 2007 (Nachdruck der 3., vermehrten Aufl. Berlin, 1914; 2., unveränd. Neudr. 1919.). – ISBN 3-540-72147-9
+↑ Diemer, Hugo: Factory organization and administration. London: McGraw-Hill, 1910.
+↑ Veblen, Thorstein: The theory of business enterprise (Memento vom 27. Juli 2007 im Internet Archive). Whitefish, MT: Kessinger Publishing, 2006 (Kessinger Publishing’s rare reprints). – ISBN 978-1-4254-9658-6.
+↑ Taylor, Frederick Winslow: On the Art of Cutting Metals. In: American Society of Mechanical Engineers (Hrsg.): Transactions of the American Society of Mechanical Engineers. New York City: The Society, 1906/7 (Vol. XXIV). S. 31–280, 281-350.
+↑ Pareto, Vilfredo; Schwier, Ann S. (Übers.); Page, Alfred N. (Hrsg.): Manual of political economy. London: Macmillan, 1972.
+↑ Erlang, Agner Krarup: Sandsynlighedsberegning og telefonsamtaler. In: Nyt TidsskriJt for Matematik, B. (1909)20, S. 33–39
+In Englisch: The theory of probabilities and telephone. Enthalten in: Brockmeyer, E.; Halstrøm, H. L.; Jensen, A.: The life and works of A. K. Erlang. København: Akademiet for de Tekniske Videnskaber, 1948.
+↑ Taylor, Frederick W.: The principles of scientific management. New York: Cosimo, 2006 (Nachdruck der Ausgabe: London: Harper & Brothers, 1911). – ISBN 1-59605-889-7. Deutsch: Die Grundsätze wissenschaftlicher Betriebsführung. Paderborn: Salzwasser, 2011. – ISBN 978-3-86195-713-3.
+↑ Gilbreth, Frank Bunker; Kent, Robert Thurston: Motion study: a method for increasing the efficiency of the workman. New York: D. Van Nostrand, 1911.
+↑ Emerson, Harrington: The twelve principles of efficiency. London: Routledge, 1993 (Nachdruck von 1913, Classics in management).
+↑ Gilbreth, Frank Bunker: Primer of scientific management. New York: D. Van Nostrand, 1912.
+↑ Highland Park Ford Plant in der englischen Wikipedia.
+↑ Münsterberg, Hugo: Psychology of Industrial Efficiency. Boston: Houghton Mifflin, 1913. Aktuell bei Seattle: Public Domain Books, 2005 (Amazon Kindle).
+↑ American Magazine in der englischen Wikipedia
+↑ Hoxie, Robert Franklin: Scientific management and labor. New York: Appleton, 1915. In Deutschland muss man darauf achten, diese Buch nicht mit „Frey, John P.: Scientific management and labor. Cincinnati: Rosenthal, 1918.“ zu verwechseln, da letzteres auch auf Deutsch erschien. Frey war Vertreter der Gewerkschaft in der Hoxie-Kommission und seine Darlegungen sind seine persönliche Meinung. (Vgl: Hebeisen, Walter: F. W. Taylor und der Taylorismus: über das Wirken und die Lehre Taylors und die Kritik am Taylorismus. Zürich: vdf, 1999. – ISBN 3-7281-2521-0. S. 116.)
+↑ Gilbreth, Lillian Moller: The Psychology of management: the function of the mind in determining, teaching and installing methods of least waste. New York: Macmillan, 1919. Deutsch: Gilbreth, Frank B.; Gilbreth, Lillian M.; Witte, Irene M. (Übers.): Verwaltungspsychologie: die arbeitswissenschaftlichen Grundlagen für die Ermittlung und Einführung von Verfahren, die den größten Wirkungsgrad bei geringstem Kraftaufwand ermöglichen; ein Handbuch für den heranwachsenden Techniker, Ingenieur und Betriebsleiter. Berlin: Verl. d. Vereins dt. Ingenieure, 1922.
+↑ Gilbreth, Frank Bunker; Gilbreth, Lillian Moller: Applied motion study: a collection of papers on efficient method to industrial preparedness. New York: Macmillan, 1919. In Deutsch: Gilbreth, Frank Bunker; Gilbreth, Lillian Moller; Witte, Irene. M. (Übers.): Angewandte Bewegungsstudien: neun Vorträge aus der Praxis der wissenschaftlichen Betriebsführung. Berlin: Verl. des Vereins Deutscher Ingenieure, 1920.
+↑ Follett, Mary Parker: The new state: group organization the solution of popular government. University Park Penn: The Pennsylvania State University Press, 1998
+↑ Gantt, Henry Laurence: Organizing for work. New York: Harcourt, Brace and Howe, 1919. In deutsch: Gantt, Henry Laurence; Meyenberg, v. F. (Übers.): Organisation der Arbeit: Gedanken eines amerikanischen Ingenieurs über die wirtschaftlichen Folgen des Weltkrieges. Berlin: Springer, 1922
+↑ Hier scheint die Quelle einen Fehler aufzuweisen. Ein Artikel dieses Titels wird als: Merrick, Dwight V.; Barth, Carl G.: Time Studies as a basis for rate setting. New York: The Engineering Magazine, 1920 nachgewiesen. Aktuelle Ausgabe: Whitefish, Mon.: Kessinger Publishing, 2010. – ISBN 978-1-163-86407-4
+↑ Gilbreth, Frank Bunker; Gilbreth, Lillian Moller: Process charts. New York: ASME, 1921
+↑ Aus dem von ihm gegründeten Unternehmen Toyoda Automatic Loom Works geht später die Toyota Motor Corporation hervor.
+↑ Ford, Henry; Crowther, Samuel (Mitarb.): My Life and work. Garden City, N. Y., Doubleday, 1922. In deutsch Ford, Henry; Crowther, Samuel (Mitarb.): Mein Leben und Werk: die Autobiografie. Leipzig: Deltus, 2008
+↑ Die Veröffentlichung erschien so nicht. Frank Bunker Gilbreth starb im Juni diese Jahres an einem Herzinfarkt.
+↑ Ford, Henry; Crowther, Samuel (Mitarb.); Bodek, Norman (Hrsg.): Today and tomorrow. Portland, Or.: Productivity press, 1988 (Special ed. of Ford’s 1926 classic). – ISBN 0-915299-36-4. In deutsch: Ford, Henry; Crowther, Samuel (Mitarb.): Das grosse Heute, das grössere Morgen. Leipzig: List, 1926
+↑ Das Werk wird in den gängigen (antiquarischen) Online-Katalogen nicht geführt. Herausgeber waren vermutlich die Hathaway Mills.
+↑ Das Werk wird in einschlägiger Literatur zwar oft, jedoch vage zitiert und ist in den Katalogen so nicht aufzufinden. Der vollständige Titel ist vermutlich „H.P. Hood & Sons Work Simplification Program“. In der Library of Congress wird es als Work simplification program. [from old catalog] [New York?], 1951 (Work Simplification Conference) geführt. Häufiger aufzufinden ist: „Common sense applied to motion and time study“ von 1932.
+↑ Ford, Henry; Crowther, Samuel (Mitarb.): Moving Forward. Garden City, N. Y.: Doubleday, 1930. In deutsch: Ford, Henry; Crowther, Samuel (Mitarb.): Und trotzdem vorwärts! Leipzig: List, 1930
+↑ Shewhart, Walter A.: Economic control of quality of manufactured product. New York: Van Nostrand, 1931.
+↑ Huxley, Aldous: Brave New World. London: Chatto & Windus., 1932. In deutsch Huxley, Aldous; Herlitschka, Herberth E. (Übers.): Welt – wohin?: ein Roman der Zukunft. Leipzig: Insel-Verl., 1932. Aktuell: Huxley, Aldous; Herlitschka, Herberth E. (Übers.): Schöne neue Welt: Ein Roman der Zukunft. Frankfurt: Fischer, 2011
+↑ Ralph M. Barnes: Motion and time stud. New York:

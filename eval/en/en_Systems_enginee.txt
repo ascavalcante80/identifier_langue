@@ -1,0 +1,64 @@
+ed by limited system capacity. For example, the performance of a packet-switched network is characterized by the end-to-end packet transit delay, or the number of packets switched in an hour. The design of high-performance systems uses analytical or simulation modeling, whereas the delivery of high-performance implementation involves thorough performance testing. Performance engineering relies heavily on statistics, queueing theory and probability theory for its tools and processes.
+Program management and project management.
+Program management (or programme management) has many similarities with systems engineering, but has broader-based origins than the engineering ones of systems engineering. Project management is also closely related to both program management and systems engineering.
+Proposal engineering
+Proposal engineering is the application of scientific and mathematical principles to design, construct, and operate a cost-effective proposal development system. Basically, proposal engineering uses the "systems engineering process" to create a cost effective proposal and increase the odds of a successful proposal.
+Reliability engineering
+Reliability engineering is the discipline of ensuring a system meets customer expectations for reliability throughout its life; i.e., it does not fail more frequently than expected. Reliability engineering applies to all aspects of the system. It is closely associated with maintainability, availability (dependability or RAMS preferred by some), and logistics engineering. Reliability engineering is always a critical component of safety engineering, as in failure modes and effects analysis (FMEA) and hazard fault tree analysis, and of security engineering.
+Risk Management
+Risk Management, the practice of assessing and dealing with risk is one of the interdisciplinary parts of Systems Engineering. In development, acquisition, or operational activities, the inclusion of risk in tradeoff with cost, schedule, and performance features, involves the iterative complex configuration management of traceability and evaluation to the scheduling and requirements management across domains and for the system lifecycle that requires the interdisciplinary technical approach of systems engineering.
+Safety engineering
+The techniques of safety engineering may be applied by non-specialist engineers in designing complex systems to minimize the probability of safety-critical failures. The "System Safety Engineering" function helps to identify "safety hazards" in emerging designs, and may assist with techniques to "mitigate" the effects of (potentially) hazardous conditions that cannot be designed out of systems.
+Scheduling
+Scheduling is one of the systems engineering support tools as a practice and item in assessing interdisciplinary concerns under configuration management. In particular the direct relationship of resources, performance features, and risk to duration of a task or the dependency links among tasks and impacts across the system lifecycle are systems engineering concerns.
+Security engineering
+Security engineering can be viewed as an interdisciplinary field that integrates the community of practice for control systems design, reliability, safety and systems engineering. It may involve such sub-specialties as authentication of system users, system targets and others: people, objects and processes.
+Software engineering
+From its beginnings, software engineering has helped shape modern systems engineering practice. The techniques used in the handling of complexes of large software-intensive systems have had a major effect on the shaping and reshaping of the tools, methods and processes of SE.
+
+
+== See alsoEdit ==
+
+Control engineering
+Design review (U.S. government)
+Enterprise systems engineering
+Interdisciplinarity
+List of production topics
+List of systems engineers
+List of types of systems engineering
+Management cybernetics
+Structured systems analysis and design method
+System of systems engineering (SoSE)
+Systems Thinking (e.g. Theory of Constraints, Value Stream Mapping)
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Harold Chestnut, Systems Engineering Methods. Wiley, 1967.
+Harry H. Goode, Robert E. Machol System Engineering: An Introduction to the Design of Large-scale Systems, McGraw-Hill, 1957.
+Derek Hitchins (1997) World Class Systems Engineering at hitchins.net.
+NASA (2007) Systems Engineering Handbook, NASA/SP-2007-6105 Rev1, December 2007.
+NASA (2013) NASA Systems Engineering Processes and Requirements NPR 7123.1B, April 2013 NASA Procedural Requirements
+David W. Oliver, Timothy P. Kelliher & James G. Keegan, Jr. Engineering Complex Systems with Models and Objects. McGraw-Hill, 1997.
+Simon Ramo, Robin K. St.Clair, The Systems Approach: Fresh Solutions to Complex Problems Through Combining Science and Practical Common Sense, Anaheim, CA: KNI, Inc, 1998.
+Andrew P. Sage, Systems Engineering. Wiley IEEE, 1992. ISBN 0-471-53639-3.
+Andrew P. Sage, Stephen R. Olson, Modeling and Simulation in Systems Engineering, 2001.
+Dale Shermon, Systems Cost Engineering, Gower publishing, 2009
+Robert Shishko et al. (2005) NASA Systems Engineering Handbook. NASA Center for AeroSpace Information, 2005.
+Richard Stevens, Peter Brook, Ken Jackson & Stuart Arnold. Systems Engineering: Coping with Complexity. Prentice Hall, 1998.
+US DoD Systems Management College (2001) Systems Engineering Fundamentals. Defense Acquisition University Press, 2001
+US DoD Guide for Integrating Systems Engineering into DoD Acquisition Contracts, 2006
+Malakooti, B. (2013). Operations and Production Systems with Multiple Objectives. John Wiley & Sons.ISBN 978-1-118-58537-5
+Daniele Gianni, Andrea D'Ambrogio, and Andreas Tolk (editors), Modeling and Simulation-Based Systems Engineering Handbook, CRC Press, 2014 [9]
+
+
+== External linksEdit ==
+INCOSE homepage.
+DoD Systems Engineering ODASD/SE site with reference materials
+NDIA Systems Engineering Division
+Systems Engineering Body of Knowledge (SEBoK) wiki
+Model-Based Systems Engineering Tools
+INCOSE UK homepage
+ICSEng homepage.

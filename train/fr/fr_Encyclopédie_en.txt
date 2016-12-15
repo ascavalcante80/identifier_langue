@@ -1,0 +1,19 @@
+L'encyclopédie en ligne des suites de nombres entiers (originellement en anglais On-Line Encyclopedia of Integer Sequences, couramment abrégé sous le sigle OEIS) est un site web permettant d'effectuer gratuitement des recherches parmi une base de données de suites d'entiers présentant un intérêt mathématique ou parfois simplement ludique. Dans cette forme et cette présentation, c'est la plus grande du monde (en 2012). Elle est consultée des milliers de fois chaque jour.
+L'OEIS est probablement la principale référence dans le domaine des suites d'entiers, pour les mathématiciens professionnels et amateurs, pour lesquels elle représente une ressource d'une très grande richesse. En particulier, une grande partie de son succès vient du fait qu'elle est accessible gratuitement. Fondée par le mathématicien Neil Sloane, elle est hébergée par la division recherche et développement d'AT&T.
+
+
+== Description ==
+L'OEIS est une base de données qui contient plus de 250 000 suites en août 2015, chacune se voyant attribuer un numéro de série.
+Elle est entièrement accessible par moteur de recherche : on peut rechercher une suite par sous-suite, par mot clé, ou par numéro de série. Chaque entrée propose les premiers termes de chaque suite, une ou des définitions, des références à des suites liées ou analogues, les motivations mathématiques, des liens vers la littérature, etc.
+
+
+== Histoire ==
+Neil Sloane a commencé à collectionner les suites entières lorsqu'il était étudiant en 1960, pour soutenir son travail en combinatoire.
+Il a publié deux sélections de sa collection sous forme de livre :
+(en) A Handbook of Integer Sequences, New York, Academic Press,‎ juin 1973, 206 p. (ISBN 978-0-12-648550-9, LCCN 72082647)
+
+(en) avec Simon Plouffe, The Encyclopedia of Integer Sequences, San Diego, Academic Press,‎ 15 janvier 1995, 2e éd., 587 p. (ISBN 978-0-12-558630-6, LCCN 94042041)
+
+Ces livres ont été plébiscités par leurs lecteurs, et, surtout après la seconde publication, d'autres mathématiciens ont fourni à Sloane un flot continu de nouvelles suites. Il lui devenait alors impossible de publier la collection sous forme de livre et, après qu'elle eut atteint un volume de 16 000 entrées, Sloane décida de la rendre accessible par courrier électronique en août 1994, puis par une interface web en 1995.
+La base de données continue d'augmenter au rythme de quelque 10 000 entrées par an et, s'appuyant sur le succès de l'OEIS, Sloane fonde le Journal of Integer Sequences (traduction : Journal des suites entières) en 1998 (ISSN 1530-7638).
+Neil Sloane a géré lui-même sa collection pendant presque quarante ans, mais depuis le début de l'année 2002, une commission de rédacteurs assure le travail de maintenance. Des

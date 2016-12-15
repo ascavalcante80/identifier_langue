@@ -1,0 +1,32 @@
+sible de soluto para una temperatura y presión dadas. En ellas existe un equilibrio entre el soluto y el disolvente.
+Disolución sobresaturada: contiene más soluto del que puede existir en equilibrio a una temperatura y presión dadas. Si se calienta una solución saturada se le puede agregar más soluto; si esta solución es enfriada lentamente y no se le perturba, puede retener un exceso de soluto pasando a ser una solución sobresaturada. Sin embargo, son sistemas inestables, con cualquier perturbación el soluto en exceso precipita y la solución queda saturada; esto se debe a que se mezclaron.
+
+
+==== Disoluciones valoradas ====
+A diferencia empíricas, las disoluciones valoradas cuantitativamente, sí toman en cuenta las cantidades numéricas exactas de soluto y solvente que se utilizan en una disolución. Este tipo de clasificación es muy utilizada en el campo de la ciencia y la tecnología, pues en ellas es muy importante una alta precisión.
+Existen varios tipos de disoluciones valoradas:
+Porcentual
+Molar
+Molal
+Normal
+
+
+== Conocimientos aplicados ==
+En función de la naturaleza de solutos y solventes, las leyes que rigen las disoluciones son distintas.
+Sólidos en sólidos: Leyes de las disoluciones sólidas.
+Sólidos en líquidos: Leyes de la solubilidad.
+Sólidos en gases: Movimientos brownianos y leyes de los coloides.
+Líquidos en líquidos: Tensión interfacial.
+Gases en líquidos: Ley de Henry.
+
+
+== Véase también ==
+Solubilidad
+Concentración
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+IES Aguilar y Cano, de Estepa (Sevilla), ofrece la posibilidad de trabajar las disoluciones.

@@ -1,0 +1,44 @@
+e il circuito risuonerebbe alla massima frequenza di 898 kHz.
+Di conseguenza, i progettisti esperti evitano l'uso di questo circuito, che invece può funzionare in modo soddisfacente per una singola frequenza. La limitazione della banda sintonizzabile può essere superata utilizzando una induttanza variabile al posto del condensatore variabile, oppure realizzando delle prese intermedie sulla bobina (induttanza), in modo da suddividere l'intera banda in più porzioni. È conveniente inoltre accoppiare l'antenna e la terra al circuito risonante tramite una induttanza ausiliaria, con minor numero di spire, accoppiata alla induttanza principale per adattare meglio il trasferimento di energia a radiofrequenza e ridurre l'effetto della capacità dell'antenna.
+La possibilità di ricevere una singola frequenza rende comunque giustificato l'uso di tale ricevitore, in quanto la bassa sensibilità unita alla scarsa selettività permette di solito solo la ricezione della stazione trasmittente locale in onde medie.
+
+
+== Brevetti statunitensi ==
+(EN) (EN) United States Patent 836531, United States Patent and Trademark Office. "Means for receiving intelligence communicated by electric waves", 1906. G. W. Pickard.
+(EN) (EN) United States Patent 876996, United States Patent and Trademark Office. "Intelligence intercommunication by magnetic wave components", 1908. G. W. Pickard.
+(EN) (EN) United States Patent 956165, United States Patent and Trademark Office., "Space communication", 1910. G. W. Pickard.
+(EN) (EN) United States Patent 1206911, United States Patent and Trademark Office., "System of radio communication", 1916. G. W. Pickard.
+(EN) (EN) United States Patent 1224499, United States Patent and Trademark Office., "Radio telegraphy and telephony receiver", 1917. G. W. Pickard.
+(EN) (EN) United States Patent 1245266, United States Patent and Trademark Office., "Radio telegraphy and telephony receiver", 1917. G. W. Pickard.
+(EN) (EN) United States Patent 1249482, United States Patent and Trademark Office., "Radio telegraphy and telephony receiver", 1917. G. W. Pickard.
+(EN) (EN) United States Patent 1485524, United States Patent and Trademark Office., "Crystal detector for radio communication", 1924. Hugo H. Pickron. (ed., uses "crystal radio" term in the patent.)
+(EN) (EN) United States Patent 1575067, United States Patent and Trademark Office.,"Functioning parts of mineral type detectors", 1926. L. B. Lambert.
+(EN) (EN) United States Patent 1648521, United States Patent and Trademark Office., "Radio receiving set", 1927. A. Wikstrom.
+(EN) (EN) United States Patent 1748435, United States Patent and Trademark Office., "Crystal radio apparatus", 1930. H. Adams.
+(EN) (EN) United States Patent 1825070, United States Patent and Trademark Office., "Radio receiving set", 1931. W. J. Kayser.
+(EN) (EN) United States Patent 2805332, United States Patent and Trademark Office., "Subminiature portable crystal radio", 1957. Keith L. Bell.
+
+
+== Note ==
+
+
+== Bibliografia ==
+(it) Courmoz F., Battocchio A. La radio a galena. Dal coherer al transistor nella ricezione passiva. Ed. Mosè 2002.
+(it) Malatesta A. (1961). Elementi di radiotecnica generale. Ed. Colombo Cursi, Pisa.
+(EN) Ellery W. Stone (1919). Elements of Radiotelegraphy. D. Van Nostrand company. 267 pages.
+(EN) Elmer Eustice Bucher (1920). The Wireless Experimenter's Manual: Incorporating how to Conduct a Radio Club.
+(EN) Milton Blake Sleeper (1922). Radio Hook-ups: A Reference and Record Book of Circuits Used for Connecting Wireless Instruments. The Norman W. Henley publishing co.; 67 pages.
+(EN) Robert Andrews Millikan, Henry Gordon Gale, Willard R. Pyle (1922). Practical physics. Ginn. 472 pages.
+(EN) JL Preston and HA Wheeler (1922) "Construction and operation of a simple homemade radio receiving outfit", Bu. of Standards, C-120: Apr. 24, 1922.
+(EN) PA Kinzie (1996). Crystal Radio: History, Fundamentals, and Design. Xtal Set Society.
+(EN) Thomas H. Lee, The Design of CMOS Radio-Frequency Integrated Circuits
+(EN) Derek K. Shaeffer and Thomas H. Lee, The Design and Implementation of Low-Power Cmos Radio Receivers
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Radio a galena
+
+
+== Collegamenti esterni ==
+Fiorenzo Stevanato - Riscoperta della radio a cristallo di galena - pag 6-9- in La Radiospecola- 02/2007. Storia, teoria e foto di un modello degli anni venti.[1]

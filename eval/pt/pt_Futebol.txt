@@ -1,0 +1,72 @@
+ barras rotativas onde se encontram os jogadores. Cada uma das equipes tem suas barras de forma alternada. Essas barras são giradas com as mãos através de borrachas localizadas nas extremidades das barras. Embora este jogo possua caráter informal, particularmente por suas regras e o formato da mesa, existe uma organização chamada International Table Soccer Federation, que estipula regras e organiza campeonatos de forma regular.
+Também vale ressaltar o subbuteo, um jogo de mesa similar ao futebol de mesa, onde a principal diferença é que os jogadores não se encontram presos em uma barra, mas sim apoiados individualmente sobre uma espécie de pedestal de forma côncava. Para que um jogador possa mover a bola deve-se pegar com o dedo um dos bonecos para que este golpeie o esférico.
+O futebol também tem uma grande importância para programação de videojogos e robôs. Em relação a videojogos destacam-se simuladores como FIFA e Pro Evolution Soccer (também conhecido como Winning Eleven), os quais permitem simular encontros de futebol controlando os movimentos dos futebolistas, e outros como Football Manager e Brasfoot, os quais permitem controlar equipes como dirigentes e técnicos. Também existem competições como a RoboCup, que simulam partidas de futebol utilizando pequenos robôs.
+
+
+== Entidades organizadoras ==
+
+O corpo diretor do futebol a nível internacional é a Federação Internacional de Futebol (Fédération Internationale de Football Association), mais conhecida pelo seu acrônimo FIFA, com sede em Zurique, Suíça. Este organismo se sustenta em cinco princípios principais para garantir o bom desenvolvimento do desporto: melhorar o futebol desde seu caráter universal, educacional e cultural, assim como melhorar os valores humanos que sustentam o mesmo; organizar competições do desporto; elaborar um regulamento para manter o espírito do jogo; controlar as distintas formas de futebol, adotando medidas para melhorar as mesmas; e impedir certas práticas que afetem a essência do desporto.
+A FIFA não se dedica unicamente nos detalhes organizativos do desporto, mas também promove melhorias na infraestrutura futebolística de cada país, particularmente nos mais pobres, por meio do Programa Goal. O mesmo inculca aspectos táticos, técnicos, de saúde e organizativos às populações desses países, ajudando-os no crescimento do futebol interno. O Programa não financia a construção de estádios, mas apoia financiando centros de treinamento, material para treinar e elementos de oficina para as associações. Atualmente 185 associações nacionais são beneficiadas pelo programa, que completou ou está organizando 292 projetos.
+Devido ao constante crescimento da FIFA, foram criadas ao longo da história seis confederações regionais, cujos objetivos são similares aos da FIFA. As mesmas estão encarregadas de coordenar todos os aspectos do desporto em cada região. Para que uma associação seja membro de uma confederação, não deve necessariamente ser afiliada à FIFA.
+Por sua vez, dentro de cada confederação há associações de futebol, que representam um país e, em algumas ocasiões, um território ou estado não reconhecido internacionalmente. Salvo casos excepcionais, há somente uma associação por país ou território, e em caso de existir mais de uma, somente uma pode estar afiliada a sua confederação. Em alguns casos a associação principal do país tem afiliadas a ela outras sub-associações para ajudá-la na organização do desporto. Cada associação organiza o futebol de seu país independentemente de sua confederação, mas em alguns casos, por exemplo, para classificar clubes para torneios internacionais, ditos clubes devem estar garantidos pela associação ante a confederação. Em alguns casos, uma equipe pode estar afiliada direta ou indiretamente a uma associação sem estar afiliada a uma confederação.
+Também é necessário mencionar a NF-Board, organização que agrupa as associações não afiliadas nem à FIFA, nem à nenhuma de suas confederações. A grande maioria de suas associações pertencem a territórios e estados não reconhecidos politicamente a nível internacional. A única competição desse organismo é a Copa do Mundo VIVA. 
+
+
+== Principais competições internacionais ==
+
+
+=== Seleções ===
+A nível de seleções nacionais, o torneio mais importante é a Copa do Mundo FIFA de Futebol, que é disputada desde 1930. Antes da criação da Copa do Mundo, particularmente durante os anos 1920, a competição de futebol dos Jogos Olímpicos era considerada a principal competição do desporto, ainda que atualmente se mantém como um torneio secundário onde se permitem jogadores menores de 23 anos, com até três jogadores que extrapolem esse limite de idade por equipe. No futebol feminino, o equivalente à Copa do Mundo é a Copa do Mundo de Futebol Feminino.
+A nível das confederações da FIFA, os torneios mais importantes são a Copa América (América do Sul) e Eurocopa (Europa),  e; embora com menos importância, a Copa Africana de Nações (África), a Copa Ouro da CONCACAF (Américas do Norte, Central e Caribe), a Copa Asiática (Ásia) e a Copa das Nações da OFC (Oceania).
+O torneio mais importante para jogadores jovens é a Campeonato Mundial de Futebol Sub-20 , que recebe equipes classificadas do Campeonato Sul-Americano de Futebol Sub-20 (América do Sul), do Campeonato Europeu de Futebol Sub-19 (Europa), do Campeonato Juvenil da CAF (África), o Campeonato Sub-20 da Concacaf (Américas do Norte, Central e Caribe), o Campeonato Juvenil da AFC (Ásia) e o Campeonato Sub-20 da OFC (Oceania).
+
+
+=== Clubes ===
+Em cada país os clubes de futebol frequentemente afiliam-se a associações ou ligas que organizam torneios oficiais entre eles, de onde surgem os campeões nacionais e as equipes que participarão de torneios internacionais. Não existe um sistema único de torneios e cada liga nacional os organiza de acordo a suas tradições. Em geral, a maioria dos países tem dois torneios principais no ano: Brasil (Brasileirão e Copa do Brasil), Espanha (Liga e Copa do Rei), Itália (Série A e Copa Itália), etc. Em alguns casos os campeões de ambos os torneios disputam "supercopas" anuais e "recopas" entre si. A Inglaterra tem um sistema de campeonato principal (a Premier League) e em seguida várias copas nas que participam equipes de distintas divisões. O Brasil tem um sistema de campeonatos estaduais, além de ter um Campeonato Nacional (Brasileirão) e a Copa do Brasil. No México existe somente um campeonato anual dividido em dois torneios semestrais (Apertura e Clausura).
+Internacionalmente, a competição mais importante historicamente foi a Copa Intercontinental, que foi substituída em 2000 pelo Copa do Mundo de Clubes da FIFA. A nível continental as competições mais importantes são a Copa Libertadores da América (América do Sul) e a Liga dos Campeões da UEFA (Europa), torneios cujos vencedores disputavam a Copa Intercontinental. A partir de 2000, a recém-criada Copa do Mundo de Clubes da FIFA recebe também os vencedores da Liga dos Campeões da CAF (África), da Copa dos Campeões da CONCACAF (América do Norte, América Central e Antilhas), a Liga dos Campeões da AFC (Ásia) e a Liga dos Campeões da OFC (Oceania), além do campeão nacional do país-sede. Também a nível continental destacam-se as competições secundárias da América do Sul e Europa: a Copa Sul-americana e a Liga Europa da UEFA respectivamente.
+
+
+== O passe ==
+Entende-se por passe o vínculo negociável que liga o atleta profissional à agremiação que o contrata. No Brasil, esse tipo de vínculo foi extinto pela Lei 9.615/98, conhecida como Lei Pelé ou Lei do passe livre.
+A transferência de um jogador de um clube para outro é feita mediante o pagamento de uma soma em dinheiro, que é paga pelo clube que recebe o jogador ao clube que o perde. Os passes de alguns jogadores podem assumir valores superiores a 50 milhões de euros. O mais alto valor foi pago pelo passe de Cristiano Ronaldo, na transferência do  Manchester United para o Real Madrid: 94 milhões de euros.
+
+
+== Doping ==
+Os esforços contra a dopagem bioquímica (doping) no futebol remontam a 1966, quando a FIFA foi uma das primeiras federações internacionais a criar regras para controlar o mesmo. Anualmente são feitos 20 000 testes anti-doping em jogadores do mundo todo, dos quais entre 80 e 90 dão resultados positivos, principalmente pelo uso de cocaína ou maconha. Entende-se por dopagem positiva o seguinte:
+
+O procedimento para um exame anti-doping se inicia no intervalo de uma partida, quando são sorteados os jogadores por equipe. Quinze minutos antes do término do jogo é entregue um envelope com os sorteados para os delegados no campo, identificados por um jaleco branco com uma cruz verde, que divulgam os sorteados (um por equipe). Uma vez finalizada a partida informam aos dois jogadores sorteados que devem dirigir-se ao local de testes para serem controlados. Os jogadores expulsos durante o jogo também podem ser citados. Mais tarde os jogadores selecionados deverão dar uma amostra de urina. Antes disso, os selecionados não podem se dirigir aos seus vestiários, e sim a uma sala onde podem beber bebidas não alcoólicas e tomar banho. A amostra tomada por um profissional do mesmo sexo que o do jogador é mandada a um laboratório para análise.
+Caso o resultado da mostra seja positivo, o relatório é enviado para a Subcomissão do Controle de Dopagem Bioquímica da FIFA, que investigará a autenticidade do estudo e, uma vez aprovado, passa para a responsabilidade do diretor do controle de dopagem da FIFA, que verificará a informação para autorizar seu envio à Comissão Disciplinar, à Comissão de Medicina Desportiva e ao clube a qual pertença o jogador. A Comissão Disciplinar decidirá que pena será aplicada ao jogador.
+Talvez o caso mais conhecido de dopagem bioquímica no futebol foi o de Diego Armando Maradona, que depois de uma partida válida pela Copa do Mundo FIFA de 1994, nos Estados Unidos, foi selecionado para a realização do teste. Sua mostra deu positiva e foi aplicada uma pena de 15 meses.
+
+
+== Violência ==
+
+A violência no futebol é quase tão antiga quanto o próprio desporto. Suas origens remontam aos jogos de futebol escolar durante a Idade Média, que se caracterizavam por não terem regras e pelo uso desmedido da violência. Em 1314 foi criada a primeira restrição desse desporto para evitar a crescente onda de violência que ele criava. A primeira manifestação de violência no futebol moderno, de 1863 em diante, ocorreu em 1885, quando uma partida entre as equipes inglesas de Preston North End e Aston Villa acabou em uma brutal luta entre jogadores de ambas equipes.
+Os grupos violentos de uma torcida recebem várias denominações, mas destacam-se alguns como barra bravas, hooligans ou ultras. Na América do Sul um dos países que mais têm sido afetados pela violência no desporto é a Argentina, que ao longo de sua história teve mais de 220 casos de vítimas fatais de incidentes em campos de futebol e seus arredores. Na Itália a violência relacionada com futebol vai ainda mais longe. Os denominados ultras italianos caracterizam-se por seus insultos racistas e inclusive pela fabricação de armamentos para as batalhas que efetuam antes, durante e depois das partidas.
+A violência no futebol resultou em situações ainda piores, como a chamada Guerra do Futebol. Esse conflito armado teve como estopim uma série de jogos disputados pelas seleções de futebol de El Salvador e Honduras, válidos pelas eliminatórias da Copa do Mundo FIFA de 1970, que foi disputada no México.
+Para evitar estes problemas, a FIFA promove uma campanha chamada Fair Play ou Jogo Limpo, que convida os participantes deste desporto para mostrar valores que fazer crescer o futebol. Anualmente a FIFA entrega um ou mais prêmios a pessoas, clubes, associações ou entidades de qualquer natureza que transmitem os valores do Fair Play.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ver também ==
+
+Futsal
+Futebol de areia
+Melhores árbitros
+Campeonato do Mundo de Futebol Não-Oficial
+Showbol
+Rugby
+
+
+== Ligações externas ==
+Federações e confederações
+FIFA (Federação internacional) (em inglês)
+UEFA (Federação Europeia) (em inglês)
+CONMEBOL (Confederação Sul-Americana) (em inglês)
+FPF (Federação Portuguesa de Futebol) (em português)
+CBF (Confederação Brasileira de Futebol) (em português)

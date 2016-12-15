@@ -1,0 +1,67 @@
+Willard Van Orman Quine (* 25. Juni 1908 in Akron, Ohio; † 25. Dezember 2000 in Boston, Massachusetts) war ein US-amerikanischer Philosoph und Logiker.
+Quine gilt als bedeutender Vertreter der Analytischen Philosophie und des philosophischen Naturalismus sowie des Holismus.
+
+
+== WerdegangBearbeiten ==
+Quine studierte von 1926 bis 1930 am Oberlin College (Ohio) mit den Schwerpunkten Mathematik, Philosophie und Philologie und erwarb 1930 den B.A. Das weitere Studium absolvierte er von 1930 bis 1932 in Harvard, wo er bei C. I. Lewis, dem Logiker H. M. Sheffer und A. N. Whitehead Vorlesungen hörte und 1931 mit dem M.A. abschloss. Das Doktorat (Ph.D.) in Philosophie erwarb Quine 1932. Als Mentor fungierte Whitehead. Der Titel der Dissertation lautete „The Logic of Sequences: A Generalization of Principia Mathematica.“
+Nachdem Quine 1932 Herbert Feigl während dessen USA-Aufenthaltes in Harvard kennengelernt und so näheren Einblick in den Wiener Kreis erhalten hatte, reiste er als Sheldon Traveling Fellow 1932 bis 1933 nach Europa, wo er in Wien mit dem Wiener Kreis und insbesondere mit Kurt Gödel und Moritz Schlick zusammentraf. In Prag hörte er bei Rudolf Carnap und in Warschau bei den Logikern Stanisław Leśniewski und Alfred Tarski. Von 1933 bis 1936 war Quine Mitglied der Junior Fellows in der Harvard Society of Fellows und konnte sich für drei Jahre seinen Forschungen widmen. In dieser Zeit verfasste er sein erstes Buch A System of Logistic und hielt 1934 eine Vorlesung über Carnaps Philosophie. Ab 1936 nahm er als Fellow in Harvard seine Tätigkeit als Dozent auf. Von 1942 bis 1945 leistete er Kriegsdienst bei der U.S. Marine als Kryptologe. In dieser Zeit befasste sich Quine intensiv mit dem Begriff der Analytizität, also der Frage, ob Wahrheit in der Logik und der Mathematik auf Konventionen beruht.
+Ab 1948 hatte Quine eine Stelle als Full Professor in Harvard inne. 1949 wurde er in die American Academy of Arts and Sciences gewählt. Während eines einjährigen Gastaufenthaltes im Jahr 1953 in Oxford erfolgte eine intensivere Auseinandersetzung mit der Sprachphilosophie im Gespräch mit Strawson, Austin und Grice. Zu seinen Schülern in diesem Jahr zählten Michael Dummett und Wolfgang Stegmüller. 1956 wurde er als Nachfolger von Lewis auf den Edgar Pierce Lehrstuhl für Philosophie der Harvard University berufen. Ein zweiter einjähriger Gastaufenthalt fand 1973/74 statt. Im Jahr 1978 erfolgte seine Emeritierung in Harvard. 1980 hielt Quine an der Stanford University die Immanuel Kant Lectures, in denen er seine Philosophie auf aktuellem Stand zusammenfasste. Zu seinen herausragenden Schülern zählen Donald Davidson und Jaakko Hintikka.
+1990 hielt er die Tarski Lectures in Berkeley.
+
+
+== Beiträge zu formaler Logik und PhilosophieBearbeiten ==
+Als junger Wissenschaftler beschäftigte sich Quine hauptsächlich mit mathematischer Logik, wandte sich aber seit den späten 1940er Jahren immer mehr Themen der Erkenntnistheorie zu. Die Typentheorie von Bertrand Russell ersetzte Quine durch ein Verfahren der Stratifikation mengentheoretischer Formeln. Seine erste Mengenlehre aus dem Jahre 1937 orientiert sich nicht an Cantor oder Zermelo-Fraenkel, sondern an der Typentheorie. Sie findet man in New Foundations. Russells Theorie der Kennzeichnung weitete er auf Eigennamen aus, indem er auch diese als prädikative Ausdrücke analysierte. 1963 führte er in seiner Mengenlehre das Konzept der virtuellen Klassen ein. Sein bekanntester Beitrag zur formalen Logik ist ein gemeinsam mit Edward J. McCluskey entwickelter Algorithmus zur Minimierung, d. h. Vereinfachung boolescher Funktionen, der heute unter dem Namen Quine-McCluskey-Verfahren bekannt ist.
+Um 1950 veröffentlichte Quine einige Aufsätze zur Frage der Universalien, in der er eine konzeptualistische Position einnahm. 1951 griff er in einem Aufsatz mit dem Titel Two Dogmas of Empiricism zwei Überzeugungen an, die innerhalb der damaligen Analytischen Philosophie breite Anerkennung fanden, nämlich
+den erkenntnistheoretischen Reduktionismus und
+die Unterscheidung zwischen analytischen und synthetischen Sätzen.
+Der erkenntnistheoretische Reduktionismus besagt, dass eine Theorie in Einzelaussagen zerlegt werden könne, die je für sich empirisch überprüft werden könnten. Die Unterscheidung zwischen analytischen und synthetischen Sätzen besagt (nach der Diskussionslage in der damaligen Analytischen Philosophie), dass sich die Wahrheit mancher Sätze (der analytischen) allein durch die in ihnen verwendeten Teilausdrücke ergibt, wohingegen die Wahrheit der anderen Sätze (der synthetischen) von deren Übereinstimmung mit der Wirklichkeit herrührt.
+Quine hielt diesen beiden Dogmen entgegen, dass niemals einzelne Sätze, sondern immer nur Theorien als ganze empirisch gerechtfertigt werden können (Duhem-Quine-These, Holismus) und zur Identifizierung von Synonymie innerhalb von Sätzen immer auch die empirischen Umstände maßgeblich sind, die die Äußerung solcher Sätze begleiten. Mit seinem Argumentationsgang trug Quine maßgeblich zur so genannten „pragmatischen Wende“ in der Analytischen Philosophie bei.
+Gleichwohl zeigte Quine aber auch die Grenzen eines empirischen Verifikationismus auf: demnach können Aussagen niemals restlos veri- oder falsifiziert werden, selbst jene nicht, die nahe an der empirischen Peripherie einer wissenschaftlichen Theorie liegen: „Jede Aussage kann als wahr gelten, wenn nur im System genügend drastische Anpassungen vorgenommen werden.“ Wesentlich für empirisch äquivalente Theorien ist daher nicht ihre Gültigkeit, sondern ihre Leistungsfähigkeit. Aufgrund dieser Auffassung wird auch Quine dem Pragmatismus zugerechnet.
+
+
+== Unbestimmtheit der ÜbersetzungBearbeiten ==
+Quine vertrat in der Sprachphilosophie die These der „Unbestimmtheit der Übersetzung“ und folgerte daraus die „Unerforschlichkeit der Referenz“. Die zentrale Stelle dazu in seinem Werk ist das zweite Kapitel von Word and Object.
+Quine meinte, dass man verschiedene Übersetzungsmanuale zur Übersetzung der Quellsprache in die Zielsprache erstellen kann, die sich untereinander widersprechen, aber dennoch passende Übersetzungen sind. Man kann nicht entscheiden, welche dieser Übersetzungen richtig ist. Als Grund dafür führt er eine prinzipielle empirische Unterbestimmtheit an.
+In einem Gedankenexperiment führte Quine die These aus: „Wenn ein Sprachforscher die Sprache eines Einheimischen erfassen will, so ist er nur auf Beobachtungen angewiesen, die sowohl ihm als auch dem Einheimischen zugänglich sind. Wenn nun der Einheimische immer dann, wenn beide ein Kaninchen sehen, den Begriff „Gavagai“ verwendet, so weiß der Sprachforscher nicht, ob gavagai nur „Kaninchen“ als Einzelobjekt oder die Klasse aller Kaninchen bezeichnet. Vielleicht sind aber auch nur bestimmte Teile oder Verhaltensweisen eines Kaninchens gemeint.“ Um den Begriff zu erschließen, bedarf es ergänzender Wörter, die quantifizieren oder Verweise ermöglichen. Erst dann kann durch Kombinationen der Logik die Bedeutung der Sprache anhand von Hypothesen erschlossen werden, deren Wahrheit sich erst aus einer konkreten Lebenssituation ergibt. Wahrheit ergibt sich aus Aussagen, die anhand von unmittelbarer Erfahrung der Welt überprüft werden können. Sprache kann man nur im Zusammenhang der Erfahrungen erlernen und ist dabei auch auf Versuch und Irrtum sowie sich daraus ergebende Korrekturen angewiesen.
+
+
+== Naturalisierte ErkenntnistheorieBearbeiten ==
+Im Bereich der Erkenntnistheorie entwickelte Quine einen szientistischen Naturalismus. Die Außenwelt betrachtete er als real, in ihr finden permanent mikrophysikalische Umverteilungen statt. Das erkennende Subjekt war für ihn Gegenstand der empirischen Wissenschaften. Wahrnehmung ist zwar mentalistisch, hat aber physikalische Grundlagen in den Sinnesrezeptoren. Mentalistisch ist die Neigung des Menschen, sich nach dem Prinzip der Induktion zu verhalten. Lernen ist nichts anderes als die Ausbildung von Gewohnheiten. Erkenntnistheorie war entsprechend für ihn ein Teilgebiet der empirischen Psychologie, in der Reizreaktionsverhältnisse behavioristisch untersucht werden. Verifikation und empirische Adäquatheit sind die einzige Grundlage von Geltung und Bedeutung. Wissenschaftstheorie ist damit Sache der angewandten Wissenschaften und keine eigenständige Disziplin.
+
+
+== WerkeBearbeiten ==
+A System of Logistic, 1934
+Mathematical Logic, 1940, ISBN 0-674-55451-5
+Elementary Logic, 1941, ISBN 0-674-24451-6
+Methods of Logic, New York 1950, 8. erw. Aufl. 1993, ISBN 0-674-57176-2
+deutsch: Grundzüge der Logik, übersetzt von Dirk Siefkes, Frankfurt 1969, ISBN 3-518-27665-4
+
+Word and Object, 1960, Cambridge, Mass., ISBN 0-262-67001-1
+deutsch: Wort und Gegenstand, übersetzt von Joachim Schulte und Dieter Birnbacher, Stuttgart 1980, ISBN 3-15-009987-0
+
+From a Logical Point of View. Nine logico-philosophical essays, Cambridge, Mass. 1953
+deutsch: Von einem logischen Standpunkt, übersetzt von Peter Bosch, Frankfurt/Berlin/Wien 1979, ISBN 3-548-35010-0
+
+darin enthalten u. a.:
+On what there is, 1948, dt.: Was es gibt
+Two Dogmas of Empiricism, 1951, dt.: Zwei Dogmen des Empirismus
+
+Set Theory and its Logic, 1963, ISBN 0-674-80207-1
+deutsch: Mengenlehre und ihre Logik, übersetzt von Anneliese Oberschelp, Braunschweig 1973, ISBN 3-548-03532-9
+
+Ontological Relativity and Other Essays, New York 1969, ISBN 0-231-03307-9
+deutsch: Ontologische Relativität und andere Schriften, übersetzt von Wolfgang Spohn, Frankfurt am Main 2003, ISBN 3-465-03251-9
+
+The Web of Belief, mit J.S. Ullian, Random House, New York 1970, ISBN 0-075-53609-9
+Philosophy of Logic, 1970, ISBN 0-674-66563-5
+deutsch: Philosophie der Logik, übersetzt von Hermann Vetter, Stuttgart 1973, ISBN 3-17-001133-2
+
+The Roots of Reference, 1974, ISBN 0-8126-9101-6
+deutsch: Die Wurzeln der Referenz,, übersetzt von Hermann Vetter, Frankfurt 1976, ISBN 3-518-28364-2
+
+Theories and Things, 1981, ISBN 0-674-87926-0
+deutsch: Theorien und Dinge, übersetzt von Joachim Schulte, Frankfurt 1985, ISBN 3-518-28560-2
+
+The Time of my Life. An Autobiography, 1985, ISBN 0-262-67004-6
+Quiddities: An Intermittently Philosophical Dictionary, Cambridge, Mass. 1989, ISBN 0-674-74352-0
+Pursuit of Truth, 1990 (überarbe

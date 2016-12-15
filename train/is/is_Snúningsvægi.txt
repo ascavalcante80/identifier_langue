@@ -1,0 +1,11 @@
+Snúningsvægi eða vægi (stundum kallað móment) er tilhneiging krafts, sem verkar á hlut, að snúa honum um snúningsás, oft táknað með τ. SI-mælieining: N m = kg m2 s-2.
+Snúningsvægi getur einnig verkað á hlut, sem eru kyrr, en þá gildir að summa allra snúningsvægja, sem á hlutinn verka, er núll.
+Skilgreining á snúningsvægi :
+
+þar sem
+ er Vigur snúningsarms (frá snúningás að átakspunkti krafts),
+ er krafturinn.
+Einnig má reikna snúningsvægi, sem tímaafleiðu hverfiþungans:
+
+þar sem L er hverfiþungi.
+Greinilegt er að hverfinþungi varðveitist (L = fasti) þegar ytra

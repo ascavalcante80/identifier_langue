@@ -1,0 +1,71 @@
+XML (Extensible Markup Language) on tietynlaisten merkintäkielien yläkäsite tai standardi, jolla tiedon merkitys on kuvattavissa tiedon sekaan. XML-kieliä käytetään sekä formaattina tiedonvälitykseen järjestelmien välillä että formaattina dokumenttien tallentamiseen. XML-kieli on rakenteellinen kuvauskieli, joka auttaa jäsentämään laajoja tietomassoja selkeämmin. XML:n kehittäjä on World Wide Web Consortium.
+XML-dokumenttien käsittelyyn on tarjolla paljon erilaisia työkaluja. Nämä työkalut toimivat samalla tavalla riippumatta siitä, kuvaako XML-dokumentti WWW-sivua vai muita tietoja.
+XML on tekstimuotoista ja muistuttaa HTML-kieltä, jolla WWW-sivut kirjoitetaan, ja ne kummatkin ovat SGML-kielen yksinkertaistettuja osajoukkoja. XML ei kuitenkaan ole tarkoitettu sivunkuvauskieleksi kuten HTML, vaan se on metakieli, jolla kuvataan tiedon rakenne ilman ennalta määrättyjä koodeja. XML-kielellä voi muodostaa uusia koodeja, joiden avulla voidaan luoda dokumentteja hyvinkin erilaisiin ja erityisiin tarkoituksiin. XHTML on HTML-kielen versio, joka on siivottu puhtaaksi XML-kieleksi.
+
+
+== XML-dokumentin ulkoasu ==
+XML-dokumentti on tekstiä; tavallisesti UTF-8-koodattua. Standardi vaatii XML-jäsentimiä tukemaan Unicoden UTF-8- ja UTF-16-koodauksia. Jäsennin saattaa tukea muitakin koodauksia, esimerkiksi ISO 8859-1:aa.
+
+
+=== Prologi ===
+XML-dokumentti voi alkaa prologilla, joka sisältää XML-version, sekä mahdollisesti dokumentin koodauksen ja tiedon voidaanko mahdollisesti jäljempänä viitattu DTD jättää lukematta. Prologia ei saa dokumentissa edeltää yhtään merkkiä muuta sisältöä.
+
+
+=== DOCTYPE ===
+DOCTYPE-määrityksellä dokumentille voidaan määrittää DTD (Document Type Definition), esimerkkinä XHTML-dokumentin DOCTYPE-määrittely:
+
+
+=== Elementit ja attribuutit ===
+XML-dokumentin data koostuu sen sisältämästä tekstistä sekä merkinnöistä, joita ovat sisällölle rakenteen ja merkityksen antavat elementit ja elementtejä tarkentavat attribuutit. Elementtejä voi olla rajattomasti sisäkkäin tai peräkkäin, mutta ylimmällä tasolla kaikkien elementtien tulee olla yhden juurielementin lapsia. Elementti kuvataan alku- ja loppumerkinnöillä eli tageilla:
+
+Tyhjä elementti, voidaan merkitä joko alku- ja loppumerkinnällä, joiden välissä ei ole sisältöä tai lyhennetyllä merkintätavalla:
+
+Isot ja pienet kirjaimet katsotaan elementtien nimissä eri merkeiksi. Esimerkiksi <Esimerkki> ja </Esimerkki> muodostavat oikein muotoillun parin, kun taas <Esimerkki> ja </esimerkki> eivät näin tee.
+Attribuutit ovat avain–arvo-pareja, joten tietyn niminen attribuutti voi esiintyä samassa alkutagissa vain yhden kerran eikä niiden järjestyksellä ole merkitystä.
+
+
+=== Nimiavaruusmäärittelyt ===
+Elementtien aloitusmerkinnät voivat sisältää attribuuttien tapaan myös nimiavaruusmäärittelyjä. Niillä voidaan erottaa muuten saman nimiset elementit (tai attribuutit) eri nimiavaruuksiin, jolloin eri XML-dokumentteja yhdisteltäessä vältytään tahattomilta nimien yhteentörmäyksiltä. Nimiavaruusmäärittely voi luoda joko oletusnimiavaruuden tai nimiavaruusetuliitteen. Yksikäsitteisyyden varmistamiseksi nimiavaruuden arvo on muodoltaan URI. Esimerkki SVG-dokumentista, jossa määritellään SVG:n oletusnimiavaruus ja etuliitteen avulla käytettävä XLink-nimiavaruus:
+
+Esimerkissä elementit <svg> ja <a> kuuluvat SVG-nimiavaruuteen, kun taas attribuutti href kuuluu XLink-nimiavaruuteen, sillä nimen edessä on nimiavaruutta vastaava etuliite kaksoispisteellä : erotettuna.
+
+
+=== Kommentit ===
+XML-dokumentti voi elementtimerkintöjen ulkopuolella sisältää kommentteja. Kukin kommentti erotetaan muusta tekstistä <!-- ja --> merkintöjen väliin:
+
+Kommentti ei SGML-yhteensopivuuden vuoksi saa sisältää -- merkkijonoa ja se päättyy ensimmäiseen --> merkintään. Tästä syystä kommentit eivät voi olla sisäkkäin. Kommenttia ei voi asettaa alku- tai lopputagin sisään vaan se pitää olla tagien välissä tai niiden ulkopuolella.
+
+
+=== Käsittelyohjeet ===
+Käsittelyohjeet ovat pyyntöjä XML-käsittelijälle ohjata suoritus toiselle ohjelmalle, yleisenä esimerkkinä on tiedostoon liitetyn XSLT-dokumenttiin viittaminen:
+
+XML-prologi ei samannäköisestä ulkoasustaan huolimatta ole käsittelyohje.
+
+
+== XML-dokumentin oikeellisuus ==
+XML:n oikeellisuudelle on kaksi määritelmää
+hyvin muodostettu (Well-formed) dokumentti täyttää kaikki syntaksisäännöt
+kelvollinen eli validi (Valid), jolloin XML-dokumentin rakenne ja sisältö on jonkin dokumenttityypin määritysten mukainen.
+Jotta dokumenttia voidaan pitää hyvin muodostettuna, sen täytyy täyttää vähintään seuraavat vaatimukset:
+Dokumentti sisältää vain sallittuja ja oikein koodattuja Unicode-merkkejä
+Merkkejä < ja & käytetään vain niiden ollessa osana merkintäkoodia.
+Dokumentissa on tasan yksi juurielementti.
+Ei-tyhjillä elementeillä on aina sekä alku- että loppumerkki, joiden nimi vastaa toistaan täsmälleen. Tyhjille elementeille voidaan käyttää lyhennettyä merkintätapaa.
+Elementit voivat olla sisäkkäisiä, mutta ne eivät mene ristiin toisten elementtien kanssa.
+Kaikki nimet sisältävät vain nimissä sallittuja merkkejä. Tämä koskee elementtien, attribuuttien, nimiavaruusetuliitteiden, käsittelyohjeiden kohteiden ja entiteettien nimiä.
+Jokaisen attribuutin arvo on erotettu lainausmerkkien " tai heittomerkkien ' sisään.
+Dokumentissa käytettyjen entiteettien pitää olla kelvollisesti määriteltyjä.
+Näiden vaatimusten täyttäminen on ratkaisevan tärkeää, sillä mikäli dokumentti ei ole hyvin-muodostettu, ei sitä voida käsitellä XML:nä ja jäsentimen on määritysten mukaan pakko keskeyttää prosessointi ja hylätä koko tiedosto. Tätä menettelytapaa nimitetään myös drakoniseksi virheenkäsittelyksi.
+
+
+== Määritellyn kielen kielioppisäännöt ==
+XML määrittelee usein johonkin sovellukseen käytetyn tiedon rakenteen. Tätä rakennetta usein sanotaan kieleksi. Jos kieli on määritelty jollakin XML-kuvauskielellä, XML-dokumentin kielen mukaisuus voidaan tarkastaa automaattisella työkalulla eli validaattorilla.
+XML-kuvauskieli määrittelee esimerkiksi elementit, niiden väliset suhteet ja arvojen arvoalueet.
+Yksinkertaisin kuvauskieli on DTD (Document Type Definition). Esimerkkinä DTD-määrittelystä voimme määritellä luettelon henkilöistä:
+
+Monimutkaisempia ja uudempia määrittelykieliä ovat XML-skeema ja RELAX NG. Ne ovat itsessään XML-dokumentteja. Näiden avulla voidaan esimerkiksi asettaa rajoituksia numeroiden arvoalueille.
+
+
+== Yleisiä XML-työkaluja ==
+XML-kielet kuvaavat dokumentin loogista rakennetta, eivät niiden esittämistä. Niinpä samasta XML-dokumentista voidaankin luoda useita erilaisia esityksiä. Samasta varastotilanteen kuvaavasta XML-tiedosta voidaan tuottaa esimerkiksi sekä varastotilanteen kuvaavat WWW-sivut että tulostettavat rahtikirjat.
+Yksi ratkaisu XML-sivujen muuntamiseen erilaisiin tulostusformaatteihin on HTML:n kanssa usein käytetty CSS. CSS ei kuitenkaan itse ole XML:n mukainen kieli. Mikäli XML-dokumentin pohjalta halutaan muodostaa uusi XML-tiedosto eri rakenteella, voidaan tarkoituk

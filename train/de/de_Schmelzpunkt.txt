@@ -1,0 +1,29 @@
+Als Schmelztemperatur bezeichnet man die Temperatur, bei der ein Stoff schmilzt, das heißt vom festen in den flüssigen Aggregatzustand übergeht. Die Schmelztemperatur ist abhängig vom Stoff, im Gegensatz zur Siedetemperatur aber nur sehr wenig vom Druck (Schmelzdruck). Schmelztemperatur und Druck werden zusammen als Schmelzpunkt bezeichnet, wobei dieser den Zustand eines Reinstoffes beschreibt und Teil der Schmelzkurve im Phasendiagramm des Stoffes ist. Manche Stoffe können nicht schmelzen, weil sie vorher chemisch zerfallen, und andere können bei Normalbedingungen nur sublimieren.
+Für reine chemische Elemente ist der Schmelzpunkt identisch mit dem Gefrierpunkt und bleibt während des gesamten Schmelzvorganges konstant. Durch Verunreinigungen bzw. bei Gemischen wird die Schmelztemperatur in der Regel erniedrigt (Schmelzpunkterniedrigung), außerdem kann die Temperatur während des Schmelzvorganges steigen, wodurch man es mit einem Schmelz-Bereich zu tun hat. Die Schmelzpunkterniedrigung (Kryoskopie) durch gelöste Substanzen ist ein Grund, warum Eis durch Salz geschmolzen werden kann.
+Im Unterschied zu chemischen Elementen kann es auch bei reinen chemischen Verbindungen zu Abweichungen zwischen Schmelzpunkt und Gefrierpunkt kommen. Falls die Gefrierpunktstemperatur unterhalb der Schmelzpunkttemperatur liegt, spricht man von einer thermischen Hysterese. Dies ist zum Beispiel bei reinem Wasser der Fall; ohne Nukleationskeime und unter einem Druck von 1 bar gefriert Wasser bei ca. −40 °C und schmilzt bei ca. 0 °C. Bei amorphen Werkstoffen wie z. B. Gläsern und einigen Kunststoffen spricht man von der Übergangstemperatur. Auch die Definition einer Erweichungstemperatur ist möglich.
+Die Schmelztemperatur zählt mit der Dichte, Risszähigkeit, Festigkeit, Duktilität und der Härte, zu den Werkstoffeigenschaften eines Werkstoffes.
+
+
+== DruckabhängigkeitBearbeiten ==
+Der Schmelzpunkt hängt zwar vom Druck ab, allerdings nur geringfügig: Um den Schmelzpunkt um lediglich 1 K zu ändern, muss der Druck durchschnittlich um etwa 100 bar erhöht werden. Daraus folgt, dass sich Änderungen des Atmosphärendrucks – die merkliche Änderungen des Siedepunkts bewirken können – praktisch nicht auf den Schmelzpunkt auswirken.
+Für das Schmelzen gilt wie für andere Phasenumwandlungen die Clausius-Clapeyronsche Gleichung, die in guter Näherung für das Schmelzen bei verschiedenen Drücken folgende Temperaturänderung ΔT ergibt:
+
+Dabei ist TM der Schmelzpunkt, ΔV die Volumenänderung beim Schmelzen, Δp die Differenz der betrachteten Drücke, und HM die Schmelzenthalpie. Da aber die Volumenänderungen ΔV beim Schmelzen relativ klein sind, ist auch die Druckabhängigkeit des Schmelzpunktes relativ klein. Beispielsweise ändert sich bei einer Erhöhung des Drucks um 100 Bar der Schmelzpunkt von Eis um −0,76 K – Eis schmilzt also unter Druck leichter – , während sich der Schmelzpunkt von Tetrachlorkohlenstoff um +3,7 K erhöht. Die Tatsache, dass sich der Schmelzpunkt von Eis oder beispielsweise auch von Bismut bei Druckerhöhung erniedrigt, folgt daraus, dass ihr Volumen beim Schmelzen verringert wird: Dann ist in der obigen Gleichung ΔV und ΔT negativ.
+
+
+=== AnalytikBearbeiten ===
+Die Bestimmung des Schmelzpunkts einer Substanz ist auch von großer Bedeutung in der qualitativen Analytik, einschließlich der Identitätsprüfung, da viele Substanzen über ihren Schmelzpunkt identifiziert werden können. Die Reinheit von Stoffen kann qualitativ ebenfalls über den Schmelzpunkt gemessen werden. Verunreinigungen haben niedrigere Schmelzpunkte zur Folge. Flüssige Substanzen oder solche mit niedrigem Schmelzpunkt werden dazu in leicht kristallisierende Derivate umgewandelt: Alkohole können beispielsweise durch die Messung der Schmelzpunkte ihrer Ester der 4-Nitrobenzoesäure oder der 3,5-Dinitrobenzoesäure identifiziert werden. Hierzu wird die zu analysierende Substanz in Gegenwart geringer Mengen Schwefelsäure umgesetzt. Die Schmelzpunkte dieser Derivate sind in der Regel scharf.
+Die Derivate der 3,5-Dinitrobenzoesäure besitzen in der Regel höhere Schmelzpunkte als die der 4-Nitrobenzoesäure. Sie werden dann bevorzugt gewählt, wenn der Schmelzpunkt mit der 4-Nitrobenzoesäure zu niedrig ist und keine genaue Bestimmung mehr möglich wird.
+Umfangreiche Tabellenwerke mit Angaben zu Schmelzpunkten organischer Verbindungen, als wichtige Hilfsmittel für Analytiker, liegen vor. Schmelzpunkte von Derivaten einzelner Stoffklassen werden in den einschlägigen Lehrbüchern der organischen Analytik gelistet.
+
+
+== BestimmungBearbeiten ==
+Eine ungefähre Messung ist natürlich einfach mit einem Thermometer durch Aufschmelzen der Probe und Ablesen der Schmelztemperatur möglich.
+Für die exakte Messung des Schmelzpunktes stehen unterschiedliche Methoden zur Verfügung:
+Apparatur nach Thiele, bei der die Probe in einem gerührten oder durch Konvektion strömenden Ölbad geschmolzen wird
+Apparatur nach DAB, mit Normschliff 29/32, bestehend aus Kolben von ca. 100 ml und Einsatzrohr mit Entlüftungsloch
+Apparatur nach Dr. C. F. Linström (oft fälschlich auch Lindström geschrieben), hierbei wird die Probe in einem Kupferblock bis zum Schmelzpunkt erwärmt
+Heiztischapparatur nach Kofler (siehe auch Kofler-Heizbank), Tottoli
+Dynamische Differenzkalorimetrie (DSC)
+
+Meist werden die Messwerte damit gekennzeichnet, dass sie nicht korrigiert sind. Diese Ang

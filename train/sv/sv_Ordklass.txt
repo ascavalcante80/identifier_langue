@@ -1,0 +1,12 @@
+En ordklass är en grupp av ord som delar ett antal grammatiska särdrag, vilka är relevanta för språket i fråga. Hur många och vilka ordklasser som används inom ett givet språk varierar i hög grad.
+Det finns många olika sätt att bestämma vilken ordklass ett ord tillhör. Dels kan man kategorisera ord efter deras betydelse (semantik), dels efter hur ordet böjs eller sammanfogas med andra ord (morfologi), och slutligen efter hur ordet används i en sats (syntax). Vanligen måste man använda sig av alla dessa kategoriseringsmetoder samtidigt.
+Ordklasser brukar indelas in öppna och slutna klasser, där de öppna klasserna lätt kan utökas med nya medlemmar, medan de slutna klasserna endast undantagsvis får fler medlemmar. Exempel på öppna ordklasser är substantiv, adjektiv och verb. Exempel på slutna ordklasser, vilka ibland beskrivs som uppräkningsbara, är pronomen, artiklar och prepositioner.
+
+
+== Svenskans ordklasser ==
+Vilka ordklasser som finns i svenskan och hur de ska definieras, vilken vikt som bör läggas vid vilka kriterier och så vidare, varierar beroende på vem man frågar. Vissa räknar till exempel verbens participformer till verben, andra till adjektiven, medan ytterligare några föredrar att placera dem i en egen ordklass. Vanligtvis brukar man dock säga att ordklasser behandlar orden i sin enskildhet, medan satslösningen analyserar ordens roll utifrån det sammanhang de befinner sig i.
+
+
+== Historik ==
+Ordens klassificering går i stort sett tillbaka till antika grekiska grammatiker. Adjektiven infördes dock som en särskild grupp först under medeltiden - greker och romare hade inte skilt mellan adjektiv och substantiv, eftersom de böjdes likadant.
+Olika språk har olika ordklasser. Sålunda brukar de 

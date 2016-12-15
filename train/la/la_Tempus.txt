@@ -1,0 +1,60 @@
+Tempus (-oris, n.) nuncupatur et eventuum durationum mensura et continuum abstractum in quo ipsi eventus accidunt, quod tribus partibus temporum praeteriti, praesentis, et futuri successione rationali ordinatis constat.
+Physici quidem strictiore sensu tempus definiunt sicut quantitatem unius dimensionis adhibita ad eventus in seriem definitam ordinandos, ut durationes eventuum eorumque intervalla enumerentur, et ut enumerentur scianturque motus rerum aliarumque mutationum. Temporis mensurae unitas in Systemate Internationali (seu S.I.) definita secundum est littera s abbreviatum.
+Tempus antiquitus intellegitur dimensio esse in qua eventa ordinantur, ut quodam modo futura a praeteritis discernantur. Quia autem physicae scientia exactam temporis definitionem requirit, temporis definitio novis theoriis excogitatis mutata est. Cum vulgus horologium parvum satis habet ad temporis mensuram, physici atomicis horologiis saepe utuntur, non solum quia atomica horologia optima sunt, sed etiam quia tempus atomicis transitionibus definitur.
+Tempus saepe indicatur per s (secunda), min (minuta), h (horas), d (dies), a (annos).
+
+
+== Historia ==
+Constat philosophos Graecos de temporis natura valde cogitasse. Paradoxum Zenonis est praeclarissimum exemplum quod tempus semper exspectationem hominum movit.
+Newtoni temporibus, scientia tempus nondum accurate definiebat, sicut in scholio primo libri a Newtono scripti Philosophiae naturalis principia mathematica[1] (pg. 5 editionis primae, 1687) legitur:
+Nam tempus, spatium, locum et motum ut omnibus notissima non definio.
+Nihilominus sententiis sequentis Newtonus has observationes facit:
+Dicam tamen quod vulgus quantitates hasce non aliter quam ex relatione ad sensibilia concipit. Et inde oriuntur praejudicia quaedam, quibus tollendis convenit easdem in absolutas & relativas, veras & apparentes, Mathematicas et vulgares distingui.
+Tunc, praeclarissima sententia tempus absolutum statuens, quae anno 1905 ab Einstein abrogata est, sequitur:
+I. Tempus absolutum verum & Mathematicum, in se & natura sua absq; relatione ad externum quodvis, aequabiliter fluit, alioq; nomine dicitur Duratio; relativum apparens & vulgare est sensibilis & externa quaevis Durationis per motum mensura, (seu accurata seu inaequabilis) qua vulgus vice veri temporis utitur; ut Hora, Dies, Mensis, Annus.
+Hanc temporis definitionem esse veram omnibus usque ad annum 1905 videbatur. Einstein autem, de celeritate luminis cogitante, tempus (etiam spatium) non esse absolutum sed relativum recte intellexit. Sic, post nimis computationes, theoriam relativitatis specialis solum instituit, quae spatii temporisque comprehensionem secundum scientiam physicam valde mutavit. Theoria relativitatis generalis eius, anno 1915 excogitata, connectionem inter tempus spatiumque et de relativa eorum natura plura patefecit. Ut a multis experimentiis iampridem comprobatur, theoriae relativitatis praecepta circa temporis spatiique naturam veritates sunt, nullum experimentum unquam ad relativitatis theoriam non obtemperavit, atque exempla sunt multa quod tempus est relativus.
+
+
+== Tempus secundum relativitatis theoriam ==
+
+
+=== Relativitas specialis ===
+Secundum Relativitatis Specialis theoriam, temporis definitio ex simultaneitatis concepto originem habet. Non unum tempus absolutum est, quemadmodum Newtonus cogitavit, quia constantia celeritatis luminis obtemperata, tempus ex inertialibus referentialibus pendet, sicut ab Einstein anno 1905 demonstratus est. Duo autem homines dissimiles velocitates habentes unus cum alio non consentiunt circa temporis durationem. Manifestum est hanc affirmationem esse contrariam ei qua a Newtono scripta est, sicut in Principia (p. 7) legitur:
+Accelerari & retardari possunt motus omnes, sed fluxus Temporis absoluti mutari nequit. Eadem est duratio seu perseverantia existentiae rerum, sive motus sint celeres, sive tardi, sive nulli.
+Mathematicas aequationes usum faciendo, temporis durationem ex duobus hominibus mensuratam non eandem esse expedite comprobare possumus, si velocitates quibus illi se movent dissimiles sint. Facilior intelligendae causa, sit  temporis duratio sive intervallum quam Carolus, qui nullam velocitatem habet, horologio suo metitur (hoc tempus est saepe a physicis vocatum tempus proprium). Si autem Iosephus velocitatem  habet (secundum Caroli referentialem) sequitur ut intervallum  ab Iosepho mensuratum est,
+
+unde c celeritatem luminis denotat. Ex quo sequitur ut tempus ab Iosepho mensuratus minor quam Caroli tempus est. Hoc est praeclarissimus temporis dilatatio effectus, qui usque ad hodie vulgi comprehensionem excitat.
+
+
+=== Relativitas generalis ===
+Einstein anno 1915, quando relativitatis generalis theoriam excogitavit, temporis comprehensionem rursus mutavit. Non solum spectatoris relativa velocitas temporis fluxum mutat sed etiam acceleratio. Rustice relativitas generalis afirmat quod accelerans spectator minus senescit quam maior est eius acceleratio. Deinde, post accelerationem cum campo gravitationalis identificare (Equivalentiae Principium), temporis fluxum prope massiva corpora esse lentior recte conclusit.
+Sit, exempli gratia, spectator super planetam sphericum radium r atque massam M habentem. Hic spectator temporis intervallum  metitur. Si  temporis durationem mensuratam a maxime distante homine (i.e. ) denotat tunc mathematice sequitur quod inter eas relatio est
+
+unde  est Newtoni constans.
+
+
+== Vide etiam ==
+
+
+== Notae ==
+
+
+== Fontes ==
+^ Isaacus Newtonus, Philosophiae Naturalis Principia Mathematica, editio prima, 1687
+Philosophiae naturalis principia mathematica (omne opus in forma .pdf)
+Tempus apud "Open Directory"
+Regium Observatorium et historia astronomiae: John Harrison et quaestio longitudinis
+
+
+=== Perceptio temporis ===
+Studia de perceptione temporis apud Universitatem Mancuniensem
+
+
+=== Physica ===
+Ambulatio per tempus
+Septem Res Tibi Necesse Est Scire De Tempore
+
+
+=== Philosophia ===
+Philosophia orientalis
+Sche

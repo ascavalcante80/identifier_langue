@@ -1,0 +1,64 @@
+Em Química, solução é o nome dado a dispersões cujo tamanho das moléculas dispersas é menor que 1 nanometro (10 Angstrons). A solução ainda pode ser caracterizada por formar um sistema homogêneo (a olho nu e ao microscópio), por ser impossível separar o disperso do dispersante por processos físicos.
+As soluções são compostas por moléculas ou íons comuns. Podem envolver sólidos, líquidos ou gases como dispersantes (chamados de solventes – existentes em maior quantidade na solução) e como dispersos (solutos). A solução também pode apresentar-se nesses três estados da matéria.
+É importante destacar que soluções gasosas são formadas apenas por solvente e soluto gasosos.
+Em farmácia, uma solução é uma forma farmacêutica líquida, caracterizada pela formação de um sistema onde todas as substâncias sólidas presentes na formulação devem estar totalmente dissolvidas em um veículo adequado. Portanto a solução deve ser líquida e transparente.
+
+
+== Classificação das soluções ==
+Quanto ao estado físico: sólidas, líquidas ou gasosas.
+Quanto à condutividade elétrica: eletrolíticas ou não eletrolíticas.
+Quanto à proporção soluto/solvente: diluída, concentrada, não-saturada, saturada e supersaturada.
+Solução saturada, concentrada, diluída e supersaturada
+Coeficiente de solubilidade é definido como a máxima quantidade de soluto que é possível dissolver de uma quantidade fixa de solvente, a determinadas temperatura e pressão.
+A saturação é uma propriedade das soluções que indica a capacidade das mesmas em suportar quantidades crescentes de solutos, mantendo-se homogêneas. Uma solução é dita insaturada se ainda tem capacidade de diluir soluto, sem precipitar excessos. A solução saturada é aquela em que o soluto chegou à quantidade máxima: qualquer adição de soluto vai ser precipitada, não-dissolvida.
+Porém, em alguns casos especiais é possível manter uma solução com quantidade de soluto acima daquela que pode ser dissolvida em condições normais. Nesse caso fala-se em solução supersaturada, que é instável: com alterações físicas mínimas a quantidade extra de soluto pode ser precipitada.
+Solução concentrada
+Quando o soluto se encontra na quantidade máxima que o solvente pode dissolver.
+Solução diluída ou insaturada (não saturada)
+Quando a quantidade de soluto usado não atinge o limite de solubilidade, ou seja, a quantidade adicionada é inferior ao coeficiente de solubilidade.
+Solução saturada
+Quando o solvente (ou dispersante) já dissolveu toda a quantidade possível de soluto (ou disperso), e toda a quantidade agora adicionada não será dissolvida e ficará no fundo do recipiente.
+Solução supersaturada
+Acontece quando o solvente e soluto estão em uma temperatura em que seu coeficiente de solubilidade (solvente) é maior, e depois a solução é resfriada ou aquecida, de modo a reduzir o coeficiente de solubilidade. Quando isso é feito de modo cuidadoso, o soluto permanece dissolvido, mas a solução se torna extremamente instável. Qualquer vibração faz precipitar a quantidade de soluto em excesso dissolvida.
+Denomina-se dissolução endotérmica aquela em que quanto maior a temperatura, maior o coeficiente de solubilidade do solvente (temperatura e solubilidade são diretamente proporcionais). Também há a dissolução exotérmica, que é o inverso da endotérmica, quanto menor a temperatura, maior o coeficiente de solubilidade do solvente (temperatura e solubilidade são inversamente proporcionais).
+
+
+== Solubilidade nos gases ==
+Os gases apresentam propriedades particulares para a solubilidade. Quando aumenta-se a pressão, a solubilidade aumenta (Lei de Henry). O mesmo não acontece quanto à temperatura. Quando aumenta-se a temperatura, diminui a solubilidade. Assim, a solubilidade é diretamente proporcional à pressão e inversamente proporcional à temperatura. Vale lembrar que essas leis são válidas para qualquer gás, mas não para substâncias em outros estados físicos, como foi mostrado acima.
+
+
+== Solubilidade na farmacotécnica ==
+
+
+== Técnicas especiais de solubilização de fármacos ==
+
+
+=== pH ===
+Grande número de fármacos usados atualmente são ácidos ou bases fracas e as dificuldades para sua solubilização podem ser influenciadas pelo pH do meio. Essas equações baseadas na lei de ação das massas, da físico-química, podem prever a dissolução de ácidos ou bases, em função do pH, com uma precisão alta. Ao solucionar o pH, no entanto outros fatores devem ser considerados. O pH ideal da solução não deve ser mais importante que os requisitos de estabilidade e compatibilidade fisiológicos da formulação.
+Quando houver necessidade de ajuste do pH, usar um alcalinizante ou acidificante, ou seja, fazer o tamponamento do sistema.
+
+
+==== Escolha do tampão ====
+A escolha do tampão adequado deve estar de acordo com os seguintes critérios:
+deve ter a capacidade desejada na faixa de pH adequados.
+deve ser atóxico.
+não deve interferir na estabilidade do produto.
+deve permitir sabor e coloração aceitáveis.
+
+
+=== Cossolvente ===
+Os eletrólitos fracos e as moléculas pouco polares apresentam normalmente pouca solubilidade em água. Essa pode ser aumentada pela adição de outro solvente que seja solúvel em água (etanol, sorbitol, propilenoglicol, PEG, etc.).
+
+
+=== Solubilização ===
+É a passagem de moléculas de um soluto, espontaneamente para uma solução contendo um tensoativo,detergente. O mecanismo resultante tem a ver com a possibilidade das moléculas do soluto serem solubilizadas ou adsorvidas em estruturas denominadas micelas, formadas após a adição gradativa e continuada do tensoativo no sistema.
+
+
+=== Complexação ===
+Compostos orgânicos em solução tendem a se unir formando complexos de maneira natural. A dissolução de determinado soluto pode ser adequadamente aumentada pela adição de um agente complexante. Com isto o soluto pode ser completamente dissolvido. No entanto deve ser analisado se o complexo resultante não irá afetar a eficácia e a segurança terapêutica.
+
+
+=== Modificação química ===
+Muitas formulações pouco solúveis em água podem ser modificadas quimicamente. Um exemplo é a betametasona, um corticosteróide, modificado quimicamente.
+Betametasona - solubilidade 5,8 mg/100 mL a 25 °C
+Éster-21 de Betametasona fosfato dissódico - sol

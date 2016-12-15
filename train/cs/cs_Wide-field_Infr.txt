@@ -1,0 +1,14 @@
+Wide-field Infrared Survey Explorer (WISE) je infračervený kosmický teleskop provozovaný americkým Úřadem pro letectví a kosmonautiku. Mise WISE odstartovala ze základny Vandenberg 14. prosince 2009 ve 14:09 UTC. Na oběžnou dráhu byla družice dopravena nosnou raketou Delta II model 7320-10. Úkolem mise bude pořizovat snímky celé oblohy po dobu šesti měsíců. Snímky budou pořizovány ve spektru vlnových délek od 3 do 25 μm. Teleskop sondy WISE je přibližně tisíckrát citlivější než předchozí teleskopy pro pozorování oblohy, jakými byly IRAS, AKARI a COBE. Po dobu trvání mise bude pořízeno přibližně 1,5 milionu snímků. Pozorovány budou objekty sluneční soustavy jako jsou asteroidy, objekty naší galaxie jako jsou chladné tmavé hvězdy zvané hnědí trpaslíci a vzdálené galaxie.
+
+
+== Popis ==
+Sonda byla postavena společností Ball Aerospace a je postavena na architektuře Ball Aerospace RS-300, která byla ověřena při misi technologického demonstrátoru Orbital Express. Těleso je na oběžné dráze stabilizováno ve třech osách. Dodávku elektrické energie zajišťují solární panely, připevněné k trupu. Komunikaci s řídícím střediskem zajišťuje vysoko—zisková anténa, pracující v pásmu Ku. Data jsou přenášena pomocí sítě geostacionárních komunikačních družic Tracking and Data Relay Satellite System. Chlazení teleskopu bylo navrženo a postaveno společností Lockheed Martin a je realizováno pomocí nádoby zvané cryostat, která je naplněna vodíkem v pevném skupenství. Teplota je udržována na 15 kelvinech.
+
+
+== Vědecké úkoly ==
+Sonda WISE je schopna sledovat oblohu ve čtyřech vlnových délkách infračervené části elektromagnetického spektra. Detektory mají mez citlivosti 120, 160, 650, a 2600 µJy pro vlnové délky 3,3, 4,7, 12, a 23 mikronů.
+Pásmo 1 - 3,4 μm—Snímkování hvězd a galaxií.
+Pásmo 2 - 4,6 μm—Snímání tepelného vyzařování z vnitřních zdrojů tepla, objekty menší než hvězdy, např. hnědí trpaslíci.
+Pásmo 3 - 12 μm—Detekce tepelného vyzařování asteroidů.
+Pásmo 4 - 22 μm—Detekce prachu v oblastech formování nových hvězd (materiál s teplotou 70—100 K).
+Primární mise bude trvat deset měsíců. Během prvního měsíce budou prováděny testy palubních systémů, dalších šest měsíců bude probíhat samotné snímkování a další tři měsíce bude probíhat dodatečné pozoro

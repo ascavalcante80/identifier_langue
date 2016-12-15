@@ -1,0 +1,97 @@
+Farsími er lítill þráðlaus handsími. Farsímar notast við farsímakerfi sem er ein tegund þráðlauss og langdrægs símkerfis. Orðið farsími á yfirleitt við símtæki notenda, en þau er ekki mögulegt að nota án farsímakerfis á borð við GSM. Orðið þráðlaus sími á oftast við þráðlausan heimasíma ásamt móðurstöð, sem er skammdrægt símtæki.
+Helsti tilgangur farsíma er að hringja og senda smáskilaboð (SMS). Auk þessarar grunnvirkni gera nútímafarsímar manni kleift að gera margt fleira, til dæmis vafra á netinu, taka myndir, taka upp myndbönd, hlusta á tónlist, horfa á sjónvarpsefni og kvikmyndir, spila tölvuleiki og greiða fyrir vörur. Farsímar sem bjóða upp á slíka möguleika eru oft kallaðir snjallsímar. Slíkir símar eru oft með snertiskjá og/eða lyklaborð, hraðari örgjörva og meira geymluspláss fyrir margmiðlunarefni og öpp.
+
+
+== Saga ==
+
+Farsímar voru um langt skeið einn af draumum fjarskiptaverkfræðinga. Árið 1959 skrifaði Arthur C. Clarke ritgerð sem innihélt líflegan og að mörgu leyti nákvæman spádóm um farsíma, þar sem hann sá fyrir sér „persónulegt senditæki, svo lítið og þétt að hver maður gengur með það.“ Hann skrifaði „sá tími mun koma að við getum hringt í einstakling hvar sem er á jörðinni með því einu að velja símanúmer.“ Samkvæmt draumórum Clarkes myndi slíkt tæki líka geta fundið staðsetningu einstaklings þannig að „enginn myndi týnast að óþörfu“. Seinna spáði hann í ritgerðinni Profiles of the Future að tilkoma þessa tækis væri á miðjum níunda áratugnum.
+Meðal forvera farsímans voru hliðræn útvarpstæki notuð í skipum og járnbrautarlestum. Kapphlaup til að kynna til sögunnar eiginlega farsíma hófst í alvöru eftir seinni heimsstyrjöldina og þróunin átti sér stað í mörgum löndum. Framförum í farsímatækni má skipta í nokkrar kynslóðir, en elstu kerfin teljast til 0G (núllkynslóðarinnar). Sem dæmi um slík kerfi má nefna Mobile Telephone Service frá Bell System og arftaka þess, Improved Mobile Telephone Service. Þessi 0G-kerfi voru mjög dýr og gátu ekki flutt mörg símtöl í einu. Þau voru ekki heldur byggð á „sellum“ (sjá farsímakerfi).
+Bandaríska fyrirtækið Motorola sýndi fyrsta handfarsímann árið 1973. Fyrsta sjálfvirka farsímanetið var opnað í Japan árið 1979 af NTT. Í kjölfar þess var Norræna farsímakerfinu (NMT) hleypt af stokkunum í Danmörku, Finnlandi, Noregi og Svíþjóð. Fleiri farsímanet voru síðan opnuð í öðrum löndum á miðjum níunda áratugnum. Þessi 1G (fyrstu kynslóðar)-kerfi gátu flutt miklu fleiri símtöl en 0G-kerfin en byggðu samt enn á hliðrænni tækni.
+Árið 1991 var fyrsta stafræna farsímanetið opnað í Finnlandi af Radiolinja. Þetta 2G-kerfi var byggt á GSM-staðlinum og var kveikjan að mikilli samkeppni á þessu sviði. Póstur og sími opnaði fyrsta GSM-netið á Íslandi þann 16. ágúst 1994. Tíu árum síðar var 3G-farsímakerfi byggt á WCDMA-staðlinum ræst í Japan af NTT DoCoMo. Fyrsta 3G-þjónustan á Íslandi fór í loftið þann 3. september 2007 á vegum Símans. Alþjóðlegri 3G-væðingu símneta fylgdu framfarir eins og 3.5G eða 3G+ sem byggðu á HSPA-tækni. Bættur gagnahraði og afkastageta neta sem byggðu á UMTS-kerfinu kom í kjölfar þessara framfara.
+Fyrir 2009 var orðið ljóst að 3G-net yrðu ofhlaðin á einhverjum tímapunkti í framtíðinni vegna aukinna vinsælda bandvíddafrekrar þjónustu. Vegna þessa fóru farsímafyrirtæki að horfa til þróunar 4G-tækni sem ætlað er að flytja mikið gagnamagn. 4G-kerfi eru allt að tíu sinnum hraðari en 3G-kerfi. Fyrstu 4G-staðlarnir sem komu á markað voru WiMAX (í boði hjá Sprint í Bandaríkjunum) og LTE sem TeliaSonera bauð upp á fyrst í Skandinavíu. Þessi kynslóð farsímatækni kom til Íslands þann 1. ágúst 2013 þegar Nova hleypti 4G-netinu sínu af stokkunum.
+
+
+== Möguleikar ==
+
+Allir farsímar bjóða upp á nokkra sameiginlega möguleika, en framleiðendur reyna að greina vörur sínar frá öðrum á markaðnum með því að bæta við möguleikum. Þessi þróun hefur leitt til mikillar nýsköpunar á farsímasviðinu undanfarin 20 ár.
+Helstu eiginleikar farsíma eru:
+rafhlaða, straumveita símans
+einhvers konar inntakstæki sem gerir notandanum kleift að stjórna símanum: til dæmis talnaborð á takkasímum og snertiskjár á snjallsímum
+skjár sem sýnir innslátt notandans, skilaboð, tengiliði og fleira
+farsímaþjónusta sem gerir manni kleift að hringja og senda skilaboð
+allir GSM-símar eru með SIM-kort sem hægt er að flytja á milli tækja (sumir símar sem byggja á CDMA-staðlinum eru með svipað kort sem heitir R-UIM)
+IMEI-númer sem auðkennir símann
+
+
+=== Smáskilaboð ===
+
+Mest notaði möguleikinn í farsímum (fyrir utan símtöl) eru smáskilaboð eða SMS. Fyrstu smáskilaboðin voru send frá tölvu til farsíma árið 1992 á Bretlandi, en fyrstu smáskilaboðin frá einum síma til annars voru send í Finnlandi árið 1993.
+Fyrstu farsímafréttaþjónustunni var hleypt af stokkunum í Finnlandi árið 2000 en hún var send út með smáskilaboðum. Í kjölfar þess komu mörg fyrirtæki sér upp svipaðri þjónustu.
+
+
+=== SIM-kort ===
+
+GSM-símar krefjast lítillar samrásar sem heitir SIM-kort þannig að notandinn geti hringt og sent skilaboð. SIM-kortið er svipað frímerki að stærð og í flestum símum er það sett undir rafhlöðuna á bakhlið tækisins. Á SIM-kortinu er IMSI-númerið geymt á öruggan hátt ásamt lykli sem auðkennir notandann. SIM-kortið gerir notendum kleift að skipta á farsíma með því að taka kortið úr einum síma og að setja það í annan. SIM-kort eru líka notuð í spjaldtölvum og netpungum sem nota farsímakerfið til gagnaflutninga.
+
+
+=== Símar sem styður við marga staðla ===
+Sumir farsímar styðja bæði GSM- og CDMA-kerfi. Slíkir farsímar geta tekið bæði SIM-kort og R-UIM-kort, allt að fjögur í einu.
+Frá 2010 höfðu slíkir farsímar verið vinsælir í Indlandi, Indónesíu og öðrum nýmörkuðum þar sem þeir svöruðu eftirspurn eftir lægri rekstrarkostnaði. Á þriðja ársfjórðungi ársins 2011 seldi Nokia 18 milljónir farsíma með tveimur SIM-kortshólfum sem tilraun til að bæta upp tapið á snjallsímamarkaðnum.
+
+
+=== Símar í samræmi við trúarlegar hefðir gyðinga ===
+Í dag uppfylla margir farsímar ekki kröfur sanntrúaðra gyðinga um hógværð. Til að svara þessari eftirspurn þarf farsíma án aðgangs að netinu, smáskilaboða eða myndavéla. Þessir „kosher“-farsímar eru samþykktir af rabbínum fyrir notkun í Ísrael og annars staðar í heiminum. Sumir eru jafnvel samþykktir fyrir notkun á sabbatsdögum fyrir þá sem vinna í heilsugæslu, öryggisgæslu eða annarri almannaþjónustu, þrátt fyrir að bannað sé að nota raftæki á sabbatsdögum.
+
+
+== Farsímanet ==
+
+Sjá líka: Farsímakerfi
+Heimsins stærsta farsímanet eftir notendum er China Mobile með yfir 500 milljón áskrifendur. Yfir 50 farsímafyrirtæki eru með yfir 10 milljón áskrifendur en yfir 150 farsímafyrirtæki eru með að minnsta kosti milljón áskrifendur frá og með árslokum 2009. Í febrúar 2010 voru farsímaáskrifendur orðnir yfir sex milljarðar og búist er við að þeim haldi áfram að fjölga.
+Á Íslandi er mikil farsímavæðing en 330 þúsund farsímar voru í notkun hérlendis frá og með 2009. Um það bil 66% Íslendinga eiga snjallsíma samkvæmt könnun MMR. Í dag reka ýmis fyrirtæki farsímanet á Íslandi, svo sem Síminn, Vodafone, Nova, Tal, Alterna og Hringdu.
+
+
+== Framleiðendur ==
+Fyrir árið 2010 var Nokia leiðandi á farsímamarknaðnum en frá þeim tíma hefur samkeppni frá öðrum framleiðendum vaxið mikið. Í Asíu tóku fyrirtæki eins og Micromax, Nexian og i-Mobile yfir markaðshlutdeild Nokia smám saman. Farsímar sem keyra Android-stýrikerfið höfðu líka áhrif á markaðshlutdeild Nokia í þessum heimshluta. Í Indlandi féll markaðshlutdeild Nokia í 31% úr 56% á þessu tímabili. Kínverskir og indverskir framleiðendur ódýrra farsíma tóku bróðurpart viðskiptavina Nokia.
+Á fyrsta ársfjórðungi 2012 tók Samsung yfir stöðu Nokia sem stærsti framleiðandi farsíma en það seldi 93,5 milljón eintök það ár, meðan Nokia seldi 82,7 milljón eintök. Sama ár lækkaði Standard & Poor's lánshæfismat Nokia í BB+/B með neikvæðum horfum vegna mikils taps og slæmrar sölu á Lumia-snjallsímum, sem nægðu ekki til að bæta upp samdrátt í tekjum af farsímum byggðum á Symbian-stýrikerfinu. Árið 2013 festi Microsoft kaup á farsímadeild Nokia.
+Athugasemd: Tölurnar byggjast eingöngu á sölum undir eigin vörumerki fyrirtækis
+
+
+== Notkun ==
+
+Farsímar eru notaðir í ýmsum tilgangi, til dæmis til að hafa samband við fjölskyldu og vini, stunda viðskipti og í neyðartilvikum. Sumir eiga fleiri en einn farsíma fyrir ólíka notkun, til dæmis fyrir persónuleg not eða vegna atvinnu. Hægt er að nota fleira en eitt SIM-kort til að borga sem minnst fyrir símaþjónustuna; til dæmis gæti eitt SIM-kort boðið upp á ódýrari símtöl innanlands og annað ódýrari símtöl utanlands, í staðinn fyrir að nota SIM-kort á reiki erlendis. Farsíminn hefur verið notaður í ýmsu samhengi í samfélaginu:
+Motorola framkvæmdi könnun sem sýndi að einn tíundi farsímanotenda eru með annan farsíma sem þeir segja engum frá. Þessi símar eru notaðir meðal annars við framhjáhald og til að gera leynilega viðskiptasamninga.
+Sum samtök hjálpa fórnalömbum heimilisofbeldis með því að gefa þeim farsíma fyrir neyðartilvik. Oft eru það endurnýttir símar.
+Tilkoma smáskilaboða hefur leitt til farsímsaskáldsögunnar; þetta er fyrsta bókmenntagreinin sem er orðin til á farsímaöldinni úr smáskilaboðum sem er safnað og sett saman á vefsíðu.
+Farsímar auðvelda aðgerðastefnu og almannablaðamennsku.
+Sameinuðu þjóðirnar hafa greint frá því að farsímar hafa breiðst hraðar út en öll önnur tækni og getur bætt lífskjör fátækasta fólksins í þróunarlöndum með því að veita þeim aðgang að upplýsingum á stöðum þar sem heimasímar eða netþjónusta eru ekki í boði. Notkun á farsímum skapar mikla vinnu, til dæmis við að selja SIM-kort og síma eða gera við þá.
+Í Malí og öðrum Afríkulöndum fór fólk til næsta þorps til að segja fjölskyldunni sinni frá brúðkaupum, fæðingu og slíku en þetta er orðið óþarft í dag þar sem farsímanet eru til.
+Sjónvarpsiðnaðurinn hefur byrjað að nota farsíma til að auka áhorf með öppum, auglýsingum og fleira. 86% Bandaríkjamanna nota farsímann sinn til að horfa á sjónvarpið.
+Í sumum heimshlutum er algengt að deila einum farsíma. Þetta er útbreitt í indverskum borgum þar sem fjölskyldur og vinir deila einum eða fleiri farsímum sín á milli. Algengt er að þorp hefur aðgang að aðeins einum farsíma, kannski í eigu kennara eða trúboða, sem allir mega nota.
+
+
+=== Margmiðlun ===
+Eitt fyrsta dæmið um dreifingu og sölu margmiðlunar í gegnum farsíma var þegar finnska fyrirtækið Radiolinja hóf sölu á hringitónum árið 1998. Stuttu eftir það var annað efni í boði eins og fréttir, tölvuleikir, brandarar, stjörnuspá, sjónvarpsefni og auglýsingar. Í fyrstu var mikið af þessu efni bara afrit af því sem áður var til, til dæmis auglýsingaborðar eða yfirlit úr sjónvarpsfréttum. Undanfarin ár hefur þetta breyst smám saman og nú er mikið efni framleitt eingöngu fyrir farsíma, t.d. öpp.
+Árið 2006 náði verðmæti farsímamiðla 31 milljarður bandaríkjadala og var á þeim tíma verðmætara en netmiðlar. Árið 2007 var verðmæti tónlistarefnis í farsímum 9,3 milljarðar dollara og farsímaleikja 5 milljarðar dollara.
+
+
+=== Undir stýri ===
+
+Notkun farsíma undir stýri ökutækja er útbreidd en umdeild. Truflanir meðan á akstri stendur geta aukið áhættu á slysum. Vegna þess er bannað að nota farsíma undir stýri í mörgum löndum. Í Egyptalandi, Ísrael, Japan, Portúgal og Singapúr er bannað bæði að nota farsíma með höndunum og með handfrjálsum búnaði undir stýri. Annars staðar, meðal annars á Bretlandi, Íslandi, í Frakklandi og sumum fylkjum Bandaríkjanna, er aðeins bannað að nota símann með höndunum.
+Með aukinni tækni farsíma í dag eru þeir orðnir næstum eins og fartölvur í notkun. Þess vegna á lögreglan erfitt með að greina á milli notkunar farsíma meðan á akstri stendur. Þetta er meira áberandi í löndum þar sem er bannað bæði að nota símann í höndunum og með handfrjálsum búnaði, því ekki er auðvelt að greina hvernig verið er að nota símann með því að horfa á ökumanninn. Þar af leiðandi geta ökumenn verið stöðvaðir fyrir að nota símann ólöglega þegar þeir eru í raun og veru að nota hann löglega, til dæmis til að spila tónlist eða sem GPS-tæki.
+Rannsóknir hafa líka verið gerðar á notkun farsíma á reiðhjólum og afleiðingar hennar.
+
+
+=== Sem greiðslumáti ===
+
+Í mörgum löndum er boðið upp á netbanka í farsímum og er sums staðar er hægt að greiða reikninga með smáskilaboðum. Í Kenýa geta viðskiptavinir símafyrirtækisins Safaricom notað bankaþjónustuna M-PESA til að geyma peninga á SIM-kortunum sínum, svo dæmi sé nefnt. Hægt er að leggja peninga inn á eða taka þá út af M-PESA-reikningum í verslunum Safaricom, auk þess að millifæra peninga á milli fólks og nota þá til að borga heimilisreikninga.
+Tilraunir með greiðslur með farsímum voru fyrst gerðar í Finnlandi árið 1998 þegar tveir sjálfsalar Coca-Cola í Espoo voru útbúnir tæki til að taka á móti greiðslum með SMS. Hugmyndin hefur breiðst út um heiminn og nú er slíkan greiðslumáta að finna í mörgum löndum.
+Með sumum farsímum er hægt að greiða beint með því að snerta posa með þeim. Þessi snertilaus greiðslumáti virkar á svipaðan hátt og snjallkort, þ.e. með nærsamskiptum (NFC).
+
+
+=== Sem staðsetningarbúnaður ===
+Farsímar geta verið notaðir til að safna gögn um staðsetningu notandans. Meðan kveikt er á símanum er auðvelt að finna landfræðilega staðsetningu tækisins, hvort sem hann er í notkun eða ekki. Þetta er gert með því að reikna út muninn á tímanunum sem tekur merkið að fara frá einu loftneti í nágrenni tækisins til annars.
+Farsímafyrirtæki, lögreglan og ríkisstjórnin geta fylgst með ferðum farsímanotanda í gegnum bæði SIM-kortið og símann sjálfan.
+
+
+=== Þjófnaður ===
+Samkvæmt Fjarskiptaumboði Bandaríkjanna (FCC) er farsímaþjófnaður ei

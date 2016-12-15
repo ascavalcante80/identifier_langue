@@ -1,0 +1,20 @@
+QRpedia je mobilni sistem koji koristi QR kodove (engl. QR codes) za pristup člancima na Vikipediji na svom željenom jeziku. Kuer-kodovi se mogu lako stvoriti kako bi se direktno povezali na bilo koju URI (Uniform Resource Identifier) adresu. QRpedia je i dalje u razvoju.
+Kuerpediju je osmislio Rodžer Bamkin, predsednik Vikimedije (Velika Britanija). Predstavljena je u aprilu 2011. Danas je u upotrebi u raznim institucijama, uključujući muzeje u Velikoj Britaniji, SAD i Španiji. Izvorni kod projekta je besplatan za višekratnu upotrebu u okviru MIT- licence.
+
+
+== Korišćenje ==
+
+Kada korisnik skenira kuer-kod na svom mobilnom telefonu, telefon dekodira kuer-kod u URL (Uniform Resource Locator) adresu koristeći naziv domena „qrwp.org“ i čiju URI adresu (završni deo) koristi kao naziv članka na Vikipediji i šalje zahtev za članak naveden u URL QRpedia serveru. On takođe prenosi i jezik podešavanja uređaja.
+QRpedia server zatim koristi API Vikipedije  da utvrdi da li postoji verzija navedenog članka na jeziku koji koristi uređaj, i ako postoji, ona se vraća u mobilno pristupačnom formatu . Ako ne postoji verzija članka na željenom jeziku, QRpedia servera vrši pretragu ovog članka na Vikipediji na relevantnom jeziku i vraća rezultate.
+Na taj način, jedan kuer-kod može da ponudi isti članak na različitim jezicima , čak i kada muzej nije u stanju da pruži svoje prevode. QRpedia takođe vodi statistiku korisćenja.
+
+
+== Nastanak Kuerpedije ==
+
+Kuerpediju je osmislio Rodžer Bamkin, predsednik Vikipedije (Velika Britanija) i Terence Eden, konsultant za mobilni internet, i predstavljena 9 Aprila 2011 na prezentaciji Derbi muzeja, kao deo GLAM/Derby kolaboracije između Derbi muzeja, nacionalne galerija i Vikipedije. kada je kreirano preko 1.200 Vikipedija članaka , u velikom broju jezika.Ime projekta čini kombinovana reč QR i pedia, kombinujući inicijale QR (Quick Response) kod i pedia od Vikipedije.
+Izvorni kod projekta je besplatan za višekratnu upotrebu u okviru MIT- licence.
+
+
+== Implementacije ==
+
+Iako nastala u Velikoj Britaniji, QRpedia se može koristiti u bilo kojoj od lokacija gde postoji mobilni signal i od septembra 2011. u upotre

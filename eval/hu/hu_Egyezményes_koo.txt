@@ -1,0 +1,44 @@
+mítás figyelembevételével a polgári időt mutatják.
+Értelemszerűen az UTC időt alkalmazza a hálózati idő protokoll (Network Time Protocol, NTP), amely arra szolgál, hogy sok felhasználói számítógépet olyan szerverek rendszerórájához lehessen szinkronizálni, amik ugyanakkor atomórákhoz vannak beállítva.
+A rádióamatőrök UTC-ben rögzítik az összeköttetések adatait, mivel azok rendszerint több időzónát is áthidalnak.
+A műholdas adások a műsoraik időpontját gyakran UTC-ben adják meg, bár a korábban megszokott (és már nem szabványos) GMT jelölés is előfordul.
+UTC időt használnak a repülésben is. Az időjárás-jelentések, a repülési tervek, a légi irányítók utasításai mind UTC-t használnak, hogy el lehessen kerülni az időpontokra vonatkozó félreértéseket.
+Minthogy az UTC nem folytonos időskála, két időpont között csak a szökőmásodperceket tartalmazó táblázat használatával lehet pontosan kiszámítani az eltelt időt. Emiatt azoknál a tudományos alkalmazásoknál, ahol többéves időszakok időkülönbségére van szükség, az UTC helyett TAI-val számolnak.
+
+
+== Időzónák ==
+
+Az időzónák ideje az UTC-től többnyire egész órával különbözik, de vannak fél- és negyedórás eltérésű időzónák is. A másodperc számértéke mindenütt azonos. A téli-nyári időszámítási rendszerekben az UTC a referencia, így az UTC-t a nyári időszámítás kezdete és vége nem változtatja (szökőórát nem iktat be), de a különböző földrajzi időzónákban számolt időeltérés az UTC-hez képest évente kétszer változik. Az UTC időt bizonyos körökben a Z betűvel jelölik, mivel a hozzá tartozó tengerészeti zóna jele Z (körülbelül 1950 óta), és ez a nullás időzóna (vagyis zéró) 1920 óta. Mivel a NATO által használt fonetikus ábécében, és a rádióamatőröknél is a Z-t Zulu-nak mondják, ezért az UTC időt is így nevezik. Ennek egyszerűen az az oka, hogy a félreértéseket elkerüljék. Ez alapján az UTC+1 neve Alpha time, az UTC+2 Bravo time, …, és így tovább, de ezt a megnevezési formát csak ebben a felhasználói körben használják.
+2011 őszén Oroszország nem tért vissza a téli időszámításra, úgyhogy ezentúl a moszkvai idő UTC+3 télen/nyáron egyaránt.
+
+
+== Kapcsolódó szócikkek ==
+Efemerisz idő
+
+
+== Jegyzetek ==
+
+
+== Források ==
+Angol nyelvű folyóiratcikkek:
+ITU-R Recommendation TF.460-4: Standard-frequency and time-signal emissions. International Telecommunication Union. (Annex I of this document contains the official definition of UTC.)
+Dennis D. McCarthy: „Astronomical Time”. Proc. IEEE, Vol. 79, No. 7, July 1991, pp. 915–920.
+Nelson, McCarthy, et al.: „The leap second: its history and possible future” (381 KB PDF file), Metrologia, Vol. 38, pp. 509–529, 2001.
+David W. Allan, Neil Ashby, Clifford C. Hodge: The Science of Timekeeping. Hewlett Packard Application Note 1289, 1997.
+
+
+== További információk ==
+
+
+=== Angol nyelven ===
+Bureau International des Poids et Mesures UTC/TAI Time Server
+Hivatalos U.S. idő az oldal Java-t használ.
+World Time Server – Világidő szerver – bárhol, bármikor
+thetimeNOW – Pillanatnyi idő az összes időzónában
+United States Naval Observatory – Mi az egyezményes világidő?
+International Earth Rotation Service – szökőmásodperc információ
+W3C specifikáció az UTC dátumra és időre vonatkoztatva és IETF Internet standard RFC 3339
+Zulu idő
+Hongkongi idő a Hong Kong Observatory szerint
+Alfától Zuluig – időzónák
+Mérési bizonytalanság becslése; GUM

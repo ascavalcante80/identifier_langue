@@ -1,0 +1,68 @@
+Le moment d'une force par rapport à un point donné est une grandeur physique vectorielle traduisant l'aptitude de cette force à faire tourner un système mécanique autour de ce point, souvent appelé pivot. Il s'exprime en N·m (newton mètre). Le moment d'un ensemble de forces, et notamment d'un couple, est la somme (géométrique) des moments de ces forces.
+La projection du moment (d'une force par rapport à un point) sur un axe Δ (orienté) contenant le point s'appelle moment de la force par rapport à l'axe Δ: c'est une grandeur scalaire algébrique exprimée dans la même unité, et traduisant de même la faculté de la force appliquée à faire tourner le système mécanique autour de l'axe Δ, le signe du moment par rapport à l'axe traduisant le sens de la rotation par rapport à l'orientation choisie de l'axe.
+
+
+== Approche élémentaire : translation du point d'application d'une forceModifier ==
+
+Soit une planche en équilibre au bord d'un muret. Pour la déséquilibrer, on peut poser une charge sur la partie en porte-à-faux, au-dessus du vide. La capacité de cette charge à faire basculer la planche n'est pas la même suivant qu'elle est posée près du muret ou au bout de la planche. De même on peut, au même endroit, placer une charge plus lourde et constater une différence de basculement.
+Le « pouvoir de basculement » dépend donc de l'intensité de la force, mais également de la position relative du point d'application de la force, et du point de rotation réel ou virtuel considéré.
+On intègre ces trois composantes du problème par le modèle de moment d'une force, qui représente l'aptitude d'une force à faire tourner un système mécanique autour d'un point donné, qu'on nommera pivot.
+
+
+== Moment d'une force par rapport à un pointModifier ==
+
+
+=== DéfinitionModifier ===
+Le moment d'une force  s'exerçant au point  par rapport au pivot , est le pseudovecteur :
+.
+où  désigne le produit vectoriel.
+Remarque sur la notation
+Il existe plusieurs variantes de notation des moments de force ; certaines (comme sur l'image ci-contre) comportent des parenthèses autour du vecteur, parfois autour de l'ensemble. D'autres ajoutent même à la notation l'élément agissant et l'élément subissant l'action. Une notation plus compacte consiste à nommer la force par la même lettre que celle désignant le point d'application, ce qui rend plus rapide l'identification des cas de nullité de moments.
+Ce pseudovecteur, à la fois orthogonal à  et au bipoint , est finalement normal au plan dans lequel se déroule la rotation que peut provoquer la force (il est colinéaire à l'axe de cette rotation). Son sens donne le sens de rotation (la rotation est positive dans le plan orienté par ).
+Si  est la distance orthogonale du pivot  à la droite d'action, c’est-à-dire , alors la norme du moment vaut :
+.
+La longueur  est appelée bras de levier. Dans le cas bidimensionnel, il est d'usage d'assimiler la norme du moment au moment lui-même, celui-ci ne comportant qu'une composante non nulle.
+Les composantes et la norme d'un moment de force sont exprimées en newton-mètre (Nm), dans le système international d'unités et leurs dimensions sont  ; formellement, cette unité a la dimension d'une énergie, et pourrait donc s'exprimer comme valant 1 joule (voir l'article Couple (physique)).
+
+
+=== Cas de nullité du momentModifier ===
+Puisqu'il s'agit ensuite d'établir la somme nulle des moments, on peut naturellement s'intéresser aux cas de nullité individuelle des moments de force ; de par les propriétés du produit vectoriel :
+la force est nulle ;
+le bipoint  est . La force est donc appliquée en .
+ et  sont colinéaires ; alors la droite d'action passe par , ce qui inclut aussi le cas précédent.
+
+
+=== Translation du pivot : formule de VarignonModifier ===
+Lorsque le moment d'une force (appliquée en P) est connu en un point O, il est possible de le recalculer en n'importe quel point Q de l'espace. Cette opération est inévitable lors de la manipulation des torseurs d'actions mécaniques. Cela revient à poser une rallonge au levier . Il vient alors: , d'où la formule dite de Varignon:
+Il est souvent retenu en place de la formule de Varignon un moyen mnémotechnique, la formule « BABAR » :  avec  la force (la Résultante), B le point vers lequel on veut déplacer notre moment, et A le point d'origine.
+
+Il se déduit de cette formule la relation d'équiprojectivité des moments de force :
+.
+En réalité une force est modélisée par un vecteur (représentant la force) et son point d'application. Il est possible de représenter cette action mécanique par le couple de vecteurs force et moment en un point, qui sont les éléments de réduction du torseur d'action mécanique. La relation d'équilibre liée au principe fondamental de la statique devient une somme de torseurs ; en pratique, on effectuera parallèlement la somme des forces, et la somme des moments tous exprimés au même point, d'où l'intérêt de la formule de transport de moments.
+
+
+== Moment par rapport à un axeModifier ==
+Lorsqu'un solide est animé d'un mouvement de rotation effectif autour d'un axe (cas d'une roue guidée par un palier) il est intéressant de ne considérer que la partie utile du moment d'une force. On définit le moment de la force par rapport à l'axe  par
+,
+où  est un vecteur unitaire de ,  est un point quelconque de  et où les crochets dénotent le produit mixte.
+En résumé il s'agit de la composante suivant  du moment de  exercé en . De ce fait il s'agit d'un nombre scalaire : «  » est une opération de projection sur l'axe . Sur le plan mécanique, c'est la seule composante (dans le cas d'une liaison parfaite au pivot) susceptible de fournir (ou consommer) une puissance. Le « reste » du moment sera subi par le palier. Cette partie complémentaire intéressera le technologue qui prendra en compte ces valeurs pour le dimensionnement du palier.
+Le moment par rapport à l'axe est nul si
+le moment par rapport au point est nul (cas général précédent).
+la force est dans la direction de l'axe considéré.
+
+
+== Moment d'un couple de forcesModifier ==
+
+
+=== DéfinitionModifier ===
+De façon générale, un ensemble de forces  de points d'application  constitue un couple de force si sa résultante est nulle: , mais dont la somme des moments ne l'est pas.
+L'exemple le plus simple est celui de deux forces opposées  appliquée en  et  appliquée en , points distincts d'un même système: leur somme est évidemment nulle. Cet exemple est au demeurant à la base de l’appellation "couple de forces".
+La nullité de la résultante d'un couple de forces n'implique en effet absolument pas la nullité de la somme des moments de ces forces, appelée simplement "moment du couple de force", ou tout simplement couple résultant.
+En effet, dans l'exemple donné il vient:
+.
+Le moment du couple de force est indépendant du point de pivot  considéré. Cette quantité  est appelée couple. Il n'est pas besoin de préciser le point de rotation. Les deux forces constituent alors un couple de forces.
+Outre les autres cas évidents, le couple est nul lorsque les deux forces ont la même droite d'action. Le couple augmente avec l'intensité commune des forces, mais aussi avec l'éloignement des points. Il est maximal lorsque  et  sont orthogonaux.
+
+
+=== Cas généralModifier ===
+En réalité le couple n'existe pas intrinsèquement. Il est toujours associé à un ensemble de forces s'annula

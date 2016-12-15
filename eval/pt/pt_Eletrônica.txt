@@ -1,0 +1,34 @@
+ransistor e o desenvolvimento das técnicas de miniaturização, ficou cada vez mais acelerada a confecção e projeto de componentes e equipamentos eletrônicos.
+Isto culminou com a construção do primeiro circuito integrado no final da década de sessenta, quando apareceu o primeiro amplificador operacional integrado. Este nada mais era que a montagem miniaturizada de transistores, capacitors, resistors e diodos semicondutores, todos feitos numa só base, inicialmente em germânio.
+Logo após, no início da década de setenta, os componentes passaram a ser fabricados em silício, elemento de mais fácil manipulação e menos sensível aos efeitos de avalanche térmica.
+Foram sendo desenvolvidas assim exponencialmente novas tecnologias para a fabricação seriada em alta velocidade. Estas utilizavam componentes de larga escala de integração, (LSI), e logo após, nos anos oitenta, foi desenvolvida a extra larga escala de integração, (ELSI). Esta tecnologia nos deu os microprocessadores de alta velocidade e desempenho.
+Nos dias de hoje, depois do trabalho de milhares, senão milhões de colaboradores anônimos, a Eletrônica está finalmente entrando na era da nanotecnologia.
+
+
+== Dispositivos e equipamentos ==
+
+Os equipamentos e circuitos eletrônicos moldam, configuram e mensuram grandezas físicas de diversas naturezas. Algumas são variáveis, outra fixas, exemplo disso são as variáveis elétricas que transportam informação, os sinais.
+Para o transporte de informação, foi necessário a codificação de uma linguagem.Um exemplo é a extinta telegrafia que era usada para enviar informações através do código Morse, onde sinais intermitentes transportam informação codificada de tal forma, que decodificada forma letras e palavras. Estas, interpretadas nada mais são do que informação, logo podemos definir que codificação é a informação introduzida num determinado sinal. E decodificação é a extração desta informação deste mesmo sinal.
+Podemos definir três grupos distintos de sinais em eletrônica: Sinal analógico, é todo aquele que varia continuamente em função do tempo, ou seja: pode ser representado por uma função matemática contínua.
+Um velocímetro analógico.
+Um termômetro analógico.
+Uma balança analógica.
+Um voltímetro analógico.
+São exemplos de sinais lidos de forma direta sem passar por qualquer codificação, decodificação complexa. As variáveis são observadas diretamente. O instrumento analógico consiste num painel com uma escala e um ponteiro que desliza de forma a se verificar a posição deste sobre aquela, um galvanômetro, ou o ecrã de um osciloscópio .
+
+
+== Sinais e medidas analógicas e digitais ==
+Sinal periódico consiste de "pacotes" de informação que são levados de forma direta, as ondas de rádio por exemplo, onde a codificação e decodificação é executada de forma direta, um exemplo é a Amplitude Modulada, onde temos uma onda portadora de freqüência fixa modulada em amplitude variável, a decodificação na recepção se dá de forma direta por supressão da portadora, retificação em meia onda do sinal resultante, e amplificação do resultado de forma a termos um sinal em forma de música, por exemplo.
+Sinal digital é formado por códigos de linguagem matemática, um exemplo disto é a linguagem binária, ou sistema binário, (álgebra booleana), onde se usa um código binário de transporte de informação, a leitura é indireta, depende de sistemas de interpretação e leitura, pois esta não é direta, é digitalizada, é formada por componentes que digitalizam a informação, isto é, convertem o sistema decimal para sistema binário, ou para o sistema hexadecimal e vice-versa, digitalizar é manipular, converter a informação processá-la e reconvertê-la de forma que seja entendida.
+
+
+== O futuro ==
+A eletrônica é a base da moderna tecnologia, da cibernética, da ciência da computação, da informática, entre outros. Sem ela os sistemas de controle do mundo moderno não funcionam.
+Com a eletrônica fundindo-se com a micro-mecânica, pneumática, hidráulica e informática, temos a mecatrônica, a biomecatrônica, a robotização biológica e a robótica. Esses compõem os sistemas de analogia eletrônica, prevista para o nosso futuro.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Site sobre projetos de eletrônica

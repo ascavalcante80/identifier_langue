@@ -1,0 +1,27 @@
+ octubre de 1582.
+Con la eliminación de estos diez días desaparecía el desfase con el año solar. Para que no volviera a ocurrir, en el nuevo calendario se eliminaron tres años bisiestos cada cuatro siglos. Con lo anterior, el 4 de octubre de 1582 fue el último día del calendario juliano y el 15 de octubre de 1582 constituyó el primer día del calendario gregoriano. Por tal razón no existieron las fechas del 5 al 14 de octubre de dicho año.
+Si se usan métodos actuales, el cálculo de fechas anteriores al 15 de octubre de 1582 siempre será erróneo, ya que se deben utilizar exclusivamente en retrospectiva hasta esta fecha y cambiar a cálculo de fechas julianas a partir del 4 de octubre de 1582, sin olvidar estos 10 días inexistentes.
+
+
+== Algoritmo computacional ==
+Un año es bisiesto si es divisible entre 4, excepto si es divisible entre 100 pero no entre 400.
+En programación, el algoritmo para calcular si un año es bisiesto es útil para la realización de calendarios.
+Considérense las proposiciones o enunciados lógicos siguientes:
+° p: Es divisible entre 4
+° q: Es divisible entre 100
+° r: Es divisible entre 400
+
+La fórmula lógica que se suele usar para establecer si un año es bisiesto es cuando  es más eficiente, al no hacer preguntas imposibles de cumplir.
+
+
+== Véase también ==
+29 de febrero
+30 de febrero
+Años bisiestos en los Siglos XX, XXI y XXII
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Búsqueda de años bisiestos

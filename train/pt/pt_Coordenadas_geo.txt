@@ -1,0 +1,25 @@
+O sistema de mapeamento da Terra através de coordenadas geográficas expressa qualquer posição horizontal no planeta através de duas das três coordenadas existentes num sistema esférico de coordenadas, alinhadas com o eixo de rotação da Terra. Provém das teorias dos antigos babilônios, expandido pelo famoso pensador e geógrafo grego Ptolomeu, na qual um círculo completo é dividido em 360 graus (360°). Portanto, através desse sistema conseguimos localizar um ponto único no mapa com base nas coordenadas pré-estabelecidas.
+
+
+== Localização absoluta ==
+Para localizar qualquer lugar na superfície terrestre de forma exata é necessário usar duas indicações, cada uma composta de uma letra e de um número. Temos que utilizar elementos de referência que nos permitem localizar com exatidão qualquer lugar da Terra. A rede cartográfica ou geográfica dá-nos a indicação do mapa.
+Os pontos cardeais (Norte, Sul, Leste e Oeste) dão um rumo, isto é, uma direção, mas não permitem localizar com exatidão um ponto na superfície terrestre porque é um instrumento e mira gabaritado para trabalhar em pequenas distâncias num plano de duas dimensões.
+O sistema de mapeamento da Terra através de coordenadas geográficas expressa qualquer posição horizontal no planeta através de duas das três coordenadas existentes num sistema esférico de coordenadas, alinhadas com o eixo de rotação da Terra. Herdeiro das teorias dos antigos babilônios, expandido pelo famoso pensador e geógrafo grego Ptolomeu, um círculo completo é dividido em trezentos e sessenta graus (360º).
+Assim, quando dizemos que a área X está a leste de Y, não estamos dando a localização precisa dessa área, mas apenas indicando uma direção. Para saber com exatidão onde se localiza qualquer ponto da superfície terrestre — uma cidade, um porto, uma ilha, etc. — usamos as coordenadas geográficas.
+As coordenadas geográficas baseiam-se em diversas linhas imaginárias horizontais e verticais traçadas sobre o globo terrestre:
+os paralelos são linhas paralelas ao equador que circundam a Terra — a própria linha imaginária do equador é um paralelo;
+os meridianos são linhas semicirculares, isto é, linhas de 180° que ligam os polos — eles vão do Polo Norte ao Polo Sul e cruzam com os paralelos.
+Cada meridiano possui o seu antimeridiano, isto é, um meridiano oposto que, junto com ele, forma uma circunferência. Todos os meridianos têm o mesmo tamanho. Convencionou-se que o meridiano de Greenwich, que passa pelos arredores da cidade de Londres, na Inglaterra, é o meridiano principal.
+A partir dos paralelos e meridianos, estabeleceram-se as coordenadas geográficas, que são medidas em graus, para localizar qualquer ponto da superfície terrestre.
+
+
+== Sistemas de Coordenadas Geográficas ==
+
+Existem pelo menos quatro modos de designar uma localização exata para qualquer ponto na superfície do globo terrestre.
+Nos três primeiros sistemas, o globo é dividido em latitudes, que vão de 0 a 90 graus (norte ou sul) e longitudes, que vão de 0 a 180 graus (Leste ou Oeste). Para efeitos práticos, usam-se as siglas internacionais para os pontos cardeais: N=Norte/North, S=Sul/South, E ou L=Leste/East, O ou W=Oeste/West. 
+Para as longitudes, o valor de cada unidade é bem definido, pois a metade do grande círculo tem 20003,93km, dividindo este último por 180, conclui-se que um grau (°) equivale a 111,133 km. Dividindo um grau por 60, toma-se que um minuto (') equivale a 1852,22 m (valor praticamente idêntico ao da milha náutica). Dividindo um minuto por 60, tem-se que um segundo (") equivale a 30,87 m,
+Para as latitudes, há um valor específico para cada posição, que aumenta de 0 na Linha do Equador até aos Pólos, onde está o seu valor máximo (90º de amplitude do ângulo).
+
+
+=== Graus, minutos, segundos ===
+Neste sistema, cada grau é dividido em 60 minutos, que por sua vez se subdividem, cada um, em 60 segundos. A partir daí, os segundos podem ser divididos decimalmente em frações cada 

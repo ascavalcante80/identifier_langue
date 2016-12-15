@@ -1,0 +1,13 @@
+WorldCat is a union catalog that itemizes the collections of 72,000 libraries in 170 countries and territories that participate in the Online Computer Library Center (OCLC) global cooperative. It is operated by OCLC Online Computer Library Center, Inc. (sic) The participating libraries collectively maintain WorldCat's database.
+
+
+== History ==
+The OCLC was created in 1967, the same year Fred Kilgour founded WorldCat, though the first catalog records were added in 1971. It contains more than 330 million records, representing over 2 billion physical and digital assets in 485 languages, as of November 2014. It is the world's largest bibliographic database. OCLC makes WorldCat itself available free to libraries, but the catalog is the foundation for other fee-based OCLC services (such as resource sharing and collection management). In 2003, OCLC began the "Open WorldCat" pilot program, making abbreviated records from a subset of WorldCat available to partner web sites and booksellers, to increase the accessibility of its member libraries' collections. In 2006, it became possible to search WorldCat directly at its website. In 2007, WorldCat Identities began providing pages for 20 million "identities", predominantly authors and persons who are the subjects of published titles.
+
+
+== Model ==
+WorldCat operates on a batch processing model rather than a real-time model. That is, WorldCat records are synchronized at intermittent intervals with the underlying library catalogs instead of real-time or every day. Consequently:
+WorldCat shows that a particular item is owned by a particular library but does not provide that library's call number.
+WorldCat does not indicate whether or not an item is currently borrowed, lost, undergoing restoration or repair, or moved to storage not directly accessible to patrons (thereby forcing interested patrons to submit a retrieval request and wait).
+Furthermore, WorldCat does not show whether or not a library owns multiple copies of a particular title.
+As an alternative, WorldCat allows participating institutions to add direct links from WorldCat to their own catalog entries for a particular item, which enables the user to determine its real-time status. However, this still requires users to open multiple Web pages, each pointing to a different OPAC with its own distinctive user interface design (which places item status 

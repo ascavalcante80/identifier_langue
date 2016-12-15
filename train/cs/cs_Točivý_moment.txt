@@ -1,0 +1,11 @@
+Točivý moment nebo také kroutivý moment vyjadřuje působení síly na bod vzdálený od osy otáčení (hřídele). Fyzikálně se jedná o moment síly, pod názvem krouticí moment se užívá v technických oborech u rotačních pohonných systémů.
+Obvykle se udává v jednotkách Nm (newtonmetr), točivý moment 1 Nm znamená, že hřídel působí na bod vzdálený jeden metr od osy silou 1 newton.
+
+
+== Točivý moment u spalovacích motorů ==
+Točivý moment je spolu s výkonem a maximálními otáčkami za minutu důležitým parametrem spalovacích motorů (týká se ale všech rotačních pohonných systémů, tedy všech točivých motorů všech typů a možných konstrukčních provedení).
+Přepočet točivého momentu a otáček motoru na výkon:
+,
+kde
+P je výkon ve wattech
+ω je úhlová rychlost v radiánech za sekundu

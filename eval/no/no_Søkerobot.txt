@@ -1,0 +1,17 @@
+vere. Det er viktig at søkeroboten ikke reduserer serveren sin ytelse og at roboten er høflig mot serveren.
+Dårlig programmerte søkeroboter kan medføre store serverbelastninger og til og med bruke så mye båndbredde at både rutere og servere kræsjer. Det settes opp et tidspunkt for hvor lenge søkeroboten skal avvente før den laster ned neste side av serveren.
+
+
+=== Parallellpolicy ===
+Det brukes ofte flere søkeroboter på likt for å effektivisere prosessen. Da er det viktig at søkerobotene ikke besøker den samme vevsiden, og da settes det opp en policy for hvordan dette skal forhindres.
+
+
+== Referanser ==
+^ a b http://homepages.dcc.ufmg.br/~nivio/cursos/ri12/transp/olston-najork@web-crawling10.pdf
+^ http://dl.acm.org/citation.cfm?id=775247
+^ http://link.springer.com/chapter/10.1007/978-1-4615-0005-6_2#page-1
+^ https://en.wikipedia.org/wiki/World_Wide_Web_Wanderer
+^ http://www.chato.cl/papers/crawling_thesis/effective_web_crawling.pdf
+^ http://www.di.unipi.it/~gulli/papers/f692_gulli_signorini.pdf
+^ http://dblab.ssu.ac.kr/publication/LeKi05a.pdf
+^ a b c http://oak.cs.ucla.edu/~cho/papers/cho-freq.pdf

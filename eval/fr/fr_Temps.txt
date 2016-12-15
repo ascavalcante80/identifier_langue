@@ -1,0 +1,108 @@
+accès, autrement dit les entrées/sorties. Les temps de calcul (CPU) sont le plus souvent limités, sauf pour les traitements de fin de mois qui portent souvent sur des volumes importants (comptabilité), ainsi que les sauvegardes.
+En informatique industrielle et en informatique dite embarquée, les traitements sont essentiellement exécutés en système temps réel. En informatique de gestion, on avait coutume de distinguer les traitements par lots ((en)batch, ou réponse différée, Rd en initiales) et les traitements transactionnels (ou transactional processing, ou TP en initiales, ou réponse instantanée, ou Ri en initiales), selon que le traitement était réalisé un certain temps après la saisie des données, ou immédiatement après la saisie.
+Avant l’apparition de l’informatique moderne, à l’époque de la mécanographie en particulier, les techniques disponibles ne permettaient d’exécuter les traitements qu’en batch, en utilisant les cartes perforées. L’apparition des ordinateurs modernes multi-tâches a d’abord autorisé le traitement simultané de plusieurs tâches différentes sur le même ordinateur, puis le traitement en temps réel avec saisie sur un clavier couplé à un moniteur permettant d’afficher les données saisies, puis le résultat du traitement. Les terminaux dits passifs, exclusivement employés jusque dans les années 1990, avant l’apparition des micro-ordinateurs, nécessitaient d’effectuer les traitements en temps réel sur un ordinateur distant (ordinateur central, ordinateur sous Unix). L’apparition des micro-ordinateurs a permis d’exécuter certains traitements sur le poste de travail de l’utilisateur, donc en théorie de limiter la part du temps d’accès dû aux communications à distance.
+Les traitements par lots les plus courants sont les traitements longs et difficilement divisibles comme les tâches comptables, le calcul de la paye, les traitements d’interfaçage, les contrôles complexes, les sauvegardes. Ils sont généralement effectués périodiquement. Les périodes de traitement peuvent être journalières, mensuelles, annuelles, ou quelquefois hebdomadaires.
+Dans le client/serveur, le temps de traitement temps réel dépend du temps de traitement sur le micro-ordinateur, du temps de cheminement des informations sur le réseau (local/LAN ou grande distance/WAN), et du temps de traitement sur l’ordinateur central. Les temps de traitement sont largement dépendants de la puissance de calcul et surtout de la mémoire disponible dans l’ordinateur. Les temps de cheminement sur le réseau sont dépendants de la capacité de la ligne.
+Aujourd’hui[Quand ?], la distinction traditionnelle entre le temps réel et le batch tend à évoluer : les possibilités techniques (mémoire, capacités de stockage, capacité des lignes télécoms) ont radicalement changé la donne. La notation Ri/Rd (réponse instantanée/différée) issue des méthodologies de conception (MERISE) n’a plus autant d’intérêt. Le choix entre temps réel et batch est le plus souvent imposé par le concepteur du progiciel de gestion intégré. Le caractère discriminant du choix entre le temps réel et le batch n’est plus le même. Pendant longtemps, les capacités techniques dictaient le choix du mode de traitement. Le traitement batch reste nécessaire pour les traitements volumineux ou nécessitant des contrôles impossibles à effectuer en temps réel. Il est souvent question aussi de traitements synchrones ou asynchrones.
+Les traitements effectués sur le web sont le plus souvent exécutés en système temps réel et à distance. Les contraintes de mise en cohérence des informations saisies subsistent, afin que ces informations soient conformes aux référentiels métiers, aux référentiels comptables et aux législations de plus en plus nombreuses. Ces contraintes s’expriment d’une façon plus complexe encore, et peuvent être gérées non plus par des contrôles effectués a posteriori dans chaque application, mais par la constitution de référentiels ou de normes, et par la gestion de données et de documents en communautés (forums, groupwares, espaces de travail partagés…).
+Avec l'internet, la logique de traitement en temps réel avec des partenaires nécessite de plus en plus d’assurer l’interopérabilité entre des logiciels de domaines variés. Cette interopérabilité est assurée, dans les langages de balisage, par l’intermédiaire de données spéciales (métadonnées par exemple cf Resource Description Framework), parmi lesquelles on trouve la date.
+
+
+=== Création artistique ===
+La création artistique peut être assimilée à la synthèse de la fabrication et de l’action au sens d’Aristote, c’est-à-dire, dans le vocabulaire de Wilhelm von Humboldt, de l’énergie créatrice (energeia en grec) et du produit (ergon). Apprécier une œuvre d’art, c’est à la fois la considérer comme une réalité distincte de l’artiste, possédant l’ambiguïté des choses, et y retrouver la puissance vivante de l’imagination, des sentiments, d’une vision du monde. L’œuvre confère la permanence de la chose à la fugacité de l’inspiration et du geste de l’artiste. Cette tension entre Apollon et Dionysos se retrouve dans la rivalité du classicisme et du romantisme, ou encore du formalisme et de l’expressionnisme. Dans un clin d’œil à Bichat, André Malraux définissait la culture tout entière comme l’ensemble des formes qui résistent à la mort. À vrai dire, remarque Jean-Paul Sartre, si l’œuvre d’art survit en effet à l’artiste, on ne saurait la confondre avec une chose, c’est-à-dire une réalité qui demeure indépendamment de l’imagination humaine. C’est parce que nous contemplons un tableau qu’il est davantage que des pigments étalés sur une toile.
+Certaines cultures ne voient dans la création que l’aspect dynamique, l’acte pur ou l’inspiration, et ne se soucient absolument pas de pérenniser le dessin ou la peinture. En Inde, par exemple, toute vie est transition : tout est pris dans un cycle perpétuel de création et de destruction. L’art ne saurait faire exception. Il est vrai qu’il s’agit surtout de communier, par l’intermédiaire d’un objet, avec l’esprit de quelque divinité. En dehors de cet instant sacré, l’œuvre n’est plus qu’un réceptacle déserté. Elle aura surtout servi à relier l’âme de l’artiste à la divinité, à la manière d’une prière.
+Benedetto Croce soulignait cependant qu’il n’y a art à proprement parler que si la création se continue dans la contemplation. Contempler, ce n’est pas coïncider avec les affects de l’artiste. L’art n’est pas de l’ordre du sentiment immédiat, ce qui ne signifie pas qu’il soit un jeu frivole et froid. L’art objective les sentiments ainsi que les idées. La colère s’évanouit en se répandant. Mais l’artiste la donne à voir, donne à voir les passions, les élans du cœur, des concepts métamorphosés dans la forme ou le rythme. Il les met au passé en quelque sorte. Alain écrit à propos de la musique qu’elle n’est ni gaie ni triste. « On appelle quelquefois mélancolie, faute d’un meilleur mot, cet état où l’on contemple ses propres malheurs, et tous les malheurs, comme des objets qui passent et déjà lointains ; la musique figure merveilleusement ce souvenir et cet oubli ensemble. »
+Ainsi, la contemplation esthétique ne consiste pas seulement à apprécier une forme soustraite au temps. Elle nous libère de l’urgence de l’instant, elle nous permet de contempler la condition humaine de loin, ou de plus loin. C’était aussi la raison d’être de la tragédie : contempler les malheurs de l’homme du point de vue du destin, dans un mouvement de recul par rapport au temps.
+
+
+=== Musique ===
+Le temps est le paramètre principal de la musique, un des rares arts à s’inscrire dans une évolution temporelle et à créer un temps. La différenciation entre temps subjectif et temps objectif y joue un rôle primordial, puisque l’émotion procurée se mesure à l’aune de ce temps subjectif de l’écoute active, temps non quantifiable, et qui fait l’objet de plusieurs recherches en psychologie. Plusieurs compositeurs contemporains, comme Arvo Pärt, Pierre Boulez, José Manuel Lopez Lopez et bien d’autres, ont recherché des formes d’écriture, des procédés musicaux pour suspendre ce temps subjectif, pour inscrire le temps vécu dans une dimension contrôlée.
+Dans le solfège, le temps est une subdivision de la mesure et suggère la dynamique à apporter à l’interprétation (temps fort - temps faible).
+L’observation des conduites musicales enfantines permet une approche un peu différente. La musique, dans sa pratique « de concert » implique en effet un temps commun. Il s’agit d’un temps à la fois pratique et formel. Un des penseurs de l’Ars Nova, au XIIIe siècle, Francon de Cologne exprime brillamment cette idée : le Tempus est la mesure de la musique émise et de la musique omise. L’observation met en évidence la construction de ce temps formalisé par les enfants, qui passent de l’activité égocentrique (dans le sens piagétien) à un temps pratique, basé sur le concret, perceptif et actif qui le produit, puis à ce temps formalisé qui permet les activités interactives, complémentaires. Ce niveau n’est guère atteint avant la sixième année.
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+Dans l'ordre de la Classification décimale de Dewey
+1. Philosophie
+Aristote, Physique, livre IV.
+Alain, Éléments de philosophie, Français, Éd. Gallimard, collection Folio/essais, Paris, novembre 2001, Broché, 384 pages, (ISBN 2-07-032612-8).
+Kant, Critique de la Raison pure.
+Henri Bergson, La Pensée et le Mouvant, PUF, quadrige
+Henri Bergson, L’Évolution créatrice, PUF, quadrige.
+Agustín García Calvo, Contra el Tiempo, Editorial Lucina, Zamora, 2001.
+Martin Heidegger, Sein und Zeit
+Michel Paty, Jean-Pierre Luminet, Marc Lachièze-Rey, Gilles Cohen-Tannoudji, Maurice Jacob, Roger Balian, Ladislas Robert, André Comte-Sponville, Jean-Marc Lévy-Leblond, Le Temps et sa Flèche, Français, Éd. Flammarion, collection Champs Flammarion, Paris, 1994, 1995, 1996, Poche, 282 pages, (ISBN 2-08-081339-0).
+Bertrand Russell, La méthode scientifique en philosophie, Français (traduit de l’anglais), Éd. Payot & Rivages, collection Petite bibliothèque Payot, Paris, 17 février 2002, Poche, 290 pages, (ISBN 2-228-89529-6).
+Michel Lefeuvre, La réhabilitation du temps. Bergson et les sciences d’aujourd’hui, Éd. L’Harmattan, novembre 2005, (ISBN 2-7475-9388-6).
+Étienne Klein, Les tactiques de Chronos, Flammarion, 2003
+Étienne Klein, Le facteur temps ne sonne jamais deux fois, Flammarion, 2007
+Jacques Attali, Histoires du temps, Fayard, 1982 - 333 p. (ISBN 2-213-01118-4)
+Mircea Eliade, Le mythe de l’éternel retour. Archétypes et répétition, traduit du roumain par Jean Gouillard et Jacques Soucasse, Paris, Gallimard, « Les Essais », 1949 ; nouvelle édition revue et augmentée, « Idées », 1969.
+2. Religion
+Saint Augustin, Confessions, Français (traduit du latin), Éd. Seuil, collection Points Sagesses pour la traduction de Mondalon, Paris, novembre 1982, Édition Pierre Horay pour la traduction originale, Poche, 405 pages, (ISBN 2-02-006318-2).
+Jean-Marc Rouvière, Brèves méditations sur la création du monde, Éd. L’Harmattan, 2006
+4. Langues
+Élisabeth Vauthier, Variations sur le Temps : penser le Temps dans le monde arabe, CRINI, Nantes, 2007, 113 pages, (ISBN 2-916424-08-3).
+5. Sciences pures
+Stephen Hawking, Une brève histoire du temps, Flammarion, 1989.
+Richard Feynman, La nature des lois physiques (The Character of Physical Law).
+Ilya Prigogine et Isabelle Stengers, La Nouvelle Alliance, Gallimard, 1979.
+Ilya Prigogine et Isabelle Stengers, Entre le temps et l’éternité, Fayard, 1988.
+Carlo Rovelli, What is time? What is space?, Di Renzo Editore, 2006. Traduction : Qu’est-ce que le temps ? Qu’est-ce que l’espace ?, Bernard Gilson Éditeur 2006
+7. Arts
+Helmut Breidenstein, Mozart’s tempo indications. What do they refer to? (aussi en allemand et italien, http://mozart-tempi.net
+Elena Belaïa, Variations sur le Temps : d’une langue à l’autre, quelle temporalité ?, CRINI, Nantes, 2005, 132 pages, (ISBN 2-86939-190-0).
+
+
+=== Articles connexes ===
+Dans l'ordre de la Classification décimale de Dewey
+1. Philosophie de l'espace et du temps
+Temps (Philosophie)
+Heidegger et la question du temps
+Emmanuel Kant, le temps comme forme a priori de l'intuition, et non point concept
+Ferdinand de Saussure, sur les concepts de synchronie et diachronie
+2. Religion
+Genèse, Apocalypse : le début et la fin des temps
+Temps liturgique
+3. Sciences sociales
+Perception du temps
+Temps de réponse (psychologie)
+Temps de travail
+4. Langues
+Temps (grammaire)
+5. Le temps en physique
+Espace-temps
+Flèche du temps
+Temps cosmique
+Temps newtonien
+Temps tridimensionnel
+Théorie de la relativité
+6. Techniques
+Histoire de la mesure du temps
+Horlogerie
+Ordre de grandeur du temps
+Temps universel coordonné (UTC), Temps universel (TU), et Greenwich Mean Time (GMT)
+Le temps décimal
+7. Arts
+Liste d'œuvres impliquant le voyage dans le temps
+Temps (solfège)
+8. Littérature
+À la recherche du temps perdu
+Voyage dans le temps
+9. Histoire
+Chronologie
+
+
+=== Liens externes ===
+La Mesure du temps, Henri Poincaré dans La Valeur de la Science
+Vidéo-conférence sur le thème Le temps et sa flèche, intervention d’Étienne Klein
+L'assise de l'ontologie critique, François-Xavier Chenet.
+ Portail du temps
+ Portail des fêtes et des traditions
+ Portail de la philosophie

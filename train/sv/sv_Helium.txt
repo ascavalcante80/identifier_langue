@@ -1,0 +1,180 @@
+Helium är grundämne nummer två i det periodiska systemet, en färglös och luktlös ädelgas. Ämnet har lägst kokpunkt av alla grundämnen, och endast vid högt tryck övergår det i fast form.
+Helium är det näst vanligaste grundämnet i universum. Nytt helium uppstår genom fusionsprocesser i stjärnorna och genom alfastrålning från radioaktiva grundämnen. Eftersom heliumhalten i jordens atmosfär är låg utvinns helium mest ur naturgas.
+Helium används inom flera teknikområden: Den lätta, inerta gasen med små obundna atomer passar som kontrollerad atmosfär, vid läcksökning och som drivgas i raketer. Den låga kokpunkten gör det till viktigt kylmedel inom lågtemperaturtekniken och i det supraflytande tillstånd som helium intar vid temperaturer nära absoluta nollpunkten blir det en närmast ideal värmeledare.
+
+
+== Heliumatomen ==
+
+Heliumatomens kärna består av två protoner och en eller flera neutroner. Det omgivande elektronmolnet har två elektroner som fyller 1s-orbitalen. Av alla atomer har helium den minsta radien.
+Helium har två naturliga stabila isotoper, vars fysikaliska egenskaper är mycket olika, dessutom några syntetiska:
+
+
+=== Helium-4 ===
+Den på jorden helt övervägande isotopen Helium-4, eller 4He, har två neutroner och är en boson. Kärnan har en bindningsenergi av 7,07 Megaelektronvolt (MeV) per nukleon, vilket är det högsta värdet bland alla atomer med masstal under 12. 4He-kärnan är därmed mycket stabil.
+
+
+=== Helium-3 ===
+Helium-3- eller 3He-atomen har endast en neutron och är därmed en fermion. På jorden är den mycket sällsynt och utgör endast 1,4 ppm av de naturligt förekommande heliumatomerna.
+
+Bindningsenergin per nukleon är 2,57 megaelektronvolt (MeV), vilket är jämförbart med det radioaktiva 3H (Tritium) och 3He har diskuterats som bränsle i fusionskraftverk, genom deuterium-helium3- och helium3-helium3-fusioner:
+
+Till skillnad från de i forskningsreaktorer vanligen använda DT och DD-processerna, frigör 3He-fusionerna varken neutroner eller radioaktiva kärnor. De reaktortekniska extra-svårigheterna för 3He-fusion är dock betydande: Deuteriumkärnor fusionerar lättare med varandra än med 3He och för att fusionera två 3He-kärnor behövs mycket höga temperaturer och tryck.
+
+
+=== Syntetiska isotoper ===
+De radioaktiva isotoperna
+6He, med halveringstiden 805 ms och
+8He, med halveringstiden 122 ms
+förekommer inte naturligt och övergår vanligen till litium genom β-sönderfall
+
+
+== Aggregationstillståndens fysikaliska egenskaper ==
+
+
+=== Gasform ===
+Vid 0 °C och 1000 kPa är helium är en färglös gas med densiteten 0,178 kg/m3. Eftersom luftens densitet är drygt 7 gånger högre lyfter en heliumballong med volymen 1 m3 1,115 kg, inklusive sin egen massa. Den låga densiteten inverkar på ljudhastigheten, som är 971 m/s, eller knappt 3 gånger ljudhastigheten i luft. Detta skapar det berömda fenomenet Kalle Anka-röst som människor får när de inhalerar helium-syre-blandningar. Varning: Rent helium utan syrgas får aldrig inhaleras, då detta snabbt leder till kvävning.
+Heliums värmeledningsförmåga är 0,142 W/(m*K) vid 19 °C, eller fem gånger luftens.
+Heliumatomen, som är mindre än alla gas-atomer och -molekyler, diffunderar särskilt lätt genom små öppningar.
+
+
+=== Flytande helium ===
+
+Vid temperaturer under 4 K (−269 °C) kondenserar helium till en färglös vätska. Flytande helium har flera speciella egenskaper:
+Kokpunkten är den lägsta av alla grundämnen. Alla andra grundämnen har en kokpunkt över 20 K.
+Helium är flytande vid den absoluta nollpunkten. Alla andra grundämnen är fasta vid 10 K.
+Suprafluiditet, som uppträder vid olika temperaturer beroende av isotopen.
+Isotopernas tillståndsdiagramm och termodynamiska data skiljer sig starkt:
+
+
+==== Supraflytande 4He ====
+
+Vid lambdapunkten, 2,17 K, övergår 4He i en supraflytande fas utan viskositet. Vätskan kan flyta genom kapillärer utan mätbar friktion och den kan flyta över barriärer till en lägre potential. Genom den andra ljudvågen får vätskan en mycket hög värmeledningsförmåga.
+I litteratur kallas ofta den "vanligt" flytande fasen i 4He för helium I. Den supraflytande fasen kallas helium II.
+Det finns flera teorier om Suprafluiditet i 4He:
+Fritz London antog att 4He nära absoluta nollpunkten blir ett Bose-Einstein-kondensat.
+Laszlo Tiszas två-vätske-modell uppfattar helium under lambdapunkten som en blandning av en normalt flytande och en supraflytande fas.
+Lev Landau införde en ny kvasipartikel: Rotonen för att beskriva supraledningen i 4He
+
+
+==== Supraflytande 3He ====
+Vid temperaturer under 1 mK kan även 3He kan bli supraflytande. Supraflytande 3He har en mer komplicerad struktur än 4He och måste förklaras med andra teorier.
+
+
+=== Helium i fast form ===
+Endast vid låga temperaturer och tryck högre än 2,5 MPa, (cirka 25 atmosfärer), kan helium inta fast form. Kristallstrukturen är hexagonal (hcp) eller i vissa fall kubiskt rymdcentrerat (bcc).
+
+
+=== Trippelpunkt ===
+Fast helium sublimeras inte till gasform. Det finns därmed ingen trippelpunkt enligt gängse definition. Som trippelpunkt kan man istället ange jämviktspunkten mellan faserna "gas", "flytande" och "supraflytande" (för 4He: 2,172 K och 5,035 kPa) eller den mellan faserna "flytande", "supraflytande" och "fast" (för 4He: 1,76 K och 3,02 MPa). Dessa motsvarar lambdapunktens lägsta och högsta tryck.
+
+
+== Kemiska egenskaper ==
+Genom sin elektronstruktur och elektronernas närhet till kärnan, är helium inert. Med 24,6 eV är joniseringsenergin den högsta av alla atomers. Helium ingår därför endast i specialfall molekyl- eller jon-liknande förbindelser.
+Vattenlösligheten är mycket låg: Endast 1.5 mg Helium kan lösas i en liter vatten vid 20 °C och 1013 hPa.ref name="SD_AL2014" />
+
+
+== Förekomst ==
+
+
+=== I universum ===
+I universum är helium det näst vanligaste grundämnet: Enligt Big Bang-teorin skedde en tidig nukleosyntes av lätta atomkärnor inom 20 minuter efter Big Bang. Efter denna skall 25 % av universums massa ha bestått av 4He och 10 ppm av 3He. Heliumhalten stämmer ungefär med vad som idag observeras i utomgalaktiska H II-regioner.
+Helium är också vanligt i solsystemet: Solens, liksom många andra stjärnors, värme uppstår huvudsakligen genom proton-proton-processen där helium bildas ur väte. Solens fotosfär innehåller 25 % helium och heliumhalten i solvinden är någon viktprocent av vätehalten.. Jupiters atmosfär innehåller 10 volymprocent helium.
+I månytans regolit, som utsätts för solvinden, finns också helium. Förhållandet mellan de stabila isotoperna [3He]/[4He] är 0.3 viktprocent, alltså betydligt högre än på jorden.
+
+
+=== På jorden ===
+Det bildas stora mängder helium vid alfasönderfall av tunga grundämnen i jordens innandöme. Huvuddelen därav lagras under jordytan. I jordens atmosfär är heliumkoncentrationen endast 5,2 ppm eftersom de lätta heliumatomerna avges till världsrymden.
+Högre koncentrationer förekommer i naturgas, som kan innehålla ett par procent helium. Heliumrik naturgas finner man över kristallina bergarter som granit, innehållande uran eller thorium. Kväve fungerar som bärgas för heliumtransport i berget och ingår alltid i heliumrik naturgas. För att ett lagerställe skall behålla helium måste det vara täckt av täta sedimentära bergarter.
+
+
+== Produktion och marknad ==
+
+
+=== Utvinningsprocess ===
+
+Naturgasen varur helium skall utvinnas, bör ha en halt av minst 0,4 %. Den genomgår först en förbehandling där koldioxid, vattenånga och tyngre kolväten tas bort. Därefter avskiljs metan och kväve i flera steg genom fraktionerad destillation. Produkten är ett råhelium med 50 till 70 % helium, kvävgas liksom små mängder metan, vätgas och neon. Råhelium renas genom kondensation av kvävgas och metan, oxidering av vätet och pressure-swing-adsorption (PSA) till 99,99 % renhet.
+
+
+=== Strategisk lagring ===
+Som strategisk reserv (National Helium Reserve) lagrar USA en stor mängd helium under jordytan i det nedlagda gasfältet Cliffside utanför Amarillo i Texas.
+
+
+=== Tillgång ===
+Världsmarknaden domineras av USA: 2014 producerade USA 73 miljoner m³ (Mm³) helium. Dessutom frigjordes 30 Mm³ ur USA:s strategiska reserv. Andra länder, framför allt Algeriet och Qatar, framställde tillsammans 79 Mm³. Inom Europeiska unionen producerar Odolanow i Polen, vars naturgas har en heliumhalt om 0,08 till 0,45 %, årligen 3  Mm³.
+
+
+=== Pris och trender ===
+En kubikmeter helium med 99,997 % renhet, Helium-A, handlades 2014 för 7,21 US dollar.
+Det har spekulerats i huruvida USA:s strategiska reserv tar slut, men 2014 fanns lager för att upprätthålla nuvarande försäljning åtminstone till 2022. Dessutom har andra länder kunnat öka produktionen.
+I takt med att naturgas förbrukas som bränsle, utan att ta vara på heliuminnehållet, minskar världens lätt utvinnbara heliumtillgångar. Reserverna i USA, Algeriet och Ryssland beräknas dock vara över 7 miljarder m³.
+
+
+== Användning och risker ==
+
+
+=== Kylmedium ===
+I USA går 32 % av heliumkonsumtionen till kylanvändningar. Flytande helium är ett viktigt kylmedium inom lågtemperaturtekniken och för att nå temperaturer under 17 K finns det knappast något alternativ. I de flesta fall inträffar supraledning under 17 K så en vanlig användning är att kyla supraledande magneter, exempelvis i de medicinska undersökningsmetoderna magnetisk resonanstomografi (MRI), kärnmagnetisk resonans (NMR) och elektronspinnresonans.
+Supraflytande helium vid 1,9 K har en värmeledningsförmåga mer än hundra gånger högre än koppar (vid rumstemperatur) och blir så en mycket effektiv värmeledare.
+
+
+=== Tryck och rensning ===
+Stora mängder helium används i raketer för att trycksätta och rensa tankar med kalla vätskor, exempelvis flytande syre.
+
+
+=== Kontrollerad atmosfär ===
+
+Eftersom helium är inert, lätt och leder värme bra används det som omgivningsgas i många metallurgiska processer, liksom tillverkning av halvledare och optisk fiber. Den används även som rörlig fas i gaskromatografi och som förpackningsgas för livsmedel, där den har E-nummer E 939. 18 % av USA:s förbrukning går till detta användningsområde.
+
+
+=== Skyddsgas vid metallbearbetning ===
+Helium används även vid svetsning: Eftersom den är inert hindrar den, om den utledes över svetsskarven, luftens syres skadliga oxidering av smältan. Här kan helium dock ofta ersättas med argon.
+
+
+=== Läcksökning ===
+Heliumatomerna utgör mycket små partiklar som lätt diffunderar genom öppningar. Den lättflyktiga gasen används därför gärna vid läcksökning i vakuumkärl och bränslesystem.
+
+
+=== Andningsgasblandningar ===
+Inandning av rent helium bör aldrig ske på grund av att syremättningen i blodet sjunker blixtsnabbt och det är stor risk för att man förlorar medvetandet, och det finns risk för att man dör eller får hjärnskador av syrebrist.
+En mindre del av världens heliumförbrukning går till helium-syrgas-blandningar. De används medicinskt, vid spirometri och för att lindra symptom vid lungsjukdomar men även som andningsgas vid dykning (Heliox) för att minska kvävenarkosen. En nackdel med helium vid dykning är den höga värmeledningsförmågan som kan kyla kroppen. 
+
+
+=== Andra användningar ===
+
+Helium används sedan länge i gasballonger och luftskepp eftersom den billigare och lättare vätgasen medför eldfara och explosionsrisk. Helium används även inom belysningsteknik och i Helium-Neon-lasern
+
+
+== Säkerhet ==
+Neutralt helium vid normala förhållanden är inte giftig, spelar ingen biologisk roll och hittas i mycket små mängder i människans blod. Om tillräckligt mycket helium andas in, kan syret som behövs för normal andning ersättas, och kvävning kan inträffa.
+Säkerhetsfrågorna för helium med en låg temperatur liknar dem för flytande kväve. Dess extremt låga temperatur kan resultera i köldskador, vilka blir allvarligare med sprej än vid kontakt med vätska. I det senare fallet bildas ett så kallat Leidenfrost-skikt mot huden, som tillfälligt hindrar direktkontakten. Vidare kan omvandlingen från vätska till gas orsaka explosioner, om inte någon tryckkammare är installerad.
+Containrar med helium i gasform vid runt -265 °C ska hanteras som om de innehöll flytande helium, på grund av den snabba och betydande värmeutvidgningen som uppstår, när helium i gasform under -265 °C värms till rumstemperatur.
+
+
+== Historia ==
+
+Vid en solförmörkelse 1868 upptäckte fransmannen Jules Janssen spektrallinjer i solens spektrum, som inte tillhörde något känt atomslag, varför engelsmannen Norman Lockyer antog att de kom från ett hittills okänt grundämne som sedan han och den engelske astronomen Edward Frankland kallade helium (efter grekiska ἥλιος [hêlios] - Solen). År 1895 framställde den engelske kemisten William Ramsay helium genom att lösa ett uranhaltigt mineral i syra, vilket identifierades av Lockyer och Frankland som helium och samma år detekterade den tyske fysikern Heinrich Kayser spektrallinjer från helium i en ädelgasblandning framställd ur luft. Samma år framställde engelsmannen N.A. Langley och oberoende de svenska kemisterna Per Teodor Cleve och Abraham Langlet helium med exakt samma metod. 1905 upptäcktes att naturgas från en källa i Dexter, Kansas innehöll 2 % helium.
+Helium var den sista av gaserna som man lyckades överföra i vätskeform. Det såg till och med ut som om helium kanske var den enda egentliga gasen, det vill säga okondenserbar till skillnad från ångor enligt gammal definition. Genom att utnyttja den temperatursänkning som erhålls när en komprimerad gas utvecklar arbete i en detander(dekompressor) lyckades holländaren Heike Kamerlingh Onnes år 1908 få helium att undan för undan, med hjälp av välkonstruerade värmeväxlare kallna alltmer och till slut kondensera. Just detta renderade honom 1913 års nobelpris.
+Med kokande helium som köldmedium kunde exempelvis metallernas resistivitet vid mycket låga temperaturer studeras. Av speciellt intresse var förstås dåtidens resistansnormal kvicksilver (som via destillation enkelt kunde renas i varje laboratorium som behövde en noggrann normal för exempelvis elektrisk spänning). Kamerlingh Onnes fann år 1911 att resistiviteten hos just kvicksilver vid 4,2 K, det vill säga helt nära heliums kokpunkt vid normalt atmosfärstryck, försvann på ett abrupt och helt oväntat sätt (se supraledning).
+Under första världskriget blev helium, som inert fyllgas i luftskepp och spärrballonger, militärt relevant. 1925 antog USA Helium Conservation Act som förbjöd försäljning till icke-statliga ändamål. Denna reglering lättades först efter Hindenburgkatastrofen 1937.
+Redan Kamerlingh Onnes beskrev att något speciellt hände i flytande helium vid 2 K men upptäckten av suprafluiditet under 1930-talet brukar tillerkännas Pjotr Kapitsa.
+Suprafluiditet i 3He upptäcktes först i början av 1970-talet av Lee, Richardson och Osheroff
+Eftersom den sällsynta 3He-isotopen kan ha värde som fusionsbränsle har man sedan 2004 spekulerat i möjligheten att utvinna 3He ur månytan för att lösa jordens energibehov.
+
+
+== Se även ==
+Periodiska systemet
+Stjärna
+
+
+== Noter ==
+^ [a b c d] ”Säkerhetsdatablad Helium, Helium-061A-SE, 2014-07-10”. Air Liquide. http://alsafetydatasheets.com/download/se/Helium_komprimerad_SE.pdf. Läst 2 november 2015. 
+^ [a b c d e f g h i j k l m] Carl Nordling & Jonny Österman (1983). Physics Handbook. Studentlitteraur. ISBN 91-44-16572-2 
+^ Shuen-Chen Hwang, Robert D. Lein, Daniel A. Morgan (2005). "Noble Gases". Kirk Othmer Encyclopedia of Chemical Technology. Wiley. pp. 343–383. doi:10.1002/0471238961.0701190508230114.a01.
+^ [a b c d e f g h] ”Technical data for Helium” (på engelska). periodictable.com. http://periodictable.com/Elements/002/data.html. Läst 3 november 2015. 
+^ L. C. Allen, J. E. Huheey: The definition of electronegativity and the chemistry of the noble gases.
+^ Magnetic susceptibility of the elements and inorganic compounds, in Handbook of Chemistry and Physics 81st edition, CRC press.
+^ R. E. Glick: On the Diamagnetic Susceptibility of Gases. In: J. Phys. Chem. 1961, 65, 9, S. 1552–1555, doi:10.1021/j100905a020.
+^ ”Helium”. GESTIS. IFA, Institut für Arbeiterschutz der Deutschen Gesetzlichen Unfallversicherung. http://gestis.itrust.de/nxt/gateway.dll/gestis_de/000000.xml?f=templates$fn=default.htm$3.0. Läst 2 november 2015. 
+^ Royal Society of Chemistry – Visual Element Periodic Table
+^ – Online Etymological Dictionary
+^ [a b] Mark Williams (2007). ”Energie vom Mond”. Technology Review [På tyska] (31 Augusti). http://www.heise.de/tr/

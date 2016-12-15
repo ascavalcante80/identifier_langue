@@ -1,0 +1,137 @@
+Verb er en ordklasse som defineres ut fra morfologiske og syntaktiske egenskaper. Ettersom forskjellige språk har litt forskjellige morfo-syntaktiske kategorier, vil definisjonen av verb variere fra språk til språk. På norsk kan vi definere verb som de ordene som kan bøyes i tider som presens, preteritum og infinitiv. Tre eksempler er gitt nedenfor.
+
+Verb er ofte kjerne i et predikat, og alle predikater må inneholde et verb.
+
+
+== Bøying av verb ==
+På norsk har ethvert verb seks forskjellige former. På andre språk har verbene gjerne mange flere former. For eksempel har italienske verb nesten tjue forskjellige former og på rikt agglutinerende språk som tyrkisk kan verbene ha millioner av forskjellige former. De seks norske verbformene er vist nedenfor, for de regelmessige verbene spise og spå, og det uregelmessige verbet gå. Språk som har relativt mange forskjellige bøyninger av ord kalles ofte for syntetisk språk, og et språk som bruker bøyning relativt lite, slik som norsk, kalles gjerne analytisk språk. Mandarin kinesisk er enda mer analytisk enn norsk, og bruker ingen bøyninger i det hele tatt.
+
+På norsk er stammen av verbet som regel imperativformen: Det er denne som går igjen i alle de andre formene for regelmessige verb.
+Siden norsk har relativt få bøyningsendelser må man bruke sammensatte former, også kalt perifrastiske former eller analytiske former for å uttrykke det som kan uttrykkes i ett ord i andre språk. For eksempel finnes det en bøyningsendelse for futurum i latin (eksempel: audiam 'jeg kommer til å høre') mens vi på norsk bruker sammensatte former som vil høre eller komme til å høre.
+
+
+=== Tider ===
+På norsk er det vanlig å snakke om seks verbtider, eller tempus: infinitiv (gjerne med å foran), presens (nåtid), preteritum (fortid), presens perfektum (før Perfektum, fortid, perfektum partisipp med hjelpeverbet ha eller være i presens eller infinitiv), preteritum perfektum (før Pluskvamperfektum, fortid, perfektum partisipp med hjelpeverbet ha i preteritum) og futurum (framtid, skal eller vil fulgt av infinitiv). Noen av tidene gjør bruk av hjelpeverb i tillegg til en partisipp eller infinitiv. Slike verbtider kalles for perifrastiske eller «sammensatte» tider. Perifrastiske tider er ikke egentlig å regne som «bøying» av verbet, siden de involverer separate hjelpeverb, snarere enn bøyningsendelser (affikser).
+
+Presens kan ofte tolkes som framtid, slik som i eksemplet nedenfor.
+
+Jens kommer i morgen.
+
+Ved spesielle tilfeller, kan preteritumsformen tolkes uten referanse til fortiden. Et eksempel på det er setninger som denne, der ytringen ofte kan referere til høyst nåtidig snøvær. Slik bruk av preteritum er umulig i andre språk som engelsk.
+
+Nå snødde det fælt, du!
+
+
+=== Modi ===
+Ent. modus. På norsk finnes hovedsakelig kun to modi, som er indikativ og imperativ. Det tredje moduset er konjunktiv (ønskeform). Konjunktiv finnes i hovedsak i fastfrossede uttrykk, som i leve kongen! eller i herren være deg nådig. Enkelte ganger brukes preteritum (indikativ) i stedet for presens hvor vi på andre språk ville brukt konjunktiv, som f.eks. i «hvis jeg var deg».
+I tysk er konjunktiv mer vanlig, hovedsakelig i indirekte tale og i betingede setninger. Det fantes også konjunktiv i norrønt. Konjunktiv kan f.eks. være ønskende, innrømmende, bydende og oppfordrende.
+
+
+=== Samsvarsbøyning ===
+Samsvarsbøyning (også kalt kongruens) betyr at verbalet bøyes i samsvar med subjektet det står til. I bokmål eksisterer det ingen samsvarsbøyning med verb, men nynorsk har valgfri samsvarsbøyning i perfektum partisipp (boka er lesen, mens bøkene er lesne).
+Språk som praktiserer samsvarsbøying, skiller mellom person og tall: Entall: 1. person jeg, 2. person du, 3. person han/hun/det. Flertall: 1. person vi, 2. person dere, 3. person de. Enkelte språk samsvarsbøyer også etter kjønn (han, hun, det).
+Engelsk har samsvarsbøyning i presens, der 3. person entall har endingen -s. Verbet to be (å være) bøyes fortsatt grundig etter person og tall i både presens og preteritum. Enkelte språk, som for eksempel fransk og tysk har samsvarsbøyning i alle tider.
+
+
+=== Aktiv og passiv ===
+Verb bøyes i aktiv og passiv. Aktiv infinitiv av verbet elske er å elske, mens passiv infinitiv er å elskes. I aktiv er det subjektet som utfører handlingen (du elsker meg, det er du som elsker), mens i passiv blir handlingen utført på det logiske subjektet (jeg elskes av deg, det er fortsatt du som elsker, men det er jeg som er subjekt). Passiv kan også uttrykkes perifrastisk, med hjelpverbet bli (jeg blir elsket av deg ).
+
+
+=== Partisipper ===
+Partisippformene av verbet er de adjektiviserte formene, som kan brukes som adjektiv eller adverb.
+
+
+==== Perfektum partisipp ====
+Perfektum partisipp er perfektumsformen uten hjelpeverbet har. Det brukes oftest som adjektiv:
+Jeg har bare én utskrevet kladdebok igjen!
+Du er jo helt innsmurt av søle!
+Noen ganger kan man også bruke perfektum partisipp som adverb:
+Han sukker utmattet.
+Jeg tusler nedslått mot døra.
+
+
+==== Presens partisipp ====
+Presens partisipp uttrykkes på norsk med endingen -ende. Det brukes mye mer på f.eks. engelsk, der det dannes med endingen -ing (she is sleeping, I saw a boy coming). Vanligvis brukes dette partisippet som adverb:
+Jeg begynner skjelvende å gå.
+Han kom løpende med en beskjed fra læreren.
+Men det kan også brukes som adjektiv:
+Den syngende mannen smilte til meg.
+Jeg strekker en skjelvende hånd i været.
+
+
+== Verbklasser ==
+
+
+=== Intransitive, transitive og ditransitive verb: Valens og tematiske roller ===
+
+
+==== Valens ====
+Verb kan deles inn i klasser etter hvor mange andre setningsledd eller konstituenter de krever i tillegg til seg selv. Disse andre setningsleddene kalles for verbets argumenter. Verb som kjøpe, senke og miste er to-verdige verb, også kalt transitive verb, fordi de krever to setningsledd i tillegg til seg selv. I setningene nedenfor er de to argumentene uthevet.
+
+Jens mistet nøklene sine.
+Den nye vaktmesteren kjøpte et nytt tørkestativ.
+
+Verb som bare krever ett argument kalles en-verdige eller intransitive verb. Eksempler på det er sovne, snorke, og synke.
+
+Båten sank.
+Jens snorker.
+
+Verb som krever tre argumenter kalles tre-verdige eller ditransitive. Eksepler på det er gi, anbefale, og sende.
+
+Jens anbefalte meg en restaurant.
+Læreren viste David prøveresultatet.
+
+Det finnes ingen verb (i noen språk!) som krever fire eller flere argumenter. Det finnes imidlertid verb som ikke krever noen argumenter, såkalte null-verdige verb. Typiske eksempler på det er verb som har med været å gjøre, slik som regne og snø. Pronomenet det i setningen nedenfor er ikke et argument av verbet snø. For eksempel, går det ikke an å sette spørsmålstegn ved det, eller å framheve det. Ekte argumenter kan alltid framheves eller settes spørsmålstegn ved. Slike meningstomme utrykk som det i setningen nedenfor, kalles ofte for ekspletive pronomener.
+
+Det snør.
+Ugrammatisk: *Hva snør?
+Ugrammatisk: *Det er DET som snør.
+Ugrammatisk: *DET snør, ikke det.
+
+Mens norsk, engelsk og tysk bruker slike meningstomme subjekter med nullverdige verb (en. "it's raining"; ty. "es regnet"), finnes det mange språk som ikke gjør det. For eksempel blir oversettelsen av "det regner" til italiensk:
+
+Piove. (It. "Det regner.")
+
+
+==== Hvilket argument blir subjekt? Tematiske roller og Thetahierarkiet ====
+Med transitive og ditransitive verb er det ikke vilkårlig hvilket argument av verbet som blir subjekt og hvilket som blir (indirekte) objekt. Man kunne for eksempel ikke si at En restaurant anbefalte meg Jens i samme betydning som Jens anbefalte meg en restaurant. Det er vanlig å si at subjektet i en setning er «den som utfører handlingen» i setningen. I dette tilfellet stemmer det bra, men det finnes mange eksempler der subjektet ikke egentlig kan sies å utføre noen handling. Nedenfor er noen eksempler på det med subjektene uthevet.
+
+Jens erfarte noe nytt.
+Jens er død.
+Steinene raste ned fra fjellsiden.
+
+Men i mange tilfeller stemmer det altså at subjektet «utfører» en handling. Argumenter som «utfører handlinger» kalles ofte for AGENT i språkvitenskapen, og argumenter som blir utsatt for, eller undergår handlingen kalles ofte for PATIENT. AGENT og PATIENT kalles ofte for tematiske roller eller thetaroller og den delen av språkvitenskapen som omhandler thetaroller kalles ofte for Theta Teori. PATIENT-roller kan ofte slås sammen med en mer generell thetarolle som kalles THEME: Andre thetaroller et verb kan ha er EXPERIENCER, RECIPIENT, GOAL, og noen andre: Det er foratt diskusjon om nøyaktig hvilke thetaroller som eksisterer og hvordan de skal integreres i grammatisk teori. Denne artkkelen baserer seg på et relativt «tradisjonelt» inventar av thetaroller. Man kan si at et transitivt verb har to thetaroller. Nedenfor er noen eksempler på verb og deres thetaroller.
+
+Vi kan nå stille vårt spørsmål litt mer presist: Hvis et verb har mer enn en thetarolle, hvilken thetarolle vil bli realisert som subjekt? Det viser seg at thetarollene er organisert i et hierarki. Dette kalles vanligvis for det tematiske hierarkiet eller thetahierarkiet. En omtrentlig versjon av dette er vist nedenfor. «AGENT > {EXPERIENCER, RECIPIENT}» betyr at AGENT rollen er høyere i hierarkiet enn EXPERIENCER og RECIPIENT, mens de to siste rollene er likeverdige.
+
+Når argumentene til et verb skal realiseres, vil den thetarollen som er høyest i thetahierarkiet bli subjekt. Hvis verbet er ditransitivt, vil den nest høyeste thetarollen bli realisert som indirekte objekt, og den laveste som direkte objekt. Hvis du ser på verbene i tabellen ovenfor, vil du se at dette stemmer med virkeligheten. Det høyeste argumentet til Senke i thetahierarkiet er AGENT. Derfor blir AGENT subjekt. Det høyeste argumentet til (mis)like er EXPERIENCER. Derfor er det dette argumentet som blir subjekt.
+
+
+==== To typer intransitive verb: Ergative verb og uergative verb ====
+Noen norske intransitive verb kan ta hjelpeverbet være i perfektum, mens andre må ta hjelpeverbet ha.
+
+Grammatisk: Båten er sunket.
+Ugrammatisk: *Jens er snorket.
+
+Som nevnt ovenfor tillater nynorsk samsvarsbøyning med perfektum partisipper og deres subjekter, men dette er bare mulig med de verbene som kan ta hjelpeverbet være. Hva er det som kjennetegner de intransitive verbene som kan ta være som hjelpeverb?
+Hvis vi ser nærmere på det intransitive verbet synke, ser vi at det er relatert til det transitive verbet senke. Verb som brekke kan brukes både som transitivt og intransitivt: Oddvar brakk staven og Staven brakk er begge mulige norske setninger. Som transitivt verb, har det en AGENT og en THEME rolle, og som intransitivt har det bare THEME. Dette er akkurat som relasjonen mellom synke (bare THEME) og senke (AGENT, THEME). Brekke kan også ta hjelpeverbet være i perfektum: Staven er brukket. Vi ser altså at det ene argumentet til de intransitive variantene tilsvarer objektet til de transitive variantene.
+Slike intransitive verb kalles vanligvis for ergative verb eller også uakkussative verb. Regelen er altså at ergative verb, dvs. verb som har et argument som tilsvarer objektet til et relatert verb, kan ta hjelpeverb være i perfektum. Andre intransitive verb kalles gjerne for uergative' verb.
+Dette kan brukes til å forklare hvilke intransitive verb som kan brukes som attributive adjektiver når de er bøyd i perfektum partisipp. Verb som brekke kan brukes slik, men ikke verb som snorke.
+
+Grammatikalsk: en brukket stav
+Ugrammatikalsk: *en snorket mann
+
+Hvis vi ser på transitive verb, ser vi at de som regel kan brukes som adjektiv. Når de brukes slik, refererer substantivfrasen til det som ellers ville tilsvare objektet til verbet. For eksempel refererer følgende substantivfrase til en mann som noen har malt, ikke til en mann som har malt noe.
+
+en malt mann
+
+Forklaringen på hvorfor snorke ikke kan brukes som adjektiv i en substantivfrase er altså at dets ene argument ikke tilsvarer et objekt. Kort sagt, uergative verb kan ikke brukes som attributive adjektiver.
+I andre språk kan dette illustreres på andre måter også. For eksempel i italiensk kan visse deler av substantivfraser realiseres av pronomenet ne som omtrent betyr «av dem.» For eksempel betyr følgende setning at «jeg har kjøpt tre av dem.
+
+Italiensk: Ne ho comprati tre. Direkte oversatt til norsk: Av-dem jeg-har kjøpt tre.
+
+Vi ser at pronomenet ne realiseres separat fra tallordet tre. Slik realisering av deler av substantivfraser som ne er bare mulig hvis den substantivfrasen det er snakk om er objekt. For eksempel er følgende setning ugrammatisk i Italiensk, fordi "tre av dem" tilsvarer subjektet i setningen:
+
+Ugrammatikalsk: *Tre ne hanno comprato una machina. Direkte oversatt: "tre av-dem har kjøpt en bil»
+
+Språkforskeren Luigi Burzio viste at noen intransitive verb tillater ne-realisering av deler av 

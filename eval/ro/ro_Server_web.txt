@@ -1,0 +1,6 @@
+i destinate afișării în browser într-o formă prietenoasă a informațiilor solicitate. Până să ajungă la utilizator, așa cum am văzut mai sus, serverul web prin intermediul unui scripting special schimbă o serie de informații cu o bază de date stocată.
+
+
+== Legături externe ==
+RFC 2616, the Request for Comments document that defines the HTTP 1.1 protocol.
+C64WEB.COM — Commodore 64 running as a web server using Contiki

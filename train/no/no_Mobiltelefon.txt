@@ -1,0 +1,51 @@
+Mobiltelefon, ofte bare kalt mobil, er en bærbar telefon. Apparatet er en kombinert radiosender og -mottaker som er knyttet til et telefonnett. I et mobiltelefonnettverk kalles håndsettet en mobilstasjon eller terminal, mens de landbaserte radiosenderne kalles basestasjoner. Basestasjonene er vanligvis forbundet med hverandre via fiberkabler og koblet sammen i digitale telefonisentraler hos mobiloperatøren (netteieren).
+Mobiltelefoni avhenger av at det er mobildekning i det området man befinner seg i, og vil avhenge av gunstig avstand til nærmeste basestasjon samt fravær av fysiske hindre. Mobiltelefoni kan også brukes via kommunikasjonssatellitt.
+Mobiltelefoner har eksistert siden midten av 1950-tallet, og det første mobiltelefonnettet i Norge ble opprettet i 1966. Det var likevel ikke før GSM-nettet kom i 1993 at mobile telefonapparater begynte å få en overkommelig pris og størrelse for de fleste. I tidsperioden før GSM ble tatt i bruk var NMT 450 og etterhvert NMT 900 de dominerende telefonsystemene for mobile telefoner. Telefonene var store og dyre, og de ble fastmontert i bil. Ordet «mobil» er opprinnelig latinsk og betyr «bevegelig», og mobiltelefonen kalles mobil fordi den kan tas med nesten overalt.
+
+
+== Historie ==
+
+
+=== Teknisk utvikling ===
+Mobiltelefoner sender signaler til nærliggende basestasjoner, som er tilknyttet det øvrige telefonnettet ved hjelp av optisk fiberkabel – eller i sjeldnere tilfeller via radiolink som bruker mikrobølger. Når mobiltelefonapparatet forlater en basestasjons dekningsområde overfører telefonsentralens datamaskin telefonen til neste basestasjon.
+Mobiltelefonene brukte opprinnelig frekvensmodulering (FM), men for tiden benyttes forskjellige digitale modulasjoner. Mobiltelefoni skjer i dag ved overføring av digitale informasjonspakker, som skilles fra hverandre i nettet ved enten å sendes i kodet (CDMA) eller i tidsdelt (TDMA) kanalaksess.
+Den europeiske, og etterhvert globale, standarden for mobil taletelefoni er GSM, mens USA og andre deler av verden benytter DSC1800, iDEN, cdmaOne, TDMA, og enkelte andre standarder. De ulike standardene er ikke kompatible med mindre mobiltelefonapparatet er satt opp for dual-band, tri-band eller quad-band mottak. Dette gjør det for eksempel mulig å benytte europeiske apparater i Amerika, og til dels omvendt.
+Den manuelle VHF mobiltelefontjenesten, OLT, Offentlig Landmobil Telefoni, kom til Norge i 1966. Den første standarden for automatisk mobiltelefon var det felles nordiske systemet NMT 450 (dvs i 450 MHz båndet) som kom i 1981. Tjenesten NMT 900 kom i 1986. Fra midten av 1990-årene ble det vanlig i Europa å sende over 900 MHz, dvs høyere i UHF-båndet. Høyere frekvenser gir større overføringskapasitet, men kortere rekkevidde.
+
+
+==== Markedsandeler for 2G-teknologiene ====
+De globale markedsandelene for mobiltelefoniteknologier i 2008 er:
+GSM 81,0% (inkl GPRS, EDGE,UMTS, HSDPA, HSUPA)
+CDMA 11,8%
+W-CDMA 5,6% (inkl FOMA)
+iDEN 0,9%
+PDC 0,5%
+TDMA 0,2%
+
+
+=== Mobiltelefoni på 1980-tallet ===
+
+
+== Mobilbruk og mobilpenetrasjon ==
+Se egen artikkel og mobilt verdenskart: Mobildekning
+Det er i 2008 om lag 3 milliarder mobilbrukere i 224 land og regioner i verden, fordelt på 930 mobilnettverk. Mobilpenetrasjon er antallet abonnementer per innbygger. Penetrasjon over 100 % forekommer, og betyr vanligvis at enkelte har to eller flere abonnementer, og at SIM-kort også brukes i styringssystemer, alarmsystemer, ol.
+Tabellen viser antall mobilkunder per region og verdensdel fra 2001 til 2008:
+Det er Europa som er verdens beste mobilmarked målt i utbredelse per innbygger, og inntekt per bruker. I år 2000 var 37% av alle verdens mobiltelefoner i Vest-Europa, mot 31% i Asia. Målt i verdi er fortsatt Europa verdens største mobilmarked, men Asia er i ferd med å innhente denne posisjonen. Antallet brukere er allerede kalrt større i Asia, med 41% av mobilbrukerne i slutten av 2007, mot 27% for Europa.
+
+
+=== Største mobilmarkeder etter land ===
+De største markedene 31.desember 2006, med mobilpenetrasjon i parentes, er:
+
+Med over 500 millioner brukere er Kina verdens fremste mobilnasjon, etterfulgt av USA, India, Russland og Japan. Målt per innbygger har derimot østeuropeerne størst mobilbruk, mens inntekten per kunde er størst i Vest-Europa. I Vest-Europa har nå bare Belgia og Frankrike under 100 % mobilpenetrasjon. I Øst-Europa har mange land langt høyere mobilpenetrasjon enn f.eks USA, Japan og Frankrike. Mobilen er utvilsomt et viktig statussymbol i mange nye markeder, i tillegg til at fastnettet ofte ikke er noe alternativ.
+Utviklingen av mobilmarkedet i USA går langsommere enn man nok kunne forvente, fortsatt har under 80 % skaffet seg mobiltelefon. Flere inkompatible teknologier har nok hemmet veksten, og fortsatt er tjenester som f.eks MMS ikke vanlig i amerikanske mobilabonnement. Mest avansert er brukerne og tjenestene i Japan, som har hatt 3G-tjenester siden 1998 og nå er på andre generasjons turbo-3G. Men penetrasjonen i Japan er ikke den høyeste – fortsatt har mange japanere ikke mobiltelefon.
+Veksten i mobilbruk er sterkest i Afrika, og har vært det siden 2005, men har siden dette året likevel falt fra 60 % årlig til 40 % årlig. Før 2005 var veksten sterkest i Øst-Europa med opptil 70 % vekst. Etter sterke veksttall de siste ti årene har mobilveksten klart avtatt i hele verden, alle verdensdeler har nå en vekst på 10-35 % og alle verdensdeler vokser saktere enn i 2001.
+
+
+== Mobiltelefoni i Norge ==
+
+Normalt vil en mobilsamtale i Norge hovedsakelig gå via fiberkabel i bakken. Dersom mobiltelefoni brukes til å forbinde maskiner med hverandre, snakker vi om maskin-til-maskin-kommunikasjon.
+Mobiltelefoner i Norge støtter hele frekvensbåndet med alle operatørers frekvensblokker i 900-båndet, og kan derfor i utgangspunktet brukes i kundeforhold hos alle tilbyderne. Derimot låser ofte selgerne telefonen til en operatør. Det er SIM-kortet som sørger for at man hele tiden er tilknyttet nettet til bare et mobilselskap, slik at dette selskapet kan fakturere tjenestene. Mobiltelefoner som støtter to, tre eller fire ulike frekvensområder kalles dual-band-, tri-band- eller quad-band- telefoner, og kan svitsjes over i et annet bånd manuelt eller automatisk, f.eks når man er i utlandet.
+
+
+=== Bruk av mobiltelefon i bil ===
+I Norge er det forbudt å bruke håndholdt mobiltelefon under kjøring. Mobiltelefonen skal være fastmontert. Overtredelse av regelen gir pr. desember 2008 en bot på 1300 kroner. Følgende er fastsatt av Samferdselsdepartementet 17. desember 1999 med hjemmel i vegtrafikklov 18. juni 1965 nr. 4 § 23 b: "Fører av motorvogn må ikke bruke mobiltelefon under kjøringen, med mindre mobi

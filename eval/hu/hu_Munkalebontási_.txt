@@ -1,0 +1,14 @@
+ projektmenedzsment és a team megtalálja az iparágnak megfelelő legjobb eljárást vagy gyakorlatot. Íme néhány példa a teljesítési feltételekre:
+• Helyszíni szemlék. A legtöbb iparágban a helyszíni szemlék nagyon gyakoriak a termékfejlesztés korai szakaszában, amikor még semmi kézzelfoghatót nem lehet tesztelni. A helyszíni szemléket bejárásnak is nevezik, és azon az elven alapulnak, hogy 3-6 ember többet lát a helyszínen, mint egy. Ha sikeres a szemle, az nem garantálja azt, hogy a termék tökéletes lesz, de a tapasztalat azt mutatja, hogy azok a feladatok, amelyek esetén helyszíni szemlét végeztek, kimagaslóan jobb eredményt hoztak a fejlesztési ciklus végén – és ez költséghatékonyabb munkát eredményezett a megvalósítás szakaszban.
+• Ellenőrző listák. Egy repülőgépgyártó vállalati mérnökcsoport ellenőrző listákat állított össze az új műszaki rajzok értékelésére. A listák azokat az egységes tesztelési pontokat tartalmazták, amelyeken minden műszaki rajznak át kell mennie, és a főmérnök is ezeket használja a többi mérnök rajzainak értékelésére. Ebben az esetben a műszaki rajzok teljesítési kritériuma az, hogy teljesítsék az ellenőrző lista pontjait.
+• Szisztematikus tesztelés. A termék későbbi életciklusaiban szinte mindig alkalmaznak teszteket. A repülőgépgyártóknak például sokféle tesztlaboratóriumuk van, ahol az igénybevételeket szimulálják, amelyeknek a repülőgép ki is lesz téve működése során. A szigorú, szisztematikus tesztek teljesítése teljesítési kritériumként definiálható.
+A minőség javítása mellett a teljesítési kritériumok abban is segítenek, hogy jobban megértsük az egyes feladatokat, és így pontosabb becsléseket készíthessünk, és nagyobb esélyünk legyen a sikerre.
+
+
+== Források ==
+• Eric Verzuh: Projektmenedzsment, HVG Zrt., Budapest, 2006
+• www.szobotka.extra.hu/10Munkalebontasi%20szerkezet%206.doc [Internet] 2012.12.12.
+• competterra.com/gis/incplan/inc14h.htm [Internet] 2012.12.12
+
+
+== Jegyzetek ==

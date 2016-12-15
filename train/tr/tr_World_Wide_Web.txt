@@ -1,0 +1,44 @@
+World Wide Web (kısaca WWW veya Web), İnternet üzerinde yayınlanan birbirleriyle bağlantılı hiper-metin dokümanlarından oluşan bir bilgi sistemidir. Bu dokümanların her birine Web sayfası adı verilir ve Web sayfalarına İnternet kullanıcısının bilgisayarında çalışan Web tarayıcısı adı verilen bilgisayar programları aracılığıyla erişilir. Web sayfalarında metin, imaj, video ve diğer multimedya ögeleri bulunabilir ve diğer bağlantı ya da link adı verilen hiper-bağlantılar ile başka Web sayfalarına geçiş yapılabilir.
+İnternet ve Web terimleri aynı olguyu tanımlamaz. Zira Web sadece İnternet üzerinde çalışan bir servistir. Web kavramı, CERN'de bir bilgisayar programcısı olan Tim Berners-Lee'nin HTML adlı metin işaretleme dilini geliştirmesiyle oluşmuştur. Bugün de kendisinin başkanı olduğu W3C (World Wide Web Consortium) tarafından standartları belirlenmektedir.
+
+
+== Yapısı ==
+Web’in temeli İnternet'tir. Web İnternet üzerinde kurulmuştur ve İnternet'in sunduğu mekanizmalardan çoğunun kullanılmasını sağlar. İnternet'in fiziksel görünüşleri –bilgisayarlar, ağlar ve servisler– Dünya üzerindeki diğer binlerce bilgisayara bağlanmamıza izin verir. Web, İnternet'in en tepesindeki soyutlanmış genel servisler kümesidir. World Wide Web (W3), insanların fikir ve projelerinin paylaşılmasını sağlayan bir bilgi ve kültür havuzudur. İstemci-sunucu uygulamaları ile yapılan birçok organizasyon üzerinde Web tarayıcıları istemci olarak çalışabilirler. Web yürütümü standart İstemci-sunucu modelini izler. Aşağıdaki şekilde gösterildiği gibi "Web tarayıcısı" adı verilen programı çalıştıran bir istemci bilgisayar ile Web sunucu yazılımı çalıştıran bir sunucu bilgisayar arasındaki etkileşime "istemci-sunucu" etkileşimi adı verilir. İstemci bilgisayar sunucudan HTTP'yi (Hypertext Transfer Protocol) ve İnternet mesaj standardı TCP/IP'yi kullanarak bir doküman ister ve sunucu istemcinin göstereceği dokümanı geri döndürür.
+"World-Wide Web" ibaresi HTTP ile anlaşan sunucuların kolektif ağını ifade etmek için kullanılır. HTTP, var olan bilgilerin kullandıkları protokolün küresel yapısıdır.
+Web tarayıcılarının ve sunucularının kendi aralarında iletişim için kullandıkları protokole HTTP (Hypertext Transfer Protocol) adı verilir. Bunun için Web sunuculara genellikle HTTP sunucu veya HTTP Deaemons (HTTPD) denir.
+Bu örnekte bir tarayıcı kullanıyorsunuz (Netscape, Mosaic, veya diğer bir tarayıcı) ve “ Webmaster Magazine Online'”ı referans olarak tıklıyorsunuz. Tarayıcı, sizin bu nesneye ulaşmak için http://tr.wikipedia.org - Web adresine (veya URL) gitmek istediğinizi anlayacaktır.
+
+
+=== Sunucular ve istemciler arasındaki iş paylaşımı ===
+Tarayıcı, istemcinin isteğini sunucuya iletir. İsim sunucularının, domain isimlerinin, adres isimlerinin ve fiziksel konumların tutulduğu diğer araçlarla iletir. Tarayıcı www.cio.com için istekleri karşılayan makineye doğru iletir.
+Bilgiler Web sunucuya gelince sunucu onları başka bir işleme gönderir (arama işlemi veya bir uygulama) ve bir süre bekler. Cevabı alırsa nesneyi hedef tarayıcınıza gönderir. Tarayıcı birçok değişik parçayı birlikte tutar. Bir Web sayfası ağ üzerindeki birçok nesnenin referansını tutabilir. Hepsini birlikte çeker ve son ürünü geri sunar.
+
+
+== İstatistikler ==
+2001'deki çalışmaya göre,çoğunlukla görünmez Web ya da derin Web'de 550 milyardan fazla belge vardı. 2.024 milyon Web sayfasının anketinin belirlediğine göre İngilizce sayfalar %56,4'le birinci sırada, ardından %7,7 ile Almanca, %5,6 ile Fransızca ve son olarak %4,9 Japonca gelir. Örnek olarak 75 farklı dilde Web arması olarak kullanılan yeni bir çalışma, Ocak 2005 sonu itibariyle kamuya indekslenebilir 11,5 milyar Web sayfası bulunduğu belirlenmiştir. Mart 2009 itibariyle endekslenebilir Web 25 milyardan fazla sayfa içerir. 25 Temmuz 2008'de Google yazılım mühendisleri Jesse Alpert ve Nissan Hajaj, Google Ara'da benzersiz URL'ler bulduklarını açıkladı.
+
+
+== Hypertext ==
+
+WWW belgelerinin temel özelliklerinden biri Hypertext yapılarıdır (şekil 2). Grafik terminalde bir referans alt çizgili bir yazı veya işaretçi ile sunulur. Kullanıcı, bunu tıklar ve referans edilen belge gelir. [TBL, WWW: An Information Infrastructure] Bu yöntem bilgilerin kopyalanmasını gereksiz kılar, verinin bir kere yüklenmesi yeterlidir ve ona referans edilen bütün bağlarla orijinal belgeye ulaşılabilir.
+
+
+== URL ==
+
+URL Web nesnesini bulmak için Web istemcisinin ihtiyacı olan erişim yöntemini (nasıl), konumunu (nerede), ve sunucu ismini (ne) belirtir. URL'nin genel yapısı: erişim-yöntemi://sunucu-ismi[: port] / konum şeklindedir.
+
+
+== Nasıl çalışır? ==
+1. İnternet üzerinde kendi sitesini barındırmak isteyen abc firması ya da kişisi, kendisine ait bir alan (domain) adı seçer. Örneğimizde bu alan adı abc.com olsun. Daha sonra kişi ya da firma, alan adı kaydı yapabilen bir firmaya giderek (registrar) kendisi için belirlemiş olduğu alan adını, belli bir süre için (bir yıldan az olmamak şartı ile) tescil ettirir. 2. Nasıl ki bir yere gitmek için gidilecek yerin adresine ihtiyaç varsa sanal dünya olan İnternet’te de bir siteye girmek için o sitenin adresine ihtiyacımız vardır. İnternet üzerindeki sunucuların adresleri IP (Internet Protocol) denilen her biri 0..255 arasında olan dört basamaktan oluşur (Ör: 10.23.12.5; 192.168.5.3 gibi).
+İnternet kullanıcılarının girmek istedikleri Web sitelerinin IP adreslerini akıllarında tutmaları çok zor olacağından İnternet üzerinde alan adı – IP adresi eşleştirmesi yapan servisler yer almaktadır. Bu servislere DNS (Domain Name Services – Alan Adı Servisi) adı verilir. DNS’ler kendilerine sorulan alan adlarını IP adreslerini soran kullanıcılara verirler. Çok basit olarak bunu bir telefon rehberine benzetebilirsiniz.
+Alan Adı IP Adresi
+abc.com 13.56.11.120
+vyz.com 168.32.45.11
+bcg.net 89.86.10.51
+... ...
+DNS Tablosu: Mantıksal gösterim
+Dolayısıyla alan adını tescil ettirirken hangi DNS sunucusunda alan adına ait IP adresi bulunacak ise kayıt yapan firmaya (egistrar’a) bu bilgi verilir. Böylece alan adına ait IP adresi, tüm Dünya'daki İnternet kullanıcıları tarafından erişilebilir duruma gelir. 3. Bir İnternet kullanıcısı www.abc.com sayfasına girmek istediği zaman İnternet tarayıcısının (Internet Explorer, Firefox, Opera v.b.) adres çubuğuna www.abc.com yazar. İnternet üzerindeki adresleme yukarıda anlatıldığı gibi IP tabanlı olduğu için tarayıcının bu alan adının IP adresini öğrenmesi gerekmektedir. Öğrenmek için ise kullanıcı bilgisayarında tanımlı olan DNS sunucusuna giderek abc.com’un IP adresini sorar. 4. DNS sunucusundan cevap olarak abc.com’un IP adresinin bilgisini alır (tıpkı bilinmeyen numaralar için yapılan telefon numarası sorgulama servisi gibi) 5. Bu işlemin sonunda www.abc.com’un IP adresini öğrenen İnternet kullanıcısının tarayıcı programı (Internet Explorer, Firefox v.b.), İnternet üzerinden abc.com’un Web sunucuna ulaşır ve kendisine üzerinde yüklü bulunan Web sayfasına ilişkin ana sayfa dosyasının gönderilmesini ister. 6. www.abc.com’un Web sunucusu, İnternet kullanıcısına ana sayfa dosyasını gönderir. Genellikle ana sayfalar default.html, default.php, default.asp, index.html, index.php, index.asp gibi dosyalardan oluşur. Kullanıcı bilgisayarına ana sayfa dosyası yüklendikten sonra tarayıcı program tarafından (Internet Explorer, Firefox v.b), dosya görüntülenir. Kullanıcı, ana sayfa üzerindeki başka bağlantılara tıklayarak www.abc.com Web sunucusunun kendisine başka dosyalar göndermesini de isteyebilir. Sunucudan gelen dosyalar yine tarayıcı altından gösterilecektir.
+
+
+== Gizlilik ==
+Zaman ve

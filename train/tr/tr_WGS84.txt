@@ -1,0 +1,16 @@
+WGS84, Küresel Konumlama Dizgesi'nin kullandığı yerlem yöntemlerinden birisidir.
+WGS84, üç boyutlu kartezyen yerlem dizgesi ve ilişkili elipsoit'ten oluşur. WGS84 konumları ya X-Y-Z kartezyen yerlemleri olarak ya da enlem, boylam ve elipsoit yükseklik yerlemleri olarak tanımlanırlar. Yeryüzü kütlesinin ortası bu dizgenin ortası olarak alınmıştır.
+Günümüzde otomobillerde kullanılan araç seyir sisteminin haritalarındaki konumlar WGS84 olarak aygıtın belleğinde tutulur.
+
+1984 yılında kurulan ve 2004 yılında gözden geçirilmiş son sürümü WGS 84 (4326 diğer adıyla WGS 1984, EPSG) 'dir. Daha önceki taslakları WGS 72, WGS 66 ve WGS 60 'dır. WGS 84 Küresel Konumlama Sistemi tarafından kullanılan referans koordinat sistemidir.
+
+
+== Ana parametreleri ==
+WGS 84 koordinat kökeni Dünya kütlesinin merkezinde bulunmak üzere tasarlanmıştır; hatanın 2 cm'den az olduğuna inanılmaktadır.
+Kraliyet Gözlemevinde Greenwich meridyeni sıfır boylamı, WGS 84 meridyeni IERS referans meridyeni olan 5.31 yay saniye veya 102.5 metre (336.3 ft) doğusundadır. WGS 84 datum yüzeyi, kutuplardan basık ve ekvatorda ana (ekvatoryal) yarıçapı a = 6.378.137 m ile küremsi (elips biçiminde) ve düzleştirme f = 1 / 298,257223563 olmaktadır. Kutupsal yarım tâli B ekseninde daha sonra bir katı (ürün 1-f) ya da 6356752,3142 metreye eşittir.
+Şu anda, WGS 84 2004 yılında gözden geçirilen EGM96 (Dünya Yerçekimi Modeli 1996 - Earth Gravitational Model 1996) jeoidini kullanır. Bu jeoid (100 km yatay çözünürlük içerir) derecesi 360 olan bir küresel harmonik dizisi vasıtasıyla nominal deniz seviyesi yüzeyini tanımlar. WGS 84 referansından EGM96 jeoidin sapmaları yaklaşık -105 m ve yaklaşık 85 m elipsoit aralığındadır. EGM96 EGM84 olarak anılacak esas WGS84 jeoidinden farklıdır.
+
+
+== Tarihçe ==
+Çeşitli ulusal ölçüm sistemlerini tamamlamak F.R. Helmert'in ünlü kitapları Fiziksel Jeodezi Matematik ve Fizik Kuramı (Mathematische und Physikalische Theorien der Physikalischen Geodäsie) ile 19. yüzyılda başlar. Avusturya ve Almanya'da kurulan Uluslararası Jeodezi Merkez Bürosunca (Zentralbüro für die Internationale Erdmessung) Dünya'nın küresel elipsoit bir dizisi elde edilmiştir.
+Tüm dünya için bir birleşik jeodezi sistemi birçok nedenle 1950'lerde teme

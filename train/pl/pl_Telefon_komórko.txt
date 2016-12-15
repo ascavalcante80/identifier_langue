@@ -1,0 +1,76 @@
+Telefon komórkowy, potocznie komórka – telefon działający w oparciu o telefonię komórkową, czyli urządzenie telekomunikacyjne umożliwiające swoim użytkownikom bezprzewodowe połączenia na obszarze złożonym z tzw. komórek.
+Obecnie absolutna większość telefonów komórkowych działa w systemach cyfrowych (np. GSM, DCS, PCS, UMTS). W starszych rozwiązaniach stosowano sieci analogowe (NMT, AMPS).
+
+
+== Historia ==
+Próby stworzenia tych telefonów komórkowych powstawały w latach 40. i 50. Pierwszy prototyp telefonu komórkowego wykonała w 1956 szwedzka firma Ericsson. Telefon ważył 40 kilogramów, a kształtem przypominał walizkę. Urządzenie to kosztowało tyle co samochód. 3 kwietnia 1973 w Nowym Jorku firma Motorola wprowadziła do obrotu swój pierwszy telefon komórkowy DynaTAC (DYNamic Adaptive Total Area Coverage). Telefon ważył 0,8 kg i miał wymiary cegły. 16 września 1975 opublikowano amerykańskie zgłoszenie patentowe US 3,906,166 firmy Motorola pod tytułem Radio telephone system. 21 sierpnia 1983 Federalna Komisja Łączności dopuściła na rynek DynaTAC 8000X. 3 grudnia 1992 roku wysłano po raz pierwszy wiadomość SMS.
+
+
+== Możliwości telefonów komórkowych ==
+Współczesny telefon komórkowy, oprócz realizowania podstawowej funkcji prowadzenia rozmowy, z reguły wyposażony jest w wiele dodatkowych opcji. Tej klasy telefon zwany jest smartfonem. Opcje te m.in.:
+wykorzystują właściwości sieci (np. SMS lub ich rozwinięcia takie jak EMS, MMS, cyfrowa transmisja danych),
+opierają się na dodatkowym oprogramowaniu np. budzik, notes, organizator, kalkulator i innych aplikacjach mobilnych.
+posiadają dodatkowe, wbudowane urządzenia np. dyktafon, radio, odtwarzacz MP3, GPS, kamera czy aparat fotograficzny (aparaty pracujące w technologii 3G oferują możliwość prowadzenia wideokonferencji),
+łączą się z internetem (zobacz też Tethering),
+mają własne gry (najnowsze modele zamiast klawiszy wykorzystują ruchy użytkownika),
+niektóre typy posiadają możliwość obsługi dwóch kart SIM jednocześnie,
+akceptacja kart płatniczych z wykorzystaniem telefonu komórkowego.
+
+
+== Śledzenie użytkowników telefonów komórkowych ==
+Zasadniczo wszystkie telefony GSM są relatywnie łatwe do namierzenia. Najprostszy telefon GSM, nawet w momencie gdy nie prowadzona jest rozmowa, podaje dane o sobie do stacji BTS, gdzie zapisanie ich pozwala na ustalenie pozycji telefonu (triangulacja, siła sygnału do danej bazy). Teoretycznie dane te wykorzystywane są wyłącznie przez uprawnione organy, aczkolwiek nawet w tym przypadku wielokrotnie stwierdzono podawanie danych, bez uzasadnienia. Wraz z rozwojem technologii stwierdzono wykorzystywanie zawirusowanych aplikacji (np. w celu wywiadu gospodarczego), ale nie tylko. Między innymi wg pozwu wobec firmy Microsoft śledzenie odbywało się za pośrednictwem kamery, która wskazuje położenie telefonu za pomocą GPS (bez zgody użytkowników). Stwierdzono i udowodniono zbieranie informacji przez Apple i Google. Sam iPhone (telefon nie ma fabrycznej możliwości wyjęcia baterii) regularnie zapisuje na telefonie pozycje, a dodatkowo użytkownicy na forum Apple’a, skarżą się na robienie przez smartfony (bez ich zgody i wiedzy) zdjęcia przednią kamerką, a później (również bez pytania) wyświetlają takie grafiki podczas rozmowy w trybie FaceTime.
+
+
+== Warstwy oprogramowania ==
+W telefonie komórkowym najczęściej istnieją 3 warstwy oprogramowania.
+
+
+=== System operacyjny ===
+Telefony pracują pod kontrolą systemu operacyjnego, np. Android, Blackberry, Symbian, Maemo, iOS, RIM, Microsoft Windows Mobile, REX, OSE, Brew Mobile Platform, Firefox OS, Bada.
+System operacyjny odpowiedzialny jest za zarządzanie pamięcią, wątkami, komunikację z warstwą sprzętową.
+
+
+=== Platforma ===
+Na systemie operacyjnym zazwyczaj działa platforma, która ułatwia szybkie tworzenie oprogramowania na telefony i posiada wiele podstawowych funkcji telefonu. Są to np.:
+Android (otwarta platforma stworzona pod przewodnictwem Google; oparta na jądrze Linux),
+APOXI (Infineon; umożliwia stosowanie wielu systemów operacyjnych),
+Bada OS (Samsung Electronics),
+BREW (Qualcomm; dla systemu operacyjnego REX),
+iOS (Apple; oparty na dystrybucji BSD),
+MontaVista (Motorola), oparta na systemie Linux,
+MOTOMAGX (Motorola), oparta na systemie Linux,
+Series 60 (Nokia; dostosowana do systemu operacyjnego Symbian),
+UIQ (UIQ; dostosowana do systemu operacyjnego Symbian),
+Windows Phone (Microsoft),
+Firefox OS (Mozilla Corporation).
+Blackberry OS (Blackberry)
+
+
+=== Oprogramowanie telefonu ===
+Jest to warstwa tworzona przez producenta indywidualnie dla każdego telefonu i odróżniająca go od innych telefonów. Producent często tworzy łaty do oprogramowania i umieszcza je na swojej stronie internetowej. Należy ją wówczas pobrać i wgrać do telefonu.
+
+
+=== Warstwa oprogramowania ===
+Warstwa dodatkowych aplikacji które użytkownik może samodzielnie tworzyć, wgrywać oraz kasować
+Dzięki możliwości wykorzystania języka programowania Java firmy Sun istnieje możliwość tworzenia aplikacji dla telefonów komórkowych. Dla telefonów nowszych generacji udostępniane są środowiska deweloperskie (np. dla systemów Symbian, Linux), które umożliwiają tworzenie aplikacji bezpośrednio na platformę systemową obsługującą dany telefon.
+
+
+== Podział telefonów komórkowych ==
+Ze względu na obudowę rozróżniamy telefony komórkowe jako:
+jednobryłowy, np. Sony Ericsson K750i
+z klapką, np. Sony Ericsson W300i
+rozsuwany, np. Nokia 5200
+obrotowy, np. Sony Ericsson W550i
+dotykowy, np. iPhone
+Do telefonów stosuje się różnego rodzaju karty pamięci typu Flash EEPROM, m.in. Memory Stick, MultiMedia Card, Secure Digital.
+Telefon o rozbudowanych funkcjach organizera i przeglądarki, zawierający arkusz kalkulacyjny itp. nazywany bywa smartfonem.
+
+
+== Sprzedaż telefonów na świecie ==
+W drugim kwartale 2010 największy udział w sprzedaży telefonów komórkowych posiadała fińska Nokia – 36,1%, na drugim miejscu znajdował się Samsung – 20,7%. Kolejne pozycje zajmowały firmy: LG (10%), Research In Motion oraz Sony Ericsson (3%). W sumie, pięciu pierwszych potentatów w produkcji sprzętu elektronicznego posiadało ok. 80% udziałów w rynku związanym z produkcją i sprzedażą telefonów komórkowych.
+Infonetics prognozowało, że w 2012 liczba aktywnych użytkowników wszystkich systemów telefonii mobilnej (GSM, W-CDMA, LTE, TD-CDMA, cdmaOne, CDMA2000) przekroczy 6 mld.
+
+
+== Telefony komórkowe w Polsce ==
+Jak wynika z przeprowadzonych w Polsce w 2006 roku badań, penetracja telefonii komórkowej – czyli stosunek aktywnych kart SIM do liczby mieszkańców, wynosił 96,27% (średnia w pozostałych krajach UE wynosiła w październiku 2006 roku 107,4%). Wśród osób w wieku od 13 do 19 lat odsetek posiadaczy wynosił 91%, natomiast w przedziale wiekowym 20–29 wynosił 95%. Według kryteriów mieszkaniowych, najwięcej posiadaczy było wśród ludności średniej wielkości miast – 79%, a pod względem wykształcenia dominowały osoby z wykształceniem wyższym – 86%. Odsetek osób posiadających więcej niż jeden telefon komórkowy pod koniec 2006 roku to ok. 11% użytkowników.
+Według stanu na koniec 2010 r. liczba aktywnych kart SIM tele

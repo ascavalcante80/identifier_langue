@@ -1,0 +1,31 @@
+Obrazowanie metodą rezonansu magnetycznego, zwyczajowo w skrócie rezonans magnetyczny – nieinwazyjna metoda uzyskiwania obrazów wnętrza obiektów. Ma zastosowanie w medycynie, gdzie jest jedną z podstawowych technik diagnostyki obrazowej (tomografii) oraz w badaniach naukowych.
+Stosowane w literaturze skróty to RM (rezonans magnetyczny), MRI (ang. magnetic resonance imaging), NMR (ang. nuclear magnetic resonance), MR (ang. magnetic resonance), RNM (pochodzenie niejasne), często zamiennie ze znaczeniem „spektroskopia magnetycznego rezonansu jądrowego”.
+
+
+== Zasada działaniaEdytuj ==
+
+Obrazowanie magnetycznorezonansowe opiera się na zjawisku magnetycznego rezonansu jądrowego. Zjawisko to może zajść w próbce zawierającej jądra o różnym od zera spinie i umieszczonej w silnym stałym polu magnetycznym. W takich warunkach próbka ulega częściowej polaryzacji opisywanej wektorem magnetyzacji. Jeśli tak spolaryzowana próbka zostanie poddana działaniu innego pola magnetycznego, które rotuje w płaszczyźnie prostopadłej do pola głównego, dla pewnej dokładnie określonej częstości tej rotacji zaobserwować można oddziaływanie między polem a magnetyzacją próbki. Efektem tego oddziaływania jest obrót magnetyzacji próbki wokół rotującego wektora indukcji magnetycznej, co w efekcie pozwala wyprowadzić magnetyzację z położenia równowagi, w którym początkowo się znajduje.
+Wyprowadzona z położenia równowagi magnetyzacja precesuje wokół kierunku pola głównego, przy czym ruch ten może być obserwowany. Zanikający sygnał, nazywany sygnałem swobodnej precesji, ma częstość rezonansową, która dana jest bardzo prostą zależnością – jest proporcjonalna do pola, w jakim znajduje się próbka.
+Jeśli różne części próbki znajdują się w różnych polach, nie można mówić o jednej częstości odbieranego sygnału; mamy do czynienia z wieloma częstościami a najczęściej z ciągłym jej widmem. Jeśli mapa pola, w jakim znajduje się próbka jest znana, informacja przestrzenna może zostać odkodowana a zebrane widma mogą zostać zamienione na obraz próbki. Modulowanie pola głównego i jednoczesny pomiar sygnału rezonansu magnetycznego są podstawą tej metody obrazowania.
+Odkodowanie obrazu nazywane jest rekonstrukcją. Jądrem rezonansowym najczęściej wykorzystywanym w obrazowaniu RM jest proton — jądro atomu wodoru mające spin połówkowy i występujące powszechnie w obiektach biologicznych w cząsteczkach wody.
+
+
+== ZastosowaniaEdytuj ==
+
+Obrazowanie za pomocą rezonansu magnetycznego nie wymaga użycia potencjalnie szkodliwego promieniowania rentgenowskiego i jest szczególnie przydatne do wykrywania zmian chorobowych w tkankach, zwłaszcza zasłoniętych kośćmi, co wykorzystywane jest często do badania mózgu, mięśni i serca. Obrazowanie metodą RM wykorzystywane jest w badaniach praktycznie całego ciała.
+
+
+=== Zastosowania pozamedyczneEdytuj ===
+Poza medycyną spektroskopia rezonansu magnetycznego może być wykorzystywana na przykład przez służby celne do wykrywania kokainy rozpuszczonej w alkoholu bez otwierania butelek. Technika ta została opracowana przez naukowców na Politechnice Federalnej w Lozannie.
+
+
+== Rodzaje skanów MREdytuj ==
+Obrazowanie MR może być przeprowadzone w różnych sekwencjach. Pozornie nieznaczne zmiany w ustawieniu podstawowych parametrów obrazowania mogą doprowadzić do uzyskania nieco odmiennych danych, dających różne możliwości diagnostyczne. Ze względu na parametry podstawowe, metody obrazowania dzieli się na:
+obrazy T1-zależne (zob. ilustracja), najlepiej oddające wizualnie strukturę anatomiczną mózgu, gdzie istota biała jest ukazywana w jasnych kolorach, zaś istota szara w ciemnych, płyn mózgowo-rdzeniowy, ropień i guz na ciemno, a miąższ wątroby na jasno
+obrazy T2-zależne, na których istota biała ukazywana jest w ciemniejszych barwach, zaś istota szara w jaśniejszych, płyn mózgowo-rdzeniowy, guz, ropień, naczyniak wątroby i śledziona na jasno, a wątroba i trzustka na ciemno
+FLAIR (ang. fluid-attenuated inversion recovery), pewna modyfikacja sekwencji T2-zależnej, gdzie obszary z małą ilością wody ukazywane są w ciemniejszych barwach, zaś obszary z dużą ilością wody w jaśniejszych. Obrazowanie w tej sekwencji znajduje dobre zastosowanie w wykrywaniu chorób demielinizacyjnych.
+Obrazowanie dyfuzyjne mierzy dyfuzję molekuł wody w tkance. Wyróżnia się tutaj następujące techniki: obrazowanie tensora dyfuzji (ang. diffusion tensor imaging – DTI), które może być zaadaptowane do obrazowania zmian w połączeniach istoty białej, oraz obrazowanie zależne od dyfuzji (ang. diffusion-weighted imaging – DWI), które wykazuje dużą skuteczność obrazowania udarów mózgu.
+Uzupełnieniem techniki RM jest spektroskopia rezonansu magnetycznego in vivo, pozwalająca na uzyskiwanie widm rezonansu magnetycznego badanych obszarów organizmu.
+
+
+== BezpieczeństwoEdyt

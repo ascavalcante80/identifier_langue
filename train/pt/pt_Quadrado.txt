@@ -1,0 +1,48 @@
+O quadrado é um quadrilátero regular, ou seja, uma figura geométrica com quatro lados de mesmo comprimento e quatro ângulos retos. 
+
+
+== Fórmulas métricas ==
+O perímetro de um quadrado de lado  é:
+
+A área:
+
+O ângulo inscrito:
+
+O ângulo interno:
+
+O raio da circunferência inscrita  :
+
+O raio da circunferência circunscrita  :
+
+Comprimento da diagonal  :
+
+Área interna:
+
+
+== Classificações ==
+
+Um quadrado é um caso particular de um: 
+quadrilátero plano convexo, pois é um polígono plano convexo de quatro lados;
+paralelogramo, pois os seus lados opostos são paralelos;
+losango, pois os seus lados possuem as mesmas medidas;
+retângulo, pois seus ângulos são todos congruentes;
+
+
+== Propriedades ==
+
+As diagonais de um quadrado são  vezes maiores que a medida de seus lados. O comprimento das diagonais corresponde ao diâmetro de uma circunferência circunscrita ao quadrado.
+Os lados de um quadrado correspondem à medida do diâmetro de uma circunferência inscrita ao quadrado.
+O quadrado é o quadrilátero de menor perímetro que têm uma dada área. Reciprocamente, o quadrado é o quadrilátero de maior área para um dado perímetro.
+Como o quadrado também é um losango, suas diagonais são perpendiculares, dividem seus ângulos internos na metade e se interceptam no centro do quadrado.
+
+
+== Traçar com Régua e Compasso ==
+
+Para traçar um quadrado de diagonais d e centralizado no ponto O:
+Marcar o ponto O onde será o centro do quadrado.
+Desenhe uma linha horizontal que passe pelo ponto O.
+Utilizando como centro o ponto O, traçe uma circunferência de diâmetro d, desta forma obteremos dois pontos de intersecção com a reta horizontal do passo 2.
+Sem alterar a abertura do compasso e utilizando agora como centro alguma das duas interesecções do passo 3, trace um arco até cortar em dois pontos a circunferência inicial.
+Una os dois pontos traçados no passo 4 com uma linha reta (vertical), esta reta produzirá um novo ponto de interesecção sobre a reta horizontal inicial.
+Faça o centro com compasso no ponto encontrado no passo 5 e abra o mesmo até o ponto central O e traçe um semicírculo que intercepte em dois pontos na linha vertical do passo 5.
+Desenhe uma linha reta que passe por um dos pontos do passo 6 e pelo ponto central O, estendendo-a até que ambos os lados interseccionem a ci

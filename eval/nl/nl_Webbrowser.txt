@@ -1,0 +1,13 @@
+of zogenaamde CSS-filters (doorgaans "CSS hacks" genaamd).
+Iedere browser maakt gebruik van het HTTP en van HTTPS om te communiceren met de server. Veel browsers bieden tevens voorzieningen om gebruik te maken van FTP- of P2P- en IRC-protocollen zoals het door Opera ondersteunde BitTorrent-protocol. "Resources" (pagina's, afbeeldingen, video's etc.) op het internet worden aangegeven door een URL (Uniform Resource Locator), een type URI (Uniform Resource Identifier). Dit is te zien aan het eerste gedeelte van de URL, http://nl.wikipedia.org bijvoorbeeld. Webpagina's worden opgemaakt in HTML of XHTML, vaak in combinatie met CSS. Deze informatie wordt vervolgens verwerkt door de render-engine van de browser om zo de pagina weer te geven. In een pagina zijn vaak afbeeldingen te vinden, meestal worden de types PNG, JPEG of GIF gebruikt.
+
+
+== Zie ook ==
+Lijst van webbrowsers
+Bookmarklet
+Plug-in
+
+
+== Externe links ==
+(en) De geschiedenis van Internet Explorer
+(en) Overzicht van historische webbrowsers

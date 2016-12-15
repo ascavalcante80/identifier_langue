@@ -1,0 +1,23 @@
+Kvadrat je poseban pravilni četverostrani pravougaonik, romb, deltoid, paralelogram, i jednakokraki trapezoid/trapezium.
+
+
+== Formule ==
+Obim kvadrata se izračunava formulom  a površina formulom , gdje je a stranica kvadrata.
+
+
+== Standardne koordinate ==
+Koordinate tjemena kvadrata čiji se "centar" (presjek njegovih dijagonala) nalazi u koordinatnom početku i čija je stranica  su (±1,±1), dok se koordinate ostalih tačaka imaju vrijednost od -1 do 1 (npr. tačka A (x,y)  i ).
+
+
+== Osobine ==
+Svaki ugao je pravi, od 90°.
+Dijagonale kvadrata su jednake. Naime, ako su dijagonale romba jednake, taj romb je ustvari kvadrat.
+Dijagonala kvadrata je √2, (1,4142135623 ~ 1,41) puta duža od stranice kvadrata. d=a√2 Ova vrijednost je poznata kao Pitagorina konstanta, je prvi broj koji je prozvan iracionalnim. Ako je neka figura i pravougaonik i romb, onda je sigurno kvadrat.
+
+
+== Druge činjenice ==
+Ako je krug opisan oko kvadrata, površina kruga je π/2 (oko 1,57) puta veća od površine kvadrata.
+Ako je krug upisan u kvadrat, površina kruga je π/4 (oko 0,79) puta manja od površine kvadrata.
+Kvadrat ima veću površinu nego bilo koji pravilni mnogougao sa istim obimom.
+Kvadrat je jedan od tri pravilna mnogougla koji se mogu uklapati jedni u druge u ravni (druge dvije figure su jednakostranični trougao i pravilni šestougao). Ovo je posljedica činjenice da su uglovi od 90° djelioci 360°
+Kvadrat je veoma simetrična figura. Postoje četiri os

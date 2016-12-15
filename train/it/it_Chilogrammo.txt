@@ -1,0 +1,44 @@
+Il chilogrammo o kilogrammo, comunemente chiamato chilo (simbolo: kg), è l'unità di misura di base della massa nel Sistema internazionale di unità di misura (SI). Esso è definito come la massa di un particolare cilindro di altezza e diametro pari a 0,039 m di una lega di platino-iridio depositato presso l'Ufficio internazionale dei pesi e delle misure a Sèvres, in Francia, chiamato anche prototipo internazionale.
+Storicamente, è nato come la massa di un litro (decimetro cubo) di acqua distillata alla temperatura di 4 °C. Il chilogrammo è pari a mille grammi (simbolo: g).
+La conservazione del prototipo internazionale è realizzata con i più rigorosi criteri: viene utilizzato un sotterraneo blindato, per la cui apertura occorre l'uso contemporaneo di tre diverse chiavi, custodite da tre personalità del Bureau international des poids et mesures. L'apertura avviene previa autorizzazione del Comitato Internazionale dei Pesi e delle Misure. Le condizioni di temperatura, pressione e umidità sono costanti e si evita il contatto con la polvere tenendo il prototipo sotto tre campane di vetro. Tale prototipo viene usato per le comparazioni (circa tre volte al secolo). Altri campioni dell'unità di massa, realizzati per gli stati aderenti alla Convenzione del Metro differiscono dal capostipite per ±0,3 mg. Sei di tali campioni servono a ricostruire il prototipo internazionale nel malaugurato caso questo dovesse divenire inservibile.
+
+
+== DefinizioneModifica ==
+
+Il chilogrammo è l'unica tra le unità di misura SI che è definita in relazione a un manufatto e non da una proprietà fisica.
+Il grammo entrò a far parte del sistema metrico francese il 1º agosto 1793, definito come la massa di un centimetro cubo (10−6 m³) di acqua alla temperatura di 3,98 °C a pressione atmosferica standard. Questa particolare temperatura venne scelta poiché per questa, l'acqua, possiede la sua massima densità. Il 7 aprile 1795 fa la sua comparsa il chilogrammo, come suo multiplo (1 kg = 1 000 g).
+Tale definizione era difficile da realizzare accuratamente, anche perché la densità dell'acqua è legata in parte alla pressione, e l'unità di pressione include la massa tra i fattori, introducendo una dipendenza circolare nella definizione del chilogrammo.
+Per evitare questo problema, il chilogrammo venne ridefinito come la massa precisa di una particolare massa standard, creata per approssimare la definizione originale e realizzata nel 1875. Il prototipo internazionale del chilogrammo (Le Grand Kilo), un cilindro retto a base circolare che misura 39 mm in altezza e diametro, composto da una lega di platino e iridio, è conservato al Bureau International des Poids et Mesures (Ufficio internazionale dei pesi e delle misure) presso il Pavillon de Breteuil a Sèvres, Francia.
+Dal 1889, il SI definisce l'unità di misura come pari alla massa di questo prototipo. Copie ufficiali del prototipo sono rese disponibili come prototipi nazionali, che vengono confrontati con il prototipo di Parigi all'incirca ogni 10 anni.
+Quando, nel 1889, si confrontò il campione del chilogrammo costruito nel 1875 con il precedente campione definito tramite la massa d'acqua, ci si accorse che essi non concordavano, essendo il manufatto equivalente a 1,000 027 dm³ di acqua. Alla scelta di mutare il campione del chilogrammo con un manufatto più preciso, i tecnici preferirono mantenere il campione già in uso da quattordici anni, abbandonando la definizione legata alla massa d'acqua. Inoltre, ritenuto importante il volume legato alla definizione mantenuta, si introdusse il litro come volume di acqua alla temperatura di 3,98 °C a pressione atmosferica standard di massa uguale a un chilogrammo (una definizione soppiantata nel 1964 quando si decise di rendere il litro esattamente pari a un decimetro cubo).
+Per definizione, l'errore nella replicabilità del prototipo è pari a zero; in realtà, è valutato nell'ordine dei 2 microgrammi. Questo risulta dalla comparazione del prototipo con le sue copie ufficiali, che sono, per quanto possibile, composte dallo stesso materiale e conservate nelle stesse condizioni. Non ci sono motivi per ritenere che il prototipo sia più o meno stabile delle copie ufficiali, la procedura di comparazione viene eseguita ogni 40 anni circa. Sembra che il chilogrammo originale abbia perso circa 50 microgrammi negli ultimi 100 anni per ragioni ancora sconosciute (probabilmente per sublimazione del metallo, infatti anch'essi col tempo "evaporano"), per questo motivo si sta cercando di definire il chilogrammo attraverso delle leggi fisiche, e non più attraverso un campione di riferimento.
+La scomodità legata all'accessibilità dei campioni unita alla loro dubbia accuratezza hanno convinto i tecnici e gli scienziati a cercare una definizione di chilogrammo maggiormente soddisfacente.
+In Italia il campione del chilogrammo è conservato a Roma presso il ministero dello Sviluppo Economico.
+Per evitare conflitti con una vecchia unità di misura del peso, chiamata anch'essa kilogrammo, e con l'uso del prefisso "kilo" nel nome, nel 1954 la Commissione italiana di metrologia propose il nome "bes" (simbolo b) per l'unità di misura di base della massa; ma la proposta non ricevette il sufficiente consenso internazionale e fu quindi ritirata. Nel 1988 fu la volta della Commissione svedese di metrologia a proporre di sostituire il termine "kilogrammo" con "GIO", per onorare il metrologo italiano Giovanni Giorgi, ma anche questa proposta non ebbe successo.
+
+
+=== Proposte per la definizione futuraModifica ===
+È in corso uno sforzo per introdurre una nuova definizione di chilogrammo, per mezzo di costanti fondamentali o atomiche. Ciò allo scopo di renderla maggiormente precisa e realizzabile in ogni laboratorio specializzato.
+Le proposte su cui si sta lavorando sono:
+
+Legare la definizione di chilogrammo al numero di Avogadro. Il valore di questa costante universale è pari al numero di particelle contenute in una mole di una qualunque sostanza. La difficoltà tecnica di questo approccio è legata alla necessità di contare con precisione il numero di atomi della sostanza prescelta e quindi, rendere l'incertezza con cui si conosce il numero di Avogadro minore di quella legata al chilogrammo campione attuale.
+L'approccio dell'accumulazione ionica coinvolge l'accumulazione di ioni d'oro e la misura della corrente elettrica necessaria a neutralizzarli.
+L'utilizzo della bilancia di Watt (un apparato elettromeccanico usato per la definizione dell'ampere) per correlare il chilogrammo alla costante di Planck, e utilizzando le definizioni di volt e di ohm.
+L'utilizzo della levitazione di un superconduttore, che mette in relazione il chilogrammo alle quantità elettriche tramite la levitazione di un corpo superconduttore in un campo magnetico generato da una spira superconduttrice, e misurando la corrente elettrica circolante nella spira.
+Da quando il valore della costante di Josephson (CIPM (1988) Raccomandazione 1, PV 56; 19) e della costante di Von Klitzing (CIPM (1988), Raccomandazione 2, PV 56; 20) si conoscono con sufficiente precisione (KJ ≡ 4,835 979 × 1014 Hz/V e RK ≡ 2,581 280 7 × 104 Ω), è stato proposto di ridefinire il chilogrammo come:
+
+
+== Multipli e sottomultipliModifica ==
+I prefissi SI vengono usati per i multipli e i sottomultipli del chilogrammo. È da notare che, contrariamente alle altre unità di misura, il kilogrammo è l'unica unità di base che contiene già un prefisso ("kilo", inteso come 103 volte l'unità di misura), infatti multipli e sottomultipli si applicano al grammo.
+Nell'uso comune inoltre, si segnalano alcune particolarità: il megagrammo (106 grammi) viene chiamato tonnellata, 100 chili (o 105 g), che non prevedono un prefisso SI, sono detti quintale. Per indicare 10 kg si usa il miriagrammo, ma ora è in disuso (lo chiamiamo semplicemente decina di chilogrammi). Tali unità di misura, anche se non appartenenti al SI, sono da esso riconosciute in virtù del loro largo uso. Sempre nell'uso comune, ossia non in ambito propriamente scientifico o tecnico, il chilogrammo e l'ettogrammo vengono talvolta indicati semplicemente come "chilo" ed "etto", dando per scontata l'unità di misura.
+1 000 grammi si chiamano kilogrammi (kg)
+100 grammi si chiamano ettogrammi (hg)
+10 grammi si chiamano decagrammi (dag)
+grammi (g)
+0,1 grammi si chiamano decigrammi (dg)
+0,01 grammi si chiamano centigrammi (cg)
+0,001 grammi si chiamano milligrammi (mg)
+
+
+=== MicrogrammoModifica ===
+Questa piccolissima unità di misura viene usata, insieme al milligrammo (mg), per indicare il dosaggio terapeutico di fa

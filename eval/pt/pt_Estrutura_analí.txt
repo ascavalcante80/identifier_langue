@@ -1,0 +1,28 @@
+surge uma variação da EAP: a EAE, ou seja, Estrutura Analítica de Entrega. Essa estrutura herda os princípios da EAP, entretanto, é aplicada em outro nível do processo, sendo destinada ao planejamento das entregas que compõe o projeto como um todo.
+
+
+=== Elemento terminal ===
+Os elementos mais baixos em uma estrutura em árvore, um elemento terminal é aquele que não é subdividido. Em uma EAP, tais (atividade ou entrega) elementos são os itens que são estimados em termos de necessidades de recursos, orçamento e duração; ligados por dependências e agendados. Na conjuntura do elemento EAP e da unidade de organização, contas de controle e pacotes de trabalho são estabelecidos e a realização é planejada, medida, registrada e controlada. A EAP pode ser expressa até algum nível de interesse. Três níveis são o mínimo recomendado, com níveis adicionais para, e somente para, itens de alto custo ou de alto risco, e dois níveis de detalhe em casos como o de engenharia de sistemas ou gestão do programa, com os exemplos que mostram padrões de EAP com profundidade variável, tais como desenvolvimento de software em pontos indo para 5 níveis ou do sistema de controle de fogo para 9 níveis.
+
+
+== Notas e Referências ==
+
+
+== Livros ==
+Carl L. Pritchard. Nuts and Bolts Series 1: How to Build a Work Breakdown Structure. ISBN 1890367125
+Project Management Institute. Project Management Institute Practice Standard for Work Breakdown Structures. ISBN 1880410818
+Gregory T. Haugan. Effective Work Breakdown Structures (The Project Management Essential Library Series). ISBN 1567261353
+Eric S. Norman, Shelly A. Brotherton, Robert T. Fried Estruturas Analíticas de Projeto . ISBN 9788521205043
+
+
+== Ligações externas ==
+US Department of Defence(DoD) Handbook Work Breakdown Structure: MIL-HDBK-881
+
+
+== Ver também ==
+Gerência da integração do projeto
+Planejamento de projeto
+Caminho crítico
+Cadeia crítica
+Product breakdown structure (PBS)
+Work package

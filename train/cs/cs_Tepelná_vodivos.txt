@@ -1,0 +1,31 @@
+Ve fyzice označuje tepelná vodivost schopnost daného kusu látky, konstrukce (např. zdi), vést teplo. Představuje rychlost, s jakou se teplo šíří z jedné zahřáté části látky do jiných, chladnějších částí.
+Tepelná vodivost dané látky je charakterizována součinitelem tepelné vodivosti. Součinitel tepelné vodivosti bývá často chybně označován přímo jako tepelná vodivost, součinitel je však měrná tepelná vodivost.
+
+
+== Součinitel tepelné vodivosti ==
+Je definován jako koeficient úměrnosti mezi hustotou tepelného toku (q) v dané látce a záporně vzatým gradientem teploty (T):
+.
+Je-li tepelný tok homogenní a ustálený, lze tento definiční vztah vyjádřit názorněji:
+, resp.
+,
+kde Q je množství tepla, které za čas t projde mezi dvěma shodnými plochami obsahu S kolmými ke směru toku a vzájemně posunutými v tomto směru o vzdálenost d, je-li mezi nimi rozdíl teplot ΔT.
+Tuto definici lze také vyjádřit tak, že součinitel tepelné vodivosti vyjadřuje množství tepla, které za jednotku času (1 sekunda) projde jednotkou plochy (v SI 1 čtverečním metrem) homogennní desky jednotkové tloušťky (v SI 1 metr), jejíž stěny mají po celé ploše stejnou teplotu, je-li mezi nimi udržován jednotkový teplotní rozdíl (v SI 1 kelvin).
+
+
+== Značení ==
+Značka veličiny: λ
+Jednotka SI: watt na metr a kelvin, značka jednotky: W·m−1·K−1
+
+
+== Výpočet tepla předaného vedením ==
+Množství tepla , které projde za čas  plochou  do hloubky  se určí ze vztahu
+,
+kde  je součinitel tepelné vodivosti a  je rozdíl teplot na vzdálenosti .
+Tento vztah platí pouze v případě, že lze tepelný tok považovat za homogenní a ustálený. V opačném případě je nutno řešit diferenciální rovnici vedení tepla.
+Součinitel tepelné vodivosti  je materiálová konstanta, která se zjišťuje experimentálně.
+
+
+== Vlastnosti ==
+U materiálů s definovanou tloušťkou se často udává součinitel prostupu tepla U, který je definován jako výkon, který projde plochou jednoho čtverečního metru při rozdílu teplot 1 kelvin.
+Tepelná vodivost společně s tepelnou kapacitou také ovlivňuje subjektivní vnímání teploty těles při doteku. Např. dotýkáme-li se dvou chladných předmětů se stejnou teplotou, z nichž jeden je kovový a druhý dřevěný, zdá se nám dřevěný předmět teplejší, protože jeho povrch se zahřívá tělesným teplem snadněji, zatímco kovový předmět teplo snadněji odvádí daleko od povrchu.
+Tepelná vodivost je mírně závislá n

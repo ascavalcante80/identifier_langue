@@ -1,0 +1,6 @@
+Work breakdown structure (afkorting: WBS) is een term die wordt gebruikt in projectmanagement. Een WBS is een hiërarchische structuur waarin concrete deelresultaten/producten van een project worden ondergebracht.
+Met name wanneer planningssoftware wordt gebruikt bij projecten, dienen de deelresultaten/producten in een hiërarchische structuur te worden ondergebracht om zo tot een ordening van de noodzakelijke activiteiten te komen. Twee benaderingen zijn daarbij mogelijk:
+1. Top-down benadering
+De verschillende hoofdfasen van het project zijn bekend doordat ze zijn beschreven in bijvoorbeeld een Projectplan. Door elke hoofdfase te gaan detailleren naar subfasen, en die subfasen weer in te delen in discrete deelproducten. De hiërarchische (boom)structuur die zodoende ontstaat wordt een WBS genoemd.
+2. Bottom-up benadering
+Wanneer er geen duidelijk plan ten grondslag ligt aan een project, kan het beter zijn te beginnen met een zo compleet mogelijke inventarisatie van alles wat moet worden gedaan. Dit kan bijvoorbeeld via een zogenaamde brainstormsessie gebeuren. Hierna wordt gekeken naar 'grootste gemene delers': zijn de activiteiten te groeperen? En zijn die groepen vervol

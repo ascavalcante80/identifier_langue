@@ -1,0 +1,42 @@
+O estado líquido é um estado da matéria no qual a distância entre suas moléculas é suficiente para se adequar a qualquer meio (tomando sua forma), porém sem alterar consideravelmente seu volume. As moléculas de um material no estado líquido possuem mais energia do que as moléculas do mesmo material em estado sólido, a uma mesma pressão. Esta maior energia se traduz em maior liberdade de movimento, que é o que permite ao líquido adaptar sua forma à forma do recipiente que o contém, embora o líquido seja praticamente incompressível.  Com liberdade de movimento, suas moléculas se chocam frequentemente, e a temperatura relaciona-se com a velocidade média das partículas.
+
+
+== Fluidez ==
+
+É dito um fluido aquilo cuja forma é usualmente determinada por aquilo que o contém. As partículas do líquido (normalmente moléculas ou conjunto de moléculas) estão livres para se mover por todo o volume do líquido, mas sua atração mútua limita a capacidade destas partículas abandonarem o volume. O volume de uma quantidade de um líquido é determinado pela sua pressão e temperatura. Se este volume difere ligeiramente do volume do recipiente que o contem, uma superfície é observada. A superfície do líquido se comporta como uma membrana elástica, na qual a tensão superficial se manifesta. Devido a este efeito, o líquido forma gotas e bolhas.
+A capilaridade é outra consequência da tensão superficial. A diferença de pressão causada pela tensão artificial e demonstrada pela equação de Laplace permite ao líquido subir ou descer pelas paredes de um tubo capilar. Este fenômeno permite a aglutinação de grãos de areia quando há água entre eles. 
+Em função de sua fluidez, quando um líquido é acelerado para um determinado lado, seu gradiente de pressão aumenta no sentido oposto, por inércia. Por este motivo, carros pipa não costumam trafegar com seu tanque pela metade, já que durante as curvas, as oscilações da água dentro do tanque podem causar acidentes. O pioneiro da aviação, Santos Dumont, durante a construção de seu dirigível SDN-4, em 1900, adotou lastros líquidos e precisou lidar com este problema de instabilidade resultante.
+
+
+== Empuxo ==
+
+Objetos imersos em líquidos são submetidos ao fenômeno do empuxo, que é a força para cima exercida sobre o objeto pelo líquido no qual ele está submerso. Segundo o princípio de Arquimedes, a força de empuxo sobre um corpo é igual à massa deslocada por ele. 
+O líquido exerce pressão nos lados de um recipiente como também em qualquer coisa nela imersa. Esta pressão é transmitida em todas as direções e aumenta com a profundidade.
+Se um líquido está submetido a um campo gravitacional uniforme. A pressão  a um dado ponto é dada por :
+
+onde:
+ = a densidade do líquido (assumida constante)
+ = gravidade
+ = a distância do ponto em relação a superfície.
+Note que esta fórmula assume que a pressão na superfície livre do líquido é zero, e que os efeitos da tensão superficial podem ser negligenciados.
+
+
+== Mudanças de fases ==
+
+Líquidos ao seu respectivo ponto de ebulição convertem-se para gás, e ao seu ponto de congelamento, transformam-se em sólido. Chama-se temperatura de saturação a máxima temperatura que um líquido pode ter a uma determinada pressão, ou a temperatura na qual um líquido se converte em vapor e vice-versa. Via destilação fracionada, os componentes líquidos de uma mistura podem ser separados, utilizando-se do fato de possuírem pontos de ebulição distintos. Ebulição é o nome dado a esta mudança de fase que ocorre ao longo de todo o líquido, e não apenas na superfície.
+Mesmo abaixo do ponto de ebulição o líquido evapora na superfície. Um líquido irá evaporar até que a concentração de vapor que o cerca alcançar uma pressão parcial de equilíbrio. Portanto nenhum líquido pode existir permanentemente no vácuo. Esta mudança de fase que ocorre na superfície do líquido é chamada de evaporação.
+Vidro a temperatura normal pode ser considerado um "líquido super-resfriado" ou um sólido, dependendo do ponto de vista. Veja o artigo vidro para maiores detalhes.
+Líquidos geralmente expandem quando são aquecidos, e contraem quando esfriados.
+
+
+== Água ==
+
+A água, em sua fase líquida, é considerada um líquido complexo e funcional, em virtude de suas ligações de hidrogênio e de uma série de anomalias já descritas, como o efeito hidrofóbico, que fazem dela o solvente biológico natural.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Dossat, Roy J. Princípios de refrigeração (em português). [S.l.]: Hemus, 2004. 884 p. ISBN 9788528901597 Página visitada em 12 de janeiro de 2013.
+Hindrich, Roger; Kleinbach, Merlin. Energia e Meio Ambiente (em português). [S.l.]: Cengage Learning Editores, 2004. 543 p. ISBN 9788522103379 Págin

@@ -1,0 +1,9 @@
+ B = {a, b, c} thì B có 8 tập con là {}, {a}, {b}, {c}, {a,b}, {a,c}, {b,c}, {a,b,c}
+Do đó người ta thường ký hiệu tập các tập con của tập hợp B là 2B.
+Nếu B là tập vô hạn, người ta chứng minh rằng các tập hợp B và 2B là không cùng lực lượng.
+Thông thường, trong một lĩnh vực nghiên cứu cụ thể, người ta thường xét các tập con của tập hợp tất cả các đối tượng cần nghiên cứu.
+
+
+== Tham khảo ==
+
+Jech, Thomas (2002). Set Theory. Springer-Verlag. ISBN 3-540-44085-2.

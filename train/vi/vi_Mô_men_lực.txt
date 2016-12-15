@@ -1,0 +1,11 @@
+Mô men lực là một đại lượng trong vật lý, thể hiện tác động gây ra sự quay quanh một điểm hoặc một trục của một vật thể. Nó là khái niệm mở rộng cho chuyển động quay từ khái niệm lực trong chuyển động thẳng.
+Mô men lực, τ, là một véc tơ mô men, bằng kết quả phép nhân véc tơ của lực tác dụng, F, với véc tơ cánh tay đòn (véc tơ khoảng cách từ điểm tác dụng tới tâm quay), r.
+τ = r × F
+Khái niệm cánh đòn tay, một đặc điểm về khoảng cách, là chìa khóa hoạt động của đòn bẩy, ròng rọc, bánh răng và đa số các bộ máy cơ bản có khả năng tạo ra các mô hình cơ học nâng cao.
+Mô men lực được đưa ra từ khi Archimedes khám phá ra nguyên lý hoạt động của đòn bẩy. Trong một đòn bẩy, Archimedes thấy rằng độ lớn của khả năng tác động lực tỷ lệ thuận với độ lớn của lực và đồng thời tỷ lệ thuận với khoảng cách từ điểm tác dụng lực tới tâm quay (cánh tay đòn).
+Trong chuyển động quay của vật thể rắn, nếu không có mô men lực tác động lên vật, mô men động lượng của vật thể sẽ không thay đổi theo thời gian. Khi có mô men lực, τ, mô men động lượng, L, thay đổi theo phương trình tương tự như định luật 2 Newton:
+d''L/dt = τ
+Nếu mô men quán tính của vật thể không thay đổi, phương trình trên trở thành:
+I dω/dt = τ
+đối với một điểm tựa, tổng các mô men lực của các lực quay theo chiều kim đồng hồ bằng tổng các mô men lực của các lực quay ngược chiều kim đồng hồ
+Với ω là vận tốc góc của chuyển động quay của vật, dω/dt có thể coi là gia tốc góc của vật thể. Đối với vật thể quay,ta có công thức tính momen: M=I*B;với B:g

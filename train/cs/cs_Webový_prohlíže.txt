@@ -1,0 +1,40 @@
+Webový prohlížeč (též browser [brouzr]) je v informatice označení pro počítačový program, který slouží pro prohlížení webových stránek (tzv. World Wide Web, zkráceně WWW). Webový prohlížeč dle pokynů uživatele (kliknutí na odkaz, zadání URL adresy) komunikuje pomocí HTTP protokolu s webovým serverem a přijatá data pomocí obsažených značek (HTML, XHTML, XML apod.) zformátuje (vyrenderuje) a zobrazí na obrazovce počítače.
+Textové prohlížeče zobrazují stránky jako text, obvykle velmi jednoduše formátovaný. Grafické prohlížeče umožňují složitější formátování stránky včetně zobrazení obrázků. Pro zobrazení některých zvláštních součástí stránky, jako jsou Flash animace nebo Java applety, je třeba prohlížeč doplnit o specializované zásuvné moduly. Mezi nejznámější grafické webové prohlížeče patří (seřazeny podle počtu uživatelů): Google Chrome, Internet Explorer, Mozilla Firefox, Safari, Opera, Maxthon a další. Mezi textové pak Links, Lynx a další.
+
+
+== Historie ==
+Důležitou osobou v raném vývoji webových prohlížečů byl Neil Larson, který v roce 1977 vytvořil program jménem TRS-80, jehož hlavními rysy bylo přecházení na jiné úrovně dokumentů pomocí hypertextu. V roce 1976 vytvořil Ted Nelson prohlížeč DOS Houdini, který obsahoval 2500 témat propojených 7500 odkazy na různé soubory. V roce 1984 byl na základě myšlenek Teda Nelsona vytvořen komerční ukázkový program DOS Maxthink, který byl rozšířen o některé další funkce a podporu ASCII znaků.
+V roce 1987 byly tyto schopnosti zabudovány do tehdy populárního placeného DOSovského programu Hyper Rez a PC Hypertext. Tyto programy tvořily koncept pro budoucí webové prohlížeče a ještě o dvacet let později Google zaznamenával mnoho článků na téma PC Hypertext.
+V roce 1989 byly vytvořeny programy HyperBBS a HyperLAN, které sloužily uživatelům k vyhledávání a vkládání informací. V témže roce byl také vytvořen program TransText a nástroje pro vybudování rozsáhlé databáze vědomostí, která v té době obsahovala 50 000 souborů s 200 000 hypertextů.
+Také Lynx, velmi primitivní webový prohlížeč je postaven na bázi Neila Larsona a Mathink. V roce 1987 byl vytvořen také jiný prohlížeč. Nesl jméno Silversmith a byl vytvořen Johnem Bottomsem. Postaven byl na bázi SGML tagů, které byly v té době používány spíše pro formátování tištěných dokumentů. Použití SGML tagů pro zobrazování elektronických dokumentů znamenalo zlom v elektronickém publikování a setkalo se se značným odporem. Silversmith obsahoval indexovací funkci, která umožňovala prohledávání celého dokumentu pomocí SGML. Hledala odkazy mezi textem a obrázky a utvářela zásobník s hypertexty k použití pro vyhledávání. Program obsahoval funkci kterou neobsahují ani dnešní prohlížeče.
+Počátkem roku 1988 Peter Scott a Earle Fogel rozvinuli dřívější myšlenku HyperRez konceptu ve vytvoření Hytelnetu, který přidává odkazy na telnet stránky které by v roce 1990 přinesly uživatelům stálý přístup k online katalogu s více než 5000 knihovnami po celém světě.
+Předností Hytelnetu byla rychlost a síla ve vytvoření a rozšíření databáze po celém světě a neustálá možnost přidávání, indexování a změnu telnet odkazů. Tento problém byl vyřešen vynálezem web serveru.
+NeXTcube byl vytvořen Timem Berners-Leem (průkopník v používání hypertextu pro vyhledávání informací) jako první webserver na světě a také jako první plnohodnotný webový prohlížeč, který byl pojmenován WorldWideWeb v roce 1990.
+V březnu roku 1991 ho Berners-Lee představil kolegům v CERNu. Mezitím nebyl vývoj webových prohlížečů propojen s vývojem webu vůbec.
+V roce 1992 Tony Johnson uvolnil prohlížeč MidasWWW. Jiný prvotní prohlížeč se jmenoval ViolaWWW který byl vytvořen po HyperCard.
+Se stoupající popularitou používání webu byl NCSA spuštěn Mosaic, což byl grafický prohlížeč běžící na Unixu, brzy však i na platformě Macintosh a Microsoft Windows. Verze 1.0 byla spuštěna v září 1993 a byl nazývaný "killer application of the Internet". Marc Andreessen, který byl hlavní postavou Mosaic teamu v NCSA, opustil společnost a založil jinou, která se později stala známou jako Netscape Communications Corporation. V roce 1994 byl spuštěn projekt Netscape Navigator a pro další rok se stal vlajkovou lodí společnosti. V krátké době se prohlížeč díky svému prostředí stal velmi populárním.
+Zlom přišel v roce 1995, kdy spustil Microsoft novou verzi operačního sytému Windows 1995 a společně s ní i internetový prohlížeč Windows Internet Explorer. Ten nakonec porazil v oblíbenosti Netscape a díky tomu utvořil i nové rysy HTML.
+Navíc zavedl ActiveX, čímž se z něho stal unikátní prohlížeč a v konkurenci vítězil. Prohlížeč byl distribuován společně s operačním systémem, a tak se brzy rozšířil na miliony všech PC na světě. V té době začala "válka prohlížečů".
+Microsoft svou bitvu o prvenství vyhrál. Internet Explorer se v dalších letech stal nejrozšířenějším prohlížečem. V druhé polovině roku 2004 Internet Explorer používalo neuvěřitelných 92 % všech uživatelů internetu.
+Netscape pak učinil zoufalý krok – uvolnil zdrojové kódy jedné z verzí svého prohlížeče pod názvem Mozilla pod volnou licencí. Ty pak jako část Mozilla Suite přebrala organizace Mozilla Foundation; později z nich vznikl Mozilla Firefox a začala další válka prohlížečů. Začátkem roku 2009 používalo Firefox ve světě asi 22 % uživatelů.
+
+
+== Technický popis ==
+
+
+== Oblíbenost a používanost prohlížečů ==
+
+
+=== Podle StatsCounter ===
+
+
+=== Podle NETMARKETSHARE ===
+
+
+== Druhy prohlížečů ==
+
+
+=== Grafické prohlížeče ===
+
+
+==== Prohlížeče post

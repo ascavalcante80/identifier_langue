@@ -1,0 +1,111 @@
+Mobiltelefoni är en form av radiotelefoni, där bärbara telefoner (mobiltelefoner) med radioteknologi är i kontakt med basstationer och via dem med det allmänna telefonnätet, i motsats till kommunikationsradio aldrig direkt med varandra.
+Ursprungligen användes analoga signaler för att överföra mobiltelefonsamtalen, men med introduktionen av digitala signaler förenklades överföringen av ljud och data.
+I Sverige kräver mobiltelefoni tillstånd enligt lagen (2003:389) om elektronisk kommunikation. Sådant tillstånd meddelas av Post- och telestyrelsen.
+
+
+== HistorikRedigera ==
+
+Trådlösa kommunikationssystem har sedan 1940-talet varit eftertraktade, inte minst bland utryckningsväsendet (polis, brandkår, etc.) samt av militären, även om systemen var mer av radiokaraktär. Det land som utvecklade det allra första mobiltelefonisystemet var Sverige år 1950. Systemet hette MTA (MobilTelefonisystem version A). Senare kom även MTB och MTC. MTC utvecklades till NMT450. Det första samtalet genomfördes 1950 av ingenjör Sture Lauhrén och var till fröken Ur. Men det skulle dröja ända till 1980-talet innan tekniken var mogen nog att införas.
+
+
+=== CellerRedigera ===
+Introduktionen av mobiltelefonin och den tekniska lösningen bör främst tillskrivas uppdelningen av geografiska områden i celler, något som härrör från amerikanska bolaget AT&T. Innan dess kunde man prata inom samma sändare via biltelefoner. När landskapet uppdelas i celler behöver inte sändaren i basstationen ha stor effekt, och olika sändare på skilda platser kan använda samma frekvens utan att konflikter uppstår. Tankesättet om uppdelning i celler fanns redan på 1950-talet, men med modern halvledarelektronik har denna idé kunnat förverkligas.
+Termen roaming användes ursprungligen om den teknik som tillät en användare att röra sig från en cell till en annan, så småningom från en växel till en annan. Sedan början av 1990-talet används termen för arrangemang som tillåter användare med olika mobilsystem (exempelvis besökare i andra länder) att använda sig av landets egna mobilsystem. De nackdelar roaming förde med sig och den komplexitet som fanns mellan de olika systemen, bidrog till att CEPT år 1980 tilldelade två block i 900 MHz-området för en gemensam europeisk mobiltelefonistandard. Varje block hade bredden 250 kHz.
+
+
+== TeknologiRedigera ==
+Den teknologi som krävs för mobiltelefoni är:
+ASIC
+kretsdesign
+Programvara
+Digital signalbehandling
+Modulation
+Vocoderteknik
+Telefonväxelteknik
+Roaming
+Handover
+Synkron frekvenshoppsteknik
+Antennteknik
+Datorkommunikation, speciellt kommunikationsprotokoll
+Felrättande kod
+Kryptering
+
+
+== MobilnätetRedigera ==
+I det mobila nätet finns i huvudsak komponenterna mobilstation (MS), basstation (BTS) och en mobilväxel (MSC). Mobilstationen kommunicerar med basstationen via ett luftgränssnitt (radiolänk). Det är de elektromagnetiska vågorna som överför informationen i luftgränssnittet. Basstationen kommunicerar med MSC-växeln via ett varierande gränssnitt (radiolänk, koppar- eller optokabel).
+
+
+=== MobilstationenRedigera ===
+Den mobila stationen består av en terminal (mobiltelefon) och ett abonnentkort, s.k. "subscriber identity module" (SIM). Det är kortet som innehåller telefonitjänsten, det vill säga användaren kan sätta in kortet i en annan terminal och samtala som vanligt.
+Varje terminal kan identifieras med ett unikt nummer, s.k. international mobile equipment identity (IMEI). Även SIM-kortet har ett liknande nummer, international mobile subscriber identity (IMSI), vilken kan användas för att identifiera abonnenten. Talen IMEI och IMSI är oberoende av varandra. Med hjälp av dessa identiteter kan mobilstationen representera och verka som en personlig mobilitet. SIM-kortet innehåller ofta funktioner som skyddar från att utomstående använder kortet samt begränsar terminalens användning till ett visst kort.
+
+
+=== BasstationenRedigera ===
+
+Basstationen fungerar via två delsystem: radioenhet (sändare/mottagare) (BTS, base transceiver station) samt styrenhet (BSC, base station controller).
+Det är basstationen som tar emot signaler från mobilstationen.
+På landsbygden avgörs behovet av basstationer av topografi och maximalt avstånd mellan basstation och mobilstation: med större avstånd krävs större sändareffekter, med ett glest nät av basstationer ökar risken för radioskugga och det maximala avståndet begränsas av den tid det tar för signalen att komma fram. Det betyder att antalet användare per basstation är lågt i glesbygd och att det ofta inte finns andra basstationer som kan ersätta en basstation som drabbats av fel. Det krävs alltså att denna utrustning är tillförlitlig och ekonomisk. Även mobiltelefonen måste sända med högre effekt om avståndet till basstationen är stort, vilket förbrukar batteriets laddning snabbare.
+I tätbygd avgörs behovet av basstationer utgående från hur många kunder som kan betjänas i samma cell, med ett begränsat antal frekvenser. Därför är nätet av basstationer tätt.
+Basstationkontrollern har hand om utdelning av frekvenser (frekvenshopp), handover och så vidare.
+
+
+=== MobilväxelnRedigera ===
+Mobilväxeln fungerar ungefär som den ordinära växeln i det fasta telefonnätet. Denna växel ombesörjer samtalen och leder det till rätt destination.
+
+
+== BetalningsmodellerRedigera ==
+Det finns två huvudsakliga betalningsmodeller, kontantkort och abonnemang.
+Det är svårt att ta reda på precis hur mycket ens samtal kostar när man ringer med sin mobiltelefon från utlandet eller tar emot samtal i utlandet. Det finns flera orsaker; operatörerna anger priserna i olika valutor och ofta utgår en extra avgift, och det är inte alltid denna anges. ”Utlandet” definieras här av i vilket land man är kund och i vilket land basstationen finns; i gränstrakter kan samtal kopplas via det utländska nätet (och avgiften utgå enligt detta) också om kunden aldrig överskridit gränsen. Inom EU finns numera lagstiftning som sätter ett tak på avgifterna för normala mobilsamtal.
+
+
+== MobiltelefonisystemenRedigera ==
+En mobiltelefon är en bärbar trådlös apparat för mobiltelefoni. Enheten är oftast handhållen och innehåller funktioner för textmeddelanden (SMS), talsamtal, och numera i och med 3G; videosamtal. Mobiltelefoner räknas inte som direkt anslutna till det fasta telenätet eftersom mycket av trafiken sker inom respektive operatörs egna nät.
+
+
+=== HistorikRedigera ===
+
+
+==== MTARedigera ====
+Det första mobiltelefonisystemet dök i Sverige upp 1956 och kallades MTA (MobilTelefonisystem version A). Antalet abonnenter var mycket lågt och uppgick i Sverige till omkring 125 abonnenter. Det fanns tre basstationer, belägna i Stockholm, Göteborg och Malmö. Mobiltelefonerna hade automatiskt kopplade växlar. En mobiltelefon kunde vara ansluten till en två eller till alla tre basstationerna. Apparaternas tyngd, volym och strömbehov gjorde att de måste monteras i en bil, varför de ofta även kallades "biltelefoner". Den huvudsakliga benämningen blev dock ”Mobiltelefon” som fortfarande används även för dagens ficktelefoner.
+
+
+==== MTBRedigera ====
+På 1960-talet kom systemet MTB (MobilTelefonisystem version B) och abonnentskaran ökade till några tusen.
+
+
+==== MTC (NMT)Redigera ====
+MTC (MobilTelefonisystem version C) var en uppgradering och utbyggnad av MTB. Man hade emellertid för höga planer för automatiseringen av MTC som tidens teknik inte kunde infria på ett smidigt sätt. Den lades därför i malpåse och istället lanserades MTD. MTC blev så småningom NMT (1981), världens första helautomatiska mobiltelefonisystem.
+
+
+==== MTDRedigera ====
+Huvudartikel Mobilelefonisystem D
+MTD (MobilTelefonisystem version D) var ett manuellt kopplat analogt nät för mobiltelefoni, dvs samtalen kopplades via telefonist. Systemet togs ur bruk för allmänheten då NMT infördes, och plockades ner av Televerket. Motsvarande system som drevs av Comviq övertogs av Sveriges Radios lokalradiostationer för att användas som återgång, det vill säga återsändning av programljud samt teknikerkommunikation mellan studio och kontrollrum och OB-reportrar. Vissa problem uppstod ibland eftersom basstationerna inte var byggda för kontinuerlig drift, men dessa problem var små och man lärde sig snart hantera dem.
+
+
+==== ARPRedigera ====
+ARP (autoradiopuhelin, ”bilradiotelefon”) var det första kommersiella mobiltelefonsystemet i Finland. Nätet fungerade 1971–2000. ARP räknas som 0:te generationens mobiltelefoni, då förflyttning mellan celler inte fungerade automatiskt. ARP fungerade på frekvensen 150 MHz, med 1–5 Watts effekt och cellstorlek på i medeltal 30 km. Nätet täckte hela landet från 1978. Under 1990-talet övergick man från manuell till automatisk samtalsförmedling. Till att börja med fungerade telefonerna med halv duplex.
+
+
+==== NMT (MTC)Redigera ====
+Huvudartikel Nordisk mobiltelefoni
+NMT-systemet (Nordiskt Mobiltelefonsystem) infördes 1981 och omfattade först frekvensområdet 450 MHz, senare utökat med 900 MHz-bandet för att öka kapaciteten. Det rörde sig dock om två separata system, några "dual-band"-telefoner fanns inte. NMT-systemet användes av flera länder: de nordiska länderna, Saudi-Arabien, Holland, Schweiz, Estland (endast Tallinn) och Lettland (endast Riga), vilket innebar en flexibilitet som tidigare inte funnits. Systemets förhållandevis låga frekvens och mobilapparaternas höga uteffekt gav en mycket god täckning (gällde främst fordonsmonterade 450MHz-apparater vilka hade en maxeffekt på 15 W). NMT bestod i grunden av ett modifierat AXE-system från Ericsson och det svenska systemet togs ur drift den 31 december 2007.
+
+
+==== GSMRedigera ====
+Huvudartikel GSM
+GSM-standarden (Global System for Mobile Communications, ”Globalt system för mobil kommunikation”, tidigare Groupe Spécial Mobile) togs fram inom CEPT (Europeiska teleunionen) för att skapa ett europeiskt mobiltelefonsystem. GSM-standarden anammades snabbt av asiatiska länder, där mycket av hårdvaran för växelutrustning tillverkades. Detta i sin tur gjorde GSM mer globalt vilket mer eller mindre tvingade USA att till sist acceptera GSM som en global standard, dock på en egen frekvens 1900MHz (mot GSM:s 900/1800 MHz).
+Det framkom därför telefoner som klarade både europeisk och amerikansk standard. GSM-systemet invigdes i Sverige juli 1991. GSM-telefonerna blev vanligare än förväntat och nätet kom därmed att byggas tätare än från början planerat.
+Från början avsåg operatörerna inte att bygga ut täckningen så tätt som man senare kom att göra, men i och med att mobiltelefonen blev var mans egendom kom efterfrågan att styra utbudet.[källa behövs]
+
+
+==== 3GRedigera ====
+Huvudartikel 3G
+
+3G-systemet skapades för att man skulle kunna öka överföringshastigheterna drastiskt och för att kunna ge helt nya typer av tjänster till mobiltelefonanvändarna. Detta medförde att det behövdes ett stort antal basstationer.
+I Sverige beslöts att täckningen skulle omfatta 99,98% av landets befolkning. Utbyggnaden drog ut på tiden, eftersom kommunernas bygglovshantering och remissinstansernas handläggning tog längre tid än vad operatörerna räknade med. Fristående master för basstationer kräver byggnadslov och ett mycket stort antal byggnadslov överklagades. Miljööverdomstolen fastställde 2005-10-12 (Mål M 7485-04) att mobiloperatörernas verksamhet kunde klassas som miljöfarlig verksamhet vilket innebar att kommunerna skall utöva tillsyn. I praktiken sker detta vid byggnadslovsprövningen.
+
+
+==== 4GRedigera ====
+Huvudartikel 4G
+
+4G eller LTE (Long Term Evolution) kom i kommersiell drift i slutet på år 2009. 2011 finns tekniken på flera platser i världen. I Sverige 

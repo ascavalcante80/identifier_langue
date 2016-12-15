@@ -1,0 +1,9 @@
+a su i S ∪ T i S ∩ T, i također a(S∪T) = a(S) + a(T) − a(S∩T).
+Ako su S i T u M sa S ⊆ T tada je T − S u M i a(T−S) = a(T) − a(S).
+Ako je skup S u M i S je kongruentno sa T tada T je također u M i a(S) = a(T).
+Svaki pravougaonik R je u M. Ako pravougaonik ima dužinu h i širinu k tada je a(R) = hk.
+Neka Q bude skup zatvoren između dvije step regije S i T. Step regija je formirana od ograničene unije susjednih pravougaonika koji se nalaze na istoj bazi, npr. S ⊆ Q ⊆ T. Ako postoji unikatan broj c takav da je a(S) ≤ c ≤ a(T) za sve takve step regije S i T, tada je a(Q) = c.
+Može biti dokazano da takva površinska funkcija doista postoji.
+
+
+== Reference ==

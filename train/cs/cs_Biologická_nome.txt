@@ -1,0 +1,36 @@
+Biologická nomenklatura, tedy vědecké názvosloví jednotlivých biologických taxonů, umožňuje jednoduché a přitom jednoznačné dorozumívání mezi odborníky hovořícími různými jazyky. Vychází z binominálního pojmenování druhů a stanoví zásady pro pojmenování ostaních nižších i vyšších taxonů.
+
+
+== Binominální nomenklatura druhů ==
+Binominální nomenklatura je dvouslovná (latinsky: binomen = dvě jména) soustava vědeckých jmen organismů, která se používají pro označování jednotlivých druhů. Autorem binominální nomenklatury je švédský přírodovědec Carl Linné, který zavedl její důsledné používání.
+V binominální nomenklatuře je každý druh popsán dvouslovným latinským (nebo polatinštěným) jménem, odborně binomickým jménem, např.: Aquila chrysaetos – orel skalní. První je jméno rodové (Aquila, orel), zatímco druhé je druhové, tzv. druhový přívlastek (chrysaetos, skalní).
+Binominální nomenklatura vyjadřuje příbuznost určitého druhu s jinými druhy. Např. jména Aquila chrysaetos – orel skalní a Aquila heliaca – orel královský určují, že oba druhy patří do stejného rodu (Aquila, orel).
+Binominální nomenklatura se nepoužívá pro nebuněčné organismy. Pouze vědecká pojmenování rodů virů jsou unifikovaně zakončena -virus (např. Mimivirus) a vědecká pojmenování rodů viroidů -viroid (Pospiviroid). Druhová jména však rodové jméno vůbec obsahovat nemusejí, a obsahují-li ho, pak zpravidla až na posledním místě víceslovného pojmenování (např. Acanthamoeba polyphaga mimivirus).
+
+
+== Nomenklatura nižších taxonů ==
+Podobně binominální nomenklatuře druhů se pro označení poddruhů připojuje ještě třetí rozlišovací slovo a vzniká tak trinomické jméno, tedy tříslovné pojmenování, např. Ursus arctos horribillis - medvěd grizzly a Ursus arctos middendorffi - medvěd kodiak jsou poddruhy medvěda hnědého (Ursus arctos). Často se před třetí jméno píše zkratka „subsp.“ či „ssp.“, např.: Avena sativa subsp. byzantina - oves byzantský. Trinomické jméno se také používá pro označení variety či formy, v takovém případě se před třetí jméno připojuje zkratka „var.“ resp. „f.“, např.: Amanita phalloides var. alba - muchomůrka bílá; Equus asinus f. domestica - osel domácí.
+
+
+== Nomenklatura vyšších taxonů ==
+Latinská (vědecká) jména taxonů vyšších než rod se odvozují od typizujícího taxonu nejbližší hlavní nižší úrovně (pro jméno podčeledi nebo čeledi ze jména rodu, pro jméno podřádu nebo řádu ze jména čeledi) oddělením původní přípony a přidáním přípony nové, uvedené v následující tabulce. Zatímco pravidla botanické a mykologické nomenklatury definují způsob tvorby těchto jmen až do úrovně oddělení, pravidla zoologická jdou jen do úrovně nadčeledi. V nomenklatuře bakterií a virů jsou zatím tato pravidla stanovena jen do úrovně řádu.
+
+Poznámky k tabulce
+1 V zoologii je na této taxonomické úrovni kmen; v botanice je kmen položen na stejnou úroveň jako oddělení, kterému je dávána přednost.2 Nedefinováno v Pravidlech nomenklatury bakterií, pouze navrhováno.3 Pouze pro ptáky a ryby.4 Užívání této taxonomické úrovně pro bakterie se nedoporučuje.5 Klasifikace podle ICTV.6 Klasifikace podle Florese.
+
+
+== Kodifikace ==
+Stanovení pevných mezinárodně platných zásad odborné nomenklatury všech živých organismů, tzv. Mezinárodního kódu bionomenklatury (International code of bionomenclature), zkráceně Biokódu (BioCode), je ve stadiu přípravy. Jeho přijetí je zatím otázkou, protože se ukazuje jako problematické kvůli sjednocení opustit zažité názvoslovné kodexy vytvořené pro speciální skupiny organismů, jako jsou:
+Mezinárodní kód nomenklatury řas, hub a rostlin
+Mezinárodní kód nomenklatury kulturních rostlin
+Mezinárodní kód zoologické nomenklatury
+Mezinárodní kód nomenklatury bakterií
+Mezinárodní pravidla pro pojmenování patovarů fytopatologických bakterií.
+Naopak,
+Mezinárodní kód pro klasifikaci a nomenklaturu virů
+je již připraven tak, aby na sjednocený kód navazoval, třebaže se u druhového názvosloví virů nepoužívá binominální pojmenování.
+Připravovaný Biokód si neklade za cíl ani částečně aplikovat některé zásady Fylokódu, tedy názvoslovného kódu založeného na kladistické metodě.
+
+
+== Reference ==
+↑ HAWKSWORTH, David L.. Intro

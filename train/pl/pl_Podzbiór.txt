@@ -1,0 +1,46 @@
+Podzbiór – pewna „część” danego zbioru, czyli dla danego zbioru, nazywanego nadzbiorem, zbiór składający się z pewnej liczby jego elementów, np. żadnego, jednego, wszystkich. Pierwszy przypadek nazywa się podzbiorem pustym, drugi – podzbiorem jednoelementowym lub singletonem, trzeci – podzbiorem niewłaściwym.
+
+
+== Definicja ==
+Niech  będą zbiorami. Jeżeli każdy element  jest jednocześnie elementem , to zbiór  nazywa się podzbiorem zbioru . W zapisie logicznym:
+,
+inaczej fakt ten można wyrazić jako
+.
+Jeżeli  jest podzbiorem , to sam zbiór  nazywa się nadzbiorem zbioru  i oznacza .
+Jeżeli jednocześnie każdy element zbioru  należy do , to dla zaznaczenia tego faktu podzbiór  zbioru  nazywa się niewłaściwym. Fakt ten zachodzi dokładnie w jednej sytuacji: cały zbiór jest swoim podzbiorem niewłaściwym, a więc . W przeciwnym wypadku, czyli gdy  oraz , zbiór  nazywa się podzbiorem właściwym zbioru  i oznacza . Podobnie ma się rzecz z nadzbiorami.
+
+
+=== Zapis ===
+W starszych pozycjach (np. u Kuratowskiego) do oznaczenia bycia podzbiorem bądź nadzbiorem wykorzystywane były jedynie symbole  oraz , a fakt bycia podzbiorem (nadzbiorem) właściwym zaznaczany był obok. Z czasem jednak zaczęto korzystać ze znaków  i  na oznaczenie podzbiorów i nadzbiorów niewłaściwych (z połączenia poprzednich znaków ze znakiem równości) pozostawiając poprzednie symbole dla przypadków właściwych. Ponieważ część autorów przyjęła nową konwencję, a część z nich pozostała przy starych oznaczeniach, znaczenie symboli  i  nie jest do dziś jasno określone i zależy od autora pozycji. Z tego powodu z czasem wprowadzono symbole  i  na oznaczenie podzbiorów i nadzbiorów właściwych (połączenie ze znakiem nierówności), które jednoznacznie określają podzbiory i nadzbiory właściwe. W celu uniknięcia wątpliwości w artykule tym konsekwentnie stosowane są symbole zawierające znaki równości i nierówności.
+
+
+== Zawieranie ==
+Dla dowolnego zbioru  prawdziwe jest zdanie:
+zbiór pusty jest podzbiorem dowolnego zbioru (element najmniejszy),
+.
+
+Zbiór pusty jest podzbiorem właściwym każdego zbioru oprócz siebie.
+Poza tym dla dowolnych zbiorów  zachodzą następujące fakty:
+dowolny zbiór jest swoim własnym podzbiorem (zwrotność),
+,
+
+zbiory, które są swoimi podzbiorami i nadzbiorami są równe (antysymetria),
+,
+
+podzbiór podzbioru danego zbioru jest podzbiorem tego zbioru (przechodniość),
+.
+
+Relacja  jest więc relacją częściowego porządku (słabego) określoną w zbiorze wszystkich podzbiorów danego zbioru, tzw. zbiorze potęgowym. Nazywa się ją zawieraniem bądź inkluzją. Dlatego też dla danych zbiorów  pozostających z sobą w relacji  mówi się obok „ jest podzbiorem ”, że  zawiera się bądź jest zawarty w . Analogiczne wyrażenie  obok „ jest nadzbiorem ” czyta się  zawiera .
+Relacja  ma analogiczne własności (ma element największy zamiast najmniejszego, jest nim również zbiór pusty), a sama nie doczekała się własnej nazwy i również nosi nieściśle nazwę inkluzji bądź zawierania. Sposób czytania tych relacji również jest wymienny i zależy od czytelnika, choć zwykle stosuje się wyżej opisany.
+
+
+=== Zawieranie właściwe ===
+Podobnie rzecz ma się z relacjami  oraz , które niekiedy czyta się „zawiera się całkowicie (w całości) w” i „jest zawarty całkowicie w”. Relacje te są również są relacjami częściowego porządku, lecz ostrymi, mają więc nieco inne własności; dla dowolnych zbiorów :
+żaden zbiór nie jest swoim ścisłym nadzbiorem (przeciwzwrotność),
+,
+
+podzbiór właściwy podzbioru właściwego danego zbioru jest podzbiorem właściwym tego zbioru (przechodniość),
+.
+
+Z tych dwóch własności wynika też trzecia:
+podzbió

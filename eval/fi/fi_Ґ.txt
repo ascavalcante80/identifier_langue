@@ -1,0 +1,2 @@
+ot heksalukuina eri merkistöissä.
+Merkit Ґ ja ґ eivät sisälly KOI8-R-merkistöön vaan ainoastaan KOI8-U-merkistöön.

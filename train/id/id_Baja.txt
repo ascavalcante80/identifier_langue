@@ -1,0 +1,48 @@
+Baja adalah logam paduan, logam besi sebagai unsur dasar dengan beberapa elemen lainnya, termasuk karbon. Kandungan unsur karbon dalam baja berkisar antara 0.2% hingga 2.1% berat sesuai grade-nya. Elemen berikut ini selalu ada dalam baja: karbon, mangan, fosfor, sulfur, silikon, dan sebagian kecil oksigen, nitrogen dan aluminium. Selain itu, ada elemen lain yang ditambahkan untuk membedakan karakteristik antara beberapa jenis baja diantaranya: mangan, nikel, krom, molybdenum, boron, titanium, vanadium dan niobium. Dengan memvariasikan kandungan karbon dan unsur paduan lainnya, berbagai jenis kualitas baja bisa didapatkan. Fungsi karbon dalam baja adalah sebagai unsur pengeras dengan mencegah dislokasi bergeser pada kisi kristal (crystal lattice) atom besi. Baja karbon ini dikenal sebagai baja hitam karena berwarna hitam, banyak digunakan untuk peralatan pertanian misalnya sabit dan cangkul.
+Penambahan kandungan karbon pada baja dapat meningkatkan kekerasan (hardness) dan kekuatan tariknya (tensile strength), namun di sisi lain membuatnya menjadi getas (brittle) serta menurunkan keuletannya (ductility).
+Meskipun baja sebelumnya telah diproduksi oleh pandai besi selama ribuan tahun, penggunaannya menjadi semakin bertambah ketika metode produksi yang lebih efisien ditemukan pada abad ke-17. Dengan penemuan proses Bessemer di pertengahan abad ke-19, baja menjadi material produksi massal yang membuat harga produksinya menjadi lebih murah. Saat ini, baja merupakan salah satu material paling umum di dunia, dengan produksi lebih dari 1,3 miliar ton tiap tahunnya. Baja merupakan komponen utama pada bangunan, infrastruktur, kapal, mobil, mesin, perkakas, dan senjata. Baja modern secara umum diklasifikasikan berdasarkan kualitasnya oleh beberapa lembaga-lembaga standar.
+
+
+== Karakteristik material ==
+
+Besi dapat ditemukan pada bagian kerak bumi hanya dalam bentuk bijih, biasanya dalam bentuk besi oksida seperti magnetit dan hematit. besi diekstraksi dari bijih besi dengan menghilangkan atom oksigen dan kemudian menggabungkannya kembali dengan atom lain seperti karbon. Proses ini disebut smelting.  Ada sejumlah kecil besi yang sudah melalui proses ini pada masa lampau dengan cara memanaskan bijih yang ditanam pada bara api dan kemudian menggabungkan kedua logam dengan menempanya palu. Kandungan karbon yang terkandung juga dapat dikontrol.
+Temperatur tinggi pada proses smelting dapat dicapai dengan metode kuno yang sudah dipakai sejak zaman Tembaga. Karena tingkat oksidasi besi meningkat sangat cepat diatas suhu 800 °C (1,470 °F), maka harus diperhatikan bahwa proses smelting harus dilaksanakan pada lingkungan dengan tingkat oksigen rendah. Proses peleburan akan menghasilkan paduan yang dinamakan baja. Kelebihan karbon dan pengotor lainnya dapat dihilangkan dengan beberapa proses bertahap.
+Beberapa material juga ditambahkan ke campuran besi/karbon untuk mendapatkan baja dengan karakteristik yang diinginkan. Nikel dan mangan ditambahkan untuk menambah kekuatan, krom ditambahkan untuk meningkatkan kekerasan dan titik didih, serta penambahan vanadium juga menambah kekerasan serta mengurangi dampak kelelahan logam.
+Untuk mencegah korosi, ditambahkan kromium paling sedikit 11% wt sehingga membentuk oksida yang keras pada permukaan baja; baja ini dikenal dengan stainless steel (baja anti noda). Tungsten ditambahkan pada pembentukan cementit, sehingga pada kecepatan quench yang lebih rendah akan membentuk martensit. Di sisi lain, sulfur, nitrogen, dan fosfor membuat baja menjadi getas, sehingga elemen ini harus dipisahkan ketika pemrosesan.
+Densitas baja bervariasi tergantung dari unsur pembentuknya, namun umumnya berada di antara 7,750 and 8,050 kg/m3 (484 and 503 lb/cu ft), atau 7.75 and 8.05 g/cm3 (4.48 and 4.65 oz/cu in).
+Meski dalam rentang konsentrasi campuran yang rendah besi dan karbon membentuk baja, namun dapat terbentuk berbagai macam struktur metalurgi yang berbeda dengan sifat yang sangat berbeda pula. Memahami sifat-sifat ini sangat penting dalam produksi baja. Pada suhu ruangan, bentuk besi yang paling stabil adalah struktur body-centered cubic (BCC) yang disebut ferrit atau besi-α. Besi ini merupakan logam lunak yang hanya dapat melarutkan karbon dalam konsentrasi kecil, tidak lebih dari 0.021 wt% pada 723 °C (1,333 °F), dan hanya 0.005% pada 0 °C (32 °F). Pada 910°C besi murni berubah menjadi struktur face-centered cubic (FCC), yang disebut austenit atau besi-γ. Struktur FCC austenit dapat melarutkan karbon lebih banyak, sampai 2.1% (karbonnya 38 kali ferrit) pada 1,148 °C (2,098 °F), yang disebut besi tuang (cast iron).
+Ketika baja dengan kandungan karbon kurang dari 0,8% dipanaskan, maka fase austenitic (FCC) campuran mencoba berubah menjadi fase ferrit (BCC), menghasilkan kelebihan karbon.
+
+
+=== Perlakuan panas ===
+Ada berbagai perlakuan panas yang biasa digunakan pada proses pengolahan baja. Perlakuan panas yang paling sering digunakan adalah annealing, quenching, dan tempering. Annealing adalah perlakuan panas terhadap baja yang dilakukan dengan memanaskan baja hingga temperatur cukup tinggi untuk membuat baja lunak. Proses ini terjadi dalam tiga tahapan, pemulihan, rekristalisasi, dan penumbuhan butir. Temperatur yang dibutuhkan untuk annealing bergantung pada jenis annealing dan kandungan elemen campuran dalam baja.
+Quenching dan tempering awalnya melibatkan pemanasan baja hingga fasanya berubah menjadi austenit lalu dilakukan pendinginan menggunakan media pendingin oli atau air. Penurunan temperatur yang tiba-tiba menghasilkan struktur martensit yang keras dan getas. Baja lalu diproses melalui proses tempering yang merupakan salah satu jenis dari annealing. Pada proses ini sebagian dari struktur martensit akan berubah menjadi sementit, atau spheroidite untuk mengurangi tegangan internal dan cacat dalam baja, sehingga baja lebih ulet dan lebih tahan terhadap keretakan.
+
+
+== Produksi baja ==
+
+Pengertian proses ereksi pada konstruksi baja
+secara umum adalah suatu proses yang terdiri dari perakitan komponen baja sehingga menjadi satu kesatuan yang dilaksanakan di lapangan. Proses ereksi terdiri dari proses pengangkatan dan menempatkan komponen baja ke posisi yang diinginkan, kemudian menghubungkan
+mereka bersama-sama. 
+
+Besi setelah melalui proses peleburan dari bijih, mengandung karbon berlebih. Untuk menjadikannya baja, perlu dilelehkan dan diproses ulang untuk mengurangi kandungan karbonnya hingga mencapai jumlah yang diinginkan, maka setelah itu elemen-elemen lain dapat ditambahkan. Cairan ini lalu dituang secara kontinu membentuk lempeng besi panjang atau dituang menjadi batangan baja. Sekitar 96% baja dituang secara kontinu dan 4%nya diproduksi dalam wujud batangan.
+
+
+== Industri baja ==
+
+Sudah biasa terdengar sebutan "industri besi dan baja" sebagai suatu kesatuan, tetapi dari perspektif sejarah mereka adalah produk yang berbeda. Industri baja sering digunakan sebagai indikator perkembangan ekonomi, dikarenakan peran baja untuk memenuhi kebutuhan infrastruktur dan perkembangan ekonomi secara menyeluruh.
+Tahun 1980, lebih dari 500.000 pekerja di industri baja. Pada tahun 2000, pekerja di industri baja menurun hingga 224.000.
+Perkembangan ekonomi di India dan Cina yang pesat mengakibatkan peningkatan permintaan baja pada tahun belakangan ini. Antara tahun 2000 hingga 2005, permintaan dunia terhadap baja meningkat sekitar 6%. Sejak tahun 2000, beberapa perusahaan baja Cina dan India  telah menjadi perusahaan besar di industri ini, seperti Tata Steel, Shanghai Baosteel Corporation dan Grup Shagang. Produsen baja terbesar di dunia adalah ArcelorMittal.
+Pada tahun 2005, British Geological Survey menyatakan bahwa Cina adalah produsen baja terbesar di dunia, sekitar sepertiga produksi baja dunia berasal dari Cina, disusul oleh Jepang, Russia dan Amerika Serikat.
+Tahun 2008, baja menjadi komoditas perdagangan di London Metal Exchange. Pada akhir 2008, industri baja sempat terjatuh sehingga banyak menyebabkan pemutusan hubungan kerja.
+
+
+== Sejarah ==
+Sebelum diperkenalkannya metode produksi Bessmer dan berbagai teknik produksi modern lainnya, baja termasuk material yang mahal dan hanya digunakan ketika tidak ada material alternatif yang lebih murah, khususnya untuk bagian tajam dari pisau, alat pencukur, dan pedang, dan berbagai alat perkakas yang membutuhkan bagian yang keras dan tajam. Baja pada saat itu juga digunakan untuk pegas, termasuk pegas yang digunakan pada jam.
+Dengan berkembangnya metode produksi yang lebih cepat dan ekonomis, baja menjadi lebih mudah didapat dan menjadi jauh lebih murah. Baja telah menggantikan penggunaan bongkah besi dalam berbagai hal. Pada abad 20 dengan ditemukannya plastik, penggunaan baja untuk beberapa aplikasi dapat tergantikan, dikarenakan plastik lebih murah dan lebih ringan. Fiber karbon juga menggantikan baja untuk berbagai aplikasi yang lebih memprioritaskan berat yang ringan daripada harga ekonomis, seperti pada pesawat terbang, peralatan olah raga dan kendaraan mewah.
+
+
+== Klasifikasi baja ==
+Berdasarkan komposisi
+Baja karbon
+Baja

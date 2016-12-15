@@ -1,0 +1,20 @@
+junto dos números inteiros, com a mesma cardinalidade.
+O conjunto dos números naturais é um subconjunto próprio do conjunto dos números reais, com cardinalidade inferior.
+
+
+== Ver também ==
+Conjunto potência
+Função inclusão
+
+
+== Notas ==
+↑ Uma notação alternativa para  é subconjunto de , tão comum quanto , é . Similarmente, usa-se também  para denotar que  é superconjunto de .
+
+
+== Referências ==
+Jech, Thomas. Set Theory. [S.l.]: Springer-Verlag, 2002. ISBN 3-540-44085-2
+
+
+== Ligações externas ==
+"Subset", "Superset", "Proper Subset" e "Improper Subset" in MathWorld (em inglês)
+"Subset" in ProofWiki (em inglês)

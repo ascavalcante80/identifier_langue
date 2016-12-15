@@ -1,0 +1,32 @@
+ travaux publics.
+
+
+== Volume et calcul intégralModifier ==
+
+Si  est une partie bornée de , le volume du cylindre ayant pour génératrice la frontière de , délimité par le plan  et la surface d'équation  – avec  positive et continue sur  – est :
+
+Dans le cas où le domaine  est défini par des conditions simples , , ce calcul se ramène à :
+
+Si  est une partie bornée de  et si la fonction constante 1 est intégrable sur , le volume de  est alors
+
+Dans le cas où le domaine  est défini par des conditions simples ,  et , ce calcul se ramène à :
+
+Par linéarité de l'intégration, un domaine difficile à définir peut être partitionné en plusieurs sous-domaines exprimables eux en conditions simples.
+Si le domaine  s'exprime mieux en coordonnées cylindriques par des conditions simples , le calcul peut s'exprimer par
+ où  est une partie bornée de 
+Si le domaine s'exprime mieux en coordonnées sphériques par des conditions simples , le calcul peut s'exprimer par
+ où  est une partie bornée de .
+Dans le cas où le domaine  est un solide de révolution dont la frontière est engendrée par la rotation d'une courbe d'équation  autour de l'axe , le calcul du volume se réduit à une intégrale simple
+
+Enfin, le théorème de flux-divergence permet de réduire le calcul de volume à une intégrale de surface
+
+où  est la frontière de , et  le vecteur unitaire normal à  dirigé vers l'extérieur de .
+
+
+== Voir aussiModifier ==
+
+
+=== Articles connexesModifier ===
+Cubage, cubage du bois
+Tonneau (formules)
+ Portail de la géométrie

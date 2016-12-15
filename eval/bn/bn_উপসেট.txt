@@ -1,0 +1,19 @@
+নয়। কিন্তু এটি অসম্ভব , যেহেতু ø-এর কোন উপাদানই নেই। সুতরাং ø অবশ্যই A-এর একটি উপসেট।
+নিচের প্রস্তাবনাটি প্রস্তাব করে যে অন্তর্ভুক্তি একটি আংশিক ক্রম।
+প্রস্তাবনা ২: যদি A, B ও C তিনটি সেট হয় তবে নিচেরগুলো সত্য:
+বিপ্রতীপতা:
+
+A ⊆ A
+
+বিপরীত-প্রতিসাম্য:
+
+A ⊆ B এবং B ⊆ A যদি এবং কেবল যদি A = B
+
+অতিক্রাম্য:
+
+যদি A ⊆ B এবং B ⊆ C তবে A ⊆ C
+
+
+== অন্তর্ভুক্তির অন্যান্য ধর্ম ==
+The usual order on the ordinal numbers is given by inclusion.
+For the power set of a set S, the inclusion partial order is (up to an order-isomorphism) the Cartesian product of |S| (the cardinality of S) copies of the partial order on {0,1}, for which 0 < 1.

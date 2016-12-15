@@ -1,0 +1,46 @@
+lerdir.
+
+
+=== Diğer Birimlere Dönüştürme ===
+Dönüşme faktörü, farklı birimlerdeki güç, tork ya da açısal hız kullanırken gerekli olabilir. Örneğin, eğer dönüş hızı ( devir sayısı) açısal hız (radyan sayısı) yerinde kullanılırsa, her devir 2π radyanla çarpılmalıdır. Bunu takip eden formüller, P güç, τ tork ve ω dönüşsel hızdır.
+
+Diğer birimler:
+
+Her 60 saniye için bölündüğünde ise;
+
+Dönüşsel hız her dakikadaki devir sayısıdır (rpm)
+Bazı insanlar (örneğin Amerikan otomotiv mühendisleri)güç için beygir gücünü ( imperiyal mekanik), tork için fit-pound (lbf•ft) ve rpm için de dönüşsel hızı kullanırlar. Bu, formülün şu şekilde değişmesiyle sonuçlanır;
+
+Bu aşağıdaki değişmezlik (dakikadaki fit poundları) beygir gücü tanımı ile değişir, örneğin, ölçü için beygir gücü kullanılırsa, bu yaklaşık olarak 32, 550 olur.
+Diğer birimlerin kullanımı (örneğin saatteki güç için BTU) başka bir geleneksel değişim faktörü gerektirebilir.
+
+
+=== Türeme ===
+Dönen bir nesne için, dönüşün çevresi ile sarılan boyuna mesafe, açıyla sarılan radyanların ürününe eşittir. Bu demek olur ki: boyuna mesafe = radyan x açısal uzaklık. Ve tanım olarak, boyuna mesafe = boyuna hız x zaman = radyan x açısal hız x zaman. Torkun tanımı: Tork = radyan x kuvvet. Kuvveti hesaplayabilmek için şu şekilde değiştirebiliriz: Kuvvet = Tork ÷ Yarıçap. Bu iki değer güç tanımı için, birbiri yerine kullanılabilir:
+
+Radyan r ve zaman t bu denklemden çıkarılmıştır. Ancak, açısal hız radyanlarda olmalıdır, doğrusal hız ve türemenin başlangıcındaki açısal hızın arasındaki doğrudan ilişki hesaba katılmalıdır. Eğer dönüş hızı her bir zaman birimindeki devir için hesaplanırsa, doğrusal hız ve uzaklık oransal olarak türemenin 2π yukarısındadır.
+
+Eğer tork Newton metreyse ve dönüş hızı her saniyedeki devir sayısıysa, yukarıdaki denklem saniyedeki Newton metrelik ya da wattlık gücü verir. Beygirgücü denklemi ise her beygirgücü için 33,000 ft•lbf/d klik türeme faktörünün uygulanması ile elde edilir
+
+çünkü 
+
+
+== Moment Prensipleri ==
+Varignon’un teoremi olarak da bilinen (aynı isimdeki geometrik teorem ile karıştırılmamalıdır.) moment prensipleri gösterir ki, tek bir noktaya uygulanan birkaç kuvvet sonucu oluşan torkların toplamı kuvvetlerin toplamına (sonucuna) eşittir. Matematiksel olarak, şu şekildedir:
+
+
+== Tork Çarpanı ==
+Tork çarpanı, küçülme oranı 1 den büyük vites kutularıdır. Girdiye verilen tork, her bir küçülme oranı ile çarpılır ve çıktıya iletilir, dolayısıyla dönüş hızı azalmış, daha büyük bir tork elde edilir.
+
+
+== Referanslar ==
+
+
+== Dış Bağlantılar ==
+Power and Torque Explained A clear explanation of the relationship between Power and Torque, and how they relate to engine performance.
+"Horsepower and Torque" An article showing how power, torque, and gearing affect a vehicle's performance.
+"Torque vs. Horsepower: Yet Another Argument" An automotive perspective
+a discussion of torque and angular momentum in an online textbook
+Torque and Angular Momentum in Circular Motion on Project PHYSNET.
+An interactive simulation of torque
+Torque Unit Converter

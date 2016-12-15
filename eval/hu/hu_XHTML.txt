@@ -1,0 +1,40 @@
+jegyzeni, hogy az XHTML-ben ezek bármelyike szabványos: <br></br>, <br/>, és <br />. A régebbi, csak HTML-t értelmező böngészők, amelyek HTML-nek tekintik, általánosságban ezeket fogadják el: <br> és <br />.
+
+A nemüres címkék nem bezárása
+Helytelen: <p>Ez egy bekezdés<p>Ez egy másik.
+Helyes: <p>Ez egy bekezdés.</p><p>Ez egy másik.</p>
+
+Az elemek helytelen egymásba ágyazása (ez HTML-ben sem érvényes)
+Helytelen: <em><strong>Ez egy szöveg.</em></strong>
+Helyes: <em><strong>Ez egy szöveg.</strong></em>
+
+Az attribútumértékek körül levő idézőjelek hiánya
+Helytelen: <td rowspan=3>
+Helytelen: <td rowspan='3">
+Helyes: <td rowspan="3">
+Helyes: <td rowspan='3'>
+
+Az & használata az entitásokon kívül (ez HTML-ben sem érvényes)
+Helytelen: <title>Autók & teherautók</title>
+Helyes: <title>Autók &amp; teherautók</title>
+Helytelen: <a href="index.php?lap=hirek&id=5">Hírek</a>
+Helyes: <a href="index.php?lap=hirek&amp;id=5">Hírek</a>
+
+Az XHTML-elemek "case sensitive" mivoltának fel nem ismerése
+Helytelen: <BODY><P ID="ONE">A legjobb lap</P></BODY>
+Helyes: <body><p id="ONE">A legjobb lap</p></body>
+
+Az attribútum-minimalizáció használata
+Helytelen: <textarea readonly>Csak olvasható</textarea>
+Helyes: <textarea readonly="readonly">Csak olvasható</textarea>
+
+
+== Az XHTML és HTML keresztkompatibilitása ==
+A HTML5 és az XHTML5 nagyobbrészt keresztkompatibilisek, amennyiben a szigorúbb XHTML5 szintaxist vesszük figyelembe, ám vannak esetek, ahol az XHTML5 nem működik szabványos HTML5-ként (például a HTML-ből kivett feldolgozóinstrukciók, amik megjegyzésként lesznek kezelve és bezáródnak az első "?"-nél, amíg teljesen szabványosak az XML-ben, a saját típusukként lesznek kezelve és a "?>")-en záródnak be.
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben a XHTML című angol Wikipédia-szócikk fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+
+
+== Jegyzetek ==

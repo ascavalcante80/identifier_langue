@@ -1,0 +1,19 @@
+Het World Geodetic System 1984 (WGS 84) is het coördinatenreferentiesysteem voor de aarde dat, op enkele centimeters na, gelijk is aan het officiële (maar minder toegankelijke) International Terrestrial Reference System ITRS.
+WGS 84 is ontworpen voor gps en wordt daarom beheerd door de National Geospatial-Intelligence Agency, een onderdeel van de Amerikaanse defensie. WGS 84 wordt standaard gebruikt door gps-ontvangers (hoewel ook andere systemen kunnen worden ingesteld). Daardoor is WGS 84 een van de meest gebruikte wereldwijde coördinatensystemen.
+
+
+== Ellipsoïde ==
+Geografische coördinaten in WGS 84 zijn gebaseerd op de WGS 84-ellipsoïde, een wiskundig model van de aarde. Een ellipsoïde voor gebruik in de geodesie wordt gedefinieerd met een equatoriale straal, de straal van de evenaar in het model, aangeduid door de letter a, en een poolstraal, de afstand van het middelpunt tot de Noordpool en de Zuidpool van het model, aangeduid door de letter b. Verder wordt ook vaak de afplatting f opgegeven: .
+Voor WGS 84 is a gelijk aan die van de GRS 80-ellipsoïde van ITRS. De afplatting is door een afrondingsfout een heel klein beetje (minder dan een millimeter) anders dan GRS 80. De positionering en oriëntering van de ellipsoïde ten opzichte van de aarde verschillen zoals gezegd enkele centimeters.
+Naast de definitie van de ellipsoïde is de ligging van de model-ellipsoïde ten opzichte van het werkelijke aardoppervlak van belang. Per definitie valt het middelpunt van de referentie-ellipsoïde samen met het massamiddelpunt van de aarde, inclusief de massa van de oceanen en de atmosfeer. Ook de noord-zuidas van het model is exact gedefinieerd, evenals de nulgradenmeridiaan. Deze definitie is zodanig dat er gemiddeld over het hele aardoppervlak geen verschuiving van de referentie-ellipsoïde is ten opzichte van het werkelijke aardoppervlak.
+De basis van WGS 84 is een cartesisch coördinatenstelsel waarvan de oorsprong in het massamiddelpunt van de aarde ligt, de Z-as loopt van de oorsprong naar de referentie (Noord)pool, de X-as loopt van de oorsprong naar de IERS-referentiemeridiaan en de Y-as is zo gekozen dat een rechtsdraaiend coördinatensysteem ontstaat. De basiscoördinaten voor WGS 84 zijn aldus (X,Y,Z)-coördinaten uitgedrukt in meters, die met behulp van de referentie-ellipsoïde en de geoïde omgerekend kunnen worden naar lengte- en breedtegraden en hoogte boven zeeniveau.
+
+
+== Relatie met andere geodetische datums ==
+Het referentiemodel ITRS, waarop WGS 84 wordt geijkt, is gekoppeld aan het International Celestial Reference System (ICRS), een coördinatensysteem voor het heelal, door middel van de Earth Orientation Parameters (EOP), die de positie van de aarde in de ruimte beschrijven. Op deze wijze is een exacte calibratie van het hele systeem mogelijk. Het huidige WGS 84-stelsel is in januari 2002 geijkt aan ITRS. De officiële aanduiding van deze update is WGS 84(G1150).
+Door het bewegen van de aardplaten, de platentektoniek, verschuiven de continenten ten opzichte van elkaar. De Euraziatische plaat beweegt iets meer dan 2 cm per jaar in Noordoostelijke richting. Daardoor verschuiven in Europa de coördinaten van een bepaald punt op het werkelijke aardoppervlak in het WGS 84-systeem elk jaar.
+Voor precieze plaatsbepaling in Europa wordt daarom het European Terrestrial Reference System 1989 (ETRS89) gebruikt. Dit komt overeen met de ITRS-coördinaten zoals ze in 1989 waren vastgelegd. Deze coördinaten worden sindsdien vastgehouden zodat ze niet veranderen. Voor veel toepassingen kan dit verschil tussen ETRS89 en WGS 84 dat inmiddels is opgelopen tot zo'n 65 cm verwaarloosd worden.
+
+
+== Hoogte ==
+Ook de hoogtedefinitie van WGS 84 is bepaald ten opzichte van het wiskundige model van d

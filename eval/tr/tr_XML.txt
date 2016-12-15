@@ -1,0 +1,34 @@
+nır. Aşağıdaki örnek bir XML dokümanında verinin nasıl belirtildiğini göstermektedir.
+
+<kullanicilar>
+  <kullanici id="1">
+      <ad>A</ad>
+      <soyad>B</soyad>
+  </kullanici>
+  <kullanici id="2">
+      <ad>C</ad>
+      <soyad>D</soyad>
+  </kullanici>
+  <kullanici id="5">
+      <ad>E</ad>
+      <soyad>F</soyad>
+  </kullanici>
+  <kullanici id="8">
+      <ad>G</ad>
+      <soyad>H</soyad>
+  </kullanici>
+</kullanicilar>
+
+
+== İlgili başlıklar ==
+XSL ve XSLT
+XLink
+XPath
+XQuery
+XPointer
+DTD
+XSD
+
+
+== Dış bağlantılar ==
+Resmî site

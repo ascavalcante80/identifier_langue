@@ -1,0 +1,3 @@
+I mengdelæren er en en mengde A en delmengde av en mengde B hvis og bare hvis alle elementer av A også er elementer av B. I symboler skriver vi . A er en ekte delmengde av B hvis og bare hvis A er en delmengde av B, og  Dette symboliseres slik: . Dersom vi har tre mengder, A, B og C, slik som vist nedenfor, vil følgende utsagn være sanne:
+
+For en hvilken som helst mengde A gjelder det at den tomme mengden, , er en delme

@@ -1,0 +1,51 @@
+Das Virtual International Authority File (VIAF) ist eine virtuelle internationale Normdatei für Personendaten. Es ist ein Gemeinschaftsprojekt mehrerer Nationalbibliotheken und Bibliotheksverbünde, das durch das Online Computer Library Center (OCLC) betrieben wird. Das Projekt wurde 2003 gemeinsam von der Deutschen Nationalbibliothek und der Library of Congress initiiert und nahm 2012 seinen regulären Betrieb auf.
+
+
+== Inhalt und ZieleBearbeiten ==
+Ziel des VIAF ist die Verknüpfung nationaler Normdateien (wie der von der Deutschen Nationalbibliothek betreuten Gemeinsamen Normdatei) zu einer weltweit einheitlichen virtuellen Normdatei. Dabei werden die Datenbestände von 25 Normdateien zusammengeführt und identische Datensätze in einer Konkordanzdatei verlinkt. Die Daten werden online angeboten und stehen für Recherchen, den Datenaustausch und die gemeinsame Datennutzung zur Verfügung. Zur Aktualisierung der Datenbestände wird das Protocol for Metadata Harvesting der Open Archives Initiative (OAI-PMH) verwendet. Einmal pro Monat findet ein Musterabgleich („Pattern Matching“) statt, bei dem neue Datensätze mit den bestehenden zusammengeführt werden.
+Zur Referenzierung erhält ein VIAF-Datensatz eine eigene Normdatennummer als Identifikator, aus der eine Form als Uniform Resource Identifier für Linked-Data-Anwendungen hervorgeht. Er enthält Verweise auf die zusammengeführten Datensätze der beteiligten Normdateien und deren Ansetzungen.
+
+
+== Teilnehmende BibliothekenBearbeiten ==
+Am Projekt nehmen folgende Bibliotheken bzw. Bibliotheksverbünde teil (Stand: Juni 2015):
+Bibliotheca Alexandrina, Ägypten
+National Library of Australia, Australien
+Open VLACC, Belgien
+Dansk BiblioteksCenter (DBC), Dänemark
+Deutsche Nationalbibliothek, Deutschland
+Bibliothèque nationale de France, Frankreich
+Système universitaire de documentation, Frankreich
+The National Library of Israel, Israel
+Istituto Centrale per il Catalogo Unico, Italien
+Nationale Parlamentsbibliothek, Japan
+Library and Archives Canada, Kanada
+National- und Universitätsbibliothek Zagreb, Kroatien
+Lettische Nationalbibliothek, Lettland
+Lebanese National Library, Libanon
+BIBSYS, Norwegen
+Biblioteka Narodowa, Polen
+Narodowy Uniwersalny Katalog (NUKAT), Polen
+Biblioteca Nacional de Portugal, Portugal
+Königliche Bibliothek zu Stockholm, Schweden
+Schweizerische Nationalbibliothek, Schweiz
+RERO, Schweiz
+Biblioteca Nacional de España, Spanien
+Biblioteca de Catalunya, Spanien
+Nationalbibliothek der Tschechischen Republik, Tschechien
+Széchényi-Nationalbibliothek, Ungarn
+Biblioteca Apostolica Vaticana, Vatikan
+Getty Research Institute, Vereinigte Staaten
+Library of Congress, Vereinigte Staaten
+Perseus Project, Vereinigte Staaten
+Syriac Reference Portal, Vereinigte Staaten
+Außerdem werden Einträge aus Wikidata verlinkt.
+Folgende Institutionen beteiligen sich testweise:
+Irische Nationalbibliothek, Irland
+Königliche Bibliothek der Niederlande, Niederlande
+Russische Staatsbibliothek, Russland
+National Library Board, Singapur
+International Standard Name Identifier
+
+
+== LiteraturBearbeiten ==
+Rick Bennet

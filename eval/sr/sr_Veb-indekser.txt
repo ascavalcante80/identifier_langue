@@ -1,0 +1,29 @@
+se obično indetifikuju na veb-serveru koristeći korisničke agente u HTTP zahtevu. Veb-sajt administratori će obično ispitati njihovo veb-serversko prijavljivanje i koristiti polje korisničkog naloga da odrede koji puzavac je posetio veb-server i koliko često. Korisničko polje može da sadrži URL adresu gde administrator veb-sajta može saznati više informacija o tragaču. Ispitivanje veb-serverske prijave je dosadan zadatak, pa stoga neki administratori koriste alate kao što su CrawlTrack ili SEO Crawlytics da se indetifikuju, prate i verifikuju programi tragači. Spambotovi i drugi zlonamerni tragači najverovatnije neće postaviti identifikacione podatke u polje korisničkog agenta, ili mogu maskirati svoj indetitet u veb-pregledač ili neki drugi poznati program tragač.
+Važno za tragače je da se indetifikuju tako da administratori veb-sajta mogu da kontaktiraju vlasnika ako je to potrebno. U nekim slučajevima, tragači mogu da se slučajno zarobe u zamku za tragače ili mogu preopteretiti veb-server zahtevima, te tada vlasnik mora da zaustavi tragača. Identifikacija je takođe korisna za administratore koji su zainteresovani da znaju kada mogu da očekuju da će njihove stranice biti indeksirane od strane pretraživača veba.
+
+
+== Primeri ==
+Sledi lista objavljenih arhitektura tragača za tragače opšte namene (bez tematskih tragača) sa kratkim opisom koji uključuje imena pripisana razlicitim komponentama i izuztenim karakteristikama:
+Yahoo!Slurp je ime Jahuovog tragača.
+Bingbot je ime za Microsoftov Bing program tragač. Zamenio je Msnbot.
+Fast Crawler je distribuirani tragač, koristi ga Fast Search & Transfer, a okvirni opis njegove arhitekture je dostupan.
+Googlebot je opisan u nekim detaljima, ali misli se samo na raniju verziju njegove arhitekture, koja je bila zasnovana na C++-u i Phyton-u. Tragač je integrisan u proces indeksiranja, jer je parsiranje teksta urađeno za indeksiranje celog teksta i takođe za ekstrakciju veb-adrese. Postoji veb-adresa servera koja šalje spiskove veb-adresa koja se unose u nekoliko tragačkih procesa. Tokom analize, pronađene veb-adrese su prosleđene veb-serveru da proveri da li je veb-adresa ranije viđena. Ako nije, veb-adresa je dodata u red tog veb-servera.
+PolyBot je distriburani tragač napisan u C++-u i Phyton-u, koji se sastoji od „menadžera tragača”, jednog ili više „preuzimača” i jednog ili više „DNS pronalazača”. Prikupljene veb-adrese se smeštaju u red na disku, a kasnije se obrađuju da bi pretraživale već viđene veb-adrese u batch modu. Politika lepog ponašanja razmatra i domene trećeg i drugog nivoa (npr. www.example.com i www2.example.com su domeni trećeg nivoa) jer se domeni trećeg nivoa hostuju na istom veb-serveru.
+RBSE bio je prvi objavljeni tragač. On se zasnivao na dva programa. Prvi program, „pauk”, održava red u relacionoj bazi podataka, a drugi program, „Mite”, modifikovan je www ASCII pretraživač koji preuzima stranice sa interenta.
+WebCrawler je korišćen za izgradnju prvog javno dostupnog kompletnog tekst indeks podskupa veba. On se zasnovao na lib-WWW da preuzima stranice, dok je drugi program parsirao i sortirao veb-adrese za pretragu veb-grafa u širinu. To takođe uključuje tragač koji radi u realnom vremenu i koji sledi veze na osnovu sličnosti teksta sidra sa datim upitom.
+World Wide Web Worm je tragač koji je bio korišćen za izgradnju jednostavnog indeksa naslova dokumenata i veb-adresa. Indeks se može pretraživati pomoću grep Unix komande.
+WebFountain je distribuiran, modularni tragač sličan Mercator-u ali napisan u C-u. Poseduje „kontrolor” mašinu koja koordinira radom skupa mašina „mrava”. Posle višestrukog preuzimanja stranica i učestalost promena stranice se zaključuje za svaku stranicu i onda se, metodom nelinaernog programiranja, mora rešiti sistem jednačina koji maksimizuje svežinu. Autori preporučuju da se koristi ovaj redosled indeksiranja u ranim fazama rada tragača, a da se posle toga preže na uniforman redosled indeksiranja, u kojem se sve stranice pregledaju istom učestalošću.
+WebRACE je modul za indeksiranje i keširanje implementiran u Javi, a koristi se kao deo više generičkog sistema nazvanog eRACE. Sistem prima zahteve od korisnika za preuzimanje veb-stranica, tako da tragač deluje delom i kao pametan proksi server. Sistem takođe obrađuje zahteve za „pretplatu” na veb-stranice koje se moraju pratiti: kada se stranice menjaju, one moraju biti preuzete od strane tragača i pretplatnik mora biti obavešten. Najizraženija osobina WebRACE-a je da, dok većina tragača počinje sa skupom semena, WebRACE neprestano prima nove početne veb-adrese od kojih će da otpočne indeksiranje.
+Pored specifične arhitektura ovde navedenih tragača, postoji i opšta arhitektura tragača objavljena od strane Čoa i Čakrabartija.
+
+
+== Dodatni izvori informacija ==
+Cho, Junghoo, „Web Crawling Project“, UCLA Computer Science Department.
+WIVET je benchmarking projekat od strane OWASP-a, čiji je cilj da proveri da li tragač može da identifikuje sve hiperveze na ciljnoj veb-stranici.
+
+
+== Reference ==
+
+
+== Literatura ==
+Boldi, Paolo; Massimo Santini, Sebastiano Vigna (2004). „Do Your Worst to Make the Best: Paradoxical Effects in PageRank Incremental Computations”. Algorithms and Models for the Web-Graph. Приступљено 23. 3. 2009.

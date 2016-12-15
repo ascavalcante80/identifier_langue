@@ -1,0 +1,283 @@
+Lista istniejących domen najwyższego poziomu (październik 2009):
+
+
+== Funkcjonalne (ang. gTLD generic TLD)Edytuj ==
+
+
+=== NiesponsorowaneEdytuj ===
+.com – komercyjne (od 1985)
+.edu – edukacyjne (od 1985)
+.gov – rządowe, polityczne (od 1985)
+.mil – militarne (od 1985)
+.net – internetowe (od 1985)
+.org – organizacyjne (od 1985)
+.int – organizacyjne międzynarodowe (od 1988)
+.biz – biznesowe (od 2001)
+.info – informacyjne (od 2001)
+.name – nazewnicze indywidualne (od 2001)
+.pro – zawodowe (od 2001)
+
+
+=== SponsorowaneEdytuj ===
+.aero – transport lotniczy
+.cat – Katalonia
+.coop – kooperacja, współpraca
+.jobs – zatrudnienie
+.mobi – telefonia komórkowa
+.museum – muzealne
+.travel – podróżnicze
+
+
+=== InfrastrukturalneEdytuj ===
+.arpa – infrastruktura sieciowa internetu Reverse DNS
+.root – niektóre główne serwery DNS
+
+
+=== UsługoweEdytuj ===
+.post – pocztowe i firmowe prywatne
+.tel – telekomunikacyjne
+
+
+=== ProponowaneEdytuj ===
+
+
+==== GeograficzneEdytuj ====
+.geo – geograficzne
+.berlin – Berlin
+.london – Londyn
+.nyc – Nowy Jork
+.paris – Paryż
+.lat – ogólne strony Ameryki łacińskiej
+.africa – ogólne strony Afryki
+
+
+==== Języki i społecznościEdytuj ====
+.bzh – w języku bretońskim
+.cym – w języku walijskim
+.eng – dla Anglii
+.eus – w języku baskijskim
+.gal – w języku galicyjskim
+.ker – w języku kornijskim (Kornwalia)
+.lli – w dialekcie leońskim
+.quebec – dla prowincji Quebec (Kanada)
+.sco (.scot) – narodowa dla Szkocji i w języku szkockim
+.sic – dla obszaru Seklerszczyzna
+
+
+==== InneEdytuj ====
+.eco – środowiskowe
+.kid – dziecięce
+.kids – ochrona dzieci przed stronami dla dorosłych
+.mail – z e-pocztą
+.med – organizacje i placówki medyczne
+.safe –
+.shop – sklepy internetowe
+.sport – sportowe
+.web – domeny ogólnego zastosowania w sieciach WWW
+.wine – zarezerwowane dla stron o winie
+.xxx – erotyczne (dozwolone od 18 lat)
+
+
+=== ZlikwidowaneEdytuj ===
+.nato – NATO (obecnie .int)
+
+
+=== ZarezerwowaneEdytuj ===
+.example – dokumentacja oraz jako przykład nazw domen
+.invalid – przykład niepoprawnej nazwy domeny
+.localhost – serwery lokalne
+.test – podawanie przykładowych stron np w dokumentacjach lub testach
+
+
+=== PseudodomenyEdytuj ===
+.bitnet –
+.csnet –
+.local –
+.onion –
+.uucp –
+
+
+== Krajowe (ang. ccTLD country code TLD)Edytuj ==
+Domeny krajowe są zawsze dwuliterowe, większość z nich odpowiada kodom krajów ze standardu ISO 3166-1. Oprócz państw, przyporządkowuje się je odrębnym lub autonomicznym obszarom geograficznym, np. oddzielną domenę posiada Hongkong (.hk) należący do ChRL, Antyle Holenderskie (.an) należące do Holandii itd.
+.ac – Wyspa Wniebowstąpienia
+.ad – Andora
+.ae – Zjednoczone Emiraty Arabskie
+.af – Afganistan
+.ag – Antigua i Barbuda
+.ai – Anguilla
+.al – Albania
+.am – Armenia
+.an – Antyle Holenderskie
+.ao – Angola
+.aq – Antarktyda oraz inne obszary na południe od równoleżnika 60°S
+.ar – Argentyna
+.as – Samoa Amerykańskie
+.at – Austria
+.au – Australia oraz Wyspy Ashmore i Cartiera i Wyspy Morza Koralowego
+.aw – Aruba
+.ax – Wyspy Alandzkie
+.az – Azerbejdżan
+.ba – Bośnia i Hercegowina
+.bb – Barbados
+.bd – Bangladesz
+.be – Belgia
+.bf – Burkina Faso
+.bg – Bułgaria
+.bh – Bahrajn
+.bi – Burundi
+.bj – Benin
+.bl – Saint-Barthélemy (przydzielona, jeszcze niestosowana)
+.bm – Bermudy
+.bn – Brunei
+.bo – Boliwia
+.br – Brazylia
+.bs – Bahamy
+.bt – Bhutan
+.bv – Wyspa Bouveta (niestosowana)
+.bw – Botswana
+.by – Białoruś
+.bz – Belize
+.ca – Kanada
+.cc – Wyspy Kokosowe (Wyspy Keelinga)
+.cd – Demokratyczna Republika Konga
+.cf – Republika Środkowoafrykańska
+.cg – Kongo
+.ch – Szwajcaria
+.ci – Wybrzeże Kości Słoniowej
+.ck – Wyspy Cooka
+.cl – Chile
+.cm – Kamerun
+.cn – Chińska Republika Ludowa
+.co – Kolumbia
+.cr – Kostaryka
+.cu – Kuba
+.cv – Republika Zielonego Przylądka
+.cx – Wyspa Bożego Narodzenia
+.cy – Cypr
+.cz – Czechy
+.de – Niemcy
+.dj – Dżibuti
+.dk – Dania
+.dm – Dominika
+.do – Dominikana
+.dz – Algieria
+.ec – Ekwador
+.ee – Estonia
+.eg – Egipt
+.eh – Sahara Zachodnia (projektowana, obecnie brak)
+.er – Erytrea
+.es – Hiszpania
+.et – Etiopia
+.eu – Unia Europejska
+.fi – Finlandia
+.fj – Fidżi
+.fk – Falklandy
+.fm – Mikronezja
+.fo – Wyspy Owcze
+.fr – Francja
+.ga – Gabon
+.gb – Wielka Brytania (niestosowana, zazwyczaj używana .uk)
+.gd – Grenada
+.ge – Gruzja
+.gf – Gujana Francuska
+.gg – Guernsey
+.gh – Ghana
+.gi – Gibraltar
+.gl – Grenlandia
+.gm – Gambia
+.gn – Gwinea
+.gp – Gwadelupa
+.gq – Gwinea Równikowa
+.gr – Grecja
+.gs – Wyspy Georgia Południowa i Sandwich Południowy
+.gt – Gwatemala
+.gu – Guam
+.gw – Gwinea Bissau
+.gy – Gujana
+.hk – Hongkong
+.hm – Wyspy Heard i McDonalda
+.hn – Honduras
+.hr – Chorwacja
+.ht – Haiti
+.hu – Węgry
+.id – Indonezja
+.ie – Irlandia
+.il – Izrael
+.im – Wyspa Man
+.in – Indie
+.io – Brytyjskie Terytorium Oceanu Indyjskiego
+.iq – Irak
+.ir – Iran
+.is – Islandia
+.it – Włochy
+.je – Jersey
+.jm – Jamajka
+.jo – Jordania
+.jp – Japonia
+.ke – Kenia
+.kg – Kirgistan
+.kh – Kambodża
+.ki – Kiribati
+.km – Komory
+.kn – Saint Kitts i Nevis
+.kp – Korea Północna
+.kr – Korea Południowa
+.kw – Kuwejt
+.ky – Kajmany
+.kz – Kazachstan
+.la – Laos
+.lb – Liban
+.lc – Saint Lucia
+.li – Liechtenstein
+.lk – Sri Lanka
+.lr – Liberia
+.ls – Lesotho
+.lt – Litwa
+.lu – Luksemburg
+.lv – Łotwa
+.ly – Libia
+.ma – Maroko
+.mc – Monako
+.md – Mołdawia
+.me – Czarnogóra
+.mf – Saint-Martin (przydzielona, jeszcze niestosowana)
+.mg – Madagaskar
+.mh – Wyspy Marshalla
+.mk – Macedonia
+.ml – Mali
+.mm – Mjanma
+.mn – Mongolia
+.mo – Makau
+.mp – Mariany Północne
+.mq – Martynika
+.mr – Mauretania
+.ms – Montserrat
+.mt – Malta
+.mu – Mauritius
+.mv – Malediwy
+.mw – Malawi
+.mx – Meksyk
+.my – Malezja
+.mz – Mozambik
+.na – Namibia
+.nc – Nowa Kaledonia
+.ne – Niger
+.nf – Norfolk
+.ng – Nigeria
+.ni – Nikaragua
+.nl – Holandia
+.no – Norwegia
+.np – Nepal
+.nr – Nauru
+.nu – Niue
+.nz – Nowa Zelandia
+.om – Oman
+.pa – Panama
+.pe – Peru
+.pf – Polinezja Francuska oraz Clipperton
+.pg – Papua-Nowa Gwinea
+.ph – Filipiny
+.pk – Pakistan
+.pl – Polska
+.pm – Saint-Pierre i Miquelon
+.

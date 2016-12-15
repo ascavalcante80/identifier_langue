@@ -1,0 +1,66 @@
+Asteroids are assigned a type based on spectral shape, color, and sometimes albedo. These types are thought to correspond to an asteroid's surface composition. For small bodies that are not internally differentiated, the surface and internal compositions are presumably similar, while large bodies such as 1 Ceres and 4 Vesta are known to have internal structure.
+A list of types can be found at Category:Asteroid spectral classes.
+
+
+== Present-day classifications ==
+The present-day classification was initiated by Clark R. Chapman, David Morrison, and Ben Zellner in 1975 with three categories: C for dark carbonaceous objects, S for stony (silicaceous) objects, and U for those that did not fit into either C or S. This classification has since been expanded and clarified.
+A number of classification schemes are currently in existence, and while they strive to retain some mutual consistency, quite a few asteroids are sorted into different classes depending on the particular scheme. This is due to the use of different criteria for each approach. The two most widely used classifications are described below:
+
+
+=== Tholen classification ===
+The most widely used taxonomy for over a decade has been that of David J. Tholen, first proposed in 1984. This classification was developed from broad band spectra (between 0.31 μm and 1.06 μm) obtained during the Eight-Color Asteroid Survey (ECAS) in the 1980s, in combination with albedo measurements. The original formulation was based on 978 asteroids.
+This scheme includes 14 types with the majority of asteroids falling into one of three broad categories, and several smaller types. They are, with their largest exemplars:
+C-group dark carbonaceous objects.
+B-type (2 Pallas)
+F-type (704 Interamnia)
+G-type (1 Ceres)
+C-type (10 Hygiea) the remaining majority of 'standard' C-type asteroids.
+
+S-type (15 Eunomia, 3 Juno) silicaceous (or "stony") objects.
+X-group
+M-type (16 Psyche) metallic objects, the third most populous group.
+E-type (44 Nysa, 55 Pandora) differ from M-type mostly by high albedo
+P-type (259 Aletheia, 190 Ismene; CP: 324 Bamberga) differ from M-type mostly by low albedo
+
+and the small classes:
+A-type (246 Asporina)
+D-type (624 Hektor)
+T-type (96 Aegle)
+Q-type (1862 Apollo)
+R-type (349 Dembowska)
+V-type (4 Vesta)
+Objects were sometimes assigned a combined type such as e.g. CG when their properties were a combination of those typical for several types.
+
+
+=== SMASS classification ===
+This is a more recent taxonomy introduced by Schelte J. Bus and Richard P. Binzel in 2002, based on the Small Main-Belt Asteroid Spectroscopic Survey (SMASS) of 1,447 asteroids. This survey produced spectra of a far higher resolution than ECAS, and was able to resolve a variety of narrow spectral features. However, a somewhat smaller range of wavelengths (0.44 μm to 0.92 μm) was observed. Also, albedos were not considered. Attempting to keep to the Tholen taxonomy as much as possible given the differing data, asteroids were sorted into the 24 types given below. The majority of bodies fall again into the three broad C, S, and X categories, with a few unusual bodies categorized into several smaller types:
+C-group of carbonaceous objects including:B-type largely overlapping with the Tholen B and F types.
+C-type the most 'standard' of the non-B carbonaceous objects
+Cg Ch Cgh somewhat related to the Tholen G type
+Cb transition objects between plain C and B types.
+
+S-group of silicaceous (stony) objects including:
+A-type
+Q-type
+R-type
+K-type a new category (181 Eucharis, 221 Eos)
+L-type a new category (83 Beatrix)
+S-type the most 'standard' of the S group
+Sa, Sq, Sr, Sk, and Sl transition objects between plain S and the other types in the group.
+
+X-group of mostly metallic objects including:
+X-type the most 'standard' of the X group including objects classified by Tholen as M, E, or P-type.
+Xe, Xc, and Xk transition types between plain X and the appropriately lettered types.
+
+T-type
+D-type
+Ld-type: a new type with more extreme spectral features than the L-type
+O-type a small category (3628 Božněmcová)
+V-type (4 Vesta)
+A significant number of small asteroids were found to fall in the Q, R, and V types, which were represented by only a single body in the Tholen scheme. In this Bus and Binzel SMASS scheme only a single type was assigned to any particular asteroid.
+A few near-Earth objects have spectra that differ strongly from any of the SMASS classes. This is presumably because these bodies are much smaller than those detected in the asteroid belt, and as such may have younger less-altered surfaces or be composed of a less varied mix of minerals.
+
+
+=== Color indices ===
+
+In the a photometric system, the brightness of an object can be measured through a set of different, wavelength-specific filters (passbands). In the UBV photometric

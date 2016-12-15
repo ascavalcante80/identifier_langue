@@ -1,0 +1,35 @@
+En las matemáticas, un conjunto B es subconjunto de un conjunto A si B «está contenido» dentro de A. Recíprocamente, se dice que el conjunto A es un superconjunto de B cuando B es un subconjunto de A.
+
+
+=== Definición ===
+La diferencia entre los conjuntos es enformando por los elementos que pertenecen a uno y a los otros no.
+Otras maneras de decirlo son «B está incluido en A», «A incluye a B», etc.
+Ejemplos.
+El «conjunto de todos los hombres» es un subconjunto del «conjunto de todas las personas».
+{1, 3} ⊆ {1, 2, 3, 4}
+{2, 4, 6, ...} ⊆ {1, 2, 3, ..} = N ( {Números pares} ⊆ {Números naturales} )
+
+
+=== Subconjunto propio ===
+Es cierto que cada elemento de un conjunto A es un elemento de A (es una afirmación tautológica). Por tanto se tiene el siguiente teorema:
+Así, dados dos conjuntos A ⊆ B, cabe la posibilidad de que sean iguales, A = B.
+Por otro lado, es posible también que A contenga algunos pero no todos los elementos de B:
+Es verdadero que todos los ejemplos de subconjunto mostrados arriba son de hecho subconjuntos propios.
+También se utiliza la notación A ⊂ B y B ⊃ A, pero según el autor esto puede denotar subconjunto, A ⊆ B y B ⊇ A; o subconjunto propio, A ⊊ B y B ⊋ A.
+
+
+== Conjunto potencia ==
+
+La totalidad de los subconjuntos de un conjunto dado A constituye el llamado conjunto potencia o conjunto partes de A:
+Cuando el conjunto A tiene un número finito de elementos, por ejemplo |A| = n, el conjunto potencia también es finito y tiene 2n elementos.
+Ejemplo. Dado el conjunto A = {a, b}, su conjunto potencia es:
+
+
+== Propiedades ==
+Esto es debido a que «todo elemento de ∅ lo es de A» significa lo mismo que «∅ no tiene ningún elemento que no esté en A», y esto es cierto sea cual sea A ya que ∅ no tiene elementos.
+Si cada elemento de un conjunto A lo es de otro conjunto B, y cada elemento de B a su vez lo es de otro conjunto C, entonces cada miembro de A pertenece también a C, o sea:
+Además, si dos conjuntos son subconjuntos el uno del otro, entonces todos los miembros de uno lo son del otro y viceversa. Entonces, ambos conjuntos poseen los mismos elementos, y los conjuntos quedan definidos únicamente por sus elementos, luego:
+
+
+=== Propiedades avanzadas ===
+La relación de inclusión tiene las mismas propiedades que la relación de orden no estricto: es reflexiva (A ⊆ A); transitiva (A ⊆ B y B ⊆ C i

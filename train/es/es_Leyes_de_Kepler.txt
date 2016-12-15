@@ -1,0 +1,30 @@
+Las leyes de Kepler fueron enunciadas por Johannes Kepler para describir matemáticamente el movimiento de los planetas en sus órbitas alrededor del Sol.  Aunque él no las describió así, en la actualidad se enuncian como sigue:
+Primera ley (1609): Todos los planetas se desplazan alrededor del Sol describiendo órbitas elípticas. El Sol se encuentra en uno de los focos de la elipse.
+Segunda ley (1609): el radio vector que une un planeta y el Sol barre áreas iguales en tiempos iguales.
+La ley de las áreas es equivalente a la constancia del momento angular, es decir, cuando el planeta está más alejado del Sol (afelio) su velocidad es menor que cuando está más cercano al Sol (perihelio). En el afelio y en el perihelio, el momento angular  es el producto de la masa del planeta, su velocidad y su distancia al centro del Sol.
+
+Tercera ley (1618): para cualquier planeta, el cuadrado de su período orbital es directamente proporcional al cubo de la longitud del semieje mayor de su órbita elíptica.
+
+Donde, T  es el periodo orbital (tiempo que tarda en dar una vuelta alrededor del Sol), R  la distancia media del planeta con el Sol y C  la constante de proporcionalidad.
+Estas leyes se aplican a otros cuerpos astronómicos que se encuentran en mutua influencia gravitatoria, como el sistema formado por la Tierra y la Luna.
+
+
+== Formulación de Newton de la tercera ley de Kepler ==
+Antes de que se redactaran las leyes de Kepler hubo otros científicos como Claudio Ptolomeo, Nicolás Copérnico y Tycho Brahe cuyas principales contribuciones al avance de la ciencia estuvieron en haber conseguido medidas muy precisas de las posiciones de los planetas y de las estrellas. Kepler, que fue discípulo de Tycho Brahe, aprovechó todas estas mediciones para poder formular su tercera ley.
+Kepler permitió descubrir el movimiento de los planetas. Utilizó grandes conocimientos matemáticos para encontrar relaciones entre los datos de las observaciones astronómicas obtenidas por Tycho Brahe y con ellos logró componer un modelo heliocéntrico del universo. Comenzó trabajando al modo tradicional, planteando trayectorias excéntricas y movimientos en epiciclos, pero encontró que esos datos los situaban fuera del esquema que había establecido Copérnico, lo que le llevó a pensar que no describían una órbita circular. Ensayó otras formas para las órbitas y encontró que los planetas describían órbitas elípticas que tenían al Sol en uno de sus focos. Analizando los datos de Brahe, Kepler descubrió también que la velocidad de los planetas no es constante, sino que el radio vector que los une con el Sol describe áreas iguales en tiempos iguales. En consecuencia, la velocidad de los planetas es mayor cuando están próximos al Sol (perihelio) que cuando se mueven por las zonas más alejadas (afelio). Esto da origen a las tres Leyes de Kepler sobre el movimiento planetario.
+Las leyes de Kepler representan una descripción cinemática del sistema solar.
+Primera Ley de Kepler: Todos los planetas se mueven alrededor del Sol siguiendo órbitas elípticas. El Sol está en uno de los focos de la elipse. (a y b con semejantes a la elipse)
+Segunda Ley de Kepler: Los planetas se mueven con velocidad areolar constante. Es decir, el vector posición r de cada planeta con respecto al Sol barre áreas iguales en tiempos iguales.
+Se puede demostrar que el momento angular es constante lo que nos lleva a las siguientes conclusiones:
+Las órbitas son planas y estables.
+Se recorren siempre en el mismo sentido.
+La fuerza que mueve los planetas es central.
+Tercera Ley de Kepler: se cumple que para todos los planetas, la razón entre el periodo de revolución al cuadrado y el radio orbital al cubo se mantiene constante. Esto es:
+
+El estudio de Newton de las leyes de Kepler condujo a su formulación de la ley de la gravitación universal.
+La formulación matemática de Newton de la tercera ley de Kepler para órbitas circulares es:
+La fuerza gravitacional crea la aceleración centrípeta necesaria para el movimiento circular:
+
+Al reemplazar la velocidad v por  (el tiempo de una órbita completa) obtenemos
+
+Donde, T  es el periodo orbital, r  el semieje mayor de la órbita, M es la masa del cuerpo central y G  una constante denominada Constante de gravitación universal cuyo

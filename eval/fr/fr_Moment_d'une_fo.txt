@@ -1,0 +1,45 @@
+nt vectoriellement mais dont les moments s'ajoutent sans s'annuler. C'est par exemple le résultat de l'action du vent sur une éolienne, ou l'action des forces électromagnétiques sur l'induit d'un moteur électrique.
+En aucun cas il n'est possible de déduire que « somme des moments = moment de la somme ». Cela n'est vrai que pour un ensemble de forces appliquées au même point. Cela montre enfin qu'une action mécanique n'est pas représentable par un seul vecteur force. La considération du point d'application est primordiale.
+
+
+=== Théorème de VarignonModifier ===
+Le moment en  de la résultante  de plusieurs forces  concourantes en  est égal à la somme des moments en  de ces différentes forces :
+,
+avec .
+En effet :
+
+
+== Théorème du moment cinétiqueModifier ==
+
+En dynamique, il est possible de montrer que le moment des forces est la dérivée du moment cinétique par rapport au temps :
+
+Ce résultat est le théorème du moment cinétique et est l'équivalent du principe fondamental de la dynamique (deuxième loi de Newton) pour la dynamique de rotation.
+Il est également possible de montrer que si  est le vecteur vitesse angulaire, c'est-à-dire le vecteur
+colinéaire à l'axe de rotation  fixe dans (R),
+dont la norme est la vitesse angulaire
+et orienté de façon que l'orientation positive d'un plan normal correspond au sens de rotation
+alors :
+
+où  est le moment d'inertie du solide par rapport à l'axe de rotation .
+
+
+== Voir aussiModifier ==
+
+
+=== Articles connexesModifier ===
+Barycentre (physique)
+Moment angulaire
+Moment d'inertie
+Moment de flexion
+Statique
+Statique du point
+Statique du solide
+
+Couple (physique)
+Pseudovecteur
+Levier (mécanique)
+
+
+=== Lien externeModifier ===
+(histoire des sciences) L'étude de la notion de couple et de moment par Poinsot (1803), en ligne et commenté sur BibNum.
+ Portail de la physique

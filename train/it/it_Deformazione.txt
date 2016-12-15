@@ -1,0 +1,127 @@
+In fisica e ingegneria la deformazione di un corpo continuo (o di una struttura) è un qualsiasi cambiamento della configurazione geometrica del corpo che porta ad una variazione della sua forma o delle sue dimensioni in seguito all'applicazione di una sollecitazione.
+Lo studio della deformazione di un corpo continuo ha un'importanza fondamentale in meccanica del continuo e in meccanica delle strutture, in quanto la caratterizzazione meccanica del comportamento del materiale costituente il corpo (e quindi come questo si deforma sotto l'azione di forze applicate) è formulata da relazioni costitutive convenientemente espresse in termini di legame tra i parametri che descrivono lo stato di sollecitazione e di deformazione del corpo stesso.
+A tal fine non è tanto importante conoscere la deformazione globale del corpo, ma arrivare ad una caratterizzazione locale della deformazione, cioè di una descrizione della deformazione che interessa un intorno generico di ogni punto del corpo. Nel prosieguo si definirà lo stato di deformazione del continuo tridimensionale di Cauchy, rimandando per lo studio della deformazione di altri modelli di corpi continui (travi, gusci, ecc.) alle relative voci.
+
+
+== Storia ==
+La genesi del concetto di deformazione inteso nel senso moderno del termine, e cioè come variazione locale della configurazione del corpo, è da ricercarsi tra il XVII e il XVIII secolo, quando Isaac Beeckman e Johann Bernoulli introdussero la misura della deformazione quale rapporto tra la variazione della lunghezza di una fibra di materiale e la sua lunghezza originaria.
+In seguito, basandosi su questo concetto, un gran numero di importanti studiosi svilupparono il tema della deformazione: tra questi si ricordano principalmente Eulero, il quale sviluppò il modello tridimensionale della teoria delle deformazioni infinitesime, e Cauchy, che elaborò la teoria delle deformazioni finite.
+
+
+== Cambiamenti di configurazione ==
+
+Una configurazione geometrica del continuo di Cauchy è una qualsiasi regione regolare  dello spazio tridimensionale euclideo  (lo spazio fisico) occupata dai punti del corpo. Nello sviluppo del concetto di deformazione ci si può limitare a considerare due specifiche configurazioni, senza considerare la sequenza con cui la seconda è raggiunta a partire dalla prima. È uso chiamare la prima configurazione indeformata e identificarla con la configurazione di riferimento; la seconda è detta configurazione deformata. Entrambe si considerano indipendenti dal tempo.
+L'analisi della deformazione consiste nello studio dell'applicazione (il trasporto)
+
+che porta il corpo dalla configurazione indeformata alla configurazione deformata o, il che è lo stesso, nello studio dello spostamento prodotto misurato dal campo vettoriale  così definito:
+
+In particolare è importante studiare la deformazione di un intorno di un generico punto materiale, cioè di una piccola porzione del corpo prossima al punto considerato. Al tal fine risulta utile l'uso del tensore (del secondo ordine) gradiente della deformazione
+ con riferimento al gradiente del campo 
+Il gradiente della deformazione è una misura della deformazione di un intorno di un generico punto in quanto, per definizione di gradiente, permette di rappresentare la trasformazione subita da un segmento orientato appartenente all'intorno dalla configurazione indeformata  alla configurazione deformata 
+
+Esso inoltre permette di rappresentare mediante la (formula di Nanson)
+
+la trasformazione subita da un elemento orientato di superficie di area  e orientazione normale  nella configurazione indeformata e di area  e orientazione  nella configurazione deformata.
+Esso relaziona infine la misura di un elemento di volume infinitesimo nella configurazione indeformata  e nella configurazione deformata 
+
+
+=== Rappresentazione in componenti scalari ===
+Fissato un sistema di coordinate cartesiane in una base ortonormale  e indicando con  le coordinate (dette materiali o referenziali) del punto nella configurazione di riferimento e con  le coordinate (dette spaziali) del punto nella configurazione deformata, l'applicazione di trasporto e di spostamento sono rappresentate in componenti dal sistema di relazioni scalari:
+
+Il tensore gradiente della deformazione ha la seguente matrice di rappresentazione in componenti scalari:
+
+
+== Misure di deformazione pura ==
+In generale, uno spostamento generico di un corpo include sia un'aliquota di spostamento rigido che un'aliquota di deformazione pura del corpo con variazione di forma o di dimensioni (o entrambe). In particolare la trasformazione di un intorno di un punto descritta dal tensore  è data dalla composizione di una rotazione rigida dell'intorno con una deformazione pura di questo. Il teorema di decomposizione polare permette di valutare entrambi i contributi, assicurando che esistono solo due decomposizioni del tensore 
+
+dove  è un tensore ortogonale descrittore della rotazione e  sono tensori simmetrici e definiti positivi rappresentativi della deformazione pura subita, detti rispettivamente tensore destro e tensore sinistro della deformazione. Pertanto ogni possibile misura di deformazione pura deve essere funzione solo del tensore  o del tensore  .
+
+
+=== Misure locali di deformazione pura ===
+Misure locali di deformazione pura di interesse tecnico sono la dilatazione lineare, lo scorrimento angolare e la dilatazione volumetrica.
+
+
+==== Dilatazione lineare ====
+La variazione percentuale di lunghezza di un segmento orientato prima  e dopo la deformazione  è misurata dalla
+
+Un'analoga misura, la variazione percentuale dei quadrati delle lunghezze, è così definita
+
+
+==== Scorrimento angolare ====
+Si consideri due segmenti orientati  e  della configurazione di riferimento, tra loro ortogonali, e i loro trasformati  e . Lo scorrimento angolare misura la variazione di angolo  sotteso tra gli elementi lineari prima e dopo la deformazione. Esso è espresso dalla:
+
+
+==== Dilatazione volumetrica ====
+La variazione percentuale di un elemento di volume prima  e dopo  la deformazione:
+
+
+=== Misure tensoriali di deformazione pura ===
+Una descrizione obiettiva della deformazione pura deve necessariamente essere indipendente dalla rotazione rigida, e quindi dal tensore  e funzioni dei soli tensori  o . Possibili misure tensoriali lagrangiane della deformazione sono espresse nella forma
+
+dove n è un numero reale (non necessariamente un intero): per n=1 ed n=2 si parla rispettivamente di tensore di Biot e di tensore di Green.
+
+
+==== Tensore della deformazione di Green ====
+Il tensore di Green è un tensore simmetrico definito mediante la relazione precedente o equivalentemente in termini del gradiente della deformazione e del gradiente dello spostamento:
+
+Esso è una misura della deformazione in quanto è nullo in presenza di spostamenti rigidi. Esso ha un forte interesse tecnico in quanto di facile determinazione in termini del gradiente della deformazione o dello spostamento e in quanto permette una semplice rappresentazione delle misure locali di deformazione pura precedentemente definite:
+
+Il tensore della deformazione di Green ha la seguente rappresentazione in componenti scalari:
+
+
+==== Tensore della deformazione di Biot ====
+Il tensore della deformazioni di Biot è un tensore simmetrico definito mediante
+
+La determinazione del tensore di Biot è meno agevole del tensore di Green, in quanto richiede la determinazione del tensore destro della deformazione e ciò, in termini del gradiente della deformazione o dello spostamento, passa attraverso una più complessa operazione di radice quadrata essendo
+
+Sussiste la seguente relazione (nonlineare) tra i tensori della deformazione di Green e di Biot
+
+Tale relazione può così essere riportata in uno sviluppo in serie di Taylor
+
+Per deformazioni piccolissime  le due misure tensoriali praticamente coincidono
+
+
+== Teoria dei piccoli spostamenti ==
+
+Le relazioni cinematiche (non lineari) precedentemente ottenute hanno validità generale, per qualsiasi entità degli spostamenti e delle deformazioni. Presenta un interesse fondamentale dal punto di vista applicativo l'esame dello stato di deformazione nel caso in cui risultino piccoli (in un senso che occorre rendere preciso) tanto il campo di spostamenti  che il suo gradiente . Si parla in tal caso di teoria lineare della deformazione (o anche, meno correttamente, di teoria delle deformazioni infinitesime). Le relative relazioni cinematiche possono essere ottenute direttamente in maniera autonoma oppure derivate, come nel seguito, da quelle della teoria non lineare, mediante un processo al limite e trascurando i contributi infinitesimi di ordine superiore.
+Fissata una dimensione L significativa della geometria del corpo e delle opportune misure di norma , si parla di piccoli spostamenti e piccole deformazioni se
+
+Si dimostra che, nella teoria dei piccoli spostamenti, è lecito confondere, ai fini della scrittura delle relazioni di equilibrio, la configurazione iniziale indeformata con la configurazione corrente deformata.
+
+
+=== Tensore della deformazione infinitesima ===
+Nell'ipotesi di piccoli spostamenti e deformazioni, assume un ruolo fondamentale nella descrizione della deformazione il tensore della deformazione infinitesima , definito come la parte simmetrica del gradiente dello spostamento
+
+Valgono infatti le approssimazioni lineari per il tensore di Green
+
+e per le altre misure di deformazione pura:
+dilatazione lineare
+
+scorrimento angolare
+
+dilatazione volumetrica
+
+ (la traccia del tensore )
+
+
+==== Il tensore della deformazione infinitesima in componenti scalari e loro significato fisico ====
+
+Le componenti  misurano le variazioni percentuali di lunghezza rispettivamente nelle direzioni ;
+le componenti  misurano metà degli scorrimenti angolari associati rispettivamente alle direzioni ,  ed 
+
+
+=== Parte sferica e deviatorica del tensore della deformazione ===
+Come ogni tensore, il tensore della deformazione  può essere decomposto in una parte sferica e una parte deviatorica
+
+dove, indicando con  il tensore identità,  è la deformazione di allungamento medio
+
+La parte sferica  del tensore della deformazione è rappresentativa di uno stato di deformazione con scorriementi angolari nulli e deformazioni estensionali uniformi in tutte le direzioni, che non producono variazioni di forma ma solo variazioni di volume.
+La parte deviatorica della deformazione
+
+detta deformazione distorcente, è associata invece ad uno stato deformativo che non provoca variazione di volume, ma solo variazione di forma.
+
+
+== Equazioni esplicite di congruenza di S. Venant ==
+Le relazioni
+
+rispettivamente per la teoria lineare e nonlineare, risultano di congruenza cinematica tra quantità  che descrivono localmente la geometr

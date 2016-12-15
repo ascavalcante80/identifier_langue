@@ -1,0 +1,21 @@
+XML është gjuhë skriptuese që i takon familjes së SGML. Ajo ka të njëjtën formë sikur edhe HTML me disa përjashtime më profesionale. XML në fakt është gjuhë nëpërmjet të cilës mund të krijojme gjuhë te ngjajshme sikur HTML. Kjo do të thotë se ka hapësire më të madhe veprimi, është më fleksibile dhe shumë më e zhvilluar se HTML edhe pse të dyja gjuhët janë pjesë e familjes SGML. Ajo që dallon XML nga HTML është se në XML kemi mundësi të krijomë tage tona ndërkaq në HTML jemi të kufizuar me numrin e tageve që i përmban vetë gjuha HTML-it. Për ta pasur më të qartë se çka është XML marrim një shembull në vazhdim:
+
+<Univerziteti>
+          <Emri>SEEU</Emri>
+          <fakulteti>
+               <EmriIFakultetit>CST</EmriIFakultetit>
+               <Lenda1>C++</Lenda1>
+               <Lenda2>XML</Lenda2>
+               <Lenda3>Database system management</Lenda3>
+           </fakulteti>
+</Univerziteti>
+
+
+== Lidhjet e jashtme ==
+XML në W3C
+XeML.net
+
+Cilat janë përfitimet e XML?
+Dobi e parë e XML mund të përdoret në vend të pak fleksibile HTML standarde për krijimin e faqeve Web. Një përparësi e dytë është se dokumentet XML janë ideale për ndarjen e elektronike, sidomos në përdorimin e lajmeve ushqen dhe më të rëndësishme, janë hartuar në mënyrë që të kryejë automatikisht software mund të manipulimeve komplekse.
+Për shembull, një program mund të shtypë një raport rreth grupim i listës adresën që është renditur emrat nga grup dhe nga ku ata jetojnë. Raporti gjithashtu mund të llogariten në numrin e njerëzve nga çdo adresën ose grup.
+Një nga përparësitë e tjera të rëndësishme është aftësia për të përcaktuar paraprakisht se çfarë një klasë të veçantë të dokumenteve duhet të duken si, me fjalë të tjera një strukturë. Dokumente që nuk përputhen me user-define standarde do të refuzohen. Ka disa mekanizma në 

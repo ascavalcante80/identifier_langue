@@ -1,0 +1,68 @@
+Magnetna rezonanca (MR/MRI) je naziv uređaja u medicini, kojim se prikazuju slojevi ljudskog tijela.
+
+
+== Uvod ==
+MR uređaji snimaju signale koji potiču iz jezgri vodika (protona) koje se nalaze u molekulama ljudskog tijela koje je postavljeno u snažno, homogeno magnetno polje. Magnetno polje se označava jedinicom tesla (T). Dobiveni signal se snima u matricu nazvanu k-prostor (eng. k-space), analizira računarom i preračunava u snimku koja odgovara malenom volumenu tkiva (engl. voxel).
+Kako se prilikom snimanja koriste jako magnetno polje i radio talasi, snimanje je neškodljivo za razliku od radioloških metoda pri čemu se koriste rentgenske zrake (rendgensko zračenje), jer kod MR ne dolazi do ionizacije tkiva. Ipak dio energije se prenese u tkivo što se naziva SAR (od engl. specific absorption rate) i obilježava energiju koja se preda kao u zagrijavanje tkiva. Jedinica je mW/kg.
+Posebna briga je potrebna kod trudnica, jer, iako nije dokazano štetno djelovanje samog MR snimanja, kontrast koji sadrži metal gadolinij prolazi kroz placentu u plod i postoji sumnja da ga može oštetiti. Stoga žene kod kojih postoji mogućnost trudnoće trebaju to napomenuti prije snimanja.
+
+
+== Podjela uređaja ==
+Prema jačini magnetskog polja uređaje za MR snimanje djele se na:
+Niske jačine polja - do 0.5 T
+Srednje jačine polja - 0.5 T do 1 T
+Visoke jačine polja - 1 T i više (1.5 T, 2 T, 3 T, 7 T, ...)
+Za usporedbu, Zemljino magnetno polje je 50 μT (0.000 005 T).
+Prema vrsti magneta uređaje dijelimo na:
+Rezistivne (otporničke) magnete - polje se dobija proticanjem jakih struja kroz posebne zavojnice. Ovi uređaji se zbog niza problema u konstrukciji i korišenju više ne koriste i ne proizvode.
+Permanentne magnete - magnet je građen od posebnog oblika željezne prašine - feromagneta. Kod ovih je uređaja vrlo teško (zbog karakteristika samog materijala) postići dovoljno homogena polja jača od 0.4 T. Ipak vrlo su dugotrajni, jeftini za korištenje, pouzdani i danas sa dobrim osobinama. Vrlo su tihi i udobni za pacijente (nazivaju se i "otvoreni"). Posebno su poznati kao pogodni za intervencijske zahvate. Magnetsko polje kod njih nije moguće isključiti.
+Supravodljivi magneti - podobni za postizanje vrlo jakih i homogenih polja (i do 9 T) pa su, uprkos visokoj cijeni (nabave i održavanja), vrlo popularni i česti. Polje se postiže proticanjem struje kroz zavojnicu supravodljivog materijala na vrlo niskim temperaturama, npr. uronjenu u tekući helij. Zbog jakog polja proizvode dosta buke prilikom snimanja, a uslovi snimanja i rada su im nešto strožiji nego kod permanentnih.
+
+
+== Osnove ==
+
+Jačina signala koji se odašilje iz tkiva ovisi o nizu svojstava molekule koje sadrže hidrogen i okolnih molekula unutar tkiva. Jezgre atoma s neparnim brojem protona i/ili neutrona rotiraju oko svoje osi. Ukoliko se takve jezgre dovedu u jako homogeno magnetsko polje, te im se dovede energija na rezonatnoj frekvenciji, one će odaslati sličan, slabi signal. Signal se snima pomoću zavojnica i niza pojačala te se digitalizira i obrađuje računarom. Jakost signala opada obrnuto proporcionalno sa kvadratom udaljenosti i vrlo je slab. Iako većina uređaja danas koriste četverostruke zavojnice, uređaju često mogu koristiti i više zavojnica odjednom ili imati više samih zavojnica (32, 64, 128, 256, ...) postavljenih uz tkivo kako bi što više signala snimile i na taj način poboljšale odnos signala i šuma a time i kvalitetu snimka. Glavno magnetno polje određuje rezonantu frekveciju ali i visinu signala koji skoro linearno raste s porastom polja (u okviru vrijednosti koje se danas redovno koriste (0.2 do 3 T). Što je polje jače (3 T i više), također rastu i dielektrički efekti samog tkiva što otežava snimanje i uvodi nove artefakte. Ipak, povišena razina signala omogućava snimanje u većoj rezoluciji (više detalja) i tanjih slojeva.
+Osnovni način je spin-echo (SE), gdje se uvođenjem gradijenta osnovnog magnetskog polja samo dio tkiva dovodi u rezonanciju sa uređajem, nakon čega se odašilje signal za pobudu na toj, karakterističnoj frekvenciji. Da bi sloj bio što bolje ocrtan, nužno je precizno i snažno postavljanje gradijenta magnetnog polja. Kako bi snimanje bilo što brže, potrebno je da je postupak postavljanja tih gradijenata što brži. Zbog toga je jedna od važnijih karakteristika MR uređaja osim same jačine osnovnog polja jakost (mT/m) i brzina (mT/m/ms) gradijenata. Vrlo bitno svojstvo uređaja je i homogenost polja, posebice kod MR spektroskopije, a koja se označava sa ppm, npr. 4 ppm. Homogenost polja može biti izražena u jednoj ravni, u više ravni i u cijelom polju.
+Količina eletromagnetne energije primjenjena na početku snimanja sloja se obično izražava u stepenima (°), gdje 180° označava energiju potrebnu za prekretanje spina u smjer suprotan od onog kojeg daje magnetno polje uređaja. SE tehnike obično koriste tu energiju, ali dio tehnika koristi manje energije čime se smanjuje i vrijeme relaksacije - otpuštanja energije u obliku radiovala.
+
+
+== Načini snimanja ==
+Za razliku od drugih radioloških metoda (RTG, CT, UZ) u MR postoji niz načina snimanja tkiva. Proizvođači često imaju svoje zaštićene nazive raznih tehnika iako vrlo često počivaju na istim ili vrlo sličnim principima.
+
+
+=== Tehnike korištenjem samog spina ===
+SE - već spomenut spin-echo je najjednsotavniji način snimanja. Karakteristične snimke se nazivaju T1 (vrijeme kada je 33.33% protona relaksirano) i T2 (vrijeme kada je 66.66% protona relaksirano). T1 snimke daju visok signal masti, dok T2 snimke daju vrlo visok signal vode. Prema ovim snimkama se uspoređuju sve ostale tehnike te se kaže da je snimka T1-mjerena ili T2-mjerena.
+FSE - fast spin-echo ili turbo spin-echo ili slično je tehnika snimanja (obično T2 snimaka) kada se radi ubrzavanja snimanja dio k-prostora svakog sloja snima "prije" vremena. Na taj način se dobija manje ili više artefakt "T1 snimke u T2 snimci", odnosno dio signala masti je također snimljen iako bi na snimci svijetli dijelovi biti samo od signala vode. Danas su sve T2 snimke snimane na taj način jer bi obično snimanje SE T2 simke vrlo dugo i do 12 minuta na uređajima od 1 T!
+IR - inversion recovery - T1 tehnika snimanja gdje se tkivo daodatnim signalom "pripremi" prije samog snimanja sloja. Na taj način se može dobiti veći kontrast i razlikovanje tkiva prema raznim svojstvima, uglavnom količini vode.
+FLAIR - fluid attenuated inversion recovery je varijanta T2 IR snimanja kod koje se postiče potiskivanje signala vode ali na drugačiji način od "čistih" T2 snimaka. Vrlo korisno za otkrivanje promjena u tkivu mozga (ožiljci, demijelinizacija, otok tkiva, svježa krv, ...).
+STIR - short tau inversion recovery je posebna tehnika T1 snimaka kod kojih se signal masti potiskuje. Paradoksalno jer T1 snimke sadrže uglavnom signal masti, zbog čega su slike vrlo tamne. Baš zbog toga su snimke vrlo korisne za prikazivanje otoka, metastaza, ožiljka i sličnih sukulentnih tkiva.
+
+
+=== Tehnike nastale korištenjem gradijenata ===
+GE - općeniti naziv za tehnike kod kojih se pomoću gradijenata primjenjenih na osnovno magnetsko polje mijenja dinamika relaksacije protona i time postiže drugačija snimka i/ili se smanjuje vrijeme snimanja.
+T2* - Vrsta T2 snimanja kod koje se snimanje vrši kada je više od 66% protona relaksirano. Često je riječ o gradijentnoj tehnici snimanja. Koristi se danas uglanovm kod snimanja kostiju, zglobova i slično.
+CISS - steady-state gradijentne tehnike, vrlo brze tehnike snimaja pomoću kojih je moguće snimati i vrlo brze kretnje, kao recimo kod srca.
+
+
+=== Ostale, posebne tehnike ===
+
+DWI - diffusion weighted imaging - tehnika snimanja kod koje se poništava sav signal iz tkiva, tako da jedino signal onih molekula koje se kreću zbog difuzije biva prikazan. Tehnika je vrlo zahtjevna za uređaj i samo uređaji sa dobrim, jakim i brzim gradijentima mogu dovoljno poništiti signal da se ne vidi "prosvjetljavanje T2 snimke" koje se i kod jakih uređaja može naslutiti. Ove snimke se svakodnevno koriste za pronalaženje moždanog tkiva koje je doživjelo ishemiju, odnosno inzult. Eksperimentalni modeli su pokazali da je ovim snimanjem moguće otkriti odumiranje ćelija svega nekoliko (7–8) minuta nakon početka ishemije, odnosno nekoliko minuta nakon teoretskog odumiranja ćelija.
+DTI - diffusion tenzor imaging - tehnika snimanja difuzije duž vlakana neurona, čime se dobijaju korisni podaci o toku snopova neurona u mozgu što je korisno kod nekih operativnih zahvata ali i kod analiza nekih bolesti i stanja. Ne primjenjuje se rutniski.
+MRS - MR spektroskopija - iz odabranih dijelova tkiva mozga i patološki promjenjena tkiva se dobijaju spektri/signali pomoću kojih se može, kao i kod obične sporektroskopije zaključiti o molekulama koje se nalaze u tkivu. Iako ponegdje rutinska metoda, ipak se rijetko koristi.
+fMRI - funkcionalna magnetna rezonancija, moguće je ponavljanim snimanjem tkiva dobiti razliku u signalu koja je posljedica promjene u tkivu koja nastaje njegovim korištenjem. Kako je obično riječ o snimanju mozga, ovim snimanjem je moguće pokazati aktivnost dijelova mozga pri izvršavanju nekih zadataka. Nije rutinska metoda.
+MRA - MR angiografija - iako postoji nekoliko tehnika (phase contrast, time of flight, ...) ove metode na današnjim uređajim uspješno mogu zamjeniti prikaz krvnih žila mozga i vrata klasičnom i DSA angiografijom, kod uređaja sa jačim poljem i odličnim gradijentima mogu se snimati krvne žile svih dijelova tijela.
+MRCP - (od engl. magnetic resonance cholecysto-pancreatography) prikaz žučnih vodova iztazito T2 mjerenom tehnikom. Tekućima (žuč i slično) unutar vodova se može prikazati na nekoliko načina, dok je brz i dobar način prikaza MRCP tehnika. Iako je prikaz sličan invazivnoj metodi ERCP, često se je samo dio pregleda.
+Potiskivanje signala masti ili vode - Mjenjanjem razmaka (vremena) između signala kojima se pobuđuje dio tkiva, moguće je dobiti promjene u fazi signala masti i vode te zatim izračunati razne učinke na sliku, kao što su: poklapanje signala masti i vode. Drugi način je da se mijenjanjem tih razmaka signali masti ili vode sasvim potisnu što daje još više podataka o samom tkivu koje se snima.
+
+
+== k-prostor (matrica) ==
+1983 Ljunggren i Tweig neovisno jedan od drugoga predstavljaju takozvani k-prostor, tehniku kojom ujedinjuju tehnike prikaza MR. Pokazali su da demodulacijom MR signala  kojeg stvaraju spinovi jezgara koji imaju slobodnu precesiju u linearnom magnetnom polju  daju vrijednost Fourierove transformacije efektivne gustoće samog spina  tj.
+
+gdje:
+
+Drugim riječima, kako vrijeme proalzi, signal ocrtava putanju u K-prostoru s vektorom brzine putanje koja je proprocionalna vektoru narinutog magnetnog gradijenta.
+Efektivna gustoća spina predstavlja pravu gustoću spina  uz ispravak učinaka  pripreme,  opadanja signala, gubitka homogenosti (faze) zbog nehomogenosti polja, protoka, difuzije i slično kao i ostalih učinaka na količinu transverzalne magnetizacije koja može inducirati signal u prijemniku VF signala.
+Iz osnovne formule k-prostora slijedi kako sliku možemo rekonstruirati  ako se na matricu primjeni inverzna Fourierova transformacija.
+
+Koristeći prikaz pomoću k-prostora, složena ideja je jako pojednostavljena. Na primjer, učinak faznog kodiranja (spn-wrap tehnika) prostora postaje znatno jasniji. U standardnim SE ili GE tehnikama gdje je gradijent za očitavanja stalan (npr. ), pobuđivanjem prostora pomoću VF signala, samo jedna linija k-prostora se očitava (snima). Kada je gradijent faznog očitanja nula, linije se snimaju po  osi. Ukoliko je fazni gradijent različit od nule, u vremenu između VF impulsa za pobudu i gradijenta za očitanje, linija koja se očitava biva pomaknuta gore ili dolje u K-prostoru; npr. snimamo liniju =konstanto.
+k-prostor također olakšava usporedbu raznih tehnika snimanja. U EPI tehnici s jednim impulsom, sve linije k-prostora se očitavaju odjednom, nakon čega slijedi sinusna ili zupčasta putanja. Kako su naizmjenične linije k-prostora očitane u suprotnim smj

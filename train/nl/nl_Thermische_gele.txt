@@ -1,0 +1,32 @@
+De thermische geleidbaarheid of warmtegeleidingscoëfficiënt (symbool λ) is een materiaalconstante die aangeeft hoe goed het materiaal warmte geleidt, en wordt onder andere gebruikt in de Wet van Fourier (warmteoverdracht door geleiding).
+De warmtegeleidingscoëfficiënt is afhankelijk van de temperatuur, dichtheid en het vochtgehalte. Hij wordt in het SI-stelsel uitgedrukt in W/(m·K) (de m staat hier voor meter). De warmtegeleidingscoëfficiënt is ook te schrijven als (W*d)/(A*K), hierbij is d de dikte en A de oppervlakte van het materiaal.
+
+
+== AchtergrondBewerken ==
+Thermische isolatoren hebben een lage waarde van λ, geleiders een hoge. Dit gaat ten dele gelijk op met de elektrische geleiding. Metalen hebben bijvoorbeeld zowel thermisch als elektrisch een hoge geleiding. Dit komt doordat zij inwendig een elektronengas bezitten dat zowel warmte als lading transporteren kan.
+Ook de collectieve trillingswijzen van het materiaal, de fononen spelen een rol. Vooral een materiaal met sterke atoombindingen in alle richtingen en lichte atomen, zoals diamant geleidt warmte goed dankzij fononen. In een dergelijk materiaal zijn de trillingwijzen volledig over het hele kristal uitgespreid (gedelocaliseerd).
+Omgekeerd is de warmtegeleiding slecht in materialen zoals aerogels. Deze stoffen hebben een fractale structuur. Hun trillingswijzen zijn daarom geen fononen maar fractonen. Dit soort trillingswijzen is van plaatselijke aard. De thermische energie (warmte) kan daarom niet zo gemakkelijk naar de buuratomen doorgegeven worden.
+
+
+== Het meten van thermische geleidbaarheidBewerken ==
+Voor het meten van thermische geleidbaarheid zijn diverse meetinstrumenten ontwikkeld.
+
+
+=== Heat Flow meters en Guarded Hot Plate voor isolatiematerialenBewerken ===
+Voor grotere monsterafmetingen en warmtegeleidbaarheid van isolatiematerialen zijn de Guarded hot plates en Heat Flow meters bijzonder geschikt. Meetbereik is van 0,005 tot 0,50 W/mK.
+
+
+== Tabel van materialenBewerken ==
+
+
+== WarmteisolatorenBewerken ==
+Stoffen die een zeer slechte warmtegeleiding hebben heten (warmte)isolatoren. Stilstaande lucht is een erg goede isolator, vandaar dat het vaak als isolatie gebruikt wordt (in een spouwmuur, in gaatjes van een wollen trui, in glaswol, enzovoorts). Kan lucht echter stromen, dan zal de warmte veel sneller doorgegeven worden door convectie. Schuimen zijn dan ook goede isolatoren, mits zij een gesloten celstructuur hebben. Zij bevatten dan een stationair gas. De mate van isolatie hangt af van het soort gas.
+
+
+== TemperatuursafhankelijkheidBewerken ==
+De thermische geleidbaarheid is een functie van de temperatuur; vaak wordt dat verband lineair benaderd (onder de Debye-temperatuur geldt echter een andere afhankelijkheid):
+
+hierin is:
+k0 de geleidbaarheid bij nul graden Celsius
+a een constante afhankelijk van het materiaal
+T de temperatuur (in graden Celsiu

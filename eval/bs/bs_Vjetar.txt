@@ -1,0 +1,19 @@
+ade i putnika. Jedrenjaci su mogli prevoziti samo ograničene količine potrepština u svom tovaru, tako da su se duga putovanja morala pažljivo planirati kako bi se uključile neophodne namirnice, kao i svježa voda.
+
+
+=== Izvor energije ===
+U historiji, drevni Sinhalezi u Anuradhapuri i drugim gradovima širom današnje Šri Lanke koristili su monsunske vjetrove za pogon peći još od 300. p.n.e. Peći su pravljene na putu monsunskih vjetrova radi iskorištavanja snage vjetra, te su takve peći mogle postizati temperature i do 1200°C. Stari historijski izvori o prvobitnim vjetrenjačama koje su se koristile za pogon orgulja u 1. vijeku n.e. Prve praktične vjetrenjače kasnije su napravljene u Sistanu, Afganistan u 7. vijeku. To su bile vjetrenjače sa uspravnom osovinom na koju su bile postavljene duga uspravna pogonska vratila sa četvrtastim lopaticama. Izrađivane sa šest do dvanaest lopatica prekrivenih trstikom ili sličnim pokrivnim materijalima, drevne vjetrenjače su se koristile za mrvljenje kukuruza ili vađenje vode iz bunara, a također su se koristile i za mljevenje žita te preradu šećerne trske. Vjetrenjače sa vodoravnim osovinama su se kasnije proširile u sjeverozapadnoj Evropi počev od 1180tih, uglavnom za mljevenje žita, a mnoge holandske vjetrenjače i danas postoje. Snaga vjetra iz visinskih vjetroelektrana je u fokusu preko 30 svjetskih kompanija koje koriste tehnologiju privezivanja umjesto tornjeva na zemlji na bazi pritiska. Osim toga, postoje nastojanja da se uštede fosilna goriva koje koriste teretni brodovi tako što se koristi mehanička energija dobijena iz kinetičke energije vjetra pomoću veoma velikih zmajeva ili jedara privezanih za brod.
+
+
+== Snaga vjetra ==
+Energija vjetra je oblik kinetičke energije zraka u kretanju. Kinetička energija određenog dijela zraka mase m i brzine v određena je formulom ½ m v2. Da bi se našla masa dijela zraka koji prolazi okomito kroz površinu A (a koja može biti površina rotora turbine), moži se njegova zapremina nakon vremena t koja je prošla sa gustoćom zraka ρ, što daje m = A v t ρ. Na taj način moguće je naći ukupnu energiju vjetra pomoću jednačine:
+
+Deriviranjem uz uzimanje protoka vremena da bi se izračunala stopa povećanja energije, može se pronaći ukupna snaga vjetra jednačinom:
+
+Snaga vjetra je stoga proporcionalna kubiku brzine vjetra. Ukupna snaga vjetra bi se mogla u potpunosti uhvatiti ako bi se brzina vjetra svela na nulu. Međutim u realnim uvjetima kod vjetroturbina to nije moguće, jer uhvaćeni vjetar također mora i da napusti turbinu (prođe kroz nju). Odnos između ulazne i izlazne brzine vjetra se mora uzeti u izračunima. Koristeći koncept cijevi toka, najveća moguća snaga vjetra koja se može izvući pomoću vjetroturbine iznosi 59% ukupne teoretske snage vjetra.
+
+
+== Također pogledajte ==
+
+
+== Reference ==

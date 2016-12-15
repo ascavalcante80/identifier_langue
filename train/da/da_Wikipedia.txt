@@ -1,0 +1,48 @@
+Wikipedia er en encyklopædi med åbent indhold, skrevet i samarbejde mellem sine brugere. Navnet er en sammentrækning af ordene wiki, der betyder hurtig på hawaiiansk og encyclopedia der betyder encyklopædi på engelsk. Wikipedia styres af Wikimedia, en non-profit fond oprettet specielt til formålet.
+Wikipedia blev påbegyndt med den engelske udgave af Larry Sanger og Jimbo Wales den 15. januar 2001. Den danske udgave blev påbegyndt den 1. februar 2002.
+I januar 2004 indeholdt Wikipedias sprogudgaver tilsammen cirka 400.000 artikler, hvoraf knap 200.000 artikler var på engelsk. I august 2009 havde Wikipedia mere end 13,7 mio. artikler, hvoraf den engelsksprogede version var størst, da den rundede 3 millioner artikler i denne måned.
+
+
+== Bærende principper ==
+De tre bærende principper på Wikipedia, der tilsammen definerer dens niche på World Wide Web er:
+Den er, eller sigter på at blive, primært en encyklopædi.
+Den er en wiki, det vil sige den kan redigeres af hvem som helst.
+Den er med åbent indhold under Creative Commons Attribution-Share Alike 3.0 Unported.
+Wikipedia støttes af Richard M. Stallman og Free Software Foundation. Stallman påpegede brugbarheden af en "fri universel encyklopædi" før Wikipedia blev startet.
+
+
+== Software og hardware ==
+
+Oprindeligt startede Wikipedia med at køre på UseModWiki, skrevet af Clifford Adams.
+Den 26. januar 2002 skiftede den engelske Wikipedia program fra UseModWiki til PHP og MySQL.
+Den 25. september 2002 skiftede den danske Wikipedia over til samme program.
+Projektet kører på mange dedikerede servere, der er placeret i Florida, USA og tre andre steder i verden. Disse servere er ansvarlige for Wikipedia på alle sprog og for postlisterne. Wikipedia modtager mellem 2000-7000 sidevisninger per sekund. Over 200 servere er blevet sat op for i fællesskab at kunne håndtere den enorme mængde trafik.
+
+
+== Mobil adgang til Wikipedia ==
+Mobile enheder kan tilgå de mobile udgaver af Wikipedia. Den første mobile udgave formateret til WAP (wapedia.mobi) har eksisteret siden 2004 – og siden 2009 til andre mobile enheder inkl. iPod, Android-enheder, og Kindle (da.m.wikipedia.org og en.m.wikipedia.org).
+
+
+== Brugerhierarki ==
+Alle der er koblet til Internettet kan læse og skrive i Wikipedias artikler. Bidrag angives med IP-adressen. Personer der har lyst til at bidrage med mere, kan oprette sig som brugere. Dette er gratis og har en del fordele – primært overskuelighed. Enkelte kontroversielle artikler kan være semibeskyttet; dvs. låst for bidrag fra IP-adresser. Alle kan bekæmpe vandalisme og brugere der er blevet erfarne indenfor wikiprocedurerne kan vælges til administratorer. Administratorer kan slette artikler, blokere brugere og beskytte artikler. Der er p.t. 29 administratorer på den danske Wikipedia
+Se også Wikipedia:Administratorer
+Brugere oprettes som administratorer af bureaukrater (Bureaucrats) der også kan ændre brugernavne. Der er p.t. 2 bureaukrater på den danske Wikipedia.
+Se også Wikipedia:Bureaukrater
+Administratorer kan få taget deres rettigheder, hvis de udøver magtmisbrug. Det gøres af forvaltere (Stewards). Forvaltere vælges en gang om året ved demokratiske afstemninger.
+Se også meta:Stewards
+Wikipedias styrke er blandt andet at udnytte diverse brugeres evner. Nogle ved en masse om et emne, men formulerer sig dårligt. Andre aner intet om emnet, men kan rette stavefejl, tegnsætning o.lign. Nogle brugere har kæpheste, som at bekæmpe dåsedansk og patruljerer da.wikipedia.org regelmæssigt.
+Erfarne brugere kan wikificere nye brugeres bidrag – indsætte hyperlinks, billeder, links til andre sprog, kategorier mm.
+
+
+== Popularitet ==
+Sammenlignet med andre sites på dansk er den danske Wikipedia godt besøgt og lå december 2013 på en 20. plads . I november 2013 var der omkring 40,4 millionersidevisninger, eller 56.000 sidevisninger i timen 
+Sammenlignet med andre sites besøgt fra Danmark, er Wikipedia (alle sprogversioner medtaget) også godt besøgt og lå december 2013 på en 6. plads. 
+Den danske Wikipedia er ikke repræsenteret på FDIMs statistik (viser kun sites under .dk), men hvad sidevisninger angår, lå dansk Wikipedia i oktober 2013 mellem 12. og 13.-pladsen, mellem politiken.dk og jp.dk 
+
+
+== Vandalisme ==
+Et af de kritiske aspekter på Wikipedia er "vandalisme" – forstået som provokerende redigeringer i artiklerne. Provokationerne kan blandt andet bestå af angreb på navngivne personer, sjofle udtryk uden begrundet notabilitet eller "hilsener" til personer man kender f.eks. familiemedlemmer. Sådanne redigeringer må påregnes at blive slettet, og den bruger, der har foretaget ændringerne, må påregne en advarsel, eller i grove tilfælde, en blokering.
+
+
+=== Baggrund for sletningspolitik ===
+Sarah Lane, vært for "Sarah's Blog Report", som er en del af tv-programmet Screen Savers, "vandaliserede" i en af sine udsendelser Wikipedia-siden om monkeypox i engelske Wikipedia-udgave. Hun skrev "Sarah Lane is totally cool and does not have monkeypox". Senere skrev hun: "Selv om jeg er imponeret over letheden og enkeltheden, er det også en smule skræmmende. Hvad hvis jeg for eksempel havde skrevet Min chef er en stor fed ***** og hans te

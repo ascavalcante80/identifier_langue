@@ -1,0 +1,41 @@
+ación química. El transductor convierte estas mediciones en señales eléctricas, que pueden alimentar a instrumentos de lectura, registro o control de las magnitudes medidas. Los sensores y transductores pueden funcionar en ubicaciones alejadas del observador, así como en entornos inadecuados o impracticables para los seres humanos.
+Algunos dispositivos actúan de forma simultánea como sensor y transductor. Un termopar consta de dos uniones de diferentes metales que generan una pequeña tensión que depende del diferencial término entre las uniones. El termistor es una resistencia especial, cuyo valor de resistencia varía según la temperatura. Un reóstato variable puede convertir el movimiento mecánico en señal eléctrica. Para medir distancias se emplean condensadores de diseño especial, y para detectar la luz se utilizan fotocélulas. Para medir velocidades, aceleración o flujos de líquidos se recurre a otro tipo de dispositivos. En la mayoría de los casos, la señal eléctrica es débil y debe ser amplificada por un circuito electrónico. A continuación se presenta una lista de los equipos de medición más importantes:
+Galvanómetro: mide el cambio de una determinada magnitud, como la intensidad de corriente o tensión (o voltaje). Se utiliza en la construcción de Amperímetros y Voltímetros analógicos.
+Amperímetro y pinza amperimétrica: miden la intensidad de corriente eléctrica.
+Óhmetro o puente de Wheatstone: miden la resistencia eléctrica. Cuando la resistencia eléctrica es muy alta (sobre los 1 M-ohm) se utiliza un megóhmetro o medidor de aislamiento.
+Voltímetro: mide la tensión.
+Multímetro o polímetro: mide las tres magnitudes citadas arriba, además de continuidad eléctrica y el valor B de los transistores (tanto PNP como NPN).
+Vatímetro: mide la potencia eléctrica. Está compuesto de un amperímetro y un voltímetro. Dependiendo de la configuración de conexión puede entregar distintas mediciones de potencia eléctrica, como la potencia activa o la potencia reactiva.
+Osciloscopio: miden el cambio de la corriente y el voltaje respecto al tiempo.
+Analizador lógico: prueba circuitos digitales.
+Analizador de espectro: mide la energía espectral de las señales.
+Analizador vectorial de señales: como el analizador espectral pero con más funciones de demodulación digital.
+Electrómetro: mide la carga eléctrica.
+Frecuencímetro o contador de frecuencia: mide la frecuencia.
+Reflectómetro de dominio de tiempo (TDR): prueba la integridad de cables largos.
+Capacímetro: mide la capacidad eléctrica o capacitancia.
+Contador eléctrico: mide la energía eléctrica. Al igual que el vatímetro, puede configurarse para medir energía activa (consumida) o energía reactiva.
+
+
+== Teoría de la electrónica ==
+Métodos matemáticos en electrónica
+Circuitos digitales
+Electrónica analógica
+
+
+== Véase también ==
+Diseño de circuitos
+Electricidad
+Electromecánica
+Electrónica de control
+Electrónica de potencia
+Electrónica de señal
+Hoja de especificaciones
+Instrumentación electrónica
+Mecatrónica
+Microelectrónica
+Optoelectrónica
+Transistor
+Válvula termoiónica
+
+↑ Kite, Thomas (2001). «Signal Processing Seminar: Debunking Audio Myths». The Embedded Signal Processing Laboratory – University of Texas at Austin.

@@ -1,0 +1,11 @@
+किसी बल द्वारा किसी वस्तु को किसी अक्ष के परितः घुमाने की प्रवृत्ति (tendency) को बलाघूर्ण (Torque, moment या moment of force) कहते हैं।
+पार्श्व चित्र में बल F' का बिन्दु O के सापेक्ष बलाघूर्ण M है तो -
+
+जहां r बिन्दु O के सापेक्ष बल F की क्रियारेखा पर स्थित किसी बिन्दु का स्थिति सदिश (position vector) है। मोटे तौर पर बलाघूर्ण का अर्थ किसी वस्तु (बोल्ट या फ्लाईव्हील) पर लगने वाला 'घूर्नन बल' (घुमाने वाला बल) होता है। उदाहरण के लिये जब किसी पाने (रिंच) के हैंडिल को खींचते या धक्का देते हैं तो इससे एक बलाघूर्ण उत्पन्न होता है जो नट या बोल्ट को ढीला करता है या कसता है।
+
+
+== बाहरी कड़ियाँ ==
+Power and Torque Explained A clear explanation of the relationship between Power and Torque, and how they relate to engine performance.
+"Horsepower and Torque" An article showing how power, torque, and gearing affect a vehicle's performance.
+"Torque vs. Horsepower: Yet Another Argument" An automotive perspective
+a discussion of torque and angular momentum in an online te

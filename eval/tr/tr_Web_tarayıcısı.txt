@@ -1,0 +1,45 @@
+4.5 ve sonrası)
+
+Webkit Tabanlı web tarayıcıları
+Google Chrome
+Apple Safari
+
+Diğer web tarayıcıları
+Opera
+Oregano
+Amaya
+iCab
+NetPositive
+OmniWeb
+Dillo
+IBrowse
+AWeb
+Voyager
+Espial Escape
+HotJava
+Arachne
+Off By One
+Emacs/W3
+Grail
+SkyKruzer
+
+Metin tabanlı web tarayıcıları
+ELinks
+Lynx
+w3m
+Links
+Netrik
+
+Mobil web tarayıcıları
+Opera Mini (iOS ve Windows Mobile sürümleri)
+Opera Mobile
+Apple Safari (iOS sürümü)
+Google Chrome
+
+
+== Test araçları ==
+Ağ tarayıcıların standartlara uygun olup olmadığını kontrol eden testler vardır. Bunlar, tarayıcının, verilen kodu doğru çalıştırıp çalıştırmadığını kontrol eder.
+Acid2
+
+
+== Kaynakça ==

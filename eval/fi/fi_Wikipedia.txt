@@ -1,0 +1,57 @@
+Vajaa puolet kyselyyn osallistuneista ei tiennyt Wikipedian olevan tuottoa tavoittelematon organisaatio.
+
+
+== Ohjelmistot ja laitteistot ==
+
+Wikipedian käyttämä wikiohjelmisto on sitä varten kehitetty MediaWiki. Se on avoimen lähdekoodin hanke, joka on kirjoitettu PHP-ohjelmointikielellä MySQL-tietokantasovelluksen päälle. MediaWiki on lisensoitu GNU General Public -lisenssillä.
+Vuonna 2014 Wikipedia siirtyi käyttämään Facebookin kehittämää avoimen lähdekoodin HipHop Virtual Machineä (HHVM) aikaisemman PHP-kielen sijaan. HHVM kääntää PHP- sekä Hack-kielistä koodia omaksi HipHop Bytecodekseen ja tämän jälkeen x86-konekieleksi johtaen nopeampaan sivuston vasteaikaan käyttäjille.
+Wikipediaa ajetaan Linux-pohjaisilla palvelimilla, joita on Floridassa 300 ja Amsterdamissa 44. Tammikuussa 2013 osa Wikipedian palvelinarkitehtuurista siirrettiin Equinixin tiloihin Virginiaan.
+Wikipedian perustaja Jimmy Wales on todennut tammikuussa 2011, että sanakirjan editointi on liian vaikeaa monille ihmisille. Palvelusta yritetään tehdä helpommin muokattava, jotta se voisi levitä laajemmalle.
+
+
+== Rahoitus ==
+Wikipedia saa rahoituksensa Wikimedia Foundationin kautta. Vuoden 2005 viimeisellä neljänneksellä kulut olivat noin 321 000 dollaria (n. 250 000 euroa), josta laitteistokulut muodostivat noin 60 %, kahden palkatun ja kahden osa-aikaisen työntekijän henkilöstökulut noin 10 %. Säätiö kerää varansa lahjoituksina.
+Vuonna 2010 Google lahjoitti Wikimedia-säätiölle kaksi miljoonaa Yhdysvaltain dollaria eli noin 1,5 miljoonaa euroa ilman erityisehtoja. Lahjoitus kattaa noin viidesosan vuoden 2010 budjetista. Sergey Brin, yksi Googlen perustajista, on kutsunut Wikipediaa yhdeksi internetin suurimmista onnistumisista. Jay Walshin mukaan lahjoitus selventää positiivisella tavalla Wikipedian suhdetta Googleen.[vanhentunut linkki]
+Helmikuussa 2014 Suomen poliisi ilmoitti pyytäneensä Wikipedialta selvitystä käyttäjilleen suuntaamasta rahalahjoitusten pyynnöistä, sillä tämän tulkittiin olevan suomalaisen rahankeräyslain vastaista. Wikimedia Suomi ry:n puheenjohtaja Tommi Kovalan mukaan lakien kiertämisestä ei kuitenkaan ole kyse, sillä varat eivät missään vaiheessa ole suomalaisten käsissä vaan toimintaa pyörittää kansainvälinen Wikimedia Foundation.
+
+
+== Palkinnot ja huomionosoitukset ==
+Vuonna 2004 Wikipedia voitti Golden Nica for Digital Communities palkinnon vuosittaisessa Prix Ars Electronica tapahtumassa. Samana vuonna Wikipedia voitti myös Webby-palkinnon.
+Vuonna 2007 brandchannel.com:in lukijat äänestivät Wikipedian neljänneksi arvokkaimmaksi brändiksi. Syyskuussa 2008 Wikipedialle myönnettiin '''Quadriga'''-palkinto.
+Vuonna 2015 Wikipedialle myönnettiin arvostettu Erasmus-palkinto sekä Asturian ruhtinattaren palkinto kansainvälisestä yhteistyöstä.
+Asteroidi 274301 Wikipedia on nimetty Wikipedian mukaan.
+
+
+== Sisarsivustot ==
+Wikipedia on laajentunut erilaisiin sisarprojekteihin, joita ylläpitää Wikimedia Foundation:
+Wikiaineisto
+Wikidata
+Wikikirjasto
+Wikimania
+Wikiopisto
+Wikisanakirja
+Wikisitaatit
+Wikispecies
+Wikiuutiset
+Wikivoyage
+Wikimedia Commons
+Wikimedia Incubator
+Meta-Wiki
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+
+
+=== Kirjallisuutta ===
+Vuorinen Mikko, Kalalahti Joanna, Vilhula Anna: Wikiä käyttämään! Tukea wikin valintaan ja käyttöönottoon. Tampereen yliopisto, 2011. ISBN 978-951-44-8403-2.
+Jaakko Suominen: Kaiken maailman tieto? Internet tietämisen kohteena, lähteenä ja välineenä. Teoksessa: Petri Saarikoski, Jaakko Suominen, Riikka Turtiainen & Sari Östman: Funetista Facebookiin. Internetin kulttuurihistoria. Helsinki: Gaudeamus, 2009. ISBN 978-952-495-123-4.
+Juha Suoranta ja Tere Vadén: Wikiworld. Political Economy of Digital Literacy, and the Promise of Participatory Media. Tampere: Paulo Freire Research Center, Finland and Open Source Research Group, Hypermedialab, University of Tampere, 2008. ISBN 978-951-44-7281-7 (pdf), ISBN 978-951-44-7280-0 (kirja). Kirjan verkkoversio (pdf). (englanniksi)
+
+
+=== Muuta ===
+Wikipedia – monta näkökulmaa avoimeen tietosanakirjaan Tieteessä tapahtuu 7/2007.
+Vesa Lehtinen: Wikipedia – vapaa tietosanakirja
+Suomenkielisen Wikipedian 100 000 artikkelin juhlaseminaaritaltiointi

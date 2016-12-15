@@ -1,0 +1,11 @@
+s af et bogstav der beskriver filteret (fx er m_V størrelsesklassen målt med et “synligt” (505 nm til 595 nm) filter, som er grønligt, m_B er en størrelsesklasse målt gennem et blåt filter, m_pg er størrelsesklassen målt med en fotografisk plade osv.).
+
+
+== Afstandsmodulet ==
+Den absolutte størrelsesklasse er ikke afstandsbestemt, ider den benytter standardafstanden 10 pc (parsec) (ca. 32 lysår). Man kan derfor ikke måle den absolutte størrelsesklasse, men man måler derimod den tilsyneladende størrelsesklasse og korrigerer for afstanden vha. det såkaldte afstandsmodul:
+.
+Dette kræver selvfølgelig, at man kender afstanden til stjernen i forvejen. Hvis det er denne, man ønsker at finde ud fra de to størrelsesklasser, kan man nemt indse, at formlen bliver:
+
+
+== Kilde ==
+Astroinfo-projektet som er en del af brugerhåndbogen til astronomiprogrammer KStars.

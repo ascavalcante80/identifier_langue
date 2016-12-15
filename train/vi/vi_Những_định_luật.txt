@@ -1,0 +1,109 @@
+Trong thiên văn học, Những định luật của Kepler về chuyển động thiên thể là ba định luật khoa học miêu tả chuyển động trên quỹ đạo của các vật thể, ban đầu dùng để miêu tả chuyển động của các hành tinh trên quỹ đạo quay quanh Mặt Trời.
+Các định luật Kepler là:
+Các hành tinh chuyển động quanh Mặt trời theo các quỹ đạo hình elíp với Mặt trời nằm ở một tiêu điểm.
+Đường nối một hành tinh với Mặt trời quét qua những diện tích bằng nhau trong những khoảng thời gian bằng nhau.
+Bình phương chu kỳ quỹ đạo của một hành tinh tỷ lệ với lập phương bán trục lớn của quỹ đạo elip của hành tinh đó..
+
+
+== Lịch sử ==
+Johannes Kepler công bố hai định luật đầu tiên của ông vào năm 1609, sau khi phân tích các dữ liệu từ những quan sát lâu năm của Tycho Brahe. Một vài năm sau Kepler mới phát hiện ra định luật thứ ba và công bố nó vào năm 1619. Các định luật Kepler là những khám phá căn bản ở thời của ông, vì từ lâu các nhà thiên văn vẫn tin rằng quỹ đạo của các hành tinh có hình tròn hoàn hảo. Đa số các hành tinh được biết đến trong Hệ Mặt Trời ở thời đó có quỹ đạo xấp xỉ hình tròn, do đó nếu chỉ quan sát sơ lược thì sẽ khó phát hiện ra quỹ đạo hành tinh là hình elíp. Những tính toán chi tiết từ dữ liệu quan sát của quỹ đạo Sao Hỏa lần đầu tiên cho Kepler thấy quỹ đạo của nó phải là hình elíp thì mới phù hợp với dữ liệu quan sát, và từ đây ông suy luận tương tự cho các hành tinh khác quay quanh Mặt Trời cũng phải có quỹ đạo elip. Ba định luật Kepler và kết quả phân tích dữ liệu quan sát của ông là một thách thức lớn cho mô hình địa tâm của Aristotle và Ptolemy đã được chấp thuận từ rất lâu, và ủng hộ cho mô hình nhật tâm của Nicolaus Copernicus (mặc dù quỹ đạo elip theo Kepler khác với các quỹ đạo tròn theo Copernicus), bằng chứng tỏ Trái Đất quay quanh Mặt Trời, vận tốc của các hành tinh trên quỹ đạo là biến đổi, và quỹ đạo có hình elip hơn là hình tròn.
+Khoảng tám thập kỷ sau, Isaac Newton chứng minh rằng các định luật Kepler có thể được áp dụng trong những điều kiện lý tưởng và là dạng xấp xỉ tốt cho quỹ đạo của các hành tinh trong hệ Mặt Trời, hay những định luật này là hệ quả của các định luật về chuyển động và định luật vạn vật hấp dẫn của ông. Bởi vì khối lượng của hành tinh khác không và sự ảnh hưởng nhiễu loạn của các hành tinh khác, ba định luật Kepler chỉ áp dụng một cách xấp xỉ và không miêu tả độ chính xác cao chuyển động của vật thể trong hệ Mặt Trời. Cuốn sách Eléments de la philosophie de Newton (Những nguyên lý của triết học Newton) của Voltaire xuất bản năm 1738 là cuốn đầu tiên gọi các định luật Kepler là "các định luật". Cùng với các lý thuyết của Newton, các định luật Kepler có vai trò quan trọng trong thiên văn học và vật lý học cũng như ứng dụng cho các vệ tinh nhân tạo.
+
+
+== Định luật thứ nhất ==
+Xem thêm: Elíp, Độ lệch tâm quỹ đạo
+
+"Quỹ đạo các hành tinh là elip với Mặt Trời nằm tại một tiêu điểm."
+Elip là cung phẳng kín thu được từ kéo giãn hình tròn theo 1 hướng (xem hình). Chú ý rằng Mặt Trời không nằm tại tâm của elip mà tại một trong hai tiêu điểm của nó. Tiêu điểm kia, đánh dấu bằng dấu chấm nhạt, không hề có ý nghĩa đối quỹ đạo hành tinh. Tâm elip là trung điểm của đoạn nối hai tiêu điểm. Đường tròn là trường hợp đặc biệt của elip khi hai tiêu điểm của nó trùng nhau.
+Độ lệch tâm là tham số có giá trị từ 0 (đường tròn) đến nhỏ hơn 1 (khi độ lệch tâm tiến tới 1, elip tiến tới dạng parabol). Độ lệch tâm quỹ đạo mà Kepler tính được cho các hành tinh là từ 0,007 (Sao Kim) tới 0,2 (Sao Thủy). (Xem thêm Danh sách hành tinh hệ Mặt Trời).
+Sau khi Kepler qua đời, nhiều vật thể với tâm sai quỹ đạo lớn đã được phát hiện, bao gồm các sao chổi và tiểu hành tinh. Hành tinh lùn Pluto, phát hiện vào năm 1929 - sự phát hiện chậm trễ này do kích cỡ nhỏ, khoảng cách lớn và sự mờ nhạt của nó, có độ lệch tâm 0,248. Các nhà thiên văn dần khám phá ra nhiều vật thể như sao chổi có quỹ đạo parabol hay thậm chí hypebol và chúng tuân theo các định luật của Newton.
+
+Về mặt toán học, phương trình elip biểu diễn trong hệ tọa độ cực là:
+
+trong đó (r, θ) là hai tọa độ cực (từ gốc tọa độ) cho elip, p là bán trục chuẩn, và ε là độ lệch tâm của elip. Đối với hành tinh quay trên quỹ đạo quanh Mặt Trời, r là khoảng cách từ Mặt Trời đến hành tinh và θ là góc giữa đường nối hành tinh với Mặt Trời và đường nối hành tinh với Mặt Trời khi nó ở cận điểm quỹ đạo.
+Tại θ = 0°, cận điểm quỹ đạo, khoảng cách là nhỏ nhất
+
+Tại θ = 90° hoặc θ = 270°, khoảng cách bằng 
+Tại θ = 180°, viễn điểm quỹ đạo, khoảng cách là lớn nhất
+
+Bán trục lớn a là giá trị trung bình cộng giữa rmin và rmax:
+
+Bán trục nhỏ b là giá trị trung bình nhân giữa rmin và rmax:
+
+Bán trục chuẩn p là giá trị trung bình điều hòa giữa rmin và rmax:
+
+Độ lệch tâm (hay tâm sai) ε là hệ số biến thiên giữa rmin và rmax:
+
+Diện tích của elip bằng:
+
+Trường hợp đặc biệt cho đường tròn ε = 0, khi đó r = p = rmin = rmax = a = b and A = π r2.
+
+
+== Định luật thứ hai ==
+
+"Đường nối hành tinh và Mặt Trời quét qua những diện tích bằng nhau trong những khoảng thời gian bằng nhau."
+Trong một thời gian nhỏ  hành tinh quét một tam giác nhỏ có cạnh đáy là  và chiều cao xấp xỉ bằng .
+Diện tích của tam giác này bằng
+
+và do vậy tỉ số (vận tốc quét)
+ phải là hằng số.
+
+Theo định luật thứ nhất quỹ đạo của hành tinh là elip, do vậy hành tinh chuyển động nhanh hơn khi tiến đến gần Mặt Trời và chuyển động chậm dần khi đi xa Mặt Trời. Hay nó quét những khoảng diện tích bằng nhau trong những khoảng thời gian bằng nhau.
+Diện tích elip là
+
+Do vậy nếu
+ là chu kỳ quỹ đạo
+sẽ thỏa mãn
+
+hay
+
+với
+
+là vận tốc góc, và
+
+là chuyển động trung bình của hành tinh quanh Mặt Trời.
+
+
+== Định luật thứ ba ==
+"Bình phương chu kỳ quỹ đạo của hành tinh tỷ lệ với lập phương bán trục lớn của quỹ đạo elip của hành tinh đó."
+Kepler công bố định luật thứ ba vào năm 1619 [1] thể hiện mối liên hệ giữa khoảng cách từ hành tinh đến Mặt Trời và chu kỳ quỹ đạo của nó. Bằng ký hiệu
+
+với  là chu kỳ quỹ đạo của hành tinh và  là bán trục lớn của quỹ đạo elip.
+Hằng số tỷ lệ là
+
+cho năm thiên văn (yr), và đơn vị thiên văn (AU).
+Kepler tìm ra định luật thứ ba trong nỗ lực lớn với quan điểm về một vũ trụ điều hòa tuân theo các định luật chính xác. Định luật này được công bố trong cuốn Harmonices Mundi (1619) và biểu diễn bằng các ký hiệu âm nhạc. Và các nhà thiên văn thường gọi nó là định luật điều hòa.
+Bảng dữ liệu so sánh chu kỳ quỹ đạo và bán trục lớn của các hành tinh, và từ đó Kepler rút ra định luật thứ ba
+ = chu kỳ quỹ đạo và  = bán kính quỹ đạo trung bình của hành tinh (so với Trái Đất)
+
+
+== Mở rộng ==
+
+Năm 1643, Godefroy Wendelin nhận thấy định luật thứ ba của Kepler cũng áp dụng được cho bốn vệ tinh lớn nhất của Sao Mộc (chú ý rằng ở thời điểm này chưa hề có các định luật Newton).
+Trên thực tế, các định luật này miêu tả xấp xỉ chuyển động của hai vật thể bất kỳ quay quanh nhau trên quỹ đạo. (Khối tâm của hệ hai vật thể sẽ tiến dần tới tiêu điểm của quỹ đạo elip khi khối lượng của một vật thể được coi là rất nhỏ so với vật kia. Khi hệ có nhiều hơn hai vật, những phát biểu của ba định luật chỉ đúng khi tất cả khối lượng hành tinh được xem là rất nhỏ so với khối lượng ngôi sao và các giá trị nhiễu loạn tiến tới giá trị không). Khối lượng của hai vật thể có thể xấp xỉ nhau như hệ Charon—Pluto (~1:10), hoặc theo tỷ lệ nhỏ như Mặt Trăng—Trái Đất (~1:100), hoặc theo tỷ lệ rất lớn như Sao Thủy—Mặt Trời (~1:10,000,000) (bỏ qua những ảnh hưởng của thuyết tương đối tổng quát).
+Trong mọi trường hợp của chuyển động hai vật thể, hai vật sẽ quay quanh khối tâm của hệ, và tâm của mỗi vật thể sẽ không trùng với tiêu điểm của quỹ đạo elip. Tuy thế cả hai quỹ đạo đều là elip và một tiêu điểm nằm tại khối tâm. Khi tỷ số khối lượng là lớn, khối tâm có thể nằm sâu trong vật thể lớn hơn. Trong những trường hợp này cần phải đòi hỏi những phép đo phức tạp và chính xác nhằm xác định độ lệch từ khối tâm so với tâm vật thể lớn hơn. Trong hệ Mặt Trời, tỉ số lớn nhất bằng 1/1047,3486 (Sao Mộc: Mặt Trời) và 1/3497,898 (Sao Thổ: Mặt Trời), và từ lâu các nhà thiên văn đã biết khối tâm của cả hệ Mặt Trời có lúc nằm bên ngoài bề mặt Mặt Trời, với độ lớn tới cả đường kính Mặt Trời tính từ tâm. Do vậy, các định luật Kepler không miêu tả một cách chính xác cao quỹ đạo các hành tinh hay vật thể quay quanh Mặt Trời trong vật lý cổ điển.
+
+
+== Không lệch tâm ==
+Định luật Kepler củng cố thêm mô hình của Copernicus, trong đó giả thiết quỹ đạo các hành tinh là hình tròn. Nếu độ lệch tâm quỹ đạo bằng 0, các định luật Kepler phát biểu thành:
+Quỹ đạo các hành tinh là hình tròn
+Mặt Trời nằm tại tâm
+Vận tốc của hành tinh trên quỹ đạo là không đổi
+Bình phương chu kỳ quỹ đạo hành tinh tỷ lệ với lập phương khoảng cách từ hành tinh đến Mặt Trời.
+Thực sự, độ lệch tâm quỹ đạo của sáu hành tinh biết tới ở thời Copernicus và Kepler là khá nhỏ, do vậy 4 quy luật trên miêu tả khá tốt chuyển động các hành tinh, nhưng các định luật Kepler miêu tả thậm chí còn tốt hơn.
+Hiệu chỉnh của Kepler cho mô hình Copernicus là khá nhỏ:
+Quỹ đạo các hành tinh không là hình tròn, mà là elip
+Mặt Trời không nằm tại tâm mà tại một tiêu điểm
+Cả vận tốc xuyên tâm và vận tốc góc đều biến thiên khi hành tinh chuyển động trên quỹ đạo, nhưng vận tốc quét là không đổi.
+Bình phương chu kỳ quỹ đạo tỷ lệ với lập phương giá trị trung bình giữa khoảng cách lớn nhất và nhỏ nhất từ hành tinh tới Mặt Trời.
+Độ lệch tâm của quỹ đạo Trái Đất gần bằng 0 khiến cho khoảng thời gian từ điểm phân tháng Ba tới điểm phân tháng Chín, vào khoảng 186 ngày, không bằng khoảng thời gian từ điểm phân tháng Chín tới điểm phân tháng Ba, vào khoảng 179 ngày. Đường kính quỹ đạo chia quỹ đạo Trái Đất thành hai phần bằng nhau, nhưng xích đạo của nó chia quỹ đạo thành hai phần diện tích có tỷ lệ 186: 179, nên độ lệch tâm quỹ đạo Trái Đất có thể xấp xỉ theo công thức
+
+mà rất gần với giá trị đo được (0,016710219). (Xem Quỹ đạo Trái Đất). Việc tính toán là đúng khi khoảng cách là ở cận điểm quỹ đạo, khi Trái Đất nằm gần với Mặt Trời nhất, trong ngày chí điểm.
+
+
+== Liên hệ với định luật Newton ==
+Isaac Newton tính gia tốc chuyển động của hành tinh trong cuốn Philosophiæ Naturalis Principia Mathematica tuân theo định luật thứ nhất và thứ hai của Kepler.
+Hướng của gia tốc hành tinh là hướng về phía Mặt Trời.
+Độ lớn của gia tốc tỷ lệ nghịch với bình phương khoảng cách đến Mặt Trời.
+Điều này gợi ra rằng Mặt Trời là nguyên nhân gây ra gia tốc của hành tinh.
+Newton định nghĩa lực tác dụng lên hành tinh bằng tích khối 

@@ -1,0 +1,31 @@
+.dk er Danmarks nasjonale toppnivådomene (ccTLD) for Internett, og blir administrert av DK Hostmaster.
+
+
+== Registrering ==
+Alle nye domenenavn må registreres via en godkjent registreringsenhet. Registranten kan da be registreringsenheten å administrere hans domenenavn, eller gjøre det direkte med DK Hostmaster.
+Registrering foretas direkte på andre nivå. Registrering av domenenavn med tegnene æ, ø, å, ö, ä, ü, og é er også tillatt.
+
+
+== Historie ==
+Det nasjonale toppnivådomenet .dk ble opprettet 14. juli 1987 ved ARPA Network Information Center, Stanford Research Institute (SRI-NIC), og Danish UNIX systems User Group (DKUUG), hvis nettverksavdeling bodde på Datalogisk Institut, Københavns Universitet (DIKU) ble tildelt driften av .dk-domenet. Tjenesten het DKnet, som var navnet på det danske UUCP nettverket, som hadde sin backbonemaskin på DIKU. Navnet DKnet har vært i bruk i alle fall siden 1986.
+I januar 1989 inngikk DKUUG en navneavtale («navneaftalen») med koordinatorene av tre andre nettverk som var i drift i Danmark på den tid, et nasjonalt eksperimentelt X.400-nett (EAN fra University of British Columbia), EARN og DECnet, angående .dk-domenet. De ble enige om å dele .dk-domenet, skjule for brukerne hvilket nettverk de var tilknyttet, og dermed fjerne behovet for pseudo-domener, som .uucp eller andrenivå-domener, som gov.uk. Dette dannet en praksis som har vært i bruk hele tiden siden da, og som bredte seg til andre land.
+DKUUG etablerte en separat organisasjon kalt «Dk hostmaster» i 1991, for å administrere .dk-domenet etter opprettelsen av WWW.
+I 1993 ble DKnet Aps, en ekte ISP og Danmarks første, opprettet som et anpartsselskap. Bakgrunnen for dette var at DKnet sommeren 1988 ble koblet til det nye DENet (på den tid en forkortelse for «Danish Educational Network», senere for «Dansk Erhvervs Net»), et statsstøttet forskningsnettverk som ble etablert på slutten av 1987 (nå kjent som «forskningsnettet») og ble drevet og vedlikeholdt av UNI-C. Tidlig i 1992 betjente UNI-C (via DENet) alle universitetsklienter i Danmark med TCP/IP konnektivitet, og DIKU hadde ikke lenger bruk for DKnet. DKnet flyttet derfor til Symbion Science Park, hvor de fikk sine egne internasjonale linjer og begynte å bruke disse til å selge internettjenester til selskaper og modem-forbindelser til private forbrukere. Den voksende virksomheten overskygget raskt UNIX-brukergruppens egen økonomi, og fremtvang opprettelsen av et anpartsselskap.
+
+
+=== Tele Danmark overtar ===
+Den 15. februar 1996 ble DKnet Aps, inkludert administrasjonen av .dk-domenet (DK hostmaster), solgt til Tele Danmark (nå TDC) for 20 millioner DKK. Dette ville åpenbart medføre en mulig interressekonflikt, ved at et og samme selskap (Tele Denmark) dermed både ville stå bak en kommersiell ISP (DKnet A/S, nå et børsnotert selskap) og også kontrollere administreringen av .dk-domenet (DK hostmaster). I erkjennelsen av dette kom en gruppe på i alt 28 tele- og internettselskaper, inkludert Telia, Global One, Deutsche Telekom og IBM, sammen fem dager etter kjøpet for å få kontroll med DK hostmaster funksjonen.
+Tele Danmark nektet først, og gruppen dannet sammen organisasjonen Foreningen af Internetleverandører (FIL), og truet med å gå direkte til IANA for å motvirke det de så på som et Tele Danmark-monopol. Tele Denmark ombestemte seg, og FIL ble myndigheten som ble registrert av IANA for .dk-domenet, mens den nominelle og praktiske administrasjonen forble Dknet A/S sitt ansvar. I juni 1996 skrev de under en ettårig avtale om praksis og regelverk vedrørende .dk-domenet, som senere ble fornyet for ytterligere et år.
+
+
+=== Kappløp om .dk-domener ===
+Den 15. januar 1997 kl. 15.00, løsnet FIL på restriksjonene for registrering av .dk domenenavn. Mens man tidligere måtte ha en gyldig grunn for å registrere et navn, ble nå alle restriksjoner fjernet, noe som skapte et rush uten sidestykke etter .dk-domenenavn. Ved slutten av 1996 var det registrert bare 6 500 .dk-domener. Innen 1. februar 1997 var dette mer enn fordoblet og ved utgangen av 1997 var det 41 000 registrerte .dk-domener. Dette forårsaket en lang rekke søksmål, som skulle vare til langt inn på 2000-tallet, delvis mot FIL’s egne medlemmer, som ble anklaget for å bruke innsidekunnskap til raskt å registrere et stort antall «gode» domenenavn, og delvis mot privatpersoner som ble anklaget for cybersquatting.
+
+
+=== Striden om DK Hostmaster ===
+I desember 1997 annonserte Tele Denmark at de fra starten av 1998 ville begynne å innkreve en årlig avgift (på 340 DKK eks MVA) for hvert registrerte domenenavn, via DK hostmaster. Dette forårsaket oppstuss blant FIL's medlemmer, ettersom de ikke var blitt informert. Det hadde vært snakk om å innføre en slags avgift til DK Hostmaster for å dekke dets utgifter, men det var ikke mulig å foreta en gjennomgang av DK Hostmaster’s faktiske budsjett, sidet det finansielt sett var så godt som en del av Tele Danmark. FIL så derfor på dette som maktmisbruk og et forsøk på å få profitt fra en organisasjon som var forutsatt å være non-profit, nemlig DK hostmaster. Det ble senere avslørt at det var styret i FIL (senere sparket) som hadde gitt Tele Danmark tillatelse til å ta den prisen de ønsket, uten å spørre medlemmene.
+Som en følge av dette annonserte Tele Danmark i mars 1998 at de kommersielle delene i DK-net A/S ble flyttet til Tele Denmark Internet og DK-net A/S, med dets eneste gjenværende del, DK hostmaster, ble omdøpt «DK hostmaster A/S» og lagt ut for salg. Tele Danmark oppfordret til at et større forum eller gruppe sammensatt av mer enn bare telecom- og internettselskaper (som FIL) burde dannes og kjøpe selskapet, ettersom internett nå hadde en mye bredere appell. Dette forårsaket ny oppstuss i FIL som tvert avviste at Tele Denmark hadde retten til å selge noe de ikke eide.
+
+
+=== DIFO overtar ===
+I oktober 1998 sendte FIL et brev til

@@ -1,0 +1,13 @@
+XML (Extensible Markup Language, Uitbreibare markeertaal) is 'n voorstel van die W3C om markeertale vir spesiale doelwitte te skep. Dit is 'n vereenvoudigde subversameling van SGML wat gebruik kan word om verskeie tipes data te beskryf. Die hoofdoel van XML is vir gestruktureerde voorstelling van data, veral vir versending oor die Internet.
+Struktuur word in XML voorgestel met bykomende inligting wat die data definieer. Hierdie metadata maak dit moontlik om die data weer inteligent te interpreteer by ontvangs van die dokument, sonder dat die ontvanger noodwendig beskik oor vooraf kennis van die data.
+
+
+== Sien ook ==
+Document Object Model
+XHTML, 'n toepassing van XML
+
+
+== Eksterne skakels ==
+
+XML-spesifikasies
+Geannoteer

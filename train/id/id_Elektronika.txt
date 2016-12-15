@@ -1,0 +1,83 @@
+Elektronika merupakan ilmu yang mempelajari alat listrik arus lemah yang dioperasikan dengan cara mengontrol aliran elektron atau partikel bermuatan listrik dalam suatu alat seperti komputer, peralatan elektronik, termokopel, semikonduktor, dan lain sebagainya. Ilmu yang mempelajari alat-alat seperti ini merupakan cabang dari ilmu fisika, sementara bentuk desain dan pembuatan sirkuit elektroniknya adalah bagian dari teknik elektro, teknik komputer, dan ilmu/teknik elektronika dan instrumentasi.
+Alat-alat yang menggunakan dasar kerja elektronika ini disebut sebagai peralatan elektronik (electronic devices). Contoh peralatan (piranti) elektronik ini: Tabung Sinar Katode (Cathode Ray Tube, CRT), radio, TV, perekam kaset, perekam kaset video (VCR), perekam VCD, perekam DVD, kamera video, kamera digital, komputer pribadi desk-top, komputer Laptop, PDA (komputer saku), robot, smart card, dll.
+
+
+== Komponen elektronik ==
+
+Komponen elektronika berupa sebuah alat berupa benda yang menjadi bagian pendukung suatu rangkaian elektronik yang dapat bekerja sesuai dengan kegunaannya. Mulai dari yang menempel langsung pada papan rangkaian baik berupa PCB, CCB, Protoboard maupun Veroboard dengan cara disolder atau tidak menempel langsung pada papan rangkaian (dengan alat penghubung lain, misalnya kabel).
+Komponen elektronika ini terdiri dari satu atau lebih bahan elektronika, yang terdiri dari satu atau beberapa unsur materi dan jika disatukan, untuk desain rangkaian yang diinginkan dapat berfungsi sesuai dengan fungsi masing-masing komponen, ada yang untuk mengatur arus dan tegangan, meratakan arus, menyekat arus, memperkuat sinyal arus dan masih banyak fungsi lainnya.
+
+
+== Komponen pasif ==
+Resistor atau tahanan
+Kapasitor atau kondensator
+Induktor atau kumparan
+Transformator
+
+
+== Komponen aktif ==
+Dioda
+Dioda cahaya
+Dioda foto
+Dioda laser
+Diode Zener
+Dioda Bridge
+
+Dioda Schottky
+Transistor
+Transistor efek medan
+Transistor bipolar
+Transistor IGBT
+Transistor Darlington
+Transistor foto
+
+
+== Sensor dan aktuator elektromekanik ==
+Mikrofon
+Speaker
+Strain gauge
+Saklar
+Termistor
+MEMS (Micro Electro Mechanical Systems)
+
+
+== Sejarah elektronika ==
+Sejarah elektronika dimulai dari abad ke-20, dengan melibatkan tiga buah komponen utama yaitu tabung hampa udara (vacuum tube), transistor dan sirkuit terpadu (integrated circuit). Pada tahun 1883, Thomas Alva Edison berhasil menemukan bahwa electron bisa berpindah dari sebuah konduktor ke konduktor lainnya melewati ruang hampa. Penemuan konduksi atau perpindahan ini dikenal dengan nama efek Ediosn. Pada tahun 1904, John Fleming menerapkan efek Edison ini untuk menemukan dua buah elemen tabung electron yang dikenal dengan nama dioda, dan Lee De Forest mengikutinya pada tahun 1906 dengan tabung tiga elemen, yang disebut trioda. Tabung hampa udara menjadi divais yang dibuat untuk memanipulasi kemungkinan energi listrik sehingga bisa diperkuat dan dikirimkan.
+Aplikasi tabung elktron pertama diterapkan dalam bidang komunikasi radio. Guglielmo Marconi merintis pengembangan telegraf tanpa kabel(wireless telegraph) pada tahun 1896 dan komunikasi radio jarak jauh pada tahun 1901. Pada tahun 1918, Edwin Armstrong menemukan penerima "super-heterodyne" yang dapat memilih sinyal radio atau stasion dan dapat menerima sinyal jarak jauh. Armstrong juga menemukan modulasi frekuensi FM pita lebar (wide-band) pada tahun 1935; sebelumnya hanya menggunakan AM atau modulasi amplitudo pada rentang tahun 1920 sampai 1935. Bell Laboratories mengeluarkan televisi ke publik pada tahun 1927, dan ini masih merupakan bentuk electromechanical. Ketika sistem elektronik menjadi jaminan kualitas, para insinyur Bell Labs memperkenalkan tabung gambar sinar katoda dan televisi berwarna. Namun Vladimir Zworykin, seorang insinyur di Radio Corporation of America (RCA), dianggap sebagai "bapak televisi" karena penemuannya, tabung gambar dan tabung kamera iconoscope. Pada pertengahan tahun 1950-an, televisi telah melewati radio untuk penggunaan di rumah dan hiburan.
+Setelah perang, tabung elektron digunakan untuk mengembangan komputer pertama, tapi tabung ini tidak praktis karena ukuran komponen elektroniknya. Pada tahun 1947, transistor ditemukan oleh tim insinyur dari Bell Laboratories. Fungsi transistor seperti tabung hampa udara, tapi memiliki ukuran yang lebih kecil, lebih ringan, konsumsi daya lebih kecil, dan lebih kuat, dan lebih murah untuk diproduksi dengan adanya kombinasi penghubung metalnya dan bahan semikonductor.
+Konsep sirkuit terintegrasi diusulkan pada tahun 1952 oleh Geoffrey W. A. Dummer, seorang ahli elektronika berkebangsaan Inggris dengan Royal Radar Establishment-nya. Pada tahun 1961, sirkuit terintegrasi menjadi produksi penuh oleh sejumlah perusahaan, dan desain peralatan berubah secara cepat dan dalam beberapa arah yang berbeda untuk mengadaptasi teknologi.
+
+
+== Sirkuit Analog ==
+Sirkuit Analog atau rangkaian Analog adalah jenis rangkaian elektronika yang dipakai untuk memproses signal atau isyarat yang bersifat kontinyu. Perubahan signal dalam rangkaian Analog ini adalah sedikit demi sedikit meliputi semua titik pada amplitudo signal maximum dan minimumnya. Hal ini berbeda dengan watak dalam signal digital, di mana signal hanya dua macam tingkat saja: tinggi (menyatakan 1) dan rendah (menyatakan 0).
+Contoh sirkuit analog:
+Penguat
+Penguat operasi (Operational Amplifier) termasuk umpanbalik negatif
+Girator
+
+
+== Sirkuit Digital ==
+
+Elektronika digital adalah sistem elektronika yang menggunakan isyarat digital. Elektronika digital adalah representasi dari aljabar boolean dan digunakan di komputer, telpon genggam dan berbagai produk konsumen lainnya. Dalam sebuah sirkuit digital, sinyal direpresentasikan dengan satu dari dua macam kondisi yaitu 1 (high, active, true,) dan 0 (low, nonactive, false). Atau jika direspresentasika dalam tegangan 1 dapat berarti tegangan maksimum (umumnya 5 V atau 3 V) dan 0 berarti tegangan minimum (umumnya 0 v, tapi ada pula yang 2,5 V). hal ini dikarenakan varian dari bahan pembuatnya.
+Contoh sirkuit digital:
+Gerbang logika
+
+(DL, RTL, RTL, DTL, TTL, ECL, CMOS, NMOS, HMOS)
+
+Flip-flop
+Penghitung biner (Inggris: counter)
+Register
+Multiplekser (MUX) dan DEMUX
+Penjumlah biner (Adder), pengurang biner & Pengganda biner (Multiplier)
+Mikroprosesor
+Mikrokontroler
+ADC, DAC, Atmel AVR
+Pemroses sinyal digital (DSP)
+FPGA (Field-Programmable Gate Array), ASIC, FPAA, Embedded-FPGA, CPLD
+Semua jenis komputer digital: komputer super, mainframe, komputer mini, komputer pribadi desktop, laptop, PDA, Smart card, telepon pintar, dll
+
+
+== Alat ukur ==
+
+Dalam fisika dan teknik, pengukuran merupakan aktivitas yang membandingkan kuantitas fisik dari objek dan kejadian dunia-nyata. Alat ukur adalah alat yang digunakan untuk mengukur benda atau kejadian tersebut. Seluruh alat pengukur dapat terkena kesalahan peralatan yang bervariasi. Bidang ilmu yang mempelajari cara-cara pengukuran dinamakan metrologi.
+Fisikawan menggunakan banyak alat untuk melakuka

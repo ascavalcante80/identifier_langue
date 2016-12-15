@@ -1,0 +1,105 @@
+orrespondant exactement au schéma attendu.
+
+
+=== Analyseur syntaxique et APIModifier ===
+Pour entrer dans un processus, un document XML doit rentrer dans un processeur dédié. Les parseurs les plus répandus sont :
+libxml2 - Le processeur XML libre du système d'exploitation linux, accessible en C, Python, PHP, et en Ruby
+Xerces - XML Java Parser, le parseur XML par défaut d'une machine virtuelle Java, accessible en Java
+Expat - Le parseur XML de James Clark, notamment embarqué par les navigateurs mozilla (firefox).
+MSXML - Microsoft Core XML Services, le parseur XML Microsoft, 2000-2006, intégré au système d'exploitation Windows, accessible aux langages Microsoft, notamment en JavaScript sur le navigateur Internet Explorer.
+Il en existe beaucoup d'autres, en particulier en Java, adaptés à différents cas particuliers : ouvrir une API plus simple, accepter des documents mal formés comme HTML, traitements plus simples (notamment pour les documents longs).
+Une fois « xmlisé », un document est accessible à différents langages, selon des interfaces de programmation standardisées. On distingue généralement l'approche en mémoire, comme le DOM, et l'approche en flux (génération d’événements), comme SAX.
+DOM, Document Object Model, constitue un objet en mémoire de la totalité d'un document XML. Cette API permet l'accès direct à tous les nœuds de l'arbre (éléments, texte, attributs), pour les lire, ou les modifier. Il est par exemple très utilisé sur les navigateurs web avec JavaScript. Cette norme est écrite par le W3C.
+SAX, Simple API for XML, est une alternative intéressante à DOM pour le traitement de documents longs. Quand un document entre dans un processeur XML, du code SAX peut capturer des événements, comme l'ouverture et la fermeture d'une balise, afin par exemple, d'écrire dans une base de données. À l'inverse, il est possible de générer des événements SAX, par exemple à partir de la lecture d'une base de données, afin de produire un document consommé par une autre étape d'un processus XML.
+D'autres API existent, comme JDOM, dom4J (Java), ou StAX.
+
+
+=== InclusionsModifier ===
+Un document XML peut être constitué de plusieurs fichiers, qui sont rassemblés au moment de l’analyse ci-dessus. Il y a deux normes actuellement concurrentes.
+les entités externes, issues de SGML, résolues a priori par un parseur validant, avant tout traitement du document.
+xinclude, un élément XML spécial, pouvant être traité comme une étape séparée.
+Les spécifications et les implémentations privilégient maintenant xinclude, bien que son adoption ait pu être discutée.
+Considérons l'exemple d'un catalogue de produits pour voir les effets de l'un et de l'autre. On aura chaque produit sous la forme d'un document XML, et un document maître qui assemble toutes les références. En entités, cela s'explique ainsi.
+
+On remarquera que les entités sont déclarées en entête de document, puis appelées par une écriture du type &entité;. Cette syntaxe est initialement prévue pour des raccourcis, afin de factoriser l'écriture de variables comme un nom de produit ou une société. Ce mécanisme a été étendu pour résoudre les problèmes d'encodage en ASCII avant l'Unicode. Ce sont les entités caractère comme &eacute;=&#E9;=é. Pour le cas d'une inclusion d'un fichier, cela demande deux déclarations, celle du lien, celle de son appel.
+La résolution a priori des inclusions peut avoir des inconvénients, en particulier pour des documents maître très lourds que l'on peut vouloir travailler sans leur dépendances. Xinclude permet cela, ainsi que de générer ces relations automatiquement (XSLT).
+
+XML peut se présenter sous d’autres formes qu’un fichier, par exemple à l’intérieur d’une base XML native. La nature purement arborescente du format permet potentiellement de constituer des structures très importantes, non pas seulement chaînées comme un tableau très long, mais articulées, avec branches et sous-branches.
+
+
+=== ValidationModifier ===
+La validation est l'opération automatique qui vérifie la conformité d'un document XML à son schéma. Elle a pour but de délivrer des messages comme il n'y a pas de titre au chapitre 5, ou bien, la date de fabrication est dans le futur. La précision et la convivialité de cette vérification dépendent de la syntaxe utilisée.
+En SGML, la validation s'effectuait toujours avant l'entrée d'un document XML dans un processus. On parlait de parser validant. Il n'y avait alors qu'un seul langage de validation (les DTDs) déclarés d'une seule manière à l'intérieur du document XML (la déclaration DOCTYPE, Type de document). La pratique a montré que la validation n'est pas toujours nécessaire, et même, contre performante. Dans d'autres cas, plusieurs étapes de validation peuvent être utiles, par exemple, une pour vérifier la structure de l'arbre XML, une autre pour vérifier les liens. L'évolution va vers une étape de validation distincte, déclarée à l'extérieur du document, et gérée selon les besoins du logiciel.
+Le déploiement actuel des librairies rend la validation XML nativement accessible à la plupart des systèmes, et dans la plupart des langages de programmation.
+libxml2 - Validation DTD et Relax NG (le support XML Schema est partiel, surtout pour le typage de données au sein de Relax NG).
+Jing - a Relax NG validator in Java, un validateur qui n'est pas un parseur pour Relax NG et Schematron.
+MSXML - Microsoft Core XML Services, validation DTD et XML Schema.
+Xerces - XML Java Parser, validation DTD et XML Schema.
+XSLT - Une transformation XSLT permet une validation très précise sur un type de document, c'est couramment utilisé dans une application web pour rendre à l'utilisateur des messages plus conviviaux, cet outil suffit aussi pour utiliser une implémentation Schematron.
+
+
+=== TransformationModifier ===
+
+La transformation est l'étape d'un processus XML qui prend un document dans un certain schéma pour le transposer dans un autre espace de noms. Soit un document textuel qui ne comporte que du contenu. Il sera nécessaire de lui ajouter au moins de la navigation avant de le diffuser sur Internet ; on en voudra aussi une version imprimée (pdf). La facilité de transformer un document XML, notamment avec XSLT, est une raison importante pour choisir ce format.
+
+
+== ConclusionModifier ==
+En 2001, on demandait à James Clark, un expert XML et SGML, What's the next step for XML? « Quelle est l'étape suivante pour XML » ? Il répondit d'abord que cela revenait à demander quelle est l'étape suivante pour le texte ou pour les fichiers à lignes délimitées. Selon lui, à peine 3 ans après, la nouveauté ne viendrait plus du format, mais des applications. En effet en 2015, on ne constate aucun changement de fond dans la spécification XML. C’est devenu un format aussi universel qu'Unicode, comme un espéranto de l'informatique pour structurer des contenus.
+XML permet en effet de représenter beaucoup de structures différentes, il a par exemple contribué à généraliser et normaliser les structures en arbre, si bien qu’elles sont considérées aussi informatisables que les tables (SQL). Toutefois, les balises n’ont pas effacé toutes les syntaxes textuelles. On a par exemple vu se généraliser JSON, qui permet la représentation et l’échange de données hiérarchiques, comme par exemple des objets (au sens informatique). La vogue de JSON, qui n’en doutons pas restera longtemps, permet de mieux définir les spécificités de XML. JSON sépare strictement la structure arborescente, et les données contenues dans des feuilles. Ce modèle représente difficilement le texte riche, où par exemple un nom de personne indexé apparaît en plein milieu d’une phrase. JSON ne propose pas de syntaxe standardisée pour la validation et la documentation, ce sont souvent des structures adhoc. La force de XML, qui n’est pas la plus sollicitée hors de l’informatique du document, est dans la validation, ce qui contribue à standardiser des types de documents à grande échelle, ne serait-ce que le Web et HTML.
+
+
+== Notes et référencesModifier ==
+Notes :
+ Ce nom est une idée de James Clark, elle est expliquée par Tim Bray (en) dans sa spécification annotée. Comme en anglais la lettre X se prononce « eks », elle peut être utilisée dans les sigles pour abréger un ou plusieurs mots commençant par ce même son comme eXtensible ou eXperience (XP). Plusieurs langages ont ainsi affiché leur parenté avec XML en s'adjoignant un X, comme XHTML.
+ Le groupe de travail a été à l'origine appelé le «Editorial Review Board." Les membres à la première édition sont énumérés à la fin de la première recommandation XML, W3C 1998.
+Références :
+(en) Extensible Markup Language (XML) 1.0, W3C Recommendation 16 August 2006 :
+ le texte
+ espaces vides
+ commentaires
+ prologue
+ Instructions de traitement
+ Associating Style Sheets with XML documents
+ sections d'échappement
+ entités externes
+(mul) Autres :
+
+
+== Voir aussiModifier ==
+
+
+=== Articles connexesModifier ===
+
+Autres technologies et théories intéressant XML :
+Langages de balisage
+SGML
+Identificateur de fragment
+Norme ISO/IEC 8859
+Norme ISO/IEC 10646
+CSS
+XLink
+OpenDocument, format pour les documents bureautiques basé sur XML
+XML Configuration Access Protocol
+MusicXML
+
+
+=== Liens externesModifier ===
+
+
+==== RéférencesModifier ====
+W3C Recommendation: Extensible Markup Language (XML) 1.0 (Fifth Edition) (en)
+W3C Recommendation: Namespaces in XML 1.0 (Second Edition) (en)
+W3C Recommendation: xml:id Version 1.0 (en)
+W3C Recommendation: Extensible Markup Language (XML) 1.1 (Second Edition) (en)
+Course Slides: Introduction to XML (en)
+
+
+==== DiversModifier ====
+Spécification XML 1.1 (fr) (en)
+Spécification XML 1.0 (fr) (en)
+TEI Consortium, « v. A Gentle Introduction to XML », TEI P5: Guidelines for Electronic Text Encoding and Interchange, (en)
+Norman Walsh and Leonard Muellner, « Getting Started with SGML/XML », DocBook: The Definitive Guide (en)
+
+ Portail de l’informatique
+ Portail du Web sémantique
+ Portail de l’écriture

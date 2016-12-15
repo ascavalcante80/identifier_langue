@@ -1,0 +1,48 @@
+Taxonomi (av grekiska: taxis, 'ordning' och nomi, 'bruk', 'regel') är vetenskapen om indelning, eller klassificering som det också heter, av organismerna i taxa, det vill säga domän, rike, stam, klass, familj, släkten, art, underart, etc. Numera används ordet taxonomi även om strukturer utanför botanik och zoologi som en beteckning på karaktärisering av objekt baserad på relationerna mellan dem men detta tas ej upp i denna artikel. 
+
+
+== Definition ==
+"Systematisk biologi" och "taxonomi" (termer som ofta blandas samman och används synonymt) definierades i relation till varandra som följer:
+
+Systematisk biologi (hädanefter bara kallad systematik) är det vetenskapliga fält som (a) förser organismer med vetenskapliga namn, (b) beskriver dem, (c) bevarar samlingar av dem, (d) skapar klassificeringssystem för organismer, nycklar för identifiering av dem, och uppgifter om deras utbredning, (e) undersöker deras evolutionära historia, och (f) bedömer deras anpassning till miljön... ...Delar av det teoretiska materialet har att göra med evolutionära frågeställningar (punkterna e och f ovan), medan resten har att göra med specifika problemställningar kopplade till klassificering. Taxonomi är den del av systematiken som beskrivs i punkterna (a) till (d) ovan.
+
+
+== Allmänt ==
+Inom taxonomin arbetar man med att beskriva olika arter, vad det är som utmärker och gör just den beskrivna arten speciell och unik. Inom systematiken arbetar man med att sätta in de olika arterna i ett sammanhang, exempelvis att beskriva släktskap.
+
+
+== Vetenskapligt namn ==
+
+Ett artnamn som exempelvis gräsand (Anas platyrhynchos) är sammansatt av släktnamnet (Anas) och ett artepitet (platyrhynchos). Inom både botaniken och zoologin bifogar man ett så kallad auktorsnamn som anger vem som publicerat namnet. Inom botaniken använder man sig ofta av förkortningar, exempelvis förkortas Linné inom botaniken med ett L, medan man inom zoologin skriver ut hela namnet. Således skrivs exempelvis vitsippa som "Anemone nemorosa L.", men rådjur som "Capreolus capreolus Linné".
+Namn av släktes rang och högre inleds alltid med versal begynnelsebokstav, medan namn av arts rang och lägre aldrig skrivs med stor begynnelsebokstav. Vidare gäller att vetenskapliga namn av familjs rang och högre skrivs med normal, rak stil, medan namn av släktes rang och lägre vanligtvis skrivs med kursiv stil. Detta gäller endast själva taxonet: förkortningar med övrig information som kan ingå i beteckningen ("subsp." och "var." med flera; se nedan) samt auktorsnamn och årtal skrivs med rak stil, oavsett taxonets rang inom systematiken.
+Exempel: hos underarten maritimus av strandvial, "Lathyrus japonicus subsp. maritimus var. pellitus Fernald" skrivs alltså släktnamnet kursivt, och med stor bokstav. Namnen för art, underart, varietet och form skrivs också kursivt, men med liten bokstav. De förkortningar som specificerar huruvida det gäller en underart ("subsp."), en varietet ("var.") eller en form ("f.") skrivs däremot ut med rak stil, och detsamma gäller auktorsnamnet (i detta fall Fernald).
+Inom zoologin förekommer endast underart som taxonomisk rang under art, och inte varietet eller form. I förekommande fall är det alltså underförstått att det rör sig om just en underart, och rangens status (alltid subsp.) behöver därför inte specificeras.
+Exempel: i taxonet Clupea harengus membras avser membras (strömming) per automatik att det rör sig om en underart till Clupea harengus (sill), och aldrig är en fråga om en varietet, form, eller dylikt.
+
+
+=== Hybrider ===
+Vad beträffar hybrider skriver man oftast föräldraarternas artepitet i bokstavsordning, Anemone nemorosa × ranunculoides, men om det är en hybrid där man vet vilken art honan är skrivs dess epitet först, exempelvis ätlig groda (Rana lessonae × ridibunda). Detta gäller dock inte för växter som, om inget annat anges, alltid skrivs i bokstavsordning.
+Inom botaniken markeras ett hybridnamn med multiplikationstecken (×) före epitetet; Citrus × aurantiifolia (lime). Tecknet kan numera placeras med eller utan mellanslag, vilket som passar syftet bäst. Tidigare gällde utan mellanslag, men då den vanliga praxisen har varit med mellanslag, har den botaniska koden (ICBN) ändrats och tillåter detta. När det gäller hybridnamn mellan olika släkten placeras tecknet före släktnamnet; × Disophyllum. Bokstaven "x" kan användas i undantagsfall, då × saknas.
+
+
+=== Specifika detaljer kring det vetenskapliga namnet inom botaniken ===
+När man vill vara exakt anger man i vilken publikation som namnet föreslogs samt vilket typexemplaret (vanligen holotypen) är och var det förvaras: "Fumaria officinalis L., Sp. Pl. vol II, p. 700 (1753);. Typus: LINN 881.13" specificerar således vår vanliga jordrök. Ej sällan ser man en sammansatt auktorsbeteckning med först en förkortning inom parentes och sedan en annan efter parentesen. Detta innebär då att artepitetet först föreslagits av auktorn inom parentes, men i ett annat släkte eller i en annan rang. Auktorn efter parentesen har sedan kombinerat om epitetet till det namn/taxon vi nu använder.
+"Mentha longifolia (L.) L. (1756)" grundar sig på "Mentha spicata var. longifolia L. (1753)" och "Gymnadenia conopsea (L.) R. Br. (1813)" på "Orchis conopsea L. (1753)". Märk att eventuella andra kombinationer av samma epitet som gjorts inte tas med, således tas inte "R. Br." med i "Habenaria conopsea (L.) Benth. (1880)".
+
+
+=== Årtal ===
+I slutet skriver man ofta ett årtal som anger när organismen först beskrevs efter detta system. För växter är de äldsta vetenskapliga namnen som accepteras från Linnés verk Species Plantarum, från 1753, och de äldsta vetenskapliga namnen för djur är från den tionde reviderade utgåvan av Linnés Systema Naturae från 1758. Ett undantag är namn från verket Svenska spindlar av Carl Alexander Clerck. På grund av att verket var så heltäckande ville man inte kasta bort Clercks vetenskapliga namn. Man antog alltså helt enkelt, att verket utkom 1758 trots att det publicerades ett år tidigare.
+
+
+== Taxonomisk ordning ==
+Taxonomisk ordning är en ungefärlig representation av olika taxons evolutionära släktskap. Tidiga biologer utgick från koncepten "ålder" eller "primitivitet" inom en grupp för att skapa en sekvenserad ordning, där de "äldre" eller "mer primitiva" grupperna placerades först och de "mest utvecklade" placerades sist. Utifrån en samtida förståelse av evolutionär biologi har en något annorlunda struktur skapats som används när man ställer upp taxonomiska listor. En sådan lista kan jämföras med en endimensionell representation av ett kladogram. Taxonomisk ordning fungerar framförallt som en tumregel när man ska skapa linjära listor i böcker och annat informationsmaterial. Eftersom fylogenetiska släktskap är komplexa och icke-linjära, så finns det inte ett enda rätt sätt att representera sekvenserna, men oftast brukar basala grupper placeras först och artgrupper som är närbesläktade placeras efter varandra.
+
+
+== Vanliga taxonomiska tilläggsbegrepp ==
+Combinatio invalidum (comb. inval.) – markerar en ogiltig kombination av taxa.
+Nomen conservandum (nom cons.) – konserverat, det vill säga ett namn som skyddats av en eller annan orsak. Begreppet används olika inom botanik och zoologi.
+Nomen inadmissibile (nom. inadmiss.) – ett namn som är konstruerat i strid med gällande praxis, där typnamnet förändras.
+Nomen illegitimum (nom. illeg.) – ogiltigt namn. Ofta där namnet redan är publicerat för en annan växt och därmed upptaget. Det kan också vara när samma typ används igen för ett nytt namn, vilket inte är tillåtet enligt koden.
+Nomen invalidum (nom. inval. / nom. invalid.) – ogiltigt publicerat namn. Ett namn som antingen är baserat på ett annat ogiltigt namn eller som strider mot gällande praxis. Det kan vara att det saknas en typ eller diagnos.
+Nomen novum (nom. nov.) – ersätter ett äldre epitet där det gamla av olika anledningar inte kan användas.
+Nomen nudum (nom. nud.) – ett “naket namn”. Namn som ursprunglige

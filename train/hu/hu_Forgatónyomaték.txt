@@ -1,0 +1,24 @@
+A forgatónyomaték (röviden: nyomaték) egy adott erőhatás adott középpontra való forgatóképességét megadó fizikai mennyiség. Jele M, néha τ. A forgatónyomaték az F erő és az O középponttól az erő támadáspontjába mutató r vektor, az erőkar vektoriális szorzata.
+
+A forgatónyomaték vektormennyiség, kezdőpontja az O középpont. A forgatónyomaték-vektor merőleges az erő és az erőkarvektor síkjára, iránya pedig olyan, hogy az r, F és az M vektorok ebben a sorrendben jobbsodrású rendszert alkotnak. A nyomatékvektor iránya egyszerűen meghatározható a Jobbkéz-szabály segítségével. A nyomaték mértékegysége a Nm („newtonméter”).
+A forgatónyomaték abszolútértéke kiszámolható az erővektor és az erőkarvektor által bezárt szög segítségével.
+
+
+== A forgatónyomaték mint derivált ==
+
+
+=== A perdület ===
+Egy általunk kijelölt ponttól, az origótól viszonyított távolságvektor, és a tömegpont impulzusvektorának a vektoriális szorzata a perdület.
+
+A perdület a vonatkoztatási ponttól (középponttól) függő mennyiség. Mivel a tömegpont sebessége az idő függvénye, az abból származtatott perdület is egy időfüggvény lesz.
+
+
+=== A perdület deriváltja ===
+A perdületfüggvény idő szerinti deriváltja a forgatónyomaték.
+
+ahol v és p párhuzamos, tehát keresztszorzatuk 0.
+A pontrendszer perdülete az egyes perdületek összege, és a pontrendszer forgatónyomatéka az egyes forgatónyomatékok összege.
+
+
+== Impulzusmomentum-megmaradás ==
+Felírva az egyes forgatónyomatékok összegét, különválaszthatóak a belső és a külső erők (az egyes rendszerbeli pontok hathatnak rendszerbeli pontokra, és rendszeren kívüliekre is, és viszont). A belső erők összege Newton III. törvénye alapján (erő-ellenerő) 0. Tehát a forgatónyomaték csak a külső eredő erővel arányos mennyiség. Ha a forgatónyomaték 0 – akár azért, mert a külső erők eredője nulla, vagy mert a külső erők eredője a rendszer tömegközéppontja felé mutat –, akkor az impulzusmomentum időszerinti deriváltja 0, 

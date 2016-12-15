@@ -1,0 +1,34 @@
+Az aktinoidák (vagy régebbi, a IUPAC által nem támogatott néven aktinidák) sorozata tizennégy, 90 és 103 közti rendszámú – kémiai elemet foglal magában, a tóriumtól a laurenciumig. Az aktinoidák elemi sorozata a nevét a 3. csoportba tartozó aktíniumról kapta, amely összehasonlítás céljából szerepelhet a sorozatban. Csak a tórium és az urán fordul elő a természetben felhasználható mennyiségben. A többi aktinoida mesterségesen előállított elem. Az aktinoidákat általában az f mező elemeinek tekintik. A vegyértékük sokkal inkább változó, mint a lantanoidáké. Az összes aktinoida radioaktív.
+
+
+== Történet ==
+1945 előtt az volt az általános vélekedés Mengyelejev után, hogy a tórium és az urán rendre a 4. és a 6. csoportba tartozó átmenetifémek. A felfogás az volt, hogy a transzurán elemek az átmenetifémek tulajdonságaival rendelkeznek. Azonban Charles Janet 1928-ban azt javasolta, hogy az aktíniummal 14, a lantanoidáknak megfelelő elem kezdődik. A transzurán elemeket elsőként a Manhattan terv részeként szintetizálták 1944 körül. Glenn T. Seaborg, a kutatás vezetője megállapította, hogy az amerícium és a kűrium nem rendelkezik az átmenetifémektől elvárt tulajdonságokkal. 1945-ben a kollégái tanácsaival szembefordulva, nem tudva Janet-ről, elfogadtatta a javaslatát, amely a periódusos rendszer legjelentősebb módosítása volt, amelyet a tudományos közösség elfogadott: az aktinoida elemek egy új elemi sorozatba tartoznak, amely abban hasonlít a lantanoidákéra, hogy a vegyértékelektronok f alhéjakon helyezkednek el. Ez megfelel az elektronhéjak feltöltődésére vonatkozó alapelvnek, amely azt jósolja, hogy az 5f pályák a 6d pályák előtt töltődnek fel.
+
+
+== Kémia ==
+Néhány aktinoida-atomnak vannak elektronjai a 6d alhéjon, de a vegyületekben az összes 6s és d elektron hiányzik, így [Rn]5fn elektronszerkezetű ionok maradnak vissza. Ebből a szempontból az aktinoidák a lantanoidákra hasonlítanak, amelyek vegyületeiben szintén csak f-elektronok találhatóak a vegyértékhéjon. Szintén hasonlóság, hogy a nagyobb rendszámú aktinoidák maximális oxidációs állapota +3. Azonban a kisebb rendszámúak, a tórium (Th) és az urán (U) elveszíthetik az összes vegyértékelektronjukat, így rendre 4-es és 6-os oxidációs állapotot érve el. Ez korábban vitákhoz vezetett arról, hogy a tóriumot és az uránt a d-mező elemeinek kell-e tekinteni és a tóriumot a 4. csoportba (a hafnium alá) az uránt pedig a 6. csoportba (a volfrám alá) kell-e helyezni. Ezeknek az elemeknek a kémiája valójában a rendszám növekedésével az elvárt tendenciákat követi, figyelembe véve a lantanoidakontrakció hatásait is. A neptúnium is elveszítheti az összes vegyértékelektronját, mint például a [NpO5]3- ionban.
+Az U, a Np, és a Pu a legnagyobb oxidációs számmal kovalens, főként oxo- és fluorvegyületekben található. Például az UF6 (olvadáspontja 64 °C) elég illékony ahhoz, hogy gázdiffúziós vagy gázcentrifugás izotópszétválasztó berendezésekben alkalmazzák. A fluorokomplexek kivételével minden urán(VI) vegyület lineáris UO22+ csoportot tartalmaz. 4-6 ligandum helyezkedhet el ekvatoriális síkban, az uranilcsoportra merőlegesen. Az uranilcsoport kemény savként viselkedik és stabilabb komplexeket képez oxigéndonor ligandumokkal mint nitrogéndonor ligandumokkal. A NpO22+ és a PuO22+ a 6-os oxidációs számú Np és Pu szintén elterjedt formái.
+A +5-ös és +4-es oxidációs számú vegyületek túlnyomórészt kovalensek. A +4-es oxidációs számú aktinoidák komplexeinek különleges tulajdonsága, hogy a koordinációs szám bennük akár 11 is lehet. A +3-as oxidációs számú vegyületek félig kovalensek. A trikloridok például ionos rácstípusokban kristályosodnak, de egyértelmű bizonyíték van kovalens kötésekre. A Th(III)- és az U(III)-vegyületek erős redukálószerek, de a redukálóerő egyre csökken az aktinoidák elemi sorozatában balról jobbra haladva, a méret csökkenésével párhuzamosan.
+
+
+=== Az aktinoidakontrakció ===
+
+Az aktinoidák mérete a rendszám növekedésével csökken. Ez egy normális tendencia, ami a lantanoidakontrakcióra emlékeztet. A grafikon ezt ábrázolja a +3, a +4 és a +5-ös oxidációs állapotokra egyaránt.
+
+
+=== Szín ===
+
+
+=== Fémorganikus kémia ===
+Az aktinoidák fémorganikus vegyületeit aktinoidaorganikus vegyületeknek nevezzük. Az aktinoidák fémorganikus kémiája nem túl terjedelmes. Az uranocén U(C8H8)2 különösen érdekes, ugyanis planáris, a Hückel-szabálynak megfelelően aromás, a ferrocénben található ciklopentadienil ionnal analóg ciklooktatrenil aniont tartalmaz. Ennek a vegyületnek a képződését az U4+ ion viszonylag nagy mérete segíti.
+
+
+=== A radioaktivitás kémiai szempontból ===
+Az összes aktinoida radioaktív. A protaktínium és az uránt követő elemek összes izotópja (a transzurán elemek) mesterséges elemek és a felezési idejük jóval rövidebb, mint a Föld kora, a természetben nem találhatóak meg felhasználható mennyiségben. Az urán és a tórium nagyon hosszú felezési idejű, alfa-sugárzó elemek, amelyek a minimum sugárvédelmi eljárásokkal kezelhetők.
+Az einsteiniumot követő elemeket még nem állították elő elegendően nagy mennyiségben ahhoz, hogy a kémiai tulajdonságaikat részletesen tanulmányozni lehessen.
+A radioaktív sugárzás jelentős hőforrás, így a hőmérséklet szabályozása gyakori probléma a transzurán elemeknél. Emellett a kibocsátott alfa-részecskék oxidálószerként viselkedhetnek. Például:
+He2+ + H2O → 2H+ + 1/2 O2 + He
+
+
+== Előfordulás ==
+Csak a tórium és az urán találhatóak meg jelentős mennyiségben a földkéregben, a többi elem legfeljebb csak nyomokban fordul elő. A további aktinoidák közül csak az aktíniumot és a protaktíniumot találták meg a természetben azelőtt, mielőtt szintetizálták volna, ezek az urán bomlástermékei. A neptúnium és a plutónium is megtalálhatóak nyomokban uránércekben sugárzás vagy bombázás eredményeként, de ezt csak 

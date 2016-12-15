@@ -1,0 +1,101 @@
+Čas a doba, jsou jedny ze základních fyzikálních veličin, které bývá užitečné rozlišovat takto:
+čas (čas jedné události) určuje okamžik události na časové ose (tj. první souřadnici časoprostoru),
+doba měří časovou vzdálenost mezi dvěma událostmi, rozdíl mezi časy dvou událostí.
+Toto rozlišení není absolutní. Čas jako souřadnice je také vzdálenost dvou okamžiků, a to uvedeného, zkoumaného, určovaného okamžiku a nulového okamžiku počátku, zpravidla zamlčeného. V běžné řeči jsou tato dvě slova plně synonyma. Čas i doba mají zásadní význam pro lidský život, který je z povahy věci časově omezený („nemám čas“, "to je ale doba!"), pro organizaci lidské společnosti včetně hospodářství.
+Čas byl vždy důležité téma pro spisovatele, umělce a filosofy.
+
+
+== Definice ==
+Čas se dá také definovat jako neprostorové lineární kontinuum, v němž se události stávají ve zjevně nevratném pořadí. Jako takový je podstatnou složkou struktury vesmíru. Je velmi obtížné, až nemožné, si čas nějak představit. Pokusy o pochopení času byly po dlouhou dobu především doménou filosofů, později i přírodovědců. Na povahu a smysl času existuje množství silně odlišných náhledů, a je proto obtížné nabídnout jeho nekontroverzní a jasnou definici. Důležitým pojmem je tzv. šipka času, která určuje smysl (směr) plynutí času a odpovídá směru rozpínání vesmíru. Čas se od starověku také měří, nejčastěji počítáním pravidelně se opakujících pohybů, například Slunce nebo kyvadla. Základní myšlenku tohoto měření využil Aristotelés k definici:
+
+
+== Měření času a doby ==
+
+Související informace naleznete také v článku Měření času.
+Stejně jako všechna jiná meření je stanovování času založeno na srovnávání s jednotkou, v případě času s dobou opakovaného děje. Podmínkou měření je stanovení částí, jednotek jevů, rozdělení času na vhodné stupně, původně nutně podle přírodních jevů.
+O měření času a doby, o časomíru se lidé pokoušejí již tisíciletí počítáním (pravidelných) pohybů, a to tradičně na více úrovních, zejména pak:
+pro delší intervaly ode dne - datování. Systém uspořádání těchto jevů se nazývá kalendář a jevy a jednotky bývají nazývány jako kalendářní.
+pro kratší intervaly počítáním rychlejších pravidelných jevů na jevech menšího měřítka, na hodinách - slunečních, objemových (vodních, přesýpacích) a kyvadlových. Tyto kratších jevy a jejich měření, tedy čas v užším významu, nemá zvláštní název.
+Obě tyto úrovně předvádí např. pražský staroměstský orloj s horním ciferníkem hodinovým a dolním kalendářovým, kde se delší jednotky času odvozují rovněž z pohybu kyvadla a ne z astronomických jevů.
+Měřením času a doby se zabývají hlavně vědci (jeden z hlavních úkolů fyziky a astronomie) a technici.
+
+
+== Datování a kalendář ==
+Podrobnější informace naleznete v článku Kalendář.
+Základ dělení času vznikl sledováním ročních období a roků, vývoje měsíce, dnů a částí dnů (noc, světlý den, rozbřesk (východ slunce, svítání), ráno, poledne, dopoledne, odpoledne, západ slunce (stmívání, soumrak), večer) sledováním astronomických jevů, zejména zdánlivého oběhu slunce a změny tvaru osvětlené viditelné části Měsíce. Už z doby kamenné (neolitu) jsou známy stavby, které sloužily ke stanovení slunovratu a rovnodennosti (např. Stonehenge). O pokročilejších způsobech kalendářního měření patrně svědčí nedávno nalezený disk z Nebry. Také zdánlivý roční pohyb některých hvězd (např. Siria) se užíval ke stanovení správného okamžiku pro polní práce.
+Jednotky doby kvantifikují trvání dějů a intervalů mezi událostmi proto vycházely z dějů vyvolaných pravidelnými pohyby. Nejvýznamnějším takovým dějem je jistě stmívání a svítání, střídání světlého dne a noci a roční střídání částí roku. Dlouho sloužily jako standardy pohyb Slunce po obloze, fáze Měsíce a kmit kyvadla. Z nich se vyvinuly a postupně ustálily jednotky nakonec nyní již bez přímé vazby na astronomické jevy a naopak se občas upravují tak, aby se zmenšil rozdíl od astronomických jevů.
+
+
+== Hodiny ==
+Podrobnější informace naleznete v článku Hodiny.
+První mechanické hodiny se podle nejistých zpráv objevily snad ve 12. století, spolehlivé zprávy jsou však až z přelomu 13. a 14. století z anglických a francouzských klášterů. Mechanické hodiny se skládají ze tří částí: 1) oscilátoru, 2) zdroje energie a 3) počítacího a indikačního zařízení. První hodiny užívaly jako oscilátor poměrně nepřesný lihýř, jako zdroj energie závaží a měly i bicí zařízení. Od 14. století se vyráběly přenosné a kapesní hodiny s pružinou, byly však málo přesné. Při pokusech s volným pádem měřil snad Galileo Galilei dobu počítáním srdečního tepu a krátce před smrtí zkonstruoval velmi důmyslné hodiny s využitím kyvadla jako oscilátoru (prvku určujícího rychlost chodu hodin).
+Kyvadlové hodiny však poprvé realizoval až roku 1657 holandský fyzik Christiaan Huygens, který také o něco později vybavil lihýř pružinou, čímž vznikl nepokoj, přesnější oscilátor, který se hodil i do přenosných a velmi malých hodinek. Přesnost mechanických hodin se dále zvyšovala a v 18. století se podařilo změřit nerovnoměrnosti v pohybu Země. Tím byl zdánlivý pohyb Slunce jako časový normál nahrazen mechanickými oscilátory a hodinami.
+Ve 20. století se začaly používat i jiné pohony a oscilátory. Nejrozšířenější jsou dnes hodiny s elektrickým pohonem a piezoelektrickým či křemenným (quartzovým) oscilátorem. Ten má vysokou přesnost, nízké výrobní náklady a snadno se propojuje s elektronickými obvody. Pro nejpřesnější měření dob se užívají atomové hodiny, využívajících vlastní frekvence pravidelných kmitů při stavovém přechodu atomu cesia. Nejpřesnější světový čas se určuje statistickým průměrem několika set césiových hodin po celém světě.
+Nepřesnost (lépe nerovnoměrnost čili variace chodu) hodin, která činila u prvních lihýřových hodin asi 100 s/den (0,1%), se u nejlepších kyvadlových hodin snížila na sekundu za rok, u křemenných hodin na sekundu za tisíc let a u césiových hodin na sekundu za třicet milionů let (1 : 10-15). V r. 2011 byla rekordní dosažená přesnost měření doby 1 sekunda za 32 miliard let, což je více než dvojnásobek věku vesmíru. Tomu odpovídá relativní přesnost 4 × 10-19. Během staletí od vynálezu hodin se tedy přesnost zlepšila o 16 desetinných řádů. Měření doby a kmitočtu patří dnes k nejpřesnějším měřením vůbec. V současnosti (r. 2011) je dokonce znám princip tzv. jaderných hodin, založených na magnetickém dipólovém přechodu mezi energetickými stavy jádra iontu thoria, který by umožňoval dosažení nepřesnosti pouhé 1 s za 200 miliard let.
+
+
+== Čas a doba jako veličiny ==
+Čas je společné označení pro několik fyzikálních pojmů - objektů a veličin, zejména pro:
+okamžik: bod na časové ose. V tomto smyslu ("čas daného okamžiku") je veličinou protenzivní, jejíž okamžitá hodnota (datum, časový údaj - viz níže) se stanovuje jako doba trvání (viz níže) od dohodnutého počátečního okamžiku k tomuto okamžiku. V prostoru odpovídá poloze;
+datum, časový údaj: značka přiřazená okamžiku pomocí uvedené časové stupnice; v prostoru odpovídá souřadnicím polohy v daném souřadném systému;
+doba, doba trvání (pro spojité časové stupnice): rozsah časového intervalu, tedy části časové osy mezi dvěma okamžiky. Je to veličina extenzivní. V prostoru odpovídá vzdálenosti.
+Čas, doba jsou základní veličinou všech běžně používaných soustav veličin, tedy i soustavy SI.
+Doporučená značka veličiny (doby): t (angl. time, lat. tempus)
+Běžně se ve fyzikální literatuře takto značí i čas daného okamžiku (zpravidla s identifikačním indexem), pak se pro označení doby trvání používá značka Δt nebo zápis pomocí rozdílu (tedy např. t − t0).
+Doporučený zápis data a časového údaje pro vědecké a technické účely je např. 2014-08-14T09:25:10,33 pro 14. srpen 2014, v 9 h, 25 min a 10,33 sekundy
+V běžných písemnostech se za správný považuje i vzestupný zápis pouhého data (14. 8. 2014 nebo 14.08.2014) a zápis časového údaje zaokrouhleného na minuty s rozdělující tečkou a bez nuly u jednomístných hodin (9.25 či 9.25 h).
+
+
+=== Jednotky času ===
+Základní jednotkou času (doby) je v soustavě SI sekunda (mezinárodní značka s), která je definována jako doba trvání 9 192 631 770 period záření, které odpovídá přechodu mezi dvěma hladinami velmi jemné struktury základního stavu atomu cesia 133. Tato definice předpokládá cesiový atom v klidu při teplotě absolutní nuly. Jedná se tedy o vlastní čas.
+V běžném hovorovém jazyce se pro označení této jednotky používá výraz vteřina, ve fyzice to však není vhodné kvůli jednoznačnosti. 
+Mezinárodní komise pro váhy a míry CIMP dovoluje používat v SI souběžně se základní jednotkou sekunda a jejími dekadickými násobky a díly, s názvy odvozenými standardními předponami (zejména milisekundou (značka ms), mikrosekundou (µs), nanosekundou (ns) a pikosekundou (ps) ) také následující jednotky:
+minuta, značka min, 1 min = 60 s
+hodina, značka h, 1 h = 60 min = 3600 s
+den, značka d, 1 d = 24 h = 86 400 s.
+(Swatch) beat (česky překládaná jako takt, případně zavináč), 1 beat = 1/1000 dne je jednotka zavedená pro udávání tzv. internetového času, nikoli pro dobu trvání děje. Nejedná se o mimosoustavovou jednotku, rovněž akceptovanou v příručce SI.
+Větší mimosoustavové jednotky než den se používají např. v kalendáři. Nejsou však již definovány jednoznačně:
+kalendářní den, vzhledem k přechodu na letní čas se jeho velikost může lišit o ± 1 hodinu, vzhledem ke korekci koordinovaného světového času (UTC) na reálnou rotaci Země o ± 1 přestupnou sekundu
+týden je 7 kalendářních dní
+měsíc je 28 až 31 kalendářních dní,
+(kalendářní) rok (značka a nebo též r nebo y, yr z anglického year) je 365 dní (366 dní, je-li rok přestupný).
+Jednotky den a rok jsou odvozeny z astronomických časových charakteristik otáčení Země kolem své osy a jejího oběhu kolem Slunce, astronomové proto od kalendářního dne a roku důsledně rozlišují přesně definované pojmy pravý sluneční den, střední sluneční den, hvězdný den, tropický rok a siderický rok.
+I některé přírodní vědy, zabývající se dlouhými časovými obdobími (astrofyzika, kosmologie, geologie), však potřebují větší jednotky, ale exaktně definované. Používají proto jednotku definovanou jako přesný násobek sekundy:
+rok (annus), značka a, ve dvou různých verzích – s hodnotou
+1 a = 31 556 926 s nebo
+1 a = 31 600 000 s (zpravidla v geologii, též v jaderné fyzice pro pomalu se rozpadající atomy)
+
+(střední) juliánský rok, značka aj nebo též pouze a, 1 aj = 365,25 dne = 31 557 600 s (v astronomii a astrofyzice - dle IAU)
+a z jejich násobků nejčastěji
+1 Ma = 106 a
+1 Ga = 109 a.
+Naopak mimosoustavovou jednotkou menší než sekunda je
+Planckův čas (jakožto jednotka ve smyslu doby trvání, i když se "doba" v názvu neužívá; v kosmologii používaný i pro čas okamžiku po velkém třesku), obvykle značený tP, a jeho obdoby v jiných soustavách přirozených jednotek. Takto stanovené jednotky závisejí na znalosti hodnot univerzálních fyzikálních konstant a jejich velikost je stanovena experimentálně. Planckův čas se užívá v teoretické fyzice a kosmologii, pro malou přesnost není však v metrologii použitelný. Podle současné adjustace konstant je hodnota této jednotky:
+tP = 5,391 16(13) × 10-44 s.
+Mezinárodní úřad pro míry a váhy (BIMP) uvádí jako přirozené jednotky času mnohem přesněji stanovené (a proto pro metrologické účely vhodnější) konstanty (ve vztazích  je redukovaná Planckova konstanta,  hmotnost elektronu,  rychlost světla ve vakuu a  konstanta jemné struktury):
+"přirozená jednotka času"  s aktuální hodnotou 1,288 088 667 12(58) × 10–21 s
+"atomová jednotka času"  s aktuální hodnotou 2,418 884 326 509(14) × 10–17 s (jednotka času Hartreeovy ("Bohrovy") soustavy atomových jednotek).
+
+
+=== Příbuzné veličiny ===
+Fyzikální charakter doby má několik dalších fyzikálních veličin. Nejpoužívanější jsou:
+perioda, doporučená značka T, udávající nejkratší časový interval opakování periodického děje,
+poločas přeměny, doporučená značka T½, a
+střední doba života, doporučená značka τ, obě používané v jaderné fyzice jako charakteristiky nestabilních atomů a částic.
+
+
+=== Zápis času ===
+Zápis času stanovují české i mezinárodní normy. Hodiny a minuty se standardně ("extended form") oddělují dvojtečkou (např. 12:35) - většinou ve vědeckých a technických oborech (jako jsou například počítače), protože v jiných státech, kde se jako desetinná značka používá tečka, by mohlo dojít k nejednoznačnostem. Pouze pravidla českého pravopisu (ale i slovenského) uvádějí (v jistých případech) jako oddělovač tečku (např. 12.35), to se však používá spíše v literatuře a typografii.
+Rok, měsíc a den (v tomto pořadí) se navzájem oddělují pomlčkou, od hodiny písmenem T, např. 1982-02-28T12:00:00 v poledne 28. února 1982. eventuální zlomky sekundy se oddělují desetinnou značkou (u nás tedy čárkou): 1982-02-28T12:00:00,000 00.
+
+
+== Reference ==
+↑ Aristotelés, Fysika 219b.
+↑ Se současným cesiovým standardem se dosahuje relativní přesnost měření 2,3×10-16 (viz [1]), nadějným kandidátem na přesnější měření se v současnosti jeví atomové hodiny založené na 87Sr, viz CAMPBELL, Gretchen K., Andrew D. Ludlow, Sebastian Blatt, Jan W. Thomsen, Michael J. Martin, Marcio H. G. de Miranda, Tanya Zelevinsky, Martin M. Boyd1, Jun Ye, Scott A. Diddams, Thomas P. Heavner, Thomas E. Parker, Steven R. Jefferts The absolute frequency of the 87Sr optical clock transition. Metrologia [online]. , 23. září 2008, roč. 45, čís. 5, s. 539-548. Dostupné online. DOI:10.1088/0026-1394/45/5/008.  
+↑ New calculations on blackbody energy set the stage for clocks with unprecedented accuracy, PhysOrg, 9. května 2011 (anglicky)
+↑ Campbell C. J., Radnaev A. G., Kuzmich A., Dzuba V. A., Flambaum V. V., Derevianko A.: A Single-Ion Nuclear Clock for Metrology at the 19th Decimal Place. ArXiv:1110.2490v1, 11. října 2011 (anglicky)
+↑ Bob Yirka: Research team shows nuclear clock could be 60 times more accurate than atomic clock. PhysOrg, 9. listopadu 2011 (anglicky) - popularizační článek k předchozí referenci
+↑ Bob Beale: Proposed nuclear clock may keep time with the Universe. PhysOrg, 8. března 2012 (anglicky)
+↑ ČSN IEC 60050-113:2014, zprac. doc. RNDr. Jan Obdržálek, CSc., pol.113-01-08
+↑ ČSN IEC 60050-113:2014, zprac. doc. RNDr. Jan Obdržálek, CSc., pol.113-01-12
+↑ ČSN IEC 60050-113:2

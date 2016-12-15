@@ -1,0 +1,22 @@
+Un spambot est un bot informatique conçu pour assister ou envoyer du spam. Un spambot peut par exemple collecter des adresses email sur les pages web, ou bien envoyer du spam sur différents supports Internet : boites mail, commentaire de forums, messagerie instantanée, Twitter...
+
+
+== Courrier électronique ==
+Les spambots de courrier électronique collectent des adresses électroniques à partir d'Internet dans le but de construire des listes d'adresses pour l'envoi de spam. Ils fonctionnent de la même manière que les robots d'indexation, c'est-à-dire qu'ils explorent le Web non pas pour indexer des sites web mais pour recueillir des adresses électroniques à partir de sites web, de forums de discussions, de tchats, de newsgroups etc.
+
+
+== Forums ==
+Il existe des spambots de forums, de wikis, de livres d'or, de tchats en ligne... La technologie CAPTCHA permet de les bloquer, cependant certains spambots plus perfectionnés savent contourner cette protection en utilisant la reconnaissance optique de caractères.
+
+
+== Messagerie instantanée ==
+
+
+== Analyse juridique ==
+Selon le droit français, l'utilisation de ces robots sans l’autorisation préalable de la personne physique, titulaire de l'adresse électronique recueillie, est constitutif d'un délit pénal. Aux termes de l'article 226-18 du Code pénal, la personne qui met en œuvre ce traitement informatique est passible d'une peine de cinq ans d'emprisonnement et de 300 000 Euros d'amende. Cette position fut consacrée par la Chambre criminelle de la Cour de cassation dans un arrêt en date du 14 mars 2006
+Une adresse de courriel est une donnée à caractère personnel selon l'article 2 alinéa 2 de la loi Informatique et liberté modifiée.
+Aussi, la collecte de données à caractère personnel doit être déclarée auprès de la CNIL, par le responsable du traitement informatique ; c'est-à-dire par l'utilisateur de ces robots. Cette utilisation est soumise à déclaration préalable avant toute mise en œuvre. Cette formalité administrative contribue à informer les titulaires des données à caractère personnel de l’existence de ce fichier. En effet, le responsable du traitement doit informer les personnes, objet du traitement de données à caractère personnel, qu'elles peuvent s'opposer au traitement, consulter les données ou les rectifier. L'absence de déclaration préalable est sanctionnée de cinq ans d'emprisonnement et de 300 000 Euros d'amende sur le fondement de 226-16 du code pénal.
+Ensuite, ces robots collectent des données de manière déloyale et illicite. Au préalable, les adresses électroniques sont mises en ligne par leur titulaire pour une finalité précise (la communication privée ou professionnelle avec des personnes physiques) et non pas pour la finalité publicitaire. Le responsable du traitement fait preuve de déloyauté dans la mise en œuvre de la collecte. En l'absence de déclaration administrative préalable, le fichier est illégal. L'article 226-18 du code pénal dispose que « le fait de collecter des données à caractère personnel par un moyen frauduleux, déloyal ou illicite est puni de cinq ans d'emprisonnement et de 300 000 Euros d'amende ».
+Il en résulte que la mise en œuvre des spambot est constitutive de deux incrimination pénales En effet, l'usage même de cette technique n'a aucun intérêt, s'il faut, au préalable déclarer son utilisation auprès de la CNIL (article 226-16 du code pénal). Il s'agit d'une collecte illégale. Ensuite, l'absence d'information des personnes sur leur droit d'opposition à figurer dans un tel traitement est déloyale (226-18 du code pénal).
+En principe, le responsable du traitement encourt ces incriminations quelle que soit la nationalité des serveurs ou de la société qui les a mis en œuvre. En effet, la loi information et liberté, en tant que loi de police et de sûreté, à vocation à s'appliquer lorsqu'un Français fait l’objet d’une collecte de données à caractère personnel. Le Conseil constitutionnel consacra explicitement le droit au respect de la vie privée comme une exigence constitutionnelle, sur le fondement de l'article 2 de la Déclaration Universelle des Droits de l'Homme de 1789 (considérants 21 et 22 de la Décision n° 2009-580 DC du 10 juin 2009).
+La coopératio

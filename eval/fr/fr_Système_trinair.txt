@@ -1,0 +1,42 @@
+10
+if 44       s'il y a un résultat de 44 on pose 1 puis 2 sur le dernier 4
+== 12
+if 333      de suite 
+== 110 
+if 444      de suite 
+== 112   
+       
+
+Exemple :
+
+ 212110+
+ 212021=
+ 424131 conversion décimale
+1201201 résultat ternaire
+
+
+== Représentation ternaire compacte ==
+Le système ternaire est inefficace pour l'usage humain, tout comme le binaire.[réf. nécessaire] Par conséquent, le système nonaire (base 9, chaque chiffre représente deux chiffres de base 3) ou le système septemvigésimal (en) (base 27) (chaque chiffre représente 3 chiffres de base 3) est souvent utilisé, de manière similaire à l'utilisation du système octal et du système hexadécimal à la place du système binaire. Le système ternaire possède aussi l'analogue d'un byte, appelé un tryte.
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Logique ternaire
+Ordinateur ternaire, dont le Setun (en)
+Thomas Fowler (inventeur)
+Ensemble triadique de Cantor
+Courbe de Peano
+
+
+=== Liens externes ===
+(en) Development of ternary computers at Moscow State University
+(en) Third Base, sur le site de American Scientist
+(en) Nikolay Brusentsov - the Creator of the Trinary Computer, au musée virtuel de l'informatique de Kiev
+(en) Balanced Ternary Web Pages par J. Allwright, université de Westminster
+(en) Ternary Arithmetic par S. Whealton, sur washingtonart.net
+
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Ternary numeral system » (voir la liste des auteurs).
+
+ Portail des mathématiques

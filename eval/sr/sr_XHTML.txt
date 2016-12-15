@@ -1,0 +1,32 @@
+ atributa sa xml:lang.
+
+
+=== XHTML 2.0 ===
+XHTML 2.0 je poslednja XHTML verzija.
+W3C radna grupa je 2009. godine donela odluku da se obustavi dalji rad na ovoj specifikaciji i da se resursi usmere u razvoj HTML 5 jezika .
+
+
+=== Ostale XHTML verzije ===
+XHTML Basic - 19. decembar 2000.
+XHTML Mobile Profile - 21. novembar 2005.
+XHTML+Voice - 21. decembar 2001.
+
+
+== Primer ==
+
+
+== Vidi još ==
+HTML
+XML
+
+
+== Reference ==
+↑ Why the need for XHTML?
+↑ XHTML — myths and reality
+↑ XHTML 2 Working Group Expected to Stop Work End of 2009, W3C to Increase Resources on HTML 5
+
+
+== Spoljašnje veze ==
+XHTML 1.0 - specifikacija
+Конзорцијум за Веб — organizacija koja je propisala XHTML standard
+W3C валидатор — alat za proveru ispravnosti XHTML dokumenata

@@ -1,0 +1,38 @@
+rlaubt es dem Nutzer eigene JavaScript-Dateien im Browser auszuführen, die das Erscheinungsbild und Verhalten der angezeigten Webseite individualisieren können, ohne einen Zugriff auf die eigentliche Webseite zu benötigen. Dadurch ist es beispielsweise möglich, Webseiten um Funktionen zu erweitern, Fehler in der Darstellung zu beheben, Inhalte von anderen Webseiten einzubinden und wiederkehrende Aufgaben automatisch zu erledigen.
+A9 von Amazon ist ein Beispiel für eine zentralisierte Remix-Architektur. A9 kann Suchergebnisse aus verschiedenen Webdiensten wie Windows Live, Wikipedia, answers.com und vielen anderen in einem Fenster anzeigen.
+
+
+== Programmierbibliotheken ==
+Programmierkundige nutzen oft Skriptsprachen für maßgeschneiderte Screenscraping-Projekte. Für Python etwa gibt es die Programmbibliothek Beautiful Soup, die den Umgang mit real existierendem HTML erleichtert. Ebenfalls auf Python basiert die domänenspezifische Sprache redex (Regular Document Expressions) von Marcin Wojnarski, die speziell für das Webscraping geschaffen wurde und die Lücke zwischen den praktischen, aber kleinteiligen regulären Ausdrücken und der mächtigen, aber sehr rigiden XPath-Syntax schließen soll.
+
+
+== Rechtliche Probleme ==
+Beim Scraping von Webseiten fremder Anbieter muss auf die Einhaltung der Urheberrechte geachtet werden, vor allem wenn die Inhalte über ein eigenes Angebot eingebunden werden. Eine rechtliche Grauzone ist dagegen das Anbieten von Programmen, die ein clientseitiges Screen Scraping ermöglichen. Einige Anbieter verbieten das automatische Auslesen von Daten auch explizit in den Nutzungsbedingungen.
+Ein weiteres Problem stellt unter Umständen das Ausblenden von Informationen dar, etwa von Werbung oder rechtlich relevanten Informationen wie Disclaimer, Warnungen oder gar die automatische Bestätigung der AGB durch den Screen Scraper, ohne dass der Nutzer diese zu Gesicht bekommt.
+
+
+== Siehe auch ==
+Webintegration
+
+
+== Literatur ==
+Max Völkel: Extraktion von XML aus HTML-Seiten. (PDF; 2,6 MB) 2003.
+Markus Weißmann: Vergleich von Wrappersystemen. (PDF; 276 kB) 2002.
+Gerald Huck, Peter Fankhauser, Karl Aberer, Erich Neuhold: Jedi: Extracting and Synthesizing Information from the Web. (PDF; 140 kB) 1998 (englisch)
+Ling Liu, Carlton Pu, and Wei Han: XWRAP: An XMLenabled Wrapper Construction System for Web Information Sources. 2000. (englisch)
+
+
+== Weblinks ==
+Piggy Bank Firefox Extension (englisch)
+Data extraction for Web 2.0: Screen scraping in Ruby/Rails (englisch)
+Screen-scraping with WWW::Mechanize (englisch)
+Feedity – Screenscraper von HTML in diverse Feedformate
+HTML2RSS – Online web scraping on request (output is a RSS-feed)
+
+
+== Einzelnachweise ==
+↑ Selenium-Website
+↑ Homepage der Python-Bibliothek Beautiful Soup
+↑ Referenzimplementierung von redex in der Python-Bibliothek nifty
+↑ Erwähnung von redex auf der Global Open Access List am 9. Oktober 2014
+↑ StudiVZ AGB Ziffer 5.4.3

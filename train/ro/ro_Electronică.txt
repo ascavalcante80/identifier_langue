@@ -1,0 +1,19 @@
+Electronica reprezintă o disciplină din domeniul fizicii aplicate care se ocupă cu studiul dispozitive electronice și al circuitelor care includ aceste elemente (circuite electronice), folosite în procese de comandă, reglare, măsurare etc.
+Conform unei alte definiții electronica este o ramură tehnică bazată pe proprietățile, comportarea și controlul electronilor. Este considerată o parte a electrotehnicii, tehnicile electronice aplicându-se în cele mai diverse domenii de activitate, cum sunt industria, comunicațiile, apărarea militară și distracțiile. Echipamentul electronic se folosește în sisteme electrice industriale de comandă, control, măsură și la centralele electrice. Practic vorbind în viața modernă electronica este omniprezentă.
+
+
+== IstorieModificare ==
+
+
+=== Lămpi (tuburi) electroniceModificare ===
+Istoria electronicii pornește de la descoperirea lui Edison în 1883, care a observat că în anumite condiții curentul electric ar trece prin vid. A experimentat acest lucru folosind o lampă electrică vidată (bec) în care a introdus un electrod de metal (o placă metalică). Dacă electrodul devenea electric pozitiv față de filamentul lămpii, apărea un curent electric ce străbătea spațiul vid dintre filament și electrod.
+
+Această eliberare a electronilor dintr-un material sub acțiunea căldurii se numește "emisie termoelectrică". În condiții de vid, electronii eliberați de filamentul încăzit și care nu pot fi captați de mediu formează un "nor" numit "sarcină spațială". Aceast "nor" trebuie să fie cât mai dens; în acest scop se folosesc metale bogate în electroni liberi cum ar fi nichelul oxidat. Experiența a arătat că nu este nevoie ca filamentul să fie și emitor de electroni liberi și că poate exista o placă numită "catod" care poate fi încălzită de acesta. Captarea lor va fi făcută de o altă placă, cu polaritate electrică pozitivă, numită "anod". Acest tip de lampă se numește "diodă". Ulterior au apărut și lămpi mai complexe, în funcție de cerințe: triode, pentode și altele. A urmat apoi inventarea "tuburilor electronice", sufletul electronicii; ele au dăinuit o "eternitate" de circa 50 de ani.
+
+Inventarea tuburilor electronice a făcut să se dezvolte o nouă industrie, "industria electronică". Datorită ei filmul a început să "vorbească", radioul să aducă ultimele știri în casă, oamenii să comunice la distanță, doctorul să vadă în interiorul pacientului, imaginile să fie transmise la distanță cu ajutorul telefaxului și al televiziunii, a apărut calculatorul și multe alte aparate și dispozitive industriale.
+
+
+=== SemiconductoareModificare ===
+Apoi tuburile electronice au fost "detronate" de semiconductoare: (diode și tranzistoare) care, datorită mărimii constructive reduse, au micșorat și ușurat toate produsele: radiouri, televizoare, instalații de sunet, computere, aparatură medicală și multe altele.
+
+Dar și semiconductoarele discrete (tranzistoare) au început să piardă teren în fața urmașelor lor, "circuitele integrate". Apariția acestora a dus la ceea ce se numește "microelectronică". Toate aparatele electrice se miniaturizează din ce în ce mai mult, necesită un consum electric mult mai mic și sunt foarte ușor de transportat și manevrat. Comparând primul calculator cu tuburi electronice (de tip miniatură - circa 3,5 cm înălțime

@@ -1,0 +1,24 @@
+Das Ternärsystem, auch Dreiersystem genannt, ist ein Stellenwertsystem zur Basis 3. Es kommt in zwei Spielarten vor, als gewöhnliches Ternärsystem mit den Ziffern 0, 1 und 2 sowie als balanciertes Ternärsystem mit den Ziffern 0, 1 und -1.
+Eine ternäre Ziffer wird auch als Trit (in Analogie zum Bit) bezeichnet. Im Jahr 1958 wurde in der Sowjetunion der Setun-Computer entwickelt, der mit ternären Zahlen rechnete.
+
+
+== gewöhnlich ==
+Eine Zahl wird im gewöhnlichen Ternärsystem durch eine Kombination der Ziffern 0, 1 und 2 dargestellt. Da Verwechslungen mit anderen Zahlendarstellungen, besonders mit dem Dezimalsystem auftreten können, wird eine Ternärzahl durch eine angehängte tiefgestellte 3 gekennzeichnet. Die einer Ternärzahl entsprechende Dezimalzahl kann wie im folgenden Beispiel errechnet werden:
+
+Löst man die Potenzen auf, dann sieht die Gleichung so aus:
+
+Die entsprechende, allgemeine Formel lautet
+
+Hierbei ist  die Ternärziffer an der Stelle  (also entweder 0, 1 oder 2),  die Anzahl der Nachkommastellen und  die Nummer der höchsten Stelle.  ist dann das Ergebnis, also der Wert der Ternärzahl. Diese Formel ist das gleiche wie die erste und die zweite lineare Formel im Artikel, nur eben anders dargestellt.
+Weitere Beispiele von Zahlen im Ternärsystem und ihrer Entsprechung im Dezimalsystem:
+123 = 5
+1123 = 14
+1213 = 16
+Man kann Zahlen im gewöhnlichen ternären System, wie Zahlen in anderen Stellenwertsystemen auch, zum Verständnis gut in einer Tabelle darstellen. Die Ziffer in einem Feld gibt an, wie oft die Zahl des Spaltennamens gezählt wird. Steht zum Beispiel in einem Feld der Spalte "3" eine "2", so muss man "3+3" oder "2∙3" rechnen, bei "1" unter "27" einfach "1∙27". Am Ende zählt man alle Einzelergebnisse der Zwischenrechnungen ("2∙3", "1∙27") zusammen und erhält die dezimale Zahl. Nullen die links der ersten 1 oder 2 stehen (führende Nullen), werden in der üblichen Schreibweise (Spalte zusammengesetzte Ternärzahl) nicht aufgeschrieben.
+
+
+== balanciert ==
+Eine Zahl im balancierten Ternärsystem wird durch eine Kombination der Ziffern 0, 1 und -1 dargestellt. Die Ziffer -1 wird in diesem Artikel durch 1 wiedergegeben, eine andere Wiedergabe ist eine vertikal gespiegelte Ziffer 1. Falls Verwechslungen auftreten können, wird eine balancierte Ternärzahl durch ein angehängtes tiefgestelltes "3bal" gekennzeichnet.
+Beispiele für Zahlen im balancierten Ternärsystem und ihrer Entsprechung im Dezimalsystem:
+1113bal = 5
+1103ba

@@ -1,0 +1,31 @@
+El voltio, o volt, por símbolo V, es la unidad derivada del Sistema Internacional para el potencial eléctrico, la fuerza electromotriz y la tensión eléctrica. Recibe su nombre en honor a Alessandro Volta, quien en 1800 inventó la pila voltaica, la primera batería química.
+
+
+== ConceptosEditar ==
+
+
+=== Definición clásicaEditar ===
+El voltio se define como la diferencia de potencial a lo largo de un conductor cuando una corriente de un amperio utiliza un vatio de potencia.
+Así mismo, el voltio se define de forma equivalente como la diferencia de potencial existente entre dos puntos tales que hay que realizar un trabajo de 1 J para trasladar del uno al otro la carga de 1 C.
+Puede ser expresado en las unidades básicas del SI (m, kg, s, y A) como:
+
+El instrumento de medición para medir la tensión eléctrica es el voltímetro.
+
+
+=== Definición estándarEditar ===
+El voltio estándar se define utilizando un oscilador de unión Josephson, cuya frecuencia de oscilación (extraordinariamente estable) viene dada por:
+
+La relación entre la frecuencia y el voltaje a través de la unión, depende únicamente de las constantes fundamentales e (carga del electrón) y h (constante de Planck). Para un microvoltio aplicado a la unión, la frecuencia es:
+
+El voltio estándar se define como el voltaje necesario para producir una frecuencia de 483.597,9 GHz en un oscilador de unión Josephson.
+
+
+== HistoriaEditar ==
+En 1800, como resultado de un desacuerdo profesional sobre la respuesta galvánica propugnada por Luigi Galvani, Alessandro Volta desarrolló su propia pila, que a la postre se convertiría en precursora de la batería, que produjo una corriente eléctrica constante. Volta había determinado la más eficaz manera de utilizar metales para producir electricidad, estos metales eran el zinc y la plata.
+En la década de 1880, el Congreso Internacional de electricidad, ahora conocida como Comisión Electrotécnica Internacional (IEC), aprobó el voltio como unidad para medir la fuerza electromotriz. En ese momento, el voltio estaba definido como la diferencia de potencial a través de un conductor eléctrico cuando una corriente de un amperio disipa un vatio de potencia. Antes de la evolución del sistema de medición de la tensión de voltaje estándar de Josephson, en los laboratorios el voltio de referencia se medía mediante baterías especiales debidamente calibradas y construidas al efecto.
+
+
+== Analogía hidráulicaEditar ==
+La analogía hidráulica se utiliza en muchas ocasiones para explicar el funcionamiento de los circuitos eléctricos: la corriente eléctrica se suele comparar con el agua en las tuberías. El voltaje se asemeja a la presión del agua, ya que en los fluidos esta presión es la que determina su velocidad; el fluido circulante se asemeja a la intensidad de los electrones en el circuito eléctrico. La corriente (en amperios), en la misma analogía, es una medida del caudal de agua que fluye a través de un determinado punto, y la potencia total se mide en vatios.
+Se tiene una ecuación para unir los tres criterios: .
+

@@ -1,0 +1,33 @@
+ so sánh với những mốc được định nghĩa chính xác hơn như mặt nước biển trung bình (chính xác hơn nữa là geoid, một mặt có thế năng trọng trường không đổi). Khoảng cách đến trung tâm Trái Đất có thể được dùng cho cả vị trí rất sâu hoặc một nơi nào đó trên không gian.
+Những thuật ngữ khác được dùng tương ứng với khoảng của một điểm từ mặt đất hoặc một cột mốc khác là độ cao, chiều cao, và độ sâu.
+
+
+== Tọa độ địa tĩnh ==
+Vệ tinh địa tĩnh (như vệ tinh truyền hình) nằm ở phía trên xích đạo. Do đó, vị trí của nó so với Trái Đất được biểu diễn bằng độ vĩ. Độ vĩ của chúng không thay đổi, và luôn luôn là zero đối với xích đạo.
+
+
+== Xem thêm ==
+Hệ thống dẫn đường tự động
+Hệ thống thông tin địa lý (GIS)
+Chuyển đổi tọa độ địa lý
+Mã địa lý
+Thẻ địa lý
+Hệ thống định vị toàn cầu (GPS).
+Khoảng cách toàn vòng tròn khoảng cách ngắn nhất giữa hai điểm trên mặt cầu, và giải thích cách tìm khoảng cách nếu đã biết hai vĩ độ và kinh độ.
+Phép chiếu bản đồ
+Hạ chí tuyến
+Đông chí tuyến
+Hệ tọa độ Mercator ngang toàn cầu
+Cực hiệu dụng#Tọa độ trên các nhãn cực
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Khái niệm tọa độ địa lý trên BKTT VN
+Mathematics Topics-Coordinate Systems
+Geographic coordinates of countries (CIA World Factbook)
+Worldwide Geogr.Coordinates & Satellite images
+Global Gazetteer
+Verify Locality Tool

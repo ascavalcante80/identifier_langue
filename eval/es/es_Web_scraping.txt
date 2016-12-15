@@ -1,0 +1,29 @@
+rio del sitio web.
+
+
+== Medidas para detener a los scrapers ==
+El administrador de un sitio web puede utilizar varias técnicas para detener o disminuir los pedidos de los scrapers. Algunas técnicas incluyen:
+Añadir entradas al fichero robots.txt. Google y otros bots pueden ser detenidos de esta forma.
+Bloquear la dirección IP. Esto también bloqueará todos los accesos desde esa misma IP, por lo que los usuarios no podrán navegar por el sitio web si acceden desde ésta.
+Deshabilitar cualquier interfaz de programación de aplicaciones que el sitio web pudiera estar brindando.
+Los bots o scrapers algunas veces declaran quienes son, y gracias a esto pueden ser bloqueados. «googlebot» es un ejemplo. Algunos scrapers no hacen distinción entre ellos y un navegador común.
+Monitorear el exceso de tráfico proveniente de cierta IP.
+Añadir un captcha u otro sistema de verificación manual al sitio web. No se garantiza el completo bloqueo de los scrapers, pero mediante esta técnica se dificulta el acceso de los mismos a los sitios webs.
+Servicios comerciales antibots: algunas empresas ofrecen servicios antibots y antiscraping.
+Incrementar el uso de JavaScript y AJAX. De esta forma es más difícil para los scrapers simular las peticiones como si fueran un navegador común.
+
+
+== Herramientas notables ==
+
+
+== Véase también ==
+Minería de datos
+Mashup (aplicación web híbrida)
+Spamdexing
+Corpus lingüístico
+Araña web
+Metadato
+
+
+== Tutoriales en la web ==
+Scraping Facil Con Python

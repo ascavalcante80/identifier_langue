@@ -1,0 +1,12 @@
+ld) getijdentabellen een aanzienlijk onjuiste interpretatie optreden.
+Ook radiostations die op de hele wereld gericht zijn gebruiken UTC bij het publiceren van de programmagegevens.
+De digitale tachograaf maakt ook gebruik van UTC, wat het voor de controlediensten gemakkelijker maakt om internationaal vervoer te controleren op rij- en rusttijden.
+
+
+== Zie ookBewerken ==
+Tijdzone
+Tijdmeting
+
+
+== Externe linkBewerken ==
+(en) ISO-standaard 8601: Numeric representation of Dates and Time

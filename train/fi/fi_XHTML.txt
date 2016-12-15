@@ -1,0 +1,31 @@
+XHTML (lyhenne sanoista eXtensible Hypertext Markup Language) on HTML:stä kehitetty www-sivujen merkintäkieli, joka täyttää XML:n muotovaatimukset. Sen oli alun perin tarkoitus korvata HTML.
+XHTML:n määrittelee W3C.
+
+
+== XHTML:n ja HTML:n erot ==
+XHTML eroaa HTML:stä tiukemmilla muotosäännöillään. Eroja ovat esimerkiksi viittaus käytettyyn XML-määrittelyyn, pakollinen pienten kirjainten käyttö kaikissa tunnisteissa, attribuuttien pakolliset arvot, attribuuttien arvojen pakollinen merkitseminen lainausmerkeillä ja elementtien pakollinen sulkeminen.
+Siinä missä HTML-dokumenteissa tulisi käyttää MIME-tyyppiä 'text/html', XHTML-dokumenteissa tulisi käyttää tyyppiä 'application/xhtml+xml'. Käytännössä tämä on kuitenkin huonosta selaintuesta johtuen liki mahdotonta. Tästä syystä myös MIME-tyypin 'text/html' käyttö XHTML 1.0 -dokumenttien tyyppinä on sallittu.
+W3C on julkaissut oman ohjeistuksensa HTML-yhteensopivan XHTML:n kirjoittamiseksi.
+XHTML-dokumentit on helppo muokata jo olemassa olevista HTML-dokumenteista, mikäli niissä ei käytetä skriptausta. XHTML-tiedosto voidaan monesti jäsentää HTML-jäsentimellä.
+
+
+== Miksi XHTML? ==
+Tärkein syy XHTML:n kehittämiseen lienee se, että sen ajateltiin sopivan hyvin myös muihin medioihin kuin perinteisiin tietokoneisiin. Tällaisia ovat esimerkiksi matkapuhelin ja muut kannettavat päätelaitteet, televisio ja ns. PDA-laitteet. Käytännössä mobiiliselaimet eivät kuitenkaan ole toteuttaneet XHTML:ää määrittelyn mukaan. XML-työkalujen soveltaminen XHTML:ään nähtiin myös etuna.
+
+
+== XHTML:n versiot ==
+
+
+=== XHTML 1.0 ===
+XHTML:n ensimmäinen versio oli käytännössä samanlainen kuin HTML 4.01. Eroja ovat lähinnä XHTML 1.0:n rajoitukset isojen ja pienien kirjainten käytössä sekä tagien sulkemisessa. Lisäksi XHTML 1.0 -dokumentit tulisi teoriassa tarjoilla asiakasohjelmistolle MIME-tyypillä application/xhtml+xml, joka sallii myös muiden XML-nimiavaruuksien käytön dokumentissa.
+
+
+=== XHTML 1.1 ===
+XHTML 1.1 on edeltäjäänsä hieman tiukempi dokumenttityyppi. Suositus ei sisällä enää ulkoasun määrittelyyn liittyviä elementtejä, joita oli vielä XHTML 1.0 Transitional- ja Frameset -dokumenttityypeissä. Kaikki ulkoasun määrittelyt tulee tehdä tyyliohjeiden avulla. XHTML 1.1 on jaettu osiin eli moduuleihin, joista jokainen sisältää vain tietyntyyppisiä määrityksiä. Tämä mahdollistaa tulevaisuudessa järkevämmän laajennettavuuden ja helpottaa erityislaitteille rakennettavien selainten toteuttamista.
+XHTML 1.1 -dokumenttityyppimäärittely on:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+=== XHTML Basic ===
+XHTML Basic on XHTML 1.1:stä supistettu versio, joka on tarkoitettu erityisesti mobiililaitteita varten. Se sisältää samoja osia kuin XHTML 1.1, joista osa on supistettuja.
+XHTML Basic -dokumenttityyppi

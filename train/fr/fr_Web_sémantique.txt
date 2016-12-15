@@ -1,0 +1,124 @@
+Le Web sémantique, ou toile sémantique, est un mouvement collaboratif mené par le World Wide Web Consortium (W3C) qui favorise des méthodes communes pour échanger des données.
+Le Web sémantique vise à aider l'émergence de nouvelles connaissances en s'appuyant sur les connaissances déjà présentes sur Internet. Pour y parvenir, le Web sémantique met en œuvre le Web des données qui consiste à lier et structurer l'information sur Internet pour accéder simplement à la connaissance qu'elle contient déjà.
+Selon le W3C, « le Web sémantique fournit un Modèle qui permet aux données d'être partagées et réutilisées entre plusieurs applications, entreprises et groupes d'utilisateurs ».
+L'expression a été inventée par Tim Berners-Lee, l'inventeur du World Wide Web et directeur du World Wide Web Consortium (« W3C »), qui supervise le développement des technologies communes du Web sémantique. Il définit le Web sémantique comme « un web de données qui peuvent être traitées directement et indirectement par des machines pour aider leurs utilisateurs à créer de nouvelles connaissances ».
+Alors que ses détracteurs ont mis en doute sa faisabilité, ses promoteurs font valoir que les recherches dans l'industrie, la biologie et les sciences humaines ont déjà prouvé la validité du concept original. Les chercheurs ont exploré le potentiel sociétal du web sémantique dans l'industrie et le secteur de la santé. L'article original de Tim Berners-Lee en 2001 dans le Scientific American a décrit une évolution attendue du Web existant vers un Web sémantique, mais cela n'a pas encore eu lieu. En 2006, Tim Berners-Lee et ses collègues ont déclaré : « Cette idée simple… reste largement inexploitée. »
+
+
+== Historique ==
+Le concept du « modèle de réseau sémantique » a été inventé dans les années 1960 par le chercheur en sciences cognitives Allan Collins (en), le linguiste Ross Quillian (en) et la psychologue Elizabeth Loftus, et exposé dans diverses publications, ,, , , comme manière de représenter des connaissances structurées. Ce modèle étend le réseau de liens hypertextes des pages Web lisibles humainement par l'insertion de métadonnées lisibles par la machine sur les pages et la manière dont ils sont liés les uns aux autres, permettant à des agents d'accéder au Web de manière plus intelligente et effectuer des tâches pour le compte d'utilisateurs.
+L'expression « Web sémantique » a été inventée par Tim Berners-Lee, l'inventeur du World Wide Web et directeur du World Wide Web Consortium (« W3C »), qui supervise le développement des recommandations du Web sémantique.
+La plupart des technologies proposées par le W3C existaient déjà avant. Celles-ci sont utilisées dans des contextes différents, en particulier celles relatives à l'information qui englobe un domaine limité et défini, et où le partage de données est une nécessité commune, tels que la recherche scientifique ou l'échange de données entre les entreprises. En outre, d'autres technologies ayant des objectifs similaires ont vu le jour, telles que les microformats.
+
+
+== Objectif ==
+Le but principal du Web sémantique est d'orienter l'évolution du Web pour permettre aux utilisateurs sans intermédiaires de trouver, partager et combiner l'information plus facilement. Les êtres humains sont capables d'utiliser le Web pour effectuer des tâches telles que trouver le mot Paris pour réserver un livre à la bibliothèque, trouver un plan et réserver son billet de transport. Cependant, les machines ne peuvent pas accomplir toutes ces tâches sans direction humaine, parce que les pages web sont conçues pour être lues uniquement par des personnes et non par des machines. Le Web sémantique est une vision de l'information qui permet d'être lisible par les humains et par les machines. Cela permettra d'effectuer les travaux fastidieux et répétitifs dans le domaine de la recherche d'information par des machines tout en améliorant et consolidant l'information sur le Web pour ses utilisateurs.
+Le Web sémantique, comme prévu initialement, est un système qui permet aux machines de « comprendre » et de répondre aux demandes complexes de l'homme en fonction du sens de ces demandes. Une telle « compréhension » exige que les sources d'information pertinentes aient été sémantiquement structurées au préalable.
+Tim Berners-Lee à l'origine exprimait la vision du Web sémantique comme suit :
+
+Le Web sémantique est considéré comme une passerelle pour accéder aux données entre différentes applications et systèmes. Les applications sont nombreuses dans l'édition, les blogs, et de nombreux autres domaines.
+Souvent, les expressions « sémantique », « métadonnée », « ontologies » et « Web sémantique » sont utilisées de manière incohérente. En particulier, ces expressions sont utilisées tous les jours par les chercheurs et les praticiens dont la terminologie couvre un vaste paysage de technologies, de concepts et de domaines d'application. En outre, il y a une confusion entre les technologies envisagées pour le mettre en œuvre et le mouvement du Web sémantique. Dans un document présenté par Gerber, Barnard et Van der Merwe le paysage du Web sémantique est tracé et un bref résumé des termes connexes et des technologies génériques sont présentés. Le modèle architectural proposé par Tim Berners-Lee est utilisé comme base pour représenter l'état des technologies actuelles et émergentes.
+
+
+=== Limites du HTML ===
+Beaucoup de fichiers sur un ordinateur peuvent plus ou moins être classés en deux catégories : les documents lisibles par l'homme et les données lisibles par la machine. Des documents comme des courriers électroniques, rapports ou brochures sont lisibles pour les humains. Par contre, les données contenues dans des calendriers, carnets d'adresses, listes de lecture ou feuilles de calcul sont lisibles à condition d'utiliser une application qui permet de les lire, les fouiller et les transformer de différentes manières.
+Actuellement, le World Wide Web est basé principalement sur des documents écrits en un langage de balisage hypertexte (HTML), c'est-à-dire une convention de balisage qui est utilisée pour coder un texte parsemé d'objets multimédias tels que des images et des formulaires interactifs. Les balises de métadonnées fournissent une méthode par laquelle les ordinateurs peuvent catégoriser le contenu des pages web ; par exemple :
+
+Avec le HTML et un outil pour l'afficher (pouvant être un navigateur web ou un autre « agent utilisateur »), on peut créer et présenter une page qui affiche des articles à vendre. Le HTML d'une page d'un catalogue peut se faire simplement, le document contenant des affirmations telles que « le titre de ce document est “Supermarché de Gadgets” », mais le code HTML est incapable d'affirmer sans ambiguïté que, par exemple, l'article numéro X586172 est une table avec un prix de 199 €, ni qu'il s'agit d'un produit de consommation. Le HTML peut seulement dire que la plage de texte « X586172 » est quelque chose qui doit être positionné à proximité de « Meuble » et de « 199 € », etc. Il n'y a pas moyen de dire que « ceci est une page de catalogue », ni encore de dire que « Meuble » est une sorte de titre, ni même de savoir que « 199 € » est un prix. Il n'y a aucun moyen d'exprimer que ces morceaux d'information sont liés entre eux pour décrire un élément discret, distinct des autres articles qui peuvent être listés sur une même page.
+HTML sémantique fait référence à l'utilisation de balises HTML pour insérer des informations supplémentaires dans le document. Par exemple, l'utilisation de l'élément HTML del désignant un contenu supprimé plutôt que strike qui se contente d'afficher un texte barré et qui ne spécifie que sa mise en forme. Le HTML sémantique laisse la mise en page au navigateur en y ajoutant des feuilles de style en cascade. Mais cette pratique atteint ses limites quand il s'agit de spécifier la sémantique des objets tels que des articles à vendre.
+Les microformats sont des tentatives officieuses visant également à étendre la syntaxe HTML pour qu'une machine puisse lire le balisage sémantique à propos d'objets dans un document tels que des articles à vendre ou des contacts (exemple avec hcard).
+
+
+=== Les solutions du Web sémantique ===
+Le Web sémantique propose des langages spécialement conçus pour les données : RDF (Resource Description Framework), OWL (Ontology Web Language), et XML (eXtensible Markup Language). HTML décrit les documents et les liens entre eux. RDF, OWL, et XML, en revanche, peuvent décrire également des choses, comme des personnes, des réunions, ou des pièces d'avion.
+Ces technologies sont combinées afin de fournir des descriptions qui complètent ou remplacent le contenu des documents Web. Ainsi, le contenu peut se manifester sous forme de données descriptives stockées dans des bases de données accessibles sur le Web ou à travers des balises dans les documents (via HTML ou sa variante XHTML — XML HTML —). Ces données peuvent être alors entrecoupées de XML, ou parfois publiées uniquement en XML, avec une mise en page et des données stockées séparément. Les descriptions lisibles par une machine permettent aux gestionnaires de contenu d'ajouter du sens à leurs contenus, c'est-à-dire de décrire la structure des connaissances au sein du contenu. De cette manière, une machine peut :
+traiter la connaissance elle-même, au lieu du texte, en utilisant des procédés similaires à un raisonnement déductif humain et de l'inférence,
+obtenir des résultats plus significatifs tout en aidant les ordinateurs à effectuer de la collecte d'informations automatisée et ainsi faciliter la recherche.
+Voici un exemple de balise qui serait utilisé dans une page web non sémantique :
+
+Le codage d'informations similaires dans une page web sémantique pourrait ressembler à ceci :
+
+Tim Berners-Lee pousse à l'émergence d'un réseau de données liées (linked data, en anglais), ou Web des données (en français), pour obtenir le Graphe Global Géant, contrairement au Web qui est une toile mondiale basée sur des pages HTML. Tim Berners-Lee pose comme principe que si, par le passé, on partageait des documents, alors, dans l'avenir, nous partagerons des données. Sa réponse à la question « comment ? » repose sur trois piliers. Un, une URL doit pointer vers les données. Deux, n'importe qui accédant à l'URL doit pouvoir récupérer des données. Trois, les relations dans les données doivent pointer vers d'autres URL avec des données.
+
+
+=== Web 3.0 ===
+
+Tim Berners-Lee a décrit le web sémantique comme une composante du Web 3.0 :
+
+« Web sémantique » est parfois utilisé comme synonyme de « Web 3.0 », bien que la définition de chaque expression varie.
+
+
+== Les défis ==
+Quelques-uns des défis du Web sémantique sont l'immensité, l'imprécision, l'incertitude, l'incohérence, et la tromperie. Les systèmes de raisonnement automatisé devront faire face à toutes ces questions, afin d'être à la hauteur de la promesse du Web sémantique.
+Immensité : Le World Wide Web contient plusieurs milliards de pages. L'ontologie de la terminologie médicale SNOMED CT contient à elle seule 370 000 noms de classes, et aucune technologie existante n'a été encore en mesure d'éliminer tous les doublons du point de vue sémantique de cette ontologie. À l’avènement du Web sémantique, tous les systèmes de raisonnement automatisé devront alors gérer une quantité de paramètres vraiment énormes.
+Imprécision : Il existe des notions imprécises comme « jeune » ou « grand ». Ceci découle de l'imprécision des requêtes des utilisateurs qui s'alignent sur les termes utilisés par les fournisseurs de contenu. Les fournisseurs ayant des bases de connaissances qui se chevauchent, recréent cependant différents concepts avec des différences subtiles. La logique floue est la technique la plus courante pour faire face à l'imprécision.
+Incertitude : Ce sont des concepts précis avec des valeurs incertaines. Par exemple, un patient peut présenter un ensemble de symptômes qui correspondent à un certain nombre de diagnostics différents, chacun avec une probabilité différente. Les techniques de raisonnement probabiliste sont généralement employées pour traiter l'incertitude.
+Incohérence : Ce sont des contradictions logiques qui surgiront inévitablement au cours du développement des grandes ontologies, et quand les ontologies à partir de sources distinctes seront combinées. Le raisonnement déductif échouera face à cette incohérence parce que d'une contradiction on peut en déduire n'importe quoi (principe d'explosion). Le raisonnement révisable (en) et le raisonnement paraconsistant sont deux techniques qui peuvent être utilisés pour faire face à l'incohérence.
+Tromperie : Cela arrive quand le producteur d'une information désire volontairement tromper le consommateur de ce type d'information. Les techniques de cryptographie sont actuellement utilisées pour remédier à cette menace et ainsi veiller à l'intégrité des données.
+Cette liste de défis est plus illustrative qu'exhaustive car elle se concentre sur les défis de la couche de « logique d'unification » et de « preuve » pour la mise en œuvre du Web sémantique. La plupart des techniques mentionnées ici devront étendre le langage OWL (Web Ontology Language) par exemple pour annoter la probabilité conditionnelle d'une information. Il s'agit d'un domaine de recherche actif.
+
+
+== Spécifications ==
+La normalisation du Web sémantique est encadrée par le W3C.
+
+
+=== Cadre de référence ===
+L'expression « Web sémantique » est souvent utilisée plus spécifiquement pour désigner des formats et des technologies qui lui permettront d'exister. La collecte, la structuration et la récupération des données reliées fonctionneront à l'aide des technologies qui fourniront une description formelle des concepts, termes et relations au sein d'un domaine de connaissances donné. Voici quelques-unes des technologies déjà spécifiées et standardisées sur lesquelles le Web sémantique s’appuiera :
+
+La Semantic Web Stack est une illustration pour représenter l'architecture du Web sémantique. Les fonctions et les relations des composants peuvent être résumées comme suit :
+
+Le XML fournit une syntaxe élémentaire, pour la structure du contenu dans les documents, mais il ne décrit pas la sémantique du document. XML n'est pas à l'heure actuelle une composante nécessaire des technologies du Web sémantique dans la plupart des cas, comme syntaxes alternatives il existe Turtle. Turtle est un standard de facto car moins verbeux que XML, mais n'a pas été choisi à travers un processus de normalisation formelle.
+Le XSD est un langage de description de format de document XML permettant de définir la structure et le type de contenu d'un document XML. Cette définition permet notamment de vérifier la validité de ce document.
+Le RDF est un langage simple pour exprimer des modèles de données sous forme d'objets (« ressources ») et de leurs relations. Un modèle basé sur RDF peut être représenté à travers plusieurs syntaxes d'échanges, par exemple, RDF/XML, N3, Turtle, et RDFa. RDF est une norme fondamentale du Web sémantique,,.
+RDF Schema étend le RDF et son vocabulaire pour pouvoir structurer les propriétés et les classes au sein d'une ressource décrite en RDF.
+OWL ajoute plus de vocabulaire pour décrire les propriétés et les classes : comme avec les relations entre les classes, la cardinalité (par exemple « exactement un »), l'égalité, le typage des propriétés, les caractéristiques de propriétés (par exemple la symétrie), etc.
+SPARQL (prononcé sparkle ; en anglais : « étincelle ») est un langage de requête et un protocole qui permettra de rechercher, d'ajouter, de modifier ou de supprimer des données RDF disponibles dans le Web à travers l'Internet.
+
+
+=== État d'avancement ===
+Les standards du Web sémantique passent le processus de ratification du groupe de travail du W3C (World Wide Web Consortium). Cela signifie que chaque standard a été soumis à une revue publique et aux membres de l'organisation W3C. Le but est de standardiser les technologies pour construire un « Web sémantique ». Vous pouvez voir dans le tableau suivant la maturité des standards du Web sémantique :
+
+Voici les standardisations actives en cours :
+
+RIF (Rule Interchange Format) est la couche de règles dans la Semantic Web Stack.
+Par contre, de nombreuses étapes pour mettre en œuvre un « Web sémantique » sont encore à imaginer, clarifier et spécifier. Tim Berners-Lee à travers sa Semantic Web Stack résume ces étapes à travers les couches suivantes :
+Couche de logique d'unification
+Couche de preuve
+Couche de confiance / intégrité
+Couche de cryptographie
+En attendant que toutes ces couches soient mises en œuvre, les technologies déjà disponibles, comme SPARQL, permettent déjà d'offrir une interopérabilité avec une meilleure granularité sur les données que celle qu'offrent les services Web (le W3C a d'ailleurs retiré la standardisation des services Web de ses priorités[réf. nécessaire]).
+Ce « Web sémantique pas encore fini mais un peu quand même » a été nommé le Web des données (ou en anglais « linked data ») pour en faciliter l'adoption par le public. Le Web des données est l'une des principales technologies utilisées dans le mouvement « open data » en Angleterre qui vise à partager de manière massive les données publiques pour ainsi accélérer la recherche et le commerce dans ce domaine. L’émergence du Web sémantique est considéré par certains comme la prochaine rupture technologique et donc économique qu'ils nomment déjà le Web 3.0.[réf. nécessaire]
+Le but sera ainsi dans l'avenir d'améliorer l’accès et l'utilité du Web et des ressources interconnectées à travers lui comme :
+Les serveurs qui exposent des données en utilisant le RDF et SPARQL. Plusieurs convertisseurs RDF existent pour diverses applications. Par exemple, un serveur peut convertir les données contenu dans une base de données relationnelle sans affecter son fonctionnement et mettre ainsi à disposition des données en RDF et répondre à des requêtes SPARQL.
+Les documents « tagués » avec des informations sémantiques (une extension des balises <meta> HTML utilisée dans les pages Web permet de fournir des informations aux moteurs de recherche Web à l'aide de robots d'indexation [réf. souhaitée]). Le contenu contient ainsi une information lisible par une machine en rapport avec le document telle que le créateur, titre, description, etc. Ces informations peuvent également contenir des métadonnées représentant un ensemble de faits (tels que les autres ressources et services en relation avec le site). Notez que tout peut être identifié à travers un URI (Uniform Resource Identifier) et ainsi pourra être décrit, pour permettre au web sémantique de raisonner sur les animaux, les personnes, les lieux, les idées, etc. Ces balises ou tags sémantiques sont souvent générés automatiquement, plutôt que manuellement.
+Le vocabulaire partagé des métadonnées (ontologies) est un référentiel entre ce vocabulaire qui permet aux créateurs de documents de savoir comment marquer leurs documents sémantiquement afin que les agents puissent utiliser les informations contenues dans les métadonnées fournies.
+Les agents automatisés qui effectuent les tâches des utilisateurs du web sémantique en utilisant ces données structurées et disponibles.
+Les services Web (souvent à leur propres agents[Quoi ?]) fourniront des informations précises aux agents, par exemple, un service de réputation qui a un agent peut se demander si certains magasins en ligne ont une bonne ou mauvaise réputation et la vérifier.
+
+
+== Observations sceptiques ==
+
+
+=== Faisabilité pratique ===
+Les principales critiques portent sur la faisabilité complète ou même partielle du Web sémantique. La critique de Cory Doctorow qu'il nomme « metacrap » (un mot-valise constitué des mots metadata et crap, qu'on peut essayer de traduire en français courant en « métamerde ») est une critique qui repose sur l'observation sarcastique du comportement humain. Par exemple, les gens peuvent inclure des microdonnées parasites dans des pages Web pour tromper les moteurs du Web sémantique qui « naïvement » mettront la véracité de toutes les données sur un même pied d'égalité. Ce phénomène est bien connu pour tromper : les moteurs d'indexation, comme Google, cherchent à détecter ce type de manipulation. Peter Gärdenfors (en) et Timo Honkela (en) avaient remarqué que la logique des technologies du Web sémantique ne couvre qu'une fraction des phénomènes qui impacteront la sémantique du Web,.
+En 2001, Cory Doctorow a fait une liste des sept obstacles prétendument insurmontables pour obtenir des métadonnées fiables pour faire fonctionner un possible Web sémantique. Selon lui :
+Les gens mentent.
+Les gens sont paresseux.
+Les gens sont stupides.
+Il est difficile de se décrire soi-même.
+Les classifications ne sont pas neutres.
+L'unité de mesure retenue influence les résultats.
+Il y a plusieurs façons de décrire une même chose.
+Il inclut également d'autres raisons qui peuvent rendre les métadonnées obsolètes :
+Les données peuvent devenir fausses au fil du temps.
+Les données ne peuvent pas intégrer de nouvelles idées.
+Cory Doctorow en déduit que les recherches sur un tel système ne pourraient renvoyer que des données obsolètes et incorrectes en partie ou totalement.
+L'architecture, les outils et les concepts mêmes du Web sémantique ont été souvent critiqués. Cependant, les technologies du web sémantique ont été adoptées au sein des communautés spécialisées dans la mise en œuvre de système d'information mais principalement dans des systèmes fermés (exemple : intranet), comme dans une entreprise ou une bibliothèque. La raison est que les technologies ou processus pour maintenir la qualité des données, insérées par des êtres humains et donc des êtres faillibles, ne peuvent pas encore fonctionner à l'échelle du Web. Ces limites sont autant de nouveaux problèmes que la recherche tente actuellement de résoudre à travers les défis du Web sémantique. Science Web (en) est la dénomination qu'on donne à la « discipline » qui a pour objectif de résoudre les nouveaux problèmes scientifiques qu'a fait émerger le Web.
+
+
+=== La censure et la vie privée ===
+L'enthousiasme sur le Web sémantique pourrait être tempéré par des considérations comme la censure et la vie privée. Par exemple, on peut actuellement facilement contourner les analyseurs de texte en utilisant d'autres mots, des métaphores, ou en utilisant des images à la place de mots. Il est beaucoup plus simple pour les gouvernements de visualiser et donc de contrôler la création de l'information en ligne qui utilise une structure sémantique. L'information sera beaucoup plus facile à interpréter et un système automatisé pourra plus facilement la bloquer. En outre, la question a également été soulevée de l'utilisation de méta-données telles que FOAF ou encore d'API de géolocalisation (en), qui remettent en cause l'anonymat sur le World Wide Web. Ces préoccupations font de la sécurité des données personnelles un sujet de recherche actif, comme dans le projet « Policy Aware Web ».
+
+
+=== Doubler les formats en sortie ===
+Une autre critique est que le temps de créer et de publier du contenu v

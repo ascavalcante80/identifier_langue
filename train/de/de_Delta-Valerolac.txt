@@ -1,0 +1,54 @@
+δ-Valerolacton (delta-Valerolacton, Oxan-2-on) ist das pyranoide Lacton der 5-Hydroxyvaleriansäure (5-Hydroxypentansäure), während die stellungsisomeren Tetrahydropyranone Oxan-3-on und Oxan-4-on cyclische Etherketone darstellen.
+δ-Valerolacton findet vor allem Verwendung als Monomer für Polyester, das stellungsisomere furanoide γ-Valerolacton (4-Hydroxypentansäurelacton) als biogener Brennstoff und als „grünes“ Lösungsmittel.
+
+
+== Herstellung ==
+Bei der Hydrierung von 5,6-Dihydro-2H-pyran-2-on – zugänglich in 25%iger Ausbeute durch Umsetzung von 3-Butensäure mit Paraldehyd in einem Gemisch von konzentrierter Schwefelsäure und Eisessig mit einem Ferrocen-basierten Palladium(II)-Komplex wird delta-Valerolacton in 99%iger Ausbeute erhalten.
+
+δ-Valerolacton entsteht in 96%iger Ausbeute bei der Cyclisierung von 5-Bromvaleriansäure – z. B. aus Dihydropyran durch Acidolyse zu δ-Hydroxyvaleraldehyd, anschließende Oxidation zur δ-Hydroxyvaleriansäure und Umsetzung mit Bromwasserstoffsäure – mit Tetraalkylammoniumfluoriden
+
+Ein gängigerer Syntheseweg ist die Baeyer-Villiger-Oxidation von Cyclopentanon mit Peroxytrifluoressigsäure, die δ-Valerolacton in 96%iger Ausbeute liefert.
+
+Die Oxidation kann auch in Gegenwart von Molybdän-Komplexen mit Wasserstoffperoxid durchgeführt werden. Eine „grüne“ Route mit sehr guter Ausbeute von 98 % zeigt die Oxidation von Cyclopentanon mit Wasserstoffperoxid und einer Lipase auf.
+Für die großtechnische Produktion von δ-Valerolacton scheint das einfach zugängliche 1,5-Pentandiol das geeignetste Edukt zu sein, das z. B. auch durch destillative Auftrennung des komplexen, so genannten Ol/On-Stoffgemischs bei der Oxidation von Cyclohexan zu Cyclohexanol/Cyclohexanol isoliert werden kann. Die Oxidation von 1,5-Pentandiol wird durch Kupferverbindungen, wie z. B. Kupferchromit katalysiert. Die Reaktionsführung bei Temperaturen über 200 °C ist entscheidend für Umsatz des Edukts und Reinheit des Produkts, wobei sich ein herkömmlicher Rührreaktor als wenig geeignet erweist, da beim Versuch der vollständigen Umsetzung von 1,5-Pentandiol 30-35 % polymere Nebenprodukte gebildet werden.
+In einem Rohrreaktor verläuft die Reaktion dagegen wesentlich gezielter zum Produkt, das unter Katalyse mit einem Kupfer(II)-oxid und Zinkoxid-Mischkatalysator reines δ-Valerolacton in 86%iger Ausbeute liefert.
+
+Ein industrieller Prozess führt die katalytische Dehydrogenierung in einem Rohrreaktor an zwei Katalysatorschichten mit unterschiedlichen Gehalten an Kupferoxid mit dem Trägergas Wasserstoff und einem Temperaturgradienten von 300 °C bis 260 °C bei praktisch vollständigem 1,5-Pentandiol-Umsatz, einer δ-Valerolactonselektivität von 96 % und einer δ-Valerolactonreinheit von >99 % durch.
+
+
+== Eigenschaften ==
+Reines δ-Valerolacton ist eine wasserklare, farblose Flüssigkeit mit esterartigem Geruch, die in wässriger Lösung schwach sauer reagiert. Sie erstarrt bei -13 °C, siedet bei 230 °C und besitzt eine dynamische Viskosität von 3,41 mPa·s bei 20 °C Der Flammpunkt liegt bei 110,5 °C, die Zündtemperatur bei 414 °C. Bei Temperaturen über 370 °C beginnt sich δ-Valerolacton zu zersetzen.
+
+
+== Anwendungen ==
+δ-Valerolacton wird als vielseitiges Zwischenprodukt für Beschichtungen vom Polyester-, Polyurethan-, Acryl- und Vinyltyp verwendet.
+Aus δ-Valerolacton lässt sich durch Reaktion mit Phosgen in Gegenwart von 3-Picolin in Ausbeuten bis 87 % und Reinheiten von >98 % 5-Chlorpentanoylchlorid herstellen,
+
+das als Ausgangssubstanz für eine Reihe von Zwischenstufen von Arzneistoffen, wie z. B. Virustatika, Phosphodiesterase-3-Hemmer, wie Cilostazol oder Antikoagulanzien, wie Apixaban breitere Verwendung findet.
+Ähnlich wie das weitaus häufiger eingesetzte ε-Caprolacton kann δ-Valerolacton entsprechender Reinheit durch kationische ringöffnende Polymerisation z. B. mit Trifluormethansulfonsäuremethylester zu Poly-δ-Valerolacton und mit anderen Lactonen bzw. δ-Hydroxycarbonsäuren auch durch anionische sowie auch durch enzymatische Polymerisation mittels Lipasen zu copolymeren Polyestern umgesetzt werden, die wegen ihrer Bioabbaubarkeit, Bioverträglichkeit und ihres Permeationsverhaltens als mögliche Implantatmaterialien interessant sind.
+
+Wegen der Tendenz zur Depolymerisation vom Kettenende her (engl. back-biting) und der geringeren Reaktivität des sechsgliedrigen Lactonrings im δ-Valerolacton gegenüber dem siebengliedrigen ε-Caprolacton werden bei der enzymatischen ringöffnenden Polymerisation Polymere mit vergleichsweise niedrigeren Molmassen erzeugt, die aber bei der Verwendung thermophiler Esterasen immerhin zahlenmittlere Molmassen von Mn >2,000 g/mol aufwiesen und das erhaltene Poly-δ-Valerolacton für die Verwendung als hydrophobe Weichsegmente in thermoplastischen Elastomeren oder als Wirkstoffträger für die kontrollierte Arzneistofffreigabe erscheinen lassen.
+Die kontrollierte lebende Polymerisation von δ-Valerolacton führt mit dem Katalysator Trifluomethansulfonimid zu Poly-δ-Valerolacton mit dem Katalysatoranteil entsprechenden Molmassen z. B. mit Mn = 9,600 g/mol und in Gegenwart funktioneller Initiatoren, wie z. B. N-(2-Hydroxyethyl)maleinimid zu endständig funktionalisierten telechelen Poly-δ-Valerolactonen mit kontrollierten Molmassen und geringer Polydispersität.
+
+
+== Einzelnachweise ==
+↑ a b c d e Eintrag zu delta-Valerolacton in der GESTIS-Stoffdatenbank des IFA, abgerufen am 10. Juni 2015 (JavaScript erforderlich).
+↑ a b c d Datenblatt δ-Valerolacton bei Sigma-Aldrich, abgerufen am 10. Juni 2015 (PDF).
+↑ a b c  L.E. Schniepp, H.H. Geller: Dehydrogenation of 1,5-pentanediol. In: J. Amer. Chem. Soc.. 69, Nr. 6, 1947, S. 1545–1545, doi:10.1021/ja01198a517.
+↑ a b c d e f BASF, Safety Data Sheet, delta-Valerolactone
+↑ a b TCI Europe N.V., V0039, δ-Valerolacton
+↑ Eintrag aus der CLP-Verordnung zu CAS-Nr. 542-28-9 in der GESTIS-Stoffdatenbank des IFA (JavaScript erforderlich).
+↑ Für Stoffe ist seit dem 1. Dezember 2012, für Gemische seit dem 1. Juni 2015 nur noch die GHS-Gefahrstoffkennzeichnung gültig. Die EU-Gefahrstoffkennzeichnung ist daher nur noch auf Gebinden zulässig, welche vor diesen Daten in Verkehr gebracht wurden.
+↑ Eintrag aus der CLP-Verordnung zu CAS-Nr. 542-28-9 in der GESTIS-Stoffdatenbank des IFA (JavaScript erforderlich).
+↑  M. Nakahawa, J. Saegusa, M. Tonozuka, M. Obi, M. Kiuchi, T. Hino, Y. Ban: 5,6-Dihydro-2H-pyran-2-one and 2H-Pyran-2-one. In: Org. Synth., Coll. Vol.. 6, 1977, S. 462–454, doi:10.15227/orgsyn.056.0049.
+↑  H.M. Ali, A.A. Naiini, C.H. Brubaker Jr.: Selective reduction of conjugated double bonds with molecular hydrogen and palladium(II) complexed to ferrocenylamine sulfide catalysts. In: Tetrahedron Lett.. 32, Nr. 40, 1991, S. 5489–5492, doi:10.1016/0040-4039(91)80065-E.
+↑  L.E. Schniepp, H.H. Geller: Preparation of Dihydropyran, δ-Hydroxyvaleraldehyde and 1,5-Pentanediol from Tetrahydrofurfuryl Alcohol. In: J. Am. Chem. Soc.. 68, Nr. 8, 1946, S. 1646–1648, doi:10.1021/ja01212a085.
+↑  R. Gaudry, L. Berlinguet: Étude de la synthèse de la proline par cyclisation d’un acide valérianique dihalogéné. In: Can. J. Research. 27b, Nr. 4, 1949, S. 282–292, doi:10.1139/cjr.49b-030.
+↑  T. Oii, H. Sugimoto, K. Doda, K. Maruoka: Esterification of carboxylic acids catalyzed by in situ generated tetraalkylammonium fluorides. In: Tetrahedron Lett.. 42, Nr. 52, 2001, S. 9245–9248, doi:10.1016/S0040-4039(01)02035-4.
+↑ a b N. Isenberg, J.B. Leibsohn, V.E. Merola: 5-Bromopentanoic acid and 2,5-dibromopentanoic acid. In: Canadian Journal of Chemistry. 40, 1962, S. 831, doi:10.1139/v62-126.
+↑  S.E. Jacobson, R. Tang, F. Mares: Oxidation of cyclic ketones by hydrogen peroxide catalysed by Group 6 metal peroxo complexes. In: J. Chem. Soc., Chem. Commun.. 1978, S. 888–889, doi:10.1039/C39780000888.
+↑  A.J. Kotlewska, F. van Rantwijk, R.A. Sheldon, I.W.C.E. Arends: Epoxidation and Baeyer–Villiger oxidation using hydrogen peroxide and a lipase dissolved in ionic liquids. In: Green Chem.. 13, Nr. 8, 2011, S. 2154–2160, doi:10.1039/C1GC15255F.
+↑ Patent  DE10100552: Verfahren und Vorrichtung zur destillativen Aufarbeitung von 1,6-Hexandiol, 1,5-Pentandiol und Caprolacton. Angemeldet am 9. Januar 2001, veröffentlicht am 11. Juli 2002, Anmelder: BASF AG, Erfinder: M. Gall, G. Kaibel, T. Krug, H. Rust, F. Stein.‌
+↑  S. Oka: Synthesis of δ-Valerolacton. In: Bull. Inst. Chem. Res., Kyoto University. 39, Nr. 4–5, 1961, S. 322–324 ([1]).
+↑ Patent  EP2373637: Verfahren zur Herstellung von delta-Valerolacton in der Gasphase. Angemeldet am 2. Dezember 2009, veröffentlicht am 22. Mai 2013, Anmelder: BASF SE, Erfinder: R. Pinkos, C. Bauduin, A. Paul, G. Fritz, H. Wagner.‌
+↑ BAS

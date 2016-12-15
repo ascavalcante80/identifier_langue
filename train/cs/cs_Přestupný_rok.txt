@@ -1,0 +1,17 @@
+Přestupný rok je delší než běžný rok a vkládá se v intervalu podle daného kalendáře. Používá se v solárních (juliánský, gregoriánský) i lunisolárních kalendářích k vyrovnávání rozdílů mezi délkou kalendářního a tropického roku. Délka kalendářního roku je daná určitým počtem dní nebo měsíců odvozených od doby rotace Země kolem své osy, resp. doby rotace Měsíce kolem Země, zatímco tropický rok je dán dobou oběhu Země kolem Slunce, který ovlivňuje střídání ročních období.
+V solárních kalendářích mívá přestupný rok 366 dní místo 365, v lunisolárních 13 měsíců místo 12.
+
+
+== Kalendářní rok ==
+Kalendářní rok má 365 dní. Ale protože jeden tropický rok je dlouhý 365,24219 dne, musí časem dojít k odchylce jednoho dne. To nastane jednou za čtyři roky a právě tehdy se vkládá jeden den navíc, kterému se často říká přestupný den (viz juliánský kalendář). Tím se docílí hodnoty 365,25 dne na rok.
+Ani to není dostatečně přesná délka tropického roku. Za tisíc let dojde k posunu o 7,81 dní, které budou oproti skutečnosti přebývat. Proto gregoriánský kalendář upřesnil, že roky dělitelné 100 jsou přestupné jenom tehdy, jsou-li dělitelné 400. Přestupné byly například roky 1600, 2000 apod. Přestupné nejsou roky 1700, 1800, 1900, 2100 atd. Tím se docílí průměrné hodnoty 365,2425 dne na rok. Odchylka gregoriánského kalendáře tedy oproti skutečnosti činí 31 dní, které budou přebývat za 100 tisíc let.
+
+
+== Přestupný den ==
+Přestupný den je zvláštní den, který se přidává do kalendáře, aby kalendářní rok svou délkou co nejvíce odpovídal tropickému roku. Rok s tímto dnem se nazývá přestupný rok.
+Historie přestupných dnů sahá až do starověkého Egypta, kdy byl v roce 238 př. n. l. zaveden dodatečný den každý čtvrtý rok.
+V roce 45 př. n. l. zavedl Julius Caesar stejné počítání do kalendáře používaného v Římě (proto označení juliánský kalendář). Chyba tohoto systému činí 1 den na 128 let. Kvůli nahromaděným rozdílům byl v roce 1582 dekretem papeže Řehoře XIII. kalendář reformován. V tomto gregoriánském kalendáři se přestupný den vkládá každý rok, který je dělitelný čtyřmi, s výjimkou celých století, která nejsou dělitelná 400 (roky 1600, 2000, 2400 jsou přestupné, kdežto 1700, 1800, 1900, 2100 nejsou). V tomto kalendáři se přestupný den vkládá jako 29. únor. Dříve se však přestupný den vkládal za 23. únor. Před Caesarovou reformou se používal kalendář, který zavedl král Numa Pompilius v 7. století př. n. l. Podle něj měl rok 355 dnů a každý druhý rok se do něj vkládal celý přestupný měsíc, a to za svátek Terminálií (svátek ukončení roku), který připadal na 23. únor. Caesar tento přestupný měsíc zrušil a místo něj zavedl přestupný den.
+
+
+== Přestupný měsíc ==
+U lunisolárního kalendáře je délka kalendářního měsíce daná oběhem Měsíce kolem Země. Běžný rok má 12 měsíců, přestupný rok přidává přestupný měsíc a má jich 13. Délka běžného lunár

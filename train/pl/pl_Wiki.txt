@@ -1,0 +1,29 @@
+Wiki – typ serwisu internetowego, w którym treść można tworzyć i zmieniać z poziomu przeglądarki internetowej, za pomocą języka znaczników lub edytora WYSIWYG. Strony wiki, ze względu na swoją specyfikę, są przede wszystkim wykorzystywane do pracy nad wspólnymi projektami, takimi jak repozytoria wiedzy na wybrany temat lub projekty różnych grup społecznych.
+Nazwa Wiki pochodzi od hawajskiego wyrażenia wiki wiki, oznaczającego bardzo szybko. Autorem pojęcia i koncepcji jest Ward Cunningham, który w 1994 roku na potrzeby Portland Pattern Repository napisał oprogramowanie WikiWikiWeb.
+
+
+== Zasadnicze cechy serwisów opartych na mechanizmie wiki ==
+szybkie i proste tworzenie oraz aktualizacja stron internetowych,
+łatwe tworzenie linków do zasobów wewnętrznych i zewnętrznych,
+prosty sposób formatowania i wstawiania znaczników (prostszy niż w języku HTML),
+możliwość współpracy wielu użytkowników, czasem rozsianych po całej Ziemi, przy tworzeniu stron.
+Po stronie serwera w serwisach typu wiki używane jest różne oprogramowanie, posiadające różne możliwości oraz funkcje. Najpopularniejsze z nich to MediaWiki, UseModWiki, TWiki, Foswiki, MoinMoin, DokuWiki i PhpWiki.
+
+
+== Serwisy internetowe oparte na wiki ==
+Istnieje kilkadziesiąt tysięcy serwisów wykorzystujących technologię Wiki. Największym z nich jest angielska Wikipedia, lecz nie jest ona „typową” wiki.
+Większość wiki nie rozdziela dyskusji od informacji – każda strona przypomina wątek listy dyskusyjnej, który może być edytowany, dzielony i łączony jeśli nadmiernie się rozrośnie. Największe Wiki tego typu to Wiki Wiki Web poświęcona programowaniu i Sensei’s Library poświęcona grze go.
+Encyklopedia jest bardzo częstym zastosowaniem wiki – w czerwcu 2003 r. 8 z 10 największych wiki stanowiły encyklopedie. Dla większości języków funkcję wiki-encyklopedii spełnia Wikipedia. Polska Wikipedia jest jedną z największych wiki (w maju 2013, 9. pod względem wielkości) i niewątpliwie największą polskojęzyczną wiki.
+Wiki Wikimedia Foundation w języku polskim to: Wikipedia, Wikisłownik, Wikicytaty, Wikinews, Wikiźródła i Wikibooks.
+
+
+=== Projekty Wikimedia Foundation ===
+Większość projektów Wikimedia Foundation jest oparta na licencji CC-BY-SA, z wyjątkiem Wikiźródeł i Wikidanych (w większości domena publiczna). Dane ze stycznia 2014 roku dla wszystkich wersji językowych:
+Wikipedia – wolna encyklopedia internetowa (ponad 30 milionów artykułów)
+Wikimedia Commons – repozytorium plików graficznych (20 milionów plików multimedialnych)
+Wikinews – serwis informacyjny (ponad 200 000 artykułów)
+Wikicytaty – zbiór cytatów (ponad 160 000 artykułów)
+Wikispecies – lista gatunków zwierząt i roślin (ponad 200 000 artykułów)
+Wikiźródła – repozytorium tekstów źródłowych (ponad 4 milony tekstów źródłowych)
+Wikisłownik – wielojęzyczny słownik (ponad 18 milionów haseł)
+Wikibooks – podręczniki pisane w trybie Wiki (niemal 1

@@ -1,0 +1,10 @@
+Strona internetowa, strona WWW (ang. web page) – dokument HTML udostępniony w Internecie przez serwer WWW. Po stronie hosta użytkownika, strona WWW jest otwierana i wyświetlana za pomocą przeglądarki internetowej. Autorem pierwszych stron WWW jest Tim Berners-Lee. Strony tworzy się np. za pomocą HTML5, CSS3 i JavaScript.
+Strony WWW często wykorzystują obiekty multimedialne, np. Adobe Flash. Aby móc odtworzyć lub wyświetlić ich zawartość przeglądarka internetowa musi mieć zainstalowane odpowiednie wtyczki obsługujące takie obiekty. Strony internetowe wykorzystywane w celu prowadzenia działalności gospodarczej mają duże znaczenie dla wizerunku firmy, co może mieć wpływ na wynik ekonomiczny działalności rynkowej, a ewentualne błędy na stronie internetowej mogą negatywnie oddziaływać na potencjalnych klientów. Strony internetowe można opracowywać we własnym zakresie z wykorzystaniem odpowiednich edytorów, np. nvu.
+
+
+== Systemy zarządzania treścią (CMS)Edytuj ==
+Do tworzenia stron często używane są systemy CMS. Najbardziej znane to:
+Joomla!
+WordPress
+Drupal
+Inne systemy do tworzenia stron internetowych niejednokrotnie oferują takie usługi bezpłatnie, przy czy

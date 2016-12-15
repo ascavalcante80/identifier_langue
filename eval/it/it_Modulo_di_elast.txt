@@ -1,0 +1,47 @@
+ρ è la densità del calcestruzzo in Kg/m3V è la velocità calcolata
+ν = modulo di Poisson
+
+La norma UNI 9771 descrive la procedura per la determinazione del modulo E dinamico = Edin.
+mediante prova dinamica. Un provino cilindrico di calcestruzzo, posto in uno specifico supporto, è sottoposto ad una prova dinamica assiale, sollecitandolo mediante un impulso meccanico che lo pone in vibrazione, il valore di Edin viene calcolato dalla seguente relazione:
+Edin = 4h2f2ρC1
+dove:
+h è l'altezza del provino in m;
+f è la frequenza di risonananza estensionale in hertz
+ρ è la densità del calcestruzzo in Kg/m3
+C1 = 1 + (π2ν2J/(Ah2) è un fattore di correzione
+A = area della sezione trasversale del provino
+J = momento d'inerzia della sezione trasversale
+ν = modulo di Poisson
+
+Poiché le prove avvengono con una rapidissima variazione di tensione, quindi con un'elevata frequenza di oscillazione il livello della tensione non può svilupparsi nell'intero provino, per cui la deformazione risulta minore e il modulo E diviene apparentemente più grande.
+Il modulo E dinamico non può quindi essere impiegato tal quale per i calcoli delle deformazioni nelle costruzioni in calcestruzzo armato.
+Edin è approssimativamente pari al modulo tangente all'origine ed è quindi sempre più elevato del modulo secante:
+
+Edin risulta utile quando si utilizzano prove non distruttive per la verifica delle caratteristiche del calcestruzzo in opera quali Sonreb, Cross-hole, prove ultrasoniche in situ, ecc.
+Tali prove sono descritte anche al punto 12.5 delle Linee guida per la messa in opera del calcestruzzo strutturale e per la valutazione delle caratteristiche meccaniche del calcestruzzo indurito mediante prove non distruttive, pubblicate dal Consiglio Superiore dei Lavori Pubblici - Servizio Tecnico Centrale.
+
+
+=== NormativaModifica ===
+UNI 6556:1976 - Prove sui calcestruzzi. Determinazione del modulo elastico secante a compressione
+UNI 9771 – Calcestruzzo indurito. Determinazione della frequenza fondamentale di risonanza flessionale, estensionale e torsionale
+ISO 6784 – International Standard – Concrete – Determination of static modulus of elasticity in compression.
+
+
+== NoteModifica ==
+^ (EN) IUPAC Gold Book, "modulus of elasticity"
+^ fck è la resistenza a compressione cilindrica caratteristica del calcestruzzo a 28 giorni
+^ Rck è la resistenza a compressione cubica caratteristica del calcestruzzo a 28 giorni
+^ non si ha una sensibile propagazione delle microfessure nella matrice cementizia; il comportamento macroscopico è prossimo a quello elastico
+^ le microfessure si propagano al crescere del carico, ma la propagazione si arresta giungendo ad un nuovo assetto stabile. Il comportamento macroscopico è sempre più marcatamente non lineare
+^ dall'85% del carico di rottura in su, la propagazione delle microfessure diventa instabile; esse possono estendersi nel tempo, sotto carico costante, portando alla rottura. Per questo motivo la tensione di rottura misurata con prove a breve durata è maggiore di quella che si rileva per carichi di lunga durata
+^ fcm è il valore medio della resistenza cilindrica e vale fcm = fck + 8
+
+
+== Voci correlateModifica ==
+Modulo tangente
+Prova di trazione
+Modulo di Poisson
+
+
+== Collegamenti esterniModifica ==
+Elementi di meccanica dei solidi

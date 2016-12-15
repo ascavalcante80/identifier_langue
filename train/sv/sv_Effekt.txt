@@ -1,0 +1,37 @@
+Effekt anger inom fysiken den mängd energi som omvandlas per tidsenhet. Effekt betecknas ofta med bokstaven P från engelskans power och kan bland annat yttra sig i form av ett värmeflöde eller arbete. SI-enheten för effekt är watt (W), där en watt motsvarar en energiomvandling på en joule per sekund (P=J/s). Utöver watt finns det ett flertal enheter som betecknar effekt, exempelvis enheten hästkraft, vilket i Sverige motsvarar en effekt på 735,5 watt. Andra länder har liknande storheter, som Pferdestärke (PS) och cheval vapeur (CV).
+Om ΔW är den energimängd som omvandlats under tiden Δt, kan medeleffekten skrivas som
+
+Den momentana effekten är medeleffekten eller gränsvärdet då tidsintervallet Δt går mot 0:
+
+
+== Elektrisk effekt ==
+
+
+=== Likström och likspänning ===
+Den momentana effektutvecklingen i en resistor är produkten av spänningen över komponenten och den elektriska strömmen genom komponenten:
+
+Enligt ohms lag gäller
+
+vilket ger
+
+där I är momentana strömmen i ampere (A) och U är momentana spänningen i volt (V) och där R är komponentens resistans i ohm (Ω).
+
+
+=== Sinusformad växelström och växelspänning ===
+
+För periodiska strömmar och spänningar beräknas medelvärdet av dessa som det kvadratiska medelvärdet vilket kallas växelstorhetens effektivvärde och växelstorheterna kan därigenom representeras av en konstant (effektivvärdet).
+Den medeleffekt som utvecklas i ett elektriskt motstånd (resistor), är proportionell mot produkten av effektivvärdena för den sinusformade spänningen över komponenten och den sinusformade strömmen genom komponenten. Medeleffekten kallas även aktiv effekt (den effekt som förbrukas) och skiljer sig från den skenbara effekten S = UI genom förekomsten av effektfaktorn  som antar värden vars belopp är mindre än 1 om fasförskjutning föreligger mellan spänning och ström:
+
+där U är den sinusformade växelspänningens effektivvärde i volt (V) och I är den sinusformade växelströmmens effektivvärde i ampere (A) och  är fasskillnaden mellan spänning och ström.
+Ovanstående gäller för specialfallet sinusformad spänning och ström, men
+
+gäller alltid.
+För effekt i trefassystem, se artikel om trefas.
+
+
+== Mekanisk effekt ==
+Effekt i mekaniska system beror av en kombination av krafter och rörelser. I synnerhet är mekanisk effekt produkten av en kraft på ett föremål och föremålets hastighet, eller produkten av ett vridmoment på en axel och axelns vinkelhastighet.
+Mekanisk effekt kan också beskrivas som arbetets tidsderivata. Om ett mekaniskt arbete uträttas genom att en kraft F verkar på ett objekt som rör sig längs en kurva C, ges arbetet av linjeintegralen
+
+där x definierar C och v är hastigheten längs denna kurva.
+Om kraften F kan härledas från en potential och geno

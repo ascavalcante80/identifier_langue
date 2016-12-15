@@ -1,0 +1,10 @@
+vor filerne er repræsenteret.
+
+
+== Brug af Commons-filerne direkte fra andre Wikimediaprojekter ==
+Hvis en artikel rummer et link til en fil, som ikke findes på det lokale serverområde, vil MediaWiki-softwaren søge i Commons. Det sker uden at brugeren mærker nogen forsinkelse, da det foregår samtidig med indlæsningen af andre dele af siden. Dermed er det ikke bare lettere at finde filerne, end hvis man skulle søge efter dem i forskellige projekter, men det er også muligt at slippe for at indlæse samme fil til flere projekter.
+
+
+== Eksterne henvisninger ==
+
+Wikimedia Commons

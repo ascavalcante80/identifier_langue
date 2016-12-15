@@ -1,0 +1,22 @@
+roperties, por exemplo, é mais fácil de ser editado por leigos, por ser apenas uma lista de itens do tipo chave-valor, e o JSON é um exemplo de um formato mais prático e rápido em contexto Javascript.
+O exemplo abaixo equivale ao exemplo da receita de pão e demonstra como um XML, mesmo sendo sintaticamente válido, pode ficar de difícil leitura quando criado por ferramentas geradoras de código. A interpretação e a edição de grandes arquivos XML não indentados são ainda mais complexas para todos, leigos ou experientes:
+
+
+== Regras para boa formação de um arquivo XML ==
+Todo documento XML, além da tag introdutória, deve ter um único elemento (tag) que sirva como raiz para todos os demais elementos do documento;
+XML é case sensitive, portanto difere letras maiúsculas e minúsculas, devendo tomar cuidado com o uso de CamelCases.
+Todo elemento XML deve ser iniciado e fechado, exceto o que define a versão do XML usada e outras definições de tag única, exemplo <system opera="ligado" onde="aqui" />.
+Comentários em XML são iguais ao HTML (<!--comentário-->) .
+
+
+== Referências ==
+
+
+== Bibliografia ==
+XML Guia de Consulta Rápida, Autor: Otávio C. Décio, Editora Novatec, ISBN 85-85184-86-8
+XML Gerenciando Dados na WEB, Autor: Serge Abiteboul/Peter Buneman/Dan Suciu, 2000, Editora Campus, ISBN 85-352-0648-5
+
+
+== Ligações externas ==
+Website oficial
+W3Schools (em inglês)

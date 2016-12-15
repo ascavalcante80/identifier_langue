@@ -1,0 +1,46 @@
+Magneettikuvaus (engl. Magnetic Resonance Imaging, MRI; lyhenne MK) on radiologian alaan kuuluva lääketieteellinen kuvantamismenetelmä, joka perustuu ydinmagneettiseen resonanssiin (NMR). Menetelmässä mitataan vety-ytimien magneettikentässä emittoimaa radiotaajuista signaalia. Siksi se soveltuu runsaasti vetyä sisältävien kudosten (rasva- ja vesipitoiset kudokset, myös luuydin) tutkimiseen.
+Magneettikuvauksen vahvuuksia
+herkkä virtauksille (esimerkiksi verenkierto)
+kuvaustaso säädettävissä elektronisesti
+ei synnytä ionisoivaa säteilyä
+hyvä kontrasti kuvattaessa pehmytkudoksia (esimerkiksi aivot)
+Magneettikuvauksen ongelmia
+ennen kuvausta on selvitettävä potilaan kehossa olevat ferromagneettiset metallinkappaleet tai istutteet
+lähes kaikkien nykyisin käytössä olevien istutteiden kanssa voidaan kuitenkin mennä magneettikuvaukseen
+
+kuvausta ei saa tehdä potilaalle, jolla on sydämentahdistin tai defibrillaattori, koska tällaisten implanttien toiminta voi häiriintyä magneettikentän vaikutuksesta
+
+
+== Magneettikuvauslaitteen toiminta ==
+Kuvauksessa potilas sijoitetaan voimakkaaseen magneettikenttään, jonka suuruutta paikan funktiona ohjataan tietokoneella niin, että kuvauskohteen eri osiin vaikuttaa hieman erisuuruinen magneettikenttä. Laitteistoon kuuluu lisäksi radiolähetin ja -vastaanotin, jonka avulla resonanssi synnytetään ja havaitaan.
+Magneettikuvauksen alkaessa potilas viedään tutkimuspöydällä onttoon putkeen, jossa hän makaa liikkumatta. Magneettikuvauslaitteessa on kela, joka muodostaa vahvan magneettikentän kuvattavaan alueeseen. Lähellä kuvausaluetta ovat lähetinkela radiotaajuisen magneettikentän lähettämiseen ja vastaanotinkela, joka vastaanottaa palautuvat radioaallot. Tarvittava magneettikenttä on hyvin voimakas, nykyisin tavallisesti 1–3 teslaa. Sen synnyttämiseen tarvitaan voimakas sähkövirta, mikä voidaan toteuttaa suprajohtavaksi jäähdytetyllä kelalla. Kuvan muodostamiseksi laitteessa on vielä erillinen gradienttikelasto, jonka avulla magneettikentän muotoa vaihdellaan kuvauksen aikana. Siksi laitteesta kuuluu paukkuva ääni, joka saattaa tuntua pelottavaltakin. Juuri magneettikentän muodonmuutosten avulla magneettisten vety-ytimien pyörimisliikettä eri puolilla kuvattavaa aluetta voidaan ohjata niin, että syntyvien radiotaajuisten kaikupulssien vaihe- ja taajuusjakaumaan sisältyy tieto vety-ydinten sijainnista kuvattavassa kudoksessa. Normaalisti kuvaus kestää noin puoli tuntia, jona aikana otetaan useita kuvasarjoja, mutta tutkimuksen kesto vaihtelee kuvauskohteen mukaan.
+Kuvan muodostus perustuu siihen, että resonanssisignaalin taajuus on verrannollinen vaikuttavan magneettikentän voimakkuuteen. Hieman epätasaisessa magneettikentässä kuvauskohteen eri osat lähettävät radiosignaalia kukin hieman eri taajuudella. Siksi laitteiston vastaanottama resonanssisignaali sisältää useita taajuuksia. Signaali jaetaan eri taajuuskomponentteihin Fourier'n muunnoksen avulla, jolloin kuvattavan kohteen eri kohdista peräisin olevat signaalit voidaan erottaa toisistaan.
+Kuvaustilanteessa edellä kuvatun kaltaisia mittauksia suoritetaan suuri määrä niin, että magneettikenttää ohjataan joka kerralla hieman eri tavalla. Täydellisen kuvan muodostamiseksi tulokset yhdistetään tietokoneella ja analyysin tuloksena saadaan kaksi- tai kolmiulotteinen magneettikuva, joka koostuu kuvaelementeistä (pikseli) tai tilavuuselementeistä (vokseli).
+Tutkittavan kohteen emittoiman signaalin voimakkuus magneettikuvassa riippuu paitsi magneettisten ytimien määrästä myös niiden vuorovaikutuksesta ympäristönsä kanssa. Magneettikuvauksessa näitä vuorovaikutuksia kuvataan relaksaatioajoilla, jotka kertovat kuinka nopeasti kudoksen magnetoituminen palaa tasapainotilaan virityspulssin jälkeen. Muita signaalin ominaisuuksin vaikuttavia suureita ovat kudoksen liike ja virtaus, diffuusio sekä ns. kemiallinen siirtymä.
+
+
+== Käytetyt kontrastiaineet ==
+Magneettikuvaukseen on kehitetty kontrastiaineita, joilla kudosten näkyvyyttä voidaan muuttaa. Magneettikuvauksissa usein käytetyt kontrastiaineet ovat gadoliniumyhdisteitä tai rautaoksidi-partikkeleita. Eräät gadoliniumyhdisteet, erityisesti gadodiamidi, ovat aiheuttaneet joillekin munuaisten toiminnanvajausta sairastaville potilaille vaikeaa fibroosia.
+Magneettikuvauksessa käytettävät kuvausaineet kuuluvat anatomis-terapeuttis-kemiallisessa lääkeluokituksessä eli ATC-luokituksessa luokkaan V08C. Aineet jaetaan tässä luokituksessa paramagneettisiin kuvausaineisiin, superparamagneettisiin kuvausaineisiin ja muihin MRI-kuvausaineisiin.
+Paramagneettisia kuvausaineita (V08CA) ovat:
+Gadopenteettihappo
+Gadoteerihappo
+Gadodiamidi
+Gadoteridoli
+Mangafodipiiri
+Gadoversetamidi
+Ferriammoniumsitraatti
+Gadobeenihappo
+Gadobutroli
+Gadoksetiinihappo
+Gadofosveseetti
+Superparamagneettisia kuvausaineita (V08CB) ovat:
+Ferumoksiili
+Ferristiini
+Rautaoksidi, nanopartikkelit
+Muita MRI-kuvausaineita (V08CX) ovat:
+Perflubroni
+
+
+== Kehittyneempiä magneettikuvaukseen perustuvia tekniikoita ==
+Toiminnallisella magneettikuvauksella (funktionaalisella magneettikuvauksella) voidaan kuvata aivojen (lähes) reaaliaikaista toimintaa. Se on

@@ -1,0 +1,59 @@
+Systemtheorie ist eine interdisziplinäre Betrachtungsweise, in der grundlegende Aspekte und Prinzipien von Systemen zur Beschreibung und Erklärung unterschiedlich komplexer Phänomene herangezogen werden. So vielfältige Gegenstandsbereiche und Modelle wie das Sonnensystem, biologische Zellen, der Mensch, eine Familie, eine Organisation, ein Staat aber auch Maschinen und Computernetzwerke können als Systeme aufgefasst und systemtheoretisch beschrieben werden. Kognitive Prozesse des Erkennens und Problemlösens, die auf Konzepte der Systemtheorie Bezug nehmen, werden oft unter dem Begriff Systemdenken zusammengefasst. Die Analyse von Strukturen, Dynamiken und Funktionen soll eine umfassendere Sicht ermöglichen und realistischere Vorhersagen über das Systemverhalten erlauben. Systemtheoretische Begriffe werden in den verschiedensten wissenschaftlichen Disziplinen angewandt. „Die Systemtheorie hat von Anfang an das Ziel verfolgt, der Zersplitterung des Wissens in den wissenschaftlichen Disziplinen entgegenzuwirken.“
+Die Systemtheorie ist sowohl eine allgemeine und eigenständige Disziplin als auch ein weitverzweigter und heterogener Rahmen für einen interdisziplinären Diskurs, der den Begriff System als Grundkonzept führt. Es gibt folglich sowohl eine allgemeine „Systemtheorie“ als auch eine Vielzahl unterschiedlicher, zum Teil widersprüchlicher und konkurrierender Systemdefinitionen und -begriffe. Es hat sich heute jedoch eine relativ stabile Reihe an Begriffen und Theoremen herausgebildet, auf die sich der systemtheoretische Diskurs bezieht.
+
+
+== Geschichte ==
+Der Begriff Allgemeine Systemtheorie geht auf den Biologen Ludwig von Bertalanffy zurück. Seine Arbeiten bilden zusammen mit der Kybernetik (Norbert Wiener, William Ross Ashby) die grundlegenden Überlegungen dieses Wissenschaftsansatzes. Weitere wichtige Theorien stammen von Humberto Maturana und Francisco Varela (Autopoiesis), Stuart Kauffman (Selbstorganisation) und Alfred Radcliffe-Brown (Strukturfunktionalismus) sowie Talcott Parsons (Strukturfunktionalismus oder Systemfunktionalismus) und Niklas Luhmann (soziologische Systemtheorie).
+Kulturgeschichtlich geht der Systembegriff bis auf Johann Heinrich Lambert zurück und wurde unter anderem von Johann Gottfried Herder übernommen und ausgearbeitet. Dies vollzieht sich vor allem an der Frage, wie man lebende Organismen und deren Selbsterhaltung und -organisation verstehen kann.
+Die moderne Systemtheorie beruht auf unabhängig voneinander entwickelten Ansätzen, die später synthetisiert und erweitert wurden: Der Begriff Systemtheorie bzw. Systemlehre stammt von Ludwig von Bertalanffy (vgl. General Systems Theory). Von Bertalanffy spricht von offenen Systemen und entwickelt den Begriff der organisierten Komplexität, der den dynamischen Austausch mit der Umwelt beschreiben soll. Erst mit der Ausformulierung des Informations­begriffes ließ sich dieses Konzept jedoch weiter generalisieren. Bereits 1948 hatte Norbert Wiener mit Cybernetics (Kybernetik) einen ebenfalls zentralen Ausdruck geprägt, der heute mit dem Systembegriff eng verbunden ist. Ein weiteres verwandtes Konzept ist die Tektologie Alexander Bogdanows.
+
+
+=== Kybernetik ===
+Die Kybernetik behandelt operationell geschlossene Mechanismen. Sie wurde als Regelungs- und Kommunikationstheorie konzipiert. Der Fokus der Kybernetik liegt auf Regelung und Steuerung. Deshalb kommen in der Kybernetik als Systeme in erster Linie geregelte Mechanismen in Betracht. Die Regelung beruht immer auf Prozessen, die mit der mathematischen Systemtheorie der Technik beschrieben werden können. Bertalanffy hat sich gegen die Vermischung seiner Systemlehre und der Kybernetik ausgesprochen, weil er das mechanistische Denken der Kybernetik für die Beschreibung von Leben als nicht adäquat erachtete.
+
+
+==== Generelle Erweiterungen der Kybernetik ====
+Als Systemtheorie 2. Ordnung bezeichnet man Systemtheorien, die in folgendem Sinne selbstbezüglich sind: Mit der jeweiligen Systemtheorie wird der Systemtheoretiker, der die Theorie macht, beschrieben. Der Kernbegriff ist deshalb „die Beobachtung des Beobachters“.
+Als Autopoiesis bezeichnet Humberto Maturana sowohl seine Systemtheorie wie auch den wesentlichen Prozess, den er mit seiner Theorie beschreibt, nämlich das Leben. Maturana beschreibt, grob gesehen, das Gleiche wie von Bertalanffy in seiner Systemlehre, er argumentiert aber kybernetisch: er spricht von lebenden (autopoietischen) Maschinen, die operationell geschlossen sind.
+Als Selbstorganisation bezeichnet man Prozesse, die wie die Autopoiese zu höheren strukturellen Ordnungen führen, ohne dass ein steuerndes Element erkennbar ist. Ein Beispiel ist der Laserstrahl, anhand dessen die Theorie von Hermann Haken auch entwickelt wurde.
+Der Radikale Konstruktivismus wurde von Ernst von Glasersfeld entwickelt. Er hat dabei auf die Arbeiten von Jean Piaget zurückgegriffen. Die Denkweise von Piaget war konstruktivistisch und epistemologisch. Ernst von Glasersfeld argumentiert insbesondere auch mit der operationellen Geschlossenheit von Systemen.
+Als System Dynamics bezeichnet man die Modellierung mit Regelkreisen. Bekannt gemacht hat das Verfahren Jay Wright Forrester durch das Weltmodell World3, anhand dessen in der Club-of-Rome-Publikation Limits to Growth (Die Grenzen des Wachstums, Dennis L. Meadows 1972) der globale Rohstoffverbrauch prognostiziert wurde.
+
+
+=== Soziologische Systemtheorie ===
+
+Die soziologische Systemtheorie versteht sich als eine Universaltheorie im Sinne eines umfassenden und kohärenten Theoriegebäudes für alle Formen von Sozialität. Der soziologische Systembegriff geht auf Talcott Parsons zurück. Parsons betrachtet dabei Handlungen als konstitutive Elemente sozialer Systeme. Er prägte den Begriff der strukturell-funktionalen Systemtheorie.
+Niklas Luhmann erweitert die Theorie Parsons und verwendet nicht mehr den Handlungsbegriff, sondern den sehr viel allgemeineren Begriff der Operation – siehe Systemtheorie (Luhmann).
+
+
+=== Theorie komplexer Systeme ===
+Die neueste Strömung ist die Theorie komplexer Systeme. Ein komplexes System ist dabei ein System, dessen Eigenschaften sich nicht vollständig aus den Eigenschaften der Komponenten des Systems erklären lassen. Komplexe Systeme bestehen aus einer Vielzahl von miteinander verbundenen und interagierenden Teilen, Entitäten oder Agenten.
+Komplexe Systeme sind von der Welt der Elementarteilchen bis hinauf zur menschlichen Gesellschaft weit verbreitet, ja geradezu dominant. Sie entstehen überwiegend durch Prozesse der spontanen Selbstorganisation und sind meist einer Theorie auf der Basis bekannter mathematischer Funktionen nicht zugänglich. Beispiele sind die Bildung der Atomkerne, der Atome, die Umwandlung von Stoffen von einem Aggregatzustand in einen anderen, die Kristallisation, chemische Reaktionen, die Evolution, die geistigen Prozesse im Gehirn, die Entwicklung der Sozialsysteme usw. In der belebten Natur sind offene Systeme dominant, die die Zufuhr von Energie benötigen, in der unbelebten Natur bilden sich komplexe Systeme meist spontan unter Abgabe von Energie oder auch im thermischen Gleichgewicht.
+Die Theorie der Komplexen adaptiven Systeme beruht vorwiegend auf den Arbeiten des Santa Fe Institute. Diese neue Komplexitätstheorie, die Emergenz, Anpassung und Selbstorganisation beschreibt, basiert auf Agenten und Computersimulationen, die Multiagentensysteme (MAS) einschließen, die zu einem wichtigen Instrument bei der Erforschung von sozialen und komplexen Systemen wurden.
+
+
+== Verwandte Gebiete ==
+Diese vier Hauptrichtungen haben Vorläufer, Unterabteilungen, Entwicklungen, Anwendungen in den Fachdisziplinen.
+
+
+=== Chaostheorie ===
+Die Chaosforschung beschäftigt sich mit bestimmten nichtlinearen dynamischen Systemen, die eine Reihe von Phänomenen aufweisen, die man Chaos (genauer: chaotisches Verhalten) nennt. Eines dieser Phänomene ist der Schmetterlingseffekt, der besagt, dass kleine Änderungen unerwartet große Effekte haben können. Chaotische Systeme sind zum Beispiel Wetter, Klima, Plattentektonik, turbulente Strömungen, Wirtschaftskreisläufe, Internet und das Bevölkerungswachstum.
+
+
+=== Katastrophentheorie ===
+Die Katastrophentheorie ist ein Zweig der Mathematik, der sich mit den Verzweigungen von dynamischen Systemen beschäftigt und beschreibt plötzliche Veränderungen, die sich aus kleinen Veränderungen von Umständen ergeben.
+
+
+=== Konnektionismus ===
+Der Konnektionismus versteht ein System als Wechselwirkungen vieler vernetzter einfacher Einheiten. Die meisten konnektionistischen Modelle beschreiben die Informationsverarbeitung in Neuronen­netzen. Sie bilden eine Brücke zwischen biologischer Forschung und technischer Anwendung.
+
+
+=== Modellierung ===
+Um Systeme in Modellen beschreiben zu können, spielen Bereiche aus Mathematik und Informatik eine Rolle. Wenn ein System quantitativ beschrieben werden kann und weitere Voraussetzungen erfüllt sind (insbesondere die Differenzierbarkeit der beschreibenden Funktionen), dann werden häufig Differentialgleichungs­systeme für die mathematische Modellierung herangezogen. Fehlen diese Voraussetzungen, dann muss die Beschreibung auf einer abstrakteren Ebene erfolgen. Für eine formale Beschreibung mit begrifflichen Mitteln dient in der Mathematik die formale Begriffsanalyse, ein Teilgebiet der Ordnungstheorie. Auf Seite der Informatik beschäftigt sich die Ontologie damit, Systeme formal mit begrifflichen Mitteln zu beschreiben. Grundlagen dazu liegen auch in der philosophischen Ontologie.
+
+
+=== Weitere ===
+Medizinische Kybernetik
+Die Medizinische Kybernetik umfasst die Anwendung systemtheoretischer, nachrichtentheoretischer, konnektionistischer und entscheidungsanalytischer Konzepte für biomedizinische Forschung und klinische Medizin.
+Medizinische Systemtheorie
+Das Ziel der medizinischen Systemtheorie ist es, die komplexen Zusammenhänge des physischen Systems und deren spezifische vernetzte Funktionsweise besser zu verstehen.

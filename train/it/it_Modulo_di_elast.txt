@@ -1,0 +1,125 @@
+Il modulo di elasticità è una grandezza caratteristica di un materiale che esprime il rapporto tra tensione e deformazione nel caso di condizioni di carico monoassiale ed in caso di comportamento del materiale di tipo "elastico". È definito come il rapporto tra lo sforzo applicato e la deformazione che ne deriva.
+
+
+== Tipologia di moduliModifica ==
+Si hanno tre distinti moduli di elasticità:
+modulo di elasticità longitudinale
+modulo di comprimibilità
+modulo di elasticità tangenziale.
+
+
+=== Modulo di elasticità longitudinaleModifica ===
+
+Il modulo di elasticità longitudinale (o modulo di Young) è definito a partire dalla legge di Hooke:
+
+con
+σ: sforzo, viene misurato in pascal. Dimensionalmente è σ = F/A, cioè forza su superficie
+ε: deformazione, è una grandezza adimensionale, spesso la si esprime in percentuale. Dimensionalmente: ε = Δl/l, cioè variazione di lunghezza su lunghezza iniziale
+Il modulo di Young viene determinato dal diagramma sforzo-deformazione, mediante la formula appena vista, nel tratto in cui il materiale subisce una deformazione elastica lineare (ovvero rimuovendo lo sforzo il materiale deve essere in grado di ritornare alle dimensioni iniziali).
+
+
+=== Modulo di comprimibilitàModifica ===
+Il modulo di comprimibilità è definito come rapporto tra la pressione idrostatica σc e la variazione unitaria di volume Δ V / V0.
+
+
+=== Modulo di elasticità tangenzialeModifica ===
+Il modulo di elasticità tangenziale (o di scorrimento) è dato da:
+
+
+== Le variabili di influenza nei metalliModifica ==
+Nel seguito si analizzeranno alcune variabili importanti nello studio del modulo di elasticità dei materiali metallici. In generale qualsiasi azione che vari la distanza di equilibrio fra gli atomi o le forze di legame modifica la tangente alla curva di Condon Morse e quindi il modulo di elasticità.
+Temperatura: il modulo di elasticità longitudinale diminuisce al crescere della temperatura.
+Composizione chimica: un elemento inserito in una matrice metallica altera la distanza fra gli atomi e le forze interatomiche, soprattutto se è un non metallo e quindi forma legami più forti. Nelle soluzioni il modulo di Young è quasi lineare, nei sistemi eutettici ha una leggera concavità, in corrispondenza dei composti intermetallici presenta una brusca deviazione di pendenza. Importante è comunque notare che una ristretta variazione della concentrazione del soluto non altera apprezzabilmente il modulo E, che infatti è ritenuto pari a 210 000 N/mm2 per tutti gli acciai al carbonio e basso legati.
+Incrudimento: soprattutto su reticoli non CFC, l'effetto è trascurabile.
+Anisotropia cristallina: la trafilatura a freddo aumenta i moduli elastici misurati nella direzione di lavorazione.
+Trattamenti termici, ad esempio la tempra, hanno un'influenza trascurabile.
+
+
+== Modulo di elasticità longitudinale del calcestruzzoModifica ==
+Poiché, dal punto di vista meramente geometrico il modulo di Young rappresenta la pendenza della curva sforzi-deformazioni, il modulo E del calcestruzzo non è costante come per l'acciaio, poiché il calcestruzzo segue mediocremente la legge di Hooke.
+Inoltre poiché lo scostamento dalla legge di Hooke è maggiore a trazione che a compressione risulta che il modulo Ec a compressione è diverso da quello a trazione Ect.
+Il comportamento del calcestruzzo può essere approssimato dalla legge di Hooke se soggetto a sforzi di compressione di breve durata e di intensità non superiore al 40% della sua resistenza a compressione (se riferita a fck, se riferita a Rck la percentuale è pari a circa il 30% essendo fck≈0,83 Rck) oppure a sforzi di trazione di intensità non superiore al 70% della sua resistenza a trazione.
+
+
+=== Parametri che influenzano EModifica ===
+Il modulo di elasticità del calcestruzzo è una quantità decisamente variabile in funzione di diversi parametri tecnologici quali:
+la classe di resistenza del calcestruzzo: è confermato sperimentalmente che all'aumentare della resistenza del calcestruzzo cresce E ma aumenta la fragilità del conglomerato. La letteratura tecnica riporta diverse formule empiriche che mettono in correlazione il modulo elastico e la resistenza caratteristica;
+le caratteristiche specifiche dei suoi componenti;
+composizione granulometrica;
+il rapporto acqua/cemento: al crescere di a/c diminuisce il valore di E;
+le modalità di posa in opera;
+il grado di maturazione.
+Pertanto, nell'ambito della stessa struttura, è ben difficile che elementi strutturali differenti, realizzate in momenti diversi e con materiali ovviamente dissimili, presentino uguali caratteristiche elastiche, con l'inevitabile conseguenza di un imprevisto irrigidimento delle zone di migliore qualità.
+
+
+=== Diagramma σ - εModifica ===
+
+Esaminiamo la risposta istantanea del calcestruzzo. Se sottoponiamo un provino di calcestruzzo cilindrico ad una prova rapida di compressione si avrà il seguente andamento: fino a valori della tensione di compressione pari a circa il 40% di quella di rottura fc si registra un andamento del diagramma approssimativamente rettilineo.
+Per sforzi di intensità maggiori il diagramma risulta sensibilmente parabolico fino ad un valore della deformazione denominato εc1.
+A tale valore corrisponde anche la massima tensione di compressione fc che è praticamente il valore della tensione di rottura. Il cedimento del provino non è però istantaneo, essendo collegato ad un processo di microfessurazione in rapida evoluzione. Segue pertanto un secondo tratto discendente (comportamento softening) dall'andamento curvilineo, limitato dalla deformazione ultima di rottura denominata εcu, cui corrisponde un valore finale della tensione sul provino σcu alquanto inferiore al valore massimo registrato in precedenza.
+All'atto dello scarico la deformazione è solo parzialmente reversibile e la parte irreversibile aumenta con l'aumentare dello sforzo. Se dopo l'applicazione di carichi di breve durata si vuole tener conto di deformazioni irreversibili il valore di E va ridotto del fattore 0,85.
+Come si evince la risposta istantanea è difficilmente confinabile nell'ambito della teoria di elasticità lineare, in quanto il materiale presenta spiccate caratteristiche di non linearità e di plasticità sin dai livelli più bassi di cimento. Si verifica inoltre che già per bassi valori di sforzo, le deformazioni sono tanto più elevate quanto più lenta è la velocità di carico e quanto più lunga è la durata della sua applicazione. Pertanto le considerazioni riguardanti la risposta istantanea di un calcestruzzo diventano più marcate per effetto di carichi che permangono per lunghi periodi a seguito della comparsa di deformazioni differite nel tempo (fluage+ ritiro), le quali, si sommano a quelle immediate.
+
+
+=== Effetti sulle previsioni di calcoloModifica ===
+La variabilità dei moduli elastici, la non linearità meccanica, l'effetto della viscosità interessano l'intera struttura in calcestruzzo armato in maniera generalmente non uniforme, pertanto questi parametri diventano responsabili di modificazioni nello stato di cimento rispetto alle previsioni di calcolo, a causa del cumularsi di deformazioni permanenti e di stati di coazione generalmente non previsti nel calcolo.
+
+
+=== Variazioni del tempoModifica ===
+Secondo l'Eurocodice 2 la variazione del modulo di elasticità nel tempo si può stimare con la relazione:
+Ecm(t) = [fcm(t)/fcm]0,3 Ecm
+con
+Ecm(t) e fcm(t) sono i valori del modulo secante e della resistenza media del calcestruzzo all'età t
+Ecm e fcm sono i valori del modulo secante e della resistenza media del calcestruzzo a 28 giorni
+
+
+=== Modulo tangente e modulo secanteModifica ===
+Come già visto, dal punto di vista meramente geometrico il modulo di Young rappresenta la pendenza della curva sforzi-deformazioni e nel caso del calcestruzzo, che non ha un comportamento elastico-lineare (come accade nell'acciaio), è variabile da punto a punto della curva.
+Praticamente per rappresentare le proprietà elastiche del calcestruzzo, si fa riferimento a due valori del modulo di Young:
+modulo elastico istantaneo tangente Ec, all'origine della curva curva σ - ε. Tale valore ben rappresenta il comportamento elastico del calcestruzzo a compressione per bassi valori di tensione (prossimi allo zero). Per i campi di lavoro ordinari tale valore risulta poco significativo (troppo elevato) poiché la curva presenta una marcata diminuzione di pendenza al crescere del valore della tensioni;
+modulo elastico istantaneo secante Ecm, che corrisponde alla pendenza della secante passante per l'origine e per il punto di ordinata 0,4 fc≈ 0,33 Rc. Tale valore ben rappresenta il comportamento elastico del calcestruzzo nel campo di lavoro ordinario: Ecm = σ1/3/ε1/3 dove ε1/3 è la deformazione unitaria che corrisponde all’applicazione di uno sforzo (σ1/3) pari ad 1/3 della resistenza meccanica a compressione (Rc).
+Si ritiene che il modulo tangente all'origine sia maggiore di circa il 10% del valore del secante.
+
+
+=== ApplicazioniModifica ===
+Benché, a causa della non linearità meccanica del calcestruzzo e dell'insorgere sotto carico delle deformazioni viscose (fluage), il modulo di elasticità E si può considerare costante solo per bassi livelli di sforzo e per brevi durate del carico, i valori istantanei (tangente o secante) di E vengono utilizzati per effettuare l'analisi lineare di strutture staticamente indeterminate finalizzata al calcolo delle sollecitazioni interne alla struttura.
+Questa non è l'unica ipotesi semplificativa infatti nell'analisi lineare si considera anche il materiale interamente reagente, isotropo e omogeneo.
+Se si adotta per il calcolo delle sollecitazioni un'analisi non lineare fino allo stato limite ultimo è necessaria la conoscenza completa della curva sforzo - deformazione ( E variabile).
+Convenzionalmente, nel metodo degli stati limite, al fine di valutare la resistenza ultima di una struttura, si usa un'analisi lineare per determinare le caratteristiche della sollecitazione indotte dai carichi e si tiene conto della reale non linearità della legge costitutiva del materiale solo nella fase finale di verifica delle sezioni.
+Il modulo istantaneo però non è indicato per il calcolo delle deformazioni che dipendono anche da fattori quali, la durata dei carichi, lo scorrimento viscoso, il ritiro, ecc.
+
+
+=== Normativa italianaModifica ===
+In letteratura esistono diverse equazioni empiriche che stimano E in funzione della resistenza a compressione del calcestruzzo.
+Le relazioni sperimentali per la determinazione del modulo di Young a compressione del calcestruzzo sono del tipo:
+
+dove il valore della costante a dipende dalle unità di misura adottate, da come è misurata la resistenza meccanica a compressione R (Rc per provini cubici o fc per quelli cilindrici) ed E (modulo elastico tangenziale iniziale o modulo elastico secante).
+Tra queste la normativa, in mancanza di misure dirette per E, propone le seguenti formule:
+D.M. 9 gennaio 1996: fa riferimento al valore tangente all'origine:  (N/mm2);
+D.M. 14 gennaio 2008: fa riferimento al modulo secante tra la tensione nulla e 0,40 fcm: (N/mm2)
+Eurocodice 2: fa riferimento al valore medio del modulo secante tra la tensione nulla e 0,40 fc:  (N/mm2)
+Queste formule non sono applicabili a calcestruzzi stagionati a vapore, in quanto, in questo caso, il calcestruzzo ha maggiore deformabilità e quindi un modulo elastico di molto inferiore.
+Qualora si voglia conoscere con maggiore precisione il valore del modulo elastico occorre richiedere la sua misura mediante apposita prova (UNI 6556).
+
+
+=== Modulo E dinamicoModifica ===
+
+
+==== GeotecnicaModifica ====
+Il valore di E (ma anche quello del modulo di Poisson e il modulo di taglio G) può essere determinato mediante la misurazione della velocità di propagazione delle onde elastiche tipo P e S attraverso una prova sonica in campo.
+Edin = ρ Vs2 (3Vp2 – 4Vs2) / (Vp2 – Vs2)
+dove:
+Vs velocità delle onde elastiche S
+Vp velocità delle onde elastiche P.
+ρ densità in kg/m3
+I moduli E dinamici, sono spesso più elevati di quelli statici.
+Il modulo E dinamico non può quindi essere impiegato tal quale per i calcoli delle deformazioni nell'ambito geotecnico però esistono relazioni sperimentali che permettono di ottenere Estat da Edin come quella di Heerden:
+Estat = 0,075Edin1,56
+Di regola Edin ≅ 2 Estat
+Le prove dinamiche hanno il vantaggio che le onde elastiche attraversano il terreno senza causare il suo rimaneggiamento come accade invece nel quando si prelevano campioni di terreno da utilizzare per le prove statiche in laboratorio.
+Pertanto i valori ottenuti a partire da prove dinamiche risultano più attendibili.
+
+
+==== CalcestruzzoModifica ====
+Il valore di E del calcestruzzo può essere determinato mediante un prova ultrasonica o una prova dinamica, in laboratorio. Tuttavia, sussistono differenze a seconda che si usi l'uno o l'altro metodo. La prova con ultrasuoni consiste nella misura del tempo di volo di un segnale acustico, tra due sonde opposte (metodo diretto) collocate ad una certa distanza d, si valuta la velocità di volo e si calcola il modulo elastico dinamico dalla seguente espressione:
+Ed= ρV^2 * (1+v)(1-2v)/(1-v)

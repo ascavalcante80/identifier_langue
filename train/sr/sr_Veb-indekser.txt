@@ -1,0 +1,122 @@
+Veb-indekser (engl. Web crawler, Web spider, ant, automatic indexer) je internet robot koji sistematski pretražuje veb, uglavnom u svrhe indeksiranja veb-lokacija. Takođe je poznat i kao program tragač ili pretraživač veb-lokacija. U daljem tekstu će se koristiti pojam tragač.
+Pretraživači veba i neki sajtovi koriste tragače da ažuriraju veb-sadržaj ili indekse sadržaja drugih veb-sajtova. Programi tragači mogu da iskopiraju sve strane koje posete radi kasnijeg procesiranja od strane pretraživača veba koji indeksira stranice koje su preuzete, tako da bi ih korisnici brže pronalazili.
+Programi tragači mogu da izvrše validaciju hiperveza i HTML koda. Takođe se mogu koristiti za ekstrakciju podataka sa veba.
+
+
+== Način rada programa tragača ==
+Tragač rad otpočinje sa nizom veb-adresa koje treba posetiti. Te adrese se nazivaju semena. Kako program tragač posećuje te veb-adrese, on prepoznaje sve hiperveze koje se nalaze na toj stranici i dodaje ih na listu veb-adresa koje treba posetiti, koja se naziva granica traganja. Kasnije se te stranice rekurzivno posećuju prema skupu politika posećivanja.
+Velika količina veb-stranica povlači kao posledicu da da tragač može da preuzme samo određeni broj veb-stranica u zadatom vremenskom roku, tako da je prioritet preuzimanja stranica jako bitan. Veliki broj promena povlači činjenicu da su stranice možda promenjene ili čak izbrisane.
+Broj stranica za posećivanje koje generiše serverski softver, takođe otežava tragačima da izbegnu preuzimanje duplikata sadržaja. Postoji bezbroj kombinacija HTTP GET parametara, od kojih će samo mali broj vratiti jedinstven sadržaj. Na primer, uzmimo najprostiju on-lajn (eng. on-line) galeriju slika koja nudi tri opcije korisnicima, navedene pomoću HTTP GET parametara u veb-adresi. Ako postoji četiri načina da se sortiraju slike, tri izbora za velicinu ikonica, dva formata podataka, i opcija da onemogućimo sadržaj koji pruža korisnik, onda istom sadržaju možemo da pristupimo sa 48 različitih adresa, sve nastale od onog sto se može povezati na sajtu. Ova matematička kombinacija stvara problem tragačima, jer oni moraju da sortiraju kroz bezbroj kombinacija relativno malih promena da bi došli do jedinstvenog sadržaja.
+Kao što su Edwards i saradnici naveli : "Uzevši u obzir to da opseg za rad tragača nije beskonačan, i ima svoju cenu, neophodno je da pretraživanje veba bude ne samo skalabilno, već i efikasno, ako želimo da održimo neku razumnu meru kvaliteta i svežine." Tragač mora pri svakom koraku pažljivo da bira koju će sledeću stranicu da poseti.
+Ponašanje programa tragača je rezultat sledeće kombinacije politika:
+politika odabira, koja navodi koje stranice treba preuzeti,
+politika ponovnog posećivanja, koja navodi kada proveriti da li je došlo do promene stranice,
+politika „lepog ponašanja“, koja navodi načine za izbegavanje preopterećenje sajtova,
+politika paralelizacije, koja navodi kako upravljati distibuiranim tragačima.
+
+
+== Politike programa tragača ==
+
+
+=== Politika odabira ===
+Uzevši u obzir trenutnu veličinu veba, čak i veliki pretraživači veba pokrivaju samo udeo od dela dostupnog javnosti. Istraživanjaa sprovedena 2005. godine pokazala je da [Pretraživač veba|pretraživači veba]] velikih razmera ne indeksiraju više od 40 % — 70 % indeksablinog veba; prethodna istraživanja od strane Stiva Lorensa i Lija Džilsa pokazale su da ni jedan pretraživač veba nije indeksirao više od 16 % veba 1999. godine. Pošto tragač uvek preuzima samo frakciju veb-stranice, veoma je poželjno da preuzeta frakcija sadrži najvažnije stranice, a ne samo nasumične uzorke veba.
+Ovo zahteva jedinicu važnosti da bi se odredio prioritet veb-stranica. Vrednost stranice je funkcija njenog unutrašnjeg kvaliteta, njene popularnosti u pogledu hiperveza ili posećenosti, čak i njene veb-adrese. (Ovo drugo se odnosi na slučaj vertikalnih veb-pretraživača, ograničenih na jedinstveni internet domen najvišeg nivoa. Dizajniranje dobre politike odabira otežava još i činjenica da mora da radi sa delimičnim informacijama, kako kompletni skup veb-stranica nije poznat tokom rada programa tragača.
+Janghu Čo i saradnici su sproveli prvo istraživanje o politikama za planiranje pretrage lokacija po vebu. Njihov skup podataka je bio 180.000 stranica sa domena stanford.edu, na kom su sprovedene simulacije nad tragačima sa različitim strategijama. Testirane mere za redosled su bile pretraga u širinu, backlink-count strategija i delimične PageRank kalkulacije.(PageRank je algoritam koji koristi Guglov pretraživač veba.) Jedan od zaključaka je bio da je, ako tragač želi da preuzme stranice sa visokim PageRank prioritetom ranije u toku svog rada, bolje primeniti delimične PageRank kalkulacije, zatim pretragu u širinu i backlink-count strategiju. Međutim, ovi rezultati su bili u okviru samo jednog domena. Čo je takođe napisao doktorsku disertaciju na Stanfordu vezanu za programe tragače.
+Najork i Viner su sproveli indeksiranje lokacija na 328 miliona stranica, koristeći pretragu u širinu. Otkrili su da ovom metodom program tragač preuzima stranice sa visokim PageRank prioritetom ranije tokom svoga rada (ali oni nisu uporedili ovu strategiju sa drugim strategijama). Objašnjenje dato od strane autora za ovakav rezultat bilo je da najvažnije stranice imaju mnogo hiperveza od strane brojnih hostova prema njima, i da takve hiperveze budu najranije pronađene, bez obzira na to sa kog hosta ili stranice počinje indeksiranje lokacija.
+Abitbul je dizajirao strategiju zasnovanu na algoritmu OPIC (енгл. On-line Page Importance Computation). U OPIC algoritmu svakoj stranici je data početna suma „novca”, koja se podjednako distribuira između stranica na koje pokazuje. To je slično PageRank izračunavanjima, ali je bilo brže i bilo je rađeno u jednom koraku. Tragač zasnovan na OPIC algoritmu prvo preuzima stranice u granici traganja koje imaju veću svotu novca. Eksperimenti su izvedeni na sintetičkom grafu od 100.000 stranica, sa stepenim zakonom raspodele unutrašnjih hiperveza. Međutim, nije sprovedeno ni jedno upoređivanje sa ostalim strategijama, niti eksperimentisanje na pravom vebu.
+Paolo Boldi i saradnici su sproveli simulaciju na podskupu veba koja je sadržala 40 miliona stranica sa .it domena i 100 miliona stranica sa WebBase-a, testirajući pretragu u širinu protiv pretrage u dubinu, nasumičnog poretka i sveznajuće strategije. Poređenje je zasnivano na tome koliko je PageRank dobijen na delimičnom indeksiranju lokacija približan pravoj vrednosti. Iznenađujuće, neke strategije koje nagomilavaju PageRank veoma brzo (pre svega, pretraga u širinu i sveznajuća strategija), pružaju veoma loša progresivna izračunavanja.
+Baeza-Jejts i saradnici koristili su simulaciju na dva podskupa veba koji se sastojao od 3 miliona stranica sa .gr i .cl domena, testirajući nekoliko strategija. Pokazali su da i OPIC strategija i strategija koja koristi per-site red bolja od strategije koja koristi pretragu u širinu, i da je takođe, kada je to moguće, veoma efikasno koristiti prethodno indeksiranje lokacija kao smernicu za trenutno.
+Šervin Danešpedžoh je dizajnirao algoritam zasnovan na zajednici, koji pronalazi dobra semena. Ovaj metod indeksira lokacije sa visokim PageRank prioritetom iz drugih zajednica u manje iteracija nego indeksiranje lokacija koje počinje nasumičnim semenima. Ovako se, koristeći ovu metodu, dobro seme može izvući iz veb-grafa koji je ranije korišćen. Pomoću ovih semena novo indeksiranje lokacija moze biti veoma efikasno.
+
+
+=== Politika ponovnog posećivanja ===
+Veb je vrlo dinamične prirode, tako da indeksiranje njegove frakcije može da potraje nedeljama ili mesecima. Dok tragač završi svoje indeksiranje lokacija, mnogi događaji bi mogli da se dese, uključujući dodavanja, ažuriranja i brisanja sadržaja.
+Iz tačke gledišta pretraživača veba, postoji cena koja je vezana za događaj koji se desio, a time za posledicu ima zastarelu kopiju resursa. Najkorišćenije funkcije troškova su svežina i starost.
+Svežina — Ovo je binarna jedinica koja označava da li je lokalna kopija precizna ili nije. Svežina stranice  u skladištu za dato vreme  se definiše kao:
+
+ (ako je lokalna kopija jednaka  u trenutku ) ili kao
+
+ (uobičajeno).
+
+Starost — Ovo je jedinica koja pokazuje koliko je zastarela lokalna kopija. Starost stranice  u skladištu, za dato vreme  se definiše kao:
+
+ (ako  nije modifikovana u trenutku ) ili kao
+
+ (uobičajeno).
+
+Edvard Kofman je radio sa definicijom cilja tragača koja je ekvivalentna svežini, ali je to drugačije formulisao; on je predlagao da tragač mora da minimalizuje frakciju vremena za koju je stranica zastarela. On je takođe primetio da se indeksiranje lokacija može modelovati pomoću biračkog sistema sa više redova, a jedinstvenim serverom u kom je tragač server, a veb-sajtovi su redovi. Modifikacije stranica su dolasci birača, a prelazna vremena su intervali između pristupa stranica jednog veb-sajta. U ovom modelu, međuvreme koje se provodi u čekanju na birača je u biračkom sistemu je ekvivalentno prosečnoj starosti za program tragač.
+Cilj tragača je da održi stranice u svojoj kolekciji što je moguće svežijim, ili da održava prosečnu starost stranica što je moguće nižom. Ovi ciljevi nisu ekvivalentni: u prvom slučaju tragača samo zanima broj stranica koje su zastarele, dok u drugom slučaju program tragač samo brine o starosti lokalnih kopija stranica.
+Čo i Garsija-Molina su proučavali dve proste politike ponovnog posećivanja:
+Uniformna politika — Ovo podrazumeva posećivanje svih stranica istom učestalošću, bez obzira na njihovu brzinu promena.
+Proporcionalna politika — Ovo podrazumeva češće posećivanje onih stranica koje se brže menjaju. Učestalost posećivanja je direktno proporcionalna (procenjenoj) brzini promena.
+(U oba slučaja, ponovljeni redosled indeksiranja se može izvšiti u nasumičnom ili fiksnom redosledu.)
+Čo i Garsija-Molina su pokazali iznenađujuće rezultate po kojima — u smislu prosečne svežine — uniformna politika prevazilazi proporcionalnu politiku u indeksiranju, kako na simulaciji veba, tako i na pravom vebu.
+Intuitivno, obrazloženje je to da, pošto tragači imaju ograničen broj stranica koji mogu da indeksiraju za određeno vreme, treba u obzir uzeti sledeće:
+alocirati previše novih indeksiranja na stranice koje se brzo menjaju, po cenu smanjenja učestalosti ažuriranja stranica i
+svežina stranica koje se brzo menjaju traje manje od svežine stranica koje se ne menjaju toliko često.
+Drugim rečima, proporcionalna politika alocira više resursa da bi indeksirala stranice koje se češće menjaju, ali dobija manju ukupnu svežinu stranica od njih.
+Da bi poboljšao svežinu, program tragač treba da „kazni” elemente koji se jako često menjaju. Optimalna politika ponovnog posećivanja nije ni uniformna politika ni proporcionalna politika. Optimalna metoda za održavanje prosečne svežine visokom podrazumeva ignorisanje stranica koje se prečesto menjaju, a optimalni metod za održavanje prosečne starosti niskom jeste da se koriste pristupne učestalosti koje se monotono (ili sublinearno) povećavaju sa brzinom promene svake stranice. U oba slučaja, optimalna metoda je bliža uniformnoj politici nego proporcionalnoj politici, kako bi Edvard Kofman rekao: „Da bi smanjili očekivano vreme zastarelosti, pristupi bilo kojoj stranici treba da budu najravnomernije moguće rapoređeni.” Eksplicitne formule za politiku ponovnog posećivanja se generalno ne mogu dostići, ali se dobijaju brojčano, pošto zavise od distribucije promena stranica. Čo i Garsija-Molina pokazuju da bi se eksponencijalna distribucija dobro uklopila u opis promena stranica, dok Iperiotis i saradnici pokazuju kako upotrebiti statističke alatke da bi se odredili parametri koji utiču na ovu distribuciju. Može se primetiti da sve politike ponovnog posećivanja koje se ovde razmatraju gledaju na sve stranice kao homogene, u kvalitativnom pogledu, što i nije baš realističan scenario, tako da bi dodatne informacije o kvalitetu veb-stranice trebalo da budu uključene kako bi se postigla bolja politika indeksiranja.
+
+
+=== Politika lepog ponašanja ===
+Tragači mogu da preuzmu informacije daleko brže i dublje nego ljudi, tako da mogu da zadaju pogubni udar na performanse veb-sajta. Nepotrebno je reći da, ako jedan tragač obavlja više zahteva u sekundi i/ili preuzimanje velikih datoteka, isti bi teško držao korak sa zahtevima više tragača.
+Kao što je navedeno od strane Kostera, korišćnje tragača je korisno za više zadataka, ali ima svoju cenu za opštu zajednicu. Cena upotrebe programa tragača podrazumeva:
+mrežne resurse (kako tragači zahtevaju značajan protok i rade s visokim stepenom paralelizma tokom dugog vremenskog perioda),
+preopterećenje servera (pogotovo ako je učestalost poseta datom serveru prevelika),
+slabo napisane tragače (koji mogu da obore servere ili rutere, ili preuzmu stranice koje ne mogu da obrade) i
+lične tragače (koji, ako su upotrebljeni od strane više korisnika, mogu da poremete mrežu i veb-server).
+Delimično rešenje za ove probleme je protokol za isključenje robota, takođe poznat kao robots.txt protokol, koji je standard za administratore i ukazuje na kom to delu veb-servera tragači ne bi trebalo da pristupe. Ovaj standard ne obuhvata predlog za interval poseta prema istom serveru, iako je interval najefikasniji način da se izbegne preopterećenje servera. Odnedavno su komercijalni pretraživači poput Gugla, Ask dživsa i Jahua u mogućnosti da koriste dodatni crawl-delay parametar u robots.txt fajlu za naznačavanje broja sekundi razmaka izmađu zahteva.
+Prvi predloženi razmak između konekcija iznosio je 60 sekundi. Međutim, ako su stranice preuzimane ovim tempom sa nekog veb-sajta sa više od 100.000 stranica, preko savršene veze bez kašnjenja i sa beskonačnim protokom, bilo bi potrebno više od 2 meseca da se preuzme samo ceo taj veb-sajt. Takođe, samo mali deo tih informacija sa veb-servera bi bio iskorišćen. Ovo ne izgleda prihvatljivo...
+Čo koristi 10 sekundi kao interval za pristupe, a WIRE tragač koristi 15 sekundi kao podrazumevanu vrednost. MercatorWeb tragač koristi politiku adaptivne pristojnosti: ako je trebalo  sekundi da se preuzme dokument sa datog servera, tragač čeka  sekundi pre preuzimanja sledeće stranice. Dil i saradnici koriste interval od 1 sekunde.
+Za one koji koriste tragače u istraživačke svrhe, detaljnija analiza troškova i koristi je neophodna, kao i etička pitanja koja treba uzeti u obzir prilikom odlučivanja gde se indeksira i koliko brzo se indeksira.
+Nepouzdani dokazi iz pristupnih logova (dnevnika, zapisa) pokazuju da pristupni intervali poznatih tragača variraju između 20 sekundi i 3 minuta — 4 minuta. Treba napomenuti da — čak i kada se veoma lepo ponašaju i preduzimaju sve mere zaštite da bi se izbeglo preopterećenje veb-servera — dobiju neke pritužbe od strane administratora veb-servera. Brajan i Pejdž su primetili da „...upravljati tragačem koji povezuje više od pola miliona servera stvara popriličan broj mejlova i poziva. Zbog ogromnog broja ljudi koji dođu on-line, uvek ima onih koji ne znaju šta je tragač, zato što je ovo prvi put koji su videli isti.”
+
+
+=== Politika paralelizacije ===
+За више информација погледајте чланак Distribuirano indeksiranje veba.
+Paralelni tragač je tragač koji ima pokrenute višestruke procese istovremeno. Cilj je da se maksimalno poveća preuzimanje dok se minimalizuje preplavljenost nastala paralelizacijom i da se izbegne ponovno preuzimanje iste stranice. Da bi izbegao preuzimanje jedne stranice više puta, sistem za indeksiranje treba politiku za dodelu novih veb-adresa otkrivenih tokom indeksiranja, pošto se ista adresa može javiti u dva različita procesa indeksiranja.
+
+
+== Tematsko/fokusirano indeksiranje ==
+За више информација видети Tematski veb-indekser и Tematski tragač/Veb-indekser.
+Važnost stranice za program tragač može se izraziti preko sličnosti sa stranicom koja je zadata u upitu. Tragači koji pokušavaju da preuzmu stranice koje su međusobno slične nazivaju se tematski tragači ili tematski veb-indekseri. Koncepte tematskog i fokusiranog indeksiranja su prvi uveli Mencer, Čakrabarti i saradnici.
+Glavni problem u tematskom indeksiranju je taj što bi mi voleli da budemo u mogućnosti da predvidimo sličnost stranice sa tekstom zadatim u upitu pre nego što zapravo preuzmemo stranicu. Mogući prediktor je tekst u sidrima hiperveza; to je pristup koji je zauzeo Pinkerton u prvom tragaču u ranim danima veba. Dilidženti i saradnici predlažu korišćenje celokupnog sadržaja stranice koja je već posećena da bi se odredila sličnost između pokrenutog upira i stranice koja još nije posećena. Učinak tematskog tragača zavisi najviše od bogatstva hiperveza u određenoj temi koja se pretražuje, i tematsko indeksiranje se uglavnom oslanja pretraživače veba da im pruži početne tačke.
+
+
+=== Ograničavanje praćenih hiperveza ===
+Tragač mođe samo da traži HTML stranice i da izbegne sve ostale MIME-tipove. Da bi tražio samo HTML resurse, tragač mora da izvrši HTTP HEAD zahtev za utvrđivanje MIME-tipa veb-resursa, pre nego što zatraži ceo resurs sa HTTP GET zahtevom. Da bi se izbegli brojni HEAD zahtevi, tragač može ispitati samo veb-adresu i zatražiti resurs ukoliko se adresa završava nečim od sledećeg:
+.HTML
+.HTM
+.ASP
+.ASPX
+.PHP
+.JSP
+.JSPX
+/
+Ova straegija može da izazove da brojna HTML veb-sredstva budu nenamerno preskočena.
+Neki tragači mogu da izbegnu sve resurse koji imaju „?” u sebi (oni se dinamički proizvode), kako bi se izbegle sve zamke koje mogu da nateraju tragač da preuzima neograničen broj veb-adresa sa veb-lokacije. Ova strategija je nepouzdana ako sajt koristi engine za prepravku da bi pojednostavio svoju adresu.
+
+
+=== Normalizacija veb-adresa ===
+За више информација погледајте чланак Normalizacija veb-adresa.
+Tragači obično vrše neku vrstu nomalizacije veb-adresa, kako bi se izbeglo indeksiranje istog resursa dva puta. Termin normalizacije veb-adrese, koji se takođe naziva kanonizacijom veb-adrese, odnosi se na proces menjanja i standardizacije veb-adresa na dosledan način. Postoji nekoliko tipova normalizacije koje mogu biti izvršene, uključujući i konverziju veb-adrese u mala slova, uklanjanje segmenata „.” i „...”, kao i dodavanje pratećih slasheva na neprazne path komponente.
+
+
+=== Indeksiranje sa uzlaznom putanjom ===
+Neki tragači nameravaju da preuzmu što je više resursa moguće sa određenog veb-sajta. Tako je tragač sa uzlaznom putanjom uveden da bi se popeo na svaku putanju do željene u datoj adresi. Na primer, kad mu je dato seme, tragač će pokušati da indeksira /hamster/monkey, /hamster i /. Kotez je ustanovio da je tragač sa uzlaznom putanjom veoma efektivan u pronalaženju izolovanih resursa, ili resursa za koje — u običnom indeksiranju — dolazni link ne bi bio pronađen.
+Mnogi tragači sa uzlaznom putanjom su takođe poznati kao softver za ubiranje veb-sadržaja (engl. Web scraping software, Web harvesting software), zato što se koriste da prikupe kompletan sadržaj sa određene stranice ili hosta.
+
+
+=== Akademski tragači ===
+Primer tematskih tragača su akademski tragači, koji indeksiraju akademske dokumente sa otvorenim pristupom, kao što su citeseerxbot, tragač CiteSeerX pretraživača. Drugi akademski pretraživači su Google Scholar i Microsoft Academic Search i dr. Pošto je većina akademskih dokumenata publikovana u PDF formatu, ovakva vrsta tragača je posebno zainteresovana za indeksiranje PDF, postscript, Microsoft Word i njihovih komprimovanih formata. Zbog ovoga, opšti open-source tragači, kao što je Heritrix, moraju biti prilagođeni da filtriraju ostale MIME-tipove, ili da se posredni softver koristi za izdvojanje ovih dokumenata i ubacivanje istih u bazu podataka i skladište za tematsko indeksiranje. Izazov je identifikovati da li su ovi dokumenti akademski, toliko da to može značajno zagušiti proces indeksiranja, tako da se kao post-procesi koriste algoritmi zasnovani na mašinskom učenju i regularnim izrazima. Ovi akademski dokumenti se najčešće dobijaju sa početnih stranica osoblja fakulteta i studenara, ili stranica za publikacije naučnih instituta. Pošto ovi dokumenti zauzimaju mali deo ukupne veb-stranice, dobar izbor semena je važan za poboljšanje efikasnosti ovih tragača. Drugi akademski tragači mogu da preuzmu običan tekst i HTML datoteke, koje sadrže metapodatke akademskih papira, kao što su naslovi, papiri i sažeci. Ovo uvećava ukupni broj papira, ali značajan deo njih možda neće obezbediti besplatna preuzimanja.
+
+
+== Arhitekture ==
+
+Tragač ne samo da mora da ima dobru strategiju indeksiranja, kao što je navedeno u prethodnim poglavljima, već takođe treba da ima optimizovanu arhitekturu.
+Škapenijuk i Suel su primetili sledeće:
+Tragači su centralni deo pretraživača, a detalji o njihovim algoritmima i arhitekturi se čuvaju kao poslovne tajne. Kada su dizajni puzavca objavljeni, često postoji značajan nedostatak detalja koji sprečava druge da reprodukuju rad. Tu se takođe pojavljuje zabrinutost „pretraživačkog spamovanja”, koje sprečava vodeće internet pretraživače od objavljivanja njihovog rangiranja algoritama.
+
+
+== Identifikacija tragača ==
+Tragači 

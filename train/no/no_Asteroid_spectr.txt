@@ -1,0 +1,65 @@
+Asteroider blir tildelt en spektralklasse basert på emisjonsspekter, farge og noen ganger albedo. Disse klassene antas å samsvare med sammensetningen av asteroidens overflate. For små asteroider som ikke er lagdelte (differensierte) antas sammensetningen av overflaten å være lik asteroidens indre, mens man for større asteroider som 1 Ceres og 4 Vesta vet at de er differensierte.
+
+
+== Dagens klassifisering ==
+Dagens klassifisering ble påbegynt av Clark R. Chapman, David Morrison og Ben Zellner i 1975 med tre kategorier: C for mørke og karbonrike objekter, S for steinete (silikatrike) objekter, og U for de som ikke passet inn i kategoriene C or S. Denne klassifiseringen har siden blitt utvidet og klargjort.
+Det finnes for tiden flere klassifiseringssystemer i bruk, og selv om de etterstreber en gjensidig overensstemmelse så er ganske mange asteroider sortert i forskjellige klasser av de forskjellige klassifiseringssystemene. Dette skyldes av hvert system bruker forskjellige kriterier for sin klassifisering. De to mest vanlig brukte klassifiseringene er beskrevet under:
+
+
+=== Tholens klassifisering ===
+Det mest vanlig brukte klassifiseringssystemet i mer enn et tiår har vært det som David J. Tholen først introduserte i 1984. Denne klassifiseringen ble utviklet på bakgrunn av bredbåndspektra (mellom 0,31μm og 1,06μm) innsamlet under Eight-Color Asteroid Survey (ECAS) på 1980-tallet, i kombinasjon med albedo-målinger Det opprinnelige oppsettet var basert på 978 asteroider.
+Dette systemet omfatter 14 typer, hvorav de fleste asteroidene havner i en av tre brede kategorier, og flere mindre typer, som er som følger (med de største type-eksemplene i parentes):
+C-type asteroider mørke karbonrike objekter, herunder flere sub-typer:
+B-type asteroide (2 Pallas)
+F-type asteroide (704 Interamnia)
+G-type asteroide (1 Ceres)
+C-type asteroide (10 Hygiea), det gjenværende flertallet av «standard» C-type asteroider. Denne gruppen omfatter rundt 75% av alle asteroider.
+
+S-type asteroider (15 Eunomia, 3 Juno) silikatrike (dvs steinete) objekter. Denne klass omfatter rundt 17% av asteroidene.
+X-type asteroider
+M-type asteroider (16 Psyche) metalliske objekter, den tredje mest vanlige gruppen.
+E-type asteroide (44 Nysa, 55 Pandora) skiller seg fra M-typen hovedsakelig pga høy albedo
+P-type asteroide (259 Aletheia, 190 Ismene; CP: 324 Bamberga) skiller seg fra M-type hovedsakelig pga lav albedo
+
+De mindre klassene:
+A-type asteroide (446 Aeternitas)
+D-type asteroide (624 Hektor)
+T-type asteroide (96 Aegle)
+Q-type asteroide (1862 Apollo)
+R-type asteroide (349 Dembowska)
+V-type asteroide (4 Vesta)
+Objekter har noen ganger blitt tildelt en kombinert type, som for eksempel CG, i tilfeller hvor deres egenskaper har samsvart med en kombinasjon av hva som er typisk for flere klasser/typer.
+
+
+=== SMASS klassifisering ===
+Dette er en nyere klassifisering som ble introdusert av Schelte J. Bus og Richard P. Binzel i 2002, basert på Small Main-Belt Asteroid Spectroscopic Survey (SMASS), som omfattet 1447 asteroider. Denne undersøkelsen produserte spektra med langt høyere oppløsning enn ECAS, og var dermed i stand til å løse mange flere smale spektrale trekk. Det ble imidlertid observert innen et smalere bånd av bølgelengder (0.44μm til 0.92μm), og albedo ble heller ikke vurdert. Asteroidene ble sortert i 24 typer, og det ble så langt som mulig søkt å holde seg til Tholens klassifisering, gitt forskjellene i data. Flertallet av himmellegemene faller igjen innen de tre brede kategoriene C, S, og X, med noen få uvanlige objekter kategorisert i flere mindre typer:
+C-gruppen av karbonrike objekter, inkludert:
+B-type asteroider, som stort sett overlapper Tholens B- og F-type asteroider.
+C-type asteroider, de mest «typiske» ikke-B karbonrike objektene.
+Cg Ch Cgh, noe beslektet med Tholens G-type.
+Cb, overgangstyper mellom C- og B-typene.
+
+S-gruppen av silikatrike (steinete) objekter, inkludert:
+A-type asteroider
+Q-type asteroider
+R-type asteroider
+K-type asteroider, en ny kategori (181 Eucharis, 221 Eos)
+L-type asteroider, en ny kategori (83 Beatrix)
+S-type asteroider, de mest «typiske» objektene i S-gruppen.
+Sa, Sq, Sr, Sk, og Sl, overgangstyper mellom vanlig S og de andre typene i gruppen.
+
+X-gruppen av hovedsakelig metalliske objekter, inkludert:
+X-type asteroider, de mest «typiske» objektene i X-gruppen, inkludert objekter klassifisert av Tholen som M-, E- eller P-type.
+Xe, Xc, og Xk, overgangstyper mellom vanlig X og typene som samsvarer med den andre bokstaven.
+
+T-type asteroider
+D-type asteroider
+Ld-type asteroider, en ny type med mer ekstreme spektrale særtrekk enn L-typen
+O-type asteroid, en liten kategori (3628 Boznemcová)
+V-type asteroider
+Et betydelig antall små asteroider havnet i kategoriene Q-, R- og V-type, som hos Tholen var representert med et enkelt objekt i hver kategori. I SMASS-klassifiseringen blir hver asteroide bare tildelt en enkelt type.
+Noen få jordnære objekt har spektra som skiller seg sterkt from alle SMASS-klassene. Dette er antagelig fordi disse objektene er mye mindre enn de som observeres i Hovedbeltet, og de kan dermed ha yngre og mindre omformede overflater, eller være sammensatt av en mindre variert miks av mineraler.
+
+
+== Vurdering ==
+Disse klassifiseringssystemene forventes å bli utviklet videre og/elle

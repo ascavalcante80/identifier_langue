@@ -1,0 +1,52 @@
+Le Wiktionnaire est un dictionnaire de Wikimedia Foundation, dont l'objectif est de définir tous les mots dans toutes les langues. Le projet existe en plus de 150 langues. Le terme « Wiktionnaire » désigne la version en français de ce projet, Wiktionary étant le nom officiel en anglais. Il est fondé sur un système de wiki et son contenu est librement réutilisable (sous CC-BY-SA).
+
+
+== HistoireModifier ==
+Daniel Alston (connu sous le nom de contributeur Fonzy) est l'un des principaux initiateurs et promoteurs de ce projet. Le projet a été ouvert sur http://wiktionary.wikipedia.org le 12 décembre 2002, puis déplacé à http://www.wiktionary.org le 26 décembre 2002. Le 22 mars 2004, la version francophone a été créée à http://fr.wiktionary.org.
+
+
+== OrganisationModifier ==
+Les projets Wiktionnaire ont pour vocation de devenir ensemble un dictionnaire descriptif doublement multilingue (les entrées et les définitions sont multilingues). À terme, il devrait par exemple contenir la définition en wolof de mots inuktitut.
+Wiktionnaire, terme francisé, désigne la partie francophone du projet, c'est-à-dire celle contenant des définitions écrites en français. Mais les mots de toutes les langues peuvent y être définis. Si certains ont une graphie identique, ils sont séparés en paragraphes classés par ordre alphabétique sur les noms de leurs langues respectives.
+Chacun de ces paragraphes doit donc contenir des définitions de mots, complétées par les éléments suivants dans l'ordre :
+étymologie
+flexion (déclinaison et conjugaison)
+citation
+variante orthographique
+synonyme
+antonyme
+dérivé
+emprunt
+mot apparenté
+expression
+hyperonyme
+hyponyme
+méronyme
+holonyme
+traduction
+prononciation, sonore et écrite en phonétique
+homonyme (homographe et homophone)
+paronyme
+anagramme
+thésaurus
+annexe
+source
+Ces pages sont répertoriées dans des catégories thématiques formant des champs lexicaux.
+Par ailleurs, un outil JavaScript et Perl pouvant servir à la recherche de rimes, d'anagrammes, ou de mots (utilisable pour les mots croisés) fonctionne à partir de dumps du Wiktionnaire.
+
+
+=== Consultation du Wiktionnaire hors-connexionModifier ===
+
+Kiwix est un des principaux logiciels libres actuellement déployés pour consulter le Wiktionnaire à partir d'un ordinateur personnel sous Windows, Mac OS, Linux ou Android en mode hors connexion. Il permet de lire un fichier téléchargeable au format ZIM contenant par exemple Wikipédia en français. Pour cette dernière langue, un espace de 2,5 Go est nécessaire pour la dernière version de décembre 2013 (pour télécharger Wikipédia en français, rendez-vous sur la page Wikipédia hors-connexion). Ce logiciel offre la possibilité d'être chargé à partir d'une clé USB (applications portables), idéal en cas de manque de place dans l'ordinateur.
+Wiktionaryx. Permet de consulter le Wiktionary en anglais et en français. Ce site met à disposition les bases de ces dictionnaires en format XML, lisible par des navigateurs Web, donc facilement exploitable. Utilitaire gratuit édité par l'université Toulouse 2. Cet utilitaire est libre.
+Wikidico+ pour Mac OS et iPhone, iPod touch, et iPad, (payante).
+NGHS pour Android, iPhone, iPod touch, et iPad (payante ou gratuite).
+
+
+== PopularitéModifier ==
+Selon le service de statistiques de web Alexa, environ 5 000 000 de pages sont vues chaque jour sur l'ensemble des sites wiktionary.org. Ce qui en fait approximativement le six-centième site le plus fréquenté d'Internet, et l’un des principaux sites en matière de lexicographie.
+
+
+=== Version en françaisModifier ===
+En termes de fréquentation, la version francophone du projet comprend plus de deux millions d'entrées et représente 18 % du trafic généré par wiktionary.org, contre 40 % pour la version anglophone, 14 % pour la version russophone et 9,4 % pour la version germanophone. Comme 12,6 % de ce trafic vient de France, une bonne part de l'utilisation du Wiktionnaire provient du reste de la francophonie et des pays non francophones.
+Grâce à l'insertion automatique de plusieurs dictionnaires libres, la version francophone a très vite grandi fin 2005, et en 2006. Le 6 avril 2005, le Wiktionnaire comptait environ 4 000 articles. En novembre de la même année, il a dépassé les 25 000 articles, toutes langues c

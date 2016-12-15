@@ -1,0 +1,14 @@
+or serem mais indicados devido às suas menores queda de tensão de retificação) associado com um filtro Passa-Baixa.
+O último bloco é formado pelo filtro Passa-Baixa de frequências de áudio, cuja frequência de corte é dada pela fórmula:
+
+ rad/s
+
+ou
+
+ Hertz
+
+Quando utilizamos a Modulação AM a banda de áudio é de apenas 4.000 Hz. Dessa forma, quando o transdutor de cristal () possui uma impedãncia de 2.000 ohms, um valor indicado para o capacitor  é de 20 nF.
+
+
+== Ligações externas ==
+Montagem de uma rádio Galena

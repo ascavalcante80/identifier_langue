@@ -1,0 +1,59 @@
+y, the nomenclature for the more commonly used ranks (superfamily to subspecies), is regulated by the International Code of Zoological Nomenclature (ICZN Code). In the fields of botany, phycology, and mycology, the naming of taxa is governed by the International Code of Nomenclature for algae, fungi, and plants (ICN).
+The initial description of a taxon involves five main requirements:
+The taxon must be given a name based on the 26 letters in the Latin alphabet (a binomial for new species, or uninomial for other ranks).
+The name must be unique (i.e. not a homonym).
+The description must be based on at least one name-bearing type specimen.
+It should include statements about appropriate attributes to either describe (define) the taxon, and/or differentiate it from other taxa (the diagnosis, ICZN Code, Article 13.1.1, ICN, Article 38). Both codes deliberately separate defining the content of a taxon (its circumscription) from defining its name.
+These first four requirements must be published in a work that is obtainable in numerous identical copies, as a permanent scientific record.
+However, often much more information is included, like the geographic range of the taxon, ecological notes, chemistry, behavior, etc. How researchers arrive at their taxa varies; depending on the available data, and resources, methods vary from simple quantitative or qualitative comparisons of striking features, to elaborate computer analyses of large amounts of DNA sequence data.
+
+
+=== Authorities (author citation) ===
+
+An "authority" may be placed after a scientific name. The authority is the name of the scientist who first validly published the name. For example, in 1758 Linnaeus gave the Asian elephant the scientific name Elephas maximus, so the name is sometimes written as "Elephas maximus Linnaeus, 1758". The names of authors are frequently abbreviated: the abbreviation L. is universally accepted for Linnaeus, and in botany there is a regulated list of standard abbreviations (see list of botanists by author abbreviation). The system for assigning authorities differs slightly between botany and zoology. However, it is standard that if a species' name or placement has been changed since the original description, the original authority's name is placed in parentheses.
+
+
+== Phenetics ==
+
+In phenetics, also known as taximetrics, organisms are classified based on overall similarity, regardless of their phylogeny or evolutionary relationships. It results in a measure of evolutionary "distance" between taxa. Phenetic methods have become relatively rare in modern times, largely superseded by cladistic analyses, as phenetic methods do not distinguish plesiomorphic from apomorphic traits. However, certain phenetic methods, such as neighbor joining, have found their way into cladistics, as a reasonable approximation of phylogeny when more advanced methods (such as Bayesian inference) are too computationally expensive.
+
+
+== Databases ==
+Modern taxonomy uses database technologies to search and catalog classifications and their documentation. While there is no commonly used database, there are comprehensive databases such as the Catalogue of Life, which attempts to list every documented species. The catalogue listed 1.4 million species for all kingdoms as of May 2012, claiming coverage of more than 74% of the estimated 1.9 million species known to modern science.
+
+
+== See also ==
+Barcode of Life
+Evolutionary taxonomy
+Genetypes
+Glossary of scientific naming
+Identification (biology)
+Incertae sedis, or "of uncertain placement", a term used for a taxonomic group where its broader relationships are unknown or undefined
+Nomenclature
+Phylogenetics
+Species description
+Systematics
+Taxonomy (general)
+Type (biology)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+What is taxonomy? at the Natural History Museum London
+What is taxonomy? at the European Distributed Institute of Taxonomy
+Taxonomy related articles at The Guardian
+Taxonomy at NCBI the National Center for Biotechnology Information
+Taxonomy at UniProt the Universal Protein Resource
+ITIS the Integrated Taxonomic Information System
+GTI the Global Taxonomic Initiative
+TRIN the Taxonomy Research & Information Network
+CETaF the Consortium of European Taxonomic Facilities
+Wikispecies free species directory

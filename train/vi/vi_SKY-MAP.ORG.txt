@@ -1,0 +1,24 @@
+SKY-MAP.ORG (hay WikiSky.org) là một trang wiki và bản đồ bầu trời tương tác chứa hơn nửa tỷ thiên thể trong Vũ trụ. Thành viên có thể xem toàn bộ bầu trời bằng cách phóng đại vùng nhìn với chi tiết rõ hơn. WikiSky chứa các sao, thiên hà, chòm sao, và hành tinh đồng thời dữ liệu của nó vẫn đang được phát triển. Thành viên đăng ký có thể sửa đổi thông tin về các thiên thể, viết thêm thông tin, thêm liên kết hữu ích, tải lên ảnh hoặc tạo ra một nhóm hay thể loại đặc biệt.
+
+
+== Phần mềm ==
+Người sử dụng có thể duyệt bầu trời trong chế độ bản đồ hoặc trong chế độ của SDSS. Trong các chế độ khác, thành viên đăng ký có thể truy cập và sửa đổi các thiên thể khả kiến. Điều này cho phép nhiều thiên thể được miêu tả chi tiết bao gồm thông tin cũng như các hình ảnh khác nhau.
+SKY-MAP.ORG cũng cung cấp API cho phép viết các mã để truy nhập bản đồ, thông tin thiên thể và dữ liệu của SDSS. Hàm API có nhiều tính năng hơn phần tương tác của website đang chạy tương tác này.
+
+
+== Bản quyền hình ảnh Wikisky ==
+Một số hình ảnh từ Wikisky, như ảnh của Digitized Sky Survey (DSS2) và Sloan Digital Sky Survey (SDSS) được sử dụng với mục đích "phi thương mại". Bản quyền dữ liệu của DSS do nhiều viện nghiên cứu nắm giữ. Dữ liệu của SDSS cũng chỉ được phép sử dụng với mục đích phi thương mại. Những hình ảnh từ Hubble Space Telescope (HST), Spitzer Space Telescope (hồng ngoại) hoặc kính thiên văn không gian GALEX (cực tím) thuộc về phạm vi công cộng "PD-NASA-USgov".
+
+
+== Bản đồ tương tự ==
+Google Sky
+
+
+== Tham khảo ==
+
+
+=== Ghi chú ===
+
+
+=== Đọc thêm ===
+"WikiSky brings sk

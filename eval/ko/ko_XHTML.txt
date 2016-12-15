@@ -1,0 +1,54 @@
+되지 않음.(대체 텍스트는 이미지를 로드하지 못하는 장치나 시각장애인의 스크린리더가 접근하기 쉽게 만들어준다.)
+틀림: <img src="/skins/common/images/poweredby_mediawiki_88x31.png" />
+옳음: <img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" />
+
+본문에 직접 텍스트를 삽입(태그가 텍스트를 감싸지 않음.)
+틀림: <body>Welcome to my page.</body>
+옳음: <body><p>Welcome to my page.</p></body>
+
+인라인 요소가 블록-레벨 요소를 포함함.
+틀림: <em><h2>Introduction</h2></em>
+옳음: <h2><em>Introduction</em></h2>
+
+속성 값을 인용부호로 감싸지 않음
+틀림: <td rowspan=3>
+옳음: <td rowspan="3">
+
+'&' 문자를 직접 사용 ('&amp;'로 대체)
+틀림: <title>Cars & Trucks</title>
+옳음: <title>Cars &amp; Trucks</title>
+
+태그 이름이나 태그 속성에 대문자를 사용
+틀림: <BODY><P>The Best Page Ever</P></BODY>
+옳음: <body><p>The Best Page Ever</p></body>
+
+간소화된 속성 사용
+틀림: <textarea readonly>READ-ONLY</textarea>
+옳음: <textarea readonly="readonly">READ-ONLY</textarea>
+
+이것은 완전한 목록은 아니지만 XHTML 코드 작성 시에 흔히 생기는 일반적인 오류들을 포함하고 있다.
+
+
+== 예 ==
+XHTML 1.0 Strict 문서의 한 예이다.
+
+
+== 같이 보기 ==
+DHTML
+HTML
+
+
+== 바깥 고리 ==
+W3C의 마크업 홈페이지
+XHTML 1.0 기술 규격
+XHTML 1.1 기술 규격
+XHTML을 text/html로 보내는 것은 위험하다
+XHTML 평가 - XHTML의 장단점
+Trio의 HTML 4.01 기술 규격(한글)
+Trio의 XHTML 1.0 기술 규격(한글)
+
+
+=== 유효성 검사 프로그램 ===
+(영어) W3C의 마크업 유효성 검사 프로그램
+(영어) WDG HTML 유효성 검사 프로그램
+KLDP의 마크업 유효성 검사 프로그램

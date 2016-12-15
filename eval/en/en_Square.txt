@@ -1,0 +1,36 @@
+rbolic geometry have angles of less than right angles. Larger hyperbolic squares have smaller angles.
+Examples:
+
+
+== Crossed square ==
+A crossed square is a faceting of the square, a self-intersecting polygon created by removing two opposite edges of a square and reconnecting by its two diagonals. It has half the symmetry of the square, Dih2, order 4. It has the same vertex arrangement as the square, and is vertex-transitive. It appears as two 45-45-90 triangle with a common vertex, but the geometric intersection is not considered a vertex.
+A crossed square is sometimes likened to a bow tie or butterfly. the crossed rectangle is related, as a faceting of the rectangle, both special cases of crossed quadrilaterals.
+The interior of a crossed square can have a polygon density of ±1 in each triangle, dependent upon the winding orientation as clockwise or counterclockwise.
+A square and a crossed square have the following properties in common:
+Opposite sides are equal in length.
+The two diagonals are equal in length.
+It has two lines of reflectional symmetry and rotational symmetry of order 2 (through 180°).
+It exists in the vertex figure of a uniform star polyhedra, the tetrahemihexahedron:
+
+
+== Graphs ==
+
+The K4 complete graph is often drawn as a square with all 6 edges connected. This graph also represents an orthographic projection of the 4 vertices and 6 edges of the regular 3-simplex (tetrahedron).
+
+
+== See also ==
+Cube
+Pythagorean theorem
+Square lattice
+Squircle
+Unit square
+
+
+== References ==
+
+
+== External links ==
+Animated course (Construction, Circumference, Area)
+Weisstein, Eric W., "Square", MathWorld.
+Definition and properties of a square With interactive applet
+Animated applet illustrating the area of a square

@@ -1,0 +1,110 @@
+As zonas horárias ou fusos horários são cada uma das vinte e quatro áreas em que se divide a Terra e que seguem a mesma definição de tempo. O termo fuso denomina a porção de superfície esférica compreendida entre dois semiplanos que partem de um diâmetro da esfera , assemelhando-se à superfície externa de um gomo de laranja. Anteriormente, por volta do ano 1300, ou já antes, usavam-se o tempo solar aparente, passagem meridiana do Sol, de forma que a hora do meio-dia se diferenciava de uma cidade para outra. Os fusos horários corrigiram em parte o problema ao colocar os relógios de cada região no mesmo tempo solar médio.
+
+
+== Definição ==
+Os fusos horários geralmente estão centrados nos meridianos das longitudes que são múltiplos de 15°; no entanto, as formas dos fusos horários podem ser bastante irregulares devido às fronteiras nacionais dos vários países ou devido a questões políticas (caso da China, que poderia abranger algo como 4 fusos horários, mas obriga todo o país a utilizar o horário de Pequim com evidentes distorções no oeste chinês, onde quando não é inverno o sol nasce por volta das nove horas da manhã).
+Todos os fusos horários são definidos em relação ao Tempo Universal Coordenado (UTC), o fuso horário que contém Londres quando esta cidade não está no horário de verão onde se localiza o meridiano de Greenwich, o qual divide o fuso horário.
+
+
+== História ==
+
+A hora era uma característica extremamente local. Antigos viajantes tinham que acertar o relógio toda vez que chegavam a uma cidade nova. O acerto de horas era feito através do sol: o meio dia representava o ponto mais alto que a estrela alcançava. Grande parte das empresas, devido a estas irregularidades resolveram fixar cem fusos dos caminhos de ferro. Esta prática ocorreu até 1883. 
+Na Grã-Bretanha, foi criada uma única hora legal para todo o país (Inglaterra, Escócia e País de Gales), sendo o autor original desta ideia o Dr. William Hyde Wollaston. Com isto, a prática foi se popularizando.
+Great Western Railway, foi a primeira companhia de trem a utilizar a hora Greenwich Mean Time (GMT) ou Tempo Médio de Greenwich. Em 1847, praticamente todas utilizavam este sistema.
+O senador do Canadá, Sanford Fleming, em 1878, sugeriu um sistema internacional de fusos horários. Seu pensamento era dividir a Terra em 24 faixas verticais, onde cada uma delas era um fuso de uma hora. O planeta possui 360° de circunferência, assim sendo, cada faixa teria 15° de largura longitudinal. Em 1879, o estudo foi publicado no jornal do Instituto do Canadá de Toronto. Com a aprovação norte-americana, em 18 de novembro de 1883, as linhas de trem passaram a utilizar os fusos.
+Em 1884, foi realizada a Conferência Internacional do Primeiro Meridiano, em Washington, D. C., Estados Unidos. A proposta era padronizar a utilização mundial da hora legal. Acabou sendo aceita a teoria de Fleming. A longitude 0° passaria pelo Observatório Real de Greenwich. Os outros fusos seriam contados positivamente para leste, e negativamente para oeste, até ao Meridiano de 180º - o Antimeridiano, situado no Oceano Pacífico, onde seria a Linha Internacional de Data.
+
+
+== Cálculo aproximado e Lei de Aldrin ==
+O cálculo é aproximado por questões de existir o horário de verão e convenções políticas de cada país.
+O planeta Terra possui forma geoide com circunferência de 360°, com uma rotação completa a cada 24 horas. Ou seja, para cada hora a Terra se desloca 15° (sentido anti-horário). Os fusos são determinados pelo meridiano 0 na cidade de Greenwich, próxima a Londres. Desta forma, de quinze em quinze graus a leste, os fusos são numerados positivamente (+1, +2, +3...+12) e a oeste negativamente (-1, -2, -3...-12). 
+Para saber o horário de alguma cidade é necessário conhecer o meridiano que está e a posição em relação a Greenwich (leste ou oeste). O cálculo é feito através da verificação dos fusos no mapa, subtraindo o menor do maior. E atentando para o jogo de sinais. Depois, deve ser somada esta diferença à hora legal se estiver a leste e subtraída caso esteja em oeste.
+
+O método conhecido como "Lei de Aldrin" determina a diferença de fusos horários entre 2 locais. Ele é formado por 2 passos:
+1°: Descobrir a diferença em graus entre as regiões (DG). "Longitude A" ± "Longitude B" = DG. Regiões em hemisférios iguais subtraem-se os graus, Regiões em hemisférios diferentes somam-se os graus.
+2°: Descobrir a diferença em horas dos fusos (DH). Esta é mensurada pela razão da diferença em graus por 15 (DG/15 = DH). Achando assim a diferença entre os fusos horários.
+
+
+== Extensões dos fusos ==
+Os limites entre fusos horários, como é bem conhecido, não seguem necessariamente os meridianos múltiplos de +/- 15°. Seguem fronteiras políticas entre nações, províncias, estados dentro dos países, convenções e definições dos países.
+Porém, para facilitar o entendimento e sem se prender a fronteiras políticas, pode-se considerar que na linha do Equador cada fuso (15°) apresenta uma largura média da ordem de 1667 km.
+Os fusos vão tendo reduzida sua largura média, a medida que se aproximam dos Pólos. Assim, nos trópicos de Câncer e Capricórnio essa largura média dos 15° de cada fuso seria da ordem de 1529 km.
+A extensão leste-oeste dos fusos é, na altura dos Paralelos 30° Norte e 30° Sul, de cerca de 1443 km. Nas Latitudes 50° Norte e 50° Sul os fusos apresentam largura média de 1071 km.
+Na proximidade dos polos, Latitudes 80° Norte e 80° Sul, a largura de cada fuso é de apenas 289,4 km.
+
+
+== Meridianos ==
+Para interlocutores, foi convencionada uma letra e um nome para cada meridiano. O sistema pode funcionar mesmo em condições adversas de transmissão de rádio. A letra J (Juliet), representa a hora do observador e a Linha Internacional de data fica entre o M e o Y.
+
+
+== Fusos horários no mundo ==
+
+
+=== Fusos horários brasileiros ===
+
+O Brasil possui quatro fusos horários: 
+UTC−2: Atol das Rocas, Fernando de Noronha, São Pedro e São Paulo, Trindade e Martim Vaz.
+UTC−3 (horário de Brasília): regiões Sul, Sudeste e Nordeste; estados de Goiás, Tocantins, Pará e Amapá; e o Distrito Federal.
+UTC−4: estados do Mato Grosso, Mato Grosso do Sul, Rondônia, Roraima, e a parte do Amazonas que fica a leste da linha que interliga Tabatinga e Porto Acre.
+UTC−5: estado do Acre e a porção do Amazonas que fica a oeste da linha mencionada no parágrafo anterior.
+
+
+=== Fusos horários portugueses ===
+Em Portugal continental e na Madeira vigora o fuso horário UTC+0. Nos Açores o fuso UTC-1.
+Em 1992 Portugal adotou o horário da Europa Central (fuso UTC+1), sob a máxima de facilitar as comunicações e transportes internacionais.
+Contudo, as queixas iam-se acumulando. As pessoas saíam de casa às 9 horas da manhã, no inverno, e ainda o Sol não despontava no horizonte. No verão, o céu enegrecia por completo apenas por volta da meia-noite. Em 1996 voltou-se a usar o fuso UTC+0.
+Em Portugal continental o fuso UTC+0 distancia-se, numa média, de "37 minutos" em relação à hora do Sol.
+
+
+=== Fusos horários espanhóis ===
+Historicamente em Espanha usava-se o fuso horário UTC+0. O país abandonou o seu fuso horário em 2 de Maio de 1942 , por interesse de Francisco Franco, que preferiu ajustar o relógio nacional com o da Alemanha nazi de Hitler .
+
+
+== Fusos especiais ==
+
+
+=== Antártida ===
+O fuso horário oficial da Antártida é único, o GMT 0.00, de Greenwich, Londres. É, porém, comum que nas bases instaladas no continente, seja adotado o horário do país sede da base.
+
+
+=== Fusos de meia hora ===
+Há dez fusos horários com desfasamento de X.1/2 em relação ao GMT 0 de Greenwich (sendo X um número inteiro de 1 a 12):
+GMT + 3.1/2 - Irã
+GMT + 4.1/2 - Afeganistão
+GMT + 5.1/2 - Índia
+GMT + 6.1/2 - Myanmar
+GMT + 8.1/2 - Coreia do Norte  
+GMT + 9.1/2 - Território do Norte - Austrália
+GMT + 10.1/2 - Austrália Meridional - Austrália
+GMT + 11.1/2 - Ilha Norfolk
+GMT - 3.1/2 - St. John's - Canadá
+GMT - 4.1/2 - Venezuela
+GMT - 9.1/2 - Arquipélago das Marquesas na Polinésia Francesa
+
+
+=== Fusos 3/4 hora ===
+Há três fusos horários com defasamento de X.3/4 (Xh 45 min):
+GMT + 5.3/4- Nepal
+GMT + 8.3/4 - Caiguna e Eucla na Austrália Ocidental, Austrália
+GMT + 12.3/4 - Ilhas Chatham - Nova Zelândia
+
+
+=== Fusos > +12 GMT ===
+Além do já citado de Chathan, há dois fusos horários maiores do que GMT +12, estabelecidos em 1994 com a eliminação do dia 31.12.1994.
+GMT +13 - Ilhas Phoenix em Kiribati (era GMT -11); também em Tonga; idem Samoa, cujo fuso foi mudado de -11 GMT para +13 GMT em 1º de janeiro de 2012.
+GMT +14 - Espórades Equatoriais, em Kiribati (era GMT -10).
+
+
+== Fusos marítimos ==
+Os fusos horários marítimos foram estabelecidos em 1920 e são considerados por embarcações quando em Alto mar, não incluídas aí as Águas territoriais dos países, ilhas, territórios de ultramar, etc. São fusos ditos "ideais", pois seguem exatamente os Meridianos. O horário deve ser adiantado ou atrasado em uma hora, cada vez que um dos meridianos múltiplos de 15° (+/-7° 30') seja cruzado.
+
+
+== Fusos extremos ==
+O mais populoso dos fusos horários é o GMT +8, da República Popular da China (quase toda a população do fuso), da Mongólia, de parte da Rússia (na Sibéria), oeste da Austrália. Esse é também o fuso horário que cobre maior extensão territorial. Sobre o território da China, aproximadamente ao longo do 38º30'N, se estende por cerca de 4060 km, entre as longitudes 75ºE e 122ºE.
+O segundo mais populoso é o GMT +5.1/2, da Índia. São bem populosos os fusos:
+GMT + 1 - maior parte da Europa, oeste da África (é o fuso que inclui maior área)
+GMT - 5 - grande parte dos Estados Unidos, noroeste da América do Sul
+GMT - 3 - Brasil, sudeste da América do Sul
+GMT + 3 - Rússia Europeia, Península Arábica, leste da África
+Os menos populosos são os 7 quase "vazios" que ficam no meio dos grandes oceanos:
+no Pacífico - GMT +11, GMT +/-12, GMT -11, GMT -10, 

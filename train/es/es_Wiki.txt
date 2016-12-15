@@ -1,0 +1,78 @@
+Wiki (del hawaiano wiki, ‘rápido’) es el nombre que recibe un sitio web cuyas páginas pueden ser editadas directamente desde el navegador, donde los usuarios crean, modifican o eliminan contenidos que, generalmente, comparten. Es cualquier sitio web que puede ser editado por cualquier persona en una plataforma web.
+Los textos o «páginas wiki» tienen títulos únicos. Si se escribe el título de una página wiki en algún sitio del wiki entre dobles corchetes ([[Título de la página]]) esta palabra se convierte en un «enlace web» a la página correspondiente.
+Es un sistema de trabajo que utilizan los sitios web para editar o crear un contenido de forma rápida y sencilla.
+Así, en una página sobre «alpinismo» puede haber una palabra como «piolet» o «brújula» que esté marcada como palabra perteneciente a un título de página wiki. La mayor parte de las implementaciones de wikis indican en el localizador uniforme de recursos (URL) de la página el propio título de la página wiki (en Wikipedia ocurre así: <https://es.wikipedia.org/wiki/Alpinismo> es el URL de la página wiki Alpinismo), facilitando el uso y comprensibilidad del enlace fuera del propio sitio web. Además, esto permite formar en muchas ocasiones una coherencia terminológica, generando una ordenación natural del contenido.
+Las aplicaciones de mayor peso y a la que le debe su mayor fama hasta el momento ha sido la creación de enciclopedias colectivas, género al que pertenece Wikipedia. Existen muchas otras aplicaciones más cercanas a la coordinación de informaciones y acciones, o la puesta en común de conocimientos o textos dentro de grupos.
+La mayor parte de los wikis actuales conservan un historial de cambios que permite recuperar fácilmente cualquier estado anterior y ver qué usuario hizo cada cambio, lo cual facilita el mantenimiento conjunto y el control de usuarios nocivos. Habitualmente, sin necesidad de una revisión previa, se actualiza el contenido que muestra la página wiki editada.
+
+
+== HistoriaEditar ==
+
+El origen de los wikis está en la comunidad de patrones de diseño, cuyos integrantes los utilizaron para escribir modelos de programación. El primer WikiWikiWeb fue creado por Ward Cunningham, quien inventó y dio nombre al concepto wiki, y produjo la primera implementación de un servidor WikiWiki para el repositorio de patrones del Portland (Portland Pattern Repository) en 1995. En palabras del propio Cunningham, un wiki es «la base de datos en línea más simple que pueda funcionar» (the simplest online database that could possibly work).
+En enero de 2001, los fundadores del proyecto de enciclopedia Nupedia, Jimmy Wales y Larry Sanger, decidieron utilizar un wiki como base para el proyecto de enciclopedia Wikipedia. Originalmente se usó el software UseMod, pero luego crearon un software propio, MediaWiki, que ha sido adoptado después por muchos otros wikis.
+El wiki más grande que existe es la versión en inglés de Wikipedia, seguida por varias otras versiones del proyecto. Los wikis que no pertenecen a Wikipedia son mucho más pequeños y con menor participación de usuarios, generalmente debido al hecho de ser mucho más especializados. Es muy frecuente, por ejemplo, la creación de wikis para proveer de documentación a programas informáticos, especialmente los desarrollados en software libre.
+
+
+== VentajasEditar ==
+La principal utilidad de un wiki es que permite crear y mejorar las páginas de forma inmediata, dando una gran libertad al usuario, y por medio de una interfaz muy simple. Esto hace que más gente participe en su modificación, a diferencia de los sistemas tradicionales, donde resulta más difícil que los usuarios del sitio contribuyan a mejorarlo.
+Dada la gran rapidez con la que se actualizan los contenidos, la palabra «wiki» adopta todo su sentido. El «documento» de hipertexto resultante, denominado también «wiki» o «WikiWikiWeb», lo produce típicamente una comunidad de usuarios. Muchos de estos lugares son inmediatamente identificables por su particular uso de palabras en mayúsculas, o texto capitalizado –uso que consiste en poner en mayúsculas las iniciales de las palabras de una frase y eliminar los espacios entre ellas– como por ejemplo en EsteEsUnEjemplo. Esto convierte automáticamente a la frase en un enlace. Este wiki, en sus orígenes, se comportaba de esa manera, pero actualmente se respetan los espacios y sólo hace falta encerrar el título del enlace entre dos corchetes.
+
+
+== InconvenientesEditar ==
+Lo más importante se describe como la posibilidad de introducir adendos y modificaciones carentes de autenticidad y rigor. Cualquier persona podrá intervenir sin que su información o comentarios estén suficientemente contrastados. Debido a ello, se toman las medidas más adecuadas al alcance de los mecanismos editoriales con objeto de optimizar la fiabilidad de las informaciones introducidas.
+
+
+== CaracterísticasEditar ==
+Según su creador una wiki es “la base de datos en línea más simple que pueda funcionar". Se trata de un tipo de página web que brinda la posibilidad de que multitud de usuarios puedan editar sus contenidos a través del navegador web, con ciertas restricciones mínimas. De esta forma permite que múltiples autores puedan crear, modificar o eliminar los contenidos. Se puede identificar a cada usuario que realiza un cambio y recuperar los contenidos modificados, volviendo a un estado anterior. Estas características facilitan el trabajo en colaboración así como la coordinación de acciones e intercambio de información sin necesidad de estar presentes físicamente ni conectados de forma simultánea. El ejemplo más conocido y de mayor tamaño de este tipo de páginas web es la enciclopedia colaborativa Wikipedia (www.wikipedia.org). A favor: Es una fuente de información y bibliográfica de construcción colectiva. Problemas: La información publicada puede provenir de fuentes erróneas o no válidas. Solución/recomendaciones: Es recomendable trabajar criterios sobre el empleo de fuentes de información confiables y formas de validar los contenidos.
+Un wiki permite que se escriban artículos colectivamente (co-autoría) por medio de un lenguaje de wikitexto editado mediante un navegador. Una página wiki singular es llamada «página wiki», mientras que el conjunto de páginas (normalmente interconectadas mediante hipervínculos) es «el wiki». Es mucho más sencillo y fácil de usar que una base de datos.
+Una característica que define la tecnología wiki es la facilidad con que las páginas pueden ser creadas y actualizadas. En general no hace falta revisión para que los cambios sean aceptados. La mayoría de wikis están abiertos al público sin la necesidad de registrar una cuenta de usuario. A veces se requiere hacer login para obtener una cookie de «wiki-firma», para autofirmar las ediciones propias. Otros wikis más privados requieren autenticación de usuario.
+
+
+=== Perspectivas pedagógicas de WikiEditar ===
+Por lo explicado, las Wiki son una muy buena opción pedagógica para realizar actividades educativas, ya que como explica Mariana Maggio, se pueden generar propuestas que los alumnos puedan integrar en las Wiki a partir de la reconstrucción de las mismas en un sentido didáctico. En la actualidad los documentos Web, como lo es el ejemplo de las Wiki, crean tendencias y cuando éstas configuran los usos de los niños y los jóvenes, es importante que los educadores las reconozcan y se preocupen por entenderlas a partir de su exploración.
+Para Maggio, «un proyecto didáctico maravilloso puede ser, cuando el tema lo justifique, generar contenidos para Wikipedia o revisar los publicados allí: entender el tema de un modo profundo, verificar los contenidos, transparentar y discutir los criterios, ampliar lo publicado, ofrecer versiones y especificaciones de alto valor local».
+Un wiki también puede ser un espacio usado para seguimiento individual de los alumnos, donde ellos puedan crear sus proyectos independientemente y el profesor pueda intervenir guiando y corrigiendo. Se ha utilizado también en procesos de formación docente ayudando al mejoramiento de sus habilidades tecnológicas, pero también los procesos de colaboración entre pares  . Permite la creación colectiva de documentos en un lenguaje simple de marcas utilizando un navegador web. Generalmente no se hacen revisiones previas antes de aceptar las modificaciones y la mayoría de los wikis están abiertas. Permite a los participantes trabajar juntos en páginas web, para añadir o modificar su contenido. Las versiones antiguas nunca se eliminan y pueden restaurarse. Se puede seleccionar diferentes tipos de wiki, profesor, grupo, alumno.
+
+
+=== Páginas y ediciónEditar ===
+En un wiki tradicional existen tres representaciones por cada página:
+El «código fuente»,que pueden editar los usuarios. Es el formato almacenado localmente en el servidor. Normalmente es texto plano, sólo es visible para el usuario cuando lo muestra la operación «Editar».
+Una plantilla (en ocasiones generada internamente) que define la disposición y elementos comunes de todas las páginas.
+El código HTML, puesto en tiempo real por el servidor a partir del código fuente cada vez que la página se solicita.
+El código fuente es potenciado mediante un lenguaje de marcado simplificado para hacer varias convenciones visuales y estructurales. Por ejemplo, el uso del asterisco «*» al empezar una línea de texto significa que se generará una lista desordenada de elementos (bullet-list). El estilo y la sintaxis pueden variar en función de la implementación, alguno de las cuales también permite etiquetas HTML.
+
+
+=== ¿Por qué no HTML?Editar ===
+La razón de este diseño es que el HTML, con muchas de sus etiquetas crípticas, es difícil de leer para usuarios no habituados a la tecnología. Hacer visibles las etiquetas de HTML provoca que el texto en sí sea difícil de leer y editar para la mayoría de usuarios. Por lo tanto, se promueve el uso de edición en texto llano con convenciones para la estructura y el estilo fáciles de comprender.
+A veces es deseable que los usuarios no puedan usar ciertas funcionalidades que el HTML permite, tales como JavaScript, CSS y XML. Se consigue consistencia en la visualización, así como seguridad adicional para el usuario. En muchas inserciones de wiki, un hipervínculo es exactamente tal como se muestra, al contrario de lo que ocurre en el HTML.
+
+
+=== EstándarEditar ===
+Durante años el estándar de facto fue la sintaxis del WikiWikiWeb original. Actualmente las instrucciones de formateo son diferentes dependiendo del motor del wiki. Los wikis simples permiten sólo formateo de texto básico, mientras que otros más complejos tienen soporte para cuadros, imágenes, fórmulas e incluso otros elementos más interactivos tales como encuestas y juegos. Debido a la dificultad de usar varias sintaxis, se están haciendo esfuerzos para definir un estándar de marcado (ver esfuerzos de Meatball y Tikiwiki).
+
+
+=== Vincular y crear páginasEditar ===
+Los wikis son un auténtico medio de hipertexto, con estructuras de navegación no lineal. Cada página contiene un gran número de vínculos a otras páginas. En grandes wikis existen las páginas de navegación jerárquica, normalmente como consecuencia del proceso de creación original, pero no es necesario usarlas. Los vínculos se usan con una sintaxis específica, el «patrón de vínculos».
+
+
+==== CamelCaseEditar ====
+Originalmente gran parte de wikis usaban CamelCase como patrón de vínculos, poniendo frases sin espacios y poniendo la primera letra de cada palabra en mayúscula (por ejemplo, la palabra «CamelCase»). Este método es muy fácil, pero hace que los hiperenlaces se escriban de una manera que se desvía de la escritura estándar. Los wikis basados en CamelCase se distinguen instantáneamente por los enlaces con nombres como: «TablaDeContenidos», «PreguntasFrecuentes». Por consiguiente, comenzaron a desarrollarse otras soluciones.
+
+
+==== Vínculos libresEditar ====
+Los «vínculos libres», usados por primera vez por CLiki, usan un formato tipo _(vínculo). Por ejemplo, _(Tabla de contenidos), _(Preguntas frecuentes). Otros motores de wiki usan distintos signos de puntuación.
+
+
+==== InterwikiEditar ====
+Interwiki permite vínculos entre distintas comunidades wiki.
+Las nuevas páginas se crean simplemente creando un vínculo apropiado. Si el vínculo no existe, se acostumbra a destacar como «vínculo roto». Siguiendo el vínculo se abre una página de edición, que permite al usuario introducir el texto para la nueva página wiki. Este mecanismo asegura que casi no se generen páginas huérfanas (es decir, páginas que no tienen ningún vínculo apuntando a ellas). Además se mantiene un nivel alto de conectividad.
+
+
+=== BúsquedaEditar ===
+La mayoría de wikis permite al menos una búsqueda por títulos, a veces incluso una búsqueda por texto completo. La escalabilidad de la búsqueda depende totalmente del hecho de que el motor del wiki disponga de una base de datos o no: es necesario el acceso a una base de datos indexada para hacer búsquedas rápidas en wikis grandes. En Wikipedia el botón «Ir» permite a los lectores ir directamente a una página que concuerde con los criterios de búsqueda. El motor de MetaWiki se creó para habilitar búsquedas en múltiples wikis.
+
+
+=== Control de cambiosEditar ===
+Los wikis suelen diseñarse con la filosofía de aumentar la facilidad de corrección de los errores, y no la de reducir la dificultad de cometerlos. Los wikis son muy abiertos, pero incluso así proporcionan maneras de verificar la validez de los últimos cambios al contenido de las páginas. En casi todos los wikis hay una página específica, «Cambios recientes», que enumera las ediciones más recientes de artículos, o una lista con los cambios hechos durante un período. Algunos wikis pueden filtrar la lista para deshacer cambios hechos por vandalismo.
+Desde el registro de cambios suele haber otras funciones: el «Historial de revisión» muestra versiones anteriores de la página, y la característica «diff» destaca los cambios entre dos revisiones. Usando el historial, un editor puede ver y restaurar una versión anterior del artículo, y la característica «diff» se puede usar para decidir cuándo eso es necesario. Un usuario normal del wiki puede ver el «diff» de una edición listada en «Cambios recientes» y, si es una edición inaceptable, consultar el historial y restaurar una versión anterior. Este proceso es más o menos complicado, según el software que use el wiki.
+En caso de que las ediciones inaceptables se pasen por alto en «Cambios recientes», algunos motores de wiki proporcionan control de contenido adicional. Se pueden monitorizar para asegurar que una página o un conjunto de páginas man

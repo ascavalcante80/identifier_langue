@@ -1,0 +1,25 @@
+World Wide Web (WWW, zkráceně web, v doslovném překladu „světová rozsáhlá síť“, „celosvětová síť“) je označení pro systém prohlížení, ukládání a odkazování dokumentů nacházejících se v Internetu. Dokumenty (webové stránky) si prohlížíme pomocí webového prohlížeče, jsou uloženy na webových serverech a jsou navzájem propojeny pomocí hypertextových odkazů zapisovaných ve formě URL (například http://www.seznam.cz). Webové stránky jsou popsány pomocí HTML jazyka a pro jejich přenos mezi počítači je používán HTTP protokol.
+
+
+== Vznik WWW ==
+Autorem Webu je Tim Berners-Lee, který jej vytvořil při svém působení v CERNu. Navrhl jazyk HTML a protokol HTTP, napsal první webový prohlížeč WorldWideWeb a koncem roku 1990 spustil první webový server na světě info.cern.ch. V říjnu roku 1994 založil World Wide Web Consortium (W3C), které dohlíží na další vývoj Webu.
+
+
+== Normy ==
+Mnoho formálních norem, další technické specifikace a software definuje operace různých aspektů World Wide Webu, Internetu a serverů pro výměnu informací. Mnoho z těchto dokumentů je prací World Wide Web Consortium (W3C), v čele s Berners-Lee, ale některé jsou prací Internet Engineering Task Force (IETF) a dalších organizací. Definice je možné nalézt v těchto publikacích:
+Doporučení pro značkovací jazyk, hlavně HTML a XHTML od W3C. Definují strukturu a interpretaci hypertextových dokumentů.
+Doporučení pro styly, především CSS od W3C.
+Normy pro ECMAScript (obvykle forma JavaScriptu) od Ecma International.
+Doporučení pro Document Object Model od W3C.
+Další publikace poskytují definice ostatních základních technologií pro World Wide Web, včetně následujících:
+Uniform Resource Identifier (URI), který je univerzální systém pro odkazování na zdroje na internetu, jako jsou hypertextové dokumenty a obrázky. URIs, často nazývané URLs, jsou definovány IETF's RFC 3986 / STD 66: Uniform Resource Identifier (URI): Generic Syntax, stejně jako jeho předchůdci a četné URI schémata-definující RFCs
+HyperText Transfer Protocol (HTTP), zejména definovaný v RFC 2616: HTTP/1.1 a RFC 2617: HTTP Authentication, které určují, jak se prohlížeč autentifikuje serveru.
+
+
+== HTTP a HTTPS specifikátory ==
+Toto schéma specifikátorů (http:// nebo https://) v URIs odkazují na Hypertext Transfer Protocol a také na HTTPS, a tak definují komunikační protokol, který se použije pro žádost a odpověď. HTTP protokol základem pro fungování World Wide Webu. Přidáním šifrovací vrstvy vznikl HTTPS protokol, který je vhodný pro přenos důvěrných informací, jako jsou hesla či bankovní údaje, které mají být přeneseny přes veřejný internet.
+
+
+== Ukládání do vyrovnávací paměti (caching) ==
+Pokud se uživatel vrátí na webovou stránku, kterou v poslední době navštívil, tak nebude potřeba data stránky opět načítat z internetu. Skoro všechny internetové prohlížeče mají cache (vyrovnávací paměť) nedávno načtených stránek, obvykle se tyto data nacházejí na pevném disku počítače. HTTP obvykle zasílá pouze žádost o data, která se od poslední návštěvy změnila. Pokud jsou dočasně uložená data na pevném disku stále aktuální, tak se znovu použijí. Načítání dat do vyrovnávací paměti redukuje internetový přenos. O platnosti jednotlivých dat je rozhodováno odděleně, zvlášť pro obrázky, CSS styl, JavaScript, HTML a další obsah webové stránky. Proto i na internetových stránkách s velmi dynamickým obsahem, není nutné pokaždé načítat veškerá data znovu. Weboví designeři považují za užitečné oddělit tedy styl stránky, obsah a JavaScript do samostatných souborů, tak aby nebylo nutné vždy načítat vše, ale pouze ten soubor, který není aktuální. Obsah webové stránky se totiž mění mnohem častěji než její styl. Toto pomáhá zkrátit dobu načítání stránky z internetu a snižuje nároky na webový server.
+Existují i další součásti, které lze načítat do vyrovnávací paměti. Firemní a akademické firewally často načítají internetové zdroje, o které žádá jeden uživatel, ve prospěch ostatních uživatelů. (Viz též caching proxy server.) Některé internetové vyhledávače také uchovávají obsah webových stránek ve vyrovnávací paměti. Na rozdíl od zařízení, která jsou zabudovaná ve webových serverech a mohou určit, kdy byla data aktualizována a kdy je potřeba je znovu odeslat. Designeři dynamických webových stránek mohou kontrolovat HTTP hlavičky, které se odesílají uživateli jako odpověď na žádosti odeslané uživatelem, takže přechodná a citlivá data nejsou ukládána. Internetové bankovnictví a zpravodajské weby tohoto často využívají. Data požadovaná pomocí HTTP 'GET' jsou ukládána, pokud jsou splněny další podmínky, data získaná v reakci na 'POST' jsou závislá na datech odeslaných, takž

@@ -1,0 +1,29 @@
+rtalmazási és –egyenlőségi axiómák használatát. Az I betű jelöli az inverz szerepek használatát lehetővé tevő bővítést, míg Q a minősített számosságkorlátozások bevezetését jelenti.
+
+
+== Projektek ==
+DBpedia
+FOAF (Friend of a Friend)
+SIOC (Semantically-Interlinked Online Communities)
+Linking Open Data
+
+
+== A szemantikus webről bővebben ==
+http://www.w3.org/2001/sw/
+http://www.semanticweb.org/
+http://www.semanticarts.com/
+
+
+== Források ==
+↑ Gottdank Tibor: Szemantikus web 118. oldal (ComputerBooks Kiadó, Budapest, 2005.)
+↑ http://logicerror.com/semanticWeb-long
+↑ "W3C Semantic Web Frequently Asked Questions". W3C. http://www.w3.org/2001/sw/SW-FAQ. Retrieved March 13, 2008.
+↑ A szemantikus világháló elmélete és gyakorlata – 61-62. oldal, Szeredi-Lukácsy-Benkő, Typotex, 2005
+↑ F. Baader, D. Calvanese, …: The Description Logic Handbook: Theory, Implementation and Applications. Cambridge University Press, 2003
+↑ http://www.w3.org/2006/Talks/0318-Budapest-IH/#%2810%29
+↑ F. Baader, D. Calvanese, …: The Description Logic Handbook: Theory, Implementation and Applications. 41. oldal Cambridge University Press, 2003
+↑ A szemantikus világháló elmélete és gyakorlata – 227-229. oldal, Szeredi-Lukácsy-Benkő, Typotex, 2005
+
+
+== Külső hivatkozások ==
+Összefogott a három legnagyobb kereső (Index, 2011. június 7.)

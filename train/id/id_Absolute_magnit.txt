@@ -1,0 +1,15 @@
+Magnitudo mutlak, magnitudo absolut atau magnitudo intrinsik (M) adalah magnitudo semu (atau magnitudo tampak), m, yang akan dimiliki suatu benda apabila benda tersebut berada pada jarak 10 parsec atau 32.6 tahun cahaya dari bumi. Dalam mengkonversi, digunakan rasio dimana setiap perubahan kecerlangan cahaya 100.4 (≈2.512) sama dengan perbedaan 1.0 magnitudo. Sebagai contoh, galaksi bimasakti memiliki magnitudo mutlak -20.5, dan kuasar memiliki magnitudo mutlak -25.5, ini berarti kuasar 100 kali lebih cerah dibanding galaksi bimasakti (karena (100.4)(-20.5-(-25.5)) = (100.4)5 = 100). Jika keduanya dilihat dari jarak yang sama, kuasar akan 100 kali lebih cerah.
+
+
+== Cara menghitungSunting ==
+Magnitudo mutlak  sebuah objek dapat dihitung dengan melalui magnitudo semu  dan jarak luminositas :
+
+Dimana  adalah jarak luminositas dalam parsec, (jarak 1 parse = 3.2616 tahun cahaya.
+
+Magnitudo mutlak  dapat juga dihitung dengan menggunakan magnitudo semu  dan jarak modulus :
+
+
+== Contoh perhitunganSunting ==
+Rigel memiliki magnitudo semu sebesar  dan jarak 773 tahun cahaya
+
+Vega

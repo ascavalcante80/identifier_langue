@@ -1,0 +1,82 @@
+Die scheinbare Helligkeit gibt an, wie hell ein Himmelskörper – insbesondere ein Fixstern – von der Erde aus erscheint. Die scheinbare Helligkeit wird als Zahl angegeben, diese trägt den Zusatz Magnitude (kurz „mag“, früher auch m), Größenklasse oder schlicht Größe. Je kleiner die Zahl, desto heller ist das Gestirn.
+Die heutige Skala zur Messung der scheinbaren Helligkeit geht auf die griechischen Astronomen Hipparch (ca. 190–120 v. Chr.) und Ptolemäus (ca. 100–175 n. Chr.) zurück, welche die Sterne nach ihrer (mit bloßem Auge wahrgenommenen) Helligkeit in sechs Größenklassen einteilten. Die hellsten Gestirne wurden der ersten Größe zugerechnet, die schwächsten der sechsten Größe. Später wurde die Skala nach beiden Seiten hin erweitert, um sowohl hellere Objekte als auch – nach Aufkommen des Teleskops – schwächere Objekte einordnen zu können. Die Helligkeitsskala wurde 1850 von Norman Pogson logarithmisch definiert, so dass ein Stern erster Größe genau 100-mal so hell ist wie ein Stern sechster Größe. Sterne der ersten Größe sind um den Faktor  (etwa 2,5) heller als Sterne der zweiten Größe. Die Eichung der Skala erfolgte an sogenannten Standardsternen.
+Sehr große Teleskope reichen bis etwa zur 22. Größe, moderne Astrofotografie zur 25. Größe. Im Hubble Extreme Deep Field sind noch Galaxien mit einer Helligkeit von 31,5 mag erkennbar.
+Hellere Objekte als die 0. Größe erhalten ein negatives Vorzeichen, z. B. die Venus −4,4 mag oder die Sonne −26 mag.
+Die scheinbare Helligkeit eines Gestirns hängt vom jeweiligen Beobachtungsband (Filter) ab. Für wissenschaftliche Beobachtungen wurden eine Reihe unterschiedlicher Filtersysteme definiert, durch die Beobachtungen mit verschiedenen Teleskopen und Instrumenten vergleichbar werden.
+
+
+== Schreibweisen ==
+Der Polarstern hat eine scheinbare Helligkeit („Magnitude“) von etwa zwei. Folgende Schreibweisen sind hierfür üblich:
+2,0m
+20 
+2,0 mag
+2. Magnitude
+m = 2,0 
+Stern 2. Größe
+Größenklasse 2
+2. Größenklasse
+Als Einheitenzeichen empfiehlt die Internationale Astronomische Union die Schreibweise 2,0 mag und rät von einem hochgestellten m ab.
+
+
+== Definition ==
+Nach Norman Robert Pogson entspricht ein Helligkeitsunterschied von 1:100 einem Unterschied von fünf Größenklassen bzw. 5 mag. Die Magnituden-Skala ist logarithmisch, ebenso wie Sinnesempfindungen des Menschen nach dem Weber-Fechner-Gesetz dem Logarithmus des Reizes proportional sind.
+Physikalisch ist die Helligkeitsskala durch die Energie des einfallenden Lichtes definiert (bolometrische Helligkeit). Wenn  die Magnituden und  die gemessene Lichtstromdichten des jeweiligen Sterns ist, gilt für ihren Helligkeitsunterschied
+
+Nimmt man für  den Lichtstrom eines Objekts der Größenklasse 0, so erhält man die Helligkeit des ersten Objekts
+
+Für kleine Helligkeitsvariationen (d.h. ) gilt näherungsweise
+
+Die Quotienten der hierin auftauchenden Konstanten betragen (beide Darstellungen verdeutlichen den Zusammenhang mit der Definition)
+ und .
+Das Verhältnis der Helligkeit der Klasse m zur Helligkeit der Klasse (m+1) ist
+
+Beispielsweise entspricht ein relativer Helligkeitsunterschied von 1 ppm einer Helligkeitsklassendifferenz von etwa 1,1 µmag.
+
+
+== Leistungsgrenze ==
+Unter Großstadtbedingungen erkennt das dunkeladaptierte Auge Objekte mit bis zu 4 mag, unter Idealbedingungen im Gebirge bis zu 6 mag. Mit Beobachtungsgeräten sind weitere Sterne zu erkennen. Die scheinbare Helligkeit der schwächsten Sterne, die ein Beobachtungsgerät gerade noch erkennen lässt, definiert seine Grenzgröße.
+Legt man einen Pupillendurchmesser des Auges von d = 7 mm zugrunde, lässt sich die Leistung von Teleskopen mit der Öffnung D aus der Definitionsgleichung der Größenklassen abschätzen. Der Faktor 2 entsteht dadurch, dass die Intensität quadratisch vom Durchmesser abhängt:
+mInstr = mAuge + 2,5 mag · 2 · lg(D /d)
+und mit den oben angegebenen Größen:
+mInstr = 6 mag + 5 mag · lg(D / 7 mm)
+Die Beziehung lässt sich weiter vereinfachen (denn 5·lg(1/7) = −4,2):
+mInstr = 1,8 mag + 5 mag · lg(D / mm)
+Ein Fernglas mit der Öffnung von 20 mm erweitert die Sichtbarkeit bis zur Größenklasse 8 mag, ein Teleskop von 70 mm bis 11 mag und eines von 200 mm bis 13 mag. Großteleskope dringen mit CCD-Sensoren auf Größenklassen von 30 mag vor. Die derzeitige Instrumentierung des Hubble-Weltraumteleskops sieht noch Sterne der 31. Größenklasse.
+
+
+== Photometrischer Nullpunkt ==
+Mit dem Beginn der Photometrie wurden die einzelnen Klassen weiter unterteilt, für moderne Messinstrumente ist eine fast beliebige Verfeinerung möglich. Ein genauer Referenzwert wurde notwendig. Anfänglich wurde die Skala am Polarstern mit 2,1 mag ausgerichtet, bis sich herausstellte, dass dessen Helligkeit geringfügig variiert. Als Referenz dient daher traditionell der Stern Wega, dessen Helligkeit mit der Magnitude null festgesetzt wurde. Zur Kalibrierung moderner photometrischer Systeme dient heute eine Gruppe genau gemessener Referenzsterne nahe dem Himmelspol, die so genannte „Polsequenz“. Das häufig verwendete UBV-System wird beispielsweise derart kalibriert. Dadurch ergibt sich für Wega im UBV-System eine scheinbare Helligkeit von V=+0,03 mag. Farbindizes sind so definiert, dass Sterne des Typs A0V (zu diesen gehört Wega) im Mittel Farbindex 0,00 haben. Helligkeitssysteme mit dieser Eigenschaft werden als „Wega-Helligkeiten“ bezeichnet.
+Weiterhin ist die scheinbare Helligkeit abhängig von der Wellenlänge des Lichts. Daher wird in der beobachtenden Astronomie die scheinbare Helligkeit oft für den visuellen Spektralbereich um 550 Nanometer angegeben. Sie wird durch das Symbol V gekennzeichnet.
+
+
+== Gesamthelligkeit von Mehrfachsternen ==
+Die Gesamthelligkeit eines Mehrfachsterns errechnet sich aus den Lichtströmen der Einzelkomponenten:
+
+Im Fall eines Doppelsterns (n=2) mit den Helligkeiten m1 und m2 der Einzelkomponenten erhält man:
+
+
+== Beispiele ==
+
+
+=== Ständige Objekte ===
+Die scheinbare Helligkeit der Sonne, ihrer Planeten und unseres Mondes schwankt unter anderem wegen deren sehr variabler Entfernung zur Erde teils sehr stark. Noch stärker wird jedoch die Magnitude des Mondes von seiner Phase (Mondsichel) beeinflusst. Wegen dieser starken Schwankungen ordnet man üblicherweise nur Sternen eine scheinbare Helligkeit zu. Die mit bloßem Auge sichtbaren Sterne verteilen sich wie folgt:
+
+
+=== Gelegentliche Objekte ===
+Neben den „klassischen“ Himmelsobjekten gibt es einige weitere Objekte, die nur kurzzeitig in auffällige Erscheinung treten beziehungsweise nur an bestimmten Orten auf der Erde zu sehen sind. Sie können sogar die Helligkeit der Venus übertreffen.
+
+
+== Kometen ==
+Die scheinbare Helligkeit von Kometen kann beschrieben werden durch:
+m0 + 2,5 mag · 2 · lg(Δ) + 2,5 mag · n · lg(r)
+Dabei ist:
+m0: Helligkeit, die der Komet hätte, befände er sich genau im Abstand von 1 AE zur Erde und Sonne
+Δ: Abstand zur Erde in Einheiten von AE
+Der Faktor 2 entsteht durch die quadratische Abhängigkeit vom Abstand
+n: Veränderung der Helligkeit bei Änderung des Sonnenabstands. Ohne Wechselwirkung liegt er bei 2.
+r: Abstand zur Sonne in Einheiten von AE
+m0 und n sind Fitparameter, die aus Messungen abgeleitet werden und einen Vergleich der Kometen untereinander zulassen. Beispielsweise konnte der Helligkeitsverlauf des Kometen Tempel 1 mit den Parametern m0 = 5,5 mag und n = 25 recht gut wiedergegeben werden.
+
+
+== Abgrenzung ==
+Die scheinbare Helligkeit ist abhängig von der Entfernung des Beobachters (beziehungsweise der Erde) vom beobachteten Objekt und – bei nicht selbst leuchtend

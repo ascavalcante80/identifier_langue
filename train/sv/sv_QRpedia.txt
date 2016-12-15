@@ -1,0 +1,42 @@
+QRpedia är namnet på ett projekt och den mobila webbens informationssystem som utvecklades i projektet. Systemet kan användas för att enkelt och billigt informera till exempel museibesökare och turister på flera språk, med hjälp av redan existerande Wikipedia-material. QRpedia används för närvarande på museer i Storbritannien, USA och Spanien.
+QRpedia använder QR-koder för att leverera Wikipediaartiklar till mobilanvändarna på deras eget språk. QR-koder kan lätt genereras för att länka direkt till någon Uniform Resource Identifier (URI), men QRpedia-systemet tillför även ytterligare funktionalitet.
+QRpedia utvecklades av Roger Bamkin, ordförande för Wikimedia Storbritannien och Terence Eden och lanserades i april 2011. Projektets mjukvara är fri programvara med öppen källkod: den får fritt återanvändas enligt licensen MIT License.
+
+
+== Användning av QRpedia ==
+
+När en användare skannar in en QRpedia QR-kod på sin mobiltelefon, avkodar telefonen QR-koden till en "länk" (Uniform Resource Locator, URL) genom att använda domännamnet "qrwp.org" och som sista del av URL:en titeln på en Wikipedia-artikel. Sedan skickar telefonen en förfrågan om den artikeln som anges i URL:en till QRpedias webbserver. Telefonen skickar också sin språkinställning på samma gång.
+QRpedias webbserver använder sedan Wikipedias API för att avgöra om det finns en version av den angivna Wikipediaartikeln på det språk som används i telefonen. Om artikeln finns, skickas den i ett mobilt format till telefonen. Om den språkversionen av artikeln inte finns, gör QRpediaservern en sökning för orden i artikelns titel på det aktuella språket i Wikipedia, och returnerar resultaten till telefonen.
+På detta sätt kan en QR-kod leverera samma artikel på många språk, även då institutionen i fråga inte kan göra egna översättningar till tillräckligt många språk. QRpedia registrerar också användarstatistik.
+
+
+== Historik ==
+
+QRpedia utvecklades av Roger Bamkin, ordförande för Wikimedia Storbritannien, och Terence Eden, en mobil-webb konsult, och lanserades den 9 april 2011  vid evenemanget Derby Museum Backstage Pass. Evenemanget var del av samarbetsprojektet mellan Derby Museum and Art Gallery och Wikipedia, under vilket det även skapades över 1200 Wikipedia-artiklar på flera språk. Projektets namn är ett sammansatt ord som kombinerar initialerna "QR" från "QR (Quick Response) kod" och "pedia" från "Wikipedia".
+Projektets mjukvaras källkod får fritt återanvändas enligt lisensen MIT License.
+
+
+== Användning i olika länder ==
+
+Fast QRpedia har skapats i Storbritannien, kan systemet användas varsomhelst där mobiltelefonen får en datasignal. Från och med september 2011 är QRpedia i bruk på dessa ställen:
+The Children’s Museum of Indianapolis, USA
+Derby Museum and Art Gallery, England
+Fundació Joan Miró, Spanien, inklusive en vandringsutställning som visas på Tate-gallerian
+Riksarkivet, Storbritannien
+
+
+== Referenser ==
+Den här artikeln är helt eller delvis baserad på material från engelskspråkiga Wikipedia, 30 november 2011.
+
+
+=== Noter ===
+^ [a b c d e f] Eden, Terence (2011-04-03). ”Introducing QRpedia”. http://shkspr.mobi/blog/index.php/2011/04/introducing-qrpedia/. Läst 25 augusti 2011. 
+^ [a b] Anon (2011-08-19). ”The Children's Museum of Indianapolis Creates New Learning Opportunities through Wikipedian-in-Residence”. The Children's Museum of Indianapolis. http://www.childrensmuseum.org/Childrens-Museum-Indianapolis-Creates-New-Learning-Opportunities-through-Wikipedian-in-Residence. Läst 25 augusti 2011. 
+^ Johnson, L.; Adams, S. (2011). The Technology Outlook for UK Tertiary Education 2011-201. NMC Horizon Report Regional Analyses. Austin, Texas: The New Media Consortium. ISBN 978-0-615-38209-8. http://www.nmc.org/pdf/2011-Technology-Outlook-UK.pdf 
+^ [a b c d e f g] Byrd Phillips, Lori (2011-06-15). ”Going Multilingual with QRpedia”. Marcus Institute for Digital Education in the Arts. http://midea.nmc.org/2011/06/qrpedia/. Läst 25 augusti 2011. 
+^ ”Board”. en:Wikimedia UK. http://uk.wikimedia.org/wiki/Board. Läst 25 augusti 2011. 
+^ [a b] Anon (2011-05-21). ”Quiet Realities”. Imperica. http://www.imperica.com/features/quiet-realities. Läst 25 augusti 2011. 
+^ Various. ”Wikipedia:GLAM/Derby/QR code experiment”. Wikipedia. http://en.wikipedia.org/wiki/Wikipedia:GLAM/Derby/QR_code_experiment. Läst 25 augusti 2011. 
+^ Various. ”Derby Backstage Pass”. en:Wikimedia UK. http://uk.wikimedia.org/wiki/Derby_Backstage_Pass. Läst 25 augusti 2011. 
+^ Roger Bamkin, intervju på BBC Radio Derby, 2011-08-30
+^ Eden, Terence (2011-11-03). ”QRpedia in

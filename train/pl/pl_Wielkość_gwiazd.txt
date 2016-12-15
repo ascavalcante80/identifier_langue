@@ -1,0 +1,19 @@
+Wielkość gwiazdowa – pozaukładowa jednostka miary stosowana do oznaczania blasku gwiazd (nie mylić z jasnością) i innych podobnych ciał niebieskich. Jednostką wielkości gwiazdowej jest magnitudo (oznaczenie m lub mag). Zazwyczaj w fizyce do wyrażenia wartości natężenia światła używa się luksów, jednakże ze względów praktycznych i historycznych w astronomii stosuje się nadal magnitudo.
+Różnica jasności (wyrażonej w magnitudo -  i ) ciał niebieskich odpowiada stosunkowi natężeń ich światła ( i ):
+
+.
+
+Zależność ta nazywana jest wzorem Pogsona.
+
+
+== HistoriaEdytuj ==
+Magnitudo są jednostkami spopularyzowanymi przez Ptolemeusza w jego Almageście ok. 140 r. n.e., ale prawdopodobnie wynalezione przez Hipparcha, który wszystkie gwiazdy sklasyfikował pod względem blasku na 6 grup. Najjaśniejsze gwiazdy miały wielkość 1, najsłabsze widoczne gołym okiem 6. Skala ta była w użyciu jeszcze na początku XIX wieku. Była to skala odwrócona (i to się nie zmieniło do dziś), tzn. im jaśniejsza gwiazda tym niższa wielkość gwiazdowa była jej przypisana. W połowie XIX wieku rozszerzono ją o wielkości początkowo 7m, potem 8m, itd., aby mieć możliwość uwzględnienia gwiazd niewidocznych gołym okiem. Najjaśniejsze obiekty mają ujemną wartość magnitudo (np. Syriusz: −1,47m).
+W 1856 roku Norman Pogson zauważył, że tradycyjny system można uściślić przyjmując, że różnica jasności równa 5 wielkości gwiazdowych odpowiada stosunkowi natężeń oświetlenia równemu 1:100. Łatwo obliczyć, że dla gwiazd różniących się o jedną wielkość gwiazdową czynnik ten równa się pierwiastkowi piątego stopnia ze 100. Liczba ta, zwana czynnikiem Pogsona, równa się w przybliżeniu 2,51188643150958. Pogson jako punkt odniesienia swojej skali użył Gwiazdy Polarnej i przypisał jej wielkość 2m. Od tego czasu okazało się, że jest to gwiazda zmienna, jednak zasada pozostała niezmieniona.
+
+
+== Wielkość obserwowanaEdytuj ==
+
+Sprawa pomiaru wielkości gwiazdowej komplikuje się jednak, jeśli uświadomimy sobie, że światło ciał niebieskich nigdy nie jest monochromatyczne. Czułość odbiornika światła różni się w zależności od długości fali światła, a także od rodzaju samego odbiornika. Z tego powodu konieczne jest podawanie sposobu pomiaru wielkości, by miał on wartość naukową (i by był porównywalny z innymi pomiarami). W powszechnym użyciu jest system UBV, w którym wielkość mierzy się w trzech zakresach fal: U (jego środek przypada na długość fali ok. 350 nm, w pobliżu ultrafioletu), B (środek około 435 nm, w pobliżu barwy niebieskiej) i V (około 555 nm, pośrodku zakresu widzialności ludzkiego oka). Ostatni zakres, V, w przybliżeniu odpowiada zakresowi ludzkiego oka, zwykle więc wielkość podana bez żadnego dodatkowego określenia jest wielkością V. Nieco mniej popularne, ale także często używane, są kolejne standardowe kolory odpowiadające barwie czerwonej i obserwacjom w zakresie podczerwieni: R (około 700 nm), I (około 900 nm), J (około 1,25 mikrometra), H (około 1,65 mikrometra) i K (około 2,2 mikrometra).
+Niektóre chłodniejsze gwiazdy, takie jak czerwone olbrzymy i czerwone karły, emitują mało energii w zakresie barwy niebieskiej i w skali UBV są "niedoceniane". Dla przykładu niektóre gwiazdy klas L czy T mają wielkość mierzoną w systemie UBV rzędu 100m. Dzieje się tak dlatego, że emitują znaczne ilości energii nie w zakresie światła widzialnego, ale w podczerwieni.
+Przy pomiarze wielkości gwiazd jest szczególnie ważne, aby mierzyć podobne podobnym. Dla przykładu błona filmowa jest bardziej czuła na światło czerwone i wyniki pomiarów przy jej użyciu mogą być nawet odwrotne niż za pomocą oka. Np. Betelgeza o wielkości ok. 1m wygląda na filmie na silniejszą od Rigla (0m).
+Po wytrenowaniu i stosując odpowiednią metodę, ludzkie oko może określić różnicę w wielkości między dwiema gwiazdami tak małą j

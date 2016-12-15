@@ -1,0 +1,121 @@
+Une famille de langues est un ensemble de langues apparentées qui ont évolué par transmission de génération en génération de locuteurs à partir d'une langue ancestrale commune. On parle de parenté généalogique ou génétique pour désigner ce type de relation ; le terme n'implique pas de parenté biologique entre les locuteurs des langues en question. La notion repose sur une analogie de l'évolution des langues avec celle des organismes vivants, selon le modèle de l'arbre généalogique. L'établissement de ces parentés est un objet essentiel de la linguistique historique.
+La très grande majorité des langues du monde, vivantes et mortes, peut être classée de cette façon. Suivant la métaphore de l'arbre, les divisions d'une famille de langues sont souvent appelées branches. Une famille des langues pour laquelle on ne peut identifier avec certitude de parenté généalogique à un niveau supérieur est parfois appelée phylum. Les langues pour lesquelles on ne peut démontrer aucune parenté généalogique sont appelées des isolats.
+
+
+== L'approche généalogique et ses limitesModifier ==
+La notion de famille de langues s'inscrit dans une représentation des parentés linguistiques modelée sur la parenté biologique, selon une approche de l'étude du langage inspirée des sciences naturelles en honneur dans la première moitié du XIXe siècle, à l'époque de la grammaire comparée de Franz Bopp et August Schleicher : c'est le modèle de l'arbre généalogique. Cette approche a été remise en cause dès la seconde moitié du XIXe siècle par l'école des néogrammairiens, à partir desquels le langage a commencé à être considéré scientifiquement comme un fait social.
+Le modèle de l'arbre généalogique a cependant subsisté de par son caractère pratique, immédiatement parlant, et opératoire quand les langues sont nettement séparées les unes des autres. Mais contrairement à des individus vivants, les langues ne sont pas des entités discrètes, et il se trouve de nombreux cas où des variétés linguistiquement apparentées forment un continuum linguistique variant de proche en proche sans qu'il soit possible de tracer des frontières claires. Dans ce cas, il reste possible de considérer que ces variétés appartiennent à la même famille de langue, mais il est difficile d'en donner une représentation simplifiée sous forme d'arbre. Dans une zone linguistique de ce type, les innovations linguistiques se propagent souvent indépendamment les unes des autres au sein de variétés linguistiques déjà distinctes, créant un réseau complexe d'isoglosses. Ce modèle de changement linguistique, appelé théorie des ondes, est surtout employé en dialectologie.
+Le modèle de l'arbre généalogique est mal applicable au cas des pidgins et créoles, dont l'origine implique une rupture de transmission linguistique et l'acquisition seulement partielle d'une langue dominante, à partir de laquelle se constitue collectivement un nouveau système linguistique original. Par suite de ce mode d'évolution particulier, les pidgins et créoles ne sont habituellement pas inclus dans les familles de langues qui ont suivi un développement historique « normal », mais plutôt classés à part, le plus souvent selon la langue qui leur a fourni la base de leur lexique.
+Les langues mixtes, qui amalgament les structures de plusieurs langues distinctes, sont également un cas à part. Le métchif est un exemple.
+
+
+== Différence entre famille de langue et aire linguistiqueModifier ==
+Une famille de langues est définie par une origine commune, laquelle se manifeste par une ressemblance structurelle des langues appartenant à la famille, d'autant plus manifeste que la parenté est étroite et que l'origine commune est récente. Dans quelques cas, la langue originelle (ou une forme proche) est connue : c'est par exemple le cas du latin par rapport aux langues romanes ou de l'arabe classique par rapport aux dialectes arabes modernes. Plus souvent cependant, la langue originelle n'est pas directement attestée historiquement et ne peut être que reconstruite (partiellement) par la méthode comparative : on parle alors de proto-langue.
+Cependant, la descendance commune n'est pas la seule explication possible aux ressemblances entre les langues. Des langues sans parenté, ou assez distantes généalogiquement, peuvent développer des caractéristiques communes dès que leurs locuteurs ont l'occasion d'entrer en contact. Il s'agit en premier lieu d'emprunts lexicaux, qui peuvent finir par concerner une partie importante du vocabulaire : ainsi, l'anglais a emprunté de très nombreux mots au français, ou le japonais au chinois classique, mais ces influences ne comptent pas pour l'établissement des parentés généalogiques. Lorsque l'interaction des langues est intense et prolongée dans un contexte de multilinguisme, elles ont tendance à converger typologiquement vers une structure commune en s'échangeant mutuellement des traits : on parle alors d'aire linguistique ou d'union linguistique pour désigner un tel ensemble de langues devenues semblables du fait d'une telle convergence plutôt que par héritage d'une langue ancestrale commune.
+Il n'est pas toujours facile de distinguer une famille de langues d'une aire linguistique, surtout quand la parenté est assez ancienne et les caractères communs peu spécifiques.
+
+
+== Établissement des parentés linguistiquesModifier ==
+La démonstration de la parenté entre les langues repose sur l'établissement d'un système de correspondances phonétiques régulières entre leurs morphèmes. Elles sont établies grâce à la découverte de cognats, c'est-à-dire de mots ou de morphèmes remontant à une origine commune, détectable par des similarités plus ou moins évidentes de forme et de sens. L'ensemble des correspondances ainsi établies permet de reconstruire par la méthode comparative les formes de la proto-langue à l'origine de la famille étudiée, et les lois phonétiques qui décrivent l'évolution historique de ses différentes branches.
+Il est essentiel pour écarter les ressemblances fortuites que ces correspondances phonétiques soient régulières et systématiques : c'est le principe de régularité des changements phonétiques. Un son d'une langue doit toujours correspondre à un même autre son d'une langue parente dans la même position ; quand ce n'est pas le cas, il faut soit pouvoir rectifier la loi phonétique considérée en prenant en compte plus de données, soit pouvoir expliquer l'irrégularité de façon historiquement plausible par un processus d'analogie avec un autre mot de la langue de sens ou de forme voisins. À noter que la correspondance entre morphèmes n'implique pas nécessairement qu'ils se ressemblent à première vue : ils peuvent avoir fortement divergé par la forme ou le sens au cours de leur développement historique, mais c'est le caractère systématique de leurs rapports qui leur donne valeur probante. Ci-dessous, une illustration par quelques exemples de cognats entre diverses langues germaniques, qui permettent d'établir la correspondance d'un /t͡s/ en allemand à l'initiale devant voyelle (noté z) avec un /t/ dans les autres langues.
+Il est également important d'écarter les emprunts lexicaux dans l'établissement des parentés. La tâche n'est pas toujours aisée quand une langue a beaucoup emprunté à une autre, le vocabulaire emprunté présentant alors souvent des correspondances régulières avec celui de la langue source. On peut détecter un phénomène d'emprunt quand une langue présente divers jeux de correspondances différentes avec plusieurs langues : dans ce cas, l'un d'entre eux correspond aux lois phonétiques propres à la langue dans sa famille, tandis que les autres décrivent la façon dont les emprunts ont été historiquement adaptés à la phonétique de la langue. L'anglais est dans ce cas : nombre de ses mots sont étroitement apparentés à ceux du français, l'anglais ayant beaucoup emprunté à l'ancien normand, au moyen français et au français moderne ; mais le cœur de son vocabulaire montre son origine commune avec les autres langues germaniques.
+Il existe plusieurs indices qui permettent de limiter la probabilité qu'une correspondance soit due à un emprunt. Les correspondances qui touchent à la morphologie de la langue sont considérées comme plus fiables que celles qui relèvent du lexique, car si un mot s'emprunte aisément, on a constaté empiriquement qu'il est plus rare que soit emprunté une flexion grammaticale, et plus rare encore que soit emprunté un paradigme entier. Antoine Meillet a souligné la valeur particulièrement probante des irrégularités partagées, en prenant par exemple la conjugaison de la copule indo-européenne.
+On considère ensuite que le vocabulaire fondamental d'une langue est généralement le plus stable et le plus susceptible d'être hérité : il comporte par exemple des actions simples (manger, dormir, courir, porter, etc.), des termes élémentaires de parenté, des parties du corps, le monde physique dans ce qu'il a de plus général (soleil, pluie, arbre, montagne, etc.). En revanche, des termes précis concernant la faune et la flore, la culture matérielle, les notions culturelles et intellectuelles ont beaucoup plus de chances d'être renouvelés à mesure que les locuteurs d'une langue se déplacent, acquièrent et développent de nouveaux objets ou de nouveaux concepts. Enfin, les correspondances qui résultent d'emprunts permettent souvent de faire le rapprochement avec une langue en particulier (celle dont ils proviennent historiquement), plutôt qu'avec un ensemble des langues en général formant une famille. Par exemple, les termes d'origine romane présents en anglais ont généralement une forme très proche du français, mais beaucoup plus distante de leurs cognats italiens ou espagnols, ce qui trahit le fait qu'ils proviennent d'un emprunt au français plutôt que d'une position (erronée) de l'anglais parmi les langues romanes.
+Au fur et à mesure du passage du temps, les langues renouvellent leurs moyens d'expression, en remplaçant les structures héritées de stades antérieurs par des créations internes ou des emprunts aux langues avoisinantes. Il s'ensuit que la démonstration d'une parenté entre langues devient d'autant plus délicate qu'elle remonte à une date ancienne : d'une part parce que le nombre de leurs cognats va diminuant, d'autre part parce que l'accumulation de changements phonétiques et sémantiques divergents entre les langues séparées les rend de plus en plus difficiles à reconnaître.
+
+
+== TerminologieModifier ==
+
+Contrairement à la classification scientifique des espèces, il n'existe pas de terminologie établie pour désigner les différents niveaux hiérarchiques de parenté des langues. Le terme de « famille » a tendance à être restreint aux niveaux supérieurs, particulièrement les plus élevés pour lesquels aucune parenté plus large ne se laisse facilement démontrer ; le terme de « phylum » est parfois employé dans ce sens précis. Les niveaux inférieurs sont souvent appelés des « branches », continuant ainsi la métaphore généalogique, ou encore « sous-familles ». « Groupe » est un terme générique employé indifféremment à tous niveaux, notamment lorsque le classement n'en est pas encore établi.
+Par exemple, la famille des langues indo-européennes est constituée des branches celtique, italique (y compris les langues romanes), germanique, balto-slave, indo-iranienne, tokharienne et anatolienne ainsi que de plusieurs langues qui forment des branches à elles toutes seules, notamment l'albanais, le grec et l'arménien.
+Les noms de « superfamille », « macrofamille » ou « macrophylum » sont typiquement donnés à de vastes regroupements de plusieurs familles établis à titre d'hypothèse et considérés comme insuffisamment démontrés. Ces termes impliquent un certain degré de spéculation ou de controverse et ne sont donc généralement pas employés pour les familles bien établies.
+Les langues dont on ne parvient à démontrer la parenté généalogique avec aucune autre langue connue (à part leurs états historiques antérieurs) sont qualifiées d'isolats. Quelques exemples :
+aïnou (langue du Japon)
+basque
+bourouchaski
+nihali
+sumérien
+En un sens moins absolu, une langue peut devenir un isolat au sein des langues vivantes quand toutes les autres langues de sa famille sont mortes. C'est par exemple le cas du pirahã qui est la dernière des langues mura (en) à avoir aujourd'hui encore des locuteurs. Contextuellement, une langue peut aussi être qualifiée d'isolat alors qu'elle fait partie d'une famille de langues mais qu'elle ne se range dans aucune de ses principales branches, et en forme donc une à elle seule. Il s'agit alors d'un isolat relatif. C'est par exemple le cas de l'arménien au sein de la famille des langues indo-européennes.
+
+
+== Principales familles de langues du mondeModifier ==
+
+On ne donnera ci-dessous que le niveau le plus élevé des familles considérées. Consulter les articles qui leur sont dédiés pour plus de détails.
+
+
+=== Familles de grande extensionModifier ===
+
+langues afro-asiatiques
+langues austroasiatiques
+langues austronésiennes
+langues dravidiennes
+langues eskimo-aléoutes
+langues hmong-mien
+langues indo-européennes
+langues japoniques
+langues mongoles
+langues nilo-sahariennes
+langues nigéro-congolaises
+langues ouraliennes
+langues sino-tibétaines
+langues tai-kadai
+langues toungouses
+langues turques
+Les langues turques, mongoles et toungouses sont souvent regroupées sous le nom de langues altaïques du fait de nombreux caractères communs, mais il n'y a pas de consensus sur le fait de savoir s'il s'agit bien d'une famille de langues au sens généalogique (dont pourraient également faire partie le coréen et les langues japoniques) ou si leurs ressemblances proviennent d'un ancien phénomène d'aire linguistique.
+La famille nilo-saharienne est également assez controversée.
+
+
+=== Regroupements géographiques de famillesModifier ===
+Dans certaines régions du monde, il existe un grand nombre de familles de langues d'extension souvent assez restreinte mais dont la parenté généalogique avec d'autres langues ne fait pas consensus parmi les spécialistes. Il est courant alors de les regrouper pour y faire référence commodément en tant qu'objets d'étude en grands ensembles géographiques, mais il ne s'agit que d'étiquettes : ce ne sont pas de familles de langues au sens généalogique défini plus haut.
+Ci-dessous, les regroupements purement géographiques sont indiqués en italique, suivies de la liste des familles de langues généralement reconnues qu'elles recouvrent.
+langues aborigènes d'Australie
+langues pama-nyungan : regroupe la très grande majorité des langues aborigènes d'Australie, sauf au nord. Les autres sont dites par opposition « non pama-nyungan » mais ne constituent pas un groupe :
+langues bunubanes
+langues daly (en) (aréal)
+langues garawanes (en)
+langues iwaidjanes (en)
+langues jarrakanes (en)
+langues macro-gunwinyguanes (en)
+langues mirndi (en)
+langues nyulnyulanes (en)
+langues de la région de Darwin (en)
+langues tangkiques (en)
+langues worrorranes (en)
+langues yangmaniques (en)
+et divers isolats.
+Les langues des Aborigènes de Tasmanie ont disparu avec eux avant d'être correctement documentées. Il n'en reste que quelques listes de mots, et leur position n'est pas déterminée.
+
+langues des Andaman
+groupe grand-andamanais
+groupe andamanais méridional ou onge-jarawa
+sentinelle (inclassable par manque de données)
+
+langues amérindiennes
+langues alakalufanes
+langues algiques
+langues alséanes
+langues arawakiennes
+langues arawanes
+langues arutani-sape
+langues aymaranes
+langues barbacoanes
+langues caddoanes
+langues cahuapananes
+langues caribes
+langues catacaoanes (en)
+langues chapakura
+langues charruanes
+langues chibchanes
+langues chimakuanes
+langues chimuanes (en)
+langues chinooks
+langues chocó
+langues cholonanes
+langues chon
+langues chumash
+langues comecrudanes
+langues coos
+langues costanoanes
+langues guahibanes
+langues guamo
+lan

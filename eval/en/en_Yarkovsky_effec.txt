@@ -1,0 +1,17 @@
+xample, even for the simple case of the pure seasonal Yarkovsky effect on a spherical body in a circular orbit with 90° obliquity, semi-major axis changes could differ by as much as a factor of two between the case of a uniform albedo and the case of a strong north/south albedo asymmetry. Depending on the object's orbit and spin axis, the Yarkovsky change of the semi-major axis may be reversed simply by changing from a spherical to a non-spherical shape.
+Despite these difficulties, utilizing the Yarkovsky effect is one scenario under investigation to alter the course of potentially Earth-impacting near-Earth asteroids. Possible asteroid deflection strategies include "painting" the surface of the asteroid or focusing solar radiation onto the asteroid to alter the intensity of the Yarkovsky effect and so alter the orbit of the asteroid away from a collision with Earth. The OSIRIS-REx mission, to be launched in September 2016, will study the Yarkovsky effect on asteroid Bennu.
+
+
+== See also ==
+Asteroid
+Poynting–Robertson effect
+Radiation pressure
+YORP effect
+
+
+== References ==
+
+
+== External links ==
+Detection of Semi-Major Axis Drifts in 54 Near-Earth Asteroids: New Measurements of the Yarkovsky Effect – (Arxiv: 1204.5990)
+Asteroid Nudged by Sunlight: Most Precise Measurement of Yarkovsky Effect – (ScienceDaily 2012-05-24)

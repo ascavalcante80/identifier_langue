@@ -1,0 +1,44 @@
+O XHTML, ou eXtensible Hypertext Markup Language, é uma reformulação da linguagem de marcação HTML, baseada em XML. Combina as tags de marcação HTML com regras da XML. Este processo de padronização provê a exibição de uma página Web neste formato por diversos dispositivos (televisão, palm, celular, etc), além da melhoraria da acessibilidade do conteúdo. A principal diferença entre XHTML e HTML, é que o primeiro é XML válido, enquanto o segundo possui sintaxe própria. Ambos possuem sentido semântico.
+Para verificar se uma página foi construída corretamente no padrão XHTML, existem diversos validadores; a W3C disponibiliza um validador online.
+
+
+== Introdução ==
+Na época do lançamento da tecnologia, considerava-se o XHTML como sendo o sucessor do HTML. Porém, XHTML é uma recomendação separada; a W3C continua a recomendar o uso de XHTML 1.1, XHTML 1.0, e HTML 4.01 para publicação na web, assim como o HTML5.
+
+Exemplos **
+
+Um exemplo simples de XHTML seria: (Observando dentro das tags <html></html>)
+
+O código CSS que formataria este XHTML seria:
+
+
+== Versões ==
+
+
+=== XHTML 1.0 ===
+A Recomendação XHTML original da W3C, XHTML 1.0, foi simplesmente uma reformulação do HTML 4.01 em XML. Existem três diferentes "DTDs" de XHTML 1.0, cada qual com equivalência a uma versão em HTML 4.01.
+XHTML 1.0 Strict é o mesmo que HTML 4.01 Strict, mas seguindo regras de sintaxe XML.
+Declaração da XHTML 1.0 Strict:
+
+XHTML 1.0 Transitional é o mesmo que HTML 4.01 Transitional, mas segue as regras de sintaxe XML. Ele suporta tudo encontrado no XHTML 1.0 Strict, mas também permite o uso de vários elementos e atributos que são julgados presencionais, para facilitar a transição de HTML 3.2 e mais recentes. Isso inclui<center>,<u>,<strike>, e<applet>.
+Declaração da XHTML 1.0 Transitional:
+
+XHTML 1.0 Frameset: é o mesmo que HTML 4.01 Frameset, mas seguindo as regras de sintaxe XML. Ele permite a definição de um frameset HTML, uma prática comum em versões de HTML anteriores ao HTML 4.01.
+Declaração da XHTML 1.0 Frameset:
+
+
+=== XHTML 1.1 ===
+A mais recente Recomendação XHTML da W3C é o XHTML 1.1: Module-based XHTML, que é uma reformulação do XHTML 1.0 Strict, com pequenas modificações, usando alguns módulos de um conjunto definido em Modularização de XHTML, uma Recomendação W3C que cria uma modularização de frames, um padrão de módulos, e várias outras definições. Todas as ferramentas depreciadas de HTML, como elementos presencionais e framesets, e até mesmo os atributoslang e o atributo de âncorasname, que ainda eram permitidos no XHTML 1.0 Strict, foram removidos desta versão. A apresentação é controlada puramente pelas Folhas de Estilo em Cascata (CSS). Esta versão também permite suporte à marcação rubi, necessária para línguas do Extremo Oriente (especialmente CJK).
+Além da Modularização de XHTML permitir pequenas ferramentas XHTML serem reutilizadas por outras aplicações XML de uma maneira bem definida, e que o XHTML seja estendido para alguns propósitos, XHTML 1.1 adiciona o conceito de um documento "estritamente conformado": esses documentos definidos nos módulos requeridos para XHTML 1.1. Por exemplo, se um documento é estendido para usar o módulo XHTML Frames (frameset), ele também pode ser descrito como XHTML 1.1, mas não estritamente conforme o XHTML 1.1. Ao invés disso, ele deve ser descrito como um XHTML Host Language Conforming Document, se a ferramenta for relevante e necessária.
+Em 2007, uma segunda edição do XHTML 1.1 está em desenvolvimento pela W3C Working Draft.
+
+
+=== HTML5 (esboço) ===
+Em 10 de abril de 2007, a Fundação Mozilla, Apple Inc. e Opera Software propuseram que o novo grupo de trabalho HTML da W3C adotasse o HTML5 do WHATWG como ponto de início de seu trabalho e nomeá-lo como "HTML5". Em 9 de Maio de 2007, o novo grupo de trabalho HTML resolveu aceitar a proposta. Em 22 de Janeiro de 2008, o grupo publicou HTML5 como um Working Draft.
+O HTML5 traça uma serialização paralela com XML para o HTML5. A serialização XML é chamada XHTML 5. Diferente do XHTML 2.0, XHTML 5 é compatível com XHTML 1.x.
+
+
+=== Outros membros da família XHTML ===
+XHTML Basic: Uma versão especial "light" do XHTML para serviços que não podem suportar os grandes e complicados dialetos XHTML, principalmente celulares. Este deverá ser o substituto da WML e C-HTML.
+XHTML Mobile Profile: Baseado em XHTML Basic, essa OMA tem como alvo celulares, devido ao fato de conter algumas ferramentas exclusivas para celulares do XHTML Basic.
+XHTML+

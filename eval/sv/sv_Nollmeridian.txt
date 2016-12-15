@@ -1,0 +1,23 @@
+ordinerad universell tid (UTC) baseras på WGS84:s meridian. Standardtiden UTC kan från tiden vid meridianen med upp till en sekund (motsvarande cirka 280 meter vid Greenwich) på grund av jordens rotation. Därför läggs skottsekunder in regelbundet för att synkronisera UTC med Jorden.
+Greenwichmeridianen markeras numera av en laserstråle som skickas ut från observatoriet.
+
+
+== Se även ==
+
+Geografiska koordinater
+GPS
+Gradnät
+Koordinatsystem
+Meridian
+Navigering
+
+
+== Referenser ==
+
+
+=== Noter ===
+^ http://www.dn.se/resor/turistens-klagan-nollmeridianen-ligger-drygt-100-meter-fel/
+
+
+=== Övriga källor ===
+Den här artikeln är helt eller delvis baserad på material från engelskspråkiga Wikipedia

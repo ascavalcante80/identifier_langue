@@ -1,0 +1,37 @@
+Le coordinate geografiche sono strumenti che servono a identificare la posizione di un punto sulla superficie terrestre . Esse sono la latitudine, la longitudine e l'altitudine.
+
+
+== Latitudine, longitudine e altitudineModifica ==
+La latitudine è la distanza angolare del punto dall'equatore e la longitudine è la distanza angolare di un punto da un arbitrario meridiano di riferimento lungo lo stesso parallelo del luogo. Dal 1884 il meridiano di riferimento è stato convenzionalmente fissato a Greenwich, nei pressi di Londra. L'altitudine è la distanza, misurata lungo la verticale del punto considerato sulla superficie terrestre, dal livello del mare.
+
+
+=== MisuraModifica ===
+Le latitudini e le longitudini sono grandezze angolari e come tali sono misurate in gradi
+Storicamente, l'ordine con cui si indicavano le coordinate era sempre lo stesso, prima la latitudine e poi la longitudine, usando diversi formati per scrivere i gradi.
+Gradi minuti secondi (DMS)
+Viene espresso tutto in base sessagesimale. Esempio: le coordinate del Colosseo sono N 41° 53’ 24″ E 012° 29’ 32″.
+Talvolta, per fornire indicazioni più precise, pur utilizzando la notazione DMS, i secondi vengono espressi in formato decimale. Ad esempio: N 41°53'24.8280" E 012°29'32.0136.
+Gradi minuti decimali (DM)
+Esempio: le suddette coordinate diventano 41°53.41380', 012°29.53356' oppure 41d 53.41380m, 012d 29.53356m.
+Gradi decimali (DD)
+Di solito da 4 a 6 cifre decimali. Esempio: le suddette coordinate diventano 41.8902300°, 012.4922260°.
+Notare che l'indicazione degli emisferi N (nord) / S (sud) e E (est) / O (ovest) può essere sostituita dal segno. In particolare, avremo valori negativi per latitudini nell'emisfero sud e longitudini ad ovest del meridiano fondamentale.
+Ultimamente si usa sempre più l'ordine longitudine - latitudine, per uniformarsi ai sistemi UTM e MGRS.
+
+
+=== Meridiano fondamentale (o di Greenwich)Modifica ===
+Il meridiano fondamentale o meridiano di Greenwich, che funge da riferimento, è quello passante per l'osservatorio di Greenwich, in Inghilterra. La sua longitudine è 0°.
+
+
+=== RiferimentoModifica ===
+Essendo la terra un corpo irregolare (geoide), dare una descrizione matematica della sua superficie è arduo dal momento che non si hanno i dati necessari. Solitamente si suppone che essa sia assimilabile a un ellissoide, in modo che quest'ultimo approssimi bene la sua superficie (soprattutto per quanto riguarda le quote). L'estrema variabilità della superficie terrestre ha fatto proporre a diversi studiosi diverse forme di ellissoide, tra le quali quella più usata (perché si suppone approssimi meglio la superficie terrestre) è l'ellissoide di Hayford.
+Solitamente gli ellissoidi vengono orientati localmente per una superficie terrestre riconducibile a quella di una regione, una nazione, un continente. Per questo quando si parla di coordinate geografiche si deve menzionare anche il suo datum, ovvero il suo ellissoide di riferimento e il suo orientamento. Oggi il più usato è il sistema WGS84, ovvero un ellissoide avente il centro coincidente con il centro di massa della terra e avente i seguenti parametri:
+semiasse maggiore: a = 6 378 137 m;
+semiasse minore: c = 6 356 752,3142 m;
+schiacciamento: f = 1/298,257223563;
+costante gravitazionale geocentrica: u = 3 986 005 × 108  m³/s².
+Il Sistema di coordinate utilizzato da Wikipedia nel campo coordinate delle località è quello geografico definito WGS84.
+
+
+=== Monte MarioModifica ===
+In Italia era uso (non del tutto scomparso) utilizzare come meridiano di riferimento quello detto Meridiano di Monte Mario in quanto passante appunto per l'

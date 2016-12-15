@@ -1,0 +1,38 @@
+vore dell'HTML5, che riprende alcune delle definizioni e degli approcci concepiti per XHTML 2 ma adattati per garantire un funzionamento compatibile con gli attuali browser.
+
+
+=== XHTML 5 ===
+Lo standard HTML 5 include delle direttive per scrivere codice HTML processato come XML, al quale ci si riferisce abitualmente come XHTML 5.
+Le modifiche allo standard HTML 5 sono anche implicitamente applicate all'XHTML 5, ma non si tratta di due linguaggi differenti, quanto di due diverse sintassi dello stesso linguaggio. Il W3C ha messo a disposizione un manuale per produrre documenti che producano lo stesso output indipendentemente se processati come HTML o XML.
+
+
+=== Versioni per dispositivi mobili ===
+Esistono altre versioni di XHTML, studiate per dispositivi portatili:
+XHTML Basic: versione speciale semplificata dell'XHTML, per dispositivi le cui risorse non sono in grado di supportare il set completo di comandi e tag XHTML, come ad esempio i telefoni cellulari. È da considerare come la controparte degli esistenti linguaggi WML e C-HTML.
+XHTML Mobile Profile: basato sulla versione Basic di XHTML, sviluppato da Nokia per aggiungere all'XHTML Basic funzionalità specifiche dei terminali telefonici.
+
+
+== Note ==
+^ Per annidare si intende inserire un blocco di codice (o di attributi) all'interno di un altro blocco di livello superiore, e così via, secondo un ordine gerarchico del tipo a scatole cinesi. Ciascun livello vede e tratta i blocchi ai livelli sottostanti come entità indivisibili.
+^ XHTML 2 Working Group Expected to Stop Work End of 2009, W3C to Increase Resources on HTML 5
+^ A vocabulary and associated APIs for HTML and XHTML
+^ Polyglot Markup: A robust profile of the HTML5 vocabulary
+
+
+== Voci correlate ==
+World Wide Web Consortium
+SGML
+HTML
+XML
+HTML5
+
+
+== Collegamenti esterni ==
+XHTML, in Open Directory Project, Netscape Communications. (Segnala su DMoz un collegamento pertinente all'argomento "XHTML")
+Specifica XHTML 1.0 (traduzione non normativa)
+Lista completa dei tag XHTML con descrizione delle funzionalità, supporto dei browser ed esempi pratici di applicazione
+(EN) W3C's HTML Home Page
+(EN) Specifica XHTML 1.0 (testo originale normativo)
+(EN) Specifica XHTML 1.1
+(EN) Working Draft della specifica XHTML 2.0
+(EN) XHTML tutorial su Wikibooks

@@ -1,0 +1,16 @@
+UTC (in het Nederlands ook aangeduid als gecoördineerde wereldtijd) is een standaardtijd, gebaseerd op een atoomklok en gecoördineerd met de rotatie van de aarde.
+Het internationale letterwoord UTC is een compromis tussen het Franse "TUC" (Temps Universel Coordonné) en het Engelse "CUT" (Coordinated Universal Time). UTC is zelf geen afkorting. In militaire kringen wordt UTC meestal "Zulu time" genoemd.
+
+
+== DefinitieBewerken ==
+UTC is bijna gelijk aan Greenwich Mean Time (GMT). GMT is echter een zuiver astronomische tijd. Om het door de vertraagde aardrotatie veroorzaakte verschil te compenseren, moeten er schrikkelsecondes worden gebruikt. Het verschil is nooit meer dan een seconde en voor de meeste toepassingen dan ook niet van belang.
+
+
+== NotatieBewerken ==
+Bij grensoverschrijdende toepassingen (bijvoorbeeld het internet) worden tijdstippen vaak in UTC en op een universele manier genoteerd, onder andere met behulp van een 24-uurs notatie (dus zonder am/pm) zonder punten. De tijdsnotatie 1315 betekent dus kwart over 1 's middags volgens de standaardconventie (op de meridiaan van Greenwich).
+De volledige notatie is vastgelegd in ISO-standaard ISO 8601 en het gebruik ervan wordt, weliswaar mét scheidingstekens, ook aanbevolen door het W3C (World Wide Web Consortium).
+In West-Europa (behalve de Britse eilanden en Portugal) geldt in de winter UTC+1 en in de zomer UTC+2 (respectievelijk 1 en 2 uur later dan de standaardtijd).
+
+
+== GebruikBewerken ==
+Een praktisch voorbeeld van een veelgebruikte situatie waarin de verwijzing naar UTC belangrijk is, is het gebruik bij de scheep- en luchtvaart. In pilotbooks, getijdentabellen en weerrapporten wordt veelal gebruikgemaakt van UTC. Het is aan de gebruiker van deze hulpmiddelen om te weten hoe de tijd in de tijdzone waarin hij zich bevindt, zich verhoudt tot deze tijd. Aangezien deze in West-Europa tot twee uur kan verschillen, kan, als hij dat niet weet, bij (bijvoorbee

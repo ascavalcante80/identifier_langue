@@ -1,0 +1,102 @@
+L'effet Yarkovsky se manifeste par une force de radiation thermique qui change le demi-grand axe a d'un astéroïde en fonction de son moment cinétique, de son orbite et de quelques propriétés de ses matériaux. Il peut aussi changer un peu la rotation de celui-ci, mais comparé à l'effet YORP, il est négligeable.
+Il agit sur des astéroïdes dont le diamètre D est inférieur à environ 20 km, et peut mettre ceux appartenant à la ceinture principale en résonance, et donc[Quoi ?] sur des orbites géocroiseurs [Bottke Jr. et al., 2002].
+
+
+== Notations ==
+Seront utilisées par la suite les notations suivantes pour l'astéroïde :
+R : rayon moyen ;
+D : diamètre moyen ;
+E : obliquité de l'axe de rotation ;
+ω : vitesse angulaire, ou « pulsation », de la rotation ;
+P : période de rotation ;
+ω = 2π/P
+
+κ : conductivité thermique ;
+ρ : masse volumique ;
+Cp : chaleur spécifique à pression constante ;
+T : température de surface ;
+A : albédo de Bond ;
+m : masse ;
+S : surface ;
+ε : émissivité thermique de la surface ;
+ainsi que les constantes physiques suivantes :
+c : vitesse de la lumière ;
+σ : constante de Stefan-Boltzmann.
+
+
+== Généralités ==
+
+Lors de sa révolution autour du Soleil, le côté d'un astéroïde va être plus illuminé que l'autre (et donc recevra plus de photons). Son insolation est donc asymétrique. Il faudra alors un certain temps τ pour réémettre ces photons, pendant lequel l'astéroïde va tourner sur lui-même. Il résulte donc une force opposée à sa direction de réémission (voir Fig. 3, et la pression de radiation). L'effet Yarkovsky est donc la force qui résulte de cette réémission du photon : c'est un effet différé dans le temps contrairement à la pression de radiation classique.
+Cette force peut se décomposer selon l'axe porté par la droite passant par le Soleil et l'astéroïde, et la droite qui lui est perpendiculaire (voir Fig. 1). C'est la composante le long de la trajectoire qui a pour effet une augmentation séculaire du demi-grand axe pour un sens de rotation prograde de l'astéroïde, et vice-versa pour un sens rétrograde. Cette force modifie aussi l'excentricité et l'inclinaison de l'orbite, et la vitesse de rotation de l'astéroïde.
+L'effet Yarkovsky dépend des variables et paramètres suivants :
+distance au Soleil,
+inclinaison de l'axe de rotation,
+taille de l'astéroïde (diamètre moyen D),
+forme de l'astéroïde,
+propriétés thermiques, et en particulier l'inertie thermique,
+vitesse angulaire de rotation ω .
+On distingue deux effets Yarkovsky différents (voir Fig. 2) :
+l'effet diurne, qui se caractérise par :
+l'axe de rotation perpendiculaire au plan orbital,
+une échelle de temps de l'inertie thermique de l'ordre de la période de rotation,
+une dépendance du sens de rotation ;
+
+l'effet saisonnier, qui se caractérise par :
+l'axe de rotation dans le plan orbital,
+une échelle de temps de l'inertie thermique de l'ordre de la période de révolution,
+une indépendance du sens de rotation, ce qui a pour effet de circulariser les orbites.
+
+
+== Brève théorie ==
+Il y a deux étapes dans le calcul de la force Yarkovsky [Bottke Jr. et al., 2002] :
+détermination de la distribution de température à la surface,
+évaluation de la force de recul due à la radiation thermique.
+
+
+=== Température de surface ===
+Pour déterminer la distribution de température à la surface de l'astéroïde, on doit prendre en compte l'inertie thermique de celui-ci, la vitesse de rotation, et la diffusion de chaleur. Cette dernière est trop complexe pour pouvoir la traiter analytiquement sans simplification. On la linéarise donc, ce qui revient à considérer des petites variations de chaleur [Vokrouhlicky, 1999].
+
+Pour des astéroïdes de forme complexe et/ou de paramètres thermiques hétérogènes, le calcul nécessite un traitement plus sophistiqué pour éviter des calculs trop gourmands en temps. Ainsi, on déterminera la température de surface en utilisant le flux d'énergie à l'intérieur de l'astéroïde :
+,
+et la condition limite à la surface de l'astéroïde :
+ .
+La dernière équation se réfère à un élément de surface orientée par le vecteur unitaire  ; E est le flux solaire à travers cette surface, et . Cette équation est une condition limite pour la détermination de la température T mais requiert la connaissance de la forme et l'état de rotation de l'astéroïde par le biais de E, ce qui implique de longs temps de calcul.
+Dans le cas de petites variations thermiques, on peut dire que la température T autour du corps est proche de T0 (c'est-à-dire , la variation de temprétature étant petite devant T0 : ). Si T0 est constant, ces deux équations peuvent être réécrites pour la variable δ, tandis qu'on peut écrire le terme de température de la dernière équation comme suit [Vokrouhlicky, 1998] :
+.
+
+
+=== Évaluation de la force ===
+L'astéroïde conserve presque toujours une asymétrie dans son irradiation (à l'exception des très petits corps de moins de 10 centimètres de diamètre, qui sont gardés isothermes par une conduction de chaleur interne efficace). Il en résulte donc une direction privilégiée vers laquelle la force va agir [Vokrouhlicky et al., 2005].
+À ce stade, il parait utile de mettre en évidence quelques grandeurs caractéristiques. Pour un terme de Fourier donné à la fréquence ν de la décomposition de E, deux paramètres fondamentaux apparaissent [Vokrouhlicky et al., 2000 ; Bottke Jr. et al., 2002] :
+la profondeur de pénétration de l'onde thermique dans l'astéroïde : ,
+le paramètre thermique , qui permet de mesurer la relaxation entre l'absorption et la réémission à la fréquence ν d'un photon, T* étant la température subsolaire définie comme , où  est le flux de radiation solaire à la distance de l'astéroïde.
+Pour les astéroïdes qui viennent de la ceinture principale, on pourra considérer une excentricité e petite, ce qui permet de linéariser le terme δ. Enfin, on supposera une émission isotropique des photons, ce qui correspond à l'approximation de Lambert.
+Avec toutes les simplifications précédentes, on obtient l'expression de la force due à l'effet Yarkovsky suivante :
+,
+où f est la force par unité de masse, et (u, v) les coordonnées de l'élément de surface.
+Si on adopte un système local de coordonnées avec z selon l'axe de rotation de l'astéroïde et x, y dans le plan équatorial, on différencie alors deux variantes de  :
+l'effet diurne : fx, fy dépendent de la fréquence de rotation ω ,
+l'effet saisonnier : fz dépend uniquement de νmm = 2π/P, la fréquence de mouvement moyen.
+Dans un formalisme plus complet (c'est-à-dire sans linéarisation de la température), les deux effets sont couplés.
+Ces force agissent sur le demi-grand axe de l'orbite de l'astéroïde. En moyennant ces petites perturbations sur une révolution, on a :
+,
+,
+où  est le coefficient de pression de radiation,  une longueur normalisée, et  la fonction définie comme suit:
+.
+Les paramètres  sont des fonctions analytiques de . La dernière équation est la même pour les deux effets Yarkovsky, en remplaçant  pour l'effet diurne, et  pour l'effet saisonnier. On peut remarquer que le paramètre  est le paramètre qui fait la plus grande différence entre les deux effets.
+Les paramètres importants dans le changement du demi-grand axe par l'effet Yarkovsky sont donc :
+l'obliquité et la rotation : l'effet saisonnier produit toujours une diminution de a et est maximum à , alors que l'effet diurne peut produire une augmentation () et une diminution () de a, et est maximum pour . De plus, l'effet Yarkovsky est négligeable dans la limite des rotations à vitesse infinie ou nulle car les variations de température sont nulles le long d'une même longitude.
+la taille : l'effet Yarkovsky est négligeable pour les très petits astéroïdes car l'onde thermique chauffe de la même manière toute sa surface (donc typiquement quand D est de l'ordre de ), et pour les grands objets car la gravitation l'emporte (à partir de D égal à 20 kilomètres).
+conductivité thermique : pour les corps très poreux ou ayant une surface semblable au régolithe, κ est très faible (de l'ordre de 10-3 W·m-1·lK-1). Pour les corps rocheux (chondrites ou glace), κ est intermédiaire (1 W·m-1·lK-1), alors que pour les corps ferreux κ est très élevé (40 W·m-1·lK-1). Les variations de κ modifient les paramètres  et  : un κ petit implique que , et donc  et l'effet Yarkovsky disparaît ; un κ grand implique que  et , et donc , ce qui correspond à un équilibre thermique de l'astéroïde.
+distance au Soleil : l'effet Yarkovsky diminue quand la distance de l'astéroïde au Soleil augmente.
+Les valeurs caractéristiques de changement du demi-grand axe sont de l'ordre de 0,1 unité astronomique pour les objets sub-kilométriques, et d'environ 0,01 ua pour les objets de diamètre supérieur au kilomètre. Par ailleurs, le paramètre κ a de moins en moins d'importance au fur et à mesure que la taille de l'astéroïde augmente.
+Ainsi, l'effet Yarkovsky est le premier mécanisme pour les astéroïdes ayant un diamètre inférieur à 20 kilomètres qui leur permette d'échapper à la ceinture principale et est susceptible de les amener sur des orbites de type géocroiseur.
+Outre le changement du demi-grand axe, qui est l'effet le plus important et le plus prononcé de l'effet Yarkovsky, celui-ci se traduit aussi par des changements de l'excentricité et l'inclinaison de l'orbite de l'astéroïde.
+
+
+== Annexes ==
+
+
+=== Bibliographie ===
+[Bottke Jr. et al., 2002] W.F. Bottke Jr., D. Vokrouhlicky, D.P. Rubincam et M. Broz (2002). The effect of Yarkovsky thermal forces on the dynamical evolution of asteroids and meteoroids, in Asteroids III (W.F. Bottke Jr. et al., eds.), p. 395–408. Univ. of Arizona, (Tucson). Résumé disponible sur ADS : 2002aste.conf..395B
+[Vokrouhli

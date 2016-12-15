@@ -1,0 +1,68 @@
+Le rayonnement cosmique est le flux de noyaux atomiques et de particules de haute énergie (c'est-à-dire relativistes) qui circulent dans le vide interstellaire. On désigne également aujourd'hui les « rayons cosmiques » sous le nom d'astroparticules.
+Certaines de ces particules, de sources solaires, galactiques ou extragalactiques peuvent nous traverser, interférer avec l'ADN, traverser la roche et les bâtiments et profondément pénétrer les sols et sous-sol planétaires.
+L'étude du rayonnement cosmique a commencé au début du XXe siècle avec les travaux de Victor Hess.
+Une partie des rayons cosmiques de basse énergie (relativement au reste des rayons cosmiques : de l'ordre du MeV), piégée par le champ magnétique terrestre, participe à la formation des ceintures de Van Allen.
+
+
+== HistoriqueModifier ==
+La première observation conduisant à la découverte des rayons cosmiques a lieu en 1900, lorsque le physicien Charles Thomson Rees Wilson découvre que l’atmosphère est continuellement ionisée. Il suppose alors que ce phénomène est dû au rayonnement naturel de la Terre. Ses recherches sur l'électricité atmosphérique, l'ionisation et la condensation le conduisent à concevoir la première chambre à brouillard.
+Mais rapidement, les scientifiques de l’époque sont intrigués par l’excès d'ions par rapport à la quantité normalement due au rayonnement naturel du sol. En 1912, le physicien autrichien Victor Franz Hess mesure le taux d’ionisation en fonction de l’altitude avec un électromètre à feuille d’or embarqué dans un ballon. L’ionisation décroît jusqu’à 700 m, puis croît au-delà. Il y a peu de différences entre le jour et la nuit. Hess en conclut que le rayonnement est d'origine cosmique c'est-à-dire provient de l'extérieur du système solaire. Ces résultats sont confirmés par Robert Millikan qui travaille à l'aide de ballons sondes.
+Hess estime également que ce rayonnement est électriquement neutre. Cette hypothèse est remise en question en 1928 lorsqu'on découvre que l'essentiel du rayonnement atteignant la surface de la Terre est constitué de particules chargées. Millikan suppose alors que ces dernières résultent de l'interaction entre les rayons neutres de l'espace (rayonnement gamma) et les molécules de l'atmosphère. Arthur Compton démontre que le rayonnement est en fait variable suivant la latitude où il est mesuré (plus faible à l'équateur qu'aux pôles) du fait de l'influence du champ magnétique terrestre, prouvant ainsi qu'il s'agit de particules chargées.
+
+En 1938, l'astronome français Pierre Auger découvre que ces particules déclenchent des gerbes atmosphériques. Ces particules sont dites « secondaires », par opposition aux particules « primaires » constituant le flux avant interaction avec l'atmosphère.
+
+
+== Composition du rayonnement cosmiqueModifier ==
+Il s'agit pour sa partie chargée principalement de protons (86 %[précision nécessaire]) et de noyaux d'hélium (11 %[précision nécessaire]), le reste étant constitué d'électrons, de différents nucléons (noyaux d'atomes) ainsi que de quantités infimes d'antimatière légère (antiprotons et positrons). La partie neutre est quant à elle constituée de rayons gamma ainsi que de neutrinos. Cette dernière n'est pas toujours décomptée dans le rayonnement cosmique.
+Les particules primaires (arrivant sur l'atmosphère) ont une énergie qui peut atteindre 1020 eV. En dehors des neutrinos, les particules détectées au sol sont essentiellement des particules secondaires issues de gerbes atmosphériques, d'énergie bien inférieure.
+La particule la plus abondante au niveau de la mer est le muon, car celui-ci interagit peu avec la matière : on en dénombre en moyenne un par centimètre carré par minute. Malgré sa durée de vie de 2,2 µs, qui correspond à une distance maximale de 660 m à la vitesse de la lumière, le muon parcourt des distances beaucoup plus grandes grâce à l'effet de dilatation du temps prédit par la relativité restreinte.
+
+
+== SpectreModifier ==
+
+Le spectre du rayonnement est la fonction reliant le flux incident de particules avec leur énergie.
+Les figures ci-contre possèdent une échelle logarithmique pour intégrer la très grande amplitude de valeurs des énergies et des flux mesurés.
+Ce spectre est ici donné pour le rayonnement primaire, c'est-à-dire avant l'interaction de ce rayonnement avec l'atmosphère.
+Ce spectre est manifestement « non-thermique », c'est-à-dire qu'il ne résulte pas de l'émission d'un corps à une température donnée (spectre de corps noir). La pente de la droite montre que le flux décroit rapidement selon une loi de puissance. L'exposant de la loi de puissance est appelé l'indice spectral. Sa valeur globale est de 2,8.
+Il existe toutefois deux ruptures de pente remarquables, bien qu'assez discrètes à l'œil nu.
+- La première, à 5.1015 eV est surnommée le « genou » (flux : 1 particule/m2/ans). L'indice spectral passe d'environ 2,7 à 3,0.
+- La seconde, située à 4.1019 eV est surnommée la « cheville » (flux : 1 particule/km2/an). l'indice spectral passe à 3,3.
+
+
+== OrigineModifier ==
+Les particules les plus énergétiques proviennent de l'espace interstellaire et intergalactique. Une partie de ces particules est déviée par le vent solaire qui apporte pour sa part essentiellement des ions et des électrons.
+Les connaissances actuelles permettraient d'expliquer l'accélération des particules jusqu'au niveau du « genou » (cf. définition plus haut) par des processus astrophysiques violents tels que des chocs. Elles auraient pour origine l'explosion de supernovas, selon l'hypothèse émise en 1949 par le physicien italien Enrico Fermi, mais cela n'est pas confirmé actuellement. D'autres sources sont pressenties, qui font appel aux phénomènes astronomiques les plus énergétiques connus dans la nature : noyau actif de galaxie, sursaut gamma, trou noir, hypernovas, etc. En poussant ces modèles, il est possible de trouver une explication à l'accélération de particules jusqu'à 1020 eV. Cependant, le manque d'information sur les rayons cosmiques à de si hautes énergies ne permet pas de contraindre ces modèles.
+Ainsi, leur provenance est encore en partie un mystère, mais qui devrait bientôt s'éclaircir avec la mise en service depuis 2004 de l'Observatoire Pierre Auger à Malargüe en Argentine. Pour les particules les plus énergétiques, les zetta-particules, au-delà de la cheville (4.1019 eV) les observations restent encore très peu nombreuses (moins d'une gerbe par an dans des observatoires très spécialisés comme le Fly's Eye de l'Université de l'Utah ou l'Akeno Giant Air Shower Array (Réseau d'Akeno pour les Cascades Géantes Atmosphériques).
+
+
+== Cosmologie et astroparticulesModifier ==
+Le Big Bang, la baryogénèse, la matière noire sont les cadres de recherche qui utilisent les techniques expérimentales développées en physique des particules pour faire de l'astronomie à haute et très haute énergie.
+Les thématiques principales de recherche sont :
+La recherche de la matière noire
+Les neutrinos (solaires, cosmiques, des supernovas).
+La désintégration du proton.
+Les ondes gravitationnelles.
+
+
+== Méthodes de détectionModifier ==
+
+Plusieurs méthodes de détection des rayons cosmiques à partir du sol sont actuellement utilisées. Les télescopes Tcherenkov détectent des rayons cosmiques de basse énergie (<200 GeV) en analysant leur rayonnement Tcherenkov, des rayons gamma émis lorsqu'ils traversent l'atmosphère à des vitesses supérieures à la vitesse de la lumière dans l'air. Ces télescopes distinguent très efficacement les radiations du fond de ciel et celles d'origine atmosphérique, mais ne peuvent fonctionner que par des nuits claires et sans lune, et ont un champ visuel très étroit. Un autre type de télescope Tcherenkov utilise le même effet dans l'eau ; ces deux types de télescopes sont couplés (de façon unique au monde) à l'observatoire Pierre Auger.
+La détection de gerbes (EAS, pour Extensive Air Shower) est une autre méthode, consistant à mesurer les particules chargées provenant de l'interaction d'un rayon cosmique avec l'atmosphère, à l'aide de panneaux de scintillateurs organiques (en plastique). Cette méthode permet d'observer des rayons cosmiques beaucoup plus énergétiques, sur une large étendue de ciel, et environ 90% du temps ; mais elle est moins efficace pour distinguer les rayons cosmiques d'autres types de radiations que ne le font les télescopes Tcherenkov.
+
+Une troisième méthode fut développée par Robert Fleischer, P. Buford Price (en), et Robert Walker (en) pour être utilisée dans des ballons-sondes en haute altitude. Des feuilles de plastique transparent (par exemple en polycarbonate, de 0,25 mm d'épaisseur), sont superposées et exposées directement aux rayons cosmiques, qui provoquent des ruptures de liaisons chimiques ou des ionisations du plastique. Au sommet de la pile, l'effet est moindre, en raison de la grande vitesse des particules, mais, la vitesse diminuant, l'ionisation augmente en traversant les différentes feuilles ; en dissolvant le plastique, on creuse alors des cavités coniques, qui sont mesurées (avec un microscope de forte puissance). Ces cavités sont différentes pour chaque trajectoire, ce qui permet de mesurer la charge et l'énergie du rayon cosmique ayant traversé le dispositif : cette méthode est d'ailleurs également utilisée pour détecter les noyaux produits dans une fission nucléaire.
+Une dernière méthode utilise des chambres à brouillard ou des chambres à bulles pour détecter les muons secondaires créés lors de la désintégration d'un pion. Les chambres à brouillard en particulier sont aisées à fabriquer, même dans un simple laboratoire de lycée.
+
+
+== ApplicationsModifier ==
+La capacité des muons cosmiques à traverser la matière peut être exploitée en tomographie. En effet, l'atténuation du flux de particules est fonction de la densité du milieu traversé. Cette technique a notamment été utilisée par le prix Nobel de physique Luis Walter Alvarez afin de rechercher des chambres cachées dans la pyramide de Khéphren, en Égypte, mais n'a pas donné de résultats probants dans ce cas. De récents travaux conduits au volcan de la Soufrière, en Guadeloupe, laissent également présager une application à la géophysique.
+
+
+== EffetsModifier ==
+
+
+=== Effets sur la santéModifier ===
+Ce rayonnement qui représente 15 % de la radioactivité naturelle (Sophie PUJAS – La chasse aux rayons cosmiques - Journal Le POINT, p. 97, N° 21197- 23 octobre 2014) peut être ionisant et susceptible de casser l'ADN, de causer des cancers et des malformations génétiques. Au niveau du sol il est largement dispersé par la magnétosphère ou bloqué par l'atmosphère et ses particules en suspension. Cependant le personnel naviguant des avions et a fortiori les astronautes peuvent y être exposés de manière plus significative (ex : Dose efficace annuelle de 2 à 5 mSv sur des vols long-courriers), d'autant plus que l'avion vole à haute-altitude. En France, au début des années 2000, un Système d’information et d’évaluation par vol de l’exposition au rayonnement cosmique dans les transports aériens (dit "projet SIEVERT") a été mis en place en lien avec les compagnies d'aviation et les organismes professionnels vise à instaurer une dosimétrie réglementaire, opérationnelle pour les compagnies, permettant un calcul de dose pour chaque vol sur la base de paramètres réels (prenant notamment en compte les éruptions solaires (GLE), avec « estimation de dose et information pour le public ».
+
+
+=== Effet sur l’électroniqueModifier ===
+Les rayons cosmiques sont suffisamment énergétiques pour altérer l’état d’un composant électronique d’un circuit intégré, pouvant provoquer des erreurs transitoires, telles que des corruptions de donnée dans la mémoire vive ainsi qu’une mauvaise exécution du processeur, souvent appelées des "soft error (en)" (à ne pas confondre avec des erreurs logiciels provoquées par des erreurs de programmatio

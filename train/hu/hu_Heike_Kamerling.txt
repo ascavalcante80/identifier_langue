@@ -1,0 +1,66 @@
+Heike Kamerlingh Onnes (1853. szeptember 21., Groningen, Hollandia – 1926. február 21., Leiden, Hollandia) holland Nobel-díjas fizikus, az alacsony hőmérsékletű technikák kutatója, a szupravezetés felfedezője.
+
+
+== Élete ==
+Apja, Harm Kamerlingh Onnes egy téglagyár tulajdonosa volt, anyja Anna Gerdina Coers of Arnhem.
+Már mint középiskolás diák felhívta magára a figyelmet tudományos problémamegoldó képességével. 18 éves korára már annyira hitt a fizikai kísérletekben, hogy az olyan elméletekkel nem is foglalkozott, amiket nem lehetett kísérletileg bemutatni.
+1870-ben Kamerlingh Onnes beiratkozott a Groningeni Egyetemre. A Heidelbergi Egyetemen 1871-től 1873-ig Robert Bunsen és Gustav Kirchhoff is tanította. A Groningeni Egyetemen végzett 1878-ban, majd itt is szerezte meg doktorátusi végzettségét 1879-ben. Disszertációjának témája: „Nieuwe bewijzen voor de aswenteling der aarde” („A Föld forgásának újabb bizonyítékai”). 1878 és 1882 között Johannes Bosscha asszisztense volt (aki a Delfti Műszaki Egyetem igazgatója volt), akit előadóként helyettesített 1881 és 1882 között.
+1882 és 1923 között a kísérleti fizika professzora volt a Leideni Egyetemen. 1904-ben létrehozott egy „alacsony hőmérsékletű” laboratóriumot, ahová más kutatókat is meghívott, ezzel nagy tiszteletet vívott ki magának a tudományos közösségben.
+1887-ben megnősült, felesége Maria Adriana Wilhelmina Elisabeth Bijleveld, egy gyermekük született, Albert.
+
+
+== A szupravezetés felfedezése ==
+Kamerlingh Onnes elektromos méréseket végzett tiszta fémeken, alacsony hőmérsékleten. Ezek között volt a higany, ón és az ólom.
+A tudósok közül néhányan (köztük William Thomson - Lord Kelvin) azon a véleményen voltak, hogy az abszolút nulla fokon az elektronok mozgása megáll, így az elektromos vezetés megszűnik, vagyis végtelen nagy elektromos ellenállás fog jelentkezni. Mások (köztük Kamerlingh Onnes) úgy gondolták, hogy az elektromos vezetők ellenállása annyira lecsökkenhet, hogy végül nullává válik.
+Augustus Matthiessen már 1862-ben kimutatta, hogy a hőmérséklet csökkentésével a fémek mint elektromos vezetők ellenállása csökken.
+1878-ban, 25 éves korában egyetemi kutatásait az anyag viselkedésének az elérhető legalacsonyabb hőmérsékleten való vizsgálatára fókuszálta. Mindenkinek megvolt az elmélete arról, hogy az anyag hogyan fog viselkedni, Onnes azonban elhatározta, hogy ezt kísérletekkel fogja kideríteni.
+Azonban akkoriban senki sem tudott módszert arra vonatkozóan, hogyan lehetne -269 °C-os hőmérsékletet elérni.
+Laboratóriumában feltalált olyan hőmérőt, amivel akár abszolút nulla fokig lehetett mérni.
+1908-ban felfedezett egy módszert arra, hogyan lehet a héliumot extrém mértékben lehűteni, így ő volt az első olyan fizikus, aki folyékony héliumot állított elő. Megpróbálta a héliumot tovább hűteni és még abban az évben a Joule–-Thomson-hatást alkalmazva sikerült az abszolút nulla fok fölött 0,9 K hőmérsékletet elérnie. Abban az időben ez volt a legalacsonyabb elért hőmérséklet a Földön. Az eredeti berendezés ma Leiden város Boerhaave múzeumában található. Onnes rájött, hogy a folyékony héliumot más anyagok hűtésére tudja felhasználni, miközben meg tudja mérni elektromos ellenállásukat.
+1911-re olyan edényeket szerkesztett, amikben a folyékony héliumot tárolni tudta, és egy ennek előállítására szolgáló kisebb berendezést épített.
+Abszolút nulla fok körüli elektromos méréseit először platinával végezte, majd arannyal. A mért elektromos áramok azonban nagy szórást mutattak, az eredmények nem voltak meggyőzőek.
+Ekkor folyékony higany vizsgálatára tért át. Egy U-alakú csőbe higanyt öntött, az U mindkét szárában elektromos vezeték volt, amin mérte az átfolyó áramot, illetve végső soron az ellenállást. A higany hűtésére 0,9 K-es folyékony héliumot használt. Azt tapasztalta, hogy 40 K (-229 °C) alatt az elektromos ellenállás elkezdett csökkenni. Az ellenállás folyamatosan csökkent, majd 4,19 K-nál hirtelen megszűnt.
+Kamerlingh Onnes először arra gondolt, hogy rövidzárlatról lehet szó. A kísérleti berendezés megváltoztatása és újabb kísérletek elvégzése után vált világossá számára, hogy a jelenség valós.
+Onnes a következő hónapokban többször megismételte a kísérletet, és mindig ugyanazt az eredményt kapta. 4,19 K alatt az áram akadálytalanul folyt, akár az örökkévalóságig!
+Kamerlingh Onnes kijelentette, hogy „A higany ezen az alacsony hőmérsékleten egy új elektromos állapotba ment át, amit szupravezetésnek lehet nevezni.” A témában több cikket is megjelentetett.
+Onnes nem tudta elméletileg megmagyarázni az eredményeket, csak annyit sejtett, hogy az akkoriban felfedezett kvantumelmélet esetleg magyarázatul szolgálhat az anyag szokatlan viselkedésére. Erre azonban egészen 1951-ig várni kellett, amikor John Bardeen matematikailag leírta a jelenséget.
+A kutatás már ekkor megkezdődött, hogy a gyakorlatban jobban használható, magasabb hőmérsékletű szupravezetést érjenek el.
+A jelenlegi rekord 138 K (-131°C), amit mérgező higany-réz kerámiaötvözettel értek el.
+Ha sikerülne elérni a szobahőmérsékletű szupravezetést, annak beláthatatlan következményei lennének a világ energiaellátására, mivel napjainkban az energia jó része veszteségekre fordítódik, ami többek között a Föld légkörét melegíti.
+
+
+== Díjak és elismerések ==
+Kamerlingh Onnes munkájáért széles körű elismerést kapott, ezek között volt az 1913-as fizikai Nobel-díj (a bizottság indoklása szerint „az anyag alacsony hőmérsékleten való viselkedésének vizsgálatáért, ami többek között a folyékony hélium előállításához vezetett.”)
+Matteucci-érem, 1910
+Rumford-érem, 1912
+Fizikai Nobel-díj, 1913
+Franklin-érem, 1915
+
+
+== Szellemi öröksége ==
+Néhány eredeti műszere, amit a kísérleteknél használt, látható a Boerhaave Museumban, Leidenben. A hélium cseppfolyósításához használt berendezése a Leideni Egyetem fizikai tanszékén megtekinthető, ahol az alacsony hőmérsékletű laboratóriumot az ő tiszteletére nevezték el. Tanítványa, aki később az igazgatói székben is követte, Willem Hendrik Keesom volt 1926-ban az első, akinek sikerült a héliumot megszilárdítania.
+Az Onnes-effektust, a hélium szuperfolyékonyságát róla nevezték el.
+A Holdon található Kamerlingh Onnes krátert róla nevezték el.
+Onnes a megalkotója az entalpia kifejezésnek.
+
+
+== Válogatott publikációk ==
+Kamerlingh Onnes, H., "Nieuwe bewijzen voor de aswenteling der aarde." Ph.D. dissertation. Groningen, Netherlands, 1879.
+Kamerlingh Onnes, H., "Algemeene theorie der vloeistoffen." Amsterdam Akad. Verhandl; 21, 1881.
+Kamerlingh Onnes, H., "On the Cryogenic Laboratory at Leyden and on the Production of Very Low Temperature." Comm. Phys. Lab. Univ. Leiden; 14, 1894.
+Kamerlingh Onnes, H., "Théorie générale de l'état fluide." Haarlem Arch. Neerl.; 30, 1896.
+Kamerlingh Onnes, H., "The Superconductivity of Mercury." Comm. Phys. Lab. Univ. Leiden; Nos. 122 and 124, 1911.
+Kamerlingh Onnes, H., "On the Lowest Temperature Yet Obtained." Comm. Phys. Lab. Univ. Leiden; No. 159, 1922.
+
+
+== Jegyzetek ==
+
+
+== Irodalom ==
+de Bruyn Ouboter, Rudolf (1997. March). „Heike Kamerlingh Onnes’s Discovery of Superconductivity” (PDF). Scientific American 276 (3), 98–103. o. DOI:10.1007/s00016-003-0193-8.  
+Laesecke, Arno (2002. May–June). „Through Measurement to Knowledge: The Inaugural Lecture of Heike Kamerlingh Onnes (1882)” (PDF). Journal of Research of the National Institute of Standards and Technology 107 (3), 261–277. o.  
+Reif-Acherman, Simón (2004. June). „Heike Kamerlingh Onnes: Master of Experimental Technique and Quantitative Research” (PDF). Physics in Perspective 6 (2), 197–223. o. DOI:10.1007/s00016-003-0193-8.  
+Van Delft, D., "Heike Kamerlingh Onnes". Amsterdam, Bert Bakker, 2005. ISBN 90-351-2739-0 (in Dutch; an English translation is in preparation)
+Levelt-Sengers, J. M. H., "How fluids unmix : discoveries by the School of Van der Waals and Kamerlingh Onnes". Amsterdam, Koninklijke Nederlandse Akademie van Wetenschappen, 2002. ISBN 90-6984-357-9
+Kamerlingh Onnes, Heike, (Gavroglou, Kōstas. [ed.], and Goudaroulis, Yorgos [ed.]) "Through measurement to knowledge : the selected papers of Heike Kamerlingh Onnes (1853-1926)". Dordrecht, Boston, Kluwer Academic Publishers, c1991. Goudaroulis, Yorgos. ISBN 0-7923-0825-5
+International Institute of Refrigeration (First I

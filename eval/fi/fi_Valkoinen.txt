@@ -1,0 +1,33 @@
+rejä, joita yleisesti käytetään rakennusten maalauksissa, esim. seinien ja listojen värinä puhtaan valkean sijasta.
+
+
+== VärikoordinaatitMuokkaa ==
+RGB:
+R: 255
+G: 255
+B: 255
+(heksadesimaalimuodossa #FFFFFF)
+
+CMYK:
+C: 0
+M: 0
+Y: 0
+K: 0
+
+HSV:
+H: 0
+S: 0
+V: 100
+
+
+== Katso myösMuokkaa ==
+Valkoista valkoisella
+Valkoinen (koiraväri)
+Valkoinen (hevosväri)
+
+
+== LähteetMuokkaa ==
+
+
+== Aiheesta muuallaMuokkaa ==
+coloria.net - valkoinen

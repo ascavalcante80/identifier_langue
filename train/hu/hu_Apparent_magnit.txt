@@ -1,0 +1,18 @@
+A magnitúdó (Latin magnituto, magnitutis: nagyság) egy csillagászati fogalom, az égitestek fényességének mértékegysége. Megfelelő szövegkörnyezetben magyarul nagyságrendnek is nevezzük. Egy csillag, bolygó vagy más égitest látszólagos fényességének értékét (azt, hogy mennyi fény jut hozzánk az égitestről) látszólagos magnitúdónak (m) nevezzük. Százszor gyengébb fényintenzitásnak (ami olyan, mintha az égitestet tízszer távolabbról néznénk) 5 magnitúdó növekedés felel meg; 2,512-szeresnek egy magnitúdó (a ~2,512 a 100 ötödik gyöke, 1001/5). Tehát a számérték szerint nagyobb magnitúdójú égitest halványabb. A szabad szemmel még éppen látható 6m fényességű csillag ez alapján éppen 100-szor halványabb, mint az 1m-s. Az emberi szem kb. 0,1 magnitúdó különbséget tud érzékelni. Földi műszerekkel 0,01 magnitúdó pontossággal lehet a csillagok fényességét meghatározni. Két csillag vagy csillagászati objektum fényessége (m1 és m2) és intenzitása (I1 és I2) között az összefüggés a következő:
+
+Természetesen a skálához szükség van alappontra, ezt alább részletezzük.
+Ettől megkülönböztetjük az abszolút magnitúdót (M). Csillagok és galaxisok esetén azt mutatja meg, hogy 10 parszek távolságból milyen fényesnek látnánk, bolygók és más Naprendszerbeli égitestek esetén pedig azt, hogy milyen fényesnek látnánk, ha a Földtől és a Naptól is 1 csillagászati egység (CsE) távolságra lenne. A Nap abszolút magnitúdója +4,83 a V (sárga) sávban és +5,48 a B (kék) sávban.
+A látszólagos fényesség valójában a légkör vastagságától és állapotától is függ. A látszólagos magnitúdót úgy adják meg, mintha nem légkörön keresztül néznénk.
+
+
+== Definíció ==
+Az m magnitúdó definíciója (az F sugárzási fluxus függvényében):
+
+A magnitúdórendszer standardjaként az északi félgömb Lant csillagképében elhelyezkedő Vega nevű csillagot használták, tehát FVega az adott idő alatt a Vegáról a Földre érkező fény mennyiségét jelenti. Ez a definíció azt jelenti, hogy a Vega magnitúdója definíció szerint minden szűrőn keresztül nulla.
+
+
+== Eredete ==
+A fényességi skálát elsőként Hipparkhosz használta, ő a csillagokat hat nagyságrendbe osztotta 1-6-ig. Az 1. nagyságrendűek voltak a legfényesebbek és a 6. nagyságrendbe kerültek a szabad szemmel látható leghalványabb csillagok. Az ókori eredetű skálát mind a mai napig megtartották, pozitív és negatív irányba, valamint két-három tized pontosságúra kiterjesztve.
+Ezt a felosztást az 1850-es években Norman Robert Pogson (1829 – 1891) angol csillagász finomította, ő rakta le a modern csillagfotometria alapjait.
+Johann Karl Friedrich Zöllner (1834 – 1882) német fizikus és csillagász 1861-ben egy fotométert készített, amellyel a csillag fényességét meg lehetett mérni. Ebben a fotométerben egy mesterséges fényforrás fényét egy Nikol-prizmán engedték át, és a prizmát addig forgatták el, amíg a fényesség meg nem egyezett a valódi csillag fényességével. A forgatás mértéke adta meg a csillag fényességét.
+A 19. századtól a Sarkcsillag 2m,12 fényességével a hitelesítőpont szerepét töltötte be. Sajnos a Sarkcsillag változócsillag, azaz fényes

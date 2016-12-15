@@ -1,0 +1,344 @@
+L'imagerie par résonance magnétique (IRM) est une technique d'imagerie médicale permettant d'obtenir des vues en deux ou en trois dimensions de l'intérieur du corps de façon non invasive avec une résolution en contraste relativement élevée. L'IRM repose sur le principe de la résonance magnétique nucléaire (RMN) qui utilise les propriétés quantiques des noyaux atomiques pour la spectroscopie en analyse chimique. L'IRM nécessite un champ magnétique puissant et stable produit par un aimant supraconducteur qui crée une magnétisation des tissus par alignement des moments magnétiques de spin. Des champs magnétiques oscillants plus faibles, dits « radiofréquence », sont alors appliqués de façon à légèrement modifier cet alignement et produire un phénomène de précession qui donne lieu à un signal électromagnétique mesurable. La spécificité de l'IRM consiste à localiser précisément dans l'espace l'origine de ce signal RMN en appliquant des champs magnétiques non uniformes, des « gradients », qui vont induire des fréquences de précession légèrement différentes en fonction de la position des atomes dans ces gradients. Sur ce principe qui a valu à ses inventeurs, Paul Lauterbur et Peter Mansfield le prix Nobel de physiologie ou médecine en 2003, il est alors possible de reconstruire une image en deux dimensions puis en trois dimensions de la composition chimique et donc de la nature des tissus biologiques explorés.
+En imagerie médicale, l'IRM est principalement dédiée à l'imagerie du système nerveux central (cerveau et moelle épinière), des muscles, du cœur et des tumeurs. Grâce aux différentes séquences, on peut observer les tissus mous avec des contrastes plus élevés qu'avec la tomodensitométrie ; en revanche, l'IRM ne permet pas l'étude des corticales osseuses (tissus « durs ») trop pauvres en hydrogène, ni donc la recherche fine de fractures où seul l'œdème péri-lésionnel pourra être observé.
+L'appareil IRM est parfois désigné sous le nom de « scanner », ce qui en français prête à confusion avec le tomodensitomètre. Contrairement à ce dernier (et à d'autres techniques d'imagerie comme la TEP), l'examen IRM n'est pas invasif et n'irradie pas le sujet. Cela en fait donc un outil de prédilection pour la recherche biomédicale, et notamment en neurosciences cognitives. À partir des années 1990, la technique d'IRM fonctionnelle, qui permet de mesurer l'activité des différentes zones du cerveau, a en effet permis des progrès importants dans l'étude des fondements neurobiologiques de la pensée.
+
+
+== HistoireModifier ==
+Le principe de l'IRM repose sur le phénomène de résonance magnétique nucléaire (RMN), c'est-à-dire portant sur le couplage entre le moment magnétique du noyau des atomes et le champ magnétique externe, décrit par Felix Bloch et Edward Mills Purcell en 1946. Au début des années 1970, les nombreux développements qu'a connus la RMN, notamment en spectroscopie, laissent entrevoir de nouvelles applications de cette technique. Ainsi, Raymond Vahan Damadian propose dès 1969 d'utiliser la RMN dans un but médical et appuie sa proposition avec la démonstration que la spectroscopie RMN permet la détection de tumeurs.
+En 1973, un progrès important est accompli : s'inspirant des méthodes de reconstruction d'images utilisées en tomodensitométrie, Paul Lauterbur réalise pour la première fois une « imagerie » (qu'il baptise Zeugmatographie) basée sur la RMN en utilisant le principe des gradients qui permettent de capturer l'image d'une « coupe virtuelle » d'un objet en deux dimensions. Simultanément mais de façon indépendante, Peter Mansfield propose une méthode similaire et introduit en 1977 la technique d'imagerie écho-planaire permettant la capture de nombreuses images en un temps relativement court. Le premier objet connu du grand public à avoir été étudié par IRM est un poivron, après un essai sur deux tubes capillaires.
+
+Dans les années qui suivent, la technique évolue rapidement notamment grâce aux progrès réalisés en informatique et en électronique qui permettent de mettre en œuvre des méthodes numériques coûteuses en temps de calcul. Ainsi en 1975, Richard R. Ernst propose d'utiliser la transformée de Fourier pour analyser le codage en fréquence et en phase du signal IRM.
+Les premières images de tissus humains seront produites en 1975 par Mansfield ; en 1977 sera réalisée la première image d'un corps humain vivant par Damadian qui dirigera ensuite la fabrication des premiers appareils commerciaux.
+La principale innovation dans le domaine de l'IRM viendra avec la reprise par Seiji Ogawa (en) des travaux de Linus Pauling et Charles Coryell sur le magnétisme de l'hémoglobine. En effet, le signal IRM émis par le sang oxygéné diffère du signal du sang désoxygéné. Cette propriété permit donc à Ogawa, John Belliveau et Pierre Bandettini de réaliser en 1992 les premières images du cerveau en fonctionnement : en réponse à des stimulations visuelles, ils purent mesurer une augmentation du débit sanguin cérébral dans les aires visuelles du lobe occipital. La mesure de cette réponse hémodynamique est à la base du fonctionnement de l'imagerie par résonance magnétique fonctionnelle, un outil central des neurosciences cognitives contemporaines.
+Après plusieurs années d'évolution, l'IRM est donc devenue une technique puissante du domaine de l'imagerie médicale, lequel est sans cesse en développement. En reconnaissance de « leurs découvertes concernant l'imagerie par résonance magnétique », Peter Mansfield et Paul Lauterbur furent récompensés par le Prix Nobel de physiologie ou médecine en 2003.
+En France, il y a 592 appareils en 2010. Le délai d'attente moyen est de 32 jours.
+Le centre européen NeuroSpin est en passe de devenir le plus grand centre au monde d'imagerie par résonance magnétique. L'un de ses objectifs est d'élucider le « code neural », autrement dit, connaître comment l’information est codée dans le cerveau.
+
+
+== TechnologieModifier ==
+
+
+=== Tunnel de l'aimantModifier ===
+
+Il ne concerne que les imageurs fermés, c'est le tunnel dans lequel est introduit le patient. Il a des fonctions de confort (comme l'éclairage et la ventilation) et des moyens de communication entre le personnel soignant et le patient (microphone et haut-parleurs). Son diamètre varie très légèrement en fonction des constructeurs et des modèles mais est approximativement de 60 cm.
+
+
+=== AimantModifier ===
+L'aimant est au cœur du fonctionnement de l'appareil IRM. Son rôle est de produire le champ magnétique principal appelé B0 qui est constant et permanent. L'unité de mesure de l'intensité du champ magnétique est le tesla, dont le symbole est : T. Cette valeur fait référence à l'intensité de ce champ principal.
+En 2007, dans le domaine de l'imagerie médicale de routine, les intensités du champ magnétique utilisé sont comprises entre 0,1 et 7 teslas, avec des intensités supérieures à 17 teslas pour l'étude de spécimens murins et petits animaux, et jusqu’à 11,7 teslas pour les études pré-cliniques et cliniques sur l'Homme.Remarque : 1,6 T équivaut à 30 000 fois le champ magnétique terrestre.
+Bas champ : < à 0,5 T
+Moyen champ : entre 0,5 T et 1 T
+Haut champ : > à 1 T
+Le champ magnétique statique doit être uniforme dans la section du tunnel. La valeur de champ magnétique statique est mesurée et uniformisée par calibration (transducteur à effet Hall) à l'isocentre de l'aimant et doit couvrir toute la longueur de l'antenne de réception. Les tolérances sont extrêmement critiques particulièrement à haut champ et en spectrométrie Le champ magnétique diminue à mesure que l'on s'éloigne de cet isocentre : on parle alors de champ magnétique résiduel. La répartition des lignes de champ dépend de la puissance du champ magnétique mais également de la présence d'un blindage autour de l'aimant (voir chapitre sur le blindage de champ magnétique).
+Les principales qualités pour un aimant sont :
+un champ magnétique d'intensité élevée afin d'améliorer le rapport signal sur bruit ;
+une bonne stabilité temporelle (le champ magnétique doit être le plus permanent possible) ;
+une bonne homogénéité du champ (par exemple : 0,2 parties par million ppm dans une sphère de 36 cm de diamètre ce qui correspond au diamètre moyen d'une antenne émission/réception crânienne : c'est la fenêtre minimum d'homogénéité de champ que doit obtenir le constructeur pour vendre son IRM dans la plupart des pays du monde).
+Ces qualités sont recherchées parmi les trois types d'aimants disponibles sur le marché : l'aimant permanent, l'aimant résistif et l'aimant supraconducteur. Aujourd'hui c'est l'aimant supraconducteur qui est le plus répandu.
+L'augmentation des champs magnétiques permet une amélioration importante de la qualité des images obtenues par IRM mais certaines personnes s'interrogent sur l'influence de champ magnétique de grande intensité sur le corps humain. Toutefois rien, en 2007, ne mettait en évidence un quelconque effet néfaste sur l'organisme si ce n'est quelques « vertiges » dus à l'induction de faibles courants électriques dans certaines structures nerveuses par les impulsions de radiofréquence. Dans tous les cas, même à champ faible, la présence d'objets ferromagnétiques constituent une contre-indication à l'IRM.
+
+
+==== Aimant permanentModifier ====
+Il est constitué d'une structure ferromagnétique qui produit un champ magnétique permanent sans consommation d'énergie. Ces aimants, autrefois très lourds (jusqu'à 90 tonnes avec les ferrites), se sont allégés avec l'arrivée des alliages à base de terre rares (Bore-néodyme-fer). Un aimant de 0,3 T corps entier ne pèse que 10 tonnes. Un 0,4 T pèse 13 tonnes. Bien que l'on puisse faire des aimants permanents de 1 T, il est économiquement difficile d'aller beaucoup plus haut que 0,4 tesla. Leurs avantages principaux sont l'absence de courant de Foucault, une fiabilité exceptionnelle, une architecture ouverte et un champ vertical perpendiculaire au grand axe du patient, ce qui améliore les performances des antennes. Les systèmes IRM réalisés autour d'aimants permanents ont longtemps fait l'objet de développements limités. Ce n'est plus le cas. Depuis quelques années, ces systèmes se sont hissés à de très bons niveaux de performances. Plus de 8000 systèmes ont été installés dans le monde entier en majorité aux États-Unis et au Japon, de plus en plus en Europe et plus lentement en France. Ils sont devenus moins coûteux, très fiables et efficaces, et la Haute Autorité de santé en France en a reconnu l'intérêt dans un rapport de juin 2008 et en préconise l'utilisation en France. Ils constituent également le meilleur choix pour les pays ne possédant pas l'infrastructure technique et logistique permettant de faire fonctionner un système supraconducteur dans de bonnes conditions.
+L’utilisation d'un aimant permanent n'est pas sans danger ou problème car ce qui en fait la qualité (la grande stabilité et uniformité de son très puissant champ magnétique) en fait aussi le défaut puisqu'il sera impossible de suspendre le champ magnétique en cas d'urgence (on ne pourra pas appliquer la procédure de quench évoquée ci-dessous dans la section sur les aimants supraconducteurs). L'utilisation de l'appareil se fait donc avec des précautions préalable strictes (y compris par un examen radiographique classique préalable pour détecter des corps métalliques implantés dans des corps mous tels que les vaisseaux sanguins, ou résiduels de certains accidents). Cela nécessite également une surveillance du local d'examen contre la présence ou l'introduction de matériels ferromagnétiques susceptibles d'être projetés contre l'appareil, ou de causer des blessures graves. De plus, avec le temps, des poussières ferromagnétiques peuvent s'accumuler sur l'aimant et y persister, ce qui va progressivement en altérer l'uniformité du champ créé. L'environnement de l'appareil doit donc être tenu très propre, y compris l'air ambiant qui doit être filtré contre la présence de fumées polluantes, puisque le nettoyage de l'aimant sera très difficile ou nécessitera la reconformation du champ magnétique par adjonction d'écrans ou d'aimants complémentaires de correction. L’autre difficulté réside dans le transport et la livraison de l'aimant jusqu'au lieu où il sera déployé, les aimants de cette puissance faisant l'objet de mesures de sécurité spécifiques qui leur interdit par exemple le transport par avion si leur champ ne peut être totalement confiné dans l’emballage ou sa structure de protection et de pose dans l’appareil.
+
+
+==== Aimant résistifModifier ====
+Cet aimant est constitué d'un bobinage de cuivre traversé par un courant électrique produisant un champ magnétique en son centre. Ce type d'aimant est assez peu utilisé depuis l'apparition des aimants supraconducteurs.
+Il est assez peu coûteux à la fabrication et ne nécessite pas de liquide cryogénique de refroidissement (contrairement aux aimants supraconducteurs). De plus, le champ magnétique peut être annulé en quelques secondes en stoppant le courant (mais il faut attendre la stabilisation du champ lors de la remise sous tension).
+Malheureusement, le champ magnétique maximum atteint à peine 0,5 T et reste très sensible aux variations de température. De plus, on constate des problèmes d'homogénéité du champ et une consommation électrique très importante pour alimenter la bobine en courant et pour alimenter les compresseurs du circuit de refroidissement afin de compenser l'effet Joule provoqué par la résistivité de la bobine.
+
+
+==== Aimant supraconducteurModifier ====
+En 2008[réf. souhaitée], c'est le type d'aimant le plus répandu. L'aimant supraconducteur utilise le principe de supraconductivité : lorsque certains métaux ou alliages sont soumis à des températures proches du zéro absolu, ils perdent leur résistivité si bien que le passage d'un courant électrique se fait sans perte, donc sans production de chaleur.
+L'aimant supraconducteur utilisé en IRM est constitué d'un bobinage de Niobium-Titane (Nb-Ti) baignée constamment dans de l'hélium liquide (près de -269 °C) qui en assure l'état supraconducteur. La résistance électrique nulle ainsi atteinte permet de créer des intensités de champ magnétique très élevées. La bobine est encastrée dans une matrice en cuivre qui sert de puits de chaleur afin de la protéger en cas de perte accidentelle de la supraconductivité (le quench).
+Enfin, le système est entouré d'un écran refroidisseur (circuit d'air ou d'eau glacée) qui aide à maintenir l'hélium liquide à très basse température. Le tout est finalement enveloppé d'un espace de vide diminuant les échanges thermiques avec l'extérieur. L'appareil est donc peu sensible aux variations de température ambiante.
+Tout cet appareillage rend les appareils à aimant supraconducteur très coûteux à l'achat et, ensuite, à l'utilisation, du fait de leur consommation importante en hélium cryogénique. La supraconductivité permet néanmoins une consommation électrique moyenne ou faible : si elle n'est pas négligeable lors de la mise en courant des bobinages, elle devient ensuite quasi nulle une fois le régime permanent stable établi.
+Les bobinages supraconducteurs étant parcourus par des courants beaucoup plus élevés, ils stockent sous forme magnétique une énergie beaucoup plus élevée. Elle devient même considérable pour les bobines de grandes dimensions à 3 T ou plus. Ces équipements sont alors dotés d'équipements sophistiqués et fiables pour la dissiper en toute sécurité en cas de quench.
+
+
+=== Géométrie de l'aimantModifier ===
+Il existe deux types d'IRM (en pratique, on appelle IRM la technique comme l'appareil ou imageur):
+L'IRM « fermée » est la configuration la plus répandue et la plus connue à l'heure actuelle. Il s'agit d'un tunnel de 60 cm de diamètre pour 2 mètres de long pour les plus anciens et 1,60 mètre de long pour les plus récents. De nouveaux systèmes sont apparus récemment, utilisant des tunnels plus larges jusqu'à 75 cm de diamètre. Ces systèmes parfois très abusivement qualifiés de « systèmes ouverts » restent des systèmes fermés, bien que leur capacité à accueillir des personnes obèses soit améliorée.
+
+L'IRM « ouverte » est apparue après l'IRM fermée. Très peu répandue à ses débuts, la technologie des IRM ouvertes s'améliorant, on leur trouve des avantages dans la médecine humaine notamment pour les individus qui ne pouvaient pas bénéficier de ce type d'imagerie en géométrie fermée pour des raisons pratiques ou pour éviter une anesthésie générale. On compte parmi ces personnes :
+les individus obèses dont le diamètre de l'abdomen ou l'envergure des épaules dépasse le diamètre interne du tunnel ;
+les individus claustrophobes ;
+les enfants ne supportant pas de rester seuls plusieurs minutes dans l'IRM sans bouger.
+Les femmes enceintes.
+Une application récente des modèles ouverts est l'IRM interventionnelle.
+Toutefois, les capacités d'intensité de champ magnétique offertes par ce type d'IRM restent habituellement inférieures (0,3 à 0,4 T pour les aimants permanents[réf. souhaitée]) aux conformations fermées. Cependant, il existe actuellement deux systèmes ouverts[Lesquels ?] utilisant une technologie à supraconducteur, un à 1 T et un autre à 1,2 T en attendant des champs plus élevés. Ces systèmes haut champ ouverts sont plus difficiles à fabriquer et donc plus chers.
+
+
+=== Bobines de gradient de champ magnétiqueModifier ===
+Il s'agit de trois bobines métalliques enfermées dans un cylindre en fibres de verre et placées autour du tunnel de l'aimant. On les nomme respectivement : bobine X, bobine Y et bobine Z.
+Le passage d'un courant électrique dans ces bobines crée des variations d'intensité du champ magnétique dans le tunnel, de façon linéaire dans le temps et dans l'espace. En fonction de sa géométrie, chaque bobine fait varier le champ magnétique selon un axe spécifique :
+la bobine X selon l'axe droite-gauche ;
+la bobine Y selon l'axe avant-arrière ;
+la bobine Z selon l'axe haut-bas.
+Elles permettent notamment de sélectionner une épaisseur et un plan de « tranche » ou coupe (transversal, frontal, sagittal ou oblique) et de déterminer la localisation spatiale des signaux dans ce plan.
+En sélectionnant une de ces bobines, on peut faire varier ces paramètres :
+la pente ou intensité : elle est de l'ordre de quelques dizaines de milliteslas par mètre (mT/m) et varie selon les imageurs ; son rôle est de contrôler l'épaisseur de chaque coupe ;
+le rapport de montée en puissance : elle correspond à la pente maximale atteinte par mètre et par milliseconde ; son rôle est la gestion de la rapidité d'acquisition ;
+Remarque : les commutations rapides de champ magnétique par les bobines de gradients produisent des courants de Foucault, eux-mêmes à l'origine de petits champs magnétiques.
+
+
+=== Correcteurs de champ magnétiqueModifier ===
+Les correcteurs de champ magnétique ou shim sont des dispositifs qui servent à compenser les défauts d'inhomogénéité du champ magnétique principal B0 qui peuvent résulter de facteurs liés à l'environnement ou tout simplement de la présence du patient dans le tunnel.
+Les correcteurs de champ sont disposés le long de l'aimant. Il en existe deux types pouvant être présents tous les deux dans une même machine.
+
+
+==== Shim passifModifier ====
+Ce sont des plaques ferromagnétiques. Elles permettent un réglage grossier du champ magnétique, dans le cas d'un environnement perturbateur stable.
+
+
+==== Shim actifModifier ====
+Ce sont des bobines résistives ou supraconductrices, dans lesquelles passe un courant électrique. Les shims actifs permettent un réglage fin et dynamique, lors de la présence de structures mobiles proches de l'imageur ou du patient dans le tunnel. Ils effectuent une compensation automatique à chaque fois que le champ magnétique devient hétérogène.
+Remarque : L'homogénéité du champ magnétique est vérifiée à chaque maintenance du système. Les bobines de shim sont alors calibrées finement (on parle de shimming) par un technicien ou ingénieur spécialisé.
+
+
+=== AntennesModifier ===
+Ce sont des bobinages de cuivre, de formes variables, qui entourent le patient ou la partie du corps à explorer. Le principe de mesure est le même que pour les capteurs inductifs, à savoir la mesure d'une tension induite par la variation du flux.
+Elles sont capables de produire et/ou capter le signal de radiofréquence (R.F.). Elles sont accordées pour correspondre à la fréquence de résonance de précession des protons qui se trouvent dans le champ magnétique :
+
+ = Fréquence de précession
+ = Rapport gyromagnétique
+ = Intensité du champ magnétique principal
+Ce qui donne dans le cas du noyau de l'hydrogène (proton):
+pour un champ de 0,5 T : onde R.F. de 21,3 MHz ;
+pour un champ de 1 T : onde R.F. de 42,6 MHz ;
+pour un champ de 1,5 T : onde R.F. de 63,9 MHz.
+Les antennes sont très variables et peuvent être catégorisées de trois manières différentes :
+Selon leur géométrie : volumique et surfacique.
+Selon leur mode de fonctionnement : émettrice-réceptrice ou réceptrice seule (on parle aussi de réceptrice pure).
+Selon l'association ou non de différents éléments d'antennes : linéaire, en quadrature de phase ou en réseau phasé.
+
+
+==== Antennes volumiquesModifier ====
+Une antenne volumique est une antenne au centre de laquelle est positionné le segment à examiner. Elle est :
+soit émettrice-réceptrice : c'est un cylindre de bobinage métallique qui émet un signal R.F. approprié (sous la forme d'impulsions régulières) vers des protons de la région à explorer. Ceux-ci entrent alors en résonance. Puis l'antenne reçoit la réponse de ces protons, au moment de la restitution de l'énergie ;
+soit réceptrice simple : elle est constituée de plusieurs antennes réceptrices plates montées en réseau phasé autour d'une structure cylindrique. C'est, dans ce cas, une autre antenne (l'antenne dite Corps ou Body intégrée à l'appareil lui-même) qui s'occupe de l'émission du signal R.F.
+Remarque : L'émission et la réception du signal se font de façon homogène dans tout le volume entouré par l'antenne.
+Exemples d'antennes volumiques :
+
+L'antenne corps : il s'agit d'une antenne émettrice-réceptrice, elle est située autour du tunnel de l'aimant (non visible sur une installation en utilisation mais il est possible de la visualiser au cours des maintenances). Son diamètre est à peu près de 65 cm. Elle permet l'étude de régions anatomiques étendues (allant jusqu’à 50 cm de long).
+L'antenne tête : il s'agit d'une antenne émettrice-réceptrice ou réceptrice simple. Il s'agit d'une antenne modulaire de diamètre de 25 à 30 cm qui est adaptée à l'exploration de l'encéphale mais peut également être utilisée pour l'exploration comparative des extrémités chez l'adulte (main, poignet, pied et cheville) ou de l'abdomen des jeunes enfants.
+L'antenne genou : il s'agit d'une antenne émettrice-réceptrice ou réceptrice simple. Il s'agit d'une antenne modulaire de 22 cm de diamètre (peut varier). Elle est adaptée à l'exploration du genou, mais aussi du pied et de la cheville.
+On peut aussi citer : l'antenne poignet, l'antenne épaule, l'antenne jambes…
+
+
+==== Antennes surfaciquesModifier ====
+
+Une antenne surfacique est une antenne plane positionnée au contact de la région à explorer. Elle est réceptrice simple et ne peut donc que recevoir le signal restitué par les protons, c'est l'antenne corps qui émet l'impulsion R.F. initiale.
+En tant qu'antenne linéaire (utilisée seule), elle ne permet l'examen que de petits champs d'exploration. C'est pour cette raison qu'elle est souvent couplée à d'autres antennes surfaciques (en quadrature de phase ou en réseau phasé).
+Elle procure un très bon rapport signal sur bruit dans la région d'intérêt à condition de son bon positionnement (le plus proche possible de la zone d'exploration).
+
+
+==== Associations d'antennesModifier ====
+Comme nous l'avons vu précédemment, les antennes peuvent être utilisées seules ou en association afin d'avoir un rendu optimum et permettre le diagnostic :
+L'antenne linéaire : C'est une antenne surfacique utilisée seule et placée parallèlement au champ magnétique B0. Il y a donc réception du signal émis par le patient, uniquement lorsque ce signal passe devant l'antenne.
+L'antenne en quadrature de phase : C'est un ensemble de deux antennes surfaciques disposées autour d'une même région mais dans des plans différents. Chaque antenne reçoit un signal de la même région mais à des moments différents. Les deux signaux se regroupent alors sur un même canal de traitement pour former l'image finale. Ce principe augmente le rapport signal sur bruit et par conséquent la qualité de l'image. On peut aussi utiliser ce gain de signal pour diminuer le temps d'acquisition pour une qualité d'image, cette fois-ci, inchangée. Il est évident que les coûts d'achat de ce type d'antenne est bien plus élevé que pour une antenne linéaire.
+Les antennes en réseau phasé: C'est un ensemble de plusieurs antennes de surface de petit diamètre, disposées côte à côte. Chaque antenne possède son propre canal de réception du signal et produit l'image de la région anatomique en regard de laquelle elle se trouve. Les différentes images sont ensuite combinées par des algorithmes informatiques pour former l'image terminale. Ce principe procure un très haut rapport signal sur bruit et permet un large champs d'exploration (jusqu’à 48 cm), mais est bien plus onéreux que les deux autres types d'antennes précédemment décrites.
+Remarque: il existe des antennes dites « HDE » (haute densité d'éléments) ce sont des antennes qui contiennent plus de deux bobines appelées « éléments d'antenne » qui peuvent être comme des petites antennes élémentaires. Cependant les antennes HDE sont très onéreuses (pour l'exemple une « antenne-genou » 8 éléments coûte près de 25 000 €).
+
+
+=== BlindagesModifier ===
+En IRM, on parle de blindages pour certains dispositifs destinés au confinement des champs magnétiques produits par la machine et à l'isolement de celui-ci des champs magnétiques extérieurs qui viendraient perturber l'acquisition.
+Il existe deux blindages dans une installation IRM :
+
+
+==== Blindage des ondes de radiofréquenceModifier ====
+Il est assuré par la cage de Faraday constituée d'un maillage de cuivre qui recouvre presque* toutes les parois de la salle de l'aimant et étanche aux ondes R.F. Cependant cette « cage » n'est visible qu'au niveau de la vitre de contrôle (aspect sombre du verre) et le cadre de la porte (de petites lamelles de cuivre), les plaques de cuivres étant cachées dans les murs, le plafond et le sol :
+elle empêche les ondes R.F. produites par le système de sortir de la salle de l'aimant ;
+elle empêche les ondes R.F. extérieures (produites par tout appareil électronique et objets métalliques en mouvement) d'entrer dans la salle d'examen.
+(*) Dans toutes les salles IRM il existe ce que l'on appelle un panneau de pénétration, c'est un lieu de passages du circuit de refroidissement et des câbles transportant les informations entre la salle de l'aimant et le local technique, celui-ci fait un trou dans la cage de Faraday. Cependant ce passage est spécialement conçu pour ne laisser passer aucune onde R.F.
+En outre, il existe un autre type de cage de Faraday. Miniaturisée, elle n'est utilisée que rarement pour certaines acquisitions notamment l'exploration des membres inférieurs, et ce, afin d'éviter l'artéfact de repliement (Aliasing) du membre controlatéral. Ce dernier est entouré par une petite cage de Faraday et ne peut donc répondre aux impulsions de radio-fréquences. De nouvelles parades technologiques et des solutions d'anti-repliements rendent son utilisation très sporadique.
+
+
+==== Blindage de champ magnétiqueModifier ====
+Il a pour rôle de rapprocher les lignes de champ au plus près de l'aimant et notamment de faire rentrer la ligne de 0,5 mT dans la salle d'examen.
+Remarque: on parle de la « ligne des 0,5 mT » ou « des 5 Gauss ». C'est la limite au-delà de laquelle il y a dysfonctionnement ou dérèglement d'un pacemaker
+Il existe deux types de blindages de champ magnétique selon les appareils :
+un blindage passif : c'est un ensemble de poutrelles d'acier ou de fer doux, entourant l'aimant. Ce dispositif est très lourd ;
+un blindage actif : c'est un bobinage métallique inversé placé aux deux extrémités du bobinage de champ principal B0. Au passage du courant électrique dans les spires inversées, il se produit un contre-champ magnétique dont les lignes de champ viennent s'opposer à celles de B0.
+Le périmètre du champ magnétique est appelé champ magnétique résiduel. La taille du champ magnétique résiduel dépend de la puissance du champ magnétique et du fait que le système soit blindé ou non. Pour un IRM de 1,5 T non blindé, un champ supérieur à 0,5 mT s'étend jusqu’à près de 12 mètres de l'isocentre et de 9,5 mètres de part et d'autre de l'aimant (Il est à noter que la cage de Faraday n'a aucune action de blindage contre le champ magnétique) ; avec blindage ce champ est réduit à 4 mètres de l'isocentre et 2,5 mètres de part et d'autre de l'aimant.
+Remarque : En raison du contre-champ du blindage actif, le champ magnétique est plus intense à l'entrée du tunnel et sous les capots qu'au centre de l'appareil (les intensités peuvent être presque doublées). Cette propriété peut être cause de vertiges et de sensations de fourmillement à l'entrée du tunnel lors de l'émission des ondes de radiofréquence, dues à de petits courants de Foucault induits dans certaines structures nerveuses. Il est important de respecter les consignes de sécurité et ne pas former de « boucle » avec les membres ce qui augmenterait l'intensité de ces courants et pourrait provoquer des brûlures ou/et de plus grands étourdissements.
+
+
+=== QuenchModifier ===
+Le Quench se définit par un passage brutal de l'hélium liquide à l'état gazeux volatil qui s'échappe alors de la cuve.
+La raison accidentelle principale de ce phénomène est un défaut dans le système d'isolation thermique dû à la présence de micro-pores dans les joints, voire un non contrôle du niveau d'hélium et du bouclier thermique d'azote liquide (c'est la cause accidentelle la plus fréquente du « quench »).
+Il y a un réchauffement de l'hélium liquide qui passe alors à l'état gazeux, avec un risque de voir l'évaporation s'accélérer avec la diminution du pourcentage d'hélium liquide présent en cuve.
+Remarque : Ce dysfonctionnement peut avoir des origines très diverses : panne dans le circuit d'eau glacée due à un dépôt important de calcaire, défaillance dans les compresseurs provoquant l'arrêt de la tête froide, ou une augmentation de pression dans l'aimant…
+Le quench peut être aussi provoqué volontairement par le personnel de santé : en effet la propriété supraconductrice des IRM modernes fait que le champ magnétique principal reste même s'il n'y a plus d'apport de courant dans la bobine. Tout changement de la valeur du champ statique doit être opéré avec une procédure très stricte et toute variation rapide du champ statique engendre des courants de Foucault importants. Ceux-ci réchauffent les cuves de l'aimant et augmentent considérablement la consommation d'hélium, ceci peut conduire à un phénomène d'emballement qui évapore la masse d'hélium existant et conduit au « quench » et surtout au réchauffement du filament supraconducteur qui peut être détruit et brûlé.
+Ainsi pour stopper le champ magnétique, il faut attendre plusieurs heures (voire journées) pour que la très faible résistance de la bobine diminue l'intensité du champ magnétique. En cas de danger immédiat pour toute personne se trouvant dans la salle d'examen, par exemple : un individu coincé entre l'aimant et un gros objet ferromagnétique (brancard, bonbonne d'oxygène, cireuse…) il y a un risque de fracture voire d'asphyxie pour celui-ci et la puissante force d'attraction empêche de dégager la personne sans porter atteinte à son intégrité physique. On déclenche alors le quench :
+L'hélium liquide passe à l'état gazeux, la bobine principale se réchauffe avec perte de la supraconductivité et reprise de la résistivité de la bobine. À terme, il y a remise en place de l'effet Joule (production d'énergie calorifique : dégagement de chaleur) et l'intensité du champ magnétique chute progressivement.
+L'hélium gazeux produit doit normalement s'échapper vers l'extérieur des locaux grâce à un conduit situé au-dessus de l'aimant. Si cette évacuation ne se fait pas correctement, l'hélium gazeux s'échappe dans la salle d'examen. Il y a alors un risque important d'asphyxie et de brûlure par le froid pour le patient présent dans le tunnel, ainsi qu'un risque de confinement de la salle : impossibilité d'ouvrir la porte de la salle selon son sens d'ouverture.
+Remarque : L'hélium gazeux n'est pas un gaz toxique pour l'organisme. Son inconvénient, dans ce cas, est sa détente du passage liquide à l'état gazeux pour finalement remplacer le dioxygène de l'air. En effet pour 1 litre d'hélium liquide on obtient près de 700 litres d'hélium gazeux ; un véritable problème lorsqu'on sait que la cuve d'un IRM contient (lorsqu'elle est pleine) de 1 650 à 1 800 litres d'hélium liquide.
+Lorsqu'un quench se produit, il arrive que la totalité de l'hélium présent en cuve s'échappe. Dans ce cas l'appareil IRM ne peut plus être utilisé dans l'immédiat : il faut refroidir la cuve avant de la remplir à nouveau, puis relancer le champ magnétique jusqu’à atteindre sa complète stabilité. Il faut ensuite recalibrer le shim actif et procéder à des tests sur fantômes. Ces opérations sont très coûteuses en temps et en argent : dans un ordre d'idée, on peut estimer son coût à plus de 40 000 euros sans compter les pertes potentielles dues à l'impossibilité de pratiquer des examens pendant le temps de remise en service qui dure, environ, deux semaines.
+
+
+=== Rappels de RMNModifier ===
+
+La résonance magnétique nucléaire exploite le fait que les noyaux de certains atomes (ou plutôt isotopes atomiques) possèdent un moment magnétique de spin. C'est en particulier le cas de l'atome d'hydrogène 1 que l'on retrouve en grande quantité dans les molécules qui composent les tissus biologiques comme l'eau (H2O) et les molécules organiques. En RMN (tout comme en IRM), on place les atomes que l'on veut étudier dans un champ magnétique constant. On peut alors imaginer les spins des noyaux atomiques comme des toupies tournant sur elles-mêmes autour de leur axe et effectuant un mouvement rapide de précession autour de l’axe du champ magnétique (mouvement appelé précession de Larmor). Cette fréquence de précession est exactement proportionnelle à l’intensité du champ magnétique (qui est de quelques teslas pour les appareils d'IRM actuels). On applique alors à ces atomes une onde électromagnétique à une fréquence bien particulière dite fréquence de résonance ou fréquence de Larmor. En effet, pour que le champ oscillant de l’onde électromagnétique puisse avoir un effet notable sur les spins, il faut que sa fréquence soit ajustée au mouvement de précession de ces spins (phénomène de résonance). La fréquence de Larmor étant différente pour des isotopes atomiques différents (à cause d’un rapport gyromagnétique différent), un choix judicieux de cette fréquence permet de cibler quels atomes on va détecter. En IRM, on utilise principalement les atomes d'hydrogène dont la fréquence de résonance est autour de 42 MHz/T, ce qui correspond à la gamme des ondes radio. En effet, l'atome d'hydrogène qui est constitué d'un seul proton, est très abondant dans les tissus biologiques et en outre, son moment magnétique nucléaire est relativement fort, ce qui fait que la résonance magnétique de l'hydrogène donne lieu à un phénomène de résonance très net et facile à détecter.
+Même s'il s'agit en réalité de phénomènes quantiques, on peut se représenter, de façon imagée, que sous l'effet du champ magnétique statique, les moments magnétiques de spin vont progressivement s'aligner dans une direction initialement parallèle à celui-ci et donner lieu à une aimantation globale dans la direction du champ , dite direction longitudinale. Par habitude, on note cette direction de la lettre . et on note l'aimantation longitudinale résultant de l'addition de tous ces moments magnétiques, . En fait, seule une très faible proportion (environ 0,001 %) des moments magnétiques nucléaires s'aligne dans la direction , la très grande majorité ne possède pas une orientation stable en raison de l'agitation thermique, néanmoins cette petite proportion de spins qui « s'alignent » est suffisante pour être détectée, c'est pourquoi on néglige le reste des moments magnétiques des 99,999 % restant qui statistiquement se compensent les uns les autres.
+Lorsque l'on applique l'onde magnétique radiofréquence oscillante à la fréquence de Larmor, on va entraîner les moments magnétiques qui vont alors s'écarter progressivement de l'axe  pour aller se placer perpendiculairement à leur axe de départ un peu comme un parapluie qui s'ouvrirait mais en plus les spins continuent leur rotation autour de l'axe . C'est ce qu'on appelle un mouvement de précession.
+L'onde magnétique oscillante, notée  va donc avoir comme rôle de faire « basculer » les moments magnétiques de spin pour les placer dans un plan perpendiculaire à la direction du champ statique . C'est ce qu'on appelle l'excitation : plus celle-ci dure longtemps et plus la proportion de moments magnétiques qui auront basculé sera importante et donc plus l'aimantation longitudinale (dans la direction ) diminuera.
+Lorsqu'on interrompt le champ oscillant, les moments magnétiques qui se sont écartés de leur axe initial vont revenir vers la direction  sans cesser de tourner. On peut alors mesurer ce mouvement de rotation des spins sous la forme d'un signal oscillant qui a la même fréquence que l'onde excitatrice. C'est ce signal, dit de précession, qu'on mesure en RMN et en IRM au moyen d'une antenne réceptrice.
+
+
+==== Relaxation longitudinale (T1)Modifier ====
+Au fur et à mesure que les moments magnétiques retrouvent la direction du champ statique , le signal oscillant qu'ils émettent va en diminuant, jusqu'à disparaître quand tous les moments magnétiques sont de nouveau alignés longitudinalement, c'est-à-dire dans la direction . Le temps que mettent les moments magnétiques nucléaires à retrouver leur alignement longitudinal (c'est-à-dire sur la direction ) est baptisé temps de relaxation longitudinal et est noté T1.
+En notant  la valeur à l'équilibre de l'aimantation longitudinale (lorsque tous les spins sont alignés), on peut donner la loi d'évolution de la « repousse » de l'aimantation longitudinale après à avoir appliqué une excitation qui aurait fait basculer tous les moments magnétiques au temps  : 
+Ce phénomène de relaxation (c'est-à-dire de retour à l'équilibre) suit donc une dynamique exponentielle, il faudrait alors un temps infini pour que tous les spins se retrouvent alignés, c'est pourquoi on définit comme temps T1 le temps mis pour retrouver 63 % de l'aimantation longitudinale à l'équilibre.
+Ce temps de relaxation T1 dépend de l'agitation moléculaire dans le tissu que l'on observe. Il suit une courbe en U inversé : si l'agitation moléculaire est très faible, les atomes d'hydrogène mettront du temps à revenir à l'équilibre (c'est le cas des tissus durs comme les os). Si l'agitation des molécules d'eau est très forte, comme c'est le cas dans les liquides comme le liquide céphalo-rachidien, la repousse est aussi lente. En revanche, si l'agitation est modérée (c'est-à-dire avec une constante de temps autour de la fréquence de Larmor) comme dans la graisse ou dans la substance blanche, alors le temps T1 est relativement court. Ces différents T1 tournent autour de 1 seconde pour champ  de 3 teslas.
+
+
+==== Relaxation transversale (T2)Modifier ====
+Par ailleurs, l'agitation moléculaire contribue aussi à un autre phénomène : alors qu'en théorie les moments magnétiques devraient tous tourner de façon cohérente autour de l'axe , c'est-à-dire avec une différence de phase constante, l'agitation moléculaire va faire que les atomes ne vont pas être dans un environnement physico-chimique constant et donc leur fréquence de Larmor va elle aussi n'être pas parfaitement égale à la fréquence de Larmor théorique. Par conséquent, les différents moments magnétiques vont avoir tendance à se déphaser. Cela se traduit par une diminution du signal lié à leur rotation synchrone au cours du temps, dit temps de relaxation transversale noté T2.
+Ce temps T2 mesure la disparition de l'aimantation transversale, c'est-à-dire de l'aimantation résultant du fait que les moments magnétiques sont synchrones dans leur rotation dans le plan transversal, perpendiculaire à , où ils ont été amenés par l'onde excitatrice oscillante . Là encore, il s'agit d'un phénomène qui suit une loi exponentielle (décroissante cette fois) : 
+
+
+=== Codage spatial grâce aux gradientsModifier ===
+La localisation spatiale des atomes est obtenue en ajoutant un gradient directionnel sur le champ magnétique de base () grâce aux bobines de gradient de champ magnétique. La relaxation des protons sera alors modifiée par la variation du champ magnétique. Des techniques de traitement du signal utilisant les algorithmes de transformées de Fourier rapides permettent alors de localiser l'origine du signal.
+La résolution spatiale est liée à l'intensité du champ magnétique (de nos jours, en 2006, les appareils utilisent un champ de 1 à 3 teslas) et de la durée de l'acquisition (en général une dizaine de minutes). On atteint actuellement une résolution de l'ordre du millimètre.
+
+
+=== PondérationsModifier ===
+En modifiant les paramètres d'acquisition IRM, notamment le temps de répétition entre deux excitations et le temps d'écho, temps entre le signal d'excitation et la réception de l'écho, l'utilisateur peut modifier la pondération de l'image, c’est-à-dire faire apparaître les différences de temps T1 et de temps T2 des différents tissus d'un organisme. Les tissus ayant des temps T1 et T2 différents en fonction de leur richesse en atome d'hydrogène et en fonction du milieu dans lequel ces derniers évoluent, peuvent renvoyer des signaux différents si l'on arrive à mettre en évidence ces différences de temps. Pour cela, on teste la réponse des atomes après des excitations particulières.
+Des tissus différents ont des T1 différents. Après stimulation de radio-fréquence avec un temps de répétition court, on ne laisse pas le temps aux atomes d'hydrogène de certains tissus de revenir en position d'équilibre alors que, pour d'autres atomes d'hydrogène d'autres tissus, le temps est suffisamment long pour qu'il y ait un retour à l'équilibre. Lorsque l'on mesure l'état d'énergie des atomes des tissus, on note des écarts d'état entre ces différents atomes. Si on laissait un temps trop long, tous les atomes auraient le temps de revenir en position d'équilibre et l'on ne noterait plus de différences entre différents tissus.
+Des tissus différents ont des T2 différents. Après stimulation par un temps d'écho long, on retrouve des décroissances d'énergie d'amplitude plus importante entre les tissus. Les différences de T2 étant plus discriminants si le temps d'écho est long.
+
+
+==== Pondération T1Modifier ====
+Les paramètres de la pondération :
+temps d'écho : TE = 10 à 20 ms (ms = millisecondes)
+temps de répétition : TR = 400 à 600 ms
+En utilisant un temps de répétition court et un temps d'écho court (neutralise les différences de temps T2), on obtient un contraste d'image pondérée en T1, pondération dite « anatomique » : en pondération T1 sur le cerveau, la substance blanche apparaît plus claire que la substance grise. Le liquide céphalo-rachidien, situé entre la substance grise et l'os apparaît lui nettement plus foncé.
+Ces séquences sont également utilisées après injection de produit de contraste, pour caractériser une anomalie 
+
+
+==== Pondération T2Modifier ====
+Les paramètres de la pondération :
+temps d'écho : TE > 80 ms
+temps de répétition : TR > 2 000 ms
+En utilisant un temps de répétition long (neutralise les différences de temps T1) et un temps d'écho long, on obtient un contraste d'image dite pondérée en T2, dite aussi pondération « tissulaire » : L'eau et l'œdème apparaissent en hypersignal.
+
+
+==== Densité protoniqueModifier ====
+Les paramètres de la pondération :
+temps d'écho : TE = 10 à 20 ms
+temps de répétition : TR > 2 000 ms
+En utilisant un temps de répétition long (2 000 ms à 3 000 ms) et un temps d'écho court (inférieur à 30 ms), on obtient un contraste d'image de pseudo densité protonique (Tissus > liquide > graisse). Seul les éléments tissulaires à faibe densité protonique, comme les ménisques, seront en hyposignal par rapport aux liquides libres témoins d'une pathologie articulaire sous-jacente. En utilisant un temps de répétition plus long (5 000 ms) et un temps d'écho court (inférieur à 30 ms), on obtient un contraste d'image de vraie densité protonique (Liquide>Tissus>graisse).
+
+
+=== SéquencesModifier ===
+
+
+==== Écho de spinModifier ====
+
+
+===== Séquence SE classiqueModifier =====
+La séquence IRM la plus classique est sans doute la séquence écho de spin. Cette dernière se décompose en:
+une impulsion 90 ° dite d'excitation.
+une période de déphasage dans le plan transverse des protons pendant TE/2.
+une impulsion 180 °, dite d'inversion.
+un rephasage pendant TE/2.
+la lecture du signal (lecture de l'écho de spin).
+Cette séquence permet les pondérations T1, T2 et de densité protonique. Elle n'est plus utilisée car le temps d'acquisition est beaucoup trop long car il faut compter environ 50 minutes pour l'acquisition d'une coupe sur une matrice de 256².
+
+
+===== Séquence TSE/FSE rapideModifier =====
+TSE pour Turbo Spin Echo et FSE pour Fast Spin Echo (le nom de la séquence dépend des constructeurs mais le principe est identique).
+La technique associe la méthode écho de gradient et écho de spin pour une acquisition plus rapide mais plus sensible aux artefacts.
+Le principe de ces techniques reste basé sur un angle d'impulsion radiofréquence (généralement 40 °) appelé angle de Ernst intermédiaire entre la séquence SE et IR avec des temps de répétitions plus courts (300 ms) , cette technique appliquée à haut champ permet d'éviter certains artefacts dus aux spins mobiles.
+
+
+==== Inversion-RécupérationModifier ====
+
+
+===== Séquence IRT1 ou FLAIRT1 ou TRUET1Modifier =====
+On envoie une impulsion à 180 °, puis on attend un délai T pendant lequel ML (proportionnel à l'intensité longitudinale) a augmenté. Après T, on envoie une impulsion à 90 °, qui provoque un basculement de ML, on obtient ainsi un courant mesurable et donc un signal lié à T1.
+
+
+===== Séquence STIRModifier =====
+(= Short Time of Inversion Recovery)
+Les séquences STIR ont pour but d'annuler le signal de la graisse.
+
+
+===== Séquence FLAIR ou FLAIRT2Modifier =====
+Il s'agit d'une séquence en inversion-récupération pondérée T2 sur laquelle on a « supprimé » le signal de l'eau libre (et donc du liquide céphalo-rachidien), qui apparaît alors en hyposignal, en adaptant le temps d'inversion. Cette séquence est très utilisée dans l'exploration cérébrale (notamment du cortex et des parois ventriculaires), l'œdème, la nécrose ou encore la gliose.
+
+
+==== Écho de gradientModifier ====
+
+
+==== Gradient de diffusionModifier ====
+Les techniques de gradient de diffusion consistent à mesurer le mouvement brownien des molécules d'eau dans les tissus. Cela permet d'en déduire des informations sur les inhomogénéités des tissus et notamment de la substance blanche du tissu nerveux. Pour ce faire, les mesures de la diffusion sont effectuées sur un plus ou moins grand nombre de directions (de 6 à plus d'une centaine) qui permettent de calculer des tenseurs de diffusion dans chaque voxel. À partir de là, il est possible de définir la direction moyenne des fibres qui passent dans chacun des voxels et de reconstruire la trajectoire des principaux faisceaux de fibres grâce à des algorithmes de tractographie déterministes ou probabilistes. Cette direction moyenne est donnée par la direction propre associée à la plus grande valeur propre du tenseur de diffusion. Le plus souvent, les algorithmes déterministes interpolent les directions de chaque voxel contigu en fonction du degré d'anisotropie (mesuré par la fraction d'anisotropie) et de l'angle formé par deux directions moyennes de voxels jouxtants.
+
+
+==== Saturation des graisses (ou fatsat)Modifier ====
+La Fat Sat est une technique permettant de supprimer le signal de la graisse en IRM.
+C'est une méthode qui utilise la légère différence de fréquence de résonance des protons des atomes d'hydrogène présents dans la graisse par rapport à ceux de la molécule d'eau. Cette différence est d'environ 220 Hz(à 1,5 Tesla). On envoie donc une radiofréquence dirigée spécifiquement sur la fréquence de la graisse afin de la saturer avant de recueillir le signal de la coupe.
+Avantages :
+méthode utilisable en pondération tant T1 que T2 ;
+permet de mieux mettre en évidence les prises de produit de contraste en pondération T1.
+Inconvénients :
+Très sensible aux inhomogénéités de champ, la différence de fréquence de résonance étant très ténue, si le champ magnétique a une valeur trop variable, la Fat Sat ne fonctionnera pas bien. Ce problème se pose souvent en cas de corps étrangers métalliques trop proches ou même en cas d'homogénéité limitée de l'aimant.
+
+
+=== ArtefactsModifier ===
+L'IRM, comme toutes les autres techniques d'imagerie médicale, n'échappe pas à la constitution de fausses images : les artéfacts.
+Les artéfacts sont des images observables qui n'ont, pour la plupart, pas à proprement parler de réalité anatomique. Ils peuvent être évités ou minimisés en modifiant certains paramètres d'acquisitions ou de reconstructions. Cependant certains d'entre eux sont utiles pour le diagnostic.
+
+
+==== Artefacts de mouvementModifier ====
+L’artefact de mouvement est un des artefacts les plus fréquemment rencontrés. Comme son nom l'indique, il se constitue lorsqu'il y a translation dans l'espace du segment étudié au cours de l'acquisition. Il y a deux types de mouvements rencontrés :
+les mouvements périodiques : Ce sont les mouvements de la respiration, les battements cardiaques et les flux sanguins ;
+les mouvements apériodiques : Ce sont les mouvements du patient, les mouvements oculaires, la déglutition, le péristaltisme digestif et le flux du liquide cérébro-spinal.
+Ils ont pour conséquence la dispersion du signal : image floue de la structure en mouvement.
+Mais aussi (en particulier pour les mouvements périodiques) des erreurs de localisation du signal : des images « fantômes » ou ghosting ; en effet lorsqu'il y a mouvement au cours de différents codages de phase, plusieurs valeurs de codage et donc plusieurs localisations seront attribuées à un même proton.
+Ces erreurs de localisations ne sont visibles que dans le sens de la phase car entre deux échantillonnages de codage de phase il peut se passer quelques secondes au cours desquelles un mouvement a lieu. En revanche entre deux échantillonnages de codage de fréquence seules quelques millisecondes se passent, un mouvement d'amplitude significative durant ce laps de temps très court est donc peu probable.
+Cette propriété est importante car elle permet de modifier les paramètres en fonction de la zone d'intérêt diagnostic de l'examen. Par exemple : Lorsque le rachis est étudié en coupes axiales, le codage de phase peut être paramétré en droite-gauche afin d'éviter que le ghosting du flux sanguin de l'aorte ne vienne se projeter dessus. Les techniques de présaturations permettent de saturer les spins mobiles et d'éviter leurs artefacts sur l'acquisition d'image statique (cf respiration abdominale ou passage de gros troncs vasculaires ou du LCR dans la région spinale surtout à partir de 1.5 Tesla)) dans la zone d'examen.
+
+
+==== Artefacts de champ magnétiqueModifier ====
+
+
+===== Artefact de susceptibilité magnétique métalliqueModifier =====
+
+
+===== Artefact de susceptibilité magnétiqueModifier =====
+
+
+===== Artefact d'hétérogénéité globale du champ magnétique principalModifier =====
+
+
+===== Artefact de non linéarité d'un gradient de champ magnétiqueModifier =====
+
+
+==== Artefacts d'impulsions de radiofréquenceModifier ====
+Les antennes émettrices, qui excitent les protons du tissu à imager, possèdent un profil d'excitation limité dans l'espace. Le signal reçu est donc inhomogène, et les zones les plus proches de l'antenne apparaîtront en hyper-signal.
+
+
+===== Artefact d'impulsions de radiofréquence croiséesModifier =====
+
+
+===== Artefact de croisement de coupeModifier =====
+
+
+===== Artefact d'interférences aux radiofréquences extérieuresModifier =====
+Cet artefact est du aux interférences des radiofréquences émises par des appareils extérieurs : GSM, 3G, radio, etc.
+
+
+===== Artefact d'hétérogénéité des impulsions de radiofréquenceModifier =====
+
+
+==== Artefacts de reconstruction d'imageModifier ====
+Ce sont les artefacts liés au problème de numérisation du signal (échantillonnage). Ainsi, si un pixel intersecte plusieurs objets, son niveau de gris sera une combinaison des niveaux de gris issus de chacun des objets traversés.
+
+
+===== Artefact de déplacement chimiqueModifier =====
+
+
+===== Artefact de repliementM

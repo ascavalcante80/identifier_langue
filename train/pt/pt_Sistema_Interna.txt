@@ -1,0 +1,74 @@
+Sistema Internacional de Unidades (sigla SI, do francês Système international d'unités) é a forma moderna do sistema métrico e é geralmente um sistema de unidades de medida concebido em torno de sete unidades básicas e da conveniência do número dez. É o sistema de medição mais usado do mundo, tanto no comércio todos os dias e na ciência.  O SI um conjunto sistematizado e padronizado de definições para unidades de medida, utilizado em quase todo o mundo moderno, que visa a uniformizar e facilitar as medições e as relações internacionais daí decorrentes.
+O antigo sistema métrico incluía vários grupos de unidades. O SI foi desenvolvido em 1960 do antigo sistema metro-quilograma-segundo, ao invés do sistema centímetro-grama-segundo, que, por sua vez, teve algumas variações. Visto que o SI não é estático, as unidades são criadas e as definições são modificadas por meio de acordos internacionais entre as muitas nações conforme a tecnologia de medição avança e a precisão das medições aumenta.
+O sistema tem sido quase universalmente adotado. As três principais exceções são a Myanmar, a Libéria e os Estados Unidos. O Reino Unido adotou oficialmente o Sistema Internacional de Unidades, mas não com a intenção de substituir totalmente as medidas habituais.
+
+
+== HistóriaEditar ==
+
+Para efetuar medidas é necessário fazer uma padronização, escolhendo unidades para cada grandeza. Antes da instituição do Sistema Métrico Decimal, as unidades de medida eram definidas de maneira arbitrária, variando de um país para outro, dificultando as transações comerciais e o intercâmbio científico entre eles. As unidades de comprimento, por exemplo, eram quase sempre derivadas das partes do corpo do rei de cada país: a jarda, o pé, a polegada e outras. Até hoje, estas unidades são usadas nos Estados Unidos, embora definidas de uma maneira menos individual, mas através de padrões restritos às dimensões do meio em que vivem e não mais as variáveis desses indivíduos.
+Em 1585, o matemático flamengo Simon Stevin publicou um pequeno panfleto chamado La Thiende, no qual ele apresentou uma conta elementar e completa de frações decimais e sua utilização diária. Embora ele não tenha inventado as frações decimais e sua notação, ele estabeleceu seu uso na matemática do dia-a-dia. Ele declarou que a introdução universal da cunhagem decimal, medidas e pesos seria apenas uma questão de tempo. No mesmo ano, ele escreveu La Disme sobre o mesmo assunto .
+Há registros de que a primeira ideia de um sistema métrico seja de John Wilkins, primeiro secretário da Royal Society de Londres em 1668, porém a ideia não vingou e a Inglaterra continuou com os diferentes sistemas de pesos e medidas   .
+Foi na França onde a ideia de um sistema unificado saiu do papel. A proliferação dos diferentes sistemas de medidas foi uma das causas mais frequentes de litígios entre comerciantes, cidadãos e cobradores de impostos. Com o país unificado com uma moeda única e um mercado nacional havia um forte incentivo econômico para romper com essa situação e padronizar um sistema de medidas. O problema inconsistente não era as diferentes unidades, mas os diferentes tamanhos das unidades. Ao invés de simplesmente padronizar o tamanho das unidades existentes, os líderes da Assembleia Nacional Constituinte Francesa decidiram que um sistema completamente novo deveria ser adotado.
+O Governo Francês fez um pedido à Academia Francesa de Ciências para que criasse um sistema de medidas baseadas em uma constante não arbitrária. Após esse pedido, um grupo de investigadores franceses, composto de físicos, astrônomos e agrimensores, deu início a esta tarefa, definindo assim que a unidade de comprimento metro deveria corresponder a uma determinada fração da circunferência da Terra e correspondente também a um intervalo de graus do meridiano terrestre. Em 22 de junho de 1799 foi depositado, nos Arquivos da República em Paris, dois protótipos de platina iridiada, que representam o metro e o quilograma, ainda hoje conservados no Escritório Internacional de Pesos e Medidas (Bureau international des poids et mesures) na França .
+Em 20 de maio de 1875 um tratado internacional conhecido como Convention du Mètre (Convenção do Metro), foi assinado por 17 Estados. Este tratado estabeleceu as seguintes organizações para conduzir as atividades internacionais em matéria de um sistema uniforme de medidas:
+Conférence Générale des Poids et mesures (CGPM), uma conferência intergovernamental de delegados oficiais dos países membros e da autoridade suprema para todas as ações;
+Comité international des poids et mesures (CIPM), composta por cientistas e metrologistas, que prepara e executa as decisões da CGPM e é responsável pela supervisão do Bureau Internacional de Pesos e Medidas;
+Bureau International des Poids et mesures (BIPM), um laboratório permanente e centro mundial da metrologia científica, as atividades que incluem o estabelecimento de normas de base e as escalas das quantidades de capital físico e manutenção dos padrões protótipo internacional.
+Em 1889, a 1ª CGPM definiu os protótipos internacionais de metro e quilograma e as próximas conferências definiram as demais unidades que hoje são as bases do SI. A partir da criação destas organizações todo e qualquer assunto relacionado a medição são de sua responsabilidade. Mais tarde, a CGPM estabeleceu que o sistema métrico internacional seria designado Sistema Internacional, com abreviatura SI em todos os idiomas . O SI foi adotado globalmente por praticamente todos os países. As três exceções são Myanmar, Libéria e os Estados Unidos. O Reino Unido adotou oficialmente o SI, mas sem a intenção de substituir inteiramente seu próprio sistema usual de medidas.
+Com o passar do tempo outras unidades foram adicionadas ao SI nas posteriores CGPMs: ampère (corrente elétrica) em 1946, kelvin (temperatura absoluta) e candela (luminosidade) em 1954 e mol (quantidade de matéria) em 1971 .
+
+
+== Unidades do SIEditar ==
+
+
+=== BásicasEditar ===
+Definiram-se sete grandezas físicas postas como básicas ou fundamentais. Por conseguinte, passaram a existir sete unidades básicas correspondentes — as unidades básicas do SI — descritas na tabela, na coluna à esquerda. A partir delas, podem-se derivar todas as outras unidades existentes. As unidades básicas do SI — posto que dimensionalmente axiomáticas — são dimensionalmente independentes entre si.
+
+
+=== DerivadasEditar ===
+Todas as unidades existentes podem ser derivadas das unidades básicas do SI. Entretanto, consideram-se unidades derivadas do SI apenas aquelas que podem ser expressas através das unidades básicas do SI e sinais de multiplicação e divisão, ou seja, sem qualquer fator multiplicativo ou prefixo com a mesma função. Desse modo, há apenas uma unidade do SI para cada grandeza. Contudo, para cada unidade do SI pode haver várias grandezas. Às vezes, dão-se nomes especiais para as unidades derivadas.
+Segue uma tabela com as unidades SI derivadas que recebem um nome especial e símbolo particular:
+1 Em Portugal: esterradiano.
+Até 1995, havia duas unidades suplementares: o radiano e o esferorradiano (esterradiano, em Portugal). Uma resolução da CGPM (Conferência Geral de Pesos e Medidas) de então tornou-as derivadas.
+É fácil de perceber que, em tese, são possíveis incontáveis (por extensão, "infinitas") unidades derivadas do SI (por exemplo; m², m³, etc.), tantas quantas se possam imaginar com base nos princípios constitutivos fundamentais. As tabelas que se seguem não pretendem ser uma lista exaustiva. São, tão-somente, uma apresentação organizada, tabelada, das unidades do SI das principais grandezas, acompanhadas dos respectivos nomes e símbolos. Na primeira tabela, unidades que não fazem uso das unidades com nomes especiais:
+Na segunda tabela, as que fazem uso na sua definição das unidades com nomes especiais.
+
+
+== Unidades aceitas pelo SIEditar ==
+O SI aceita várias unidades que não pertencem ao sistema. A primeiras unidades deste tipo são unidades muito utilizadas no cotidiano:
+A relação entre o neper e o bel é: 1 B = 0,5 ln(10) Np. Outras unidades também são aceitas pelo SI, mas possuem uma relação com as unidades do SI determinada apenas por experimentos:
+Por fim, tem-se unidades que são aceitas temporariamente pelo SI. Seu uso é desaconselhado.
+
+
+== Prefixos oficiais do SIEditar ==
+Os prefixos do SI permitem escrever quantidades sem o uso da notação científica, de maneira mais clara para quem trabalha em uma determinada faixa de valores. Os prefixos oficiais são:
+Para utilizá-los, basta juntar o prefixo aportuguesado e o nome da unidade, sem mudar a acentuação, como em nanossegundo, microssegundo, miliampere e deciwatt. Para formar o símbolo, basta juntar os símbolos básicos: nm, µm, mA e dW.
+Exceções
+Unidades segundo e radiano: é necessário dobrar o r e o s. Exemplos: milissegundo, decirradiano, etc.
+Especiais: múltiplos e submúltiplos do metro: quilômetro (quilómetro), hectômetro (hectómetro), decâmetro, decímetro, centímetro e milímetro; também nanômetro (nanómetro), picômetro (picómetro) etc..
+Observações
+O k usado em "quilo", em unidades como quilômetro (km) e quilograma (kg), deve ser grafado em letra minúscula. É errado escrevê-lo em maiúscula.
+Em informática, o símbolo "K" que pode preceder as unidades bits e bytes (grafado em letra maiúscula), não se refere ao fator multiplicativo 1000, mas sim a 1024 unidades da grandeza citada (para correção a IEC definiu o chamado prefixo binário onde 1:1024 e o uso dos prefixos da SI passaram a valer 1:1000).
+Em unidades como km² e km³ é comum ocorrerem erros de conversão. 1 km² = 1 000 000 m², porque 1 km × 1 km = 1 km², 1 km = 1000 m, 1000 m × 1000 m = 1 000 000 m². Para fazer conversões nesses casos, devem-se colocar mais dígitos por casa numérica: em metros, cada casa tem um dígito (exemplo: 1 0 0 0 m = 1 km); em metros quadrados (2), cada casa numérica tem dois dígitos (exemplo: 1000 m × 1000 m = 01 00 00 00 m² = 1 km²); em metros cúbicos (3), cada casa numérica tem três dígitos (exemplo: 1000 m × 1000 m × 1000 m = 001 000 000 000 m³ = 1 km³).
+
+
+== Escrita correta de unidades SIEditar ==
+
+
+=== Nome de unidadeEditar ===
+O nome das unidades deve ser sempre escrito em letra minúscula.
+Exemplos:
+Correto: quilograma, newton, metro cúbico.
+Exceção: quando o nome estiver no início da frase e em "grau Celsius"
+Somente o nome da unidade aceita o plural
+É importante saber que somente o nome da unidade de medida aceita o plural. As regras para a formação do plural (no Brasil) para o nome das unidades de medida seguem a Resolução Conmetro 12/88, conforme ilustrado abaixo:
+Para a pronúncia correta do nome das unidades, deve-se utilizar o acento tônico sobre a unidade e não sobre o prefixo.
+Exemplos: micrometro, hectolitro, milissegundo, centigrama, nanometro.
+Exceções: quilômetro, hectômetro, decâmetro, decímetro, centímetro e milímetro
+Ao escrever uma unidade composta, não se deve misturar o nome com o símbolo da unidade.
+
+
+=== Símbolo de unidadeEditar ===
+As unidades do SI podem ser escritas por seus nomes ou representadas por meio de símbolos.
+Símbolo não é abreviatura
+Símbolo 

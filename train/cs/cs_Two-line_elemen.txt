@@ -1,0 +1,21 @@
+Dvouřádkové elementy dráhy (NASA/NORAD Two-Line Element, TLE) představují specifický textový formát, který ve dvou řádcích reprezentuje elementy dráhy a další údaje, potřebné pro výpočet pozice kosmického tělesa.
+
+
+== Charakteristika ==
+Kromě standardních keplerovských elementů (které tvoří obsah druhé řádky TLE) obsahuje navíc v první řádce údaje potřebné pro výpočet změn dráhy v důsledku působení odporu zemské atmosféry. Díky jednoduché textové struktuře formátu je zajištěna snadná přenositelnost TLE údajů pomocí nejrůznějších komunikačních prostředků.
+Údaje o družicích jsou pravidelně aktualizovány na základě radarových měření prováděných severoamerickým velitelstvím protivzdušné obrany - NORAD. Soubory s těmito údaji jsou přístupné na internetu a je možné jejich volné stažení.
+Vlastní parametry uložené v TLE formátu jsou využívány v nejrůznějších počítačových programech sloužících k výpočtu polohy umělých kosmických těles.
+
+
+== Ukázka TLE formátu ==
+Následující ukázka reprezentuje údaje o Mezinárodní vesmírné stanici. Jednotlivá datová pole jsou v příkladu pro názornost barevně zvýrazněna. Pokud má některý údaj kratší délku, musí být chybějící znaky také nahrazeny mezerami, protože každé datové pole má pevně daný počet znaků. Povinné jsou i mezery mezi jednotlivými datovými poli (v příkladu bílé).
+
+ISS (ZARYA)1 25544U 98067A   07242.82805392  .00014684  00000-0  94687-4 0  88912 25544 051.6347 078.6658 0008401 309.0313 184.9537 15.76384560502559
+Data mají následující význam:
+Řádek nadpisu ("nultý" řádek)
+1. řádek
+Obsahuje jednak identifikační údaje o satelitu (číslo v katalozích), čas (epocha), k němuž se údaje vztahují a popisuje také předpokládané změny dráhy - především brzdný vliv atmosféry.
+2. řádek
+Obsahuje keplerovské parametry dráhy.
+
+Na základě výše uvedených údajů je možné spočítat polohu družice až na několik týdnů dopředu. S delším datem ovšem klesá přesnost predikce, což je zp

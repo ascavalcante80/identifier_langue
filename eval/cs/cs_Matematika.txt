@@ -1,0 +1,37 @@
+
+Jako diskrétní matematika se označují oblasti matematiky, které se zabývají studiem konečných diskrétních systémů. Její podobory mají obvykle velký praktický význam v informatice a programování. Patří sem disciplíny jako teorie složitosti, teorie informace nebo studium teoretických modelů počítačů, jakým je Turingův stroj. Teorie výpočetní složitosti se zabývá časovou náročností algoritmů zpracovávaných v počítačích, teorie informace možnostmi efektivního skladování informací na záznamových médiích – studuje pojmy komprese dat, entropie apod. Nejslavnějším problémem těchto disciplín je „problém P = NP“. Dalšími součástmi diskrétní matematiky jsou kombinatorika, teorie grafů nebo kryptografie.
+
+
+=== Aplikovaná matematika ===
+Aplikovaná matematika používá abstraktní matematické nástroje k řešení praktických problémů z jiných oblastí vědy, obchodu apod. Statistika používá teorii pravděpodobnosti k popisu, analýze a předpovídání jevů, v nichž hraje důležitou roli náhoda. Numerická matematika vytváří a teoreticky zaštiťuje počítačové výpočetní metody pro řešení širokého spektra úloh příliš náročných pro člověka. Využívá ji počítačové modelování s mnoha aplikacemi při popisu a předpovědi fyzikálních, meteorologických, sociologických, chemických a jiných jevů. Ve světě obchodu a bankovnictví hraje důležitou roli finanční matematika. K popisu ekonomických fenoménů slouží často jazyk a výsledky teorie her.
+
+
+== Odkazy ==
+
+
+=== Reference ===
+↑ DANÍČKOVÁ, Sylva; HOUDEK, František. O povaze královny věd aneb Matematika [online]. Akademický bulletin Akademie věd ČR, květen 2004, [cit. 2013-05-21]. Dostupné online.  
+
+
+=== Literatura ===
+PAVLÍKOVÁ PAVLA, SCHMIDT OSKAR. Základy matematiky, 1. vydání [online]. VŠCHT v Praze, 2006. Dostupné online. ISBN 80-7080-615-X.  
+MENŠÍK, Miroslav. Matematika a geometrie pro technickou praxi. Praha : Ústav pro učebné pomůcky průmyslových a odborných škol, 1945. 329 s.  
+
+
+=== Související články ===
+Logika
+Fyzika
+Informační věda
+Matematik
+Seznam matematiků
+
+
+=== Externí odkazy ===
+ Obrázky, zvuky či videa k tématu matematika ve Wikimedia Commons
+
+ Téma Matematika ve Wikicitátech
+ Slovníkové heslo matematika ve Wikislovníku
+ Kniha Kategorie:Matematika ve Wikiknihách
+Anglicko-český / česko-anglický slovník matematické terminologie
+Cifrikova matematika – Seminární práce a domácí úkoly z matematiky studenta UK PedF Praha
+Stránky o výuce matematiky

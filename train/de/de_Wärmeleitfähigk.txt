@@ -1,0 +1,72 @@
+Die Wärmeleitfähigkeit, auch Wärmeleitzahl genannt, ist eine Stoffeigenschaft zur Berechnung des Wärmestroms aufgrund der Wärmeleitung: Die Wärmestromdichte ist direkt proportional zum Temperaturgradienten und der Proportionalitätsfaktor ist die Wärmeleitfähigkeit (Formelzeichen meist ).
+In der eindimensionalen Differenzenschreibweise gilt
+
+mit:
+ Wärmestrom
+ vom Wärmestrom durchflossene Querschnittsfläche
+ Dicke der Schicht
+ Wärmeleitfähigkeit der Schicht
+ Temperaturdifferenz zwischen den Randflächen der Schicht mit der Dicke 
+Schreibt man die Formel mit der Wärmestromdichte , so gilt:
+
+In der dreidimensionalen Differentialschreibweise mit dem Gradienten der Temperatur gilt:
+
+Die Wärmeleitfähigkeit ist temperaturabhängig und hat die SI-Einheit Watt mal Meter pro Quadratmeter und Kelvin oder nach dem Kürzen der Einheiten Watt pro Meter und Kelvin. Ihr Kehrwert ist der spezifische Wärmewiderstand.
+Praktisch gesehen ist die Wärmeleitfähigkeit die Wärmemenge (in Wattsekunde, Ws), die in 1 s durch eine 1 m dicke Stoffschicht der Fläche 1 m² fließt, wenn der Temperaturunterschied 1 K ist.
+Bei instationären Temperaturfeldern (siehe Wärmeleitungsgleichung) wird manchmal anstelle der Wärmeleitfähigkeit die Temperaturleitfähigkeit verwendet, die sich von ihr durch die auf das Volumen bezogene Wärmekapazität unterscheidet.
+
+
+== Wärmeleitfähigkeit als Tensor ==
+Im allgemeinen anisotropen Fall ist die Wärmeleitfähigkeit ein Tensor zweiter Stufe, wird also z. B. durch eine 3×3-Matrix beschrieben. So leiten z. B. Holz und Schiefer in Faserrichtung und ein Quarzkristall in Richtung der c-Achse die Wärme besser als quer dazu. Verläuft der Temperaturgradient schräg zu den Materialachsen, so weicht die Richtung des Wärmestromes von der des Gradienten ab.
+Beispiel
+Trockenes Kiefernholz mit einer Dichte von 0,45 g/cm³ hat parallel zur Faser eine Wärmeleitfähigkeit von 0,26 W/(m·K) und senkrecht dazu 0,11 W/(m·K). Wählt man als z-Achse die Faserrichtung und die x- und y-Achsen senkrecht dazu, so kann man den Tensor der Wärmeleitfähigkeit als diagonale 3×3-Matrix schreiben:
+
+
+== Ursachen der Wärmeleitung in verschiedenen Stoffgruppen ==
+
+Zur Wärmeleitung in kompakten, nichtmetallischen Feststoffen und Flüssigkeiten trägt meist hauptsächlich der Transport von Schwingungsenergie durch mechanische Kopplung benachbarter Atome bei. In manchen Kristallen, insbesondere in isotopenreinem Diamant, können Schwingungsanregungen sich so ungestört ausbreiten (große freie Weglänge), dass bei kleinen Abmessungen die Wärmeleitungsgleichung nicht mehr gilt.
+In Metallen transportieren Leitungselektronen nicht nur Ladung, sondern auch Energie über größere Entfernung, siehe Wiedemann-Franzsches Gesetz.
+In Gasen sind die Moleküle die Träger der Energie. Die kinetische Gastheorie erklärt die weitgehende Unabhängigkeit vom Druck durch Kompensation: Die Teilchenzahl nimmt zu, die freie Weglänge ab. Die leichte Zunahme der Wärmeleitfähigkeit mit der Temperatur beruht auf der zunehmenden Teilchengeschwindigkeit, der Abnahme der Streuquerschnitte bei härter werdenden Stößen und auf zunehmender Beteiligung von Schwingungsfreiheitsgraden. Schwere Moleküle bewegen sich langsamer als leichte, was den größten Teil des Unterschieds in der Wärmeleitung zwischen Wasserstoff und Luft (Faktor 7) erklärt. Die Atome von Edelgasen transportieren nicht wie Moleküle auch Vibrations- und Rotationsenergie, sondern nur kinetische, weshalb Argon nur 2/3 der Wärmeleitfähigkeit von Luft aufweist. Die geringe Wärmeleitfähigkeit von Gasen kann allerdings nur genutzt werden, wenn die gleichzeitig stattfindende Wärmeübertragung durch Konvektion und Wärmestrahlung eingeschränkt wird, siehe Mehrscheiben-Isolierglas.
+Während in Gasen die Wärmestrahlung eine große Reichweite hat und daher getrennt betrachtet werden muss, findet bei Dämmstoffen (z. B. Schaum oder Fasermaterial) der Wärmetransport durch Strahlung lokal innerhalb der Probe statt und ist in der Wärmeleitzahl enthalten. Je größer die Reichweite der Strahlung, desto mehr kann die Strahlung zur Wärmeleitung beitragen. Mit zunehmender Temperatur steigt der Strahlungsanteil und damit die Wärmeleitfähigkeit von Dämmstoffen.
+
+
+== Messung ==
+Messgeräte zur Bestimmung der Wärmeleitfähigkeit von Wärmedämmmaterialien, sogenannte Wärmestrommesser und andere Wärmestromkalorimeter, messen die einem Wärmestrom äquivalente elektrische Leistung eines Heizelements, die Dicke einer Probe und die Temperaturdifferenz an einer definierten Messfläche (Peltier-Element). Aufgrund dieses Messprinzips werden dabei die Wärmestrahlung bei wärmestrahlungstransparenten Stoffen und die Wärmekonvektion aufgrund in den Dämmstoff eingeschlossener Gase mitbestimmt. Das Ergebnis ist daher die Summe der Wärmeströme der drei Wärmeübertragungsarten und nicht allein ein Wärmestrom aufgrund von Wärmeleitung.
+
+
+== Rechenbeispiel ==
+
+Über die Länge  eines Quaders mit der Querschnittsfläche  bestehe eine Temperaturdifferenz . Durch die Seitenflächen fließe keine Wärme (sie seien isoliert), das Material sei isotrop (z. B. Kupfer) und der Zustand stationär. Der Temperaturgradient beträgt dann überall  und die Dichte des von heiß nach kalt gerichteten Wärmestromes . Über den Querschnitt  fließt also der Wärmestrom
+
+Mit den Werten  = 1,5 mm² = 1,5 · 10−6 m²,  = 3 cm = 0,03 m,  = 200 K und  = 350 W/(m · K) ergibt sich ein Wärmestrom von
+
+
+== Zahlenwerte ==
+Die Werte der Wärmeleitfähigkeit verschiedener Stoffe können um viele Größenordnungen variieren. Hohe Werte sind beispielsweise gefragt für Kühlkörper, die Wärme gut ableiten sollen, Wärmedämmstoffe sollen hingegen geringe Werte aufweisen.
+Die Wärmeleitfähigkeit  ist eine Stoffkonstante bei einem definierten Umgebungsklima (Temperatur und Luftfeuchte) und wird deswegen teilweise mit einem Index versehen: ,  oder auch . Die folgenden Zahlenwerte gelten, wenn nicht anders angegeben, für 0 °C. Eine höhere Wärmeleitfähigkeit bedeutet eine größere Wärmeübertragung pro Zeiteinheit.
+Insbesondere bei sehr geringen Werten von Stoffen wie z. B. Xenon ist zu beachten, dass Wärmeenergie neben Wärmeleitung zusätzlich durch Wärmestrahlung und Konvektion übertragen werden kann; bei Vakuum jedoch nur durch Wärmestrahlung.
+
+
+== Wärmeleitfähigkeit im Bauwesen ==
+Im Bauwesen werden seit Einführung der Europäischen Bauprodukteverordnung 2013 drei verschiedene Größen parallel zur Kennzeichnung von Wärmedämmstoffen und zur Berechnung verwendet.
+λ, Rechenwert der Wärmeleitfähigkeit gemäß DIN 4108-4
+, Nennwert der Wärmeleitfähigkeit gemäß CE-Kennzeichnung
+, Grenzwert der Wärmeleitfähigkeit gemäß allgemeiner Bauaufsichtlicher Zulassung (ABZ) eines Bauproduktes
+Sie unterscheiden sich durch die Art der Ermittlung und Verwendung voneinander. Nur der Rechenwert der Wärmeleitfähigkeit gem. DIN 4108-4 kann direkt zum Nachweis bauphysikalischer Eigenschaften von Bauteilen verwendet werden, die anderen Wärmeleitfähigkeitswerte erfordern einen Sicherheitsabschlag.
+
+
+== Siehe auch ==
+Wärmedurchgangskoeffizient
+Debye-Temperatur
+Dortmunder Datenbank – Datenbank für Wärmeleitfähigkeiten reiner Stoffe
+Landolt-Börnstein – Datenbank für fast alle Stoffwerte, so auch Wärmeleitfähigkeitswerte
+
+
+== Weblinks ==
+
+Wärmeleitfähigkeit der Elemente
+
+
+== Einzelnachweise ==
+↑ a b David R. Lide (Hrsg.): CRC Handbook of Chemistry and Physics. 87. Auflage. (Internet-Version: 2006–2007), CRC Press/Taylor and Francis, Boca Raton, FL, Properties of Solids, S. 12-204 (eingeschränkte Vorschau in der Google-Buchsuche).
+↑ Kai-Erhard Wagner: Simulation und Optimierung des Wärmedämmvermögens von PUR-Hartschaum : Wärme- und Stofftransport sowie mechanische Verformung. Dissertation, 2002 (PDF; 1,3 MB), urn:nbn:

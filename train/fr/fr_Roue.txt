@@ -1,0 +1,40 @@
+Une roue est une pièce mécanique de forme circulaire tournant autour d'un axe passant par son centre. La roue est l'une des huit machines simples.
+
+
+== Histoire ==
+
+La roue est une invention et constitue un des fondements de nombreux transports routiers. Elle permet de déplacer sur terre des charges importantes, en réduisant les forces de frottement. Elle est indispensable dans la plupart des moyens de transports terrestres mais aussi pour d'autres moyens de transport tel que les avions (Train d'atterrissage par exemple).
+L’invention de la roue est estimée vers 3500 av. J.-C. à Sumer en basse Mésopotamie. Concurremment, le pot de Bronocice, trouvé en Pologne, présente un pictogramme gravé qui semble être la représentation d'un chariot et on estime sa datation à 3500 ans av. J.-C., ce qui permet de mettre en doute l'origine sumérienne de la roue, ou du moins que sa première apparition fut effectuée à Sumer.[réf. nécessaire]
+Son usage est inconnu dans l’Amérique précolombienne, bien que des objets en pierre en forme de roue y aient été retrouvés et considérés comme des jouets (datés de 1500 ans av. J.-C.) mais pas d’engins utilisant la roue. Ce paradoxe est retenu comme exemple par Alain Gras pour illustrer le refus d’engagement dans des trajectoires technologiques données bien qu’accessibles en termes de faisabilité. Jared Diamond a quant à lui émis la théorie selon laquelle seules les civilisations qui disposaient d'animaux de trait (ce qui n'était pas le cas des Amérindiens) ont utilisé des attelages ; la roue n'étant pas utile pour les autres. La roue était également inconnue en Afrique subsaharienne, Amérique latine (les civilisations Inca, Maya, etc.) et en Océanie jusqu’à une époque récente.
+Les premières roues étaient pleines, en pierre d'une seule pièce, ou en bois souvent constituées de trois ou quatre pièces assemblées. Les roues à rayons et à jantes, plus légères, seraient apparues environ 2000 ans av. J.-C..
+Ces roues étaient solidaires de l’essieu dans un premier temps, celui-ci constituant alors un axe reliant deux roues situées de part et d’autre de la caisse. Pour réduire le frottement entre l’axe et le châssis reposant sur lui, divers procédés ont été mis au point, dont notamment un trou dans un madrier faisant office de membrure, ce trou étant garni de galets lubrifiés avec de l’huile (l’ancêtre du roulement à billes).
+Désormais les roues sont montées sur leur axe à l'aide de roulements à billes ou à rouleaux, ou de paliers hydrodynamiques. Ces derniers assurent une liaison mécanique fiable, avec un minimum de frottements.
+La roue est aussi un modèle d'induction, avec la roue de Barlow qui en est la plus connue. D’ailleurs pour calculer le couple de Laplace agissant sur la roue, on peut le calculer en considérant que le flux est sur la seule direction du rayon principal, bien sûr ceci est faux, mais il s'avère que le résultat est le même que dans le cas général, ceci facilite donc le calcul.
+La roue fluide est créée par une forme donnée à la surface de contact pour améliorer l'écoulement
+
+
+== Différents types ==
+Une roue est dite « dentée » lorsqu’elle transmet le mouvement par obstacle à d'autres pièces par le biais de dents qui la garnissent sur son pourtour. On parle d’engrenage pour un système utilisant plusieurs roues de ce type, le nom de pignon étant donné aux plus petites d’entre elles.
+La roue à aubes est une roue comportant des sortes de cuillères ou palettes (les aubes). Elle était utilisée dans les moulins à eau ainsi que dans les anciens bateaux à vapeur.
+Une roue peut être motrice lorsqu'elle est en sortie d'une chaîne de transmission d'énergie, ou réceptrice lorsqu'elle est en entrée de cette chaîne.
+La roue pour rongeurs est un accessoire de sport destiné aux souris, hamsters et gerbilles.
+Une roue folle ou libre est une roue non motrice pourvue d'un axe libre décalé, pour un pivotage automatique. Les roues folles (qui ne transmettent pas d'énergie) n'ont pour fonction que le guidage et le support d'une charge (roue de remorque ou roue directrice de véhicule). La roue libre est aussi un dispositif mécanique dont le rôle est d'interdire la rotation d'un axe dans un des deux sens ; elle est soit à cliquet comme sur le pignon d'un vélo, bloquant la rotation par obstacle, soit à aiguilles se coinçant pour empêcher par adhérence la rotation (lanceur à ficelle de petit moteurs thermiques). Il se comporte comme une transmission qui se débraye lorsque l'élément mené va plus vite que son moteur.
+En robotique, ou pour des chariots de manutention, on emploie des roues holonomes, constituées d'un moyeu muni de galets disposés en périphérie. Cette disposition permet d'établir des mouvements de déplacements différents suivant la combinaison des rotations des roues : par exemple, les mouvements d'avance (marche avant et arrière), de dérive (vers la gauche ou la droite) ou de lacet (rotation autour d'un axe vertical) dépendent des rotations imposées aux roues. De tels engins se manœuvrent dans un encombrement bien plus réduit que les véhicules à essieux articulés.
+
+
+== Symbolique ==
+La roue est un symbole fréquent dans certains mythes décoratifs de l'architecture, comme symbole de la vie, du temps ou du destin. Elle symbolise les cycles, les recommencements, les renouvellements. C'est un symbole solaire dans la plupart des traditions. Elle est un des attributs de la Fortuna ou de Némésis antiques. Elle est associée à certains saints et martyrs de la religion chrétienne, comme instrument de torture, comme Catherine d'Alexandrie. Dans le symbolisme chrétien développé par le Pseudo-Denys l'Aréopagite, la roue symbolise le déroulement de la révélation divine. Ce symbolisme a été repris par certains alchimistes comme Clovis Hesteau de Nuysement et Fulcanelli.
+Dans le bouddhisme, elle est la Roue du dharma, la Roue de la Loi, Dharmachakra, symbole représentant l'enseignement du Bouddha.
+
+
+== Description ==
+
+La roue est constituée principalement de trois parties :
+le moyeu, au centre, qui assure le guidage en rotation par rapport au support (châssis ou bras) ; son diamètre étant généralement très petit devant celui de la jante, l'effet des frottements entre le moyeu et le palier s'en trouve réduit. Dans le cas particulier de la roue sans moyeu (en) (inventée par Franco Sbarro), l'axe central est creux et fait presque la taille de la roue, donnant l'impression d'être absent.
+à la périphérie, la jante, sur laquelle se fixe la bande de roulement souvent rapportée ; au contact de la jante avec le sol, le frottement de glissement se substitue au frottement de roulement. Cet effet combiné au précédent contribue au rendement du dispositif.
+la structure, souvent composée de rayons, reliant les deux parties précédentes.
+
+
+== Expressions ==
+L'importance de la roue dans la société se montre notamment à travers plusieurs expressions :
+« en roue libre » : sans rest

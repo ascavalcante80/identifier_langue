@@ -1,0 +1,73 @@
+Extensible Markup Language (zkráceně XML, česky rozšiřitelný značkovací jazyk) je obecný značkovací jazyk, který byl vyvinut a standardizován konsorciem W3C. Je zjednodušenou podobou staršího jazyka SGML. Umožňuje snadné vytváření konkrétních značkovacích jazyků (tzv. aplikací) pro různé účely a různé typy dat. Používá se pro serializaci dat, v čemž soupeří např. s JSON či YAML. Zpracování XML je podporováno řadou nástrojů a programovacích jazyků.
+Jazyk je určen především pro výměnu dat mezi aplikacemi a pro publikování dokumentů, u kterých popisuje strukturu z hlediska věcného obsahu jednotlivých částí, nezabývá se vzhledem. Prezentace dokumentu (vzhled) může být definována pomocí kaskádových stylů. Další možností zpracování je transformace do jiného typu dokumentu, nebo do jiné aplikace XML.
+
+
+== Vlastnosti XML ==
+
+
+=== Standardní formát pro výměnu informací ===
+Není vhodné zasílat dokumenty ve tvaru, který vyžaduje pro zpracování speciální software konkrétní firmy, jako je např. formát DOC, XLS nebo T602. Je používána celá řada operačních a informačních systémů a není možné předpokládat, že každý uživatel vlastní příslušný software.
+Vznikla tak potřeba vytvořit nějaký jednoduchý otevřený formát, který není úzce svázán s nějakou platformou nebo proprietární technologií. Tím může být právě XML, který je založen na jednoduchém textu a je zpracovatelný (v případě potřeby) libovolným textovým editorem.
+Specifikace XML konsorcia W3C je zdarma přístupná všem. Každý tak může bez problémů do svých aplikací implementovat podporu XML. To je velký rozdíl oproti firemním formátům, k nimž není k dispozici žádná dokumentace a navíc se jedná v porovnání s XML o velice složité, často binární, formáty.
+
+
+=== Mezinárodní podpora ===
+XML hned od samého počátku myslel na potřeby i jiných jazyků než je angličtina. Jako znaková sada se implicitně používá ISO 10646 (také Unicode). V XML proto můžeme vytvářet dokumenty, které obsahují texty v mnoha jazycích najednou – můžeme přepínat mezi různými jazyky v jednom dokumentu. Současně je přípustné i jiné libovolné kódování (např. windows-1250, iso-8859-2), musí však být v každém dokumentu přesně určeno. Odpadají tak problémy s konverzí z jednoho kódování do druhého.
+
+
+=== Vysoký informační obsah ===
+Pomocí XML značek (tagů) vyznačujeme v dokumentu význam jednotlivých částí textu. Dokumenty tak obsahují více informací, než kdyby se používalo značkovaní zaměřené na prezentaci (vzhled) – definice písma, odsazení a podobně. XML dokumenty jsou informačně bohatší. To lze samozřejmě s výhodou využít v mnoha oblastech. Největší přínos bude samozřejmě pro prohledávání, kdy můžeme určit i jaký význam má mít hledaný text.
+
+
+=== Snadná konverze do jiných formátů ===
+Při používání XML dokumentu potřebujeme také dokument zobrazit. XML samo o sobě žádné prostředky pro definici vzhledu nenabízí. Existuje ale několik stylových jazyků, které umožňují definovat, jak se mají jednotlivé elementy zobrazit. Souboru pravidel nebo příkazů, které definují, jak se dokument převede do jiného formátu, se říká styl.
+Jeden vytvořený styl můžeme aplikovat na mnoho dokumentů stejného typu, stejně tak můžeme na jeden dokument aplikovat několik různých stylů. Výsledkem může být např. PostScriptový soubor, HTML kód nebo XML s obsahem původního dokumentu.
+Stylových jazyků existuje dnes několik. Mezi nejznámější patří asi kaskádové styly (CSS). Ty lze použít pouze pro jednoduché formátování, které dobře poslouží pro zobrazení dokumentu na obrazovce. Další možností je rodina jazyků XSL (eXtensible Stylesheet Language). Ta umožňuje dokument různě upravovat a transformovat – vybírat části dokumentu nebo generovat obsahy a rejstříky.
+
+
+=== Automatická kontrola struktury dokumentu ===
+XML neobsahuje předdefinované značky (tagy), je třeba definovat vlastní značky, které budeme používat. Tyto značky je možné (nepovinně) definovat v souboru DTD (Document Type Definition). Potom je možné automaticky kontrolovat, zda vytvářený XML dokument odpovídá této definici. Program, který tyto kontroly provádí, se nazývá parser. Při vývoji aplikací můžeme parser použít, a ten za nás detekuje většinu chyb v datech.
+DTD není jediný definiční jazyk pro XML. Neobsahuje možnost kontrolovat typy dat (čísla, měnové údaje, údaje o datu a čase). To je vlastnost, která chybí při zpracování dat databázového charakteru. V současné době se pod názvem XML schémata pracuje na půdě konsorcia W3C na vytvoření jednotného standardu, který tyto kontroly umožní.
+Pro různé standardní aplikace byla postupně vytvořena schémata, která definují značky (názvy elementů) pro konkrétní typy dokumentů. Příkladem může být DocBook, který definuje struktury pro vytváření knih, článků, vědeckých publikací a podobně. Výhodou takových aplikací je, že současně s definičními soubory DTD je dodávána sada stylů (XSL souborů) pro následné zpracování a přípravu pro tisk, nebo pro převod do jiných standardních tvarů (PostScript, HTML atd.).
+Další vlastností XML je, že v jednom dokumentu můžeme používat najednou nezávisle na sobě několik druhů značkování pomocí jmenných prostorů (namespaces). To umožňuje kombinovat v jednom dokumentů několik různých definic ve formě DTD nebo schémat bez konfliktů v pojmenování elementů.
+
+
+=== Hypertext a odkazy ===
+XML stejně jako HTML umožňuje vytváření odkazů v rámci jednoho dokumentu i mezi dokumenty, má však více možností. Je možné vytvářet i vícesměrné odkazy, které spojují více dokumentů dohromady. Tvorba odkazů je popsána ve třech standardech – XLink, XPointer a XPath.
+XPath (XML Path Language) je jazyk, který umožňuje adresovat jednotlivé části dokumentu.
+XPointer (XML Pointer Language). Je rozšířením XPath. Používá k určování jednotlivých částí dokumentu ve stylu: „zajímá mě první odstavec třetí kapitoly“. Není nutné ty části dokumentu, na které chceme odkazovat, explicitně označovat pomocí návěstí jako v HTML.
+XLink (XML Linking Language) je samotný jazyk pro tvorbu odkazů. Jednotlivé dokumenty se určují pomocí jejich URL adresy, za kterou lze uvést ještě XPointer pro přesnější určení části dokumentu.
+
+
+== Syntaxe XML ==
+XML dokument je text, vždy Unicode, v Česku obvykle kódovaný jako UTF-8, ale jsou přípustná i jiná kódování.
+Na rozdíl od např. HTML, efektivita XML je silně závislá na struktuře, obsahu a integritě. Aby byl dokument považován za správně strukturovaný („well-formed“) [1], musí mít nejméně následující vlastnosti:
+Musí mít právě jeden kořenový (root) element.
+Neprázdné elementy musí být ohraničeny startovací a ukončovací značkou. Prázdné elementy mohou být označeny tagem „prázdný element“.
+Všechny hodnoty atributů musí být uzavřeny v uvozovkách – jednoduchých (') nebo dvojitých ("), ale jednoduchá uvozovka musí být uzavřena jednoduchou a dvojitá dvojitou. Opačný pár uvozovek může být použit uvnitř hodnot.
+Elementy mohou být vnořeny, ale nemohou se překrývat; to znamená, že každý (ne kořenový) element musí být celý obsažen v jiném elementu.
+Jména elementů v XML rozlišují malá a velká písmena: např. „<Příklad>“ a „</Příklad>“ je pár, který vyhovuje správně strukturovanému dokumentu, pár „<Příklad>“ a „</příklad>“ je chybný.
+Jednoduchý recept v XML jako příklad by mohl vypadat takto:
+
+
+== Zpracování XML ==
+Existují dva nejčastější přístupy ke zpracování XML dokumentu:
+DOM parser (DOM = Document Object Model) vezme XML dokument a vyrobí z něho obraz (strom) v paměti.
+SAX parser (SAX = Simple API for XML) postupně prochází XML dokument a vyvolává události. Je na programátorovi, aby tyto události zpracoval.
+
+
+== Aplikace XML ==
+Příklady aplikace XML:
+XHTML – XML alternativa jazyka HTML.
+RDF – Resource Description Framework umožňuje popsat metadata a zaznamenat ontologie, např. popsat obsah HTML stránky.
+RSS – Rodina XML formátů, sloužící pro čtení novinek na webových stránkách.
+SMIL – Synchronized Multimedia Integration Language, popisuje multimedia pomocí XML.
+MathML – Mathematical Markup Language je značkovací jazyk pro popis matematických vzorců a symbolů pro použití na webu.
+SVG – Scalable Vector Graphics je jazyk pro popis dvourozměrné vektorové grafiky, statické i dynamické (animace).
+DocBook – Sada definic dokumentů a stylů pro publikační činnost.
+MusicXML – XML soubor pro notový zápis.
+Jabber – Protokol pro Instant messaging.
+SOAP – Protokol pro komunikaci mezi Webovými službami.
+Office Open XML, OpenDocument – Souborové formáty určené k ukládání a výměně dokumentů vytvořených kancelářskými aplikacemi (formát DOCX balíku MS Office, stejně jako formát ODT, jsou interně ZIP archivy, ve kterých jsou ve formátu XML uloženy jednotlivé části daného dokumentu)
+Mapy Google + Google Earth - uživatelé si mohou své mapové projekty ukládat ve formě KML (čistá XML) a KMZ (komprimovaná XML).
+Česká státní správa (například Daňový portál fin

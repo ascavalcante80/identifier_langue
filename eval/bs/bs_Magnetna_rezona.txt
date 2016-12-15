@@ -1,0 +1,24 @@
+erovima, to se mora uzeti u obzir kod rekonstrukcije slike. FES ili EPI tehnike s više impulsima snimaju samo dio k-prostora nakon svakog impulsa. Svaki impuls snima drugi dio prostora (red, liniju) i to se ponavlja dok se ne ispuni čitav K-prostor (matrica). Kako podaci u sredini matrice predstavljaju niže prostorne frekvencije od prostora na rubovima k-prostora, sve što je bliže centru matrice  više utjeće na  kontrast snimke.
+Važnost središta k-prostora u vidu utjecaja na kontrast snimke dolazi do izražaja u ostalim, naprednijim tehnikama snimanja. Jedna od takvih je spiralno snimanje - magnetni gradijent koji se narine u ritorajućoj putanji daje spiralno očitanje k-prostora (punjenje matrice) od centra prema rubu. Kako je  i  opadanje (vrijeme) signala najjače pri početku snimanja, tako snimanje središnjeg dijela daje jači odnos signala i šuma (S/Š, SNR) u usporedbi s uobičajenim zupčastim-isprepletenim načinom prolaska kroz k-prostor, pogotovo ako je prisutno kretaje.
+Kako su  i  konjugovane (imajući Fourierovu transformaciju u vidu) Nyquistov teorem, možemo pokazati kako korak u k-prostoru određuje veličinu snimanog prostora (najveći frekvenciju koja je pravilno snimljena) dok maksimalna vrijednost k uzorka oređuje rezoluciju.
+
+(Ovo se primjenjuje na svaku osu [X, Y i Z] nezavisno jedna o drugoj).
+
+
+=== Cijena uređaja i pregleda ===
+Cijena uređaja jako ovisi o snazi polja ali i drugim mogućnostima. Današnji uređaji od 1.5T koštaju od 1.250.000 do 2.000.000 KM, dok permanentni, otvreni, snage polja od 0.2-0.3T koštaju otprilike upola manje. Jači magneti su u pravilu teži pa su troškovi postavljanja i do 30% cijene samog uređaja.
+
+
+=== Rizici po bolesnike i pravila ponašanja pri snimanju ===
+Za davanje kontrasta postoje kontraindikacije (trudnoća, hronična dijaliza, i td.) dok se sami pregled uglavnom izbjegava u trudnica u prvom tromjesečju (iako nema dokaza o nuspojavama). Također, osobe koje imaju probleme sa zatvorenim prostorima trebaju potražiti savjet ili uređaje koji su "otvorene" konstrukcije. Do sada je zabilježeno svega par ozbiljnih ozljeda pri samom početku korištenja MR-a i sve su bile vezane uz metalne (željezne) predmete koji su ozljedili bolesnike i osoblje (škare, boca za kisik, bolesnička kolica). Kako magnetsko polje jako privlači željezne predmete, na svakom uređaju stoje upozorenja. Tako bolesnici koji imaju u sebi legure željeza ili pacemaker trebaju svakako obavjestiti liječnika i osoblje prije ulaska u prostoriju s MR uređajem. Također razne tetovaže, naušnice, zubne proteze i slično mogu smetati snimanju ili izazvati neželjene učinke, pa čak i opekotine.
+
+
+=== Hitnost pregleda ===
+Iako MR pregledi imaju znatnu vrijednost, izuzetno je mali broj hitnih stanja (svega par) koja se snimaju MR uređajima. Razlozi su razni, počevši od dostupnosti drugih radioloških (UZ, CT, ...) i ostalih dijagnostičkih metoda do same činjenica da su MR uređaji bitno manje dostupni.
+
+
+== Reference ==
+
+
+== Također pogledajte ==
+Virtopsija

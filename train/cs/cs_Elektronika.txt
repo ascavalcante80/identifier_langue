@@ -1,0 +1,42 @@
+Elektronika je elektrotechnický obor, který studuje a využívá přístrojů fungujících na principu řízení toku elektronů nebo jiných elektricky nabitých částic, zejména pomocí polovodičů. Toho se dosahuje pomocí různých elektronických součástek. Podle výkonu se dělí na slaboproudou a silnoproudou (výkonovou) elektroniku
+Přeneseně se tímto slovem označují spotřební elektronické přístroje, například televize, videa, přehrávače atd., zejména slaboproudé, rovněž zkratkovitě označované za „technologie“, např. „technologické firmy“.
+
+
+== Elektronické součástkyEditovat ==
+Elektronickou součástkou se rozumí samotný činný prvek (prvky) uzavřený v pouzdru s připojovacími prvky (kontakty). Elektronických součástek je celá řada typů a lze je dělit podle mnoha různých kritérií.
+Nejčastěji se dělí podle toho, zda součástka umožňuje řízení, tj. ovlivnění vlastní činnosti vnějším signálem:
+pasivní součástka – neřízené, např. rezistor, kondenzátor, cívka, dioda
+aktivní součástka – řízené, např. tranzistor, operační zesilovač, tyristor
+Podle počtu prvků v pouzdru může součástka být:
+diskrétní součástka s jediným elektronickým prvkem,
+integrovaný obvod spojující v jednom pouzdře více prvků.
+
+
+== Elektronické obvodyEditovat ==
+Existuje velké množství elektronických obvodů od velmi primitivních sestavených pouze z několika diskrétních součástek (například jeden z nejstarších radiopřijímačů tzv. krystalka) až po obvody velmi komplexní obsahující milióny součástek (například počítač).
+Elektronické obvody nejčastěji dělíme podle toho, zda zpracovávají spojitý nebo diskrétní signál. Obvodům zpracovávajícím spojitý signál říkáme analogové obvody. Zpracování a přenos spojitých signálů je ovšem velmi náchylné na rušení a zkreslení, a proto se čím dál tím víc setkáváme s převodem spojitých signálů do číslicové (digitální) podoby a jejich následným zpracováním v číslicových obvodech. Obvody, které částečně zpracovávají analogový a částečně digitální signál nazýváme obvody smíšené. Příkladem takových obvodů jsou analogově digitální a digitálně analogové převodníky.
+
+
+== Vývoj elektronikyEditovat ==
+Elektronika prodělala a prodělává obrovský a velmi prudký vývoj. Na jeho začátku stály primitivní obvody sestavené z jednoduchých často elektromechanických součástí, jako například sluchátko, různé typy mikrofonů, elektrický zvonek, koherer, jiskřiště atd. Mnohé z nich se již v současnosti zdají být exotické, ale principy, které používaly se v elektronice využívají v nezměněné podobě dodnes.
+
+
+=== Elektromechanická reléEditovat ===
+Později bylo vynalezeno elektromagnetické relé a to ovlivnilo na mnoho let další vývoj elektroniky. Byl to hlavní spínací prvek komplikovaných telefonních ústředen, ale dokonce byly postaveny i reléové počítače.
+
+
+=== Vakuové elektronkyEditovat ===
+Dalším významným prvkem, na kterém stála celá jedna éra elektroniky byla elektronka. Jev dnes známý jako termoemise elektronů objevil už Thomas Alva Edison v roce 1883, ačkoliv v té době se ještě o elektronech jako takových nevědělo. První elektronky byly zkonstruovány až na začátku 20. století. Elektronky mají sice výborné vlastnosti, co se týká fungování v elektronických obvodech, ale jsou velké, ke své činnosti potřebují značné množství energie a výrazně hřejí. Také jejich životnost je poměrně malá.
+
+
+=== PolovodičeEditovat ===
+Polovodičové zařízení bylo známo již na počátku 20. století, kdy se používala hrotová elektroda (anglicky cat's-whisker), avšak cílená výroba polovodičových (germaniových) diod byla uskutečněna až v roce 1940.
+
+
+=== TranzistoryEditovat ===
+Výrazným mezníkem v historii elektroniky byl vynález tranzistoru v Bellových laboratořích 16. prosince 1947.
+Přechod od elektronek k tranzistorům znamenal obrovskou miniaturizaci, větší možnost zařízení napájet z baterií a podstatné zvýšení spolehlivosti elektronických obvodů.
+
+
+=== Integrované obvodyEditovat ===
+Integrovaný obvod vyrobil v roce 1958 Jack Kilby. Obsahoval v jednom pouzdře čtyři[zdroj?] tranzistory a byl dalším zlomem v rozvoji elektroniky. Dnes dokážeme na polovodičové destičce jediného integrovaného obvodu realizovat až desítky milionů součástek. Jejich velikos

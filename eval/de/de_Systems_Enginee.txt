@@ -1,0 +1,39 @@
+gineering als Studiengang anbieten. Da Systems Engineering jedoch als Begriff sehr breit auslegbar ist, kann die Ausbildung von Ausbildungsinstitution zu Ausbildungsinstitution unterschiedlich gestaltet sein und insbesondere auch ganz unterschiedliche Schwerpunkte setzen. Beispielsweise bietet die Hochschule Ulm einen Master-Studiengang "Systems Engineering and Management" mit den Schwerpunkten Electrical Engineering, Mechanical Engineering, Industrial Management und Logistics an, wobei der Schwerpunkt Electrical Engineering auch mit internationalem Austausch und somit in englischer Sprache absolviert werden kann.
+In der Schweiz wird Systems Engineering vorwiegend an der ETH Zürich als obligatorisches Fach gelehrt, wie zum Beispiel in den Studienrichtungen des Departementes für Bau, Umwelt und Geomatik (Bauingenieur, Umweltingenieur und Geomatiker).
+Seit 2012 bietet die Gesellschaft für Systems Engineering e.V. (GfSE) in Kooperation mit dem TÜV Rheinland als akkreditierte Zertifizierungsstelle eine berufsbegleitende Personalzertifizierung für Systems Engineers als „Certified Systems Engineer (GfSE)®“ an. Die Zertifizierung bietet die drei Zertifizierungsstufen C („Verstehen“), B („Anwenden“) und A („Beherrschen“), wobei A den Experten-Level darstellt. Die Stufe C dauert 5 Monate, beinhaltet ca. 12 Präsenztage bei einem lizenzierten Schulungsanbieter und endet mit einer zweistündigen Prüfung durch den TÜV Rheinland und GfSE-Assessoren. Das verliehene Zertifikat stellt einen unabhängigen Nachweis von Kenntnissen im Systems Engineering dar.
+
+
+== Literatur ==
+ W. F. Daenzer, F. Huber: Systems Engineering. Methodik und Praxis. 11. Auflage. Verlag Industrielle Organisation, Zürich 1999, ISBN 978-3-85743-998-8.
+ John C. Ballamy: Digital Telephony. Telecommunications and Signal Processing, Wiley Series, 2000, ISBN 0471345717.
+ Rainer Züst: Einstieg ins Systems Engineering, kurz und bündig. 3. Auflage. 2004, ISBN 978-385743-721-2.
+ Reinhard Haberfellner, Olivier L. de Weck, Ernst Fricke, Siegfried Vössner: Systems Engineering. 12. Auflage. Orell Füssli, Zürich 2012, ISBN 978-3280040683.
+ Tim Weilkiens: Systems Engineering with SysML/UML. Morgan Kaufmann Publishers Inc, 2008, ISBN 0123742749.
+ Oliver Alt: Modellbasierte Systementwicklung mit SysML. Hanser Verlag, München 2012, ISBN 9783446430662.
+
+
+== Siehe auch ==
+
+Systems Engineering in der Biologie: Systementwicklung
+Computational Engineering Science
+
+
+== Weblinks ==
+Wichtige SE-Organisationen:
+The International Council on Systems Engineering
+Gesellschaft für Systems Engineering (German Chapter of INCOSE)
+Swiss Society of Systems Engineering (Swiss Chapter of INCOSE)
+Systems Engineering und Evaluation Centre (SEEC)
+Weiterführende Weblinks:
+Liste von internationalen System Engineers in der englischsprachigen Wiki
+OMG Systems Modelling Language
+Systems Engineering Projects
+Systems Engineering Fundamentals. Defense Acquisition University Press, 2001 (PDF-Datei; 1,28 MB)
+Robert Shishko et al.: NASA Systems Engineering Handbook. (PDF; 2,6 MB) NASA Center for AeroSpace Information, 1995
+
+
+== Einzelnachweise ==
+↑ INCOSE: Systems engineering: BoK Mai 2006
+↑ Systems Modeling Language (Wikipedia): Website Mai 2006
+↑ SysML Tools auf oose.de
+↑ Werkzeuge der Anforderungsanalyse

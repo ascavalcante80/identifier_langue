@@ -1,0 +1,26 @@
+1832 Carl Friedrich Gauss laati ehdotuksen yksikkö­järjestelmäksi, jonka perus­yksikköinä olisivat olleet millimetri, gramma ja sekunti ja jossa muut, myös sähkö­suureiden yksiköt, olisi johdettu niistä. Vuonna 1874 brittiläiset tiede­miehet laativat James Clerk Maxwellin ja Thomsonin johdolla cgs-järjestelmän (lyhenne toisinaan C.G.S), jossa perus­yksiköt olivat senttimetri, gramma ja sekunti. Näistä johdettiin muut yksiköt samaan tapaan kuin Gaussin järjestelmässä. Cgs-järjestelmää käytettiin tieteellisissä yhteyksissä yleisesti 1960-luvulle saakka. Käytännön kannalta sen sähkö­suureiden yksiköt olivat kuitenkin epämukavaa koko­luokkaa, minkä vuoksi 1880-luvulla laadittiin niin sanottu käytännöllinen järjestelmä. Siihen sisältyivät muun muassa sähkö­virran yksikkö ampeeri, resistanssin yksikkö ohmi ja jännitteen yksikkö voltti.
+Vuonna 1901 Giovanni Giorgi osoitti, että oli mahdollista yhdistää MKS-järjestelmä ja sähkö­yksiköiden käytännöllinen järjestelmä yhdeksi johdon­mukaiseksi yksikkö­järjestelmäksi. Kun ampeeri vahvistettiin järjestelmän neljänneksi perusyksiköksi, alettiin käyttää nimitystä MKSA-järjestelmä tai Giorgin järjestelmä. Vuonna 1954 kymmenes kansain­välinen mitta- ja paino­konferenssi vahvisti ampeerin ohella myös kelvinin ja kandelan perusyksiköiksi. Nimi SI-järjestelmä otettiin käyttöön vuonna 1960.
+Erona cgs- ja SI-järjestelmien välillä on mekaniikan yksiköissä pelkkä vakiokerroin, joka on kymmenen potenssi. Sen sijaan sähköopin yksiköissä ero on suuri. Cgs-järjestelmässä voidaan määritellä joko sähköstaattiset tai sähkömagneettiset yksiköt. Sähköstaattisissa yksiköissä tyhjiön permittiivisyys on 1, kun taas sähkömagneettisissa yksiköissä tämä arvo annetaan tyhjiön permeabiliteetille. Monet sähkömagneettiset yksiköt kuitenkin erotti ampeeriin perustuvista SI-yksiköistä niin ikään vain vakiokerroin, joka oli kymmenen potenssi, kun taas sähköstaattiset yksiköt poikkesivat niistä täysin. Vaikka järjestelmä oli nykyistä monimutkaisempi, useat sähköopin kaavat saivat cgs-järjestelmässä yksinkertaisemman muodon kuin MKSA- ja SI-järjestelmässä.
+Monilla tekniikan aloilla on paljon käytetty myös niin sanottua teknistä järjestelmää, jossa kolmantena perussuureena pituuden ja ajan lisäksi ei ollut massa vaan voima. Sen yksikkö, kilogramman voima (kgf) eli kilopondi (kp), määriteltiin voimaksi, jolla Maa vetää puoleensa 1 kg:n massaa. Täten esimerkiksi energian yksikkönä käytettiin kilopondimetriä ja tehon yksikkönä kilopondimetriä sekunnissa. Tähän järjestelmään perustui myös lisäyksikkö hevosvoima, joka vastasi 75 kilopondimetriä sekunnissa.
+Viimeisin uusi perusyksikkö, mooli, lisättiin järjestelmään virallisesti vuonna 1971, mutta sekin oli ollut tieteellisissä yhteyksissä käytössä jo kauan ennen sitä.
+
+
+== Lähteet ==
+MAOL-taulukkokirja
+Kielikello 2/2006
+SFS 4175
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+
+Kansainvälisen yksikköjärjestelmän 8. esite.
+Mittatekniikan keskus SI-mittayksikköjärjestelmän toteutus Suomessa
+NIST Physics Laboratory. International System of Units.
+Suomen Standardisoimisliitto. SI opas SI-opas PDF-muodossa.
+Valtioneuvoston asetus mittayksiköistä (1015/2014)
+Arkhimedes 2/2012, Uusi SI-järjestelmä toteuttaa Maxwellin unelman.
+Yksiköiden kertoimien luettelo - Factors for Units Listed Alphabetically, NIST Guide to the SI.
+Etuliitteet haltuun, SI-järjestelmän kerrannaisyksiköt.

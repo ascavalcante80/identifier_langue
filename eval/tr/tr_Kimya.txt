@@ -1,0 +1,73 @@
+ bir maddenin (solvent) içine karışıp, oluşturduğu homojen karışımdır. Bazı yaygın çözeltilere hava (02, N2 ve diğer bazı gazlar), doğal gaz (CH4, C2H6 ve diğer birçok madde), deniz suyu (su, tuz vs.), sirke (su ve asetik asit), ve pirinç (kalay, kurşun vs.) gibi çözeltiler örnek olarak verilebilir.
+
+
+==== Çözünürlük ====
+
+Çözünürlük, bir maddenin bir solvent içerinde çözünme miktarını ifade etmek için kullanılır. Genelikle çözünen maddenin miktarının (solute) solventin hacmine bölünmesiyle elde edilir. Çözünürlüğü etkiyen faktörler;
+Sıcaklık
+Çözen ve çözülen maddelerin doğası
+Basınç
+olarak sıralanabilinir.
+
+
+=== Elektrokimya ===
+
+Elektrokimya elektrik ve kimyasal değişimler arasındaki ilişkileri inceler. Kendiliğinden gelişen birçok kimyasal tepkime sonucunda elektrik akımı oluşmaktadır. Öte yandan elektrik akımı kendiliğinden gelişmeyen birçok tepkimenin gerçekleştirilmesinde kullanılmaktadır. Elektroliz süreciyle elektrik enerjisi kimyasal enerjiye dönüştürülebilmektedir.
+
+
+=== Kimyasal bağlar ===
+
+Kimyasal bağ farklı atomların elektronlarının etkileşimi sonucu oluşur ve atomları bir arada tutar. Kimyasal bağ atomlar arası elektron alış verişi sonucu oluşuyorsa iyonik bağ, eğer ortak paylaşım sonucu oluşuyorsa kovalent bağ olarak adlandırılır. Elektronların metal atomları arasında paylaşımı sonucu oluşuyorsa da buna [Metalik bağ|metalik bağ] denir.
+
+
+=== Kinetik ===
+
+Kimyasal kinetik, kimyasal tepkimeleri tepkime hızı, değişkenlerin tepkimeye etkileri, atomların yeniden dizilişi, ve ara ürünlerin oluşumu gibi açılardan ele alır.
+
+
+=== Stokiyometri ===
+
+Stokiyometri, kimyasal bir tepkimede bulunan reaktanların ve ürünlerin miktarlarının bir birleriyle olan sayısal ilişkilerini inceler. Dengedeki bir kimyasal tepkime ifadesinde, katsayılar kaç mol reaktanın bir diğer bir reaktanla tepkimeye girmek için gerekli olduğunu ve bu tepkimeden kaç mol ürün elde edileceğini ortaya koymada kullanılan metottur. Dengede olan bir tepkimede reaktanların ve ürünlerin miktarları arasında bölen ve bölünen kısımlarında pozitif tam sayılar içeren bir orantı oluştumaktadır. Örneğin metan'ın oksijen'le tepkimesinde, 1 molekül karbondioksit ve 2 molekül su oluşması için 1 molekül Metan 2 molekül oksijen ile tepkimeye girmelidir.
+CH4 + 202 → 1CO2 + 2H2O
+
+
+=== Termodinamik ===
+
+Termodinamik, enerji, ısı, entropi ve ekserji gibi fiziksel kavramlarla ilgilenen bilim dalı. Termodinamik her ne kadar sistemlerin madde ve/veya enerji alış-verişiyle ilgilense de, bu işlemlerin hızıyla ilgilenmez. Bundan dolayı aslında termodinamik denilirken, denge termodinamiği kastedilir. Zamana bağlı termodinamik olaylarla, denge halinde olmayan termodinamik ilgilenir.
+
+
+== Kimyanın temel kanunları ==
+Avogadro yasası
+Boyle yasası
+Charles yasası
+Gay-Lussac yasası
+Enerjinin korunumu yasası
+Kütlenin korunumu yasası
+Dalton yasası
+Sabit oranlar yasası
+Dulong–Petit yasası
+Faraday'ın elektroliz yasası
+Gay-Lussac yasası
+Graham difüzyon yasası
+İdeal gaz yasası
+Katlı oranlar yasası
+Peryodik tablo yasası
+
+
+== Kimyanın ana bilim dalları ==
+Kimya'nın ana alt dalları şöyle sıralanabilinir ;
+Analitik kimya
+Anorganik kimya
+Organik kimya
+Fizikokimya
+Termodinamik
+Spektroskopi
+Kimyasal kinetik
+Teorik kimya
+
+
+=== Kaynakça ===
+Ralph H. Petrucci ... [et (2010) al.],. General chemistry : principles and modern applications (10th ed. bas.). Toronto: Pearson Prentice Hall. ISBN 9780132064521.
+
+
+=== Diğer kaynaklar ===

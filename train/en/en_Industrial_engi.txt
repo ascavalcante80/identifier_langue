@@ -1,0 +1,74 @@
+Industrial engineering is a branch of engineering which deals with the optimization of complex processes or systems. Industrial engineers work to eliminate waste of time, money, materials, man-hours, machine time, energy and other resources that do not generate value. According to the Institute of Industrial Engineers, they figure out how to do things better. They engineer processes and systems that improve quality and productivity.
+Industrial engineers are the only engineering professionals trained specifically to be productivity and quality improvement specialists. As they work to improve processes on a technical point of view, but also to optimise the efficiency and profitability of businesses, many practitioners say that an industrial engineering education offers the best of both worlds: an education in both engineering and business. According to the Georgia Institute of Technology, nearly one in ten of its industrial engineer graduates rise to the top of their respective organizations in positions such as CEOs, presidents or CFOs.
+Industrial engineering is concerned with the development, improvement, and implementation of integrated systems of people, money, knowledge, information, equipment, energy, materials, analysis and synthesis, as well as the mathematical, physical and social sciences together with the principles and methods of engineering design to specify, predict, and evaluate the results to be obtained from such systems or processes. While industrial engineering is a traditional and longstanding engineering discipline subject to (and eligible for) professional engineering licensure in most jurisdictions, its underlying concepts overlap considerably with certain business-oriented disciplines such as operations management.
+Depending on the sub-specialties involved, industrial engineering may also be known as, or overlap with, operations management, management science, operations research, systems engineering, management engineering, manufacturing engineering, ergonomics or human factors engineering, safety engineering, or others, depending on the viewpoint or motives of the user.
+
+
+== Overview ==
+While originally applied to manufacturing, the use of "industrial" in "industrial engineering" can be somewhat misleading, since it has grown to encompass any methodical or quantitative approach to optimizing how a process, system, or organization operates. Some engineering universities and educational agencies around the world have changed the term "industrial" to broader terms such as "production" or "systems", leading to the typical extensions noted above. In fact, the primary U.S. professional organization for Industrial Engineers, the Institute of Industrial Engineers (IIE) has been considering changing its name to something broader (such as the Institute of Industrial & Systems Engineers), although the latest vote among membership deemed this unnecessary for the time being.
+The various topics concerning industrial engineers include:
+accounting: the measurement, processing and communication of financial information about economic entities
+operations research, also known as management science: discipline that deals with the application of advanced analytical methods to help make better decisions
+operations management: an area of management concerned with overseeing, designing, and controlling the process of production and redesigning business operations in the production of goods or services.
+project management: is the process and activity of planning, organizing, motivating, and controlling resources, procedures and protocols to achieve specific goals in scientific or daily problems.
+job design: the specification of contents, methods and relationship of jobs in order to satisfy technological and organizational requirements as well as the social and personal requirements of the job holder.
+financial engineering: the application of technical methods, especially from mathematical finance and computational finance, in the practice of finance
+management engineering: a specialized form of management that is concerned with the application of engineering principles to business practice
+supply chain management: the management of the flow of goods. It includes the movement and storage of raw materials, work-in-process inventory, and finished goods from point of origin to point of consumption.
+process engineering: design, operation, control, and optimization of chemical, physical, and biological processes.
+systems engineering: an interdisciplinary field of engineering that focuses on how to design and manage complex engineering systems over their life cycles.
+ergonomics: the practice of designing products, systems or processes to take proper account of the interaction between them and the people that use them.
+safety engineering: an engineering discipline which assures that engineered systems provide acceptable levels of safety.
+cost engineering: practice devoted to the management of project cost, involving such activities as cost- and control- estimating, which is cost control and cost forecasting, investment appraisal, and risk analysis.
+value engineering: a systematic method to improve the "value" of goods or products and services by using an examination of function.
+quality engineering: a way of preventing mistakes or defects in manufactured products and avoiding problems when delivering solutions or services to customers.
+Industrial plant configuration: sizing of necessary infrastructure used in support and maintenance of a given facility.
+facility management: an interdisciplinary field devoted to the coordination of space, infrastructure, people and organization
+engineering design process: formulation of a plan to help an engineer build a product with a specified performance goal.
+logistics: the management of the flow of goods between the point of origin and the point of consumption in order to meet some requirements, of customers or corporations.
+Traditionally, a major aspect of industrial engineering was planning the layouts of factories and designing assembly lines and other manufacturing paradigms. And now, in so-called lean manufacturing systems, industrial engineers work to eliminate wastes of time, money, materials, energy, and other resources.
+Examples of where industrial engineering might be used include flow process charting, process mapping, designing an assembly workstation, strategizing for various operational logistics, consulting as an efficiency expert, developing a new financial algorithm or loan system for a bank, streamlining operation and emergency room location or usage in a hospital, planning complex distribution schemes for materials or products (referred to as supply-chain management), and shortening lines (or queues) at a bank, hospital, or a theme park.
+Modern industrial engineers typically use predetermined motion time system, computer simulation (especially discrete event simulation), along with extensive mathematical tools for modelling, such as mathematical optimization and queue theory, and computational methods for system analysis, evaluation, and optimization.
+
+
+== History ==
+
+
+=== Origins ===
+
+
+==== Industrial Revolution ====
+There is a general consensus among historian that the roots of the Industrial Engineering Profession date back to the Industrial Revolution. The technologies that helped mechanize traditional manual operations in the textile industry including the Flying shuttle, the Spinning jenny, and perhaps most importantly the Steam engine generated Economies of scale that made Mass production of in centralized locations attractive for the first time. The concept of the production system had its genesis in the factories created by these innovations.
+
+
+==== Specialization of Labor ====
+
+Adam Smith's concepts of Division of labour and the "Invisible Hand" of capitalism introduced in his treatise "The Wealth of Nations" motivated many of the technological innovators of the Industrial revolution to establish and implement factory systems. The efforts of James Watt and Matthew Boulton led to the first integrated machine manufacturing facility in the world, including the implementation of concepts such as cost control systems to reduce waste and increase productivity and the institution of skills training for craftsmen.
+Charles Babbage became associated with Industrial engineering because of the concepts he introduced in his book "On the Economy of Machinery and Manufacturers" which he wrote as a result of his visits to factories in England and the United States in the early 1800s. The book includes subjects such as the time required to perform a specific task, the effects of subdividing tasks into smaller and less detailed elements, and the advantages to be gained from repetitive tasks.
+
+
+==== Interchangeable Parts ====
+Eli Whitney and Simeon North proved the feasibility of the notion of Interchangeable parts in the manufacture of muskets and pistols for the US Government. Under this system, individual parts were mass-produced to tolerances to enable their use in any finished product. The result was a significant reduction in the need for skill from specialized workers, which eventually led to the industrial environment to be studied later.
+
+
+=== Pioneers ===
+Frederick Taylor is generally credited as being the father of the Industrial Engineering discipline. He earned a degree in mechanical engineering from Steven's University, and earned several patents from his inventions. His books, Shop Management and The Principles of Scientific management which were published in the early 1900s, were the beginning of Industrial Engineering. Improvements in work efficiency under his methods was based on improving work methods, developing of work standards, and reduction in time required to carry out the work. With an abiding faith in the scientific method, Taylor's contribution to "Time Study" sought a high level of precision and predictability for manual tasks.
+Frank Gilbreth and Lilian Gilbreth were the other cornerstone of the Industrial Engineering movement. They categorized the elements of human motion into 18 basic elements called therbligs. This development permitted analysts to design jobs without knowledge of the time required to do a job. These developments were the beginning of a much broader field known as human factors or ergonomics.
+In the United States, the first department of industrial and manufacturing engineering was established at the Pennsylvania State University in 1909. The first doctoral degree in industrial engineering was awarded in 1933 by Cornell University.
+In 1912 Henry Laurence Gantt developed the Gantt chart which outlines actions the organization along with their relationships. This chart opens later form familiar to us today by Wallace Clark.
+Assembly lines: moving car factory of Henry Ford (1913) accounted for a significant leap forward in the field. Ford reduced the assembly time of a car more than 700 hours to 1.5 hours. In addition, he was a pioneer of the economy of the capitalist welfare ("welfare capitalism") and the flag of providing financial incentives for employees to increase productivity.
+Comprehensive quality management system (Total quality management or TQM) developed in the forties was gaining momentum after World War II and was part of the recovery of Japan after the war.
+
+
+=== Modern practice ===
+In 1960 to 1975, with the development of decision support systems in supply such as the Material requirements planning (MRP), you can emphasize the timing issue (inventory, production, compounding, transportation, etc.) of industrial organization. Israeli scientist Dr. Jacob Rubinovitz installed the CMMS program developed in IAI and Control-Data (Israel) in 1976 in South Africa and worldwide.
+In the seventies, with the penetration of Japanese management theories such as Kaizen and Kanban, Japan realized very high levels of quality and productivity. These theories improved issues of quality, delivery time, and flexibility. Companies in the west realized the great impact of Kaizen and started implementing their own Continuous improvement programs.
+In the nineties, following the global industry globalization process, the emphasis was on supply chain management, and customer-oriented business process design. Theory of constraints developed by an Israeli scientist Eliyahu M. Goldratt (1985) is also a significant milestone in the field.
+
+
+=== University programs ===
+Universities offer degrees at the bachelor, masters, and doctoral level. US News and World Report's article on "America's Best Colleges 2012" ranks schools offering undergraduate engineering specialities in Industrial or Manufacturing Engineering. The Georgia Institute of Technology has been ranked as having the best Industrial Engineering program in the United States consecutively for twenty-two years while the University of Michigan, Ann Arbor and University of California, Berkeley have been consistently ranked second and third, respectively.
+
+
+==== Undergraduate curriculum ====
+In the United States the undergraduate degree earned is the Bachelor of Science (B.S.) or Bachelor of Science and Engineering (B.S.E.) in Industrial Engineering (IE). Variations of the title include Industrial & Operations Engineering (IOE), and Indu

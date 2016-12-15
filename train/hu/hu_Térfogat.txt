@@ -1,0 +1,61 @@
+A térfogat (régiesebben köbtartalom; jele: V) megadja, hogy egy adott test mekkora helyet foglal el a térben. A térfogat SI-alapegysége a köbméter. A térfogatot (különösen folyadéktároló vagy egyéb edények, tartályok térfogatát) általánosan űrtartalomnak nevezzük.
+A szilárd test térfogata egy mennyiség, amely a test három dimenzióban elfoglalt méretét adja meg. Az egydimenziós dolgoknak (pl.: vonalak) és a kétdimenziós síkidomoknak (pl.: négyzetek) a háromdimenziós térben nulla a térfogatuk.
+A testek térfogatát úgy közelíthetjük, hogy az adott testet rengeteg apró ismert térfogatú kockára, például egységnyi oldalú kockára osztjuk és térfogatukat összeadjuk. A gyakorlati, pl. mérnöki jellegű problémák során a térfogat meghatározásának leggyakoribb matematikai eszköze az integrálszámítás. A térfogat kérdése általában egyike a matematika legnehezebb és legmélyebb elméleti problémáinak, többek között ezzel foglalkozik a mértékelmélet nevű tudományág.
+
+
+== Térfogatképletek ==
+
+Gyakori képletek:
+A kocka: (ahol az a a kocka élének hossza)
+ 
+A téglalap alapú hasáb (téglatest): (az a, b, c a téglatest éleinek hossza)
+ 
+A henger: (r = a henger sugara, h = a henger magassága)
+ 
+A gömb: (r = a gömb sugara)
+ 
+Az ellipszoid: (a, b, c = az ellipszoid tengelyei)
+ 
+A gúla: (A = az alap területe, h = a gúla magassága)
+ 
+A kúp (körlap alapú gúla): (r = az alap sugara, h = a kúp magassága)
+ 
+Bármilyen alapú hasáb: (A = alapterület, h = magasság)
+ 
+Forgástestek (integrálszámítás szükséges, x=a és x=b a kiindulási tartomány két határvonala, a ≤ b, R(x) a síktartomány határvonalának forgástengelytől való távolsága, y tengely körüli forgatás esetén R(x) helyett R(y), dx helyett dy írandó)
+Korong-módszer (a kiindulási tartomány egyik határvonala a forgástengelyre esik):
+Gyűrűmódszer (a kiindulási tartomány egyik határvonala sem esik a forgástengelyre):
+
+Akármilyen alakzat (integrálszámítás szükséges)
+
+ahol h az alakzat dimenziójának száma, és A(h) a keresztirányú szeletek területe a h függvényében; ez minden alakzatra működik.
+
+
+== A térfogat mértékegységei: származtatott SI-egységek ==
+A térfogat mérésére és megadására használható a nem SI-egység liter (jele: l), amely azonos a köbdeciméterrel (dm³); ennek ezerszerese a köbméter (m³). A milliliter (ml) megegyezik a köbcentiméterrel (cm³).
+
+
+== A térfogat mértékegységei: USA ==
+USA hagyományos mértékegységei:
+U.S. folyékony uncia, kb. 29,6 ml
+U.S. folyékony pint = 16 folyékony uncia, vagy 473 ml
+U.S. száraz pint = 1/64 amerikai bushel, vagy 551 ml (például fekete áfonyánál használják)
+U.S. folyékony kvart = 32 folyékony uncia, vagy 2 amerikai pint, vagy 946 ml
+U.S. száraz kvart = 1/32 amerikai bushel, vagy 1,101 l
+U.S. gallon = 128 folyékony uncia, vagy 4 folyékony kvart, vagy 3,785 l
+U.S. száraz gallon = 1/8 amerikai bushel, vagy 4,405 l
+U.S. (száraz) bushel = 2150,42 köbhüvelyk, vagy 35,239 l
+Az acre-lábat gyakran használják a tartályokban és víztározókban található víz mennyiségének megadására. Ez az a térfogat, amely 1 acre (= 4 046,85 m2) alapterületű és 1 láb (= 30,48 centiméter) magasságú. Megegyezik 43 560 köblábbal és pontosan 1233,48183754752 m³.
+köbhüvelyk = 16,387 064 cm3
+köbláb = 1728 in3 ≈ 28,317 dm3
+köbyard = 27 ft3 ≈ 0,7646 m3
+köbmérföld = 5 451 776 000 yd3 = 3 379 200 acre-láb ≈ 4,168 km3
+
+
+== A térfogat mértékegységei: UK ==
+Birodalmi egységek:
+UK folyékony uncia, kb. 28,4 ml (megegyezik 1 brit uncia víz térfogatával adott körülmények között)
+UK pint = 20 folyékony uncia, vagy kb. 568 ml
+UK kvart = 40 uncia vagy 2 pint, vagy kb. 1,137 l
+UK gallon = 160 uncia vagy 4 kvart, vagy pontosan 4,546 09 l
+Megj.: a kvart már elavult, viszont a folyékony uncia gyakori. A gallont csak szállítmányozásnál használják (benzint vagy gázolajat tilos gallonban mérni). A pint a leggyakoribb birodalmi egység, amit mindennap használnak, például sör és almabor mérésére (üveges

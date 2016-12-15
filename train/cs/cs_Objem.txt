@@ -1,0 +1,43 @@
+Objem je veličina, která vyjadřuje velikost prostoru, kterou zabírá těleso. Z matematického hlediska představuje objem míru charakterizující danou vymezenou část prostoru.
+Symbol veličiny: V (angl. volume)
+Jednotka SI: metr krychlový, značka jednotky: m³, lidově zvaný kubík.
+
+
+== Rovnice pro výpočet objemu ==
+
+
+== Jednotky objemu ==
+
+
+=== Odvozené z SI ===
+decimetr krychlový [dm³]
+centimetr krychlový [cm³]
+milimetr krychlový [mm³]
+
+
+==== z evropské praxe ====
+hektolitr [hl]
+litr [l] (1 l = 1 dm³)
+decilitr [dl]
+centilitr [cl]
+mililitr [ml] (1 ml = 1 cm³)
+
+
+==== Převody objemových jednotek podle SI ====
+1 m3 = 1 000 dm3 = 1 000 000 cm3 = 1 000 000 000 mm3
+0,01 hl = 1 l = 10 dl = 100 cl = 1 000 ml
+
+
+=== Jednotky mimo soustavu SI ===
+Britské (UK, imperiální)
+bušl (8 × UK gallon ≈ 36,3687 dm³)
+gallon (4,54609 dm³)
+fluid ounce (UK gallon / 160)
+pinta
+
+Americké (US)
+barel
+bušl (8 × „suchý“ US gallon ≈ 35,2391 dm³)
+„suchý“ gallon (4,40488377086 dm³)
+„tekutý“ gallon (3,785411784 dm³)
+fluid ounce

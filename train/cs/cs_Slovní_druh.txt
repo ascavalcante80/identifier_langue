@@ -1,0 +1,56 @@
+Lingvistika dělí slova do slovních druhů. Ve vymezení jednotlivých slovních druhů hrají úlohu různé faktory: jakým způsobem se slovo zapojuje do věty, jaké tvary tvoří a jaké mluvnické kategorie u něj lze vysledovat atd. 
+
+
+== Tradiční slovní druhy v češtině ==
+V češtině rozlišujeme následujících 10 slovních druhů:
+podstatná jména (Substantiva)
+přídavná jména (Adjektiva)
+zájmena (Pronomina)
+číslovky (Numeralia)
+slovesa (Verba)
+příslovce (Adverbia)
+předložky (Prepozice)
+spojky (Konjunkce)
+částice (Partikule)
+citoslovce (Interjekce)
+Slova prvních pěti druhů jsou většinou ohebná. To znamená, že je lze skloňovat nebo časovat, a to buď podle vzorů, nebo jako nepravidelná. Některé číslovky (například čtyřikrát), některá přejatá substantiva (např. šapitó, pyré, filé) a adjektiva (např. lila) jsou však nesklonná. Neohebné jsou také všechny infinitivy českých sloves. Slova zbývajících pěti druhů jsou většinou neohebná. Výjimku tvoří stupňování některých příslovcí a osobní tvary spojek abych, abys, aby, abychom...
+Ta slova prvních čtyř slovních druhů, která vykazují gramatické kategorie pádu, čísla a jmenného rodu, a sousloví vzniklá jejich rozvinutím se souhrnně nazývají jména. Z číslovek jsou jmény číslovky základní, řadové a druhové. ale číslovky násobné mají charakter příslovce. Jména a jmenná sousloví se rozdělují na obecná jména neboli apelativa a vlastní jména neboli propria.
+
+
+== Typy slovních druhů ==
+Jak bylo řečeno výše, kritéria pro řazení slov k tradičním slovním druhům jsou různé povahy; mnohdy jsou navíc definice mlhavé, jednotlivé kategorie se při pohledech z různých hledisek mohou překrývat nebo může být zařazení konkrétního slova nejasné.
+Například rozdíl mezi přídavnými jmény a příslovci je v češtině morfologický: adjektiva jsou ohebná, příslovce nikoli, i syntakitcký syntaktický: funkcí přídavných jmen ve větě je (obvykle) rozvíjet podstatná jména, zatímco příslovce obvykle rozvíjejí slovesa nebo přídavná jména. Kritéria mohou být i morfologická (které slovní druhy jsou ohebné, které z nich rozlišují rod, číslo a pád, které rozlišují osobu, číslo, čas atd.) Morfologie dvou různých jazyků se může velmi lišit, proto morfologická kritéria nemohou být univerzální. Další slovní druhy mohou být v některých jazycích vymezeny převážně sémanticky, tedy podle významu: třeba číslovky podle tradičního pojetí v češtině jsou všechna slova, která udávají počet a lze je teoreticky tvořit pro všechna přirozená čísla. Máme tedy nejen číslovky základní (jeden, dva, tři), ale i řadové, které jsou ze syntaktického hlediska přídavnými jmény (první, druhý, třetí) nebo příslovci (poprvé, podruhé, potřetí) nebo třeba násobné (syntakticky opět příslovce: jedenkrát, dvakrát, třikrát). Nejdůležitějším faktorem, proč každý druh definujeme odlišně, je právě dlouhá tradice, která tento systém udržuje ve školách a v slovnících pro veřejnost. V jiných jazycích přitom může být tradice jiná, např. v angličtině se základní i řadové číslovky tradičně řadí pod přídavná jména (číslovky s funkcí příslovce nelze v angličtině vyjádřit jedním slovem).
+Pro potřeby formální lingvistické analýzy lze tedy rozlišit různé druhy (typy) slovních druhů s ohledem na povahu kritérií, kterými jsou vymezeny:
+tradiční slovní druhy – učí se na základních školách a většinou se také používají ve slovnících pro veřejnost, viz výše
+morfologické slovní druhy – vymezeny na základě mluvnických kategorií, podle kterých se ohýbají. Toto dělení by z definice bylo v každém jazyce jiné, např. pro češtinu:
+podstatná jména: číslo a pád (mají i kategorii rodu, ale ta je dána převážně lexikálně). Zahrnují i některá zájmena, např. někdo, něco, nic, a číslovky, např. pět.
+přídavná jména: rod, číslo, pád a někdy stupeň. Zahrnují i některá zájmena, např. jaký, který, žádný, základní číslovku jeden / jedna / jedno a řadové číslovky, např. první, druhý, třetí.
+osobní zájmena: osoba, rod (ne vždy, např. zájmena já, ty, my, vy, jsou bezrodá), číslo, pád (i když výraz „ohýbání“ není moc výstižný, systém koncovek podobný podstatným a přídavným jménům zde chybí)
+přivlastňovací zájmena: osoba, rod a číslo vlastníka, rod a číslo vlastněného, pád
+slovesa: osoba, číslo, čas, způsob, slovesný rod, popř. (u příčestí) též jmenný rod
+stupňovaná příslovce: např. hodně, špatně, chytře, ale ne už třeba jak nebo zítra
+neohebná slova
+
+syntaktické slovní druhy – vymezeny na základě funkce ve větě.
+podstatná jména: rozvíjejí sloveso zpravidla jako podmět nebo předmět, ale i slova s funkcí doplňku nebo jmenné části přísudku a slova ve funkci neshodného přívlastku. Kromě tradičních podstatných jmen sem patří zájmena osobní (já, ty, on), některá neurčitá a záporná (někdo, něco, nikdo, nic), ukazovací zájmena v některých kontextech (např. to bych neřekl), některé základní číslovky v některých pádech (!) (pět, deset, sto, tisíc, milión, osmina, několik).
+přídavná jména: rozvíjejí podstatné jméno, se kterým se morfologicky shodují v rodě, čísle a pádu; dále slova ve jmenné části přísudku nebo v pozici doplňku, pokud se morfologicky shodují s podstatným jménem v téže klauzi. Kromě tradičních přídavných jmen sem patří zájmena přivlastňovací (můj, tvůj, jeho), ukazovací zájmena v některých kontextech (např. to zvíře), některá neurčitá a záporná (některý, nějaký, žádný), zbývající základní a adjektivní řadové číslovky (jeden, dva, tři, pěti zvířaty, první, druhý, několikátý), příčestí trpná alespoň v některých kontextech (udělán, pokryt).
+slovesa: mají funkci přísudku klauze řídící nebo závislé nebo se podílejí na složených slovesných tvarech (byl bych býval mohl chtít udělat)
+příslovce: rozvíjejí sloveso nebo přídavné jméno. Kromě tradičních příslovcí sem patří i některé číslovky řadové (poprvé, podruhé), číslovky násobné (jedenkrát, dvakrát) a přechodníky (dělaje, udělav).
+spojky souřadící: spojují dva rovnocenné větné členy nebo klauze, např. a, nebo, ale.
+spojky podřadící: připojují závislou klauzi k řídící, např. že, zda, aby, protože.
+vztažná zájmena (kdo, co, který, jaký, čí, jenž), číslovky (kolik, kolikátý, kolikrát) a příslovce (kde, kam, kdy, jak) v sobě spojují funkci podstatného jména (resp. přídavného jména nebo příslovce) a podřadící spojky. Tázací zájmena (resp. číslovky nebo příslovce), která se v češtině shodují se vztažnými, ale v jiných jazycích, např. v hindštině, se od nich liší, by do této kategorie nepatřila. Rozpadla by se do kategorií syntaktických podstatných jmen, přídavných jmen a příslovcí.
+předložky: řídí syntaktické podstatné jméno (diktují jeho pád) a upřesňují jeho roli jako rozvití slovesa (zajímat se o něco), podstatného jména (zájem o něco) nebo přídavného jména (silný v počtech).
+
+sémantické slovní druhy – vymezeny na základě významu.
+podstatná jména: vyjadřují substanci. Např. české tradiční přivlastňovací přídavné jméno otcův lze považovat za tvar sémantického podstatného jména otec.
+přídavná jména: vyjadřují vlastnost. Např. české tradiční příslovce chytře lze považovat za tvar sémantického přídavného jména chytrý.
+příslovce: vyjadřují okolnost. Např. české tradiční přídavné jméno zítřejší lze považovat za tvar sémantického příslovce zítra.
+číslovky: vyjadřují počet.
+slovesa: vyjadřují událost. Kromě tradičních sloves k nim můžeme zařadit i odvozená podstatná jména (dělání) a přídavná jména (dělající, udělavší, udělaný).
+
+
+=== Pražská lingvistická škola ===
+Konkrétní klasifikace opět závisí na konkrétním jazyku a konkrétní lingvistické teorii. Např. ve Funkčním generativním popisu jazyka vycházejícím z tradic Pražské lingvistické školy se předpokládá dělení, které bylo v praxi ověřeno na materiálu Pražského závislostního korpusu. Níže uvedené definice pocházejí z anotačních pokynů pro tento korpus.
+tradiční slovní druhy; v češtině se jich tradičně rozlišuje deset (předtím bez částic devět). Zařazení slova k příslušnému slovnímu druhu je určováno morfologickými, syntaktickými a sémantickými charakteristikami m-lematu
+syntaktické slovní druhy je pouze pomocný pojem, který postihuje funkci slova ve větě. Rozlišují se
+syntaktická substantiva (rozvíjejí sloveso a zpravidla

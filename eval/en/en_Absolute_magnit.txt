@@ -1,0 +1,59 @@
+cal unit (AU) from both the Sun and the observer. Because the object is illuminated by the Sun, absolute magnitude is a function of phase angle and this relationship is referred to as the phase curve.
+To convert a stellar or galactic absolute magnitude into a planetary one, subtract 31.57. A comet's nuclear magnitude (M2) is a different scale and can not be used for a size comparison with an asteroid's (H) magnitude.
+
+
+=== Apparent magnitude ===
+The absolute magnitude can be used to help calculate the apparent magnitude of a body under different conditions.
+
+where  is 1 AU,  is the phase angle, the angle between the Sun–body and body–observer lines. By the law of cosines, we have:
+
+ is the phase integral (integration of reflected light; a number in the 0 to 1 range).
+Example: Ideal diffuse reflecting sphere. A reasonable first approximation for planetary bodies
+
+A full-phase diffuse sphere reflects 2/3 as much light as a diffuse disc of the same diameter.
+Distances:
+ is the distance between the observer and the body
+ is the distance between the Sun and the body
+ is the distance between the observer and the Sun
+Note: because Solar System bodies are never perfect diffuse reflectors, astronomers use empirically derived relationships to predict apparent magnitudes when accuracy is required.
+
+
+==== Example ====
+Moon:
+ = +0.25
+ =  = 1 AU
+ = 384.5 Mm = 2.57 mAU
+How bright is the Moon from Earth?
+Full moon:  = 0, ( ≈ 2/3)
+
+(Actual −12.7) A full Moon reflects 30% more light at full phase than a perfect diffuse reflector predicts.
+
+Quarter moon:  = 90°,  (if diffuse reflector)
+
+(Actually approximately −11.0) The diffuse reflector formula does for smaller phases.
+
+
+== Meteors ==
+For a meteor, the standard distance for measurement of magnitudes is at an altitude of 100 km (62 mi) at the observer's zenith.
+
+
+== See also ==
+Photographic magnitude
+Hertzsprung–Russell diagram – relates absolute magnitude or luminosity versus spectral color or surface temperature.
+Jansky radio astronomer's preferred unit – linear in power/unit area
+Surface brightness – the magnitude for extended objects
+List of most luminous stars
+
+
+== References ==
+
+
+== External links ==
+Reference zero-magnitude fluxes
+International Astronomical Union
+Absolute Magnitude of a Star calculator
+The Magnitude system
+About stellar magnitudes
+Obtain the magnitude of any star – SIMBAD
+Converting magnitude of minor planets to diameter
+Another table for converting asteroid magnitude to estimated diameter

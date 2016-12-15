@@ -1,0 +1,62 @@
+Der Projektstrukturplan (PSP) (engl. work breakdown structure; abgekürzt WBS) ist das Ergebnis einer Gliederung des Projekts in plan- und kontrollierbare Elemente. Ein Projekt wird im Rahmen der Strukturierung in Teilaufgaben und Arbeitspakete unterteilt. Teilaufgaben sind Elemente, die weiter unterteilt werden müssen, Arbeitspakete sind Elemente, die sich im PSP auf der untersten Ebene befinden und dort nicht weiter unterteilt werden. Arbeitspakete enthalten die Elemente (Vorgang, Vorgänge), die für die weiteren Planungsstufen benötigt werden. Die Erstellung eines Projektstrukturplans ist nach heutigem Erkenntnisstand des Projektmanagements eine der zentralen Aufgaben der Projektplanung. Der PSP ist die Grundlage für die Termin- und Ablaufplanung, die Ressourceneinplanung und die Kostenplanung. Zudem fließen die Erkenntnisse aus dem PSP in das Risikomanagement ein. Weil er als Grundlagenplanung für ein Projekt angesehen werden kann, wird der PSP gerne als „Plan der Pläne“ bezeichnet.
+
+
+== Gliederungsprinzipien ==
+Das wichtigste Designziel für einen Projektstrukturplan ist die vollständige und einmalige Erfassung aller relevanten Tätigkeiten eines Projektes. Um dieses Ziel zu erreichen, wird ausgehend von der obersten Ebene, dem Projekt selbst, bei der Erstellung der jeweils nächsttieferen Ebene ein für jede Ebene einheitliches Gliederungsprinzip — Orientierung — angewendet. Die nach den DIN-Normen 69900 ff. zulässigen Orientierungen sind:
+Funktionsorientierte Gliederung
+Die funktionsorientierte Gliederung fragt nach Funktionsbereichen der projektausführenden Organisation. Im Vordergrund steht die Art der auszuführenden Tätigkeit.
+Objektorientierte Gliederung
+Bei der objektorientierten Gliederung steht das Produkt selbst im Vordergrund. Der Projektgegenstand wird in seine einzelnen Komponenten, Baugruppen oder Einzelteile zerlegt.
+Zeitorientierte Gliederung
+Für eine zeitorientierte Gliederung betrachtet man den Ablauf oder die Phasen des Projektes. Diese bilden dann die Teilaufgaben oder Arbeitspakete der jeweiligen Ebene.
+Der weltweit verbreitetste Projektmanagementstandard, der PMBoK empfiehlt ausschließlich die Projektstrukturierung nach Liefergegenstand, was der Objektorientierung gleichkommt. Der später entwickelte Standard ICB, der von der europäischen IPMA, der deutschen GPM und damit auch vom Deutschen Normenausschuss verwendet wird, lässt durch die Möglichkeit von drei Orientierungsformen für die Praxis wesentlich größere Spielräume zu.
+Mischformen der Orientierungsmethode sind insofern möglich, als verschiedene Ebenen nach unterschiedlichen Orientierungen erstellt werden können. Um das Designziel erreichen zu können, wird für die Praxis allerdings dringendst empfohlen, für eine Ebene auch nur eine Orientierungsmethode anzuwenden.
+
+
+== Erstellung ==
+Für die Erstellung von Projektstrukturplänen sind drei Methoden etabliert:
+Top-Down-Ansatz
+Der deduktive Weg führt vom Ganzen ins Detail, der PSP wird durch Zerlegung vom Projekt bis zu den Arbeitspaketen gebildet.
+Benennung des Projekts
+Auswahl der geeigneten Orientierungsmethode für die zweite Ebene
+Zerlegung des Gesamtprojekts in Teilprojekte oder Teilaufgaben
+Auflistung der Aufgaben bzw. Strukturelemente der zweiten Ebene
+Auswahl der jeweils geeigneten Orientierungsmethode für jedes Element der zweiten Ebene
+Weitere Zerlegung, bis Arbeitspakete vorliegen
+Dieses Verfahren wird häufig gewählt, wenn bereits Erfahrungen mit ähnlichen Projekten vorliegen oder die Inhalte des zu planenden Projektes weitgehend bekannt sind.
+Bottom-Up-Ansatz
+Der induktive Weg führt vom Detail zum Ganzen, der PSP wird durch Zusammensetzen von der Tätigkeit bis zum Projekt gebildet.
+Sammlung von im Projekt auszuführenden Aufgaben
+Analyse der Beziehungen mit der Frage, was ist Teil wovon
+Aufbau und Zusammensetzung zu einer Baumstruktur
+Kontrolle auf Vollständigkeit und Einmaligkeit aller Aufgaben
+Geeignet ist dieses Verfahren für Projekte mit einem hohen Innovationsgrad.
+Yo-Yo-Verfahren
+Im Gegenstromverfahren werden deduktive und induktive Schritte abwechselnd ausgeführt, um die Stärken beider Verfahren zu nutzen. Um diese Methode sinnvoll zu nutzen, sollte sie allerdings nicht für einen zu kleinteiligen Ausschnitt des Projektes verwendet werden.
+Damit sichergestellt wird, dass keine Aufgaben vergessen worden sind und keine Aufgaben mehrfach vorkommen, sollen folgende Regeln eingehalten werden:
+Einmaligkeit: Die Strukturelemente einer Ebene müssen sich inhaltlich vollständig voneinander unterscheiden.
+Vollständigkeit: Die inhaltliche Summe der Elemente, die zu einem übergeordneten Element gehören, muss mit dem Inhalt des übergeordneten Elements übereinstimmen.
+Das Erreichen des Designziels der Vollständigkeit und Einmaligkeit wird gefördert, wenn bei der Bildung der Arbeitspakete auf einen etwa gleichen Detaillierungsgrad geachtet wird.
+
+
+== Darstellung ==
+
+Für die Darstellung von Projektstrukturplänen hat sich in der Praxis die Baumstruktur bewährt und durchgesetzt. Diese kann horizontal oder vertikal erstellt werden. Es ist auch eine Textstruktur möglich, die den Projektstrukturplan mit Hilfe von Gliederungsebenen und Einrückungen darstellt. Wichtigstes Darstellungsziel ist Übersichtlichkeit, Projektstrukturpläne sollen so erstellt und dargestellt werden, dass eine fachkundige Person den Betrachtungsgegenstand ohne Mühe nachvollziehen kann.
+
+
+== Vorteile und Grenzen ==
+Die Vorteile, die ein Projektstrukturplan bietet sind immens. Als «Harte Faktoren» fallen ins Gewicht, dass mit dem PSP das Projekt vollständig erfasst ist, Klarheit über zu leistende Arbeiten herrscht, eine Annäherung an die Kostensituation vollzogen ist, benötigte Ressourcen bekannt sind usw. Aber auch «Weiche Faktoren» spielen eine wichtige Rolle. So bringt die Durchdringung des Projekts für die an der Planung Beteiligten (Projektleiter, Projektplaner, Kernteam) Klärung von Fragen und Missverständnissen, Einigung über Projektziele und die Verinnerlichung des Projektes.
+Von Nachteilen eines Projektstrukturplanes kann man nicht sprechen, wohl aber von Grenzen. So ist besonders bei Funktions- und Objektorientierung bemerkbar, dass der Ablaufgedanke für das Projektgeschehen nahezu unberücksichtigt bleibt. Dies ist aber auch gar nicht die Absicht für einen PSP, solche Fragen werden erst in späteren Planungsschritten geklärt.
+
+
+== Beispiel ==
+Neubau einer Garage
+Im folgenden Beispiel ist die oberste Ebene zeitorientiert, da der Ablauf im Fokus steht. Die zweite Ebene ist funktionsorientiert, da in diesem Fall die Subunternehmen als funktionale Einheiten betrachtet werden. Für die Darstellung wird eine vertikale Baumstruktur verwendet.
+
+
+== Weitere Verwendung ==
+Die Ergebnisse der Projektstrukturplanung werden in folgenden Planungsschritten weiterverwendet:
+Termin- und Ablaufplanung: In der Regel bilden die Arbeitspakete des PSP die Grundlage für Vorgänge, die in der Netzplantechnik, in Gantt-Diagrammen, in Vorgangslisten oder in ähnlichen Werkzeugen verwendet werden.
+Ressourceneinplanung: Aufgrund der Arbeitspakete kann bestimmt werden welche Ressourcen benötigt, in Kombination mit der Termin- und Ablaufplanung, wann sie benötigt werden.
+Kostenplanung: In Kombination mit der Ressourcenplanung können Kosten und Zeitpunkt des Kostenanfalls geplant werden.
+Risikoplanung: Aus den Arbeitspaketen können Erkenntnisse auf technische, personelle und operative Risiken gewonnen werden, die in das Risikoregister aufgenommen werden m

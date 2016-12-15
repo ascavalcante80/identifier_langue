@@ -1,0 +1,26 @@
+Langages commutatifs ===
+Pour vérifier qu'un langage est expansif, on peut parfois se servir du théorème de Kortelainen cité ci-dessous. Deux mots  et  sont commutativement équivalents si chaque lettre apparaît autant de fois dans  que dans , en d'autres termes si  et  sont des anagrammes. Un langage  est commutatif s'il est fermé pour la relation d'équivalence commutative, c'est-à-dire si  et  sont commutativement équivalents et si  est dans , alors  est dans . Par exemple, le langage  sur  composé des mots qui ont autant de  que de  est commutatif.
+
+Comme conséquence, le langage  n'est pas quasi-rationnel, donc il est expansif.
+
+
+== Notes et références ==
+
+
+=== Notes ===
+
+
+=== Bibliographie ===
+Arto Salomaa, Formal Languages, New York, Academic Press,‎ 1973 (ISBN 978-0126157505).
+Jean-Michel Autebert, Jean Berstel et Luc Boasson, « Context-free languages and pushdown automata », dans G. Rozenberg, A. Salomaa (éditeurs), Handbook of Formal Languages, vol. 1 : Word, Language, Grammar, Springer Verlag,‎ 1997 (ISBN 978-3540604204)
+Juha Kortelainen, « Every commutative quasirational language is regular », RAIRO Inform. Théor. Appl., vol. 20, no 3,‎ 1986, p. 319--337
+
+
+== Voir aussi ==
+Hiérarchie de Chomsky
+Langage algébrique
+Grammaire algébrique
+Lemme d'itération
+
+ Portail de l’informatique
+ Portail de l'informatique théorique

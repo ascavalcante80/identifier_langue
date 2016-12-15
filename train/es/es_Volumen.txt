@@ -1,0 +1,44 @@
+El volumen es una magnitud métrica de tipo escalar definida como la extensión en tres dimensiones de una región del espacio. Es una magnitud derivada de la longitud, ya que se halla multiplicando la longitud, el ancho y la altura. Matemáticamente el volumen es definible no sólo en cualquier espacio euclídeo, sino también en otro tipo de espacios métricos que incluyen por ejemplo a las variedades de Riemann.
+Desde un punto de vista físico, los cuerpos materiales ocupan un volumen por el hecho de ser extensos, fenómeno que se debe al principio de exclusión de Pauli.
+La unidad de medida de volumen en el Sistema Internacional de Unidades es el metro cúbico. Para medir la capacidad se utiliza el litro. Por razones históricas, existen unidades separadas para ambas, sin embargo están relacionadas por la equivalencia entre el litro y el decímetro cúbico:
+1 dm3 = 1 litro = 0,001 m3 = 1000 cm3.
+
+
+== Unidades de volumenEditar ==
+Existen multitud de unidades de volumen, que se utilizan dependiendo del contexto o de la finalidad de la medición. En los ámbitos académicos o técnicos se suelen emplear el metro y sus derivados. Para expresar el volumen de sustancias líquidas o gaseosas, e incluso para mercancías a granel, se suele recurrir a la capacidad del recipiente que lo contiene, medida en litros y sus derivados. En ocasiones, cuando la densidad del material es constante y conocida, se pueden expresar las cantidades por su equivalente en peso en lugar de en volumen.
+Muchas de las unidades de volumen existentes se han empleado históricamente para el comercio de mercancías o para el uso diario. Aún compartiendo el mismo nombre, muchas unidades varían significativamente de una región a otra.
+
+
+=== Sistema InternacionalEditar ===
+En el sistema internacional de unidades la unidad de volumen es el metro cúbico. Algunos de los múltiplos y submúltiplos usuales del metro cúbico son los siguientes:
+La unidad más utilizada para medir el volumen de líquidos o recipientes, es el litro. El litro está admitido en el S.I. aunque estrictamente no forma parte de él.
+
+
+=== Sistema anglosajón de medidasEditar ===
+Las unidades de volumen en el sistema anglosajón de unidades se derivan de las respectivas unidades de longitud, como la pulgada cúbica, el pie cúbico, la yarda cúbica, el acre-pie o la milla cúbica. Para medir el volumen de líquidos, las unidades de capacidad más extendidas son el barril, el galón y la pinta, y en menor medida la onza líquida, el cuarto, el gill, el minim o el escrúpulo líquido.
+
+
+=== Otras unidadesEditar ===
+A lo largo de la historia, se han utilizado diferentes unidades de volumen que varían de una cultura a otra. En general, en casi todas ellas existían dos tipos de medida de volumen: para líquidos y para sólidos. Incluso el sistema métrico decimal original las definió como unidades diferentes: el litro (igual a 1 dm3) para líquidos y el estéreo (igual a 1 m3) para sólidos.
+En la Grecia Antigua se utilizaban el dracma líquido o la metreta. En la antigua Roma se utilizaban medidas como el ánfora, el sextario o la hemina. En el antiguo Egipto la medida más utilizada era el heqat. En Castilla, se usaban unidades tradicionales como la arroba, la cántara, el celemín o la fanega, algunas de las cuales permanecen en uso hoy en día.
+En el ámbito culinario, especialmente en los países anglosajones y los que están bajo su influencia, es habitual utilizar medidas de volumen dependientes de los distintos recipientes de uso frecuente, pero sin una definición precisa, como la cucharada, la cucharadita o la taza. Esta costumbre proviene de la falta de medidores de peso (balanzas) de suficiente precisión, tales como las que ahora existen.
+En medicina y en enfermería el volumen de una gota está definido con un diámetro estandarizado (1 mililitro son aproximadamente 20 gotas).
+
+
+== Volumen de figuras simplesEditar ==
+La siguiente tabla muestra la expresión matemática que relaciona el volumen con las dimensiones de figuras geométricas comunes:
+El volumen de un paralelepípedo es el valor absoluto del triple producto escalar de los vectores correspondientes a tres aristas concurrentes, y es equivalente al valor absoluto del determinante de la matriz que forman los tres vectores.
+
+
+== Definición matemáticaEditar ==
+
+
+=== Espacios euclidianosEditar ===
+Matemáticamente, el volumen de una región del espacio euclídeo es la cantidad de espacio tridimensional obtenida por triple integración del elemento diferencial de volumen extendida a dicho dominio. Así el volumen de un cuerpo o región tridiomensional  viene dado por:
+
+donde  es la función característica de la región R:
+
+Dicha noción se puede generalizar a espacios de dimensiones superiores (véase hipervolumen).
+
+
+=== Variedades riemannianasEditar ===

@@ -1,0 +1,18 @@
+În astronomie, legile lui Kepler descriu mișcările planetelor în jurul soarelui (sau stelei sistemului solar respectiv) și în general comportamentul oricărui sistem de două corpuri între care acționează o forță invers proporțională cu pătratul distanței. Aceste legi nu sunt valabile decât în cadrul mecanicii newtoniene.
+Cele trei legi au fost enunțate la începutul secolului al XVII-lea de astronomul german Johannes Kepler, utilizând observațiile făcute de astronomul danez Tycho Brahe asupra orbitei planetei Marte. Primele două legi au fost publicate în 1609 în Astronomia nova, iar cea de-a treia în 1619 în lucrarea Harmonices mundi. Aceste teze au dus la ruperea definitivă de credința ce durase timp de secole, conform căreia planetele s-ar fi mișcat în jurul soarelui pe traiectorii circulare.
+
+
+== Prima lege ==
+Enunțul primei legi este următorul: „Planeta se mișcă în jurul stelei pe o orbită eliptică, în care steaua reprezintă unul din focare.”
+Astronomii, începând de la Ptolemeu până la Nicolaus Copernic, credeau că planetele se mișcă pe traiectorii circulare sau traiectorii care pot fi obținute din suprapunerea mai multor traiectorii circulare. Johannes Kepler, în 1609, a infirmat această presupunere. După studiul materialelor rezultate din observațiile minuțioase a lui Tycho Brahe, el a dedus că planetele se mișcă pe traiectorii eliptice.
+
+
+== A doua lege ==
+A doua lege se enunță astfel: „Linia dreaptă care unește planeta cu steaua («raza vectoare a planetei») mătură arii egale în perioade de timp egale sau formulat echivalent viteza areolară a razei vectoare e constantă.”
+Din această lege, numită „a ariilor egale”, rezultă că o planetă se deplasează cu atât mai repede cu cât este mai aproape de stea. În cazul Pământului, raza vectoare mătură într-o secundă o arie de peste 2 miliarde km2.
+
+
+== A treia lege ==
+La 8 martie 1618, Johannes Kepler enunță a treia lege a mișcării planetelor: „Pătratul perioadei de revoluție a planetei, , este proporțional cu cubul semiaxei mari a orbitei, .”
+Aceste legi descriu mișcările planetelor cu o aproximație suficientă în unele calcule, dar adesea sunt necesare modificări care să țină seama de alte efecte. Unele abateri se datorează efectelor reciproce ale gravitației dintre planete, mișcării stelei datorită atragerii planetelor și efectelor relativiste. Aproximația este relativ bună când masa planetei este neglijabilă față de masa stelei.
+Legile lui Kepler

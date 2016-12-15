@@ -1,0 +1,37 @@
+Omloppsbana kallas en elliptisk bana runt ett dominerande gravitationscentrum, sådan att ett föremål som initialt tvingas in i banan med en given hastighet sedan kan fortsätta att följa banan med gravitation som enda påverkande kraft.
+
+
+== Flykthastighet ==
+
+För varje given omloppsbana finns det en hastighet som ett föremål i banan måste hålla. Om ett föremål ligger i banan men rör sig för sakta kommer det att tappa höjd och gå in i en lägre bana, och om det rör sig snabbare kommer det att fortsätta ut i rymden i en högre bana.
+
+
+== Typer ==
+Beroende på banans parametrar kan den klassificeras i olika typer:
+
+
+=== Höjder ===
+Låg omloppsbana runt jorden, är en omloppsbana som har en max höjd på 2 000 km.
+Medium omloppsbana runt jorden, är en omloppsbana som har en minimi höjd på 2 000 km och en max höjd på 35 786 km.
+Geosynkron och Geostationär omloppsbana runt jorden, är två omloppsbanor på en exakt höjd av 35 786 km.
+Hög omloppsbana runt jorden, är en omloppsbana med minimi höjd av 35786 km.
+
+
+=== Låg omloppsbana ===
+
+Låg omloppsbana eller LEO (från engelskans "Low Earth Orbit") har lägsta höjd på 160 kilometer och högsta höjd på 2000 kilometer från jordytan. Internationella rymdstationen finns här liksom merparten av alla satelliter.
+
+
+=== Geostationär bana ===
+
+Geostationära eller geosynkrona banor är cirkulära omloppsbanor som kretsar i ekvatorplanet med samma omloppstid som planetens rotationstid. Den kombinerade effekten blir att föremålet verkar "sväva" över samma fläck över ekvatorn. Denna typ av banor är vanlig hos telekommunikations- och väderlekssatelliter där det är viktigt att satelliten befinner sig på samma position relativt Jorden.
+
+
+=== Polär bana ===
+
+Polära banor är omloppsbanor där föremålet färdas huvudsakligen över polerna, snarare än över ekvatorn. Dessa banor är vanliga hos rymdfarkoster där man vill kunna observera hela planetens yta, som till exempel spionsatelliter. Om banans omloppstid inte är en jämn multipel av planetens rotationstid, kommer varje "svep" som banan gör att gå över en annorlunda del av planetytan. Så småningom leder detta till att hela planetytan överflygs. Rymdsonden Magellan hade en högt excentrisk polär omloppsbana runt Venus, ifrån vilken den kartlade över 98% av planetens yta med radar.
+
+
+==== Solsynkron bana ====
+
+Solsynkrona banor är speciella polära banor som används när man vill att rymdfarkosten skall genomföra fotografisk observation. Genom exakt vinkling a

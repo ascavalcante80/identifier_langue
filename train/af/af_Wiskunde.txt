@@ -1,0 +1,107 @@
+Wiskunde word algemeen gedefinieer as die studie van patrone in strukture, verandering en ruimte; meer informeel gestel, kan 'n mens sê dat dit die studie van 'getalle en syfers’ is. Uit die formele oogpunt gesien is dit die ondersoek van aksiomaties gedefinieerde abstrakte strukture deur gebruik te maak van simboliese logika en wiskundige notasie; ander uitgangspunte word in die Filosofie van wiskunde bespreek. Wiskunde kan gesien word as 'n eenvoudige uitbreiding van gesproke en geskrewe tale, met 'n uiters presies gedefinieerde woordeskat en taalstruktuur met die doelwit om fisiese en konsepsuele vergelykings te ondersoek.
+Alhoewel wiskunde self nie gewoonlik beskou word as 'n natuurwetenskap nie, het die spesifieke strukture wat deur wiskundiges ondersoek word dikwels hulle oorsprong in die natuurwetenskappe en meer algemeen in fisika. Wiskundiges definieer en ondersoek egter ook strukture wat suiwer van interne belang tot wiskunde as vakgebied is, omdat die strukture sodoende verkry, 'n verenigde veralgemening vir verskeie vertakkinge kan verskaf of 'n nuttige gereedskap kan wees vir algemene berekeninge. Laastens bestudeer baie wiskundiges gebiede vir suiwer estetiese redes en beskou hulle wiskunde as 'n kunsvorm eerder as 'n praktiese of toegepaste wetenskap. Gauss het na die vak verwys as die `Koningin van die Wetenskappe’. Einstein het opgemerk dat "hoeveel die wette van wiskunde na die werklikheid verwys is onseker, en sover hulle seker is verwys hulle nie na die werklikheid nie".
+
+
+== Oorsig en geskiedenis van wiskunde ==
+Sien die artikel oor die geskiedenis van wiskunde vir besonderhede.
+Die woord 'wiskunde’ is die selfde as die Nederlandse woord vir die vak en het sy oorsprong uit die term wisconst (kuns van die gewisse of sekere) wat Simon Stevin in die 17de eeu aan die vakgebied toegeken het.
+Die hoofvertakkinge van wiskunde het ontstaan uit die behoefte om berekeninge in die handel te doen om landmeting te doen en om sterrekundige gebeure te voorspel.
+Die studie van struktuur begin met getalle, eerstens met die bekende natuurlike getalle en heelgetalle en hul rekenkundige bewerkings, wat beskryf word in elementêre algebra. Die besondere eienskappe van heelgetalle word bestudeer in getalteorie. Die ondersoek na metodes om vergelykings op te los lei tot die veld van abstrakte algebra, wat onder andere die ring (wiskunde)- en liggaam (wiskunde)strukture bestudeer wat die algemene eienskappe van die bekende getalle beskryf. Die fisies belangrike begrip van vektore word veralgemeen na vektorruimtes en bestudeer deur lineêre algebra wat tot die twee vertakkinge van struktuur en ruimte behoort.
+Die studie van ruimte vind sy oorsprong in meetkunde, eerstens in Euklidiese meetkunde en driehoeksmeting van die bekende driedimensionele ruimte en later dan ook veralgemeen deur nie-Euklidiese meetkunde wat 'n sentrale rol speel in algemene relatiwiteit. Baie ou vraagstukke rondom maatstaf en kompas konstruksie is finaal beantwoord deur Galois se teorie. Die moderne velde van differensiaalmeetkunde en algebrïese meetkunde veralgemeen meetkunde in verskillende rigtings: Differensiaalmeetkunde beklemtoon die begrippe van funksies, veselbondels, afgeleides, gladde funksies en rigting, terwyl algebraïse meetkunde meetkundige voorwerpe beskryf as stelle oplossings vir polinomiaalvergelykings. Groepteorie ondersoek die begrip van simmetrie op 'n abstrakte wyse en verskaf 'n skakel tussen die studies van ruimte en struktuur. Topologie verbind die stuide van ruimte en die studie van verandering deur op die begrip van kontinuiteit te fokus.
+Die verstaan en beskrywing van die verandering in meetbare hoeveelhede is die algemene trant van die natuurwetenskappe, en analise (wiskunde) is ontwikkel as nuttige gereedskap om dit te doen. Die sentrale begrip wat gebruik word om 'n veranderende veranderlike te beskryf is die begrip van 'n funksie. Baie probleme lei natuurlik tot verbande tussen 'n hoeveelheid en sy tempo van verandering en die metodes om hierdie probleme op te los word bestudeer in die veld van differensiaalvergelykings. Die getalle wat gebruik word om kontinue hoeveelhede voor te stel is die reële getalle en die gedetailleerde studie van hulle eienskappe en die eienskappe van reëlwaarde funksies staan bekend as reële analise. Vir verskeie redes is dit gerieflik om komplekse getalle te skep en die studie van hierdie getalle word komplekanalise genoem. Funksionaalanalise fokus op die (tipies beperkte dimensionele) ruimtes van funksies, wat die grondslag vorm van kwantum meganika en vele ander vertakkinge. Baie natuurverskynsels kan beskryf word deur dinamiese stelsels en chaosteorie wat gemoeid is met die feit dat baie van hierdie stelsels onvoorspelbare dog bepaalbare eienskappe vertoon.
+In 'n poging om die grondslag van wiskunde helder te maak en te ondersoek is die velde van versamelingsleer, wiskundige logika en modelteorie ontwikkel.
+Toe rekenaars vir die eerste keer bedink is, is verskeie noodsaaklike teoretiese begrippe gevorm deur wiskundiges, wat gelei het tot die velde van berekenbaarheidsteorie, kompleksiteitsteorie, inligtingsteorie en algoritmiese inligtingsteorie. Baie van hierdie vraagstukke word nou ondersoek in teoretiese rekenaarwetenskap. Diskrete wiskunde is die algemene naam vir die vertakkinge van wiskunde wat nuttig is in rekenaarwetenskap.
+'n Belangrike veld in toegepaste wiskunde is statistiek wat waarskynlikheidsteorie as hulpmiddel gebruik en maak dit moontlik om verskynsels te beskryf, te analiseer en te voorspel en word deur alle wetenskappe gebruik. Numeriese analise ondersoek die metodes waarmee verskeie wiskundige probleme doeltreffend op rekenaars opgelos kan word en neem afrondingsfoute in ag.
+
+
+== Onderwerpe in wiskunde ==
+'n Alfabetiese en onderverdeelde lys van wiskundige onderwerpe is beskikbaar. Die volgende lys van ondervertakkings en onderwerpe is een organisatoriese oorsig van wiskunde.
+
+
+=== Hoeveelhede ===
+Oor die algemeen stel hierdie onderwerpe en idees uitdruklike metings en groottes van getalle of versamelings, of maniere om sulke mates te vind voor.
+Getal – Natuurlike getal – Pi – Heelgetalle – Rasionale getalle – Reële getalle – Komplekse getalle – Hiperkomplekse getalle – Kwarternêre – Oktoniese – Sedeniese – Hiperreële getalle – Surreële getalle – Ordinale getalle – kardinale getalle – p-adiese getalle – Heelgetalreekse – Wiskundige konstantes – Syfername – Oneindigheid – Basis
+
+
+=== Verandering ===
+Hierdie onderwerpe verskaf maniere om verandering in wiskundige funksies en veranderinge tussen getalle te meet.
+Rekenkunde – Analise – Vektoranalise – Analise – Differensiaalvergelykings – Dinamiese stelsels en chaosteorie – Lys van funksies
+
+
+=== Struktuur ===
+Hierdie vertakkinge van wiskunde meet die grootte en simmetrie van getalle en verskeie konstruksies.
+Abstrakte algebra – Getalteorie – Algebraïse meetkunde – Groepteorie – Monoïde – Analise – Topologie – Lineêre algebra – Grafiekteorie – Universele algebra – Kategorie teorie – Ordeningsteorie
+
+
+=== Ruimte ===
+Hierdie onderwerpe neig tot 'n meer visuele aanslag as die ander wiskundige onderwerpe te neem.
+Topologie – Meetkunde – Driehoeksmeting – Algebraïse meetkunde – Differensiaalmeetkunde – Differensiaaltopologie – Algebraïse topologie – Lineêre algebra – Fraktaalmeetkunde
+
+
+=== Diskrete wiskunde ===
+Onderwerpe in diskrete wiskunde is gemoeid met die vertakkinge van wiskunde met voorwerpe wat slegs spesifieke, onderskeibare waardes kan aanneem.
+Kombinatorika – Naïwe versamelingsteorie – Waarskynlikheid – Teorie van berekenbaarheid – Eindige wiskunde – Kriptografie – Grafiekteorie – Spelteorie – Kriptologie
+
+
+=== Toegepaste wiskunde ===
+Velde in toegepaste wiskunde pas wiskundige kennis op die werklike wêreld toe.
+Meganika – Numeriese analise – Optimisasie – Waarskynlikheid – Statistiek – Finansiële wiskunde
+
+
+=== Beroemde stellings en vermoedes ===
+Hierdie stellings het beide wiskundiges en nie-wiskundiges al geïnteresseer.
+Stelling van Pythagoras – Fermat se laaste stelling – Goldbach se vermoede – Tweelingpriem-vermoede – Gödel se onvolledigheidstellings – Poincaré-vermoede – Cantor se diagonaalargument – Vierkleur-stelling – Zorn se lemma – Euler se identiteit – Scholz-vermoede – Church-Turing-veronderstelling
+
+
+=== Belangrike stellings en vermoedes ===
+Hierdie stellings en vermoedes het die voorkoms van wiskunde in die geskiedenis verander.
+Riemann-vermoede – Kontinuumvermoede – P=NP – Pythagoras se teorie – Sentrale limiet-stelling – Fundamentele stelling van analise – Fundamentele stelling van algebra – Fundamentele stelling van rekenkunde – Fundamentele stelling van projeksiemeetkunde – klassifikasie stelling van vlakke – Gauss-Bonnet stelling
+
+
+=== Grondbeginsels en metodes ===
+Hierdie onderwerpe behels die benadering to wiskunde en beïnvloed die manier waarop wiskundiges hul vak bestudeer.
+Filosofie van Wiskunde – Wiskundige intuïsie – Wiskundige konstruktivisme – Grondbeginsels van Wiskunde – Versamelingsteorie – Simboliese logika – Modelteorie – Kategorieteorie – Logika – Truwaartse Wiskunde – Tabel van wiskundige simbole
+
+
+=== Geskiedenis en die wêreld van wiskundiges ===
+Geskiedenis van Wiskunde – Wiskundige tydlyn – Wiskundiges – Fields medalje – Abelprys – Millenniumprys probleme – Internasionale Wiskundige Vereniging – Wiskunde kompetisies – Laterale denke – Wiskundige vermoeëns en geslagsaangeleenthede
+
+
+=== Wiskunde en ander vakgebiede ===
+Wiskunde en argitektuur – Wiskunde en opvoeding – Wiskunde van musiekskale
+
+
+=== Wiskundige toevallighede ===
+Lys van wiskundige toevallighede
+
+
+== Wiskundige gereedskap ==
+Oud:
+Abakus
+Napier' se bene, Skuifliniaal
+Maatstok en Kompas
+Hoofrekeninge
+Nuut:
+Sakrekenaar en rekenaars
+Programmeringstale
+Rekenaar algebra stelsels (lys)
+Internet snelskrif notasie
+statistiese analise sagteware
+SPSS
+SAS
+R
+
+
+== Aanhalings ==
+Met verwysing tot die aksiomatiese metode, waar sekere eienskappe van 'n (andersins onbekende) struktuur aanvaar word en die gevolge daarvan dan logies afgelei word, het Bertrand Russell gesê:
+Wiskunde mag gedefinieer word as die vak waar ons nooit weet waaroor ons praat nie, of weet dat wat ons sê waar is nie.
+Dit mag verduidelik waarom John Von Neumann eenkeer gesê het:
+In wiskunde verstaan jy nie dinge nie. Jy raak net gewoond aan hulle.
+Oor die skoonheid van Wiskunde het Bertrand Russell in sy Study of Mathematics gesê:
+Wiskunde met reg beskou, besit nie net die waarheid nie maar 'n opperste skoonheid \u2013 'n skoonheid koud en hard soos die van 'n beeld, sonder om ag te slaan op ons swakker natuur, sonder die prag van skilder of musiek, dog met verhewe suiwerheid en in staat tot 'n streng volmaaktheid soos slegs die beste kuns kan toon. Die ware gees van blydskap, van vervoering, die gewaarwording van meer te wees as net 'n mens, wat die toetsteen vir die hoogste uitnemendheid is, is te vinde in wiskunde so seker as wat dit in digkuns gevind kan word.
+Met die toelig van die simmetrie tussen die kreatiewe en logiese aspekte van wiskunde het W.S. Anglin in Mathematics and History opgemerk:
+Wiskunde is nie 'n versigtige mars op 'n goed skoongeveegde hoofpad nie, maar 'n reis na 'n vreemde wildernis, waar die ontdekkingsreisigers dikwels verlore raak. Deeglikheid moet vir die historikus 'n sein wees dat die kaarte getrek is en dat die ware ontdekkers elders heen is.
+
+
+== Wiskunde is nie ... ==
+Wiskunde is nie numerologie nie. Alhoewel numerologie modulêre rekenkunde gebruik om name en datums af te breek na enkelsyfer getalle, ken numerologie arbitrêre emosies en eienskappe aan getale toe son

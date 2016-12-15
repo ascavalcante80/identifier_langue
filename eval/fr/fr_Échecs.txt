@@ -1,0 +1,132 @@
+ Il fut remporté par le programme soviétique Kaissa.
+En 1995, IBM n'hésite pas à investir dans le projet Deep Blue, dont la seconde mouture, en 1997, sera la première machine à battre un champion du monde dans des conditions normales de jeu (à cette époque, les ordinateurs étaient déjà redoutables en partie rapide). Kasparov contestera néanmoins la valeur de cette victoire en soulignant que, contrairement aux conditions d'un match de championnat du monde contre un humain, il n'avait pas eu accès aux parties disputées par l'ordinateur auparavant pour sa préparation (la réciproque étant fausse). Il relève de plus qu'une intervention humaine a été nécessaire en cours de match afin que la machine ne reproduise pas certaines erreurs des premières parties. Kasparov exigea une revanche qui lui fut refusée par IBM. Depuis, les affrontements entre les meilleurs joueurs mondiaux et les machines (Kasparov contre Deep Junior, Kramnik contre Deep Fritz, Kasparov contre X3D Fritz) ont pris le relais d'un championnat du monde défaillant dans les médias. On peut remarquer à ce sujet que, contrairement à Deep Blue, les logiciels opposés aux humains sont des programmes commerciaux tournant sur des micro-ordinateurs standard (alors que Deep Blue fonctionnait sur une machine plus puissante).
+Depuis la victoire de Deep Blue, le statut des échecs en tant que défi informatique s'est amoindri, et l'attention des programmeurs s'est reportée sur le go. En effet, dans ce cas, la puissance de calcul qui fait la force des machines joue un rôle moins important face à la stratégie et la capacité d'évaluation d'une position, plus complexes à modéliser.
+Pourtant l'exception Hydra a refait parler des superordinateurs dédiés au jeu d'échecs en juin 2005, en battant le grand maître international et 7e mondial Michael Adams, sur un score sans appel de 5,5 points contre 0,5.
+En décembre 2006, le champion du monde Kramnik s'est fait battre par le nouveau logiciel Deep fritz 2006 4 à 2 (2 défaites, 4 nulles).
+
+
+=== Programmes de résolution de problèmes ===
+De nombreux programmes ont également vu le jour pour vérifier la correction d'un problème d'échecs. Lorsqu'un problème a été vérifié par ordinateur, cela est mentionné sur le diagramme par le symbole « C+ ».
+
+
+== Symbolique des échecs ==
+Très rapidement après leur arrivée en Europe, les échecs acquièrent un statut particulier. Divertissement de l'élite, ils représentent une activité noble au cours de laquelle s'affrontent les esprits des participants. Les possibilités quasi-infinies offertes par le jeu fascinent et donnent naissance à de nombreuses interprétations ésotériques. Certains le considèrent notamment comme une représentation du monde où chaque situation peut être modélisée en une position qui peut trouver sa solution sur l'échiquier.
+Les échecs sont surnommés « le roi des jeux », et ce statut particulier rend toute tentative de mécanisation extraordinaire. Si les premiers automates joueurs d'échecs comme le turc mécanique, sont des mystifications, la capacité à jouer aux échecs sera l'un des premiers objectifs des concepteurs d'ordinateurs et l'un des premiers témoignages de l'apparition de ce qui est alors considéré comme de l'intelligence artificielle. C'est cette perception du jeu d'échecs comme expression de l'intelligence humaine qui dramatise les affrontements entre Gary Kasparov et la machine Deep Blue. La défaite du champion de l'espèce humaine marque alors fortement les esprits.
+Le jeu d'échecs symbolise fréquemment l'affrontement de deux psychés, deux capacités intellectuelles. Cette dimension encourage l'Union soviétique à se doter d'une école d'échecs qui forme pendant un demi-siècle tous les champions du monde. C'est également un aspect fréquemment utilisé dans l'art populaire pour figurer l'opposition, et parfois la séduction, entre deux personnages.
+
+
+== Arts et culture ==
+
+De nombreux tableaux, sculptures, films et photographies mettent en scène le jeu d'échecs,,.
+
+
+=== Poésie ===
+
+Les deux plus anciens poèmes sur les échecs sont en latin :
+Schaccia ludus, publié en 1527 par Marco Girolamo Vida, expose les règles du jeu de l'époque et met en scène une partie, arbitrée par Jupiter, opposant Phœbus à Mercure.
+Caïssa, écrit en hexamètres latins par William Jones en 1763, a consacré la dryade mythique comme déesse du jeu d'échecs.
+
+
+=== Littérature ===
+Plusieurs livres de fiction utilisent le jeu d'échecs comme élément important de l'histoire. Parmi eux, deux se distinguent en mettant le jeu au centre de l'intrigue : Le Joueur d'échecs, de Stefan Zweig, et La Défense Loujine, de Vladimir Nabokov.
+Le Joueur d'échecs, nouvelle de Stefan Zweig, a pour sujet l'affrontement d'un joueur particulièrement doué, qui a appris seul à jouer aux échecs, seule façon pour lui de garder son esprit alerte alors qu'il était emprisonné en isolement total sous le régime nazi, et du champion du monde fictif de l'époque, homme particulièrement vulgaire et inculte. Le personnage principal finit par abandonner le match pour ne pas sombrer dans la folie.
+La Défense Loujine raconte la vie de Loujine, joueur d'échecs russe fictif qui arrive au plus haut niveau et que l'excès de jeu d'échecs conduit, lui aussi, à la folie. Le roman est particulièrement acclamé par la critique pour la façon dont il dépeint l'univers intérieur du joueur d'échecs, ce qui se passe dans son esprit pendant qu'il réfléchit.
+Certains romans utilisent les échecs comme élément de la trame de fond. Ainsi, l'intrigue du Tableau du maître flamand, d'Arturo Pérez-Reverte, s'explique par une analyse rétrograde, et celle de La ville est un échiquier par la liste des coups d'une partie Steinitz-Tchigorine. Dans L'Échiquier du mal, de Dan Simmons, les personnages capables de « dominer » d'autres personnages les utilisent pour jouer une partie d'échecs vivante. La nouvelle Un combat, de Patrick Süskind, relate une partie où le gagnant n'est pas celui qu'on pense, illustrant l'importance de la psychologie dans le jeu. Dans La Joueuse d'échecs, de Bertina Henrichs, une modeste femme de ménage grecque découvre la puissance du jeu d'échecs.
+D'autres livres entrent également dans cette catégorie, comme 5150 rue des Ormes de Patrick Senécal, La ville est un échiquier de John Brunner, Le Huit de Katherine Neville, Le Gambit des étoiles de Gérard Klein, Fous d'échecs de Serge Rezvani.
+En bande dessinée, le manga français Zeitnot, de Ed Tourriol et Eckyo, se déroule dans le milieu des clubs d'échecs lycéens.
+Le jeu d'échecs est également mentionné pour son pouvoir évocateur dans de nombreux livres, comme De l'autre côté du miroir, où Alice participe à une partie « grandeur nature » ; Le Neveu de Rameau de Denis Diderot, où, dans l'incipit, Diderot fait référence au Café de la Régence et à ses joueurs d'échecs de l'époque, notamment Legal (connu pour son mat) et Philidor (connu pour la défense du même nom). Isaac Asimov a mis en scène les échecs dans plusieurs de ses romans et nouvelles, notamment Cailloux dans le ciel où ce jeu est présenté comme une des rares choses qui n'ont pas changé au cours des millénaires. Balzac, dans Le Bal de Sceaux, décrit l'habileté aux échecs comme une qualité louable chez un gentilhomme.
+On peut également citer Fin de partie (Endgame de son titre original), pièce de théâtre écrite par Samuel Beckett, amateur d'échecs. Le titre de cette pièce renvoie au jeu d'échecs et de nombreuses références subtiles y sont faites par le biais des actes, des rôles et des positions des personnages : déplacements de Clov lors de la scène d'ouverture ; position centrale de Hamm (personnage tyrannique dont le fauteuil roulant apparait vite comme un trône), évoquant là encore la position du roi d'échecs.
+Dans le livre Le Trésor de la Guerre d'Espagne, Serge Pey décrit une partie d'échecs jouée par les membres d'une société secrète portant un hippocampe tatoué sur leurs poignets en hommage au déplacement du cavalier. Dans cette nouvelle, les héros procèdent à une partie aveugle s'effectuant uniquement avec le parfum de verres remplis d'alcool différents. Dans un autre chapitre du même livre Serge Pey décrit une partie en morse effectuée dans une prison chilienne, sous la dictature de Pinochet.
+Dans la nouvelle Strange Eden (« Étrange Eden ») de Philip K. Dick, la jeune femme extraterrestre que rencontre Brent lui propose une partie d'échecs; puis elle lui apprend que c'est son peuple qui l'aurait introduit chez les brahmanes.
+Dans le recueil de nouvelles Fantômes et Farfafouilles de Fredric Brown, La nouvelle l'hérésie du fou est en fait une partie d'échecs vue par un fou d'échecs (bishop en anglais). Tout le long de la narration en point de vue interne, une atmosphère de guerre moyenâgeuse s'impose à l'esprit du lecteur.
+Dans le roman L'Ultime Secret de Bernard Werber Isidore et Lucrèce enquêtent sur l'étrange mort de Samuel Fincher, génie du jeu d'échecs ayant vaincu le meilleur ordinateur à ce jour.
+Dans la nouvelle Double assassinat dans la rue Morgue d'Edgar Allan Poe, le jeu d'échecs apparaît également, mais est comparé négativement au jeu de dames anglais.
+
+
+=== Cinéma ===
+
+Le premier film réalisé autour de la thématique du jeu d'échecs est La Fièvre des échecs, de Vsevolod Poudovkine, tourné pendant le tournoi de Moscou de 1925. D'autres films sont situés dans le monde des échecs de compétition, comme La Diagonale du fou, de Richard Dembo, inspiré des matches de championnat de monde entre Karpov et Kortchnoï ; À la recherche de Bobby Fischer, de Steven Zaillian, inspiré de la vie de Josh Waitzkin ; La Partie d'échecs, d'Yves Hanchar.
+Le dernier film en date, Le Prodige (2015), est un film biographique dont le personnage central est Bobby Fischer, interprété par Tobey Maguire. Ce film, réalisé par Edward Zwick, est centré sur l'affrontement du champion américain avec le Soviétique Boris Spassky (joué par Liev Schreiber) et la montée de sa folie.
+D'autres films utilisent le jeu d'échecs de façon métaphorique, comme Le Septième Sceau, d'Ingmar Bergman, où le chevalier propose une partie d'échecs à la Mort en espérant retarder l'échéance fatidique ; Les Joueurs d'échecs, de Satyajit Ray ; ou en tant que support de l'intrigue, comme le thriller Face à face, de Carl Shenkel.
+Certains des romans cités ci-dessus ont également été adaptés en films, comme La Défense Loujine, de Marleen Gorris, et Joueuse, de Caroline Bottaro, dont le scénario est inspiré de La Joueuse d'échecs, transposé en Corse avec Sandrine Bonnaire.
+Il existe aussi des films d'animation mettant en scène les échecs, comme Geri's Game, court-métrage d'animation produit et réalisé par les studios Pixar.
+D'autres films sont en rapport avec les échecs, par exemple La légende de Zatoïchi: Voyage en Enfer de Kenji Misumi, L'Échiquier de la passion de Wolfgang Petersen, Jouer sa vie de Gilles Carle.
+On peut également noter de nombreuses apparitions du jeu d'échecs dans des films où sa présence n'est pas un ressort dramatique mais plutôt de l'ordre du symbole. Ainsi, dans Bons baisers de Russie, le méchant est un génie des échecs et de la stratégie et travaille pour le SPECTRE contre James Bond. Dans K, d'Alexandre Arcady, les deux personnages principaux sont liés par leur goût des échecs.
+Le jeu d'échecs comme symbole de l'intelligence humaine est repris dans Blade Runner, de Ridley Scott, où le répliquant met son créateur échec et mat, et dans 2001, l'Odyssée de l'espace, de Stanley Kubrick, grand amateur d'échecs, où le super-ordinateur CARL (HAL 9000) l'emporte sur l'astronaute David Bowman.
+Dans Harry Potter à l'école des sorciers, de Chris Columbus, Ronald Weasley joue avec Harry aux échecs version sorcier, avec des pièces animées par magie, puis doit diriger une partie d'échecs contre des pièces grandeur nature, l'une des épreuves à affronter avant d'accéder à la pierre philosophale.
+Magnéto et le professeur Charles-Xavier, les principaux antagonistes de la saga X-Men, s'affrontent régulièrement aux échecs. C'est notamment le cas dans X-Men 2, où les deux personnages jouent dans la cellule de Magnéto. Le film X-Men : L'Affrontement final se clôt sur une partie d'échecs que Magnéto joue seul.
+Dans L'Affaire Thomas Crown, de Norman Jewison, le suspect et celle qui le traque s'affrontent et se séduisent au cours d'une partie. Le personnage joué par Faye Dunaway fait perdre ses moyens au personnage joué par Steve McQueen en le provoquant par différents gestes et poses langoureux.
+Citons enfin Les Visiteurs du soir de Marcel Carné ; Revolver, de Guy Ritchie ; Whatever Works de Woody Allen, où le personnage principal, un intellectuel surdoué et misanthrope, abandonne son emploi de professeur de physique pour enseigner les échecs.
+Dans Sherlock Holmes : Le Jeu des Ombres de Guy Ritchie, on retrouve à plusieurs reprises un motif d'échiquier en noir et blanc afin d'illustrer la lutte intellectuelle entre Sherlock Holmes et le Professeur Moriarty. D'ailleurs, le climax mène à une partie d'échecs entre les deux personnages.
+
+
+=== Musique ===
+Le ballet Checkmate (échec et mat) a été écrit par le compositeur britannique Arthur Bliss en 1937 et met en scène les pièces échiquéennes jusqu'à l'assaut final du roi noir.
+Avec son tableau Chess Piece (1944), l'américain John Cage allie peinture, musique et échecs puisqu'il s'agit d'une partition peinte sur la représentation d'un échiquier.
+L'album E2-E4 (1984) du musicien allemand Manuel Göttsching emprunte son titre à l'ouverture du pion-roi.
+La comédie musicale Chess (1986), sur une musique de Björn Ulvaeus et Benny Andersson (anciens membres d'ABBA) et des paroles de Tim Rice, met en scène un triangle amoureux entre deux participants à un championnat du monde d'échecs et une femme qui tente de séduire l'un et tombe amoureuse de l'autre.
+
+
+=== Tradition médiévale ===
+La ville de Marostica, Italie, organise une partie d'échecs sur la place publique, avec des personnages vivants costumés qui tiennent lieu de pièces. Cette coutume remontre à 1454. Deux gentilshommes, Rinaldo d'Angarano et Vieri da Vallonara, étaient tous deux amoureux de Lionora, fille du seigneur de Marostica. Ils voulaient s'affronter en duel. Mais le pacifique seigneur leur proposa de s'affronter plutôt au jeu d'échecs. La place publique dallée de pierres alternativement noires et bistre tenait lieu d'échiquier. Le gagnant épouserait la belle Lionora ; le perdant, sa sœur cadette. Le spectacle se déroule au mois de septembre les années paires avec 550 figurants. Pour l'occasion, on recouvre l'échiquier de carrés de tissu,.
+
+
+== Notes et références ==
+
+
+=== Références issues du Guide des Échecs ===
+Livre dont sont issues ces références : Nicolas Giffard et Alain Biénabe, Le Guide des Échecs : Traité complet, Bouquins,‎ 30 mars 1993, 1591 p. (ISBN 978-2-221-05913-5).
+
+
+=== Autres notes et références ===
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Lexique du jeu d'échecs
+Règles du jeu d'échecs
+Notation algébrique
+Échecs par correspondance
+Le Palamède (magazine d'échecs, 1836-1847).
+Fédération internationale des échecs
+Programme d'échecs
+XBoard
+Deep Blue
+Intelligence artificielle
+Partie à l'aveugle
+FICS
+Code ECO et Code ECE
+Shōgi (Jeu d'échecs japonais)
+Xiangqi (Jeu d'échecs chinois)
+
+
+=== Bibliographie ===
+1934 : Xavier Tartakover, Bréviaire des échecs, Stock ; Le Livre de poche, 2003 (ISBN 978-2-253-04620-2)
+
+1967 : François Le Lionnais et Ernst Maget, Dictionnaire des échecs, éd. PUF, 1967.
+1974 : Camil Seneca, Les Échecs, 464 p., Le Livre de poche (ISBN 978-2-253-03090-4)
+
+1981 : Jacques Dexteit et Norbert Engel, Jeu d'échecs et sciences humaines, 296 p., Payot (ISBN 978-2-228-12880-3).
+1997 : Larousse des échecs, Éditions Larousse (ISBN 978-2-03-518207-4).
+1993 : Nicolas Giffard et Alain Biénabe, Le Guide des Échecs : Traité complet, Bouquins,‎ 30 mars 1993, 1591 p. (ISBN 978-2-221-05913-5).
+2000 : Pascal Reysset et Jean-Louis Cazaux, L'Univers des échecs, Éditions Bornemann, Univers du jeu (ISBN 978-2-85182-631-2).
+2002 : Colleen Schafroth, L'Art des échecs, Éditions de la Martinière (ISBN 978-2-7324-2852-9).
+2002 : Thierry Wendling, Ethnologie des joueurs d'échecs, PUF (ISBN 978-2-13-051440-4).
+2005 : Jacques Bernard, Socio-anthropologie des joueurs d'échecs, L'Harmattan, (ISBN 978-2-74-758462-3).
+2005 : Jérôme Maufras, Le jeu d'échecs, Presses universitaires de France, collection Que sais-je (ISBN 978-2-13-054386-2)
+
+2008: Yves Marek, Art, échecs et mat, Actes sud-imprimerie Nationale.
+2009 : Nicolas Giffard et Alain Biénabe, Le nouveau guide des échecs : Traité complet, Robert Laffont,‎ 1er octobre 2009, 1701 p. (ISBN 978-2-221-11013-3).
+2010 : Jean-Louis Cazaux, L'Odyssée des jeux d'échecs, Praxeo,‎ novembre 2010, 367 p. (ISBN 978-2-9520472-8-9).
+
+
+=== Liens externes ===
+(mul) Catégorie jeu d'échecs de l’annuaire DMOZ
+(en) Fédération internationale des échecs
+(fr) Fédération française des échecs
+(fr) (en) Fédération québécoise des échecs
+(en) International Correspondence Chess Federation
+ Portail des échecs
+ Portail des jeux

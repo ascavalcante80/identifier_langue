@@ -1,0 +1,10 @@
+ak 0,1 magnitudo.
+
+
+== Wielkość absolutnaEdytuj ==
+
+Oprócz widomej wielkości gwiazdowej (tzn. takiej jaka jest obserwowana z Ziemi) określana też jest tak zwana absolutna wielkość gwiazdowa. Jest to wielkość, jaką miałoby dane ciało obserwowane z odległości 10 parseków. Można ją obliczyć, jeśli znamy wielkość obserwowaną danego ciała oraz odległość do niego. Pozwala ona na wyeliminowanie czynnika odległości przy porównywaniu jasności gwiazd.
+Dla ciał Układu Słonecznego takich, jak planety, komety i planetoidy, stosuje się zupełnie inną skalę absolutnych wielkości gwiazdowych. Dla tych obiektów określa się ją jako hipotetyczną wielkość gwiazdową, gdy obserwator znajduje się w odległości 1 jednostki astronomicznej od danego obiektu, a miejscem obserwacji jest powierzchnia Słońca (obserwujemy wtedy oświetloną stronę). Absolutna wielkość gwiazdowa tych ciał zależy od ich rozmiarów oraz albedo (zdolności odbijania światła).
+
+
+== Przypisy ==

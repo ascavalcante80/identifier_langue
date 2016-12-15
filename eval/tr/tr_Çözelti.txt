@@ -1,0 +1,6 @@
+Çözeltinin buhar basıncı eğrisi, katı çözücünün buhar basıncı eğrisini daha düşük bir sıcaklıkta keser. Bu nedenle, çözeltinin donma noktası, saf çözücününkinden daha düşüktür. Otomobil radyatörlerinin suyuna eklenen etandiol (glikol) C2H4(OH)2 suyun donma noktasını düşürür. Bu da kışın otomobil motorlarının içlerinde donan su ile çatlamasını önler böyle donma noktasını düşürerek donmayı geciktiren maddelere antifiriz denir.
+Donma noktası düşmesi de çözelti derişimine ve çözücüye bağlıdır. Aşağıdaki bağıntı bu ilişkiyi ifade etmektedir.
+DTf=Kf x m
+m: molalite
+Kf: molal donma noktası düşmesi sabiti
+Çözeltilerde kaynama noktası yükselmesi ve donma noktası düşmesi maddenin türüne bağlı değildir. Bu durum ideal çözeltiler için Çözünen madde miktarına ve bunun çözeltide oluşturacağı (molekül- iyon) sayısına bağlıdır. Çözelti içindeki tanecik sayısı toplamı arttıkça kaynama noktası yükselir, donma noktası düşer.

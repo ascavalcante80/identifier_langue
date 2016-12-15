@@ -1,0 +1,33 @@
+QRpedia je mobilní, na webu založený systém, který využívá QR kódy, aby uživatelům dopravil články z Wikipedie v jejich preferovaném jazyce. QRpedia byla vymyšlena Rogerem Bamkinem, předsedou pobočky Wikimedia UK, a odhalena v dubnu 2011. V současnosti je používána institucemi jako jsou muzea ve Spojeném království, USA a Španělsku. Zdrojový kód projektu je volně použitelný pod licencí MIT.
+
+
+== Proces ==
+Poté, co uživatel naskenuje QRpedia QR kód svým mobilním zařízením, dojde k dekódování kódu na URL (jednotný lokátor zdrojů). Přes doménu qrwp.org je zaslána žádost o článek specifikovaný v adrese. Doručený článek je v jazyce, nastaveném na mobilním zařízení. Pokud není článek dostupný v tomto jazyce, server vyhledá název článku na Wikipedii v relevantním jazyce a vrátí výsledky. Kromě toho QRpedia zaznamenává statistiky.
+
+
+== Původ ==
+
+QRpedia byla vymyšlena Rogerem Bamkinem, tehdejším předsedou pobočky Wikimedia UK, a Terencem Edenem, expertem na mobilní web. Odhalena byla v dubnu 2011 v Derbském muzeu při události Backstage Pass, která byla součástí spolupráce mezi Wikipedií a muzeem. Během této spolupráce vzniklo také přes 1200 článků v různých jazycích.
+
+
+== Realizace ==
+V září 2011 byla technologie využívána těmito institucemi:
+The Children's Museum of Indianapolis, Spojené státy
+Derby Museum and Art Gallery, Anglie
+Fundació Joan Miró, Španělsko
+The National Archives, Spojené království
+
+
+== QRpedia v České republice ==
+V České republice byl systém QRpedia poprvé využit v září 2012 na památkách v Praze 10, které byly zpřístupněny v rámci Dnů evropského dědictví. Radnice se zavázala systém dále rozvíjet na základě návrhů občanů.
+V červnu 2013 byly v rámci Slezské muzejní noci nainstalovány QR kódy v expozici Slezského zemského muzea v Opavě. Po dvouměsíčním zkušebním provozu je plánováno jejich rozšíření.
+V prosinci 2013 se umisťováním tabulek s QR kódy na významná místa inspirovala městská část Plzeň - Slovany. Městský obvod nechal vyrobit tabulky, které instaloval na historické pamětihodnosti, staré budovy, moderní stavby i do městských parků v rámci svého obvodu. Tabulky s QR kódy vzbudily u místních obyvatel velkou vlnu zájmu. Celkem je k 27. listopadu 2013 instalováno 23 tabulek. 
+
+
+== Reference ==
+V tomto článku byl použit překlad textu z článku QRpedia na anglické Wikipedii.
+↑ a b c EDEN, Terence. Introducing QRpedia [online]. [cit. 2011-10-23]. Dostupné online.  (anglicky) 
+↑ qrwp — QR Redirection to Wikipedia [online]. Google Project Hosting, [cit. 2011-10-23]. Dostupné online.  (anglicky) 
+↑ a b BYRD PHILLIPS, Lori. Going Multilingual with QRpedia [online]. Marcus Institute for Digital Education in the Arts, [cit. 2011-10-23]. Dostupné online.  (anglicky) 
+↑ The Children's Museum of Indianapolis Creates New Learning Opportunities through Wikipedian-in-Residence [online]. The Children's Museum of Indianapolis, [cit. 2011-10-23]. Dostupné online.  (anglicky) 
+↑ HINOJO, Alex. QRpedia Codes at Fundació Joan Miró [online]. The GLAM-Wiki Experie

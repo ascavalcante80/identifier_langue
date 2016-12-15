@@ -1,0 +1,14 @@
+ása egyenlő, az A,B-kötésenergia az A,A és B,B kapcsolatok energiáinak számtani középértéke:
+EAB = 1/2 (EAA + EBB)
+Ha az A és B atomok elektronaffinitása eltérő, a mért kötéserősség ?AB értékkel nagyobb:
+E'AB = 1/2 (EAA + EBB) + ?AB
+
+
+== Nevezéktan ==
+Az ion szót Faraday fordította görögből. Egy semleges szóból jött létre, mely „menni”-t jelent. Ez a nevezéktan az ionok azon jellemzőjével magyarázott, miszerint az anionok az anódok, míg a kationok a katódok felé vándorolnak az elektrolízis során. Így az anion szó felfelé menőt, míg a kation szó lefelé menőt jelent. Ebből következik hogy az anód „felhozó”-t, a katód „lehozó”-t jelent (egy úton).
+
+
+== Kapcsolódó szócikkek ==
+Ionizáló sugárzás
+Ionos kötés
+Összetett ion

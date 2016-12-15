@@ -1,0 +1,1 @@
+Hlutmengi er mengi A, sem venslað er öðru mengi B þannig að A hefur öll sín stök sameiginleg með B, táknað A ⊆ B. Öll mengi eru hlutmengi í sjálfu sér og sammengi allra hlutmengja tiltekins mengis er mengið sjálft. Stök veldismengis tiltekins mengis eru öll hlutmengi þess, þ.m.t. tómamengið, sem er hlutmengi í öllum mengjum. Ef mengi A er hlutmengi í B og mengið B 

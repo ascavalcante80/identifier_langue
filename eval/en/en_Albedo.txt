@@ -1,0 +1,42 @@
+ecularly reflected from water does not usually reach the viewer, water is usually considered to have a very low albedo in spite of its high reflectivity at high angles of incident light.
+Note that white caps on waves look white (and have high albedo) because the water is foamed up, so there are many superimposed bubble surfaces which reflect, adding up their reflectivities. Fresh 'black' ice exhibits Fresnel reflection.
+
+
+=== Clouds ===
+Cloud albedo has substantial influence over atmospheric temperatures. Different types of clouds exhibit different reflectivity, theoretically ranging in albedo from a minimum of near 0 to a maximum approaching 0.8. "On any given day, about half of Earth is covered by clouds, which reflect more sunlight than land and water. Clouds keep Earth cool by reflecting sunlight, but they can also serve as blankets to trap warmth."
+Albedo and climate in some areas are affected by artificial clouds, such as those created by the contrails of heavy commercial airliner traffic. A study following the burning of the Kuwaiti oil fields during Iraqi occupation showed that temperatures under the burning oil fires were as much as 10 °C colder than temperatures several miles away under clear skies.
+
+
+=== Aerosol effects ===
+Aerosols (very fine particles/droplets in the atmosphere) have both direct and indirect effects on Earth's radiative balance. The direct (albedo) effect is generally to cool the planet; the indirect effect (the particles act as cloud condensation nuclei and thereby change cloud properties) is less certain. As per  the effects are:
+
+Aerosol direct effect. Aerosols directly scatter and absorb radiation. The scattering of radiation causes atmospheric cooling, whereas absorption can cause atmospheric warming.
+Aerosol indirect effect. Aerosols modify the properties of clouds through a subset of the aerosol population called cloud condensation nuclei. Increased nuclei concentrations lead to increased cloud droplet number concentrations, which in turn leads to increased cloud albedo, increased light scattering and radiative cooling (first indirect effect), but also leads to reduced precipitation efficiency and increased lifetime of the cloud (second indirect effect).
+
+
+=== Black carbon ===
+Another albedo-related effect on the climate is from black carbon particles. The size of this effect is difficult to quantify: the Intergovernmental Panel on Climate Change estimates that the global mean radiative forcing for black carbon aerosols from fossil fuels is +0.2 W m−2, with a range +0.1 to +0.4 W m−2. Black carbon is a bigger cause of the melting of the polar ice cap in the Arctic than carbon dioxide due to its effect on the albedo.
+
+
+=== Human activities ===
+Human activities (e.g. deforestation, farming, and urbanization) change the albedo of various areas around the globe. However, quantification of this effect on the global scale is difficult.
+
+
+== Other types of albedo ==
+Single-scattering albedo is used to define scattering of electromagnetic waves on small particles. It depends on properties of the material (refractive index); the size of the particle or particles; and the wavelength of the incoming radiation.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Official Website of Albedo Project
+Global Albedo Project (Center for Clouds, Chemistry, and Climate)
+Albedo – Encyclopedia of Earth
+NASA MODIS BRDF/albedo product site
+Surface albedo derived from Meteosat observations
+A discussion of Lunar albedos
+reflectivity of metals (chart)

@@ -1,0 +1,3 @@
+Eş Güdümlü Evrensel Zaman (UTC), pek çok ülkede baz alınan medenî ve bilimsel zaman. 1963 yılında kullanılmaya başlanmıştır. UTC, Fransızca Temps universel coordonné ve İngilizce Coordinated Universal Time kavramlarının kısaltmasıdır. Fransızca (TUC) veya İngilizce (CUT) kısaltmaları üzerinde fikir birliği sağlanamadığı için UTC üzerinde karar kılınmıştır.
+UTC, atomik olarak hesaplandığından Güneş zamanına göre hesaplanan GMT ile arasında çok küçük farklılıklar vardır. Ancak bunlar gündelik kullanımı etkilemez.
+Türkiye, Doğu Avrupa Zaman Dilimi'ndedir; bu yüzden Türkiye saati UTC+2, yani UTC'den iki saat ileridedir. Yaz saati uygulaması ile saatlerin bir saat ileri alındığı d

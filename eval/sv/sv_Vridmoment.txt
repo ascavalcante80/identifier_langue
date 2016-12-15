@@ -1,0 +1,17 @@
+h θ1 och θ2 betecknar den initiala respektive slutliga vinkelpositionen för kroppen.
+Effekt är arbete per tidsenhet och kan skrivas som
+
+där P är effekt, τ är vridmomentet, ω är vinkelhastigheten, och · betecknar skalärprodukten.
+
+
+== KraftparRedigera ==
+
+Ett kraftpar (se figur 2) är två parallella lika stora krafter med motsatta riktningar vilka ger upphov till ett vridmoment vars belopp är 2rF. Här är F respektive krafts belopp och r avståndet till axeln. Vridmomentet representeras av en vektor T som är vinkelrät mot kraftplanet (riktningen kan bestämmas med hjälp av högerhandsregeln).
+
+
+== Se ävenRedigera ==
+Moment
+Momentomvandlare
+Tröghetsmoment
+Rörelsemängdsmoment
+Vinkelacceleration

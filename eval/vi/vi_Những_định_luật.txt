@@ -1,0 +1,37 @@
+lượng của nó với gia tốc. (xem các định luật về chuyển động của Newton). Do vậy:
+Mỗi hành tinh bị hút về phía Mặt Trời.
+Lực hấp dẫn tác động lên hành tinh tỷ lệ thuận với khối lượng của nó và tỷ lệ nghịch với bình phương khoảng cách đến Mặt Trời.
+Không chỉ đối với Mặt Trời, ông cũng nêu ra định luật hấp dẫn cho các vật thể khác:
+Mọi vật thể đều hút lẫn nhau.
+Lực hấp dẫn tác dụng giữa hai vật tỷ lệ thuận với tích khối lượng của chúng và tỷ lệ nghịch với bình phương khoảng cách giữa chúng.
+Khi hành tinh có khối lượng rất nhỏ và bỏ qua so với khối lượng Mặt Trời, quỹ đạo của chúng xấp xỉ với quỹ đạo Kepler. Mô hình của Newton tốt hơn mô hình của Kepler và gần sát với quan sát thực tế hơn khi đòi hỏi độ chính xác cao. (xem bài toán hai vật thể).
+Tính toán hiệu chỉnh các tham số quỹ đạo từ các định luật Kepler do ảnh hưởng hấp dẫn của các hành tinh khác được nghiên cứu trong lý thuyết nhiễu loạn.
+
+
+== Xem thêm ==
+Bài toán Kepler
+Chuyển động tròn
+Lực hấp dẫn
+
+
+== Dẫn chứng ==
+
+
+== Tham khảo ==
+Kepler's life is summarized on pages 523–627 and Book Five of his magnum opus, Harmonice Mundi (harmonies of the world), is reprinted on pages 635–732 of On the Shoulders of Giants: The Great Works of Physics and Astronomy (works by Copernicus, Kepler, Galileo, Newton, and Einstein). Stephen Hawking, ed. 2002 ISBN 0-7624-1348-4
+A derivation of Kepler's third law of planetary motion is a standard topic in engineering mechanics classes. See, for example, pages 161–164 of Meriam, J. L. (22 tháng 11 năm 1971). “Dynamics, 2nd ed”. New York: John Wiley. ISBN 0-471-59601-9. .
+Murray and Dermott, Solar System Dynamics, Cambridge University Press 1999, ISBN 0-521-57597-4
+V.I. Arnold, Mathematical Methods of Classical Mechanics, Chapter 2. Springer 1989, ISBN 0-387-96890-3
+
+
+== Liên kết ngoài ==
+B.Surendranath Reddy; minh họa các định luật Kepler: applet
+Crowell, Benjamin, Conservation Laws, sách điện tử trực tuyến có chứng minh định luật thứ nhất mà không sử dụng đến giải tích. (xem phần 5.2, tr 112)
+David McNamara và Gianfranco Vidali, Kepler's Second Law - Java Interactive Tutorial, ứng dụng Java hỗ trợ cho việc hiểu định luật hai Kepler.
+Audio - Cain/Gay (2010) Astronomy Cast Johannes Kepler and His Laws of Planetary Motion
+University of Tennessee's Dept. Physics & Astronomy: Astronomy 161 page on Johannes Kepler: The Laws of Planetary Motion
+Equant compared to Kepler: interactive model
+Kepler's Third Law: interactive model
+Solar System Simulator (Interactive Applet)
+Kepler and His Laws, educational web pages by David P. Stern
+Bản mẫu:Orbits Bản mẫu:Johannes Kepler

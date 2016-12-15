@@ -1,0 +1,40 @@
+In Fisika, kan wringkrag informeel gedefinieer word as 'n krag wat 'n draaiende beweging tot gevolg het. Hierdie krag word gedefinieer as die lineêre krag vermenigvuldig met 'n radius. Die SI-eenheid vir wringkrag is die newton-meter (N m). Die simbool vir wringkrag is τ. Die begrip wringkrag word ook moment in fisika genoem en vind sy oorsprong in Archimedes se werk op hefbome.
+Soortgelyk aan die lineêre begrippe van krag, massa en versnelling kry 'n mens die ooreenstemmende begrippe vir draaiende stelsels naamlik wringkrag, draaimomentum en hoekversnelling respektiewelik. Die krag wat op 'n hefboom aangewend word vermenigvuldig met die afstand vanaf die hefboom se eindpunt staan bekend as die wringkrag. As 'n krag van drie newton aangewend word op 'n afstand van twee meter vanaf 'n hefboom se middelpunt word dieselfde wringkrag aangewend as wanneer 'n krag van een newton ses meter vanaf 'n hefboom se middelpunt aangewend word.
+Die aanname hier is dat die krag loodreg op die hefboom aangewend word. Wiskundig kan die wringkrag op 'n partikel (wat die posisie r in die een of ander verwysingsraamwerk het) gedefinieer word as die kruisproduk:
+
+waar
+r die partikel se posisievektor is
+F die krag wat op die partikel uitgeoefen word is,
+of, meer algemeen kan wringkrag gedefinieer word as die tempo waarteen die hoeksnelheid verander,
+
+waar
+L die hoekmomentumvektor is
+t staan vir tyd.
+Die gevolg van beide hierdie definisies is dat wringkrag 'n vektor is, wat in die rigting van die as van die draaibeweging wat dit sal veroorsaak.
+
+
+== Eenhede ==
+Wringkrag het dimensies van krag vermenigvuldig met afstand en die SI-eenhede van wringkrag word geskryf as "newton meter" (N m of N·m).
+Die joule is die SI-eenheid vir energie of werk en kan ook uitgedruk word as N·m, joule word egter nie gebruik om wringkrag uit te druk nie. Aangesien 'n mens aan energie kan dink as die dotproduk van krag en afstand is energie altyd 'n skalaar terwyl wringkrag die kruisproduk is van krag en afstand en is 'n pseudovektor grootheid.
+Die dimensionele gelykheid van hierdie eenhede is natuurlik nie blote toeval nie; 'n wringkrag van 1 N·m wat deur 'n volle omwenteling toegepas word sal presies 2π joule vereis. Wiskundig kan dit uitgedruk word as,
+waar
+E die energie is
+τ die wringkrag is
+θ die hoek waardeur beweeg is, in radiale
+Ander nie SI-eenhede van wringkrag sluit in "pondkrag-voet" of "voet-pondkrag" of "onskrag-duime" of "meter-kilogramkrag".
+
+
+== Spesiale gevalle en ander feite ==
+
+
+=== Moment-arm formule ===
+
+'n Baie nuttige spesiale geval wat dikwels buite fisika as die definisie van wringkrag gebruik word, is as volg:
+
+Die konstruksie van die "moment-arm" word in die beeld hieronder verduidelik, saam met die vektore r en F hierbo genoem. Die probleem met hierdie definisie is dat dit nie die rigting van die wringkrag aandui nie maar slegs die grootte daarvan en is daarom moeilik om te gebruik in driedimensionele gevalle. As die krag loodreg is ten opsigte van die verplasingsvektor r, die moment-arm sal gelyk wees aan die afstand na die middelpunt en die wringkrag sal die maksimum wees vir die gegewe krag. Die vergelyking van wringkrag wat ontstaan as gevolg van 'n loodregte krag:
+
+As iemand byvoorbeeld 'n krag van 10 N op 'n moersleutel wat 0.5 meter lank is, uitoefen, sal die wringkrag 5 N·m wees, met die aanname dat die persoon wat die moersleutel trek die krag loodreg op die moersleutel uitoefen.
+
+
+=== Krag teen 'n hoek ===
+As 'n krag van grootte F teen 

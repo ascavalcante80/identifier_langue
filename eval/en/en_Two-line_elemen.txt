@@ -1,0 +1,24 @@
+re simply the transmission format data rendered as ASCII text.
+An example TLE for the International Space Station:
+
+ISS (ZARYA)
+1 25544U 98067A   08264.51782528 -.00002182  00000-0 -11606-4 0  2927
+2 25544  51.6416 247.4627 0006703 130.5360 325.0288 15.72125391563537
+
+The meaning of this data is as follows:
+Title line
+
+LINE 1
+
+LINE 2
+
+Where decimal points are assumed, they are leading decimal points. The last two symbols in Fields 10 and 11 of the first line give powers of 10 to apply to the preceding decimal. Thus, for example, Field 11 (-11606-4) translates to -0.11606E-4 (-0.11606×10−4).
+The checksums for each line are calculated by adding all numerical digits on that line, including the line number. One is added to the checksum for each negative sign (−) on that line. All other non-digit characters are ignored.
+For a body in a typical Low Earth orbit, the accuracy that can be obtained with the SGP4 orbit model is on the order of 1 km within a few days of the epoch of the element set. The term "low orbit" may refer to either the altitude (minimal or global) or orbital period of the body. Historically, the SGP algorithms defines low orbit as an orbit of less-than 225 minutes.
+
+
+== Applications ==
+TLEs are widely used as input for projecting the future orbital tracks of space debris for purposes of characterizing "future debris events to support risk analysis, close approach analysis, collision avoidance maneuvering" and forensic analysis.
+
+
+== References ==

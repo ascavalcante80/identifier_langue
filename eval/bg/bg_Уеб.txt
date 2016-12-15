@@ -1,0 +1,42 @@
+ждат:
+Препоръки за маркиращ език, особено за HTML и XHTML. Те определят структурата и начина на възпроизвеждане на хипертекст документи – от W3C.
+Препоръки за стилизиране на сайтове, по-специално CSS от W3C.
+Стандарти за ECMAScript (обикновено за JavaScript) – от Ecma International.
+Допълнителни текстове дават определение за други важни технологии за уеб-а, като например:
+Унифициран идентификатор на ресурси (Uniform Resource Identifier (URI)), което е универсално за препратки към източници в Интернет, като хипертекст документи и снимки. URI-тата, често са наричани URLs, са дефинирани от IETF.
+Протоколът за трансфер на хипертекст (HTTP), дефинира начина, по който браузърът и сървърът осъществяват връзката помежду си.
+
+
+== Уеб кеширане ==
+Всеки път, когато уеб сървърът получи заявка за дадена страница, той я идентифицира и обикновено записва IP адреса, от който е отправена заявката. От друга страна, при потребителя също се записва информация: освен ако не им е изрично зададено обратното, повечето уеб браузъри обикновено записват голяма част от съдържанието на заявената страница локално. Този процес се нарича кеширане. Освен ако не се използва криптирането HTTPS, уеб заявките и отговорите, които се изпращат могат да бъдат видяни, записани и кеширани и от междинни системи.
+
+
+== Бележки ==
+↑ Само в единствено число и в членуваната форма на думата мрежа, но понякога се има предвид интернет от английски the net.
+↑ Tim Berners Lee – Time 100 People of the Century. //   Time Magazine. Посетен на 17 май 2010.
+↑ Berners-Lee, Tim. Pre-W3C Web and Internet Background. //   World Wide Web Consortium. Посетен на 21 април 2009.
+↑ ((en))  Tim Berners-Lee and the Birth of the Web. //   Посетен на 18 юни 2015.
+↑ The W3C Technology Stack. //   World Wide Web Consortium. Посетен на 21 April 2009.
+↑ ((en)) Berners-Lee, Tim. Information Management: A Proposal. //   1989. Посетен на 30 септември 2015.
+↑ това е оригиналното име, преименувана е на „World Wide Web“ през 1990
+↑ Berners-Lee, Tim. Weaving the Web. HarperCollins, 2000. с. 46.
+↑ Muylle, Steve. A grounded theory of World Wide Web search behaviour. //  Journal of Marketing Communications 5 (3). 1999. DOI:10.1080/135272699345644. с. 143.
+↑ ((en)) Berners-Lee, Tim. Frequently asked questions by the Press. //   W3C. Посетен на 27 July 2009.
+↑ ((en)) Palazzi, P (2011) 'The Early Days of the WWW at CERN'
+↑ ((en)) automatically adding www.___.com. //   mozillaZine, 16 May 2003. Посетен на 27 May 2009.
+↑ Masnick, Mike. Microsoft Patents Adding 'www.' And '.com' To Text. //   Techdirt, 7 July 2008. Посетен на 27 May 2009.
+↑ ((en)) http://www.thefreelibrary.com/It's+not+your+grandfather's+Internet.-a0239804575
+↑ Christey, Steve and Martin, Robert A.. Vulnerability Type Distributions in CVE (version 1.1). //   MITRE Corporation, 22 May 2007. Посетен на 7 June 2008.
+↑ Symantec Internet Security Threat Report: Trends for July–December 2007 (Executive Summary). //  {{{journal}}} XIII. Symantec Corp., April 2008. с. 1–2.
+↑ Google searches web's dark side. //   BBC News, 11 May 2007. Посетен на 26 April 2008.
+↑ Security Threat Report (Q1 2008) (PDF). //   Sophos. Посетен на 24 April 2008.
+↑ Security threat report (PDF). //   Sophos, July 2008. Посетен на 24 August 2008.
+↑ Fogie, Seth, Jeremiah Grossman, Robert Hansen, and Anton Rager. Cross Site Scripting Attacks: XSS Exploits and Defense. Syngress, Elsevier Science & Technology, 2007. ISBN 1-59749-154-3. с. 68–69, 127. Посетен на 6 June 2008.
+↑ O'Reilly, Tim. What Is Web 2.0. //   O'Reilly Media, 30 September 2005. с. 4–5. Посетен на 4 June 2008. and AJAX web applications can introduce security vulnerabilities like „client-side security controls, increased attack surfaces, and new possibilities for Cross-Site Scripting (XSS)“, in Ritchie, Paul. The security risks of AJAX/web 2.0 applications. //  Infosecurity. Elsevier, March 2007. which cites Hayre, Jaswinder S. and Kelath, Jayasankar. Ajax Security Basics. //   SecurityFocus, 22 June 2006. Посетен на 6 June 2008.
+↑ Berinato, Scott. Software Vulnerability Disclosure: The Chilling Effect. //  CSO. CXO Media, 1 January 2007. с. 7. Посетен на 7 June 2008.
+↑ 2012 Global Losses From phishing Estimated At $1.5 Bn. //   FirstPost, 20 February 2013. Посетен на 21 December 2014.
+
+
+== Външни препратки ==
+((en)) Word Wide Web Consortium
+((en))  A Little History of the World Wide Web. //   Посетен на 8.1.2015.

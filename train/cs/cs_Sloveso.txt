@@ -1,0 +1,87 @@
+Sloveso (lat. verbum) je ohebný slovní druh, který vyjadřuje činnost (jít), stav (ležet) nebo změnu stavu (zčervenat). Ve většině případů je sloveso ve větě přísudkem.
+
+
+== Druhy sloves ==
+plnovýznamové sloveso mají vlastní význam - oproti pomocným nebo způsobovým slovesům, ale mnohá níže uvedená zvláštní slovesa mohou v určitém kontextu fungovat i jako plnovýznamová,
+neplnovýznamová slovesa
+pomocné sloveso se používá jako nesamostatná složka vedle významového slovesa při tvorbě složených slovesných tvarů (např. české být při tvorbě minulého času: přišel jsem)
+spona se používá při tvorbě přísudku jmenného se sponou (např. české být v přísudku je nemocný nebo byl ředitelem)
+kategoriální sloveso (anglicky light verb) se používá při tvorbě ostatních slovesně-jmenných přísudků (verbonominální predikát); hlavní význam přísudku přináší jmenná složka, kategoriální sloveso přispívá slovesnými mluvnickými kategoriemi osoby, čísla, času aj. (např. české mít v mít strach)
+způsobové (modální) sloveso se váže s infinitivem jiného, plnovýznamového slovesa a přidává k jeho významu rys nejistoty, možnosti, povinnosti nebo schopnosti (v češtině chtít, moci, smět, mít, muset, umět, dát se)
+
+přechodné sloveso (tranzitivní) rozlišujeme podle valence slovesa, tj. podle toho, zda mají povinnou vazbu na přímý předmět ve 4. pádě (např. české koupit [něco]). Slovesný valenční systém většiny jazyků včetně češtiny je ale složitější a nevystačí jen s touto kategorií.
+
+
+== Mluvnické kategorie sloves ==
+Slovesa lze časovat, ve většině jazyků svým tvarem vyjadřují:
+osobu,
+číslo,
+čas,
+slovesný způsob,
+rod,
+vid,
+třída,
+vzor.
+
+
+=== Osoba ===
+Související informace naleznete také v článku Osoba (mluvnice).
+Typicky existují tři kategorie osoby, které rozlišují, kdo je podmětem věty, zda je to:
+mluvčí (první osoba)
+posluchač (druhá osoba)
+někdo jiný (třetí osoba)
+V některých jazycích se od tohoto systému objevují odchylky. Například v telugštině je první osoba množného čísla rozštěpena na tvar inkluzivní (já + ty + on) a exkluzivní (já + on, ale bez tebe).
+
+
+=== Číslo ===
+Související informace naleznete také v článku Číslo (mluvnice).
+Číslo (numerus) je gramatická kategorie, která udává počet účastníků děje. U většiny jazyků (včetně češtiny) je kategorie čísla založena pouze na protikladu jednosti - mnohosti, nicméně v některých jazycích je struktura složitější. Některé jazyky naopak nerozlišují ani jednotné a množné číslo, nebo jen v omezené míře - například v angličtině je druhá osoba identická pro obě čísla.
+
+
+=== Čas ===
+Související informace naleznete také v článku Čas (mluvnice).
+Čas (tempus) v lingvistice znamená určitý tvar slovesa vyjadřující časové období, ve kterém daný děj probíhal/probíhá/bude probíhat. V různých jazycích se mohou časy rozlišovat na aktuální (minulý, přítomný, budoucí) a relativní (např. předminulý, předpřítomný, předbudoucí), které slouží k vyjádření předčasnosti či následnosti dějů. Mohou se též rozlišovat časy z hlediska probíhání nebo opakování děje, stavu a podobně.
+
+
+=== Způsob ===
+Související informace naleznete také v článku Slovesný způsob.
+Způsob (modus) je mluvnickou kategorií slovesa, která popisuje vztah slovesa a skutečnosti či záměru. Mnoho jazyků vyjadřuje odlišnost způsobů skrze morfologii slovesa.
+Čeština rozlišuje pouze způsob oznamovací, rozkazovací a podmiňovací, některé jazyky mají systém slovesných způsobů složitější (např. nenetština - jazyk na území Ruska - má 16 způsobů).
+
+
+=== Rod ===
+Související informace naleznete také v článku Slovesný rod.
+Slovesný rod (genus verbi) je mluvnická kategorie slovesa. Slovesný rod je v různých jazycích obvykle dvojí, a to činný (aktivum) a trpný (pasivum). Zatímco aktivum vyjadřuje děj, který podmět aktivně vykonává, pasivum vyjadřuje děj, který podmět trpí (tj. který je „vykonáván na podmětu“). V některých jazycích (např. v klasické řečtině) existuje ještě třetí rod, tzv. medium, tj. případ, kdy podmět koná děj na sobě nebo ve svůj prospěch. V češtině této kategorii přibližně odpovídá zvratné sloveso.
+
+
+=== Vid ===
+Související informace naleznete také v článku Slovesný vid.
+Vid (aspekt) je mluvnickou kategorií slovesa, která postihuje vztah k plynutí času. Lze vymezit dvě základní skupiny:
+ukončenost (perfektum) vs. neukončenost (imperfektum)
+průběhovost (durativ) vs. neprůběhovost (stavovost, punktuál).
+
+
+== Neurčité tvary sloves ==
+Sloveso v neurčitém tvaru nevyjadřuje mluvnické kategorie nebo jen některé z nich (např. rod, vid). Rozlišujeme následující neurčité tvary:
+infinitiv
+příčestí
+přechodník
+gerundium
+gerundivum
+supinum
+
+
+=== Infinitiv ===
+Související informace naleznete také v článku Infinitiv.
+Infinitiv (zast. neurčitek) je neurčitý tvar slovesa, který se nečasuje, tj. nevyjadřuje osobu, číslo, způsob a čas. Pokládá se za základní tvar slovesa, který je uváděn ve slovnících (reprezentativní tvar neboli lemma). V češtině končí na -t (běžně), -ti (zast. nebo kniž.), nebo -ci (zast. nebo vyššího stylu) (dělat/dělati, moct/moci).
+Některé jazyky, jako např. arabština, bulharština, makedonština a moderní řečtina, infinitiv nemají a musejí ho tedy vyjadřovat opisně.
+Infinitiv sice nevyjadřuje všechny mluvnické kategorie sloves, má však schopnost vyjadřovat slovesný rod a vid. V některých jazycích existují infinitivy pro různé časy, např. v angličtině infinitiv minulý, který se používá pro děj, který začal nebo proběhl před jiným dějem.
+
+
+=== Příčestí ===
+Související informace naleznete také v článku Příčestí.
+Příčestí (participium) je neurčitý jmenný tvar slovesa, který má v jazyce různé funkce, např.:
+účast na tvorbě složených slovesných časů;
+účast na tvorbě trpného rodu;
+funkce přívlastku.
+Pro různé jazyky existuje různý inventář příčestí, např. příčestí minulé, příčestí trpné. Přechodník, gerundium, gerundivum a supinum se někdy 

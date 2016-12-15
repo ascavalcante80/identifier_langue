@@ -1,0 +1,9 @@
+vagyis az impulzusmomentum egy állandó konstans érték az adott rendszerre.
+
+
+== Mérése ==
+Forgó gépek forgatónyomatékának mérése Prony-fékkel, hidraulikus, örvényáramú fékpaddal, mérlegdinamóval, mérlegmotorral történik. Nagy generátorok teljesítménye villamos mérésekkel igen pontosan történik, a fordulatszám egyidejű méréséből a forgatónyomaték kiszámítható.
+
+
+== További információk ==
+Letölthető interaktív Java szimuláció a forgatónyomaték tanulmányozásához a PhET-től, magyarul.

@@ -1,0 +1,27 @@
+Een jong stellair object (Young Stellar Object of YSO) is een ster in een vroege fase van zijn evolutie.
+YSO's bestaan uit twee groepen: protosterren en voor-hoofdreeks sterren (pre-main seqence stars). Soms worden ze onderverdeeld naar massa - massieve YSO, lagere massa YSO, en bruine dwergen.
+Jonge stellaire objecten zijn vaak geassocieerd met andere verschijnselen: polaire jets, bipolaire gasuitstromen, interstellaire masers, Herbig-Haro objecten, protoplanetaire schijven.
+
+
+== Protosterren ==
+Een protoster is het resultaat van de gravitationele samentrekking van een dichte moleculaire wolk in het interstellair medium. Het grootste deel van deze wolken zijn in dynamisch evenwicht: de zwaartekracht is in evenwicht met de thermische energie van de atomen en moleculen die de wolk uitmaken. Dit evenwicht kan spontaan verbroken worden door de interne turbulentie van de wolk, of (vaker), kan getriggerd worden van buitenaf, zoals een door een schokgolf afkomstig van een naburige supernova of door de botsing van twee verschillende wolken. Het resultaat van deze eerste samentrekking is de vorming van een kern die in hydrostatisch evenwicht is en die zwaarder wordt door accretie. Protosterren met een massa vergelijkbaar met die van de zon hebben typisch 10 miljoen jaar nodig om zich te ontwikkelen van een dichte wolk tot een hoofdreeksster, terwijl 15 M☉ sterren ongeveer 100.000 jaar daarvoor nodig hebben.
+
+
+== Voor-hoofdreekssterren ==
+Wanneer het omhullende gas en stof weggedreven worden en het accretieproces beëindigd wordt gaat de protoster over in de fase van de voor-hoofdreeksster (PMS-ster). De door deze sterren uitgestraalde energie komt nog door de gravitationele samentrekking en niet door de kernfusie zoals bij hoofdreekssterren. Er zijn twee belangrijke soorten PMS-sterren: de Orion-veranderlijken die een massa hebben tussen 0,08 en 2 M☉, en de Herbig Ae/Be sterren met een massa tussen 2 en 8 M☉. De Orion-veranderlijken worden op hun beurt weer onderverdeeld in T Tauri-sterren, Ex Lupi-sterren ((EXors), en FU Orionis-sterren (FUors); deze laatste twee klassen worden als twee ondersoorten van T Tauri-sterren beschouwd.
+Er zijn geen PMS-sterren zwaarder dan 8 M☉ waargenomen, omdat de evolutie van deze sterren tot het starten van de kernfusie en het bereiken van de hoofdreeks zeer snel verloopt.
+
+
+== Spectrale energieverdeling (SED) ==
+De classificatie van jonge stellaire objecten baseert zich op spectroscopische metingen in het infrarode gebied waar deze objecten een grote hoeveelheid straling afgeven. Hoewel de plaats, afmetingen, en lichtkracht van de infraroodbronnen veel informatie geven, is kennis nodig van de spectrale energieverdeling (SED; acroniem van het Engelse spectral energy distribution), de verdeling van de intensiteit van de straling als functie van de golflengte λ in het nabij- en middel-infrarood (2.2–20 ), om essentiële informatie over deze bronnen te verkrijgen. Criteria hiervoor zijn geïntroduceerd door C.J. Lada en B.A. Wilking in 1984. Zij stelden drie klassen objecten voor (I, II, en III), gebaseerd op de waarden van de spectrale index :
+.
+Hier is  de golflengte, en  is de fluxdichtheid.
+De Klasse I bronnen hebben spectra waarvan de intensiteit sterk toeneemt met de golflengte en die de meeste energie uitstralen bij λ>20 μm; de Klasse II bronnen hebben een platter spectrum met gelijke bijdragen in het nabij- en ver-infrarood, en de Klasse III bronnen stralen de meeste energie uit bij λ<2 μm en zijn zwakker bij λ>5 μm. De classificatie is in 1993 uitgebreid met de protosterren die de Klasse 0 werden toegewezen. Zij vertonen sterke submillimeter emissie, maar zijn erg zwak bij . Later in 1994 voegden Greene et al. een vijfde klasse bronnen toe - "plat spectrum" bronnen.
+Klasse 0 bronnen – worden niet gedetecteerd bij 
+Klasse I bronnen hebben 
+Plat spectrum bronnen hebben 
+Klasse II bronnen hebben 
+Klasse III bronnen hebben 
+Het spectrum van deze klassen infraroodbronnen kan worden verklaard met een evolutie-scenario:
+Klasse 0 – de infraroodstraling wordt waarschijnlijk uitgestraald door isotherm stof met een temperatuur van ongeveer 30 K. De protoster wordt volkomen omringd door gas en stof en is verduisterd door de grote optische diepte van het stof. De bijdrage van de thermische straling van de protoster zelf is te verwaarlozen.
+Klasse I – de bijdrage van het stof tot de middel-infrarood straling domineert die van de thermische straling van de jonge T Tauri-ster. E

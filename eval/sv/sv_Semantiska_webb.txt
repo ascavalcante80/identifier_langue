@@ -1,0 +1,26 @@
+
+K-samsök (Riksantikvarieämbetet)
+Lagrummet (Domstolsverket)
+Libris (Kungliga Biblioteket)
+Exempel utanför Sverige är bl.a.:
+Facebook (via Open Graph API:et)
+
+
+== Se även ==
+Länkad data
+RDF
+OWL
+SPARQL
+Taxonomi
+Ontologi
+Öppna data
+
+
+== Externa länkar ==
+W3.org – översikt
+Semantic Web Community Portal
+SemTech 2010 - Stor konferens om Semantic Web-teknik i San Francisco i juni 2010
+Semantic Overflow - Frågor och svar för utvecklare av Semantic Web-teknik
+Semantic MediaWiki - Stöd för semantiska webben i mjukvaran bakom Wikipedia
+ARC2 RDF Framework - Lättanvänt PHP-baserat ramverk för semantic web-dataformaten RDF och SPARQL.
+Utbildningsradion och semantisk webb i praktiken - Examensarbete på KTH, 2005. Innehåller bl.a. översikt av semantiska webben på svenska

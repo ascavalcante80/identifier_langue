@@ -1,0 +1,37 @@
+qui permet de conserver l'hyperpolarisation pendant une durée longue, même après que le laser a été coupé et que les vapeurs de l'alcalin ont été éliminées par condensation sur une surface à température ambiante. Le temps nécessaire pour qu'une distribution de spins retournent à sa polarisation d'équilibre (définie par la statistique de Boltzmann) est le temps de relaxation T1. Dans le cas du xénon 129, T1 varie de quelques secondes pour des atomes de xénon dissous dans du sang, à quelques heures pour du xénon gazeux, et même à quelques jours pour du xénon solide. L'hyperpolarisation du xénon 129 rend sa détection par imagerie par résonance magnétique incroyablement plus sensible. Il a ainsi permis de faire des images de poumons, ce qui n'est pas simple par d'autres technique, et d'autres tissus. Il a été utilisé par exemple pour visualiser les flux gazeux dans les poumons,. Afin de pouvoir observer sélectivement certaines parties du corps ou certaines cellules, des études pour encager le xénon dans un environnement spécifique à la cible visée ont été effectuées. Par exemple, la cage peut être une émulsion lipidique pour des études neurologiques. Pour servir de biorécepteur, un encagement par un cryptophane a été étudié.
+À l'inverse, 131Xe possède un spin nucléaire I = 3/2 et un moment quadrupolaire non nul. Son temps de relaxation se situe dans une gamme de quelques millisecondes à quelques secondes.
+
+
+=== Autres utilisationsModifier ===
+Le xénon est utilisé dans des chambre à bulles, des détecteurs, et dans des domaines où sa masse moléculaire élevée et son caractère inerte le rendent intéressant.
+Le xénon est utilisé sous forme liquide comme milieu de détection des WIMPs (Weakly interacting massive particles). Lorsqu'une telle particule entre en collision avec un atome de xénon, elle doit en théorie lui arracher un électron et entraîner une scintillation. L'utilisation du xénon devrait permettre de distinguer cette interaction d'autres événements similaires causés par des particules comme les rayons cosmiques. Cependant, l'expérience Xenon menée au Laboratori Nazionali del Gran Sasso en Italie n'a pas permis à l'heure actuelle de confirmer l'existence d'une WIMP. Même si aucune WIMP n'est détectée, cette expérience doit contribuer à faire progresser la connaissance de la matière noire ainsi que d'autres modèle de physique. Le détecteur actuellement utilisé pour cette expérience est cinq fois plus sensible que n'importe quel autre instrument dans le monde, et sa sensibilité doit encore être améliorée d'un ordre de grandeur au cours de l'année 2008 ().
+
+Le xénon est le carburant le plus couramment utilisé pour la propulsion ionique des engins spatiaux du fait de sa faible énergie d'ionisation par unité de masse atomique, et de la possibilité de le stocker sous forme liquide à des températures proches de la température ambiante (sous haute pression) et de le ramener facilement à l'état gazeux pour alimenter le moteur. Le caractère inerte du xénon le rend moins polluant et moins corrosif pour les moteurs ioniques que d'autres carburants comme le mercure ou le césium. Le xénon a été d'abord utilisé pour les moteurs ioniques des satellites dans les années 1970 (). Il a été ensuite employé comme propulseur pour le véhicule spatial européen Smart 1 et comme combustible des trois moteurs ioniques de la sonde américaine Dawn.
+En chimie analytique, les perxénates sont utilisés comme oxydants. Le difluorure de xénon est utilisé pour attaquer le silicium, en particulier dans la production de MEMS (Microsystème électromécanique). Le fluorouracile, médicament anticancéreux, peut être obtenu par réaction du difluorure de xénon avec l'uracile. Le xénon est également utilisé en diffraction pour résoudre la structure des protéines. Sous une pression de 0,5 à 5 MPa, le xénon se lie préférentiellement aux cavités hydrophobes des protéines, et peut être utilisé pour retrouver la phase par une méthode de dérivation aux atomes lourds,.
+
+
+== Précautions, sécuritéModifier ==
+Le xénon non radioactif est apprécié comme anesthésiant, et le 133Xe radioactif est devenu un agents apprécié de certains médecins et biologistes pour les études fonctionnelles du poumon et pour établir certains diagnostics. Dans les deux cas, il est important que le patient reçoive la dose prévue par le protocole.
+Or, le xénon se dissout rapidement dans la plupart des plastiques et caoutchoucs. Il peut donc fuir graduellement si les bouchons des contenants sont en ces matières. Le xénon peut cependant être stocké sans risque dans les conditions normales de température et de pression s'il est dans des containers en verre ou en métal scellés.
+Des précautions particulières doivent être prises pour le stockage du 133Xe, parce que outre qu'il est coûteux, il est radioactif (demi-vie : 5,245 jours ).
+Produit à partir d'uranium 235 dont il est un des produits de fission, il est fourni dans des flacons de 2 mL contenant soit 370, soit 740 mégabecquerels (10 ou 20 millicuries) de xénon 133 .
+Au moment de l'étalonnage, le gaz préparé ne contenait plus de 0,3% de xénon 133m ; pas plus de 1,5% de xénon 131m ; pas plus de 0,06% de krypton 85 et pas plus de 0,01% d'iode 131 avec pas moins de 99,9% de la radioactivité provenant du radioxénon réputé se comporter dans l'organisme, comme du xénon non radioactif. Cette composition va changer avec le temps (cf. décroissance radioactive puis éventuelles fuites, après transvasement dans le contenant d'expérimentation).
+Par exemple, les bouteilles « multi-injections » de 133Xe utilisées dans les années 1960 et au début des années 1970 perdaient 5 à 6% de leur xénon par jour (même stockées fermées). Ce type de fuite peut être réduite de 70 à 80% par le froid. De même une seringue en plastique contenant une solution au xénon perd spontanément de ½ à 1% de son contenu par heure. On a aussi montré que le xénon, assez peu soluble dans les solutions salines pouvait se libérer d'une solution et percoler dans le joint de caoutchouc du piston de cette seringue. Une seringue de 2,5 cm3 contenant 0,5 mL d'une solution xénon, peut perdre jusqu'à 50% de son xénon en 2 heures ,.
+Le système de délivrance par inhalation du gaz xénon 133 (type respirateurs ou spiromètres), et les assemblages de tubes associés doivent être étanches afin d'éviter de libérer de la radioactivité dans l'environnement (qui doit être protégé par un système d'aération/filtration adéquat).
+À la différence d'autres gaz nobles, le xénon n'est pas inerte.
+S'il n'est pas considéré comme réellement toxique à l'état pur, il se dissout facilement dans le sang et il fait partie des substances qui peuvent franchir la barrière hémato-encéphalique. À partir d'une certaine dose, il entrainant une anesthésie partielle (ou totale s'il est inhalé à plus forte dose). Au delà d'une certaine dose, il est asphyxiant.
+Les composés du xénon sont par contre toxiques, et pour beaucoup explosifs du fait de leur pouvoir oxydant marqué et d'une tendance à la séparation du dioxygène et du xénon.
+
+
+== AnnexesModifier ==
+
+
+=== BibliographieModifier ===
+B. Gerber, « La surprenante chimie des gaz inertes », Pour la Science, no 341,‎ mars 2006, p. 68-74 (ISSN 0153-4092, lire en ligne).
+
+
+=== Notes et référencesModifier ===
+
+ Portail de la chimie
+ Portail de la médecine
+ Portail de la pharmacie

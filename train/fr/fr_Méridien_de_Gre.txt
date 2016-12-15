@@ -1,0 +1,42 @@
+Le méridien de Greenwich est le méridien qui sert de référence internationale de longitude, d'où son nom de « méridien origine ».
+
+
+== Description ==
+Le méridien de Greenwich est un premier méridien, c’est-à-dire un méridien où la longitude est définie comme égale à 0°. Il passe à travers l'Observatoire royal de Greenwich, à Greenwich (banlieue de Londres), au Royaume-Uni. Il rencontre le continent européen à Villers-sur-mer où un musée, le Paléospace l'Odyssée en propose l'interprétation. Avec le 180e méridien qui lui est directement opposé, il définit les hémisphères est et ouest.
+À la différence des parallèles qui sont définis par l'axe de rotation de la Terre, le choix du méridien de Greenwich comme premier méridien est arbitraire et d'autres méridiens furent utilisés au cours de l'histoire (comme le méridien de Paris, par exemple). Le méridien de Greenwich fut adopté comme standard international en octobre 1884 à la conférence internationale du méridien de Washington. Le système géodésique mondial actuel, dit WGS 84, utilise le méridien de référence de l'IERS, avec une longitude 0° située 102,5 m à l'est du méridien de Greenwich. La raison de ce décalage tient au fait que les scientifiques de l'époque n'ont pas pris en considération dans leurs calculs la déviation de la verticale causée par les distorsions locales de la gravité. Le télescope pointé vers l'espace n'était donc pas parfaitement perpendiculaire au moment du calcul des coordonnées du méridien. L'erreur avait été pointée par un satellite dès 1984, mais le méridien n'a jamais été officiellement déplacé. La ligne officielle dans le Greenwich Park de Londres est donc toujours pour le moment marquée par une poubelle.
+
+
+== Histoire ==
+Le choix du méridien de Greenwich comme point de référence pour la longitude est complètement arbitraire, aussi différents méridiens ont été utilisés par le passé :
+Washington, D.C. (77° 3' 2.3” O)
+Philadelphie (75° 10' 12” O)
+Rio de Janeiro (43° 10' 19” O)
+L'Île de Fer (17° 39' 46.02” O) : voir l'article Méridien de Ferro
+Lisbonne (9° 07' 54.862” O)
+Madrid (3° 41' 16.58” O)
+Paris (2° 20' 14.025” E) : voir l'article Méridien de Paris
+Bruxelles (4° 21' 37” E)
+Berne (7° 26' 22.5” E)
+Pise, Italie (10°24' E)
+Oslo (Kristiania) (10° 43' 22.5” E)
+Rome (12° 27' 08.4” E)
+Copenhague (12° 34' 32.25” E)
+Stockholm (18° 3' 29.8” E)
+Varsovie (21° 00’ 42” E)
+Oradea, Roumanie (21° 55' 16” E)
+Alexandrie (29° 53' E)
+Saint-Pétersbourg (30° 19' 42.09” E)
+Jérusalem (35° 13' 47.1” E)
+Ujjain (75° 47' E)
+Kyoto (135° 74' E)
+
+
+== Zones traversées ==
+
+Depuis le pôle Nord jusqu'au pôle Sud, le méridien de Greenwich traverse les régions et pays suivants :
+Océan Arctique (passe entre le Groenland et l'archipel du Svalbard)
+Océan Atlantique nord (mer de Norvège, puis mer du Nord)
+Royaume-Uni (sur un longueur de 319 km): depuis Tunstall dans Yorkshire, puis après une courte traversée de la mer, revient sur terre à proximité de Grimsby, Boston, Cambridge, Royston dans le Hertfordshire, Londres (Greenwich), Danehill dans le East Sussex, à Peacehaven qui est une partie du District de Lewes contenant le port de Newhaven (entre Brighton et Eastbourne).
+Manche
+France (sur 735 km) : de Villers-sur-Mer (à proximité occidentale de Deauville), à l'est de Caen, sur Argentan, à l'ouest de Le Mans, sur la commune de La Flèche, sur Parnay commune située sur la Loire à l'est de Saumur, sur Chalandray commune située entre Parthenay et Poitiers, sur Lezay (à l'est de Melle), sur Hiersac localité située à l'ouest d'Angoulême, entre Libourne et Bergerac, entre Langon et Marmande, entre Mont-de-Marsan et Auch, à Ibos commune située à proximité ouest de Tarbes, à Lézignan village touchant l'est de Lourdes, à Gavarnie qui est avant l'Espagne, la dernière commune française traversée par le méridien de Greenwich.
+Espagne (sur 336 km) : près du Mont Perdu sur le territoire de Fanlo qui est la première municipalité espagnole traversée par le méridien de Greenwich, sur Villanueva de Sigena, Monroyo, puis entre Saragosse et Lleida, à l'est de Caspe, sur Fórnoles, Herbés, Albocàsser, à proximité de Castellón de la Plana, puis sur la mer dans le golfe de Valence, ensuite à Dénia (située au sud de Valence)

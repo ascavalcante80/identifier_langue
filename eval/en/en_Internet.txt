@@ -1,0 +1,87 @@
+d internal phone networks.
+
+
+=== Crowdsourcing ===
+The Internet provides a particularly good venue for crowdsourcing, because individuals tend to be more open in web-based projects where they are not being physically judged or scrutinized and thus can feel more comfortable sharing.
+
+
+=== Collaborative publishing ===
+Wikis have also been used in the academic community for sharing and dissemination of information across institutional and international boundaries. In those settings, they have been found useful for collaboration on grant writing, strategic planning, departmental documentation, and committee work. The United States Patent and Trademark Office uses a wiki to allow the public to collaborate on finding prior art relevant to examination of pending patent applications. Queens, New York has used a wiki to allow citizens to collaborate on the design and planning of a local park.
+The English Wikipedia has the largest user base among wikis on the World Wide Web and ranks in the top 10 among all Web sites in terms of traffic.
+
+
+=== Politics and political revolutions ===
+
+The Internet has achieved new relevance as a political tool. The presidential campaign of Howard Dean in 2004 in the United States was notable for its success in soliciting donation via the Internet. Many political groups use the Internet to achieve a new method of organizing for carrying out their mission, having given rise to Internet activism, most notably practiced by rebels in the Arab Spring.
+The New York Times suggested that social media websites, such as Facebook and Twitter, helped people organize the political revolutions in Egypt, by helping activists organize protests, communicate grievances, and disseminate information.
+The potential of the Internet as a civic tool of communicative power was explored by Simon R. B. Berdal in his 2004 thesis:
+
+As the globally evolving Internet provides ever new access points to virtual discourse forums, it also promotes new civic relations and associations within which communicative power may flow and accumulate. Thus, traditionally ... national-embedded peripheries get entangled into greater, international peripheries, with stronger combined powers... The Internet, as a consequence, changes the topology of the "centre-periphery" model, by stimulating conventional peripheries to interlink into "super-periphery" structures, which enclose and "besiege" several centres at once.
+
+Berdal, therefore, extends the Habermasian notion of the Public sphere to the Internet, and underlines the inherent global and civic nature that interwoven Internet technologies provide. To limit the growing civic potential of the Internet, Berdal also notes how "self-protective measures" are put in place by those threatened by it:
+
+If we consider China’s attempts to filter "unsuitable material" from the Internet, most of us would agree that this resembles a self-protective measure by the system against the growing civic potentials of the Internet. Nevertheless, both types represent limitations to "peripheral capacities". Thus, the Chinese government tries to prevent communicative power to build up and unleash (as the 1989 Tiananmen Square uprising suggests, the government may find it wise to install "upstream measures"). Even though limited, the Internet is proving to be an empowering tool also to the Chinese periphery: Analysts believe that Internet petitions have influenced policy implementation in favour of the public’s online-articulated will ...
+
+Incidents of politically motivated Internet censorship have now been recorded in many countries, including western democracies.
+
+
+=== Philanthropy ===
+The spread of low-cost Internet access in developing countries has opened up new possibilities for peer-to-peer charities, which allow individuals to contribute small amounts to charitable projects for other individuals. Websites, such as DonorsChoose and GlobalGiving, allow small-scale donors to direct funds to individual projects of their choice.
+A popular twist on Internet-based philanthropy is the use of peer-to-peer lending for charitable purposes. Kiva pioneered this concept in 2005, offering the first web-based service to publish individual loan profiles for funding. Kiva raises funds for local intermediary microfinance organizations which post stories and updates on behalf of the borrowers. Lenders can contribute as little as $25 to loans of their choice, and receive their money back as borrowers repay. Kiva falls short of being a pure peer-to-peer charity, in that loans are disbursed before being funded by lenders and borrowers do not communicate with lenders themselves.
+However, the recent spread of low cost Internet access in developing countries has made genuine international person-to-person philanthropy increasingly feasible. In 2009 the US-based nonprofit Zidisha tapped into this trend to offer the first person-to-person microfinance platform to link lenders and borrowers across international borders without intermediaries. Members can fund loans for as little as a dollar, which the borrowers then use to develop business activities that improve their families' incomes while repaying loans to the members with interest. Borrowers access the Internet via public cybercafes, donated laptops in village schools, and even smart phones, then create their own profile pages through which they share photos and information about themselves and their businesses. As they repay their loans, borrowers continue to share updates and dialogue with lenders via their profile pages. This direct web-based connection allows members themselves to take on many of the communication and recording tasks traditionally performed by local organizations, bypassing geographic barriers and dramatically reducing the cost of microfinance services to the entrepreneurs.
+
+
+== Security ==
+
+Internet resources, hardware, and software components are the target of malicious attempts to gain unauthorized control to cause interruptions, or access private information. Such attempts include computer viruses which copy with the help of humans, computer worms which copy themselves automatically, denial of service attacks, ransomware, botnets, and spyware that reports on the activity and typing of users. Usually these activities constitute cybercrime. Defense theorists have also speculated about the possibilities of cyber warfare using similar methods on a large scale.
+
+
+=== Surveillance ===
+
+The vast majority of computer surveillance involves the monitoring of data and traffic on the Internet. In the United States for example, under the Communications Assistance For Law Enforcement Act, all phone calls and broadband Internet traffic (emails, web traffic, instant messaging, etc.) are required to be available for unimpeded real-time monitoring by Federal law enforcement agencies.
+Packet capture is the monitoring of data traffic on a computer network. Computers communicate over the Internet by breaking up messages (emails, images, videos, web pages, files, etc.) into small chunks called "packets", which are routed through a network of computers, until they reach their destination, where they are assembled back into a complete "message" again. Packet Capture Appliance intercepts these packets as they are travelling through the network, in order to examine their contents using other programs. A packet capture is an information gathering tool, but not an analysis tool. That is it gathers "messages" but it does not analyze them and figure out what they mean. Other programs are needed to perform traffic analysis and sift through intercepted data looking for important/useful information. Under the Communications Assistance For Law Enforcement Act all U.S. telecommunications providers are required to install packet sniffing technology to allow Federal law enforcement and intelligence agencies to intercept all of their customers' broadband Internet and voice over Internet protocol (VoIP) traffic.
+The large amount of data gathered from packet capturing requires surveillance software that filters and reports relevant information, such as the use of certain words or phrases, the access of certain types of web sites, or communicating via email or chat with certain parties. Agencies, such as the Information Awareness Office, NSA, GCHQ and the FBI, spend billions of dollars per year to develop, purchase, implement, and operate systems for interception and analysis of data.
+Similar systems are operated by Iranian secret police to identify and suppress dissidents. The required hardware and software was allegedly installed by German Siemens AG and Finnish Nokia.
+
+
+=== Censorship ===
+
+Some governments, such as those of Burma, Iran, North Korea, the Mainland China, Saudi Arabia and the United Arab Emirates restrict access to content on the Internet within their territories, especially to political and religious content, with domain name and keyword filters.
+In Norway, Denmark, Finland, and Sweden, major Internet service providers have voluntarily agreed to restrict access to sites listed by authorities. While this list of forbidden resources is supposed to contain only known child pornography sites, the content of the list is secret. Many countries, including the United States, have enacted laws against the possession or distribution of certain material, such as child pornography, via the Internet, but do not mandate filter software. Many free or commercially available software programs, called content-control software are available to users to block offensive websites on individual computers or networks, in order to limit access by children to pornographic material or depiction of violence.
+
+
+== Performance ==
+As the Internet is a heterogeneous network, the physical characteristics, including for example the data transfer rates of connections, vary widely. It exhibits emergent phenomena that depend on its large-scale organization.
+
+
+=== Outages ===
+An Internet blackout or outage can be caused by local signalling interruptions. Disruptions of submarine communications cables may cause blackouts or slowdowns to large areas, such as in the 2008 submarine cable disruption. Less-developed countries are more vulnerable due to a small number of high-capacity links. Land cables are also vulnerable, as in 2011 when a woman digging for scrap metal severed most connectivity for the nation of Armenia. Internet blackouts affecting almost entire countries can be achieved by governments as a form of Internet censorship, as in the blockage of the Internet in Egypt, whereby approximately 93% of networks were without access in 2011 in an attempt to stop mobilization for anti-government protests.
+
+
+=== Energy use ===
+In 2011 researchers estimated the energy used by the Internet to be between 170 and 307 GW, less than two percent of the energy used by humanity. This estimate included the energy needed to build, operate, and periodically replace the estimated 750 million laptops, a billion smart phones and 100 million servers worldwide as well as the energy that routers, cell towers, optical switches, Wi-Fi transmitters and cloud storage devices use when transmitting Internet traffic.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+First Monday, a peer-reviewed journal on the Internet established in 1996 as a Great Cities Initiative of the University Library of the University of Illinois at Chicago, ISSN: 1396-0466
+Rise of the Network Society, Manual Castells, Wiley-Blackwell, 1996 (1st ed) and 2009 (2nd ed), ISBN 978-1-4051-9686-4
+"The Internet: Changing the Way We Communicate" in America's Investment in the Future, National Science Foundation, Arlington, Va. USA, 2000
+"Lessons from the History of the Internet", Manuel Castells, in The Internet Galaxy, Ch. 1, pp 9–35, Oxford University Press, 2001, ISBN 978-0-19-925577-1
+"Media Freedom Internet Cookbook" by the OSCE Representative on Freedom of the Media Vienna, 2004
+The Internet Explained, Vincent Zegna & Mike Pepper, Sonet Digital, November 2005, Pages 1 – 7.
+"How Much Does The Internet Weigh?", by Stephen Cass, Discover, 2007
+"The Internet spreads its tentacles", Julie Rehmeyer, Science News, Vol. 171, No. 25, pp. 387–388, 23 June 2007
+Internet, Lorenzo Cantoni & Stefano Tardini, Routledge, 2006, ISBN 978-0-203-69888-4
+
+
+== External links ==
+The Internet Society
+Berkman Center for Internet and Society
+European Commission Information Society
+Living Internet, Internet history and related information, including information from many creators of the Internet

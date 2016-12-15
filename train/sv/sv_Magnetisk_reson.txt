@@ -1,0 +1,43 @@
+Magnetisk resonanstomografi (MRT, MRI eller MR) är en medicinsk teknik för bildgivande diagnostik med en magnetisk resonanstomograf (magnetkamera, MR-kamera). Tekniken används för att upptäcka, lägesbestämma och klassificera vissa sjukdomar och skador hos djur och människor vilka är dolda eller svåra att se vid röntgen- eller datortomografiundersökning, till exempel tumörer, artärbråck, ögonsjukdomar, sjukdomar i hjärnans blodkärl, men också olika organ, mjukdelar och vid vissa skelettsjukdomar. MRT rekommenderas också som alternativ till röntgen, i de fall det är möjligt, eftersom tekniken inte använder joniserande strålning.
+MRT-undersökningar utförs vanligen på röntgenavdelningar. Bilderna granskas sedan av röntgenläkare som ställer diagnos.
+Magnetisk resonanstomografi kallas i dagligt tal för ”magnetkameraundersökning”. Ibland kallas det ”magnetröntgen”, men det är felaktigt och missvisande eftersom undersökningen inte använder sig av röntgenstrålning.
+
+
+== Historia ==
+Magnetisk resonanstomografi bygger på fenomenet kärnspinnresonans som varit känt sedan 1940-talet. Tekniken bakom den medicinska bildgivande tekniken utvecklades dock först i början av 1970-talet av bland andra kemisten Paul Lauterbur och fysikern Sir Peter Mansfield, vilka belönades för detta med Nobelpriset i fysiologi eller medicin år 2003. På 1980-talet började man använda MRT i sjukvården.
+
+
+== Teknisk konstruktion ==
+Den magnetiska resonanstomografen består av en stor statisk elektromagnet i form av en tunnel i vilken patienten kan placeras. Till det statiska magnetfältet kan varierande fält från flera mindre spolar genereras. Ytterligare spolar fungerar som sändare respektive mottagare av radiovågor.
+
+
+== Fysikalisk bakgrund ==
+För att undersöka en patient måste vederbörande placeras inuti en magnetkamera som bildar ett starkt magnetfält runt området som skall avbildas. Magnetresonanstomografi använder väteatomkärnor, det vill säga protoner. Människokroppen består till 78 procent av vatten. En vattenmolekyl består av en syreatom som binder två väteatomer, vilka är magnetiska. Magnetismen beror på den kärnmagnetiska resonansen. I kroppen pekar alla dessa små magneter åt slumpvisa håll. Men i magnetkameran ställer det in sig i samma riktning efter magnetkamerans magnetfält. Därefter skickas radiovågor in i kroppen, protonerna tar upp energi från dessa och så att säga tippar. Orienteringen av bilden regleras genom att variera det viktigaste magnetfältet med hjälp av gradientspolarna. När dessa spolar snabbt slås av och på skapas de karaktäristiska repetitiva ljuden i en MR-undersökning. När radiovågen släcks faller protonerna tillbaka sitt ursprungliga läge samtidigt som de sänder ut radiovågor. Dessa sänds ut eftersom protonerna gungar in mot ursprungsläget vilket ger upphov till ett magnetfält i rörelse som skapar radiovågor. Dessa svaga signaler mäts, och med databearbetning kan man visa detaljerade tvärsnittsbilder av kroppens inre.
+
+
+== Undersökningsmetoder ==
+Genom att variera parametrar som radiopulsernas frekvens, längd och tid mellan pulser i en så kallad pulssekvens kan man få fram bilder med varierande information. Ett exempel är att man kan välja om vatten eller fett skall framträda tydligt i bilderna. Andra exempel är hastighetskodade bilder där flöden i kroppen kan mätas. För funktionella studier kan också fysiologiska tidsförlopp studeras. Kontrastmedel såsom gadolinium används för att förbättra bildkontrasten vid en del undersökningar.
+
+
+== Patientens perspektiv ==
+Vid undersökningen ligger patienten på en brits som skjuts in i en tunnel där patienten måste ligga still under hela undersökningen som tar mellan 20 och 45 minuter och ger 100–300 bilder. Undersökningen är helt smärtfri, men vissa personer upplever det trånga utrymmet som obehagligt eller har svårt att ligga stilla så länge. När det varierande magnetfältet ändras hörs dessutom höga smällar.
+För att kunna ligga helt stilla fixerar man ofta de delar som ska undersökas vilket kan vara obehagligt om man exempelvis ska undersöka hjärnan. Det innebär då att man får huvudet fixerat i en typ av ställning som kan upplevas långt mycket värre än själva tomografen.
+Man kan även uppleva ett obehag av kontrastvätskan, men det brukar gå över på någon minut. Kontrastvätskan kan även ge upphov till hudutslag, huvudvärk och illamående med kräkningar; det är dock ovanligt.
+
+
+== Risker ==
+Kroppen utsätts för ett kraftigt statiskt magnetfält, ett mindre varierande magnetfält samt radiovågor. Det finns dock inga kända hälsorisker med dessa fält i sig. Däremot finns påtagliga faror i kombination med vissa föremål. Magnetiska föremål dras med sådan kraft in i magnetresonanstomografens fält att de kan fungera som projektiler och vålla allvarliga skador både på patienten och på maskinen. Metall i kroppen som vissa implantat, metallsplitter eller piercing kan börja rotera eller värmas upp så att de skadar patientens vävnad. Elektronisk utrustning som pacemakers kan skadas.
+Gravida brukar i allmänhet inte få genomgå undersökningen, utan man gör i första hand ett ultraljud. I nödfall kan de få genomgå undersökningen istället för att göra en röntgenundersökning för att undvika strålningen.
+
+
+== Specialiserade applikationer ==
+
+
+=== Funktionell magnetresonanstomografi ===
+
+Funktionell magnetresonanstomografi (fMRT, på engelska functional magnetic resonance imaging, förkortat fMRI) är en röntgenologisk metod. Denna metod mäter den hemodynamiska responsen vid en neurologisk aktivitet.
+
+
+=== Vätskediffusionsmagnetresonanstomografi ===
+
+Vätskediffusionsmagnetresonanstomografi (på engelsk

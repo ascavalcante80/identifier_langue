@@ -1,0 +1,51 @@
+ his works, which Capra (1996) finds "surprising".
+Cybernetics, catastrophe theory, chaos theory and complexity theory have the common goal to explain complex systems that consist of a large number of mutually interacting and interrelated parts in terms of those interactions. Cellular automata (CA), neural networks (NN), artificial intelligence (AI), and artificial life (ALife) are related fields, but they do not try to describe general (universal) complex (singular) systems. The best context to compare the different "C"-Theories about complex systems is historical, which emphasizes different tools and methodologies, from pure mathematics in the beginning to pure computer science now. Since the beginning of chaos theory when Edward Lorenz accidentally discovered a strange attractor with his computer, computers have become an indispensable source of information. One could not imagine the study of complex systems without the use of computers today.
+
+
+=== Complex adaptive systems ===
+
+Complex adaptive systems (CAS) are special cases of complex systems. They are complex in that they are diverse and composed of multiple, interconnected elements; they are adaptive in that they have the capacity to change and learn from experience. In contrast to control systems in which negative feedback dampens and reverses disequilibria, CAS are often subject to positive feedback, which magnifies and perpetuates changes, converting local irregularities into global features. Another mechanism, Dual-phase evolution arises when connections between elements repeatedly change, shifting the system between phases of variation and selection that reshape the system.
+The term complex adaptive system was coined at the interdisciplinary Santa Fe Institute (SFI), by John H. Holland, Murray Gell-Mann and others. An alternative conception of complex adaptive (and learning) systems, methodologically at the interface between natural and social science, has been presented by Kristo Ivanov in terms of hypersystems. This concept intends to offer a theoretical basis for understanding and implementing participation of "users", decisions makers, designers and affected actors, in the development or maintenance of self-learning systems.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+William Ross Ashby (1956). An Introduction to Cybernetics. Chapman & Hall.
+William Ross Ashby (1960). Design for a Brain: The Origin of Adaptive Behavior - 2nd Edition. Chapman & Hall.
+Gregory Bateson (1972). Steps to an Ecology of Mind: Collected essays in Anthropology, Psychiatry, Evolution, and Epistemology. University of Chicago Press.
+Ludwig von Bertalanffy (1968) General System Theory: Foundations, Development, Applications New York: George Braziller
+Arthur Burks (1970). Essays on Cellular Automata. University of Illinois Press.
+Colin Cherry (1957). On Human Communication: A Review, a Survey, and a Criticism. The MIT Press.
+C. West Churchman (1971). The Design of Inquiring Systems: Basic Concepts of Systems and Organizations. New York: Basic Books.
+Peter Checkland (1999) Systems Thinking, Systems Practice: Includes a 30-Year Retrospective. Wiley.
+James Gleick (1997). Chaos: Making a New Science, Random House.
+Hermann Haken (1983). Synergetics: An Introduction - 3rd Edition, Springer.
+John H. Holland (1992). Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence, The MIT Press.
+Humberto Maturana and Francisco Varela (1980). Autopoiesis and Cognition: The Realization of the Living. Springer Science & Business Media.
+James Grier Miller (1978). Living Systems. Mcgraw-Hill.
+John von Neumann (1951) "The General and Logical Theory of Automata." Cerebral Mechanisms in Behavior, 1-41.
+John von Neumann (1956) "Probabilistic Logics and the Synthesis of Reliable Organisms from Unreliable Components." Automata Studies, 34, 43-98.
+John von Neumann and Arthur Burks (editor) (1966). Theory of Self-Reproducing Automata. Illinois University Press.
+Talcott Parsons (1951). The Social System. The Free Press.
+Ilya Prigogine (1980). From Being to Becoming: Time and Complexity in the Physical Sciences. W H Freeman & Co.
+Herbert A. Simon (1996). The Sciences of the Artificial - 3rd Edition. Vol. 136 The MIT Press.
+Herbert A. Simon (1962). "The Architecture of Complexity." Proceedings of the American Philosophical Society. 106.
+Claude Shannon and Warren Weaver (1971). The Mathematical Theory of Communication. University of Illinois Press.
+René Thom (1972). Structural Stability and Morphogenesis: An Outline of a General Theory of Models. Reading, Massachusetts.
+Warren Weaver (1948) "Science and Complexity." The American Scientist. 536-544.
+Norbert Wiener (1965). Cybernetics, Second Edition: or the Control and Communication in the Animal and the Machine. Cambridge: The MIT Press.
+Lofti Zadeh (1962). "From Circuit Theory to System Theory." Proceedings of the IRE, 50(5), 856-865.
+
+
+== External links ==
+Systems theory at Principia Cybernetica Web
+Organizations
+International Society for the System Sciences
+New England Complex Systems Institute
+System Dynamics Society
+Institute of Global Dynamic Systems, Canberra, Australia

@@ -1,0 +1,6 @@
+skei) of wit-ruimtes gebruik word nie. Hierdie karakters moet dan genoteerd word as %kode, waarby kode die twee-syfer heksadesimale voorstelling van die karakterkode is.
+Baie kliënte (en soms ook bedienerapplikasies) het beperkinge wat die lengte van URL’s betref. So kan URL’s van 5000 karakters probleme oplewer (afhanklik van die implementasie kan dit al by 1024 karakters gebeur). Daarom is dit nie verstandig om te veel gegewens in byvoorbeeld die navraagstring op te neem nie.
+
+
+== Eksterne skakels ==
+Die RFC vir URL’s: RFC 1738

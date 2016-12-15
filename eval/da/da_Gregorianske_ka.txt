@@ -1,0 +1,38 @@
+ntal dage mellem to datoer ===
+Denne kan gøres meget enkel med factor():
+
+   Dage = labs ( factor(Dato1) – factor(Dato2) ).
+
+C-funktionen labs() udregner den absolutte værdi.
+
+
+=== Kontrol af om en dato er ok ===
+Ved indtastning af datoer er der ofte behov for at kontrollere om datoen er gyldig, så f.eks. datoer som d. 29. februar 1995 eller 31. april ikke accepteres. Året kontrolleres på sædvanlig vis, evt. suppleret med, at det for Danmark skal være fra og med marts 1700. Måneden er nem at kontrollere, idet det selvfølgelig er et tal fra 1 til 12. Antallet af dage i måneden kan med factor() let beregnes, idet den fremgår som antallet af dage mellem den første i den aktuelle måned og den 1. i næste måned. En simpel procedure til at foretage en sådan kontrol er date_ok().
+
+
+=== Adder N dage til en dato, og udregn den nye dato ===
+Det nemmeste er at udregne factor() for datoen og addere de N dage:
+
+             F = factor(dato) + N ;
+
+Derefter divideres med 365.2425, og det fremkomne tal skulle gerne være årstallet:
+
+         ÅR= F * 10000UL / 3652425UL;
+
+Som kontrol udregnes F1 = factor( 1.jan.ÅR), og F2 = factor( 1.jan.(ÅR+1). Hvis der på grund af afrundingsfejl ikke gælder uligheden:
+
+           F1 ⇐ F < F2
+
+Må ÅR korrigeres med +/- 1.
+Måneden findes lettes ved at udregne Fm = factor(1.MD.ÅR) for alle måneder startende med MD=1, indtil Fm > F. Dagen kan så findes som differencen mellem Fm og F.
+
+
+== Referencer ==
+TI Programmerbar 58/59, Standardbibliotek, 1977, (manual).
+Nordisk Konversations Leksikon. Focus, 1972, Gjellerup.
+Databog i fysik og kemi. F&K forlaget. ISBN 87-87229-09-9 .
+http://www.rundetaarn.dk/dansk/observatorium/gregory.html
+
+
+== Se også ==
+Symmetri454 (el. Symmetri454-kalenderen (Sym454)) - forslag fra 1970'erne til en reform af den gregorianske kalender

@@ -1,0 +1,54 @@
+Sauropsida, les sauropsides, constituent un clade regroupant les oiseaux, tous les reptiles actuels et une partie seulement des reptiles fossiles. C'est un groupe monophylétique d'animaux qui est le groupe frère des synapsides, c'est-à-dire aujourd'hui des mammifères, avec lesquels ils forment le taxon des amniotes.
+
+
+== Histoire du taxon ==
+Le naturaliste Huxley (1825-1895) démontra les parentés profondes existant entre reptiles et oiseaux qu'il réunit dans un groupe nommé les sauropsides en 1864.
+Le terme « sauropside » est formé de deux mots grecs, saura signifiant « lézard » et apsis qui veut dire « liaison ».
+Les plus anciens fossiles connus des sauropsides, clairement distingués des mammifères, sont datés d'environ -315 Ma. Les sauropsides, principalement les dinosaures, formaient la partie la plus importante des animaux de grande taille au Mésozoïque, jusqu'à la transition Crétacé-Tertiaire il y a 65 Ma. Après cette crise, les mammifères récupérèrent les niches écologiques correspondantes, mais pas celles des oiseaux qui eux aussi se diversifièrent.
+Les reptiles au sens courant, c'est-à-dire sans les oiseaux, forment un groupe paraphylétique qui, par conséquent, n'est pas pertinent pour évaluer les degrés de parenté entre ces espèces. L'utilisation de ce terme reptiles sous-entend par exemple, que n'importe quel reptile est plus proche d'un autre reptile que d'un oiseau, ce qui est faux : les crocodiles par exemple sont plus proches des oiseaux que des lézards.
+
+Le groupe des sauropsides en revanche, étant monophylétique, indique bien que tous les animaux qui en font partie ont un même lien de parenté exclusif, et ne préjuge pas des différents degrés de parenté entre espèces à l'intérieur de ce groupe (le terme sauropside n'indique pas si le crocodile est plus proche de l'oiseau ou du lézard, et donc, n'induit plus d'erreur).
+Le grade reptile a longtemps été abandonné, mais certains auteurs commencent à le réutiliser mais en tant que clade, défini comme synonyme (à quelques groupes fossiles près) du clade Sauropsida.
+
+
+== Caractères propres du taxon ==
+Quelques caractères propres aux sauropsides :
+Présence d'une quille ventrale sous les vertèbres cervicales, l’hypapophyse.
+Le système excréteur produit de l’acide ornithurique.
+L’iris de l’œil comporte des muscles striés qui compriment le cristallin pour faire la mise au point.
+
+
+== Phylogénie ==
+
+  Sauropsida
+  |--Anapsida
+  |  |--Mesosauridae (éteints)
+  |  `--Parareptilia
+  |     |--Millerettidae (éteints)
+  |     |--Bolosauridae (éteints)
+  |     `--Procolophonomorpha
+  |        |--Procolophonia
+  |        |  |--Procolophonidae (éteints)
+  |        |  `--Pareiasauridae (éteints)
+  |        `?-Testudines (tortues)
+  `--Eureptilia         
+     |--Captorhinidae (éteints)
+     `--Romeriida
+        |--Protorothyrididae (éteints)
+        `--Diapsida
+           |--Araeoscelidia (éteints)
+           |--Avicephala (éteints)
+           `--Neodiapsida
+              |?-Younginiformes (éteints)
+              `--+--Lepidosauromorpha
+                 |  |?-Euryapsida
+                 |  |  |?-Sauropterygia (éteints)
+                 |  |  `?-Ichthyopterygia (éteints)
+                 |  `--Lepidosauriformes
+                 |     `--Lepidosauria
+                 |        |--Sphenodontida (incluant les Tuataras)
+                 |        `--Squamata (incluant les lézards, mosasaures et les serpents)
+                 `--Archosauromorpha
+                    |?-Choristodera (éteints)
+                    |--Trilophosauridae (éteints)
+          

@@ -1,0 +1,67 @@
+XHTML (Extensible Hypertext Markup Language) is een opmaaktaal voor vooral websites, die de functionaliteit heeft van HTML, maar een striktere syntaxis. Dit omdat HTML gebaseerd is op het flexibele SGML, waar XHTML gebaseerd is op XML, een striktere subset van SGML. Door de striktere syntaxis van XML-documenten kunnen deze makkelijker verwerkt worden door een XML-parser, terwijl SGML-documenten een veel complexere parser nodig hebben. XHTML 1.0 is een W3C-standaard geworden op 26 januari 2000.
+
+
+== Voordelen van XHTML ==
+XHTML biedt, mits goed gebruikt, enkele voordelen boven HTML. Doordat XML-documenten well-formed moeten zijn, kunnen ze makkelijker geïnterpreteerd worden door useragents. Een correcte XML-parser moet namelijk een fatale error geven als een XML-document niet volledig correct is, terwijl bij SGML-parsers complexe error-correcties worden gedaan. Doordat voor het verwerken van XHTML minder rekenkracht nodig is kan deze ook beter verwerkt worden door useragents met minder rekenkracht, zoals mobiele telefoons en pda's.
+Door de modularisatie van XHTML kan XHTML makkelijk uitgebreid worden met nieuwe elementen en attributen. Ook worden hiermee de compatibiliteitsproblemen opgelost die ontstonden door onofficiële uitbreidingen van de HTML-standaard die niet door alle browsers werden ondersteund.
+In XHTML kunnen verschillende XML-namespaces gebruikt worden, zo kunnen MathML en Scalable Vector Graphics in een XHTML-document verweven worden.
+
+
+== Verschillen met HTML 4.01 ==
+
+
+=== Inhoudelijk ===
+De inhoudelijke verschillen tussen XHTML 1.0 (XHTML 2.0 wordt verderop besproken) en HTML zijn niet groot, dezelfde elementen en attributen zijn te gebruiken. Het grootste verschil tussen XHTML en HTML is dat XHTML well-formed moet zijn, dit houdt in dat:
+Alle elementen moeten gesloten worden
+Incorrect: <p>Dit is een alinea.<p>Dit is nog een alinea.
+Correct:   <p>Dit is een alinea.</p><p>Dit is nog een alinea.</p>
+
+Ook lege elementen moeten gesloten worden
+Incorrect: <br>
+Correct:   <br />
+
+Elementen moeten correct genest worden
+Incorrect: <em><strong>Dit is tekst met nadruk.</em></strong>
+Correct:   <em><strong>Dit is tekst met nadruk.</strong></em>
+
+Attribuutwaarden moeten tussen aanhalingstekens
+Incorrect: <td rowspan=3>
+Correct:   <td rowspan="3">
+
+Alle elementen en attributen moeten met kleine letters geschreven worden
+Incorrect: <BODY><P ID="iets">Wikipedia</P></BODY>
+Correct:   <body><p id="iets">Wikipedia</p></body>
+
+Attributen mogen niet geminimaliseerd worden
+Incorrect: <textarea readonly>READ-ONLY</textarea>
+Correct:   <textarea readonly="readonly">READ-ONLY</textarea>
+
+style- en script-elementen zijn #PCDATA en zullen dus geparset worden. Speciale karakters, zoals <, moeten gecodeerd worden als entiteit of binnen een CDATA blok geplaatst worden
+Incorrect: <script type="application/x-javascript">if (i < j) document.write("kleiner");</script>
+Correct:   <script type="application/x-javascript"><![CDATA[if (i < j) document.write("kleiner");]]></script>
+
+Zogenaamde lege elementen zoals <br /> en <hr /> kunnen ook voluit worden geschreven als <br></br> en <hr></hr> in XHTML, dit wordt echter sterk afgeraden omdat veel (oudere) browsers hier niet goed mee omgaan en omdat het syntactisch gezien de indruk wekt dat deze elementen iets kunnen bevatten.
+Voor de omzetting van HTML naar XHTML zijn programma's ontwikkeld, maar in principe kan dit ook handmatig worden gedaan.
+
+
+=== Technisch ===
+Om XHTML 1.0 compatibel te houden met HTML 4.01 mag XHTML 1.0 worden opgestuurd met het mime-type text/html dat eigenlijk bedoeld is voor HTML. Dit heeft echter enkele nadelen, XHTML die is verstuurd met dit mime-type wordt namelijk gewoon verwerkt als HTML, het document is dan dus eigenlijk invalide HTML 4.01 in plaats van XHTML, zogenaamde tag-soup. XHTML-documenten verstuurd met het correcte application/xhtml+xml-mime-type worden door sommige browsers, onder andere het veelgebruikte Internet Explorer (tot versie 9), niet ondersteund. Andere browsers zoals Firefox en Chrome ondersteunen dit wel.
+
+
+== Versies van XHTML ==
+
+
+=== XHTML 1.0 ===
+XHTML 1.0 was de eerste XHTML-versie en werd een W3C-standaard op 26 januari 2000. XHTML 1.0 is een herformulering van HTML 4.01 in XML met als doel backwards compatible te zijn. Er zijn drie versies van XHTML 1.0:
+XHTML 1.0 Strict, is hetzelfde als HTML 4.01 Strict met XML-regels.
+XHTML 1.0 Transitional, staat sommige afgekeurde elementen en attributen toe die niet in XHTML 1.0 Strict gebruikt mogen worden, zoals <center>, <u>, <strike>, en <applet>.
+XHTML 1.0 Frameset, staat het gebruik van HTML-frames toe.
+
+
+=== XHTML 1.1 ===
+XHTML 1.1 is de eerste XHTML-versie die is gebaseerd op de modularisatie van XHTML en zou de basis moeten zijn van toekomstige XHTML-versies. Door deze modularisatie en het niet meer toestaan van het text/html-mime-type is XHTML 1.1 niet compatibel met XHTML 1.0 en HTML 4.01. XHTML 1.1 heeft ook ondersteuning voor Ruby, een opmaaktaal voor Oost-Aziatische talen.
+
+
+=== XHTML 2.0 ===
+Deze versie van XHTML 2.0 was in ontwikkeling, maar is nooit een gebruikte standaard geworden. Het zou een volledig nieuwe opmaaktaal zijn en niet zomaar een nieuwe versie. XHTML 2.0 was dan ook niet compatibel met HTML of enig andere versie van XHTML. In 2009 heeft W3C besloten de ontwikkeling van XHTML 2.0 stop te zetten ten gunste van HTML5 .
+De grootste verschillen tusse

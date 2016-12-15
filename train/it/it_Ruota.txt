@@ -1,0 +1,44 @@
+Una ruota è un oggetto circolare in grado di ruotare attorno ad un asse centrale. Viste le sue molteplici applicazioni, dalla meccanica all'idraulica o ai trasporti, è considerata una delle invenzioni più rivoluzionarie della storia e del progresso dell'umanità.
+
+
+== Meccanica ==
+Le ruote sono usate in combinazione con gli assi, a cui la ruota può essere solidale e riceverne moto, oppure può girare liberamente rispetto all'asse per mezzo di cuscinetti. La riduzione delle resistenze all'avanzamento offerta dalla ruota è dovuta al fatto che le dissipazioni per attrito radente sono limitate alla zona di contatto tra la ruota e l'asse: inoltre la leva costituita dalla ruota con fulcro nel centro riduce la velocità di strisciamento e quindi la forza di attrito quanto maggiore è il diametro della ruota.
+Esempi:
+Per un oggetto di massa 100 kg (corrispondenti ad un peso di circa 981 N) trainato per 10 m su una superficie con μ = 0,5, il lavoro richiesto per vincere l'attrito è di 981 × 10 × 0,5 = 4905 J.
+Consideriamo lo stesso oggetto montato su quattro ruote. Supponendo che il diametro di ogni ruota sia di un metro e il diametro dell'asse sia 50 mm, il rapporto della leva è pari a 0,05. Supponendo un coefficiente di attrito tra le superfici μ = 0,1 (migliore in quanto il cuscinetto della ruota è appositamente studiato per ridurre l'attrito) si ha: 981 × 0.05 × 0.1 × 10 = 49 J.
+In realtà un'ulteriore perdita di energia è dovuta alle deformazioni che la ruota subisce a contatto con il suolo. Questa perdita è particolarmente bassa nelle ruote rigide dei treni.
+
+
+== Storia ==
+
+In linea generale si ipotizza che l'uso della ruota fosse anticipato da quello della slitta, in seguito si inventò il rotolamento dei pesi su dei tronchi d’albero.
+Secondo gli studiosi la ruota fu inventata nell'antica Mesopotamia (dai Sumeri) nel V millennio a.C. per la lavorazione di vasellame. Gli Inca e altre culture occidentali sembrano essersi avvicinate al concetto di ruota, che appare in alcuni giocattoli in pietra, senza farne però un uso moderno. La ruota sembra non essere stata conosciuta nell'Africa sub-sahariana e in Australia prima del contatto con il resto del mondo.
+Sebbene non abbiano sviluppato propriamente la ruota, gli Olmechi ed altre culture dell'Ovest sembrano essersi approcciati come dimostrato dal ritrovamento di un gioco per bambini datato 1500 anni prima di Cristo. Si pensa che il primo ostacolo all'utilizzo in larga scala della ruota fu la mancanza di grandi animali addomesticati che potessero essere utilizzati per trainare i carri. Il bisonte americano è difficile da addomesticare ed il cavallo, presente fino a 12.000 anni fa, si estinse rapidamente in seguito alla caccia effettuata dagli umani appena giunti nel nuovo continente. Il solo animale che fu addomesticato nel Nuovo mondo fu il lama, che non si diffuse oltre le Ande, sino al tempo dell'arrivo di Colombo.
+Concludendo, probabilmente l'invenzione è stata possibile soltanto in quelle aree, come Mesopotamia e Cina, in cui sono stati addomesticati animali selvatici di grossa e media taglia, i soli in grado di fornire la forza motrice necessaria ai carri.
+L'invenzione si colloca nella stessa epoca neolitica a cui risalgono altre invenzioni che diedero origine a quella che è chiamata l'età del bronzo. Questo implica un periodo di alcuni millenni dopo l'epoca dell'invenzione dell'agricoltura, quando la ruota non era conosciuta.
+Le prime ruote erano semplici dischi in legno con un foro in mezzo per l'asse come quelle rappresentate nello Stendardo di Ur XXV secolo a.C. Negli affreschi egizi vi sono invece ruote a raggi e altri esempi di ruote a raggi sono presenti in Siberia nella cultura Andronovo del XX secolo a.C. Nel I millennio a.C. i Celti circondarono la ruota in legno con un cerchio di ferro, realizzando un modello di ruota ancora in uso nel XX secolo.
+
+
+== Cinematica ==
+
+Il moto associato all'avanzamento e alla rotazione di una ruota è il rotolamento. Eccetto l'asse di rotazione, ogni punto della ruota disegna una curva cicloide. Per una ruota di raggio r, le componenti cartesiane della velocità Vx e Vy sono ricavabili in funzione dell'angolo di rotazione considerando il moto di rotolamento come la somma di due moti puri: uno di trascinamento e uno di rotazione.
+
+Nel rotolamento, i punti compresi tra l'asse di rotazione e la circonferenza della ruota disegnano una curva cicloide accorciata. Considerata una ruota di raggio r che abbia un cerchio di raggio h concentrico e solidale con l'asse di rotazione, analogamente alla cicloide ordinaria, le componenti cartesiane della velocità del cerchio V'x e V'y sono ricavabili in funzione dell'angolo di rotazione dalle seguenti equazioni.
+
+
+== Innovazioni ==
+Negli ultimi anni le ruote sono state prodotte e presentate in diverse configurazioni, tra cui l'ultima nel 2005 la ditta francese Osmos wheel, dove si ha solo la parte più perimetrale del cerchione il quale viene montato su un cuscinetto di dimensioni molto elevate, il quale dalla parte più esterna è fissato alla ruota, dalla parte più interna è vincolato al sistema di sospensione del mezzo.
+
+
+== Uso ==
+La ruota è stata un'invenzione importante non solo per i trasporti ma per il progresso tecnologico in generale. Esistono anche altri tipi di ruota come per esempio la ruota idraulica, gli ingranaggi, il volano, la ruota del vasaio, la carrucola e infine la ruota per filare, inoltre viene usata anche nei motomodellini dinamici, ma in questo caso si ha la ruota posteriore arricchita da un giroscopio.
+
+
+== Eventi legati alla ruota ==
+Nel luglio 2001 il principio della ruota fu brevettato come "dispositivo circolare con funzione di trasporto". Il brevetto, depositato da John Keogh, un avvocato di Melbourne (Australia), aveva lo scopo dichiarato di dimostrare l'assurdità del moderno sistema brevettuale.
+
+
+== Ruota di scorta ==
+
+La ruota di scorta è una ruota supplementare, normalmente non utilizzata, utile per l'eventuale sostituzione in caso di foratura delle ruote usate normalmente, questa può essere:
+Ruota normale ha le stesse misure delle ruote usat

@@ -1,0 +1,60 @@
+Ocel je slitina železa, uhlíku a dalších legujících prvků, která obsahuje méně než 2,14 % uhlíku. Při obsazích uhlíku vyšších než 2,14 % se hovoří o litinách. Může se vyskytovat ve více fázích (austenit, ferit, perlit, ledeburit, cementit), které popisuje fázový binární diagram železo-uhlík a v několika strukturách (martenzit, bainit, sorbit, troostit, žmirin), které popisují tzv. diagramy IRA nebo ARA.
+V technické praxi se výraz „železo“ ponechává pro označení chemického prvku, popř. chemicky čistého železa jako takového. Technické slitiny se označují vždy jako „ocel“ resp. „litina“.
+
+
+== Výroba oceli ==
+Novověký způsob výroby oceli je metalurgický proces, při kterém se ze surového železa vyrobeného ve vysoké peci získává slitina železa s uhlíkem a dalšími chemickými prvky. Množství uhlíku je sníženo na požadovanou úroveň stejně jako nečistoty jakými jsou síra a fosfor. Naopak do slitiny jsou dodávány další, tzv. legující prvky, např. mangan, křemík, hliník, chróm, nikl apod.
+Podrobnější informace naleznete v článku Výroba oceli.
+Základní informace o historických postupech výroby oceli naleznete v článcích Hamr a Svářková ocel.
+
+
+== Vlastnosti oceli ==
+
+Oceli jsou nejčastěji používanými kovovými materiály. Legováním uhlíkem a dalšími prvky a kombinací tepelného a tepelně-mechanického zpracování je možno ovlivnit vlastnosti ocelí v širokém rozmezí a tak jejich vlastnosti přizpůsobit zamýšlenému použití. Strukturní složky jsou popsány v binárním diagramu železo-uhlík. Hustota oceli je 7850 kg/m³. Měrná tepelná kapacita oceli je cca 469 J.kg-1.K-1 (závisí na obsahu příměsí). Bod tavení oceli je přibližně 1539 °C.
+
+
+=== Fyzikální vlastnosti oceli ===
+Závisí na hm.% C, níže uvedené hodnoty jsou pouze orientační.
+modul pružnosti – E = 210 000 MPa
+modul pružnosti ve smyku – G = 81 000 MPa
+Poissonovo číslo – v = 0,3
+
+
+== Druhy ocelí ==
+V současné době je vyráběno asi 2500 druhů ocelí. V normách (ČSN, DIN, atd.) jsou oceli rozděleny do skupin jednak podle chemického složení, jednak podle struktury a mechanických a fyzikálních vlastností.
+Podle chemického složení jsou oceli rozdělovány do následujících skupin:
+
+
+=== Nelegované oceli ===
+Zvané také uhlíkové oceli. Obsah legujících prvků je nižší než je maximální tabelovaná hodnota pro daný prvek. Pro většinu prvků je tento maximální hmotnostní podíl kolem 2 %. Mechanické vlastnosti uhlíkových ocelí lze modifikovat tepelným (žíhání, kalení, popouštění), tepelně-mechanickým a tepelně-chemickým (cementace a nitridace) zpracováním.
+
+
+=== Nízkolegované oceli ===
+Obsah legujících prvků po odečtení obsahu uhlíku je nižší než 5 %. Mají podobné vlastnosti jako oceli nelegované, ale jsou vhodné pro tepelné zpracování. Tepelným zpracováním je u nich možno ovlivnit mechanické vlastnosti. Se stoupajícím obsahem uhlíku stoupá i tvrdost po kalení. A to až do obsahu 0,85 hm. % C. S vyšším obsahem uhlíku se kalením už tvrdost dále nezvyšuje. Samotný obsah uhlíku má však také vliv na pevnost oceli, čím vyšší obsah, tím je ocel pevnější. Například kdysi se vyráběly radlice pluhu z oceli 11700, u kterých výrobce uváděl po překování (naostření) už není nutno kalit, protože ocel s takovým obsahem uhlíku byla sama o sobě dostatečně tvrdá.
+
+
+=== Vysoce legované oceli ===
+
+Obsah legujících prvků je vyšší než 5 %. Kombinací legujících prvků se dosahuje potřebných mechanických, fyzikálních a chemických vlastností.
+
+
+=== Rozdělení podle oblastí použití ===
+Podle oblasti použití lze oceli rozdělit do následujících skupin:
+Konstrukční oceli – jsou zpravidla nelegované oceli používané ve strojírenství, stavebnictví, apod.
+Automatové oceli – jsou uhlíkové oceli se zvýšeným obsahem síry (kolem 0,3 %) a manganu (kolem 1 %), který váže síru na MnS, případně olova (kolem 0,3 %). Dosahují dobré obrobitelnosti s kvalitním povrchem při veliké řezné rychlosti a snadné lámavosti třísky při obrábění.
+Betonářské oceli – na armovací drát nebo tyče ve stavebním průmyslu. Většinou nelegované nebo nízko legované oceli.
+Oceli na pružiny – „pérová ocel“ nebo též „pružinová ocel“, musí vykazovat dobré statické a dynamické vlastnosti a musí mít vysokou únavovou životnost. Vhodné jsou zde nelegované oceli s vyšším obsahem uhlíku a oceli slitinové se zvýšeným obsahem manganu, chromu, případně křemíku, (např. ČSN 12071 nebo ČSN 14260).
+Ocel k cementování – do této skupiny patří oceli s nízkým obsahem uhlíku, které mají i po kalení dobré plastické vlastnosti. Vysoké tvrdosti povrchu se dosahuje obohacením povrchových vrstev uhlíkem před kalením. (např. ČSN 412023, 412024, 412030, …)
+Ocel pro elektrotechnické plechy – pro výrobu jader transformátorů a točivých strojů musí mít charakteristické magnetické vlastnosti, ale současně také schopnost k technologickému zpracování. Těmto účelům nejlépe vyhovují oceli s obsahem 1 až 4,5 % křemíku a s minimálním obsahem uhlíku a dalších legujících prvků.
+Hlubokotažné ocele – jsou používány na výrobu hlubokotažných plechů. Plechy musí vykazovat především dobré plastické vlastnosti. Tyto oceli jsou nízkouhlíkové s minimálním obsahem legujících prvků. Zlepšení mechanických vlastností a jejich stability se dosahuje mikrolegováním hliníkem, titanem, vanadem, borem, zirkonem a niobem. Jsou to zejména materiály pro karosářské plechy (např. ČSN 412009).
+Ocel k zušlechťování – oceli se středním obsahem uhlíku, které se po kalení popouštějí na vyšší teploty, aby se dosáhlo vysoké houževnatosti při zachování dobré pevnosti (např. ČSN 412042, 412050, 412051, 412052, …). Tyto oceli, jako materiál, lze také koupit už zušlechtěné. Ve třídě oceli za tečkou mají číslo 6, 7, 8. Např.: 12040.6. Zušlechtěné oceli jsou pevnější, ale lze je ještě obrábět - soustružit, frézovat, apod oproti kaleným ocelím, které lze už jen brousit. Zušlechtěná ocel je částečně houževnatá. Zušlechťování se skládá z běžného kalení a popuštění oceli na vyšší teplotu. Při zušlechťování nám nejde primárně o tvrdost oceli, ale o zlepšení mechanických vlastností, např. pevnosti v tahu a struktury oceli. Tím může být pak výrobek lehčí (např. ojnice a spojnice u parní lokomotivy atd).Pro základní orientaci možno uvést, že u obyčejných uhlíkových ocelí se po zušlechtění jejich pevnost v tahu zvýší asi o čtvrtinu.
+Korozivzdorné, žáruvzdorné a žárupevné oceli – Jsou vysocelegované oceli, legované především chromem a niklem. Obsah chromu nad 8% rozpuštěného v oceli vytváří na vzduchu pasivní vrstvu oxidu chromitého, která brání další korozi. Nikl zvyšuje odolnost v agresivních prostředích (například kyselinách). Korozivzdorné oceli se dělí do čtyř hlavních skupin - martenzitické, feritické, austenitické a feriticko-austenitické. Nejběžnější – austenitické – jsou nemagnetické a používají se i pro výrobu nádobí, tzv. ocel 18–10.
+Nástrojové oceli – jsou uhlíkové, středně legované a vysocelegované ocele nebo oceli rychlořezné (jsou samokalitelné) typicky s vyšším až vysokým obsahem uhlíku a používají se na výrobu různých nástrojů a forem. Označují se předčíslím 19. (např. ČSN 19855 - Nástroje na těžko obrobitelné materiály a pro nejvyšší výkony, zejména nože na kovy, vrtáky, zápichové nože,frézy, nástroje na ozubení apod.) Ocel uhlíková a ocel rychlořezná dosáhne při kalení stejné tvrdosti, ale ocel uhlíková drží tvrdost ostří (břitu) cca do 240 °C, vyšší teplotou začíná měknout. Ocel rychlořezná drží tvrdost ostří i při vyšší teplotě než 500 °C a obsahuje vysoký podíl karbidů wolframu a molybdenu. Ve srovnání s ocelemi uhlíkovýmí a středně legovanými umožňuje mnohem rychlejší obrábění a proto vznikl i název rychlořezná. Tato ocel se začala vyrábět už před 1. světovou válkou.
+Jako damascénská ocel je označován materiál na výrobu šavlí, mečů, apod. Je znám svou vysokou pružností a pevností. Tento materiál však není jedním druhem oceli, ale sestává z různých druhů oceli, které jsou svařeny v ohni kováním (spojování materiálu za tepla).
+
+
+== Recyklování ==
+Ocel se recykluje již víc než 150 let a to hlavně z ekonomických důvodů. Je totiž levnější ocel recyklovat, než těžit železnou rudu a vynakládat finance na výrobu „nové“ slitiny. Finanční nároky výroby nové slitiny jsou ve srovnání s náklady na recyklaci obrovské. Recykluje se také proto, že ocel během procesu recyklace neztrácí žádné ze svých vlastností. Je to nejvíce recyklovaný materiál v Severní Americe. Energie ušetřená recyklováním oceli snižuje roční spotřebu energie průmyslu až o 75 %. Toto procento představuje množství energie dostačující k zásobování 18 milionů rodin po dobu jednoho roku. Recyklováním jedné tuny oceli se ušetří 1100 kg železné rudy, 630 kg uhlí a 55 kg vápence. V roce 2005 bylo recyklováno 76 milionů tun oceli.
+V poslední době se každým rokem zrecykluje asi tři čtvrtě z celkové roční produkce oceli. U některých druhů ocelových produktů je tento poměr ještě vyšší. Například v letech 2004 a 2005 bylo zrecyklováno 97,5 % tyčí a plátů z konstrukční oceli. Výztužných ocelových tyčí bylo zrecyklováno asi 65 % z jejich celkové roční produkce. Konstrukční ocel tak typicky obsahuje asi 95 % recyklovaného materiálu. Oproti tomu lehčí typ oceli, jako je ocel válcovaná, obsahuje „pouze“ 30 % recyklovaného materiálu.
+Ocelové tyče se vyrábí ve standardizovaných velikostech a tak se při jejich výrobě vyprodukuje jen velmi málo odpadu (tento odpad je samozřejmě recyklovatelný). Na průměrně velký dvoupodlažní dům se spotřebuje množství oceli přirovnatelné k 6 zrecyklovaným autům. Na stejný dům s dřevěnou konstrukcí by padlo asi 40 - 50 stromů.
+Celosvětová poptávka po oceli neustále roste. Přestože zatím bylo oceli vyprodukováno obrovské množství, většina je stále v oběhu. Nejběž

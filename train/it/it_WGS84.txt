@@ -1,0 +1,33 @@
+WGS84 (sigla di World Geodetic System 1984) è un sistema di coordinate geografiche geodetico, mondiale, basato su un ellissoide di riferimento elaborato nel 1984. Esso costituisce un modello matematico della Terra da un punto di vista geometrico, geodetico e gravitazionale, costruito sulla base delle misure e delle conoscenze scientifiche e tecnologiche disponibili al 1984.
+I datum della geodesia classica possono essere definiti locali o regionali, approssimando bene il geoide solo in un intorno del punto di emanazione, mentre il datum globale WGS84 utilizza lo standard EGM96, che approssima il geoide nel suo complesso ed è valido per tutto il mondo.
+
+
+== Il sistema convenzionale terrestre WGS84 ==
+Dal punto di vista geometrico, il WGS84 è un particolare sistema terrestre convenzionale (CTS Conventional Terrain System), ovvero un sistema di riferimento cartesiano usato per descrivere la Terra, le cui caratteristiche sono:
+centro: nel centro di massa della Terra;
+asse Z: passante per il polo Nord, come definito dal BIH nel 1984;
+asse X: passante per il meridiano di Greenwich, come definito dal BIH nel 1984;
+asse Y: scelto in modo da dare una terna destrorsa, ovvero tale che un osservatore posto lungo l'asse Z veda l'asse X sovrapporsi a Y con moto antiorario, il che pone Y in Asia.
+
+
+=== Ellissoide ===
+Al sistema CTS WGS84 è associato l'ellissoide WGS84, descritto dai seguenti parametri:
+semiasse maggiore: a = 6 378 137 m;
+semiasse minore: c = 6 356 752,3142 m;
+schiacciamento: f = 1/298,257223563;
+costante gravitazionale geocentrica: u = 3 986 005 × 108  m³/s².
+
+
+=== Rappresentazione cartografica ===
+Il sistema WGS84 non ha associata una rappresentazione cartografica ufficiale, ma comunemente viene utilizzata la rappresentazione UTM, che assume la denominazione UTM-WGS84.
+
+
+== Utilizzo ==
+
+
+=== GPS ===
+Il sistema satellitare di navigazione GPS utilizza il WGS84.
+
+
+=== Navigazione aerea ===
+Dal 2000 è obbligatorio l'utilizzo del WGS84 come standard per la navigazione aerea. In Italia sia l'Aeronautica Militare che l'ENAV, la società nazionale di assistenza al volo, hanno terminato la 

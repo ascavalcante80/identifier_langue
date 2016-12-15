@@ -1,0 +1,17 @@
+Yohkoh (jap. ようこう, Yōkō) – satelita służący do badań Słońca w zakresie rentgenowskim. W początkowej fazie misji nosił nazwę Solar-A. Nazwa „Yohkoh” z japońskiego oznacza „promień światła”. Został wystrzelony 30 sierpnia 1991 r. z japońskiego centrum kosmicznego Kagoshima (Kagoshima Space Center – KSC) za pomocą rakiety M-3S2. Jako główny cel misji wyznaczono obserwacje wysoko energetycznych zjawisk na Słońcu podczas 22 cyklu aktywności słonecznej, a w szczególności rozbłysków słonecznych w zakresie rentgenowskim i gamma.
+
+
+== Orbita ==
+Satelita obiegał Ziemię po lekko eliptycznej orbicie na wysokości od 570 km do 730 km. Okres obiegu orbitalnego wynosił 90 minut. Podczas jednego obiegu obserwował Słońce od 65 do 75 minut, resztę czasu przebywał w cieniu Ziemi. Podczas 5-6 orbit dziennie, Yohkoh przechodził przez pasy radiacyjne ziemskiej magnetosfery i w tym czasie większość instrumentów musiała być wyłączona, aby nie ulec zniszczeniu.
+
+
+== Koniec misji ==
+Yohkoh zakończył obserwację w grudniu 2001 r., kiedy to na jego orbicie nastąpiło zaćmienie Słońca. W wyniku tego zdarzenia systemy pokładowe straciły orientację w przestrzeni, a tym samym uniemożliwiły dopływ energii elektrycznej z baterii słonecznych. Warto jednak podkreślić, że satelita według założeń miał działać tylko 3 lata - a działał 10 lat. Satelita spłonął w trakcie ponownego wejścia w atmosferę 12 września 2005.
+
+
+== Budowa satelity ==
+Satelita na swym pokładzie posiadał cztery instrumenty:
+Teleskop twardego promieniowania rentgenowskiego (Hard X-ray Telescope – HXT). HXT obserwował Słońce w czterech zakresach energetycznych przez 64 siatki modulujące strumień twardego promieniowania rentgenowskiego. Dzięki modulacjom możliwe było naziemne odtworzenie obrazów z rozdzielczością przestrzenną 5 sekund łuku i maksymalną rozdzielczością czasową 0,5 sekundy.
+Teleskop miękkiego promieniowania rentgenowskiego (Soft X-ray Telescope – SXT). Obrazy z SXT uzyskiwano w zakresie 0,25-4,0 keV. Do tego celu używano filtrów metalicznych, które przepuszczały zadany zakres promieniowania. Maksymalne rozdzielczości przestrzenne jakie uzyskiwano to 2,5 sekundy łuku, oraz czasowe 2 sekundy. Informację na temat temperatury i gęstości emitującej plazmy obserwowanej w miękkim promieniowaniu rentgenowskim otrzymywano porównując obrazy wykonane w różnych filtrach. W teleskopie zastosowano lustro typu Volter (technika „ślizgających promieni” polegająca na bardzo małych kątach padania) oraz detektor CCD (1024x1024 piksele). Dodatkowo SXT posiadał również teleskop światła białego korzystający z tego samego detektora CCD. Niestety działał on tylko do końca 1993 r., kiedy mikrometeoroid uszkodził układ optyczny.
+Szerokopasmowy spektrometr promieniowania rentgenowskiego i gamma (Wide-band X-ray, gamma-ray spectrometer – WBS). Instrument ten składał się z trzech detektorów: miękkiego i twardego promieniowania rentgenowskiego oraz gamma. Był zaprojektowany do otrzymywania widm w szerokim zakresie energetycznym z rozdzielczością czasową 1 sekundy.
+Spektrometr z kryształem Bragga (Bragg Crystal Spectrometer – BCS). Instrument ten składał się z czterech spektrometrów z kryształami Bragga. Każdy z nich obserwował wybrany zakres widma miękkiego promieniowania rentgenowskiego zawierający linie widmowe czułe na gorącą plazmę produkowaną podczas rozbłysku słonecznego. Dzięki obserwacjom linii spektralnych możliwe było otrzymywanie informacji o temperaturze i gęstości gorącej plazmy, a także

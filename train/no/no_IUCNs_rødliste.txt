@@ -1,0 +1,56 @@
+IUCNs rødliste (egentlig Verdens naturvernunions rødliste for trua arter), også kjent som rødliste og internasjonal rødliste med mer, er den offisielle rødlisten over trua arter i verden.
+Den internasjonale rødlista (som denne artikkelen omhandler) må ikke forveksles med nasjonal rødliste, selv om disse bygger på de samme kategorier og kriterier. Sistnevnte gjelder kun innenfor en nasjons geografiske grenser. Det kan derfor være stor forskjell på en arts rødlistestatus internasjonalt og nasjonalt. Eksempelvis blir ulvens rødlistestatus internasjonalt regnet som livskraftig (LC), mens den i nasjonal rødliste står oppførst som kritisk truet (CR).
+
+
+== Species Survival Commission ==
+Species Survival Commission (SSC) er et organ i Verdens naturvernunion (IUCN) som fører tilsyn med artene, herunder også oppføringer på rødlista. Under SSC sorterer en rekke spesialistgrupper, som jobber med bestemte grupper eller arter.
+Alle nye vurderinger for oppføring på rødlista skjer nå i henhold til kategori og kriterieversjon 3.1. Det gjelder også oppdateringer av tidligere vurderinger under kategori og kriterieversjon 2.3, som fortsatt er i bruk for en rekke arter som ble kategorisert i perioden 1994–2000, før den nye revideringen kom i 2001.
+
+
+== Oppdateringer av rødlista ==
+IUCN har utarbeidet kategorier og kriterier for rødlisting av trua arter siden 1963, riktignok med noen revideringer underveis. Revideringene fra 1991 (1.0), 1992 (2.0), 1993 (2.1) og 1994 (2.2) er således utdaterte. Den første rødlista for fugler kom alt i 1988, mens den første fullstendige lista først kom i 1996. Den inneholdt 5 205 arter som ble kategorisert i henhold til kriteriene i versjon 2.3, noe som førte til at 25 prosent av alle pattedyr og 11 prosent av alle fugler fikk status som truet, av en eller annen grad. En oppdatering av rødlisten 12. september 2007 inneholdt 41.415 arter. 16.306 av dem ble regnet som utryddelsestruet, nesten 200 flere enn året før.
+
+
+== Årsaker til utrydding av arter ==
+Arter som havner på rødlista har som regel en negativ bestandsutvikling, men årsakene kan være mange. I de fleste tilfeller skyldes det tap av habitat, for eksempel gjennom avskoging eller at landområder tas i bruk til andre formål, eksempelvis som nye jordbruksarealer eller boligformål. Andre årsaker er forurensning og klimaendringer. Også overbeskatning er et problem for mange arter, spesielt for arter som utnytes kommersielt.
+Arter som havner på rødlista blir kategorisert etter ulike kriterier og får en status, som over tid kan endre seg. Dette arbeidet ledes av SSC, gjennom spesialgrupper som jobber med spesielle grupper eller arter. Nedenfor finnes en grunnleggende oversikt over ulike statuser som tildeles. Hver status kan dessuten tildeles en rekke ulike tilleggskoder av ulik betydning. Disse blir ikke videre presentert her, men det finnes en (engelsk) forklaring på IUCN rødlistes hjemmesider.
+
+
+=== Rødlistestatus: versjon 3.1 ===
+Kategori og kriterieversjon 3.1 ble tatt i bruk fra 2001. Fram til denne revideringen kom gjaldt versjon 2.3.
+EX = Utryddet (Extinct).
+Arten har opphørt å eksistere.
+EW = Utryddet i vill tilstand (Extinct in the wild)
+Brukes om arter som er antatt å være utryddet i vill tilstand, men som fortsatt overlever i fangenskap.
+CR = Kritisk truet (Critically Endangered)
+Arter som er direkte truet og som har 50 % risiko for å dø ut fra 10 til 100 år fram i tid.
+EN = Sterkt truet (Endangered)
+Arter som har høy risiko for å dø ut, nærmere bestemt 20 % risiko for å dø ut fra 20 til 100 år fram i tid.
+VU = Sårbar (Vulnerable)
+Arter som er truet og har 10 % risiko for å dø ut innen 100 år.
+NT = Nær truet (Near Threatened)
+Hensynskrevende arter som ikke tilhører kategori CR, EN eller VU, men som på grunn av tilbakegang krever spesielle hensyn og tiltak. I Norge har disse artene 5 % sannsynlighet for å dø ut innen 100 år.
+LC = Livskraftig (Least concern)
+Dette er arter som ikke er direkte truet.
+DD = Data utilstrekkelig (Data deficient)
+I denne kategorien havner arter som mangler nødvendig informasjon til å vurdere trusselbildet. Som oftest er dette arter som allikevel ville havnet på rødlista, dersom kunnskapen om dem var tilstrekkelig.
+NE = Ikke evaluert (Not evaluated).
+Arten har av ukjente årsaker ikke blitt evaluert/vurdert. Det kan være flere årsaker til dette, for eksempel at arten er relativt nyoppdaget og derfor mangler anerkjennelse som egen art av IUCN eller den er utdødd for så lenge siden at den ikke er interessant å kategorisere.
+
+
+=== Rødlistestatus: versjon 2.3 ===
+Kategori og kriterieversjon 2.3 var i bruk fra 1994 og ut 2000. Den blir ikke lenger benyttet, men det finnes fortsatt en rekke arter som er kategorisert i henhold til kategoriene og kriteriene i denne versjonen.
+EX = Utryddet (Extinct).
+Arten har opphørt å eksistere.
+EW = Utryddet i vill tilstand (Extinct in the wild)
+Brukes om arter som er antatt å være utryddet i vill tilstand, men som fortsatt overlever i fangenskap.
+CR = Kritisk truet (Critically Endangered)
+Arter som er direkte truet og som har 50 % risiko for å dø ut fra 10 til 100 år fram i tid.
+EN = Sterkt truet (Endangered)
+Arter som har høy risiko for utdøing, nærmere bestemt 20 % risiko for å dø ut fra 20 til 100 år fram i tid.
+VU = Sårbar (Vulnerable)
+Arter som er truet og har 10 % risiko for å dø ut innen 100 år.
+LR = Lav risiko (Lower risk)
+Denne kategorien omfatter arter som har et et lavere risikogrunnlag. Kategorien brukes alltid sammen med en av tre underkategorier:
+LR/cd = Trenger bevaringsvern (Conservation Dependent)
+Dette er arter som i seg selv ikke kvalifiserer som sårbare, men trenger spesielt bevaringsvern, enten som arts-

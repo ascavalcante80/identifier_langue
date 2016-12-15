@@ -1,0 +1,30 @@
+Wiki on verkkosivusto, jonka sisältöä käyttäjät voivat itse muokata haluamallaan tavalla, usein ilman sivustolle kirjautumista. Vuorovaikutteisuus ja muutosten tekemisen yksinkertaisuus tekevät wikistä tehokkaan yhteisöllisen kirjoittamisen työkalun. Termillä wiki voidaan myös viitata yhteistyöohjelmistoihin, jotka helpottavat wiki-verkkosivustojen käyttöä.
+Ensimmäisen wikiohjelmiston (WikiWikiWeb) kehittänyt Ward Cunningham määritteli wikin "yksinkertaisimmaksi verkossa olevaksi tietokannaksi, jonka olisi mahdollista toimia."
+Nimi juontuu ilmaisusta "wiki wiki", joka tarkoittaa nopeaa havaijin kielellä. Sivujen sisällön luomisen ja muuttamisen nopeus ja välikäsien puuttuminen ovatkin wikitekniikan tärkeimmät ominaisuudet. Wikejä on pidetty tehokkaana tiedonvälitys- ja yhteiskehittelyn alustana myös organisaatioiden käytössä.
+Wikit olivat blogien ohella ensimmäisiä selvästi sosiaaliseen mediaan kuuluneeksi katsottuja verkkopalveluita. Wikit vaikuttivat osaltaan kehitykseen, joka on johtanut käyttäjien itsensä luoman sisällön (user-generated content, UGC) nopeaan lisääntymiseen WWW:ssä. Nykyisin wikitoimintoja sisältyy useisiin verkkopalveluihin.
+
+
+== Ominaisuudet ==
+Wikiin voi luoda sivuja käyttäen yksinkertaista merkintäkieltä (wiki markup) tai HTML-pohjaista WYSIWYG-editoria. Kehittyneimmissä wikeissä sisältö koostuu useista sisältöalueista sekä muista verkkopalveluista upotetuista sisällöistä. Useammat wikit sijaitsevat julkisessa verkossa World Wide Web, joka on Internetin osa. Yksi sivu wikissä on ”wikisivu”, kun taas sivujen summa muodostaa koko sivuston eli ”wikin”.
+Vanhemmissa wikiohjelmissa sivut luodaan yksinkertaisella merkintäkielellä editointitilassa, yleensä selaimen luomassa tekstinmuokkauskentässä. Tallennettaessa uusi tai muokattu sivu, merkintäkieli tulkitaan selaimen ymmärtämäksi (X)HTML-kieleksi. Joissakin uudemmissa wikeissä on mahdollisuus käyttää myös ulkoasun mallintavaa WYSIWYG-muokkaustekniikkaa samalla, kun käyttäjä muokkaa tai lisää uuden sivun.
+Pelkistetyt wikit sallivat ainoastaan tekstin ja linkkien käytön wikisivuilla, kun taas kehittyneimmät wikit mahdollistavat kuvien, taulukoiden, matemaattisten yhtälöiden ja jopa hieroglyfien lisäämisen wikisivuille. Sosiaalisen median palvelujen lisääntymisen myötä uusimpiin wikeihin voidaan upottaa myös esimerkiksi videoita, slideshow-esityksiä, valokuvasarjoja, käsitekarttoja, käyttäjien profiilitietoja, RSS-syötteitä ja lukuisia muita sisältöjä ja dynaamisia toimintoja.
+Ensimmäisissä wikeissä ei käytetty merkintäkieltä, ja linkit sivujen välille luotiin käyttämällä sanoja, joissa oli vähintään kaksi isoa kirjainta (ns. CamelCase). Tämä on vapaamuotoisemmassa tekstissä ongelmallista ja nykyisin linkkien tekoon käytetään merkintäkielen ominaisuuksia. Esimerkiksi MediaWikissä linkki toiselle sivulle muodostuu laittamalla sana kaksinkertaisten hakasulkujen väliin.
+Etenkin tietokantoja käyttävät wikit tallentavat samasta sivusta useampia versioita, jolloin muutoksia sivun eri versioiden välillä voidaan seurata ja vanha versio voidaan palauttaa helposti. Tällaiset wikit sisältävät usein toimintosivun viimeisten muutosten seuraamiseen.
+
+
+=== Wikiohjelmistot ===
+Wikejä voi luoda useilla eri ohjelmistoilla. Osa ohjelmista on tietokoneen käyttöjärjestelmästä riippumattomia, Java-ohjelmointikieleen perustuvia.
+Yleensä perustaksi tarvitaan tietokanta ja WWW-palvelin, joka voi poimia halutun sivun suurestakin määrästä sivuja katseltaviksi melko nopeasti.
+Useimmat wikiohjelmistot ovat vapaita ohjelmistoja sekä mahdollistavat helpohkon lisäominaisuuksien liittämisen. Yleisesti tunnettuihin wikityyppisiin sisällönhallintaohjelmiin kehitetään lisäominaisuuksia erillisinä projekteina. Wikityyppiset ohjelmaprojektit voivat vaihdella kehittäjämäärältään yhdestä sataan henkilöä.
+Kaikkein yksinkertaisemmat wikiohjelmistot eivät tarvitse tietokantaa, joten niiden asentaminen on helppoa, mikäli käytössä on CGI:tä tukeva palvelin.
+Ensimmäisen wikiohjelmiston, nimeltään WikiWikiWeb, loi Ward Cunningham vuonna 1995. Hän perusti ensimmäisen wikin, Portland Pattern Repository, osoitteeseen c2.com/cgi/wiki.
+Wikipedian käyttämä wikiohjelmisto on nimeltään MediaWiki. Nykyisin erilaisia wikejä on lukemattomia. Niihin kuuluvat kaikki Wikimedian hankkeet, kuten Wikipedia.
+
+
+=== Wikipalvelut ===
+Wikipalveluiksi sanotaan verkkopalveluita, joissa käyttäjä voi perustaa oman wikisivustonsa suoraan palvelusta käsin ilman erillisen palvelinohjelman asentamista. Esimerkiksi Wikia on tällainen palvelu.
+
+
+== Wikien käyttötarkoitukset ==
+Käyttötarkoitukseltaan wikejä on monenlaisia. Ne määräytyvät wikien ominaisuuksien mukaan: wikit soveltuvat parhaiten tarkoitukseen, jossa tärkeää on monen käyttäjän tekemä tekstisisältöjen kokoaminen. Sisällön muokkauksesta jää yleensä talteen aiemmat versiot, mikä mahdollistaa työskentelyn seuraamisen ja tarvittaessa aiempien versioiden palauttamisen. Wikien toinen keskeinen toiminto on keskustelu- tai kommenttipalsta, jonka kautta wikisivun sisällöstä voidaan antaa palautetta sekä suunnitella sisällöntuotannon seuraavia vaiheita. Keskustelua voidaan käyttää myös ideointiin, tiedon jakamiseen, yhteisölliseen oppimiseen ja tiedonrakenteluun.
+Selvityksissä ja tutkimuksissa wikien kaksi olennaisinta käyttötarkoitusta ovat käyttö yhteistyöalustana sekä kollektiivisen tietopankin kokoaminen. Selkeimmin koetut hyödyt wikien käytöstä liittyvät tietoon: sen läpinäkyvy

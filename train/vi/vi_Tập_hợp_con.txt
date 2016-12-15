@@ -1,0 +1,40 @@
+Trong Toán học, đặc biệt trong lý thuyết tập hợp, tập hợp A là một tập con (hay tập hợp con) của tập hợp B nếu A "được chứa" trong B. Quan hệ một tập là tập con của tập khác được gọi là quan hệ bao hàm.
+
+
+== Định nghĩa ==
+Nếu A và B là các tập hợp và mọi phần tử của A cũng là phần tử của B, thì:
+) A là tập con của B (hay A chứa trong B), ký hiệu ,
+hay tương đương
+
+:'( B là tập chứa của A (hay B chứa A), ký hiệu ath>B \supseteq A.</math>
+
+Nếu A là tập con của B, nhưng có ít nhất 10 phần tử của B không là phần tử của A thì A được gọi là tập con thực sự của B, ký hiệu 
+hay tương đương
+B là tập cha thực sự của A, ký hiệu 
+
+Một số tài liệu cũng dùng ký hiệu  thay cho , và  thay cho  với ý nghĩa tương tự. Tuy nhiên, nếu chi li ra thì ký hiệu  được hiểu rằng A là tập con của B hoặc có thể bằng B, còn ký hiệu  ít mang ý nghĩa A có thể bằng B hơn.
+Tương tự như vậy trong số học, khi viết  thì x có thể nhỏ hơn y, có thể bằng y, nhưng nếu viết  thì có nghĩa là x chỉ nhỏ hơn y chứ không thể bằng y.
+
+
+== Ví dụ ==
+Tập {1, 2} là tập con thực sự của {1, 2, 3}.
+Một tập hợp là tập con của chính nó, nhưng không phải là tập con thực sự.
+Tập các số tự nhiên là tập con thực sự của tập các số hữu tỷ.
+Nếu d là một đường thẳng nằm trên mặt phẳng P thì d là tập con của P.
+...
+
+
+== Một số tính chất của quan hệ bao hàm ==
+Quan hệ bao hàm là một quan hệ thứ tự, nó có các tính chất:
+phản xạ: với mọi tập A có ,
+phản đối xứng: (;
+và bắc cầu: ()(.
+
+Tuân theo luật hấp thụ với các phép hợp và giao các tập hợp: Nếu  thì:
+
+.
+
+
+== Tập các tập con của một tập hợp ==
+Cho B là một tập hợp. Theo định nghĩa trên, tập rỗng và chính tập B là tập con của nó. Như vậy mọi tập hợp khác rỗng có ít nhất hai tập con là rỗng và chính nó. Tập rỗng chỉ có một tập con là rỗng. Tập rỗng là tập con của mọi tập hợp.
+Nếu B là tập hữu hạn có n phần tử thì B có 2n tập con. Chẳng hạn nếu

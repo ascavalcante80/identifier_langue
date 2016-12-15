@@ -1,0 +1,39 @@
+ textové prohlížeče a v neposlední řadě také roboti vyhledávačů (například Seznam). Zasílání stránek s tímto MIME typem tedy rozhodně nevytváříme přístupné stránky. V praxi se to řeší buď zasíláním text/html pro všechny prohlížeče (prohlížeče však poté zpracují dokument podle pravidel HTML, ne jako XHTML) nebo se pomocí skriptu zjistí, zda prohlížeč zná application/xhtml+xml – pokud ano, pošle se mu stránka s tímto typem. Pokud ne, zašle se s typem text/html.
+
+
+== Reference ==
+↑ (anglicky) XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)
+↑ XHTML™ 1.0: Rozšířitelný hypertextový značkovací jazyk (český překlad)
+↑ (anglicky) XHTML™ Modularization 1.1
+↑ (anglicky) XHTML™ Basic 1.1
+↑ (anglicky) XHTML™ 1.1 – Module-based XHTML
+↑ (anglicky) XHTML-Print
+↑ (anglicky) XHTML™ 2.0
+↑ (anglicky) XHTML 2 Working Group Expected to Stop Work End of 2009, W3C to Increase Resources on HTML 5
+↑ (anglicky) HTML 5
+↑ (anglicky) dev: HTML 5
+↑ (anglicky) For non-empty elements, end tags are required
+↑ (anglicky) Element and attribute names must be in lower case
+↑ (anglicky) Attribute values must always be quoted
+↑ (anglicky) Strictly Conforming Documents
+↑ (anglicky) Recommended Media Type Usage
+↑ (anglicky) XHTML: Differences with HTML 4
+↑ Jak na dokonalé XHTML
+↑ XHTML MIME
+↑ (anglicky) Internet Media Type
+↑ programujte.com: XHTML 2.0 a MIME typy pro XHTML
+
+
+== Související články ==
+Document Type Definition
+HTML
+Extensible Markup Language
+
+
+== Externí odkazy ==
+W3C XHTML Validátor – oficiální referenční validátor W3C
+Soumrak nad moderním X – Zamyšlení nad XHTML
+Proč nepoužívám XHTML – článek na Interval.cz
+Proč používám XHTML – článek na Interval.cz
+Jak používám XHTML – článek na Interval.cz
+Kritika W3C: XHTML a XML – Nevýhody XHTML

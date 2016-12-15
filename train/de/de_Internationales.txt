@@ -1,0 +1,137 @@
+Das Internationale Einheitensystem oder SI (frz. Système international d’unités) ist das am weitesten verbreitete Einheitensystem für physikalische Größen.
+Das SI ist ein metrisches Einheitensystem, d. h. eine Basiseinheit ist der Meter, es ist dezimal, d. h. die Einheiten werden nur mit Zehnerpotenzen mit ganzzahligen Exponenten versehen und es ist ein kohärentes Einheitensystem, d. h. jede abgeleitete Einheit ist ein Potenzprodukt von Basiseinheiten, ohne dass ein zusätzlicher numerischer Faktor auftritt. Durch das SI werden physikalische Einheiten zu ausgewählten Größen festgelegt. Das SI beruht auf sieben Basiseinheiten zu entsprechenden Basisgrößen. Die Auswahl der Basisgrößen und die Definition zugehörigen Basiseinheiten erfolgte nach praktischen Gesichtspunkten.
+Die Einheiten des Internationalen Einheitssystems werden als SI-Einheit bezeichnet, um sie von Einheiten anderer Einheitensysteme abzugrenzen.
+
+
+== Einführung ==
+Für internationale Regelungen über das SI ist das internationale Maß- und Gewichtsbüro (BIPM) zuständig. Als Referenz-Regelwerk gilt die vom BIPM in periodischen Abständen (üblicherweise alle paar Jahre) neu publizierte Broschüre Le Système international d’unités – deutsch kurz auch als „die SI-Broschüre“ bezeichnet. Dieser Artikel bezieht sich auf die 2006 erschienene 8. Auflage der SI-Broschüre.
+Für die nationale Umsetzung des SI sind meist die metrologischen Staatsinstitute zuständig.
+Dies sind zum Beispiel
+in Deutschland die Physikalisch-Technische Bundesanstalt (PTB) (in der DDR war es das Amt für Standardisierung, Meßwesen und Warenprüfung (ASMW)),
+in der Schweiz das Eidgenössische Institut für Metrologie (METAS),
+in Österreich das Bundesamt für Eich- und Vermessungswesen (BEV),
+in Großbritannien das National Physical Laboratory (NPL) und
+in den USA das National Institute of Standards and Technology (NIST).
+Diese nationalen Empfehlungen erhalten rechtliche Bedeutung (das heißt im Wesentlichen eine Anwendungspflicht in manchen Tätigkeitsbereichen) erst durch Gesetze oder Rechtsprechung einzelner Staaten.
+In der EU ist die Verwendung von Einheiten unter anderem durch die EG-Richtlinie 80/181/EWG weitgehend vereinheitlicht worden. In der Europäischen Union (EU), der Schweiz und den meisten anderen Staaten ist die Benutzung des SI im amtlichen oder geschäftlichen Verkehr gesetzlich vorgeschrieben. Mit der Richtlinie 2009/3/EG wurde die Verwendung von zusätzlichen Angaben in der EU unbefristet erlaubt (durch vorhergehende Richtlinien war dies ursprünglich nur bis zum 31. Dezember 2009 möglich). Dies wird hauptsächlich damit begründet, Exporte von Waren in Drittländer nicht zu behindern. In vielen Staaten gestatten nationale Gesetze bestimmte Ausnahmen von den SI-Regelungen.
+Von den USA, Myanmar und Liberia wurde das SI nie offiziell eingeführt. In den USA sind metrische Einheiten seit einem Parlamentsbeschluss 1866 und einem Regierungsdekret 1894 anerkannte Einheiten. In den 1970er Jahren wurden erhebliche Anstrengungen unternommen, das SI einzuführen, doch es scheiterte am fehlenden Willen der Anwender bzw. Betroffenen. In vielen Bereichen wie z. B. Wissenschaft, Medizin oder Industrie wird das SI parallel oder ausschließlich genutzt. Ansonsten ist in den USA das angloamerikanische Maßsystem in der Variante der „customary units“ (die auf einer historischen Form des britischen Maßsystems beruht) gebräuchlich.
+
+
+== Meterkonvention, BIPM und CGPM ==
+Meilenstein für die internationale Durchsetzung des metrischen Systems war die Unterzeichnung der Meterkonvention 1875 durch 17 Staaten. Dabei wurde auch das Internationale Büro für Maß und Gewicht und dessen Generalkonferenz für Maß und Gewicht (CGPM) gegründet. Diese beiden Institutionen sind bis heute für die internationale Standardisierung des SI zuständig.
+
+
+== Geschichte ==
+1790 erhielt die französische Akademie der Wissenschaften von der damaligen französischen Nationalversammlung den Auftrag, ein einheitliches System von Maßen und Gewichten zu entwerfen. Sie folgte dabei den Prinzipien, die Grundeinheiten aus naturgegebenen Größen abzuleiten, alle anderen Einheiten darauf zurückzuführen und alle, mit Ausnahme der Zeit, dezimal zu vervielfachen und zu unterteilen. Als Grundeinheiten wurden gewählt:
+1 Meter als zehnmillionster Teil des Erdmeridianquadranten,
+1 Gramm als Gewicht, später als Masse von 1 cm3 reinem Wasser bei 4 °C und einem Druck von 760 mm Quecksilbersäule,
+1 Sekunde als 1/86.400ster Teil des mittleren Sonnentages.
+
+1833 schlug Gauß vor, elektromagnetische Einheiten auf mm, mg und s mit gebrochenen Exponenten zurückzuführen.
+1861–1867 beschäftigte sich ein Ausschuss der British Association for the Advancement of Science (BAAS) mit der Definition elektrischer und magnetischer Einheiten ausgehend von den Arbeiten von Gauß und Weber, jedoch mit den Basiseinheiten m, g, s. Wegen der Unhandlichkeit dabei erhaltener Einheiten wurden zusätzlich die praktischen Einheiten Ampere, Volt (ungefähre Spannung des Daniell-Elementes), Ohm (ungefährer Widerstand einer 1 m langen Quecksilbersäule von 1 mm2 Querschnitt) und das heutige Mikrofarad eingeführt und beschlossen, dass diese genaue dezimale Vielfache der Grundeinheiten sein müssen.
+1873 wurde dann anstelle von m das cm als Grundeinheit definiert, was 1881 an einem internationalen Elektrikerkongress in Paris angenommen wurde, so dass sich z. B. 1 Ohm als 109 und 1 Volt als 108 elektromagnetische cgs-Einheiten ergab.
+1889 wurden auf der ersten Tagung der CGPM die angefertigten Urmaße für das Meter und das Kilogramm anerkannt, von denen sich aber herausstellte, dass das Urmeter um etwa 0,2 mm kürzer war und das Urkilogramm um etwa 0,027 g mehr Masse hatte, als nach den ursprünglichen Definitionen. Die Urmaße wurden jedoch in dieser Form als bindend erklärt und das MKS-Einheitensystem mit den drei Basiseinheiten Meter (m), Kilogramm (kg) und Sekunde (s) begründet.
+1901 schlug Giovanni Giorgi ein System vor, welches alle auf A, V, s beruhenden Einheiten mit denen des MKS-Systems zu einem einheitlichen System von Maßeinheiten mit ganzzahligen Exponenten der Grundeinheiten zusammenfasste, was aber zunächst wenig beachtet wurde.
+1935 nahm in Scheveningen die Internationale elektrotechnische Kommission (IEC) einer Plenartagung folgend das Giorgi-System international an, wobei die Frage nach der vierten Grundeinheit zunächst unbeantwortet blieb.
+1939 wurde die Erweiterung des MKS-Systems um eine vierte Basiseinheit, das Ampere (A), vorgeschlagen, wodurch der Begriff MKSA-System entstand.
+1948 wurde die Basiseinheit Ampere (A) in der heute gültigen Form definiert.
+1954 kam das Ampere auf der 10. CGPM offiziell zum MKS-System hinzu, gemeinsam mit der Basiseinheit für die thermodynamische Temperatur, die zunächst als Grad Kelvin (°K) bezeichnet wurde, sowie die Candela (cd).
+1960 wurde auf der 11. CGPM dieses erweiterte MKS-System als (französisch) Système International d’Unités (SI) oder Internationales Einheitensystem benannt. Seitdem spricht man von SI-Einheiten.
+1968 erhielt an der 13. CGPM die bis dahin als Grad Kelvin bezeichnete Basiseinheit ihren heute gültigen Namen Kelvin, das Einheitenzeichen wurde von °K zu K geändert.
+1971 kam schließlich an der 14. CGPM 1971 die siebte und bis heute letzte Basiseinheit, das Mol (mol) hinzu und wurde an die 6. Stelle zwischen Kelvin und Candela eingeordnet.
+
+
+== Verbreitung ==
+
+Das SI ist heute in der ganzen Welt verbreitet. In den meisten Industrieländern ist sein Gebrauch für den amtlichen und geschäftlichen Verkehr gesetzlich vorgeschrieben. In Deutschland geschieht dies durch das Einheiten- und Zeitgesetz und die zugehörige Ausführungsverordnung. Gesetze, die die Einführung des SI regelten, traten 1970 in der Bundesrepublik Deutschland, 1973 in Österreich, 1974 in der DDR und 1978 in der Schweiz in Kraft; 1978 waren alle Übergangsregelungen betreffend Nicht-SI-Einheiten abgeschlossen. In Deutschland sind die meisten Lehrbücher auf SI-Einheiten umgestellt worden. Eine Ausnahme machen die Lehrbücher zur Elektrodynamik und zur Teilchenphysik.
+In einigen Ländern werden neben dem SI weiterhin traditionelle Maßsysteme verwendet:
+In den USA haben sich SI-Einheiten für Strecken, Flächen, Volumina, Geschwindigkeiten und Temperatur nur im wissenschaftlichen und technischen Kontext durchgesetzt.
+In Großbritannien sind die traditionellen Einheiten aus vielen Bereichen zurückgedrängt, sie halten sich noch für Entfernungs- und Temperaturangaben.
+In der Schiff- bzw. Luftfahrt verwendet man weiterhin nicht-SI-konforme Einheiten für Flughöhe (ft = Feet), Entfernungen (1 sm oder NM = 1 Seemeile = 1852 m) und Geschwindigkeiten (1kt = 1 Knoten = 1 Seemeile pro Stunde).
+
+
+== SI-Einheiten ==
+Im SI gibt es sieben Basiseinheiten. Alle anderen physikalischen Einheiten sind aus diesen Basiseinheiten abgeleitet. Alle physikalischen Einheiten bilden die kohärenten SI-Einheiten, sofern sie nicht zusammen mit SI-Präfixen (wie Kilo oder Milli) verwendet werden. Eine Ausnahme bildet das Kilogramm, das als Basiseinheit bereits mit dem SI-Präfix Kilo versehen ist. Durch Verwendung von SI-Präfixen werden kohärente SI-Einheiten zu nicht kohärenten SI-Einheiten. Die Gesamtheit all dieser Einheiten, also sowohl die kohärenten als auch die nicht kohärenten SI-Einheiten, bildet die Menge der „SI-Einheiten“.
+Beispiele
+Die Längen-Einheit Meter (m) ist eine SI-Basiseinheit, eine kohärente SI-Einheit und eine SI-Einheit.
+Die Masse-Einheit Kilogramm (kg) ist eine SI-Basiseinheit, eine kohärente SI-Einheit und eine SI-Einheit.
+Die Kraft-Einheit Newton (N) ist eine abgeleitete SI-Einheit und eine kohärente SI-Einheit.
+Die Kraft-Einheit Kilonewton (kN) ist eine abgeleitete SI-Einheit, aber keine kohärente SI-Einheit.
+Eine SI-Basiseinheit ist immer die kohärente Einheit der zugehörigen Basisgröße. Daneben kann sie auch noch als kohärente Einheit abgeleiteter Größen dienen.
+Beispiele
+Das Meter (m) ist die Basiseinheit der Basisgröße Länge. Daneben kann es auch als kohärente abgeleitete Einheit für die Niederschlagsmenge dienen, wenn sie als Volumen pro Fläche in m3/m2 = m ausgedrückt wird.
+Das Ampere ist SI-Basiseinheit der elektrischen Stromstärke und zugleich kohärente abgeleitete SI-Einheit der magnetischen Durchflutung.
+Anmerkung
+Die Bezeichnung „SI-Einheit“ wird oft im Sinne von „gesetzliche Einheit“ oder „empfohlene Einheit“ verwendet. Es gibt jedoch auch gesetzliche Einheiten, die keine SI-Einheiten sind. Solche falschen Verwendungen finden sich allerdings auch bei Normungsorganisationen. So heißt es im nationalen Anhang der deutschen Norm DIN ISO 8601:2006-09: „Die Schreibweise von Uhrzeiten mit den physikalischen SI-Einheiten h, min, s nach DIN 1301-1 sollte vermieden werden“. Die Verwendung solcher nicht-SI-Einheiten zusammen mit SI-Einheiten wird zwar sanktioniert – s. u. –, jedoch werden sie dadurch nicht zu SI-Einheiten.
+
+
+=== SI-Basiseinheiten ===
+
+Die Basiseinheiten des SI und die entsprechenden Basisgrößen des zu Grunde liegenden Größensystems ISQ werden nach praktischen Gesichtspunkten willkürlich durch die CGPM festgelegt. Eine SI-Basisgröße kann definitionsgemäß nicht durch andere Basisgrößen ausgedrückt werden. Analog dazu kann eine SI-Basiseinheit nicht als Potenzprodukt anderer Basiseinheiten ausgedrückt werden.
+Die Definitionen der Basiseinheiten sind nicht endgültig, sondern werden in ständiger Arbeit mit dem fortschreitenden Stand der Messtechnik sowie nach revidierten prinzipiellen Überlegungen weitergeführt. Im internationalen Größen- und Einheitensystem werden die sieben Basisgrößen durch die Basiseinheiten Meter (m), Kilogramm (kg), Sekunde (s), Ampere (A), Kelvin (K), Mol (mol) und Candela (cd) ausgedrückt und im SI in dieser Reihenfolge definiert. Jeder Basisgröße wird eine Dimension mit demselben Namen zugeordnet. Beispielsweise heißt die Dimension der Basisgröße Länge ebenfalls Länge. Das Symbol der Größe wird mit einem kursiv geschriebenen Buchstaben „l“ bezeichnet; jenes der Dimension mit einem aufrechtstehenden, großgeschriebenen Buchstaben „L“. Die praktische Realisierung einer Dimension erfolgt durch eine entsprechende kohärente Einheit – im Falle der Länge durch das Meter.
+
+Man kann erkennen, dass nur die drei Basiseinheiten Kilogramm, Sekunde und Kelvin unabhängig von anderen Basiseinheiten definiert sind, während die Definitionen der übrigen vier Basiseinheiten Abhängigkeiten von anderen Basiseinheiten aufweisen:
+Meter von Sekunde
+Mol von Kilogramm
+Ampere sowie Candela von Meter, Kilogramm und Sekunde
+Des Weiteren fällt auf, dass nur die Einheit Kilogramm anhand eines Prototyps definiert wird. Alle anderen Einheiten werden über unveränderliche Naturkonstanten festgelegt, was aber nicht schon immer der Fall war. So gab es bis 1960 beispielsweise ein Urmeter als Prototyp für die Einheit Meter. Da sich die Masse des Urkilogramms aber theoretisch ändern könnte (und dies wahrscheinlich sogar tut) arbeitet man daran, auch die Einheit Kilogramm eindeutig zu definieren (siehe auch Neudefinition des Kilogramms).
+
+
+=== Kohärente SI-Einheiten ===
+Alle physikalischen Größen außer den oben genannten sieben Basisgrößen des ISQ sind abgeleitete Größen. Analog dazu sind alle Einheiten außer den sieben Basiseinheiten des SI abgeleitete Einheiten.
+Die SI-Einheit einer beliebigen Größe Q (steht für engl. quantity) kann immer als Produkt aus einem numerischen Faktor und dem Produkt aus Potenzen (Potenzprodukt) der Basiseinheiten ausgedrückt werden:
+[Q] = 10n·mα·kgβ·sγ·Aδ·Kε·molζ·cdη
+„[Q]“ stellt symbolisch den Ausdruck „die Einheit der Größe Q“ dar, in Übereinkunft der Regeln gemäß dem vom Joint Committee for Guides in Metrology herausgegebenen VIM (International Vocabulary of Metrology – Basic and General Concepts and Associated Terms).
+Der numerische Faktor 10n (mit ganzzahligem n) repräsentiert das SI-Präfix wie Kilo oder Milli. Ist der numerische Faktor gleich eins (also bei n = 0), liegt eine kohärente SI-Einheit vor. Jede physikalische Größe hat nur eine einzige kohärente SI-Einheit und eine entsprechende Dimension. Eine kohärente SI-Einheit wird bei Verwendung eines SI-Präfixes zu einer nicht kohärenten SI-Einheit. Die kohärente Form obiger Einheitengleichung kann auch als entsprechende Dimensionsgleichung dargestellt werden:
+dim Q = Lα·Mβ·Tγ·Iδ·Θε·Nζ·Jη
+Die Basis jeder Potenz ist in dieser Darstellung die Dimension einer Basisgröße. Der Exponent wird Dimensionsexponent dieser Basisgröße oder der entsprechenden Basiseinheit genannt. Jeder Dimensionsexponent α, β, γ, δ, ε, ζ und η ist entweder Null oder eine positive oder negative, im Allgemeinen ganze Zahl. Der Betrag des Exponenten ist in der Regel deutlich kleiner als 10.
+Beispiele für kohärente SI-Einheiten (n = 0)
+m (α = 1; alle übrigen Dimensionsexponenten gleich 0) als Basiseinheit der Länge
+m2 (α = 2; alle übrigen Dimensionsexponenten gleich 0) als Einheit der Fläche
+m·s−1 = m/s (α = 1 und γ = −1; alle übrigen Dimensionsexponenten gleich 0) als Einheit der Geschwindigkeit
+m·kg·s−2 = m·kg/s2 = N (α = 1; β = 1 und γ = −2; alle übrigen Dimensionsexponenten gleich 0) als Einheit der Kraft
+Beispiele für nicht kohärente SI-Einheiten (n ≠ 0)
+mm (n = −3 ≠ 0)
+Ein Vorteil der ausschließlichen Verwendung kohärenter SI-Einheiten in Gleichungen liegt darin, dass keine Umrechnungsfaktoren zwischen Einheiten benötigt werden.
+
+
+=== Abgeleitete SI-Einheiten mit besonderem Namen ===
+22 kohärenten abgeleiteten SI-Einheiten wurden eigene Namen und Einheitenzeichen (Symbole) zugeordnet, die selbst wieder mit allen Basis- und abgeleiteten Einheiten kombiniert werden können. So eignet sich zum Beispiel die SI-Einheit der Kraft, das Newton (= kg·m/s2), um die Einheit der Energie, das Joule als Newton mal Meter (N·m) auszudrücken. Die folgende Tabelle listet diese 22 Einheiten in derselben Reihenfolge wie Tabelle 3 der SI-Broschüre (8. Auflage).
+
+
+== Nicht-SI-Einheiten ==
+Neben den SI-Einheiten gibt es (vor allem in der Elektrodynamik, Informatik, im Wirtschaftswesen) noch einige weitere gebräuchliche Einheiten, die nicht zum SI gehören, insbesondere das sogenannte Gauß’sche- oder cgs-System.
+
+
+== Schreibweise von Größen, Zahlenwerten und Einheiten ==
+Die ISO 1000:1992 wurde 2009 zurückgezogen, nachdem die ISO 80000 und IEC 80000 veröffentlicht wurden. Nationale und internationale Normen sowie EWG-Richtlinien haben das SI übernommen. In Deutschland wurden die darin festgelegten Einheiten mit dem Gesetz über die Einheiten im Messwesen (1969) (das 2008 durch Einfügung der Bestimmungen des früheren Zeitgesetzes zum Gesetz über die Einheiten im Messwesen und die Zeitbestimmung (EinhZeitG) erweitert wurde) für den amtlichen und geschäftlichen Verkehr vorgeschrieben. Die aktuelle Ausführungsverordnung von 1985 nennt in einer Anlage die zulässigen Bezeichnungen und verweist im übrigen auf „die Definitionen und Beziehungen, die in Kapitel I des Anhangs der Richtlinie 80/181/EG vom 20. Dezember 1979 (ABl. L 39 vom 15.2. 1980, S. 40) in ihrer jeweils geltenden Fassung aufgeführt sind.“ Nach § 3 der Verordnung „ist die zusätzliche Verwendung anderer als der gesetzlichen Einheiten nur gestattet, wenn die Angabe in der gesetzlichen Einheit hervorgehoben ist.“ Die vorige Verordnung hatte noch etliche Nicht-SI-Einheiten ohne Zusätze erlaubt, zum Beispiel mmHg (Millimeter-Quecksilbersäule) für den Blutdruck. In der Schweiz ist die Bezeichnung mmHg auch für den Druck anderer Körperflüssigkeiten zulässig. Das SI-Regelwerk nennt auch seinerseits Nicht-SI-Einheiten, deren Verwendung zusammen mit dem SI akzeptiert ist. Die SI-Broschüre regelt nicht nur die Einheitennamen, sondern gibt auch Formatierungsregeln für die Schreibweise von Einheitenzeichen und Zahlenwerten.
+
+
+=== Zusammenhängende Schreibweise von Größen, Zahlenwerten und Einheiten ===
+Nach ISO sind Größensymbole (Formelzeichen) in kursiver Schrift zu schreiben, Einheitenzeichen in aufrechter Schrift. Größenangaben sollen stets mit Zahlenwert und Einheit gemacht werden; dazwischen kein Multiplikationszeichen:
+A = {A} [A]
+Darin steht A als Symbol für die Größe, {A} für den Zahlenwert von A und [A] für die Einheit von A (ausgeschrieben oder als Einheitenzeichen).
+Von dieser zusammenhängenden Schreibweise wird abgewichen, wenn viele gleichartige Größenangaben zu machen sind, in Tabellen oder Achsbeschriftungen. Empfohlen wird dafür die Schreibweise A/[A] = {A}, also z. B. T/K = 300, 400, 500 für T = 300 K, 400 K, 500 K. Motivation: Denkt man sich anstelle der Größe T das Produkt aus Zahlenwert und Einheit, so kürzt sich die Einheit weg. Um Verwirrung zu vermeiden, falls die Einheit selbst einen Bruch darstellt, wird empfohlen, negative Exponenten einzeln an die Einheitenzeichen des Nenners zu setzen, für einen Wärmewiderstand R in Kelvin pro Watt also R/K W−1. Nicht normgerecht, aber üblicher sind die Schreibweisen R in K/W, R (K/W) und R [K/W].
+
+
+=== Name und Formelzeichen von Größen ===
+Größensymbole (Formelzeichen) sind in kursiver Schrift zu schreiben. Die Zeichen können frei gewählt werden – allgemein übliche Formelzeichen wie l, m oder t stellen lediglich Empfehlungen dar. Auch DIN-Normen enthalten Empfehlungen für Formelzeichen. Die Wahl von Namen und Symbol einer physikalischen Größe empfiehlt die SI-Broschüre ohne Assoziation zu einer bestimmten Einheit. Demnach sollen Bezeichnungen wie Literleistung vermieden werden. Die Celsius-Temperatur gehorcht dieser Empfehlung allerdings nicht. Weitere, jedoch nicht so bedeutsame Beispiele der Nicht-Einhaltung dieser Empfehlung sind der Stundenwinkel, die Gradtagzahl und der Heizgradtag.
+
+
+=== Schreibweise der Einheitenzeichen ===
+Die Einheitenzeichen von nicht zusammengesetzten Einheiten sind international einheitlich. Unabhängig vom Format des umgebenden Textes sind sie in aufrechter Schrift zu schreiben. Sie werden in Kleinbuchstaben geschrieben, außer wenn sie nach einer Person benannt wurden – dann wird der erste Buchstabe groß geschrieben. Beispiel: „1 s“ bedeutet eine Sekunde, während „1 S“ das nach Werner von Siemens benannte Siemens darstellt. Eine Ausnahme dieser Regel bildet die Nicht-SI-Einheit Liter: Obwohl es nicht nach einer Person benannt ist, kann für sein Einheitenzeichen neben dem klein geschriebenen l auch das groß geschriebene L verwendet werden. Letzteres ist vor allem im angloamerikanischen Raum üblich, um Verwechslungen mit der Ziffer „eins“ zu vermeiden.
+Ein SI-Präfix (wie Kilo oder Milli) kann für ein dezimales Vielfaches oder einen Teil unmittelbar vor das Einheitenzeichen einer kohärenten Einheit gestellt werden, um Einheiten in unterschiedlichen Größenordnungen anschaulicher darzustellen. Eine Ausnahme bildet das Kilogramm (kg), das nur vom Gramm (g) ausgehend mit SI-Präfixen verwendet werden darf. Beispielsweise muss es für 10−6 kg „mg“ und nicht „μkg“ heißen.
+Einheitenzeichen folgen nach einem Leerzeichen dem Zahlenwert, auch bei Prozent und Temperaturangaben in Grad Celsius. Zur besseren Leserlichkeit und der Vermeidung von Zeilenumbrüchen sollte ein schmales Leerzeichen verwendet werden. Einzig die Einheitenzeichen °, ' und " für die Nicht-SI-Winkeleinheiten Grad, Minute und Sekunde werden direkt nach dem Zahlenwert ohne Zwischenraum gesetzt.
+Hinweise auf bestimmte Sachverhalte sollen nicht an Einheitenzeichen angebracht werden (als tiefgestellte Zeichen); sie gehören dagegen zum Formelzeichen der verwendeten physikalischen Größe oder in erläuternden Text. Falsch ist Veff als „Einheit“ von Effektivwerten der elektrischen Spannung in Volt, VDC für die Angabe einer elektrischen Gleichspannung in Volt, oder %(V/V) für „Volumenprozent“.
+Dimensionssymbole werden als aufrecht stehender Großbuchstabe in serifenloser Schrift geschrieben.
+Sprachabhängige Schreibweise:
+Eine Einheit hat einen ausgeschriebenen Einheitennamen und ein Einheitenzeichen. Je nach Sprache sind unterschiedliche Schreibweisen für Einheitennamen (dt. Sekunde, engl. second, frz. seconde) vorgesehen. Die Einheitennamen unterliegen außerdem der normalen Deklination der jeweiligen Sprache.
+Die Einheitenzeichen sind streng genommen international einheitlich, und werden auch nicht dekliniert. In Sprachen, die nicht das lateinische Schriftsystem verwenden, ist es allerdings teilweise üblich, die Einheitenzeichen mit Zeichen des eigenen Alphabetes zu schreiben (Transliteration). Beispielsweise wird auf Russisch üblicherweise Kilometer mit „км“ abgekürzt, und Kilogramm als „кг“.
+
+
+=== Schreibweise von Zahlen ===
+
+
+== Zukünftige Entwicklungen ==
+Wie aus den genannten derzeit gültigen Definitionen der SI-Basiseinheiten ersichtlich, wurde für bisher zwei fundamentale physikalische Konstanten (Naturkonstanten) ein exakter Zahlenwert festgelegt. Das war sinnvoll, da diese Naturkonstanten sich genauer bestimmen ließen als die beteiligten Basiseinheiten (der größte Beitrag zur Unsicherheit des Zahlenwertes stammte von den Maßeinheiten). In der Folge dienen Messungen dieser Naturkonstanten der Darstellung der durch sie definierten Basiseinheit:
+Die Definition des Ampere 1948 beruht auf der Festlegung des Zahlenwertes der magnetischen Konstante μ0 = 4 π·10−

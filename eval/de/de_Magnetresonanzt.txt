@@ -1,0 +1,86 @@
+ientenspulen, die diese Änderungen erzeugen, werden innerhalb von Millisekunden starke Magnetfelder auf- und abgebaut. Die entstehenden elektromagnetischen Kräfte zerren dabei so stark an den Spulenverankerungen, dass, je nach Frequenz des Magnetfeldauf- und -abbaus laute klopfende bzw. hämmernde, knarrende, brummende oder sogar quäkende Geräusche auftreten, die je nach gefahrener Sequenz unterschiedlich sind. Das Gerät arbeitet dabei fast wie ein Lautsprecher: Ein starker Magnet ist von stromdurchflossenen Spulen umgeben. Den Patienten wird deshalb bei der Untersuchung meist ein Gehörschutz oder ein Kopfhörer mit Musik aufgesetzt. Dieser muss dabei vollkommen metallfrei sein. Bei einigen Untersuchungen, vor allem im Kopfbereich, ist der Gehörschutz zur Vermeidung eines Gehörschadens in Form eines Knalltraumas zwingend erforderlich. Von den meisten Patienten werden die Geräusche jedoch sehr gut toleriert, da sie durch den Gehörschutz ausreichend reduziert werden. Einige Patienten schlafen während längerer Untersuchungen sogar entspannt ein. Das trifft auch auf Patienten zu, die vor der Untersuchung Angst vor lauten Geräuschen angeben.
+
+
+== Kosten für ein Magnetresonanztomogramm (Deutschland) ==
+Die Preise für eine MRT richten sich in Deutschland nach der Gebührenordnung für Ärzte und liegen je nach Organ und Aufwand der Untersuchung zwischen 140 und 1200 Euro. Die Gesetzliche Krankenversicherung vergütet für ihre Versicherten nach dem Einheitlichen Bewertungsmaßstab, der deutlich niedrigere Preise (90–125 Euro) festlegt. Spezielle Verfahren (Herz-MRT, Ganzkörperuntersuchungen, Gefäßdarstellungen, Mamma-MRT) werden von den gesetzlichen Versicherungen nur zum Teil oder gar nicht bezahlt, z. B. weil der Nutzen der Untersuchung bislang nicht belegt ist oder weil die Nebenwirkungen in Form von Fehl- und Überdiagnosen zu hoch sind. Die Erstellungskosten liegen nach Angaben von Radiologen teilweise so hoch, dass die Geräte nur mit Mischkalkulationen und zusätzlichen Privatleistungsangeboten betrieben werden können.
+2009 erhielten in Deutschland rund 5,89 Millionen Menschen mindestens eine Magnetresonanztomographie. Der stellvertretende Vorstandsvorsitzende der Barmer GEK, Rolf-Ulrich Schlenker, gab im Januar 2011 die geschätzten Jahresgesamtkosten für Computertomographie (CT) und MRT-Untersuchungen mit 1,76 Milliarden Euro an.
+
+
+== Bildgalerie ==
+
+
+== Hersteller von MRT-Anlagen ==
+Bruker (Hochfeld-Forschungstomographen)
+Esaote (Niederfeld-Tomographen mit Permanentmagnet für die Extremitätendiagnostik)
+Fonar Corp., Melville, N.Y.
+GE Healthcare
+Hitachi Medical Systems
+PhiHealth (Partnerschaft mit Cerner Corporation)
+Philips Deutschland GmbH
+Siemens Healthcare GmbH
+Toshiba
+Varian, Inc. (ab 2011 Agilent)
+
+
+== Datenformat ==
+Für die Speicherung und Archivierung der Ergebnisse medizinischer bildgebender Verfahren hat sich der DICOM-Standard weitgehend durchgesetzt. Oft wird dem Patienten nach der Untersuchung ein Datenträger (z. B. CD-ROM oder DVD-ROM) mit seinen eigenen Schnittbildern mitgegeben, die er dann an den behandelnden Arzt weiterreicht. Häufig werden diese Bilder nicht in ein gebräuchlicheres Grafikformat wie z. B. JPEG umgewandelt, so dass der Patient zum Betrachten ein gesondertes Anzeigeprogramm benötigt. Oft ist ein solches auf dem Datenträger enthalten, das neben der Darstellung der DICOM-Bilder unter Umständen auch Zusatzfunktionen wie Vermessungen oder Lupenwerkzeuge anbietet.
+
+
+== Literatur ==
+ Peter A. Rinck: Magnetic Resonance in Medicine. The Basic Textbook of the European Magnetic Resonance Forum; 8th edition; http://magnetic-resonance.org/. The Round Table Foundation, 2014.
+ Olaf Dössel: Bildgebende Verfahren in der Medizin. Von der Technik zur medizinischen Anwendung. Springer, Berlin 2000, ISBN 3-540-66014-3.
+ Heinz Morneburg (Hrsg.): Bildgebende Systeme für die medizinische Diagnostik. 3. Auflage. Publicis MCD, München 1995, ISBN 3-89578-002-2.
+ Donald W. McRobbie, Elizabeth A. Moore, Martin J. Graves, Martin R. Prince: MRI from Picture to Proton. Cambridge University Press, Cambridge 2002, ISBN 0-521-52319-2.
+ Fritz Schick: MRT-Sequenzen. In: Der Radiologe. 9, Springer, Heidelberg 2006, ISSN 0033-832x.
+ Maximilian Reiser, Wolfhard Semmler (Hrsg.): Magnetresonanztomographie. Springer, Berlin 1997, ISBN 3-540-61934-8.
+ Wolfgang R. Nitz, Val M. Runge, Stuart H. Schmeets, William H. Faulkner, Nilesh K. Desai: Praxiskurs MRT. Anleitung zur MRT-Physik über klinische Bildbeispiele. Thieme, Stuttgart 2007, ISBN 978-3-13-139721-8.
+ Christoph Zink, Christoph U. Herborn: Klinikwörterbuch MRT. ABW, Berlin 2007, ISBN 978-3-936072-57-0.
+ Roland Tammer, Sabine Hofer, Klaus-Dietmar Merboldt, Jens Frahm: Magnetic Resonance Imaging of the Rhesus Monkey Brain. V&R, Göttingen 2009, ISBN 978-3-525-40424-9.
+ Lothar Dilcher: Handbuch der Kernspintomographie. Texte zum Einstieg, Diagramme zum Mitdenken, Formeln für Interessierte. 3., überarbeitete Auflage. E. Ferger Verlag, Bergisch Gladbach 2004, ISBN 3-931219-21-6.
+
+
+== Weblinks ==
+
+Einführung in die Grundlagen der Magnetresonanzbildgebung E-Learning Website von EMRF (European Magnetic Resonance Forum) / TRTF (The Round Table Foundation), auf englisch.
+Technische Aspekte der Kernspintomographie: Gradientenecho-Sequenz, Frequenzkodierung und Verschiebungsartefakte (Zahlr. Abb., einschl. Formel der Fourier-Transformation)
+Verständliche Animation von BIGS zu Details des MRT, wie Pulssequenzen, Relaxieren oder Spinmodifizierung
+Erklärung und Animation zur Magnetresonanztomographie bei Quarks & Co (Memento vom 29. März 2007 im Internet Archive)
+The Basics of MRI
+MRIcro software for displaying and analyzing MR images by Chris Rorden
+MRI im Einsatz (englisch)
+Lernskript „Grundlagen der Magnetresonanztomographie“ Diagnostische und Interventionelle Radiologie, Universitätsklinikum Gießen und Marburg, Standort Marburg (PDF)
+Lernspiel auf nobelprize.org (englisch)
+Flash-Animationen, welche die Physik anschaulich erklären (englisch)
+
+
+== Einzelnachweise ==
+↑ Lauterbur PC: Image Formation by Induced Local Interactions: Examples of Employing Nuclear Magnetic Resonance. In: Nature. 242, Nr. 5394,  1973, S. 190–191. Bibcode: 1973Natur.242..190L. doi:10.1038/242190a0.
+↑ Rinck PA: The history of MRI. In: Magnetic Resonance in Medicine, 8th edition;. 2014.
+↑ Odeblad E, Lindström G: Some preliminary observations on the proton magnetic resonance in biological samples. In: Acta Radiologica. 43,  1955, S. 469–476.
+↑ A. Geiger, M. Holz: Automation and Control in high power pulsed NMR. In: J. Phys. E: Sci.Instrum. 13, 1980, S. 697–707.
+↑ Hanson, Lars G.: Is Quantum Mechanics necessary for understanding Magnetic Resonance? In: Concepts in Magnetic Resonance Part A, Bd. 32A, Nr. 5, 2008, S. 329–340 (doi:10.1002/cmr.a.20123; preprint-pdf, 515 KB).
+↑ W. D. Rooney u. a.: Magnetic field and tissue dependencies of human brain longitudinal 1H2O relaxation in vivo. In: Magn. Reson. Med. Bd. 57, 2007, S. 308–318. PMID 17260370; doi:10.1002/mrm.21122
+↑ Siemens-Broschüre zum 7-T-System in Magdeburg (PDF; 1,5 MB).
+↑ Erwin L. Hahn Institute for Magnetic Resonance Imaging.
+↑ Institute for Biomedical Engineering (IBT) an der ETH Zürich.
+↑ Presseinformation von Philips zum 7-Tesla-MRT in Zürich.
+↑ Magnetresonanzzentrum am MPI für biologische Kybernetik in Tübingen.
+↑ Hochfeld-MRT an der Universität Wien.
+↑ Millionen-Vertrag für 7-Tesla Magnetresonanztomographen unterzeichnet (PDF; 106 kB).
+↑ Ultrahochfeld-MRT-Arbeitsgruppe am DKFZ in Heidelberg.
+↑ Pressemitteilung des DKFZ in Heidelberg zum 7-Tesla-Ganzkörper-MRT.
+↑ Pressemitteilung des MDC in Berlin zum 7-Tesla-Ganzkörper-MRT.
+↑ Hochfeld-MRT am MDC in Berlin.
+↑ 9,4-Tesla-MR-PET am Forschungszentrum Jülich.
+↑ Pressemitteilung der FAU Erlange-Nürnberg, abgerufen am 20. Oktober 2015.
+↑ Pressemitteilung des Uniklinikums Erlangen, abgerufen am 20. Oktober 2015.
+↑ NEUROSPIN: From Physics to the Human Brain, abgerufen am 29. Mai 2013.
+↑ Infoblatt supraleitende Magneten – MRT. Branddirektion München, Berufsfeuerwehr, 2009, archiviert vom Original am 9. Mai 2010, abgerufen am 4. April 2015. 
+↑ S. Yilmaz, M. Misirlioglu: The effect of 3 T MRI on microleakage of amalgam restorations. In: Dento maxillo facial radiology. Band 42, Nummer 8, 2013, S. 20130072, ISSN 0250-832X. doi:10.1259/dmfr.20130072. PMID 23674614. PMC 3756742 (freier Volltext).
+↑ S. Nospes, W. Mann, A. Keilmann: Magnetresonanztomographie bei Patienten mit magnetversorgten Hörimplantaten. In: Der Radiologe. Seite 1026-1032, 2013, doi:10.1007/s00117-013-2570-x.
+↑  Bert Hansky: Spezielle MRT-fähige Elektroden. In: Deutsches Ärzteblatt. 109, Nr. 39, Deutscher Ärzte-Verlag, 28. September Int 2012, S. 643-4, doi:10.3238/arztebl.2012.0643b.
+↑ ClinicalTrials.gov: SureScan.
+↑ ClinicalTrials.gov: ProMRI.
+↑ W. A. Wagle, M. Smith: Tattoo-induced skin burn during MR imaging. In: AJR. American journal of roentgenology. Band 174, Nummer 6, Juni 2000, S. 1795, ISSN 0361-803X. doi:10.2214/ajr.174.6.1741795. PMID 10845532.
+↑ Gebührenordnung für Ärzte, Punkt O III: Magnetresonanztomographie
+↑ Vorlage:Internetquelle/Wartung/Datum nicht im ISO-Formathil/aerzteblatt.de: MRT laut Barmer Arztreport in Deutschland am häufigsten. In: aerzteblatt.de. 1. Februar 2011, abgerufen am 27. Dezember 2014.

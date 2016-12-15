@@ -1,0 +1,8 @@
+WGS-84 (ang. World Geodetic System '84) – zbiór parametrów (z 1984) określających wielkość i kształt Ziemi oraz właściwości jej potencjału grawitacyjnego. System ten definiuje elipsoidę, która jest generalizacją kształtu geoidy, wykorzystywaną do tworzenia map.
+System ten jest wynikiem pewnej niewielkiej modyfikacji systemu GRS-80 (Geodetic Reference System '80), starszego od WGS-84 o 4 lata. Ze względu na fakt, iż parametry elipsoid tych dwóch systemów różnią się o nieistotną wartość ok. 0,1 mm więc w praktyce nazwy elipsoid (tak jak nazwy modeli) przyjmuje się niekiedy wymiennie.
+Elipsoida WGS-84 stała się podstawowym układem odniesienia w systemach nawigacji satelitarnej. Przy używaniu map opartych na innym układzie należy wprowadzać poprawki. Chociaż większość odbiorników nawigacji satelitarnej ma zaprogramowaną możliwość wyświetlania pozycji w innych układach, obecnie trwa proces upowszechniania map opartych o WGS-84.
+Położenie punktów w odniesieniu do powierzchni elipsoidy określają współrzędne geodezyjne B, L oraz h (szerokość, długość, wysokość elipsoidalna) lub równoważne im geocentryczne współrzędne prostokątne X, Y oraz Z.
+
+
+== Zobacz też ==
+Syst

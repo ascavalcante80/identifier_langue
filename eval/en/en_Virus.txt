@@ -1,0 +1,95 @@
+ase is chronic, and without treatment, they are infected for the remainder of their lives. However, there is now an effective treatment that uses the nucleoside analogue drug ribavirin combined with interferon. The treatment of chronic carriers of the hepatitis B virus by using a similar strategy using lamivudine has been developed.
+
+
+== Infection in other species ==
+Viruses infect all cellular life and, although viruses occur universally, each cellular species has its own specific range that often infect only that species. Some viruses, called satellites, can replicate only within cells that have already been infected by another virus.
+
+
+=== Animal viruses ===
+
+Viruses are important pathogens of livestock. Diseases such as foot-and-mouth disease and bluetongue are caused by viruses. Companion animals such as cats, dogs, and horses, if not vaccinated, are susceptible to serious viral infections. Canine parvovirus is caused by a small DNA virus and infections are often fatal in pups. Like all invertebrates, the honey bee is susceptible to many viral infections. However, most viruses co-exist harmlessly in their host and cause no signs or symptoms of disease.
+
+
+=== Plant viruses ===
+
+There are many types of plant virus, but often they cause only a loss of yield, and it is not economically viable to try to control them. Plant viruses are often spread from plant to plant by organisms, known as vectors. These are normally insects, but some fungi, nematode worms, and single-celled organisms have been shown to be vectors. When control of plant virus infections is considered economical, for perennial fruits, for example, efforts are concentrated on killing the vectors and removing alternate hosts such as weeds. Plant viruses cannot infect humans and other animals because they can reproduce only in living plant cells.
+Plants have elaborate and effective defence mechanisms against viruses. One of the most effective is the presence of so-called resistance (R) genes. Each R gene confers resistance to a particular virus by triggering localised areas of cell death around the infected cell, which can often be seen with the unaided eye as large spots. This stops the infection from spreading. RNA interference is also an effective defence in plants. When they are infected, plants often produce natural disinfectants that kill viruses, such as salicylic acid, nitric oxide, and reactive oxygen molecules.
+Plant virus particles or virus-like particles (VLPs) have applications in both biotechnology and nanotechnology. The capsids of most plant viruses are simple and robust structures and can be produced in large quantities either by the infection of plants or by expression in a variety of heterologous systems. Plant virus particles can be modified genetically and chemically to encapsulate foreign material and can be incorporated into supramolecular structures for use in biotechnology.
+
+
+=== Bacterial viruses ===
+
+Bacteriophages are a common and diverse group of viruses and are the most abundant form of biological entity in aquatic environments – there are up to ten times more of these viruses in the oceans than there are bacteria, reaching levels of 250,000,000 bacteriophages per millilitre of seawater. These viruses infect specific bacteria by binding to surface receptor molecules and then entering the cell. Within a short amount of time, in some cases just minutes, bacterial polymerase starts translating viral mRNA into protein. These proteins go on to become either new virions within the cell, helper proteins, which help assembly of new virions, or proteins involved in cell lysis. Viral enzymes aid in the breakdown of the cell membrane, and, in the case of the T4 phage, in just over twenty minutes after injection over three hundred phages could be released.
+The major way bacteria defend themselves from bacteriophages is by producing enzymes that destroy foreign DNA. These enzymes, called restriction endonucleases, cut up the viral DNA that bacteriophages inject into bacterial cells. Bacteria also contain a system that uses CRISPR sequences to retain fragments of the genomes of viruses that the bacteria have come into contact with in the past, which allows them to block the virus's replication through a form of RNA interference. This genetic system provides bacteria with acquired immunity to infection.
+
+
+=== Archaean viruses ===
+Some viruses replicate within archaea: these are double-stranded DNA viruses with unusual and sometimes unique shapes. These viruses have been studied in most detail in the thermophilic archaea, particularly the orders Sulfolobales and Thermoproteales. Defences against these viruses involve RNA interference from repetitive DNA sequences within archaean genomes that are related to the genes of the viruses. Most archaea have CRISPR–Cas systems as an adaptive defense against viruses. These enable archaea to retain sections of viral DNA, which are then used to target and eliminate subsequent infections by the virus using a process similar to RNA interference.
+
+
+== Role in aquatic ecosystems ==
+
+A teaspoon of seawater contains about one million viruses. Most of these are bacteriophages, which are harmless to plants and animals, and are in fact essential to the regulation of saltwater and freshwater ecosystems. They infect and destroy bacteria in aquatic microbial communities, and are the most important mechanism of recycling carbon in the marine environment. The organic molecules released from the dead bacterial cells stimulate fresh bacterial and algal growth. Viral activity may also contribute to the biological pump, the process whereby carbon is sequestered in the deep ocean.
+Microorganisms constitute more than 90% of the biomass in the sea. It is estimated that viruses kill approximately 20% of this biomass each day and that there are 15 times as many viruses in the oceans as there are bacteria and archaea. Viruses are the main agents responsible for the rapid destruction of harmful algal blooms, which often kill other marine life. The number of viruses in the oceans decreases further offshore and deeper into the water, where there are fewer host organisms.
+Like any organism, marine mammals are susceptible to viral infections. In 1988 and 2002, thousands of harbor seals were killed in Europe by phocine distemper virus. Many other viruses, including caliciviruses, herpesviruses, adenoviruses and parvoviruses, circulate in marine mammal populations.
+
+
+== Role in evolution ==
+
+Viruses are an important natural means of transferring genes between different species, which increases genetic diversity and drives evolution. It is thought that viruses played a central role in the early evolution, before the diversification of bacteria, archaea and eukaryotes, at the time of the last universal common ancestor of life on Earth. Viruses are still one of the largest reservoirs of unexplored genetic diversity on Earth.
+
+
+== Applications ==
+
+
+=== Life sciences and medicine ===
+
+Viruses are important to the study of molecular and cell biology as they provide simple systems that can be used to manipulate and investigate the functions of cells. The study and use of viruses have provided valuable information about aspects of cell biology. For example, viruses have been useful in the study of genetics and helped our understanding of the basic mechanisms of molecular genetics, such as DNA replication, transcription, RNA processing, translation, protein transport, and immunology.
+Geneticists often use viruses as vectors to introduce genes into cells that they are studying. This is useful for making the cell produce a foreign substance, or to study the effect of introducing a new gene into the genome. In similar fashion, virotherapy uses viruses as vectors to treat various diseases, as they can specifically target cells and DNA. It shows promising use in the treatment of cancer and in gene therapy. Eastern European scientists have used phage therapy as an alternative to antibiotics for some time, and interest in this approach is increasing, because of the high level of antibiotic resistance now found in some pathogenic bacteria. Expression of heterologous proteins by viruses is the basis of several manufacturing processes that are currently being used for the production of various proteins such as vaccine antigens and antibodies. Industrial processes have been recently developed using viral vectors and a number of pharmaceutical proteins are currently in pre-clinical and clinical trials.
+
+
+==== Virotherapy ====
+
+Virotherapy involves the use of genetically modified viruses to treat diseases. Viruses have been modified by scientists to reproduce in cancer cells and destroy them but not infect healthy cells. Talimogene laherparepvec (T-VEC), for example, is a modified herpes simplex virus that has had a gene, which is required for viruses to replicate in healthy cells, deleted and replaced with a human gene (GM-CSF) that stimulates immunity. When this virus infects cancer cells, it destroys them and in doing so the presence the GM-CSF gene attracts dendritic cells from the surrounding tissues of the body. The dendritic cells process the dead cancer cells and present components of them to other cells of the immune system. Having completed successful clinical trials, this virus is expected to gain approval for the treatment of a skin cancer called melanoma in late 2015. Viruses that have been reprogrammed to kill cancer cells are called oncolytic viruses.
+
+
+=== Materials science and nanotechnology ===
+Current trends in nanotechnology promise to make much more versatile use of viruses. From the viewpoint of a materials scientist, viruses can be regarded as organic nanoparticles. Their surface carries specific tools designed to cross the barriers of their host cells. The size and shape of viruses, and the number and nature of the functional groups on their surface, is precisely defined. As such, viruses are commonly used in materials science as scaffolds for covalently linked surface modifications. A particular quality of viruses is that they can be tailored by directed evolution. The powerful techniques developed by life sciences are becoming the basis of engineering approaches towards nanomaterials, opening a wide range of applications far beyond biology and medicine.
+Because of their size, shape, and well-defined chemical structures, viruses have been used as templates for organizing materials on the nanoscale. Recent examples include work at the Naval Research Laboratory in Washington, D.C., using Cowpea mosaic virus (CPMV) particles to amplify signals in DNA microarray based sensors. In this application, the virus particles separate the fluorescent dyes used for signalling to prevent the formation of non-fluorescent dimers that act as quenchers. Another example is the use of CPMV as a nanoscale breadboard for molecular electronics.
+
+
+=== Synthetic viruses ===
+Many viruses can be synthesized de novo ("from scratch") and the first synthetic virus was created in 2002. Although somewhat of a misconception, it is not the actual virus that is synthesized, but rather its DNA genome (in case of a DNA virus), or a cDNA copy of its genome (in case of RNA viruses). For many virus families the naked synthetic DNA or RNA (once enzymatically converted back from the synthetic cDNA) is infectious when introduced into a cell. That is, they contain all the necessary information to produce new viruses. This technology is now being used to investigate novel vaccine strategies. The ability to synthesize viruses has far-reaching consequences, since viruses can no longer be regarded as extinct, as long as the information of their genome sequence is known and permissive cells are available. As of March 2014, the full-length genome sequences of 3843 different viruses, including smallpox, are publicly available in an online database maintained by the National Institutes of Health.
+
+
+=== Weapons ===
+
+The ability of viruses to cause devastating epidemics in human societies has led to the concern that viruses could be weaponised for biological warfare. Further concern was raised by the successful recreation of the infamous 1918 influenza virus in a laboratory. The smallpox virus devastated numerous societies throughout history before its eradication. There are only two centers in the world that are authorized by the WHO to keep stocks of smallpox virus: the Vector Institute in Russia and the Centers for Disease Control and Prevention in the United States. Fears that it may be used as a weapon may not be totally unfounded. As the vaccine for smallpox sometimes had severe side-effects, it is no longer used routinely in any country. Thus, much of the modern human population has almost no established resistance to smallpox, and would be vulnerable to the virus.
+
+
+== See also ==
+
+Non-cellular life
+Cross-species transmission
+Viral metagenomics
+Viroplasm
+Zoonosis
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+
+
+== External links ==
+ViralZone A Swiss Institute of Bioinformatics resource for all viral families, providing general molecular and epidemiological information
+David Baltimore online Seminar: "Introduction to Viruses and HIV"
+Ari Helenius online seminar: "Virus entry"
+"A Gazillion Tiny Avatars", article on viruses by Olivia Judson, NY Times, 15 Dec 2009
+Khan Academy, video lecture
+Viruses – an Open Access journal
+3D virus structures in EM Data Bank (EMDB)

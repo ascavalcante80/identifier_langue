@@ -1,0 +1,11 @@
+Il punto di fusione di una sostanza è definito come il valore di temperatura e pressione a cui coesistono la fase solida e la fase liquida in equilibrio termodinamico, cioè senza che vi sia transizione fra le due fasi.
+Nella maggior parte dei casi di interesse pratico però, la pressione è quella atmosferica, praticamente costante, e il punto di fusione viene indicato con la sola temperatura: comunemente si dice che il ghiaccio fonde a 0 °C, anche se in teoria sarebbe necessario specificare che questo è rigorosamente vero solo ad una certa e ben precisa pressione.
+Durante la fusione la sostanza assorbe una certa quantità di calore, detta calore di fusione, che usa per rompere i legami interatomici o intermolecolari che formano il reticolo cristallino e la temperatura smette di salire finché la sostanza non è completamente liquida: finita la fusione, la temperatura ricomincia a salire.
+Solamente i solidi cristallini hanno un punto di fusione ben preciso: i solidi amorfi, come il vetro, non hanno un punto di fusione ben definito, ma solo un intervallo di temperatura in cui diventano progressivamente sempre più molli fino a liquefarsi.
+Va precisato che molti solidi cristallini non presentano una temperatura di fusione precisa, a pressione atmosferica, perché la loro temperatura di decomposizione è inferiore a quella di fusione.
+
+
+== Determinazione sperimentale della temperatura di fusione ==
+
+Nei laboratori chimici la misura sperimentale del punto di fusione di una sostanza si esegue riscaldando in condizioni controllate un campione di tale sostanza e rilevando visivamente o automaticamente la temperatura a cui si osserva la fusione.
+Il campione viene generalmente posto in un tubo capillare, in quantità tale da riempirlo per circa 5 mm a partire dal fondo. Il capillare viene scaldato da un fluido (solitamente olio al silicone o aria) la cui temperatura sale secondo un gradiente che viene fatto diminuire a mano a mano che ci si avvicina al punto di fusione previsto (se noto). La temperatura a cui avviene la fusione può essere individuata visivamente da un operatore o rilevata automaticamente quando la sostanza fusa è trasparent

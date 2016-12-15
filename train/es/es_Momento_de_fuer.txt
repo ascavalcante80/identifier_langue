@@ -1,0 +1,36 @@
+En mecánica newtoniana, se denomina momento de una fuerza (respecto a un punto dado) a una magnitud (pseudo)vectorial, obtenida como producto vectorial del vector de posición del punto de aplicación de la fuerza (con respecto al punto al cual se toma el momento) por el vector fuerza, en ese orden. También se denomina momento dinámico o sencillamente momento.
+Ocasionalmente recibe el nombre de torque a partir del término inglés (torque), derivado a su vez del latín torquere (retorcer).
+
+
+== DefiniciónEditar ==
+
+El momento de una fuerza  aplicada en un punto P con respecto de un punto O viene dado por el producto vectorial del vector  por el vector fuerza; esto es,
+
+Donde  es el vector que va desde O a P. Por la propia definición del producto vectorial, el momento  es un vector perpendicular al plano determinado por los vectores  y .
+El término momento se aplica a otras magnitudes vectoriales como el momento lineal o cantidad de movimiento , y el momento angular o cinético, , definido como
+
+El momento de fuerza conduce a los conceptos de par, par de fuerzas, par motor, etc.
+
+
+== Interpretación del momentoEditar ==
+
+El momento de una fuerza con respecto a un punto da a conocer en qué medida existe capacidad en una fuerza o sistema de fuerzas para cambiar el estado de la rotación del cuerpo alrededor de un eje que pase por dicho punto.
+El momento tiende a provocar una aceleración angular (cambio en la velocidad de giro) en el cuerpo sobre el cual se aplica y es una magnitud característica en elementos que trabajan sometidos a torsión (como los ejes de maquinaria) o a flexión (como las vigas).
+
+
+== UnidadesEditar ==
+El momento dinámico se expresa en unidades de fuerza por unidades de distancia. En el Sistema Internacional de Unidades la unidad se denomina newton metro o newton-metro, indistintamente. Su símbolo debe escribirse como N m o N•m (nunca mN, que indicaría milinewton).
+Si bien, dimensionalmente, N·m parece equivaler al julio, no se utiliza esta unidad para medir momentos, ya que el julio conceptualmente es unidad de trabajo o energía, que son conceptualmente diferentes a un momento de fuerza. El momento de fuerza es una magnitud vectorial, mientras que la energía es una magnitud escalar.
+No obstante, la equivalencia dimensional de ambas magnitudes no es una coincidencia. Un momento de 1 N•m aplicado a lo largo de una revolución completa ( radianes) realiza un trabajo igual a  julios, ya que , donde  es el trabajo,  es el momento y  es el ángulo girado (en radianes). Esta motiva el nombre de “julio por radián” para la unidad de momento, que también es utilizado oficialmente por el SI.
+
+
+== Cálculo de momentos en el planoEditar ==
+
+Cuando se consideran problemas mecánicos bidimensionales, en los que todas las fuerzas y demás magnitudes vectoriales son coplanarias, el cálculo de momentos se simplifica notablemente. Eso se debe a que los momentos serían perpendiculares al plano de coplanariedad y, por tanto, sumar momentos se reduciría a sumar tan sólo sus componentes perpendiculares al plano, que son magnitudes escalares.
+Si se considera una fuerza aplicada en un punto P del plano de trabajo y otro punto O sobre el mismo plano, el módulo del momento en O viene dado por:
+
+siendo  el módulo de la fuerza,  el brazo de momento, es decir, la distancia a la que se encuentra el punto O (en el que tomamos momento) de la recta de aplicación de la fuerza, y  el suplementario del ángulo que forman los dos vectores.
+La dirección de un momento es paralela al eje de momento, el cual es perpendicular al plano que contiene la fuerza F, y por su brazo de momento d. Para establecer la dirección se utiliza la regla de la mano derecha.
+
+
+== Véase tambi

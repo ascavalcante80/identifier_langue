@@ -1,0 +1,26 @@
+aran algo más de tiempo que las supergigantes actuales.
+
+
+=== Comparación entre las cadenas PP y el ciclo CNOEditar ===
+En el ciclo CNO los neutrinos se llevan más energía que en las cadenas PP por lo que εPP > εCNO para cada núcleo de helio producido.
+Cadenas PP: Tc < 2·107K || M < 1,5MSol || εPP~ ρT4 || τ ~ 7·109 añosCiclo CNO: Tc > 2·107K || M > 1,5MSol || εCNO~ ρT17 || τ ~ 3·108 años
+
+El ciclo CNO es mucho más dependiente de la temperatura que las cadenas PP por lo que a temperaturas elevadas (a partir de 2·107K) pasa a ser la reacción dominante y la que aporta el grueso de la energía de la estrella algo que sólo se da a partir de 1,5 masas solares. Debido a esa gran dependencia con la temperatura los núcleos CNO son pequeños y convectivos mientras que los PP son mayores y radiativos. El menor tiempo limitante de las estrellas CNO también hace que consuman en mucho menos tiempo su hidrógeno.
+Como se ve en el diagrama adjunto, el ciclo CNO empieza a producirse a temperaturas en torno a los 12,5 millones de grados pero no es hasta los 20 millones cuando, realmente, domina. En el Sol dominan totalmente las cadenas PP siendo así que el 98,5% de la energía generada es a través de dicho mecanismo, mientras que sólo el 1,5% restante se produce gracias al ciclo CNO. Pero conque nuestra estrella fuera un 20% más masiva, la energía ya provendría, mayoritariamente, de las reacciones CNO. Obsérvese en el gráfico adjunto que la escala vertical, que representa la energía, es logarítmica.
+
+
+== Posición de la secuencia principal en el diagrama de Hertzsprung-RussellEditar ==
+Un vistazo al diagrama de Hertzsprung-Russell revela que la secuencia principal cruza el diagrama aproximadamente en una diagonal arriba izquierda a abajo derecha. Este comportamiento se puede entender haciendo unas simplificaciones a las ecuaciones de estructura estelar. De ellas se pueden derivar las relaciones
+
+y
+.
+Éstas caracterizan de manera aproximada las estrellas de la secuencia principal. Además se pueden derivar
+.
+y eventualmente
+.
+En el diagrama de Hertzsprung-Russell aparecen en la abscisa y ordenada los logaritmos de  y , repectivamente. Tomando el logaritmo de la última relación se obtiene:
+
+es decir una línea recta con pendiente 8, la secuencia principal.
+
+
+== ReferenciasEditar ==

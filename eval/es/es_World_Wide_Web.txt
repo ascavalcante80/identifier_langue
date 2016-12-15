@@ -1,0 +1,84 @@
+, doble u, doble u, punto». Mientras que en Bolivia, Cuba, Argentina, Venezuela, Chile, Ecuador, Paraguay, Perú, Uruguay y Nicaragua «triple doble ve, punto» o «doble ve, doble ve, doble ve, punto».
+En chino, la World Wide Web normalmente se traduce por wàn wéi wǎng (万维网), que satisface las «www» y que significa literalmente «red de 10 mil dimensiones».
+En italiano, se pronuncia «vu vu vu» y en alemán, «ve ve ve».
+
+
+== Estándares ==
+
+Lo siguiente es una lista de los documentos que definen los tres estándars principales de la Web:
+Uniform Resource Locators (URL) (en español, Localizador de Recursos Uniforme)
+RFC 1738, Localizador de Recursos Uniforme (URL) (diciembre de 1994)
+RFC 3986, Uniform Resource Identifier (URI) (en castellano, Identificador de Recursos Uniforme): Sintaxis general (enero de 2005)
+
+Hypertext Transfer Protocol (HTTP) (en español, Protocolo de Transferencia de Hipertexto)
+RFC 1945, Especificación de HTTP/1.0 (mayo de 1996)
+RFC 2616, Especificación de HTTP/1.1 (junio de 1999)
+RFC 2617, Autenticación HTTP
+HTTP/1.1 Especificación de errores de HTTP/1.1
+
+Hypertext Markup Language (HTML) (en español, Lenguaje de Etiquetado de Hipertexto)
+Internet Draft, HTML versión 1
+RFC 1866, HTML versión 2.0
+Referencia de la especificación HTML 3.2
+Especificación de HTML 4.01
+Especificación de HTML5
+Especificación de HTML Extensible (XHTML)1.0
+Especificación de HTML Extensible (XHTML)1.1
+
+
+== Enlaces rotos y almacenamiento de la Web ==
+
+Con el paso del tiempo, muchos recursos web enlazados por hiperenlaces desaparecen, se cambia su localización, o son reemplazados con distinto contenido. Este fenómeno se denomina en algunos círculos como enlaces rotos y los hiperenlaces afectados por esto suelen llamarse "enlaces muertos".
+La naturaleza efímera de la Web ha hecho aparecer muchos esfuerzos de almacenar la Web. El archivo de Internet es uno de los esfuerzos más conocidos, llevan almacenando la Web desde 1996.
+
+
+== Conferencias académicas ==
+El mayor evento académico relacionado con la WWW es la serie de conferencias promovidas por IW3C2. Hay una lista con enlaces a todas las conferencias de las series.
+
+
+== El prefijo WWW en las direcciones web ==
+Es muy común encontrar el prefijo "WWW" al comienzo de las direcciones web debido a la costumbre de nombrar a los host de Internet (los servidores) con los servicios que proporcionan. De esa forma, por ejemplo, el nombre de host para un servidor web normalmente es "WWW", para un servidor FTP se suele usar "ftp", y para un servidor de noticias, USENET, "news" o "nntp" (en relación al protocolo de noticias NNTP). Estos nombres de host aparecen como subdominio de DNS, como en "www.example.com".
+El uso de estos prefijos no está impuesto por ningún estándar, de hecho, el primer servidor web se encontraba en "nxoc01.cern.ch" e incluso hoy en día existen muchos sitios Web que no tienen el prefijo "www". Este prefijo no tiene ninguna relación con la forma en que se muestra el sitio web principal. El prefijo "www" es simplemente una elección para el nombre de subdominio del sitio web.
+Algunos navegadores web añaden automáticamente "www." al principio, y posiblemente ".com"" al final, en las URL que se teclean, si no se encuentra el host sin ellas. Internet Explorer, Mozilla Firefox y Opera también añadirán "http://web.archive.org/web/http://www." y ".com" al contenido de la barra de dirección si se pulsan al mismo tiempo las teclas de Control y Enter. Por ejemplo, si se teclea "ejemplo" en la barra de direcciones y luego se pulsa sólo Enter o Control+Enter normalmente buscará "http://web.archive.org/web/http://www.ejemplo.com", dependiendo de la versión exacta del navegador y su configuración.
+
+
+== Tecnologías web ==
+Las tecnologías web implican un conjunto de herramientas que nos facilitarán lograr mejores resultados a la hora del desarrollo de un sitio web.
+
+
+== Tipología web ==
+Buscador Internet
+Software social
+Portal web o CMS
+Bitácora o Weblog / Blog
+Wiki
+Web 2.0
+
+
+== Véase también ==
+Portal:Internet. Contenido relacionado con internet
+Web
+Accesibilidad web
+Web semántica
+Web 2.0
+Web 3.0
+Internet
+Internet en la ciencia ficción
+Ordenador
+
+
+== Referencias ==
+
+Méndez, M. Á. (30 de abril de 2012). GIZMODO. Recuperado el 18 de noviembre de 2014, de GIZMODO: http://es.gizmodo.com/visita-la-primera-pagina-web-publica-creada-hoy-hace-20-485588591 Strum, C. (6 de agosto de 2012). Fayer Wayer. Recuperado el 18 de noviembre de 2014, de Fayer Wayer: http://www.fayerwayer.com/2012/08/visita-la-primera-pagina-web-del-mundo-creada-hace-mas-de-20-anos/ Info CERN. (30 de abril de 1993). Recuperado el 18 de novimbre de 2014, de Info CERN: http://info.cern.ch/hypertext/WWW/TheProject.html
+
+
+== Bibliografía ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre World Wide Web. Commons
+w3.org Sitio web oficial del W3C (en inglés).
+www.w3c.es Sitio web del W3C en España.
+info.cern.ch CERN, donde nació la web "WWW"
+World Wide Web
+La web móvil por Tim Berners-Lee.

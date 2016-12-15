@@ -1,0 +1,28 @@
+A szökőév olyan év, amely több napot tartalmaz az év szokásos hosszánál azért, hogy a naptárt szinkronba hozza a csillagászati (tropikus évvel) vagy évszakok szerinti idővel (latinul: annus bissextilis, azaz 'szökőnapos év').
+Az évszakok és a csillagászati események nem egész számú napok szerint ismétlődnek, ezért a naptár, ami ugyanannyi napot tartalmaz, minden évben elcsúszik a világ eseményeihez képest. Ha időnként beillesztünk egy plusz napot az évbe – vagy egyéb módon időnként módosítunk az év hosszán – akkor ez a csúszás korrigálható.
+A szökőnapokat – melyek a naptárat hangolják össze a csillagászati év hosszával – nem szabad összekeverni a szökőmásodpercekkel vagy „ugrómásodpercekkel”, amelyek az órát hozzák szinkronba a nap hosszával.
+
+
+== A Gergely-naptár ==
+A világ legtöbb országában a Gergely-naptárt használják, mely 1582-ből XIII. Gergely pápától származik. Az első nikaiai zsinat (325) óta, amikor is a tavasz kezdőnapját március 21-ében állapították meg, az eltérés már 10 napra nőtt a Julián-naptár és a csillagászati naptár közt. Ezért 1582-ben Gergely pápa elrendelte, hogy október 4-e csütörtök után, október 15-e péntek következzék, hogy ezáltal az eltérést kiküszöböljék. Magyarország 1587-ben fogadta el a Gergely-naptárt: 1587. október 21-e szombat után, november 1-je vasárnap következett, és ezzel szinkronba került a legtöbb európai országgal. Ez a naptár meghatározott években a 28 napos február hónaphoz egy plusz napot ad, így az a szökőévben 29 napos lesz.
+
+
+=== Mely évek a szökőévek? ===
+Szökőévek a következők: minden néggyel osztható év, kivéve a százzal is oszthatókat. Szökőévek viszont a 400-zal osztható évek. Vagyis a századfordulók évei közül csak azok szökőévek, amelyek 400-zal is oszthatók.
+Ez alapján tehát szökőév 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020 és 2024. Nem szökőév 1700, 1800, 1900, 2100, 2200 és 2300. Viszont szökőévek a következő esztendők: 1600, 2000 és 2400.
+A Gergely-naptárban minden 400 évre 97 szökőév jut.
+A Gergely-naptár alapján az év átlagos hossza 365,2425 nap. A csillagászati év hossza kb. 365,2422 nap. A kettő különbségéből fakadó eltérés alig több mint 0,0001 nap. Ez azt jelenti, hogy a Gergely-naptár kb. 3000 évente marad el 1 nappal a csillagászati naptár mögött. John Herschel (1792–1871) javasolta – másokkal egyetemben – hogy a pontosság kedvéért minden 4000. év legyen kivételesen nem szökőév, azonban ez a javaslat nem élvez támogatást, főként annak ritka alkalmazása miatt.
+
+
+=== Melyik nap a szökőnap? ===
+A szökőnap február 24. Ennek oka a római naptárban keresendő, amelyben Julius Caesar kihirdette, hogy „a március kalendasa előtti 6. nap kettőztessék meg”, mely a mai naptárunk szerint február 23. napjának felel meg, melyet a szökőnap követ. Ám tévesen gyakran február 29-ét tartják szökőnapnak.
+
+
+== A julián naptár ==
+A julián naptár minden 4-gyel osztható év februárjában egy plusz napot iktat be. E szabály alapján egy átlagos év hossza 365,25 nap lesz. A különbség a csillagászati évhez képest 0,0076 nap évente, ez pedig azt jelenti, hogy 130 év alatt a csillagászati év 1 nappal megelőzi a julián naptár szerinti évet.
+A julián naptár az ókori egyiptomi naptáron alapul. Az egyiptomiak azonban nem használtak szökőéveket, bár ismerték magát a jelenséget, hogy a csillagászati év csak 1460 évenként esik egybe a naptári évükkel (ennyi idő alatt áll össze a kihagyott szökőnapokból egy teljes év).
+
+
+== Kínai és héber naptár ==
+Mind a kínai, mind a héber naptár holdhónapokban méri az időt, és így a szökőévnek egy külön hónapja van, a szökőhónap (melyet gyakran „embolizmikus hónapnak” neveznek, görög szó alapján).
+A kínai naptárba a szökőhónap egy bonyolult szabály alapján kerül be, ami biztosítja, hogy a 11. hónap mindig tartalmazza a téli napfordulót. A hónap mindig ugyanazt a számot kapja, mint a megelőző hónap; például ha a második hónapot követi, akkor egyszerűen „szökő második 

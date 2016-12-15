@@ -1,0 +1,52 @@
+A biológiában a fajok mindegyike tudományos nevet visel, amelyet latin névnek, illetve rendszertani névnek is szoktak nevezni. A fajok tudományos nevei két szóból álló, kettős (binomiális vagy binominális) nevek. Az ilyen nevek (binomenek) rendszerét kettős nevezéktannak (binomiális/binominális nomenklatúrának) is nevezik.
+A tudományos nevek használata lehetővé teszi a különféle fajok világszerte egységes, az anyanyelvi eltérésektől független elnevezését, amelyre annál inkább szükség van, mert egyetlen beszélt nyelv szókészlete sem lenne elegendő az ismert fajok elnevezésére. A fajok kettős nevezéktanát Linné vezette be 1753-ban megjelent Species plantarum című művében, noha korábban John Ray és Caspar Bauhin is használt (bár nem túl következetesen) kettős fajneveket. Linné az állatok és növények fajai mellett eredetileg a különféle „ásványfajok” megnevezésére is használta a kettős latin neveket, ám ez napjainkra, a faj fogalmának biológiai értelmezése miatt túlhaladottá vált. Napjainkban az állatok, a növények (valamint a gombák és a cianobaktériumok), a baktériumok, illetve bizonyos mértékben a vírusok fajainak megnevezésére használatosak ilyen nevek. A fajok kettős nevezéktana nemcsak a jelenkori recens fajokra, hanem a földtörténeti múlt fosszilis fajainak elnevezésére is vonatkozik.
+
+
+== A kettős név logikája ==
+A fajok tudományos neveinek felépítése a generikus (genus proximum) és specifikus (differentia specifica) logikai elvének felel meg, egyben utal az adott faj rendszertani helyére is. A kettős nevet alkotó első szó a generikus név (nemi vagy nemzetségnév), amely azt a nemet (állatoknál), illetve nemzetséget (növényeknél és gombáknál) adja meg, ahová az adott faj tartozik. A barna medve latin neve például Ursus arctos. A tudományos név első tagja jelzi, hogy a faj az Ursus nembe tartozik, ahová a barna medve legközelebbi rokonait, például a fekete medvét (Ursus americanus) is sorolják.
+A kettős nevet alkotó második szó a specifikus (faji) megkülönböztető név, amely megkülönbözteti az adott fajt a nem, vagy nemzetség többi fajától (az előbbi példában a barna medvét az Ursus-nem többi fajától).
+
+
+=== Alfaji nevek ===
+Az alfajok (subspecies) esetében nem két-, hanem háromtagú (trinomiális/trinominális) tudományos név használatos. Az eurázsiai hiúz (Lynx lynx) Kárpát-medencei alfajának például Lynx lynx carpathicus a tudományos neve. A faj eredetileg leírt ún. törzsalakjának (törzsalfajának) az alfaji neve mindig azonos a faji névvel. A farkas (Canis lupus) törzsalakjáé például Canis lupus lupus, a gímszarvasé Cervus elaphus elaphus. Az alfajok feltüntetése esetén a háromtagú névből az első kettőt gyakran rövidítik (például L. l. carpathicus, C. l. lupus, C. e. elaphus). Természetesen nem minden faj osztható fel alfajokra, így a háromtagú tudományos nevek használata csak a több alfajra osztható, ún. politipikus fajok esetében merül fel.
+
+
+=== Az alnemek nevei ===
+Időnként előfordul, hogy valamely faj rendszertani besorolásakor a nem (állatoknál) vagy nemzetség (növényeknél és gombáknál), illetve a faj között elhelyezkedő rendszertani kategóriára, az alnemre vagy alnemzetségre (subgenus) is szükség van. Ezt a faj tudományos nevében nem kötelező ugyan feltüntetni, de van rá formai lehetőség. Ilyen esetekben az alnem v. alnemzetség neve kerek zárójelben a generikus és a faji név között szerepel.
+Példa: A szervál (Felis serval) a Felis-nemen belül a Leptailurus alnembe tartozik, ezért tudományos nevét így is írhatjuk: Felis (Leptailurus) serval.
+
+
+== A tudományos nevek nyelvi és etimológiai szempontból ==
+Mivel a kettős nevezéktan kialakulásának idején a tudomány nyelve elsősorban a latin volt, a fajok tudományos nevei is latin alapúak. Ez azt jelenti, hogy a névnek vagy latinnak, vagy latinosítottnak kell lennie, vagy ha szavak, illetve betűk mesterséges kombinációjából származnak, akkor olyan módon kell megalkotni őket, hogy latin szavakként lehessen kezelni. A nem eredeti latin, hanem latinosított nevek leggyakrabban ógörög eredetűek, ritkábban más nyelvekből származó szavak vagy szóelemek.
+Példa: A mocsári kenguru (Wallabia bicolor) nevében a Wallabia elnevezés az ausztráliai dharuk nyelvből ered.
+Gyakori, hogy a tudományos nevekbe földrajzi nevek, helynevek, helységnevek kerülnek be, amelyek többnyire a faj elterjedésére utalnak.
+Példa: A kárpáti skorpió (Euscorpius carpathicus) nevében a carpathicus elnevezés a faj kárpát-medencei elterjedésére utal.
+Gyakran szerepelnek a fajok tudományos neveiben személynevek is. A faj leírója ezzel általában egy jelesebb pályatársának, köztiszteletben álló személynek, vagy a faj felfedezésében és leírásában szerepet játszó munkatársának állít emléket. A személynév is latinosított formában, legtöbbször birtokos esetben (genitivus) szerepel. Az -ius végződéssel latinosított személyneveknél a birtokos eset kettős „i” betűt (-ii) eredményez a szó végén.
+Példa: A pannongyík (Ablepharus kitaibelii) tudományos nevét Kitaibel Pál után kapta. Az ő nevének latinosított alakja a „Kitaibelius”, amelynek birtokos esete a faji névben is szereplő kitaibelii alak.
+
+
+=== Szokatlan eredetű nevek ===
+A fajok tudományos nevének nyelvi eredete időnként egészen rendkívüli módon alakul, amint az az alábbi példákból is látható:
+Az Afipia clevelandensis nevű baktériumot az Amerikai Fegyveres Erők Patológiai Intézetéről (US. Armed Forces Institute of Pathology), az AFIP-ról nevezték el.
+Az Amaurotoma zappa, illetve Anomphalus jaggerius nevű fosszilis csigafajok leírója nyilván kedveli a rockzenét, különösen Frank Zappát és Mick Jaggert.
+Az Abra cadabra nevű kagylófaj tudományos neve önmagáért beszél (igaz, hogy időközben másik nembe sorolták, ezért ma a Theora cadabra az érvényes neve).
+A Bufonaria borisbeckeri nevű tengeri csigát Boris Beckerről nevezték el. A faj leírója ezt azzal indokolta, hogy Boris Beckert tartja a legnagyobb német sportolónak (mások szerint Boris Becker fizetett azért, hogy róla nevezzék el az említett fajt).
+A Calponia harrisonfordi nevű pókot leírója azért nevezte el Harrison Fordról, mert mély benyomást tett rá a színész narrátori munkája az „Earth and the American Dream” című dokumentumfilmben. A Pheidole harrisonfordi nevet viselő hangyafaj ugyancsak Harrison Fordról kapta a nevét: a felfedező így kívánt tisztelegni Harrison Ford a Conservation International tiszteletbeli elnökeként végzett tevékenysége előtt.
+A Jurassosaurus nedegoapeferkimorum nevezetű dinoszaurusz faji nevét a Jurassic Park című film első részének főszerepeit játszó színészek nevének betűiből állították össze (NEil, DErn, GOldblum, Attenborough, PEck, FERrero, Knight, rIchards és Mazzello).
+A Proceratium google névre keresztelt hangyafaj a népszerű keresőprogramról kapta a nevét.
+A Pseudatrichia atombomba nevű ablaklégy szokatlan nevét annak köszönheti, hogy az új-mexikói Alamogordo mellett fedezték fel, azon a környéken, ahol 1945. július 16-án a Manhattan terv első kísérleti atomrobbantását végrehajtották.
+
+
+== Formai előírások ==
+Az élőlények fajainak tudományos nevét – az egész világra kiterjedő egységesség érdekében – szigorú formai és technikai előírások határozzák meg. Az előírásokat és ajánlásokat ún. nemzetközi nevezéktani kódexek határozzák meg: az állatoknál a Zoológiai Nevezéktan Nemzetközi Kódexe (ICZN – International Code of Zoological Nomenclature), a növényeknél (valamint a gombáknál és a cianobaktériumoknál) a Botanikai Nevezéktan Nemzetközi Kódexe (ICBN – International Code of Botanical Nomenclature), a baktériumoknál pedig a Baktériumok Nevezéktanának Nemzetközi Kódexe (ICNB – International Code of Nomenclature of Bacteria) tartalmazza az előírásokat. Ennek megfelelően a részleteket tekintve némileg eltérnek például a zoológiai nevezéktan és a botanikai nevezéktan előírásai, ám néhány szabály általános érvényűnek mondható a fajok tudományos neveivel kapcsolatban:
+Minden faj tudományos neve két tagból, egy generikus és egy faji névből áll. Az alfajok tudományos neve háromtagú, ilyenkor a második tag a fajra, a harmadik az alfajra vonatkozik.
+A tudományos fajnevek első tagja mindig nagy kezdőbetűvel írandó, a második mindig kicsivel. Kis kezdőbetűvel kell írni az alfajokra vonatkozó harmadik nevet is, viszont a fajok feletti rendszertani kategóriák tudományos nevei mindig nagy kezdőbetűvel írandók.
+A két tagot a latin nyelv nyelvtani szabályai szerint kell egyeztetni. Így ha a második tag latin melléknév, akkor a végződése az első tag nyelvtani neméhez illeszkedik. Például a házi veréb latin nevében (Passer domesticus) a domesticus/domestica/domesticum háromalakú melléknév a passer szó mellett hímnemű alakjával szerepel, a közönséges házilégy (Musca domestica) nevében viszont nőnemű alakja jelenik meg, minthogy a musca szó is nőnemű. A kettős név nyelvtanilag igen gyakran birtokos szerkezetű. Ilyen esetben a második tag egyes szám birtokos esetben (singularis genitivus) áll, az alkalmazandó főnévragozásnak (declinatio) megfelelő végződéssel, ami leginkább -ae, -i, (esetleg -ii), -is, illetve -us végződés lehet.
+A tudományos neveket kurzív (dőlt) betűkkel (kézírásnál és írógép használatakor aláhúzással) szokás írni. A dőlt betűs írást a Zoológiai Nevezéktan Nemzetközi Kódexe ugyan csak ajánlásként fogalmazza meg, de célszerű betartani.
+Az állatfajok neveinél előfordulhat tautonímia, azaz lehet megegyező az első és a második tag (például Gorilla gorilla, Vulpes vulpes, Lynx lynx) – a növények, gombák, cianobaktériumok és baktériumok fajainál azonban nem fordul elő ilyen.
+A tudományos neveket mindig a latin ábécé betűivel kell írni.
+
+
+=== Szerzőség feltüntetése ===
+A fajok tudományos neveivel együtt gyakran közlik a faj leírójának nevét, időnként a leírás dátumát is. Ebből a szempontból háromféle megoldás lehetséges:
+A szerzőség feltüntetésének teljes elhagyása. Például Homo sapiens; Taurotragus oryx. Az ismeretterjesztő művekben – ha egyáltalán feltünt

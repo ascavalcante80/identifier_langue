@@ -1,0 +1,25 @@
+Il sistema numerico ternario è un sistema numerico posizionale in base 3, cioè che utilizza 3 simboli, tipicamente 0 e 1 e 2, invece dei 10 del sistema numerico decimale tradizionale. Di conseguenza, la cifra in posizione  (da destra) si considera moltiplicata per  anziché per  come avviene nella numerazione decimale. Solitamente le tre cifre sono numeri positivi, ma il termine può anche riferirsi al sistema ternario bilanciato, usato soprattutto nei calcolatori ternari, le cui cifre sono -1, 0 ed 1.
+
+
+== Definizione ==
+Un numero è rappresentato in base 3 da una combinazione di cifre 0, 1 e 2, ordinate secondo un sistema posizionale basato sulle potenze di 3. Dato che si può generare confusione con altre basi, si può specificare che si tratta di un numero ternario aggiungendo un pedice 3 alla fine del numero. Per esempio, 
+
+
+== Comparazione con altre basi ==
+La rappresentazione di un numero intero in base 3 richiede meno cifre della corrispondente in base 2. Per esempio, il numero decimale 220 si scrive in base 2 11011100 (8 cifre), mentre in base 3 è scritto come 22011 (5 cifre). Tuttavia, un numero scritto in base 3 è più lungo che in base 10; per questo in informatica i numeri ternari vengono talvolta codificati in base 9 o in base 27, allo stesso modo con cui i numeri binari vengono compattificati in base 8 o in base 16.
+Per quanto riguarda i numeri razionali, il sistema ternario è comodo per rappresentare le frazioni che hanno al denominatore delle potenze di 3, che in notazione decimale vengono rappresentate da numeri periodici. Tuttavia, non avendo la base altri fattori primi oltre a 3, tutti gli altri razionali non interi divengono periodici. Ad esempio, ecco alcune frazioni con le rispettive rappresentazioni in bese 2, 3 e 10:
+
+
+== Applicazioni ==
+
+
+=== Informatica ===
+I calcolatori ternari fondano il loro funzionamento sulla base 3. Analogamente ai bit, le loro unità di informazione sono i trit, che possono assumere tre valori distinti. Ogni trit contiene l'equivalente di  (circa 1,58496) bit d'informazione. Alcuni computer ternari, come il Setun, definivano il tryte come un gruppo di 6 trit, in parallelo coi byte che sono composti da 8 bit.
+
+
+=== Trasferimento Dati ===
+Ove un canale di comunicazione consente di usare agevolmente tre stati invece di due, è possibile inviare una mole di dati numerici di molto maggiore rispetto all'utilizzo di due simboli. Se ad esempio si usano lampi di luce colorata per trasmettere un "1" o uno "0" binario a seconda del colore rosso o verde, con 8 lampi (un byte) si hanno a disposizione 256 diverse configurazioni. Ma se si aggiunge il colore azzurro (ad esempio) al quale assegnare il valore "2", allora con gli stessi otto lampi si possono trasmettere ben 6561 diverse configurazioni, che con una luce a due colori necessiterebbero di 13 lampi (bits). Quindi se è possibile utilizzare tre stati ben distinguibili in luogo di due, la numerazione in base tre amplifica fortemente la quantità di informazione trasferibile nella stessa unità di tempo.
+
+
+=== Altri usi ===
+La base 3 è utile per lavorare più facilmente con alcune strutture autosomiglianti come il triangolo di Sierpinski e l'insieme di Cantor. Quest'ultimo può essere definito come l'insieme di numeri reali compresi tra 0 ed 1 che non hanno nessuna cifra 1 nella loro rappresentazione ternaria. È a volte utilizzato nel baseball, dove ogni inning è diviso in tre out. È inoltre usato nell'islam per declamare i 99 n

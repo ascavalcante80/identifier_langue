@@ -1,0 +1,36 @@
+Sanakirja on hakuteos, jossa on esitetty jonkin kielen tai kielimuodon määrätavoin valittujen, tavallisesti aakkosjärjestyksessä esitettyjen sanojen merkitykset, vieraskieliset vastineet tms. Käänteissanakirjassa hakusanat on aakkostettu hakusanan lopusta lähtevään aakkosjärjestykseen. Suursanakirja on hakusanamäärältään ja sivumäärältään laaja sanakirja. Taskusanakirja on taskukokoinen, yleensä vain keskeisimmät sanat sisältävä sanakirja. Internetissä on täysin ilmaisia sanakirjoja, tosin yleensä sisällöiltään suppeampia kuin painetut sanakirjat.
+Jos kieltä ei kirjoiteta fonemaattisesti tai muuten erillisin kirjaimin, kuten kiina tai viittomakielet, sanajärjestys pitää toteuttaa toisella tavalla.
+Sanasto ei ole yksiselitteisesti sama kuin sanakirja vaan se on (1) jonkin kielen, kielimuodon, alueen, alan, ajanjakson tai yksilön sanat, sanavarat, leksikko, (2) suppeahko, varsinkin erikoisalan sanakirja, leksikko, tai (3) jonkin kirjan sanahakemisto.
+
+
+== Sanakirjan rakenne ==
+Sanakirjan artikkelit sijoitetaan asianomaisen kielen käyttämään aakkosjärjestykseen. Sana(kirja)-artikkelin aloittaa hakusana. Hakusana edustaa lekseemiä, joka on kaikki sanan taivutusmuodot käsittävä abstraktio. Hakusanoiksi valitaan yleensä ns. perusmuodot sanoista, mutta etenkin verbien hakusanojen suhteen on olemassa erilaisia konventioita eri kielissä. Sana on kielen pienin itsenäinen, yhdeksi kirjainjaksoksi kirjoitettava, merkityssisältöinen osa. Sana voi tarkoittaa myös sanetta, joka on tekstin (tai puheen) perusmuotoinen tai taivutettu osa.
+Kaksi- tai useampikielisessä sanakirjassa lähdekieli on hakusanojen ja esimerkkien kieli. Usein sanakirjoissa annetaan myös lausumisohjeita, etenkin kielissä, joissa sanan kirjoitusasu ei yksiselitteisesti määritä sen lausumista (esim. eng. read). Kohdekieli on kieli, jolla hakusanojen vastineet annetaan ja johon esimerkit käännetään kaksikielisessä (tai useampikielisessä) sanakirjassa. (Häiritsevästi kohdekieli voi merkitä myös kuvauksen kohteena olevaa kieltä.)
+Selitysten jälkeen sana-artikkelissa on yleensä esimerkistö eli sanan käyttöä ja merkityksiä valaisevat esimerkit kokonaisuutena. Jos selitettävän sanan semantiikka on monisyinen, merkitysryhmien erottelemiseen yleensä käytetään erilaisia apumerkkejä. Nämä apumerkit ovat keskenään hierarkkisessa suhteessa. Esimerkiksi seuraava hierarkia erottelee paljon merkitysryhmiä: roomalaiset numerot > isot kirjaimet > arabialaiset numerot > pienet kirjaimet > puolipiste > pilkku.
+Sähköinen sanakirja on tietokonekäyttöinen sanakirja, esimerkiksi Internet- tai CD-ROM-sanakirja. Siinä hakusana on se sana tai sananmuoto, jolla tietoa haetaan sähköisestä sanakirjasta, tietokannasta tms.
+
+
+== Sanakirjan käyttökohteet ja -tavat ==
+Sanakirjaa voi käyttää monella tavalla, joten seuraava jaottelu on vain ylimalkainen.
+
+
+=== Normatiivisuus ja deskriptiivisyys ===
+Deskriptiivinen sanakirja kuvailee kielenkäyttöä antamatta ohjeita tai suosituksia. Sitä vastoin normatiivinen sanakirja antaa ohjeita tai suosituksia kielenkäytöstä. Oikeinkirjoitussanakirjan päätarkoitus on osoittaa sanojen norminmukainen oikeinkirjoitus.
+
+
+=== Yksikieliset sanakirjat ===
+Yksikielisessä sanakirjassa hakusanojen ja selitteiden kieli on sama tai ne edustavat saman kielen eri kielimuotoja ja jossa ei anneta muunkielisiä vastineita.
+Nykykielen sanakirja kuvaa kirjoittamishetkensä aikaista kielimuotoa. Uudissanakirja esittelee hiljattain kieleen tulleita sanoja ja vanhojen sanojen uusia merkityksiä. Historiallinen sanakirja kuvaa kirjoittamisajankohtaansa vanhempaa kielimuotoa.
+Kuvitetussa sanakirjassa on kuvia, mutta kuvasanakirjassa kuvat ovat olennainen osa merkityksenselitystä. Selittävässä sanakirjassa hakusanojen merkitykset kuvataan ensisijaisesti selitteiden avulla.
+Murresanakirja on kielen jotakin alueellista murretta tai kaikkia sen murteita kuvaava sanakirja. Slangisanakirja selittää slangisanoja yleiskielellä tai antaa yleiskielen sanoille slangivastineita. Sivistyssanakirja eli vierassanakirja ”kääntää” vierasperäisiä sanoja, erikoislainoja ja sitaattilainoja.
+Tieteellinen sanakirja on tieteelliseen käyttöön tarkoitettu sanakirja tai ylipäätänsä tieteellisten periaatteiden mukaan tehty sanakirja. Esimerkiksi etymologinen sanakirja selittää sanojen alkuperän ja frekvenssisanakirja eli taajuussanakirja kuvaa sanojen yleisyyttä. Valenssisanakirja on sanakirja, joka esittää, millaisten muiden sanojen ja sananmuotojen kanssa jokin sana (tav. verbi) esiintyy lauseessa.
+
+
+=== Kaksikieliset sanakirjat ===
+Aktiivinen sanakirja on tekstin tuottamiseen tarkoitettu ja passiivinen sanakirja tekstin ymmärtämiseen tarkoitettu (tavallisesti) kaksikielinen sanakirja.
+Kaksikielisessä sanakirjassa hakusanat ja niitä kuvaavat esimerkit ovat yhdellä kielellä ja hakusanojen vastineet ja esimerkkien käännökset toisella kielellä. Monikielisessä sanakirjassa hakusanat ja niitä kuvaavat esimerkit ovat yhdellä kielellä ja hakusanojen vastineet (ja esimerkkien käännökset) vähintään kahdella muulla kielellä. Myös viittomakieli on kieli, joten viittomakielen sanakirja selittää viittomien merkityksen tai antaa niiden vastineet toisella kielellä.
+Koulusanakirja on koululaisille tarkoitettu ja opiskelusanakirja kieltä opiskelevalle tarkoitettu suppea(hko) sanakirja. Tulkkisanakirja on tavallisimpia sanoja ja sanontoja yleensä aihepiireittäin esittävä kaksi- tai monikielinen pienehkö sanakirja.
+
+
+=== Yleissanakirjat ja erikoissanakirjat ===
+Perussanakirja on kielen keskeisen sanaston esittävä sanakirja, ja yleiskielen sanakirja kuvaa pääasiassa yleiskieltä (vastakohtana erikoisaloja tai tiettyjä kielimuotoja kuvaaville sanak

@@ -1,0 +1,19 @@
+r en webbserver. Alla webbsidor man kan hitta på webben hämtas från en eller flera sådana webbserverdatorer.
+
+
+== Mjukvara ==
+Vanliga webbservermjukvara är:
+Apache
+Microsoft IIS
+Google GWS
+lighttpd
+nginx
+
+
+== Se även ==
+Server
+Web service
+.htaccess
+
+
+== Referenser ==

@@ -1,0 +1,39 @@
+Extensible Markup Language (XML) is een standaard van het World Wide Web Consortium voor de syntaxis van formele opmaaktalen waarmee men gestructureerde gegevens kan weergeven in de vorm van platte tekst. Deze presentatie is zowel machineleesbaar als leesbaar voor de mens. Het XML-formaat wordt gebruikt om gegevens op te slaan (zoals in het OpenDocument-formaat) en om gegevens over het internet te versturen (zoals in AJAX).
+XML is een vereenvoudigde vorm van Standard Generalized Markup Language (SGML), een complexe standaard om de structuur van documenten vast te leggen.
+XML-talen gebruiken zogenaamde elementen en attributen om gegevens te structureren. De XML-specificatie definieert de syntaxis van elementen, attributen en de andere structuren die in XML-bestanden kunnen voorkomen. De XML-specificatie legt echter geen namen vast voor deze elementen en attributen, precies omdat deze keuze afhangt van het doel van het XML-bestand.
+Een oudere van SGML afgeleide markuptaal is HyperText Markup Language (HTML). HTML heeft voor een doorbraak in SGML-achtig vormgegeven tekst gezorgd, maar gegevens die op een HTML-pagina staan zijn voor computers niet als zodanig te herkennen: in HTML kan men bijvoorbeeld wel titels en paragrafen markeren (tekstuele structuur), maar men kan niet vastleggen dat een bepaald gegeven een persoonsnaam, een telefoonnummer of een datum is (betekenis of semantische structuur). Met XML kan men echter markuptalen ontwikkelen waarmee dit wel kan.
+
+
+== VoorbeeldBewerken ==
+Een XML-bestand dat een muziekplaylist beschrijft, zou er als volgt uit kunnen zien:
+
+<?xml version="1.0" encoding="utf-8"?>
+<playlist name="mylist" xml:lang="en">
+<song>
+<title>Little Fluffy Clouds</title>
+<artist>the Orb</artist>
+</song>
+<song>
+<title>Goodbye mother Earth</title>
+<artist>Underworld</artist>
+</song>
+</playlist>
+
+Het gaat in dit bestandsformaat dus meer om de structuur van informatie, dit in tegenstelling tot HTML, of liever de manier waarop HTML veel gebruikt wordt, waarbij het meer gaat om de presentatie van de informatie. In deze HTML-bestanden beschrijven de tags wel hoe informatie moet worden gepresenteerd maar niet wat deze informatie betekent.
+
+
+== Verwante standaardenBewerken ==
+De afspraken over de te gebruiken tags in de "standaard"-dialecten worden formeel vastgelegd in zogenaamde DTD's (Document Type Definitie) of in de nieuwere XML-Schemadefinities (XSD). Naast de te gebruiken tags wordt hierin ook beschreven welke gegevens acceptabel zijn en hoe ze precies moeten worden opgegeven (bijvoorbeeld een postcode bestaat uit 4 cijfers, 1 spatie en 2 letters). Het verschil tussen DTD en XSD is dat XSD-schema's hierin meer uitdrukkingskracht hebben; daarnaast is XSD zelf ook een XML-dialect dat met alle XML-tools kan worden bewerkt.
+Hoe de gegevens opgemaakt zullen worden geef je op met een XSL-document Extensible Stylesheet Language. Het is ook enigszins mogelijk om een XML-document op te maken met een CSS-document. CSS (Cascading Style Sheet) is echter beter geschikt voor XHTML. Op zo'n manier geef je in XML door middel van XSD en XSL een keurige scheiding tussen opmaak en inhoud. Ook XSL is zelf een (standaard) XML-dialect.
+Data in XML-formaat kunnen door middel van XSLT-transformaties worden omgezet naar andere formaten zoals HTML, WML of PDF maar ook naar een XML-document met een andere structuur. In het geval van de transformatie naar HTML kan deze bewerking zowel in de browser (op het moment van tonen) als op de webserver plaatsvinden.
+Voor het doorzoeken van XML-documenten zijn er standaard-querytalen ontwikkeld: XPath en XQuery.
+Hoewel de XML-tags in principe vrij te kiezen zijn, is het bij uitwisseling van gegevens wel handig als er een gemeenschappelijke standaard wordt afgesproken. Op deze manier ontstaan er allerlei XML-dialecten, elk met een eigen specifieke toepassing. Een voorbeeld van een "standaard"-XML-dialect is de zogenaamde RSS-standaard (Rich Site Summary of Really Simple Syndication) waarmee nieuwssites hun headlines kunnen publiceren voor RSS-diensten en RSS-software. Van nieuwssites zoals NU.nl en Slashdot zijn bijvoorbeeld zogenaamde RSS-feeds beschikbaar.
+De data heeft een XML-tag vast behoudend aan het HTML.
+
+
+== XML in werkingBewerken ==
+XML is niet alleen ontworpen voor RSS-feeds, maar wordt hoofdzakelijk gebruikt als middel voor gegevensoverdracht.
+
+
+=== XML-RPCBewerken ===
+Om XML-RPC te gebruiken kan een module gebouwd worden, die simpel gezegd bestaat uit één of een aantal PHP-pagina's. Er wordt een request door 

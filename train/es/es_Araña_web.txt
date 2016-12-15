@@ -1,0 +1,6 @@
+Una araña web (o araña de la web) es un programa que inspecciona las páginas del World Wide Web de forma metódica y automatizada. Uno de los usos más frecuentes que se les da consiste en crear una copia de todas las páginas web visitadas para su procesado posterior por un motor de búsqueda que indexa las páginas proporcionando un sistema de búsquedas rápido. Las arañas web suelen ser bots.
+Las arañas web comienzan visitando una lista de URLs, identifica los hiperenlaces en dichas páginas y los añade a la lista de URLs a visitar de manera recurrente de acuerdo a determinado conjunto de reglas. La operación normal es que se le da al programa un grupo de direcciones iniciales, la araña descarga estas direcciones, analiza las páginas y busca enlaces a páginas nuevas. Luego descarga estas páginas nuevas, analiza sus enlaces, y así sucesivamente.
+Entre las tareas más comunes de las arañas de la web tenemos:
+Crear el índice de una máquina de búsqueda.
+Analizar los enlaces de un sitio para buscar links rotos.
+Recolectar información de un cierto tipo, c

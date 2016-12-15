@@ -1,0 +1,12 @@
+QRpedia adalah sistem berbasis internet bergerak yang menggunakan kode QR untuk menyampaikan artikel Wikipedia kepada pembacanya, dalam bahasanya sendiri.
+
+
+== Proses ==
+Ketika seorang pengguna memindai sebuah QRpedia atau kode QR menggunakan ponsel atau perangkat sejenis lainnya, perangkat tersebut mengubah kode QR menjadi URL menggunakan nama domain "qrwp.org" yang mana tujuan (bagian akhir) adalah judul artikel Wikipedia, dan mengirimkan permintaan URL artikel yang diminta ke server web QRpedia. Juga mengirimkan pengaturan bahasa dari perangkat.
+Server QRpedia lalu menggunakan API untuk menentukan apakah ada versi artikel Wikipedia dalam bahasa yang digunakan oleh perangkat, jika ada, mengirimkannya dalam format yang sesuai dengan perangkat bergerak. Jika tidak terdapat terjemahan dari artikel yang diminta, maka server QRpedia akan melakukan pencarian judul artikel yang sesuai dengan yang tersedia di Wikipedia dan mengirimkan hasilnya ke perangkat bergerak yang memindai kode QR.
+Dengan cara ini, sebuah kode QR dapat mengirimkan artikel yang sama dalam berbagai bahasa. QRpedia juga merekam statistik penggunaannya.
+
+
+== Asal mula ==
+
+QRpedia diilhami oleh Roger Bamkin, chair of Wikimedia UK, dan Terence Eden, konsultan internet bergerak, dan dipakai sejak 9 April 2011 pada kegiatan Backstage Pass Museum Derby, sebagai bagian dari kolaborasi GLAM/Derby antara Museum dan Galeri Seni Derby dan Wikipedia, waktu itu lebih dari 500 artikel Wikipedia, dengan beberapa bahasa juga dibuat. Nama proyek adalah lakuran dari "QR" dari "QR kode (Quick Response)" dan "Wikipedia".

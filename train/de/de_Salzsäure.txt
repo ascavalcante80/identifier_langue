@@ -1,0 +1,56 @@
+Wikipedia:Redaktion Chemie/ausgeblendete Strukturformel
+
+Salzsäure (systematischer Name Chlorwasserstoffsäure) ist eine wässrige Lösung von gasförmigem Chlorwasserstoff, der in Oxonium- und Chloridionen dissoziiert ist. Sie ist eine starke, anorganische Säure und zählt zu den Mineralsäuren. Ihre Salze heißen Chloride, das bekannteste ist das Natriumchlorid (NaCl, Kochsalz).
+
+
+== Geschichte ==
+Die Entdeckung der Salzsäure wird Maria Prophetissa (2. Jahrhundert) und Geber (9. Jahrhundert) zugeschrieben, so dass sie schon den ersten Alchemisten bekannt gewesen sein dürfte.
+In der ersten Hälfte des 15. Jahrhunderts gewann Basilius Valentinus Salzsäure durch Reaktion von Halit (Steinsalz) mit Eisenvitriol. Die Herstellung aus Speisesalz und Schwefelsäure gelang Johann Rudolph Glauber im 17. Jahrhundert. Lavoisier nannte Salzsäure acide muriatique (lat. muria ‚Salzlake‘). Kochsalzhaltige Quellen werden heute noch als muriatische Quellen bezeichnet. In Nordamerika wird Salzsäure auch muriatic acid genannt.
+
+
+== Vorkommen ==
+In der Natur findet sich Salzsäure in Vulkangasen und stark verdünnt in Kraterseen. In freier Form kommt sie im Magensaft der Wirbeltiere vor (0,1 bis 0,5 Prozent Massenanteil). Fast unerschöpflich sind die Vorkommen an Salzen der Salzsäure, als Steinsalz und gelöst im Meerwasser.
+
+
+== Darstellung und Gewinnung ==
+Salzsäure wird im Labor aus konzentrierter Schwefelsäure und Kochsalz (daher der Name) hergestellt:
+
+Die Schwefelsäure verdrängt den Chlorwasserstoff aus seinem Salz. Da Chlorwasserstoff gasförmig ist, wird es ständig dem Gleichgewicht entzogen, welches dadurch nahezu vollständig auf der Seite der Produkte liegt. Das entstandene Natriumhydrogensulfat ist ein saures Schwefelsäuresalz. Das entstandene Chlorwasserstoffgas wird anschließend in Wasser eingeleitet:
+
+Salzsäure mit höheren Massenanteilen Chlorwasserstoff wird auch als rauchende Salzsäure bezeichnet, da Chlorwasserstoffgas entweicht und mit dem Wasser aus der Luftfeuchtigkeit wieder Salzsäure entsteht, so dass sich über offenen Gefäßen ein weißer Nebel bildet.
+In der chemischen Industrie wird hochreiner Chlorwasserstoff durch die Verbrennung von Wasserstoff mit Chlor gewonnen:
+
+Auch hier lässt man den Chlorwasserstoff mit Wasser reagieren.
+Technisch reine Salzsäure fällt hauptsächlich als Nebenprodukt bei der Chlorierung organischer Verbindungen an.
+
+
+== Eigenschaften ==
+Chlorwasserstoffgas löst sich sehr gut in Wasser: Bei 0 °C löst 1 Liter Wasser, sofern es dabei noch als flüssige Phase vorliegt, unter Wärmeentwicklung 815 g beziehungsweise 507 Liter Gas. Bei 20 °C enthält ein Liter gesättigte Salzsäure 720 g HCl. Die Konzentrationsabhängigkeit der Dichte  ist in nebenstehender Tabelle gezeigt, wobei zwischen ihr und dem prozentualen Gehalt an Chlorwasserstoff zufällig ein einfacher rechnerischer Zusammenhang besteht: Die verdoppelten Nachkommastellen entsprechen in etwa der Konzentration, z. B. eine Salzsäure der Dichte 1,10 g·cm−3 einem HCl-Gehalt von 20 Prozent.
+
+Das Schmelz– und Siedeverhalten von Salzsäure hängt stark von der Zusammensetzung ab. In fester Phase werden vier stöchiometrische Hydrate mit definierten Schmelzpunkten gebildet. Das sind ein Monohydrat HCl·H2O mit einem Schmelzpunkt bei −15 °C, ein Dihydrat HCl·2H2O mit einem Schmelzpunkt bei −18 °C, ein Trihydrat HCl·3H2O mit einem Schmelzpunkt bei −25 °C und ein Hexahydrat HCl·6H2O mit einem Schmelzpunkt bei −70 °C. Im Phasendiagramm ergeben sich für Zusammensetzungen zwischen den stöchiometrischen Hydraten entsprechende eutektische Schmelzen. Diese liegen für ein Gemisch aus Mono- und Dihydrat mit einem Massenanteil Chlorwasserstoff von 57,3 % bei −23 °C, aus Di– und Trihydrat mit einem Massenanteil von 44,0 % bei −28 °C, aus Tri– und Hexahydrat mit einem Masseanteil von 26,6 % bei −73 °C und aus Hexahydrat und Eis mit einem Massenteil von 23,0 % bei −75 °C. Zusätzlich wird ein metastabiles Eutektikum zwischen Trihydrat und Eis mit einem Massenanteil von 24,8 % bei −87 °C gebildet. Im Konzentrationsbereich von 0 bis 25 % wird somit ein starkes Absinken des Schmelzpunktes beobachtet. Das Dampf-Flüssig-Phasendiagramm zwischen Chlorwasserstoff und Wasser zeigt ein negatives Azeotrop. Das resultierende azeotrope Siedepunktsmaximum liegt bei Normaldruck mit einem Massenanteil von 20,2 % bei 109 °C. Bei der Verdampfung von Salzsäurelösungen mit von der Azeotropzusammensetzung abweichender Konzentration wird zunächst bevorzugt die Überschusskomponente verdampft, d. h. bei Salzsäure mit einem Massenanteil <20,2 % erfolgt eine Aufkonzentrierung, bei Salzsäure mit >20,2 % eine Abkonzentrierung, bis die konstant siedende Azeotropzusammensetzung erreicht wird. Die Siedekurve im Phasendiagramm oberhalb der Azeotropzusammensetzung korreliert mit Löslichkeitskurve von Chlorwasserstoff in Wasser. Bei 25 °C ergibt sich ein Massenanteil von 42 %, was der „rauchenden“ Salzsäure entspricht.
+
+In Wasser dissoziiert Chlorwasserstoff vollständig, Salzsäure mit 32 % hat einen pH-Wert von −1. An feuchter Luft bildet Chlorwasserstoffgas einen Nebel aus feinen Salzsäure-Tröpfchen. Verdünnte Salzsäure ist ein guter elektrischer Leiter.
+
+
+=== Reaktionen ===
+Salzsäure löst die meisten Metalle mit Ausnahme der Edelmetalle und einiger anderer (zum Beispiel Tantal und Germanium) unter Bildung von Chloriden und Wasserstoff, sofern diese nicht durch Passivierung geschützt sind.
+
+Sie ist sehr gut geeignet zum Entfernen von Oxidschichten auf Metallen, da Metalloxide mit Salzsäure zu Chloriden und Wasser reagieren:
+
+Eine Mischung von Salzsäure und Salpetersäure wird Königswasser genannt, weil sie auch Gold, den „König der Metalle“, zu lösen vermag. Dazu trägt neben der oxidierenden Wirkung des Nitrosylchlorids und des nascierenden Chlors auch die Verringerung der effektiven Goldionenkonzentration durch Komplexbildung bei:
+
+
+== Verwendung ==
+
+Salzsäure ist eine der wichtigsten Grundchemikalien mit großer Bedeutung in der chemischen Industrie als anorganische Säure. Sie wird beispielsweise bei der Aufarbeitung von Erzen und Rohphosphat eingesetzt. Sie wird zur Stimulation von Erdöl- und Erdgas-Sonden, im Speziellen in Karbonatlagerstätten, aber auch in Sandsteinlagerstätten verwendet. Mit ihrer Hilfe werden dort auch z. B. Calciumcarbonat-Anlagerungen an Gerätschaften entfernt und Reinigungen nach Gravel-Pack-Bohrungen und an Bohrlöchern selbst durchgeführt. In der Metallverarbeitung wird sie beim Beizen, Ätzen und Löten eingesetzt. Außerdem wird verdünnte Salzsäure im Bauwesen zum Entfernen der Mörtelreste am Mauerwerk benutzt – das sog. Absäuern.
+Salzsäure ist nicht zuletzt ein wichtiges Reagenz in der chemischen Analyse. Sie vermag eine Gruppe von Metallen, die schwerlösliche Chloride bilden, durch Fällung von anderen Metallen abzutrennen. Anschließend können diese getrennt weiter analysiert werden (siehe Salzsäuregruppe). Die Alkalimetrie ist ein weiteres Verwendungsgebiet von Salzsäure.
+Als Lebensmittelzusatzstoff trägt Salzsäure die Bezeichnung E 507.
+In der Pharmaindustrie wird Salzsäure benutzt, um basische, in Wasser schlecht- oder unlösliche Arzneistoffe (Beispiele: Ciprofloxacin, Citalopram, Clenbuterol, Clindamycin, Dibenzepin) in besser lösliche Hydrochloride zu überführen.
+
+
+== Biologische Bedeutung ==
+Bei Mensch und Tier ist die Salzsäure ein Bestandteil des Magensaftes, wo sie unter anderem die Denaturierung von Proteinen bewirkt, aber auch zum Abtöten von Mikroorganismen vor Eintritt in das weitere Verdauungssystem dient. Außerdem schafft sie das saure Milieu, in dem das Verdauungsenzym Pepsin am wirksamsten ist.
+
+
+== Nachweis ==
+Salzsäure wird zum einen durch ihren Säurecharakter nachgewiesen. Ergänzend dazu identifiziert man das Chlorid-Anion in stark verdünnter Lösung (bei einem Überschuss an Chloridionen bildet sich ein löslicher Dichloroargentat-Komplex) durch Zugabe von Silbernitratlösung, wobei schwe

@@ -1,0 +1,39 @@
+QRpédia est un système, basé sur le Web mobile, qui utilise les codes QR pour fournir à l'utilisateur des articles de Wikipédia dans la langue qu'il désire. À l'utilisation des codes QR, qui peuvent facilement être générés pour n'importe quel URI, le système QRpédia ajoute plusieurs fonctionnalités, fondées notamment sur la reconnaissance de la langue du téléphone mobile.
+QRpédia a été imaginé par Roger Bamkin, alors président de Wikimedia UK, et conçu par Terence Eden. Présenté pour la première fois en avril 2011 au musée de Derby, en Angleterre, il a été déployé par plusieurs institutions, des musées britanniques, américains et espagnols notamment, pour apporter un complément d'information à leurs visiteurs. Durant l'année 2011, Monmouth, au Pays de Galles, est devenue la première ville couverte par le système, et le mouvement Occupy l'a utilisé sur ses affiches.
+Le code source du projet est librement réutilisable selon les termes de la licence MIT.
+
+
+== Fonctionnement ==
+
+Un code QRPédia est un code QR contenant une URL dont le nom de domaine est « qrwp.org » et dont le chemin (la partie finale) est le titre d'un article de Wikipédia,,. Quand un utilisateur lit un code QRpédia sur son appareil mobile, celui-ci décode l'URL et envoie au serveur Web QRpédia une requête pour l'article qu'elle spécifie. L'appareil transmet également ses paramètres de langue.
+Le serveur QRpédia utilise alors l'interface de programmation (API) de Wikipédia pour savoir s'il existe une version de l'article demandé dans la langue de l'appareil mobile et, si c'est le cas, la lui retourne dans un format adapté à ce type de matériel. S'il n'existe pas de version dans la langue voulue, le serveur QRpédia offre le choix entre les langues disponibles ou une traduction automatique par Google Traduction.
+De cette façon, un code QR donné peut fournir le même article en plusieurs langues. Le système enregistre aussi des statistiques d'utilisation,,.
+
+
+== Conception ==
+QRpédia a été conçu par Roger Bamkin, alors président de Wikimedia UK, et Terence Eden, consultant en Web mobile. Il a été présenté pour la première fois le 9 avril 2011,, lors de la manifestation Backstage Pass, au Derby Museum and Art Gallery,, dans le cadre de la collaboration entre ce musée et Wikipédia,. L'événement a donné lieu à la création de plus de 1 200 articles Wikipédia, en plusieurs langues.
+Le nom du projet est un mot-valise qui assemble les initiales « QR » de « QR (Quick Response) code » et le suffixe de « Wikipedia ».
+Le code source du projet est librement réutilisable selon les termes de la licence MIT.
+
+
+== Déploiement ==
+
+Bien que créé au Royaume-Uni, QRpédia est utilisable partout où le téléphone de l'utilisateur dispose d’un signal de données. En septembre 2012, figurent parmi les organismes ayant mis en œuvre le système :
+au Royaume-Uni :
+les Archives nationales,,
+l'église Saint-Paul de Birmingham (en),
+la ville de Monmouth, dans le cadre du projet Monmouthpedia,
+le musée de Derby,
+le musée des Galleries of Justice de Nottingham (en),
+le musée national de l'Informatique (en) ;
+
+aux États-Unis :
+le cimetière du Congrès,
+le musée des Enfants d'Indianapolis, ;
+
+en Australie, la chapelle des Enfants de l'église Saint-James de Sydney (en) ;
+en Bulgarie, le zoo de Sofia (en) ;
+en Espagne, la Fondation Miró, (également à la Tate, lors d'une exposition itinérante) ;
+en Estonie, le musée des Sports (en) ;
+en République tchèque, le secteur de Prague 10 (en), sur plusieurs de ses monuments.
+Musées et expositions fournissent le cadre d'utilisation le plus fréquent du système, mais non le seul. Avec le projet Monmouthpedia, par exemple, Monmouth, a

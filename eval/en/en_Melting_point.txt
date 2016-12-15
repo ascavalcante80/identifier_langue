@@ -1,0 +1,42 @@
+space. The Lindemann criterion states that melting is expected when the root mean square vibration amplitude exceeds a threshold value.
+Assuming that all atoms in a crystal vibrate with the same frequency ν, the average thermal energy can be estimated using the equipartition theorem as
+
+where m is the atomic mass, ν is the frequency, u is the average vibration amplitude, kB is the Boltzmann constant, and T is the absolute temperature. If the threshold value of u2 is c2a2 where c is the Lindemann constant and a is the atomic spacing, then the melting point is estimated as
+
+Several other expressions for the estimated melting temperature can be obtained depending on the estimate of the average thermal energy. Another commonly used expression for the Lindemann criterion is
+
+From the expression for the Debye frequency for ν, we have
+
+where θD is the Debye temperature and h is the Planck constant. Values of c range from 0.15–0.3 for most materials.
+
+
+== Melting point open data ==
+In February 2011 Alfa Aesar released over 10,000 melting points of compounds from their catalog as open data. These data have been curated and are freely available for download. These data have been used to create a random forest model for melting point prediction which is now available as a free-to-use webservice. Highly curated and open melting point data are also available from Nature Precedings.
+
+
+== See also ==
+Liquidus
+List of elements by melting point
+Melting points of the elements (data page)
+Phases of matter
+Triple point
+Slip melting point
+Solidus temperature
+Melting
+Heat
+Pressure
+Zone melting
+Phase diagram
+
+
+== References ==
+
+
+== Bibliography ==
+Haynes, William M., ed. (2011). CRC Handbook of Chemistry and Physics (92nd ed.). CRC Press. ISBN 1439855110. 
+
+
+== External links ==
+Melting and boiling point tables vol. 1 by Thomas Carnelley (Harrison, London, 1885–1887)
+Melting and boiling point tables vol. 2 by Thomas Carnelley (Harrison, London, 1885–1887)
+ONS melting point explorer Over 10,000 Open Data melting points.

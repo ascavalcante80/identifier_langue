@@ -1,0 +1,63 @@
+venir une géante rouge dans 6,5 milliards d'années, soit un temps de vie total sur la séquence principale approché de 1010 ans. D'où l'approximation
+
+La puissance négative indique que le temps de vie estimé sur la séquence principale de l'étoile est inversement proportionnel à sa masse: bien que les étoiles plus massives aient plus de matière disponible pour la fusion, elles doivent rayonner beaucoup plus[pourquoi ?] quand leur masse est plus grande. Donc les étoiles les plus massives peuvent ne rester sur la séquence principale que quelques millions d'années, tandis que les étoiles de masse inférieure à  peuvent y rester plus de 1012 années.
+Quand tout le combustible hydrogène du cœur a été consommé, l'étoile évolue en s'écartant de la séquence principale sur le diagramme HR. Le comportement d'une étoile dépend alors de sa masse : les étoiles de moins de  deviennent des naines blanches, tandis que celles ayant jusqu'à  passent par une étape de géante rouge. Les étoiles plus massives peuvent exploser en supernova, ou s'effondrer directement dans un trou noir.
+
+
+=== Naine blancheModifier ===
+Quand une étoile de la séquence principale a consommé l'hydrogène de son cœur, le ralentissement de la production d'énergie conduit l'effondrement gravitationnel à repartir. En ce qui concerne les étoiles de moins de , il est prévu qu'elles deviennent des naines blanches une fois que la production d'énergie par fusion nucléaire cessera, mais le processus est si lent qu'il leur faut plus que l'âge actuel de l'Univers.
+
+
+=== Étoile géanteModifier ===
+Pour une étoile d'au moins , une fois que la réserve d'hydrogène dans le cœur est épuisée, elle gonfle pour devenir une géante, atteindre une température suffisante pour déclencher la fusion des noyaux d'hélium en carbone par le processus 3α,. Les étoiles avec plus de 5 -  peuvent aussi fusionner des éléments de plus haut numéro atomique,.
+La production d'énergie de cette voie par unité de masse n'est qu'un dixième de celle de l'hydrogène[réf. nécessaire], et la luminosité de l'étoile s'accroît. Ce stade de géante dure moins longtemps[pourquoi ?] que celui de la séquence principale : par exemple, le Soleil ne devrait rester que 130 millions d'années à ce stade, à comparer aux 12 milliards passés à fusionner l'hydrogène.
+
+
+=== Géante rougeModifier ===
+Dans les étoiles plus massives, jusqu'à , l'hydrogène entourant le cœur d'hélium atteint une température et une pression suffisantes pour subir la fusion, ce qui forme une couche de fusion de l'hydrogène. En conséquence, l'enveloppe externe de l'étoile se détend et se refroidit, et l'étoile devient une géante rouge. À ce point, l'étoile quitte donc la séquence principale et entre dans la branche des géantes. Elle suit une trajectoire d'évolution dans le diagramme de HR en diagonale opposée à la séquence principale, vers le haut à droite. C'est sa trajectoire d'évolution.
+Le cœur d'hélium continue à se contracter, jusqu'à ce qu'il soit entièrement supporté par la pression de dégénérescence des électrons – un effet quantique qui limite la compression de la matière.
+
+
+=== SupernovaModifier ===
+Pour les étoiles de  ou plus, ce processus pourrait conduire à un cœur toujours plus dense, qui finalement s'effondre, éjectant les couches externes en une explosion de supernova, de type II, de type Ib ou de type Ic.
+
+
+== Notes et référencesModifier ==
+
+
+=== NotesModifier ===
+
+
+=== RéférencesModifier ===
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Main sequence » (voir la liste des auteurs).
+
+
+==== SourcesModifier ====
+(en) Une simulation d'évolution dans le diagramme HR en fonction de la masse (moteur d'animation Java). Consulté le 9 mars 2010
+(en) Mitchell Charity, « What color are the stars? », Vendian Systems,‎ 4 juin 2001 (consulté le 9 mars 2010)
+
+
+== Voir aussiModifier ==
+
+
+=== BibliographieModifier ===
+(en) Fred C. Adams et Gregory Laughlin, « A Dying Universe: The Long Term Fate and Evolution of Astrophysical Objects », Reviews of Modern Physics, vol. 69, no 2,‎ avril 1997, p. 337–372 (DOI 10.1103/RevModPhys.69.337)
+(en) Jerome James Brainerd, « Main-Sequence Stars », The Astrophysics Spectator,‎ 16 février 2005 (consulté le 4 mars 2010)
+(en) Laurie M. Brown, Abraham Pais et A. B. Pippard, Twentieth Century Physics, CRC Press,‎ 1995 (ISBN 0-7503-0310-7)
+(en) Donald D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, University of Chicago Press,‎ 1983 (ISBN 0-226-10953-4)
+(en) Gerry Gilmore, « The Short Spectacular Life of a Superstar », Science, vol. 304, no 5697,‎ 2004, p. 1915–1916 (PMID 15218132, DOI 10.1126/science.1100370, lire en ligne)
+(en) Hannu Karttunen, Fundamental Astronomy, Springer,‎ 2003 (ISBN 3-540-00179-4)
+(en) Pavel Kroupa, « The Initial Mass Function of Stars: Evidence for Uniformity in Variable Systems », Science, vol. 295, no 5552,‎ 4 janvier 2002, p. 82–91 (résumé)
+(en) Dina Prialnik, An Introduction to the Theory of Stellar Structure and Evolution, Cambridge University Press,‎ 2000 (ISBN 0-521-65937-X)
+(en) Claus E. Rolfs et William S. Rodney, Cauldrons in the Cosmos: Nuclear Astrophysics, University of Chicago Press,‎ 1988 (ISBN 0-226-72457-3)
+(en) H. N. Russell, « "Giant" and "dwarf" stars », The Observatory, vol. 36,‎ 1913, p. 324–329 (lire en ligne)
+(en) Albrecht Unsöld, The New Cosmos, Springer Verlag,‎ 1969, p. 268
+
+
+=== Articles connexesModifier ===
+Naissance des étoiles
+Diagramme de Hertzsprung-Russell
+Nucléosynthèse stellaire
+Structure d'une étoile
+
+ Portail de l’astronomie

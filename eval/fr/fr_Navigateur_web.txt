@@ -1,0 +1,60 @@
+es possibles ==
+L'internaute est menacé via son navigateur d'être victime des attaques suivantes :
+profilage et analyse comportementale à des fins de revente marketing ;
+vol de données personnelles par accès à ses fichiers ;
+escroquerie par hameçonnage ;
+crash de son ordinateur par bug du navigateur.
+
+
+== Modules logiciels pouvant être ciblés ==
+Un navigateur est constitué de modules divers réalisant des fonctions bien déterminées et possédant chacun leurs vulnérabilités propres :
+un interpréteur d'URL vulnérable aux attaques par hameçonnage ;
+un interpréteur de code HTML ou XHTML (plus récent) qui peut faire une mauvaise interprétation des instructions de description ;
+un interpréteur de langage de script (JavaScript, VBScript...) vulnérable aux boucles sans fins, à des exploitations de bugs ;
+un environnement d'exécution d'applications (Applet Java, ActiveX, plugins) ;
+une barre d'outils.
+
+
+== Parts de marché ==
+
+Note: ces statistiques ne sont que des estimations, et comprennent une marge d'erreur difficile à estimer. Ces erreurs sont dues à plusieurs raisons :
+certains navigateurs se font passer pour d'autres, afin de contourner certains sites web refusant l'accès aux navigateurs non testés ;
+de plus en plus de navigateurs, directement ou via des extensions, bloquent les appels aux services de statistiques dans le but de protéger la vie privée de l'utilisateur.
+
+
+=== Web mobile ===
+
+
+== Exemples de navigateurs ==
+
+Il existe des versions différentes des navigateurs selon le type de machines : téléphone mobile, tablette ou ordinateur. Voici pour les navigateurs les plus populaires les noms de leur version plate-forme bureautique et mobile.
+Android Browser (mobile uniquement)
+Apple Safari, Safari Mobile
+Google Chrome, Chromium, Chrome Mobile
+Microsoft Internet Explorer, Microsoft Internet Explorer Mobile
+Mozilla Firefox, Firefox Mobile
+Opera, Opera Mini
+Lynx
+GT Nav (sur PC)
+Yandex (sur PC et Mac)
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Liste de navigateurs web | Évolution de l'usage des navigateurs web | Guerre des navigateurs (Évolution de l'usage des navigateurs web)
+Moteur de rendu HTML | Hypertext Markup Language (HTML)
+World Wide Web
+Plugin
+Marque-page
+Applet
+Gestionnaire de téléchargement
+Hypertext Transfer Protocol
+Cache-Control
+Hypertexte et hyperlien
+
+ Portail d’Internet

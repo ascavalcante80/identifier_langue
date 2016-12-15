@@ -1,0 +1,76 @@
+Geografiska koordinater (eller Greenwichtopogeografi) kan anges med flera olika metoder.
+
+
+== Sfäriska koordinater ==
+
+Jorden är egentligen inte en perfekt sfär utan mera lik en lätt tillplattad rotationsellipsoid: ekvatorsdiametern är cirka 43 kilometer större än poldiametern (cirka 12 757 kilometer mot cirka 12 714 kilometer). Jordens yta är ganska flack i förhållande till dess radie. Toppen av världens högsta berg Mount Everest ligger cirka nio kilometer över havsytan. Om man skulle förminska jorden till en boll med diametern en meter, skulle skillnaden mellan ekvators- och poldiametrarna vara 3,3 millimeter och höjden av Mount Everest skulle vara 0,7 millimeter. Jorden kan alltså i praktiken oftast betraktas som en sfär.
+För att beskriva en position på den sfäriska jordytan används två vinklar i jordens mittpunkt. Dessa vinklar mäts konventionellt i grader, minuter och sekunder. Beroende på den önskade noggrannheten och i olika sammanhang förekommer också decimala delningar.
+Latitud eller bredd, förkortat lat. eller φ (fi), är vinkeln som mäts utmed ortens meridian från ekvatorn åt nord- eller sydpolen. Vinkeln mot nordpolen räknas som positiv, medan vinkeln mot sydpolen räknas som negativ. Norra respektive södra polcirkeln ligger till exempel på N 66,6° (+66,6°) respektive S 66,6° (-66,6°), där N och S betecknar norra respektive södra halvklotet.
+Longitud eller längd, förkortat lon. eller λ (lambda), är vinkeln som mäts utmed ortens parallell från 0°-meridianen åt öst eller väst till högst 180°, den så kallade 180°-meridianen. Vinklar österut från nollmeridianen är definierade som positiva, medan vinklar västerut är negativa. Liksom för latitud skrivs riktningen företrädesvis med väderstreck i stället för tecken: E GG,g° (+GG,g°) respektive W GG,g° (−GG,g°). Longituderna bildar storcirklar runt jorden.
+Man använder ofta de engelska initialerna på väderstrecken: N för nord, E för öst, S för syd och W för väst (North, East, South respektive West).
+Ekvatorn är den naturliga referensen för latituderna, men den är den enda av latituderna som utgör en storcirkel. Ju längre bort från ekvatorn desto kortare blir varje latidudcirkel, vid polerna är längden av latituderna +90 respektive -90 lika med noll. (Nord- och Sydpolen är endast en solitär punkt).
+Två andra latituder är också av betydelse: vändkretsarna, den norra (kräftans vändkrets) ligger på latitud +23,5 och den södra (stenbockens vändkrets) på latitud -23,5. Solen står i zenit under sommarsolståndet vid norra vändkretsen och under vintersolståndet vid södra vändkretsen. Vid ekvatorn står solen i zenit under vårdagjämningen och höstdagjämningen.
+Naturlig referens för numrering av longituderna var länge föremål för debatt och inte internationellt standardiserade. Richelieu hävdade att referensen borde läggas vid ”Gamla världens ände” vilken man på 1600-talet ansåg ligga på den västligaste av Kanarieöarna, Ferro på franska eller El Hierro på spanska. För fransmän kändes det emellertid naturligare att ha landets huvudstad, Paris, som referens för landets kartor. Meridianen för Paris definierades därför att ligga 20 grader öster om Ferro. Enligt senare mätningar har man funnit det noggrannare värdet 20°23′09″ öster om Ferro för Paris, närmare bestämt för läget av astronomiska observatoriet i Paris. På den internationella meridiankonferensen år 1884 i Washington röstade 22 av 25 nationer för meridianen genom Greenwich nära London som nollmeridian, vilket sedan dess har blivit allmänt accepterat som internationell standard.
+
+
+=== Referenssystem ===
+Historiskt bestämde man nationella referenspunkter med astronomiska metoder, som gav en noggrannhet på bara några hundra meter. Utgående från dessa referenspunkter definierades sedan nationella latitud–longitud-nät genom geodesi. Dessa nationella nät identifierades med hjälp av ett geodetiskt datum. På grund av den begränsade noggrannheten av ursprungskoordinaterna passar dessa nationella nät inte ihop vid gränserna. Först med tillkomsten av globala mätmetoder som GPS-teknik kunde man definiera ett globalt geodetiskt datum, WGS84, som används alltmer i stället för nationella datum.
+
+
+=== Vinkeltimmar och distansminuter ===
+Jorden snurrar ett varv (360 grader) runt sin axel per dygn, och på en timme utgör denna rotation 360 ∕ 24 = 15°. I vissa situationer kan det vara bekvämt att ta fasta på detta och kalla longitudblock om 15 grader för (vinkel)timmar. I astronomiska sammanhang är det vanligt att ange rektascensionsvinklar i timmar med den internationella beteckningen för timme som h (av franska heure).
+Ekvatorn är omkring 40 000 kilometer lång. Ett helt varv uttryckt i longitudminuter blir 40 000 ∕ (360 ∙ 60) ≈ 1,852 kilometer. En sträcka så lång kallas 1 distansminut, även kallad sjömil eftersom detta mått är vanligt i sjöfartssammanhang. För att undvika sammanblandning med longitudminuter betecknade ′, betecknar man distansminuten med M, på engelska nm (nautical mile).
+Distansminuten är inte låst till sträckor utefter ekvatorn, utan dessa 1 852 meter kan läggas ut var som helst på jorden och i vilken riktning som helst. En distansminut är numera definierad att vara exakt 1 852 meter, vilket inte motsvarar exakt en longitudminut längs ekvatorn, och inte heller exakt en latitudminut längs en meridian.
+
+
+=== Notation ===
+Det finns flera vanligt förekommande sätt att skriva latitud–longitud-koordinater. Exemplen visar Globens position i olika format:
+59°17′37″N, 18°4′59″E (DMS Degrees:Minutes:Seconds)
+59d17m37s, 18d04m59s (om systemet inte tillåter °-symbolen)
+59°17.62, 18°4.98 (DM Degrees:Decimal Minutes)
+59.293611°, 18.083056° (DD Decimal Degrees, vanligtvis med 4–6 decimaler)
+59°17′37″N, O18°4′59″ (äldre svensk form)
+591737,0+0180459,0/ (ISO 6709)
+
+
+=== ISO 6709 ===
+Den internationella standarden ISO 6709 anger hur en position ska representeras i sammanhang med utbyte av framför allt digital data. Positionen kan även inkludera höjd över havet. Den hela koordinatangivningen skrivs ihop utan mellanrum och avslutas med /. Östlig longitud betecknas med +, västlig med −. Höjd över havet anges i meter (eller i fot om så anges i medföljande dokumentation), med + för positiv och − för negativ höjd.
+Grader och decimalgrader: +59,29+018,08/
+latitud: ±DD,DD (+59,29)
+longitud: ±DDD,DD (+018,08)
+
+Grader, minuter och decimalminuter: +5917,62+01804,98/
+latitud: ±DDMM,MMM (+5917,62)
+longitud: ±DDDMM,MMM (+01804,98)
+
+Grader, minuter, sekunder och decimalsekunder: 591737,0+0180459,0/
+latitud: ±DDMMSS,SSS (+591737,0)
+longitud: ±DDDMMSS,SSS (+0180459,0)
+
+
+=== GEOREF ===
+Ett koordinatsystem som är baserat på sfäriska koordinater är GEOREF som är indelat i rutor som anknyter till jordens meridianer och paralleller. GEOREF bygger inte på några kartprojektioner. Första ordningens rutor (storrutor) är 15 gånger 15 grader. Varje storruta indelas i smårutor på 1 gånger 1 grad, men då GEOREF följer meridianer och paralleller blir rutorna inte kvadratiska. Ytan av en ruta är störst vid ekvatorn, men blir mindre och mindre ju närmare polen rutan ligger. Sista rutan framme vid polen har degenererat till en cirkelsektor. Liksom i UTM identifieras rutorna med bokstavskombinationer.
+
+
+== Plana rätvinkliga koordinatsystem ==
+På tryckta kartor används oftast rätvinkliga nät som baseras på nationella eller internationella referenspunkter.
+
+
+=== RT90 ===
+
+RT 90, även kallat Rikets nät, Rikets triangelnät eller Rikets koordinatsystem var det vanligaste koordinatsystemet för svenska kartor fram till 2007 då Lantmäteriet började ersätta det med SWEREF 99 TM i sina kartor.
+
+
+=== SWEREF 99 TM ===
+
+SWEREF 99 TM är baserat på det geodetiska referenssystemet SWEREF 99 och samma kartprojektion som används för UTM zon 33N men är utvidgad till hela Sveriges bredd. Från 2007 började SWEREF 99 TM ersätta RT90 i Lantmäteriets produkter.
+
+
+=== UTM ===
+
+För internationellt bruk kan man ange koordinater i UTM-systemet.
+
+
+== Praktiska problem vid kartanvändning ==
+På kartor är ofta ett eller flera koordinatsystem inlagt i kartbilden i form av ett rutnät. Ibland kompletteras detta med antydningar till ett eller flera andra koordinatsystem marginalen så att de vid behov kan ritas ut, och ibland även med kryss i kartbilden.
+Eftersom det inte är möjligt att helt rätt avbilda en sfär på en plan yta och på grund av definitionerna på de olika koordinatsystemens projektioner kan överensstämmelsen mellan kartbildens rutnät och 

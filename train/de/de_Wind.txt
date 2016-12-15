@@ -1,0 +1,70 @@
+Als Wind (althochdeutsch wint; zu indogermanisch ue ‚wehen, blasen‘) wird in der Meteorologie eine gerichtete, stärkere Luft­bewegung in der Erdatmosphäre bezeichnet. Die Astronomie kennt darüber hinaus Winde, die auf Planeten und Monden mit einer hinreichend dichten Atmosphäre wehen.
+Fahrtwind und der sich aus ihm ergebende scheinbare Wind sind keine Winde, werden aber als solche empfunden. Luftbewegungen innerhalb von geschlossenen Räumen oder technischen Anlagen (z. B. Kamin) werden als Luftzug bezeichnet.
+Phänomene wie der Sonnenwind oder der elektrische Wind haben nichts mit dem Wind im meteorologischen Sinne zu tun.
+
+
+== Entstehung ==
+
+Hauptursache für Wind sind räumliche Unterschiede der Luftdruckverteilung. Dabei bewegen sich Luftteilchen aus dem Gebiet mit einem höheren Luftdruck – dem Hochdruckgebiet – solange in das Gebiet mit dem niedrigeren Luftdruck – dem Tiefdruckgebiet –, bis der Luftdruck ausgeglichen ist. Es handelt sich bei einem Wind daher um einen Massenstrom, welcher nach dem zweiten Hauptsatz der Thermodynamik eine Gleichverteilung der Teilchen im Raum und damit eine maximale Entropie anstrebt. Die zugehörige Kraft bezeichnet man als Druckgradientkraft.
+Je größer der Unterschied zwischen den Luftdrücken ist, umso heftiger strömen die Luftmassen in das Gebiet mit dem niedrigeren Luftdruck und umso stärker ist der aus der Luftbewegung resultierende Wind.
+
+
+== Windrichtung ==
+Die Windrichtung, meist in Form einer Hauptwindrichtung angegeben, wird durch die Lage von Tiefdruckgebiet und Hochdruckgebiet bestimmt. Dabei wird sie aber durch die Corioliskraft abgelenkt: auf der Nordhalbkugel in Bewegungsrichtung nach rechts, auf der Südhalbkugel nach links (Barisches Windgesetz).
+Unterhalb der freien Atmosphäre wird der Wind zusätzlich durch Reibung beeinflusst und kann auch durch morphologische Strukturen wie Berge, Täler und Canyons stark variieren (Beispiel: Föhn bzw. Fallwind, Aufwind, Talwind, Bergwind). Bei rotierenden Systemen wie Wirbelstürmen spielt zusätzlich die Zentrifugalkraft eine entscheidende Rolle.
+Man unterscheidet grundsätzlich die meridionale und die zonale Komponente eines Windes.
+
+
+== Windstärke und Windgeschwindigkeit ==
+
+Die Geschwindigkeit des Windes wird in Meter pro Sekunde (m/s), in Kilometer pro Stunde (km/h) oder in der Seefahrt sowie in der Luftfahrt in Knoten (1 kt = 1,852 km/h) gemessen. Die bisher höchsten gemessenen Windgeschwindigkeiten um 500–650 km/h traten bisher nur in großen Höhen bei den sogenannten Jetstreams auf.
+Die Stärke eines Windes wird – innerhalb der sehr verbreiteten Beaufortskala – in der Einheit Beaufort (Bft) ausgedrückt.
+Winde zwischen 2 und 5 Bft werden als Brise bezeichnet.
+Winde mit Windstärken zwischen 6 und 8 Bft bezeichnet man als Wind mit den Abstufungen starker, steifer und stürmischer Wind.
+Bei Windstärken ab 9 Bft spricht man von einem Sturm.
+Winde mit der Windstärke 12 bezeichnet man als Orkan.
+Eine heftige Luftbewegung von kurzer Dauer bezeichnet man als Bö.
+
+
+== Die Kraft des Windes ==
+Die Kraft (Winddruck), die der Wind auf Gegenstände (wie z. B. auf eine Talbrücke) ausübt, nimmt quadratisch mit der Windgeschwindigkeit zu: doppelte Windgeschwindigkeit bedeutet vierfache Kraft. Die auf Bauwerke und Bauteile einwirkende Kraft des Windes wird als Windlast bezeichnet. Der Wind kann auch eine Sogwirkung ausüben, siehe Windsog.
+Die kinetische Energie des Windes wird als erneuerbare Energie genutzt, siehe Windenergie.
+
+
+== Arten von Winden ==
+
+
+=== Einteilung nach den antreibenden Kräfteverhältnissen ===
+Euler-Winde:
+direkter Druckgradientwind
+keine Coriolis-, Zentrifugal- oder Reibungskraft
+äquatornah (geringe Corioliskraft)
+Geostrophische Winde bzw. quasigeostrophische Winde:
+Gleichgewicht zwischen Druckgradient- und Corioliskraft
+Isobarenparallel (ohne Krümmungen)
+oberhalb der Bodenreibungsschicht (freie Atmosphäre)
+hängt nur vom horizontalen Druckgradienten ab
+ageostrophische Windkomponente (isallobarischer Wind):
+reale Ausgleichskomponente zum idealisierten geostrophischen Wind
+basierend auf Fluktuationen, die zum Masseausgleich führen
+
+Gradientwinde:
+Gleichgewicht zwischen Druckgradient-, Zentrifugal- und Corioliskraft
+Isobarenparallel (mit Krümmungen)
+oberhalb der Bodenreibungsschicht (freie Atmosphäre)
+hängt nur vom horizontalen Druckgradienten ab
+Zyklostrophische Winde:
+Gleichgewicht zwischen Druckgradient- und Zentrifugalkraft
+meist äquatornah (geringe Corioliskraft) oder hohe Windgeschwindigkeit
+Auftreten nur bei Zyklonen
+sofortige Instabilität des zyklostrophischen Gleichgewichts bei Antizyklonen
+
+
+=== Einteilung nach der Größenordnung der Luftbewegungen ===
+Auch eine Unterscheidung nach der räumlichen und zeitlichen Größenordnung der Winde ist üblich. Es werden dabei im Wesentlichen drei Gruppen unterschieden:
+synoptische Winde – umfassen alle obigen Winde bis auf geostrophische Windkomponenten; großräumige, in der Regel über längere Zeiträume anhaltende Winde
+gerade noch vorhersagbare lokale Winde
+stark lokale, unvorhersehbare Winde: Ausdehnung auf wenige tausend Meter beschränkt, Dauer nur Sekunden bis Minuten
+
+
+=== Regiona

@@ -1,0 +1,71 @@
+En informatique théorique, et notamment en théorie des langages, on appelle grammaire linéaire une grammaire algébrique, sorte de grammaire formelle particulièrement simple, tout en ayant un pouvoir d'expression suffisant pour que les langages engendrés par ces grammaires soient plus généraux que les langages rationnels.
+Une grammaire linéaire est une grammaire dont tous les membres droits de règles contiennent au plus un symbole non terminal. Un langage linéaire est un langage qui est engendré par une grammaire linéaire.
+Les langages linéaires sont une sous-famille des langages algébriques. Les langages rationnels sont contenus dans cette famille. Les grammaires et langages linéaires constituent une famille plus large puisqu'ils contiennent des langages qui ne sont pas des langages rationnels.
+
+
+== Exemple ==
+La grammaire dont les règles sont
+
+est linéaire. Le langage engendré est
+
+qui est donc un langage linéaire non rationnel (comme on peut le voir en utilisant le lemme de l'étoile).
+
+
+== Rapport avec les grammaires rationnelles ==
+Deux cas particuliers des grammaires linéaires sont les suivantes:
+les grammaires linéaires gauches, aussi appelés grammaires rationnelles gauches, sont les grammaires où les variables, dans les membres droits de règles, se trouvent toutes au début du mot.
+les grammaires linéaires droites, aussi appelés grammaires rationnelles droites, sont les grammaires où les variables, dans les membres droits de règles, se trouvent toutes à la fin du mot.
+Ces grammaires unilatérales, ou grammaires régulières, engendrent des langages rationnels.
+En revanche, les grammaires où les variables se trouvent soit au début, soit à la fin du mot, c'est-à-dire telles que, dans une règle de la forme:
+
+on a  ou , sont simplement une sorte de forme normale des grammaires linéaires, et permettent d'engendrer toute la famille. En effet, une règle de la forme
+
+se remplace simplement par
+.
+
+
+== Propriétés de clôture ==
+La famille des langages linéaires est fermée par les opérations suivantes:
+intersection avec un langage rationnel
+image homomorphe
+image homomorphe inverse
+De manière équivalente, elle est fermée par transduction rationnelle, et elle constitue donc un cône rationnel (full trio en anglais).
+De plus, les langages linéaires son fermés par union. En revanche, le produit de deux langages linéaires n'est pas nécessairement un langage linéaire, ni le complément.
+
+
+== Lemme d'itération pour les langages linéaires ==
+Le lemme d'itération pour les langages algébriques admet une forme plus précise pour les langages linéaires:
+
+Ainsi, le couple  de la paire itérante peut être choisie près du « bord » du mot.
+
+
+=== Exemple d'application ===
+Soit . Ce langage est le produit de deux langages linéaires, mais n'est lui-même pas linéaire. Supposons le contraire, et soit  la constante du lemme d'itération. Soit . Il existe une factorisation  où  est composé uniquement de lettres  et  uniquement de lettres . Mais alors, le mot  a plus de  que de  ou plus de  que de  (ou les deux), donc n'est pas dans .
+
+
+== Extensions ==
+
+
+=== Langages métalinéaires ===
+On appelle métalinéaire un langage qui est une union finie de produits finis de langages linéaires. Le langage  est métalinéaire.
+Les langages métalinéaires forment un cône rationnel. En revanche, les langages métalinéaires ne sont pas fermés par l'opération étoile, ni par complément.
+Un raffinement de cette classe est constitué par ce que l'on appelle les grammaires et langages -linéaires, où  est un entier positif. Une grammaire d'axiome  est -linéaire si toutes les règles sont de la forme
+ ou 
+où  et  sont des variables autres que , et  des mots terminaux, et de plus, il y a une règle  où  est un produit d'au plus  variables et  et  sont des mots terminaux. Un langage est -linéaire s'il est engendré par une grammaire -linéaire.
+Les langages -linéaires sont les langages linéaires, les langages -linéaires sont tous métalinéaires, et on peut montrer, que les langages métalinéaires sont la réunion des langages -linéaires pour .
+
+
+=== Langages quasi-rationnels ===
+Les langages quasi-rationnels sont la fermeture, par substitution, des langages linéaires. Ces langages sont exactement les langages non expansifs.
+Soient  et  deux alphabets. Un substitution de  dans  est un morphisme du monoïde libre  dans le monoïde des parties de , donc une application  vérifiant les deux conditions suivantes:
+
+ pour tous les mots  de .
+Dans le membre droit de la deuxième formule, le produit est le produit des parties de . Un substitution  est rationnelle, algébrique, linéaire, etc, si les langages  sont rationnels, algébriques, linéaires, etc pour toute lettre  de . Dire que les langages quasi-rationnels sont la fermeture, par substitution, des langages linéaires revient à dire que cette famille contient les langages linéaires et est fermée par substitution linéaire.
+Une grammaire algébrique  est dite expansive s'il existe une variable  pour laquelle il existe une dérivation de la forme
+
+pour des mots . Dans cette définition, on suppose que  est une variable utile, c'est-à-dire qu'il existe une dérivation  pour des mots , et qu'il existe un mot  tel que . Par exemple, la grammaire
+
+qui engendre le langage de Dyck est expansive. Un langage est dit expansif si toutes les grammaires qui l'engendrent sont expansives. Le langage de Dyck est expansif.
+
+
+=== 

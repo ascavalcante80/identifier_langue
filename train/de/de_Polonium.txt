@@ -1,0 +1,86 @@
+Polonium ist ein radioaktives chemisches Element mit dem Elementsymbol Po und der Ordnungszahl 84. Im Periodensystem steht es in der 6. Hauptgruppe, bzw. der 16. IUPAC-Gruppe, wird also den Chalkogenen zugeordnet.
+
+
+== Geschichte ==
+Die Existenz eines sehr stark strahlenden Elements in Uran-haltiger Pechblende wurde erstmals 1898 vom Ehepaar Pierre und Marie Curie postuliert. Zu Ehren von Marie Curies Heimat Polen nannten sie es Polonium (vom lateinischen Wort „Polonia“). Eine Isolierung gelang ihnen nicht, sondern erst 1902 dem Chemiker Willy Marckwald, der dieses Element als "Radiotellur" charakterisierte. Für die Entdeckung und Beschreibung von Polonium (zusammen mit Radium) erhielt Marie Curie 1911 den Nobelpreis für Chemie.
+
+
+== Gewinnung und Herstellung ==
+Poloniumisotope sind Zwischenprodukte der Thorium-Reihe und der Uran-Radium-Reihe, wobei letztere das häufigste Isotop 210Po produziert. Polonium kann daher bei der Aufarbeitung von Pechblende gewonnen werden (1000 Tonnen Uranpechblende enthalten etwa 0,03 Gramm Polonium). Dabei reichert es sich zusammen mit Bismut an. Von diesem Element kann man es anschließend mittels fraktionierter Fällung der Sulfide (Poloniumsulfid ist schwerer löslich als Bismutsulfid) trennen.
+Heutzutage erfolgt die Herstellung von Polonium jedoch im Kernreaktor durch Neutronenbeschuss von Bismut:
+
+Die Halbwertszeit t½ für den Betazerfall von 210Bi liegt bei 5,01 Tagen. Durch Destillation werden die beiden Elemente anschließend getrennt (Siedepunkt von Polonium: 962 °C; Siedepunkt von Bismut: 1564 °C). Eine andere Methode ist die Extraktion mit Hydroxidschmelzen bei Temperaturen um 400 °C. Die Weltjahresproduktion beträgt ca. 100 g.
+
+
+== Eigenschaften ==
+Polonium ist ein silberweiß glänzendes Metall. Als einziges Metall weist die α-Modifikation eine kubisch-primitive Kristallstruktur auf. Dabei sind nur die Ecken eines Würfels mit Polonium-Atomen besetzt. Diese Kristallstruktur findet man sonst nur noch bei den Hochdruckmodifikationen von Phosphor und Antimon.
+Die chemischen Eigenschaften sind vergleichbar mit denen seines linken Perioden-Nachbarn Bismut. Es ist metallisch leitend und steht mit seiner Redox-Edelheit zwischen Rhodium und Silber.
+Polonium löst sich in Säuren wie Salzsäure, Schwefelsäure und Salpetersäure unter Bildung des rosaroten Po2+-Ions. Po2+-Ionen in wässrigen Lösungen werden langsam zu gelben Po4+-Ionen oxidiert, da durch die Alphastrahlung des Poloniums im Wasser oxidierende Verbindungen gebildet werden.
+
+
+== Isotope ==
+Bekannt sind von den Polonium-Isotopen, die alle radioaktiv sind, die Isotope 190Po bis 218Po, Die Halbwertszeiten sind recht unterschiedlich und reichen von etwa 3·10−7 Sekunden für 212Po bis zu 103 Jahren für das künstlich hergestellte 209Po.
+Das häufigste, natürlich vorkommende Isotop 210Po hat eine Halbwertszeit von 138 Tagen und zerfällt unter Aussendung von Alpha-Strahlung in das Blei-Isotop 206Pb. Wegen dieser geringen Halbwertszeit erfolgt aber die Gewinnung des industriell genutzten 210Po überwiegend künstlich in Kernkraftwerken.
+
+
+== Radiotoxikologische Bedeutung ==
+Die größte Gefährdung stellt Polonium als Zerfallsprodukt des radioaktiven Edelgases Radon dar. Radon in der Atemluft erhöht das Risiko, an Lungenkrebs zu erkranken. Die eigentliche Ursache ist nicht Radon, sondern die Inhalation der kurzlebigen Radonzerfallsprodukte, die sich im Gegensatz zum gasförmigen Radon im Atemtrakt anreichern. Die unter den Zerfallsprodukten befindlichen Poloniumisotope 210Po, 212Po, 214Po, 216Po und 218Po haben die größte radiologische Wirkung, weil sie Alphateilchen aussenden.
+Während Alpha-Strahlung etwa bei äußerer Einwirkung bereits von der obersten Hautschicht aus abgestorbenen Zellen abgeschirmt wird, wirkt sie auf den Menschen stark schädigend, wenn Alpha-Strahler in den Körper gelangen. Über den Blutstrom verteilt sich das Polonium im Körpergewebe. Die zerstörerische Wirkung macht sich als Strahlenkrankheit zunächst an Zellen bemerkbar, die sich häufig teilen (z. B. Darmepithelien, Knochenmark). Zu den typischen Symptomen gehören neben Haarausfall und allgemeiner Schwäche auch Diarrhö, Anämie sowie Blutungen aus Nase, Mund, Zahnfleisch und Rektum.
+Polonium wird vom menschlichen Körper mit einer biologischen Halbwertszeit von ca. 50 Tagen ausgeschieden. Reste und Zerfallsprodukte finden sich größtenteils im Kot sowie zu rund 10 % im Urin. Darüber hinaus sind Inkorporationen von außen nur schwer zu entdecken und eine Diagnose schwierig, da kaum Gammastrahlung emittiert wird.
+Einer speziellen Polonium-Exposition sind Raucher ausgesetzt. Als mögliche Quellen kommen sowohl die im Tabakanbau eingesetzten Phosphatdüngemittel als auch eine Adsorption atmosphärischer Einträge durch die Tabakpflanzen in Frage. Die Anteile der Teer-Kanzerogene und der radioaktiven Exposition am Prozess der Krebsentstehung werden kontrovers diskutiert.
+
+
+== Verwendung ==
+Polonium wird in Verbindung mit Beryllium in transportablen Neutronenquellen benutzt. Dabei wird die Kernreaktion 9Be(, n)12C zur Erzeugung freier Neutronen genutzt.
+In manchen industriellen Ionisatoren wird 210Po eingesetzt, z. B. in Anlagen, in denen Papier, Textil oder synthetische Materialien gerollt werden, oder wenn optische Linsen von statischen Aufladungen befreit werden sollen.
+Die Zündstifte der Firestone-Zündkerzen enthielten um 1940 in den USA das radioaktive Schwermetall. Es sollte die Luft ionisieren und damit die Dauer des Zündfunkens verlängern.
+210Po entwickelt 140 Watt Wärme pro Gramm, daher wurde es in kurzlebigen Radionuklidbatterien, etwa für die sowjetischen Mondfahrzeuge Lunochod 1 und Lunochod 2 eingesetzt. Die Wärmeleistung genügt, um einen Poloniumkörper zum Schmelzen zu bringen. Heute kommen im Allgemeinen nur noch langlebigere Isotope anderer Elemente zum Einsatz.
+Auch in Kernwaffen diente Polonium als Neutronenquelle. So wurden zum Beispiel in den amerikanischen Atombomben Little Boy und Fat Man, die auf Hiroshima und Nagasaki abgeworfen wurden, Initiatoren aus Polonium und Beryllium zum Start der Kettenreaktion verwendet.
+
+
+== Polonium als Gift ==
+
+
+=== Alexander Litwinenko ===
+2006 starb der ehemalige KGB-Agent und spätere Putin-Kritiker Alexander Litwinenko an den Folgen einer durch Polonium-210 verursachten Strahlenkrankheit. Das Polonium war ihm vermutlich über kontaminierten Tee verabreicht worden.
+
+
+=== Jassir Arafat ===
+Im Juli 2012 wurde ein radiologischer Laborbericht veröffentlicht, laut welchem Spuren von 210Po an Gebrauchsgegenständen des 2004 verstorbenen Palästinenserpräsidenten Jassir Arafat nachgewiesen worden seien. Daraufhin stimmte die Palästinensische Autonomiebehörde einer Exhumierung des Leichnams zu, um zu klären, ob Arafat vergiftet worden war. Die Exhumierung fand am 27. November 2012 in Ramallah statt, und Teams aus der Schweiz, Frankreich und Russland erhielten je ein Drittel der von einem islamischen Mediziner entnommenen Proben.
+Am 6. November 2013 veröffentlichte der Fernsehsender al-Dschasira eine 108-seitige Studie der Universität Lausanne, wonach man in den sterblichen Überresten Arafats stark erhöhte Poloniumwerte fand und eine Vergiftung möglich sei. In der Studie des Instituts für Rechtsmedizin der Universität heißt es, dass die Ergebnisse als Indizien dafür interpretiert werden könnten, dass Arafat vergiftet worden sei (“the results moderately support the proposition that the death was the consequence of poisoning with polonium-210”, S. 69). Allerdings handelte es sich bei der gefundenen Substanz um sogenanntes "supported polonium", also das Folgeprodukt des ebenfalls in übernormal erhöhter Konzentration gefundenen Blei 210 - dieses supported polonium überdeckt und verbirgt die ansonsten möglicherweise noch nachweisbaren Rückstände einer originären Poloniumvergiftung. Andere Fachleute kommentierten die Studie dahingehend, dass damit zwar ein Hinweis, aber kein Beweis für eine Vergiftung vorliege. Die französischen und russischen Teams haben keinen Beleg für eine Polonium-Vergiftung Arafats gefunden.
+
+
+== Verbindungen ==
+
+
+=== Sauerstoffverbindungen ===
+Poloniumdioxid (PoO2)x ist wie das Oxid des Gruppennachbarn Tellur (Tellurdioxid, (TeO2)x) eine ionische Verbindung, die in einer gelben und einer roten Modifikation auftritt. Weiterhin kennt man Poloniumtrioxid (PoO3).
+
+
+=== Sulfide ===
+Schwarzes Poloniumsulfid (PoS) erhält man durch Fällung von in Säure gelöstem Polonium mit Schwefelwasserstoff.
+
+
+=== Wasserstoffverbindungen ===
+Poloniumwasserstoff (H2Po) ist eine bei Raumtemperatur flüssige Wasserstoff-Verbindung, von der sich zahlreiche Polonide ableiten lassen.
+
+
+=== Halogenide ===
+Poloniumhalogenide kennt man mit den Summenformeln PoX2, PoX4 und PoX6. Zu nennen sind Poloniumdifluorid, Poloniumdichlorid (rubinrot), Poloniumdibromid (purpurbraun) und Poloniumtetrafluorid, hellgelbes Poloniumtetrachlorid, rotes Poloniumtetrabromid sowie das schwarze Poloniumtetraiodid. Die Synthese von Poloniumhexafluorid (PoF6) wurde 1945 versucht, führte aber zu keinen eindeutigen Ergebnissen, der Siedepunkt wurde auf −40 °C geschätzt.
+
+
+== Einzelnachweise ==
+↑ Harry H. Binder: Lexikon der chemischen Elemente, S. Hirzel Verlag, Stuttgart 1999, ISBN 3-7776-0736-3.
+↑ Die Werte für die Eigenschaften (Infobox) sind, wenn nicht anders angegeben, aus www.webelements.com (Polonium) entnommen.
+↑ Manjeera Mantina, Adam C. Chamberlin, Rosendo Valero, Christopher J. Cramer, Donald G. Truhlar: Consistent van der Waals Radii for the Whole Main Group. In: J. Phys. Chem. A. 2009, 113, S. 5806–5812, doi:10.1021/jp8111556.
+↑ Dieses Element wurde in Bezug auf seine Gefährlichkeit entweder noch nicht eingestuft oder eine verlässliche und zitierfähige Quelle hierzu wurde noch nicht gefunden.
+↑  Sieghard Neufeldt: Chronologie Chemie. John Wiley & Sons, 2012, ISBN 352766284-7, S. 115 (eingeschränkte Vorschau in der Google-Buchsuche).
+↑ Die 14. Hauptversammlung der Bunsengesellschaft. In: Polytechnisches Journal. 322, 1907, Miszelle 1, S. 364.: „3 mg Poloniumsalz aus 5.000 kg Uranerz“.
+↑ A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 617.
+↑ osti.gov: Energy Citations Database (ECD).
+↑ freepatentsonline.com: Apparatus for extraction of polonium – 210 from irradiated bismuth using molten caustic.
+↑ Royal Chemical Society: Q&A: Polonium 210, 27. November 2006.
+↑ A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 620.
+↑ Daten zu Polonium bei KAERI (Einem koreanischen Kernforschungsinstitut).
+↑ Gefahrenhinweise zu Polonium 210 (PDF; 83 kB).
+↑ sueddeutsche.de: Warum Tabak radioaktiv ist Ein Rauch wie 250 Röntgenaufnahmen — pro Jahr

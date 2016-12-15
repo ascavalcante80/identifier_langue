@@ -1,0 +1,81 @@
+Kuneiform (bahasa Inggris: Cuneiform) adalah salah satu jenis tulisan kuno berbentuk paku yang dituliskan di atas lempengan tanah liat. Kata "kuneiform" berasal dari bahasa Latin, cuneus yang berarti 'baji' atau 'paku' dan forma yang berarti "bentuk". Dengan demikian, kuneiform merupakan sebuah tulisan kuno yang menggunakan "huruf paku". Tulisan ini tergolong sebagai tulisan yang rumit dan diduga hanya digunakan oleh orang-orang tertentu. Kuneiform berkembang di daerah Sumer (nama kuno untuk Mesopotamia selatan yang sekarang berada di Irak selatan, dekat Teluk Persia). Diduga, tulisan ini telah digunakan oleh orang-orang Sumer sekitar tiga ribu tahun sebelum Masehi, hampir sezaman dengan Hieroglif yang berkembang di Mesir. Pada praktiknya yang paling awal, kuneiform diduga digunakan untuk pembukuan di istana atau kuil di daerah Sumer. Selain itu, tulisan ini juga digunakan juga untuk aktivitas perdagangan. Dari Sumer, kuneiform kemudian berkembang ke Akkad (daerah di sebelah utara Sumer). Dari sinilah, kuneiform berkembang (dalam bahasa Akkad) dan digunakan secara luas di daerah Timur Tengah Kuno.
+
+
+== Sejarah ==
+
+
+=== Kuneiform Akkadia ===
+
+Tulisan kuneiform archaic atau kuno diadopsi oleh orang Akkadia sejak sekitar tahun 2500 SM, dan pada tahun 2000 SM telah berkembang menjadi kuneiform Asyur kuno, dengan banyak modifikasi pada ortografi Sumeria. Persamaan bahasa Semit pada banyak tanda menjadi berubah atau disingkat untuk membentuk nilai "fonetik" baru, karena hakekat suku kata tulisan ini, yang diperhalus oleh orang Sumeria, tidak intuitif bagi pemakai bahasa Semit.
+
+
+=== Kuneiform Asyur ===
+Gaya penulisan "campuran" ini diteruskan sampai akhir masa kekaisaran Babilonia dan Asyur, meskipun ada periode-periode di mana "purism" menjadi mode dan ada kecenderungan untuk mengeja kata-kata dengan panjang, dengan preferensi pemakaian tanda-tanda menggunakan komplemen fonetik. Namun sampai saat itu silabari Babel masih merupakan campuran penulisan logografik dan fonemik.
+
+
+== Transliterasi ==
+
+Kuneiform mempunyai format khusus untuk alihaksarakan atau transliterasi. Karena tulisan ini berbentuk polyvalence, transliterasinya membutuhkan pilihan tertentu bagi para pakar transliterasi, yang harus memutuskan kasus-kasus setiap huruf di mana ada beberapa makna yang mungkin dimaksudkan oleh dokumen aslinya. Misalnya tanda DINGIR pada teks Hitit dapat melambangkan suku kata Hitit an atau merupakan bagian dari suatu frasa Akkadia, melambangkan suku kata il, dapat pula merupakan sebuah Sumerogram, melambangkan makna Sumeria asli, 'allah' atau suatu determinative bagi sesosok dewa. Dalam transliterasi, berbagai rendisi glif yang sama dipilih berdasarkan perannya pada konteks tersebut.
+
+
+== Syllabary ==
+Tabel berikut menunjukkan tanda-tanda yang dipakai untuk suku kata sederhana dalam bentuk CV atau VC. Sebagaimana dipakai untuk bahasa Sumeria, tulisan kuneiform pada prinsipnya mampu membedakan paling sedikit 16 konsonan, yang dialihaksarakan sebagai
+b, d, g, g̃, ḫ, k, l, m, n, p, r, ř, s, š, t, z
+serta empat kualitas vokal, a, e, i, u. Bahasa Akkadia tidak menggunakan huruf g̃ atau ř tetapi perlu untuk membedakan emphatic series, q, ṣ, ṭ, mengambil berbagai tanda Sumeria "superfluous" untuk maksud itu (misalnya qe=KIN, qu=KUM, qi=KIN, ṣa=ZA, ṣe=ZÍ, ṭur=DUR dsb.) Orang Hitit mengadopsi kuneiform Akkadia dan selanjutnya memperkenalkan tanda-tanda untuk glide w, misalnya wa=PI, wi5=GEŠTIN) serta suatu ligature I.A untuk ya.
+
+
+=== Angka ===
+
+Orang Sumeria menggunakan sistem bilangan berdasarkan angka 1, 10 dan 60. Cara menulis angka 70 adalah dengan menulis tanda angka 60 dan tanda angka 10 setelahnya. Cara penghitungan ini masih dipakai sampai sekarang untuk menghitung 60 detik per menit dan 60 menit per jam.
+
+
+== Unicode ==
+
+Unicode (menurut versi 6.0) menetapkan tulisan "Sumero-Akkadian Cuneiform" pada kisaran:
+U+12000–U+123FF (879 karakter) "Kuneiform"
+U+12400–U+1247F (103 karakter) "Angka dan tanda baca Kuneiform"
+Proposal terakhir untuk pengkodean Unicode tulisan ini diserahkan oleh dua pakar kuneiform yang bekerja sama dengan seorang penulis proposal Unicode yang berpengalaman pada bulan Juni 2004. Inventori karakter dasar diturunkan dari daftar tanda Ur III yang dikompilasi oleh Cuneiform Digital Library Initiative pada UCLA berdasarkan inventori dari Miguel Civil, Rykle Borger (2003), dan Robert Englund. Daripada mengurutkan langsung menurut bentuk glif dan kekompleksannya, menurut penomoran katalog yang ada, urutan Unicode dari glif didasarkan pada urutan abjad Latin transliterasi Sumeria "terakhir" sebagai perkiraan praktis.
+
+
+== Daftar penemuan utama lempengan Kuneiform ==
+Berikut adalah sejumlah penemuan terkenal kumpulan lempengan yang memuat tulisan Kuneiform
+
+
+== Lihat pula ==
+
+
+== Catatan ==
+
+
+== Referensi ==
+
+
+== Pustaka ==
+Adkins, Lesley, Empires of the Plain: Henry Rawlinson and the Lost Languages of Babylon, New York, St. Martin's Press (2003) ISBN 0-312-33002-2
+Bertman, Stephen (2005), Handbook to Life in Ancient Mesopotamia, Oxford University Press, ISBN 9780195183641 
+R. Borger, Assyrisch-Babylonische Zeichenliste, 2nd ed., Neukirchen-Vluyn (1981)
+Borger, Rykle (2004). Dietrich, M. Loretz, O., ed. Mesopotamisches Zeichenlexikon. Alter Orient und Altes Testament 305. Münster: Ugarit Verlag. ISBN 3-927120-82-0. 
+Burnouf, E. (1836). "Mémoire sur deux Inscriptions Cunéiformes trouvées près d'Hamadan et qui font partie des papiers du Dr Schulz", Impr. Roy, Paris.
+Daniels, Peter; Bright, William (1996). The World's Writing Systems. Oxford University Press. p. 146. ISBN 0-19-507993-0. 
+A. Deimel (1922), Liste der archaischen Keilschriftzeichen ("LAK"), WVDOG 40, Berlin.
+A. Deimel (1925–1950), Šumerisches Lexikon, Pontificum Institutum Biblicum.
+F. Ellermeier, M. Studt, Sumerisches Glossar
+vol. 1: 1979–1980, ISBN 3-921747-08-2, ISBN 3-921747-10-4
+vol. 3.2: 1998–2005, A-B ISBN 3-921747-24-4, D-E ISBN 3-921747-25-2, G ISBN 3-921747-29-5
+vol. 3.3: ISBN 3-921747-22-8 (font CD ISBN 3-921747-23-6)
+vol. 3.5: ISBN 3-921747-26-0
+vol 3.6: 2003, Handbuch Assur ISBN 3-921747-28-7
+
+A. Falkenstein, Archaische Texte aus Uruk, Berlin-Leipzig (1936)
+E. Forrer, Die Keilschrift von Boghazköi, Leipzig (1922)
+J. Friedrich, Hethitisches Keilschrift-Lesebuch, Heidelberg (1960)
+Jean-Jacques Glassner, The Invention of Cuneiform, English translation, Johns Hopkins University Press (2003), ISBN 0-8018-7389-4.
+Hayes, John L. (2000). A Manual of Sumerian Grammar and Texts. Aids and Research Tools in Ancient Near Eastern Studies 5 (2d ed.). Malibu: Undena Publications. ISBN 0-89003-197-5. 
+Heeren (1815) "Ideen über die Politik, den Verkehr und den Handel der vornehmsten Volker der alten Welt", vol. i. pp. 563 seq., translated into English in 1833.
+Kramer, Samuel Noah (1981). "Appendix B: The Origin of the Cuneiform Writing System". History Begins at Sumer: Thirty-Nine Firsts in Man's Recorded History (3d revised ed.). Philadelphia: University of Pennsylvania Press. pp. 381–383. ISBN 0-8122-7812-7.  CS1 maint: Extra text (link)
+René Labat, Manuel d'epigraphie Akkadienne, Geuthner, Paris (1959); 6th ed., extended by Florence Malbran-Labat (1999), ISBN 2-7053-3583-8.
+Lo, Lawrence (2007). "Sumerian". Diakses tanggal June 5, 2009. 
+Lassen, Christian. "Die Altpersischen Keil-Inschriften von Persepolis"
+Mittermayer, Catherine; Attinger, Pascal (2006). Altbabylonische Zeichenliste der Sumerisch-Literarischen Texte. Orbis Biblicus et Orientalis. Special Edition. Academic Press Fribourg. ISBN 978-3-7278-1551-5. 
+O. Neugebauer, A. Sachs (eds.), Mathematical Cuneiform Texts, New Haven (1945).
+Patri, Sylvain (2009). L’adaptation des consonnes hit

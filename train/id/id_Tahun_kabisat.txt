@@ -1,0 +1,21 @@
+Tahun Kabisat (Bahasa Inggris: Leap Year) adalah sebuah Tahun Syamsiah di mana pada tahun tersebut jumlah hari tidak terdiri dari 365 hari tetapi 366 hari.
+Satu tahun syamsiah tidak secara persis terdiri dari 365 hari, tetapi 365 hari 5 jam 48 menit 45,1814 detik. Jika hal ini tidak dihiraukan, maka setiap 4 tahun akan kekurangan hampir 1 hari (tepatnya 23 jam 15 menit 0,7256 detik).
+Maka untuk mengkompensasi hal ini, setiap 4 tahun sekali (tahun yang bisa dibagi 4), diberi 1 hari ekstra: 29 Februari. Tetapi karena 5 jam 48 menit 45,1814 detik kurang dari 6 jam, maka tahun-tahun yang bisa dibagi 100 (seperti tahun 1900), bukan tahun kabisat, kecuali bisa dibagi dengan 400 (seperti tahun 2000).
+
+
+=== Algoritma ===
+Terdapat algoritma mudah untuk menentukan apakah suatu tahun termasuk tahun kabisat atau bukan sebagai berikut:
+Jika angka tahun itu habis dibagi 400, maka tahun itu sudah pasti tahun kabisat.
+Jika angka tahun itu tidak habis dibagi 400 tetapi habis dibagi 100, maka tahun itu sudah pasti bukan merupakan tahun kabisat.
+Jika angka tahun itu tidak habis dibagi 400, tidak habis dibagi 100 akan tetapi habis dibagi 4, maka tahun itu merupakan tahun kabisat.
+Jika angka tahun tidak habis dibagi 400, tidak habis dibagi 100, dan tidak habis dibagi 4, maka tahun tersebut bukan merupakan tahun kabisat.
+Tahun Kabisat menurut definisi ini ada sejak diluncurkannya kalender Gregorian (1582).
+Pseudocode untuk menentukan suatu tahun merupakan tahun kabisat atau bukan:
+if year modulo 4 is 0 then if year modulo 100 is 0 then if year modulo 400 is 0 then is_leap_year else not_leap_year else is_leap_year else not_leap_year
+atau
+if year is divisible by 400 then is_leap_yearelse if year is divisible by 100 then not_leap_yearelse if year is divisible by 4 then is_leap_yearelse not_leap_year
+
+
+== Kalender Tionghoa dan Yahudi ==
+
+Kalender Ti

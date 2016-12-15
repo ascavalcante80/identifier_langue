@@ -1,0 +1,40 @@
+orox ve 7-Eleven Yaz Saati Uygulaması Koalisyonunun 1987'de ABD'de yaygınlaşmasında ana parasal kaynağı oluşturdu. Her iki Idaho senatörü de, YSU sayesinde fast food restoranlarında daha çok patates kızartması satılacağı ve bunların Idaho patatesinden yapılacağı beklentisiyle uygulamadan yana oy kullandı. 2005'te Sporting Goods Manufacturers Association ile National Association of Convenience Stores'un YSU'nun 2007'de ABD'de daha da yaygınlaşmasında ilişkin kampanyası başarılı oldu. Üç yıllık bir denemenin ardından 2009'da, şehir merkezlerinde olumlu, kırsal bölgelerde ise açık arayla olumsuz oy dağılımıyla, Batı Avustralyalıların %55'i YSU'ya karşı çıktı. Bu, 1975'ten o tarihe kadar YSU'nun reddedildiği ard arda dördüncü referandumdu. Birleşik Krallık'ta spor ve tatil endüstrisi SDST'nin yıl boyunca eklediği bir saatin incelenmesine ilişkin bir öneriyi desteklemektedir.
+
+
+=== Radikal İslamcıların gözünde yaz saati uygulamasıDeğiştir ===
+1979 İran İslam Devrimi'ne kadar yaz saati uygulamasının kesintisiz olarak sürdürüldüğü ülkedeki uygulama, devrimin İslamcıların eline düşmesiyle birlikte askıya alındı. Zira daha önce Şahlık rejiminde mollalar vaaz verirken cemaate "Yaz saati uygulamasıyla namaz saatini size kaybettirmeye çalışıyorlar" demekteydiler. 1991'e gelindiğinde ülke artık enerji harcamalarının artmasına dayanamayacak duruma geldiğinden yaz saati uygulamasını yeniden başlatıldı. 2005 yılında Ahmedinejad'ın seçimleri kazanmasıyla beraber radikalizm tekrar hızlandı. Yaz saati uygulaması ile birlikte İran'ın enerji tüketiminde azalma olduğu açıklansa da, Ahmedinejad "bunu kanıtlayacak somut bir delil yok" diyerek uygulamaya engel oldu. Mecliste yaşanan tartışmalara muhalefet sayılacak reformcu milletvekilleri (ülkede muhalefet adında bir grubun faaliyet göstermesi mümkün değil) sert bir dille eleştirirken yanlıları ise "Dini gerekçelerin daha kolay icra edilmesi için saatin sabit kalması şart" diyerek uygulamayı askıya aldılar. Daha sonra, 2009 yılında radikal siyasetlerin uygulanmasıyla beraber uygulanan Birleşmiş Milletler ambargolarının da artmasıyla birlikte enerji tüketimini karşılayamayan İran; konuyu yasa haline getirerek Ahmedinejad'ı bu kararı uygulama zorunda bıraktı. İran mollaları ve Ahmedinejad'ın yaz saati uygulamasına seçenek olarak sundukları planda resmi daireler ve okulların günlük olarak sabah ezanından belli bir süre sonra açılması olmuştur.
+
+
+== ProgramlamaDeğiştir ==
+
+Birçok bilgisayar tabanlı sistem, temel aldığı zaman dilimine göre YSU'nun başlangıcı veya bitişiyle beraber otomatik olarak saatlerini ayarlayabilmektedir. Ancak YSU'daki değişiklikler kimi kurulumlarda sorunlara yol açar. Örneğin, Kuzey Amerika'da 2007'de yapılan değişiklikler sonrasında birçok bilgisayar sistemi güncellenme gereği duydu. Bu da Microsoft Outlook gibi e-posta ve takvim yazılımlarını büyük ölçüde etkiledi. Bu da bilgi teknolojisi uzmanlarının büyük bir emek kaybına uğramasına yol açtı. Bazı uygulamalar YSU'ya odaklanarak saat değişikliklerinden ve zaman diliminden kaynaklanan sorunlardan korunmak üzere özelleşmiş durumdadır.
+Günümüzde bu alanda en yaygın olarak kullanılan bilgisayar tabanlı uygulamalar zoneinfo ve Microsoft Windows'tur.
+
+
+=== ZoneinfoDeğiştir ===
+Zoneinfo ya da yeni adıyla IANA zaman dilimi veritabanı farklı yerlerde gözlenen zaman değişimlerini bir adla simgeler. Unix tipi işletim sistemleri başta olmak üzere Java ve Oracle'da kullanılmaktadır. HP'nin "tztab" veritabanı benzer özellikler sunmasına karşın zoneinfo ile uyumlu değildir. Yerel yöneticilerin YSU kurallarında yaptığı değişiklikler zoneinfo'nun düzenli bakım sürecinde güncellenir. Unix tipi sistemlerde kullanılan TZ çevre değişkeni TZ='America/New_York' gibi IANA veritabanındaki zaman dilimleri listesini üretir.
+Eski ya da güncelliğini yitirmiş sistemler yalnızca POSIX'in gerek duyduğu TZ değerlerini desteklerler. Örneğin, TZ='EST5EDT,M3.2.0/02:00,M11.1.0/02:00' Kuzey Amerika'da 2007'de uygulanmaya başlanan zamanı belirtir. TZ'nin YSU'daki değişimlere koşut biçimde güncellenmesi gerekir. Yeni TZ değerleri tüm yıllar için geçerli olduğundan eski tarihler için sorun yaratabilir.
+
+
+=== Microsoft WindowsDeğiştir ===
+Zoneinfo'da olduğu gibi, Microsoft Windows kullanıcılarının da bulundukları bölgeye ait zaman dilimini seçerek YSU'yu yapılandırmaları gerekir. İşletim sisteminin zaman dilimi kayıtlarını sakladığı tablonun YSU değişimlerinin ardından güncellenmesi gerekir. İşletim sistemine bağlı olarak farklılık gösteren bu işlem, Windows'un eski sürümleri için geçerli değildir. En çok iki başlangıç ve bitiş kuralı tanımlanabilmesine izin veren Windows Vista, Kanada'da YSU'nun geçerli olduğu bir bölgede 1987–2006 arası ve 2006 sonrası tarihleri desteklemekte, ancak bazı eski tarihlerde sorun yaratmaktadır. Eski Microsoft Windows sistemleri ise yalnızca bir başlangıç ve bitiş kuralı tanımladıklarından bir önceki örnek için yalnızca 2006 sonrası tarihleri desteklerler.
+Bu kısıtlamalar zaman zaman sorunlara yol açmıştır. Örneğin, YSU'nun her yıl değiştiği ve bazı yıllar devre dışı bırakıldığı İsrail için Windows 95 1995'ten sonrasına ait tarihleri yanlış göstermiştir. Windows 98'de İsrail'i YSU kapsamı dışında bırakan Microsoft, bu ülkedeki Windows kullanıcılarını saatlerini yılda iki kez elle güncellemek zorunda bırakmıştır. 2005 yılında yürürlüğe giren İsrail Yaz Saati Yasası Yahudi takvimini temel alan bazı kurallar getirmiş; ancak Windows, bu zaman dilimini yıldan bağımsız biçimde uygulamayı başaramamıştır. Zaman dilimi kayıtlarının her yıl elle güncellemesi ve bu işi otomatik olarak yapan araç eski tarihleri kapsamayan geçici çözümlerdir.
+Microsoft Windows yerel saati gerçek zamanlı saat olarak saklamakta; bu, aynı makinede farklı Windows sürümleri çalıştırıldığında sorun yaratmaktadır. Microsoft 2008'de RealTimeIsUniversal adlı değişkenin Windows'un gelecekteki sürümlerinde desteklenmeyebileceğini açıklamıştır. İlk kez Windows NT'de kullanılan ve RISC tipi makinelerin UTC'yle kullanılmasına olanak sağlayan değişken üzerinde daha sonra gerekli değişiklikler yapılmamıştır.
+
+
+== KaynakçaDeğiştir ==
+
+
+== İlgili kitaplarDeğiştir ==
+Ian R. Bartky (2007). One Time Fits All: The Campaigns for Global Uniformity. Stanford University Press. ISBN 978-0-8047-5642-6. 
+Michael Downing (2005). Spring Forward: The Annual Madness of Daylight Saving Time. Shoemaker & Hoard. ISBN 1-59376-053-1. 
+David Prerau (2005). Seize the Daylight: The Curious and Contentious Story of Daylight Saving Time. Thunder’s Mouth Press. ISBN 1-56025-655-9. ; Birleşik Krallık'taki uygulamaya yoğunlaşan kitap: David Prerau (2005). Saving the Daylight: Why We Put the Clocks Forward. Granta Books. ISBN 1-86207-796-7. 
+
+
+== Dış bağlantılarDeğiştir ==
+Yaz saati uygulaması – genel tarihi ve anekdotlar (İngilizce)
+
+Zamanı korumak, enerjiyi korumak – Kuzey Amerika bakış açısı (İngilizce)
+Yaz saati – Avrupa bakış açısı (İngilizce)
+
+Zaman dilimleri ve yaz saati uygulaması veritabanı – teknik kaynaklar (İngilizce)

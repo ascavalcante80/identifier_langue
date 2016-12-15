@@ -1,0 +1,51 @@
+s dimensionally equivalent to the joule, which is the unit of energy. However, in the case of torque, the unit is assigned to a vector, whereas for energy, it is assigned to a scalar.
+
+
+=== Conversion to other unitsEdit ===
+A conversion factor may be necessary when using different units of power, torque, or For example, if rotational speed (revolutions per time) is used in place of angular speed (radians per time), we multiply by a factor of 2π radians per revolution. In the following formulas, P is power, τ is torque and ω is rotational speed.
+
+Showing units:
+
+Dividing by 60 seconds per minute gives us the following.
+
+where rotational speed is in revolutions per minute (rpm).
+Some people (e.g. American automotive engineers) use horsepower (imperial mechanical) for power, foot-pounds (lbf⋅ft) for torque and rpm for rotational speed. This results in the formula changing to:
+
+The constant below (in foot pounds per minute) changes with the definition of the horsepower; for example, using metric horsepower, it becomes approximately 32,550.
+Use of other units (e.g. BTU per hour for power) would require a different custom conversion factor.
+
+
+=== DerivationEdit ===
+For a rotating object, the linear distance covered at the circumference of rotation is the product of the radius with the angle covered. That is: linear distance = radius × angular distance. And by definition, linear distance = linear speed × time = radius × angular speed × time.
+By the definition of torque: torque = radius × force. We can rearrange this to determine force = torque ÷ radius. These two values can be substituted into the definition of power:
+
+The radius r and time t have dropped out of the equation. However, angular speed must be in radians, by the assumed direct relationship between linear speed and angular speed at the beginning of the derivation. If the rotational speed is measured in revolutions per unit of time, the linear speed and distance are increased proportionately by 2π in the above derivation to give:
+
+If torque is in newton metres and rotational speed in revolutions per second, the above equation gives power in newton metres per second or watts. If Imperial units are used, and if torque is in pounds-force feet and rotational speed in revolutions per minute, the above equation gives power in foot pounds-force per minute. The horsepower form of the equation is then derived by applying the conversion factor 33,000 ft⋅lbf/min per horsepower:
+
+because 
+
+
+== Principle of momentsEdit ==
+The Principle of Moments, also known as Varignon's theorem (not to be confused with the geometrical theorem of the same name) states that the sum of torques due to several forces applied to a single point is equal to the torque due to the sum (resultant) of the forces. Mathematically, this follows from:
+
+
+== Torque multiplierEdit ==
+
+A torque multiplier is a gear box with reduction ratios greater than 1. The given torque at the input gets multiplied as per the reduction ratio and transmitted to the output, thereby achieving greater torque, but with reduced rotational speed.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+"Horsepower and Torque" An article showing how power, torque, and gearing affect a vehicle's performance.
+"Torque vs. Horsepower: Yet Another Argument" An automotive perspective
+a discussion of torque and angular momentum in an online textbook
+Torque and Angular Momentum in Circular Motion on Project PHYSNET.
+An interactive simulation of torque
+Torque Unit Converter
+A feel for torque An order-of-magnitude interactive.

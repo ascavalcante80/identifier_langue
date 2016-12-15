@@ -1,0 +1,23 @@
+Work breakdown structure, WBS, är en metod för att strukturera ett arbete, exempelvis ett projekts totala arbete, i hanterbara arbetspaket genom att använda en hierarkisk trädstruktur.
+
+
+== Användning av WBS ==
+WBS används i planeringen av ett projekt. En WBS tar man vanligen fram innan man gör ett logiskt nät, GANTT-schema eller dylikt. Genom en väl utformad WBS får man ett välstrukturerat projekt och arbetet med att ta fram det logiska nätet förenklas. Ofta gör man en WBS tillsammans med sitt projektlag med hjälp av gula papperslappar. Projektledaren följer sedan framskridandet av respektive arbetspaket.
+
+
+== Principer för att utforma en WBS ==
+
+
+=== 100%-regeln ===
+En av de viktigaste principerna när man utformar en WBS är den så kallade 100%-regeln. Den går ut på att trädstrukturen som WBS:en utgör ska utgöra 100% av arbetet i projektet. Aktiviteter som inte ingår i projektet ska inte vara med i strukturen.
+
+
+=== Planerade leveranser ===
+
+
+=== Överenskomna gränsdragningar ===
+Det är viktigt att det inte finns överlappning mellan olika aktiviteter i en WBS-struktur. Det skapar otydlighet och kan ge upphov till extra arbete i projektet.
+
+
+=== Detaljrikedom i en WBS ===
+Det är viktigt att bestämma hur detaljerad en WBS skall vara. Risken finns att man delar upp det i för stora eller för små arbetsp

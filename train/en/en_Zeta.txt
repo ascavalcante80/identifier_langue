@@ -1,0 +1,47 @@
+Zeta (uppercase Ζ, lowercase ζ; Greek: ζήτα, classical [d͡zɛ̂:ta] or [zdɛ̂:ta] zḗta, Modern Greek: [ˈzita] zíta) is the sixth letter of the Greek alphabet. In the system of Greek numerals, it has a value of 7. It was derived from the Phoenician letter zayin . Letters that arose from zeta include the Roman Z and Cyrillic З.
+
+
+== Name ==
+Unlike the other Greek letters, this letter did not take its name from the Phoenician letter from which it was derived; it was given a new name on the pattern of beta, eta and theta.
+The word zeta is the ancestor of zed (UK) and zee (US), the names of the Latin letter Z in English. However, Swedish and many Romanic languages (such as Italian and Spanish), do not distinguish between the Greek and Roman forms of the letter; "zeta" is used to refer to the Roman letter Z as well as the Greek letter.
+
+
+== Uses ==
+
+
+=== Letter ===
+The letter ζ represents the voiced alveolar fricative /z/ in Modern Greek.
+The sound represented by zeta in Classical Greek is disputed. See Ancient Greek phonology and Pronunciation of Ancient Greek in teaching.
+Most handbooks agree on attributing to it the pronunciation /zd/ (like Mazda), but some scholars believe that it was an affricate /dz/ (like adze). The modern pronunciation was, in all likelihood, established in the Hellenistic age and may have already been a common practice in Classical Attic; for example, it could count as one or two consonants metrically in Attic drama.
+
+
+==== Arguments for [zd] ====
+PIE *zd becomes ζ in Greek (e.g. *sísdō > ἵζω). Contra: these words are rare and it is therefore more probable that *zd was absorbed by *dz (< *dj, *gj, *j); further, a change from the cluster /zd/ to the affricate /dz/ is typologically more likely than the other way around (which would violate the sonority hierarchy).
+Without [sd] there would be an empty space between [sb] and [sɡ] in the Greek sound system (πρεσβύς, σβέννυμι, φάσγανον), and a voiced affricate [dz] would not have a voiceless correspondent. Contra: a) words with [sb] and [sɡ] are rare, and exceptions in phonological and (even more so) phonotactic patterns are in no way uncommon; b) there was [sd] in ὅσδε, εἰσδέχται etc.; and c) there was in fact a voiceless correspondent in Archaic Greek ([ts] > Attic, Boeotian ττ, Ionic, Doric σσ).
+Persian names with zd and z are transcribed with ζ and σ respectively in Classical Greek (e.g. Artavazda = Ἀρτάβαζος / Ἀρτάοζος ~ Zara(n)ka- = Σαράγγαι. Similarly, the Philistine city Ashdod was transcribed as Αζωτος.
+Some inscriptions have -ζ- written for a combination -ς + δ- resulting from separate words, e.g. θεοζοτος for θεος δοτος "god-given".
+Some Attic inscriptions have -σζ- for -σδ- or -ζ-, which is thought to parallel -σστ- for -στ- and therefore to imply a [zd] pronunciation.
+ν disappears before ζ like before σ(σ), στ: e.g. *πλάνζω > πλᾰ́ζω, *σύνζυγος = *συνστέλλω > σῠστέλλω. Contra: ν may have disappeared before /dz/ if one accepts that it had the allophone [z] in that position like /ts/ had the allophone [s]: cf. Cretan ἴαττα ~ ἀποδίδονσα (Hinge).
+Verbs beginning with ζ have ἐ- in the perfect reduplication like the verbs beginning with στ (e.g. ἔζηκα = ἔσταλται). Contra: a) The most prominent example of a verb beginning with στ has in fact ἑ- < *se- in the perfect reduplication (ἕστηκα); b) the words with /ts/ > σ(σ) also have ἐ-: Homer ἔσσυμαι, -ται, Ion. ἐσσημένῳ.
+Alcman, Sappho, Alcaeus and Theocritus have σδ for Attic-Ionic ζ. Contra: The tradition would not have invented this special digraph for these poets if [zd] was the normal pronunciation in all Greek. Furthermore, this convention is not found in contemporary inscriptions, and the orthography of the manuscripts and papyri is Alexandrine rather than historical. Thus, σδ indicates only a different pronunciation from Hellenistic Greek [z(ː)], i.e. either [zd] or [dz].
+The grammarians Dionysius Thrax and Dionysius of Halicarnassus class ζ with the "double" (διπλᾶ) letters ψ, ξ and analyse it as σ + δ. Contra: The Roman grammarian Verrius Flaccus believed in the opposite sequence, δ + σ (in Velius Longus, De orthogr. 51), and Aristotle says that it was a matter of dispute (Metaph. 993a) (though Aristotle might as well be referring to a [zː] pronunciation). It is even possible that the letter sometimes and for some speakers varied in pronunciation depending upon word position, i.e., like the letter X in English, which is (usually) pronounced [z] initially but [gz] or [ks] elsewhere (cf. Xerxes).
+Some Attic transcriptions of Asia Minor toponyms (βυζζαντειον, αζζειον, etc.) show a -ζζ- for ζ; assuming that Attic value was [zd], it may be an attempt to transcribe a dialectal [dz] pronunciation; the reverse cannot be ruled completely, but a -σδ- transcription would have been more likely in this case. This suggests that different dialects had different pronunciations. (For a similar example in the Slavic languages, cf. Serbo-Croatian (iz)među, Russian между, Polish między, and Czech mezi, "between".)
+
+
+==== Arguments for [dz] ====
+The Greek inscriptions almost never write ζ in words like ὅσδε, τούσδε or εἰσδέχται, so there must have been a difference between this sound and the sound of ἵζω, Ἀθήναζε. Contra: a few inscriptions do seem to suggest that ζ was pronounced like σδ; furthermore, all words with written σδ are morphologically transparent, and written σδ may simply be echoing the morphology. (Note, for example, that we write "ads" where the morphology is transparent, and "adze" where it is not, even though the pronunciation is the same.)
+It seems improbable that Greek would invent a special symbol for the bisegmental combination [zd], which could be represented by σδ without any problems. /ds/, on the other hand, would have the same sequence of plosive and sibilant as the double letters of the Ionic alphabet ψ /ps/ and ξ /ks/, thereby avoiding a written plosive at the end of a syllable. Contra: the use of a special symbol for [zd] is no more or no less improbable than the use of ψ for [ps] and ξ for [ks], or, for that matter, the later invention ϛ (stigma) for [st], which happens to be the voiceless counterpart of [zd]. Furthermore, it is not clear that ζ was pronounced [zd] when it was originally invented. Mycenean Greek had a special symbol to denote some sort of affricate or palatal consonant; ζ may have been invented for this sound, which later developed into [zd]. (For a parallel development, note that original palatal Proto-Slavic /tʲ/ developed into /ʃt/ in Old Church Slavonic, with similar developments having led to combinations such as зд and жд being quite common in Russian.)
+Boeotian, Elean, Laconian and Cretan δδ are more easily explained as a direct development from *dz than through an intermediary *zd. Contra: a) the sound development dz > dd is improbable (Mendez Dosuna); b) ν has disappeared before ζ > δδ in Laconian πλαδδιῆν (Aristoph., Lys. 171, 990) and Boeotian σαλπίδδω (Sch. Lond. in Dion. Thrax 493), which suggests that these dialects have had a phase of metathesis (Teodorsson).
+Greek in South Italy has preserved [dz] until modern times. Contra: a) this may be a later development from [zd] or [z] under the influence of Italian; b) even if it is derived from an ancient [dz], it may be a dialectal pronunciation.
+Vulgar Latin inscriptions use the Greek letter Z for indigenous affricates (e.g. zeta = diaeta), and the Greek ζ is continued by a Romance affricate in the ending -ίζω > Italian. -eggiare, French -oyer. Italian, similarly, has consistently used Z for [dz] and [ts]. Contra: whether the pronunciation of ζ was [dz], [zd] or [zː], di would probably still have been the closest native Latin sound; furthermore, the inscriptions are centuries later than the time for which [zd] is assumed.
+
+
+==== Summary ====
+σδ is attested only in the lyric poetry of the Greek isle of Lesbos and the city-state of Sparta during the Archaic Age and in Bucolic poetry from the Hellenistic Age. Most scholars would take this as an indication that the [zd]-pronunciation existed in the dialects of these authors.
+The transcriptions from Persian by Xenophon and testimony by grammarians support the pronunciation [zd] in Classical Attic.
+[z(ː)] is attested from c. 350 BC in Attic inscriptions, and was the probable value in Koine.
+[dʒ] or [dz] may have existed in some other dialects in parallel.
+
+
+=== Numeral ===
+Zeta has the numerical value 7 rathe

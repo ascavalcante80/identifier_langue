@@ -1,0 +1,21 @@
+Webbläsare (efter engelska web browser) är ett program för att hämta, tolka och återge dokument kodade i HTML eller XHTML som lagts upp på webbservrar på Internet.
+
+
+== Historik ==
+Den första webbläsaren utvecklades av Tim Berners-Lee på Cern 1990. Två år senare utvecklades webbläsaren Mosaic vid NCSA i delstaten Illinois. Den var mer lättanvänd, vilket bidrog till kraftigt ökad webbanvändning. Men den första webbläsare som den stora allmänheten kom i kontakt med var Netscape, som dominerade marknaden 1995 till 1999 då Microsofts Internet Explorer lyckades vinna det första så kallade webbläsarkriget (eng: browser wars). Under 2000-talet har det dock blossat upp ett nytt webbläsarkrig. Den här gången står kampen mellan Internet Explorer och utmanarna Mozilla Firefox, Google Chrome, Safari och Opera, som även är de fem största. I dagsläget finns det dock hundratals webbläsare och de allra flesta är gratis.
+
+
+== Statistik ==
+Olika webbplatser kan ha olika värden, men siffrorna kan ge en fingervisning om webbläsarnas marknadsandel.
+Webbläsarstatistik hämtad från Net Applications april 2011.
+55,92 % Internet Explorer
+21,80 % Mozilla Firefox
+11,57 % Google Chrome
+6,61 % Safari
+2,15% Opera
+Webbläsarstatistik hämtad från W3schools april 2011.
+42,2 % Mozilla Firefox
+25,8 % Internet Explorer
+25,0 % Google Chrome
+4,0 % Safari
+2,5 % Opera

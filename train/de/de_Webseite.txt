@@ -1,0 +1,31 @@
+Als Webseite (eine Wortzusammensetzung aus Web und Seite), Webdokument, Internetseite oder kurz Seite wird ein Dokument als Bestandteil eines Angebotes oder einer Website im World Wide Web bezeichnet, das mit einem Browser unter Angabe eines Uniform Resource Locators (URL) abgerufen und von einem Webserver angeboten werden kann. In diesem Zusammenhang wird auch von einer HTML-Seite oder einem HTML-Dokument gesprochen.
+
+
+== GeschichteBearbeiten ==
+Die erste Webseite wurde am 13. November 1990 von Tim Berners-Lee auf einem NeXT-Rechner verfasst und veröffentlicht – einen Tag, nachdem dieser gemeinsam mit Robert Cailliau ein neugefasstes Konzept für ein weltweites Hypertext-Projekt veröffentlicht hatte.
+
+
+== AufbauBearbeiten ==
+Webseiten bestehen zumeist aus strukturiertem Text, in dem Bilder und andere Multimediaelemente eingebunden sein können. Das wesentliche Merkmal von Webseiten ist, dass sie Verweise, sogenannte Hyperlinks, auf andere Webseiten enthalten und gemeinsam den Hypertext bilden. Dabei hat jedes Dokument mindestens eine Adresse (URL), über die es in einem Webbrowser aufgerufen werden kann. Webseiten können statische (feste) oder dynamische Inhalte haben. Dynamische Inhalte werden bei jedem Aufruf neu generiert, vorzugsweise basierend auf dem Ergebnis einer Datenbankanfrage. Zudem können gleiche Inhalte verschiedenartig dargeboten werden, etwa als Druckversion oder Textversion.
+Webseiten werden meist aus dem Internet oder einem Intranet geladen, können aber auch auf einem lokalen Speichermedium, zum Beispiel einer Festplatte, abgelegt sein. Die Gesamtheit der Webseiten eines Internetauftritts wird als Website, Webpräsenz, Webauftritt, Internetpräsenz oder umgangssprachlich auch als Homepage bezeichnet.
+
+
+== Rezeption von WebseitenBearbeiten ==
+Webseiten werden anders wahrgenommen als gedruckte Textseiten. Englische Eye-Tracking-Versuche, bei denen die Augenbewegung des Lesers verfolgt wird, zeigten, dass die meisten Besucher einer Webseite den Text überfliegen (scannen) und dabei mit den Augen zunächst den oberen Rand und dann den linken Rand des Inhaltsbereichs abtasten. Es entsteht ein F-förmiger Bereich, der von den meisten Besuchern angeblickt wird. Besucher, die über eine Suchmaschine auf eine Webseite kommen, halten dort vorzugsweise nach ihrem Suchwort (Schlüsselwort) Ausschau. Aus diesen Tatsachen ergeben sich besondere Anforderungen für den Webtext.
+
+
+== ErstellungBearbeiten ==
+Die Erstellung und Gestaltung von Websites wird unter dem Begriff Webdesign zusammengefasst. Basissprache für die Erstellung von Webseiten ist die Auszeichnungssprache HTML, wobei die Formatierung zusätzlich noch durch Formatierungssprachen wie Cascading Style Sheets (CSS) beeinflusst werden kann. Vor allem für das Erstellen dynamischer Seiten wurden weitere Sprachen entwickelt, mit deren Hilfe auch komplexe Gefüge aus Webseiten (siehe Website) erstellt werden können.
+
+
+== Dynamische WebseitenBearbeiten ==
+Im Gegensatz zu statischen Webseiten, die technisch ein HTML-Dokument auf dem Webserver darstellen, werden Webseiten häufig auch dynamisch oder aktiv im Moment der Anforderung erzeugt. Das ist dann sinnvoll, wenn eine Webseite sehr aktuelle Informationen wie beispielsweise Börsenkurse oder Wettervorhersagen enthalten soll. In diesem Fall führt der Webserver ein Programm aus, das vorher spezifisch für diese Aufgabe entwickelt wurde. Es trägt die Daten z. B. aus Datenbanken zusammen und erstellt das HTML-Dokument. Dieses wird dann vom Webserver an den Browser übertragen und beim Benutzer angezeigt.
+Ein anderer Anwendungsfall ergibt sich aus dem Bedürfnis, auf Eingaben des Benutzers zu reagieren, wie z. B. die Eingabe eines Suchbegriffs in eine Suchmaschine. Die Software der Suchmaschine erstellt anhand des Suchbegriffs eine Liste von passenden Links und erzeugt eine Webseite, die dem Benutzer diese Liste komfortabel darstellt.
+Die Möglichkeit, Webseiten dynamisch in Abhängigkeit von Benutzereingaben und Datenbankinhalten zu generieren, machte das Web schnell zu einer universellen Plattform für viele Arten von Anwendungen. Die Vorteile liegen in Unabhängigkeit von Betriebssystemen und anderen Eigenschaften der Clients. Grundvoraussetzungen sind lediglich eine Netzwerkverbindung zum Server und ein Webbrowser.
+Zum Generieren von dynamischen Webseiten kommt jedes Programm in Frage, das sich auf dem Serversystem ausführen lässt. Um die Programmierung zu vereinfachen, wurden jedoch Standards wie das Common Gateway Interface (CGI) eingeführt, um Webanwendungen auch unabhängig von der Art des Webservers zu machen. Die Mehrzahl von CGI-Anwendungen wurden und werden in der Programmiersprache Perl geschrieben. Aufgrund des rasant steigenden Bedarfes nach sehr leistungsfähigen Servern zum Betrieb von Web-Anwendungen entwickelten sich Technologien wie PHP, J2EE und .NET.
+Da die Inhalte umfangreicher Websites meist von mehreren Personen eingepflegt werden, wird bei solchen Projekten häufig ein Content-Management-System (CMS) eingesetzt. Es drängen mehr und mehr meist PHP- und MySQL-basierte Lösungen in freier Software auf den Markt, die auch für ungeübte Programmierer schnell zu bedienen sind, solange sie eine gewisse Komplexität nicht übersteigen.
+
+
+=== Dynamisch generierte statische WebseitenBearbeiten ===
+Mit den Standardisierungen für XML und XSLT hat das W3C im Dezember 2000 einen Weg gewiesen, wie sich auch „echte“ und damit statische HTML-Dokumente auf dynamischem Wege erzeugen lassen, die es an Komplexität mit den Datenbankauszügen eines CMS aufnehmen können oder diese sogar noch übertreffen: einfach gehaltene und auf den Inhalt beschränkte, dabei aber gut strukturierte Ausgangsdaten in XML werden durch einen angepassten XSL-Transformator in valides, komplexes HTML umgesetzt, das dann als statisches Dokument auf dem Webserver abrufbereit vorliegt.
+Vorteil ist vor allem die höhere Leistung, weil der Aufwand des Hostrechners, komplexe Webseiten erst auf Anfrage zusammenzu

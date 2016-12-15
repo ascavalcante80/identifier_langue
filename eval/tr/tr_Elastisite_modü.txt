@@ -1,0 +1,2 @@
+ uzama ile normal gerilme (çekme ya da basma gerilmesi) arasındaki doğrusal ilişki şöyle tanımlanabilir::
+Elastisite Modülü () =Normal Gerilme () / Birim Uzama ()

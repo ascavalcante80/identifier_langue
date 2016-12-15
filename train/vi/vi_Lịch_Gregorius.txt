@@ -1,0 +1,10 @@
+Lịch Gregorius (còn gọi là Tây lịch, Công lịch) là một bộ lịch do Giáo hoàng Grêgôriô XIII đưa ra vào năm 1582. Lịch Gregorius chia thành 12 tháng với 365 ngày, cứ 4 năm thì thêm một ngày vào cuối tháng 2 tạo thành năm nhuận. Trước đó lịch Julius quy ước một năm có 365,25 ngày, song độ dài của năm mặt trời là 365,242216 ngày cho nên một năm theo lịch Julius dài hơn khoảng 0,0078 ngày so với năm mặt trời (tức là khoảng 11 phút 14 giây).
+
+
+== Phép tính năm nhuậnSửa đổi ==
+Để bù vào sự khác biệt giữa năm theo lịch và chu kỳ của mặt trời thì cứ 400 năm phải bỏ bớt đi 3 ngày cho năm nhuận. Tính đến năm 1582, thì sự sai biệt đã lên đến 10 ngày. Ngày 24 tháng 2 năm 1582 (khi vẫn đang dùng lịch Julius), trong chiếu thư giáo hoàng Inter gravissimas, Gregorius XIII quyết định bỏ 10 ngày trong tháng 10 năm đó để cho lịch và mùa màng ăn khớp với nhau trở lại. Giáo hoàng lấy ngày ngay sau ngày thứ năm 4 tháng 10 năm 1582 (lịch Julius), đáng ra là ngày thứ sáu 5 tháng 10, thì đổi thành là ngày thứ sáu 15 tháng 10 năm 1582 theo lịch mới. Và để tránh lập lại sai biệt, phép lịch mới này vẫn lấy năm nhuận là năm có số thứ tự chia hết cho 4 (như năm 1964, 1980, 2004,...), nhưng trừ các năm tận cùng bằng 00 thì phải vừa chia hết cho 4 vừa cho 400 mới là năm nhuận (kể từ năm 1582 đến nay, các năm 1600, 2000 chia hết cho cả 4 và 400 nên là năm nhuận, những năm 1700, 1800 và 1900 chỉ chia hết cho 4 nhưng không chia hết cho 400 nên không phải là năm nhuận...). Lịch mới này mang tên lịch Gregorius và được áp dụng cho đến bây giờ.
+Lịch Gregorius chỉ được tính từ năm 1582. Còn đối với các năm trước năm 1582 và những ngày trước ngày 15 tháng 10 của năm này, lịch Gregorius đón trước được tạo ra bằng cách mở rộng lịch Gregorius, để tra cứu thuận tiện.
+
+
+== Lịch Gregorius trên thế giớiSửa đổi ==
+Vì sự thông tin chậm trễ và vì lý do tôn giáo, nhiều nước không áp dụng lịch Gregorius ngay sau đó. Nước Anh (và Hoa Kỳ lúc còn là thuộc địa của Anh) mãi đến 1752 mới theo lịch

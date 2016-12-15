@@ -1,0 +1,39 @@
+. Besonders „hervorgetan“ durch solche Inkompatibilitäten hatte sich zu Beginn des Internet-Booms die Firma Netscape, heute vor allem das Unternehmen Microsoft mit seinem Internet Explorer.
+Außerdem ging durch die Vielzahl der Ad-Hoc-Erweiterungen von HTML ein wesentlicher Vorteil dieser Sprache verloren – die Trennung von Inhalt und Darstellung. Durch diese Trennung können die in HTML ausgezeichneten Inhalte optimal für das jeweilige Ausgabegerät – ob Bildschirm, Display des Mobiltelefons oder Sprachausgabe (für Benutzer mit Sehschwierigkeiten) – aufbereitet werden.
+Das W3C und andere Initiativen treiben daher die Entwicklung in die Richtung XHTML/XML und CSS voran, um diese Vorteile von HTML wiederzuerlangen. Die fortschreitenden Bemühungen um die Barrierefreiheit von Internetseiten unterstützen diesen Trend.
+
+
+== Siehe auchBearbeiten ==
+Semantic Web, Linked Open Data (Transformation des World Wide Web)
+WebDAV (Protokoll)
+Dynamisches HTML, SGML, SVG, Curl, XSL (Dokumentformate und Dokumentsprachen)
+CGI, Python, ASP, Apache Wicket, JSF, ColdFusion, Ruby, SSI (serverseitige Techniken)
+Java
+Logdatei, Logdateianalyse (Auswertung)
+Webdesigner, Mediamatiker (Berufe)
+Webwissenschaft (wissenschaftliche Auseinandersetzung)
+Suchmaschine, Webverzeichnis
+
+
+== LiteraturBearbeiten ==
+ Tim Berners-Lee, Mark Fischetti: Der Web-Report. Der Schöpfer des World Wide Webs über das grenzenlose Potential des Internets. Econ, München 1999 (Originaltitel: Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web (Paperback: 2000)), ISBN 3-430-11468-3.
+ Christoph Meinel, Harald Sack: WWW – Kommunikation, Internetworking, Web-Technologien. Springer, Berlin, Heidelberg, New York 2004, ISBN 3-540-44276-6.
+
+
+== WeblinksBearbeiten ==
+
+Tim Berners-Lee: Information Management: A Proposal, März 1989.
+Die Geschichte des World Wide Web, netplanet.org
+Zeitleiste der Geschichte des WWW mit Emulationen alter Dienste und Browser (englisch)
+World Wide Web Consortium, dort die erste WWW-Seite (Archiv) (englisch)
+Erste Website, wiederhergestellt
+Matthias Gräbner: Das Internet ist keine Zwiebel. In: Telepolis, 23. Juni 2007.
+
+
+== EinzelnachweiseBearbeiten ==
+↑ Internet und World Wide Web – der Unterschied. News.de, 29. Oktober 2009, abgerufen am 11. Dezember 2010. 
+↑ Zeit Online: 25 Jahre World Wide Web. Du bist aber groß geworden!
+↑ Tim Berners-Lee: WorldWideWeb – Executive Summary, 6. August 1991
+↑ Detlef Borchers: Vor 20 Jahren: Ein schwer vermittelbarer Vorschlag – und der Anfang des Web. heise online, 13. März 2009, abgerufen am 23. Juli 2010 (deutsch). 
+↑ Tim Berners-Lee: Information Management: A Proposal. CERN/W3C, März 1989, abgerufen am 1. August 2010 (englisch, siehe „Mesh“ auf der Grafik). 
+↑ Berners-Lee, Fischetti 2000, S. 23.

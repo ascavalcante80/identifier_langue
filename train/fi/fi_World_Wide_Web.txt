@@ -1,0 +1,11 @@
+World Wide Web tai WWW on Internet-verkossa toimiva hajautettu hypertekstijärjestelmä. Hypertekstiä luetaan selaimella, joka hakee web-sivuiksi kutsuttuja dokumentteja web-palvelimilta ja esittää niitä käyttäjälle piirtämällä ne näytölle. Hyperteksti sisältää linkkejä toisiin dokumentteihin. Vuorovaikutus web-palvelimen kanssa informaatiota toiseen suuntaan lähettämällä on sekin mahdollista. Linkkien seuraamista tai sivujen lataamista selaimeen kutsutaan surffaamiseksi.
+Termejä WWW ja Internet käytetään usein erheellisesti toistensa synonyymeinä. WWW on kuitenkin vain yksi Internetin palvelumuoto. Muita palvelumuotoja ovat esimerkiksi sähköposti, keskusteluryhmät tai tiedoston siirto.
+
+
+== HistoriaMuokkaa ==
+Ennen WWW-tekniikkaa käytössä oli Gopher, jolla pystyi hakemaan hakemistopalveluista tekstimuotoista tietoa. WWW:n kehitti yhdessä Robert Cailliaun kanssa Tim Berners-Lee vuonna 1990 työskennellessään CERNissä. Hän halusi kehittää järjestelmän, jolla voi linkittää sivulta toiselle. WWW tuli todella suosituksi kuitenkin vasta kun Marc Andreessenin kehittämä graafinen selain Mosaic julkaistiin vuonna 1993. Mosaic loi standardin, jonka ratkaisuja jäljittelivät myöhemmät selaimet Netscape Navigator 1994 ja Internet Explorer 1995. Ensimmäinen verkkosivu palasi kaikkien nähtäville 30. huhtikuuta 2013 alkuperäisessä URL-osoitteessaan.
+
+
+== SuosituksetMuokkaa ==
+Webin toiminnan kannalta keskeisimpiä teknisiä standardeja tai suosituksia ovat
+URL, web-sivujen o

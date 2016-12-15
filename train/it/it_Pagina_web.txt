@@ -1,0 +1,57 @@
+Una pagina web è il tipo di documento digitale tramite il quale sono rese disponibili all'utente finale le informazioni del World Wide Web tramite un web browser. Un insieme di pagine web, tra loro relazionate secondo una gerarchica e una struttura ipertestuale e riferibili, di norma, ad un unico web server, costituiscono un sito web.
+
+
+== Caratteristiche ==
+Una pagina web è formata fondamentalmente da due elementi: i contenuti veri e propri e la formattazione, ovvero l'aspetto con cui i contenuti sono mostrati all'utente. Per essere visibile e intelligibile, deve essere opportunamente formattata.
+Informalmente e logicamente quindi una pagina web si può suddividere in una parte relativa ai contenuti ed una parte di formattazione del testo (layout), presentazione grafica o organizzazione dei contenuti stessi all'utente (testo e/o immagini digitali). La pagina web principale e iniziale di un sito web è la cosiddetta home page, da cui dipartono tramite collegamenti o link interni (ancore), spesso riuniti in menù e widget, verso pagine secondarie del sito.
+Il contenuto delle pagine web solitamente consiste dunque di un documento (generalmente HTML) e dei file ad esso correlati che un web browser scarica da uno o più web server per elaborarli, interpretando il codice sorgente, al fine di generare la visualizzazione, sullo schermo del computer-client, della pagina desiderata, grazie al motore di rendering del browser stesso.
+
+
+=== URL ===
+Di solito una pagina web ha uno o più URL (Uniform Resource Locator), un link permanente che ne permette il deep linking; qualche volta ha solo un URL temporaneo che si riferisce ad un'area cache. Questo è ad esempio il caso di quando una pagina è il risultato di uno zoom o di uno spostamento di una mappa oppure una pagina può essere il risultato dovuto a qualche azione. Una pagina di questo tipo, come una pagina con un form riempito, non potrebbe essere precisamente chiamata una pagina web, in quanto non è nel web ma creata da qualcosa che è nel web.
+L'URL digitato nel web browser dell'utente è convertito dal DNS in indirizzo IP necessario per l'instradamento della comunicazione tra web server e client nei nodi interni di commutazione (router).
+
+
+=== Grafica ===
+Il formato file della grafica in una pagina web è di solito JPEG per fotografie e GIF o PNG per altre immagini (come diagrammi, disegni, grafici, etc.). Gli ultimi due formati possono essere utilizzati per foto, ma non sono convenienti per lo scopo come JPEG, che è un formato a perdita d'informazione, ma a maggior livello di compressione, mentre GIF e PNG non lo sono, cioè meno performanti a livello di compressione. GIF è utilizzata per animazioni, GIF e PNG per immagini con pixel trasparenti, PNG per immagini con pixel parzialmente trasparenti (anche se Internet Explorer 6 non supporta le trasparenze del formato PNG).
+Tutti questi formati appartengono alla grafica raster. I modi più comuni di impiegare grafica vettoriale nelle pagine web sono tre:
+utilizzando il moderno formato SVG (non ancora supportato da molti browser);
+inserendo dei file PDF, visualizzabili con un plug-in del browser o con un programma separato;
+inserendo dei file di Flash, che permette l'animazione degli elementi e l'utilizzo di musica ed effetti sonori.
+Ad esempio, per creare una mappa, può essere utile una combinazione di livelli a grafica vettoriale e testo, possibilmente con un livello di grafica raster. Questo fornisce migliori risultati nello zoom rispetto ad un'immagine GIF o PNG (JPEG dovrebbe dar luogo a risultati peggiori dovuti agli artefatti di compressione).
+
+
+=== Tipologie ===
+Esistono due tipologie di pagine web che identificano rispettivamente due diversi paradigmi di programmazione Web:
+pagina web statica afferente al paradigma del cosiddetto Web statico;
+pagina web dinamica afferente al paradigma del cosiddetto Web dinamico;
+Nel primo caso le informazioni, con la loro descrizione, sono di solito contenute in ipertesti in formato HTML o XHTML che consentono di accedere ad altre pagine web o altri contenuti informativi tramite collegamenti ipertestuali (link o rimandi). Nel secondo caso si fa invece uso di linguaggi di scripting.
+A seconda della tecnologia impiegata, le pagine web possono contenere elementi grafici o multimediali e elementi interattivi e dinamici.
+
+
+=== Standard per pagine web ===
+Dal punto di vista tecnologico i vari aspetti caratteristici di una pagina vengono realizzati utilizzando i seguenti standard:
+l'HTML, che è il linguaggio di descrizione dei documenti Web;
+l'XHTML, che è l'evoluzione dell'HTML, e si poggia sulla tecnologia XML;
+i fogli di stile (CSS), che sono utilizzati per controllare la presentazione delle pagine su diverse tipologie di dispositivi (testuali, grafici, di stampa, ecc.)
+linguaggi di scripting come JavaScript, PHP, ASP, .NET, Python ecc... per pagine web dinamiche.
+La "normalizzazione" dell'output da parte del Browser web può ovviamente variare in funzione della correttezza semantica del linguaggio di programmazione usato. Al fine di uniformare la rasterizzazione della pagina web esiste un "organo competente" che si pone l'obiettivo di determinare quando il codice sia compilato in maniera da rendersi identico su tutti i vari browser, stiamo parlando del W3C. Tramite un semplice processo di validazione del codice tramie invio dell'url che si intende controllare siamo così in grado di capire se l'output html, xhtml, css etc.. sia "valido" ovvero uguale su tutti i browser.
+
+
+== Operazioni sulle pagine web ==
+
+
+=== Visualizzare una pagina web ===
+Siccome la maggior parte delle pagine web sono composte solamente da testo, possono essere visualizzate in qualsiasi applicazione che possa leggere i documenti di testo. Comunque, per vedere una pagina web nel vero senso, cioè come ipertesto, c'è bisogno di un tipo di software chiamato user agent o meglio ancora web browser, che è destinato proprio alla visualizzazione di pagine web.
+Ci sono differenti tipi di browser per il web disponibili con differenti caratteristiche e su un gran numero di piattaforme. Nel caso di pagine web statiche il browser interpreta il codice HTML e CSS restituendo all'utente il contenuto informativo nella veste grafica predefinita. Nel caso di pagine web dinamiche il server oppure il client elaborano lo script (a seconda se l'applicazione è server-side o client-side) restituendo codice HTML e CSS poi usualmente interpretato dal web browser per visualizzare la pagina sul terminale dell'utente.
+
+
+=== Salvataggio di una pagina web ===
+Quando si salva una copia locale di una pagina WEB, il browser web di solito permette la scelta tra:
+salvare il testo senza formattazione o immagini senza mantenere i link e la loro destinazione;
+salvare il file HTML senza modifiche ma senza immagini (salva il codice sorgente);
+salva il file HTML modificando i link relativi in assoluti, senza immagini;
+anche salvando le immagini e correggendo i riferimenti ad esse; sia nel caso si crei una cartella separata (IE, Mozilla) o che sia la stessa utilizzata dal file HTML (Opera);
+Internet Explorer può anche salvare la pagina includendo le immagini in un solo file MHT, similmente a Apple Safari che permette la stessa operazione salvando la pagina (anche animazioni e applet) in un archivio web (.webarchive).
+I web browser più comuni, come Mozilla, Mozilla Firefox e Internet Explorer, permettono anche di stampare la pagina web correntemente visualizzata e opzionalmente "stamparla" su un file che successivamente può essere visualizzato o stampato.
+Gene

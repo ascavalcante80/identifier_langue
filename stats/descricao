@@ -1,0 +1,13 @@
+
+Distance
+
+1 Ngram 1.100.000 p=1 s=0 d=0 (97% langues trouvees correctement  - (marge moyenne 26,8%)
+3 Ngram 500.000 p=1 s=0 d=0 (100% langues trouvees correctement  - (marge moyenne 778%)
+5 Ngram 500.000 p=0 s=0 d=0 (100% langues trouvees correctement  - (marge moyenne 91,4%)
+
+
+Probabilites
+
+1 Ngram 500.000 p=0 s=0 d=0 (62% langues trouvees correctement  - (marge moyenne 34,3%)
+3 Ngram 1.100.000 p=0 s=0 d=0 (97% langues trouvees correctement  - (marge moyenne 97,6%)
+5 Ngram 1.100.000 p=0 s=1 d=0 (100% langues trouvees correctement  - (marge moyenne 75,9%)

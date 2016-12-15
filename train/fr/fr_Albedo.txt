@@ -1,0 +1,27 @@
+L'albédo, ou albedo (sans accent), est le pouvoir réfléchissant d'une surface, soit le rapport de l'énergie lumineuse réfléchie à l'énergie lumineuse incidente. C'est une grandeur sans dimension, comparable à la réflectance, mais d'application plus spécifique, utilisée notamment en astronomie et climatologie — ainsi qu'en géologie.
+Le mot, d'origine latine signifiant blancheur, a été introduit au XVIIIe siècle en optique et en astronomie par le mathématicien et astronome suisse Jean-Henri Lambert.
+L'albédo, dans sa définition la plus courante dite albédo de Bond, est une valeur comprise entre 0 et 1 : un corps noir parfait, qui absorberait toutes les longueurs d'onde sans en réfléchir aucune, aurait un albédo nul, tandis qu'un miroir parfait, qui réfléchirait toutes les longueurs d'onde, sans en absorber une seule, aurait un albédo égal à 1. D'autres définitions, dont celle de l'albédo géométrique, peuvent donner des valeurs supérieures à 1.
+
+
+== Mesures ==
+
+Dans la pratique, un corps est perçu comme blanc dès qu'il réfléchit au moins 80 % de la lumière d'une source lumineuse blanche. À l'inverse tout corps réfléchissant moins de 3 % de la lumière incidente paraît noir.
+Certaines matières ont un albédo très variable, comme les nuages. En revanche, les corps solides ont bien souvent des albédos fixes, dépendant de leur composition chimique. Par exemple, la lave a un albédo de 0,04, le sable entre 0,25 et 0,30, la glace environ 0,60, la neige (épaisse et fraîche) jusqu'à 0,90. L'albédo moyen terrestre est de 0,30 toutes surfaces confondues.
+
+
+== Usages ==
+
+
+=== Climatologie ===
+L'albédo est l'un des indicateurs prévenant de la température de la surface de la terre. C'est un « baromètre » des variations climatiques qui influe sur la connaissance de l'amplitude de l'effet de serre en opposant une rétroaction positive sur la température en surface et des océans, en fonction de la variation du volume des glaces.
+Le refroidissement d'origine astronomique entraîne une extension des glaces continentales, de l'inlandsis, des glaciers, et donc une augmentation de l'albédo ; la planète réfléchit davantage le rayonnement solaire, en absorbe moins, ce qui amplifie son refroidissement. Le réchauffement a des effets inverses. Ce qui pose problème aujourd'hui : le réchauffement de la planète fait fondre la banquise polaire, ce qui diminue l'albédo et donc augmente la température de la planète. La planète Terre présente un albédo de Bond de l'ordre de 0,34.
+
+
+=== Astronomie ===
+
+L'albédo est utilisé en astronomie pour avoir une idée de la composition d'un corps trop froid pour émettre sa propre lumière, en mesurant la réflexion d'une source lumineuse externe, comme le Soleil. On peut différencier ainsi facilement les planètes gazeuses, qui ont un fort albédo, des planètes telluriques qui ont, elles, un albédo faible.
+Les astronomes ont affiné cette définition en distinguant d'une part l'albédo de Bond, correspondant à la réflectivité globale d'un objet céleste pour toutes les longueurs d'onde et tous angles de phase confondus, et d'autre part l'albédo géométrique, correspondant au rapport entre l'intensité électromagnétique réfléchie par un astre à angle de phase nul et l'intensité électromagnétique réfléchie à angle de phase nul par une surface équivalente à réflectance idéalement lambertienne (c'est-à-dire isotrope quel que soit l'angle de phase) : conséquences de ces définitions, l'albédo de Bond est toujours compris entre 0 et 1, tandis que l'albédo géométrique peut être supérieur à 1.
+
+
+=== Energétique ===
+Avant d'installer un équipement utilisant l'énergie solaire, il est important de connaître la luminance au sol, c'est-à-dire la quantité de lumière solaire reçue au sol. Pour cela, une des techniques les plus efficac

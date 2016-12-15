@@ -1,0 +1,23 @@
+e se neukládají.
+
+
+== Pojmy World Wide Web a internet nejsou vzájemně zaměnitelné ==
+Často se v běžném hovoru setkáme s tím, že oba pojmy jsou využívány ve shodných situacích bez patrného významového rozdílu. Přesto však oba pojmy popisují dvě různé věci. Internet je globální systém vzájemně propojující počítačové sítě na celém světě. World Wide Web je však aplikace, která na internetu funguje. Je to služba poskytovaná v rámci internetu. World Wide Web je dnes obrovské množství stránek, dokumentů a jiných souborů vzájemně propojovaných hypertextovými odkazy. Prohlížení těchto stránek obvykle začínáme zadáním URL adresy do internetového prohlížeče, tento prohlížeč pak provede sérii přenosů dat, které nakonec vykreslí do podoby formátované stránky s odkazy na jiné stránky, s obrázky, animacemi a jinými objekty.
+
+
+== Související články ==
+World Wide Web Consortium
+Internet
+Webový prohlížeč
+Webová stránka
+Webová služba
+Webová aplikace
+HTTP
+Hluboký web
+Způsob umožňující dálkový přístup
+
+
+== Externí odkazy ==
+ Obrázky, zvuky či videa k tématu World Wide Web ve Wikimedia Commons
+ Slovníkové heslo WWW ve Wikislovníku
+ Výukový kurs WWW ve Wikiverzitě

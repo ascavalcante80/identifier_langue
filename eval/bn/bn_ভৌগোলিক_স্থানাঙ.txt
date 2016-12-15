@@ -1,0 +1,13 @@
+্রাপ্ত ভাগফল। DMS সবচেয়ে বেশী ব্যবহৃত হয় এবং মানচিত্র, গ্লোবাল পজিশনিং সিস্টেম বা জিপিএস প্রভৃতিতে এটি দেখা যায়।
+অক্ষাংশ ও দ্রাঘিমাংশ বিভিন্ন স্থানাঙ্ক ব্যবস্থার জন্য বিভিন্ন হতে পারে। এরকম ভিন্ন স্থানাঙ্ক ব্যবস্থার উদাহরন হচ্ছে WGS 84 যা সকল জিপিএস যন্ত্রপাতিতে ব্যবহৃত হচ্ছে। সহজ ভাষায়, বিভিন্ন স্থানাঙ্ক ব্যবস্থার জন্য একই স্থানের অক্ষাংশ ও দ্রাঘিমাংশের মান আলাদা হতে পারে।
+
+
+== তথ্যসূত্র ==
+
+
+== বহিঃসংযোগ ==
+Mathematics Topics-Coordinate Systems
+Geographic coordinates of countries (CIA World Factbook)
+Worldwide Geogr.Coordinates & Satellite images
+Global Gazetteer
+Coordinate converter

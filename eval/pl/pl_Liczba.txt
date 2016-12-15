@@ -1,0 +1,55 @@
+ kolejność bajtów można zmieniać. Jednak kolejność ta nie ma większego znaczenia, dopóki nie zapiszemy liczby do pliku albo nie prześlemy jej siecią i nie przeniesiemy w ten sposób na komputer stosujący inny standard. Z tego powodu np. maszyny wirtualne Java wykorzystują w plikach format big endian niezależnie od procesora.
+Na czterech bajtach można zapisać liczby z przedziału od 0 do 4 294 967 295. Analogicznie jak poprzednio, przedstawienie danej liczby w systemie 256-kowym pozycyjnym jako  uzyskuje się cztery bajty . Kolejność ich zapisu w pamięci, tak jak poprzednio, zależy od procesora – w przypadku little endian od bajta  do , w przypadku big endian – odwrotnie.
+Do niektórych zastosowań konieczne są jeszcze większe liczby naturalne, np. zapisywane na 8 bajtach (w rodzinie języków C oznaczane unsigned _int64 lub unsigned long long int).
+Istnieją także inne sposoby zapisu liczb naturalnych, bardzo rzadko jednak stosowane. Należy do nich kod BCD (od ang. binary coded decimal), gdzie kolejne cyfry dziesiętne są zapisywane w kolejnych półbajtach (inaczej nibblach, porcjach danych długości 4 bitów). Komplikuje to arytmetykę, ale upraszcza przeliczanie na system dziesiętny, kod BCD jest więc czasem stosowany w licznikach cyfrowych.
+
+
+=== Liczby całkowite ===
+
+Typ obejmujący przedział liczb całkowitych zwany jest w informatyce liczbami ze znakiem (ang. signed integers).
+Stosuje się tu tzw. kod uzupełnień do dwóch (ZU2). Liczba , która ma zostać zapisana w postaci  bajtów jest przekształcana w następujący sposób:
+
+Następnie liczba  jest zapisywana jako liczba naturalna. W ten sposób na jednym bajcie można zapisywać liczby z przedziału od  do , na dwóch od  do , i ogólnie na  bajtach liczby od  do  włącznie.
+Istnieją również inne metody zapisu (np. kod uzupełnień do jedności), obecnie jednak nie stosowane.
+W celu zapisywania dużych liczb naturalnych lub całkowitych buduje się odpowiednie klasy, np. java.math.BigInteger w języku Java
+
+
+=== Liczby rzeczywiste ===
+Liczby rzeczywiste mogą być zapisywane jako:
+liczby stałoprzecinkowe, kiedy liczba mnożona jest przez pewną ustaloną z góry stałą, po czym zaokrąglana do najbliższej liczby całkowitej i jako taka zapisywana;
+liczby zmiennoprzecinkowe, gdy stała ta dobierana jest w zależności od kodowanej liczby, co czyni tę metodę bardziej uniwersalną.
+Powszechnie stosuje się zmiennoprzecinkowy zapis liczby rzeczywistej w standardzie IEEE 754. Przybliżenie liczby rzeczywistej jest zapisywane w postaci , gdzie  jest nazywany znakiem,  – wykładnikiem, a  – mantysą. Zero, które można by zakodować na wiele sposobów jest kodowane jako 
+
+Znak jest zapisywany jako jeden bit, równy 0 dla  i 1 dla . Wykładnik jest zapisywany jak każda inna liczba całkowita w kodzie uzupełnień do dwóch. Mantysa jest mnożona przez , gdzie  to liczba bitów przeznaczona na nią i zapisywana jako liczba naturalna.
+Całość zajmuje kolejnych 4, 8 albo 16 bajtów (w zależności od wymaganej precyzji). Ich kolejność umieszczenia w pamięci jest zależna od procesora, identycznie jak w przypadku liczb naturalnych i całkowitych.
+
+
+=== Liczby zespolone i kwaterniony ===
+Niektóre języki programowania posiadają arytmetykę liczb zespolonych. W nowoczesnych językach zwykle jest to realizowane za pomocą odpowiednich klas, np. Complex ze standardowej biblioteki C++. Jedną z przyczyn dawnej popularności Fortranu był fakt, iż język ten jako pierwszy posiadał typ liczb zespolonych.
+Klasa obsługująca kwaterniony zdefiniowana jest w pakiecie DirectX, będąc sposobem na użycie tzw. współrzędnych jednorodnych do opisu punktów modelowanej przestrzeni trójwymiarowej (wierzchołków trójwymiarowej sceny) w grafice 3D; podobne typy istnieją również w innych pakietach grafiki trójwymiarowej.
+
+
+== Historia ==
+
+
+== Zobacz też ==
+cyfra,
+znak liczby,
+moc zbioru,
+liczebniki główne potęg tysiąca
+liczby
+
+
+== Przypisy ==
+
+
+== Bibliografia ==
+Jerzy Klukowski, I. Nabiałek: Algebra dla studentów. Wyd. 4. 2004. ISBN 83-204-3124-7.
+Franciszek Leja: Rachunek różniczkowy i całkowy. Warszawa: PWN, 1976.
+Krzysztof Maurin: Analiza – Część I – Elementy. Warszawa: PWN, 1976.
+Helena Musielak, Julian Musielak: Analiza matematyczna. Poznań: Wydawnictwo Naukowe UAM, 2000. ISBN 83-232-1049-7.
+Fritz Reinhardt, Heinrich Soeder: Atlas matematyki. Prószyński i S-ka, 2003. ISBN 83-7469-189-1.
+Jerzy Rutkowski: Algebra abstrakcyjna w zadaniach. Wyd. 5. 2006. ISBN 83-01-14388-6.
+J. Widomski: Ontologia liczby. Kraków: 1996.
+Wyprowadzenie wszystkich algebr liczbowych od liczb naturalnych do oktaw Cayleya włącznie, w sposób zrozumiały dla uczniów gimnazjum, znajduje się w książce:
+Bogdan Miś: Tajemnicza liczba e i inne sekrety matematyki. Warszawa: Wydawnictwa Naukowo-Techniczne, 1989.

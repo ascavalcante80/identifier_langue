@@ -1,0 +1,8 @@
+modulus.
+Solvinklen
+Da det er mere relevant et kende vinkelomdrejningen om Solen θ end omkring ellipsens centrum, skal der omregnes et forhold mellem disse:
+
+Hvor r angiver ellipsens lilleradius, som findes således:
+
+Iteration
+Oftest ønsker man at beregne vinlen på et kendt tidspunkt, altså skal man finde E i den første ligning, og det lader ikke beregne. Bedst er da at lade et edb-program iterere sig frem til resultatet.

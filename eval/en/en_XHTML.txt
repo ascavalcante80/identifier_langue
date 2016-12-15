@@ -1,0 +1,95 @@
+ion when the document is served using the application/xhtml+xml MIME type. (If an XML document lacks encoding specification, an XML parser assumes that the encoding is UTF-8 or UTF-16, unless the encoding has already been determined by a higher protocol.)
+For example:
+<?xml version="1.0" encoding="UTF-8" ?>
+The declaration may be optionally omitted because it declares as its encoding the default encoding. However, if the document instead makes use of XML 1.1 or another character encoding, a declaration is necessary. Internet Explorer prior to version 7 enters quirks mode, if it encounters an XML declaration in a document served as text/html.
+
+
+=== Common errors ===
+Some of the most common errors in the usage of XHTML are:
+Not closing empty elements (elements without closing tags in HTML4)
+Incorrect: <br>
+Correct: <br />
+Note that any of these is acceptable in XHTML: <br></br>, <br/>, and <br />. Older HTML-only browsers interpreting it as HTML will generally accept <br> and <br />.
+
+Omitting end tags
+Incorrect: <p>This is a paragraph.<p>This is another paragraph.
+Correct: <p>This is a paragraph.</p><p>This is another paragraph.</p>
+
+Improperly nesting elements (Note that this would also be invalid in HTML)
+Incorrect: <em><strong>This is some text.</em></strong>
+Correct: <em><strong>This is some text.</strong></em>
+
+Not putting quotation marks around attribute values
+Incorrect: <td rowspan=3>
+Incorrect: <td rowspan='3">
+Correct: <td rowspan="3">
+Correct: <td rowspan='3'>
+
+Using the ampersand character outside entities (Note that this would also be invalid in HTML)
+Incorrect: <title>Cars & Trucks</title>
+Correct: <title>Cars &amp; Trucks</title>
+Incorrect: <a href="index.php?page=news&id=5">News</a>
+Correct: <a href="index.php?page=news&amp;id=5">News</a>
+
+Failing to recognize that XHTML elements and attributes are case sensitive
+Incorrect: <BODY><P ID="ONE">The Best Page Ever</P></BODY>
+Correct: <body><p id="ONE">The Best Page Ever</p></body>
+
+Using attribute minimization
+Incorrect: <textarea readonly>READ-ONLY</textarea>
+Correct: <textarea readonly="readonly">READ-ONLY</textarea>
+
+Misusing CDATA, script-comments and xml-comments when embedding scripts and stylesheets.
+This problem can be avoided altogether by putting all script and stylesheet information into separate files and referring to them as follows in the XHTML head element.
+
+Note: The format <script …></script>, rather than the more concise <script … />, is required for HTML compatibility when served as MIME type text/html.
+If an author chooses to include script or style data inline within an XHTML document, different approaches are recommended as shown in the examples below, depending whether the author intends to serve the page as application/xhtml+xml and target only fully conformant browsers, or serve the page as text/html and try to obtain usability in Internet Explorer 6 and other non-conformant browsers.
+
+
+== Backward compatibility ==
+XHTML 1.x documents are mostly backward compatible with HTML 4 user agents when the appropriate guidelines are followed. XHTML 1.1 is essentially compatible, although the elements for ruby annotation are not part of the HTML 4 specification and thus generally ignored by HTML 4 browsers. Later XHTML 1.x modules such as those for the role attribute, RDFa and WAI-ARIA degrade gracefully in a similar manner.
+XHTML 2.0 is significantly less compatible, although this can be mitigated to some degree through the use of scripting. (This can be simple one-liners, such as the use of “document.createElement()” to register a new HTML element within Internet Explorer, or complete JavaScript frameworks, such as the FormFaces implementation of XForms.)
+
+
+=== Examples ===
+The following are examples of XHTML 1.0 Strict, with both having the same visual output. The former one follows the HTML Compatibility Guidelines of the XHTML Media Types Note while the latter one breaks backward compatibility, but provides cleaner markup.
+Example 1.
+
+Example 2.
+
+Notes:
+The "loadpdf" function is actually a workaround for Internet Explorer. It can be replaced by adding <param name="src" value="http://www.w3.org/TR/xhtml1/xhtml1.pdf" /> within <object>.
+The img element does not get a name attribute in the XHTML 1.0 Strict DTD. Use id instead.
+
+
+== Cross-compatibility of XHTML and HTML ==
+HTML5 and XHTML5 serializations are largely inter-compatible if adhering to the stricter XHTML5 syntax, but there are some cases in which XHTML will not work as valid HTML5 (e.g., processing instructions are deprecated in HTML, are treated as comments, and close on the first ">", whereas they are fully allowed in XML, are treated as their own type, and close on "?>").
+
+
+== See also ==
+Extensible User Interface Protocol
+HTML
+List of XML and HTML character entity references
+
+
+== References ==
+
+
+== External links ==
+W3C's Markup Home Page
+XHTML 1.0 Recommendation
+XHTML 1.1 Recommendation
+XHTML 2.0 Working Group Note
+XHTML Basic
+XHTML 1.0 Strict / 1.1 Online Reference
+Links dealing with the MIME type of XHTML documents:
+Beware of XHTML
+Sending XHTML as text/html Considered Harmful
+Serving up XHTML with the correct MIME type
+The Road to XHTML 2.0: MIME Types - Mark Pilgrim (3/19/2003). Includes examples for conditionally serving application/xhtml+xml using PHP, Python, and Apache (mod rewrite).
+Mozilla Web Author FAQ: How is the treatment of application/xhtml+xml documents different from the treatment of text/html documents? - summarizes one web browser's XHTML processing mode
+
+Empty elements in SGML, HTML, XML, and XHTML
+Heptagrama's Basic XHTML 1.0 Strict Tutorial
+W3C's Markup Validator
+HTML to XHTML conversion library for .NET

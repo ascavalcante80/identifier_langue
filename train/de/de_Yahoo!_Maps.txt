@@ -1,0 +1,20 @@
+Yahoo Maps (Eigenschreibweise Yahoo! Maps, auch Lokale Suche, Yahoo Routenplaner und Yahoo Lokal) war ein Internet-Kartendienst von Yahoo, mit dem man Orte, Hotels und andere Objekte suchen kann, um sie dann auf Karten und Bildern (Satelliten- und Luftbilder) betrachten zu können.
+
+
+== Beschreibung ==
+In Yahoo Maps lassen sich kostenlos Karten wie bei anderen Internet-Kartendiensten wie Google Maps und Bing Maps, Luftbilder und Satellitenbilder betrachten. Neben den bereitgestellten Daten lassen sich verschiedene Dienste nutzen, unter anderem zur Ortssuche und Routenplanung.
+
+
+== Entwicklung und Historie ==
+Yahoo hat am 13. September 2011 seinen Kartendienst eingestellt und die Nutzung von Nokia Maps, des Kartendienstes von Nokia empfohlen.
+Am 16. Mai 2007 hat Yahoo einen neuen Map-Stil freigegeben, welcher von der Firma Kartographie Cartifact entworfen wurde. Daten und Bilder wurden von Cartifact geliefert, darunter Features wie das Relief, Oberflächeneigenschaften und Landabdeckungsfarbtöne sowie die Hauptklimazonen.
+Das Straßennetz und andere Vektor-Daten, die in Yahoo Maps verwendet werden, sind von den Firmen von Navteq, Tele Atlas und Public Domain. Detaillierte Straßennetz-Daten sind derzeit für die Vereinigten Staaten, Kanada, Puerto Rico, Virgin Islands und den meisten europäischen Ländern verfügbar. Ländergrenzen, Städte und Gewässer sind für den Rest der Welt abgebildet. Das Satellitenbild ist weltweit verfügbar.
+Yahoo Maps bietet Stadtpläne und Wegbeschreibungen für die Vereinigten Staaten und Kanada. Einer der folgenden Features sind zum Teil auch weltweit verfügbar:
+Adressbuch: Registrierte Benutzer bei Yahoo können ihre häufig verwendeten Adressen speichern.
+Live Straßenverkehr: Zwischenfall-Marker und aktuelle Autobahn-Bedingungen können auf der Karte angezeigt werden.
+Point of Interest Finder: SmartView (tm) kann verwendet werden, um Unternehmen und andere Sehenswürdigkeiten in der Nähe der aktuellen Position zu finden, mit anklickbaren Symbolen mit Adresse, Telefonnummer und Links für weitere Informationen.
+Wegbeschreibung: Eine Anfahrt kann auf der Karte oder in druckbarer Form gefunden werden. Links zu Wegbeschreibungen können per E-Mail verschickt werden.
+
+
+== Web Services ==
+Entwickler können Yahoo Maps mit Hilfe der Yahoo Maps Entwickler-APIs in ihre eigenen Web-Seiten einbette

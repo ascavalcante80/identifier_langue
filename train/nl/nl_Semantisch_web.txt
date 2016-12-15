@@ -1,0 +1,14 @@
+Het semantisch web verschaft een standaardframework waarmee data gedeeld en hergebruikt kunnen worden. Het is een samenwerking onder leiding van het internationale orgaan voor internetstandaarden, het World Wide Web Consortium (W3C).
+Het semantisch web is geen synoniem voor Web 2.0, zoals soms wel wordt verondersteld. Tim Berners-Lee beschreef het semantische web als een component van 'Web 3.0'. Soms wordt het gebruikt als synoniem voor Web 3.0, hoewel de definities verschillen.
+
+
+== Geschiedenis ==
+Het concept ontstond op voorstel van Tim Berners-Lee, één van de oprichters van het wereldwijde web. Semantisch wil zoveel zeggen als "de betekenis lerend". Het semantisch web zou je grofweg kunnen definiëren als een web van verbanden tussen informatie op het internet, waardoor nieuwe inzichten kunnen ontstaan.
+Het semantisch web bestaat in feite al: het is een doorontwikkeling van de techniek op internet. Door webpagina's met de nieuwe semantische technieken te bouwen, is er feitelijk sprake van een semantisch web. Een concreet voorbeeld van een toepassing van de semantische techniek is hoe data van Wikipedia door DBpedia wordt ontsloten voor direct gebruik en gekoppeld wordt met andere datasets als Linked data.
+
+
+== Componenten ==
+
+Betrokken componenten van het semantisch web zijn: XML, RDF, SPARQL, OWL, RDFS en Rule Interchange Format (RIF).
+Deze componenten behoren tot de zogenaamde Semantic Web Stack wat de architectuur van het Semantisch Web vormt. Zie figuur hiernaast voor onderlinge samenhang in Semantic Web Stack.
+Een andere ontwikkeling op terrein van S

@@ -1,0 +1,44 @@
+ape, Applen Safari on saavuttanut nykyään hallitsevan aseman. Safari pohjautuu Applen WebKit-ulkoasumoottoriin, joka perustuu avoimen lähdekoodin Konqueror-selaimen KHTML-ulkoasumoottoriin. Safari on OS X:n oletusselain.
+Vuonna 2003 Microsoft ilmoitti, että sen Internet Explorer -selainta ei enää julkaista erillisenä tuotteena, eikä sitä julkaistaisi enää Macintoshille, vaan se jatkaisi kehitystään Windows-alustan mukana. Kuitenkin 2005 Microsoft ilmoitti, että selaimen versio 7 julkaistaan uuden Windows Vistan lisäksi vanhemmille Windows XP- ja Windows Server 2003 -käyttöjärjestelmille.
+
+
+== Ominaisuuksia ==
+Eri selaimet eroavat toisistaan sen suhteen, mitä ominaisuuksia ne tukevat. Nykyajan WWW-selaimet ja -sivut hyödyntävät ominaisuuksia, joita ei ollut olemassa WWW:n alkuaikoina. Alla oleva lista luettelee joitakin merkittävimpiä ominaisuuksia:
+
+
+=== Standardituki ===
+HTTP ja HTTPS
+HTML, XML ja XHTML
+Kuvaformaatit mukaan lukien GIF, PNG, JPEG ja SVG
+CSS
+JavaScript
+Evästeet
+Digitaaliset varmenteet
+Sivustojen kuvakkeet
+RSS, Atom
+
+
+=== Perusominaisuudet ===
+Kirjanmerkkien ja sovelluskirjanmerkkien hallinta
+Sivujen välimuisti
+Tuki mediatyypeille lisäosien kautta
+
+
+=== Käytettävyysominaisuudet ===
+Osoitteiden ja lomakkeiden automaattinen täydennys
+Välilehdellinen selaaminen
+Ruudunlukija- tai äänisynteesituki
+
+
+== Suodatusominaisuudet ==
+Ponnahdusikkunoiden esto
+Tietojen kalastuksen esto
+
+
+== Katso myös ==
+
+Luettelo WWW-selaimista
+
+
+== Aiheesta muualla ==
+Tilastoja eri selainten käytöstä Internetissä

@@ -1,0 +1,40 @@
+XML (ang. Extensible Markup Language, w wolnym tłumaczeniu Rozszerzalny Język Znaczników) – uniwersalny język znaczników przeznaczony do reprezentowania różnych danych w strukturalizowany sposób.
+XML jest niezależny od platformy, co umożliwia łatwą wymianę dokumentów pomiędzy heterogenicznymi (różnymi) systemami i znacząco przyczyniło się do popularności tego języka w dobie Internetu. XML jest standardem rekomendowanym oraz specyfikowanym przez organizację W3C.
+
+
+== XML a SGML ==
+Koncepcja XML-a polega na znacznym uproszczeniu zawiłego SGML-a, co pozwoliło na budowę prostszych parserów (procesorów XML). XML jest podzbiorem standardu SGML eliminującym jego zbyt skomplikowany charakter tam, gdzie się tylko dało. Większość dokumentów XML jest także zgodna z SGML-em, ale nie na odwrót. Istnieją dokumenty XML, które nie są poprawnymi dokumentami SGML (lub też przetwarzane zgodnie z regułami SGML mogą zostać zinterpretowane wbrew intencji autora) – za sprawą sposobu zamykania pustych znaczników (jak np. <p/>, które w XML-u jest równoważne <p></p>), kolidującego ze skróconą notacją znaczników SGML znaną jako Null End Tag (np. <p/abc/, co w dokumentach SGML może być równoważne <p>abc</p> lub być niepoprawne, jeśli definicja dokumentu zabrania stosowania NET).
+Vide: <p/>abc/ w SGML-u odpowiada <p></p>abc/, podczas gdy w XML-u <p>abc</p>. Notabene cecha ta jest jednym z argumentów wysuwanych przeciwko tezie o kompatybilności opartego na XML-u języka XHTML z opartym na SGML-u językiem HTML.
+Istnieją również inne cechy różniące te dwa metajęzyki.
+
+
+== Poprawność dokumentu ==
+Mówimy o dokumencie, że jest poprawny składniowo (ang. well-formed), jeżeli jest zgodny z regułami składni XML. Reguły te obejmują m.in. konieczność domykania wszystkich znaczników. Dokument niepoprawny składniowo nie może być przetworzony przez parser XML.
+Mówimy o dokumencie, że jest poprawny strukturalnie (ang. valid), jeżeli jest zgodny z definicją dokumentu, tzn. dodatkowymi regułami określonymi przez użytkownika. Do precyzowania tych reguł służą specjalne języki. Najpopularniejszymi są DTD, XML Schema oraz RELAX NG.
+Poprawny składniowo (ang. well-formed) dokument XML powinien być tworzony zgodnie z kilkoma zasadami:
+powinien zawierać deklarację XML, która musi być umieszczona na samym początku pliku (nie może być poprzedzona np. komentarzem) oraz musi posiadać atrybut version (dopuszczalne wartości to 1.0 albo 1.1) oraz opcjonalnie atrybuty:
+encoding – deklaruje zestaw znaków używanych w dokumencie XML, wartością domyślną jest kodowanie UTF-8 w systemie Unicode.
+standalone – określa tryb dokumentu XML, może przyjmować wartość yes lub no. Jeśli ustawimy wartość na yes to będzie oznaczało, że dokument nie zawiera innych plików, które muszą zostać przetworzone wraz z dokumentem. Może to być np. zewnętrzny arkusz stylów lub definicja DTD;
+musi zawierać dokładnie jeden element główny (zwany root element), w naszym przypadku elementem głównym jest element o nazwie ksiazka-telefoniczna;
+każdy element musi zaczynać się znacznikiem początku elementu, np. <nazwisko>, oraz kończyć identycznym znacznikiem końca elementu np. </nazwisko>, wyjątek stanowią elementy puste (<element-pusty />), czyli takie, które nie zawierają żadnych danych, ani innych elementów, mogą zawierać atrybuty;
+nazwy elementów mogą zawierać znaki alfanumeryczne (litery a-z, A-Z oraz cyfry 0-9), znaki diakrytyczne (ą, ć, ę, ł, ń, ó, ś, ź, ż, jednak należy unikać takich konstrukcji[potrzebne źródło]) oraz 3 znaki interpunkcyjne: podkreślenie ( _ ), łącznik ( - ), kropkę ( . ). Znak dwukropka zarezerwowany jest dla identyfikacji przestrzeni nazw, której nazwa dopisywana jest przed nazwą elementu np. <przestrzeń1:element>,
+nazwy elementów nie mogą zaczynać się od znaku łącznika ( - ), kropki, czy cyfry. Dodatkowo nie mogą zaczynać się od xml, XML, xML itp. (wielkość liter bez znaczenia).
+elementy można zagnieżdżać w sobie i wtedy każdy element znajdujący się wewnątrz innego elementu jest nazywany „dzieckiem” tego elementu, a element, wewnątrz którego znajdują się inne elementy, zwany jest „rodzicem” tych elementów. W naszym przypadku element <newsy> jest rodzicem elementu <news>, element <news> jest dzieckiem elementu <newsy>, a zarazem rodzicem elementów , <autor>, <e-mail>, <tresc>. Nie można stosować konstrukcji takiego typu: <news><tresc></news></tresc>, ponieważ element <tresc> nie jest prawidłowo zagnieżdżony w elemencie <news>;
+każdy element może zawierać atrybuty, które definiuje się w znaczniku początku elementu, np. atrybutem elementu <news potw="yes"> jest atrybut o nazwie potw oraz wartości yes. Wartości atrybutów podaje się w cudzysłowach albo apostrofach (pojedynczych cudzysłowach).
+informacje, które zawiera element, muszą być zapisane pomiędzy znacznikiem początku i końca elementu;
+w danych, atrybutach oraz nazwach elementów nie mogą pojawiać się niektóre znaki. Przykładem może być znak mniejszości (<), lub ampersand (&). Znaków tych nie można używać, ponieważ parsery XML „widząc” np. znak mniejszości wewnątrz elementu stwierdzą, że jest to początek znacznika i dokument zostanie błędnie zinterpretowany. Specyfikacja XML daje możliwość używania takich znaków z wykorzystaniem predefiniowanych odniesień jednostki. Jeśli więc chcemy wstawić znak mniejszości (<), wpisujemy zamiast niego sekwencję &lt; (ang. less than), natomiast gdy chcemy wprowadzić znak ampersand (&), wpisujemy – &amp;;
+jeżeli nie chcemy używać predefiniowanych odniesień jednostek, możemy część danych, które zawierają np. kod html lub xml, zapisać w sekcji danych znakowych, która nie będzie przetwarzana przez analizator składni XML. Znacznik początku sekcji danych znakowych to: <![CDATA[, a znacznik końca: ]]>.
+w dokumencie XML możemy wykorzystywać komentarze, które zaczynają się znakami: <!--,, a kończą: -->. Przykład: <!-- To jest komentarz -->,
+specyfikacja XML zezwala na wstawianie instrukcji przetwarzania, które są wykorzystywane do przeniesienia informacji do aplikacji. Instrukcje przetwarzania rozpoczynają się znakami: <?, a kończą: ?>. Przykładem takiej instrukcji może być odniesienie do arkusza stylów, który jest powiązany z dokumentem XML: <?xml-stylesheet type="text/xsl" href="newsy.xsl"?>.
+
+
+== XML wersja 1.1 ==
+Równocześnie z czwartą odsłoną wersji 1.0, W3C opublikowało drugą odsłonę wersji 1.1. Wprowadza ona zmiany w zestawie dopuszczanych znaków, co ma związek z modyfikacjami standardu Unicode przeprowadzanymi już po publikacji wersji 1.0.
+Korzyści ze zmian wprowadzonych w nowej wersji są zazwyczaj znikome w porównaniu ze stratą, jaką jest brak zgodności z wersją 1.0. Samo W3C nie traktuje tej wersji jako następcy dla 1.0, raczej jako jego odmianę do bardzo specyficznych zastosowań[potrzebne źródło]. Wciąż zalecane jest korzystanie z wersji 1.0 wszędzie, gdzie to możliwe.
+Obie wersje wciąż są wspierane i rozwijane przez W3C, a kolejne ich edycje, jak dotąd, pojawiają się w tym samym czasie.
+
+
+== Przykładowy dokument XML ==
+
+Dokument rozpoczyna się instrukcją sterującą, która zawiera informacje o wersji standardu XML, z jakim jest zgodny, oraz o sposobie kodowania znaków. Wszystkie te informacje są opcjonalne, można pomijać dowolne z nich, a nawet całą instrukcję sterującą. W razie braku którejś z danych przyjmuje się wartość domyślną, jakimi są właśnie wersja 1.0 oraz standard kodowania UTF-8.
+Korzeni

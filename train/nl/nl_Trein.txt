@@ -1,0 +1,59 @@
+Een trein is een samenstel van (meestal railgebonden) voertuigen, bestaande uit een of meer wagens.
+Eigenlijk is elke reeks wagens een trein, maar meestal denkt men bij een trein aan de spoorwegen. In toeristische gebieden rijdt vaak een trein, bestaande uit een reeks wagentjes achter een trekker die er vaak uitziet als een locomotief. Zo'n toeristisch voertuig rijdt niet op rails, maar wordt wel 'trein' genoemd. Hetzelfde geldt voor de road train - een vrachtauto met een groot aantal aanhangwagens. Een losse locomotief is eigenlijk geen trein maar wordt, als hij onderweg is, wel zo genoemd.
+Hieronder wordt de trein van de spoorwegen beschreven.
+
+
+== Omschrijving ==
+Een verzameling gekoppelde krachtvoertuigen, rijtuigen en/of wagens wordt door spoorspecialisten alleen een trein genoemd als deze met een geplande tijd-plaatscombinatie (een "pad") onderweg is. Anderen zullen een stilstaande trein ook gewoon trein noemen.
+Met deze treinen vindt spoorvervoer plaats, in Nederland onder meer verzorgd door de Nederlandse Spoorwegen, Veolia, Connexxion, Syntus, Arriva en DB Schenker Rail, in België door de Nationale Maatschappij der Belgische Spoorwegen.
+Een getrokken trein is een operationele combinatie van een of meer rijtuigen zonder voortbewegingsinstallatie in combinatie met een locomotief (of andere krachtbron met cabine). Een bijzondere vorm is de trek-duwtrein: een min of meer vaste eenheid van locomotief en rijtuigen, waarvan het laatste een stuurstand heeft vanwaar de locomotief met een door de trein lopende kabelverbinding op afstand bestuurd kan worden.
+Krachtvoertuigen beschikken over een eigen voortbewegingsinstallatie. Een locomotief wordt daarom als krachtvoertuig beschouwd.
+Een treinstel is een vaste eenheid, die bestaat uit een aantal rijtuigen met een stuurstand aan beide uiteinden. Door de permanente samenstelling en de aanwezigheid van een eigen aandrijving is een treinstel eveneens één krachtvoertuig.
+Ook een enkele (rijdende) locomotief wordt wel als trein aangeduid.
+
+
+== Indeling ==
+
+Railvoertuigen kunnen bijvoorbeeld worden onderverdeeld naar hun vorm en doel, of naar de krachtbron.
+Naar vorm ingedeeld, herkent men de volgende eenheden:
+locomotief (krachtvoertuig niet bedoeld voor accommodatie van reizigers)
+treinstel (krachtvoertuig als vaste combinatie, bestaande uit meerdere rijtuigen bedoeld voor vervoer van reizigers, bagage etc.)
+motorrijtuig (krachtvoertuig bedoeld voor vervoer van reizigers, bagage etc.)
+rijtuig (niet aangedreven eenheid bedoeld voor vervoer van reizigers, bagage etc.)
+wagen (goederenvervoer)
+
+Naar krachtbron of transmissie ingedeeld:
+elektrisch
+diesel
+stoom
+gasturbine
+
+
+== Asindeling ==
+Om aan te geven hoe de aandrijving van een krachtvoertuig over de wielassen is verdeeld, wordt de UIC-notatie gebruikt. Een combinatie van in een (draaistel)frame ondergebrachte aangedreven wielassen wordt aangegeven met een hoofdletter (A voor 1 aangedreven as, B voor 2 aangedreven assen etc.). Zijn deze assen afzonderlijk aangedreven, dan wordt de hoofdletter met een "o" aangevuld. Niet aangedreven wielassen worden aangegeven met een cijfer. Zijn de wielassen in een draaistel ondergebracht, dan wordt een apostrof toegevoegd. Met een + wordt aangeduid dat het krachtvoertuig uit meer dan een deel bestaat.
+Een NS 1800 heeft bijvoorbeeld asindeling B' B'. De loc heeft twee tweeassige draaistellen, elk met één tractiemotor die beide wielassen aandrijft. Een NS 1000 had asindeling (1A)' Bo (A1)'. De loc had aan de koppen draaistellen met elk een loopas en een aangedreven as en twee in het locframe gelagerde aangedreven assen met onafhankelijke aandrijving.
+Een NS Plan V, heeft asindeling 2' Bo' + Bo' 2'. Het treinstel heeft dus vier tweeassige draaistellen. De buitenste twee zijn loopdraaistellen (dat wil zeggen niet aangedreven), de binnenste twee motordraaistellen met afzonderlijk aangedreven assen. Een NMBS klassiek motorstel heeft asindeling A1' 1A' + A1' 1A'. Het treinstel is samengesteld uit twee rijtuigen, met elk twee draaistellen. Elk draaistel is voorzien van een motor die telkens de buitenste as aandrijft.
+
+
+== Bak- en wagenindeling ==
+Om aan te geven om wat voor een type rijtuig of goederenwagen het gaat, worden speciale codes gebruikt. Deze codes zijn vaak te zien op de zijkant van een rijtuig of goederenwagen. Bij goederenwagens wordt een internationaal codeschema gebruikt. Bij rijtuigen verschillen de betekenissen van de codes sterk per land. Zie verder goederenwagen en voor personentreinen bak.
+
+
+== Remsysteem ==
+
+Bij treinen wordt de rem pneumatisch (door luchtdruk) bediend (zie westinghouserem). Door de gehele trein loopt de treinleiding van de doorgaande zelfwerkende luchtdrukrem. In elke trein is één remkraan in dienst. Deze remkraan houdt de luchtdruk in de treinleiding op 5 bar (overdruk). De remmen van de trein zijn dan gelost. Met behulp van deze kraan kan de machinist de luchtdruk in de treinleiding verlagen, met als gevolg dat de remmen aanslaan. De remkracht is min of meer evenredig met de drukverlaging. Bij 3,5 bar treinleidingdruk is de maximale remkracht bereikt.
+Bij breuk in de treinleiding (bij breken van een koppeling van de trein), een noodremming door reizigers of een ingreep van het treinbeïnvloedingssysteem wordt de treinleiding ontlucht, waardoor de complete trein remt.
+Bij treinen worden verschillende soorten remmen gebruikt:
+Blokkenrem: Een remblok drukt direct op het loopvlak van het wiel. Remblokken zijn gemaakt van verrijkt gietijzer, gesinterd metaal of kunststof. De blokkenrem zorgt dat de wielen van de trein ruw worden, waardoor de trein aanzienlijk meer geluid produceert dan een trein met schijfremmen. Voordeel van deze ruwheid is dat het wiel niet snel blokkeert en dus minder last heeft van vlakke plaatsen in de herfstperiode. Ook is het elektrisch contact (detectie) tussen wiel en spoorstaaf aanzienlijk beter dan bij materieel met schijfremmen.
+Schijfrem: Er zijn aparte remschijven op de wielassen gemonteerd, die tijdens het remmen tussen remblokken worden geklemd. Deze remmethode heeft als nadeel dat de wielen eerder glijden op gladde rails. De remblokken zijn echter lichter en gemakkelijker te vervangen. De remwerking bij hoge snelheden is beter dan bij de blokkenrem.
+Elektrodynamische rem: De elektrodynamische rem (ED-rem) zet de kinetische energie om in elektrische energie. De ED-rem werkt alleen voldoende bij hoge snelheden. Bij lage snelheden nemen blokkenremmen of schijfremmen het werk over. De opgewekte elektrische energie wordt in remweerstanden omgezet in warmte of teruggevoerd naar de bovenleiding (recuperatie). Bij treinen die op gelijkspanning rijden zoals in Nederland en België is de energiebesparing beperkt: de gelijkrichter in het onderstation kan de opgewekte gelijkspanning niet omzetten in een wisselspanning die kan worden teruggeleverd aan het net. De opgewekte energie moet dus gebruikt worden door een (andere) trein in de betreffende bovenleidingsectie, bijvoorbeeld voor treinverwarming. Zijn er geen verbruikers aanwezig, dan wordt de remenergie in remweerstanden omgezet in warmte. Het voordeel van deze rem is de afwezigheid van slijtage. Nadeel is de gecompliceerde elektrische tractieschakeling en het moeten onderbrengen van remweerstanden. De rem werkt alleen op aangedreven assen.
+Hydrodynamische rem: De hydraulische transmissie zet kinetische energie om in warmte. Werkt alleen op aangedreven assen.
+Magneetrem: Hierbij wordt een magneet op de spoorstaaf neergelaten. De aantrekkingskracht van de magneet veroorzaakt wrijving op de spoorstaaf, waardoor de trein afremt. Magneetremmen worden bij snelremmingen gebruikt omdat de slijtage aan materieel en spoor anders groot is. De magneetrem kan ook gebruikt worden als parkeerrem. Er worden zowel elektromagneetremmen als permanente-magneetremmen toegepast.
+De volgende remmen onderscheiden zich in de bediening of besturing:
+Handrem: Met een handwiel of kruk worden remmen van het voertuig vastgezet en gelost. Voor algemene invoering van de luchtdrukrem werden treinen handmatig geremd. Met de fluit van de locomotief gaf de machinist aan de remmers, die op elke beremde wagen aanwezig waren, opdracht om de remmen te lossen of vast te zetten. Tegenwoordig wordt deze rem vrijwel alleen als parkeerrem gebruikt.
+Directe luchtdrukrem: Deze rem, aangebracht op locomotieven, wordt meestal aangeduid als rangeerrem. Alleen de locomotief wordt geremd. De rem is sneller in remmen en lossen dan de zelfwerkende doorgaande luchtdrukrem.
+Zelfwerkende doorgaande luchtdrukrem: De rem wordt vanuit de machinistencabine pneumatisch op afstand bediend. Een remstuurklep (tripleklep) in elk voertuig zet een daling van de treinleidingdruk om in een stijging van de remcilinderdruk. Deze rem is wettelijk verplicht voor treinen.
+Elektropneumatische rem: De rem wordt vanuit de machinistencabine elektrisch op afstand bediend. Vanwege de wettelijk verplichte aanwezigheid van de luchtdrukrem is de ep-rem niet fail-safe. In Nederland worden de analoge ep-rem (sinds 1961) en de binaire driebits-ep-rem (sinds 1975) toegepast. Voordelen ten opzichte van de pneumatische rem zijn de korte rem- en lostijden en het gelijktijdig aanslaan en lossen van de remmen in de gehele trein.
+Hogedrukrem: Omdat de remwerking van de "normale" blokkenrem bij hoge snelheden ontoereikend is, is materieel voor inzet boven 100 km/h vaak uitgerust met een HD-rem: boven een bepaalde snelheid worden extra remcilinders ingeschakeld of de maximale remcilinderdruk verhoogd.
+Parkeerrem: Deze rem houdt opgesteld materieel op zijn plaats. Bij "Federspeicher"-remmen houdt een veer de remmen vast. Een permanente-magneetrem houdt zichzelf op het spoor vast. Een handbediende schroefrem houdt de remmen vast door wrijving in de overbrenging of door een arretering. Een hydraulische parkeerrem door vloeistofdruk. De handrem wordt vaak als parkeerrem gebruikt.
+Noodrem: De bediening van de noodrem opent direct of indirect een klep in de treinleiding van de luchtdrukrem. Een trein kan uitgerust zijn met noodremoverbrugging die het voor 

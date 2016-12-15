@@ -1,0 +1,63 @@
+ry, physical, speech related, cognitive, neurological, or some combination. Accessibility features also help people with temporary disabilities, like a broken arm, or aging users as their abilities change. The Web receives information as well as providing information and interacting with society. The World Wide Web Consortium claims it essential that the Web be accessible, so it can provide equal access and equal opportunity to people with disabilities. Tim Berners-Lee once noted, "The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect." Many countries regulate web accessibility as a requirement for websites. International cooperation in the W3C Web Accessibility Initiative led to simple guidelines that web content authors as well as software developers can use to make the Web accessible to persons who may or may not be using assistive technology.
+
+
+== Internationalization ==
+The W3C Internationalization Activity assures that web technology works in all languages, scripts, and cultures. Beginning in 2004 or 2005, Unicode gained ground and eventually in December 2007 surpassed both ASCII and Western European as the Web's most frequently used character encoding. Originally RFC 3986 allowed resources to be identified by URI in a subset of US-ASCII. RFC 3987 allows more characters—any character in the Universal Character Set—and now a resource can be identified by IRI in any language.
+
+
+== Statistics ==
+Between 2005 and 2010, the number of web users doubled, and was expected to surpass two billion in 2010. Early studies in 1998 and 1999 estimating the size of the Web using capture/recapture methods showed that much of the web was not indexed by search engines and the Web was much larger than expected. According to a 2001 study, there was a massive number, over 550 billion, of documents on the Web, mostly in the invisible Web, or Deep Web. A 2002 survey of 2,024 million web pages determined that by far the most web content was in the English language: 56.4%; next were pages in German (7.7%), French (5.6%), and Japanese (4.9%). A more recent study, which used web searches in 75 different languages to sample the Web, determined that there were over 11.5 billion web pages in the publicly indexable web as of the end of January 2005. As of March 2009, the indexable web contains at least 25.21 billion pages. On 25 July 2008, Google software engineers Jesse Alpert and Nissan Hajaj announced that Google Search had discovered one trillion unique URLs. As of May 2009, over 109.5 million domains operated. Of these, 74% were commercial or other domains operating in the generic top-level domain com.
+Statistics measuring a website's popularity are usually based either on the number of page views or on associated server 'hits' (file requests) that it receives.
+
+
+== Speed issues ==
+Frustration over congestion issues in the Internet infrastructure and the high latency that results in slow browsing has led to a pejorative name for the World Wide Web: the World Wide Wait. Speeding up the Internet is an ongoing discussion over the use of peering and QoS technologies. Other solutions to reduce the congestion can be found at W3C. Guidelines for web response times are:
+0.1 second (one tenth of a second). Ideal response time. The user does not sense any interruption.
+1 second. Highest acceptable response time. Download times above 1 second interrupt the user experience.
+10 seconds. Unacceptable response time. The user experience is interrupted and the user is likely to leave the site or system.
+
+
+== Web caching ==
+A web cache is a server computer located either on the public Internet, or within an enterprise that stores recently accessed web pages to improve response time for users when the same content is requested within a certain time after the original request.
+Most web browsers also implement a browser cache for recently obtained data, usually on the local disk drive. HTTP requests by a browser may ask only for data that has changed since the last access. Web pages and resources may contain expiration information to control caching to secure sensitive data, such as in online banking, or to facilitate frequently updated sites, such as news media. Even sites with highly dynamic content may permit basic resources to be refreshed only occasionally. Web site designers find it worthwhile to collate resources such as CSS data and JavaScript into a few site-wide files so that they can be cached efficiently.
+Enterprise firewalls often cache Web resources requested by one user for the benefit of many. Some search engines store cached content of frequently accessed websites.
+
+
+== See also ==
+
+Electronic publishing
+Internet metaphors
+Internet security
+Lists of websites
+Prestel
+Streaming media
+Web 1.0
+Web development tools
+Webgraph
+Web literacy
+
+
+== Further reading ==
+Berners-Lee, Tim; Bray, Tim; Connolly, Dan; Cotton, Paul; Fielding, Roy; Jeckle, Mario; Lilley, Chris; Mendelsohn, Noah; Orchard, David; Walsh, Norman; Williams, Stuart (15 December 2004). "Architecture of the World Wide Web, Volume One". Version 20041215. W3C. 
+Berners-Lee, Tim (August 1996). "The World Wide Web: Past, Present and Future". 
+Fielding, R.; Gettys, J.; Mogul, J.; Frystyk, H.; Masinter, L.; Leach, P.; Berners-Lee, T. (June 1999). "Hypertext Transfer Protocol – HTTP/1.1". Request For Comments 2616. Information Sciences Institute. 
+Niels Brügger, ed. Web History (2010) 362 pages; Historical perspective on the World Wide Web, including issues of culture, content, and preservation.
+Polo, Luciano (2003). "World Wide Web Technology Architecture: A Conceptual Analysis". New Devices.  
+Skau, H.O. (March 1990). "The World Wide Web and Health Information". New Devices.  
+
+
+== External links ==
+The first website
+Early archive of the first Web site
+Internet Statistics: Growth and Usage of the Web and the Internet
+Living Internet A comprehensive history of the Internet, including the World Wide Web
+Web Design and Development at DMOZ
+World Wide Web Consortium (W3C)
+W3C Recommendations Reduce "World Wide Wait"
+World Wide Web Size Daily estimated size of the World Wide Web
+Antonio A. Casilli, Some Elements for a Sociology of Online Interactions
+The Erdős Webgraph Server offers weekly updated graph representation of a constantly increasing fraction of the WWW
+The 25th Anniversary of the World Wide Web is an animated video produced by USAID and TechChange which explores the role of the WWW in addressing extreme poverty
+
+
+== References ==

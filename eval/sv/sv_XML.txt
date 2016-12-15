@@ -1,0 +1,47 @@
+sig av. Några av dessa språk är:
+Canonical XML
+CCXML: Voice Browser Call Control
+ebXML: Electronic Business using XML
+ESB: Enterprise Service Bus
+FOAF+DOAC
+MIL Moblet Instruction Language
+RDF: Resource Description Framework
+RSS: Rich Site Summary/Really Simple Syndication
+SRGS: Speech Recognition Grammar Specification
+SSML: Speech Synthesis Markup Language
+SyncML
+UDDI: Universal Description, Discovery, and Integration
+VoiceXML
+WML: Wireless Markup Language
+WSDL: Web Service Definition language
+XBRL: eXtensible Business Reporting Language
+XForms
+XHTML: Extensible HyperText Markup Language
+XInclude: XML Inclusions
+XLink
+XMI: XML Metadata Interchange
+XML Schema Languages
+DTD: Document Type Definition
+XML Schema, XSD: XML Schema (W3C)
+RELAX NG
+SOX: Schema för objektorienterad XML
+
+XOP: XML-binary Optimized Packaging
+XPath
+XPointer
+XQuery: XML Query Language
+XSL: eXtensible Stylesheet Language
+XSLT: XSL Transformation
+XUL: XML User interface Language
+
+
+== Se även ==
+HTML: HyperText Markup Language
+Web Services
+W3C: World Wide Web Consortium
+Svenska W3C
+OIOXML
+
+
+== Externa länkar ==
+World Wide Web Consortium

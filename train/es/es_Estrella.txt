@@ -1,0 +1,120 @@
+Una estrella (del latín stella) es todo objeto astronómico que brilla con luz propia. Más precisamente, se trata de una esfera de plasma que mantiene su forma gracias a un equilibrio hidrostático de fuerzas.
+El equilibrio se produce esencialmente entre la fuerza de gravedad, que empuja la materia hacia el centro de la estrella, y la presión que ejerce el plasma hacia fuera, que, tal como sucede en un gas, tiende a expandirlo. La presión hacia fuera depende de la temperatura, que en un caso típico como el del Sol se mantiene con la energía producida en el interior de la estrella.
+Este equilibrio seguirá esencialmente igual en la medida de que la estrella mantenga el mismo ritmo de producción energética. Sin embargo, como se explica más adelante, este ritmo cambia a lo largo del tiempo, generando variaciones en las propiedades físicas globales del astro que constituyen parte de su evolución.
+
+
+== GeneralidadesEditar ==
+Estas esferas de gas emiten tres formas de energía hacia el espacio, la radiación electromagnética, los neutrinos y el viento estelar y esto es lo que nos permite observar la apariencia de las estrellas en el cielo nocturno como puntos luminosos y, en la gran mayoría de los casos, titilantes.
+Debido a la gran distancia que suelen recorrer, las radiaciones de las propias estrellas llegan débiles a nuestro planeta, siendo susceptibles, en la gran mayoría de los casos, a las distorsiones ópticas producidas por la turbulencia y las diferencias de densidad de la atmósfera terrestre (seeing). El Sol, al estar tan cerca, no se observa como un punto, sino como un disco luminoso cuya presencia o ausencia en el cielo terrestre provoca el día o la noche, respectivamente.
+
+
+=== DescripciónEditar ===
+Son objetos de masas enormes comprendidas entre 0,08 y 120-200 masas solares (Msol). Los objetos de masa inferior se llaman enanas marrones mientras que las estrellas de masa superior parecen no existir debido al límite de Eddington. Su luminosidad también tiene un rango muy amplio que abarca entre una diezmilésima parte y tres millones de veces la luminosidad del Sol. El radio, la temperatura y la luminosidad de una estrella se pueden relacionar mediante su aproximación a cuerpo negro con la siguiente ecuación:
+
+donde L es la luminosidad,  la constante de Stefan-Boltzmann, R el radio y Te la temperatura efectiva.
+
+
+=== Ciclo de vidaEditar ===
+Mientras las interacciones se producen en el núcleo, estas sostienen el equilibrio hidrostático del cuerpo y la estrella mantiene su apariencia iridiscente predicha por Niels Bohr en la teoría de las órbitas cuantificadas. Cuando parte de esas interacciones (la parte de la fusión de materia) se prolonga en el tiempo, los átomos de sus partes más externas comienzan a fusionarse. Esta región externa, al no estar comprimida al mismo nivel que el núcleo, aumenta su diámetro. Llegado cierto momento, dicho proceso se paraliza, para contraerse nuevamente hasta el estado en el que los procesos de fusión más externos vuelven a comenzar y nuevamente se produce un aumento del diámetro. Estas interacciones producen índices de iridiscencia mucho menores, por lo que la apariencia suele ser rojiza. En esta etapa el cuerpo entra en la fase de colapso, en la cual las fuerzas en pugna —la gravedad y las interacciones de fusión de las capas externas— producen una constante variación del diámetro, en la que acaban venciendo las fuerzas gravitatorias cuando las capas más externas no tienen ya elementos que fusionar.
+Se puede decir que dicho proceso de colapso termina en el momento en que la estrella no produce fusiones de material, y dependiendo de su masa total, la fusión entrará en un proceso degenerativo al colapsar por vencer a las fuerzas descritas en el principio de exclusión de Pauli, produciéndose una supernova.
+
+
+== Formación y evolución de las estrellasEditar ==
+
+Las estrellas se forman en las regiones más densas de las nubes moleculares como consecuencia de las inestabilidades gravitatorias causadas, principalmente, por supernovas o colisiones galácticas. El proceso se acelera una vez que estas nubes de hidrógeno molecular (H2) empiezan a caer sobre sí mismas, alimentado por la cada vez más intensa atracción gravitatoria. Su densidad aumenta progresivamente, siendo más rápido el proceso en el centro que en la periferia. No tarda mucho en formarse un núcleo en contracción muy caliente llamado protoestrella. El colapso en este núcleo es, finalmente, detenido cuando comienzan las reacciones nucleares que elevan la presión y temperatura de la protoestrella. Una vez estabilizada la fusión del hidrógeno, se considera que la estrella está en la llamada secuencia principal, fase que ocupa aproximadamente un 90 % de su vida. Cuando se agota el hidrógeno del núcleo de la estrella, su evolución dependerá de la masa (detalles en evolución estelar) y puede convertirse en una enana blanca o explotar como supernova, dejando también un remanente estelar que puede ser una estrella de neutrones o un agujero negro. Así pues, la vida de una estrella se caracteriza por largas fases de estabilidad regidas por la escala de tiempo nuclear separadas por breves etapas de transición dominadas por la escala de tiempo dinámico (véase Escalas de tiempo estelar).
+Muchas estrellas, el Sol entre ellas, tienen aproximadamente simetría esférica por tener velocidades de rotación bajas. Otras estrellas, sin embargo, giran a gran velocidad y su radio ecuatorial es significativamente mayor que su radio polar. Una velocidad de rotación alta también genera diferencias de temperatura superficial entre el ecuador y los polos. Como ejemplo, la velocidad de rotación en el ecuador de Vega es de 275 km/s, lo que hace que los polos estén a una temperatura de 10 150 K y el ecuador a una temperatura de 7 900 K.
+La mayoría de las estrellas pierden masa a una velocidad muy baja. En el Sistema Solar unos 1020 gramos de materia estelar son expulsados por el viento solar cada año. Sin embargo, en las últimas fases de sus vidas, las estrellas pierden masa de forma mucho más intensa y pueden acabar con una masa final muy inferior a la original. Para las estrellas más masivas este efecto es importante desde el principio. Así, una estrella con 120 masas solares iniciales y metalicidad igual a la del Sol acabará expulsando en forma de viento estelar más del 90% de su masa para acabar su vida con menos de 10 masas solares. Finalmente, al morir la estrella se produce en la mayoría de los casos una nebulosa planetaria, una supernova o una hipernova por la cual se expulsa aún más materia al espacio interestelar. La materia expulsada incluye elementos pesados producidos en la estrella que más tarde formarán nuevas estrellas y planetas, aumentando así la metalicidad del Universo.
+
+
+== Agrupaciones y distribución estelarEditar ==
+
+
+=== Estrellas ligadasEditar ===
+Las estrellas pueden estar ligadas gravitacionalmente unas con otras formando sistemas estelares binarios, ternarios o agrupaciones aún mayores. Una fracción alta de las estrellas del disco de la Vía Láctea pertenecen a sistemas binarios; el porcentaje es cercano al 90% para estrellas masivas y desciende hasta el 50% para estrellas de masa baja. Otras veces, las estrellas se agrupan en grandes concentraciones que van desde las decenas hasta los centenares de miles o incluso millones de estrellas, formando los denominados cúmulos estelares. Estos cúmulos pueden deberse a variaciones en el campo gravitacional galáctico o bien pueden ser fruto de brotes de formación estelar (se sabe que la mayoría de las estrellas se forman en grupos). Tradicionalmente, en la Vía Láctea se distinguían dos tipos: (1) los cúmulos globulares, que son viejos, se encuentran en el halo y contienen de centenares de miles a millones de estrellas y (2) los cúmulos abiertos, que son de formación reciente, se encuentran en el disco y contienen un número menor de estrellas. Desde finales del siglo XX esa clasificación se ha cuestionado al descubrirse en el disco de la Vía Láctea cúmulos estelares jóvenes como Westerlund 1 o NGC 3603 con un número de estrellas similar al de un cúmulo globular. Esos cúmulos masivos y jóvenes se encuentran también en otras galaxias; algunos ejemplos son 30 Doradus en la Gran Nube de Magallanes y NGC 4214-I-A en NGC 4214.
+
+
+=== Estrellas aisladasEditar ===
+No todas las estrellas mantienen lazos gravitatorios estables; algunas, igual que el Sol, viajan solitarias, separándose mucho de la agrupación estelar en la que se formaron. Estas estrellas aisladas obedecen, tan solo, al campo gravitatorio global constituido por la superposición de los campos del total de objetos de la galaxia: agujeros negros, estrellas, objetos compactos y gas interestelar.
+
+
+=== Distribución estelarEditar ===
+Las estrellas no están distribuidas uniformemente en el Universo, a pesar de lo que pueda parecer a simple vista, sino agrupadas en galaxias. Una galaxia espiral típica (como la Vía Láctea) contiene cientos de miles de millones de estrellas agrupadas, la mayoría, en el estrecho plano galáctico. El cielo nocturno terrestre aparece homogéneo a simple vista porque solo es posible observar una región muy localizada del plano galáctico. Extrapolando de lo observado en la vecindad del Sistema Solar, se puede decir que la mayor parte de estrellas se concentran en el disco galáctico y dentro de este en una región central, el bulbo galáctico, que se sitúa en la constelación de Sagitario.
+
+
+=== La navegación espacial y el posicionamiento estelarEditar ===
+A pesar de las enormes distancias que separan las estrellas, desde la perspectiva terrestre sus posiciones relativas parecen fijas en el firmamento. Gracias a la precisión de sus posiciones, «son de gran utilidad para la navegación, para la orientación de los astronautas en las naves espaciales y para identificar otros astros» (The American Encyclopedia). Fueron la única forma que tuvieron los marinos para situarse en alta mar hasta el advenimiento de los sistemas electrónicos de posicionamiento hacia mediados del siglo XX. Véase Estrella (náutica).
+
+
+== Estructura estelarEditar ==
+
+Una estrella típica se divide en núcleo, manto y atmósfera. En el núcleo es donde se producen las reacciones nucleares que generan su energía. El manto transporta dicha energía hacia la superficie y según cómo la transporte, por convección o por radiación, se dividirá en dos zonas: radiante y convectiva. Finalmente, la atmósfera es la parte más superficial de las estrellas y la única que es visible. Se divide en cromósfera, fotósfera y corona solar. La atmósfera estelar es la zona más fría de las estrellas y en ellas se producen los fenómenos de eyección de materia. Pero en la corona, supone una excepción a lo dicho ya que la temperatura vuelve a aumentar hasta llegar al millón de grados por lo menos. Pero es una temperatura engañosa. En realidad esta capa es muy poco densa y está formada por partículas ionizadas altamente aceleradas por el campo magnético de la estrella. Sus grandes velocidades les confieren a esas partículas altas temperaturas.
+A lo largo de su ciclo las estrellas experimentan cambios en el tamaño de las capas e incluso en el orden en que se disponen. En algunas la zona radiante se situará antes que la convectiva y en otras al revés, dependiendo tanto de la masa como de la fase de fusión en que se encuentre. Así mismo, el núcleo también puede modificar sus características y su tamaño a lo largo de la evolución de la estrella.
+La edad de la mayoría de las estrellas oscila entre 1000 y 10 000 millones de años; aunque algunas estrellas pueden ser incluso más viejas. La estrella observada más antigua, HE 1523-0901, tiene una edad estimada de 13 200 millones de años, muy cercana a la edad estimada para el Universo, de unos 13 700 millones de años.
+
+
+== Generación de energía en las estrellasEditar ==
+A principios del siglo XX la ciencia se preguntaba cuál era la fuente de la increíble energía que alimentaba las estrellas. Ninguna de las soluciones conocidas en la época resultaba viable. Ninguna reacción química alcanzaba el rendimiento necesario para mantener la luminosidad que despedía el Sol. Asimismo, la contracción gravitatoria, si bien resultaba una fuente energética más, no podía explicar el aporte de calor a lo largo de miles de millones de años. Sir Arthur Eddington fue el primero en sugerir en la década de 1920 que el aporte de energía procedía de reacciones nucleares. Existen dos tipos de reacciones nucleares, las de fisión y las de fusión. Las reacciones de fisión no pueden mantener la luminosidad de una estrella debido a su relativamente bajo rendimiento energético y, sobre todo, a que requieren elementos más pesados que el hierro, los cuales son poco abundantes en el Universo. El primer mecanismo detallado de reacciones nucleares de fusión capaces de mantener la estructura interna de una estrella fue descubierto por Hans Bethe en 1938, es válido para estrellas de masa intermedia o elevada y lleva el nombre de su descubridor (ciclo de Bethe o ciclo CNO).
+Aún así, resultó que las temperaturas que se alcanzan en los núcleos de las estrellas son demasiado bajas como para fusionar los iones. Ocurre que el efecto túnel permite que dos partículas con energías insuficientes para traspasar la barrera de potencial que las separa tengan una probabilidad de saltar esa barrera y poderse unir. Al haber tantas colisiones, estadísticamente se dan suficientes reacciones de fusión como para que se sostenga la estrella pero no tantas reacciones como para hacerla estallar. Existe un óptimo de energía para el cual se dan la mayoría de reacciones que resulta del cruce de la probabilidad de que dos partículas tengan una energía determinada E a una temperatura T y de la probabilidad de que esas partículas se salten la barrera por efecto túnel. Es el llamado pico de Gamow.
+Una gran variedad de reacciones diferentes de fusión tienen lugar dentro de los núcleos de las estrellas, las cuales dependen de la masa y la composición.
+Normalmente las estrellas inician su combustión nuclear con alrededor de un 75 % de hidrógeno y un 25 % de helio junto con pequeñas trazas de otros elementos. En el núcleo del Sol con unos 107 K el hidrógeno se fusiona para formar helio mediante la cadena protón-protón:
+4¹H → 2²H + 2e+ + 2νe (4.0 MeV + 1.0 MeV)
+2¹H + 2²H → 2³He + 2γ (5.5 MeV)
+2³He → 4He + 2¹H (12.9 MeV)
+Estas reacciones quedan reducidas en la reacción global:
+4¹H → 4He + 2e+ + 2γ + 2νe (26.7 MeV)
+En estrellas más masivas el helio se produce en un ciclo de reacciones catalizadas por el carbono, es el ciclo CNO o ciclo de Bethe.
+En las estrellas cuyos núcleos se encuentran a 108 K y cuyas masas van desde las 0.5 a las 10 masas solares el helio resultante de las primeras reacciones puede transformarse en carbono a través del proceso triple-alfa:
+4He + 4He + 92 keV → 8*Be
+4He + 8*Be + 67 keV → 12*C
+12*C → 12C + γ + 7.4 MeV
+La reacción global es:
+34He → 12C + γ + 7.2 MeV
+
+
+== ComposiciónEditar ==
+
+La composición química de una estrella varía según la generación a la que pertenezca. Cuanto más antigua sea más baja será su metalicidad. Al inicio de su vida una estrella similar al Sol contiene aproximadamente 75 % de hidrógeno y 23 % de helio. El 2 % restante lo forman elementos más pesados, aportados por estrellas que finalizaron su ciclo antes que ella naciera. Estos porcentajes son en masa; en número de núcleos, la relación es 90 % de hidrógeno y 10 % de helio.
+En la Vía Láctea las estrellas se clasifican según su riqueza en metales en dos grandes grupos o poblaciones. Las que tienen una cierta abundancia se denominan de la población I, mientras que las pobres en metales forman parte de la población II. Normalmente la metalicidad de una estrella va directamente relacionada con su edad: las de la población I son más jóvenes comparadas con las de la población II. Estas últimas abundan en el halo galáctico, mientras que las estrellas de población I son más frecuentes en regiones cercanas al disco galáctico.
+Por otra parte, la composición de una estrella evoluciona a lo largo de su ciclo, aumentando su contenido en elementos pesados en detrimento del hidrógeno, sobre todo. Sin embargo, las estrellas solo queman un 10 % de su masa inicial, por lo que globalmente la metalicidad de una estrella no aumenta mucho durante su vida. Además, las reacciones nucleares solo se dan en las regiones centrales de la misma. Este es el motivo por el que cuando se analiza el espectro de una estrella lo que se observa es, en la mayoría de los casos, la composición que tenía cuando se formó. En algunas estrellas poco masivas los movimientos de convección penetran mucho en el interior, llegando a mezclar material procesado con el original. Entonces se puede observar incluso en la superficie parte de ese material procesado. La estrella presenta, en esos casos, una composición superficial con más metales.
+
+
+== La estrella prototípicaEditar ==
+El Sol es tomado como la estrella prototípica, no porque sea especial en ningún sentido, sino porque es la más cercana a la Tierra y por tanto la más estudiada por los humanos. La mayoría de las características de las estrellas se suelen medir en unidades solares. Las magnitudes solares son usadas en astrofísica estelar como patrones.
+La masa del Sol es:
+Msol = 1,9891 × 1030 kg
+y las masas de las otras estrellas se miden en masas solares abreviado como Msol.
+
+
+== ClasificaciónEditar ==
+
+La primera clasificación estelar fue realizada por Hiparco de Nicea y preservada en la Cultura Occidental a través de Ptolomeo, en una obra llamada almagesto. Este sistema clasificaba las estrellas por la intensidad de su brillo aparente visto desde la Tierra. Hiparco definió una escala decreciente de magnitudes, donde las estrellas más brillantes son de primera magnitud y las menos brillantes, casi invisibles con el ojo desnudo, son de sexta magnitud. Aunque ya no se emplea, constituyó la base para la clasificación actual.
+La clasificación moderna se realiza a través del tipo espectral. Existen dos tipos de clasificación, basados en dos catálogos diferentes: el catálogo de Henry Draper (HD) realizado en Harvard a principios del siglo XX, el cual determina lo que se denomina Tipo espectral, y el catálogo del Observatorio Yerkes, realizado en 1943, el cual determina lo que se denomina Clase de luminosidad.
+
+
+=== Tipos espectralesEditar ===
+Esta clasificación distingue las estrellas de acuerdo a su espectro luminoso y su temperatura superficial. Una medida simple de esta temperatura es el índice de color de la estrella.
+La clasificación es W, O, B, A, F, G, K, M, L y T yendo de mayor a menor temperatura. Las estrellas de tipo O, B y A son muy calientes, y el tipo M es considerablemente más frío. Los tipos W, L y T se introdujeron recientemente. La temperatura superficial, que determina la clase espectral, también determina el color de la estrella. De esta manera, las estrellas O son azules, mientras que estrellas de menor temperatura superficial (clases K o M) son rojizas, como Betelgeuse o Antares.
+Una pequeña guía de los diferentes colores y ejemplos de estrellas pertenecientes al grupo se cita a continuación:
+
+
+=== Clases de luminosidadEditar ===
+La clasificación de Harvard de tipos espectrales no determina unívocamente las características de una estrella. Estrellas con la misma temperatura pueden tener tamaños muy diferentes, lo que implica luminosidades muy diferentes. Para distinguirlas se definieron, en Yerkes, las clases de luminosidad. En este sistema de clasificación se examina nuevamente el espectro estelar y se buscan líneas espectrales sensibles a la gravedad de la estrella. De este modo es posible estimar su tamaño.
+Ambos sistemas de clasificación son complementarios.
+Aproximadamente un 10 % de todas las estrellas son enanas blancas, un 70 % son estrellas de tipo M, un 10 % son estrellas de tipo K y un 4 % son estrellas tipo G como el Sol. Tan solo un 1 % de las estrellas son de mayor masa y tipos A y F. Las estrellas de Wolf-Rayet son extremadamente infrecuentes. Las enanas marrones, proyectos de estrellas que se quedaron a medias a causa de su pequeña masa, podrían ser muy abundantes pero su débil luminosidad impide realizar un censo apropiado.
+
+
+=== Clasificación gravitacional de estrellasEditar ===
+
+Las estrellas pueden clasificarse de acuerdo a cuatro criterios gravitacionales instaurados recientemente por la Unión Astronómica Internacional en el 2006. Esta clasificación estelar de la UAI es la más aceptada y comúnmente usada.
+
+
+==== Clasificación por centro gravitacional estelarEditar ====
+El primer criterio es la presencia o ausencia de un centro gravitacional estelar, es decir si forman parte de un sistema estelar. Las estrellas que forman parte de un sistema estelar (presencia de centro gravitacional estelar) se denominan estrellas sistémicas. Las estrellas que no forman parte de un sistema estelar (ausencia de centro gravitacional estelar) se denominan estrellas solitarias.
+
+
+==== Clasificación de estrellas sistémicas por posiciónEditar ====
+Si una estrella es sistémica (forma parte de un sistema estelar) puede ser a su vez de dos tipos. Las estrellas centrales son aquellas estrellas sistémicas que actúan como centro gravitacional de otras estrellas. Esto quiere decir que otras estrellas las orbitan. Las estrellas sistémicas que orbitan a una estrella central se denominan estrellas satélites.
+
+
+==== Clasificación de estrellas por agrupación gravitacionalEditar ====
+Esta clasificación de estrellas se basa en distinguir dos tipos de estrellas dependiendo de si estas se agrupan con otras estrellas mediante fuerzas de atracción gravitacional. Esta clasificación refiere a dos tipos de estrellas (cumulares e independientes) de acuerdo a si se encuentran o no unidas a otras estrellas y, además, esta unión no se de

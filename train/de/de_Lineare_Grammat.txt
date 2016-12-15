@@ -1,0 +1,25 @@
+Lineare Grammatik ist ein Begriff aus der Theorie der formalen Sprachen in der theoretischen Informatik. Eine lineare Grammatik ist ein Spezialfall einer kontextfreien Grammatik. Bei ihr gilt gegenüber der kontextfreien Grammatik die zusätzliche Einschränkung, dass auf der rechten Seite jeder Produktionsregel höchstens ein Nichtterminal stehen darf.
+
+
+== Definition ==
+Eine lineare Grammatik  ist eine kontextfreie Grammatik, deren Produktionen von einer der folgenden Formen sind:
+
+Wobei
+
+
+== Erzeugte Sprachen ==
+In der Chomsky-Hierarchie stehen die linearen Sprachen zwischen den regulären Sprachen und den kontextfreien Sprachen.
+Die Grammatik mit den folgenden Produktionen ist linear, aber nicht regulär:
+
+Sie erzeugt die Menge der beliebig langen Palindrome der Form aca, bcb, aabcbaa, abbacabba usw., von der gezeigt werden kann, dass sie, im Gegensatz zu einer regulären Sprache, von keinem endlichen Automaten erkannt werden kann.
+
+
+== Einseitig lineare Grammatiken ==
+Trifft man die zusätzliche Einschränkung, dass auf der rechten Seite jeder Produktion das Nichtterminalsymbol nur am Ende der erzeugten Zeichenkette stehen darf, also einer der Formen
+
+genügen muss, so spricht man von einer rechtslinearen Grammatik.
+Trifft man die Festlegung, dass alle Produktionen einer der Formen
+
+genügen müssen mit also dem Nichtterminal allenfalls am Anfang der rechten Seite, so spricht man von einer linkslinearen Grammatik.
+Diese Grammatiken sind den regulären Grammatiken äquivalent, erzeugen also eine eingeschränktere Menge von Sprachen als die beidseitig linearen Grammatiken.
+Manche Quellen benutzen den Begriff lineare Grammatik in abweichender Terminologie synonym zu rechts- oder linkslineare Grammatik, wie eben definiert, und ignorieren die linearen Grammatiken nac

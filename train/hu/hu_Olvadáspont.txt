@@ -1,0 +1,50 @@
+Az olvadáspont valamely anyag szilárd halmazállapotból folyadék halmazállapotba történő átmenetének egyensúlyi hőmérséklete. Jele: Tm
+A fagyáspont és szinonimája, az általánosabban használt dermedéspont számszerűen ugyanaz a hőmérsékleti érték, csak másik irányból közelítjük meg a jelenséget, vagyis a folyadék halmazállapotból történő megszilárdulás hőmérséklete.
+A tiszta anyagok fagyáspontja egy konkrét hőmérsékleti érték, anyagi állandó. Amikor a folyadék hőmérséklete eléri ezt az értéket, és további hőt vonunk el, akkor a hőmérséklete nem csökken addig, míg az egész meg nem fagy. Hasonló módon játszódik le a folyamat olvadáskor is. Az olvadás és a dermedés tiszta anyagok esetén izoterm folyamat. Vannak anyagok, amelyeknek kísérleti úton nem mérhető meg az olvadáspontjuk, mert már kisebb hőmérsékleten elbomlanak (termikus bomlás), vagy – a többkomponensű rendszerekben – különböző fázisreakciók miatt inkongruens olvadásponttal rendelkeznek.
+
+
+== Többkomponensű rendszerekSzerkesztés ==
+
+A folyékony és a szilárd halmazállapotú elegyek általában egy kezdeti és egy végső hőmérséklettel jellemezhető tartományban alakulnak át egyik halmazállapotból a másikba. A többkomponensű rendszerek esetében azokat a hőmérsékleti értékeket összekötő görbét (vagy felületet), amelynél nagyobb hőmérsékleten a rendszer már csak folyadék állapotban létezhet, likvidusznak nevezzük. Azokat pedig, amelyeknél kisebb hőmérsékleten a rendszer már csak szilárd halmazállapotban lehet stabilisan jelen, szolidusznak nevezzük.
+A kezdeti és a végső hőmérséklet között pedig köztes állapot jellemző. Ez azt jelenti, hogy ebben a hőmérséklet-tartományban stabilisan együtt van az anyag szilárd és cseppfolyós halmazállapota. A szilárd és cseppfolyós részek aránya pedig folyamatosan változik a dermedés vagy az olvadás során a kezdeti és a végső hőmérséklet között, a pillanatnyi hőmérséklet szerint. A fázisok mennyiségi viszonyait az ún. mérlegszabály szerint lehet kiszámítani.
+
+
+== Az olvadáspont nyomásfüggéseSzerkesztés ==
+A tiszta szilárd anyagok olvadáspontja függ a nyomástól. Általánosságban igaz, hogy a nyomás növekedésével az olvadáspont is növekszik. Csak néhány kivétel van e szabály alól, mint például a jég és a bizmut, amelynél a nyomásnövekedés olvadáspont-csökkenést idéz elő.
+Az olvadásponton a folyadék és a szilárd anyag között dinamikus egyensúly alakul ki, amire az jellemző, hogy időegység alatt az egyik fázisból a másik fázisba ugyanannyi részecske megy át, mint ellenkező irányba, vagyis a szilárd fázisból – az olvadás során – ugyanannyi részecske jut a folyadék fázisba, mint amennyi a folyadék fázisból – a kristályosodás során – a szilárd fázisba. Más kifejezéssel azt mondjuk, hogy a kristályosodás sebessége megegyezik az olvadás sebességével.
+Ha megváltozik a nyomás, akkor a már kialakult egyensúlyi állapot eltolódik a Le Chatelier-elvnek (a legkisebb kényszer elvnek) megfelelően abba az irányba, amely irányban a nagyobb stabilitású fázis mennyisége nő. Általános esetben ez a szilárd fázis képződésének az iránya. Termodinamikailag a Gibbs-energia (szabadentalpia) segítségével tudjuk az olvadáspont hőmérsékletfüggését leírni.
+A folyadék fázis Gibbs-energiája a hőmérséklettel és a nyomással az alábbi összefüggés szerint változik:
+
+a szilárd fázisé pedig:
+
+A kifejezésekben:
+dGl a folyadék Gibbs-energia-változása, J/mol
+Vl a folyadék moláris térfogata, m3/mol
+Sl a folyadék moláris entrópiája, J/mol·K
+dGs a szilárd Gibbs-energia-változása, J/mol
+Vs a szilárd moláris térfogata, m3/mol
+Ss a szilárd moláris entrópiája, J/mol·K
+
+Egyensúly esetén – amikor mindkét halmazállapotú anyag stabilisan együtt jelen van – a két fázis Gibbs-energia-változása egyenlő egymással:
+
+illetve rendezés után az olvadáspont nyomás szerinti megváltozása:
+
+ahol
+ΔmS 1 mol szilárd anyag olvadását kísérő entrópiaváltozás, J/mol·K
+ΔmV 1 mol szilárd nyag olvadását kísérő térfogatváltozás, m3/mol
+Izoterm folyamat esetén (a :Tm az egyensúlyi olvadásponton) a moláris entrópiaváltozás:
+
+amelyben ΔmH a moláris olvadási entalpia, J/mol.
+Rendezve az egyenletet az olvadáspont nyomásfüggésére a:
+
+kifejezés adódik.
+Az anyag olvadáspontja attól függően változik a nyomással, hogy az egyenlet bal oldala – a differenciálhányados értéke – kisebb vagy nagyobb mint 0. Az egyenlet bal oldala akkor pozitív, ha ΔmV > 0, mivel Tm és ΔmH mindig > 0, vagyis az olvadáspont és az olvadási entalpia mindig pozitív előjelű.
+A ΔmV > 0 azt jelenti, hogy az olvadást kísérő térfogatváltozás pozitív, vagyis miközben az anyag megolvad, folyékonnyá válik, a térfogata is megnő. Ez az általános eset, mert az anyagok többsége térfogat-növekedés közben olvad meg.
+
+
+=== A víz tulajdonságaiSzerkesztés ===
+A víz ebből a szempontból a ritka kivételek közé tartozik, mert a jég olvadása során a belőle keletkező víz kisebb térfogatú lesz. Ezért a jég olvadáspontja csökken a nyomás növelésével. A 0 °C-os víz sűrűsége ugyanis nagyobb, mint a 0 °C-os jég sűrűsége. Mindez a folyékony víz szerkezetével és a jég kristályszerkezetével függ össze. Hasonló sűrűséganomáliával rendelkezik még az antimon, a bizmut, a gallium, a plutónium, a szilícium és a cirkónium-volframát.
+A hexagonális jég Ih és a cseppfolyós víz határgörbéje:
+.
+209,9 MPa felett 350,1 MPa-ig a fagyáspont emelkedik -21,958 °C-ról -16,986 °C-ig; ekkor ugyanis a szilárd halmazállapot kristályformája jég IIII.
+A szilárd testek megolvadásának az oka a hőmozgás, ami a rácspontokban lévő részecskéknek az egyensúlyi helyzetük körüli térbeli rezgőmozgásából áll. Az olvadáspontra növelve a hőmérsékletet a rezgőmozgás amplitúdója akkorára nő, ho

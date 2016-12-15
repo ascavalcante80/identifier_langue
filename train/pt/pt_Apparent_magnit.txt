@@ -1,0 +1,31 @@
+Em Astronomia, magnitude aparente é uma escala para comparação do brilho das estrelas desenvolvida pelo astrônomo grego Hiparco há mais de 2000 anos.
+A magnitude aparente fornece uma forma de comparar quão brilhante um objeto parece em relação a outro, mas não quão brilhante ele é. Isto porque a magnitude aparente depende da distância em que o objeto se encontra. Quanto maior for o brilho aparente do astro, menor será o valor da sua magnitude.
+
+
+== Definição ==
+A ideia original de Hiparco era criar uma escala para o brilho das estrelas de forma que as estrelas mais brilhantes tivessem uma magnitude de 1, as segundas mais brilhantes uma magnitude de 2 e assim por diante até à magnitude 6 que é a estrela menos brilhante que o olho humano consegue perceber.
+Esta escala simples é utilizada por astrônomos do mundo todo há mais de 2000 anos. No entanto, ela contém uma complicação não aparente devido à forma como o olho trata as diferenças de brilho entre dois objetos.
+Atualmente, porém, ao se usar equipamentos óticos para comparar o brilho das estrelas, descobre-se que entre uma magnitude e outra há espaço para uma escala bem mais apurada. Assim o brilho de um estrela de magnitude 1 é 10 vezes superior ao brilho de um estrela de magnitude 3,5 e 100 vezes superior ao brilho de um estrela de magnitude 6. Ou seja, cada vez que se soma 2,5 (cinco meios) à magnitude o brilho é dividido por 10. Somando 5 à magnitude o brilho é dividido por 100; somando 7,5 o brilho é dividido por 1000; etc.
+De forma equivalente temos: cada vez que se soma 1 à magnitude o brilho é dividido por 2,512 (10 elevado a dois quintos).
+Este tipo de comportamento, em que as razões das grandezas são constantes, e não a sua diferença, é o que caracteriza uma escala logarítmica de medida.
+
+
+== Magnitudes aparente de objetos conhecidos ==
+Magnitude aparente do Sol: -26,74
+Magnitude aparente da Lua cheia: -12,6
+Magnitude aparente de Sirius (estrela mais brilhante): -1,45
+Magnitude aparente de Vega: 0,00
+Magnitude aparente das menores estrelas visíveis a olho nu: 6 a 7
+Magnitude aparente da menor estrela visível por telescópio da Terra: 25
+
+
+== Sistema UBV ==
+Uma complicação adicional existe devido ao fato que a radiação observada de uma estrela não é monocromática. Portanto, para ser preciso, tem-se que especificar em qual comprimento de onda estamos medindo a magnitude.
+Além disto, a sensibilidade de um detector de luz, nosso olho ou uma chapa fotográfica, por exemplo, também depende do comprimento de onda da luz recebida.
+O sistema UBV (de Ultra-violeta, Blue (Azul), Visual) utiliza três faixas de comprimentos de onda para a medida da magnitude. Uma faixa de comprimentos de onda chamada de U centrada em torno de 350 nm; uma faixa chamada de B centrada em torno do comprimento de onda de 435 nm, e a faixa V centrada em torno do 555 nm, que é a faixa à qual o olho humano é mais sensível.
+Quando se fala de magnitude sem se especificar a faixa de comprimento de onda, normalmente se refere à faixa V, e a magnitude neste caso é chamada de magnitude visual aparente.
+
+
+== Relação com a intensidade de radiação ==
+A quantidade que pode ser medida com aparelhos, associada ao brilho, é a intensidade de radiação emitida ou refletida pelo objeto. Colocando o que foi dito acima em termos mais precisos, a razão entre as intensidades de radiação de estrelas que diferem de uma unidade de magnitude é aproximadamente 2,5.
+Esta escala de magnitude aparente utilizada atualmente foi criada pelo astrônomo Norman Robert Pogson em 1856. O que Pogson fez fo

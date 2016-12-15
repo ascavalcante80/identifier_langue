@@ -1,0 +1,18 @@
+Størrelsesklasser (Mag) er en inddeling af stjerner efter hvor meget lys de udsender.
+For 2500 år siden inddelte den græske astronom Hipparchos alle synlige stjerner efter deres lysstyrke. Han inddelte dem i 6 klasser fra 1 til 6. De klareste stjerner kaldte han “første størrelsesklasse” og de svageste han kunne se “sjette størrelsesklasse”. Utroligt nok bruges Hipparchus størrelsesklasser stadig flittigt af alverdens astronomer her 2500 år senere. Systemet er dog blevet moderniseret og kvantificeret.
+Systemet i størrelsesklasserne er omvendt af hvad man måske umiddelbart skulle forvente. Klarere stjerner har lavere størrelsesklasser end svagere stjerner.
+Den moderne størrelsesklasseinddeling bygger på målinger af den mængde lys pr. tidsenhed (flux) der kommer fra en stjerne, angivet på en logaritmisk skala:
+
+Hvis du ikke forstår matematikken, betyder det bare at størrelsesklassen af en given stjerne (m) er forskellig fra en standardstjerne () med 2,5 gange logaritmen af deres lysmængde (flux ratio). Faktoren 2,5 *log betyder at hvis forskellen i lysmængden fra to stjerner er 100, er forskellen i størrelsesklasser 5 klasser (mag). Lyset fra en stjerne i størrelsesklasse 1 er derfor 100 gange så stærkt som lyset fra en stjerne i størrelsesklasse 6. Årsagen til at Hipparchus simple klassifikation svarer til så indviklet en formel er at det menneskelige øje opfatter lyset logaritmisk.
+
+
+== Tilsyneladende størrelsesklasser ==
+Der findes flere forskellige systemer af størrelsesklasser, hver med deres anvendelsesområde. Den mest benyttede er de tilsyneladende størrelsesklasser. Det er bare et mål for hvor lysstærk en stjerne (og andre himmelobjekter) ser ud for øjet på jordoverfladen. Den tilsyneladende størrelsesklasseskala definerer stjernen Vega som størrelsesklasse 0,0. Og alle andre objekters størrelsesklasse kan så beregnes ud fra Vega med den ovenstående formel.
+Det er vanskeligt at forstå stjerner ved kun at benytte deres tilsyneladende størrelsesklasser. Forestil dig to stjerner på himlen med den samme tilsyneladende størrelsesklasse, som altså ser ud til at lyse lige meget. Du kan ikke afgøre bare ved at kigge om to stjerner faktisk udsender lige meget lys eller den ene faktisk udsender meget mere lys, men bare er længere væk.
+
+
+== Absolut størrelsesklasse ==
+Hvis vi kender afstanden til stjernerne (se artiklen om parallakse), kan vi kompensere for afstanden og finde deres absolutte størrelsesklasse som viser hvor meget lys de faktisk udsender. De absolutte størrelsesklasser er defineret som den tilsyneladende størrelsesklasse en stjerne ville have hvis den blev observeret fra en afstand på 10 parsec (1 parsec er 3.26 lysår, eller 3.1 x 10^18 cm). Den absolutte størrelsesklasse (M) kan beregnes ud fra den tilsyneladende størrelsesklasse (m) og afstanden i parsec (d) med følgende formel:
+. (bemærk at M=m når d=10).
+Den moderne størrelsesklasseskala er ikke længere baseret på det menneskelige øje, den bygger på fotografiske plader og fotoelektriske fotometre. Med teleskoper kan man se meget lyssvagere objekter end Hipparchus kunne med det blotte øje, så størrelsesklasseskalaen er blevet udvidet under størrelsesklasse 6. Faktisk kan rumteleskopet Hubble se stjerner ned i nærheden af 30. størrelsesklasse. Hvilket er en trillion gange svagere end Vega.
+En sidste note: størrelsesklasserne måles som regel gennem et farvefilter af en eller anden slags. Og disse størrelsesklasser ledsage

@@ -1,0 +1,83 @@
+Wikipedia is een internetencyclopedie, die wereldwijd door een groot aantal auteurs op vrijwillige basis wordt geschreven. De inhoud moet te controleren zijn en mag geen onrecht doen aan derden, maar verder geldt het principe van de vrije kennis. De naam Wikipedia is een samentrekking van wiki en encyclopedia. De website is onderdeel van de Wikimedia Foundation, een in de Verenigde Staten gevestigde organisatie zonder winstoogmerk. Onder de paraplu van de Wikimedia Foundation bevinden zich diverse meertalige projecten waarvan Wikipedia het oudste en bekendste is. In alle veelvoorkomende talen is er een Wikipedia.
+Wikipedia werd in 2001 opgericht door de Amerikaanse ondernemer Jimmy Wales, samen met zijn medewerker Larry Sanger. In 2003 droeg Wales zijn rechten op de naam Wikipedia, de website zelf en de servers waarop deze draaide over aan de Wikimedia Foundation, een stichting die hij oprichtte om het behoud en de verdere ontwikkeling van Wikipedia langdurig mogelijk te maken. De stichting leeft bijna uitsluitend van donaties en heeft ongeveer honderdvijftig betaalde medewerkers. Wikipedia zelf wordt echter door vrijwilligers beheerd en geschreven.
+De artikelen in deze encyclopedie worden geacht een neutraal standpunt uit te dragen. Wikipedia is in principe door iedereen te bewerken. Dat is ook een van de redenen dat Wikipedia geen garantie voor de juistheid en evenwichtige kwaliteit van de informatie kan geven. Daarnaast is, door het open karakter van het project, de kans op vandalisme altijd aanwezig.
+
+
+== OpzetBewerken ==
+Wikipedia is in de basis opgezet in de vorm van een wiki, hetgeen betekent dat elke inhoudelijke pagina door iedere willekeurige bezoeker bewerkt kan worden. Voor Wikipedia is een apart programma ontworpen. Tegenwoordig is deze software, MediaWiki, een actief opensourcesoftware-project dat ook gebruikt wordt door de andere projecten van de Wikimedia Foundation en door diverse andere projecten en bedrijven.
+
+
+=== GroeiBewerken ===
+
+De oorspronkelijke en verreweg de grootste van de Wikipedia's is de Engelstalige. Met deze encyclopedie is gestart op 15 januari 2001. Het oorspronkelijke doel was te komen tot minimaal 100.000 artikelen, maar toen dat aantal was bereikt, ging de groei nog volop door.
+Vanaf de zomer van 2001 zijn er naast de oorspronkelijke Engelstalige vele andere Wikipedia's in andere talen gestart. Hun aantal neemt nog steeds toe. Na de Engelstalige zijn anno 2015, gemeten naar het aantal individuele artikelen, de Duits-, Frans-, Nederlands- en Zweedstalige Wikipedia's het grootst. Opgemerkt moet worden dat dit niets zegt over de grootte, de (gemiddelde) kwaliteit of de diversiteit van de artikelen. In totaal waren er in februari 2015 op heel Wikipedia meer dan 34 miljoen artikelen te vinden in 288 verschillende talen.
+Er zijn ook Wikipedia's opgekomen in veel minderheidstalen en dialecten. Zo bevatte de Wikipedia in het Zazaki begin 2010 ongeveer 2800 artikelen. Een aantal van deze Wikipedia's bleken over onvoldoende gebruikers te beschikken die artikelen wilden toevoegen in die taal. Die weinig levensvatbare projecten zijn inmiddels weer gesloten en/of in de Wikimedia Incubator beland.
+De meeste opslagcapaciteit is nodig voor de afbeeldingen en andere media die op Wikipedia gebruikt worden. Op 15 januari 2009 meldde Wikizine dat er 48 terabyte opslagruimte beschikbaar was gekomen voor Wikimedia Commons. Op dat moment werd daar 5 terabyte van gebruikt.
+
+
+=== Kenmerken van het projectBewerken ===
+Wikipedia was de eerste serieuze, algemene, digitale encyclopedie waarbij met het wiki-concept gewerkt werd. In vergelijking met andere concepten om informatie te verzamelen heeft dit tot gevolg dat Wikipedia, daar waar het actuele informatie betreft, in het algemeen zeer snel bijgewerkt is. Daar is het concept ook naar genoemd: 'wikiwiki' betekent in het Hawaïaans 'snel'.
+Kenmerkend voor het project en het succes ervan is tevens het feit dat de inhoud deels rechtenvrij is. Alle tekst en media worden door Wikipedia door middel van de GFDL-licentie vrijgegeven en beschikbaar gesteld voor het publiek. Eenieder is daarmee gerechtigd de inhoud kosteloos te verspreiden en/of te wijzigen, terwijl niemand de toegang tot een uit Wikipedia overgenomen en eventueel gewijzigde inhoud kan worden onthouden.
+Wikipedia presenteert zich daarbij uitdrukkelijk als een encyclopedie en niet als een woordenboek, discussieforum of webportaal. Voor lexicografische informatie is het zusterproject Wiktionary, in het Nederlands WikiWoordenboek, in het leven geroepen.
+Wikipedia kan zowel op (personal) computers als op smartphones en tablets worden geraadpleegd, mits die een internetverbinding en een webbrowser hebben. Voor mobiele apparaten zijn ook speciale apps beschikbaar.
+
+
+== Geschiedenis van WikipediaBewerken ==
+
+
+=== VoorgeschiedenisBewerken ===
+Over de documentering van de menselijke kennis wordt al vele jaren nagedacht. Onder andere de bibliograaf Paul Otlet, bedenker van de Universele decimale code, wijdde zijn leven aan de vraag hoe gegevens en kennis toegankelijk gemaakt kunnen worden in een Universeel Boek of een vernuftig kaartsysteem met behulp van een machinaal systeem. Later streefde Herbert George Wells naar een World Brain, een samenvatting van alle kennis op microfilm. Ook Vannevar Bush dacht dat de toekomst van volledige documentatie lag in een systeem met microfilm: Memex. In 1960 begon Ted Nelson met zijn Project Xanadu dat gebruikmaakte van hypertekst. Encarta van Microsoft was de eerste encyclopedie op CD-ROM die gebruikmaakte van hyperlinks. Wikipedia is een modern antwoord en maakt gebruik van de nieuwe mogelijkheden van www, internet en software voor samenwerking.
+
+
+=== Eerste opzetBewerken ===
+Het project Wikipedia begon met een conversatie tussen twee internetvrienden, Larry Sanger, hoofdredacteur van Nupedia en Ben Kovitz, een computerprogrammeur en bèta-wetenschapper, op de avond van 3 januari 2001 in San Diego (Californië). Kovitz had al eerder te maken gehad met een ander soort wikiproject. Toen hij het basisconcept aan Sanger uitlegde, zag deze onmiddellijk dat het wikiformat uitstekend geschikt zou zijn voor het opzetten van een opener, minder formeel project dan Nupedia.
+Vier maanden daarvoor hadden Sanger en zijn baas Jimmy Wales, president-directeur van Bomis, Inc., al eens verschillende mogelijkheden besproken om naast Nupedia een opener, aanvullend project te beginnen. Het kostte Sanger dus niet veel moeite om Wales over te halen een wiki voor Nupedia op te zetten. Nupedia's eerste wiki ging online op 10 januari 2001. Van de kant van de auteurs en redacteuren van Nupedia kwam echter het nodige protest tegen het plan om Nupedia zo nauw te associëren met een webpagina, gebaseerd op het wikiconcept. Daarom kreeg het nieuwe project per 15 januari de naam 'Wikipedia' en een eigen, onafhankelijk adres op het web. Deze datum werd later uitgeroepen tot Wikipediadag.
+Heel wat deelnemers kwamen in één klap binnen via publicatie van Slashdot in maart en juli. Ook andere publicaties trokken deelnemers, zoals die op Kuro5hin. Zoekmachines (vooral Google) en andere portals dirigeren dagelijks honderden potentiële deelnemers naar Wikipedia. Op 12 februari 2001 werd de eerste mijlpaal van 1000 artikelen (pagina's) al overschreden; daarna groeide het met circa 1000 per maand en intussen al met ongeveer 40.000 per maand.
+Op 19 juni 2001 startte de Nederlandstalige versie van Wikipedia.
+
+
+=== Verdere ontwikkelingBewerken ===
+In de maanden augustus en september 2003 werd een internationale logowedstrijd gehouden. Het logo van Paul Stansifer werd met grote meerderheid verkozen. Daarna werd dit aangepast tot een grijze versie op basis van hetzelfde idee.
+Vanaf 2005 begonnen de bewerkers (users, in het Nederlands vaak "gebruikers" genoemd) op Wikipedia steeds meer samen te werken met culturele instellingen en andere organisaties om meer materiaal beschikbaar te krijgen voor het gebruik op Wikipedia. Er wordt samengewerkt met onder andere musea, galeries, archieven en bibliotheken om zo meer specialistische informatie en vooral ook beeldmateriaal om meer artikelen hiervan te kunnen voorzien. In Nederland leverde bijvoorbeeld het Tropenmuseum meer dan 8000 afbeeldingen over de Marrons, Suriname en Indonesië, het Nationaal Archief in Den Haag en Spaarnestad Photo te Haarlem doneren ruim 1.100 foto's van Nederlandse politici en belangrijke gebeurtenissen in Nederland en het Amsterdam Museum doneerde in 2011 zijn digitale collectie van 55.000 foto's. Vanaf 2010 wordt de samenwerking tussen Wikipedia en culturele instellingen verder geïntensiveerd met de aanstelling van een Wikipedian in Residence bij de instellingen zelf om hun materiaal te ontsluiten via Wikipedia.
+
+
+=== ErkenningenBewerken ===
+In mei 2004 ontving Wikipedia de Golden Nica voor digitale gemeenschappen van de jaarlijkse Prix Ars Electronica-wedstrijd. Later dat jaar ontving Wikipedia de Judges' Webby Award in de categorie "community". Wikipedia werd ook genomineerd voor de "Best Practices" prijs.
+In 2007 stemden de lezers van de website brandchannel.com voor Wikipedia als 4de in de lijst van merken, via het antwoord op de vraag "Welk merk had de grootste invloed op onze levens in 2006?"
+In september 2008 ontving Wikipedia de "Quadriga A Mission of Enlightenment" van Werkstatt Deutschland samen met Boris Tadić, Eckart Höfling en Peter Gabriel. Deze prijs werd aangeboden aan Jimbo Wales door David Weinberger.
+
+
+==== Prinses van AsturiëprijsBewerken ====
+Op 17 juni 2015 werd de Prinses van Asturiëprijs voor Internationale samenwerking 2015 toegekend aan Wikipedia.
+
+
+==== ErasmusprijsBewerken ====
+Op 15 januari 2015 kreeg de Wikipediagemeenschap de Erasmusprijs toegekend, "omdat zij de verspreiding van kennis heeft bevorderd door een allesomvattende, voor ieder toegankelijke encyclopedie op te zetten".. Volgens de organisatie van de prijs droeg Wikipedia door haar open karakter bij aan het besef dat bronnen van kennis niet neutraal zijn en steeds gewogen moeten worden. Met deze kritische aandacht sloot Wikipedia goed aan bij het gedachtegoed van Erasmus.
+Op 25 november 2015 reikte koning Willem-Alexander deze prijs uit aan drie vertegenwoordigers van de gemeenschap.
+
+
+== KnelpuntenBewerken ==
+
+
+=== VandalismeBewerken ===
+Wikipedia heeft net als andere wiki's te kampen met vandalisme. Er komen geleidelijk aan steeds doeltreffender hulpmiddelen beschikbaar om vandalisme te bestrijden.
+'Onzichtbaar vandalisme' en hoaxen blijken echter hardnekkiger te zijn. Door subtiele wijzigingen (beperkte weglatingen of wijziging van de opmaak) kan een heel andere wending aan een artikel worden geven. Ook kan iemand natuurlijk per ongeluk foutieve informatie toevoegen. Wanneer niemand doorheeft dat de informatie onjuist is, kan die maandenlang op Wikipedia blijven staan. Zo zijn er gevallen bekend van artikelen over niet-bestaande personen, waar wel maandenlang een artikel over voorkwam.
+
+
+=== Reclame en eigen voordeelBewerken ===
+Wikipedia wordt georganiseerd op vrijwillige basis. Donaties worden door de Wikimedia Foundation geaccepteerd, maar nooit met het doel reclame voor enige andere instelling te maken of individuen commercieel voordeel te bieden.
+
+
+=== KlonenBewerken ===
+Sokpoppen
+Bijdragers, meestal gebruikers genoemd, zullen in principe maar met één account tekst toevoegen, wijzigen of verwijderen. Daardoor is de controle op de correctheid beter mogelijk. Het gebruiken van dubbele accounts (ook wel sokpoppen genoemd) is aan beperkingen onderhevig.
+Spiegelsites
+Inmiddels bestaan er veel klonen, ook wel mirrors of spiegelsites genoemd, van Wikipedia, dat wil zeggen sites die de inhoud van Wikipedia letterlijk overnemen. Een belangrijk neveneffect van Wikipediaklonen is dat ze ervoor zorgen dat informatie op het internet steeds eenzijdiger wordt. Het is inmiddels geen zeldzaamheid dat vijf van de eerste tien zoekresultaten op Google allemaal hetzelfde artikel bevatten, op verschillende sites. Foutieve informatie kan op deze manier razendsnel over internet worden verspreid. Critici van Wikipedia zien dit als een zorgelijke ontwikkeling.
+
+
+=== Willekeurige verhoudingen in de grootte van artikelenBewerken ===
+Dale Hoiberg, voormalig hoofdredacteur van de Encyclopædia Britannica heeft opgemerkt dat er in Wikipedia sprake is van een systematische fout. Sommige onderwerpen krijgen in relatie tot hun belang buitensporig grote artikelen. Daarbij speelt natuurlijk het probleem dat iedereen zelf mag uitmaken wat belangrijk is. Er bestaan vele artikelen over individuele sporters, informatica en popcultuur, terwijl onderwerpen als natuurwetenschap, taal, kunst en Afrika soms ondervertegenwoordigd zijn. Zo is bijvoorbeeld het artikel over stripfiguren Casper en Hobbes op de Engelstalige Wikipedia langer dan dat over William Shakespeare. Dit is het gevolg van toevalligheden, die elk moment weer kunnen veranderen. Als een gebruiker met veel kennis over een bepaald onderwerp actief wordt, dan is er een gerede kans dat daar ook veel over geschreven wordt.
+
+
+=== Gevolgen voor traditionele encyclopedieënBewerken ===
+Wikipedia wordt als gratis naslagwerk soms gezien als een oneerlijke concurrent voor traditionele encyclopedieën. Nicholas Carr viel in The amorality of Web 2.0 (2005, Web 2.0 is amoreel) websites met gebruikersbijdragen als Wikipedia aan, omdat ze beroepsschrijvers (die volgens hem superieur zijn) het brood uit de mond kunnen stoten, w

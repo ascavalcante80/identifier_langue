@@ -1,0 +1,7 @@
+Das Argument der Periapsis, ω, ist eines der 6 Bahnelemente zur Lagebezeichnung einer Keplerellipse im Raum. Der Winkel legt die Orientierung der Apsis (große Halbachse) fest. Er wird vom aufsteigenden Knoten entlang der Bahnebene bis zur Periapsis gemessen.
+Je nach Zentralkörper sind die Bezeichnungen gebräuchlich:
+Erde: Argument des Perigäums
+Sonne: Argument des Perihels
+allgemein: Argument der Periapsis
+Die Lage der Periapsis kann auch durch die Länge der Periapsis ϖ beschrieben werden. Diese wird zunächst vom Frühlingspunkt rechtläufig entlang der Ekliptik bis zum aufsteigenden Knoten und von dort ebenfalls entlang der Bahn bis zur Periapsis gezählt. Sie ist also die Summe aus der Länge des aufsteigenden Knotens Ω und dem Argument der Periapsis ω.
+Im Falle der Erdbahn sind keine Bahnknoten definiert, da die Erdbahnebene mit der Ekliptikebene zusammenfällt und keine Schnittlinie zwi

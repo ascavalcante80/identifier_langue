@@ -1,0 +1,85 @@
+ición ganadora. Los jugadores de club suelen haber leído uno o varios libros de ajedrez y están muy experimentados en todas las fases del juego, además suelen asistir a competiciones y entrenan e intentan mejorar su juego habitualmente. Sin embargo, no entienden las posiciones que se suceden en la partida tan profundamente como un maestro, y ni su táctica ni estrategia es tan acertada como la de éste último.
+Entre 2100 y 2300 puntos de Elo: Candidato a Maestro (CM). Es el primero de los rangos reconocidos por la FIDE, aunque no constituye un título oficial. En muchos países las federaciones reconocen a los jugadores con Elo mayor a 2200 con el título de Maestro Nacional (MN).
+Entre 2300 y 2400 puntos de Elo: Maestro FIDE (MF). A partir de 1978, la FIDE reconoce como Maestros a los jugadores que alcanzan una puntuación Elo de 2300. En noviembre de 2010 existen en activo unos 5731 jugadores con rango de Maestro FIDE.
+Entre 2400 y 2500 puntos de Elo: Maestro Internacional (MI). Creado en 1950 junto con el título de Gran Maestro (GM), este título reconoce a los jugadores cuya fuerza de juego le permite enfrentarse al mismo nivel con jugadores de otros países. Aunque estos títulos se obtienen mediante resultados específicos en torneos, el de Maestro Internacional se puede conceder de otras formas específicas, por ejemplo al Campeón Mundial Juvenil, o a quien obtenga el rendimiento (puntuación esperada) de un jugador de Elo 2400 en una Olimpiada de ajedrez. Actualmente hay 3258 jugadores activos con título de Maestro Internacional.
+Elo a partir de 2500 puntos: Gran Maestro (GM). Creado en 1950, este título es, después del título de Campeón Mundial, el mayor reconocimiento a los mejores jugadores de ajedrez. Actualmente unos 1419 jugadores tienen el rango de Gran Maestro. El jugador más joven en alcanzar el grado de Gran Maestro ha sido el ruso Serguéi Kariakin, a los 12 años y 7 meses de edad, en el año 2002.
+Elo a partir de 2600 puntos: Super Gran Maestro (GM). A partir de 2600 puntos Elo, los jugadores que están por encima de la mayoría de Grandes Maestros reciben nombres no oficiales para distinguirse de los demás. Se llama comúnmente Super Gran Maestro (Super-GM) a los jugadores con Elo entre 2600 y 2700 puntos, y que suelen estar entre los 150 o 200 mejores jugadores del mundo.
+Elo a partir de 2700 puntos: Candidato a Campeón del Mundo. Desde que se estableció la lista Elo en 1970, durante los veinte años siguientes solo uno o dos jugadores tenían una puntuación igual o mayor a 2700 puntos; a finales del decenio de 1990 ya eran unos diez, y hoy en día son los cincuenta primeros del escalafón mundial. Estos jugadores son la élite del ajedrez mundial, y suelen ser los participantes de los torneos de más alto nivel, así como los ganadores y clasificados a torneos del ciclo del Campeonato Mundial, como la Copa del Mundo o el Torneo de Candidatos.
+Elo a partir de 2800: Campeón del Mundo. Puntuación que suele tener el campeón del mundo en los últimos tiempos. En mayo de 2014, el Campeón Mundial Magnus Carlsen alcanzó un ELO de 2882, la mayor puntuación de todos los tiempos.
+Esta clasificación permite determinar el nivel de los jugadores con base en sus resultados en torneos de ajedrez; aunque permiten establecer rangos de fuerza incluso superiores, aunque no aplicables ya a jugadores humanos. Por ejemplo, una puntuación Elo superior a 2900 solo es aplicable a programas de ajedrez de nivel medio o alto, mientras que una puntuación de 3000 o mayor es exclusiva del campeón del mundo de software.
+
+
+== Impacto cultural ==
+
+
+=== Ordenadores y ajedrez ===
+
+El uso de búsquedas sistemáticas para diseñar programas de ajedrez por ordenador comenzó con los trabajos de Claude Elwood Shannon. Sin embargo, podríamos citar como precursor al ingeniero español Leonardo Torres Quevedo que diseñó un Autómata de estados finitos capaz de jugar finales de torre y rey. El campeón mundial Mikhail Botvinnik participó también en diseños de programas de ajedrez. Sin embargo, no fue hasta los años 70 y 80 del siglo XX cuando los avances de la capacidad de cálculo y la mejora de los programas condujeron a una gran mejora en el juego de los ordenadores. Pronto, comenzaron a ganar incluso a grandes maestros en partidas rápidas y luego en condiciones ordinarias de torneo. Este avance culminó con la derrota del campeón mundial Gari Kasparov por el superordenador de IBM Deep Blue, en 1997, con el tanteo 3,5-2,5. Más recientemente, en noviembre de 2006, el programa Deep Fritz, funcionando simplemente en un ordenador personal con procesador Intel Core 2 Duo consiguió derrotar también al entonces campeón mundial Vladimir Krámnik por el tanteo de 4-2. Hoy en día, se asume que los mejores programas, implementados en paralelo sobre un ordenador con múltiples procesadores, son considerablemente más fuertes que los mejores grandes maestros.
+
+
+=== Modalidades especiales del juego ===
+Existen muchas variantes de ajedrez, obtenidas cambiando:
+el número de jugadores:
+ajedrez en consulta.
+ajedrez “pasapiezas”.
+
+la posición inicial de las piezas:
+posiciones aleatorias como el ajedrez aleatorio de Fischer.
+
+las reglas:
+ajedrez sin enroque.
+ajedrez marsellés con dos movimientos por turno.
+ajedrez pierde-gana, cuyo objetivo es ser el primero en perder todas las piezas.
+
+el tablero:
+ajedrez de Alicia con doble tablero.
+ajedrez hexagonal de Glinski con tablero hexagonal.
+ajedrez cilíndrico
+ajedrez tridimensional.
+
+el mecanismo de juego:
+ajedrez a la ciega.
+ajedrez postal.
+ajedrez de batalla.
+
+
+=== Perfil psicológico de los ajedrecistas ===
+
+En la actualidad existe una importante investigación psicológica del ajedrez. Uno de los hechos mejor establecidos es que aunque el ajedrez es ampliamente considerado el mejor ejemplo de actividad intelectual entre los juegos, existe muy poca evidencia entre capacidades cognitivas concretas y la pericia en el ajedrez. Aunque existe una débil correlación entre inteligencia y pericia en el ajedrez entre los niños que están aprendiendo, dicha correlación no existe cuando consideramos grandes maestros o niños altamente talentosos para el ajedrez. El factor que explica mejor el desempeño ajedrecístico es el número de horas de práctica. No obstante es evidente que este es un juego/deporte destacadamente intelectual debido a que requiere concentración, cálculo, capacidad de análisis, y es bien conocido que abundan altísimos cocientes intelectuales entre los jugadores de primera fila mundial. Algunos estudios sugieren que los grandes maestros son capaces de almacenar entre 10 mil y 100 mil “fragmentos” o posiciones de tablero ajedrecísticamente relevantes, aunque simulaciones por ordenador estiman este número en 300 mil. 
+Otro aspecto, menos estudiado, es el de la personalidad de los ajedrecistas. Un estudio que comparaba 219 niños que jugaban al ajedrez con otros 50 que no lo hacían, cuyos rasgos de personalidad fueron clasificados de acuerdo con el Test de personalidad de los cinco grandes («O»: Apertura a nuevas experiencias, «C»: Responsabilidad, «E»: Extroversión, «A»: Amabilidad, «N»: Neuroticismo), sugería que era más probable que los niños con alta puntuación en los factores «O» y «E» fueran jugadores de ajedrez. Los niños varones que puntúan más alto en el factor «A», están menos interesados en el juego. Eso podría explicar por qué las niñas, que generalmente puntúan más alto en el factor «A», están en general menos interesadas en el juego. Otro estudio realizado en estudiantes universitarios menciona que, aquellas personas cuya personalidad les hace placenteras la búsqueda y experimentación de sensaciones nuevas y fuertes, se sienten mucho más atraídas por el juego que aquéllas que evaden esas sensaciones, sin importar el sexo. Sin embargo, los estudios no han detectado ninguna correlación entre los rasgos de personalidad y la pericia ajedrecística de un jugador.
+
+
+== Véase también ==
+
+ Portal:Ajedrez. Contenido relacionado con Ajedrez.
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Aguilera López, Ricardo: Tratado elemental de ajedrez. Madrid: Aguilera (Centro de Ajedrez Internacional), 2002. ISBN 84-7005-093-1. (solamente para principiantes).
+Aguilera López, Ricardo: Ajedrez hipermoderno (en dos volúmenes). Madrid: Aguilera, Centro de Ajedrez Internacional (Colección Club de Ajedrez), 2004. ISBN 84-7005-157-1.
+Ajedrez: curso completo. Barcelona (España): Planeta-De Agostini, 2004. ISBN 84-395-1530-8.
+J. Fernández, Francisco (2010): El ajedrez de la filosofía. Madrid: Plaza y Valdés Editores. ISBN 978-84-92751-86-0.
+Bartel, Rainer (et al.): Ajedrez por ordenador. Barcelona: Ferre-Moret (Colección Data Becker), 2001. ISBN 84-86437-91-1.
+Bird, Henry Edward (1893). Chess History and Reminiscences. Forgotten Books. ISBN 1-60620-897-7
+Burdio Serrano, María del Carmen: Reglamentos de ajedrez. Madrid: Aguilera (Centro de Ajedrez Internacional), 2001. ISBN 84-7005-223-3.
+Elo, Arpad E.: The rating of chessplayers. Past and present. Nueva York: Arco Publishing Group, 1978. ISBN 0-668-04721-6.
+Hooper, David; Whyld, Kenneth (1992). The Oxford Companion to Chess, Second edition. Oxford University Press. ISBN 0-19-866164-9. OCLC 25508610
+Kasparov, Gary: Kasparov teaches chess. Londres: Batsford, 1986. ISBN 0-7134-5526-8
+Leibs, Andrew (2004). Sports and Games of the Renaissance. Greenwood Publishing Group. ISBN 0-313-32772-6
+Murray, H.J.R. (1913). A History of Chess. Benjamin Press (originalmente publicado por Oxford University Press). ISBN 0-936317-01-9. OCLC 13472872
+Robinson, Dindy; Estes, Rebecca(1996). World Cultures Through Art Activities. Libraries Unlimited. ISBN 1-56308-271-3
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre AjedrezCommons.
+Wikilibros
+ Wikilibros alberga un libro o manual sobre Ajedrez.
+ Wikiquote alberga frases célebres de o sobre Ajedrez. Wikiquote
+ Wikinoticias tiene noticias relacionadas con Ajedrez.Wikinoticias
+ Wikcionario tiene definiciones y otra información sobre ajedrez.Wikcionario
+Federación Internacional de Ajedrez (en inglés)
+Federación Iberoamericana de Ajedrez (FIBDA)
+ICCF - International Correspondence Chess Federation (en inglés)

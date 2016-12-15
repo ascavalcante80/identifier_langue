@@ -1,0 +1,87 @@
+ran cantidad de sufijos que determinan la afiliación a un género u otro, p. ej. -keit, -heit, -ung son femeninos, -er, -ig son masculinos y -chen, -lein son neutros.
+El uso de la declinación es importante en alemán. En español queda sólo un residuo, como las diferentes formas de los pronombres personales según la función sintáctica que representen (yo, me, mí, conmigo; tú, te, ti, contigo).
+
+
+==== Flexión nominalEditar ====
+Los nombres alemanes se flexionan según:
+Tres tipos de la declinación (fuerte, débil o mixta).
+Tres géneros (masculino, femenino o neutro).
+Dos números (singular o plural).
+Cuatro casos (nominativo, genitivo, dativo o acusativo). El caso genitivo no se usa demasiado en la lengua coloquial.
+El género de una palabra es casi siempre predecible cuando se refiere a personas. Ej: Der Vater (el padre), es masculino, y Die Mutter (la madre), es femenino. Hay muy pocas excepciones de sustantivos neutros referidos a personas. Ej: Das Kind (el niño o la niña) es siempre de género neutro, al igual que Das Mädchen (la muchacha). No suele ser predecible cuando se refiere a objetos, animales o partes del cuerpo. Ej: Der Bleistift (el lápiz), es masculino, Die Schere (la tijera), es femenino y Das Notizbuch (la libreta), es neutro. De lo anterior se deducen los tres artículos en alemán según el género: der (masculino), die (femenino) y das (neutro), en el caso del singular. Para el plural, se utiliza siempre die para los tres géneros del sustantivo.
+Otra notable (pero no exclusiva) característica del alemán es la habilidad para construir palabras compuestas de complejidad teóricamente ilimitada. Por ello, a muchos inventos se les da nombres compuestos de este tipo, en lugar de inventar palabras nuevas. Por ejemplo, "frigorífico" es Kühlschrank (congelador, literalmente, 'armario de enfriar'); televisor es Fernseher (literalmente, 'visor a distancia'); telescopio es Fernrohr (literalmente, 'tubo lejano'). Los objetos antiguos también siguen el mismo patrón, como Handschuh (guantes, literalmente 'zapatos de mano'). E incluso este patrón se aplica a la terminologíá médica y científica, por ejemplo Harnröhre (uretra, literalmente 'tubo de orina'), Harnstoff (urea, literalmente 'materia de orina'), Wasserstoff (hidrógeno, literalmente 'materia de agua') o Sauerstoff (oxígeno, literalmente 'materia ácida').
+
+
+==== Flexión verbalEditar ====
+Los verbos alemanes se flexionan según:
+El tipo de conjugación, débil, fuerte (con metafonía o supletismo), o mixta.
+Tres personas, primera, segunda o tercera.
+Dos números, singular o plural.
+Dos voces, activa o pasiva, existiendo dos tipos de pasiva, la de acción (dinámica) y la de estado (estática).
+Tres modos, indicativo, subjuntivo e imperativo.
+Existe la distinción aspectual, pero no está sistematizada.
+El infinitivo de los verbos alemanes siempre termina en -n, y casi siempre en -en, salvo algunos verbos como sein (ser/estar) y tun (hacer, en un sentido menos concreto, semejante al do del inglés). También hay un pequeño número de verbos cuyo infinitivo termina en "-ern", como "verbessern" (mejorar) o "sich erinnern" (acordarse).
+El significado de los verbos puede ampliarse mediante diversos prefijos, de forma parecida a como ocurre en el español. El orden de la oración es ligeramente flexible, pero cuenta con algunos puntos fijos, como la posición inamovible del verbo conjugado dentro de la oración. Por ejemplo:
+gehen 'andar' > vorgehen 'proceder'.
+schreiben 'escribir' > ausschreiben 'anunciar', unterschreiben 'firmar'.
+La mayor parte del vocabulario alemán proviene del germánico, aunque existe un importante número de préstamos del francés, del inglés (más recientemente) y, sobre todo, del latín. De hecho, cualquier palabra procedente del latín puede ser convertida en palabra alemana siguiendo unas reglas definidas y el hablante que usa palabras construidas de esta forma partiendo del latín suele ser considerado culto por los alemanes. Por ejemplo:
+reagieren 'reaccionar' (del neolatín reagere)
+akzeptieren 'aceptar' (del latín acceptāre)
+frequentieren 'frecuentar' (del latín frequentāre)
+triumphieren 'triunfar' (del latín triumphāre)
+
+
+==== SintaxisEditar ====
+El alemán al igual que el neerlandés es una lengua V2 (específicamente SC-V2-SOV), eso significa que existen restricciones importantes del orden de los verbos finitos (flexionados según tiempo) en las oraciones principales. Más concretamente en alemán un verbo finito de la oración principal de un oración afirmativa debe aparecer en segunda posición, como en los ejemplos siguientes:
+(1) Johann kaufte ein Buch
+NProp comprar.PAS un libro
+'Juan compró un libro'
+(2) [Ein Buch] kaufte ich
+un libro comprar.PAS 1.ªSG
+'(yo) Compré un libro'
+Obsérvese que en estos dos casos en la segunda posición sintáctica aparece un verbo ("ein Buch" aunque son dos palabras forman un único sintagma). La situación es la misma para los auxiliares conjugados según tiempo gramatical, como se observa en estos otros ejemplos:
+(3) Simone wird das lesen
+NProp FUT esto leer
+'Simone leerá esto'
+(4) Heute habe ich deine Mutter gesehen
+Hoy AUX-PAS 1.ªSG tu madre ver
+'Hoy he visto a tu madre'
+Obsérvese que aquí el elemento conjugado vuelve a aparecer en segunda posición aunque el infinitivo lesen y el participio gesehen que no tienen flexión de tiempo permanencen en última posición.
+Estos hechos pueden explicarse si se postula que en alemán, como en otras lenguas, posee dos categorías funcionales adicionales el sintagma de tiempo que debe estar ocupado obligatoriamente por el verbo o axiliar con marcas de tiempo, y un sintagma complementante que debe estar obligatoriamente ocupado. Para satisfacer las reglas anteriores, los verbos léxicos deben "desplazarse" hasta esas posiciones, dejando una huella sintáctica de movimiento. Además en ese esquema puede afirmarse que en alemán en su estructura profunda tiene un orden SOV como refleja el orden relativo usual con verbos no finitos, y las aparentes desviaciones de ese orden se explican por desplazamientos subsiguientes requeridos por el énfasis de elementos y las restricciones propias de una lengua V2.
+El hecho de que el movimiento esté relacionada con el complementante se ve muy claramente cuando se analiza lo que sucede en las oraciones subordinadas, en las que el verbo ya no puede "aparecer" en V2 por estar la posición ocupada ya por el complementante:
+(5a) Ich las dieses Buch gestern.
+Leí este libro ayer.
+(5b) Ich sagte, dass ich gestern dieses Buch las.
+He dicho que leí este libro ayer'
+En estas oraciones las 'leí' aparece en segunda posición (V2) en la oración principal, pero en la subordinada las aparece al final porque la conjunción dass impide que "ascienda" hasta esa posición.
+
+
+== Véase tambiénEditar ==
+Declinación del alemán
+Fonología del alemán
+Gramática del alemán
+Sütterlin
+Anexo:Exónimos españoles para topónimos alemanes
+Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz
+Donaudampfschiffahrtselektrizitätenhauptbetriebswerkbauunterbeamtengesellschaft
+
+
+== ReferenciasEditar ==
+
+
+=== BibliografíaEditar ===
+Hawkins, John A. (2009). «4. German». En B. Comrie. The World’s Major Languages (en inglés) (2ª edición). Routledge. pp. 86–109. ISBN 0-203-30152-8. 
+Kohler, Klaus J. (1977), Einführung in die Phonetik des Deutschen, Berlin: E. Schmidt 
+Kohler, Klaus J. (1990), «German», Journal of the International Phonetic Association 20 (1): 48–50, doi:10.1017/S0025100300004084 
+Kohler, Klaus J. (1999), «German», Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet, Cambridge: Cambridge University Press, pp. 86–89, doi:10.1017/S0025100300004874, ISBN 0-521-65236-7 
+
+
+== Enlaces externosEditar ==
+
+Wikilibros
+ Wikilibros alberga un libro o manual sobre idioma alemán.
+ Wikcionario tiene definiciones y otra información sobre idioma alemán.Wikcionario
+Wikcionario de español, también con entradas de alemán.
+Goethe-Institut en España.
+Historia de la lengua alemana (Universidad de Salamanca).
+A Brief History of the German Language. Center for Austrian Studies.

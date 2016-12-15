@@ -1,0 +1,10 @@
+schreven als {} of als , is een deelverzameling van elke verzameling. De lege verzameling is altijd een echte deelverzameling, behalve van zichzelf.
+Het begrip hyponiem in de taal komt overeen met het begrip deelverzameling.
+
+
+== Machtsverzameling ==
+De verzameling van alle deelverzamelingen van een verzameling A wordt ook wel de machtsverzameling van A genoemd en genoteerd als  en ook wel als . Er geldt dus per definitie:
+.
+
+
+== Bronvermelding ==

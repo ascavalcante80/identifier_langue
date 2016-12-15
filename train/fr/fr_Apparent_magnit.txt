@@ -1,0 +1,23 @@
+La magnitude apparente est une mesure de l'irradiance d'un objet céleste observé depuis la Terre. Utilisée quasi-exclusivement en astronomie, la magnitude est une échelle logarithmique inverse dans laquelle la magnitude augmente d'une unité lorsque l'irradiance est divisée par 2,5. Il est habituel de définir la magnitude zéro comme étant celle de l'étoile Véga, aux erreurs d'étalonnage près.
+La magnitude peut être donnée dans une ou plusieurs bandes spectrales (exemple filtres U, B, V du système photométrique de Johnson). Elle peut être également sommée sur l'ensemble du flux émis par le spectre électromagnétique (magnitude bolométrique).
+
+
+== OrigineModifier ==
+L'origine de l'échelle des magnitudes remonte à l'Antiquité où l'on pense qu'au IIe siècle av. J.-C. Hipparque classait déjà les étoiles en six catégories (appelées « grandeurs ») selon leur grandeur apparente. Les étoiles les plus brillantes étaient de première magnitude, les suivantes de seconde magnitude et ainsi de suite jusqu'à la sixième magnitude pour les étoiles les moins brillantes encore visibles à l'œil nu, ce qui explique le caractère inversé de l'échelle par rapport à la luminosité perçue. Cette méthode de classement par luminosité a été ensuite popularisée dans l'Almageste de Ptolémée.
+
+En 1856, Norman Pogson remarqua qu'une différence de cinq magnitudes dans le système traditionnel correspondait en intensité lumineuse à un rapport de cent (voir figure ci-dessus). En d'autres termes, l'échelle est logarithmique. L'explication vient aujourd'hui du fait que la sensibilité de l'œil à la lumière est logarithmique (loi de Weber-Fechner). Ainsi, l'échelle des magnitudes n'est que la transcription mathématique de la perception de l'œil.
+
+
+== Formulation analytiqueModifier ==
+La magnitude apparente  s’écrit :
+
+où  est le flux effectivement reçu sur Terre, qui lui s'exprime comme étant la luminosité  intrinsèque de l'étoile, divisée par le carré de la distance  exprimée en parsecs et ramenée par convention à 10 parsecs par suite de la définition de la magnitude absolue. Le terme  est une constante (en fait un flux  de référence) permettant de définir l'origine de l'échelle. Communément, ce flux de référence est basé sur un étalonnage de l'étoile Véga à 555,6 nm de 3,52×10-23 W⋅m-2⋅Hz-1 pour une magnitude de 0,048.
+Par le passé, la référence était α Ursae Minoris, l'étoile polaire, de magnitude 2, mais elle a été abandonnée en raison de sa variabilité[réf. nécessaire]. De même, la magnitude prétendument nulle de Véga fut aussi utilisée, mais elle a été abandonnée, du moins dans l'infrarouge, après la découverte de son excès en infrarouge thermique. Cette découverte a été faite lors du lancement du satellite IRAS, lors de son étalonnage vers l'étoile Véga. On constata alors qu'elle est entourée de poussières. L'étalonnage actuel est néanmoins basé sur cette étoile.
+
+
+== Différentes magnitudesModifier ==
+
+
+=== Bande spectraleModifier ===
+Lorsque la luminosité mesurée concerne l'ensemble des longueurs d'onde du spectre électromagnétique, il s'agit d'une magnitude bolométrique.
+Cependant, dans la plupart des cas, la magnitude ne mesure qu'une partie étroite du spectre électromagné

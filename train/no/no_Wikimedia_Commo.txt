@@ -1,0 +1,7 @@
+Denne artikkelen nevner Wikimedia eller et av Wikimedias prosjekter. Vær oppmerksom på at Wikipedia er et Wikimedia-prosjekt.
+
+Wikimedia Commons er et wikimedia-prosjekt som ble satt i gang den 7. september 2004. Prosjektet har som formål å bygge en sentral database for å gjøre bilder, videofilmer og musikk tilgjengelig for alle wikimedias prosjekter.
+Prosjektets filer er direkte tilgjengelige for de andre wikimediaprosjektene, herunder, Wikipedia, Wiktionary og Wikibooks.
+Dersom det i en artikkel legges inn lenke til en fil som ikke finnes på det lokale serverområdet, vil programvaren lete i Commons. Dette skjer uten at brukeren merker noen forsinkelse, ettersom det pågår samtidig med innlastingen av andre deler av siden. Dermed er ikke filene bare lettere å finne enn om man måtte lete i forskjellige prosjekter; det er også mulig å slippe opplasting av samme fil til flere prosjekter uten at brukerne merker noen forskjell i kvalitet.
+Wikimedia Commons fungerer på samme måte som andre wikimediaprosjekter, med frivillige brukere som vedlikeholder samlingen av mediafiler. Ettersom det er et fellessprosjekt for alle wikipediaer har språk vært en spesiell utfordring.
+For å minske faren for at det lastes opp filer til Wikimedia Commons som ikke er frigitt av rettighetshaver, krever Commons at brukerne er registrert og innlogget for at de skal kunne laste opp filer. Det er også strengere 

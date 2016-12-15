@@ -1,0 +1,45 @@
+Cairan adalah salah satu dari empat fase benda yang volumenya tetap dalam kondisi suhu dan tekanan tetap; dan, bentuknya ditentukan oleh wadah penampungnya. Cairan juga melakukan tekanan kepada sisi wadahnya dan juga kepada benda yang terdapat dalam cairan tersebut; tekanan ini disalurkan ke seluruh arah.
+
+
+== Hydrostatik ==
+
+
+=== Tekanan ===
+
+
+==== Tekanan hydrostatik ====
+Bila cairan itu diam dalam medan gravitasi yang sama, tekanan  dalam titik tertentu adalah
+, satuan SI : Pascal: N/m²=kg/ms²
+dimana  adalah "densitas" dari cairan (dianggap tetap) dan  adalah kedalaman titik tersebut di bawah permukaan. Catatan, formula ini menganggap tekanan pada permukaan adalah nol, relatif terhadap ketinggian permukaan.
+
+
+==== Tekanan piston atau tekanan hydrolik ====
+Jika permukaan suatu zat cair ditekan dari luar, maka tekanan ini akan bergerak dikarenakan sifat cairan yang flexibel ke segala arah dengan kekuatan yang sama. Rumus: . oder .
+
+
+=== Gaya Dorong atau Prinsip Archimedes ===
+Sebagai gaya dorong (Fd) dimaksudkan berat yang "hilang", yang dialami sebuah benda bila benda tersebut diletakkan di atas air. Besar suatu gaya dorong adalah sama besarnya dengan jumlah suatu cairan yang ditekan oleh benda tersebut. Atau dengan kata lain, gaya dorong tergantung dari massa jenis cairan tersebut dan volumenya, sedangkan gaya tekan ke bawah oleh benda di air juga tergantung massa jenis benda tersebut serta volumenya. Dimana arah gaya dorong ke atas sedangkan berat benda(G) yang menekan cairan ke bawah sesuai arah gravitasi. Percepatan (a) yang dilakukan cairan yang ditekan sama besarnya dengan percepatan gravitasi (g], sehingga yang memainkan peranan apakah suatu benda mengapung, melayang, atau tenggelam adalah massa jenis benda dan zat cair serta volume benda dan zat cair. Sesuai hukum Archimedes maka dapat kita katakan ada 3 hal yang dapat terjadi: a. Mengapung bila G< Fd, massa jenis benda tersebut < massa jenis cairan
+b. Melayang bila G=Fd, massa jenis benda tersebut = massa jenis cairan
+c. Tenggelam bila G>Fd, massa jenis benda tersebut > massa jenis cairan
+Contoh 1: Sebuah benda mempunyai massa m= 2 kg dan volume v=800cm³. Benda ini melayang di arir dan tergantung di sebuah pegas (g=10cm/s²). Kemudian tampak pada pegas digital tersebut gaya sebesar 12 N. Buktikan
+
+Berat tersisa yang ditahan oleh pegas Contoh 2: Sebuah Balok dengan sisi a= 10cm , b = 15 cm , c = 20cm dengan massa 1 kg, berada di dalam air yang bersuhu T=4 °C. Dalam keseimbangan benda tersebut tampak sepertiga dari volume benda tersebut diam di dalam air. Maka,  
+
+
+== Hydrodynamik ==
+
+
+== Viskositas, laminar dan turbulent flow ==
+Viskositas adalah suatu besaran yang menggambarkan sifat kelekatan dari zat cair atau pun gas. Contohnya minyak mempunyai viskositas yang besar. Sebagai standard air diberikan viskositas 1. Darah mempunyai nilai viskositas tertentu;bilamana nilai viskositasnya sangat tinggi dapat menimbulkan bahaya trombose.
+
+
+== Gaya antarmolekul, tegangan permukaan dan Kapillaritas ==
+
+
+=== Gaya antarmolekul atau Ikatan Van der Waals ===
+Ikatan Van der Waals adalah istilah umum untuk gaya yang terjadi di antara molekul baik pada zat padat, zat cair, ataupun gas. Pada zat padat dan zat cair gaya ini menentukan besarnya volume Dari tipe efeknya dapat dibedakan menjadi= Kohesi, jika gaya tarik terjadi di antara molekul suatu benda yang sejenis. Akibat dari Kohesi adalah yang dinamakan tegangan permukaaan. Adhesi adalah gaya tarik menarik yang timbul di antara molekul2 yang berbeda. Daya serap adalah gaya adhesi yang timbul antara molekul zat padat dengan zat cair atau zat padat dan gas.
+
+
+=== Tegangan permukaan dan Kapilaritas ===
+Bentuk suatu materi dipisahkan satu sama lain oleh lapisan pembatasnya.Lapisan pembatas menunjukkan sifat yang spesial. Cairan memiliki tegangan permukaan dan kapilaritasDalam suatu zat cair adalah gaya antar molekul sama besar ke segala arah , sehingga mereka saling menetralkan. Pada suatu permukaan molekul zat padat ada tegangan pada yang menguasai permukaannnya dengan arah gaya ke dalam molekul tersebut. Sebagai contoh alveolus.
+Tegangan permukaan mengakibatkan pengurangan atau reduksi dari permukaan suatu molekul atau dengan kata lain molekul mempunyai kecenderungan untuk mengecil. Pada molekul air tegangan ini dikarenakan ikatan hy

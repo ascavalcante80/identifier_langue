@@ -1,0 +1,25 @@
+f der Unterseite ein Gitter aus Quadraten, deren Seitenlänge bekannt ist (z. B. 1 Millimeter). Die Tafel wird auf die kartierte Fläche gelegt und der Flächeninhalt durch Auszählen der Quadrate, die innerhalb der Fläche liegen, ermittelt.
+Bei langgestreckten Flächen kann eine Planimeterharfe eingesetzt werden. Diese besteht aus einem Blatt mit parallelen Linien, deren einheitlicher Abstand bekannt ist. Die Planimeterharfe wird so auf die Fläche gelegt, dass die Linien etwa senkrecht zur Längsrichtung der Fläche stehen. Dadurch wird die Fläche in Trapeze unterteilt, deren Mittellinien mit einem Stechzirkel addiert werden. Aus der Summe der Längen der Mittellinien und dem Linienabstand kann der Flächeninhalt berechnet werden.
+
+Besonders bei Flächen mit krummliniger Begrenzung eignet sich das Planimeter, ein mechanisches Integrationsinstrument, zur Ermittlungs des Flächeninhalts. Mit dem Fahrstift des Planimeters muss die Begrenzung abgefahren werden. Beim Umfahren der Fläche dreht sich eine Rolle und an einem mechanischen oder elektronischen Zählwerk können die Drehung der Rolle und die Größe der Fläche abgelesen werden. Die Genauigkeit hängt davon ab, wie genau der Bearbeiter mit dem Fahrstift den Flächenrand abfährt. Das Ergebnis ist um so genauer, je kleiner der Umfang im Verhältnis zum Flächeninhalt ist.
+Die Flächenberechnung aus Feldmaßen kann angewendet werden, wenn sich die Fläche in Dreiecke und Trapeze zerlegen lässt und die zur Flächenberechnung benötigten Strecken im Felde gemessen sind. Wenn die Eckpunkte der Fläche im Orthogonalverfahren auf eine Messungslinie aufgewinkelt wurden, kann die Fläche auch mit der Gaußschen Trapezformel berechnet werden.
+Heute werden Flächeninhalte häufig aus Koordinaten berechnet. Dies können beispielsweise die Koordinaten von Grenzpunkten im Liegenschaftskataster oder Eckpunkte einer Fläche in einem Geoinformationssystem sein. Oft sind die Eckpunkte durch gerade Linien, gelegentlich auch durch Kreisbögen verbunden. Daher kann der Flächeninhalt mit der Gaußschen Trapezformel berechnet werden. Bei Kreisbögen sind die Kreissegmente zwischen Polygonseite und Kreisbogen zu berücksichtigen. Ist in einem Geoinformationssystem der Inhalt einer unregelmäßigeren Fläche zu ermitteln, kann die Fläche durch ein Polygon mit kurzen Seitenlängen approximiert werden.
+
+
+== Siehe auchBearbeiten ==
+Größenordnung (Fläche)
+Flächenmaß
+Grenzfläche
+Grundfläche
+Mantelfläche
+Hausdorff-Maß
+
+
+== EinzelnachweiseBearbeiten ==
+↑ Heribert Kahmen: Vermessungskunde I. Walter der Gruyter, Berlin 1988.
+
+
+== WeblinksBearbeiten ==
+
+Umrechnung: Rundes Kabel, Draht und Leitung - Durchmesser in Kreis-Querschnitt und Querschnitt in Durchmesser
+Eric W. Weisstein: Area. In: MathWorld (englisch).

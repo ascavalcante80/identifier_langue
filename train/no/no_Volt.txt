@@ -1,0 +1,14 @@
+Volt er en avledet SI-enhet som beskriver verdien av en elektrisk spenning. Symbolet for volt er V. Et vanlig batteri (saltsyre/sink) holder ca. 1.5 volt som nytt.
+En volt er definert som det elektriske potensialet (spenningen) over en leder når denne avgir 1 watt (W) effekt og fører en strøm på 1 ampere (A).
+Dette betyr at lederen har en motstandsverdi på 1 Ohm, men det vedrører ikke definisjonen.
+Volt kan uttrykkes med andre dimensjoner:
+
+J joule
+C coulomb
+W watt
+A ampere
+N newton
+m meter
+s sekund
+kg kilogram
+Volt er oppkalt etter den italienske vitenskapsmannen Alessandro Vo

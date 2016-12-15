@@ -1,0 +1,56 @@
+Web tarayıcısı, İnternet tarayıcısı, Ağ tarayıcısı veya Web göz atıcısı (İngilizce: Web Browser) kullanıcıların ağ sunucuları üzerinde yer alan HTML veya daha gelişmiş sayfaların açılmasını sağlayan bir yazılımdır.
+Standart web tarayıcısı; metin veya çoklu ortam dosyalarını açabilir, kaydedebilir, HTML'den HTTP'ye bütün protokolleri ve standartları destekler, açılan sayfada aranan nesneyi bulabilir, sık kullanılanlar ve geçmiş listesi yapabilir, genel ağa dosya yükleme ve genel ağdan dosya indirme yapabilir, e-posta ve metin editörleriyle bütünleşebilir. Linkleri (bağlantı) izleyebilir. Dosya sistemlerini okuyabilir, bağlayabilir, kaydedebilir. Çokluortam dosyalarını oynatabilir veya kaydedebilir, sayfanın çıktısını alabilir, çevrimdışı çalışabilir.
+Bir web tarayıcısı işletim sisteminin en gözde elemanlarındandır. HTML kodlarını sonkullanıcıya sunar. Tarayıcı hizmetleri hız, görünüm, sistemle bütünleşme, güvenlik, eklentiler, çerezler, sekmelilik, güvenli sörf, CSS ve RSS özellikleri, JavaScript özelliği ile bir yarış halindedir.
+
+
+== Kullanıcı Arabirimi ==
+Önemli web tarayıcılarında ortak olarak bulunan kullanıcı arabirimleri bunlardır:
+Önceki ve ilerideki uğraşa gitmek için İleri ve Geri tuşları.
+Tarihçe, daha önce ziyaret edilen siteleri gösterir.
+
+Mevcut sayfayı yeniden yüklemek için Yenile butonu
+Uğraşıyı durdurmak için Dur butonu. Bazı tarayıcılarda dur butonuyla yenileme butonu birleşmiştir.
+Ana sayfaya dönmek için Home butonu
+İstenilen uğraşa girmek ve görüntülemek için Adres Çubuğu
+Bir arama motoruna bağlı olmak şartıyla Arama Çubuğu
+Uğraşının yüklenirken ilermesini ve aynı zamanda imleçle üzerine gelindiğinde URI bağlantıları görüntüleyen ve sayfa yakınlaştırma özelliği olan Durum Çubuğu
+Ayrıca önemli web tarayıcıları web sayfası içinde arama özelliklerine sahiptirler.
+
+
+== En çok kullanılan web tarayıcıları ==
+Çıkış tarihine göre:
+WorldWideWeb, 26 Şubat 1991
+Mosaic, 22 Nisan 1993
+Netscape Navigator ve Netscape Communicator, 13 Ekim 1994
+Internet Explorer, 16 Ağustos 1995
+Opera, 1996
+Mozilla Navigator, 5 Haziran 2002
+Safari, 7 Ocak 2003
+Mozilla Firefox, 9 Kasım 2004
+Google Chrome, 2 Eylül 2008
+Yandex Browser, 1 Ekim 2012
+
+
+== Web tarayıcı modelleri ==
+Gecko tabanlı web tarayıcıları
+Mozilla
+Mozilla Firefox
+Netscape
+Galeon
+K-Meleon
+Camino
+
+Internet Explorer tabanlı web tarayıcıları
+Maxthon (Eski adı MyIE2)
+NetCaptor
+Crazy Browser
+NeoPlanet
+MSN Explorer
+Avant Browser
+Cibrowser
+
+KHTML tabanlı web tarayıcıları
+Konqueror
+ABrowse
+Phalanx Web Tarayıcısı
+OmniWeb (

@@ -1,0 +1,7 @@
+A volt (jele V) az elektromos feszültség vagy más néven potenciálkülönbség mértékegysége az SI rendszerben. Nevét Alessandro Volta (1745–1827) olasz fizikusról kapta. Az általa előállított Volta-elem feszültsége megközelítőleg 1 V. A napjainkban használt ceruzaelemek névleges feszültsége 1,5 V, a Magyarországon használt hálózati váltakozóáram effektív feszültsége 230 V.
+
+
+== Definíciói ==
+A volt a joule és a coulomb hányadosaként értelmezhető. Ezt a definícióját elsősorban az elektrosztatikában használják.
+Két pont között 1 Volt a feszültség/potenciálkülönbség, ha 1 Coulomb átvitelére 1 Joule munkára van szükség.
+A volt a watt és az amper hányadosaként is felírható. Ezt a definícióját elsősorban az elektrodinamikában és elektrotechnikában hasz

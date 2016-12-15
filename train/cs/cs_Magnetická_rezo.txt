@@ -1,0 +1,44 @@
+Magnetická rezonance (též MR, MRI, z anglického „magnetic resonance imaging“) je zobrazovací technika používaná především ve zdravotnictví k zobrazení vnitřních orgánů lidského těla. Pomocí MRI je možné získat řezy určité oblasti těla, ty dále zpracovávat a spojovat až třeba k výslednému 3D obrazu požadovaného orgánu. Magnetická rezonance využívá velké magnetické pole a elektromagnetické vlnění s vysokou frekvencí. Na rozdíl od CT vyšetření, které je s MR někdy alternativní, tedy nenese žádná rizika způsobená zářením (nulová radiační zátěž). Nevýhodou vyšetření MR je určitá hlučnost zařízení. Podstatou barevného odlišení jednotlivých tkání je jejich rozdílné chování při stejném vnějším působení. Vyšetření se provádí buď s nebo bez použití kontrastní látky (gadolinium vpichem do žíly).
+Jako synonymum bývá někdy používáno výrazu jaderná tomografie, od něho je ale upouštěno, protože mylně vzbuzuje dojem souvislosti s jadernou energií.
+Další rozvoj této metody vedl v poslední době k vývoji funkční magnetické rezonance (fMRI) a DTI = DT-MRI.
+Přístroj magnetické rezonance obsluhuje radiologický asistent.
+
+
+== Fyzikální princip ==
+
+Fyzikální princip magnetické rezonance (MRI) představuje nukleární magnetická rezonance (NMR). Ta využívá skutečnosti, že protony stejně jako neutrony mají určitý vlastní moment tzv. spin díky němuž získává celé atomové jádro určitý magnetický moment.
+Pokud je takovéto rotující jádro umístěno v konstantním magnetickém poli  dochází k tomu, že se nasměruje podle působení tohoto pole a osa jádra bude lehce rotovat kolem směru působícího pole . Tento pohyb vzniká při každé změně působícího magnetického pole, dokud se jádro v dané poloze neustálí. Pokud vnější pole přestane působit, vrací se jádro do své původní klidové polohy. Pokud se přidá druhé kolmo působící (transverzální) pole  začne jádro opět rotovat. Aby byla jádra udržena ve stálém pohybu, používá se vysokofrekvenční magnetické pole, které současně rotuje v rovině XY. Dříve používaná pole o velikosti 0,2-0,5 Tesla nejsou dnes již obvyklá a nahrazují je přístroje s poli o velikostech kolem 7 Tesla (magnetické pole Země je v ČR zhruba 50 μT). Ve výzkumu jsou běžná pole až do velikosti 20 Tesla.
+Pro vyvolání rotačního pohybu kolem osy má každé jádro určitou rezonanční frekvenci, obvykle nazývanou jako vlastní frekvence. Ta závisí na působícím magnetickém poli a na vnitřní struktuře jádra. Vlastní frekvence pro vodík je při 1 Tesla 42,58 MHz, protože ze všech prvků je vodík v lidském těle nejpočetněji zastoupen, používá se právě frekvencí podobných této. Volbou velikosti prvního statického magnetického pole  a volby velikosti pro transverzální magnetické pole  se dá velice přesně určit, která jádra budou v rezonanci. Rezonancí je magnetický moment  jádra překlopen o 90° do roviny XY a osa pak rotuje podle transverzálního pole.
+Pokud je transverzální pole odpojeno, rotuje jádro stále v rovině XY. Přiblížením cívky do blízkosti rotujícího magnetického momentu se v ní indukuje napětí, které je následně měřeno. Zjednodušeně je velikost naměřeného napětí závislá na poloze a typu tkáně.
+
+
+== Vznik obrazu ==
+Na základě naměřeného indukovaného napětí a dalších parametrů je signál pomocí složitých procesů a algoritmů převeden na škálu šedé. Právě kvůli tomu, že výsledný signál závisí na mnoha parametrech, nedá se použít žádné stupnice, která by přesně určila jednotlivé tkáně, proto se k interpretaci obrazů používá spíše rozhraní, na kterých se mění intensita signálu.
+
+
+== Vlastnosti ==
+
+
+=== Přednosti magnetické rezonance ===
+
+Výhodou MRI vůči ostatním zobrazovacím metodám v diagnostické radiologii je větší přesnost při zobrazení většiny orgánů, jež je důsledkem rozdílné intenzity signálu u odlišných měkkých tkání. Navíc toto zobrazení probíhá bez možného škodlivého ionizujícího záření. Některé orgány jako nervy či mozková tkáň bylo možné neinvazivně zobrazovat až právě pomocí MRI. Díky rozsahu nastavení vyšetření je možné dosáhnout rozlišení, které dalece přesahuje možnosti rentgenu či CT. Dalšího zlepšení může být ještě dosaženo podáním kontrastní látky, která pomůže odhalit přítomnost zánětů nebo nádorových tkání.
+Nový vývoj umožnil zkrátit časový interval získání jednoho snímku na několik milisekund. To umožnilo tzv. MRI-Fluoroskopii, při které jsou pohybující se orgány zobrazovány v reálném čase, což nachází široké uplatnění v intervenční radiologii.
+
+
+=== Nevýhody magnetické rezonance ===
+Hlavní nevýhodou této metody jsou vysoké pořizovací i provozní náklady, stejně jako vyšší časové nároky oproti jiným vyšetřením.
+Pro pacienty jsou hlavním nebezpečím vedlejší účinky při přítomnosti kovových materiálů v těle, které se mohou zahřát a způsobovat nebezpečí. U nových materiálů by neměl být ale žádný problém. Větší nebezpečí hrozí u pacientů s kardiostimulátory a jinými elektrickými přístroji, u kterých je ve většině případů nemožné vyšetření provést.
+Ve srovnání s CT se artefakty vyskytují častěji a snižují kvalitu výsledného obrazu. Nedají se s tím vyšetřovat pohybující se části těla (typicky střevní kličky). Zatímco například CT vyšetření lze u moderních přístrojů vytvořit velmi rychle a tím vliv tohoto pohybu eliminovat, u magnetické rezonance to není možné.
+
+
+=== Kontraindikace ===
+Kardiostimulátory. Především přístroje vyrobené před rokem 2000 mohou být během vyšetření poškozeny
+Kovová tělesa z feromagnetického materiálu v nevhodných místech (oko, mozek)
+První trimestr těhotenství
+Ušní implantáty, naslouchadla
+Velká tetování ve vyšetřované oblasti
+Klaustrofobie
+
+
+== Délka vyšetření ==
+Trvání jednoho MRI vyšetření se odvíjí od vyšetřované části těla, požadavků ošetřujícího lékaře a používaného přístroje. Nejčastěji prováděná vyšetření trvají 10-30 minut, někdy 45 minut nebo více. Čím větší je požadované rozlišení, tím se do

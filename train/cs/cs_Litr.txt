@@ -1,0 +1,27 @@
+Litr je metrická jednotka objemu odpovídající krychlovému decimetru. Není jednotkou SI, i když je akceptováno její používání společně s SI jednotkami. Značí se malým písmenem l. Kvůli možnosti záměny s číslicí 1 a písmenem i bylo v roce 1979 rozhodnuto, že se smí značit i velkým písmenem L, přestože do té doby byla velká písmena rezervována pro jednotky odvozené z jmen osob. Někdy se též (třebaže v rozporu s SI) používá malé psací písmeno ℓ (U+2113).
+
+
+== Definice ==
+Litr je roven
+1 dm³
+0,001 m³
+1000 cm³
+objemu krychle o hraně 1 dm (=10 cm)
+Pro porovnání objemů viz 1 E-3 m³.
+
+
+== Odvozené jednotky objemu ==
+Litr se pomocí předpon soustavy SI rozšiřuje do dalších jednotek:
+Mililitr, značený ml, je metrická jednotka objemu, rovná jedné tisícině litru, tzn. 10−6 m³, což je přesně rovno 1 cm³. Jméno je složeninou předpony soustavy SI mili (= tisícina) a názvu základnější jednotky litr.
+Pro porovnání objemů řádově jednoho mililitru viz 1 E-6 m³.
+Centilitr, značený cl, je metrická jednotka objemu, rovná jedné setině litru, tzn. 10−5 m³. Jméno je složeninou předpony soustavy SI centi (= setina) a názvu základnější jednotky litr.
+Pro porovnání objemů řádově jednoho centilitru viz 1 E-5 m³.
+Decilitr, značený dl, je jednotka objemu rovná jedné desetině litru, tzn. 10−4 m³. Jméno je složeninou předpony soustavy SI deci (= desetina) a názvu základnější jednotky litr. V lidovém úzu se decilitru říká deci a často se značí nesprávně jako dcl.
+Jeden decilitr je přibližně objem běžného šálku kávy. Pro porovnání s dalšími řádově stejnými objemy viz 1 E-4 m³.
+Hektolitr, značený hl, je metrická jednotka objemu, rovná 100 litrům, tzn. 10−1 m³ neboli 0,1 m³. Jméno je složeninou předpony soustavy SI hekto (= sto) a názvu základnější jednotky litr.
+Pro porovnání objemů řádově jednoho hektolitru viz 1 E-1 m³.
+
+
+== Historie ==
+Litr byl roku 1793 zaveden ve Francii jako jedna z nových „republikánských jednotek“, zavedených za francouzské revoluce. Byl definován jako jeden decimetr krychlový; jeho jméno bylo odvozeno z jména starší francouzské jednotky litron (pocházejícího z řeckého λιτρα (litra), (značícího jednotku hmotnosti).
+V roce 1901 byl na 3. konferenci CGPM litr předefinován jako objem 1 kilogramu čisté vody za její maximální hustoty (tzn. př

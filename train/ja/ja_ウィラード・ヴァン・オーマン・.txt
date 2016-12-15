@@ -1,0 +1,70 @@
+ウィラード・ヴァン・オーマン・クワイン （Willard van Orman Quine, 1908年6月25日 - 2000年12月25日）は20世紀アメリカを代表する哲学者・論理学者のひとり。分析哲学の伝統の正当な継承者であるが、哲学は概念分析ではないという考えの主たる提唱者でもあった。母校であるハーバード大学で哲学と数学を教えた。主要な業績に『経験主義の2つのドグマ』があり、分析命題と総合命題とを区別できるとする論理実証主義がはらむような経験主義を批判し、個別の命題だけでは経験によった確証は得られない（確証されるのは命題体系全体である）とする確証の全体論（ホーリズム）を提唱した（参考：デュエム-クワイン・テーゼ）。『ことばと対象』ではさらにこの立場を発展させ、有名な翻訳の不確定性テーゼを導入した。
+
+
+== 生涯 ==
+オハイオ州アクロンで育った。父は工場経営者で、母は学校の教師だった。1930年、オバーリン大学で数学と哲学で学士号を取得し、1932年にはハーバード大学で哲学の博士号を授けた。指導教官は、アルフレッド・ノース・ホワイトヘッドだった。のちハーバードのジュニア・フェローに選ばれ、4年間、教育を行う義務を免除された。1932年から1933年の間に、フェローシップのおかげで、ヨーロッパを旅しアルフレッド・タルスキーをはじめとするすぐれた論理学者やルドルフ・カルナップのようなウィーン学派のメンバーたちと交流する機会を得た。
+タルスキーが、1939年秋にケンブリッジで開かれた科学の統一会議に招かれたのは、クワインの紹介を通じてだった。会議に出席するために、タルスキーはナチス軍がポーランドを侵攻する前にグダニスク（ポーランド北方の都市）を離れ、アメリカに渡った。タルスキーは第二次大戦を生き延び、その後44年間アメリカで仕事を続けた。
+第二次大戦中、クワインはブラジルやポルトガルで論理学の講義を受け持った。1942年から1946年にかけてはアメリカ海軍の諜報部で働き、少佐まで昇進した。1956年から1978年までハーバード大学のエドガー・パース哲学教授職をつとめた。
+ハーバードの彼の研究室は、ドナルド・デイヴィッドソン、デイヴィッド・ルイス、ダニエル・デネット、ギルバート・ハーマン、ダグフィン・フォレスダール、王浩、ユーグ・ルブラン、ヘンリー・ヒズ など、多くの著名な哲学者を輩出した。また最初の教え子の一人に、鶴見俊輔がいる。
+クワインは「わが人生の時（The Time of My Life）」（1986年）という自伝を書いており、その生涯について詳しく知ることができる。またクワインは荘厳でウィットに富む英語の詩をよく書いた。彼には言語の才能があり、フランス語やスペイン語、ポルトガル語やドイツ語でも講義することができた。しかし、論理実証主義者たちと同様、過去の大哲学者たちにはほとんど何の興味も示さなかった。哲学史の授業でヒュームについて教授したのが、唯一の例外だった。甥のロバート・クワインはギタリストである。
+
+
+== 業績 ==
+クワインの博士論文と初期の著作は形式論理学と集合論についてのものである。第二次大戦後になってようやく、存在論や認識論、言語についての独創的な論文を発表し、頭角を現した。1960年代に、「自然化された認識論」という論文を発表。この論文は、自然科学の方法とツールを用いて、知識と意味についての主要な質問のすべてに答えようというものだった。クワインは、自然科学に先立ってその理論的立脚点となり科学を正当化する「第一の学としての哲学」なるものがあるべきだという考えを拒絶する。こうした観点は、クワインの哲学的自然主義にとって本質的なものである。
+
+
+=== 分析命題と総合命題を区別することはできない ===
+
+1930年代から1940年にかけて、カルナップやネルソン・グッドマンそれにアルフレッド・タルスキーや他の哲学者たちと議論をする中で、クワインは「分析」命題と「総合」命題との間の区別がそれほど強固なものではないのではないかと疑問を持つようになった。「分析」命題とは、ただ言葉の意味によって真である命題であり、たとえば「すべての独身者は結婚していない」といった命題のことである。「総合」命題とは、その真偽が世界についての事実がどうあるかに依存する命題であり、たとえば「猫がマットの上にいる」といった命題である。これら命題の区別こそ論理実証主義にとって核心である。クワインは1951年に発表した論文『経験主義の二つのドグマ』（Two Dogmas of Empiricism）においてこれを批判。クワインの批判によって論理実証主義は衰退したともいわれる。なおクワイン自身は、分析-総合の区別を掘り崩すのに検証主義を用いるほどに、検証主義者であり続けた。
+クワインは他の分析哲学者と同様に、「分析的」とは「意味だけによって真である」という定義を受け入れる。他の分析哲学者と異なるのは、定義とは究極のところ循環的であると結論付けるところである（「すべての独身者は結婚していない」が真であるのは、独身者の「意味」つまり、「結婚していない者」という「独身者」の定義によるが、これは同義反復的であり、一種の循環論法である）。くだいて言えば、クワインは分析的言明が定義によって真となることは受け入れるけれど、「定義による真理」なる考えには満足できないと主張するのである。
+クワインの分析性に対する主要な批判は、同義語（意味の同等性）という考えに関してのものである。つまりある言明が分析的であるのは、その言明が「全ての黒いものは黒い」という類いの言明である場合だけである（これは論理学における真理も同様である）。同義牲に対する批判は、付帯情報（collateral information）の問題に関わってくる。「すべての結婚していない男は独身者である」という文と「黒い犬がいる」という文の間には違いがあると（前者は「分析的」言明であり、後者は「総合的」言明であるという風に）我々は直感的に感じるが、能力のある英語話者ならば、その両方の文の真偽は（わいろや脅しのような外的要因は除くとしても）状況による、ということに同意するだろう。というのは、能力ある話者ならば、歴史的に黒い犬が存在したかどうかという付帯情報にアクセスすることができるからである。クワインは、普遍的に知られた付帯情報と概念的もしくは分析的真理とは区別がつかないと主張する。しかし、クワインの哲学は、なぜある言明が直感的に「分析的」であると感じられ、ほかの言明はそうでないのかについて、これまでにない納得のいく説明を与えてくれる訳ではない。
+分析性と総合性に対するクワインの反発についてのもう一つの取り組みは、論理的可能性という様相の概念から生じてくる。ウィトゲンシュタイン的意味論は、意味のある言明は各々、可能世界の空間にある一つの領域と結びついている、と主張した。一般的にそして自信満々に信じられている[だけの]真理と、必然的に真であるような真理の間には区別はないと論じつつ、クワインはそのような[可能世界の]空間の概念を、問題のあるものと考えた。
+
+
+=== 確証の全体論と存在論的相対性 ===
+「翻訳の不確定性」とその延長上にあるクワインの仕事を支えている中心的なテーゼとは「存在論的相対性」ならびに「確証の全体論」に関する格率である。確証の「全体論」の前提とは、いかなる理論ならびに理論から導出される命題も経験的なデータ（データ、センス・データ、証拠）によって過小決定されているというものである。
+いくつかの理論は、データに一致しないか[検証することが]実行不可能なほどに複雑であり、正当でないが、同様に多くの正当な代案もある。ホメロスの神々の存在は偽であるという(観察不可能な)ギリシャの仮説がある一方で、(観察不可能な)電磁波に関する我々の仮説は真であり、両者はただ我々が自身の観察を説明する能力によってのみ正当化されるのである。
+クワインは『経験主義の二つのドグマ』において次のように結論を下した。
+
+「私は経験主義者として、科学の概念図式を道具として考え続けてきたが、結局のところ、過去の経験に照らして未来の経験を予測するのである。物理的対象は、経験の用語による定義ではないが、しかし単に、認識論的に、ホメロスの神々と比較できるような仮構にも帰すことはできないような手近な媒介者として状況の中に概念的に持ち込まれる。[...]私は物理学者として、ホメロスの神々ではなく物理的対象を信じる。そして、そうでないようなものを信じることは科学的誤謬であると私は考える。しかし、認識論的な基礎の点で、物理的対象と神々は質ではなく程度において異なっている。両方の存在者の種類は、文化的仮構としてのみ私たちの概念に参入してくるのである。」
+
+クワインの存在論的相対論(上記を参照)は、経験的根拠の収集にとって、それを説明できる多くの理論が常にあるだろうという彼とピエール・デュエムとの見解を一致させた。しかし、デュエムの全体論は、クワインのものよりもさらにより狭く限定的である。デュエムにとっては、決定不全(underdetermination)は物理学 だけか、あるいは自然科学に適用されるが、一方でクワインは人間の知識全てに適用される。したがって、全ての理論を検証乃至反証 することが可能である一方で、個々の命題を検証乃至反証することはできない。ほとんどの特定の言明は保持され、理論を含んでいるものの根本的な修正を加えることが十分に可能である。クワインにとって、科学的思考は経験的根拠に照らしてどの部分も代わりになりうるような網を形成し、そして経験的根拠がないところにおいては、部分形成の見直しをさせる。
+クワインの著書は科学哲学における道具主義の広範な受容をもたらした。
+
+
+=== クワインの自然主義 ===
+クワインは、『自然化された認識論』（1969年）というエッセイにおいて、伝統的な認識論の意味では自然的な知識を基礎付けることができなかったということを承認し、認識論の古いアプローチを革新しようとした。このエッセイで、彼は、われわれが認識論を心理学や言語学に応用するとともに、心理学と言語学を認識論に適用することもして、その逆に、それらによる知見をわれわれが利用できるようにすることを提案した。クワインの新しい認識論では、伝統的な認識論の（最も基礎的とは言わないまでも）一つの基礎的な部分だった正当化の役割が無用になったことは注目に値する。なぜそこでは、その役割が除去されなけばならなかったのか、またなぜ新しい認識論ではそれがまず必要なこととなったのだろうか？
+クワインは、数学的認識論と一般的認識論を比較することで伝統的な認識論のパラダイムが不適切であることを示す。それらは教義的・概念的の両側面での研究を企てている。概念的な側面は（術語どうしの間にどのような関係があるかという）定義による意味付けと明示を目指す。教義的な側面は、真理と、検証による法則の確立に関心を向ける。数学的研究についていえば、複雑な概念はより単純な概念を用いて語られ、初等的な法則は非初等的な法則を説明するだろう。理想的には、曖昧な概念を明らかにすることは、数学的定理と自明な真理との関係を正当化することに役立つと思われる。 だが、数学上の諸概念を論理のみに帰することはできない。諸概念は集合論の公理にも依存する。それは理論よりもはるかに不思議なものである。
+自然についての知識を考えるときにも類似の問題が発生する。ヒュームは、身体に関わるある変わった言明を知覚の観点から導くことに成功したが、未来に関する全称ないし単称の言明を構築することはできなかった。そのため認知論者は集合論と文脈定義にたよるようになった。ドイツの哲学者カルナップは、ヒュームが諦めたところ、つまり、世界についての文を論理、集合論、そして感覚経験の言語に翻訳するということから始めることにした。この、カルナップが合理的再構成と呼んだものは、科学を本当に正当化することはできないとしても、科学的な概念を論理と集合論の言葉に翻訳することで正当なものにしようだけの力は少なくとも有しているはずだった。しかしクワインによればこの翻訳は失敗した。カルナップの翻訳が失敗したのは、クワインに言わせれば、理論を構成する文の翻訳の不確定性のためであった。個々の言明を適切に翻訳することは不可能である。何故ならそれらは、属する理論の文脈においてしか固定された意味を持てないからだ。もし例えば、第一運動者は天球の上にいるのだと言ったなら、これはプトレマイオスの宇宙観の枠組みで語るときに限り、特定の意味を持つ。
+Thus, the quest to justify natural knowledge by reducing bodies to sensory terms was abandoned. If, then, we cannot justify knowledge on these terms, the best we can do is to explore how knowledge originated and evolved, in the ontological (and phylogenic, if I may take it a step further) sense, and how evidence relates to theory. In favoring psychology over rational reductionism, Quine says, “Better to discover how science in fact developed and learned [sic] than to fabricate a fictitious structure to a similar effect.” Quine marks the new epistemology as a chapter of psychology, but it seems that, rather than epistemology being subordinate to psychology, they could be mutually supportive of each other. Quine recognizes some may object to this idea, claiming it to be circular, and points out that we are not trying to justify psychology using epistemology, we are trying to understand knowledge. “We are after an understanding of science as an institution or process in the world,” he says, “and we do not intend that understanding to be any better than the science which is its object.”
+The new epistemology, Quine says, is also becoming a matter of semantics. A fundamental part of knowledge relies on observation sentences. He defines an observation sentence as a sentence that everyone in a language-speaking community agrees upon. But what is an observation? When I look at the sky, am I observing the photons that hit my color receptors, or am I observing the blueness that results? Quine contends that an observation is whatever is closest to the sensory receptors, notwithstanding consciousness on our part. Observation sentences then, are about bodies rather than impressions, because observations are what we agree on. It doesn’t necessarily matter then, that when we look at the sky I may perceive one version of “blue” and you may perceive another. We both agree that the sky is “blue,” because we are referring to a physical phenomenon outside of ourselves that gives us both some sort of impression, congruent or not.
+This account, it seems, is a total naturalization of knowledge. Quine rejects the idea that we have knowledge prior to experience. On the contrary, our observations (and not even ones we are necessarily conscious of) determine our “abstract” knowledge. According to Quine, all of our knowledge comes ultimately from the external world. Of course, naturalism may imply that our knowledge isn’t the cause of some divine, mysterious force—knowledge is subject to the mechanical inner workings of the brain, which was sculpted unconsciously by evolution, which in essence follows the paths paved by physical law. This naturalization, then, may steer the foundations of knowledge in the direction of a survival mechanism that evolved due to certain environmental factors—a series of fortuitous genetic mutations that thrived and continued to evolve into what we consider knowledge today—and this seems to relegate us to little more than physical systems reacting to our environment. Some would disagree with this cynical look at naturalism and say that knowledge, with all its burdens, is a liberating phenomenon that gives us the reigns to our own lives and a consciousness to human fate. By bearing this phenomenon, we have an obligation to explore, perpetuate, and adapt it, using any means that hint at an epistemological cohesive whole.
+
+
+=== 集合論 ===
+Quine confined logic to classic bivalent first-order logic, hence to truth and falsity under any (nonempty) universe of discourse. Quine also carefully distinguished first-order logic from set theory, as the former requires no more than predicates and an unspecified universe of discourse. Thus much that Principia Mathematica included in logic was not logic for Quine.
+While his contributions to logic include elegant expositions and a number of technical results, it is in set theory that Quine was most innovative. His set theory, (New Foundations) (NF) and that of Set Theory and Its Logic, admit a universal class, but since they are free of any hierarchy of types, they have no need for a distinct universal class at each type level. Without going into technical detail, these theories are driven by a desire to minimize posits; each innovation is pushed as far as it can be pushed before further innovations are introduced. Quine always maintained that mathematics required set theory and that set theory was quite distinct from logic. He flirted with Nelson Goodman's nominalism for a while, but backed away when he failed to find a nominalist grounding of mathematics.
+New Foundations features a simple and economical criterion for set admissibility, which allows many "large" sets not allowed in the standard ZFC set theory. The (relative) consistency of New Foundations is an open question. A modification of NF, NFU, due to R. B. Jensen and admitting urelements (entities that can be members of sets but that lack elements), turns out to be consistent relative to Peano arithmetic, thus vindicating Quine's intuition.
+
+
+=== 論理学と数学の教師として ===
+クワインは学部生向けの古典的な論理学の教科書を三つ書いた。
+『初等論理(Elementary Logic)』 1940年の入門課程で授業している間、クワインは現存の教科書には哲学の学生向けの量化理論または一階述語論理を十分に記述したものがないということに気づいた。クワインはこの本を、授業に導入するためのアドホックな解決策として六週間で書き上げた。
+『論理学の方法(Methods of Logic)』 クワインが第二次世界大戦の終わりから彼が1978年に退職するまで教えていた学部上級生向けの論理学のコースで、この本は四つの版が出された。技術的にはむしろ時代遅れ(即ち、分析的タブローが欠けていて、メタ論理学の処理は何か不十分な点がある)で、それはまだ大いに哲学的かつ言語学的な洞察を含んでいる。
+Philosophy of Logic. A concise and witty undergraduate treatment of a number of Quinian themes, such as the prevalence of use-mention confusions, the dubiousness of quantified modality, and of the non-logical character of higher-order logics.
+Quine also wrote two advanced texts on logic, set theory and the foundations of mathematics. They employ the notation of Principia Mathematica which makes for hard reading:
+Mathematical Logic. Shows that much of what Principia Mathematica took more than 1000 pages to say can be said in 250 pages. The proofs are concise, even cryptic, and the overall approach is dated. The set theory is New Foundations, augmented with proper classes. The last chapter, on the classic incompleteness theorems of Gödel and Tarski, became the launching point for Raymond Smullyan's later and more lucid exposition of these and related results.
+Set Theory and Its Logic. Quine proposes yet another flavor of axiomatic set theory, then derives the foundations of mathematics therefrom; includes the definitive treatment of Quine's theory of virtual sets and relations. Fraenkel, Bar-Hillel and Levy (1973) do a better job of surveying set theory as it stood in the 1950s.
+All five texts remain in print. Curiously, advocates of Quinian set theory are not warm to the axiomatic set theory Quine advocated in his two advanced texts, and invariably confine their enthusiasm to NF and offshoots thereof proposed by others.
+
+
+== 引用句 ==
+"No entity without identity".
+"Ontology recapitulates philology". (Attributed to James Grier Miller in the epigraph of Word and Object)
+"Philosophy of science is philosophy enough".
+"To be is to be the value of a bound variable". (From "On What There Is")
+"The Humean predicament is the human predicament".
+"Quantification is the ontic idiom par excellence".
+"We cannot stem linguistic change, but we can drag our feet. If each of us were to defy Alexander Pope and be the last to lay the old aside, it might not be a better world, but it would be a lovelier language" (Quiddities is chock-full of similar sentiments).
+When asked what the correct collective noun for logicians was, he replied "It is a sequitur of logicians".
+"Life is algid, life is fulgid. Life is what the least of us make most of us feel the least of us make the most of. Life is a burgeoning, a quickening of the dim primordial urge in the murky wastes of time" (inter

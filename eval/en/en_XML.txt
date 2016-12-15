@@ -1,0 +1,55 @@
+e of SGML for use as a "transfer syntax"; and HTML, in which elements were synchronous with their resource, document character sets were separate from resource encoding, the xml:lang attribute was invented, and (like HTTP) metadata accompanied the resource rather than being needed at the declaration of a link. The Extended Reference Concrete Syntax (ERCS) project of the SPREAD (Standardization Project Regarding East Asian Documents) project of the ISO-related China/Japan/Korea Document Processing expert group was the basis of XML 1.0's naming rules; SPREAD also introduced hexadecimal numeric character references and the concept of references to make available all Unicode characters. To support ERCS, XML and HTML better, the SGML standard IS 8879 was revised in 1996 and 1998 with WebSGML Adaptations. The XML header followed that of ISO HyTime.
+Ideas that developed during discussion which were novel in XML included the algorithm for encoding detection and the encoding header, the processing instruction target, the xml:space attribute, and the new close delimiter for empty-element tags. The notion of well-formedness as opposed to validity (which enables parsing without a schema) was first formalized in XML, although it had been implemented successfully in the Electronic Book Technology "Dynatext" software; the software from the University of Waterloo New Oxford English Dictionary Project; the RISP LISP SGML text processor at Uniscope, Tokyo; the US Army Missile Command IADS hypertext system; Mentor Graphics Context; Interleaf and Xerox Publishing System.
+
+
+=== Versions ===
+There are two current versions of XML. The first (XML 1.0) was initially defined in 1998. It has undergone minor revisions since then, without being given a new version number, and is currently in its fifth edition, as published on November 26, 2008. It is widely implemented and still recommended for general use.
+The second (XML 1.1) was initially published on February 4, 2004, the same day as XML 1.0 Third Edition, and is currently in its second edition, as published on August 16, 2006. It contains features (some contentious) that are intended to make XML easier to use in certain cases. The main changes are to enable the use of line-ending characters used on EBCDIC platforms, and the use of scripts and characters absent from Unicode 3.2. XML 1.1 is not very widely implemented and is recommended for use only by those who need its unique features.
+Prior to its fifth edition release, XML 1.0 differed from XML 1.1 in having stricter requirements for characters available for use in element and attribute names and unique identifiers: in the first four editions of XML 1.0 the characters were exclusively enumerated using a specific version of the Unicode standard (Unicode 2.0 to Unicode 3.2.) The fifth edition substitutes the mechanism of XML 1.1, which is more future-proof but reduces redundancy. The approach taken in the fifth edition of XML 1.0 and in all editions of XML 1.1 is that only certain characters are forbidden in names, and everything else is allowed, in order to accommodate the use of suitable name characters in future versions of Unicode. In the fifth edition, XML names may contain characters in the Balinese, Cham, or Phoenician scripts among many others which have been added to Unicode since Unicode 3.2.
+Almost any Unicode code point can be used in the character data and attribute values of an XML 1.0 or 1.1 document, even if the character corresponding to the code point is not defined in the current version of Unicode. In character data and attribute values, XML 1.1 allows the use of more control characters than XML 1.0, but, for "robustness", most of the control characters introduced in XML 1.1 must be expressed as numeric character references (and #x7F through #x9F, which had been allowed in XML 1.0, are in XML 1.1 even required to be expressed as numeric character references). Among the supported control characters in XML 1.1 are two line break codes that must be treated as whitespace. Whitespace characters are the only control codes that can be written directly.
+There has been discussion of an XML 2.0, although no organization has announced plans for work on such a project. XML-SW (SW for skunkworks), written by one of the original developers of XML, contains some proposals for what an XML 2.0 might look like: elimination of DTDs from syntax, integration of namespaces, XML Base and XML Information Set (infoset) into the base standard.
+The World Wide Web Consortium also has an XML Binary Characterization Working Group doing preliminary research into use cases and properties for a binary encoding of the XML infoset. The working group is not chartered to produce any official standards. Since XML is by definition text-based, ITU-T and ISO are using the name Fast Infoset for their own binary infoset to avoid confusion (see ITU-T Rec. X.891 | ISO/IEC 24824-1).
+
+
+== Criticism ==
+XML and its extensions have regularly been criticized for verbosity and complexity. Mapping the basic tree model of XML to type systems of programming languages or databases can be difficult, especially when XML is used for exchanging highly structured data between applications, which was not its primary design goal. Other criticisms attempt to refute the claim that XML is a self-describing language (though the XML specification itself makes no such claim). JSON, YAML, and S-Expressions are frequently proposed as alternatives (see Comparison of data serialization formats); which focus on representing highly structured data rather than documents, which may contain both highly structured and relatively unstructured content.
+
+
+== See also ==
+List of XML markup languages
+List of XML schemas
+Comparison of layout engines (XML)
+Binary XML
+EBML
+WBXML
+Category:XML
+Category:XML-based standards
+Billion laughs (a denial-of-service attack on XML parsers)
+XML Protocol
+Comparison of data serialization formats
+XHTML
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Annex A of ISO 8879:1986 (SGML)
+Lawrence A. Cunningham (2005). "Language, Deals and Standards: The Future of XML Contracts". Washington University Law Review. SSRN 900616. 
+Bosak, Jon; Bray, Tim (May 1999). "XML and the Second-Generation Web". Scientific American. Archived from the original on 1 October 2009. 
+Kelly, Sean (February 6, 2006). "Making Mistakes with XML". Developer.com. Retrieved 2010-10-26. 
+St. Laurent, Simon (February 12, 2003). "Five years later, XML..". O'Reilly XML Blog. O'Reilly Media. Retrieved 2010-10-26. 
+"W3C XML is Ten!". World Wide Web Consortium. 12 February 2008. Retrieved 2010-10-26. 
+"Introduction to XML" (PDF). Course Slides. Pierre Geneves. October 2012. 
+
+
+== External links ==
+W3C XML homepage
+XML 1.0 Specification
+Retrospective on Extended Reference Concrete Syntax by Rick Jelliffe
+XML, Java and the Future of the Web (1997) by Jon Bosak
+http://validator.w3.org/ The Official [W3C] Markup Validation Service
+The XML FAQ originally for the W3C's XML SIG by Peter Flynn

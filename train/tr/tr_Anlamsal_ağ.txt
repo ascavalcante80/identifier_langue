@@ -1,0 +1,88 @@
+Anlamsal ağ (İngilizce:Semantic Web) , web içeriklerinin sadece doğal dillerde değil, aynı zamanda ilgili yazılımlar tarafından anlaşılabilir, yorumlanabilir ve kullanılabilir bir biçimde ifade edilebileceği, böylece bu yazılımların veriyi kolayca bulmasını, paylaşmasını ve bilgiyi birleştirmesini sağlamayı amaçlayan, gelişen bir internet eklentisidir.
+Anlamsal ağ temelde, bir felsefe, bir takım tasarım prensipleri, işbirliği yapan çalışma grupları, ve yardımcı teknolojilerden oluşur. Anlamsal ağın bazı kısımları henüz geliştirilmemiş veya gerçekleştirilmemiş fakat gelecekte yapılması umulan öngörüler olarak ifade edilir.
+Diğer parçaları resmi açıklamalarla ifade edilmişlerdir. Bu parçalar şunlardır:
+Kaynak Tanımlama Çerçevesi: RDF
+Kaynak Tanımlama Çerçevesi/XML, N3, "Turtle", "N-Triples" gibi çeşitli veri dönüştürme formatları.
+Kaynak Tanımlama Çerçevesi Şeması (RDFS) gibi notasyonlar
+Web Ontoloji Dili (OWL)
+Bu parçaların hepsinin, belirli bir problem uzayındaki kavramları, terimleri ve bağlantıları resmi bir biçimde ifade etmesi beklenmektedir.
+
+
+== Amaç ==
+İnsanlar Web'i kullanarak Fince "araba" sözcüğünü bulabilir, kütüphaneden bir kitabı ayırtılabilir veya aradıkları DVD'nin en ucuzunu bulup satın alabilirler. Fakat bir bilgisayar bu işleri insan yönlendirmesi olmadan tamamlayamaz. Çünkü web sayfaları insanların okuması için yapılmıştır, makinaların değil. Anlamsal ağ, bilgisayarlar tarafından anlaşılabilir ve böylece bilgiyi bulma, paylaşma ve birleştirme işlerindeki can sıkıcı angaryaları otomatikleştirebilir.
+Mesela, bir bilgisayarın, düz ekran HDTVlerin 40 inçten büyük olanlarının satıldığı, salı günleri saat 8'e kadar açık olan mağazaların listesini sunması sağlanabilir. Günümüzde bunu yapmak için, her siteyi ayrı bir biçimde tarayan ve indeksleyen arama motorlarına ihtiyacımız var. Semantic Web, web siteleri için bu birbiri ie bağlantılı bilgilerin makinalar tarafından işlenmesine hazır ve birleştirilebilir bir biçimde yayımlanmasını sağlayan ortak bir standart (RDF) belirlemiştir.
+Tim-Berners-Lee Semantic Web'in vizyonunu aşağıdaki gibi ifade etmiştir:
+
+
+== Hiper-metin Web ile İlgisi ==
+
+
+=== İşaretleme ===
+Bir bilgisayardaki dosyalar dağınık bir şekilde parçalara ayrılmış belgeler olabilir. Bu tip belgeler, e-postalar, raporlar ve broşürler insanlar tarafından okunabilir. Takvim, adres defteri, playlist ve hesap tablosu (kutuçizim veya "spreadsheet") gibi veriler, bunların görüntülenmesini, araştırılmasını ve çeşitli yollarla birbirleri ile ilişkilendirilmelerini sağlayan programlar ile sunulur.
+Şu anda Dünya Çapında Ağ (World Wide Web) temel olarak, metin blokları ve bunların içine serpiştirilmiş, resimler ve veri giriş formları gibi çokluortam nesnelerinden oluşan sayfaları kodlamak için kullanılan bir işaretleme dili olan HTML "Zengin Metin İşaret Dili" ile yazılmış dokümanlardan oluşur.
+Anlamsal ağ herhangi bir verinin, özellikle veri için tasarlanmış RDF sayesinde, bilgisayardaki veri dosyaları gibi işlenebilmesine olanak sağlayacak şekilde yayınlanmasını sağlar.
+HTML dokümanları ve bu dokümanlar arasındaki bağlantıları ifade ederken, Kaynak Tanımlama Çerçevesi (RDF), tersine, insanlar, toplantılar, uçak parçaları gibi gelişigüzel şeyleri tanımlayabilir.
+Mesela HTML ile kodlanmış bir ürün listesi düşünelim. HTML için ürün ve yanında yazan fiyat, veri parçalarından başka bir şey değildir. Ürünün hangi firma tarafından üretildiği gibi bir bilgiye ulaşamayız. HTML için içinde fiyatın yazdığı "uzunluk etiketi (9span tag)" ı sadece firma adının yazdığı etiket (tag) in yanında durması gereken bir şeydir. Hatta HTML, bu listenin bir ürün listesi olduğunu bile söyleyemeyecektir.
+
+
+=== Tanımlayıcı ve genişletilebilir işaretleme ===
+Anlamsal ağ bu eksikliği, Kaynak Tanımlama Çerçevesi (RDF), Web Ontoloji Dili (OWL) ve veri-merkezli, uyarlanabilir Genişletilebilir İşaretleme Dili (XML - Extensible Markup Language) kullanarak işaret eder. Bu teknolojiler web dokümanlarını tamamlamak ya da bunların yerine geçmek üzere birlikte kullanılır. Böylelikle veri, webden erişilebilir veritabanlarında tanımlayıcı veri şeklinde veya gösterimle ilgili kısımları ayrı olarak tutulan saf XML (Genişletilebilir İşaretleme Dili) şeklinde veya XHTML (Genişletilebilir Büyütülmüş Metin İşaretleme Dili) şeklinde tutulabilir. Makinalar tarafından okunabilir açıklamalar içerik yöneticilerinin içeriğe anlam ekleyebilmelerini sağlar. Mesela bir içerikle ilgili bilginin yapısını açıklamak gibi. Böylece, "tümdengelim uslamlaması (deductive reasoning)" ve çıkarım yapma işleyişine benzer şekilde, makine metin yerine bilginin kendisini işleyebilir. Bu sayede daha anlamlı sonuçlara ulaşılır, otomatikleştirilmiş bilgi toplama ve araştırmanın bilgisayarlar tarafından yapılması sağlanır.
+
+
+== Elemanlar ==
+
+
+=== XML, XML Şeması, RDF, OWL, SPARQL ===
+Anlamsal ağ standartları ve XML, XML Schema, RDF, RDF Schema ve OWL gibi araçları kapsar.
+w3c.org daki "Web Ontology Language Review" dokümanı bu elemanların fonksiyonlarını ve bu elemanlar arasındaki ilişkileri açıklar. Burada özetleyecek olursak:
+
+XML yapılandırılmış dokümanlar için yüzeysel sözdizim kuralları sağlar. Fakat dokümanın anlamı ile ilgili anlamsal kısıt yüklemez.
+XML Şema, XML dokümanlarının yapı ve içerik elemanlarını düzenlemeye yarayan bir dildir.
+RDF nesnelere (resources) ve bu nesnelerin nasıl ilişkili olduğuna işaret eden bir veri modelidir. RDF temelli model XML sözdiziminde ifade edilebilir.
+RDF Şema, RDF kaynaklarının özelliklerini ve sınıflarını ifade etmeye yarayan sözcükler bütünü ve bunların genelleştirme hiyerarşileri için bir anlambiliminden oluşur.
+OWL, özellikleri ve sınıfları betimlemek için daha fazla sözcük grubu getirir:
+arasında, sınıflar arası ilişkiler, en önemlilik, eşitlik, özelliklerin daha iyi sınıflandırılması, özelliklerin karakteristikleri ve "numaralandırılmış sınıflar (enumerated classes)" gibi.
+SPARQL, Sematik Ağ veri kaynakları için bir protokol ve sorgulama dilidir.
+Web in ve web içindeki birbiri ile bağlantılı kaynakların kullanışlılığını ve kullanılabilirliğini artırma amacını aşağıdakilerle gerçekleştiririz:
+RDF ve SPARQL standartlarını kullanarak mevcut veri sistemlerini açığa çıkaran (expose) sunucular. Farklı uygulamalardan birçok RDF'e çevirici bulunmaktadır. İlişkisel veritabanları önemli bir kaynaktır. Semantik ağ hizmet vericisi, varolan sisteme, sistemin işleyişini etkilemeden eklenebilir.
+Semantik bilgi ile işaretlenmiş dokümanlar(HTML diline bir uzantı olarak kullanılan <meta> etiketleri günümüzde arama motorları için bilgi sunmaktadır). Bu veri, insanlar tarafından anlaşılabilir içerik hakkında, makinalar tarafından anlaşılabilir bilgi olabilir. Mesela sayfanın yaratıcısı, başlık, açıklama gibi. Veya bir takım gerçekleri ifade eden saf metadata olabilir(sitenin diğer yerlerindeki kaynaklar ve servisler gibi). Semantik işaretleme genellikle elle değil, otomatik olarak gerçekleştirilir.
+Genel metadata sözcük kümeleri (ontolojier) ve sözcük kümeleri arasındaki eşlenmeler (maps). Bunlar doküman yaratıcılarının dokümanlarını, doküman okuyan birimler tarafından anlaşılabilmesi için nasıl işaretleyeceklerini bilmelerini sağlarlar.
+Bu veriyi kullanarak Semantik Ağ kullanıcıları için otomatik olarak belirli görevleri yerine getiren birimler.
+Özellikle birimlere bilgi sağlamak için geliştirilmiş web-tabanlı servisler. (Mesela bir birimin, bir online mağazanın daha önce kötü hizmet ya da yığın mesaj (spam) gönderimi ile ilişkili olup olmadığını öğrenebildiği bir inanıalabilir servis.)
+
+
+=== RDF-URI, XML, "isimaralığı" ===
+Bu teknolojinin öncelikli kolaylaştırıcıları URI ile birlikte XML ve "isimaralığı (namespace)" dır. Bunlar biraz mantık eklenerek RDFi oluşturur. RDF, herhangi bir şey hakkında herhangi bir şey söylemek için kullanılabilir. "Konu Tasarimi (Topic Maps)" ve "web öncesi yapay zeka" gibi teknolojiler de semantik ağa RDF kadar katkıda bulunacağa benziyor.
+
+
+=== FOAF ===
+Popüler bir semantik a- uygulaması olan "Arkadasin Arkadasi (Friend of a Friend)", insanlar ya da diğer temsilciler arasındaki ilişkileri açıklar.
+
+
+=== Anlamsal ağ tarayıcıları ve arabağlantıları ===
+Semantik ağ tarayıcıların uygulamalarından biri "BigBlogZoo.com" dur. Bu uygulamada 60.000 den fazla XML kaynağı DMOZ şema kullanılarak sınıflandırılabilir ve işlenebilir. Bu programın ticari versiyonu "MediaMiner", bu verileri bilgiye dönüştürmek için işler. (mine)
+
+
+=== Piggy Bank ===
+Piggy Bank ücretsiz bir Firefox eklentisidir. Piggy Bank web scriptlerini, RDF bilgisine dönüştürüp kulanıcının bilgisayarında depolamaya yarar. Bu bilgi daha sonra, orijinal bağlamdan bağımsız olarak alınıp işlenip, başka bağlamlarda kullanılabilir. Mesela Google Maps ile bu bilgiyi birleştirip bilgi gösterme amaçlı. Piggy Bank Semantic Bank adındaki, yeni web teknolojileri ile verieri etiketleme fikirlerini birleştiren yeni servis ile çalışır. Piggy Bank Simile Project tarafından geliştirilmiştir. Simile Project'in başka bir ürünü ise, belirli veri türlerini, mesela posta koduna karşılık hava tahmini verisi gibi, çevirmeye yarayan RDFizers'dır. Böyle çabalar bugünün webinden semantic varisine geçişteki olası problemleri çözmeyi kolaylaştıracaktır.
+
+
+=== Zayıf yapay zeka ===
+Semantik bir çeşit zayif yapay zekadır. Makinalar tarafından anlaşılabilir doküman kavramı, makinaların insanlar tarafından belirlenmiş kavramları anlayabilen bir yapay zekayı öngörmez. Fakat tam olarak belirlenmiş bir problemin, tam olarak belirlenmiş süreçlerle, var olan ve tam olarak belirlenmiş veriler üzerinde çözebilen bir makina yeteneğini kasteder. Bu bağlamda Semantik ağ, büyük ölçekli bir uzman sistem gibi düşünülebilir.
+RDF kolay kullanılabilir olmasına rağmen, paradoksları ve gereksiz söz tekrarlarını ifade edebilecek tam bir dil olacaktır. Her mekanik RDF uygulaması, RDF i bilinçli olarak kısıtlanmış bir dile çeviren, RDF kullanımını sınırlandıran ve biçimlendiren bir şema kullanacaktır. Bununla beraber, bağlantılar sadece "RDF fiilleri" arasında yapılıyor olsa da, ortaya çıkan ifade büyük miktarda bilgi olacaktır.
+
+
+== Eleştiriler ==
+
+
+=== Pratik uygulanabilirlik ===
+Bazı eleştiriler, Semantic ağın tam veya kısmi uygulanabilirliğinin, temel imkânlılığını sorgulamaktadır.
+Görünüşte gerçeklenme ihtimalini azaltan bazı yaklaşımlar, konuyu insan davranışı ve kişilik özellikleri perspektifinden eleştirir. (ör: metacrap) Diğer bazı yorumcular yazılım mühendisliğinin son durumundan kaynaklanan kısıtlamalarımız olduğunu öne sürüyorlar.(bkz: sızıntılı soyutlama)
+
+
+=== Sansür ve mahremiyet ===
+Anlamsal ağ ile ilgili gayret, sansür ve mahremiyet ile ilgili kaygılarla hafifletilebilir ve yavaşlatılabilir. Mesela, metin analizi yöntemleri, farklı kelimelerle, mecazlarla (metaphor) veya yazı yerine resim kullanılarak devre dışı bırakılabilir. Semantic Web, devletler için çevrimiçi içeriğin içerik bloklama programları ile görüntülenmesinin ve yaratımının durdurulmasını oldukça kolaylaştıracaktır. Ek olarak, bu sorun FOAF dosyaları ve "Cografi Konum Bulma (Geolocation)" meta-data kullanımı ile artmıştır. Kişisel blog gibi şeylerle bağlantılı kimlik saklama oldukça kısıtlanacaktır.
+
+
+=== Çıktı biçemlerini iki katına çıkarma ===
+Semantik ağ ile ilgili başka bir eleştiri ise, tek

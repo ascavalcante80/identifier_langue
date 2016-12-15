@@ -1,0 +1,79 @@
+icados en XML serán formateados (para mostrarlos) o transformados. Hay tres lenguajes en esta familia: XSL Transformations (XSLT), XSL Formatting Objects (XSL-FO) y XML Path Language.
+
+
+=== Lenguaje de enlace XML (XLINK) ===
+XLink es una aplicación XML que intenta superar las limitaciones que tienen los enlaces de hipertexto en HTML. XLink 1.1 es ya una recomendación W3C.
+
+
+=== Otras tecnologías ===
+Hojas de estilo
+XSL-FO
+XSLT
+XLink
+XPointer
+XSL
+hojas de estilo en cascada (CSS)
+XLT (XML representation of Lexicons and Terminologies)
+
+Programación
+JDOM
+SAX
+StAX
+VTD-XML
+
+Consulta de datos
+XQuery
+Xpath
+
+Seguridad
+Xades (XML Advanced Electronic Signatures)
+
+Hay quien opina que XML es demasiado pesado para algunas aplicaciones y difícil de editar con un editor de texto simple. Por ello merece la pena mencionar algunas alternativas más ligeras y simples. Los lenguajes de marcas ligeros:
+Simple Outline XML: es un XML simplificado que se puede convertir sin problemas en XML completo.
+YAML y OGDL. Estos dos son ficheros de solo texto que no están emparentados con XML como el SOX, antes comentado.
+BBCode. Éste tiene un uso muy restringido para dar formato nada más.
+También hay por lo menos un lenguaje basado en XML en formato binario, llamado EBML.
+
+
+== Véase también ==
+ Portal:informática. Contenido relacionado con informática.
+XML-RPC — protocolo de llamada de procedimiento remoto (RPC) que utiliza XML para codificar los datos.
+SOAP — protocolo de llamadas a métodos remotos e intercambio de mensajes XML utilizando tecnología de objeto.
+HL7 v3 — estándar de interoperabilidad de datos de salud, que utiliza mensajes y documentos electrónicos XML.
+OpenDocument
+Editor XML
+DTD
+XML Schema
+RELAX NG
+Schematron
+Simple API for XML
+Document Object Model
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Conjunto de información XML (segunda edición). Traducción de la recomendación del W3C sobre conjunto de información XML (segunda edición).
+Espacios de nombres en XML 1.1. Traducción de la recomendación del W3C sobre los espacios de nombres en XML 1.1.
+Enlaces de la Especificación de Gestión de Claves XML (XKMS 2.0). Traducción de la recomendación del W3C sobre enlaces de protocolo con características de seguridad para la Especificación de Gestión de Claves XML (XKMS).
+Inclusiones XML. Traducción de XML Inclusions (XInclude) Version 1.0.
+xml:id Versión 1.0. Traducción de la recomendación del W3C sobre xml:id 1.0.
+Página web oficial de W3C sobre XML (en inglés).
+XML Schema (en español).
+Introducción a XML (en español).
+Introducción al XML — introducción conceptual al XML.
+programación.com — cursos, tutoriales, trucos, etc.
+El estándar XML (en inglés).
+The Extensible Stylesheet Language Family (XSL) (en inglés).
+Tutorial de XML Teoría, ejemplos y ejercicios resueltos con Licencia Creative Commons.
+XML.org (en inglés).
+XML Software Guide (en inglés).
+Página web sobre XML de Microsoft (en inglés).
+XML Document Authoring Tools (en inglés).
+XML módulos Perl en CPAN (en inglés).
+XML.Awardspace — introducción básica al XML.
+SoaAgenda — ejemplo de traspaso XML a DOM.
+XML: Introducción, video introductorio a XML.
+XML: Ejemplos de uso, vídeo que explica diferentes ejemplos de uso de XML, como CML, MathML o SVG.
+XML: HTML y XHTML, vídeo que explica las diferencias entre XML, HTML y XHTML.

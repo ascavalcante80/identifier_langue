@@ -1,0 +1,4 @@
+Moment je vektorska fizikalna veličina kojom se u mehanici opisuje kao rotacija, odnosno kaže se da rotaciju vrši moment sile ili kraće moment. Može se reći i da je moment djelovanje sile na nekom kraku. Moment se uvijek odnosi na neku tačku ili osu oko koje se vrši rotacija, a njegov vektor se izračunava pomoću vektorskog produkta.
+
+gdje je  vektor najkraće udaljenosti od ose ili tačke za koju tražimo moment do pravca na kojem se nalazi vektor sile. Mjerna jedinica za moment je, kako se vidi iz formule, njutnmetar [Nm].
+Moment sile za neku os

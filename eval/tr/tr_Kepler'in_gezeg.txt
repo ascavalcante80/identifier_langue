@@ -1,0 +1,20 @@
+r yasalarını geliştirerek, gözlemlere daha uygun sonuçlar elde edilmesini sağlar.
+Gezegenlerin oluşturduğu çekim nedeni ile Kepler yasalarından sapmalar pertürbasyon (ing. perturbation) olarak adlandırılır.
+Kepler'in üçüncü yasasındaki orantı sabitinin yörüngede dolanan cisimlerin kütlelerine bağımlılığı aşağıdaki ifadedeki gibidir:
+
+Burada P yörüngeyi dolanmak için geçen zaman (periyot) ve P/2π radyan başına zamandır.  kütleçekim sabiti,  güneşin kütlesi ve  gezegenin kütlesidir. Eşitlikten görüleceği üzere, gezegenin kütlesi güneşin kütlesi yanında ihmal edilebilecek ölçüde küçük olduğunda, Kepler sabitinde gezegenin kütlesi nedeni ile meydana gelen değişim yok sayılabilir. Örnek olarak Kepler sabitinde, Güneş Sistemindeki en büyük kütleli gezegen olan Jupiter'in kütlesinden kaynaklanan tutarsızlık bile yüzde 10 kadardır.
+
+
+== Kepler döneminde uzay cisimleri hakkında bilinenler ==
+Bütün ilk ve ortaçağ boyunca, Dünya’nın evrenin merkezi olduğu varsayıldı. Buna karşı çıkan ilk isim görüşlerini ölüm döşeğinde yayınlatmayı başaran Polonyalı papaz ve bilim insanı Nicolaus Copernicıus (1473-1543) oldu (Mikolaj Kopernik). 17.yüzyıla gelindiğinde bilim insanları ikiye ayrılmıştı. Bir bölümü din ve ilk çağ Yunan filozoflarının etkisi altında hala Dünya merkezli evreni, bir kısmı da Güneş merkezli evreni savunuyordu. Kepler ikinciler arasındaydı. Ne var ki, Güneş merkezli evreni savunanlar o tarihte bilinen altı gezegenin (Merkür, Venüs, Dünya, Mars, Jüpiter ve Satürn) hareketlerindeki bazı düzensizlikleri açıklayamıyorlardı.
+
+
+== Feynman’ın kayıp dersi ==
+Kepler’in ikinci yasasının o günkü matematiksel imkânlarla nasıl üretildiği daima merak konusu olmuş ve Nobel ödüllü Amerikalı fizikçi Richard Feynman (1918-1988) bu konuyu bir ders konusu haline getirmiştir. 13.3.1964 tarihinde Kaliforniya Teknik Üniversitesi’nde Feynman’ın tamamen geometri kullanarak verdiği dersin notları sonradan David L.Goodstein ve Judith R.Goodstein tarafından toparlanarak yayınlanmıştır. Bu kitap Zekeriya Aydın tarafından çevrilmiş ve 2003 yılında Türkiye'de de Feynman'ın Kayıp Dersi: Gezegenlerin Güneş Çevresindeki Hareketi adı altında Tübitak tarafından yayınlanmıştır.
+
+
+== Notlar ==
+
+
+== Dış bağlantılar ==
+(İngilizce) Gezegensel yörünge benzetimcisi

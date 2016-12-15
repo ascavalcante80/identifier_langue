@@ -1,0 +1,5 @@
+Apache HTTP Server, jota käyttää yli 67% Internetin palvelimista. Toisena on Microsoftin Internet Information Services (IIS) (20%), kolmantena Sun Microsystemsin Sun Java System Web Server (2,5%) (entisiltä nimiltään Sun ONE Web Server, iPlanet Web Server ja Netscape Enterprise Server) ja Zeus Technologyn Zeus Web Server. Erilaisia palvelinohjelmistoja on kaikkiaan tuhansia erilaisia.
+Tehokkuusvaatimukset varsinkin staattisia sivuja jakavalle WWW-palvelimelle ovat pienet ja koneeksi käy vanhempikin. Pääasiassa palvelinlaitteistoissa on keskitytty luotettavuuteen mm. RAIDin käytöllä ja tiedonvarmistukseen.
+
+
+== Lähteet ==

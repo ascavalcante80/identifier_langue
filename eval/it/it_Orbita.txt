@@ -1,0 +1,81 @@
+iale). Sono ellittiche le orbite dei pianeti del Sistema Solare e di tutti i loro satelliti. L'orbita circolare è un caso particolare di orbita ellittica.
+
+Traiettoria iperbolica: l'orbita è aperta ed è un'iperbole se l'energia totale E del corpo è maggiore di zero (ovvero se l'energia cinetica è maggiore dell'energia potenziale). Sono iperboliche le orbite delle sonde spaziali inviate al di fuori del Sistema Solare e le porzioni di orbite di sonde inviate verso i pianeti esterni (come la sonda Galileo e la sonda Cassini nelle fasi di avvicinamento e allontanamento dai pianeti interni usati per l'effetto fionda).
+
+Traiettoria parabolica: da un punto di vista teorico occorre inoltre aggiungere che se E=0, l'orbita risulterà una parabola; tale orbita rappresenta l'elemento di separazione tra la famiglia di orbite chiuse e di orbite aperte.
+In base all'inclinazione rispetto al piano equatoriale un'orbita può essere:
+Orbita equatoriale: se l'inclinazione è circa zero (ad esempio l'orbita geostazionaria).
+Orbita polare: se l'inclinazione è quasi uguale a 90°. I satelliti in orbita polare hanno la caratteristica di poter vedere tutto il globo grazie al loro moto latitudinale lungo i meridiani.
+Orbita eclittica: se l'inclinazione dell'orbita coincide con l'eclittica del pianeta
+Orbita retrograda: se l'inclinazione è superiore a 90°.
+In base all'utilizzo pratico nell'ambito dei satelliti artificiali, possono essere definite anche:
+Orbita cimitero, dove finiscono i satelliti artificiali geostazionari
+Orbita commerciale
+Orbita di parcheggio
+Orbita Molniya, orbita per comunicazioni sovietica
+Orbita eliosincrona, orbita per il telerilevamento.
+In base all'altitudine rispetto alla Terra:
+Orbita terrestre bassa, in cui si trova ad esempio la Stazione Spaziale Internazionale
+Orbita terrestre media, in cui si trovano i satelliti dei sistemi di navigazione (GLONASS, Galileo e GPS).
+Orbita terrestre alta (particolarmente ellittica)
+Orbita geostazionaria: ad una quota di 36 000 km i satelliti possono rimanere fermi rispetto alla superficie terrestre. Molti satelliti per le telecomunicazioni si trovano in quest'orbita.
+
+
+== Velocità orbitale in un'orbita circolare terrestre ==
+Lo studio del movimento ovvero delle orbite dei corpi astronomici, naturali ed artificiali, è compito dell'astrodinamica.
+Consideriamo un corpo di massa m che si muove su un'orbita circolare ad una distanza r dal centro della Terra (ovvero ad una quota h = r - RT, dove RT è il raggio della Terra). Tale corpo è soggetto alla forza di gravità
+,
+essendo G = 6,672 × 10−11 N (m/kg)² la costante di gravitazione universale e M = 5,9 × 1024 kg la massa della Terra.
+Il corpo su una traiettoria circolare di raggio r è soggetto alla forza centripeta pari a
+
+essendo v la velocità tangenziale.
+
+Perché il corpo continui a percorrere l'orbita circolare, la forza di gravità deve uguagliare la forza centripeta, Fg = Fc:
+;
+Semplificando m ed r e risolvendo rispetto a v si ottiene:
+.
+La figura a fianco rappresenta il grafico della velocità tangenziale in funzione del raggio dell'orbita, per orbite intorno alla Terra.
+Tenendo conto che la velocità tangenziale è legata al periodo orbitale dalla relazione
+
+è possibile esprimere T in funzione di r, ottenendo
+.
+Questa non è altro che la terza legge di Keplero. La costante K che compare nella terza legge è quindi definita da
+
+La terza legge di Keplero permette quindi di determinare l'altezza di un'orbita geostazionaria, cioè un'orbita equatoriale il cui periodo è pari al giorno siderale della Terra, Trot = 23 h 56 min 4,09 s = 86.164,09 s:
+
+che corrisponde ad un'altezza di 35.790 km sopra l'equatore.
+
+
+== Note ==
+^ The Space Place :: What's a Barycenter
+^ orbit (astronomy) – Britannica Online Encyclopedia
+^ Kuhn, The Copernican Revolution, pp. 238, 246–252
+^ Encyclopaedia Britannica, 1968, vol. 2, p. 645
+^ M Caspar, Kepler (1959, Abelard-Schuman), at pp.131–140; A Koyré, The Astronomical Revolution: Copernicus, Kepler, Borelli (1973, Methuen), pp. 277–279
+^ Andrew Jones, Kepler's Laws of Planetary Motion, about.com. URL consultato il 1º giugno 2008.
+^ Vedere pagine 6-8 del "Treatise of the System of the World" di Newton per la versione originale (tradotta in inglese) dell'esperimento mentale 'palla di cannone'.
+^ Da questa espressione sono ad esempio ricavati i valori calcolati da questa pagine web, in inglese, sul calcolo dell'orbita.
+
+
+== Bibliografia ==
+Andrea Milani and Giovanni F. Gronchi. Theory of Orbit Determination (Cambridge University Press; 378 pages; 2010). Illustra nuovi algoritmi per la determinazione delle orbite dei corpi celesti naturali e artificiali.
+Abell, Morrison, and Wolff, Exploration of the Universe, quinta, Saunders College Publishing, 1987.
+Linton, Christopher (2004). From Eudoxus to Einstein. Cambridge: University Press. ISBN 0-521-82750-7
+Swetz, Frank; et al. (1997). Learn from the Masters!. Mathematical Association of America. ISBN 0-88385-703-0
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su orbita
+
+
+== Collegamenti esterni ==
+CalcTool: Orbital period of a planet calculator. Has wide choice of units. Requires JavaScript.
+Browser Based Three Dimension Simulation of Orbital Motion. Objects and distance are drawn to scale. Run on JavaScript-enabled browser such as Internet Explorer, Mozilla Firefox and Opera.
+Java simulation on orbital motion. Requires Java.
+NOAA page on Climate Forcing Data includes (calculated) data on Earth orbit variations over the last 50 million years and for the coming 20 million years
+On-line orbit plotter. Requires JavaScript.
+Orbital Mechanics (Rocket and Space Technology)
+Orbital simulations by Varadi, Ghil and Runnegar (2003) provide another, slightly different series for Earth orbit eccentricity, and also a series for orbital inclination. Orbits for the other planets were also calculated, by F. Varadi, B. Runnegar, M. Ghil, Successive Refinements in Long-Term Integrations of Planetary Orbits, in The Astrophysical Journal, vol. 592, 2003, pp. 620–630, DOI:10.1086/375560., but only the eccentricity data for Earth and Mercury are available online.
+Understand orbits using direct manipulation. Requires JavaScript and Macromedia
+Michael Merrifield, Orbits (including the first manned orbit), su Sixty Symbols, Brady Haran for the University of Nottingham.

@@ -1,0 +1,71 @@
+Et websted (netsted, website, site eller hjemmeside) indeholder en eller flere websider, inkl. dokumenter/filer, der er gjort tilgængelige på WWW via dataprotokollerne http og https.
+Websiderne på webstedet vil typisk blive gjort tilgængelige gennem hovedsiden, og er normalt fysisk set samlet på den samme server og kædet sammen i strukturer af hypertekst ved hjælp af hyperlink.
+Den mest enkle form for websted er sammensat af websider, der er skrevet i HTML (Hyper Text Mark Up Language), der normalt læses i en browser. Helt grundlæggende kan html-siden indeholde tekst og billeder, men dertil kan der været indlejret forskellige andre medieformater (lyd, video, småprogrammer, animationer mv.), som browseren via plugins kan afspille som en del af den enkelte sides indhold.
+Et websted vil som udtryk betragtet ofte være styret af en enkelt person eller en organisation. Formålet med webstedet kan være afgrænset et eller flere formål.
+
+
+== Uddybende ==
+Et websted består af det samlede præsentationsmateriale i www for et firma, en organisation eller en privatperson, der kan nås via en URL (symbolsk eller faktisk: internet-adresse). Webstedet og dertilhørende webside(r) aktiveres ved at indtaste adressen for webstedet i en browsers adressefelt eller ved at aktivere et hyperlink fra et andet websted.
+Store websteder kan bestå af komplekse strukturer med hundreder af opslag, der kan være dynamiske og indeholde interaktive web-tjenester.
+Eksempel på brug: http://www.dsn.dk.
+
+
+== Websteder kan tjene følgende formål ==
+
+Kommercielle og PR-mæssige formål
+Præsentation af et firma, en organisation eller en person
+Reklamer og tilbud
+Katalogoplysninger om et firmas eller en organisations sortiment og priser
+Online-bestilling og booking evt. inklusive online-betaling
+
+Service
+Oplysning til borgerne
+Nyheder
+TV- og radioprogrammer
+Undervisning og orientering
+Sagsbehandling
+Tidsbestilling
+Spil
+Oversættelse
+Beregning (f.eks. kurskonvertering)
+Databaseopslag
+
+Interaktivitet
+Blogging
+Udveksling af meddelelser (herunder e-mail og chat)
+Debat
+Fildeling og udveksling af billeder, videoklip mv.
+Videndeling (f.eks. Wikipedia)
+Forums for interessegrupper
+
+Downloads
+Shareware
+Demoer
+Freeware
+Ressourcer (f.eks. billeder og ikoner)
+
+Portaler og søgemaskiner
+Generelle (Google, Yahoo, Altavista, Jubii)
+For et begrænset geografisk område (byportaler)
+Linksamlinger
+
+Generelt er der ingen grænser for, hvad et websted kan indeholde af informationer. Informationerne er dog begrænset af ophavsretsmæssige undtagelser samt anden lovgivning, fx angående børnepornografi.
+
+
+== Den fysiske placering ==
+Et websted er fysisk placeret på en webserver hvortil de nødvendige filer lægges op (upload). Både privatpersoner, firmaer og organisationer kan have deres egen webserver(e).
+
+
+== Websiders kildetekst ==
+Hvis man højreklikker med musen et sted på et opslag i en webside, kan man se den kildetekst, der, eventuelt i kombination med en style sheet (CSS) danner grundlaget for det grafiske udseende, man ser på skærmen. Der er her tale om HTML-kode, eventuelt iblandet Javascript-kode eller tilsvarende. Det er imidlertid ikke altid denne kildetekst fysisk findes noget sted som en fil. Det gælder nemlig ikke, hvis opslaget er dynamisk genereret på serveren.
+
+
+== Statiske versus dynamiske websteder ==
+
+Før i tiden udgjordes websteder overvejende af statiske præsentations-websider. I dag udgøres de fleste professionelle websteder af dynamiske websider, der reagerer på brugerens individuelle valg. Dette muliggøres af tilgang til databaser på serveren og serverbaseret kodning med f.eks. ASP-kode eller PHP-kode.
+
+
+== Konstruktion af websider ==
+Statiske websider kan konstrueres ved hjælp af en simpel teksteditor som f.eks. Notepad, men det mest almindelige er enten at bruge WYSIWYG-editorer eller at benytte sig af et specialdesignet CMS-system (Content Management System). Der er også alternativer, herunder f.eks. Macromedia Flash.
+Yderligere funktionalitet, som f.eks. kontrol af browservinduer, kan tilføjes ved hjælp af JavaScript eller andre programmeringssprog, der kan fortolkes af en webbrowser. JavaScript er på World Wide Web det hyppigst brugte scripting-sprog på klient-siden, som kan bruges i forbindelse med interaktivitet på en webside.
+Mere avancerede egentligt dynamiske websider kan bruge server-side programmeringssprog, som f.eks. ASP og PHP. Disse giver mulighed for mere fleksible websider, der kan tilgå 

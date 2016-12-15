@@ -1,0 +1,26 @@
+Et kvadrat er en sammenhengende geometrisk figur som består av fire like lange linjestykker som er parvis parallelle og der vinkelen mellom linjestykker som ikke er parallelle er 90°. De kan defineres enten som en regulær firkant eller et rektangel med to like lange tilstøtende kanter.
+
+
+== Definisjoner ==
+Kvadratet er både et spesialtilfelle av rektangelet og av romben som begge er spesialtilfeller av parallellogrammet som igjen er et spesialtilfelle av trapeset. En konveks firkant er et kvadrat hvis og bare hvis det er et av følgende:
+Et rektangel med to like tilstøtende kanter
+En firkant med fire like kanter og fire rette vinkler
+Et parallellogram med en rett vinkel og to like tilstøtende sider
+En rombe med en rett vinkel
+En rombe der alle (tre av) vinklene er like
+En firkant der diagonalene er like og deres halveringslinjer er vinkelrette på hverandre, dvs. rombe med like diagonaler
+
+
+== Utregninger ==
+
+
+=== Areal ===
+Arealet A av et kvadrat er lik kvadratet av lengden av ett av linjestykkene.
+
+
+=== Omkrets ===
+Omkretsen O er fire ganger lengden av ett av linjestykkene.
+
+
+== Egenskaper ==
+Et kvadrat er både en rombe (like lange sider), et rektangel (motsatte sider like, rette vinkler), et parallellogram (motsatte sider parallelle), en firkant (firkantet polygon) og en drage (to par like tilstøtende kanter) og har d

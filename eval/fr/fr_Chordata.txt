@@ -1,0 +1,34 @@
+stomata
+classe Chondrichthyes -- Poisson cartilagineux
+super-classe Osteichthyes -- Poisson à squelette osseux
+classe Actinopterygii -- Poisson à nageoires rayonnées
+classe Sarcopterygii
+
+super-classe Tetrapoda -- Tétrapodes
+classe Amphibia Linnaeus, 1758 -- Amphibiens
+classe Reptilia Laurenti, 1768 -- Reptiles
+classe Aves -- Oiseaux
+classe Mammalia Linnaeus, 1758 -- Mammifères
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+Tuniciers
+Céphalochordés
+Vertébrés
+Somite
+Hémichordés
+Olfactoriens
+
+
+=== Liens externes ===
+
+Référence Fauna Europaea : Chordata (en)
+Référence ITIS : Chordata (fr) (+ version anglaise (en))
+Référence Animal Diversity Web : Chordata (en)
+Référence NCBI : Chordata (en)
+Référence uBio : Chordata (en)
+Plan d'organisation des Chordés (fr)
+ Portail de la zoologie

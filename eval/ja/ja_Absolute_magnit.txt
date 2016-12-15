@@ -1,0 +1,27 @@
+,500 km = 2.57 mAU
+地球から見た月の明るさはどのぐらいか
+満月:  = 0, ( ≈ 2/3)
+
+（実際は -12.7等） 満月は満位相の時、完全散乱反射体の予想より30%多い光を反射する。
+
+位相角90°の月:  = 90°,  (散乱反射体の場合)
+
+（実際は約−11.0等） 拡散反射体の公式は位相が小さいときによく当てはまる。
+
+
+== 出典・脚注 ==
+^ 更に厳密には≒2.5118864315095801…となる
+
+
+== 関連項目 ==
+HR図 - 絶対等級や光度の、スペクトル型や表面温度に対する関係。
+ジャンスキー 電波天文学者たちに好んで使われる単位 - linear in power/unit area
+
+
+== 外部リンク ==
+The Magnitude system
+About stellar magnitudes
+Obtain the magnitude of any star from SIMBAD
+Converting magnitude of minor planets to diameter
+Absolute Magnitude（絶対等級）という名前のSF雑誌もある。
+DNA Publications website

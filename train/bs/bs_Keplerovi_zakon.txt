@@ -1,0 +1,31 @@
+Keplerovi zakoni opisuju kretanje planeta oko Sunca.
+Pri sljedećim aproksimacijama se mogu izvesti Keplerovi zakoni:
+Referentni sistem vezan uz Sunce je inercijalan.
+Sunce i planete se promatraju kao materijalne tačke.
+Gravitaciono međudjelovanje između planeta je zanemarivo.
+Svaka planeta se kreće nezavisno od ostalih, kao čestica u centralnom polju sile.
+Tri su Keplerova zakona:
+Prvi Keplerov zakon. Sve planete se kreću po elipsama kojima je u jednom od žarišta Sunce.
+Drugi Keplerov zakon. Radijus-vektor Sunce-planeta prelazi u jednakim vremenskim razmacima jednake površine.
+Treći Keplerov zakon. Kvadrati ophodnih vremena planeta proporcionalni su kubovima njihovih srednjih udaljenosti od Sunca.
+Kretanje satelita oko matične planete i svaki drugi sličan sistem također se opisuju Keplerovim zakonima.
+Naziv su dobili po njemačkom astronomu Johannesu Kepleru.
+
+
+== Prvi Keplerov zakon ==
+Prvi Keplerov zakon glasi: Jednačina putanje u polarnim koordinatama je data sa , gdje je c parametar elipse, a e ekscentricitet elipse. P se definira kao  gdje je l- moment impulsa, m-masa tijela i K- univerzalna gravitaciona konstanta. Putanja zavisi od vrijednosti ekscentriciteta elipse, odnosno od energije koju tijelo posjeduje.
+Za e<1 je putanja elipsa. Maksimalna vrijednost nazivnika r(φ) je 1+ e, a minimalna 1-e. Pri maksimalnoj vrijednosti nazivnika je udaljenost planete od Sunca minimalna r=rmin i to odgovara vrijednosti φ=0. Najveća udaljenost planete od Sunca se naziva afel. Pri minimalnoj vrijednosti nazivnika je najveća udaljenost Sunca i planete i to odgovara vrijednosti φ=π. Najmanja udaljenost planete od Sunca se naziva perihel.
+
+Rmin=1/(1+ϵ) i rmax=1/(1-ϵ) se mogu napisati i u Dekartovim koordinatama kao 
+što je jednačina elipse. Pri tome su konstante a, b i d jednake:
+- velika poluosa elipse
+- mala poluosa elipse
+- udaljenost centra elipse i jednog njenog žarišta (fokusa).
+Preko integrala kretanja:
+, , gdje je E- energija koju tijelo posjeduje.
+Ovime je pokazano da se tijelo, pod dejstvom centralne sile kakva je gravitaciona, ili Coulombova i ukoliko se nalazi u vezanom stanju (E<0) kreće po elipsi u čijem jednom žarištu se nalazi Sunce.
+
+
+== Historijska bilješka ==
+Obrađujući vrlo precizna promatranja koja je izvršio Tycho Brahe, Kepler je uočio neslaganje kretanja planeta sa njihovim pretpostavljenim kružnim putanjama. Analizirajući geometrijski oblik planetskih putanja zaključio je da se planete ne kreću oko Sunca po pravilnim kružnicama (kao što je mislio Kopernik), već da su njihove staze, zapravo, (uglavnom blage) elipse i da se po njima planete kreću po određenim zakonitostima. Usporedivši svoje pretpostavke s rezultatima promatranja, ustanovio je da se vrlo dobro slažu. Tako je formulirao tri najznačajnija zakona kinematike Sunčevog sistema.
+Pokazalo se da svi Keplerovi zakoni vrije

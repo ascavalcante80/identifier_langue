@@ -1,0 +1,62 @@
+L'XHTML (sigla di eXtensible HyperText Markup Language, Linguaggio di marcatura di ipertesti estensibile) è un linguaggio di marcatura che associa alcune proprietà dell'XML con le caratteristiche dell'HTML: un file XHTML è un pagina HTML scritta in conformità con lo standard XML.
+L'XHTML è nato ufficialmente il 26 gennaio 2000 come standard del World Wide Web Consortium (W3C), e può essere definito tecnicamente una riformulazione dell'HTML 4.01 in XML 1.0; è una sorta di "ponte" tra questi due linguaggi.
+
+
+== Caratteristiche generali ==
+L'XHTML è il successore diretto dell'HTML 4.1. La necessità di un linguaggio dotato di una sintassi meglio definita rispetto a quella dell'HTML tradizionale cominciò ad essere avvertita quando si diffuse l'uso di inviare pagine web ai nuovi dispositivi apparsi sul mercato diversi dai tradizionali computer, come ad esempio piccoli apparecchi portatili, dotati di risorse hardware e software non sufficienti ad interpretare il linguaggio HTML. Va tenuto presente che più generica è la sintassi di un linguaggio di markup, più difficile risulta realizzare dispositivi in grado di interpretarlo correttamente. Una specifica Document Type Definition (DTD) definisce l'insieme di regole mediante le quali un dato documento può essere renderizzato (cioè rappresentato correttamente) dall'XHTML.
+Struttura logica della pagina
+Il linguaggio prevede un uso più restrittivo dei tag HTML (sia in termini di validità che in termini di sintassi) per descrivere solo la struttura logica della pagina, mentre il layout e la resa grafica sono imposti dai fogli di stile a cascata (Cascading Style Sheets, CSS).
+Visualizzazione grafica
+Tutti i browser attualmente più diffusi sono in grado di renderizzare correttamente i documenti XHTML, ma anche i browser più vecchi sono solitamente in grado di interpretare i documenti XHTML, poiché questo linguaggio è in buona parte un sottoinsieme dell'HTML e le sue regole sintattiche sono compatibili anche a ritroso. Lo stesso vale anche in senso inverso: quasi tutti i browser compatibili con l'XHTML renderizzano correttamente anche i documenti HTML.
+L'XHTML Transitional (XHTML di transizione, vedi oltre) si distingue dall'HTML principalmente perché è più compatibile con le specifiche dell'XML e dall'XHTML stretto (XHTML strict) per una maggior tolleranza nei confronti di definizioni deprecate.
+La differenza più importante è che tutti i tag devono essere ben strutturati, cioè obbedire ad una serie di regole che ne assicurino la coerenza reciproca, e devono essere terminati, compresi quelli vuoti (ad esempio img e br). Per eseguire la terminazione in modo implicito si può aggiungere una "/" di chiusura al tag di apertura (es: <img … /> e <br />). Altri tipi di abbreviazione non sono invece permessi (es: <option selected>).
+La sintassi prevede inoltre che i tag debbano essere sempre scritti in lettere minuscole, convenzione in contrasto con l'abitudine invalsa a partire dalla versione 2.0 di HTML, quando la maggior parte dei programmatori preferiva le maiuscole.
+Nell'XHTML tutti gli attributi (compresi quelli numerici) devono essere scritti fra virgolette, cosa facoltativa in SGML e HTML, in cui le virgolette possono essere omesse se il contenuto è una stringa alfanumerica o comprende alcuni altri caratteri speciali riservati. Per ulteriori dettagli si rinvia alle specifiche W3C XHTML. Le pagine di Wikipedia sono state scritte usando la versione 1.0 Transitional di XHTML.
+
+
+== Validazione dei documenti XHTML ==
+Un documento XHTML che risponde alle specifiche è definito documento valido ovvero well formed. Teoricamente, tutti i browser dovrebbero essere conformi agli standard W3C, e quindi essere in grado di rendere i documenti su qualsiasi piattaforma. La validazione (cioè il controllo sintattico) dei documenti XHTML non assicura tuttavia al 100% la compatibilità con tutti i browser, principalmente per limiti di questi ultimi, ma è comunque fortemente consigliata. Uno strumento per controllare la validità dei documenti è disponibile presso il Markup Validation Service del W3C (vedi [1]).
+Come sopra accennato, perché un documento possa essere validato, deve contenere un elemento chiamato DTD (Document Type Definition o Document Type Declaration), da posizionare preferibilmente all'inizio del documento. I tipi più comuni di DTD, e le relative sintassi dichiarative, sono:
+XHTML 1.0 Strict
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+XHTML 1.0 Transitional
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+XHTML 1.0 Frameset
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+XHTML 1.1
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+Il tipo di codifica applicata (character encoding) deve essere sempre specificato all'inizio del documento. Ciò consente al validatore, come ad esempio quello prima citato, messo a disposizione dal W3C, di controllare se il documento risponde allo standard. Il processo di validazione identifica e fornisce una descrizione degli errori rilevati (error log).
+Alcuni degli errori più comuni che gli sviluppatori commettono scrivendo codice XHTML sono:
+Elementi privi di terminatore (come sopra detto l'XHTML è molto più restrittivo dell'HTML sotto questo aspetto).
+Omissione del testo da visualizzare in alternativa ad un'immagine (da usare mediante l'attributo alt, in modo da consentire la compatibilità con dispositivi il cui display non supporta immagini).
+Inserire testi direttamente nel corpo del documento.
+Annidare blocchi di codice all'interno di elementi inline.
+Dimenticare le virgolette per delimitare gli attributi.
+Annidare gli elementi in modo non valido.
+Usare in modo scorretto entità varie (ad esempio & anziché &amp;).
+Usare le maiuscole per i nomi dei tag e/o degli attributi.
+Questo non è, ovviamente, un elenco esauriente degli errori, ma solo un'indicazione di quelli che i programmatori commettono più frequentemente. Quando una pagina è validata utilizzando il servizio di validazione del W3C, il validatore restituisce una piccola icona che può essere inserita nel documento per comprovarne la conformità allo standard. Il W3C fornisce lo stesso servizio anche per i fogli di stile CSS e per i documenti HTML.
+
+
+== Versioni ==
+Come sopra accennato, XHTML è una riformulazione di HTML come linguaggio XML. Quindi, come è logico aspettarsi, ne esistono tre differenti DTD, corrispondenti ad altrettante DTD di HTML 4.01
+
+
+=== XHTML 1.0 ===
+XHTML 1.0 Transitional: nato per favorire la migrazione dalla vecchia versione HTML 3.2 o per uso insieme a link e frame in-line. Accetta come validi anche i tag HTML che sono stati definiti come deprecati in XHTML ed è tollerante rispetto ad alcune non conformità sintattiche.
+XHTML 1.0 Strict: rispetto alla versione Transitional non accetta i tag HTML definiti deprecati, non è tollerante a non conformità sintattiche e prevede controlli più rigorosi anche rispetto al valore di alcuni attributi dei tag (per esempio, l'attributo id deve avere valori univoci all'interno dello stesso documento).
+XHTML 1.0 Frameset: nato per motivi di compatibilità per suddividere la finestra visualizzata dal browser in diversi frame (sottofinestre), pratica un tempo diffusa ma ora deprecata dal World Wide Web Consortium.
+
+
+=== XHTML 1.1 ===
+L'ultima versione di XHTML è la XHTML 1.1, che è una riformulazione dell'XHTML Strict, quindi ha una sola DTD. Non accetta i tag e gli attributi più criticati della precedente versione (come la struttura a frameset). Questa versione invece supporta i tag del cosiddetto markup «ruby», che consente di visualizzare i set di caratteri delle lingue orientali.
+
+
+=== XHTML 2.0 ===
+XHTML 2 è un linguaggio di progettazione per il web; il 2 luglio 2009 il World Wide Web Consortium ne ha decretato la cessazione dello sviluppo, mentre era ancora in fase di specifica, a favore dell'HTML5 . Nelle intenzioni, doveva rappresentare l'evoluzione dell'XHTML 1.0.
+Si caratterizza principalmente per una struttura modulare, in cui le regole per l'impostazione dei vari elementi di una pagina web (suddivisione del testo; moduli elettronici; dati tabellari eccetera) sono descritte in moduli separati, che possono evolvere indipendentemente tra loro.
+Rispetto alla prima versione di XHTML, vengono rese più forti le caratteristiche XML per le regole sintattiche, inoltre vengono approfondite ed estese le possibilità di controllo sui moduli elettronici (form), introducendo strutture più complesse ed elementi di elaborazione.
+La definizione procedeva in parallelo a quella dell'HTML5, che veniva considerato dal World Wide Web Consortium come uno standard di markup complementare rispetto a XHTML 2, ma la fase di specifica si è arrestata di fronte a due problemi:
+la scarsa compatibilità;
+si sarebbe trattato a tutti gli effetti di un markup quasi completamente nuovo, piuttosto che di un'evoluzione dell'XHTML 1.1.
+Dunque si è preferito abbandonare l'XHTML 2 a fa

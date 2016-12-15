@@ -1,0 +1,83 @@
+In informatica XML (sigla di eXtensible Markup Language) è un metalinguaggio per la definizione di linguaggi di markup, ovvero un linguaggio marcatore basato su un meccanismo sintattico che consente di definire e controllare il significato degli elementi contenuti in un documento o in un testo.
+Costituisce il tentativo di produrre una versione semplificata di Standard Generalized Markup Language (SGML) che consente di definire nuovi linguaggi di markup.
+Il nome indica che si tratta di un linguaggio marcatore (markup language) estensibile (eXtensible) in quanto permette di creare tag personalizzati.
+
+
+== StoriaModifica ==
+Il World Wide Web Consortium (W3C), in seguito alla guerra dei browser (ovvero la situazione verificatasi negli anni novanta nella quale Microsoft e Netscape introducevano, con ogni nuova versione del proprio browser, un'estensione proprietaria all'' HTML ufficiale), fu costretto a seguire le individuali estensioni al linguaggio HTML.
+Il W3C dovette scegliere quali caratteristiche standardizzare e quali lasciare fuori dalle specifiche ufficiali dell'HTML. Fu in questo contesto che iniziò a delinearsi la necessità di un linguaggio di markup che desse maggiore libertà nella definizione dei tag, pur rimanendo in uno standard.
+Il "progetto XML", che ebbe inizio alla fine degli anni novanta nell'ambito della SGML Activity del W3C, suscitò un così forte interesse che la W3C creò un gruppo di lavoro, chiamato XML Working Group, composto da esperti mondiali delle tecnologie SGML, ed una commissione, XML Editorial Review Board, deputata alla redazione delle specifiche del progetto.
+Nel febbraio del 1998 le specifiche divennero una raccomandazione ufficiale con il nome di Extensible Mark-up Language, versione 1.0. Ben presto ci si accorse che XML non era limitato al solo contesto web ma era qualcosa di più: uno strumento che permetteva di essere utilizzato nei più diversi contesti, dalla definizione della struttura di documenti, allo scambio delle informazioni tra sistemi diversi, dalla rappresentazione di immagini alla definizione di formati di dati.
+
+
+== UtilizziModifica ==
+Rispetto all'HTML, l'XML ha uno scopo ben diverso: mentre il primo definisce una grammatica per la descrizione e la formattazione di pagine web (layout) e, in generale, di ipertesti, il secondo è un metalinguaggio utilizzato per creare nuovi linguaggi, atti a descrivere documenti strutturati. Mentre l'HTML ha un insieme ben definito e ristretto di tag, con l'XML è invece possibile definirne di propri a seconda delle esigenze.
+L'XML è oggi molto utilizzato anche come mezzo per l'esportazione di dati tra diversi DBMS.
+
+
+== SintassiModifica ==
+Ecco un esempio tipico di file XML, visualizzabile all'interno di un browser qualsiasi semplicemente salvando il testo in un file con estensione .xml.
+
+La prima riga indica la versione di XML in uso e specifica la codifica UTF-8 per la corretta interpretazione dei dati.
+I caratteri speciali che renderebbero il documento mal formato vanno sostituiti con le rispettive entità XML:
+Va fatto presente che solo le prime 3 entità sono sempre da rispettare, mentre l'ultima &apos; in alcuni casi non è gestita (come nell'iPhone iOs 3.1.3 e successive).
+
+
+=== I tag o etichetteModifica ===
+L'XML, come l'HTML, utilizza dei marcatori, chiamati tag (etichette), per assegnare una semantica al testo. I tag possono contenere informazioni in due modi: attraverso dei parametri oppure racchiudendo del testo o altri tipi di informazioni. Segue che possono essere tag di apertura, necessariamente seguiti da tag di chiusura (tra i quali si può avere un contenuto) oppure tag che si aprono e chiudono, e possono quindi fornire informazioni solo attraverso i loro parametri.
+Ogni etichetta inizia e finisce con delle parentesi angolari <> (che in altri contesti sarebbero i segni di minore e maggiore), mentre la chiusura del tag o il tag di chiusura è rappresentato dalla barra /. Ecco degli esempi di tag:
+
+<tagEsempio parametro1="etichetta di apertura" caratteristiche="solo l'etichetta di apertura ha dei parametri">
+   contenuto
+</tagEsempio>
+<tagAutochiudente parametro1="etichetta autochiudente" caratteristiche="non ha etichetta di chiusura" />
+
+XML consente dei commenti racchiusi da <!-- --> Ad esempio:
+
+<!-- Questo è un commento -->
+
+XML è molto rigido sulla sintassi da seguire rispetto all'HTML ed è pertanto necessario rispettare alcune regole:
+i tag non possono iniziare con numeri o caratteri speciali e non possono contenere spazi;
+i tag devono essere bilanciati, ovvero non sono consentiti errori di annidamento, ad esempio:
+
+Il tag cognome non è stato chiuso, l'XML risulta quindi non ben formato.
+
+Il tag cognome è stato chiuso dopo il tag rubrica, anche in questo caso l'XML non è ben formato.
+
+XML è case sensitive quindi il tag cognome e il tag COGNOME sono considerati come due tag diversi; l'XML ancora una volta non è ben formato.
+È possibile anche definire tag vuoti che vengono aperti e immediatamente chiusi:
+
+Oppure in maniera abbreviata:
+
+Per poter essere correttamente interpretato, un documento XML deve essere ben formattato, deve cioè possedere le seguenti caratteristiche:
+Un prologo, che è la prima istruzione che appare scritta nel documento. Nel nostro caso: <?xml version="1.0" encoding="UTF-8"?>.
+Un unico elemento radice (ovvero il nodo principale, chiamato root element) che contiene tutti gli altri nodi del documento. Nel nostro esempio: <utenti>.
+All'interno del documento tutti i tag devono essere bilanciati.
+Se il documento XML non contiene errori si dice Well Formed (ben formato). Se il documento è well formed e in più rispetta i requisiti strutturali definiti nel file DTD o schema XML associato viene chiamato Valid (valido).
+Si noti che la sintassi di Wikimedia usata anche per Wikipedia fa uso di molti tag.
+
+
+== Tecnologie di supporto a XMLModifica ==
+Linguaggi schema (permettono di creare nuovi linguaggi XML):
+DTD (acronimo di Document Type Definition): è un documento attraverso cui si specificano le caratteristiche strutturali di un documento XML attraverso una serie di "regole grammaticali". In particolare definisce l'insieme degli elementi del documento XML, le relazioni gerarchiche tra gli elementi, l'ordine di apparizione nel documento XML e quali elementi e quali attributi sono opzionali o meno.
+XML Schema: come la DTD, serve a definire la struttura di un documento XML. Oggi il W3C consiglia di adottarlo al posto della DTD stessa, essendo una tecnica più recente ed avanzata. La sua sigla è XSD, acronimo di XML Schema Definition.
+Altre tecnologie legate a XML:
+XLink: serve a collegare in modo completo due documenti XML; al contrario dei classici collegamenti ipertestuali che conosciamo in HTML, XLink permette di creare link multidirezionali e semanticamente avanzati.
+XSL (acronimo di eXtensible Stylesheet Language): è il linguaggio con cui si descrive il foglio di stile di un documento XML. La sua versione estesa è l'XSLT (dove la T sta per Transformations).
+XPath: è un linguaggio con cui è possibile individuare porzioni di un documento XML e sta alla base di altri strumenti per l'XML come XQuery.
+A supporto di questo scopo principale, fornisce anche elementari funzionalità per trattare stringhe, numeri e dati booleani. Il suo funzionamento si basa sulla creazione di un albero a partire dal documento e la sintassi succinta permette di indirizzare una specifica parte attraverso i nodi dell'albero con la semplice parola path.
+XPointer: serve ad identificare univocamente precise porzioni di un documento XML; consente poi il loro accesso ad altri linguaggi o oggetti di interfaccia.
+XQuery: è un linguaggio di query concepito per essere applicabile a qualsiasi sorta di documento XML e si basa sull'utilizzo di XPath per la specificazione di percorsi all'interno di documenti. XQuery ha funzionalità che consentono di poter attingere da fonti di dati multiple per la ricerca, per filtrare i documenti o riunire i contenuti di interesse.
+SAX (Simple API for XML): è un'interfaccia di programmazione, implementata in numerosi linguaggi, che permette di leggere e modificare i documenti XML. Attraverso SAX è possibile implementare dei parser XML specifici. SAX è event based, al contrario di DOM, e reagisce agli eventi di parsing facendo rapporto all'applicazione. È compito del programmatore implementare i metodi per reagire agli eventi di parsing.
+DOM: è un'interfaccia di programmazione, come SAX, implementata in una moltitudine di linguaggi di programmazione, per la manipolazione di file XML. DOM costruisce partendo dal file XML un albero dove ogni nodo dell'albero corrisponde ad un elemento del file; per questo motivo è detta tree based.
+VTD-XML: DOM è più facile ed immediata da utilizzare rispetto a SAX ed è pertanto preferita solitamente dai programmatori per manipolare un file XML; tuttavia l'albero generato da DOM va mantenuto completamente nella memoria RAM e di conseguenza non è possibile utilizzare questa interfaccia per manipolare file che siano più grandi della memoria disponibile sul computer.
+RSS: è uno standard che serve a creare un documento con una struttura di tipo XML univoca, atta allo sviluppo di un semplice scambio dati tra pagine Web ed accessibile da qualsiasi linguaggio di scripting. In sostanza si tratta di un documento XML la cui struttura dei nodi ed i relativi tag hanno lo stesso nome.
+SVG (Scalable Vector Graphics) e VML (Vector Markup Language) sono standard per la creazione di immagini vettoriali che sfrutta dei documenti formattati in XML. Serve inoltre a descrivere immagini bidimensionali, statiche e dinamiche. Leggendo le istruzioni contenute nel documento sorgente XML, l'interprete disegna le figure-base fino al completamento dell'immagine.
+WDDX (Word Data Description Exchange): WDDX è una struttura per contenimento di dati con la stessa struttura di un database, creato dalla Allaire oggi Macromedia e rilasciato Open presso la WDDX Organization
+
+
+== Linguaggi XML più diffusiModifica ==
+XForms: come il suo nome lascia intendere, è un linguaggio nato per creare moduli (forms) di tipo HTML all'interno di un documento XML.
+SMIL (Synchronized Multimedia Integration Language): questo linguaggio definito in XML, viene utilizzato per descrivere il contenuto e gestire la tempistica di presentazioni multimediali che possono combinare insieme video, audio, immagini e testo.
+MathML (Mathematical Markup Language): MathML è usato per la descrizione di notazioni matematiche, procedendo a fissarne contemporaneamente struttura e contenuti, così da poter essere riportate e processate sul Web.
+X3D (eXtensible 3D): X3D è un linguaggio che permette di costruire modelli tridimensionali, siano essi semplici o sofisticati. Agli oggetti così creati possono applicarsi animazioni e meccanismi di interazione con l'utente. Come linguaggio, è costruito sul Virtual Reality Modeling Language (VRML), a sua volta assunto a standard internaziona

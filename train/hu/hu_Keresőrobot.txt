@@ -1,0 +1,19 @@
+A keresőrobot (angol szövegkörnyezetben: web crawler) egy informatikai kifejezés. Olyan speciális programok gyűjtőneve, amelyek képesek az interneten fellelhető publikus, illetve a robots.txt és a robots metatag által engedélyezett tartalmak letöltésére, és ezek valamilyen formában való elemzésére, az adatok eltárolására.
+A keresőrobotokat legtöbbször keresőoldalak használják arra a célra, hogy a felkutatott, és indexelt weboldalak linkjeit a saját oldalukon kereshetővé tegyék. Ilyen a talán legismertebb Googlebot, ami a Google számára tölt le weboldalakat, de nagyon sok hasonló robot létezik. A tipikus felhasználáson kívül léteznek speciális alkalmazások is, karbantartásra, vagy más adatok összegyűjtésére használt robotok is.
+A keresőrobotok felépítésüktől függően képesek egy már létező browser motorját felhasználva a megcélzott weboldal html kódjának a teljes renderelésére, és azon a Javascript függvények lefuttatására is, de általában nem ez a helyzet. A keresőrobotok rendszerint egy browsernél sokkal egyszerűbb módon, a html struktúra objektumokká felépítése nélkül próbálja a szöveget értelmezni. Ez azt jelenti, hogy az emberi felhasználó által látott, és a keresőrobot által látott "kép" néha jelentősen eltér. A keresőrobotok többsége nem képes képeket értelemzni, illetve a html kód megjelenítését szabályozó css-t sem dolgozza fel, így lényegében csak a szöveges tartalom az amit lát. Ahhoz hogy egy a keresőrobotéhoz hasonló képet kapjunk nekünk is egy szöveges browsert kell használni, ilyen például a Lynx. A weboldalak tulajdonosai háromféle módon tudják a saját oldalaikon a keresőrobotok tevékenységét szabályozni. Ezek közül a leggyakrabban használt a robots.txt. Ez egy egyszerű szöveges fájl, amely instrukciókat tartalmaz a robotok számára, hogy az azt tartalmazó weboldal mely oldalait érhetik el a robotok. pl.
+User-agent: * Disallow: /test/*
+Allow: /help.html
+Allow: /index.html
+
+Itt a "test" alkönyvtár tartalma tilos a robotok számára,az oldalon található help.html és az index.html viszont járható. Az alapértelmezés az hogy járható.
+A User-agent: után következik annak robotnak a megnevezése, amelyre ez a bejegyzés vonatkozik, a csillag jelentése az, hogy minden robotra vonatkozik, de állhatna itt az is hogy:
+User-agent: Googlebot Disallow: / Ami a google robotját tiltaná le minden oldalról, bár ez általában elég botor dolog.
+A következő eszköz a html oldalak header szekciójában elhelyezett robots meta tag: <meta name="robots" content="index,follow" /> A content lehetséges értékei:
+noindex - ilyenkor az adott oldalt a robotok nem indexelhetik
+index - indexelés engedélyezett
+nofollow - az adott oldalt indexeli, de onnan nem gyűjthet további linkeket
+follow - linkek gyűjtése is megengedett
+all - azonos az index,follow kombinációval, ez az alapértelmezés
+none - azonos a noindex,nofollow kombinációval
+És ezek értelemszerű kombinációi, az "index,follow" eset az alapértelmezés, ezért ezt felesleges megadni.
+A harmadik lehetőség az egyes linkek követését korlátozza, ez az anchor tag <a href="..." rel="nofollow" ... >linkszöveg</a> rel paraméterével állítható be. Az így megjelölt linkeket a keresőrobot követheti ugyan, de ez nem számít bele az oldalak kapcsolódási tőkéjét megh

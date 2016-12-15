@@ -1,0 +1,6 @@
+Volumen motora je jedna od glavnih karakteristika kada se govori o motoru. Ovu karakteristiku uglavnom spominjemo kada su u pitanju manje izvedbe motora kao što su motori za automobile ili motocikle. Tako imamo motocikle sa npr. 250, 500, 750 ccm što znači da oni imaju volumen motora od toliko kubnih centimetara. Volumen motora je u stvari zbir pojedinačnih radnih volumena svakog cilindra od kojeg se sastoji motor i on ne uključuje volumen komora za sagorijevanja.
+
+
+== Definicija ==
+Pri definisanju volumena motora, potreba je prvo definisati volumen cilindra. Volumen cilindra je proizvod prečnika cilindra i hoda klipa.
+Volumen cilindra je onaj volumen koji klip istisne pri svom kretanje iz krajnje DMT do krajnje GMT. Prema tome imamo da je volumen c

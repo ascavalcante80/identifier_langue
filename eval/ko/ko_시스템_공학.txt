@@ -1,0 +1,18 @@
+d); CMMI]]
+kkk²
+
+
+== 형상관리 ==
+CSCI
+HWCI
+
+
+== 회의체 ==
+체계요구사항 검토회의(SRR, System Requirement Review)
+체계기능 검토회의(SFR, System Function Review)
+체계설계 검토회의(SDR, System Design Review)
+기본설계 검토회의(PDR, Preliminary Design Review)
+상세설계 검토회의(CDR, Critical Design Review)
+최종설계 검토회의(FDR, Final Design Review)
+사업관리 검토회의(PMR, Project Management Review)
+시험준비 검토회의(TRR, Test Readiness Review)

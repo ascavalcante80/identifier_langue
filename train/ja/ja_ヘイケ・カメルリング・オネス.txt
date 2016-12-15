@@ -1,0 +1,60 @@
+ヘイケ・カメルリング・オネス（Heike Kamerlingh Onnes, 1853年9月21日-1926年2月21日) はオランダの物理学者である。日本ではカーメルリング・オンネス、カマリン・オンネス、カマリン・オネスなど様々にカナ表記されている。ヘリウムの液化に成功、超伝導の発見など、低温物理学の先駆者として知られている。1913年にノーベル物理学賞を受賞した。
+
+
+== 生涯 ==
+
+
+=== 前半生 ===
+1853年、オランダのフローニンゲンにて誕生。父は煉瓦工場を経営していた。母はアーネム出身。
+1870年、フローニンゲン大学に入学。その後1871年から1873年までドイツに留学し、ハイデルベルク大学にてローベルト・ブンゼン、グスターブ・キルヒホッフらの教えを受けた。その後再びフローニンゲンに戻り、1876年には博士論文 "Nieuwe bewijzen voor de aswenteling der aarde"（地球自転の新しい証明）のための研究を完成させ、1878年から1882年までの間、デルフト工科大学にて Johannes Bosscha の助手として働き、1881年から1882年までは講師も任された。デルフト時代にファン・デル・ワールスと出会い、彼との議論を通じ、低温における物理現象に興味を抱くようになった。
+
+
+=== ライデン大学 ===
+1882年、ライデン大学実験物理学教授に就任。1894年、酸素、窒素、空気の液化装置を備えた低温物理学研究所を同大学に設立した。1908年、ヘリウムの液化に初めて成功。カール・フォン・リンデらが開発した冷却機と3重構造の魔法瓶を用い、外側から順に液体空気、液体水素を入れて温度を下げ、最終段階はジュール＝トムソン効果によって0.9Kという低温を達成し、ヘリウムの液化を実現した。これが、当時の世界一の低温となった。オリジナルの装置はライデンの Boerhaave Museum にある。
+
+
+=== 家族 ===
+1887年に結婚し、息子を1人もうけた。
+
+
+=== 超伝導 ===
+1911年に純金属（水銀、スズ、鉛）を冷却し、超低温での電気的性質の分析を行った。ウィリアム・トムソン（ケルビン卿）らは、絶対零度では電気伝導体の電子が流れなくなる、つまり金属の比抵抗が無限大になると信じていた。一方オネスらは温度が低くなるに従って電気抵抗が小さくなり、絶対零度では0になると考えていた。これはイギリスのマーティセン (en) が温度が低くなると金属の伝導率が高まり、抵抗値が小さくなると示したことに基づいている。
+4.2Kで、水銀の電気抵抗が突然消滅した。当初オネスは試料の電極がショートしたと思ったが、その後で現実に電気抵抗がゼロになったのだと気づいた。これが超伝導現象を発見した瞬間だった。オネスは「水銀は新たな状態へと遷移した。この状態の特異な電気的特性から、これを超伝導状態 (superconductive state) とでも呼ぼう」と記している。その後、スズ、鉛などでも超伝導現象が起こることを発見した。また、超伝導状態の物質に磁場を加えると、超伝導が消失することを発見した。なお、オネスは元々 "superconductivity" ではなく "supraconductivity" という語を使っていた。
+低温物理学への貢献により、1912年にランフォード・メダル、1913年にはノーベル物理学賞が授与された。
+
+
+=== 後世への影響 ===
+1926年に死去するまで生涯ライデン大学教授職として過ごした。彼が使っていた実験装置の一部はライデンの Boerhaave Museum にある。最初のヘリウム液化に成功した装置はライデン大学物理学科の建物の玄関ロビーに展示されている。死後、ライデン大学の低温研究所はカメルリング・オネス研究所と改名された。オネスの後任となったウィレム・ヘンドリック・ケーソンは、1926年に世界で初めて固体ヘリウムを作ることに成功した。
+後に発見されたヘリウムの超流動現象を「オネス効果（または現象）」と呼ぶこともある。
+月には彼の名を冠したクレーター (en) がある。
+また、「エンタルピー」という用語を作ったのはオネスとされている。
+
+
+== 受賞歴 ==
+マテウチ・メダル (1910)
+ランフォード・メダル (1912)
+ノーベル物理学賞 (1913)
+フランクリン・メダル (1915)
+
+
+== 主な著作 ==
+Kamerlingh Onnes, H., "Nieuwe bewijzen voor de aswenteling der aarde." Ph.D. dissertation. Groningen, Netherlands, 1879.
+Kamerlingh Onnes, H., "Algemeene theorie der vloeistoffen." Amsterdam Akad. Verhandl; 21, 1881.
+Kamerlingh Onnes, H., "On the Cryogenic Laboratory at Leyden and on the Production of Very Low Temperature." Comm. Phys. Lab. Univ. Leiden; 14, 1894.
+Kamerlingh Onnes, H., "Théorie générale de l'état fluide." Haarlem Arch. Neerl.; 30, 1896.
+Kamerlingh Onnes, H., "The Superconductivity of Mercury." Comm. Phys. Lab. Univ. Leiden; Nos. 122 and 124, 1911.
+Kamerlingh Onnes, H., "On the Lowest Temperature Yet Obtained." Comm. Phys. Lab. Univ. Leiden; No. 159, 1922.
+
+
+== 脚注・出典 ==
+
+
+== 参考文献 ==
+de Bruyn Ouboter, Rudolf (1997). "Heike Kamerlingh Onnes’s Discovery of Superconductivity" (PDF). Scientific American 276 (3): 98–103. doi:10.1007/s00016-003-0193-8.  
+Laesecke, Arno (2002). "Through Measurement to Knowledge: The Inaugural Lecture of Heike Kamerlingh Onnes (1882)" (PDF). Journal of Research of the National Institute of Standards and Technology 107 (3): 261–277.  
+Reif-Acherman, Simón (2004). "Heike Kamerlingh Onnes: Master of Experimental Technique and Quantitative Research" (PDF). Physics in Perspective 6 (2): 197–223. doi:10.1007/s00016-003-0193-8.  
+Van Delft, D., "Heike Kamerlingh Onnes". Amsterdam, Bert Bakker, 2005. ISBN 90-351-2739-0
+Levelt-Sengers, J. M. H., "How fluids unmix : discoveries by the School of Van der Waals and Kamerlingh Onnes". Amsterdam, Koninklijke Nederlandse Akademie van Wetenschappen, 2002. ISBN 90-6984-357-9
+Kamerlingh Onnes, Heike, (Gavroglou, Kōstas. [ed.], and Goudaroulis, Yorgos [ed.]) "Through measurement to knowledge : the selected papers of Heike Kamerlingh Onnes (1853-1926)". Dordrecht, Boston, Kluwer Academic Publishers, c1991. Goudaroulis, Yorgos. ISBN 0-7923-0825-5
+International Institute of Refrigeration (First International Commission), "Rapports et communications issus du Laboratoire Kamerlingh Onnes". International Congress of Refrigeration (7th; 1936; La Hauge), Amsterdam, 1936.
+Freezing Physics: Heike Kamerlingh Onnes and the Quest for Cold , Van Delft Dirk (2007). Edita - The Publishing House Of The Royal Nether

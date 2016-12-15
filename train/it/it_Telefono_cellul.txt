@@ -1,0 +1,132 @@
+Un telefono cellulare, comunemente chiamato cellulare o telefonino (in Svizzera chiamato Natel), nel campo delle telecomunicazioni è un apparecchio radio mobile terminale ricetrasmittente per la comunicazione in radiotelefonia sull'interfaccia radio di accesso di una rete cellulare.
+
+
+== StoriaModifica ==
+
+
+=== L'invenzioneModifica ===
+Il telefono cellulare fu inventato da Martin Cooper, direttore della sezione Ricerca e sviluppo della Motorola, che fece la sua prima telefonata da un cellulare il 3 aprile 1973. Dopo 10 anni la Motorola decise di produrre un modello dal costo di 4000 dollari.
+
+
+=== L'evoluzione della telefonia cellulareModifica ===
+
+Dalla sua comparsa, il telefono cellulare ha usato diversi sistemi di funzionamento principali (e alcuni "intermedi"), denominati "generazioni", basati su differenti tecnologie e standard di comunicazione, dai sistemi analogici degli anni settanta/novanta (160/450/900 MHz) a quelli digitali basati su standard GSM, GPRS, UMTS/EDGE e VSF-Spread OFDM (rispettivamente terza e quarta generazione ossia 3G e 4G).
+Mentre il passaggio dal segnale analogico a quello digitale ha permesso d'implementare oltre alla sola chiamata vocale l'uso dei messaggi di testo SMS, registrare e visualizzazione foto e filmati, con il GPRS si è consentito l'utilizzo del telefono cellulare anche per inviare foto e filmati digitali, streaming audio e video (generalmente solo con l'EDGE, l'ultima evoluzione del 2G), navigare in Internet (nello speciale protocollo Wireless Application Protocol (WAP) oltre al tradizionale HTTP) e spedire e-mail, mentre con l'UMTS (terza generazione) si sono aperte le porte alle videotelefonate (successivamente venne integrata la possibilità anche ai dispositivi 2G). Con l'avanzamento della tecnologia digitale, comparvero i primi tivufonini per visionare il segnale TV tramite alcune emittenti televisive dedicate.
+
+
+=== Evoluzione tecnicaModifica ===
+
+L'evoluzione dei segnali radio venne affiancata da un'evoluzione tecnologica più evidente, passando dagli schermi LCD monocromatici ai primi schermi a colori, ora con tecnologia a LED e alla funzionalità touch screen. La grafica sempre più definita e l'impiego di menù sempre più complessi fino all'uso delle icone, ha reso nel tempo i telefoni cellulari sempre più simili a un personal computer. Accessori come fotocamere integrate (uno dei primi esempi fu il J-SH04) in grado di fotografare con ottime risoluzioni, riprendere piccoli video e, a seconda del modello e della quantità di memoria disponibile, hanno consentito la possibilità di registrare veri e propri filmati digitali, visionare foto e video sempre più dettagliati, navigare in Internet con prestazioni sempre più simili a quelle offerte da un PC.
+Le suonerie, grazie a micro-casse acustiche e a componenti audio sempre più sofisticati incorporati nel telefono, da monofoniche sono divenute polifoniche e poi stereo per arrivare all'audio virtual 3D, diventando degli apparati multimediali in grado di far ascoltare stazioni radio, compilation di MP3, effettuare registrazioni ambientali, memorizzare l'audio delle nostre conversazioni telefoniche e il tutto con qualità audio di alto livello.
+I software dei cellulari di ultima generazione sono veri e propri Sistemi Operativi in grado di gestire i più svariati applicativi come browser per navigare in Internet, programmi di video scrittura e posta elettronica, giochi e suonerie scaricabili dalla rete, ecc. I più recenti ed evoluti cellulari chiamati Smartphone, offrono anche la possibilità di installare programmi complessi come per il foto-ritocco, per il controllo del computer, per la protezione crittografica della conversazione (crypto phone) o altri innumerevoli applicativi.
+Ultimamente, grazie ad accordi presi tra i produttori di cellulari e i gestori delle mappe globali GPS, si possono utilizzare i telefoni cellulari (con antenna GPS interna o esterna) come navigatori satellitari e questi, grazie all'alta efficienza di alcuni modelli, possono rappresentare una vera e propria sfida rispetto alle società specializzate nella costruzione di soli navigatori.
+Sono aumentate anche le porte e i metodi di connessione verso altri sistemi come ad esempio la trasmissione dati a infrarosso (IR), il Bluetooth e il wi-fi, la connessione tramite porta USB, la possibilità di collegare cuffie, auricolari, microfoni e apparati vivavoce per auto o volendo, un vero e proprio impianto HiFi.
+Alcuni modelli inoltre possono alloggiare schede di memoria aggiuntive Secure Digital (SD) per aumentare la memoria o perfino alloggiare e gestire 2 schede telefoniche SIM contemporaneamente quindi con due differenti numerazioni telefoniche sullo stesso telefono.
+Infine un accenno anche al telefono satellitare che, tramite la connessione satellitare, permette di telefonare praticamente da qualsiasi parte del globo. Nati per sopperire all'esigenza di chiamare anche da zone non coperte dalle cellule telefoniche, sono telefoni che garantiscono un funzionamento anche in ambienti estremi cioè molto caldi, molto freddi o molto umidi. Utilizzano materiali resistenti ma leggeri, impiegano batterie con autonomie maggiorate e sono corredati di numerosi gadget utili ai più svariati scopi e imprevisti.
+
+
+=== La diffusioneModifica ===
+
+Nei primi anni questi dispositivi erano particolarmente costosi, basti pensare come il Motorola 8900x costasse quasi 4000 dollari negli anni 80, mentre attualmente la sua replica non fedele al 100% del 2005 costava meno di 250 dollari, per questo la loro diffusione era limitata alle persone più ricche, mentre dalla seconda metà degli anni novanta con le nuove tecnologie e prezzi contenuti il cellulare smise di essere uno status symbol: la sua successiva estrema diffusione ha provocato la spontanea insorgenza di una sorta di galateo dedicato.
+Dal XXI secolo in poi la moda ha influenzato notevolmente anche questo settore infatti, sul mercato, si trovano telefoni cellulari di qualsiasi dimensione, forma e design; sono stati impiegati innumerevoli materiali differenti arrivando alla produzione di vere e proprie opere uniche più simili a gioielli di altissimo valore. Esistono cellulari per impieghi speciali con segnali cifrati e con sistemi che impediscono l'intercettazione del traffico telefonico, modelli praticamente impermeabili e ad altissima resistenza.
+
+
+== Caratteristiche generaliModifica ==
+Si collega alla rete telefonica fissa e alla rete dati tramite centrali di smistamento presenti nel core cablato della rete cellulare a sua volta collegate a stazioni radio base (BTS, Base Transceiver Station), molto spesso dotate di tre o più celle radio, ciascuna capace di diverse connessioni con gli apparecchi mobili nella rispettiva area di copertura e secondo le frequenze supportate.
+Il telefono cellulare consente dunque di avere disponibile un collegamento telefonico quando si trovi nel raggio di copertura di una "cella radio" di una stazione radio base cui agganciarsi, e quando non schermato da ambienti, ostacoli fisici o manufatti limitanti la diffusione/propagazione delle frequenze radio elettromagnetiche (ad es. edifici/strutture metalliche).
+La disponibilità di servizio ovvero la presenza di copertura cellulare, nonché la potenza del segnale, è indicata dai ben noti livelli di campo e dipende dunque dalle condizioni di radiopropagazione del segnale radio. Il limite di distanza nella copertura dipende dalle specifiche tecniche correlate alla tecnologia GSM, variabile da poche centinaia di metri fino a 35 km, e dalla tipologia del terreno/ambiente su cui si svolge la comunicazione. A partire dall'inizio del 2000 l'evoluzione dei telefoni cellulari si è indirizzata sempre più verso forme evolute e intelligenti come gli smartphone di pari passo con l'evoluzione degli standard di telefonia cellulare e della miniaturizzazione ed aumento prestazionale dei componenti elettronici di supporto (memoria e processori).
+L'avvento e la diffusione delle reti radiomobili e dei telefoni cellulari hanno rappresentato una vera e propria rivoluzione tecnologica e sociologica dagli inizi degli anni novanta (assieme ad altre invenzioni quali internet e il GPS) nonché uno dei motori dello sviluppo economico mondiale nell'ambito dell'Information and Communication Technology (ICT).
+Il primo telefono cellulare portatile è stata dimostrata da John F. Mitchell  e il dottor Martin Cooper di Motorola nel 1973, con un portatile del peso di circa 4,4 libbre (2 kg) . Nel 1983, il DynaTAC 8000x è stato il primo ad essere disponibile in commercio. Dal 1983 al 2014, gli abbonamenti di telefonia mobile in tutto il mondo è cresciuto ad oltre 7 miliardi, fino a raggiungere la base della piramide economica . Nel 2014, i produttori di telefoni cellulari top erano Samsung, Nokia, Apple e LG.
+
+
+== Funzionalità di supportoModifica ==
+Un telefono cellulare oltre alle funzioni di ricetrasmissione deve presentare anche le seguenti funzionalità:
+potersi sincronizzare e agganciare sia alla frequenza della cella di appartenenza sia (caso GSM) temporalmente con il time-slot o trama dedicata all'utente all'interno della banda della cella durante il radiocollegamento. Tipicamente a livello logico tale procedura è attuata dopo la misurazione dei livelli di potenza del segnale inviato dalle varie stazioni radiobase di celle limitrofe e la scelta di quella a potenza maggiore per massimizzazione del rapporto segnale-rumore ovvero dunque della qualità della trasmissione. Dal punto di vista elettronico-circuitale tale funzionalità di sincronizzazione e aggancio è realizzata con l'ausilio di circuiti PLL.
+segnalare periodicamente alla stazione radiobase della cella di appartenenza la sua presenza attraverso il codice identificativo (dell'utente, del cellulare, della scheda SIM) per consentire il roaming ovvero essere rintracciato all'interno della stessa rete di un operatore o da parte di reti cellulari di altri operatori. Tipicamente questa funzionalità si realizza direttamente all'atto di aggancio alla cella radio che manterrà dunque in memoria le informazioni su tutti i terminali connessi. Tali informazioni d'utente finiscono poi memorizzate dinamicamente in un database a disposizione dell'intera rete.
+adattare il livello di potenza emesso durante una trasmissione in funzione dell'effettiva distanza dalla stazione radiobase della rispettiva cella di copertura limitando così il contributo in interferenza sulle celle limitrofe co-canali e migliorando l'efficienza del consumo energetico oppure in funzione delle reali condizioni di radiopropagazione presenti. Questa funzionalità è resa possibile dalla misura costante del livello di potenza del segnale con la stazione radiobase. Ne consegue che il consumo di potenza (somma di contributo di trasmissione e contributo di pre-elaborazione) di un cellulare durante una trasmissione dipende dalla distanza dalla stazione radiobase all'interno della cella di copertura, ed è maggiore in trasmissione che in ricezione dove è necessaria solo l'energia necessaria per l'elaborazione.
+praticare l'handover ovvero il cambio di canale di comunicazione all'interno della stessa cella o tra celle diverse quando il terminale si sposta nell'area di competenza di un'altra cella (cell switching) senza interrompere la comunicazione. Anche questa funzionalità comporta la misura costante del livello di potenza del segnale pervenuto da stazioni radiobase delle celle limitrofe e l'aggancio alla cella di destinazione al superamento di una certa soglia prefissata di potenza rispetto a quella del segnale della cella di origine. Segue poi la sincronizzazione nel tempo e la segnalazione del proprio identificativo per il roaming. Alcuni sistemi di telefonia cellulare consentono l'aggancio ad altre celle limitrofe rispetto a quella di residenza anche quando il traffico in questa cella è troppo elevato per essere supportato garantendo così una maggiore disponibilità di servizio.
+se la comunicazione è di tipo digitale (come in tutti i sistemi moderni a partire dal GSM in poi) il terminale mobile dovrà operare le consuete codifiche di sorgente e codifiche di canale in trasmissione e le rispettive codifiche inverse (decodifiche) in ricezione. Inoltre in ogni caso dovrà provvedere anche alla cifratura dei dati in trasmissione e alla rispettiva decifratura in ricezione per garantire la riservatezza o confidenzialità della comunicazione sul mezzo radio che è un mezzo condiviso e facilmente accessibile a tutti.
+i moderni terminali radiomobili hanno inoltre le capacità di agganciarsi ai vari sistemi di comunicazione radiomobile disponibili su un territorio, grazie a procedure di switching automatico da un sistema all'altro e a più dispositivi di ricetrasmissione, cioè avere dunque disponibili più forme di connettività in funzione della qualità stimata della trasmissione nei vari sistemi rilevati e/o dei costi. Queste funzionalità sono a loro volta rese possibili dall'interoperabilità tra le tecnologie wireless esistenti grazie a opportune procedure di handover da un sistema a un altro che tentano il più possibile di mantenere in vita una stessa sessione di navigazione, pur variando le specifiche di qualità di servizio della trasmissione passando da un sistema all'altro.
+Molte di queste funzionalità di controllo, segnalazione e gestione sono garantite attraverso l'uso o appoggio a canali logici di segnalazione o controllo.
+
+
+== Aspetti tecniciModifica ==
+
+Questi dispositivi oltre alla parte ricetrasmittente, incorporano dell'elettronica costituita da una memoria dati, un processore per eseguire varie applicazioni e da software per gestire tali funzionalità. I telefoni possono disporre di un microdiffusore integrato per la riproduzione di musica, di una radio integrata, di un chip per la connessione Wi-Fi, di uno slot USB per collegare il cellulare al PC, di fotocamere, eccetera.
+
+
+=== FormaModifica ===
+I telefonini possono avere diverse forme/scocche, tra cui:
+Classico, monoblocco o monolitico, sono telefonini composti da un unico blocco, che non hanno parti mobili.
+A sportellino, si tratta di un telefono classico con aggiunta uno sportellino che generalmente copre e protegge la tastiera o più recentemente copre la tastiera estesa con una di tipo compatto.
+Conchiglia o Flip sono telefoni divisi in due parti, una che contiene la tastiera, l'altra lo schermo, unite da una cerniera, che permette di chiuderle una sull'altra.
+A scorrimento o Slide, sono dispositivi che si aprono e chiudono facendo scorrere su sé stesse due parti dello stesso tramite una guida: generalmente con l'apertura si mettono a disposizione la tastiera o dei tasti aggiuntivi che facilitano la scrittura.
+A rotazione, sono dispositivi che si aprono e chiudono facendo ruotare su sé stesse due parti dello stesso tramite un perno.
+
+
+=== BatterieModifica ===
+
+Un aspetto critico dei telefoni cellulari è il loro consumo energetico, molto eterogeneo, e il conseguente dimensionamento energetico delle capacità delle batterie che li alimentano riveste un aspetto basilare. In generale il consumo energetico di un telefono cellulare è dovuto essenzialmente dalle funzionalità di trasmissione, dall'elaborazione del segnale prima della sua trasmissione e dopo la sua ricezione e infine dal consumo elettrico del display.
+La maggior parte della capacità viene utilizzata durante la trasmissione, per via dell'omni-direzionalità dell'antenna (antenna a dipolo) del terminale mobile. Con l'evoluzione dei cellulari le batterie hanno subito numerose modifiche per poter incrementare la propria capacità. I telefoni più moderni, i cosiddetti Smartphone, richiedono un consumo energetico molto maggiore, dovuto alla potenza dei nuovi processori e all'esecuzione di numerose attività multimediali come giochi, video o foto.
+In alcuni casi i produttori di cellulari e smartphone danno la possibilità di variare alcuni parametri di funzionamento, qualcuno dei quali può essere automatizzato permettendo quindi di aumentare la durata della batteria; sono stati anche prodotti dei video ufficiali per illustrare come utilizzare al meglio queste opzioni.
+Le batterie possono essere generalmente di due tipi:
+Amovibili, quindi dare la possibilità di rimozione delle stesse
+Inamovibili, integrate nel telefono e rimovibili solo tramite lo smontaggio del dispositivo
+Con l'avanzare dei smartphone e dei loro consumi sempre più elevati, che portano a ridurre la loro autonomia in modo critico, nel secondo decennio del XXI secolo sono apparsi i "Power Bank", delle batterie esterne che ricaricano i telefoni cellulari/smartphone.
+
+
+=== InputModifica ===
+
+I telefonini cellulari possono utilizzare differenti tecniche per interfacciarsi con l'utente; le principali sono:
+Schermo tattile (Touchscreen): si agisce direttamente sullo schermo, sensibile al tocco, su tasti e menu virtuali.
+Tastiera: si utilizzano dei tasti fisici presenti sulla parte anteriore del telefonino, tra cui una tastiera numerica che può essere:
+Compatta: si utilizzano i tasti per inserire sia le cifre, alla prima pressione, che le lettere, alle successive, e ogni tasto numerico codifica più di una lettera;
+Estesa: c'è un singolo tasto per ogni lettera, cifra e simbolo.
+
+Schermo tattile e tastiera: si utilizza una combinazione tra le due tecnologie.
+Insieme a queste tecniche principali possono essere implementate alcune funzioni particolari o scorciatoie lungo i bordi del telefonino tramite alcuni pulsanti fisici.
+
+
+=== AntennaModifica ===
+L'antenna dei cellulari è un elemento di fondamentale importanza per questi dispositivi, tipicamente con diagramma di radiazione di tipo omnidirezionale, e ne esistono di diversi tipi:
+Esterna, questa è stata la prima configurazioni delle antenne per cellulari, caratterizzata dalla possibilità di vedere immediatamente il suo posizionamento nella zona superiore del terminale e generalmente di forma cilindrica e in alcuni casi telescopica.
+Interna, in questa situazione l'antenna non è visibile e può essere posta in qualsiasi posizione all'interno del terminale.
+Periferica, in questo caso è un'altra parte del cellulare a fungere essa stessa da antenna, ad esempio il telaio metallico del terminale stesso: è il caso dei modelli iPhone 4 e 4S.
+La scelta dell'antenna e della relativa posizione è fondamentale per rispettare i criteri di affidabilità del segnale, dato che questa deve essere efficiente in qualsiasi situazione, evitando la risonanza causata dal contatto tra due tipologie di antenne differenti (nel caso si utilizzino più antenne) e dal cosiddetto "effetto mano" caratterizzato dalla riduzione del segnale durante l'uso del dispositivo, in quanto con la mano si va a circondare/coprire l'antenna.
+
+
+=== Microfono e altoparlanteModifica ===
+
+Nei telefoni cellulari sono presenti microfono e altoparlante per poter permettere la comunicazione tra due persone. Per entrambi non esiste un'unica soluzione, ma ne sono state elaborate diverse; in particolare per il "microfono" si hanno le seguenti soluzioni:
+Singolo: soluzione classica, caratterizzata da un solo microfono. Inizialmente i primi dispositivi trasmettevano il segnale captato dal microfono senza alcuna elaborazione, il che portava alla trasmissione anche dei rumori ambientali, mentre dal terzo millennio i dispositivi che utilizzano un solo microfono hanno cominciato a elaborare il segnale tramite dei filtri in modo da ridurre o rimuovere il rumore di fondo.
+Doppio: questa soluzione ha visto le prime applicazioni nel 2005 ed è caratterizzata da due microfoni, di cui uno è posto vicino alla bocca, mentre l'altro è generalmente posizionato nella parte opposta o comunque distanziato; questa distanza permette di avere due segnali differenti tra i due microfoni, in modo che il microfono principale possa registrare ottimamente la voce dell'utilizzatore, mentre il secondo microfono, chiamato anche microfono ambientale, registra il rumore dell'ambiente circostante (rumore); eseguendo la differenza dei due segnali si ha l'isolamento della voce. Il doppio microfono può in alcuni casi essere usato anche per la registrazione video con audio stereo.
+Per quanto riguarda l'altoparlante anche in questo caso possono presentarsi più soluzioni:
+Singolo: soluzione classica, che nei primissimi modelli non permetteva l'uso della funzione viva-voce, mentre dal 1995 sono comparsi modelli che permettono l'uso di questa funzione.
+Doppio: soluzione utilizzata dal 2000 su molti cellulari, in modo da avere una cassa specificamente studiata per la comunicazione normale e una utilizzata per il viva-voce ed eventualmente anche per l'ascolto e visione dei file multimediali
+
+
+== Tecnologie sfruttabiliModifica ==
+I vari dispositivi possono essere muniti di diverse tecnologie, le più popolari sono:
+
+
+=== SMSModifica ===
+L'applicazione più comunemente utilizzati sui telefoni cellulari sono i messaggi di testo (SMS). Il primo messaggio di testo SMS è stato inviato da un computer ad un telefono cellulare nel 1992 nel Regno Unito, mentre il primo SMS da persona a persona da telefono a telefono è stato inviato in Finlandia nel 1993.
+Il primo servizio mobile di notizie, tramite via SMS, è stato lanciato in Finlandia nel 2000, e, successivamente, molte organizzazioni "on-demand" e "istantanei" forniscono servizi di notizie via SMS.
+
+
+== Problemi connessi all'uso dei dispositiviModifica ==
+
+
+=== Danni diretti alla saluteModifica ===
+L'organizzazione mondiale della sanità, tramite la IARC, International Agency for Research on Cancer classifica i campi elettromagnetici coinvolti nell'uso degli apparati cellulari, sulle cinque categorie previste per gli agenti cancerogeni, come gruppo 2B: possibly carcinogenic to humans, forse cancerogeno per l'uomo.
+Alcuni studiosi hanno ipotizzato che le onde elettromagnetiche emesse dai telefoni cellulari possano arrecare danni alla salute degli utenti. Allo stato attuale le ricerche hanno dato risultati controversi, alcune non hanno evidenziato una correlazione diretta tra uso di telefoni cellulari e l'insorgenza di malattie come il cancro altre invece hanno associato a un'esposizione prolungata protratta nel tempo (dieci o più anni) l'aumento al rischio dell'insorgenza di tumori al cervello, nel frattempo alcune case costruttrici consigliano di limitare l'uso degli stessi e di tenerli a una distanza minima
+Gli studi al riguardo più recenti sono i seguenti: nel 2008 una ricerca di un gruppo di scienziati israeliani, pubblicata sull'American Journal of Epidemiology, l’utilizzo frequente del telefonino cellulare può aumentare del 50% la possibilità di ammalarsi di tumore alle ghiandole salivari. I ricercatori tendono a sconsigliare l'utilizzo del cellulare ai bambini sotto i 12 anni dato che sembrano molto più sensibili alle radiazioni elettromagnetiche rispetto agli adulti. Ciò che per ora è certo è solo l'aumento di temperatura delle zone limitrofe all'orecchio a seguito di un prolungato e continuo uso del telefono cellulare (assorbimento diretto delle onde elettromagnetiche). Nel 2011 uno studio dell'International Agency for Research on Cancer, l'agenzia per la ricerca sul cancro dell'Organizzazione mondiale della sanità, ha indicato che "l'uso dei telefoni cellulari può aumentare il rischio di glioma, un tipo di tumore cerebrale maligno, e di neuroma acustico, una forma benigna." I dati elaborati da parte dell'IARC hanno portato a classificare i campi elettromagnetici a radiofrequenza come agenti cancerogeni di gruppo 2B, ossia potenzialmente cancerogeni per l'uomo; tale classificazione indica che potrebbero esserci dei rischi legati all'uso dei cellulari, ma che è necessario svolgere ulteriori ricerche per stabilire la possibilità o meno di un legame diretto tra l'uso dei cellulari e l'insorgenza di neoplasie e sull'impatto a lungo termine dei telefoni cellulari..
+Questo risultato è stato successivamente negato dai risultati di un ampio studio epidemiologico, coinvolgente oltre 350.000 utenti danesi di età maggiore di 30 anni e riguardante gli anni compresi tra il 1990 e il 2007. Considerata l'elevata potenza statistica di questo studio sarebbe in teoria difficile oggi rifarsi a evidenze scientifiche esplicite per ciò che riguarda il possibile aumento di rischio di tumori al cervello legati all'uso del cellulare, che resta comunque per ora argomento sotto controllo per aspetti legati al principio di precauzione, in special modo nei bambini vista anche la non inclusione degli stessi nello studio danese, ma lo studio è stato comunque giudicato gravemente lacunoso su almeno cinque punti fondamentali e sono stati esposti dubbi inerenti ai presunti conflitti d'interesse con gli enti erogatori dei finanziamenti.
+
+
+=== Danni dovuti a uso scorrettoModifica ===
+L'uso dei questi e altri dispositivi può deviare l'attenzione dell'utilizzatore dalla sua attività principale. Può essere regolamentato in diverse situazioni.
+
+
+==== Codice della stradaModifica ====
+L'utilizzo è vietato dal codice della strada durante la guida, a meno che non si disponga l'utilizzo di auricolare o di un dispositivo vivavoce. Questi apparati evitano a

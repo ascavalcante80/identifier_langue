@@ -1,0 +1,14 @@
+Persegi adalah bangun datar dua dimensi yang dibentuk oleh empat buah rusuk  yang sama panjang dan memiliki empat buah sudut yang kesemuanya adalah sudut siku-siku. Bangun ini dahulu disebut sebagai bujur sangkar.
+
+
+== Rumus PersegiSunting ==
+
+
+=== LuasSunting ===
+ atau 
+
+
+== Elemen luasSunting ==
+Bangun persegi sering digunakan sebagai elemen luas dalam menghitung luas suatu bangun datar dengan menggunakan proses integral. Dalam ruang koordinat x dan y elemen luas (dA) yang berbentuk persegi dinyatakan sebagai:
+
+sehingga luas suat

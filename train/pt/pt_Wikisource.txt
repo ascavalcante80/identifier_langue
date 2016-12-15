@@ -1,0 +1,29 @@
+O Wikisource — a biblioteca livre — é um projeto da Wikimedia Foundation que, de forma colaborativa, reúne um conjunto de textos que possuam valor histórico-cultural e que sejam compatíveis com a licença GFDL.
+
+
+== Conteúdos da biblioteca ==
+A intenção do projeto é tornar disponível a um público amplo documentos históricos, obras literárias e científicas, dentre outros materiais que possam ter valor histórico ou cultural. São descartados materiais inéditos ou de autores pouco conhecidos.
+No entanto, apenas obras compatíveis com a licença GFDL podem ser disponibilizadas no Wikisource. Obras que possuam proteção de direitos autorais ou restrições de uso devem ser eliminadas o quanto antes do sítio. Tal política de direitos autorais acaba fazendo com que traduções de obras que já estejam em domínio público não sejam muito freqüêntes em tal projeto; no entanto, a tradução feita por um indivíduo ou por um grupo de obras tidas como relevantes é estimulada, sendo este um dos diferenciais do Wikisource em comparação com outras bibliotecas virtuais.
+Outro ponto de diferenciação com outros acervos, além do uso livre dos textos e do estímulo à tradução, é que, por se tratar de uma wiki, qualquer pessoa pode digitalizar textos em domínio público que não se encontrem na Internet e os disponibilizar através do Wikisource.
+As obras digitalizadas podem, ainda, receber notas de rodapé com esclarecimentos sobre determinados trechos das mesmas, ou links em determinadas palavras que remetam o leitor a outro projeto da Wikimedia, como, por exemplo, verbetes da Wikipédia ou do Wikcionário.
+
+
+== Histórico do projeto ==
+Desde que foi criado, o Wikisource passou por diversas transformações em seu nome e em sua URL.
+
+
+=== Fundação ===
+
+Durante sua elaboração, o Wikisource era denominado como Project Sourceberg, um trocadilho com o nome do Projeto Gutenberg. Durante tal período, cogitava-se o endereço ps.wikipedia.org, com as letras ps referindo-se à primary sources (fontes primárias) ou mesmo a Project Sourceberg. No entanto, isso não era adequado. De acordo com as convenções de nomenclatura da Wikimedia, aquele espaço deveria ser destinado para abrigar a Wikipédia em Pashtu.
+O Project Sourceberg iniciou suas atividades oficialmente em 24 de novembro de 2003, quando as páginas foram movidas para o endereço http://sources.wikipedia.org. Em 6 de dezembro de 2003 foi feita uma votação e o projeto teve seu nome alterado para Wikisource. No entanto, apenas em 23 de julho de 2004 passar a ser hospedado em seu endereço definitivo, http://wikisource.org.
+
+
+=== Divisão por subdomínios ===
+Desde a fundação, o Wikisource hospedava documentos de todos os idiomas no mesmo site. Em agosto de 2004 foi criado um subdomínio para abrigar as páginas em língua hebraica (he.wikisource.org), devido às necessidades diferenciadas que o idioma, escrito da direita para a esquerda, possui. Nos meses posteriores, editores de outros idiomas passam a pedir subdomínios para as suas línguas, mas, uma votação realizada naquele período terminou de forma inconclusiva. A partir de uma segunda votação encerrada em 12 de maio de 2005, no entanto, foi determinado que cada idioma passaria a ter sua própria wiki para tal projeto.
+Inicialmente, catorze edições foram ativadas, em 23 de agosto de 2005 , incluindo a edição lusófona. No entanto, o espaço destinado para a edição em inglês ficou servindo como redirecionamento para a página principal do projeto. Apenas em 11 de setembro do mesmo ano que tal idioma passa a ter sua própria wiki.
+A comunidade decidiu que o endereço wikisource.org continuasse funcionando como uma wiki (ao invés de apenas como portal, tal como ocorreu com projetos da Wikimedia que recentemente haviam também ganho edições em outras línguas). Tal espaço até hoje funciona tanto como uma coordenação comum entre as diferentes edições do Wikisource, quanto espaço para abrigar materiais de línguas que ainda não optaram por terem suas próprias edições. No entanto, a página principal de tal wiki foi transformada em um portal multilingüe em 26 de agosto de 2005, quando o slogan do projeto, the free library, passa a ser adotado.
+
+
+=== Logotipos ===
+O logotipo de um iceberg estilizado foi utilizado desde a fundação do projeto, em 2003, até maio de 2006. Durante tal período foram levantadas discussões para que o mesmo fosse trocado. Três principais argumentos foram apresentados durante esse período:a imagem não estaria mais totalmente relacionada ao projeto desde que a denominação do mesmo foi trocada, o copyright da mesma era incompatível com os demais logotipos e imprimir comunicados que necessitassem tê-lo presente no cabeçalho era algo um tanto complicado, por se tratar basicamente de uma foto editada, e não uma ilustração, como os demais logos.
+Nenhuma das duas discussões teve resultados conclusivos, apesar de várias terem sido as propo

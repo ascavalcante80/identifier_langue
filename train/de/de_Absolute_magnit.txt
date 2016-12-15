@@ -1,0 +1,31 @@
+Die absolute Helligkeit ist eine Hilfsgröße in der Astronomie und Astrophysik, um die tatsächlichen Helligkeiten, also die Leuchtkräfte, von Himmelsobjekten vergleichen zu können.
+Von der Erde aus sieht man einen Stern mit seiner scheinbaren Helligkeit, da sie durch seine Entfernung und interstellare Materie beeinflusst wird.
+Für die Bestimmung der absoluten Helligkeit verwendet man eine einheitliche Entfernung. Diese beträgt 10 Parsec (32,6 Lichtjahre) für Sterne und eine Astronomische Einheit (AE) für (reflektierende) Objekte des Sonnensystems. Die relative Helligkeit, die ein Beobachter aus dieser Normdistanz messen würde, nennt man absolute Helligkeit. Bei Sternen, die weniger als 10 Parsec entfernt sind, ist die scheinbare Helligkeit größer als die absolute Helligkeit und umgekehrt. Wie auch bei der scheinbaren Helligkeit bedeutet ein kleinerer Zahlenwert größere Leuchtkraft.
+Absolute Helligkeiten werden wie scheinbare Helligkeiten in Magnituden (mag) angegeben. Insbesondere in älteren Werken zur Astronomie findet man häufig die Schreibweise mit einem hochgestellten M über dem Dezimalkomma, beispielsweise  bei einem Stern der dritten (absoluten) Größenklasse. Die Verwendung des Großbuchstabens verdeutlicht dabei, dass es sich um eine absolute Helligkeit handelt.
+Die hellsten Fixsterne erreichen absolute Helligkeiten von etwa −9 mag (über 100.000-fache Leuchtkraft der Sonne), die lichtschwächsten dagegen +17 mag (etwa ein Zehntausendstel der Sonnenleuchtkraft).
+
+
+== Bolometrische HelligkeitBearbeiten ==
+
+Die Bolometrische Helligkeit gibt die Helligkeit eines Sterns im gesamten elektromagnetischen Spektrum an. Die hierfür erforderliche Korrektur hängt vom Empfindlichkeitsbereich des Messgerätes sowie vom Spektraltyp des betreffenden Objektes ab. Die fotografische Helligkeit der Sonne beträgt , die bolometrische Helligkeit dagegen .
+
+
+== EntfernungsmodulBearbeiten ==
+Die Differenz zwischen scheinbarer Helligkeit m und absoluter Helligkeit M wird Entfernungsmodul genannt, denn sie steht in festem Zusammenhang zur Entfernung. Aus der Festlegung der Helligkeitsstufen folgt:
+ ,
+beziehungsweise
+ .
+Gibt man die Entfernungsmaßzahl  als dimensionslose Zahl an, so wird daraus
+ .
+Aus der Definition der Parallaxensekunde folgt als Beziehung zwischen Entfernungsmaßzahl  und jährlicher Parallaxe π (als dimensionslose Zahl in Bogensekunden)
+ .
+Damit ergibt sich dann
+ .
+Mit Hilfe dieser für die Astronomie wichtigen Formel kann für Sterne, deren Leuchtkraft bekannt ist (z. B. Cepheiden oder Supernovae vom Typ Ia), der Abstand berechnet werden. Auf diese Weise konnte 1923 die Entfernung des Andromedanebels ermittelt werden.
+
+
+== Vergleich Scheinbare / Absolute Helligkeit einiger Sterne im VisuellenBearbeiten ==
+
+
+== Objekte im SonnensystemBearbeiten ==
+Bei Kometen und Asteroiden wird der Begriff Absolute Helligkeit abweichend definiert, da sie nur Licht reflektieren.

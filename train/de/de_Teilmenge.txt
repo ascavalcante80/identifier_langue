@@ -1,0 +1,84 @@
+Die mathematischen Begriffe Teilmenge und Obermenge beschreiben eine Beziehung zwischen zwei Mengen. Ein anderes Wort für Teilmenge ist Untermenge.
+Für die mathematische Abbildung der Einbettung einer Teilmenge in ihre Grundmenge, die mathematische Funktion der Teilmengenbeziehung, wird die Inklusionsabbildung verwendet. A ist eine Teilmenge von B und B ist eine Obermenge von A, wenn jedes Element von A auch in B enthalten ist. Wenn B zudem weitere Elemente enthält, die nicht in A enthalten sind, so ist A eine echte Teilmenge von B und B ist eine echte Obermenge von A. Die Menge aller Teilmengen einer gegebenen Menge A heißt die Potenzmenge von A.
+Den Begriff Teilmenge prägte Georg Cantor – der „Erfinder“ der Mengenlehre – ab 1884; das Symbol der Teilmengenrelation wurde von Ernst Schröder 1890 in seiner „Algebra der Logik“ eingeführt.
+
+
+== Definition ==
+Wenn  und  Mengen sind und jedes Element von  auch ein Element von  ist, nennt man  eine Teilmenge von :
+
+Umgekehrt nennt man  die Obermenge von  genau dann, wenn  Teilmenge von  ist:
+
+Weiterhin gibt es den Begriff der echten Teilmenge.  ist eine echte Teilmenge von  genau dann, wenn  eine Teilmenge von  ist und  nicht identisch mit  ist.
+
+Wieder schreibt man auch , wenn .
+
+
+== Weitere Notationen ==
+
+Einige Autoren benutzen auch die Zeichen  und  für Teilmenge und Obermenge also statt  und . Meistens definiert der Autor dann den Begriff „echte Teilmenge“ nicht.
+Andere Autoren bevorzugen die Zeichen  und  für echte Teilmenge und Obermenge also statt  und . Dieser Gebrauch erinnert passender Weise an die Zeichen für Ungleichheit  und . Da diese Notation meistens benutzt wird, wenn der Unterschied zwischen echter und nicht echter Teilmenge wichtig ist, werden die Zeichen  und  eher selten benutzt.
+Varianten des Zeichens  sind außerdem ,  und . Falls  keine Teilmenge von  ist, kann auch  benutzt werden.
+Die entsprechenden Unicode-Symbole sind: ⊂, ⊃, ⊆, ⊇ (siehe: Unicode-Block Mathematische Operatoren).
+
+
+== Sprechweisen ==
+Statt „ ist eine Teilmenge von .“ wird auch „Die Menge  ist in der Menge  enthalten“ oder „Die Menge  wird von  umfasst.“ gesagt. Genauso wird statt „ ist eine Obermenge von .“ auch „Die Menge  enthält die Menge .“ oder „Die Menge  umfasst die Menge .“ gesagt. Wenn es nicht zu Missverständnissen kommen kann, wird auch „ enthält .“ usw. gesagt. Missverständnisse können insbesondere mit „Die Menge  enthält das Element .“ entstehen.
+
+
+== Beispiele ==
+
+{1, 2} ist eine (echte) Teilmenge von {1, 2, 3}.
+{1, 2, 3} ist eine (unechte) Teilmenge von {1, 2, 3}.
+{1, 2, 3, 4} ist keine Teilmenge von {1, 2, 3}.
+{1, 2, 3} ist keine Teilmenge von {2, 3, 4}.
+{} ist eine (echte) Teilmenge von {1, 2}.
+{1, 2, 3} ist eine (echte) Obermenge von {1, 2}.
+{1, 2} ist eine (unechte) Obermenge von {1, 2}.
+{1} ist keine Obermenge von {1, 2}.
+Die Menge der Primzahlen ist eine echte Teilmenge der Menge der natürlichen Zahlen.
+Die Menge der rationalen Zahlen ist eine echte Teilmenge der Menge der reellen Zahlen.
+Weitere Beispiele als Mengendiagramme:
+
+
+== Eigenschaften ==
+Die leere Menge ist Teilmenge jeder Menge:
+
+Jede Menge ist Teilmenge von sich selbst:
+
+Charakterisierung der Inklusion mit Hilfe der Vereinigung:
+
+Charakterisierung der Inklusion mit Hilfe des Durchschnitts:
+
+Charakterisierung der Inklusion mit Hilfe der Differenzmenge:
+
+Charakterisierung der Inklusion mit Hilfe der charakteristischen Funktion:
+
+Zwei Mengen sind genau dann gleich, wenn jede eine Teilmenge der anderen ist:
+
+Diese Regel wird oft beim Nachweis der Gleichheit zweier Mengen verwendet, indem man die gegenseitige Inklusion (in zwei Arbeitsschritten) zeigt.
+
+Beim Übergang zum Komplement dreht sich die Richtung der Inklusion um:
+
+Bei der Bildung der Schnittmenge erhält man stets eine Teilmenge:
+
+Bei der Bildung der Vereinigungsmenge erhält man stets eine Obermenge:
+
+
+== Die Inklusion als Ordnungsrelation ==
+
+Die Inklusion als Beziehung zwischen Mengen erfüllt die drei Eigenschaften einer partiellen Ordnungsrelation, sie ist nämlich reflexiv, antisymmetrisch und transitiv:
+
+(Dabei ist  eine Kurzschreibweise für  und .)
+Ist also  eine Menge von Mengen (ein Mengensystem), dann ist  eine Halbordnung. Insbesondere gilt dies für die Potenzmenge  einer gegebenen Menge .
+
+
+== Inklusionsketten ==
+Ist  ein Mengensystem, so dass von je zwei der in  vorkommenden Mengen die eine die andere umfasst oder von der anderen umfasst wird, so nennt man ein solches Mengensystem eine Inklusionskette. Ein Beispiel hierfür liefert das System  der linksseitig unbeschränkten offenen Intervalle von .
+Ein spezieller Fall einer Inklusionskette liegt vor, wenn eine (endliche oder unendliche) Mengenfolge gegeben ist, welche vermöge  aufsteigend oder vermöge  absteigend angeordnet ist. Man schreibt dann kurz:
+
+
+== Größe und Anzahl von Teilmengen ==
+Jede Teilmenge einer endlichen Menge ist endlich und für die Mächtigkeiten gilt:
+
+Jede Obermenge einer unendlichen Menge ist unendlich.
+Auch bei unendlichen Mengen gi

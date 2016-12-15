@@ -1,0 +1,36 @@
+Una página web, página electrónica o ciberpágina,  es un documento o información electrónica capaz de contener texto, sonido, vídeo, programas, enlaces, imágenes, y muchas otras cosas, adaptada para la llamada World Wide Web (WWW) y que puede ser accedida mediante un navegador. Esta información se encuentra generalmente en formato HTML o XHTML, y puede proporcionar navegación (acceso) a otras páginas web mediante enlaces de hipertexto. Las páginas web frecuentemente también incluyen otros recursos como ser hojas de estilo en cascada, guiones (scripts), imágenes digitales, entre otros.
+Las páginas web pueden estar almacenadas en un equipo local o en un servidor web remoto. El servidor web puede restringir el acceso únicamente a redes privadas, por ejemplo, en una intranet corporativa, o puede publicar las páginas en la World Wide Web. El acceso a las páginas web es realizado mediante una transferencia desde servidores, utilizando el protocolo de transferencia de hipertexto (HTTP).
+
+
+== Características y tipos de páginas ==
+Una página web está compuesta principalmente por información (sólo texto y/o módulos multimedia) así como por hiperenlaces; además puede contener o asociar hoja de estilo, datos de estilo para especificar cómo debe visualizarse, y también aplicaciones embebidas para así permitir interactividad.
+Las páginas web son escritas en un lenguaje de marcado que provee la capacidad de manejar e insertar hiperenlaces, generalmente HTML.
+Respecto a la estructura de las páginas web, algunos organismos, en especial el World Wide Web Consortium (W3C), suelen establecer directivas con la intención de normalizar el diseño, y para así facilitar y simplificar la visualización e interpretación del contenido.
+Una página web es en esencia una tarjeta de presentación digital, ya sea para empresas, organizaciones, o personas, así como una manera de comunicar ideas, pensamientos, conocimientos, informaciones o teorías. Así mismo, la nueva tendencia orienta a que las páginas web no sean sólo atractivas para los internautas, sino también optimizadas (preparadas), para los buscadores a través del código fuente. Forzar esta doble función puede, sin embargo, crear conflictos respecto de la calidad del contenido.
+
+
+=== Uso correcto del término "página web" ===
+Conviene reseñar que en la jerga popular se han generalizado un cierto mal uso del término de página web.
+Es frecuente ver a personas referirse con "página web" a un sitio web completo. Siendo rigurosos, esto es incorrecto ya que "página web" se refiere a una página concreta, con una URL específica y no a un sitio completo compuesto por múltiples páginas web con diferentes URLs.
+
+
+=== Páginas estáticas versus páginas dinámicas ===
+El contenido de una página web puede ser predeterminado (página web estática) o generado al momento de visualizarla, o solicitarla a un servidor web (página web dinámica).
+En el caso de las páginas estáticas, al acceder el usuario, el servidor descarga simplemente un simple fichero con un contenido condificado en HTML que se visualiza a continuación en su navegador. Un proceso muy similar a la descarga de cualquier fichero, por ejemplo un documento PDF.
+El principal problema de estas páginas es que no permiten la interacción con el usuario, equivalente a una colección de documentos invariables, como un libro, en la web.
+Las páginas dinámicas que se generan al momento de la visualización. No son un simple documento HTML, sino que se están creadas en algún lenguaje interpretado. El ejemplo más popular es PHP, el lenguaje en el que están programadas aplicaciones muy populares como WordPress o MediaWiki, el software en el que está implementado la propia Wikipedia.
+Esto permite la creación de aplicaciones muy complejas. Un ejemplo típico serían las tiendas online como Amazon.
+Aquí la web interactúa con el usuario y es necesario que componga las páginas de manera dinámica. Por ejemplo: cuando un usuario busca determinados productos, la aplicación realiza una consulta a su base de datos, obtiene los resultados y compone con ellos "sobre la marcha" el HTML que corresponde a la lista de los productos. Una vez compuesto dinámicamente el HTML de la página entera, se devuelve al navegador exactamente igual que si hubiese sido una página HTML estática.
+
+
+=== JavaScript ===
+Por otra parte, existe la posibilidad de introducir dinamismo en el lado cliente a través del lenguaje JavaScript, diseñado específicamente para navegadores web. Los controles de interfaz de usuario como árboles o tablas con funciones de páginación están creados típicamente en JavaScript.
+
+
+== Creación y edición de páginas web ==
+La manera más simple de crear páginas web consiste en utilizar un simple editor de texto como, por ejemplo, Notepad++ y editar directamente el código HTML más las hojas de estilo. Es la manera en la que en los inicios de Internet se creaban la mayoría de las páginas web.
+
+
+=== Sistemas CMS ===
+Este enfoque "artesanal" es poco productivo por la gran cantidad de codificación de HTML que implica y, además, sirve sólo para webs completamente estáticas. No permite implementar cosas como, por ejemplo, una sección de comentarios de los lectores como las que son habituales en blogs o en periódicos digitales.
+Por ese motivo surgieron los sistemas CMS 

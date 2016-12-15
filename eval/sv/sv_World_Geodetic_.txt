@@ -1,0 +1,3 @@
+ep 1990. http://earth-info.nga.mil/GandG/publications/tm8358.1/pdf/TM8358_1.pdf.  – Förhållandet till en del andra referenssystem och till olika sätt att ange koordinater.
+”Koordinattransformation (SWEREF 99/WGS 84 lat lon → RT90)”. Lantmäteriet. http://www.lantmateriet.se/Sjalvservice/Koordinattransformation/?transvalue1=SWEREF%2099%20lat%20long%20(ellh)&transvalue2=RT%2090%202,5%20gon%20V%200:-15%20RH%2070. 
+”Koordinattransformation (SWEREF 99/WGS 84 lat lon → SWEREF 99 TM)”. Lantmäteriet. http://www.lantmateriet.se/Sjalvservice/Koordinattransformation/?transvalue1=SWEREF%2099%20lat%20long%20(ellh)&transvalue2=SWEREF%2099%20TM%20RH%202000.

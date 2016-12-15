@@ -1,0 +1,17 @@
+Elastisitetsmodulen (forkortet E-modul; også kjent som fjærkonstant og Youngs modul) er i et materiale forholdet mellom fasthet og forlengelse. Denne er beskrivende for et materiales motstandsevne mot elastisk deformasjon. Jo høyere E-modulen er desto stivere er materialet.
+Elastisk deformasjon forutsetter at et materiale også går tilbake til sin opprinnelige form når en belastning fjernes. Dette i motsetning til plastisk deformasjon hvor materialet ikke går tilbake til sin opprinnelige form.
+
+
+== Målemetoder ==
+Den mest presise måten å måle E på er å måle hastigheten av lyd gjennom materialet, siden hastigheten av lydbølgene, vl, avhenger av E-modulen og materialets tetthet, ρ (rho):
+
+vl =(E/ρ)1/2
+En annen metode er å måle materialets egenfrekvens (resonans) gjennom å måle svingningene av en tynn stav av ønsket materiale, opphengt i begge ender, med en tung masse, M, påført på midten, slik at stavens egen masse kan neglisjeres. Når stavens diameter er d, lengden er l og f er svingningssykluser per sekund (Hertz) vil
+
+E= 16π*M*l3*f2/3d4
+Det er også mulig å utsette masseblokken for en kjent kraft og deretter måle tøyningen, men dette er ofte vanskelig da E-modulen ofte er stor i forhold til forlengelsen som oppstår, og den vil dermed være vanskelig å måle visuelt. Det er også andre effekter, som kryp/siging og defleksjon, som kan påvirke tøyningen og gjøre måling av E-modul vanskelig. Innenfor bergmekanikk er imidlertid denne måten å beregne E-modul vanlig.
+I en slik enaksiell kompresjonstest beregnes elastisitetsmodulen fra følgende ligning:
+
+
+== Bakgrunn ==
+Det er to punkter som i

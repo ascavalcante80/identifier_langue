@@ -1,0 +1,63 @@
+Em Gerência de projetos, uma Estrutura Analítica de Projetos (EAP), do Inglês, Work breakdown structure (WBS), é um processo de subdivisão das entregas e do trabalho do projeto em componentes menores e mais facilmente gerenciáveis. É estruturada em árvore exaustiva, hierárquica (de mais geral para mais específica) orientada às entregas, fases de ciclo de vida ou por sub-projetos (deliverables) que precisam ser feitas para completar um projeto.
+O objetivo de uma EAP é identificar elementos terminais (os produtos, serviços e resultados a serem feitos em um projeto). Assim, a EAP serve como base para a maior parte do planejamento de projeto. A ferramenta primária para descrever o escopo do projeto (trabalho) é a estrutura analítica do projeto (EAP).
+A Work Breakdown Structure é um processo bastante comum. Várias resoluções de trabalho do governo dos Estados Unidos têm como requerimento uma work breakdown structure.
+A EAP não é criada apenas para o gerente do projeto, mas para toda a equipe de execução do projeto, bem como para as demais partes interessadas tais como clientes e fornecedores.
+
+
+== Como construir uma EAP ==
+A EAP deve ser completa, organizada e pequena o suficiente para tornar possível a medição do progresso, mas não detalhada o suficiente para se tornar, ela mesma, um obstáculo à realização do projeto. Uma boa heurística a seguir é a regra do 8-80: exige-se que um pacote de trabalho ocupe entre 8 e 80 horas de duração. É uma das partes mais importantes no plano do projeto. Ela serve como entrada para o desenvolvimento da agenda, atribuir funções e responsabilidades, gerir riscos, entre outros. Na internet e' possivel acessar alguns sites para montagem gratuito de uma EAP ou WBS, tais como: http://www.wbstool.com/ Um exemplo simples de Work Breakdown Structure para pintar uma sala (orientado a entregas) é:
+Preparação de materiais
+Comprar tinta
+lixas
+Comprar escada
+Comprar pincéis / rolos
+Comprar removedor de papel de parede
+
+Preparação da sala
+Remoção do papel de parede antigo
+Remoção das decorações destacáveis
+Lixar as paredes
+Cobrir chão com jornais
+Cobrir tomadas com fita
+Cobrir móveis com lençóis velhos
+
+Pintura da sala
+Pintar grandes áreas com rolo
+Pintar rodapés com pincel
+
+Limpeza da sala
+Jogar fora, ou guardar a tinta que sobrou
+Limpar pincéis e rolos
+Jogar fora jornais
+Remover e limpar lençóis
+
+Pacotes de Trabalho (parte da EAP)
+Atividades (não faz parte da EAP)
+
+Não há regras para os níveis de decomposição. Cada gerente de projeto ou membros da equipe encarregados da decomposição devem usar o bom senso de parar no nível no qual o custo de acompanhar o pacote seja inferior ao benefício de controle.
+Abaixo, o gráfico do exemplo acima:
+
+
+== Princípios para o projeto de uma EAP ==
+
+
+=== A regra dos 100% ===
+Um dos mais importantes princípios para o projeto de uma mae EAP é conhecido como a regra dos 100%. O Practice Standard for Work Breakdown Structures (Second Edition), publicado pelo Project Management Institute (PMI) define a regra 100% da forma como se segue:
+A Regra 100%... estabelece que a EAP inclui 100% do trabalho definido pelo escopo do projeto e captura todas as entregas – internas, externas, intermediarias – de forma ao trabalho estar completo, incluído o gerenciamento do projeto. A regra dos 100% é um dos mais importantes princípios que guia o desenvolvimento, decomposição e avaliação da EAP. A aplicação desta regra vale para todos os níveis na hierarquia: a soma de todos o trabalho dos níveis "filhos" deve ser igual a 100% do trabalho representado pela "mãe" e a EAP não deve incluir qualquer trabalho que saia do escopo existente do projeto, isto é, ele não pode incluir mais do que 100% do trabalho... É importante lembrar-se que a regra dos 100% também se aplica ao nível de atividades. O trabalho representado pelas atividades de cada pacote deve produzir 100% do trabalho necessário para completar o trabalho do pacote. (p. 8)
+Em outras definições deve-se considerar que a soma do trabalho sendo projetado deve ser 100% compatível com o nível "mãe", ou seja, não deve conter trabalho a mais nem a menos do que foi proposto no nível imediatamente acima.
+
+
+==== Planeje entregas, não planeje ações ====
+Se o projetista da EAP (Estrutura Analítica de Projeto) tenta capturar qualquer detalhe orientado a ação na EAP, ele irá incluir ações de mais ou de menos. Ações demais excederão 90% do escopo do pai e ações de menos cairão abaixo dos 100% do escopo do pai. A melhor forma de ser aderente a Regra dos 900% é definir os elementos da EAP em termos das entregas ou resultados. Isto também assegura que a EAP não exagere na visão dos métodos, permitindo idéias mais criativas e inovadoras por parte dos participantes do projeto. Para projeto de desenvolvimento de novos produtos, a técnica mais comum para assegurar a orientação para a saída da EAP é o uso de uma estrutura de quebra do produto. Desenvolvimento orientado a aspectos utiliza-se de uma técnica similar a qual emprega uma estrutura de decomposição de aspectos. Quando um projeto provê serviços profissionais, uma técnica comum é capturar todas as entregas planejadas para criar uma EAP orientada à entrega. EAP que subdividem o trabalho em fases do projeto (por exemplo: Fase Projeto Preliminar, Fase projeto Critico) devem assegurar que as fases sejam claramente separadas para uma entrega (por exemplo: um documento de revisão de projeto preliminar, ou um documento aprovação da revisão projeto crítico).
+
+
+=== Nível de detalhe (granularidade) e elaboração progressiva ===
+Uma questão a ser respondida no projeto de qualquer EAP é quando parar de quebrá-lo em elementos menores. Se os elementos finais da EAP são definidos de forma muito abrangente, não deve ser possível rastrear eficientemente a performance do projeto. Se os elementos finais da EAP são muito detalhados, será ineficiente manter um rastreamento de um número exagerado de elementos terminais, especialmente se o plano de trabalho é para um futuro distante. Um meio termo satisfatório pode ser encontrado no conceito de elaboração progressiva o qual permite que os detalhes da EAP sejam progressivamente refinados antes do trabalho ser iniciado. Uma forma de elaboração progressiva em grandes projetos é chamada de planejamento ondas sucessivas o qual estabelece um planejamento de tempo regular para elaboração progressiva. Na realidade, um limite efetivo da granulosidade da EAP pode ser alcançado quando ela não é maior do que é possível para se gerar saídas planejáveis, e os únicos detalhes remanescentes são as ações. A não ser que estas ações possam ser definidas para aderir a regra dos 100%, a EAP não pode ser mais subdividida.
+
+
+=== Esquema codificação EAP ===
+É comum e desejável utilizarmo-nos de sistemas de codificação para os elementos da EAP, mesmo que seja uma simples numeração cronológica. A ideia por trás da atribuição de códigos aos elementos da EAP é identificá-los (individualizá-los) e revelar a estrutura hierárquica vigente entre estes elementos. Por exemplo 1.4.2 - Pneu Traseiro identifica este item como parte do 3º nível hierárquico da EAP, pois, neste sistema de codificação, cada número separado por ponto decimal representa um nível hierárquico na EAP, e, no caso do pneu traseiro, há 3 números separados por pontos decimais. Um esquema de codificação também nos ajuda a reconhecer elementos de uma EAP e inter relacioná-los, em qualquer contexto escrito.
+
+
+=== EAE - Estrutura Analítica da Entrega ===
+Devido a sua simplicidade, a EAP é utilizada por muitos desenvolvedores de software, que produzem e documentam suas análises através do bloco de notas. Entretanto, a metodologia de desenvolvimento ágil de software não é, de um modo geral, baseada em projetos; e sim em entregas fracionadas e constantes. Desse modo, 

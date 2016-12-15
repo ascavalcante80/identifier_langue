@@ -1,0 +1,69 @@
+nd first compute E as a function of M by solving Kepler's equation below, and then compute the true anomaly θ from the eccentric anomaly E. Here are the details.
+
+Division by a2/2 gives Kepler's equation
+
+This equation gives M as a function of E. Determining E for a given M is the inverse problem. Iterative numerical algorithms are commonly used.
+Having computed the eccentric anomaly E, the next step is to calculate the true anomaly θ.
+
+
+=== True anomaly, θ ===
+Note from the figure that
+
+so that
+
+Dividing by  and inserting from Kepler's first law
+
+to get
+  
+The result is a usable relationship between the eccentric anomaly E and the true anomaly θ.
+A computationally more convenient form follows by substituting into the trigonometric identity:
+
+Get
+
+Multiplying by 1 + ε gives the result
+
+This is the third step in the connection between time and position in the orbit.
+
+
+=== Distance, r ===
+The fourth step is to compute the heliocentric distance r from the true anomaly θ by Kepler's first law:
+
+Using the relation above between θ and E the final equation for the distance r is:
+
+
+== See also ==
+Circular motion
+Free-fall time
+Gravity
+Kepler orbit
+Kepler problem
+Kepler's equation
+Laplace–Runge–Lenz vector
+
+
+== Notes ==
+^ Godefroy Wendelin wrote a letter to Giovanni Battista Riccioli about the relationship between the distances of the Jovian moons from Jupiter and the periods of their orbits, showing that the periods and distances conformed to Kepler's third law. See: Joanne Baptista Riccioli, Almagestum novum … (Bologna (Bononia), (Italy): Victor Benati, 1651), volume 1, page 492 Scholia III. In the margin beside the relevant paragraph is printed: Vendelini ingeniosa speculatio circa motus & intervalla satellitum Jovis. (Wendelin's clever speculation about the movement and distances of Jupiter's satellites.)
+In 1621, Johannes Kepler had noted that Jupiter's moons obey (approximately) his third law in his Epitome Astronomiae Copernicanae [Epitome of Copernican Astronomy] (Linz (“Lentiis ad Danubium“), (Austria): Johann Planck, 1622), book 4, part 2, page 554.
+
+
+== References ==
+
+
+== Bibliography ==
+Kepler's life is summarized on pages 523–627 and Book Five of his magnum opus, Harmonice Mundi (harmonies of the world), is reprinted on pages 635–732 of On the Shoulders of Giants: The Great Works of Physics and Astronomy (works by Copernicus, Kepler, Galileo, Newton, and Einstein). Stephen Hawking, ed. 2002 ISBN 0-7624-1348-4
+A derivation of Kepler's third law of planetary motion is a standard topic in engineering mechanics classes. See, for example, pages 161–164 of Meriam, J. L. (1971) [1966]. "Dynamics, 2nd ed". New York: John Wiley. ISBN 0-471-59601-9. .
+Murray and Dermott, Solar System Dynamics, Cambridge University Press 1999, ISBN 0-521-57597-4
+V.I. Arnold, Mathematical Methods of Classical Mechanics, Chapter 2. Springer 1989, ISBN 0-387-96890-3
+
+
+== External links ==
+B.Surendranath Reddy; animation of Kepler's laws: applet
+"Derivation of Kepler's Laws" (from Newton's laws) at Physics Stack Exchange.
+Crowell, Benjamin, Conservation Laws, http://www.lightandmatter.com/area1book2.html, an online book that gives a proof of the first law without the use of calculus. (see section 5.2, p. 112)
+David McNamara and Gianfranco Vidali, Kepler's Second Law – Java Interactive Tutorial, http://www.phy.syr.edu/courses/java/mc_html/kepler.html, an interactive Java applet that aids in the understanding of Kepler's Second Law.
+Audio – Cain/Gay (2010) Astronomy Cast Johannes Kepler and His Laws of Planetary Motion
+University of Tennessee's Dept. Physics & Astronomy: Astronomy 161 page on Johannes Kepler: The Laws of Planetary Motion [1]
+Equant compared to Kepler: interactive model [2]
+Kepler's Third Law:interactive model [3]
+Solar System Simulator (Interactive Applet)
+Kepler and His Laws, educational web pages by David P. Stern

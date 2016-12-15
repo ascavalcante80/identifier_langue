@@ -1,0 +1,183 @@
+A Imagem por ressonância magnética (IRM) - em inglês: MRI para Magnetic resonance imaging - é uma técnica que permite determinar propriedades de uma substância através da correlação da energia absorvida contra a frequência, na faixa de megahertz (MHz) do espectromagnético, caracterizando-se como sendo uma espectroscopia. Usa as transições entre níveis de energia rotacionais dos núcleos componentes das espécies (átomos ou íons) contidas na amostra. Isso dá-se necessariamente sob a influência de um campo magnético e sob a concomitante irradiação de ondas de rádio na faixa de frequências acima citada.
+
+
+== Histórico ==
+
+
+=== Pioneiros da Ressonância Magnética Nuclear ===
+Em 1937, o físico austro-norte-americano Isidor Isaac Rabi (1898-1988) apresentou na Physical Review 51 (p. 652) uma nova técnica para medir momentos magnéticos nucleares.
+Nessa técnica, dois campos magnéticos fortes não homogêneos desviam um feixe molecular em sentidos opostos, produzindo um efeito de focalização.
+Por outro lado, no meio da trajetória do feixe, um campo magnético forte homogêneo produz uma frequência de Larmor nos núcleos das moléculas do feixe, no mesmo instante em que um campo magnético alternado fraco é aplicado ao feixe.
+Assim, se esse campo estiver em ressonância com a frequência da precessão larmoriana, o núcleo ressonante é lançado fora de sua trajetória normal. Essa técnica de Rabi ficou conhecida como Ressonância Magnética Nuclear (Nuclear Magnetic Resonance).
+Rabi e seus colaboradores, os físicos Zacharias, S. Millman e Polykarp Kusch (1911 -1993) realizaram experiências nas quais mediram o momento magnético do Lítio (Li) , e que foram relatadas, em 1938, na Physical Review 53 (p.318) divulgando um artigo que mostrou sem dúvida a primeira observação de RMN.
+Em 1944, o Prêmio Nobel de Física foi concedido para Rabi por seus trabalhos pioneiros sobre Ressonância Magnética Nuclear. Estimulado pelos físicos alemães Otto Stern e Immanuel Estermann, em 1933 na qual foi medido o momento magnético do Próton.
+Em 1939, Felix Bloch e o físico norte americano Luis Walter Alvarez (1911-1988) mediram o momento magnético do neutrão, usando uma adaptação da técnica de Rabi (1937) a um intenso feixe de neutrões oriundos de um cíclotron. O desvio magnético da técnica de Rabi foi substituído por um efeito de “polarização” desse feixe.
+Em 1942, Cornelis Jacobus Gorte e L. F. J. Broer publicaram na Physica 9 o resultado de uma experiência na qual tentaram, sem sucesso, medir ressonâncias nucleares.
+Em 1945, o físico russo E. Zavoisky apresentou no Fiziologiocheskii Zhurnal 9 o resultado de experiências, nas quais observou a ressonância magnética nuclear ao aplicar um campo magnético uniforme a sais (Cobre e Manganês) contendo íons divalentes.
+Em 1946, os físicos norte-americanos Edward Mills Purcell (1912-1997), Henry Cutler Torrey (1911-1998) e R. V. Pound e, independentemente, Félix Bloch (1905-1983), W. W. Hansen e M. Packard publicaram artigos, respectivamente, na Physical review 69, nos quais anunciaram que haviam descoberto efeitos de ressonância magnética nuclear em sólidos e líquidos.
+Na experiência realizada por Purcell, Torry e Pound o método utilizado foi o de obter a subtração de energia a um campo magnético oscilante por núcleos sujeitos a um campo magnético forte e fixo, método esse capaz de medir a frequência de Larmor, que é importante para a determinação do momento magnético dos núcleons.
+O material por eles utilizado foi a parafina, a qual contém muitos prótons, que neste caso há dois níveis de separação da freqüência v. Por sua vez, Bloch, Hansen e Packard utilizaram um método semelhante descrito acima; porém, eles detectaram a ressonância magnética nuclear pela intensidade máxima de sinais induzidos em uma bobina detectora perpendicular quer ao campo magnético fixo, quer ao campo magnético oscilante.
+Em 1947, os físicos norte-americanos John Elliot Nafe (1914-1996) e Edward B. Nelson, e o austro-norte-americano Isidor Isaac Rabi publicaram um artigo na Physical Review 71, no qual apresentaram o resultado de uma experiência que indicava ser o momento magnético do elétron (µe) um pouco maior do que o Magnetão de Bohr (µ0). Resultado análogo a esse foi apresentado por D. E. Nagel, R. S. Julian e J. R. Zacharias na Physical Review 72, ambos eram trabalhos que falavam sobre estruturas hiperfinas.
+
+
+== Princípios Básicos de Ressonância Magnética Nuclear ==
+A Ressonância Magnética Nuclear como todas as formas de espectroscopia, trata-se da interação da radiação eletromagnética com a matéria. Entretanto, RMN diferencia-se da espectroscopia óptica em vários aspectos fundamentais, tais como:
+primeiro, a separação entre os níveis de energia  é um resultado da interação do momento magnético  de um núcleo atômico com um campo magnético  aplicado; segundo, a interação é com a componente magnética da radiação eletromagnética em vez da componente elétrica.
+Sendo que o efeito de RMN ocorre para núcleos que possuem momentos magnéticos e angulares  e , respectivamente.
+Os núcleos apresentam momentos magnéticos e angulares paralelos entre si, respeitando a expressão  onde  o fator giromagnético.
+O momento angular  é definido, quanticamente, por
+
+onde  um operador adimensional, também denominado de momento angular ou spin, cujos valores podem ser somente números inteiros ou semi-inteiros 0, 1/2, 1, 3/2, 2(...).
+A separação entre os níveis de energia  é um resultado da interação do momento um resultado da interação do momento magnético do núcleo atômico com o campo magnético aplicado.
+Na espectroscopia de RMN é possível controlar a radiação eletromagnética (faixa de radiofrequência ou RF) e descrever a interação desta radiação com os spins nucleares do sistema. Isto contribui em grande parte para o desenvolvimento do grande número de técnicas utilizadas em RMN. Quase todos os elementos químicos têm ao menos um isótopo com um núcleo atômico que possui momento magnético, e quando este é colocado em um campo magnético externo, e a ele for aplicada uma excitação com frequência igual a sua frequência de precessão , tal núcleo é retirado de seu estado de equilíbrio. Após a retirada do campo de RF, este núcleo tende a voltar ao seu estado fundamental de equilíbrio através dos processos de relaxação spin-rede (T1) e relaxação spin-spin (T2)
+
+
+== Ressonância Magnética Nuclear do Estado Sólido ==
+
+A interação de um spin nuclear com um campo magnético resulta em 2I + 1 níveis de energia com espaçamentos iguais de unidade .
+Entretanto, várias interações podem deslocar a frequência da transição ou desdobrar uma transição em vários picos.
+Em consequência da complexidade de suas estruturas moleculares ou por causa da pequena diferença entre unidades isoméricas, a investigação da moléculas e macromoléculas no estado sólido requer boa resolução espectral.
+Os deslocamentos químicos no espectro de RMN são muito sensíveis à estrutura e conformação da molécula, às interações intermoleculares, à troca química, mudanças de conformação e os tempos de relaxação são sensíveis à dinâmica molecular.
+Por estes motivos, Ressonância Magnética Nuclear do estado sólido é uma espectroscopia muito útil ao estudo de polímeros.
+
+
+=== Interações de RMN do Estado Sólido ===
+Experimentos de Ressonância Magnética Nuclear com amostras no estado sólido apresentam resultados diretamente relacionados com as propriedades físicas dos sistemas estudados. A representação da energia dos spins nucleares em experimentos de Ressonância Magnética Nuclear é expressa pelo operador Hamiltoniano. Assim, o Hamiltoniano de spin nuclear que descreve as interações que definem a posição e a forma da linha espectral pode ser decomposta em uma soma de várias interações e assume a seguinte forma:
+
+Sendo Hz e HRF as interações Zeeman e de radiofrequência respectivamente, consideradas interações externas. pois são definidas pelos campos magnéticos estático, gerado pelo magneto supercondutor, e de RF, gerado pelas bobinas onde é inserida a amostra. As interações externas associadas ao acoplamento do momento magnético de spin  com o campo magnético estático  (efeito Zeeman) e com a oscilação da radiofrequência aplicada perpendicularmente ao campo magnético estático , causa transições entre os níveis adjacentes. As demais interações são consideradas internas, visto que elas estão intrinsecamente associadas às características microscópicas da amostra, as quais alteram a distribuição dos níveis de energia definidos pela interação Zeeman, modificando o espectro.
+
+
+==== Interação Zeeman ====
+O Hamiltoniano Zeeman, representa o acoplamento do momento magnético nuclear  com o campo magnético externo estático  , dada por:
+
+sendo esta a equação fundamental de RMN, uma vez que sem o efeito Zeeman não pode haver espectroscopia de RMN].
+Representando o efeito Zeeman classicamente por:
+
+Demonstrando o operador Hamiltoniano a partir do valor acima, temos:
+
+Dependendo do valor de mI , designado por número quântico magnético, tem-se:
+
+e a diferença de energia entre os dois estados é , onde Eα e Eβ são os valores próprios do operador HZ, na equação de onda de RMN para esta interação. A equação secular para esta interação fica da seguinte forma.
+
+sendo que ∆E=hv ,e igualando esta quantidade com , temos
+
+Na realidade, quando uma amostra é colocada na presença de um campo magnético  , há na ordem de 1023 núcleos atômicos precessionando em torno dele. Para os núcleos com m=1/2, possuem menor energia e precessionam em torno do campo magnético externo  orientados a favor do campo, e outros núcleos com m=-1/2, possuem maior energia e precessionam na direção oposta ao campo magnético externo, sendo estas distribuições  e , respectivamente.
+A partir da Mecânica Estatística tem-se que a razão entre estas distribuições de energia é dada pela distribuição de Boltzmann:
+
+Tomando a intensidade do campo magnético da ordem de 1 Tesla, a temperatura da amostra em torno da temperatura ambiente, T ≈ 300K, e o fator giromagnético do núcleo do átomo de Hidrogênio,  , da expressão acima obtém-se que  para temperatura ambiente.
+Como  , conseqüentemente determina-se que a diferença de distribuição é de ∆N=2,11×1018 spins, implicando no fato de que N+ =3,0099894×1023 spins precessionam no sentido oposto ao campo magnético externo e N-==3,01001106×1023 spins precessionam em torno do campo. Desta forma,∆N/N=3,5×10-6, ou seja, a diferença de população entre os dois níveis é da ordem de partes por milhão (ppm) com relação ao número total de spins da amostra. Devido à precessão aleatória dos spins em torno da direção z, a magnetização transversal ao campo é nula, e a magnetização longitudinal, ao longo da direção do campo magnético aplicado, é dada por . Logo , é a magnetização resultante que surge na amostra quando a mesma é colocada sob a ação de um campo magnético, a qual é normalmente denominada por magnetização de equilíbrio.
+
+
+==== Interação dos Sistemas de Spin e RF ====
+Transições entre níveis de energias de um sistema de spins podem ser realizadas excitando os núcleos de um dado sistema por meio da aplicação de um campo magnético oscilante com frequência adequada (faixa de MHz ou r.f.) para promover transições de spins entre os níveis de energia Zeeman. Sendo ω1 frequência de oscilação do campo  , temos que HRF é dado por:
+
+O efeito de HRF é induzir transições entre os auto-estados de α→β , com probabilidades por unidade de tempo dada pela regra de ouro de Fermi:
+
+A expressão da probabilidade é tanto maior quanto maiores forem o fator giromagnético do núcleo em questão e a intensidade do campo de r.f. de excitação; a função δ, centrada na frequência de Larmor, garante que o campo  deve oscilar com frequência exatamente igual ao espaçamento, em frequência, dos níveis zeeman, para que ocorra a absorção de energia pelo sistema de spins.
+
+
+==== Interação Dipolar ====
+O acoplamento entre os spins nucleares através dos seus momentos dipolares magnéticos, é representado pelo hamiltoniano dipolar que é expresso pela seguinte equação :
+
+onde  é o tensor de segunda ordem, simétrico e de traço nulo, que representa a interação dipolar magnética. Classicamente um dipólo magnético µ1 produz um campo magnético a uma distância r dado por:
+ (B)
+Este é o campo produzido por um dipólo µI e a energia de interação com outro dipólo µS a um ponto onde o campo magnético é dado por BI é
+ (A)
+Substituindo (A) em (B), temos
+
+o análogo quântico é
+
+onde 
+
+
+==== Interação Quadrupolar ====
+As interações quadrupolares estão presentes somente quando núcleos com spin I > ½ estão envolvidos. Tais núcleos possuem uma distribuição assimétrica de cargas elétricas e interagem com os gradientes de campo elétrico presente na amostra.
+A interação elétrica entre este quadrupolo e o ambiente eletrônico encurta o tempo de vida dos estados magnéticos (α e β) de spin nuclear, resultando também no alargamento da linha de ressonância.
+Sendo esta interação importante se o núcleo tiver spin I >1/2, com um momento quadrupolar eQ. Neste caso o Hamiltoniano para um só spin I quadrupolar será:
+
+Onde  é o tensor quadrupolar,  e  é o tensor gradiente do campo elétrico no local do núcleo.
+
+
+== RMN e a dinâmica do movimento molecular ==
+
+A dinâmica molecular apresenta importantes efeitos nas propriedades mecânicas e físico-químicas de moléculas, tais como no comportamento de materiais amorfos, condução em polímeros, na contribuição da classificação de alimentos naturais, na classificação de resinas, na caracterização de amidos, etc. Os processos de relaxação da magnetização são causados devido ao movimento molecular, e as taxas de relaxação medidas podem ser relacionadas com o tempo τc .
+A medida da taxa de relaxação provê informações sobre a dinâmica molecular em vários regimes de frequência, onde pode-se medir os tempos de relaxação T1,T2 e T1ρ, e com isso, consegue-se estudar diferentes movimentos que ocorrem com uma distribuição de frequências.
+Em RMN podemos classificar o estudo da dinâmica do estado sólido em três etapas: rápida, de correlação característico do movimento, intermediária e lenta. Movimentos rápidos, com frequências da ordem de MHz, podem ser detectados por meio de experimentos de relaxação spin-rede (T1).
+A dinâmica intermediária, com taxas entre 10 - 100 kHz, pode ser caracterizada por experimentos de análise de largura de linha e técnicas de relaxação como T1ρ (relaxação spin-rede no referencial rotante).
+Sistemas que envolvem processos dinâmicos lentos (0.1 - 1000 Hz), as informações podem ser obtidas através de experimentos de RMN de Exchange, onde os movimentos moleculares lentos são observados em termos de mudanças na frequência de RMN, a qual reflete diretamente mudanças na orientação dos segmentos moleculares. Na Figura é esboçado os parâmetros de relaxação e seu regime de frequências.
+
+
+== Espectroscopia de ressonância magnética nuclear ==
+Em espectroscopia, o processo de ressonância magnética é similar aos demais. Pois também ocorre a absorção ressonante de energia eletromagnética, ocasionada pela transição entre níveis de energia rotacionais dos núcleos atômicos, níveis estes desdobrados em função do campo magnético através do efeito Zeeman anômalo.
+Como o campo magnético efetivo sentido pelo núcleo é levemente afetado (perturbação essa geralmente medida em escala de partes por milhão) pelos débeis campos eletromagnéticos gerados pelos eletrons envolvidos nas ligações químicas (o chamado ambiente químico nas vizinhanças do núcleo em questão), cada núcleo responde diferentemente de acordo com sua localização no objeto em estudo, actuando assim como uma sonda sensível à estrutura onde se situa.
+
+
+=== Magnetismo macroscópico e microscópico ===
+O efeito da ressonâncita magnética nuclear fundamenta-se basicamente na absorção ressonante de energia eletromagnética na faixa de frequências das ondas de rádio. Mais especificamente nas faixas de VHF.
+Mas a condição primeira para absorção de energia por esse efeito é de que os núcleos em questão tenham momento angular diferente de zero.
+Núcleos com momento angular igual a zero não tem momento magnético, o que é condição indispensável a apresentarem absorção de energia electromagnética. Razão, aliás, pertinente a toda espectroscopia.
+A energia electromagnética só pode ser absorvida se um ou mais momentos de multipolo do sistema passível de absorvê-la são não nulos, além do momento de ordem zero para electricidade (equivalente à carga total).
+Para a maior parte das espectroscopias, a contribuição mais importante é aquela do momento de dipolo. Se esta contribuição variar com o tempo, devido a algum movimento ou fenômeno periódico do sistema (vibração, rotação, etc), a absorção de energia da onda electromagnética de mesma frequência (ou com frequências múltiplas inteiras) pode acontecer.
+Um campo magnético macroscópico é denotado pela grandeza vetorial conhecida como indução magnética B (ver Equações de Maxwell). Esta é a grandeza observável nas escalas usuais de experiências, e no sistema SI é medida em Tesla, que é equivalente a Weber/m3.
+Em nível microscópico, temos outra grandeza relacionada, o campo magnético H, que é o campo que se observa a nível microscópico. No sistema SI é medido em Ampere/m.
+O vetor dipolo magnético μ é um dos momentos de multipolo magnéticos 2 e é dado matematicamente por
+
+onde
+m é o polo magnético
+l é o vetor distância entre os polos do sentido S → N
+Para os trabalhos práticos, lida-se com o vetor magnetização M que é um vetor representativo de todos os vetores μ sobre um volume V:
+
+M é, portanto, uma grandeza intensiva.
+No vácuo, existe uma relação matemática entre o vetor B e o vetor H:
+
+onde  é a permeabilidade magnética no vácuo.
+Para meios materiais, a relação válida é a seguinte:
+
+
+== Spin e momento angular ==
+Rigorosamente, núcleos não apresentam spin, mas sim momento angular (excepção feita somente ao núcleo do isótopo 1 do hidrogênio, que é constituído por um único próton). Embora o spin possa ser considerado um momento angular, por terem ambos as mesmas unidades e serem tratados por um formalismo matemático e físico semelhante, nem sempre o oposto ocorre. O spin é intrínseco, ao passo que objetos compostos tem momento angular extrínseco.
+Contudo, motivos históricos e continuado costume levaram a esse abuso de linguagem, tolerado e talvez tolerável em textos não rigorosos. Um motivo a mais de complicação é o fato de que a moderna física de partículas considerar que certas partículas, antes pensadas como elementares (e portanto possuindo spin), sejam compostas (próton e nêutron compostos de quarks). Assim, fica um tanto impreciso o limite entre os casos onde se deva usar o termo spin e os casos onde se deva usar o termo momento angular.
+
+
+== Sequência spin-echo ==
+
+Em 1950, Erwin Hahn apresentou na Physical Review 80 o resultado de uma experiência sobre ressonância nuclear. Esse experimento é conhecido como “Spin Echo”.
+A sequência Spin-Echo de Hahn é descrita da seguinte forma:
+
+sendo esta uma das sequência de pulsos mais importantes na espectroscopia de RMN. O experimento Spin-Echo causa o cancelamento de todas os efeitos que resulta de diferentes frequências de Larmor, incluindo os de deslocamentos químicos e efeito produzido pelo campo magnético não uniforme através da amostra.
+A utilização do experimento de Spin–Echo facilita a medição do parâmetro T2 (ver Relaxação (RMN)), que está sujeito a dificuldades, mesmo no caso de um único conjunto de spins nucleares idênticos.
+Este consiste em realizar a refocagem das isocromatas de spin através de pulsos de 90º repetidamente.
+Em 1954, H. Y. Carr e E. M. Purcell publicaram na Physical Review 94 um trabalho que estendeu um pouco mais a sequência de pulsos de Hahn, conhecida como sequência de Carr-Purcell. Esta sequência de pulsos também gera eco e é consideralvelmente mais fácil de visualizar do que a sequência de Hahn.
+A sequência de pulsos Carr-Purcell é realizadas da seguinte forma
+
+podemos visualizar esta sequência de pulso pelo gráfico em 3D adaptado do respectivo trabalho na figura.
+
+
+== Imageamento biológico ==
+A técnica da ressonância magnética nuclear é usada em Medicina e em Biologia como meio de formar imagens internas de corpos humanos e de animais, bem como de seres microscópicos (como no caso da microscopia de RMN). É chamada de tomografia de ressonância magnética nuclear ou apenas de ressonância magnética. Consiste em aplicar em um paciente submetido a um campo magnético intenso, ondas com frequências iguais às dos núcleos (geralmente do 1H da água) dos tecidos do corpo que se quer examinar. Tais tecidos absorvem a energia em função da quantidade de água do tecido. Entretanto, para se localizar espacialmente o grupo de núcleos de hidrogênio, é mister se empregar um meio de se diferenciar o campo, impondo-lhe gradientes segundo certas direções.
+Para imageamento de uma amostra, é necessário que a aparelhagem coloque a aquisição de sinal em função da posição. Esta função matemática é de  em , e essa informação é suprida através de aplicação de um campo magnético que apresenta um gradiente tridimensional. Assim, para cada posição da amostra, dentro da margem de erro resultante da resolução, a aquisição é levemente diferente. O resultado então é tratado pela transformada de Fourier (especificamente FFT: Fast Fourier Transform), sendo resolvido a partir daí no espaço e não mais em frequência.
+Os SPINs, tem o seu movimento em seu proprio eixo (ex: como pião),quando um atómo de hidrogênio e posto em um campo magnetico, os spins que esta dentro dele tende a se orientalo em direção do campo magnetico paralelo.
+
+
+== Técnicas de RMN no Estado Sólido ==
+
+
+=== Magic Angle Spinning – MAS ===
+
+Em 1959, Irving J. Lowe divulgou na Physical Review Letters, uma experiência de RMN utilizando amostras de Teflon e CaF2 sob rotações rápidas.
+Através deste experimento Lowe conseguira observar as linhas de RMN das amostras sólidas rodando a uma velocidade angular ωs e conseqüentemente apresentavam bandas laterais “aguçadas ou finas como ele dizia” à freqüências ωs.
+Estas bandas laterais provinham da modulação da linha de ressonância que por sua vez eram adicionados as extremidades da linha de RMN. A contribuição do movimento das extremidades era fraca para ser observada, por causa dos movimentos internos que possuem uma vasta frequência espectral.
+Esta técnica que ele utilizara foi antes divulgada por ele juntamente com Norberg em 1957 na Physical Review.
+A medida das linhas das amostras girante (spinning) foi realizada pela observação do FID utilizando como standard o aparelho de Spin-Echo de Hahn. As amostras foram giradas a 7 Kc (Kcycles/sec = KHz) usando rotores (7 mm) em drivers com turbinas de ar. A orientação da amostra pode ser variada em relação ao campo aplicado H em θH = θº 54,7º e 90º.
+Os resultados mostraram que os espectros de ressonância para as amostras girantes (spinning) e não-girantes (nonspinning) apresentaram os mesmos decaimentos de indução livre (FDI) , quando colocadas a um ângulo θH = θº ,mas quando estas foram colocadas sob θH = 54,7º os FIDs apresentam uma série de “echos rotacionais”a Ts,2Ts,etc. Para θH = 90º , o FID foi visto como uma linha não resolvida.
+
+
+=== Dupla Ressonância ===
+Em 1962, os físicos S.R. Hartmann e Erwin Hahn publicaram o célebre trabalho sobre “ dupla ressonância” na Physical Review , mais tarde referenciada como “ condição de Hartmann-Hahn”, que estabelece a relação entre um núcleo abundante (a) e um núcleo raro (b) no eixo rotatório para o mesmo tempo da dupla ressonância.
+
+
+=== Polarização Cruzada ===
+
+Em 1973 Pines, Gibby e Waugh divulgaram um trabalho no Journal of Chemical Physics, o qual tratava em relatar o ganho de sensibilidade de um dado núcleo raro S através da transferência de polarização de um núcleo abundante I.
+A técnica Polarização Cruzada - CP, consiste em otimizar os problemas relacionados com baixa abundância natural de núcleos raros.
+O e

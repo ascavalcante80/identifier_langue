@@ -1,0 +1,17 @@
+Wikidata je projekt kolektivně editované podpůrné databáze pro Wikipedii a další projekty. S projektem přišla německá pobočka nadace Wikimedia, Wikimedia Deutschland. Wikidata mají realizovat společné úložiště databázových údajů (například dat narození), podobně jako Wikimedia Commons realizuje společné úložiště pro fotografie nebo zvukové soubory, které pak mohou být používány jinými projekty (například Wikipedií, Wikizdroji, Wikizprávami, …). Je to první nový projekt nadace od roku 2006, kdy byla otevřena Wikiverzita.
+
+Prvními daty, centralizovanými na Wikidatech, jsou mezijazykové odkazy propojující články na Wikipediích v různých jazycích.
+Vytvoření projektu bylo podpořeno dary od Allenova institutu umělé inteligence, Nadace Gordona a Betty Mooreových a Google, Inc. v celkové hodnotě 1,3 miliónu eur.
+
+Na projektu pracoval tým vývojářů od jara roku 2012. 30. října téhož roku byla Wikidata oficiálně spuštěna, zatím bez ostrých dat. První nasazení bylo 14. ledna 2013 na maďarské Wikipedii. Následovaly hebrejská, italská a následně i anglická Wikipedie. Nasazena na zbylých 281 Wikipediích byla 6. března 2013.
+Později následovala funkce ukládání jednotlivých tvrzení využitelných v infoboxech, připravována je funkce pro tvorbu seznamů.
+Dalšími projekty, na kterých jsou Wikidata využívána, jsou Wikicesty, Wikimedia Commons, Wikizdroje, Wikicitáty a Wikizprávy.
+
+
+== Odkazy ==
+
+
+=== Reference ===
+↑ PINTSCHER, Lydia. Wikidata: the next step for Wikipedia and more. Information Today [online]. 2012-5-15 [cit. 2012-9-23]. Dostupné online.  (anglicky) 
+↑ DICKINSON, Boonsri. Paul Allen Invests In A Massive Project To Make Wikipedia Better. Business Insider [online]. 2012-3-30 [cit. 2012-9-23]. Dostupné online.  (anglicky) 
+↑ Wikipedia’s Next Big Thing: Wikidata, A Machine-Readable, User-Editable Database Funded By Google, Paul Allen And Others. TechCrunch [online]. 2012-3-30 [cit. 2012-9

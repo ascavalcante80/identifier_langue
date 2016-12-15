@@ -1,0 +1,13 @@
+On-Line Encyclopedia of Integer Sequences (OEIS) er en database for heltallsfølger, tilgjengelig på Internett. Den er et hyppig brukt hjelpemiddel i matematisk forskning.
+
+
+== Databasen ==
+Databasen inneholder beskrivelse av følger av heltall som har interesse innen matematikk. I desember 2006 inneholdt den informasjon om rundt 125 000 følger. Sammen med en definisjon av følgen finnes nøkkelord, litteraturhenvisninger, lenker til beslektede følger med mer.
+
+
+== Historie ==
+Neil Sloane begynte å samle heltallsfølger på 1960-tallet for å lette arbeidet sitt i kombinatorikk. Han offentliggjorde deler av databasen to ganger i bokform:
+A Handbook of Integer Sequences (1973, ISBN 0-12-648550-X), med 2400 følger.
+The Encyclopedia of Integer Sequences (1995, ISBN 0-12-558630-2), med 5487 følger.
+Disse bøkene ble tatt i mot med begeistring, og etter den andre offentliggjøringen begynte andre matematikere å utfylle samlingen med nye tallfølger. Samlingen ble etterhvert for stor til at den kunne bli offentliggjort i bokform igjen, og da databasen inneholdt 16 000 følger, bestemte Sloane seg for å gjøre databasen tilgjengelig på Internett, først som en epostsørvis i 1995, og deretter som en websørvis i 1996. Etter dette har databasen vokst med rundt 10 000 følger i året.
+Etter at N

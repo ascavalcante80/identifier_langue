@@ -1,0 +1,24 @@
+l = 6
+Im balancierten Ternärsystem braucht man keine Vorzeichen. Um zur negativen Zahl überzugehen, vertauscht man alle Ziffern 1 mit 1 und alle Ziffern 1 mit 1.
+1113bal = -5
+Auch hier kann man, wie für das gewöhnliche Ternärsystem gezeigt, die entsprechende Dezimalzahl ausrechnen:
+
+Potenzen aufgelöst:
+
+
+== Vergleich mit dem Dezimalsystem und dem Binärsystem ==
+
+
+== Siehe auch ==
+Dreiwertige Logik
+Unärsystem (1)
+Dualsystem, Binär (2)
+Quaternär (4)
+Quinär (5)
+Senär (6)
+Denär (10)
+
+
+== Weblinks ==
+Über den Setun-Computer (auf Englisch)
+Verschiedene Zahlensysteme (Memento vom 4. November 2007 im Internet Archive)

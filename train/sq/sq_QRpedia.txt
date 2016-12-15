@@ -1,0 +1,13 @@
+QRpedia është një sistem i uebit mobil i cili përdor kodet QR për të paraqitur artikujt e Wikipedia-s te përdoruesit në gjuhën e tyre të preferuar. Kodet QR mund të gjenerohen lehtësish për t'u lidhur te cilado adresë URL por sistemi QRpedia shton funksionalitet shtesë. Sistemi është në pronësi dhe operohet nga një degë e Wikimedia MB (WMUK).
+QRpedia është konceptuar nga Roger Bamkin, një vullnetar i Wikipedia-s, i programuar Terence Eden, dhe publikuar në prill 2011. Momentalisht përdorët në muzetë dhe institucionet tjera in vendet si Australia, Bulgaria, Republika Çeke, Estonia, Spanja, India, Mbretëria e Bashkuar, Gjermania dhe Shtetet e Bashkuara. Kodi burimor i projektit është lehtësisht i përdorshëm nën licencën MIT.
+
+
+== Procesi ==
+
+Kur një përdorues skanon një kod QR të QRpedia në pajisjen e tyre mobile, pajisja e dekodon kodin QR në një adresë URL duke përdorur domanin "qrwp.org" dhe adresa e së cilës (pjesa e fundit) është titulli i artikullit Wikipedia, dhe dërgon një kërkesë për artikullin e specifikuar në URL te serveri i uebit QRpedia. Ajo poashtu transmeton konfigurimin gjuhësor të pajisjes.
+Serveri i QRpedia pastaj përdor API-në e Wikipedia-s për të përcaktuar nëse ka një version të atij artikullit të Wikipedia-s në gjuhën e përdorur nga pajisja, dhe nëse po, e kthen atë në një format të përshtatshëm në një format miqësor për mobil. Nëse nuk ka një version të artikullit në gjuhën e preferuar, atëherë serveri i QRpedia-s një zgjedhje të gjuhëve të preferuara, ose një përkthim nga Google.
+Në këtë mënyrë, një QRcode mund të jep të njëjtin artikull në shumë gjuhë, edhe kur muzeu e ka të pamundur të bëj përkthimet e veta. QRpedia regjistron statistikat e përdorimit.
+
+
+== Origjina ==
+QRpedia është konceptuar nga Roger Bamkin, një vullnetar i Wikipedia-s, dhe Terence Eden, një konsulent i uebit mobil, dhe është lansuar më 9 prill 2011 në ngjarjen Backstage Pass të Muzeut dhe Galerisë së Artit të Derbit, pje

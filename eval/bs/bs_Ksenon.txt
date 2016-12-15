@@ -1,0 +1,38 @@
+, koji se koristi u nekim sistemima za noćno posmatranje.
+Pojedinačne ćelije u plazma-ekranima koriste mješavinu ksenona i neona koja se pretvara u plazmu pomoću elektroda. Međudjelovanje te plazme i elektroda generira ultraljubičaste fotone, koji dalje pobuđuju sloj fosfora sa prednje strane ekrana.
+Ksenon se koristi i kao "pokretački gas" u visokotlačnim natrijevim svjetiljkama. On ima najnižu toplotnu provodljivost i najniži potencijal ionizacije među svim neradioaktivnim plemenitim gasovima. Kao plemeniti gas, ne ometa niti učestvuje u hemijskim reakcijama koje se dešavaju unutar svjetiljke. Niska toplotna provodljivost umanje toplotne gubitke u svjetiljci dok je ona u stanju upotrebe, a niski potencijal ionizacije omogućava da probojni napon u gasu bude relativno nizak u hladnom stanju, što olakšava samo paljenje odnosno pobuđivanje svjetiljke.
+
+
+==== Laseri ====
+Godine 1962. grupa istraživača pri Bellovim laboratorijama (Bell Labs) otkrila je lasersko dejstvo u ksenonu, a kasnije je da se laserski snop poboljša ako se u laserski medij doda malo helija. Prvo ekscimerski laseri koristili su dimer Xe2 energetiziran snopom elektrona kako bi dobili stimuliranu emisiju pri ultraljubičastoj valnoj dužini od 176 nm. U ekscimerskim laserima (odnosno tačnije ekscipleksima) također su se koristili i ksenon-hlorid i ksenon-fluorid. Ekscimerski laser sa ksenon-hloridom se koristio u određene dermatološke svrhe.
+
+
+=== Medicina ===
+
+
+==== Anestezija ====
+Ksenon se koristi i kao opći anestetik. Iako je relativno skup, mašine za anesteziju koje mogu raditi sa ksenonom pojavile su se na evropskom tržištu iz razloga što se ksenon može reciklirati i ponovno koristiti pa se time postiže i ekonomičnost njegove upotrebe. Ksenon djeluje na mnoge različite receptore i ionske kanale, te poput mnogih, teoretski, višemodalnih inhalacijskih anestetika, ova međudjelovanja su vjerovatno komplementarna. Ksenon je također i antagonist NMDA receptora sa velikim afinitetom na mjestu glicina. Međutim, on se razlikuje od drugih sličnih antagonista koji se klinički koriste po tome što nije neurotoksičan te ima sposobnost da inhibira neurotoksičnost ketamina i dušik-suboksida. Za razliku od ketamina i NO, ksenon ne stimulira efluks iz dopamina iz nucleus accumbensa (centar za zadovoljstvo u mozgu). Slično kao dušik-suboksid i ciklopropan, ksenon aktivira dvopornu domenu kalijevog kanala TREK-1. Sličan kanal TASK-3, također impliciran u djelovanje inhalacijske anestezije, nije osjetljiv na ksenon.
+Ksenon inhibira nikotinske acetilholinske α4β2 receptore koji doprinose analgeziji (ublažavanju bolova) kroz leđa. Ksenon je djelotvoran inhibitor proteina Ca2+ ATPaze u ćelijskoj membrani. On inhibira ovaj protein tako što se veže na hidrofobne pore unutar enzima i onemogućava da enzim nastavi sa aktivnim konformacijama. Ksenon je također i kompetitivni inhibitor serotoninskih 5-HT3 receptora. Iako ova aktivnost smanjuje mučninu i povraćanje nastalo zbog anestezije, ona sama po sebi nije anestetična niti antinociceptivna.
+Ksenon ima minimalnu alveolarnu koncentraciju (MAC) od 72% kod pacijenata starosti oko 40 godina, što ga čini 44% snažnijim anestetikom od N2O. Stoga se on može koristiti u koncentracijama sa kisikom snižavajući rizik od hipoksije. Za razliku od dušik-suboksida (N2O), ksenon ne spada u stakleničke plinove te se ne smatra štetnim po okolinu. Ksenon koji se ispusti u atmosferu vraća se svom prvobitnom izvoru, pa stoga nema nikakvog utjecaja na zagađenje zraka.
+
+
+==== Neuroprotektant ====
+Ksenon izaziva snažnu kardio- i neurozaštitu putem raznih mehanizama djelovanja. Putem njegovog utjecaja na Ca2+, K+, KATP\HIF i NMDA antagonizme, ksenon je neurozaštitan kada se upotrijebi prije, tokom i nakon tranzitornih (prolaznih) ishemičnih napada (TIA). Ksenon je također i antagonist viskog afiniteta na glicinskom mjestu NMDA receptora. On je i kardiozaštitan u ishemično-reperfuzijskim uslovima tako što izaziva farmakološke neishemične preduslove. Ksenon je i kardiozaštitan tako što aktivira PKC-epsilon i dalje p38-MAPK (p38 mitogen-aktiviranu proteinkinazu).
+Ksenon imitira neuronalne ishemične preduslove tako što aktivira kalijeve kanale osjetljive na ATP. Ovaj gas alosterijski smanjuje aktiviranje inhibicije ATP upravljanih kanala nezavisno od podjedinice sulfonilurea receptora 1, produžavajući vrijeme otvorenosti KATP kanala i povećavajući frekvenciju. Ksenon ushodno regulira transkripcioni faktor 1 alfa koji inducira hipoksiju (HIF1a).
+Gas ksenon je dodat kao sastojak mješavini za disanje za novorođene bebe u bolnici sv. Mihaela u Bristolu, Engleska, jer su imale vrlo male šanse za preživljavanje. Pošto je taj postupak bio uspješan, postepeno je doveo do potvrde za upotrebu ksenona u kliničkim ispitivanjima kod sličnih slučajeva. Ovaj tretman je rađen istovremeno sa snižavanjem tjelesne temperature na 33,5 °C.
+
+
+==== Doping ====
+Udisanje mješavine ksenona i kisika aktivira proizvodnju transkripcijskog faktora HIF-1-alfa, koji dovodi do povećane proizvodnje eritropoetina. Za ovaj hormon je poznat da povećava proizvodnju crvenih krvnih ćelija te se time i znatno pojačava izdržljivost i snaga sportista. U ovu svrhu udisanje ksenona se koristi u Rusiji počev od 2004. godine. Međutim, 31. augusta 2014. Svjetska antidoping agencija (WADA) dodala je ksenon (i argon) na spisak zabranjenih supstanci i metoda, mada do danas ne postoji pouzdan test za dokazivanje zloupotrebe ovog gasa na sportskim takmičenjima.
+
+
+== Vanjski linkovi ==
+Xenon na The Periodic Table of Videos (Univerzitet u Nottinghamu)
+WebElements.com – Ksenon
+USGS Periodic Table – Xenon
+EnvironmentalChemistry.com – Ksenon
+Ksenon kao anestetik
+Sir William Ramsay's Nobel-Prize lecture (1904)
+
+
+== Reference ==

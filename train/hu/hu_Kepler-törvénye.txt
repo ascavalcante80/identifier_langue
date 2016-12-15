@@ -1,0 +1,61 @@
+A Kepler-törvények néven nevezzük a bolygómozgások három törvényét, melyeket Johannes Kepler német csillagász állapított meg.
+
+
+== Kepler törvényei és általánosításaik ==
+
+
+=== Kepler törvényei ===
+
+
+==== I. ====
+A bolygók pályája ellipszis, és annak egyik gyújtópontjában van a Nap.
+
+,
+
+ahol (r,φ) a bolygók napközpontú polárkoordinátái, l a fókuszon átmenő, a nagytengelyre merőleges húr fele (semi-lactus rectum), e pedig az excentricitás.
+
+
+==== II. ====
+A bolygók vezérsugara (a bolygót a Nappal összekötő szakasz) azonos idő alatt azonos területet súrol.
+
+ ahol  az adott (nagyon kicsi) szögelfordulás alatt súrolt terület, ennek az idő szerinti első differenciálhányadosa a területi sebesség, ami konstans.
+
+
+==== III. ====
+A bolygók Naptól való átlagos távolságainak (a, a pálya fél nagytengelyeinek) köbei úgy aránylanak egymáshoz, mint a keringési idejük (T) négyzetei, azaz a
+
+ hányados minden naprendszerbeli bolygó esetén ugyanakkora.
+
+Például a Jupiter keringési idejének (11,8 földi év) négyzete majdnem 140. A Jupiter majdnem 5,2-szer van távolabb a Naptól, mint a Föld; ennek köbe (5,2-ször 5,2-ször 5,2) szintén majdnem 140.
+Kepler III. törvényének pontos alakja:
+
+, ahol k a Gauss-féle gravitációs állandó, m1 és m2 pedig a testek tömege.
+
+Mivel  értéke k-nak, a Gauss-féle gravitációs állandónak a négyzete miatt nagyon kicsi, ezért az egyenlet jobb oldala minden bolygóra nézve jó közelítéssel állandó.
+
+A Gauss-féle gravitációs állandó:
+
+ahol m a Föld - Hold rendszer össztömege, T pedig a Föld - Hold rendszer tömegközéppontjának a Nap körüli keringési ideje.
+
+
+=== A Kepler-törvények általánosítása ===
+A fenti törvények általánosíthatóak: igazak egy csillag körül keringő bolygóra, egy bolygó körül keringő holdakra és műholdakra, bármely nagy tömegű égitest körül keringő más égitestekre, csupán az  értéke más, a központi égitest tömegétől függ. Egy másik általánosítás a tetszőleges kúpszelet alakú pályákhoz vezet; például egyes üstökösök pályája parabola alakú. A Kepler-törvények közel egyforma tömegű testekre is általánosíthatóak, de ekkor a III. törvény közelítő jelleget ölt. Kepler törvényeinek fizikai magyarázatát a kéttestprobléma szolgáltatja.
+
+
+== A Kepler-törvények története ==
+Az első két törvényt Kepler az 1609-ben megjelenő Astronomia Nova (Új csillagászat) című művében közölte. A harmadik törvényt a Mars adatainak kitartó tanulmányozásával 1618. május 15-én találta meg, ezt a törvényt az 1619-ben írt Harmonices Mundi ("A világ harmóniája") című művében közölte.
+Kepler ezeket a törvényeket nem egy elméletből vezette le, hanem Tycho Brahe pontos megfigyeléseiből kiindulva találta meg. Isaac Newtonnak sikerült ezeket egy általánosabb elméletbe beleágyaznia, de meg kell jegyeznünk, hogy a híres 1/  -es gravitációs erőtörvényt ő a Kepler-törvények alapján vezette le.
+
+
+=== Kepler II. törvényének igazolása ===
+Kepler II. törvénye könnyen igazolható, ha bizonyítást nyer, hogy centrális erőtérben végzett mozgás esetén (tehát ha az erő egy rögzített pont felé irányul a mozgás során) az
+
+ összefüggésben a területi sebességvektor állandó.
+
+A koordináta-rendszer kezdőpontja az erőcentrumban van.
+Newton II. törvénye szerint az erő: ,
+amely felírható
+
+ alakban is, mert .
+
+A két alakból látható, hogy  és  vektor

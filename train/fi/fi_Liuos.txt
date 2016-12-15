@@ -1,0 +1,43 @@
+Liuos on seos jossa kaksi tai useampia aineita on sekoittunut toisiinsa muodostaen yhtenäisen faasin. Liuos on kyseessä silloin, kun ainehiukkaset eivät ole havaittavissa edes mikroskoopilla eivätkä saostu liuoksen seistessä suljetussa astiassa. Yleensä liuoksesta puhuttaessa tarkoitetaan nestemäisiä seoksia, jotka syntyvät jonkin aineen liuetessa nestemäiseen liuottimeen, mutta laajemmassa mielessä liuos voi olla myös kiinteä aine tai kaasu.
+Aineen liukoisuus johonkin liuottimeen voi olla rajallinen, tällöin muodostuu kylläinen liuos ja ylimääräinen aine erottuu omaksi faasikseen. Jotkin aineet kuitenkin liukenevat toisiinsa missä suhteessa tahansa. Tällöin sanotaan tavallisesti liuoksen runsainta komponenttia liuottimeksi ja muita aineita liuenneiksi aineiksi.
+
+
+== Tyypillisiä piirteitä ==
+Liuos on homogeeninen seos. Liuenneen aineen hiukkasia ei siinä voi nähdä paljain silmin. Valo ei siroa liuoksessa olevista liuenneen aineen hiukkasista. Liuennutta ainetta ei voi eristää liuoksesta suodattamalla tai mekaanisesti.
+
+
+== Liuostyyppejä ja esimerkkejä ==
+Liuoksen homo­geenisuus merkitsee sitä, että sen komponentit muodostavat yhden faasin. Sen olomuoto on sama kuin liuottimen. Kuitenkin aineen ominaisuudet kuten sulamis- ja kiehumispiste tyypillisesti muuttuvat, kun siihen sekoittuu muita aineita.
+
+
+=== Kaasumaiset liuokset ===
+Jos liuotin on kaasu, siihen voivat yleensä liueta vain toiset kaasut. Esimerkkinä kaasu­maisesta liuoksesta voidaan mainita ilma, jossa happi ja muut kaasut ovat liuenneet typpeen. Koska molekyylien välisillä vuoro­vaikutuksilla ei kaasuissa ole sanottavaa merkitystä, pieninä pitoisuuksina esiintyvät kaasut muodostavat varsin triviaaleja liuoksia. Usein niitä ei edes nimitetä liuoksiksi vaan kaasu­seoksiksi.
+
+
+=== Nestemäiset liuokset ===
+Nestemäiseen liuottimeen voivat liueta sekä kiinteät aineet, nesteet että kaasut.
+Periaattessa kaikenlaiset nesteet voivat toimia liuottimina: nestemäiset jalokaasut, sulat metallit, sulat suolat, sulaneet kovalenttiset aineet ja molekyyleistä koostuneet nesteet. Käytännössä useimmat kemiassa ja biokemiassa merkittävät liuottimet kuitenkin ovat molekyyleistä koostuvia nesteitä. Ne voidaan jakaa poolisiin ja poolittomiin sen mukaan, onko niiden molekyyleillä pysyvä sähköinen dipolimomentti. Toisaalta ne voidaan jaotella sen mukaan, voivatko niiden molekyylit muodostaa vety­sidoksia; tämän mukaisesti puhutaan proottisista ja aproottisista liuottimista. Yleisin liuotin, vesi, on poolinen, ja siinä on vety­sidoksia.
+
+Suolat liukenevat poolisiin liuottimiin muodostaen positiivisia ja negatiivisia ioneja, joita liuottimen molekyylin negatiivinen ja positiivinen pää vetävät puoleensa. Tällaiset liuokset ovat elektro­lyyttejä.
+Kun liukeneva aine ei ole ioniyhdiste, yleinen sääntö on: samanlainen liuottaa samanlaista.
+Pooliset aineet liukenevat poolisiin liuottimiin. Esimerkiksi sokeri ja alkoholi ovat poolisia aineita ja liukenevat hyvin veteen. Sitä vastoin poolittomat aineet liukenevat paremmin poolittomiin liuottimiin. Esimerkiksi maaöljyssä olevat hiili­vedyt liukenevat hyvin toisiinsa ja liuottavat myös kiinteitä hiili­vetyjä, jotka eivät liukene veteen, kuten eivät myöskään maa­öljyssä olevat nestemäiset hiili­vedyt. Tämän vuoksi öljy­onnettomuuksissa öljy ei liukene meri­veteen vaan jää kellumaan sen pinnalle.
+
+
+==== Nesteeseen liuenneet kaasut ====
+Kaasuista esimerkiksi happea esiintyy liuenneena luonnon­vesissä. Myös hiilidioksidi liukenee veteen, mutta ilmiö on tällöin hieman monimutkaisempi, koska tapahtuu kemiallinen reaktio, jossa syntyy pieniä määriä hiilihappoa ja sen happoluonteen vuoksi edelleen oksonium- ja vetykarbonaatti-ioneja. Hiili­happoisessa vedessä ja esimerkiksi virvoitusjuomissa olevat näkyvät kuplat eivät kuitenkaan ole liuennutta kaasua, vaan niissä oleva hiili­dioksidi on jo erottunut liuoksesta omaksi kaasumaiseksi faasikseen. Liuenneut kaasu itse ei ole näkyvää, koska se on liuennut molekyyli­tasolla.
+
+
+==== Nesteeseen liuenneet nesteet ====
+Maaöljy ja siitä valmistetut tuotteet kuten bensiini sekä kevyt ja raskas polttoöljy koostuvat pää­asiassa toisiinsa liuenneista nestemäisistä hiili­vedyistä.
+Etyylialkoholi eli etanoli ja vesi liukenevat toisiinsa missä suhteessa tahansa. Alkoholijuomat ovat pääasiassa etanolin vesi­liuoksia, joskin ne tavallisesti sisältävät muitakin aineita.
+
+
+==== Nesteeseen liuenneet kiinteät aineet ====
+Sokeri liukenee veteen molekyyleinä.
+Natriumkloridi eli ruokasuola liukenee veteen ioneina kuten muutkin suolat, mikäli ne ovat vesi­liukoisia. Tällaisten aineiden liuokset ovat elektrolyyttejä. Liuenneita suoloja, pääasiassa natrium­kloridia, esiintyy luonnossa runsaasti meri­vedessä.
+Myös vesijohtovesi on liuos, koska se sisältää ioneja (mm. kalsium- ja magnesiumioneja, vetykarbonaatti-ioneja, kloridi- ja sulfaatti-ioneja) sekä liuennutta kaasua (mm. happea).
+Esimerkiksi kehon nesteet ovat liuoksia, joissa on monia liuenneita aineita. Monet niistä ovat elektrolyyttejä, sillä liuenneet aineet kuten kalium ovat ioneina. Lisäksi ne voivat sisältää molekyyleinä liuenneita aineita kuten sokeria ja ureaa. Liuenneella hapella ja hiilidioksidilla on myös suuri merkitys veren kemiassa, sillä huomattava muutos niiden pitoisuuksissa voi olla vakavan sairauden merkki.
+
+
+==== Ei-homogeeniset aineet ====
+On olemassa myös nestemäisiä seoksia, jotka eivät ole homogeenisia, esimerkiksi kolloidit, suspensiot ja emulsiot. Sellaisia ei pidetä liuoksina. Myöskään esimerkiksi kahvi ei ole liuos, vaikka se vaikuttaa kirkkaalta. Kahvin seistessä astiaan jää ruskea saostuma kun liuoksessa olevat hiukkaset eroavat nesteestä. Suodatinkahvi on kolloidinen seos. Myöskään maito ei ole liuos vaan kolloidinen seos, sillä se sisältää valkuaisaineita ja rasvaa pieninä pallosina. Pallosia ei voi nähdä, mutta ne aiheuttavat valon hajoamista (punerrus) valonsä

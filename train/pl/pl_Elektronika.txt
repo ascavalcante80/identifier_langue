@@ -1,0 +1,28 @@
+Elektronika (z gr. elektron 'bursztyn, który można naelektryzować przez potarcie' i -ikos 'na sposób; odnoszący się do') – dziedzina techniki i nauki zajmująca się obwodami elektrycznymi zawierającymi, obok elementów elektronicznych biernych, elementy aktywne takie jak lampy próżniowe, tranzystory i diody. W obwodach takich można wzmacniać słabe sygnały dzięki nieliniowym charakterystykom elementów czynnych (i ich możliwościom sterowania przepływem elektronów). Podobnie możliwość pracy urządzeń jako przełączniki pozwala na przetwarzanie sygnałów cyfrowych.
+
+
+== PodstawyEdytuj ==
+Swój rozwój elektronika zawdzięcza badaniom w różnych dziedzinach nauki, głównie fizyce (elektromagnetyzm, fizyka ciała stałego – szczególnie półprzewodniki) i matematyce (modele matematyczne obwodów i sygnałów).
+W odróżnieniu od elektrotechniki (która też bazuje na wiedzy z zakresu elektromagnetyzmu) elektronika nie zajmuje się ogólnie rzecz biorąc zagadnieniami energii elektrycznej ale zagadnieniami związanymi z sygnałami (zob. też przetwarzanie sygnałów). Rozróżnienie obu dyscyplin nastąpiło około 1906 roku kiedy to Lee De Forest wynalazł triodę, dzięki której bez użycia urządzeń mechanicznych można było już wówczas wzmacniać urządzeniem elektrycznym słabe sygnały radiowe lub akustyczne. Do lat 50. XX wieku dziedzina ta sprowadzała się do radiotechniki (tak ją nazywano) - a jej zasadnicze zastosowania obejmowały projektowanie nadajników, odbiorników i lamp próżniowych. Historycznie elektronika wyrosła więc z radiotechniki – pierwszymi układami elektronicznymi były powstające w czasach I wojny światowej nadajniki i odbiorniki radiowe. Współcześnie większość urządzeń elektronicznych projektuje się z użyciem elementów półprzewodnikowych, za pomocą których można sterować przepływem elektronów podobnie jak w lampach elektronowych a układy elektroniczne implementowane są często jako układy scalone (tzw. mikroelektronika, zob. też nanoelektronika) w tym układy programowalne i układy specjalizowane.
+
+
+== Elektronika analogowa a cyfrowaEdytuj ==
+W ogólności rozróżnia się:
+układy elektroniczne analogowe - zob. technika analogowa, analogowe przetwarzanie sygnałów
+liniowe
+nieliniowe (np. generator drgań, pętla fazowa, modulator, demodulator, prostownik, stabilizator)
+
+układy elektroniczne cyfrowe (tzw. technika cyfrowa i oparta na niej technika mikroprocesorowa, zob. też mikrokontroler, system wbudowany) - o ile technika cyfrowa zajmuje się zagadnieniami projektowania elektronicznych układów cyfrowych to opisem przetwarzanych w nich sygnałów zajmuje się dziedzina zwana cyfrowym przetwarzaniem sygnałów.
+
+
+== Elementy elektronikiEdytuj ==
+Do konstrukcji urządzeń elektronicznych służą różnorodne przyrządy i układy:
+elementy aktywne: półprzewodnikowe (tranzystory, tyrystory, układy scalone, diody półprzewodnikowe itp.), lampy próżniowe (diody, triody, pentody itd.)
+elementy bierne: rezystory, kondensatory, cewki.
+elementy akustoelektroniczne: filtry, rezonatory, linie opóźniające, czujniki itp.
+elementy optoelektroniczne: lasery, światłowody, detektory promieniowania itp.
+elementy fotoniczne (łączące elementy akustoelektroniczne z optoelektronicznymi): modulatory, wzmacniacze, detektory itp.
+Elementy elektroniczne często montuje się z użyciem obwodów drukowanych chyba, że są to układy wysokiej skali integracji (układy scalone).
+
+
+== Wybrane za

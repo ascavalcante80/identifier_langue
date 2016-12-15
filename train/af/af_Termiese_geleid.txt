@@ -1,0 +1,31 @@
+Termiese geleidingsvermoë, λ, in fisika is die intensiewe eienskap van 'n materiaal wat sy vermoë om hitte te gelei aandui.
+Termiese geleidingsvermoë is die hoeveelheid warmte Q, wat deur 'n dikte L in rigting loodreg tot die oppervlak met oppervlakte A gelei word as gevolg van 'n temperatuurverskil ΔT onder gestadigde toestande en wanneer die hitte-oordrag slegs afhanklik is van die temperatuurgradiënt.
+
+termiese geleidingsvermoë = tempo van warmtevloei × afstand / (oppervlak × temperatuurgradiënt)
+
+λ = Q × L / (A × ΔT)
+
+
+== Voorbeelde ==
+Oor die algemeen is daar 'n verband tussen termiese- en elektriese geleidingsvermoë; Metale is dan ook tipies goeie warmtegeleiers. Daar is egter uitsonderings: die noemenswaardigste hiervan is diamant wat 'n hoë termiese geleidingsvermoë het (tussen 1000 en 2600 W·m-1), terwyl dit 'n baie lae elektriese geleidingsvermoë besit.
+Die onderstaande tabel is saamgestel uit data uit die CRC Handbook of Chemistry and Physics. Alle waardes is vir materiale by kamertemperatuur (298 K), tensy anders vermeld.
+Termiese geleidingsvermoëns van alledaagse materiale:
+Termiese geleidingsvermoë verander met temperatuur. Vir die meeste materiale verminder dit effens soos die temperatuur styg. Aangesien diamant 'n hoë termiese geleidingsvermoë het en natuurlike blou diamant selfs 'n hoër geleidingsvermoë het kan 'n mens die edelgesteentes vir egtheid toets deur van 'n toetser van termiese geleidingsvermoë gebruik te maak.
+
+
+== Verwante begrippe ==
+Die omgekeerde van termiese geleidingsvermoë is termiese weerstand wat in kelvin-meter per watt (K·m·W-1) gemeet word.
+
+
+== Sien ook ==
+Warmte
+Temperatuur
+Termistor
+Termometer
+Termokoppel
+
+
+== Eksterne skakels ==
+http://physics.nist.gov/Pubs/SP811/appenB9.html
+http://www.for.gov.bc.ca/hfp/pubs/silviculture_notes/sn16.pdf Sien Bladsy 5
+htt

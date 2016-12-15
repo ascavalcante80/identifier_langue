@@ -1,0 +1,23 @@
+ok párhuzamosak, ezért a vektoriális szorzatuk zérus:
+
+S deriváltja:
+
+mert az első tag két vektora azonos, a vektoriális szorzat meghatározása miatt zérus, a második tagról pedig fentebb nyert bizonyítást, hogy szintén zérus. Mivel s deriváltja zérus, ezért s állandó, következésképpen a területi sebességvektor is állandó, a mozgás pedig síkmozgás.
+
+
+== Jegyzetek ==
+
+
+== Források ==
+
+
+== További információk ==
+Interaktív Flash animáció Kepler törvényeiről. Szerző: Don Ion
+Timothy Ferris. A világmindenség. Mai kozmológiai elméletek (26. oldal). Typotex Kiadó. ISBN 963-9548-33-2 (2006) 
+Fekete Zoltán-Zalay Miklós. Többváltozós függvények analízise. Budapest: Műszaki Könyvkiadó (1985) 
+
+szerk.: Marik Miklós: Csillagászat. Akadémiai Kiadó (1989). ISBN 963 05 4657 4 
+
+
+== Kapcsolódó szócikkek ==
+Kepler-probléma

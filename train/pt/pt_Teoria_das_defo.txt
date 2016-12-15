@@ -1,0 +1,15 @@
+Na mecânica de meios contínuos, a teoria das deformações infinitesimais é uma abordagem matemática para a descrição da deformação de um corpo sólido no qual os deslocamentos das partículas materiais assumem-se como sendo pequenos (de facto, infinitesimalmente pequenos), em relação à dimensão relevante do corpo, pelo que a geometria e as propriedades constitutivas do material (como a densidade e a rigidez) em cada ponto do espaço podem ser consideradas como inalteradas pela deformação.
+Com esta suposição, as equações da mecânica de meios contínuos são simplificadas de forma considerável. Esta abordagem também pode ser denominada de teoria das pequenas deformações, teoria dos pequenos deslocamentos ou teoria do pequeno gradiente de deslocamentos. Esta contrasta com a teoria das deformações finitas, onde é feita uma suposição oposta.
+A teoria das deformações infinitesimais é comummente adoptada pela engenharia civil e mecânica para a análise de tensões de estruturas construídas a partir materiais elásticos relativamente rígidos como o betão e o aço, pelo que o objectivo comum no dimensionamento de tais estruturas é a minimização das suas deformações sob cargas típicas.
+
+
+== Tensor de deformações infinitesimal ==
+Para as deformações inifinitesimais de um corpo contínuo, no qual os deslocamentos e os gradientes de deslocamento são pequenos quando comparados com a unidade, ou seja,  e , é possível desempenhar uma linearização geométrica do tensor de deformações finitas Lagrangiano  e do tensor de deformações finitas Euleriano . Em tal linearização, os termos não-lineares ou de segunda ordem do tensor de deformações finitas são desprezados. Logo, tem-se,
+,
+ou,
+,
+e,
+,
+ou,
+.
+Esta linearização implica que uma descrição Lagrangiana e uma descrição Euleriana sejam aproximadamente as mesmas já que existem diferenças pequenas nas coordenadas materiais e espaciais de um ponto material fornecido no meio contínuo. Por conseguinte, as componentes do gradiente de deslocamentos material e as componentes do gradiente de deslocamentos espacial são aproximada

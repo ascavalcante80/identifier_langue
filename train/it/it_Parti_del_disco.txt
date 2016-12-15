@@ -1,0 +1,91 @@
+Le parole di una lingua vengono suddivise secondo vari aspetti in parti del discorso. I criteri della suddivisione delle parti del discorso sono specifiche per le singole lingue, quindi non universali. Anche all'interno delle singole lingue le suddivisioni in parti del discorso variano a seconda del numero di parti del discorso richieste e secondo la loro definizione.
+Secondo la loro funzione all'interno di una frase, una parola viene suddivisa in categorie sintattiche. Gli aggettivi in tedesco, per esempio, si trovano prima del sostantivo di riferimento e dopo l'articolo.
+La morfologia distingue le parole dal punto di vista della possibilità di flessione: i verbi italiani per esempio vengono coniugati e hanno perciò diverse forme temporali, come l'infinito, l'imperativo, il congiuntivo, i participi, ecc. Il criterio morfologico vale naturalmente per le cosiddette lingue flessive, come l'italiano, il tedesco, il sanscrito o il latino. In inglese la questione si fa problematica, mentre per il cinese, che è una lingua isolante, questo criterio non è applicabile.
+Più universali sono le disposizioni funzionali, che recentemente sono state formulate, come nella teoria dei campi dello psicolinguista Karl Bühler, che divide gli indici ("io", "qui", "adesso" ecc.) dai simboli linguistici ("veloce", "donna", "costruire"). Questo approccio è stato ampliato nella pragmatica funzionale.
+
+
+== ClassificazioneModifica ==
+La classificazione delle parti del discorso è contestata. Per questo ci sono ad esempio la teoria delle dieci parti del discorso della grammatica tradizionale, che risalgono all'antichità (Dionisio Trace) e la teoria delle cinque parti del discorso di Hans Glinz. Una classificazione più recente l'hanno proposta Zifonun/Hoffmann/Strecker, utilizzando criteri formali e funzionali.
+Nelle varie lingue, le parti del discorso possono essere presenti o mancare. La classificazione che segue vale per l'italiano e altre lingue simili. A partire dalla tradizione greca e latina si distinguono nove parti del discorso: nome, aggettivo, articolo, pronome, verbo (generalmente variabili) e preposizione, congiunzione, avverbio, interiezione (generalmente invariabili). Queste categorie si applicano bene alle lingue indoeuropee, così come a quelle semitiche e ugrofinniche, ma con qualche difficoltà ad altre famiglie linguistiche: il tibetano, ad esempio, non ha alcuna distinzione fra nome e verbo, e in compenso presenta una serie di particelle con funzione sintattica del tutto sconosciute all'italiano.
+
+
+=== Teoria delle dieci parti del discorso secondo la grammatica tradizionaleModifica ===
+
+La grammatica italiana distingue tradizionalmente le seguenti parti del discorso:
+Nome
+Sostantivo (o nome sostantivo) (Nomi comuni, Nomi propri): casa, giardino, donna
+Sostantivi concreti (oggetti percepibili tramite i sensi)
+Sostantivi astratti (oggetti percepibili solo con la mente)
+
+Aggettivo (o nome aggettivo) (qualificativo, determinativo): rosso, bello, alto
+uso attributivo (aggettivo unito a sostantivo)
+uso sostantivizzato (aggettivo dopo un pronome indefinito)
+
+Articolo
+articolo determinativo (il, lo, la, i, gli, le)
+articolo indeterminativi (uno, una, un, un´)
+articolo partitivo (del, dello, dei, degli, della, delle)
+
+Pronome: io, tu, egli, ella, esso; tuo, mio
+Pronomi personali
+Pronomi relativi
+Pronomi possessivi
+Pronomi dimostrativi
+Pronomi interrogativi
+
+Numerali (Contatori): uno, due, tre; primo, secondo
+Numerali cardinali (Numerali fondamentali)
+Numerali ordinali
+Numeri frazionari
+Parole di conteggio
+contatori indefiniti (= Pronomi indefiniti)
+
+Verbo (Tempo, Azione): ridere, correre, amare
+finito (coniugato) o indefinito (non coniugato)
+utilizzabile in otto tempi diversi
+Passivo o Attivo
+transitivo o intransitivo
+Indicativo, Condizionale, Congiuntivo o Imperativo
+
+Avverbio (circostanziale): qui, qua, lì, là, oggi, perciò, per questo
+Avverbio di luogo
+Avverbio di tempo
+Avverbio di modo
+Avverbio di causa
+Avverbio interrogativo
+
+Preposizione (Parola di riferimento): di, a, da, in, con, su, per, tra, fra
+non è difficile definire la differenza tra avverbio e preposizione
+
+Congiunzione: e, poiché
+coordinanti (paratattiche)
+subordinanti (ipotattiche)
+
+Interiezione (Esclamazioni): Oh!
+Dal punto di vista flessivo vi sono parole variabili (definite anche declinabili) e parole non variabili (indeclinabili).
+La flessione morfologica viene chiamata:
+declinazione nel caso di sostantivi e di parti qualificative (casa, case; buono, buoni, buona, buone; in latino: rosa, rosae, rosae, rosam, rosa, rosa; rosae, rosarum, rosis, rosas, rosae, rosis);
+coniugazione nel caso di verbi (mangio, mangi, mangia, mangiamo, mangiate, mangiano; mangiai, mangiasti, mangiò, mangiammo, mangiaste, mangiarono).
+Gli aggettivi possono essere dotati di forma comparativa (Gradi dell'aggettivo e comparazione).
+La teoria delle dieci parti del discorso deriva fondamentalmente dalla grammatica latina (ma in latino le parti del discorso erano otto: mancava l'articolo; aggettivi, e di conseguenza numerali, erano considerati come un tipo di nomi; il participio era considerato una parte del discorso indipendente). Essa è stata applicata per molto tempo con successo e viene anche oggi insegnata in molte scuole. Non risolve tuttavia alcune fondamentali proprietà di sistemi di classificazione.
+
+
+=== Teoria delle cinque parti del discorso secondo Hans GlinzModifica ===
+Nella classificazione delle cinque parti del discorso la classificazione si basa su criteri formali.
+Si suddividono cinque parti del discorso principali secondo criteri morfologici:
+privo di flessione --> Particelle
+dotato di flessione
+declinabile
+genere fisso --> Nome (a volte chiamato anche sostantivo)
+senza genere fisso
+non comparabile, una serie flessiva --> Pronome
+comparabile, due serie flessive--> Aggettivo
+
+coniugabile --> Verbo
+
+Le particelle possono essere suddivise in quattro sottogruppi secondo il loro atteggiamento sintattico:
+Le preposizioni stabiliscono il caso dei gruppi nominali nei quali sono presenti.
+Le congiunzioni, si suddividono ulteriormente in congiunzioni coordinanti, che uniscono tra loro unità dello stesso valore, e congiunzioni subordinanti, che introducono proposizioni secondarie.
+Le interiezioni si trovano al di fuori del campo della frase.
+Gli avverbi costituiscono il gruppo rimanente.
+Gli avverbi dal canto loro possono essere anche suddivisi ulteriormente, e cioè in a

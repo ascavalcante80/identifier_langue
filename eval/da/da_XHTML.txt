@@ -1,0 +1,28 @@
+r står med anførselstegn ====
+Dårlig:
+
+ <table width=100%></table>
+
+God:
+
+ <table width="100%"></table>
+
+
+==== Ingen minimerede attributter ====
+Dårlig:
+
+ <frame noresize />
+
+God
+
+ <frame noresize="noresize" />
+
+
+==== "Id" til identifikation ====
+Dårlig:
+
+ <img src="picture.gif" name="picture1" />
+
+God:
+
+ <img src="picture.gif" id="picture1" />

@@ -1,0 +1,81 @@
+Wikisource est un projet multilingue de bibliothèque numérique, soutenu par la Fondation Wikimedia, libre d'accès, sans publicité, librement distribuable, édifiée par des bénévoles qui s'appuient sur la technologie wiki. Le projet a été lancé le 24 novembre 2003 et fut tout d'abord nommé Projet Sourceberg, avant d'être officiellement appelé « Wikisource » le 26 décembre 2003. Le projet existe en plus de 50 langues.
+Wikisource édite une large variété de textes : littéraires (romans, poésies, contes…), d'histoire (traités, biographies), de philosophie, des revues, et beaucoup d'autres encore, à condition que leur licence soit compatible avec la licence CC BY-SA. Elle utilise les ressources éditoriales du wiki ce qui lui permet — entre autres — de classer les textes (par genre, époques…) ; de fournir des systèmes de navigation entre les chapitres ; de lier entre elles des références dans un texte… Elle permet d'éditer un document avec des images de la source de référence en regard, pour garantir la fiabilité du travail de relecture.
+
+
+== Principes fondateurs du projet ==
+Article détaillé : Qu'est-ce que Wikisource ?
+Trois principes sont particulièrement importants pour définir la réalisation de ce projet :
+1. Les documents placés sur Wikisource doivent avoir été déjà publiés ailleurs, sur papier ;
+Deux exceptions au critère de l'édition sur papier :
+a. Les publications uniquement électroniques ne sont autorisées que si elles proviennent de sites officiels ou d'éditeurs en ligne reconnus (c'est-à-dire qui ont une obligation de dépôt légal auprès de la bibliothèque nationale de leur pays).
+b. Les traductions.
+
+2. Les documents placés sur Wikisource doivent être dans le domaine public ou sous une licence libre ;
+3. Les documents placés sur Wikisource doivent être objectivement identiques à une édition de référence.
+
+
+== Logo ==
+
+Comme Wikisource était appelé à l'origine « Project Sourceberg », son premier logo, était une photo d'iceberg. Finalement, en 2006, la photo est remplacée par une représentation vectorielle et stylisée d'un iceberg pour des raisons à la fois techniques - il est plus facile de changer la taille d'une image vectorielle que d'une photo - et juridiques - la photo n'avait pas la bonne licence pour servir de logo à un projet de la Wikimedia Foundation[réf. nécessaire].
+
+
+== Les outils d'édition ==
+Wikisource a mis et met progressivement en place des outils spécifiques à la nature de son projet.
+L'usage d'un wiki pour l'édition de textes pose la question de la fiabilité du travail accompli par les Wikisourciens. D'une part, ce travail peut être vandalisé, puisque toute personne qui a accès à Wikisource peut en modifier le contenu, d'autre part le travail d'édition lui-même doit pouvoir être vérifié pour assurer la qualité du projet.
+
+
+=== Validation des textes ===
+Article détaillé sur Wikisource : Validation des textes
+Afin de parvenir à une garantie suffisante pour les lecteurs, Wikisource admet la semi-protection des textes relus par plusieurs contributeurs. Ainsi, seules des personnes inscrites peuvent modifier un texte validé. Les lecteurs sous IP peuvent signaler des erreurs sur une page donnée en lien dans toutes les pages de discussion des textes validés, pages de discussion où sont données également toutes les informations relatives à l'édition.
+L'avancement de la validation d'un texte est signalé par les icônes suivants, placés dans l'onglet texte : , , , ,  
+
+
+=== Espace page ===
+Article détaillé sur Wikisource : Affichage par pages
+
+Mais l'outil permettant de réellement s'assurer de la qualité de l'édition est l'affichage des images en regard du texte édité (voir image ci-contre). Cet outil a été réalisé par un contributeur de Wikisource.
+Cet outil s'utilise ainsi : après avoir copié sur le serveur l'image d'un texte, le contributeur édite un espace nommé page: suivi du nom de l'image copiée. L'image apparaît alors dans cet espace, et le contributeur la consulte tout en utilisant la boîte d'édition. L'ensemble du document peut ensuite être reconstitué en mode texte sur une seule page grâce à des inclusions.
+Cet outil a été mis en place en août 2006, et son usage n'est pas encore général. Pour consulter les premiers livres disponibles en mode page : Livres disponibles en mode page.
+
+
+=== Éditions multilingues ===
+La division par domaines linguistiques ne sépare pas entièrement les sous-projets, puisqu'il existe des liens permettant l'affichage simultanée de deux pages de deux domaines distincts. Ainsi, lorsqu'un contributeur du Wikisource francophone édite une traduction d'un texte anglais, le lien interwiki qui lie ces deux textes permet de créer automatiquement une édition bilingue.
+
+
+=== Étapes de l'édition sur Wikisource ===
+
+
+== Utilisation ==
+Article détaillé : Aide au lecteur
+La première et fondamentale utilité de Wikisource est la lecture. L'édition et l'organisation des textes s'efforce d'être aussi simple que possible pour la consultation. Ainsi, pour la recherche des textes, Wikisource propose un index des auteurs, des classements par périodes, par thèmes, etc.
+Mais le confort du lecteur a aussi son importance, et pour faciliter la lecture sur écran, il est possible d'utiliser le monobook de son compte pour adapter le texte (largeur des paragraphes et taille des lettres) à l'effort que doivent fournir les yeux. Enfin, une extension pdf existe, mais n'étant pas encore parfaitement au point, elle ne pourra être disponible que dans un avenir encore indéterminé.
+La lecture sur le site n'est cependant pas la seule utilité de Wikisource. La qualité des éditions doit permettre au projet de servir de référence pour des travaux divers, du collège à l'université. Quelques textes édités sur Wikisource sont ainsi donnés en lien par des sites académiques ; on trouve sur Internet des exemples de liens dans des bibliographies pour des cours universitaires et dans la bibliographie d’un mémoire de maîtrise de philosophie. Wikisource peut aussi servir de source de citation aux articles de Wikipédia. La syntaxe à utiliser est alors (au sein de wikipedia) [[s:nom du texte sur wikisource]]. Par exemple [[s:genèse]] crée un lien s:genèse qui dirige vers le livre de la genèse sur Wikisource. On peut améliorer l'apparence du lien en écrivant [[s:genèse|]], ce qui donne genèse.
+Cette syntaxe ne fonctionne que vers Wikisource en français. Pour accéder à des textes Wikisource d'un autre projet linguistique, il faut utiliser [[wikisource:en:lien]], en remplaçant éventuellement « en » (qui dirige vers Wikisource en anglais) par un autre code de langue.
+Un outil d'exportation des ouvrages en ligne, sous forme de fichiers utilisables par une Liseuse est en service expérimental. D'ores et déjà, un certain nombre de textes est disponible au format epub (cf. s:Catégorie:Bon pour export).
+
+
+== Exemples de travaux en cours ==
+Les principaux travaux peuvent être illustrés par des textes, tels que, pour les textes français :
+Dictionnaire raisonné de l'architecture française du XIe au XVIe siècle
+Revue des Deux Mondes
+Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
+Le Râmâyana
+L'édition des œuvres de Nietzsche par Henri Albert
+Il est également possible d'organiser des portails, afin de rassembler des textes autour de thèmes précis, tels que :
+Portail de Philosophie
+Portail des Lettres latines
+Portail Maritime
+
+
+=== Partenariat avec l'École nationale vétérinaire de Toulouse ===
+L'École nationale vétérinaire de Toulouse (ENVT), une des quatre grandes écoles de vétérinaires de France s'est associée à Wikimédia France pour publier des thèses du XIXe siècle. Toutefois, les contributeurs de Wikisource n'ont pas été sollicités par Wikimédia pour ce projet.
+
+
+=== Partenariat avec la Bibliothèque nationale de France ===
+La BnF a fourni à Wikisource 1500 ouvrages numérisés, images de pages et texte issu de la reconnaissance optique de caractères (OCR), dans le format DjVu qu'utilise Wikisource. Les bénévoles contributeurs du site assurent la correction des textes et la mise en ligne d'un texte corrigé. Le site Gallica de la BnF associera l'adresse de ce texte à la fiche de l'ouvrage.
+
+
+=== Exemples sur le Wikisource germanophone ===
+« Afin de faciliter le travail de la communauté de Wikisource germanophone, l'association allemande a fourni un budget de 1 500 € pour la numérisation de livres et manuscrits anciens. Les membres de la communauté décideront eux-mêmes conjointement de la façon de dépenser cette dotation pour de nouveaux projets. »
+En mai 2006, Wikimedia Deutschland (l'association allemande) a financé la numérisation d'un manuscrit scolaire de mathématiques intitulé Drei Register Arithmetischer ahnfeng zur Practic.
+« Début septembre 2006, le troisième volume des « Zimmerische Chronik » a été transcrit. Il s'agit d'une chronique rédigée par le comte Froben Christoph von Zimmern au XVIe siècle et publiée en 1881 par l'historien allemand Karl August Barack. La transcription du quatrième volume est l'un des plus gros projets de Wikisource germanophone. L'édition électronique a été lancée par un historien de l'université de Fribourg-en-Brisgau, qui agit en tant que consultant scientifique

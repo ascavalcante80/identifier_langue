@@ -1,0 +1,18 @@
+Elastinen kerroin kuvaa aineen kykyä vastustaa sitä muovaavia voimia. Elastisten kertoimien yksikkö on pascal (tai vaihtoehtoisesti ). Elastinen kertoma  määritellään kappaleeseen kohdistuvan jännityksen  ja venymän (puristuman)  suhteena:
+
+
+== KimmokerroinMuokkaa ==
+
+Kimmokerroin (tunnus  tai ) on yleisimmin käytetty elastisista kertoimista. Kimmokerrointa kutsutaan joskus myös nimillä kimmomoduuli, elastisuusmoduuli ja Youngin moduuli. Se on kappaleeseen kohdistuvan jännityksen suhde sen aikaansaamaan suhteelliseen venymään, ja se kuvaa kappaleen venymistä venyttävän voiman vaikutuksesta. Kimmokertoimen tapauksessa jännityksenä käytetään yleensä näennäistä jännitystä
+
+missä  on kappaletta venyttävä voima ja  on kappaleen poikkileikkauksen pinta-ala ennen venyttämistä. Tällöin ei oteta huomioon kappaleen poikkipinta-alan muutosta venymän aikana. Kappaleen suhteellinen venymä
+
+missä  on kappaleen pituus ja  pituuden muutos jännityksen suuntaan.
+Kimmokerroin E voidaan näin ollen määritellä yhtälöllä
+
+SI-järjestelmäsä kimmokertoimen yksikkö on newton neliömetriä kohti (N/m2) eli pascal (Pa).
+Hooken lain mukaisesti monien aineiden venymä on suoraan verrannollinen venyttävään jännitykseen eli niiden kimmokerroin on vakio, niin kauan kuin jännitys ei ylitä tiettyä rajaa, jonka jälkeen kappale alkaa muovautua plastisesti. Kun vetosauvaa kuormittava jännitys on kimmorajaa pienempi, sauva venyy kimmoisasti eli palautuu alkuperäiseen muotoonsa jännityksen loputtua. Jos jännitys on niin suuri, että saavutetaan plastinen alue, kappaleeseen aiheutuu jännityksestä pysyvä muodonmuutos. 
+
+
+== LiukukerroinMuokkaa ==
+Liukukertoimen (tunnus  tai ) t

@@ -1,0 +1,103 @@
+Der Begriff Screen Scraping (engl., etwa: „am Bildschirm schürfen“) umfasst generell alle Verfahren zum Auslesen von Texten aus Computerbildschirmen. Gegenwärtig wird der Ausdruck jedoch beinahe ausschließlich in Bezug auf Webseiten verwendet (daher auch Web Scraping). In diesem Fall bezeichnet Screen Scraping speziell die Technologien, die der Gewinnung von Informationen durch gezieltes Extrahieren der benötigten Daten dienen.
+
+
+== Einsatzgebiete ==
+
+
+=== Suchmaschinen und Web-Mining ===
+Suchmaschinen verwenden sogenannte Crawler zum Durchsuchen des World Wide Web, zur Analyse von Webseiten und Sammeln von Daten, wie Web-Feeds oder E-Mail-Adressen. Screen-Scraping-Verfahren werden auch beim Web-Mining angewandt.
+
+
+=== Ersatz von Web Services ===
+Um den Abruf und die Weiterverarbeitung von Informationen aus Webseiten für den Kunden deutlich zu erleichtern, hat der Anbieter des Seiteninhalts (auch Content-Anbieter) die Möglichkeit, die Daten nicht nur in Form einer (menschenlesbaren) Webseite darzustellen, sondern sie zusätzlich in einem maschinenlesbaren Format (etwa XML) aufzubereiten. Gezielt abgefragte Daten könnten dem Kunden dadurch als Web Service zur automatisierten Weiterverarbeitung zur Verfügung gestellt werden.
+Häufig hat der Content-Anbieter jedoch kein Interesse an dem mechanisierten Abruf seiner Daten bzw. der automatisierten Nutzung seines Dienstes (insbesondere bezüglich spezieller Funktionen, die ausschließlich realen Nutzern vorbehalten sein sollten), oder die Errichtung eines Web Service wäre mit zu hohen Kosten verbunden und daher unwirtschaftlich. In solchen Fällen kommt häufig das Screen Scraping zum Einsatz, um die gewünschten Daten dennoch aus der Webseite zu filtern.
+
+
+=== Erweitertes Browsen ===
+Screen Scraping kann zum Einsatz kommen, um den Browser um weitere Funktionen auszustatten oder bisher umständliche Vorgänge zu vereinfachen. So können Anmeldevorgänge bei Foren automatisiert oder Dienste einer Webseite abgerufen werden, ohne dass der Nutzer die Webseite besuchen muss, sondern etwa über eine Browser-Symbolleiste.
+Eine einfache Form von derartigen Screen Scrapern stellen Bookmarklets dar.
+
+
+=== Remixing ===
+Remixing ist eine Technik, bei der Webinhalte verschiedener Dienste zu einem neuen Dienst verbunden werden (siehe auch Mashup). Wenn keine offenen Programmierschnittstellen zur Verfügung stehen, muss hier ebenfalls auf Screen-Scraping-Mechanismen zurückgegriffen werden.
+
+
+=== Missbrauch ===
+Screen Scraping Techniken können jedoch auch missbraucht werden, indem Inhalte fremder Webseiten gegen den Willen des Anbieters kopiert und auf einem eigenen Server angeboten werden.
+
+
+== Funktionsweise ==
+Screen Scraping besteht im Wesentlichen aus zwei Schritten:
+Abrufen von Webseiten
+Extraktion der relevanten Daten
+
+
+=== Abrufen von Webseiten ===
+
+
+==== Statische Webseiten ====
+Idealerweise befinden sich die interessanten Daten auf einer Webseite, die über eine URL abgerufen werden kann. Alle für den Abruf der Informationen benötigten Parameter werden über URL-Parameter (Query-String, siehe GET-Request) übergeben. In diesem einfachen Fall wird einfach die Webseite heruntergeladen und die Daten werden mit einem geeigneten Mechanismus extrahiert.
+
+
+==== Formulare ====
+In vielen Fällen werden die Parameter durch Ausfüllen eines Webformulars abgefragt. Dabei werden die Parameter oft nicht in der URL übergeben, sondern im Nachrichtenkörper (POST-Request).
+
+
+==== Personalisierte Webseiten ====
+Viele Webseiten enthalten personalisierte Informationen. Das Hypertext Transfer Protocol (HTTP) bietet jedoch keine native Möglichkeit, Anfragen einer bestimmten Person zuzuordnen. Um eine bestimmte Person wiederzuerkennen, muss die Serveranwendung auf HTTP aufgesetzte Sitzungskonzepte verwenden. Eine häufig genutzte Möglichkeit ist die Übertragung von Session-IDs durch die URL oder durch Cookies. Diese Sitzungskonzepte müssen von einer Screen-Scraping-Anwendung unterstützt werden.
+
+
+=== Datenextraktion ===
+Ein Programm zur Extraktion von Daten aus Webseiten wird auch Wrapper genannt.
+Nachdem die Webseite heruntergeladen wurde, ist es für die Extraktion der Daten zunächst wichtig, ob der genaue Ort der Daten auf der Webseite bekannt ist (etwa zweite Tabelle, dritte Spalte).
+Wenn dies der Fall ist, stehen für die Extraktion der Daten verschiedene Möglichkeiten zur Verfügung. Man kann zum einen die heruntergeladenen Webseiten als Zeichenketten interpretieren und etwa mit regulären Ausdrücken die gewünschten Daten extrahieren.
+Wenn die Webseite XHTML-konform ist, bietet sich die Nutzung eines XML-Parsers an. Für den Zugriff auf XML gibt es zahlreiche unterstützende Technologien (SAX, DOM, XPath, XQuery). Oft werden die Webseiten jedoch lediglich im (möglicherweise sogar fehlerhaften) HTML-Format ausgeliefert, welches nicht dem XML-Standard entspricht. Mit einem geeigneten Parser lässt sich unter Umständen dennoch ein XML-konformes Dokument herstellen. Alternativ kann das HTML vor dem Parsen mit HTML Tidy bereinigt werden. Manche Screen Scraper verwenden eine eigens für HTML entwickelte Anfragesprache.
+Ein Kriterium für die Güte der Extraktionsmechanismen ist die Robustheit gegenüber Änderungen an der Struktur der Webseite. Hierfür sind fehlertolerante Extraktionsalgorithmen erforderlich.
+In vielen Fällen ist die Struktur der Webseite jedoch unbekannt (etwa beim Einsatz von Crawlern). Datenstrukturen wie etwa Kaufpreisangaben oder Zeitangaben müssen dann auch ohne feste Vorgaben erkannt und interpretiert werden.
+
+
+== Architektur ==
+
+
+=== Zentralisierte Architektur ===
+Ein Screen Scraper kann auf einem speziellen Web-Server installiert sein, der in regelmäßigen Abständen oder auf Anfrage die geforderten Daten abruft und seinerseits in aufbereiteter Form anbietet. Dieses serverseitige Vorgehen kann jedoch unter Umständen rechtliche Probleme mit sich ziehen und vom Content-Anbieter auch leicht durch Blockieren der Server-IP verhindert werden.
+
+
+=== Verteilte Architektur ===
+Beim verteilten Vorgehen werden die Informationen direkt vom Client abgerufen. Je nach Anwendung werden die Informationen in einer Datenbank gespeichert, an andere Anwendungen weitergegeben oder aufbereitet im Browser angezeigt. Die verteilte Architektur kann nicht nur schwieriger blockiert werden, sondern skaliert auch besser.
+
+
+== Anbieterseitige Abwehrmaßnahmen ==
+Viele Content-Anbieter haben kein Interesse an einem isolierten Abrufen bestimmter Informationen. Grund dafür kann sein, dass sich der Anbieter durch Werbeeinblendungen finanziert, die durch Screen Scraping leicht gefiltert werden können. Zudem könnte der Content-Anbieter ein Interesse daran haben, den Benutzer zu einer bestimmten Navigationsreihenfolge zu zwingen. Um diese Interessen zu gewährleisten, gibt es verschiedene Strategien.
+
+
+=== Kontrolle des Benutzerverhaltens ===
+Der Server zwingt den Benutzer durch Verwenden von Session-IDs zu einer bestimmten Navigationsreihenfolge. Beim Aufruf der Verkehrslenkungsseite des Webangebotes wird eine temporär gültige Session-ID erzeugt. Diese wird über die URL, versteckte Formularfelder oder durch Cookies übertragen. Wenn ein Nutzer oder ein Bot durch einen Deep Link auf die Seite stößt, kann er keine gültige Session-ID vorweisen. Der Server leitet ihn dann auf die Verkehrslenkungsseite um. Diese Strategie verwendet beispielsweise eBay, um Deep Links auf Auktionslisten zu verhindern. Ein speziell programmierter Screen Scraper kann sich jedoch zunächst eine gültige Session-ID holen und dann die gewünschten Daten herunterladen.
+Das folgende Beispiel zeigt einen JavaScript-basierten Screen Scraper, der die von eBay benutzte Strategie umging. Es lud sich zunächst die Hauptseite herunter, extrahierte mit einem Regulären Ausdruck eine gültige URL (in diesem Fall die Liste der Auktionen, bei denen Disketten ersteigert werden) und öffnete diese im Browser.
+
+Neben der Zweckentfremdung von Session-IDs gibt es weitere Möglichkeiten, das Benutzerverhalten zu überprüfen:
+Kontrolle des Referrers zur Abwehr von Deep Links
+Kontrolle, ob in die Seite eingebettete Elemente (Grafiken etc.) zeitnah heruntergeladen werden
+Kontrolle, ob JavaScript-Elemente ausgeführt werden
+Alle diese Methoden beinhalten jedoch gewisse Problematiken, etwa weil Referrer-Angaben nicht zwingend sind, weil eingebettete Elemente möglicherweise von einem Proxy oder aus dem Cache geliefert werden oder weil der Anwender schlichtweg die Anzeige von Grafiken oder das Ausführen von JavaScript deaktiviert hat.
+
+
+=== Unterscheiden zwischen Mensch und Bot ===
+Der Server versucht vor dem Ausliefern der Daten zu erkennen, ob es sich beim Client um einen Menschen oder um einen Bot handelt. Eine häufig eingesetzte Methode dafür ist die Verwendung von CAPTCHAs. Dabei wird dem Client eine Aufgabe gestellt, für Menschen möglichst einfach, für eine Maschine jedoch sehr schwer lösbar ist. Dies kann eine Rechenaufgabe oder das Abtippen von Buchstaben sein, wobei oft die Schwierigkeit für die Maschine im Erkennen der Aufgabe liegt. Dies kann z. B. erreicht werden, indem die Rechenaufgabe nicht als Text, sondern als Bild übermittelt wird.
+Captchas werden für bestimmte Online-Dienste wie Foren, Wikis, Downloadseiten oder Online-Netzwerke eingesetzt etwa gegen automatisches Registrieren, automatisches Ausspähen von Profilen anderer Nutzer sowie automatische Downloads durch Bots. Mitunter muss ein Client erst nach einer bestimmten Anzahl von Aktionen ein Captcha lösen.
+Theoretisch lassen sich für alle Captchas auch Bots entwickeln, die diese Aufgaben auf Basis von Optical Character Recognition (Extraktion der Aufgabe aus einem Bild) lösen können, so dass dieser Schutz umgangen werden kann. Des Weiteren besteht die Möglichkeit, die Teilaufgabe an einen Menschen weiterzugeben, so dass dieser das Captcha für die Maschine löst. Beides bedeutet jedoch einen erheblichen Mehraufwand für den Botbetreiber.
+
+
+=== Verschleierung ===
+Die Informationen werden in für Maschinen nicht oder nur schwer lesbarer Form angeboten. Etwa als Grafik, in Flash-Animationen oder Java-Applets. Allerdings leidet hierunter häufig die Gebrauchstauglichkeit.
+Zur Verschleierung der Daten kann auch JavaScript zum Einsatz kommen. Diese Methode wird vor allem auch gegen E-Mail-Harvester eingesetzt, die E-Mail-Adressen zur Versendung von Spam sammeln. Die eigentlichen Daten werden nicht im HTML-Code übertragen, sondern werden erst durch JavaScript in die Webseite geschrieben. Die Daten können zusätzlich verschlüsselt übertragen und erst beim Anzeigen der Seite entschlüsselt werden. Mit Hilfe eines Obfuscators kann der Programmcode verschleiert werden, um die Entwicklung eines Screen Scrapers zu erschweren.
+Einfaches Beispiel zur Verschleierung einer E-Mail-Adresse mit JavaScript (ohne Verschlüsselung):
+
+
+== Erstellung von Screen Scrapern ==
+Je nach Komplexität der Aufgabe muss ein Screen Scraper neu programmiert werden. Mithilfe von Toolkits lassen sich Screen Scraper jedoch auch ohne Programmierkenntnisse erstellen. Für die Implementierungsform gibt es verschiedene Möglichkeiten, etwa als Bibliothek, als Proxy-Server oder als eigenständiges Programm.
+
+
+== Anwendungen ==
+Piggy Bank war eine vom Simile-Projekt am MIT entwickelte Erweiterung für Firefox. Mit ihr ließen sich Verknüpfungen von Diensten verschiedener Anbieter realisieren. Es erkannte automatisch auf einer Webseite angebotene RDF-Ressourcen. Diese konnten gespeichert, verwaltet und mit anderen Diensten (etwa geographische Informationen mit Google Maps) kombiniert werden. Piggy Bank wird nicht mehr angeboten. Als Ersatz bietet sich Selenium an, womit man einen Web-Browser wie Firefox programmatisch steuern kann.
+Eine weitere bekannte Firefox-Erweiterung ist Greasemonkey. Sie e

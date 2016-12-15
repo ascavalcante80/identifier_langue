@@ -1,0 +1,69 @@
+Prawa Keplera – trzy prawa astronomiczne opisujące ruch planet wokół Słońca odkryte przez Jana Keplera.
+
+
+== Historia odkryciaEdytuj ==
+
+Kepler w trakcie studiów teologii protestanckiej w Tybindze zapoznał się szczegółowo z teorią heliocentryczną Kopernika i odtąd stał się jej gorącym propagatorem. To, że udało mu się odkryć trajektorie planet, inne niż proponowane przez wszystkie dotychczasowe systemy kosmologiczne, zawdzięczał współpracy z Tychonem Brahe.
+Brahe przez wiele lat regularnie rejestrował położenia planet w ich ruchu po niebie, w szczególności dokonał wielkiej liczby dokładnych pomiarów położenia Marsa. Wysoką ich dokładność osiągnął, wyznaczając przestrzenne położenie punktów orbity Marsa na podstawie znajomości średnicy orbity Ziemi oraz kąta widzenia tych samych punktów orbity Marsa w odstępach roku marsjańskiego. Szczęśliwym zbiegiem okoliczności dla skuteczności tej metody był fakt, że orbita Ziemi jest niemal dokładnie okręgiem, a orbita Marsa jest elipsą o stosunkowo dużym mimośrodzie.
+Po śmierci Tychona Brahe w 1601 bogate wyniki jego pomiarów na mocy testamentu stały się własnością Keplera. Dysponując nimi Kepler mógł graficznie wyznaczyć orbitę Marsa względem różnych punktów orbity ziemskiej. Po wieloletnich wytrwałych obliczeniach doszedł do wniosku, że najwłaściwszą krzywą jest elipsa. Głębsza analiza umożliwiła mu precyzyjne określenie zmiennej prędkości orbitalnej planety w jej ruchu po elipsie. Rezultaty tych prac opublikował w roku 1609 w dziele Astronomia Nova ‪(…) („Nowa astronomia‪ (…))”.
+Obserwacje galileuszowych księżyców Jowisza, odkrytych w 1610 przez Galileusza, potwierdziły trafność pierwszych dwóch praw Keplera o ruchu planet. Ułatwiły też Keplerowi, po kilku kolejnych latach, sformułowanie III prawa, opublikowanego w roku 1619 w Harmonices Mundi („Harmonia świata”). Wnioski z obserwacji ruchów Marsa potwierdzono wkrótce także dla orbit innych planet.
+
+
+== Prawa KepleraEdytuj ==
+
+
+=== Pierwsze prawoEdytuj ===
+
+Elipsę można opisać na kilka sposobów, w astronomii najczęściej opisuje się elipsy podając ich wielką półoś () oraz mimośród (), który określa stopień spłaszczenia elipsy (im  bliższe zeru, tym elipsa bliższa jest okręgowi). Mimośród elipsy  jest równy stosunkowi długość odcinka  między środkiem a jednym z ognisk do długości wielkiej półosi:
+
+Mimośrody orbit planet w naszym układzie są w większości niewielkie. Poza Merkurym, dla którego mimośród przekracza nieco wartość 0,2, eliptyczności orbit pozostałych planet są poniżej 0,1. Na przykład mimośród elipsy orbity Ziemi wynosi 0,0167, co oznacza, że wielka oś elipsy orbity Ziemi jest dłuższa od krótkiej osi niewiele więcej niż 0,01% jej długości.
+
+
+=== Drugie prawoEdytuj ===
+
+Jest to równoznaczne ze stwierdzeniem, że prędkość polowa każdej planety jest stała. Opisuje to wyrażenie:
+
+Wynika stąd, że w peryhelium (w pobliżu Słońca) planeta porusza się szybciej niż w aphelium (daleko od Słońca), czyli planeta w ciągu takiego samego czasu przebywa dłuższą drogę (ΔS) w pobliżu peryhelium, niż w pobliżu aphelium.
+Na przykład dla orbity Ziemi (mimośród e = 0,01672) prędkość liniowa Ziemi w peryhelium wynosi 30,3 km/s, zaś w aphelium 29,3 km/s, dlatego lato (aphelium około 3 lipca) jest trochę dłuższe od zimy (peryhelium około 3 stycznia).
+
+
+=== Trzecie prawoEdytuj ===
+Można to zapisać wzorem:
+
+gdzie:
+,  – okresy obiegu dwóch planet,
+,  – wielkie półosie orbit tych planet.
+Z prawa tego wynika, że im większa orbita, tym dłuższy okres obiegu, oraz że prędkość liniowa na orbicie jest odwrotnie proporcjonalna do pierwiastka promienia orbity (dla orbity kołowej).
+
+
+== Czwarte „prawo” KepleraEdytuj ==
+
+W rzeczywistości Kepler sformułował cztery prawa opisujące parametry orbit planet, jednak według współczesnej metodologii naukowej tzw. czwarte prawo nie jest uznawane jako prawo natury, a jedynie jako przypadkowa zbieżność. Zostało ono odkryte najwcześniej ze wszystkich jego praw i opublikowane w roku 1596 książce Mysterium Cosmographicum (Tajemnica kosmograficzna).
+Tak zwane „czwarte prawo” wiąże ze sobą promienie orbit planet. Kepler odkrył tę zależność wpisując i opisując na poszczególnych wielościanach foremnych sfery o promieniach odpowiednio dobranych planet. Wcześniej nieskutecznie próbował tego używając okręgów wyznaczonych przez orbity planet i wielokątów. Promienie orbit, które Kepler dopasowywał, były wyznaczone przy użyciu ówczesnych metod i dlatego nie były zbyt dokładne.
+Ustawiając na przemian sfery i wielościany Kepler zauważył, że:
+ośmiościan foremny opisany na sferze Merkurego jest wpisany w sferę Wenus.
+dwudziestościan foremny opisany na sferze Wenus jest wpisany w sferę Ziemi;
+dwunastościan foremny opisany na sferze Ziemi jest wpisany w sferę Marsa,
+czworościan foremny opisany na sferze Marsa jest wpisany w sferę Jowisza
+sześcian opisany na sferze Jowisza jest wpisany w sferę Saturna.
+Szczęśliwym zbiegiem okoliczności było też to, że w czasach Keplera ostatnią znaną planetą był właśnie Saturn. Podobna zależność została również opisana jako Reguła Titiusa-Bodego.
+
+
+== Znaczenie praw KepleraEdytuj ==
+Odkrycie Keplera, że zarówno planety w Układzie Słonecznym jak i księżyce w układzie Jowisza krążą wokół ciała centralnego po orbitach eliptycznych, było mocnym potwierdzeniem teorii heliocentrycznej Kopernika dając zarazem niespotykaną dotąd zgodność obliczeń z obserwacjami. Było także definitywnym zerwaniem z pitagorejskim kanonem, zgodnie z którym prostota i elegancja opisu ruchu polegała na jego „rozłożeniu” na ruchy jednostajne po okręgu. Jeszcze w starożytności ideę tę podjął Platon, a twórczo i matematycznie opracował ją Eudoksos. I od niego we wszystkich późniejszych modelach kosmologicznych pojawiały się koncentryczne sfery „działające” i „neutralizujące”, ekscentryczne koła, deferenty, epicykle i ekwanty. Towarzyszyły one wszystkim astronomom od Hipparcha poprzez Ptolemeusza na Koperniku skończywszy. Odkrycie Keplera odrzuciło ten pitagorejsko-platoński kanon - elipsy okazały się równie pięknym i z pewnością prostszym pojęciem systemu kosmologicznego.
+Te wydedukowane z danych empirycznych prawa były w gruncie rzeczy prawami czysto geometrycznymi. Pojawiające się wzmianki dotyczące masy, siły i bezwładności (szczególnie w pracach Galileusza) zupełnie nie znalazły odzwierciedlenia w prawach Keplera. Z punktu widzenia dzisiejszej fizyki jest to opis ruchu w języku kinematyki, brak w nich zupełnie pojęć dynamiki. On sam pisząc „Astronomia nova” był przekonany, że tym co wywołuje orbitalny ruch planet jest „duch planety”, choć i u niego ten pogląd ewoluował – z biegiem lat zauważywszy ścisłą zależność prędkości liniowej planety na orbicie od jej średnicy doszedł do wniosku, że przyczyna ruchu ma jednak podłoże fizyczne. Nawet w takim poglądzie widać pokłosie błędnej arystotelesowskiej fizyki, choć u Keplera nowatorskie niewątpliwie było mówienie o „podłożu fizycznym” w ruchach ciał niebieskich.
+Mimo to znaczenie praw Keplera dla dalszego rozwoju fizyki trudno przecenić – były one inspiracją i podstawą rozważań dla Newtona szukającego uniwersalnego prawa rządzącego ruchami ciał na powierzchni Ziemi jak i w kosmosie. W roku 1687 Newton korzystając z wprowadzonych przez siebie trzech zasad dynamiki wyprowadził z trzech praw Keplera wzór na siłę przyciągającą dwa ciała formułując tym samym nowe prawo powszechnego ciążenia. Walnie przyczyniły się więc do rozwoju mechaniki klasycznej.
+Dzisiaj, po czterech wiekach, zmieniło się podejście do praw Keplera. R. Penrose pisze: „Obecnie jednak nieco inaczej traktujemy ruchy Keplera i uważamy, że są one jedynie konsekwencją siedemnastowiecznych praw dynamiki grawitacyjnej, sformułowanych po raz pierwszy przez Newtona (…); nie traktujemy zatem praw Keplera jako fundamentalnych praw Przyrody”. Z praw uwiarygodniających wzór na ciążenie powszechne Newtona stały się jedynie jego piękną i sugestywną ilustracją. Tak też są one przedstawiane w wielu współczesnych źródłach (np. podręcznikach akademickich), gdzie wyprowadza się je z praw mechaniki klasycznej.
+
+
+== Współczesne ujęcieEdytuj ==
+Z praw mechaniki Newtona wynika, że trzy prawa Keplera poprawnie opisują ruch planety w układzie związanym ze Słońcem. Dokładniej: prawa Keplera mówią o układzie dwóch ciał obdarzonych masą, z których jedno ma masę zaniedbywalnie małą w porównaniu z masą drugiego. W przypadku dwóch ciał o porównywalnych masach układ odniesienia nie jest związany z żadnym z nich, tzn. żadne z nich nie jest ciałem centralnym. Prawa Keplera zupełnie zawodzą dla układu trzech i więcej ciał.
+Podstawowymi pojęciami, w których współcześnie wyraża się te prawa to m.in. masa, energia, siła, moment pędu.
+
+
+=== Pierwsze prawo KepleraEdytuj ===
+Każde z dwóch ciał porusza się po krzywej stożkowej, w ognisku której znajduje się środek masy całego układu. Ze środkiem tym jest związany inercjalny układ odniesienia, co wynika z zasady zachowania pędu i właśnie w tym układzie krzywa ma kształt pewnej stożkowej.
+W szczególnie ważnym przypadku, gdy m<<M, jeden z parametrów stożkowej można wyznaczyć z zależności:
+
+gdzie
+ jest wielką półosią stożkowej (dla paraboli jest to , dla hiperboli jest to połowa odległości między wierzchołkam

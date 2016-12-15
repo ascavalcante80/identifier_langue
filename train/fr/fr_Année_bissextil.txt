@@ -1,0 +1,29 @@
+Une année bissextile est une année comptant 366 jours au lieu de 365, c'est-à-dire une année comprenant un 29 février (la prochaine aura lieu en 2016). Le terme vient du latin bis-sextilis, qui signifie « deux fois (bis) sixième (sextus) », soit deux fois « le sixième jour avant les calendes de mars » dans le calendrier des Romains. L'objectif est d'aligner au mieux les indications du calendrier avec la durée réelle de l'année tropique qui définit les saisons. Celle-ci durant 365,242199 jours, et non pas exactement 365 jours, on est amené à introduire périodiquement un jour supplémentaire dans le calendrier de sorte qu'en moyenne la durée du calendrier se rapproche de l'année tropique.
+
+
+== Règle actuelleModifier ==
+Depuis l'ajustement du calendrier grégorien, l'année sera bissextile :
+Si l'année est divisible par 4 et non divisible par 100, c'est une année bissextile (elle a 366 jours).
+Si l'année est divisible par 400, c'est une année bissextile (elle a 366 jours).
+Sinon, l'année n'est pas bissextile (elle a 365 jours).
+Ainsi, 2015 n'est pas bissextile. L'an 2008 était bissextile suivant la première règle (divisible par 4). L'an 1900 n'était pas bissextile, car divisible par 100 mais non divisible par 400. L'an 2000 était bissextile car divisible par 400.
+Le calendrier julien, qui avait cours avant le calendrier actuel, ne distinguait pas les fins de siècles (années divisibles par 100). Une année était bissextile tous les 4 ans, sans autre exception. Le calendrier julien avait ainsi une année moyenne de 365,25 jours, au lieu des 365,2422 jours nécessaires au cycle terrestre. Ce qui a engendré l'accumulation d'une dizaine de jours de retard en quinze siècles.
+L'instauration du calendrier grégorien a permis d'une part de rattraper le retard en supprimant des jours, et d'autre part de ralentir le rythme en supprimant 3 années bissextiles tous les 400 ans. Ce calendrier grégorien offre selon les règles énoncées une année moyenne de 365,2425 jours, ce qui est encore un peu trop long, mais n'engendre qu'une avance de 3 jours en 10 000 ans.
+
+
+== Histoire des années bissextilesModifier ==
+
+
+=== Les mois intercalaires de l'année de NumaModifier ===
+L'habitude d'ajouter une journée intercalaire afin de rattraper le retard pris par l'année civile sur l'année solaire remonte aux Romains. Ceux-ci, avant le calendrier julien, utilisaient l'année dite « de Numa » de 355 jours, soit douze mois lunaires. Le retard avec le calendrier solaire était compensé par des mois intercalaires d'une durée variable fixée par le grand pontife. Ce système s'était cependant déréglé au moment des guerres civiles.
+
+
+=== Le jour intercalaire de Jules CésarModifier ===
+En 45, avant l'ère chrétienne, Jules César, alors dictateur (au sens latin du terme) et grand pontife de la République romaine, fit appel à l'astronome grec Sosigène d'Alexandrie, afin de régler le décalage trop important que l'on constatait entre les années solaires et civiles depuis les guerres civiles. Sosigène d'Alexandrie n'eut qu'à puiser dans le calendrier égyptien et se remémorer le décret de Canope pour proposer une solution. Ainsi, Jules César fixa notre année de 365 jours, plus une journée intercalaire tous les quatre ans (il faudra attendre le calendrier grégorien afin que le système se précise davantage).
+Ce jour "additionnel" se plaçait juste avant le 24 février. Il s'agissait donc d'un « 23 février bis ». On nommait le 24 février a. d. VI Kal. Mart., soit ante diem sextum Kalendas Martias, ce qui signifie « le sixième jour avant les calendes de mars » (les Romains comptaient les jours à rebours, bornes incluses, à partir de trois dates de référence présentes dans chaque mois, à savoir les calendes, le 1er du mois, les ides, le 13 ou le 15 selon les mois, et les nones, neuf jours bornes incluses avant les ides, comme leur nom l'indique, c'est-à-dire le 5 ou le 7) ; le « 23 février bis » se disait donc tout naturellement a. d. bis VI Kal. Mart., soit ante diem bis sextum Kalendas Martias : « le sixième jour bis avant les calendes (le premier jour) de mars ». Une année bissextile comprend deux fois le sixième jour avant le premier mars ; « deux fois [le] sixième » se dit bis sextus en latin ; par l'ajout du suffixe -ilis, est dérivé l'adjectif bissextilis, d'où « bissextile » en français.
+Plus tard, le jour intercalaire fut positionné le 29 du mois de février, à partir du moment où la méthode latine de décompte des jours fut remplacée par celle que nous employons toujours aujourd'hui.
+
+
+== 29 févrierModifier ==
+Les personnes étant nées un 29 février fêtent habituellement leur anniversaire le 28 février les années non bissextiles comme 2011 ou 2013. Dans certains pays, par exemple à Taïwan, une personne née un 29 février l'est légalement le 28. Par exemple, une personne née le 29 février 1980 aurait eu 18 ans le 28 février 1998.
+Depuis 1980 en France, un petit groupe de personnes édite un journal qui paraît seulement les 29 février, appelé La Bo

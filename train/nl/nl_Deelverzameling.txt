@@ -1,0 +1,28 @@
+In de verzamelingenleer is een deelverzameling van een gegeven verzameling een verzameling die geheel bevat is in (deel is van) de gegeven verzameling. Alle elementen van de deelverzameling zijn dus ook element van de gegeven verzameling. Als A en B verzamelingen zijn en ieder element van A is ook een element van B, dan is A een deelverzameling van B, genoteerd als:
+.
+Formeel:
+.
+Iedere verzameling is een deelverzameling van zichzelf, voor iedere verzameling A geldt dus .
+De omgekeerde definitie is minder gebruikelijk. Uitgaande van dezelfde verzamelingen A en B zeggen we: B omvat A, genoteerd als .
+
+
+== Strikte deelverzameling ==
+Een deelverzameling van B die niet gelijk is aan B wordt een echte, strikte of eigenlijke deelverzameling genoemd. Formeel:
+ (waarin A een strikte deelverzameling is van B)
+
+
+== Verschillende schrijfwijzen ==
+Als A een echte deelverzameling is van B, dan wordt dat door sommige auteurs genoteerd als:
+.
+Andere auteurs noteren  als  een willekeurige deelverzameling van  is, dus eventueel .
+Er zijn dus twee notatiesystemen in omloop voor het aangeven van (echte) deelverzamelingen:
+Het oudste systeem gebruikt het symbool  om elke deelverzameling aan te geven en kent het symbool  niet.
+Een nieuwer systeem gebruikt het symbool  voor een willekeurige deelverzameling en  voor een echte deelverzameling.
+
+
+== Voorbeelden ==
+{1,2} ⊂ {1,2,3} - De verzameling {1,2} is een echte deelverzameling van {1,2,3}.
+De verzameling van natuurlijke getallen is een echte deelverzameling van de verzameling van de rationale getallen.
+De verzameling {x : x is een priemgetal groter dan 2000} is een echte deelverzameling van {x : x is een oneven getal groter dan 1000}
+Elke verzameling is een deelverzameling van zichzelf, maar geen echte deelverzameling.
+De lege verzameling, ge

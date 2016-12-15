@@ -1,0 +1,9 @@
+O volt, ou vóltio (símbolo: V), é a unidade de tensão elétrica (diferença de potencial elétrico) do Sistema Internacional de Unidades
+O Volt é o potencial de transmissão de energia, em Joules, por carga elétrica, em Coulombs, entre dois pontos distintos no espaço. Dizer que a tensão existente entre dois pontos corresponde a um volt, é o mesmo que dizer que cada carga de um Coulomb que se movimenta entre tais pontos, transmite um Joule de energia.
+O nome 'volt' é uma homenagem a Alessandro Volta, que desenvolveu a pilha voltaica, precursora da bateria elétrica.
+Utiliza-se a seguinte fórmula para calcular a tensão:
+Outra relação importante é a que relaciona a potência com a tensão elétrica e a corrente elétrica:
+Assim, temos que 1 watt corresponde ao produto de 1 volt por 1 ampère.
+
+
+== Ordem de grand

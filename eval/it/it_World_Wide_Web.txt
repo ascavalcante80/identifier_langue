@@ -1,0 +1,46 @@
+ione al problema è venuta dal W3C di Berners-Lee, attraverso la formalizzazione del web semantico. Il W3C considera l'ideale evoluzione del web dal machine-representable al machine-understandable. L'idea è di generare documenti che possano non solo essere letti e apprezzati da esseri umani, ma anche accessibili e interpretabili da agenti automatici per la ricerca di contenuti.
+A tale scopo sono stati definiti alcuni linguaggi, quali Resource Description Framework (RDF) e Web Ontology Language (OWL), entrambi basati su XML, che consentono di esprimere le relazioni tra le informazioni rifacendosi alla logica dei predicati mutuata dall'intelligenza artificiale. Questi standard sono già disponibili, ma continuano ad essere ulteriormente sviluppati insieme a formalismi e strumenti per dotare il web di capacità di inferenza.
+Quello appena esposto è un processo solo apparentemente tecnico, ma ben visibile nella sua portata, che ha come obiettivo l'approdo all'intelligenza condivisa del web che promette, a breve, l'uso più efficiente dei siti internet e, a più lungo termine, una autentica trasformazione nella natura del software e dei servizi.
+Tanto interesse per queste tecnologie è da ravvisare nel fatto che tutti (utenti, produttori di software e di servizi piccoli e grandi) hanno da avvantaggiarsi dalla diffusione piena di questi standard. La formazione nel corpo del web di una vasta rete "semantica" è, infatti, la condizione chiave per il decollo di un nuovo modo di intendere ed usare il web.
+
+
+== Note ==
+^ L'enciclopedia universale libera e le risorse per l'apprendimento, Richard Stallman.
+^ Primo sito web della storia (inizialmente l'indirizzo web era diverso). È stato messo on-line il 6 agosto 1991 da Tim Berners-Lee.
+^ Ovviamente sono necessarie opportune risorse (un computer, opportuni software, un accesso a Internet, ecc.) e conoscenze. Se i contenuti da pubblicare sul Web non sono troppo complessi le risorse e conoscenze necessarie sono comunque di esigua entità. Ad esempio, già dotandosi di un comune personal computer attualmente disponibile in commercio e sottoscrivendo un servizio di accesso a Internet con uno dei più popolari Internet service provider, si ha a disposizione tutto il necessario per poter pubblicare sul Web contenuti non troppo complessi. I più popolari Internet service provider offrono infatti la possibilità di pubblicare sul Web contenuti non troppo complessi attraverso il Web stesso senza la necessità di conoscere il linguaggio di markup del Web. Lo stesso vale anche per i blog, molti sono infatti i siti web che offrono gratuitamente la possibilità di creare un blog in modo semplice e immediato attraverso il Web stesso. In caso invece di contenuti più complessi è necessario dotarsi anche di un editor web 'WYSIWYG se si vuole evitare, o almeno semplificare, l'apprendimento del linguaggio di markup del Web.
+^ Gli utenti di Internet nel 2008 hanno superato il miliardo e cinquecento milioni, quasi un quarto della popolazione mondiale (fonte: Internet: 2,2 miliardi di utenti nel 2013. Asia e Cina guideranno la crescita mentre l’Italia risulta ancora tra i Paesi poco connessi).
+^ Short summary of the World Wide Web project, Google, 6 agosto 1991. URL consultato l'11 febbraio 2015.
+^ Il sito è attualmente on line grazie ad un lavoro di restauro della pagina e dell'indirizzo originari, cfr. Cor.Com
+^ HTML 4.01 Specification.
+^ [1].
+
+
+== Bibliografia ==
+Vannevar Bush, As We May Think, The Atlantic Monthly July 1945.
+James Gillies, Com'è nato il web, Milano, Baldini & Castoldi, 2002.
+Tim Berners-Lee, Mark Fischetti, L'architettura del nuovo Web, Milano, Feltrinelli, 1999.
+
+
+== Voci correlate ==
+Web mobile
+Rete a invarianza di scala
+W3C
+Web semantico
+Web Service
+Social media
+WWW2
+Applicazione web
+
+
+== Altri progetti ==
+ Wikinotizie contiene l'articolo Ecco i quindici siti web che hanno cambiato il mondo
+
+ Wikiquote contiene citazioni sul World Wide Web
+ Wikinotizie contiene notizie di attualità su World Wide Web
+ Wikimedia Commons contiene immagini o altri file su World Wide Web
+
+
+== Collegamenti esterni ==
+Sito ufficiale del W3C
+Sito ufficiale del CERN
+World Wide Web, in Tesauro del Nuovo soggettario, BNCF, marzo 2013.

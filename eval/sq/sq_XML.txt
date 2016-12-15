@@ -1,0 +1,2 @@
+dispozicion për të krijuar një standard të tillë. Dy më të zakonshme janë Dokumentet Lloji Përkufizimet (DTDS) dhe Schemas.
+Një skemë është shkruar si një dokument i mirë-formuar XML, kështu që mund edhe të përfaqësohen si një pemë. DTDs përdorin një format që nuk përkthehet në një pemë. DTDs do të paraqiten shkurtimisht këtu sepse ata janë më të lehta për të përshkruar dhe për shkak se ato sigurojnë një zbatim të rregullt të ngjashme simbol shprehjes.

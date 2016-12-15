@@ -1,0 +1,17 @@
+dnych, otrzymuje się:
+
+Odkształcenie objętościowe : ,
+gdzie: gij - kontrawariantny tensor metryczny lub w notacji tensorowej: 
+
+
+== Przypadek dużych odkształceńEdytuj ==
+Powyższe rozważania dotyczą tzw. przypadku małych odkształceń. Jest dyskusyjnym, co można nazywać małymi odkształceniami. Nie ma tu konkretnych rozgraniczeń, należy być jednak świadomym rosnących błędów wraz ze wzrostem odkształceń.
+Dla dużych odkształceń tensor odkształcenia można opisać jako:
+
+gdzie: gij - tensor metryczny układu współrzędnych związanego z ciałem odkształconym, gij(0) - tensor metryczny układu współrzędnych związanego z ciałem nieodkształconym
+
+
+== Zobacz teżEdytuj ==
+Odkształcenie sprężyste
+Reologia
+Pełzanie

@@ -1,0 +1,113 @@
+A work breakdown structure (WBS), in project management and systems engineering, is a deliverable-oriented decomposition of a project into smaller components. A work breakdown structure is a key project deliverable that organizes the team's work into manageable sections. The Project Management Body of Knowledge (PMBOK) defines the work breakdown structure as a "deliverable oriented hierarchical decomposition of the work to be executed by the project team."
+A work breakdown structure element may be a product, data, service, or any combination thereof. A WBS also provides the necessary framework for detailed cost estimating and control along with providing guidance for schedule development and control.
+
+
+== Overview ==
+WBS is a hierarchical and incremental decomposition of the project into phases, deliverables and work packages. It is a tree structure, which shows a subdivision of effort required to achieve an objective; for example a program, project, and contract. In a project or contract, the WBS is developed by starting with the end objective and successively subdividing it into manageable components in terms of size, duration, and responsibility (e.g., systems, subsystems, components, tasks, subtasks, and work packages) which include all steps necessary to achieve the objective.
+
+The work breakdown structure provides a common framework for the natural development of the overall planning and control of a contract and is the basis for dividing work into definable increments from which the statement of work can be developed and technical, schedule, cost, and labor hour reporting can be established.
+A work breakdown structure permits summing of subordinate costs for tasks, materials, etc., into their successively higher level "parent" tasks, materials, etc. For each element of the work breakdown structure, a description of the task to be performed is generated. This technique (sometimes called a system breakdown structure ) is used to define and organize the total scope of a project.
+The WBS is organized around the primary products of the project (or planned outcomes) instead of the work needed to produce the products (planned actions). Since the planned outcomes are the desired ends of the project, they form a relatively stable set of categories in which the costs of the planned actions needed to achieve them can be collected. A well-designed WBS makes it easy to assign each project activity to one and only one terminal element of the WBS. In addition to its function in cost accounting, the WBS also helps map requirements from one level of system specification to another, for example a requirements cross reference matrix mapping functional requirements to high level or low level design documents.
+The development of the WBS normally occurs at the start of a project and precedes detailed project and task planning.
+
+
+== History ==
+The concept of work breakdown structure developed with the Program Evaluation and Review Technique (PERT) by the United States Department of Defense (DoD). PERT was introduced by the U.S. Navy in 1957 to support the development of its Polaris missile program. While the term "work breakdown structure" was not used, this first implementation of PERT did organize the tasks into product-oriented categories.
+By June 1962, DoD, NASA and the aerospace industry published a document for the PERT/COST system which described the WBS approach. This guide was endorsed by the Secretary of Defense for adoption by all services. In 1968, the DoD issued "Work Breakdown Structures for Defense Materiel Items" (MIL-STD-881), a military standard requiring the use of work breakdown structures across the DoD.
+The document has been revised several times, most recently in 2011. The current version of this document can be found in "Work Breakdown Structures for Defense Materiel Items" (MIL-STD-881C). It includes WBS definitions for specific defense materiel commodity systems, and addresses WBS elements that are common to all systems.
+
+Defense Materiel Item categories from MIL-STD-881C are:
+Aircraft Systems WBS
+Electronic Systems WBS
+Missile Systems WBS
+Ordnance Systems WBS
+Sea Systems WBS
+Space Systems WBS
+Surface Vehicle Systems WBS
+Unmanned Air Vehicle Systems WBS
+Unmanned Maritime Systems WBS
+Launch Vehicle Systems WBS
+Automated Information Systems WBS
+The common elements identified in MIL-STD-881C, Appendix L are: Integration, assembly, test, and checkout; Systems engineering; Program management; System test and evaluation; Training; Data; Peculiar support equipment; Common support equipment; Operational/Site activation; Industrial facilities; Initial spares and repair parts. The standard also includes additional common elements unique to Space Systems, Launch Vehicle Systems and Automated Information Systems.
+In 1987, the Project Management Institute (PMI) documented the expansion of these techniques across non-defense organizations. The Project Management Body of Knowledge (PMBOK) Guide provides an overview of the WBS concept, while the "Practice Standard for Work Breakdown Structures" is comparable to the DoD handbook, but is intended for more general application.
+
+
+== Design principles ==
+
+
+=== 100% rule ===
+An important design principle for work breakdown structures is called the 100% rule. It has been defined as follows:
+The 100% rule states that the WBS includes 100% of the work defined by the project scope and captures all deliverables – internal, external, interim – in terms of the work to be completed, including project management. The 100% rule is one of the most important principles guiding the development, decomposition and evaluation of the WBS. The rule applies at all levels within the hierarchy: the sum of the work at the "child" level must equal 100% of the work represented by the "parent" and the WBS should not include any work that falls outside the actual scope of the project, that is, it cannot include more than 100% of the work… It is important to remember that the 100% rule also applies to the activity level. The work represented by the activities in each work package must add up to 100% of the work necessary to complete the work package.
+
+
+==== Mutually exclusive elements ====
+Mutually exclusive: In addition to the 100% rule, it is important that there is no overlap in scope definition between different elements of a work breakdown structure. This ambiguity could result in duplicated work or miscommunications about responsibility and authority. Such overlap could also cause confusion regarding project cost accounting. If the WBS element names are ambiguous, a WBS dictionary can help clarify the distinctions between WBS elements. The WBS Dictionary describes each component of the WBS with milestones, deliverables, activities, scope, and sometimes dates, resources, costs, quality.
+
+
+=== Plan outcomes, not actions ===
+If the work breakdown structure designer attempts to capture any action-oriented details in the WBS, s/he will likely include either too many actions or too few actions. Too many actions will exceed 100% of the parent's scope and too few will fall short of 100% of the parent's scope. The best way to adhere to the 100% rule is to define WBS elements in terms of outcomes or results, not actions. This also ensures that the WBS is not overly prescriptive of methods, allowing for greater ingenuity and creative thinking on the part of the project participants. For new product development projects, the most common technique to ensure an outcome-oriented WBS is to use a product breakdown structure. Feature-driven software projects may use a similar technique which is to employ a feature breakdown structure. When a project provides professional services, a common technique is to capture all planned deliverables to create a deliverable-oriented WBS. Work breakdown structures that subdivide work by project phases (e.g. preliminary design phase, critical design phase) must ensure that phases are clearly separated by a deliverable also used in defining entry and exit criteria (e.g. an approved preliminary or critical design review).
+
+
+=== Level of detail ===
+One must decide when to stop dividing work into smaller elements. This will assist in determining the duration of activities necessary to produce a deliverable defined by the WBS. There are several heuristics or "rules of thumb" used when determining the appropriate duration of an activity or group of activities necessary to produce a specific deliverable defined by the WBS.
+The first is the "80 hour rule" which means that no single activity or group of activities at the lowest level of detail of the WBS to produce a single deliverable should be more than 80 hours of effort.
+The second rule of thumb is that no activity or group of activities at the lowest level of detail of the WBS should be longer than a single reporting period. Thus if the project team is reporting progress monthly, then no single activity or series of activities should be longer than one month long.
+The last heuristic is the "if it makes sense" rule. Applying this rule of thumb, one can apply "common sense" when creating the duration of a single activity or group of activities necessary to produce a deliverable defined by the WBS.
+A work package at the activity level is a task that:
+can be realistically and confidently estimated;
+makes no sense practically to break down any further;
+can be completed in accordance with one of the heuristics defined above;
+produces a deliverable which is measurable; and
+forms a unique package of work which can be outsourced or contracted out.
+
+
+=== Coding scheme ===
+It is common for work breakdown structure elements to be numbered sequentially to reveal the hierarchical structure. The purpose for the numbering is to provide a consistent approach to identifying and managing the WBS across like systems regardless of vendor or service. For example, 1.1.2 Propulsion (in the example below) identifies this item as a Level 3 WBS element, since there are three numbers separated by a decimal point. A coding scheme also helps WBS elements to be recognized in any written context.
+A practical example of the WBS coding scheme is
+1.0 Aircraft System
+1.1 Air Vehicle
+1.1.1 Airframe
+1.1.1.1 Airframe Integration, Assembly, Test and Checkout
+1.1.1.2 Fuselage
+1.1.1.3 Wing
+1.1.1.4 Empennage
+1.1.1.5 Nacelle
+1.1.1.6 Other Airframe Components 1..n (Specify)
+
+1.1.2 Propulsion
+1.1.3 Vehicle Subsystems
+1.1.4 Avionics
+
+1.2 System Engineering
+1.3 Program Management
+1.4 System Test and Evaluation
+1.5 Training
+1.6 Data
+1.7 Peculiar Support Equipment
+1.8 Common Support Equipment
+1.9 Operational/Site Activation
+1.10 Industrial Facilities
+1.11 Initial Spares and Repair Parts
+An example in the software industry would be as follows:
+1267.1 Systems Integration
+
+1267.1.1 Requirements Definition
+1267.1.2 Regulations
+1267.1.3 Scheduling
+1267.1.4 Monitoring & Control
+1267.1.5 Procurement Management
+1267.1.6 Closeout
+
+1267.2 Design
+
+1267.2.1 Conceptual Design
+1267.2.2 Preliminary Design
+1267.2.3 Final Design
+
+
+=== Terminal element ===
+The lowest elements in a tree structure, a terminal element is one that is not further subdivided. In a Work Breakdown Structure such (activity or deliverable) elements are the items that are estimated in terms of resource requirements, budget and duration; linked by dependencies; and scheduled. At the juncture of the WBS element and organization unit, control accounts and work packages are established and performance is planned, measured, recorded and controlled. A WBS can be expressed down to any level of interest. Three levels are the minimum recommended, with additional levels for and only for items of high cost or high risk, and two levels of detail at cases such as systems engineering or program management, with the standard showing examples of WBS with varying depth such as software development at points going to 5 levels or fire-control system to 7 levels.
+
+
+=== Consistent to Norms ===
+The higher WBS structure should be consistent to whatever norms or template mandates exist within the organization or domain. For example, shipbuilding for the U.S. Navy must respect that the nautical terms and their hierarchy structure put into MIL-STD are embedded in Naval Architecture  and that matching Navy

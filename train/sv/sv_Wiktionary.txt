@@ -1,0 +1,54 @@
+Wiktionary (ett teleskopord av orden wiki och dictionary) är ett flerspråkigt webbaserat projekt vars syfte är att skapa en fri ordbok. Projektet finns på över 170 olika språk. Till skillnad från traditionella ordböcker är Wiktionary kollektivt skriven av volontärer, som kallas "Wiktionarianer". Ordboken använder sig av wikiprogramvara, som tillåter besökare och användare att redigera nästan alla artiklar. Projektets slogan är den fria ordboken. Wiktionary använder även samma wikimotor, MediaWiki, som alla andra Wikimediaprojekt.
+Wiktionary är ett av Wikimedia Foundations projekt, och därmed ett systerprojekt till denna encyklopedi. De flesta upplagorna av Wiktionary innehåller definitioner och översättningar på ett hundratal språk, och vissa uppslagsord innehåller dessutom ytterligare information som kan återfinnas i synonymordböcker eller lexikon. Bredden av tillgängligt innehåll på Wiktionary kan förklaras av att projektet inte är tekniskt begränsat till en viss mängd information, och därmed saknar Wiktionary begränsningar för hur mycket innehåll som får plats för ett visst uppslag.
+Projektets mål är att skapa en fri mångspråkig ordlista på alla språk genom frivilliga bidrag från dess läsare.
+
+
+== Historia och utveckling ==
+
+
+=== Början ===
+Den första versionen av Wiktionary — den engelskspråkiga — startades den 12 december 2002, efter ett förslag av Daniel Alston. De polska och franska versionerna — de första icke-engelska upplagorna — följde därnäst den 29 mars 2004. Runt samma period startades ytterligare ett stort antal språkupplagor, däribland den svenskspråkiga som fick sina första artiklar den 2 maj.
+Fram till den 1 maj samma år återfanns Wiktionary på en tillfällig webbadress (wiktionary.wikipedia.org), som sedan bytte till den nuvarande fullständiga webbadressen (wiktionary.org).
+
+
+=== Upplagor ===
+
+Sedan maj 2009 har samtliga språkversioner av Wiktionary betydligt fler än 5 miljoner uppslag över dess 272 språkupplagor. För närvarande (maj 2010) är den franskspråkiga upplagan störst, med över 1 750 000 uppslag. Den är tätt följd av den engelskspråkiga, med sina 1 720 000 uppslag. Den engelskspråkiga upplagan har under ett flertal tillfällen passerat den franska versionen alltsedan den för första gången blev övertagen i början av 2006. Den tredje största Wiktionaryupplagan, den litauiska, har knappt en tredjedel av antalet uppslag som ovanstående upplagor. Arton upplagor har nu fler än 100 000 uppslag, där den svenska versionen är den 18:e största, och därmed den minsta sexsiffriga upplagan.
+Vissa upplagor av Wiktionary har också ett sidoprojekt som kallas Wikisaurus ("den fria tesaurusen").
+
+
+=== Mjukvara och hårdvara ===
+
+Wiktionary använder sig av den fria wikiprogramvaran MediaWiki, som är licensierad under GPL. Serverklustren finns i Florida och på tre andra platser i världen.
+
+
+== Om projektet ==
+
+
+=== Mål ===
+Wiktionarys mål är enormt: att på varje språk definiera alla ord ur alla språk. Till detta mål är det ännu (2006) långt kvar; den franska versionen—som för närvarande är den största—hade i maj 2006 drygt 175 000 sidor. Hur många ord detta motsvarar är svårt att uppskatta, då många sidor innehåller definitioner på flera olika ord från olika språk. Vid samma tillfälle hade den svenska wiktionaryn (som var en av de 15 största) dryga 9 000 sidor.
+Wiktionarys mål omfattar också behandlingen av slang, förkortningar, olika dialekter liksom vardagligt språk. Även ordspråk, talesätt och idiom ingår i projektet. Dessutom förekommer ämnesspecifika appendix som behandlar ett visst tema, som exempelvis grundämnen eller veckodagar.
+För närvarande, sedan maj 2010, har svenskspråkiga Wiktionary drygt 103 000 stavningssidor. Klagen (klaga på tyska) blev det 100 000:e uppslaget.
+
+
+=== Gemenskap ===
+Wiktionary är, liksom Wikipedia, ett community, eller en slags nätgemenskap. Diskussioner förs antingen direkt på respektive uppslagsord och projekt, eller på samlingsplatserna Bybrunnen, Fikarummet och Teknikvinden.
+
+
+=== Popularitet ===
+Wiktionary är det näst största svenskspråkiga wikiprojektet, sett till antalet besökare, användare och sidor. Wiktionary, världens 880:e mest besökta sida, har cirka 100 gånger färre besökare än systerprojektet Wikipedia, världens sjätte mest besökta webbsida.
+Wiktionary omnämns stundvis i media, dock inte lika ofta som Wikipedia.[källa behövs]
+
+
+== OmegaWiki (WiktionaryZ) ==
+Huvudartiklar: OmegaWiki (på Meta-Wiki|på engelskspråkiga Wikiversity) (engelska)
+Under hösten 2004 till början av 2005 fördes ett förslag fram om att samtliga wiktionarier skulle samlas i en enda databas som till sin uppbyggnad är bättre avpassad för den högre grad av struktur som förekommer i en ordlista eller ordbok än i en encyklopedi, vilket var det ursprungliga användningsområdet för den databas och den mjukvara som "ärvdes" från Wikipedia. Eftersom detta skulle ställa så pass nya och annorlunda krav på mjukvaran så sökte man, och fick, ett stipendium för att avlöna en programmerare som skulle implementera en utvidgning av MediaWiki-mjukvaran — kallad Wikidata. Det nya ordliste-projektet fick arbetsnamnet "Ultimate Wiktionary", medan det namn som antogs när den första prototypen av mjukvaran togs i drift i slutet av april 2006 blev WiktionaryZ, vilket dock senare ändrades till OmegaWiki. Bland annat ska OmegaWiki vara noggrannare med att få med alla språk, det ska finnas stöd för teckenspråk, det ska finnas större möjligheter att ange relationer mellan olika ord.
+
+
+== Referenser ==
+^ [a b] ”Välkommen till Wiktionary”. Wikimedia Foundation. http://sv.wiktionary.org/wiki/Wiktionary:Huvudsida. Läst 15 april 2010. 
+^ [a b c] ”Wiktionary på Meta-Wiki” (på engelska). Wikimedia Foundation. http://meta.wikimedia.org/wiki/Wiktionary. Läst 15 april 2010. 
+^ [a b c d] ”Om Wiktionary”. Wikimedia Foundation. http://sv.wiktionary.org/wiki/Wiktionary:Om. Läst 15 april 2010. 
+^ ”Definition of wiktionarian” (på engelska). Allsites LLC. http://www.allwords.com/word-wiktionarian.html. Läst 15 april 2010. 
+^ ”Hur fungerar MediaWiki?”. Wikimedia Foundation. http://www.mediawiki.org/wiki/How_does_MediaWiki_work%3F/sv. Läst 16 april 2010. 
+^

@@ -1,0 +1,14 @@
+entences, and phrases into ancient Assyrian, Babylonian, Sumerian cuneiform
+Editores
+The Emacs editor has an input method for Neo-Akkadian Cuneiform
+Fontes
+Unicode
+Akkadian (em inglês) (reproduces the archaic (Ur III) glyphs given in the Unicode reference chart, themselves based on a font by Steve Tinney) -
+Cuneiform Composite (free Cuneiform font) (em inglês) , also Ur III. Designed by Steve Tinney with input from Michael Everson. -
+FreeIdgSerif (em inglês) (branched off FreeSerif), encodes some 390 Old Assyrian glyphs used in Hittite cuneiform. -
+
+não-Unicode
+Cuneiform fonts for TeX/LaTeX/PDFLaTeX (em inglês) por Karel Piska (Type 1, GPL) -
+Sumerian font (em inglês) por Carsten Peust (TrueType, freeware) -
+Ur III, Old Babylonian, NeoAssyrian fonts (em inglês) por Sylvie Vanséveren (TrueType, freeware) -
+UR III font (em inglês) por Guillaume Malingue (TrueType, freeware) -

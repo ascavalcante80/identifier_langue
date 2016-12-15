@@ -1,0 +1,39 @@
+nesten all digital elektronikk basert på CMOS. CMOS-teknologien er sammensatt av komplementære felteffekttransistorer. De komplementære transistorene kan settes sammen til større byggeklosser som invertere, logiske porter og multipleksere. Disse byggesteinene kan på et høyere nivå settes sammen til enda større funksjonsblokker som for eksempel register, tellere og aritmetiske enheter, som i sin tur kan kombineres med andre enheter til mikrokontrollere, grafikkprosessore og lignende. På denne måten har elektronikkonstruktører mange ulike hierarki av abstraksjonsnivå å holde seg til. De ferdige enhetene implementeres i form av FPGAer eller ASICer.
+Byggesteiner:
+Logiske porter
+Addere
+Flip-flop
+Tellere
+Registre
+Multipleksere
+Schmittriggere
+Høyintegrerte enheter:
+Mikroprosessore
+Mikrokontrollere
+ASIC
+Digitale signalprosessorer
+FPGA
+
+
+== Utdanning ==
+
+Mange universiteter og høgskoler i landet tilbyr kurs innenfor elektronikk, både på bachelornivå og masternivå. Tidligere kunne man utdanne seg til høgskoleingeniør og sivilingeniør i elektronikk, men disse titlene er i dag byttet ut med Bachelor i ingeniørfag (3 år etter videregående skole) og Master i ingeniørfag (2 år etter Bachelor).
+En ufullstendig liste over elektronikkutdanning i Norge:
+Sivilingenørstudiet (master) ved f.eks. NTNU
+Bachelor ved f.eks. HiG, HiO, HiB, UiA
+Masterstudium ved UiO
+Masterstudium ved UiT
+Spesialiserte elektronikkutdanninger:
+Bachelor og master i romteknologi ved HiN
+Bachelor i audioteknologi ved HIBU
+
+
+== Referanser ==
+^ 1928 Nobel Lecture: Owen W. Richardson, "Thermionic phenomena and the laws which govern them," December 12, 1929
+^ a b c Finn Lied og Thor Hansen. «Elektronikk». Store norske leksikon. Besøkt 25. november 2012. 
+^ Vardalas, John, Twists and Turns in the Development of the Transistor IEEE-USA Today's Engineer, May 2003.
+
+
+== Se også ==
+Elektriske komponenter
+Teknologi

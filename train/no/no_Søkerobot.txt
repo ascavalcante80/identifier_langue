@@ -1,0 +1,54 @@
+En søkerobot (også kjent som crawler eller spider) er en Internett-bot som systematisk surfer verdensveven, som regel brukt for å indeksere vevsider til søkemotorer. Søkerobotene laster ned lokale kopier av vevsidene den besøker for videre analysering. Søkerobotene har nesten eksistert like lenge som verdensveven og alle søkemotorer er avhengig av en. Store søkemotorer som for eksempel Google bruker avanserte søkeroboter for å indeksere nettsider. Robotene må inneholde en liste over nettsider som skal besøkes, og om nettsiden er besøkt før. 
+Søkeroboter er nødvendige ettersom verdensveven ikke finnes på et sentralt administrert oppbevaringssted, men heller på mange millioner av uavhengige web leverandører.
+En søkerobot sin prosess kan kort forklares slik: 
+Utgangspunktet er et sett av S URL'er
+Søkemotoren tar en URL fra S
+Besøker den og sletter den fra S
+Finner URL'er på siden, tar ut de som ikke finnes i S og legger til i S
+Selv om konseptet fremstår som meget enkelt, er den store oppgaven å utvikle en søkerobot med høy ytelse. Det er også en utfordring med størrelsen og antallet av dokumenter, ettersom verdensveven er gigantisk.
+
+
+== Historie ==
+Søkeroboter er nesten like gamle som veven selv. Under våren i 1993 implementerte Matthew Gray «The World Wide Web Wanderer». Denne var skrevet i «Perl» og kjørte på en enkelt maskin. Den var brukt frem til 1996 for å innhente statistikk om evolusjonen av veven. Vevsidene som «The World Wide Web Wanderer» innhentet ble puttet i en indeks som senere ble kompilert inn til søkemotoren «The Wandex».
+
+
+== Søkerobot-policy ==
+En søkerobot burde inkludere følgende policies:
+En utvalgspolicy som velger hvilke sider som skal lastes ned
+En gjenbesøkspolicy som velger når og hvilke sider som skal sjekkes for endringer
+En høflighetspolicy som passer på at servere ikke overbelastes
+En parallellpolicy som kordinerer flere søkeroboter.
+
+
+=== Utvalgspolicy ===
+Verdensveven er ekstremt stor og selv store søkemotorer indekserer kun en andel av vevsidene som er tilgjengelig. En studie gjennomført i 2005 viser at Google indekserte ca 70% av alle vevsidene på verdensveven. Ettersom ikke alle vevsider indekseres, er det viktig for søkeroboten å velge og prioritere sidene som er mest relevante og ikke tilfeldige.
+Søkerobotene bruker ulike algoritmer for å fastslå om vevsider er relvante eller ikke. Eksempler på algoritmer er Breadth First Search, Page Rank og BackLink.
+
+
+==== URL-normalisering ====
+For at søkeroboten ikke skal besøke de samme vevsidene, blir det gjort en form for URL-formalisering. Eksempler på dette kan være at IP-adressen til vevsiden blir normalisert til domeneadressen. Eksempler kan være å normalisere http://111.111.111 til http://domenet.no.
+
+
+=== Gjenbesøkspolicy ===
+Ettersom verdensveven er så stor kan en søkerobot bruke uker eller måneder på å gå igjennom en liten andel. På denne tiden vil mange vevsider allerede være oppdatert og den lagrede kopien være utdatert. Av den grunn er det viktig å ha en policy for hvor ofte vevsider skal besøkes på nytt, og denne policyen må vurderes for hver enkelte vevside. Hvis alle vevsider oppdateres like ofte, vil dette kreve veldig mye maskinvare og båndbredde.
+
+
+==== Ferskhet ====
+Ettersom en søkemotor sin lokale indekserte vevside fort kan bli utdatert, er det viktig å ha en viss ferskhet på den lokale kopien.
+
+
+==== Alder ====
+Alderen på vevsiden kan hjelpe til å regne ut hvor utdatert en lokal kopi er.
+
+
+=== Ensartet policy ===
+Ved å bruke en ensartet policy, vil alle vevsidene gjenbesøkes i samme frekvens.
+
+
+=== Proporsjonal policy ===
+En proporsjonal policy innebærer å gjenbesøke vevsider som oppdateres oftere med en høyere frekvens enn vevsidene som oppdateres sjelden. En proporsjonal tilnærming øker ferskheten av den lokale kopien, men ved hjelp av mye mindre båndbredde og maskinvare enn en ensartet tilnærming.
+En søkerobot har mulighet for å sjekke om en vevside har oppdatert seg siden siste besøk, men den har ikke mulighet for å sjekke hvor mange ganger. Av den grunn er det viktig for søkeroboten og estimere hvor ofte en vevside oppdateres. Det er også viktig at søkeroboten ikke prioriterer vevsider som oppdaterer seg for ofte og av den grunn straffes sidene og de får redusert hvor ofte de skal oppdateres. Eksempler på slike sider kan være nyhetsbaserte vevsider.
+
+
+=== Høflighetspolicy ===
+Ettersom søkeroboter er mye raskere enn menneskelige besøkere kan de være en belastning for ser

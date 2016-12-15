@@ -1,0 +1,6 @@
+Tøjning (eng. strain) er en enhedsløs størrelse i mekanik, der beskriver et matriales relative forlængelse (deformation) som følge af en påtrykt mekanisk spænding. Tøjning indgår i beregningen af Youngs modul (også kendt som Elasticitetsmodulet eller E-modul), der er et udtryk for et materiales stivhed.
+Tøjning kan udtrykkes som:
+
+eller som:
+
+hvor  er Spændingen (fra kraften der påvirker emnet)  er Elasticitetsmodule

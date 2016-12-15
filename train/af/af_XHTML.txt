@@ -1,0 +1,8 @@
+XHTML (Engelse afkorting vir eXtensible HyperText Markup Language) is 'n taal wat die uitleg van dokumente spesifiseer. XHTML word veral vir die vertoon van webblaaie op die Wêreldwye Web gebruik.
+XHTML is strenger as normale HTML, en is op beide XML en HTML gebaseer. As gevolg van die lakse aard van HTML, kan verskillende webblaaiers soms webwerwe verkeerd vertoon, omdat daar meer as een manier is waarop swak geskryfde HTML geïnterpreteer kan word. Die streng en formele aard van XHTML los die probleem op. Behoorlike XHTML is ook makliker vir mense om te lees.
+Om die verskil tussen HTML en XHTML te demonstreer -
+Die HTML-kode vir 'n lyn-breek (line break) is:
+
+Die regte XHTML-kode is:
+
+Verduideliking: Die lyn-breek etiket in HTML is nie afgesluit nie. Die reël in XHTML is dat etikette wat nie afgesluit word nie hulself moet afsluit. Hierdie etikette word leë etikette genoem.

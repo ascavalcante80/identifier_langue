@@ -1,0 +1,299 @@
+Unter Wortart, Wortklasse, Sprachteil, Redeteil (lat. pars orationis, Mehrzahl partes orationis, griech. μέρος τοῦ λόγου méros tū̂ lógū, Mehrzahl μέρη τοῦ λόγου mérē tū̂ lógū, beides wörtlich Teil[e] der Rede) oder lexikalische Kategorie versteht man die Klasse von Wörtern einer Sprache auf Grund der Zuordnung nach gemeinsamen grammatischen Merkmalen. Die Wortartlehre versucht eine Klassifizierung der lexikalisch-grammatischen Einheiten einer Sprache.
+Die Wortart ist zu unterscheiden von der syntaktischen Funktion (Satzfunktion) eines Wortes wie Subjekt, Objekt, Adverbial, Attribut usw.
+Wörter können insbesondere nach ihrer Bedeutung (semantisch), nach ihrer Form (morphologisch) oder nach ihrer Verwendung im Satz (syntaktisch) eingeteilt werden. Die Kriterien werden einzeln oder miteinander kombiniert verwendet. Entsprechend gibt es sehr unterschiedliche Wortartenlehren. Welche Wortarten es gibt, ist abhängig von der zugrunde gelegten Theorie und von der zu beschreibenden Sprache. Ob es überhaupt universalsprachliche Wortarten gibt, ist umstritten. Teilweise wird nur/zumindest „die Unterscheidung in Verben und Nomina“ als wesentlich angesehen.
+Nach seiner Stellung innerhalb eines Satzes lässt sich ein Wort einer syntaktischen Kategorie zuordnen: Adjektive stehen im Deutschen vor dem Substantiv und nach einem Artikel. Die Morphologie unterscheidet Wörter hinsichtlich der Möglichkeit, sie zu beugen: Verben werden im Deutschen konjugiert, haben also verschiedene Tempus­formen, Infinitiv, Imperativ, Konjunktiv, Partizipien etc. Auch die Bedeutung der Wörter wird bei der Wortartklassifizierung genutzt, oft lediglich zur Subklassifizierung. So unterscheidet man etwa Präpositionen u. a. in Lokal-, Temporal- und Modalpräpositionen.
+In der Computerlinguistik werden Verfahren entwickelt, um Wörter eines Textes automatisch Wortarten zuzuordnen (Part-of-speech Tagging).
+
+
+== Geschichte der WortartlehreBearbeiten ==
+
+
+=== Sanskrit-GrammatikBearbeiten ===
+Die Klassifikation der Wörter in lexikalische Kategorien wird seit den frühesten Anfängen der Linguistik unternommen. In der Nirukta, im 5. oder 6. Jahrhundert v. Chr. geschrieben, definiert der Sanskrit-Grammatiker Yāska vier Wortarten.
+nāma – Nomen
+ākhyāta – Verben
+upasarga – Präverben oder Präfixe
+nipāta – Partikeln (invariante Wörter, vielleicht auch Präpositionen)
+Diese vier Gruppen wurden in zwei große Klassen eingeteilt: in beugbare (flektierbar) (Nomen und Verben) und unbeugbare Wörter (Präverben und Partikeln).
+
+
+=== Abendländische Geschichte der WortartlehreBearbeiten ===
+Ein oder zwei Jahrhunderte später schrieb Platon im Dialog Kratylos, dass ein Satz eine Kombination von Verb [rhē̂ma] und Nomen [ónoma] sei. Von Aristoteles wurde später als weitere Klasse [sýndesmos] („Verbindungswort“, das ist Partikel (unflektierbare Wortarten)) hinzugefügt.
+Am Ende des 2. Jahrhunderts v. Chr. hatte sich das Klassifikationsschema auf acht Kategorien ausgeweitet, so in der Téchnē Grammatikḗ:
+Nomen: kasusflektierter Redeteil, der eine konkrete oder abstrakte Entität bezeichnet
+Verb: nicht kasusflektierter Redeteil, der nach Zeit, Person und Zahl flektiert und eine Tätigkeit oder einen Prozess bezeichnet
+Partizip: Redeteil, der an der Eigenart (ἰδιότης idiótēs) sowohl von Verben als von Nomen teilhat
+Artikel: kasusflektierter Redeteil, der einem Nomen vor- oder nachgestellt ist
+Pronomen: durch ein Nomen ersetzbarer Redeteil, der für eine Person steht
+Präposition: Redeteil, der vor anderen Wörtern in Zusammensetzungen und in der Syntax steht
+Adverb: unflektierter Redeteil, der ein Verb modifiziert oder ihm hinzugefügt ist
+Konjunktion: Redeteil, der den Diskurs zusammenhält und Lücken in seiner Interpretation füllt
+Die lateinischen Fachtermini für die Wortarten erscheinen als Lehnübersetzungen der griechischen.
+Die lateinische Grammatik von Priscian (5. Jahrhundert n. Chr.) verzichtete auf die im Lateinischen nicht vorkommende Wortart Artikel, brachte aber die Wortart Interjektion in seinem Schema unter, so dass es zunächst bei acht Wortarten blieb.
+In der deutschen Grammatik hat sich daraus die Zehn-Wortarten-Lehre entwickelt (siehe unten).
+
+
+==== ÜberblickBearbeiten ====
+‡¹ article wird im Englischen manchmal als Wortart angesehen und manchmal nicht
+
+
+== Die Wortartklassifikation der klassischen deutschen (Schul-)GrammatikBearbeiten ==
+
+
+=== ÜberblickBearbeiten ===
+
+
+==== Standardform: Zehn-Wortarten-LehreBearbeiten ====
+Eine gängige Wortartklassifizierung der deutschen Sprache nennt 10 Wortarten. Die Zehn-Wortarten-Lehre ist aus der lateinischen und griechischen Grammatiktradition hervorgegangen (siehe oben) und wurde über sehr lange Zeit angewandt. Sie nennt folgende Wortarten:
+Substantiv (Haupt- oder Dingwort)
+Verb (Zeit- oder Tätigkeitswort)
+Adjektiv (Eigenschafts- oder Beiwort)
+Adverb (Umstands- oder Nebenwort)
+Pronomen (Fürwort)
+Präposition (Verhältnis- oder Vorwort)
+Konjunktion (Bindewort)
+Numerale (Zahlwort)
+Artikel (Geschlechtswort, Begleiter)
+Interjektion (Ausrufe- oder Empfindungswort)
+
+
+==== Geringfügige VariantenBearbeiten ====
+Die obige Auflistung wird auch als Zehn-Wortart-Lehre bezeichnet. Dieser kann man eine Neun-, Acht- usw.-Wortart-Lehre gegenüberstellen.
+
+
+===== Aufgabe der Wortart ArtikelBearbeiten =====
+Eine Variante der Zehn-Wortarten-Lehre ist die Auffassung, nach der der Artikel nicht als eigenständige Wortart, sondern als Sonderform des Numerals (unbestimmter Artikel) bzw. des Pronomens (bestimmter Artikel) angesehen wird. Man spricht auch von der Neun-Wortart-Lehre.
+
+
+===== Aufgabe der Wortart NumeraliaBearbeiten =====
+Mitunter wird die Selbständigkeit einer Kategorie Numeralia verneint, und diese werden dann den Adjektiven zugeschlagen. Bleibt es dabei, hat man eine weitere Neun-Wortart-Lehre, bei Wegfall auch des Artikels eine Acht-Wortart-Lehre:
+Argumente dagegen: Zwischen zwei gleichgestellten gleichrangigen Adjektiven wird ein Komma gesetzt. Jedoch müssen Numerale zwangsläufig vor dem attributiven Adjektiv stehen, weshalb sie nicht als gleichrangige Adjektive bezeichnet werden können und dort auch kein Komma hinkommen kann. Folglich sind sie keine Adjektive.
+
+
+===== Austausch der Wortart Numeralia durch eine Wortart PartikelBearbeiten =====
+Teilweise wird die Wortart Numeralia verneint und stattdessen als eigenständige Wortart die der Partikeln eingeführt. Diese dann wieder Zehn-Wortarten-Lehre entspricht allerdings nicht der klassischen Wortartlehre.
+
+
+===== Aufgabe der Wortart InterjektionBearbeiten =====
+Die Wortart Interjektion wird teilweise (zusätzlich) als unwichtiger Sonderfall ausgeblendet. Entfällt auch die Kategorie des Zahlworts, hat man eine Acht-Wortart-Lehre.
+
+
+=== Die Wortarten nach der klassischen Einteilung im EinzelnenBearbeiten ===
+
+
+==== FlektierbareBearbeiten ====
+
+
+===== Substantiv (Hauptwort, Dingwort)Bearbeiten =====
+
+Substantiv (Hauptwort, Dingwort; teilweise auch Nomen, Namenwort, Nennwort): Hanna, Rhein, Haus, Garten, Schwein, Computer, Frau, Milch, Eisen, Vernunft, Zusammenhang. Nach Art der Bezugsgegenstände lassen sich unterscheiden:
+konkrete Substantive (mit den Sinnen wahrnehmbare, anfassbare Dinge)
+abstrakte Substantive (nur geistig wahrnehmbare Dinge)
+Eigenname (nomen proprium): setzt Gegenstandskenntnis und Namenszuordnung voraus
+Gattungsname (nomen appellativum): bezieht sich auf die Art, Gattung von Dingen
+Sammelname (nomen collectivum):
+Stoffname (nomen materiale): bezeichnet eine Substanz, ist in dieser Bedeutung nicht zählbar und nicht pluralfähig (bezeichnet werden dann allenfalls Arten: Stähle)
+Grammatisch bestimmbare Sondertypen sind:
+Singularetantum oder Singularwort: tritt nur im Singular auf (zum Beispiel Schnee, Milch, Zorn)
+Dualetantum: tritt in einigen semitischen Sprachen auf, z. B. Hebräisch מים, majim: Wasser.
+Pluraletantum oder Pluralwort: tritt nur im Plural auf (zum Beispiel Alpen, Kanaren, Leute)
+
+
+===== Verb (Tätigkeitswort, Zeitwort)Bearbeiten =====
+
+Verb (Tätigkeitswort, Zeitwort): lachen, laufen, reden, lieben, schreien, hassen. Verben können Prozesse, Zustände oder abstrakte Sachverhalte bezeichnen.
+Grammatische Eigenschaften im Deutschen:
+finit (konjugiert) oder infinit (unkonjugiert)
+in sechs verschiedenen Zeitformen zu gebrauchen: Präsens, Präteritum/Imperfekt, Perfekt, Plusquamperfekt, Futur I und Futur II
+Genera verbi: Aktiv (Tatform) oder Passiv (Leideform)
+transitiv oder intransitiv
+Modi: Indikativ, Konjunktiv oder Imperativ
+
+
+===== Adjektiv (Eigenschaftswort)Bearbeiten =====
+
+Beispiele: rot, schön, behindert, hoch, groß. Adjektive können Substantive modifizieren, um einen Gegenstandsbereich einzuschränken (restriktiver Gebrauch) oder Zusatzinformationen zu geben (appositiver Gebrauch):
+attributiver Gebrauch (Adjektiv unmittelbar vor Substantiv): primäre Verwendung
+prädikativer Gebrauch (Adjektiv vor allem bei den Verben sein, werden, scheinen, bleiben)
+adverbialer Gebrauch (Adjektiv als eigenes Satzglied; im Deutschen haben Adjektive meist keine spezielle Endung, um adverbiellen Gebrauch zu markieren)
+substantivierter Gebrauch (Adjektiv wird als Substantiv gebraucht, im Deutschen dann entsprechend großgeschrieben)
+Bei vielen Adjektiven gibt es die Vergleichsform (Steigerung, Komparation): groß, größer, größter; manche sind zwar formal, jedoch nicht semantisch sinnvoll steigerbar, etwa: ledig, schwanger, tot.
+Ausdrücke, die nur mit einem Verb wie sein, werden oder bleiben kombiniert werden können, heißen „Adkopula“: pleite, schuld, quitt. Sie weisen jedoch einige Gemeinsamkeiten mit Adjektiven auf, fallen also vielleicht in diese Klasse.
+
+
+===== Numerale (Zahlwort)Bearbeiten =====
+
+Numeralia sind Wörter die eine Menge oder einen Rang angeben. Einige Zahlwörter könnten eine eigene Wortart darstellen, sofern sie Eigenschaften haben, die andere Wortarten nicht teilen. Viele der als Zahlwörter (im weitesten Sinne) bezeichneten Wörter fallen jedoch in andere Wortarten:
+Kardinalia (Grundzahlwörter): eins, zwei, drei …
+Ordinalia (Ordnungszahlwörter): erster, zweiter, dritter …
+Iterativa: einmal, zweimal, dreimal … (Adverbien)
+Multiplikativa: einfach, zweifach, dreifach … (Adjektive)
+Partitiva (Bruchzahlwörter): drittel, viertel, achtel …
+Spezialia (Gattungszahlwörter): einerlei, zweierlei, dreierlei …
+Indefinite Numeralia: alle, viele, manche wenige … (siehe auch unter: Quantoren)
+
+
+===== Artikel (Begleiter, Geschlechtswort)Bearbeiten =====
+
+Ein Artikel (in der traditionellen Grammatik auch Geschlechtswort, Begleiter) ist ein grammatisches Wort, das stets ein Nomen (Substantiv oder substantiviertes Adjektiv) begleitet.
+definiter Artikel (bestimmtes Geschlechtswort): der, die, das (Genitiv: des, der)
+indefiniter Artikel (unbestimmtes Geschlechtswort): ein, eine (Genitiv: eines, einer)
+
+
+===== Pronomen (Fürwort)Bearbeiten =====
+
+Beim Pronomen (auch: Fürwort) handelt es sich um eine Zusammenfassung von Wörtern, die keine Eigenschaften beschreiben, sondern direkt auf einen Gegenstand verweisen können. Sie bilden eine heterogene Gruppe.
+Personalpronomen (persönliches Fürwort): deiktisch/zeigend: ich, du, wir, ihr; anaphorisch: er, sie, es
+Reflexivpronomen (rückbezügliches Fürwort): sich, dich (bei Subjekt „du“), mich (bei Subjekt „ich“)
+Relativpronomen (bezügliches Fürwort): der, was, wo
+Possessivpronomen (besitzanzeigendes Fürwort): mein, dein
+Demonstrativpronomen (hinweisendes Fürwort): dieser, jener
+Indefinitpronomen (unbestimmtes Fürwort): man, irgendeiner
+Interrogativpronomen (fragendes Fürwort): wer, was
+
+
+===== Quantoren (Mengenwort)Bearbeiten =====
+Quantoren sind Wörter, mit denen Mengenangaben dargestellt werden, wie zum Beispiel: kein, alle, wenig, viel. Nach IDS-Grammatik können sie sowohl determinative als auch pronominale Funktionen haben.
+
+
+==== Nicht flektierbareBearbeiten ====
+Nicht flektierbar sind diejenigen Wörter, die in allen Sätzen oder Stellungen unveränderbar bleiben. Sie werden auch Partikel (im weiten Sinne) oder Redeteilchen genannt.
+
+
+===== Adverb (Umstandswort)Bearbeiten =====
+
+Adverbien wie hier, da, dort, heute, darum, deshalb sind Einzelwörter, die in der Regel in der Funktion der adverbiellen Bestimmung vorkommen. Häufige Bedeutungstypen sind z.B..
+Adverb des Ortes (Lokaladverb): hier, da, unten, dort, nirgends, hinüber, her
+Adverb der Zeit (Temporaladverb): morgen, damals, bereits, schon, oft, bald, immer
+Adverb der Art und Weise (Modaladverb): gern, anders, vergebens, fast, zwar, sehr
+Adverb des Grundes (Kausaladverb): darum, deshalb, deswegen, folglich, dazu, dafür
+Adverbien können auch zur Bestimmung von Satztypen beitragen und
+Fragesätze einleiten: Frageadverbien wie Wo? Wann? Wie? Warum?
+Relativsätze einleiten: Relativadverbien
+
+
+===== Präposition (Verhältniswort)Bearbeiten =====
+
+Präpositionen bestimmen den Kasus der Wortgruppe, zu der sie gehören (Rektion). Sie lassen nur einen der obliquen Kasus zu. Im Deutschen sind das: Genitiv, Dativ, Akkusativ. Nach diesem Kriterium scheiden als und wie, die mit jedem Kasus auftreten können, als Präpositionen aus.
+Präpositionen können semantisch subklassifiziert werden: So ist wegen eine Präposition, die auf die Ursache, den Grund hinweist; mittels eine Präposition, die auf ein eingesetztes Mittel verweist. Es ergeben sich die Bedeutungsklassen, die auch für adverbielle Bestimmungen angegeben werden können, z.B.:
+lokal
+direktional
+temporal
+kausal
+modal
+
+
+===== Konjunktion (Bindewort)Bearbeiten =====
+
+Klassisch werden Konjunktionen unterteilt in:
+beiordnende (parataktische)
+unterordnende (hypotaktische, Subjunktionen)
+
+
+===== Interjektion (Ausrufe- oder Empfindungswörter)Bearbeiten =====
+
+Interjektionen wie oh, nein, na, ja oder hm sind mündlich, haben Töne und ungewöhnliche Lautkombinationen (brr), lenken aus der Hörerposition. Ihre Zugehörigkeit zu den Wortarten ist umstritten (lautmalerische Ausdrücke werden zum Beispiel teilweise als Onomatopoetika klassifiziert), sie werden aber auch zu den Partikeln im engen Sinne gerechnet.
+
+
+===== Partikel (im engen Sinn)Bearbeiten =====
+
+Partikeln im engen Sinn sind unflektierbare, nicht zu Wortgruppen erweiterbare Ausdrücke:
+Abtönungspartikeln operieren auf dem Wissen: ja, halt, eh, wohl
+Konnektivpartikeln verbinden und gliedern: erstens, allerdings, sonst, zwar, indessen
+Gradpartikeln gradieren auf dem Hintergrund einer Einstufungsskala im Satz Gewichtetes: sogar, ausgerechnet, bereits
+Modalpartikeln bestimmen die Geltung eines Sachverhalts und werten: bedauerlicherweise, leider, sicherlich, vielleicht
+Intensitätspartikeln markieren die Ausprägung adjektivischer Eigenschaften: sehr, recht, überaus
+Negationspartikeln wie nicht, gar nicht verneinen die Sachverhaltsgeltung
+
+
+=== Die Zugehörigkeit eines Wortes zu verschiedenen WortartenBearbeiten ===
+In einem Wortparadigma gehört ein Wort immer genau zu einer Wortart. Diese Forderung lässt sich nicht immer durchhalten, wie folgende Beispiele zeigen:
+Beispiel:Ich klopfte, /doch/ niemand öffnete (doch im Sinne von aber als Konjunktion);
+Eigentlich war Eva krank, /doch/ ging sie zur Arbeit (doch als Adverb im Sinne von dennoch);
+Das hast du /doch/ gewusst! (doch als (Abtönungs-)Partikel).
+
+Viele Präpositionen sind gleichzeitig Adverbien
+Beispiel:
+auf dem Tisch / ab dem Zeitpunkt (stehen vor den eigentlichen Inhalten → Präpositionen)
+Die Tür ist auf. / Der Bart ist ab. (nicht deklinierbare Eigenschaften → Adverbien)
+
+
+== Kritik der traditionellen WortartlehreBearbeiten ==
+An der traditionellen Wortartlehre wird kritisiert, dass sie einige grundlegende Eigenschaften von Klassifizierungssystemen nicht erfülle. Es sei unklar, was sie überhaupt klassifiziere: Lexeme, syntaktische Wörter oder Wortformen. Die klassische Einteilung der Wortarten erfolge nicht nach einem „einheitlichen Gesichtspunkt“, sondern werde nach „sich widersprechenden oder überschneidenden Kriterien“ vorgenommen. „Für einen exakten Aufbau der Grammatik“ sei sie „zu vage“ und die Einteilung sei auch nicht disjunkt, da dasselbe Wort verschiedenen Kategorien angehören könne.
+In sprachvergleichender Sicht erscheint das traditionelle morphologische Einteilungskriterium als zufällig. Das Kriterium der Morphologie gilt nur für synthetische Sprachen wie eben das Deutsche, das altindische Sanskrit, Latein oder Türkisch. Im Englischen ist es schon problematisch, für Chinesisch, das keine Flexion hat, nicht anwendbar.
+
+
+== Alternative WortartlehrenBearbeiten ==
+
+
+=== Die Fünf-Wortarten-LehreBearbeiten ===
+Bei der Fünf-Wortarten-Lehre nach Hans Glinz beruht die Klassifikation auf formalen Kriterien.
+Man unterscheidet fünf Haupt-Wortarten nach morphologischen Kriterien:
+unflektierbar → Partikel
+flektierbar
+deklinierbar
+festes Genus → Substantiv (manchmal auch Nomen genannt)
+ohne festes Genus
+nicht steigerbar, eine Flexionsreihe → Pronomen
+steigerbar, zwei Flexionsreihen → Adjektiv
+
+konjugierbar → Verb
+
+Die Partikeln können nach ihrem syntaktischen Verhalten in vier Untergruppen unterteilt werden:
+Präpositionen bestimmen den Kasus der Wortgruppen, bei denen sie stehen.
+Konjunktionen, die weiter unterschieden werden als: Beiordnende Konjunktionen verbinden gleichwertige Einheiten / Nebenordnende Konjunktionen leiten Nebensätze ein.
+Interjektionen stehen außerhalb des Satzes, haben Töne, ungewöhnliche Lautkombinationen (brr), sind nur sehr begrenzt kombinationsfähig.
+Die Adverbien bilden eine Restgruppe.
+Die Adverbien können ihrerseits auch noch weiter unterschieden werden, etwa in Lokaladverb (Wo?), Temporaladverb (Wann?), Modaladverb (Wie?), Kausaladverb (Warum?), Interrogativadverb (Frageadverb) und Präpositionaladverb (Verbindung von da-/wo-/hier- mit Präposition: dabei/wobei/hierbei).
+Einige Beispiele:
+Präpositionen: auf, mit, zu, an, bei, durch, …
+beiordnende Konjunktionen (Konjunktoren): und, aber, sondern, denn, nämlich, als, wie, …
+unterordnende Konjunktionen (Subjunktoren): als, dass, wenn, weil, obwohl, seit, wie, …
+Interjektion: ah, na, hm, …
+Adverbien: unten, oft, sehr, wohl, damit, warum, deshalb, …
+Die Pronomen werden in der Fünf-Wortarten-Lehre in zehn Unterarten eingeteilt, die in der klassischen Wortartenlehre drei anderen Wortarten zugerechnet werden (Artikel, Numerale, Pronomen):
+bestimmter Artikel (der, die, das)
+unbestimmter Artikel (ein, eine)
+bestimmtes Zahlpronomen (ein/eine, zwei, drei, vier: Kardinal-/Grundzahlen)
+Personalpronomen (Fürwort: ich, du, er, sie, es, wir, ihr, sie; mich, dich, ihn, sie, es, uns, euch, sie; mir, dir, ihm, ihr, ihm, uns, euch, ihnen;)
+Reflexivpronomen (rückbezügliches Fürwort)
+Relativpronomen (bezügliches Fürwort)
+Possessivpronomen (besitzanzeigendes Fürwort)
+Demonstrativpronomen (hinweisendes Fürwort)
+Indefinitpronomen (unbestimmtes Fürwort, hierzu gehören auch die unbestimmte Zahlwörter: einige, viele, wenige)
+Interrogativpronomen (fragendes Fürwort)
+Bei der Bestimmung der Wortarten bestimmte man Lexeme, und keine Wortformen. Das bedeutet, dass in den Sätzen „er sieht ein schönes Haus“ und „er zeichnet schön“ die beiden unterschiedlichen Wortformen von „schön“ als Adjektive bestimmt werden. Wenn man die unterschiedliche Funktion der Adjektive berücksichtigen will, kann man von attributiven (schönes Haus) und adverbialen (er singt schön) Adjektiven sprechen. Analog dazu spricht man in Sätzen wie „sie ist hübsch“ von prädikativen Adjektiven.
+Die Fünf-Wortarten-Lehre fasste in den letzten Jahren in Schweizer Grundschulen Fuß.
+In sprachvergleichender Sicht erscheint die Fünf-Wortarten-Lehre als eine (nur) auf die deutsche Sprache angepasste traditionelle Wortartlehre, bei der versucht wird, klarere Einteilungskriterien stringent anzuwenden.
+
+
+=== Die Wortarten in der generativen SyntaxBearbeiten ===
+Der generative Ansatz kennt nur vier lexikalische Wortarten: Nomen (N), Verb (V), Adjektiv (A), Präposition (P) und eine Reihe von funktionalen Kategorien.
+
+
+== Grundlegende Einteilungen der WortartenBearbeiten ==
+
+
+=== Flektierbare und nicht-flektierbare WortartenBearbeiten ===
+In Sprachen wie dem Deutschen, die durch einen flektierenden Sprachbau charakterisiert sind, wird eine Klassifizierung nach dem Kriterium der Flexierbarkeit für grundlegend erachtet.
+Eine Wortformänderung (Beugung, Flexion) kommt im Deutschen als Deklination und Konjugation. Flektierbare Wortarten sind im Deutschen die Wortarten Substantiv, Adjektiv, Artikel, Pronomen und Verben.
+Nicht-flektierbare Wortarten sind im Deutschen vor allem die Wortarten Adverb, Konjunktion und Präposition.
+
+
+=== Offene und geschlossene WortartenBearbeiten ===
+In der Sprachwissenschaft wird zwischen offenen Wortarten (Wortklassen) und geschlossenen Wortarten (Wortklassen) unterschieden.
+Eine offene Klasse ist eine Wortartklasse, deren Bestand „jederzeit erweitert“ werden kann. Es gibt hierzu dann produktive Mechanismen wie Wortbildung oder Entlehnung. Die Anzahl ihrer Elemente ist entsprechend groß. Statt von offener Wortklasse spricht man auch von lexikalischer Klasse. Zu den offenen Wortartklassen zählen vor allem die Substantive und Verben, je nach Sprache auch Adjektive und Adverbien. (Im Deutschen sind zumindest Adjektive eine offene Klasse.)
+Eine geschlossene (Wort)Klasse ist eine Wortart, deren Bestand „nicht“ oder „wenig veränderlich“ ist. Neue Mitglieder geschlossener Klassen entstehen nur durch individuelle und nicht im Einzelfall voraussagbare Prozesse, z. B. Grammatikalisierung. Die Wörter der geschlossenen Wortklassen werden auch Funktionswörter genannt. Die Zahl der Funktionswörter ist „relativ klein“. Zu den geschlossenen Wortklassen zählen die Präpositionen, Partikel, Konjunktionen und Artikel. In manchen Sprachen sind auch Adjektive eine geschlossene Klasse.
+
+
+== Universalsprachlichkeit der Wortarten?Bearbeiten ==
+Das herrschende System der Wortarten erscheint weitgehend historisch bedingt durch die griechisch-lateinische Grammatik und ihrer Rezeption in den europäischen Staaten. Es ist umstritten, ob Wortarten sinnvoll über die Grenzen der jeweiligen Einzelsprachen oder Sprachfamilien hinaus gebildet werden können und sollen und ob es universalsprachliche Wortarten gibt.
+
+
+=== Die Felderlehre von BühlerBearbeiten ===
+Universell sollen funktionale bzw. semantische Bestimmungen sein, wie sie etwa in der Felderlehre des Sprachpsychologen Karl Bühler (1934/1978) formuliert wurden, der Zeigwörter („ich“, „hier“, „jetzt“ u. a.) von Symbolwörtern („schnell“, „Frau“, „bauen“ etc.) trennt. Ein entsprechender Vorschlag, das Wortartensystem primär auf semantische Kriterien zu stützen, stammt von Hempel (1954/1980). Ausgebaut wurde dieser Ansatz in der Funktionalen Pragmatik zu einer Fünffelderlehre sprachlicher „Prozeduren“ (Konrad Ehlich), die Wortarten voraus- oder zugrunde liegen.
+
+
+=== Universalsprachlichkeit der Unterscheidung Nomen von Verb?Bearbeiten ===
+Als (allein) wesentliche Unterscheidung der Wortarten wird teilweise die zwischen nominal gegen verbal angeführt.
+Für einige Sprachen wurde behauptet, dass sie keine Unterscheidung zwischen Nomen und Verben vornehmen (bzw. dass die Unterscheidung sehr schwach ausgeprägt ist), u.a. Grönländisch, Riau-Indonesisch, Tagalog, Tonganisch, Mundari und Salish-Sprache

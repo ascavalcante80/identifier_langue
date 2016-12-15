@@ -1,0 +1,24 @@
+A Gergely-naptár (más néven gregorián naptár) a ma érvényben lévő naptárrendszerek közül a legelterjedtebb. Eszerint az időszámítás kezdete Krisztus születéséhez igazodik, egyebekben a julián naptár kis módosítása. 
+
+
+== Előzmények ==
+A julián naptárt Julius Caesar Róma alapítása után 709-ben (Kr. e. 45-ben) vezetette be. Ebben egy év 365 napból állt, és minden negyedik évben egy szökőnapot iktattak be. Az így átlagosan kialakuló 365,25 napból álló év azonban hosszabb, mint a 365 nap 5 óra 48 perc 46 másodpercből álló szoláris év, ami 365,242199 napnak felel meg. Az eltérés ezer év alatt nagyjából nyolc nap, ami a középkorban egyre nagyobb nehézségeket okozott a mezőgazdasági munkák ütemezése során, és a húsvét időpontjának kiszámításában, ezért a naptárreformot a XIII-XV. században egyre többen sürgették. A XIV. századtól kezdve több tervezet is született, amit azonban a bírálók sorra el is vetettek. Végül a XIII. Gergely pápa által 1576-ban felállított nemzetközi bizottság eljárása lett eredményes. Az új rendszert 1577-ben Aloysius Lilius olasz orvos, csillagász dolgozta ki, a bizottság felülvizsgálta, jóváhagyta, majd a tervezetet a pápa megküldte valamennyi európai uralkodónak és egyháznak véleményezés végett. A beérkezett javaslatok alapján Christophorus Clavius német származású jezsuita matematikus, csillagász öntötte végleges formába. Végrehajtását a pápa 1582. február 24-én az Inter gravissimas bullával rendelte el.
+
+
+== Bevezetése ==
+XIII. Gergely pápa rendelete szerint az új naptár 1582. október 4-én csütörtökön lépett életbe oly módon, hogy az azt követő nap október 15. péntek lett, a kettő közötti napok abban az évben kimaradtak. Az új naptár bevezetését azonban a legtöbb országban nem azonnal és nem minden probléma nélkül fogadták el, elterjedése több évszázados folyamat volt.
+Európát az oszmán birodalom terjeszkedése fenyegette, a kontinensen vallásháború dúlt, az új naptár elfogadása illetve elutasítása elsősorban ideológiai kérdés volt. A katolikus Spanyolországban, Portugáliában és Lengyelországban azonnal bevezették, ott ebben az évben az október 4-ét 15-e követte. Franciaországban az év december 20-án vezették be, majd az 1792-ben a forradalom idején bevezetett forradalmi naptár helyett Napóleon 1806-ban ismét életbe léptette. A magyarországi ellenkezést – bár a klérus 1583-as rendelete nyomán itt-ott valóban használták – az váltotta ki, hogy az országgyűlési határozat nélküli bevezetést sokan jogtalannak vélték. Az ellenállás mögött jórészt a protestánsok vallási indítékai álltak, A Német-Római Birodalom katolikus tartományaiban 1583-1585 között, a lutheránus Poroszországban csak 1610-ban vezették be. Nagy Britannia és tengerentúli gyarmatai csak 1752-ben fogadták el. A XVIII. század végére a Gergely-naptár a nyugati keresztény államok többségében elfogadottá vált. A következő évszázadban egyre több nemzet kezdte használni, az utolsók között Oroszországban 1918-ban került sor a bevezetésre.
+
+
+== A Gergely-naptárra való áttérés ideje néhány országban ==
+A protestáns német államok áttérése. A katolikus hercegségekben és városokban különböző időpontokban, de már 1583-84 között bevezették.
+
+
+== Eltérések a julián naptárhoz képest ==
+A julián naptár egy éve és a szoláris év között az évenkénti eltérés kicsit kevesebb, mint negyed nap. A minden negyedik évben beiktatott egy szökőnap viszont már túl sok korrekció, így a naptár 400 év alatt kb. három nappal előzi meg a tropikus évet. A Gergely naptár ezt egyszerű és szellemes módon úgy hozza rendbe, hogy a 400-zal nem osztható kerek évszázadok nem szökőévek, hanem 365 napos évek maradnak. Így 1700, 1800, 1900 nem voltak szökőévek, míg 2000 az volt. A még ezek után is fennmaradó eltérés 3320 év alatt okoz majd egy nap eltolódást. A jelenlegi számítások szerint 4782-ben várható legközelebb, hogy egy napot ki kell hagyni a Gergely-naptár és a szoláris év különbsége miatt.
+
+
+== Érdekességek ==
+Az átlagos év 365,2425 napos = 8765,82 órás = 525 949,2 perces = 31 556 952 másodperces.
+A közönséges év 365 napos = 8760 órás = 525 600 perces = 31 536 000 másodperces.
+A szökőév 366 napos = 8784 órás = 527 040 perces = 31 

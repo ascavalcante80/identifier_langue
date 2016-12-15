@@ -1,0 +1,61 @@
+Il sistema internazionale di unità di misura (in francese Système international d'unités), abbreviato in SI e pronunciato esse i, è il più diffuso sistema di unità di misura. Assieme al sistema CGS viene spesso indicato come sistema metrico decimale, soprattutto nei paesi anglosassoni. All'inizio venne chiamato Sistema MKS in quanto comprendeva solo le unità metro, chilogrammo e secondo.
+
+
+== StoriaModifica ==
+Unità, terminologia e raccomandazioni del SI sono fissate dalla Conférence générale des poids et mesures (CGPM), "Conferenza generale dei pesi e delle misure", organismo collegato con il Bureau international des poids et mesures (BIPM), "Ufficio internazionale dei pesi e delle misure", organismi creati alla convenzione del Metro del 1875.
+Il sistema nacque nel 1889 con la 1ª CGPM: allora si chiamava "Sistema MKS" perché comprendeva solo le unità fondamentali di lunghezza (metro), di massa (chilogrammo) e di tempo (secondo). Nel 1935, su proposta del fisico italiano Giovanni Giorgi, il sistema fu denominato "Sistema MKSΩ" e adottato dalla Commissione Elettrotecnica Internazionale, perché la quarta unità fondamentale introdotta era stato l'ohm, unità di misura della resistenza elettrica. Nel 1946, ancora su proposta di Giorgi, la CGPM approvò l'entrata dell'ampere come unità di misura fondamentale della corrente elettrica, in luogo della resistenza elettrica. Nacque così il "Sistema MKSA", anche chiamato "Sistema Giorgi" in onore del fisico. Nel 1954 la 10ª CGPM aggiunse il kelvin e la candela come unità di misura fondamentali. Nel 1961 la 11ª CGPM sancì la nascita del Sistema internazionale (SI). Nel 1971 la 14ª CGPM aggiunse la mole fra le unità fondamentali. In Italia è il sistema legale di misura da adoperarsi obbligatoriamente a partire dal 1982 (DPR numero 802/1982).
+Quindi oggi il SI è basato su sette grandezze fisiche fondamentali e sulle corrispondenti unità di misura con le quali vengono definite le grandezze fisiche derivate e le corrispondenti unità di misura. Inoltre il SI definisce i prefissi da aggiungere alle unità di misura per identificare multipli e sottomultipli.
+Il sistema internazionale è un "sistema coerente" in quanto le sue grandezze fisiche derivate si ricavano come prodotto e rapporto di grandezze fisiche fondamentali.
+
+
+== Norme di scritturaModifica ==
+Per uniformare la grafia ed evitare errori di interpretazione il SI prevede alcune norme per la scrittura delle unità di misura e dei relativi simboli.
+
+
+=== Scrittura delle unitàModifica ===
+Le unità di misura dovrebbero essere scritte per esteso se inserite in un testo discorsivo; la scrittura deve essere in carattere tondo minuscolo e si devono evitare segni grafici come accenti o segni diacritici. Ad esempio si deve scrivere ampere e non ampère o Ampere.
+
+
+=== Scrittura dei simboliModifica ===
+I simboli (senza prefisso) devono essere indicati con l'iniziale minuscola ad eccezione di quelli in cui l'unità di misura è eponima, ossia deriva dal nome di uno scienziato. Ad esempio il simbolo dell'unità di misura della pressione, dedicato a Blaise Pascal, è Pa, invece l'unità di misura viene scritta per esteso in minuscolo pascal. Il secondo è s e non sec, il grammo g e non gr. L'unica eccezione è per il litro il cui simbolo può essere sia l che L.
+A differenza delle abbreviazioni, i simboli del SI non devono essere seguiti dal punto (per il metro: m e non m.); essi devono inoltre stare dopo il valore numerico (ad esempio si scrive 20 cm e non cm 20) con uno spazio tra il numero e il simbolo: 2,21 kg, 7,3 × 102 m². Nelle unità di misura composte (ad esempio il newton metro: N m) i simboli delle unità devono essere separati da uno spazio o da un punto a mezza altezza (detto anche punto mediano) ·; Non è ammesso l'uso di altri caratteri, come il trattino: ad esempio si può scrivere N m o N·m, ma non N-m. In caso di divisione fra unità di misura, si può usare il carattere / , o la barra orizzontale o un esponente negativo: ad esempio J/kg o J kg−1 o J·kg−1.
+Qualora necessario, gruppi di unità di misura possono essere messi tra parentesi: J/K mol o J/K·mol o J·K−1·mol−1 o J (K·mol)−1.
+Per i simboli è opportuno evitare il corsivo e il grassetto allo scopo di differenziarli dalle variabili matematiche e fisiche (ad esempio m per la massa ed l per la lunghezza).
+
+
+=== Scrittura delle cifreModifica ===
+Per raggruppare le cifre della parte intera di un valore a tre a tre partendo da destra bisogna utilizzare lo spazio. Ad esempio 1 000 000 o 342 142 (in altri sistemi si scrive 1,000,000 o 1.000.000). Come separatore tra parte intera e parte decimale si usa la virgola, ad esempio 24,51. Nel 2003 il CGPM concesse di usare il punto nei testi in inglese.
+
+
+=== Disposizioni di leggeModifica ===
+Il SI è un riferimento per molti Stati, come l'Italia, dove l'uso è stato adottato per legge nel DPR numero 802/1982 ai sensi della direttiva del Consiglio CEE del 18 ottobre 1971 (71/354/CEE), modificata il 27 luglio 1976 (76/770/CEE). Il suo uso è obbligatorio nella stesura di atti e documenti con valore legale, tant'è che in difetto gli atti potrebbero essere invalidati.
+
+
+== Le unità di misura del SIModifica ==
+
+
+=== Unità fondamentaliModifica ===
+Ogni grandezza fisica e la relativa unità di misura è combinazione di due o più grandezze fisiche e la relativa unità di misura di base o il reciproco di una di esse. Tutte le unità sono definibili misurando fenomeni naturali ad eccezione del chilogrammo. Inoltre il chilogrammo è l'unica unità di misura di base contenente un prefisso: il grammo è un'unità di misura troppo "piccola" per la maggior parte delle applicazioni.
+
+
+=== Unità derivateModifica ===
+Le grandezze fisiche derivate sono una combinazione per moltiplicazione o divisione delle grandezze fisiche fondamentali. Molte di esse hanno nomi particolari (ad esempio la grandezza derivata "joule/secondo" è anche chiamata "watt"). Verificando la relazione tra le grandezze fisiche derivate e le grandezze fisiche fondamentali non solo si vede la relazione esistente tra due grandezze fisiche ma, attraverso l'analisi dimensionale, si può verificare la correttezza di una legge fisica.
+
+
+== PrefissiModifica ==
+Le unità SI possono avere prefissi per rendere i valori né troppo grandi, né troppo piccoli. Ad esempio la radiazione elettromagnetica nel campo del visibile ha lunghezze d'onda pari circa a 0,000 0005 m che, più comodamente, è possibile scrivere 500 nm.
+Si noti, ad evitare ambiguità, l'importanza di utilizzare correttamente i simboli maiuscoli e minuscoli. Non è permesso utilizzare più prefissi in cascata: ad esempio non si può scrivere 10 000 m = 10 km = 1 dakm (un deca chilometro).
+Nel 1998 il SI ha introdotto i prefissi per multipli binari per evitare che i prefissi standard, relativi a multipli decimali, vengano usati per i multipli binari, che di regola andrebbero usati ad esempio per indicare i multipli binari dei byte; è comunque ancora usata la convenzione secondo cui, quando l'unità di misura è il byte o quelle da essa derivata, per kilo si intenda 1024 e non 1000, anche se si tratta in realtà di un errore.
+I prefissi per i multipli binari hanno lo scopo di operare secondo le potenze di 2 piuttosto che secondo le potenze di 10. Il simbolo è quello standard con l'aggiunta di "i".
+Così 1 kB equivale in realtà a 1 000 B, mentre 1 kiB equivale a 1 024 B. Un hard-disk da 2 TB ha capacità pari a 2 000 000 000 000 B o di ~1,819 TiB, un computer con memoria da 4 GiB ha una capacità di 4 294 967 296 B o di ~4,295 GB.
+
+
+== Unità non SIModifica ==
+
+
+=== Unità non SI accettate dal Sistema InternazionaleModifica ===
+Queste unità vengono accettate accanto a quelle ufficiali del SI in quanto il loro uso è tutt'oggi molto diffuso in tutta la popolazione anche non di ambiente scientifico. Il loro uso è tollerato per permettere agli studiosi di far capire le loro ricerche a un pubblico molto ampio, anche di non esperti nel settore. Questa categoria contiene soprattutto unità di tempo e di angoli. Anche i simboli ° ' " andrebbero scritti distanziati dal valore numerico: per esempio «25 °C» è la forma corretta, mentre «25°C» è la forma errata.
+
+
+==== Unità non SI accettate perché più preciseModifica ====
+Queste unità sono accettate perché quelle previste dal SI sono ricavate mediante relazioni fisiche che includono costanti non conosciute con precisione suffici

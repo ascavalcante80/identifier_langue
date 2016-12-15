@@ -1,0 +1,372 @@
+Ein Mobiltelefon, auch Handy, Funktelefon, GSM-Telefon (nach dem Mobilfunkstandard GSM), in der Schweiz auch Natel genannt, ist ein tragbares Telefon, das über Funk mit dem Telefonnetz kommuniziert und daher ortsunabhängig eingesetzt werden kann. 2013 wurden weltweit erstmals mehr internetfähige Mobiltelefone mit berührungsempfindlichen Bildschirmen (Smartphones) als herkömmliche Mobiltelefone verkauft. Die zehn größten Hersteller von Mobilfunkgeräten weltweit waren im Jahr 2012 Samsung, Nokia und Apple, danach folgten ZTE, LG, Huawei, TCL, Blackberry (RIM), Motorola und HTC.
+
+
+== GeschichteBearbeiten ==
+
+Vor den Geräten, die heute als Mobiltelefon bezeichnet werden, gab es einige Vorläufer. Die Entwicklung des Mobilfunks begann 1926 mit einem Telefondienst in Zügen der Deutschen Reichsbahn und Reichspost auf der Strecke zwischen Hamburg und Berlin. Dieser Telefondienst wurde nur den Reisenden der 1. Klasse angeboten, doch schon 1918, rund fünf Jahre nach der Erfindung des Meißnerischen Röhrensenders, führte die Deutsche Reichsbahn im Raum Berlin Versuche mit Funktelefonen durch.
+Schon früh äußerten Künstler und Schriftsteller ihre Phantasien über die möglichen Auswüchse der Mobiltelefonie. So beschreibt Gustav Hochstetter 1913 einen gestressten Firmenchef, der auf ärztlichen Rat durch Wandern in Schweigsamkeit wieder Kraft tanken soll. Da hört er in der Abgeschiedenheit der Berge plötzlich etwas aus seinem Rucksack – seine Frau ruft ihn an:
+
+1926 entwarf der Zeichner Karl Arnold im Simplicissimus ein visionäres Bild vom Sinn und Unsinn des mobilen Telefonierens auf offener Straße in dem Bild „Drahtlose Telephonie“. Aus dem Jahr 1931 stammt eine weitere literarische Schilderung einer Mobiltelefon-Utopie. Sie findet sich in Erich Kästners Kinderbuch Der 35. Mai oder Konrad reitet in die Südsee:
+
+Die ersten Mobilfunkgespräche wurden über in Kraftfahrzeugen montierte Endgeräte – Autotelefone – im Jahr 1946 möglich. Die US-Firma Bell Telephone Company bot ihren Mobile Telephone Service an, über den am 17. Juni 1946 in St. Louis die ersten Gespräche geführt wurden; ab 2. Oktober desselben Jahres war ein Autotelefonservice der Illinois Bell Telephone Company in Chicago verfügbar.
+Die ersten deutschlandweit verwendbaren Autotelefone gab es 1958. Die Geräte waren wegen der für die Funktechnik verwendeten Vakuumröhren recht groß. Gespräche wurden handvermittelt, die Gerätepreise lagen bei etwa 50 % des Wagenpreises. (A-Netz)
+1973 stellte ein Entwicklerteam bei Motorola um Martin Cooper und Chefdesigner Rudy Krolopp den ersten Prototyp eines Mobiltelefons her. „Für das Innenleben plünderten die Ingenieure von Motorola damals UKW-Radios und kombinierten diese mit einem leistungsfähigen Stromspeicher, dem Metall-Hydrid-Akku“. Im Oktober 1973 wurde ein US-Patent eingereicht, aber erst 1975 erteilt. Cooper machte am 3. April 1973 den ersten Anruf über ein Mobiltelefon, bei dem er seinen Rivalen bei den Bell Labs anrief.
+Ab 1974 gab es in Österreich das B-Netz, in dem schon automatisch vermittelt wurde. Sieben Jahre später hatte es 1000 Teilnehmer. Das Aufenthaltsgebiet (Österreich war in etwa 3 solche Gebiete mit jeweils eigener Vorwahl geteilt) eines Teilnehmers musste bekannt sein, um ihn anrufen zu können. 1975 wurde in der Schweiz das Nationale Autotelefonnetz (Natel) eingeführt. Ab 1983 folgte Natel B; im selben Jahr wurde das bei Motorola seit 1973 entwickelte erste kommerzielle Mobiltelefon „Dynatac 8000x“ offiziell vorgestellt.
+Ab 1985 gab es in Deutschland und Österreich das kleinzellige analoge C-Netz. Es ermöglichte eine geringere Sendeleistung der Telefone und damit kleinere, nicht mehr praktisch an Autoeinbau (auch im Kofferraum) gebundene Geräte. „Portables“, kleine Kistchen mit Tragegriff und einem angeschlossenen Telefonhörer sowie einer längeren Antenne, kamen auf den Markt. 1987 wurde in der Schweiz das Autotelefonnetz Natel C eingeführt.
+Durch die Einführung flächendeckender digitaler Mobilfunknetze (D-Netz Ende der 1980er/Anfang der 1990er Jahre in Deutschland, Österreich und der Schweiz) konnte die benötigte Batterieleistung der Mobiltelefone und damit auch deren Größe erneut vermindert werden. 1992 wurde in den USA das erste GSM-fähige Mobilgerät von Motorola, das International 3200, vorgestellt. Im Sommer 1992 nahmen in Deutschland die Netze D1 (Betreiber: DeTeMobil Deutsche Telekom Mobilfunk) und D2 (Betreiber: Mannesmann Mobilfunk) den Betrieb auf. In der Schweiz wurde Natel D auf GSM-Basis lanciert. 2001 nahm die britische Manx Telecom auf der Isle of Man das weltweit erste UMTS-Netz in Betrieb; in Deutschland ist UMTS seit 2004 kommerziell verfügbar. Der 3G-Standard UMTS zeichnet sich durch deutlich erhöhte Datenraten aus, wodurch internetbezogene Anwendungen, vor allem auf Smartphones, erheblich beschleunigt werden. Der vorherige Trend, die Geräte immer mehr zu verkleinern, wurde durch größere Geräte mit großen Touchscreen-Bildschirmen teilweise umgekehrt. Ende 2009 wurden die ersten Mobilfunknetze der vierten Generation (4G) verfügbar; mit LTE und später LTE-Advanced erhöhten sich wiederum die maximal möglichen Datenraten, ohne dass die 4G-Netze bisher für reine Sprachdienste nutzbar sind.
+
+
+== Aufbau und TechnikBearbeiten ==
+
+Wie das drahtgebundene Telefon besteht das Mobiltelefon aus einem Lautsprecher, einem Mikrofon, einem Bedienteil (Tastatur und Anzeige) und einer Steuerung (meist ein Mikrocontroller). Zusätzlich hat es ein Funkteil (Sendeempfänger, Antenne) und eine eigene Stromversorgung (meist einen Akkumulator). Generell ist zum Betrieb eine SIM-Karte notwendig (bis 2009 ausgenommen Notrufnummern), die zur Identifizierung gegenüber dem Mobilfunknetz genutzt wird.
+Mobiltelefone in Europa funktionieren heutzutage nach dem GSM-Standard. Sie benutzen Frequenzen um 900 MHz (D-Netz) beziehungsweise 1800 MHz (E-Netz). Erste Telefone die Dualband-GSM, also D- und E-Netz gleichermaßen unterstützen kamen gegen Ende der 1990er Jahre auf. Das erste GSM-Telefon mit Dual-Band Technik war das Motorola 8900. Triband-Mobiltelefone können zusätzlich auf 1900 MHz oder 850 MHz operieren, diese Frequenzen werden hauptsächlich in den USA genutzt. Quadband-Mobiltelefone beherrschen alle vier Frequenzen. Während die GSM-Basisstationen für Mobiltelefone Sendeleistungen von bis zu 50 Watt (D-Netz) bzw. 10 Watt (E-Netz) haben, kommen Mobiltelefone mit Sendeleistungen von max. 2 W (D-Netz) beziehungsweise 1 W (E-Netz) aus. Für die Übertragung wird als Modulationsart GMSK (Gaussian Minimum Shift Keying, eine weiterentwickelte, optimierte Version der FSK) verwendet.
+In der nächsten (dritten) Generation der Mobilfunkgeräte gibt es zwei konkurrierende Standards: Universal Mobile Telecommunications System, abgekürzt als UMTS, als eine Weiterentwicklung von GSM sowie den Standard CDMA2000, der vor allem in den USA weit verbreitet ist. Sowohl UMTS als auch CDMA2000 basieren auf Code Division Multiple Access (CDMA), sind aber zueinander nicht kompatibel. Beide arbeiten bei Frequenzen um 1800 bis 1900 MHz, benutzen viele kleine Funkzellen und sind für höhere Datenübertragungsgeschwindigkeit und höhere Nutzerzahl optimiert. Wegen der kleineren Funkzellen und bedingt durch weiterentwickelte Modulationsverfahren konnte die Sendeleistung der Mobiltelefone gegenüber GSM auf 0,125–0,25 W reduziert werden.
+
+
+=== BetriebssystemeBearbeiten ===
+
+Ältere GSM-Telefone (wie z. B. das im obigen Bild gezeigte Siemens S25) haben meist nur ein einziges Betriebssystem, welches alle Aufgaben wahrnimmt. Moderne Smartphones verwenden hingegen ein Echtzeit-Hauptbetriebssystem auf welchem die Benutzeranwendungen ausgeführt werden, und das sogenannte Baseband-Betriebssystem, welches die eigentliche Kommunikation mit dem Handynetz übernimmt. Das Baseband-Betriebssystem ähnelt in der Funktionsweise einem herkömmlichen Nicht-Smartphone-Betriebssystem, hat jedoch üblicherweise keine Benutzeroberfläche und läuft im Hintergrund auf einem eigenen Prozessor und Speicher getrennt vom Hauptbetriebssystem.
+Das Hauptbetriebssystem des Mobiltelefons wird bei Smartphones meist nicht vom Hersteller produziert, sondern in Lizenz betrieben. Das unter Smartphones mit Abstand verbreitetste Betriebssystem ist Android. Weitere verbreitete Systeme sind iOS von Apple und das auf Windows NT basierende Windows Phone von Microsoft. Auf herkömmlichen Nicht-Smartphones beziehungsweise klassischen Handys wird meist ein proprietäres Betriebssystem des Herstellers verwendet. Andere Betriebssysteme führen eher ein Nischendasein und konnten sich am Markt nicht durchsetzen. Dazu gehören unter anderem das erst seit 2013 verfügbare Firefox OS und die abgekündigten Systeme Bada, Symbian sowie Series 40 bzw. Asha. Einige wenige Mobiltelefone laufen mit linuxbasierten Betriebssystemen (z. B. Android Jolla, Maemo, MeeGo und Tizen), zu deren Weiterentwicklung einige Firmen aus dem Mobilfunkbereich 2007 die LiMo Foundation gegründet haben. Die Entwicklung wurde jedoch weitestgehend eingestellt.
+Der Übergang von Smartphones zu PDAs und Tablets ist fließend (siehe Phablet/Smartlet).
+
+
+=== SchnittstellenBearbeiten ===
+Ein Mobiltelefon verfügt als Schnittstellen im Allgemeinen über:
+mindestens ein Modem (GSM, 3G oder LTE bei volldigitalen Mobiltelefonen), mit dem die Kommunikation zwischen Endgerät und Mobilfunktnetz erfolgt. Bei vielen Telefonen können über das Modem zusätzlich Textnachrichten verschickt und auf das Internet zugegriffen werden. Mitunter kann das Modem auch in den vorherigen Modi funken, selten auch gleichzeitig, oder das Mobiltelefon besitzt ein zweites Modem.
+Kabelgebundene Schnittstelle ist meist eine USB-Schnittstelle. Ältere Mobiltelefone haben auch proprietäre Kabelschnittstellen oder Anschlüsse für eine Halterung in Kraftfahrzeugen.
+Infrarot war bis zu seiner Verdrängung durch effizientere Datenübertragungsstandards bei Mobiltelefonen verbreitet.
+Als leistungsfähigere Schnittstellen für den Nahbereich sind bei Mobiltelefonen oftmals Bluetooth, W-LAN und NFC im Einsatz.
+Vor allem bei Smartphones anzutreffen sind eine analoge Audioschnittstelle (meist ein 3,5 mm-Klinkenanschluss) und eine Videoschnittstelle (meist ein Mini-HDMI-Anschluss).
+Zum Laden der Akkus besitzt ein Handy entweder eine extra Ladebuchse, oder es wird der USB-Anschluss hierzu mitverwendet. Mitunter kann auch drahtlos mittels magnetischem Wechselfeld geladen werden (z. B. Qi)
+
+
+=== LadegeräteBearbeiten ===
+
+Die Ladegeräte für Mobiltelefone unterscheiden sich von Hersteller zu Hersteller. Auf Druck der Europäischen Union vereinbarten alle großen Mobiltelefon-Hersteller (außer Apple) ab 2010 die Einführung eines gemeinsamen Standards für Ladegerätstecker auf der Grundlage des Micro-USB-Steckers. Damit können zukünftig alle neueren Mobiltelefone mit dem gleichen Ladegerät geladen werden. Ab 2017 müssen alle in der Europäischen Union verkauften Mobiltelefone und Smartphones, sowie voraussichtlich auch andere kleinere mobil nutzbare Geräte, wie zum Beispiel Tablet-PCs, über einheitliche Ladegeräte versorgt werden können.
+
+
+=== BauartenBearbeiten ===
+Übliche Bauformen:
+(Candy-)Bar/Barren/Riegel – klassische Bauweise, die der Form eines Schokoriegels (englisch candy bar) ähnelt, beispielsweise Nokia 6230. Mobiltelefone, deren Tastatur von simplen Klappen oder Schiebemechanismen ohne weitere Funktion geschützt sind, zählt man zu den „Candybar“-Telefonen wie das Nokia 7110 oder das Siemens S25.
+Folder/Clam-Shell/Klapphandy – zweigeteiltes Mobiltelefon mit einem Scharnier in der Mitte. Im aufgeklappten Zustand trägt der obere Teil meist das Display, der untere die Tastatur. Zusammengeklappt liegen beide Teile gegenüber und werden auf diese Weise geschützt. Beispiel: Motorola RAZR.
+Jack-Knife – horizontales Drehgelenk, beispielsweise Sony Ericsson W550i
+Slider (Schiebehandy) – Display und Bedientasten werden vertikal über die Wähltasten hochgeschoben, beispielsweise Samsung SGH D500.
+Swivel-Klapptelefone – mit drehbarem Bildschirm, beispielsweise Samsung SGH-P900.
+Touch Phones – Smartphones, die mittels eines Touchscreen-Displays und ggf. einer als Multi-Touch bezeichneten Technik vorwiegend mit den Fingern gesteuert werden. Bereits 1992 stellte IBM das erste Mobiltelefon mit Touchscreen vor. Andere Quellen zählen Mobiltelefone mit berührungsempfindlichen Bildschirmen zur Candy-Bar-Bauform.
+Spezialformen:
+Armbandmobiltelefon oder Handyuhr
+Mobilfunk-GSM-Tischtelefone – herkömmlichen schnurgebundenen Festnetztelefonen nachgebaut – auch diese sind wie GSM-Gateways vornehmlich zum stationären Betrieb geeignet. In Deutschland wurde etwa das Modell GDP-02 des tschechischen Herstellers Jablotron von O₂ und Vodafone vermarktet.
+Mobilfunk-Gateways – Sonderformen von Mobilfunk-Endgeräten zum stationären Betrieb, die den Anschluss von Telefonanlagen und herkömmlichen Festnetztelefonen ermöglichen.
+
+
+=== Solarbetriebene MobiltelefoneBearbeiten ===
+Nach Einzug der solarbetriebenen Mobiltelefon-Ladestationen wurde bereits im Jahr 2001 von der südkoreanischen Firma „CR Telecom“ ein Solar-Mobiltelefon vorgestellt. Die Ladezeiten entsprachen in etwa den Gesprächszeiten, ein effektives Laden der Geräte war aber nur bei einfallendem Sonnenschein möglich. Im selben Jahr stellte das Fraunhofer-Institut für Solare Energiesysteme den Prototyp eines „Siemens-C25“-Mobiltelefons mit solarbetriebenem Akku vor. Diese neuartigen Module waren zwar kostengünstig, aber auch sie lieferten zu wenig Energie für akzeptable Gesprächszeiten.
+
+
+== AusstattungBearbeiten ==
+
+
+=== MitteilungenBearbeiten ===
+
+Mobiltelefone ermöglichen es meist, Textnachrichten, eventuell auch kombiniert mit multimedialen Inhalten, zu versenden. Das Short Message Service (SMS) ermöglicht kurze Textmitteilungen von einer Länge bis zu 160 Zeichen. Die erste short message wurde im Dezember 1992 von einem PC an ein Mobiltelefon im britischen Vodafone-Netz gesendet. 1994 konnte ein Mobiltelefon auch erstmals eine SMS direkt verschicken. Für die Kurzmitteilungen hat sich der Name SMS eingebürgert, obwohl das Kürzel SMS eigentlich nur den Trägerdienst bezeichnet.
+Ursprünglich als reines „Abfallprodukt“ kostenlos angeboten, entwickelte sich SMS zum Hauptertragsbringer für die Netzbetreiber. Im Jahr 2005 wurden bundesweit über 61 Millionen Kurzmitteilungen pro Tag versendet, bis zum Jahr 2011 stieg die Zahl auf 148 Millionen. Bei einer gründlichen Betrachtung überrascht der Erfolg dieses Dienstes nicht, weil er in Kombination mit einem Mobiltelefon sehr viel gebrauchstauglicher zu nutzen ist als seine inzwischen fast schon vergessenen Vorgänger, die digitalen Funkmeldeempfänger (sogenannte Pager). Weiterentwicklungen von SMS existieren unter dem Namen Enhanced Message Service (EMS) und Multimedia Messaging Service (MMS). MMS bietet die Möglichkeit, mit einem Mobiltelefon multimediale Nachrichten (Videos, Bilder, Ton und Text) von bis zu 500 KB an andere mobile Endgeräte zu versenden. MMS ist nicht kompatibel zu SMS oder EMS, Endgeräte müssen MMS explizit unterstützen. Einige Netzbetreiber bieten andernfalls den Abruf der MMS über das Internet und ein Kennwort, das dem Empfänger per SMS mitgeteilt wird, an.
+Für Gehörlose und hochgradig Schwerhörige bietet somit die „SMS“-Funktion eine Möglichkeit, ein Mobiltelefon zu benutzen, wie auch beim Bildtelefon und Schreibtelefon.
+Die Anzahl der in Deutschland versendeten Kurznachrichten stieg bis zum Jahr 2012 auf 163 Millionen an. Seitdem ist ein deutlicher Abwärtstrend zu verzeichnen, innerhalb von zwei Jahren brach die Zahl der gesendeten Kurznachrichten um 55 % ein. Als Ursache dafür werden Instant-Messenging-Programme wie WhatsApp und Telegram gesehen. Mit dem Messenger WhatsApp wurden Anfang 2014 täglich etwa 50 Milliarden Nachrichten versendet, im April desselben Jahres stieg die Zahl auf 64 Milliarden an. Die SMS ist mit 55 Milliarden versendeten Einheiten unter das Niveau der Instant Messenger gefallen. Während jeder Bundesbürger zu Jahresanfang 2014 zwei SMS täglich verschickte, sendete jeder WhatsApp-Nutzer 30 Nachrichten pro Tag.
+
+
+=== KameraBearbeiten ===
+
+Für Mobiltelefone mit eingebauter Kamera hatten sich zwischenzeitlich die Begriffe Fotomobiltelefon bzw. Fotohandy als Unterscheidungskriterium etabliert. Wegen der zunehmenden Verbreitung der Fotofunktion in Mobiltelefonen haben diese Begriffe jedoch schnell wieder an Bedeutung verloren.
+
+
+==== GeschichteBearbeiten ====
+1999 erschien für den japanischen Markt das weltweit erste Mobiltelefon mit integrierter Digitalkamera, das Toshiba Camesse mit dem Betriebssystem GEOS-SC. Das Camesse wurde in Japan schnell zum Kultgerät und hatte mehrere Nachfolger. Im japanischen Internet existieren mehrere Dienste, auf die private Camesse-Fotos geladen und veröffentlicht werden können. Beim Camesse konnten die Fotos direkt im Mobiltelefon mit einer Grafiksoftware bearbeitet werden. Seit 2002 werden immer mehr Mobiltelefone mit integrierter Kamera ausgestattet. Bei diesen Fotomobiltelefonen befinden sich die Bildaufnahmegeräte meist auf der Rückseite des Mobiltelefons.
+
+
+==== Technischer FortschrittBearbeiten ====
+
+Die fotografische Qualität der ersten Kameramobiltelefone reichte Anfangs nicht an Digitalkameras gleicher Zeit heran. Gegen Ende 2002 gab es noch keine Mobiltelefonkameras, die Bilder mit mehr als 640 x 480 Pixeln aufnahmen. In Deutschland war das im Jahr 2004 erschienene Sharp GX 30 das erste Fotohandy mit einer 1-Megapixel-Kamera. Die Auflösung der Handykameras wuchs seit ihrer Einführung stetig an und fand im Nokia Lumia 1020 mit 41 Megapixeln ihren bisherigen Höhepunkt. Die Auflösung moderner Handykameras ist jedoch in den meisten Fällen nicht höher als 8 bis 13 Megapixel, da eine höhere Auflösung auf einem kleinen Bildsensor, wie er in einem Handy Platz finden muss, zu schlechter Bildqualität führt und auch das optische Linsensystem meist keine feineren Details ermöglicht. Das Unternehmen Apple bietet keine Smartphones an, deren Kameraauflösung mehr als 12 Megapixel beträgt.
+Mit den integrierten Kameras können meist auch Videos aufgenommen werden. Deren Qualität ist stark abhängig vom Mobiltelefon. Herkömmliche Nicht-Smartphones liefern meist schlechte Aufnahmen. Videoaufzeichnungen erfordern einen leistungsfähigen Grafikprozessor, um annehmbare Resultate zu erzielen. Bei modernen Smartphones ist dies oft gegeben, wodurch hier die Auflösung von Filmmaterial meist Full-HD beträgt. An die Qualität von Spiegelreflexkameras kommen Handykameras üblicherweise nicht heran, dennoch lassen sich Handykameras für die Aufzeichnung anspruchsvoller Filme verwenden.
+Mobiltelefonkameras machen es auch möglich, gedruckte QR-Codes zu lesen, die in Japan als mobile Internet-Links für die Teilnahme an Gewinnspielen beliebt sind. QR-Codes beinhalten dabei meist einen Link auf eine Internetseite. Andere Anwendungsmöglichkeit ist etwa die Rückverfolgung von Lebensmitteln.
+Im Zuge der Versuche, Kameras in Mobiltelefone zu integrieren, gibt es auch die umgekehrte Variante, die Integration eines Mobilfunkmodems in eine Kamera. Beispiel für ein solches Gerät ist Samsung Galaxy Camera. Diese Kompaktkamera verwendet das Telefonbetriebssystem Android. Ebenfalls am Markt erhältlich sind Aufsteckobjektive für Mobiltelefonkameras sowie Digitalkameras, die sich mit einer Anwendung auf dem Telefon steuern lassen.
+
+
+==== KritikBearbeiten ====
+Das zunehmende Verschmelzen von einfachen Fotoapparaten und Mobiltelefonen birgt auch Gefahren in sich, die zu Kritik an dieser Funktionalität führen:
+Zunehmend verbieten größere Firmen ihren Mitarbeitern, Mobiltelefone mit Kamerafunktion auf das Werksgelände zu bringen. Diese stellen im Bereich der Werksspionage ein Sicherheitsrisiko dar. Wo bis dato ein Film- und Fotografierverbot galt, führt dies zu einem De-facto-Mobiltelefonverbot. Dies führt bei konsequenter Durchsetzung zu hohem Aufwand und Unverständnis bei Belegschaft und Besuchern.
+Fotohandys gerieten in die Kritik durch zunehmenden Voyeurismus, zum Beispiel in Badeanstalten oder Umkleidekabinen, bei denen die Opfer unbemerkt mit den unauffälligen Handys fotografiert oder gefilmt werden.
+Mit steigender Verbreitung von Fotohandys gerieten jugendliche Täter häufiger in die Schlagzeilen, die damit Gewaltakte fotografierten oder filmten und anschließend anderen zugänglich machten (Happy Slapping). Bekannt wurde der Fall einer gefilmten Vergewaltigung einer 16-Jährigen durch vier 13- bis 15-jährige Jugendliche 2006 im Volkspark Jungfernheide in Berlin.
+
+
+=== AnwendungenBearbeiten ===
+
+
+==== MusikplayerBearbeiten ====
+Seit 1998 sind Mobiltelefone mit integriertem FM-Radio (das Ohrhörerkabel wird als Antenne verwendet) und seit 2000 mit integrierter Musikabspielfunktion erhältlich. Mit derartigen Mobiltelefonen können Musikdateien wie bei einem MP3-Player in den Gerätespeicher geladen werden. Viele Mobiltelefone bieten seit 2001 die Möglichkeit, ihre jeweilige Speicherkapazität mittels einer Speicherkarte zu erweitern – je nach Modell bis zu mehreren GB.
+
+
+==== InternetzugriffBearbeiten ====
+
+Viele Mobiltelefone, die vor dem Populärwerden von Smartphones auf dem Markt kamen, besitzen einen Browser zum Surfen auf WAP- und Mobile-HTML-Seiten. Wobei ein erstes WAP-fähiges Handy bereits 1999 veröffentlicht wurde. Die WAP-Technik ist mittlerweile obsolet und wurde von der Möglichkeit, das herkömmliche Internet auf dem Handy zu nutzen verdrängt. Steve Jobs kritisierte bei der Präsentation des iPhone die WAP-Technik als „Baby-Internet“ und stellte den Internet-Browser Mobile Safari als „ersten echten Internet-Browser auf einem Smartphone“ dar. Moderne Smartphones haben meist einen mitgelieferten Browser, mit dem sich HTML-Webseiten relativ komfortabel betrachten lassen können. Alternativ lassen sich auf Smartphones auch Browser von Drittanbietern wie Opera Mini nachinstallieren.
+Moderne Smartphone-Anwendungen bieten für den Internetzugriff vielfältige Vernwendungsmöglichkeiten, wie etwa das Abrufen von Aktien oder Wetterdaten sowie auf Online-Kartenmaterial gestützte Navigation. Auch Instant-Messenger verwenden zum Versenden von Textnachrichten das Mobile Internet.
+
+
+==== Push-to-talkBearbeiten ====
+Der Dienst Push-to-talk („drücken, um zu sprechen“) ermöglicht es, kurze Sprachnachrichten an einzelne Nutzer oder Gruppen zu versenden. Dieser Dienst wird in Deutschland nicht mehr unterstützt (vorher nur Telekom/D1). Durch die Popularität von Instant-Messengern erlebt die Push-to-talk-Funktion eine gewisse Renaissance, da derartige Programme eine solche Funktion bieten. Dies ist jedoch im Gegensatz zum ursprünglichen Push-to-talk nicht providergestützt, sondern basiert auf der Infrastruktur des Instant-Messengers.
+
+
+==== AppsBearbeiten ====
+Erste Anwendungen von Drittanbietern, sogenannte Apps (Abkürzung von Application, englisch für Anwendung) wurden durch die Vorstellung der Java ME (Java Micro Edition) im Jahre 1999 möglich. Es wurden in den Folgejahren mehrere Mobiltelefone mit der Java-Technik ausgestattet, wodurch die Midlets genannten Anwendungen eine gewisse Popularität erfuhren. Die Java-Plattform wurde 2007 abgekündigt.
+Mit dem Erscheinen von Smartphones wurden die Möglichkeiten von Anwendungen weiter ausgebaut. Beim Erscheinen des ersten iPhone war Steve Jobs für ein geschlossenes Betriebs- und Anwendungssystem, und meinte, Webapps würden den Dienst von nativ installierten Anwendungen genauso zuverlässig und schnell erledigen. Dennoch verkündete Apple am 17. Oktober 2007, auf Drängen des Vorstands und der Medien, im Februar 2008 ein Software Development Kit (SDK) für Entwickler freizugeben. Das Resultat für die Endbenutzer war der App Store, aus dem Apps heruntergeladen werden können. Dadurch lässt sich das Mobiltelefon um ein Vielfaches an Anwendungsmöglichkeiten erweitern.
+Mit Hilfe der Programmierumgebungen (SDKs) lässt sich das Mobiltelefon – wie viele andere Computersysteme – auch gravierender modifizieren. Ein Gerät kann somit vollkommen andere Aufgaben wahrnehmen als die ursprünglichen Mobiltelefonfunktionen. Seit der Einführung von Smartphones sind SDKs jedoch überwiegend für die Entwicklung kommerzieller Anwendungen (den genannten Apps) im Gebrauch, wie z. B. Xcode für das iPhone.
+
+
+=== GNSS-EmpfangBearbeiten ===
+GPS- und GLONASS-Signale werden in Mobiltelefonen von Navigationsprogrammen genutzt. 2005 erschien bereits das erste Smartphone mit eingebautem GPS-Empfänger. Es handelte sich um das Siemens SXG75. Kurz darauf folgte das Motorola A780, allerdings fanden beide aufgrund niedriger Verkaufszahlen wenig Verbreitung. Erst 2007 folgten dann das Nokia N95 oder HTC P3300. GPS-Empfänger konnten aber auch vorher schon extern über Bluetooth oder Kabel angeschlossen werden. Frühere Versuche der Integration von GPS-Hardware in Mobiltelefone scheiterten an deren enormen Energiebedarf, einige Modelle kamen dennoch bereits ab 2001 auf den Markt. Seit ca. 2012 empfangen viele Smartphones neben GPS- auch GLONASS-Signale.
+Im Gegensatz zu Navigationsgeräten verlangten viele Mobiltelefonhersteller in der Anfangszeit noch Gebühren für Navigation. Dies geschieht meist über den Umweg, dass der Abgleich zwischen Position und Karte aktiv vom Netzanbieter über eine eigene Software erfolgt, in (A-GPS) durch die Hinzunahme einer Funkzellen-Ortung, die dann in Datenvolumen oder Kilometer abgerechnet wird, oft auch nur über eine Onlinekarte, die sekundär einen Zugang zum Internet erzwingt.
+Etliche Apps bieten mittlerweile jedoch auch eine gänzlich kostenlose Offline-Führung an, sofern das Mobiltelefon kompatibel ist und genug eigenen Speicher für die Karte aufweist. Eine externe GNSS-Maus kann den Empfang der Mobiltelefone verbessern.
+In der Anfangszeit lieferten Navigations-Programme wie Trekbuddy nur eine Kompass-Navigation bzw. benötigen für die exakte Straßen-Navigation vorher abgespeicherte Routendaten oder GPS-Punkte.
+
+
+=== BrandingBearbeiten ===
+Viele Netzbetreiber bieten über ihre Independent Service Provider – auch „Brands“, also Tochterunternehmen genannt – nur solche Mobiltelefone an, die mit einer von ihnen speziell angepassten Software ausgestattet sind (sog. „Branding“ oder „Customization“). Viele Änderungen werden speziell für den Netzbetreiber oder für den Service-Anbieter des Kunden vorgenommen, bevor dieser das Mobiltelefon erwirbt. Dadurch werden Funktionen des Telefons erweitert, entfernt oder verändert. So werden Kunden durch zusätzliche Menüeinträge im Browser („Favoriten“) – im Extremfall sogar durch zusätzliche Tasten – automatisch zu den Portalseiten der Service-Anbieter oder der „Brands“ geführt, FAQ-Seiten hinterlegt, SIM-Lock eingerichtet, Rufnummerneinträge für Hotlines hinterlassen, der Netzbetreibername sowie der Hintergrund im Display geändert etc. Mittlerweile werden beim Branding oft normale Komfortfunktionen, wie etwa ein auf dem Gerät gespeichertes Bild per Knopfdruck an die Bildschirmgröße anpassen, entfernt. Üblich ist es auch, das Speichern von Spielen und ähnlicher Software (meist per Bluetooth und Infrarot) auf dem Telefon zu verhindern, um den Nutzer an die oft kostenpflichtigen „Downloadportale“ der Provider zu binden. Es besteht die technische Möglichkeit, die Software des Netzbetreibers wieder durch die des Telefonherstellers zu ersetzen (Debranding).
+
+
+=== Zweite Sende- und EmpfangseinheitBearbeiten ===
+Mobiltelefone, mit denen man mit zwei Netzkarten gleichzeitig anruf- und empfangsbereit ist, nennt man Dual-SIM-Handys. Moderne Dual-Sim-Telefone verfügen über 2 komplette Sende- und Empfangseinheiten, damit nicht wie bei älteren Modellen manuell gewechselt werden muss.
+
+
+== BezeichnungBearbeiten ==
+
+
+=== Entstehung der Bezeichnung „Handy“Bearbeiten ===
+Als gängige Bezeichnung für die neu eingeführten GSM-Mobiltelefone bürgerte sich ab etwa 1992 in der deutschen Umgangssprache der Begriff „Handy“ ein. Das in Deutschland oft gebrauchte Wort „Handy“ ist jedoch ein Scheinanglizismus (im Englischen bedeutet es „handlich“, „griffbereit“), da es in angelsächsischen Ländern so nicht bezeichnet wird. Von einigen – etwa vom Verein Deutsche Sprache – wurde die eingedeutschte Schreibweise „Händi“ empfohlen, die sich allerdings nicht durchsetzen konnte. Zur Entstehung des Begriffs gibt es zahlreiche widersprüchliche Erklärungsansätze, die bislang nicht schlüssig belegt werden konnten. Im Zweiten Weltkrieg produzierte Motorola erstmals neben dem Walkie-Talkie SCR-300, das auf dem Rücken getragen wurde, das Handie-Talkie SCR-536, das man wie ein Telefon in der Hand halten konnte. Bis heute gibt es Nachfolgemodelle dieses Namens, der seit 1963 auch in englischen Wörterbüchern geführt wird. Das erste D-Netz-Mobiltelefon, das den Begriff Handy im Namen führte, war das 1992 von Loewe vorgestellte HandyTel 100.
+In deutschsprachigen CB- und Funkamateur-Kreisen gab es die Bezeichnung Handy schon vor 1992. Gemeint war damit ein hand-held transceiver, also ein in der Hand gehaltener Sender und Empfänger. Meist waren damit die kleinen, so ähnlich wie ein Telefon aussehenden, Funkgeräte für die UKW-Bänder 2 m, 70 cm und 23 cm gemeint, wie das YAESU FT23. Dieses Funkgerät war relativ klein und konnte mit einer Hand bedient werden, im Gegensatz etwa zum YAESU FT290, das wesentlich größer war und das man in der Regel mit zwei Händen bedienen musste.
+Im englischsprachigen Raum wird das Wort „handy“ fast nur als Adjektiv verwendet („praktisch, bequem, handlich“) und nicht als Bezeichnung für ein Mobiltelefon. Deswegen gehört es in der deutschen Sprache zu den Scheinanglizismen: Es ist scheinbar ein Begriff aus dem Englischen, tatsächlich entstand der Begriff aber im deutschen Sprachgebrauch. Das US-amerikanische sowie südafrikanische Englisch spricht vom cell(ular) phone (cell ist die Zelle rund um einen Transceiver im mobilen Netzwerk), im britischen Englisch vom mobile phone oder kürzer mobile. In englischen Slang-Wörterbüchern wird das Substantiv „Handy“ in der deutschen Bedeutung aufgeführt, und entsprechend hat es sich auch in der angloamerikanischen Umgangssprache eingefunden.
+Ein handliches Taschenlampenmodell der Firma Daimon wurde 1937 unter dem Namen „Handy“ als Warenzeichen eingetragen: Es war das erste „Handy“ Deutschlands.
+In der Schweiz hat sich der Ausdruck Natel (als Abkürzung für Nationales Autotelefon) eingebürgert. Der Ausdruck wird jedoch von der Telefongesellschaft Swisscom als geschützte Marke allein für ihre Dienste beansprucht. Im Zuge der Öffnung des Mobilfunkmarktes verbreitet sich auch in der (deutschsprachigen) Schweiz der vom Netzbetreiber unabhängige Name Handy immer mehr, nicht jedoch auf offizieller Ebene.
+
+
+=== GSM-TelefonBearbeiten ===
+Der Begriff GSM-Telefon bezeichnet die Technik volldigitaler Mobiltelefone, die das 900 MHz-GSM-Mobilfunktnetz verwenden. Analog dazu würde theoretisch die Bezeichnung CDMA-Telefon existieren, die jedoch aufgrund nicht vorhandener CDMA2000-Mobilfunknetze in Deutschland ungebräuchlich ist. Des Weiteren unterstützen nahezu alle in Deutschland heute erhältlichen digitalen Mobiltelefone ebenfalls das 3G-Mobilfunknetz; da die 3G-Technik jedoch nicht in ältere Telefone Einzug finden kann und neuere Telefone noch immer das GSM-Mobilfunknetz unterstützen, ist die Bezeichnung 3G-Telefon nicht in Verwendung. Die mittlerweile obsoleten analogen Mobiltelefone fallen nicht unter die Bezeichnung GSM-Telefon, da sie eine andere Technik verwenden. Im US-amerikanischen Englisch wird das Wort cell phone, zu deutsch in etwa Funkzellentelefon verwendet, welches sich ebenfalls auf die digitale Mobilfunktechnik GSM und die darin verwendeten Mobilfunkzellen bezieht. Weltweit gibt es kaum einen Staat, in dem die GSM-Technik unverbreitet ist; deshalb ist GSM global als Bezeichnung für die digitale Mobilfunktechnik anwendbar.
+
+
+=== Bezeichnungen in anderen Sprachen bzw. LändernBearbeiten ===
+Auch in anderen Sprachen haben sich teilweise sehr plastische Bezeichnungen für das Mobiltelefon eingebürgert. Zumeist richtet sich die Bezeichnung nach einer augenfälligen Eigenschaft des Gerätes.
+Als sein wichtigstes Charakteristikum gilt die Portabilität: Der lateinische Wortstamm mobile findet sich – wie etwa in der deutschen Bezeichnung Mobiltelefon. Die Bezeichnung findet sich auch im Englischen (mobile phone, mobile) und in vielen anderen Sprachen wieder, etwa im Spanischen (móvil) oder im Katalanischen (mòbil). Daneben haben sich die Bezeichnungen „Tragbares“ (portable im Französischen, keitai (携帯 oder auch ケータイ) im Japanischen) oder „Reisetelefon“ (matkapuhelin) im Finnischen etabliert.
+In manchen Ländern richtet sich die Bezeichnung der Mobiltelefone nach deren Aufbewahrungsort: „Hosentaschen-Telefon“ (cep telefonu) im Türkischen, „Taschentelefon“ (fòn phoca oder fón póca) im Schottisch-Gälischen, im Irischen sowie (poŝtelefono) im Esperanto.
+In wieder anderen Sprachen zielt die Bezeichnung darauf ab, dass Mobiltelefone zum Telefonieren in der Hand gehalten werden: „Handtelefon“ (fòn làimhe) im Irischen, hand phone in vielen asiatischen Ländern (besonders: Singapur/Malaysia), sau kei oder shǒu jī (手机) (jeweils „Handmaschine“) in China, mue thue als Kurzform von thorasap mue thue โทรศัพท์มือถือ („handgehaltenes Telefon“) in Thailand.
+Oft nimmt die Bezeichnung auch den „zellulären“ Charakter des Mobiltelefonnetzes auf; eine häufige Bezeichnung ist daher „Netz-“ oder „Zelltelefon“ – so zum Beispiel das Englische cellular phone/cell phone (vor allem US-amerikanisches Englisch), das spanische celular, khelyawi im Libanon, komórka in Polen oder Ponsel (telepon selular) in Indonesien. Im Italienischen ist neben der Bezeichnung (telefono) cellulare – die den amerikanischen Sprachgebrauch widerspiegelt – auch die Diminutivform telefonino, also: „Telefönchen“ gebräuchlich. Während in Portugal die Bezeichnung telemóvel üblich ist, sagt man in Brasilien (telefone) celular.
+In anderen Ländern wiederum leitet sich die Bezeichnung vom GSM-Standard ab: Bulgaren bezeichnen Mobiltelefone neben Mobifon (мобифон) auch als dzhiesem (джиесем), Isländer als Gemsi (was auf Isländisch außerdem so viel bedeutet wie junges Schaf). Im niederländischen Sprachraum gibt es regionale Unterschiede bei der Bezeichnung. Während der allgemeine Begriff mobiele telefoon lautet, welcher gerade in den Niederlanden selbst auch oft im abkürzenden Diminutiv mobieltje gebraucht wird, findet sich besonders in Flandern, aber auch im Großherzogtum Luxemburg, weitverbreitet der Begriff GSM. Auch in Slowenien wird der Ausdruck gsm (in englischer Aussprache) oder aber mobitel verwendet. Auch mobilnik ist gebräuchlich.
+Darüber hinaus finden sich auch gänzlich andere Bezeichnungen: Im Iran werden Mobiltelefone als „Begleittelefon“ (telefon-hamráh oder hamráh – ‏تلفن همراه‎) bezeichnet, in Israel als „Wundertelefon“ (pelefon – ‏פלאפון‎). Hierbei ist zu bemerken, dass Pelephone auch der erste israelische Netzanbieter war. Das Wort wurde deshalb auch ins Palästinensisch-Arabische übernommen und als bilifōn ausgesprochen.
+In vielen arabischen Ländern wie den Vereinigten Arabischen Emiraten oder Saudi-Arabien wird es Jawwal – ‏جوال‎ bezeichnet, was „das, was durch die Gegend spaziert“ bedeutet und der Name der dortigen ersten Netzbetreiber ist. Dies ist zwar auch in den Palästinensischen Autonomiegebiete der Fall, dort hat sich aber der israelische Name bilifōn gehalten.
+Auf dänisch, schwedisch und norwegisch heißt Mobiltelefon mobiltelefon oder kurz mobil. In Schweden sind daneben umgangssprachlich auch Ficktelefon (zu schwedisch Ficka = „(Hosen-) Tasche“) und nalle zu hören. Letzteres bedeutet „Teddybär“ – das kam ursprünglich vom Ausdruck Yuppie-nalle, da sich bis in die späten 1980er Jahre nur reiche Yuppies Mobiltelefone leisten konnten, die sie dann stolz „wie einen Teddybären“ umhertrugen.
+
+
+== Das Mobiltelefon im AlltagBearbeiten ==
+
+
+=== Mobiltelefone als RuhestörerBearbeiten ===
+In einigen Umgebungen, insbesondere bei Aufführungen in Kinos, Theatern oder Opern und vor allem in Gotteshäusern oder auf Friedhöfen wird die Nutzung von Mobiltelefonen häufig als störend empfunden. Deshalb gehen etwa Kinobetreiber dazu über, die Nutzung aktiv oder passiv zu unterbinden. In Ländern wie den USA ist der Einsatz von Störsendern mittlerweile gängige Praxis, um eine störungsfreie Aufführung zu gewährleisten. In anderen Ländern wie auch Deutschland ist jedoch die Nutzung der Sendefrequenzen untersagt, da diese exklusiv den Netzbetreibern vorbehalten sind. Die Betreiber setzen deshalb auf die passive Störung von Funktelefonen durch eine gute Abschirmung der Säle. Das führt allerdings auch dazu, dass Mobiltelefone die maximale Sendeleistung abstrahlen.
+In vielen Ländern wird das Führen von Mobilfunkgesprächen in öffentlichen Verkehrsmitteln von den Mitfahrern oft als störend und als indirekter Zwang zum Mithören empfunden, zumal dabei meist lauter gesprochen wird als im Gespräch mit anwesenden Personen. In manchen Ländern, so in Japan, gilt es als verpönt, in öffentlichen Verkehrsmitteln Telefongespräche zu führen oder auch nur Klingeltöne erklingen zu lassen; auf diese Verhaltensregel wird mit Ansagen aufmerksam gemacht. In Graz wurde 2008 in den städtischen öffentlichen Verkehrsmitteln ein Telefonierverbot erlassen, das aber nicht durchgesetzt wird.
+
+
+=== Mobiltelefone und StraßenverkehrBearbeiten ===
+
+Die Benutzung eines Mobiltelefons während der Fahrt ohne Freisprecheinrichtung ist Fahrzeugführern in vielen Ländern verboten (auch in Deutschland, Österreich und der Schweiz). Bei Nichtbeachtung des Verbotes werden Bußgelder, in Deutschland zusätzlich auch eine Eintragung von einem Punkt im Fahreignungsregister verhängt. In Deutschland wurden im Jahr 2011 in 450.000 Fällen Autofahrer mit einem Mobiltelefon am Steuer ertappt.
+In Deutschland darf nach § 23 Abs. 1a derjenige, der „ein Fahrzeug führt, ein Mobil- oder Autotelefon nicht benutzen, wenn hierfür das Mobiltelefon oder der Hörer des Autotelefons aufgenommen oder gehalten werden muss. Dies gilt nicht, wenn das Fahrzeug steht und bei Kraftfahrzeugen der Motor ausgeschaltet ist“. Das Verbot der Benutzung eines Mobiltelefons gilt in Deutschland auch für Fahrradfahrer. Für einen Verstoß durch einen Fahrradfahrer ist nach der aktuellen Fassung des Bußgeldkataloges ein Verwarnungsgeld in Höhe von 25 € vorgesehen. Kinder unter zehn Jahren, die mit einem Kinderfahrrad fahren, werden nach der StVO als Fußgänger angesehen, weshalb für sie das Verbot der Benutzung eines Mobiltelefons nicht gilt.
+Als Benutzung des Mobiltelefons wird in der deutschen Rechtsprechung auch das Ablesen der Uhrzeit (OLG Hamm, Az. 2 Ss OWi 177/05), die Nutzung eines Mobiltelefons als Navigationssystems (OLG Köln, Az. 81SsOWi49/08) sowie das „Wegdrücken“ eines Anrufes (OLG Köln, Az. III-1RBs39/12) erachtet. Nicht als gegen das Verbot der Nutzung eines Mobiltelefons als im Sinne von § 23 Abs. 1a StVO wurde hingegen die Nutzung eines Mobiltelefons als Wärmeakku angesehen (OLG Hamm, 2 Ss OWi 606/07), das Aufnehmen des Mobiltelefones, ausschließlich zu dem Zweck, es von einem Ablageort an einen anderen zu legen (OLG Köln, Az. 83 Ss-OWi 19/05) sowie das Aufheben eines auf den Beifahrerfußraum gefallenen Mobiltelefons, um es auf den Beifahrersitz zu legen (OLG Düsseldorf, IV-2 Ss OWi 134/06-70/06 III). Das Bußgeld beträgt deutschlandweit 60 € zuzüglich Gebühren und Auslagen. Nach einem Beschluss der Oberlandesgerichtes Hamm vom 24. Oktober 2013 ist sogar „die wiederholte verbotswidrige Benutzung eines Mobil- oder Autotelefons […] geeignet, die Anordnung eines Fahrverbots wegen einer beharrlichen Pflichtverletzung zu rechtfertigen“ (Az.: 3 RBs 256/13). Als Grund für das Verbot wird die Ablenkung des Fahrers sowie gegebenenfalls der „Wegfall“ einer Hand für das Lenken genannt. Ein „Headset“ wird, im Gegensatz zu Deutschland, nicht in allen anderen Ländern als Freisprecheinrichtung anerkannt wird. Für Motorradfahrer, die auch während der Fahrt ihr Mobiltelefon nutzen möchten, existieren spezielle Motorrad-Gegensprechanlagen. Doch selbst bei Nutzung einer Freisprecheinrichtung kann ein Fahrzeugführer, wie neueste Studien zeigen, erheblich vom Verkehrsgeschehen abgelenkt werden. Britischen Studien zufolge muss die Fahrbeeinträchtigung des Fahrzeugführer durch das Telefonieren mit derjenigen gleichgesetzt werden, die unter Alkoholeinfluss erfolgt.
+In Österreich ist das Telefonieren mit einem Mobiltelefon während des Lenkens eines Kraftfahrzeugs seit dem 1. Juli 1999 verboten. Als Strafe ist eine Zahlung von 50 Euro vorgesehen, bei nicht sofortiger Zahlung kann von der Sicherheitsbehörde eine Geldstrafe bis zu 72 Euro oder alternativ eine 24-stündige Freiheitsstrafe verhängt werden.
+Die Anbindung des Mobiltelefons an die Freisprecheinrichtung des Kfzs kann entweder über einen sogenannten Snap-in-Adapter erfolgen, oder kabellos über den Datenübertragungsstandard Bluetooth, und zwar über die Bluetooth-Profile Hands Free Profile (HFP) oder remote SIM Access Profile (rSAP), wobei rSAP aufgrund der Nutzung der Außenantenne des Kfzs zu bevorzugen ist, bislang aber nur von einigen wenigen Mobiltelefonen unterstützt wird.
+2010 sind in den USA tödliche Unfälle von Fußgängern, die durch ihr Mobiltelefon abgelenkt wurden, um 4,2 Prozent gestiegen.
+Bei Straßenverkehrsunfällen setzen Unfallbeteiligte häufig die Kamerafunktion des Mobiltelefons zu Dokumentation der Unfallstelle ein – ggf. auch zusätzlich zur Verkehrsunfallaufnahme durch die Polizei.
+
+
+=== Das Mobiltelefon im KrankenhausBearbeiten ===
+In Krankenhäusern ist das Einschalten von Mobiltelefonen oft nicht erlaubt, da befürchtet wird, die elektromagnetischen Felder könnten die Funktion medizinischer Geräte beeinträchtigen. Untersuchungen der Universitätsklinik Gießen haben allerdings ergeben, dass medizinische Geräte erst bei einem Abstand von weniger als einem Meter durch Mobiltelefone beeinträchtigt werden können. Es würde also ausreichen, das Verbot in Krankenhäusern auf Räume wie Intensivstationen zu beschränken. Eine an der Mayo-Klinik durchgeführte Studie ergab ebenfalls, dass Krankenhausgeräte nicht von Mobiltelefonen beeinflusst werden: In 300 Tests fanden die Forscher keinen einzigen Nachweis dafür, dass die Nutzung eines Mobiltelefons zu einer Störung von Apparaten auf Intensivstationen und in anderen Bereichen des Krankenhauses führen könnte.
+Alle zugelassenen Geräte, besonders natürlich die in Krankenhäusern, müssen eine Mindeststörfestigkeit aufweisen, die ein Mehrfaches des beim Betrieb von Mobiltelefonen erreichten Signals betragen muss.
+
+
+=== Das Mobiltelefon im FlugzeugBearbeiten ===
+Auch in einigen Flugzeugen ist Mobiltelefonieren während des Fluges inzwischen erlaubt. Für Flugzeuge sind Systeme entwickelt worden, die den Gebrauch von Mobiltelefonen an Bord mitunter erst ermöglichen. Mehrere Fluggesellschaften planen, ihre Flugzeuge mit Sendegeräten auszustatten, die die Funksignale der Mobiltelefone über Satelliten an die Mobilfunknetze weiterleiten. Die Sendeleistung der Mobiltelefone wird durch das Bordsystem auf ein Minimum reduziert. Die Luftfahrtstandardisierungsgremien EUROCAE working group 58 und ihre US-amerikanische Entsprechung RTCA special committee 202 haben sich eingehend mit dem Thema befasst und Prüfvorschriften zum Nachweis der elektromagnetischen Verträglichkeit zwischen Mobilfunk und Bordelektronik entwickelt. EUROCAE hat die zugehörigen Nachweisverfahren und Analysen im Dokument ED-130 niedergelegt. In Deutschland regelt die Luftfahrzeug-Elektronik-Betriebs-Verordnung (LuftEBV) den Gebrauch elektronischer Geräte an Bord von Flugzeugen. In dieser LuftEBV wird der Gebrauch von Funktechniken innerhalb der Kabine gegenüber vorherigen Versionen der Verordnung auf Basis der Arbeiten der oben genannten EUROCAE- und RTCA-Gremien gelockert. Erste Mobilfunksysteme sind bereits in Übereinstimmung mit den einschlägigen Bauvorschriften für Flugzeuge von den europäischen Luftfahrtbehörden zugelassen. Gegenwärtig ist aber das Telefonieren mit Mobiltelefonen in der überwiegenden Mehrzahl der Flugzeuge nicht gestattet. Für die 1,8 GHz-GSM-Funknetze (E-Netze) liegt die Reiseflughöhe von Verkehrsflugzeugen (mehr als 10 Kilometer) bereits am Rande der Reichweite (Zellengröße meist max. 8 km), D-Netz-Zellen besitzen bis zu 50 km Funkreichweite. Der Rumpf vieler Verkehrsflugzeuge besteht aus Aluminium und dämpft Funksignale erheblich. Die ersten Großraumflugzeuge, deren Rumpf zu erheblichem Anteil aus kohlenstofffaserverstärktem Kunststoff besteht, sind der Airbus A350 sowie die Boeing 787 Dreamliner.
+
+
+=== MobiltelefonstrahlenfilterBearbeiten ===
+Vielfach werden sogenannte Mobiltelefonstrahlenfilter angeboten, die angeblich vor Strahlung schützen sollen. Vor dem Anbringen solcher Aufkleber oder Folien ist abzuraten, da diese die Nutzaussendung des Geräts beeinträchtigen können, wodurch der Regelkreis zwischen Mobilteil und Basisstation gestört wird. Dann sendet das Mobilgerät (und auch die Feststation) mit höherer Leistung, als in der jeweiligen Situation ohne Folie erforderlich wäre. Eine gesundheitsförderliche Wirkung der Filter gibt es deshalb nicht.
+Zudem ist das Anbringen jeglicher Vorrichtungen (Blinkantennen, Metallfolien und dergleichen) an einem Mobiltelefon nur dann zulässig, wenn es der Hersteller ausdrücklich gestattet, da sonst die Zulassung zum Betrieb des Gerätes in der EU gemäß den einschlägigen Gesetzen und Richtlinien erlischt (Österreich). Allgemein kann jede Veränderung, die die Funkeigenschaften beeinflusst (insbesondere anbringen elektrisch leitfähiger Objekte), zu empfindlichen Strafen führen, insbesondere bei verstärkender, richtender oder störender Wirkung.
+
+
+=== Mobiltelefone in der KunstBearbeiten ===
+Bei einer ganzen Reihe von Kunstprojekten wurden Mobiltelefone verwendet, um Interaktionen zu ermöglichen. So hat zum Beispiel das Projekt Blinkenlights unter anderem bei seiner Aktion Blinkenlights 2001 am Alexanderplatz in Berlin es Mobiltelefonnutzern ermöglicht, Lichtinstallationen per SMS zu steuern. Ein weiteres Beispiel stellt das sogenannte „Saroskop“ des Künstlers Martin Hesselmeier dar. Das Saroskop reagiert auf elektromagnetische Strahlung und ermöglichte damit u. a. Besuchern der Art Cologne 2008, mit ihren Handys Einfluss auf die Bewegungen des kinetischen Objekts zu nehmen.
+Mobiltelefone werden passgenau mit bekannten Kunstmotiven beklebt um eine Individualisierung im Alltag zu erreichen. Dazu werden bedruckbare Beschriftungsfolien eingesetzt, diese gewährleisten einen Schutz der Gehäuse vor Kratzern, sowie die Verwendung des Mobiltelefon als einzigartiges Kunstobjekt mit Motiven bekannter Künstler.
+
+
+=== NotruffunktionBearbeiten ===
+Mit jedem Mobiltelefon kann der Notruf 112 (über die „911“ gelangt man mit manchen Mobiltelefonen ebenso zur Notrufzentrale) erreicht werden, auch wenn kein Guthaben vorhanden ist. Ab dem 1. Juli 2009 ist es nötig, dass eine SIM-Karte eingelegt ist. Deutschland setzte damit eine EU-Richtlinie um, welche den Missbrauch von Notrufnummern verhindern soll. Zeitweise waren 80 Prozent der abgegebenen Notrufe missbräuchlich.
+
+
+=== NutzungsdauerBearbeiten ===
+Die durchschnittliche Besitzdauer eines Mobiltelefons beträgt in Deutschland, bedingt durch Vertragslaufzeiten und Innovationszyklen, 18 bis 24 Monate. In Europa werden jährlich etwa 100 Millionen Altgeräte entsorgt. Das entspricht 10.000 Tonnen oder 400 LKW-Ladungen. Seit dem 24. März 2006 können in Deutschland Mobiltelefone laut dem Elektro- und Elektronikgerätegesetz vom Verbraucher kostenlos entsorgt werden.
+
+
+== MobiltelefonindustrieBearbeiten ==
+
+
+=== EntwicklungBearbeiten ===
+Weltweit wurden im Jahr 2013 weltweit 1,8 Milliarden GSM-Telefone ausgeliefert, 1 Milliarde davon waren Smartphones. Der generierte Smartphone-Umsatz lag bei $181 Milliarden. Marktführer der Hersteller ist Samsung, mit einem Marktanteil von 31 %. Von sämtlichen weltweit in Betrieb befindlichen GSM-Telefonen laufen 1,336 Milliarden mit dem Betriebssystem Google Android, 360 Millionen mit Apple iOS. Android ist mit beinahe 80 % Marktanteil Marktführer.
+Die Mobiltelefonindustrie ist sowohl einem starken Wachstum als auch einer schnellen Zielproduktveränderung unterlegen. Gegen 1999 wurde für die Mobiltelefonindustrie ein starkes Wachstum prognostiziert. Im ersten Halbjahr 1999 stieg der Umsatz mit privat genutzten Mobiltelefonen in Deutschland um 7 % auf 1,35 Milliarden DM. 2013 waren es für das Gesamtjahr 8,3 Milliarden €. Bei der Einführung des kommerziellen volldigitalen 900 MHz GSM-Mobilfunks im Jahr 1992 in Deutschland gab es bundesweit 1 Millionen Mobiltelefonbesitzer. Bis zum Jahr 1998 stieg die Zahl auf 13,9 Millionen. 1998 prognostizierte man für das Jahr 2005 46,3 Millionen Mobiltelefonbesitzer, tatsächlich waren es 2005 etwa 57,4 Millionen. Bis zum Jahr 2013 stieg die Zahl auf 63 Millionen an; 40,4 Millionen davon waren Smartphone-Nutzer.
+Der Absatz sogenannter Smartphones hat in den letzten Jahren stetig zugenommen. Dabei hat sich auch die Bedeutung des Terminus gewandelt: Während ursprünglich (2004) ein Mobiltelefon mit PDA-Funktion als Smartphone bezeichnet wurde, versteht man heute (2014) ein Mobiltelefon mit großem berührungsempfindlichem Bildschirm und Apps als Smartphone. Es wird daher noch nicht sehr lange zwischen herkömmlichen Mobiltelefonen und Smartphones unterschieden. Im Jahr 2006 wurden weltweit 64 Millionen Smartphones verkauft, im Jahr 2005 wurde der Gesamtabsatz von Mobiltelefonen weltweit auf 810 Millionen geschätzt. Der Absatz von Smartphones würde somit im Jahr 2006 grob geschätzt 8 % des Gesamtabsatzes ausgemacht haben, zum Vergleich: 2013 waren es 55 % des weltweiten Absatzes an Mobiltelefonen. Auch die Anzahl der abgesetzten Smartphones nahm in den letzten Jahren stetig zu, 2010 waren es 300 Millionen, 2011 490 Millionen und 2013 eine Milliarde.
+
+
+=== RohstoffsituationBearbeiten ===
+2010 bestehen knapp 5 Milliarden Mobiltelefonverträge weltweit und es werden jährlich eine Milliarde Geräte hergestellt, die Haltbarkeit oder Nutzungsdauer liegt im Mittel bei drei Jahren. Ein Mobiltelefon besteht zu 56 % aus Kunststoff, zu 25 % aus Metall und zu 16 % aus Glas und Keramik, zusätzlich zu 3 % aus sonstigem. Zu den verwendeten Seltenen Erden gehören:
+Tantal: Coltan, das Ausgangsmaterial für Tantal reicht noch 150 Jahre, aber die Produktion ist begrenzt. Es gibt momentan (2010) keinen Austauschstoff.
+Indium: Pro Jahr werden 600 t raffiniert. Die Gewinnung ist an die Förderung von Zink gebunden. Für Flachbildschirme, Displays und Leuchtdioden ist es bislang unersetzlich.
+Gallium: Es ist Nebenprodukt der Aluminium- und Zinkherstellung. Die Reserven sind nicht knapp.
+Lithium
+Palladium: Die begrenzte Rohstoffmenge wird von der Nachfrage aus der Automobilindustrie bedrängt.
+Platin
+Weitere wichtige Metalle sind Kupfer (Leiterplattenherstellung), Gold und Silber (korrosionsbeständige Kontaktoberflächen, Bond-Verbindungen) sowie Zinn und Blei (Lötverbindungen). Blei wird aufgrund von RoHS bei neuen Mobiltelefonen allerdings kaum mehr eine Rolle spielen. Auch Beryllium ist als gut legierbarer Stoff in Leiterplatten enthalten. Antimon ist Bestandteil von bleifreien Loten und insbesondere in den Kunststoffgehäusen und der Tastatur als Flammhemmer enthalten.
+Das Recycling erfordert das Trennen des Materialgemisches. In einer Tonne „Mobiltelefon“ sind immerhin 4 Gramm Platin, 340 Gramm Gold und 3500 g Silber enthalten. Deshalb gilt das Recycling verbrauchter Produkte als wichtige Rohstoffquelle, zumal 80 % der verwendeten Materialien eines Mobiltelefons wiederverwertet werden können. Dazu wäre eine spezialisierte Industrie und die komplette Rücknahme verbrauchter Mobiltelefone nötig. Für ein solches Recyclingsystem plädierte im Juni 2012 der Sachverständigenrat für Umweltfragen im Sinne der Einführung eines Pfandsystems für Mobiltelefone, wobei der Vorsitzende des Umweltrates Martin Faulstich eine Pfandhöhe zwischen 30 und 100 Euro vorschlug.
+Es werden bis zu 30 Metalle und Mineralien zur Herstellung eines Mobiltelefons benötigt. Einige dieser Metalle werden vor allem in Minen abgebaut, die von sogenannten Warlords kontrolliert werden. Diese finanzieren mit den Gewinnen aus den Minen ihre Armee und somit den Bürgerkrieg, z. B. den Ostkongo-Konflikt.
+
+
+=== Herstellungskosten von MobiltelefonenBearbeiten ===
+Zwischen dem Endkundenpreis von Mobiltelefonen und den Herstellungskosten liegen oft erhebliche Differenzen von bis über 75 %. Selbst die Prozessoren sind durch die Massenproduktion im Einkauf für die Geräte-Hersteller oft kaum teurer als einstellige Dollarsummen, ebenso die Bildschirmanzeige und der verbaute Speicher.
+So berichtete z. B. die Sendung Spiegel TV am 26. August 2012, ein damals 629 Euro teures iPhone 4 koste in der Herstellung (Bauteile und Löhne für die Montage) nur 155 Euro, exklusive noch Kosten für z. B. Lizenzen, Softwareentwicklung, Fracht, Vertrieb, Marketing, Verwaltung, Steuern und Zoll.
+Einige Verbraucherseiten wie isuppli.com veröffentlichen zudem auch regelmäßig Ergebnisse über die Diskrepanz zwischen dem Wert der Hardware und den von den Herstellern verlangten Preisen. Das 2013 erschienene Telefon Galaxy S4 der Firma Samsung etwa hat demnach ca. 236 Dollar Bauteil- und Materialkosten. Dabei entfallen z. B. ca. 30 Dollar auf den Prozessor, 75 auf den Bildschirm und 16 auf die Infrarot-Gestik- und Temperatur-Sensoren. Das Smartphone erschien in Deutschland mit 16 GB Speicher für ca. 649 Euro im Einzelhandel, was ca. 836 Dollar entsprach, allerdings noch ohne den in der Auflistung aufgeführten, modernen Prozessor.
+
+
+=== ArbeitsbedingungenBearbeiten ===
+Die Produktion von Mobiltelefonen steht auf Grund der Arbeitsbedingungen in den Herstellerbetrieben in der Kritik (siehe z. B. Foxconn).
+Um die Probleme in der Herstellung von Mobiltelefonen zu beseitigen, ist eine transparente Lieferkette der Konfliktrohstoffe und der beteiligten Unternehmen notwendig. Diese kann zur Zeit jedoch kaum gewährleistet werden. Mit dem Fairphone gibt es ein Mobiltelefon, dessen Produzenten es sich zum Ziel gesetzt haben, diese Probleme anzugehen.
+
+
+== DiebstahlBearbeiten ==
+
+Mobiltelefone sind beliebte Diebstahlobjekte, wobei nicht nur angeschaltete, angemeldete Mobiltelefone interessant sind (da der Dieb mit ihnen ohne eigene Kosten telefonieren kann), sondern auch ausgeschaltete, über die PIN auf der SIM-Karte gesicherte Telefone. Die SIM-Karte kann jederzeit problemlos entfernt werden. Handelt es sich um ein nicht auf einen bestimmten Netzbetreiber zugelassenes Gerät, braucht lediglich eine neue SIM-Karte eingelegt zu werden, um das Gerät auf dem grauen Markt als vollwertig anbieten zu können. Um das zu verhindern, empfiehlt sich das Sichern des Gerätes durch einen sogenannten Sperrcode oder auch Sicherheitscode. Gemäß seiner jeweiligen Einstellung wird das Gerät dann nach einer bestimmten Inaktivitätszeit oder nach dem Ausschalten deaktiviert und ist nur mit Hilfe des Codes wieder zu aktivieren. Der Nutzen des Sicherheitscodes ist jedoch begrenzt, da er vom Dieb durch Generieren eines sogenannten „Sicherheits-Master-Codes“ umgangen werden kann. Der Sicherheitscode sperrt das Mobiltelefon, während der PIN-Code die SIM-Karte sperrt.
+Eine neuere Form des Diebstahlsschutzes gibt es bei Samsung: uTrack sendet dabei nach Diebstahl oder Verlust des Mobiltelefons, wenn ein Dieb oder Finder eine andere SIM-Karte einlegt, eine SMS mit der „neuen“ Nummer der eingelegten SIM-Karte an eine vorher eingegebene Telefonnummer. So kann dann der rechtmäßige Eigentümer selbst oder durch Weitergabe an die Polizei die Ortung durchführen.
+Bei Diebstahl eines Handys (mit Karte) empfiehlt sich also zweierlei:
+Beantragung der Sperrung der Nummer (abhängig von der SIM-Karte: Angabe der eigenen Nummer und eines evtl. vereinbarten Passwortes)
+Beantragung der Sperrung des gesamten Gerätes über die Angabe der geräteabhängigen IMEI-Nummer (oft auf dem Kaufvertrag oder der Originalverpackung angegeben. Die IMEI-Nummer steht auf dem Typenschild und kann auch durch Eingabe von *#06# angezeigt werden). Trotz der vorhandenen technischen Möglichkeit sperren jedoch nur wenige Netzanbieter Geräte anhand der IMEI-Nummer.
+Eine einfache Lösung zum Schutz vor Verlust ist die Verwendung eines zweiten, sehr kleinen, batteriebetriebenen Funkgeräts geringer Sendeleistung (1 mW), das gefahrlos ohne Belastung durch Strahlen und ohne jede Bedienung ein akustisches Signal abgibt, wenn der Träger des Mobiltelefons dieses liegen lässt und sich entfernt.
+
+
+=== VersicherungBearbeiten ===
+Gegen den Verlust und die Beschädigung eines Mobiltelefons werden Handyversicherungen angeboten. Die Versicherungsbedingungen unterscheiden sich mitunter jedoch erheblich; Diebstahl, Schäden durch Sturz und Feuchtigkeit können enthalten sein. Wird das Mobiltelefon daheim gestohlen, so ersetzt oft die Hausratversicherung das Gerät.
+Von den meisten dieser Versicherungspolicen wird abgeraten, da sie meist teuer sind bezogen auf den gebotenen Versicherungsumfang.
+
+
+== SIM-Lock und NetlockBearbeiten ==
+SIM-Lock und Netlock sind Verfahren, mit dem Mobiltelefone an eine SIM-Karte, einen Netzbetreiber oder an eine bestimmte Vertragsform gebunden werden. Ein mit SIM-Lock versehenes Mobiltelefon ist nur mit der beim Kauf des Telefons mitgelieferten SIM-Karte verwendbar. Das Mobiltelefon kann somit mit keiner anderen SIM-Karte, auch nicht mit einer SIM-Karte desselben Netzbetreibers, betrieben werden.
+War SIM-Lock in Deutschland vor allem bei Prepaid-Paketen üblich, werden mittlerweile immer häufiger auch subventionierte Mobiltelefone mit Vertragsbindung gesperrt, dann allerdings mit dem kundenfreundlicheren Netlock. Ein mit Netlock gesperrtes Telefon kann zumindest mit anderen SIM-Karten desselben Netzbetreibers benutzt werden.
+Umgangssprachlich wird auch bei Netlock jeweils von Simlock gesprochen. In der Schweiz werden vom Betreiber als „SIM-Lock-geschützt“ bezeichnete Geräte nur mit einem Netlock versehen; andere SIM-Karten desselben Netzbetreibers funktionieren darin auch.
+Der Paketanbieter beabsichtigt mit der ganzen oder teilweisen Sperrung des subventionierten Mobiltelefons, dass der Kunde nicht bei der Konkurrenz „fremdtelefoniert“. Nur so kann er sicherstellen, dass sich die Subventionen bei den Gerätekosten durch Gesprächseinnahmen wieder ausgleichen.
+Üblicherweise kann der SIM-Lock und der Netlock nach Ablauf von zwei Jahren kostenlos oder innerhalb dieser Frist gegen Zahlung einer Gebühr um 100 Euro deaktiviert werden.
+Daneben existieren im World Wide Web Anleitungen und Software zum selbständigen Entfernen von SIM- und Netzsperren. Oft wird ein ein- oder kleiner zweistelliger Betrag dafür verlangt.
+Auch mit dünnen Zwischenkarten kann ein SIM- oder NET-Lock umgangen werden; so wird das Gerät unangetastet gelassen und man kann es dennoch mit Fremd(netz)-SIM-Karten nutzen.
+In manchen EU-Ländern ist das eigenmächtige Entsperren illegal. In Österreich ist das Entsperren in Handy-Läden für fünf bis zehn Euro möglich und erlaubt.
+
+
+== MobiltelefontarifeBearbeiten ==
+Für die Nutzung bestimmter Dienstleistungen im Mobilfunk fallen Gebühren an, die vom Anbieter („Provider“) geschaffene Kostenregelung für diese bezeichnet man als Mobiltelefontarif. Unterschiede bei Mobiltelefontarifen gibt es hauptsächlich in der Art der kostenpflichtigen Leistungen, den Preisen und der Abrechnungsart. Siehe auch Roaming für Nutzung der Mobilfunknetze im Ausland.
+
+
+=== Kostenpflichtige LeistungenBearbeiten ===
+Das Verschicken von Kurzmitteilungen und das Telefonieren sowie alle anderen Dienste, bei denen Daten über das Mobilfunknetz versandt werden, werden in der Regel in Rechnung gestellt. Ausnahmen bilden meistens die Abfrage des Kontostandes, oft – aber nicht immer – auch das Abrufen der Mobilbox.
+
+
+=== PreiseBearbeiten ===
+Der Preis orientiert sich im Allgemeinen an der Art (und Dauer) der Leistung und den verwendeten Netzen, gelegentlich auch der Tageszeit/dem Wochentag.
+Art der Leistung:
+Anrufe: Preis von der Dauer/Taktung (Abrechnung pro Sekunde, Minute usw.) abhängig.
+Text-/und Datensendungen (SMS, MMS usw.): Preis von Größe abhängig, aber nicht unbedingt proportional ansteigend (d. h. eine MMS fasst ein Vielfaches an Daten als eine SMS, ist aber nicht um den gleichen Faktor teurer)
+Verwendete Netze: Generell sind Gespräche im Netz des eigenen Anbieters günstiger als jene von Fremdanbietern oder ins Festnetz; Auslandsgespräche sind generell teurer als Inlandtelefonate.
+Tageszeit/Wochentag: Abends und nachts sind die Leistungen meist günstiger als am Tage, feiertags sind die Kosten geringer als werktags.
+
+
+=== AbrechnungsartBearbeiten ===
+Es werden zwei Hauptarten der Abrechnung unterschieden:
+Beim Postpaid, umgangssprachlich häufig auch „Mobiltelefonvertrag“ genannt, werden die Kosten für die Leistungen nachträglich im Rahmen einer festen Vertragsbindung einbezogen (die Mindestvertragsdauer beträgt im Normalfall zwischen 18 und 24 Monate). Oft enthalten sind Grundgebühren und Mindestumsätze. Allerdings existieren auch Postpaid-Anbieter ohne zeitliche Vertragsbindung. Auch erhältlich sind Spezialtarife mit pauschaler Abrechnung, die oft werbewirksam als Flatrates bezeichnet werden.
+Beim Prepaid wird jede Leistung direkt von einem aufladbaren Guthabenkonto abgebucht, Grundgebühren und Mindestumsätze kommen in Ausnahmefällen vor. Im Idealfall befindet sich das Guthaben auf der SIM-Karte; wenn diese erschöpft ist, können außer Notrufnummern keine anderen Teilnehmer angerufen werden. Zunehmend stellen die Provider auf Tarife um, die ein Aufladen des Guthabens per Abbuchung vom Konto des Kunden erlauben. Zeitweise war durch die AGB oder durch Zustimmung des Kunden hierzu ein mehrfaches automatisches Abbuchen ohne weitere Rückfrage ermöglicht. Mittlerweile haben Gerichtsurteile dies als überraschende Klausel abgelehnt und auf das maximal einmalige automatische Abbuchen eines Festbetrags beschränkt.
+
+
+== NetzbetreiberBearbeiten ==
+Im deutschen Sprachraum sowie in Ländern mit größeren deutschsprachigen Bevölkerungsteilen sind verschiedene Netzbetreiber vertreten:
+
+
+=== DeutschlandBearbeiten ===
+
+Netzbetreiber in Deutschland sind:
+Deutsche Telekom,
+Vodafone (durch Aufkauf von Mannesmann Mobilfunk),
+Telefónica (O2 und E-Plus Netz).
+Daneben gibt es
+Mobile Virtual Network Enabler (MVNEs), welche auf den Netzen der Netzanbieter aufbauend technische Grunddienste und Infrastruktur bieten für
+„virtuelle Netzbetreiber“ (Mobile Virtual Network Operators, MVNOs), die Endkunden Mobilfunkleistungen verkaufen ohne eigene Netze zu betreiben. Ein virtueller Netzbetreiber kann sich auf ein Basisnetz beschränken (häufig als Tochterfirma oder Vertriebsmarke eines Netzbetreibers) oder als sogenannte unabhängige Mobiltelefonkette agieren und mehrere/alle Basisnetze verwenden/dem Kunden anbieten.
+Insbesondere in England, Deutschland und in der Schweiz sind Vertreter dieser Gattung zu finden.
+Aufgrund der Rufnummernmitnahme (Portierung) ist der verwendete (evtl. virtuelle) Netzbetreiber teilweise nicht mehr an der Vorwahl zu erkennen.
+Auf Druck von Verbraucherschützern und geschädigten Mobilfunknutzern bieten die Anbieter Tarife (Postpaid) an, die eine Kostenbegrenzung enthalten. Außerdem können Anrufziele blockiert werden, sowie eine Sperrung für Mehrwertnummern eingerichtet werden (in Deutschland: 0190-, 0900-, 0137-, 0138-Nummern und 118er-Auskunftsdienste). Weitere Schutzmöglichkeiten bieten unter anderem die Sperrung von Auslandstelefonaten, Premium-SMS, MMS-Dienste, GPRS-Dienste, WAP-Gateway, M-pay und Voucher-Aufladungen.
+
+
+=== ÖsterreichBearbeiten ===
+
+Die Mobilfunk Infrastruktur von Österreich wird durch folgende Anbietern bereitgestellt:
+A1 Telekom Austria (Eigentümer: Telekom Austria Group, seit Juli 2006 auch mit Billigmarke bob)
+T-Mobile Austria (Eigentümer: Deutsche Telekom, mit tele.ring (seit 2006 Tochter von T-Mobile))
+3 (Hutchison Whampoa) (Übernahme von Orange (bis 20. September 2008 One) durch Drei am 3. Januar 2013)
+Darüber hinaus treten nachstehende Mobilfunkanbieter als Virtuelle Anbieter MVNO auf (sie besitzen keine eigene Infrastruktur):
+Tele2
+YESSS! (seit 2013 Eigentümer A1 Telekom Austria, vormals Orange Austria)
+eety
+UPC mobile (Eigentümer UPC Austria, Infrastrukturanbieter Drei)
+HoT (seit 2. Januar 2015 als Virtueller Betreiber durch Ventocom im Betrieb. Mobilfunk Infrastruktur durch T- Mobile)
+
+
+=== SchweizBearbeiten ===
+
+Folgende Unternehmen sind GSM-Konzessionäre:
+Swisscom − Swisscom (Schweiz) AG, Bern
+Sunrise − Sunrise Communications AG, Zürich
+Salt. − Salt SA/AG, Lausanne
+
+
+=== BelgienBearbeiten ===
+Proximus, BASE, Mobistar
+
+
+=== LuxemburgBearbeiten ===
+LuxGSM, Tango, Orange (früher: Voxmobile)
+
+
+== Softwarebezogene GefahrenBearbeiten ==
+Wie alle Geräte mit integriertem Computer ist auch ein Mobilfunktelefon nicht frei von Softwarefehlern. Bislang sind einige wenige Handyviren für auf Symbian basierende Geräte bekannt. Viren, die in der Lage sind, Mobiltelefone lahmzulegen, basieren meist auf Softwarefehlern. Gefahren bestehen vor allem in Form von Schadprogrammen, die sich in Dienstemitteilungen unter falschen Namen ausgeben oder durch das sogenannte Bluejacking, das Fehler in der Bluetooth-Implementierung ausnutzt. Es empfiehlt sich, Bluetooth nur bei Bedarf einzuschalten oder sich zumindest für andere unsichtbar zu machen. Unerwartete Bluetooth-Nachrichten sollten abgewiesen werden.
+
+
+== Diskussionen zu GesundheitsgefahrenBearbeiten ==
+Mobiltelefone senden aktiv hochfrequente Energie und sind damit ein Thema im Rahmen der elektromagnetischen Umweltverträglichkeit, welche mögliche Auswirkungen dieser Immissionen beschreibt. Es gibt Menschen, die subjektiv unterschiedliche Symptome wahrnehmen, von Wärme bis hin zu leichtem Druck oder Kopfschmerzen. Unklar ist, ob die Symptome vom mechanischen Anlegen des Hörers, und der deshalb lokal verringerten Kühlung der Hautoberfläche, dem Nocebo-Effekt oder objektiv von der elektromagnetischen Beaufschlagung des Gewebes verursacht werden. In verblindeten Experimenten konnte die Wahrnehmung von durch Mobiltelefonen ausgelösten Symptomen nicht betätigt werden. Auch im Akku eines Mobiltelefons entsteht beim Betrieb Wärme, die sich gegebenenfalls durch Wärmeleitung auf das Gewebe überträgt.
+
+
+=== Studien zur möglichen KrebsentstehungBearbeiten ===
+Umstritten und nicht vollständig geklärt ist, welchen Einfluss die Wirkungen von Mobilfunkstrahlung auf die Entstehung von Krebs haben.
+Eine 2006 im British Medical Journal publizierte Studie zeigte, dass Telefonieren mit dem Mobiltelefon – auch nach einer längeren Nutzungsdauer (ca. zehn Jahre) – nicht das Risiko erhöht, an einem Hirntumor zu erkranken. Nach Auswertung der Daten von insgesamt 2682 Personen, davon 966 Tumorpatienten, kamen die Forscher zu dem Schluss, dass Mobilfunkstrahlung als Risikofaktor zumindest für die in der Studie betrachteten Hirntumore vom Gliom-Typ ausscheide.
+Eine im September 2007 veröffentlichte Studie des britischen Mobile Telecommunications and Health Research (MTHR) Programms sah ebenfalls keinen Zusammenhang zwischen Mobiltelefonnutzung und Erkrankungen. Jedoch räumte der Vorsitzende der Kommission ein, dass nur ein kleiner Teil der Untersuchten das Mobiltelefon länger als zehn Jahre verwendet hat und er nicht ausschließen kann, dass eine erhöhte Anzahl von Gehirntumoren in ein paar Jahren auftreten kann.
+Dieser Mangel im Studiendesign veranlasste Professor Lennart Hardell (Universitätskrankenhauses Orebro) und Professor Kjell Hansson Mild (Umea University) zu einer Metastudie, bei der sie insgesamt 11 Studien neu bewerteten. Mit dem Ergebnis, dass bereits bei einer täglichen Nutzung des Mobiltelefons von einer Stunde über einen Zeitraum von zehn Jahren die Wahrscheinlichkeit, an Gehirntumor oder an Akustikusneurinom zu erkranken um das Dreifache ansteigt (und um das Fünffache an der Seite, an der das Mobiltelefon genutzt wird). Da für die Entwicklung von Gehirntumoren zumindest zehn Jahre vorausgesetzt wird, rechneten Hansson und Mild mit einem Ansteigen in naher Zukunft.
+Nach einer am 24. März 2012 im British Medical Journal veröffentlichten Studie blieb der von Hardell erwartete Anstieg aus: Während die Anzahl der Mobiltelefonnutzer stark zunahm, blieb die Rate der Tumorerkrankungen etwa gleich, auch wenn man den von Hannson und Mild geforderten Abstand von 10 oder mehr Jahren zwischen Telefonnutzung und Erkrankungsbeginn berücksichtigte.
+Auswertungen von Hardell et al. (2013) unter Berücksichtigung von Langzeitnutzung (> 20 Jahre) zeigen eine mit der Nutzungsdauer korrelierende Häufung speziell (gutartiger) Akustikusneurinome.
+
+
+=== Einschätzung der WHOBearbeiten ===
+Die WHO folgt in einer Veröffentlichung aus dem Jahr 2011 der Einschätzung der Internationalen Agentur für Krebsforschung, die Handystrahlung als „möglicherweise krebserregend“ einstuft. Eine Studie aus dem Jahr 2006 kommt zu dem Schluss, dass es genetische bedingte Unterschiede gibt, was die Empfindlichkeit des Menschen auf Strahlung durch Mobiltelefone betrifft.
+
+
+=== Sonstige diskutierte AuswirkungenBearbeiten ===
+Ionisierung
+Die Trägerfrequenzen von 900 MHz und 1800/1900 MHz liegen weit unterhalb der Frequenzen, bei denen es zu einer Ionisation von Molekülen kommen kann. Dazu kann es – wie beim photoelektrischen Effekt – erst bei etwa millionenfach höheren Frequenzen von mindestens 800 THz = 800.000.000 MHz kommen. Schädigungen ähnlich jenen durch UV-Strahlung oder Radioaktivität (Sonnenbrand, Krebs) durch Ionisierung können deshalb ausgeschlossen werden.
+Änderung von Molekülstrukturen
+Die Struktur von Molekülen kann durch ausreichend kurzwellige elektromagnetische Wellen nur dann geändert werden, wenn die notwendige chemische Bindungsenergie bereitgestellt wird. Das ist erst ab dem Bereich des sichtbaren Lichtes der Fall. Es gibt kein Lebewesen, das Augen für infrarotes Licht besitzt, weil die Photonen dieses Bereiches zu energiearm sind. Die Energie von Photonen der Strahlung von Mobiltelefonen ist nochmals um den Faktor 10.000 geringer.
+Thermische Effekte
+Im nichtionisierenden Frequenzbereich führt die Absorption von Strahlung durch das Körpergewebe zu einer Erhöhung der Gewebetemperatur. Die Stärke und der Ort der Erwärmung hängt vom SAR-Wert ab, der die Eindringtiefe der Strahlung in das Gewebe beschreibt. Der Effekt folgt dem Phänomen der dielektrischen Erwärmung.
+Beim GSM-Standard wird der Energieeintrag in das Gewebe durch das Pulsen des TDMA-Verfahrens begrenzt. Die Trägerfrequenz beträgt beim GSM-Standard etwa 900 MHz oder 1800 MHz. Durch das TDMA-Kanalzugriffsverfahren wird das Signal mit einer Frequenz von etwa 217 Hz bei einem duty-cycle von 12,5 Prozent gepulst, das heißt an- und abgeschaltet. Dadurch limitiert das TDMA-Verfahren den Energieeintrag in Gewebe gegenüber einem kontinuierlich sendenden Signal gleicher Trägerfrequenz und Sendeleistung auf 12,5 %.
+Herzschrittmacher
+Grundsätzlich kann auch die Störung eines Herzschrittmachers durch die Felder des Mobilfunks nicht ausgeschlossen werden. Das Ausmaß der Störungen hängt auch von dem jeweils verwendetem Mobilfunknetz ab. So ist eine Störung bei Verwendung des C-Netzes wesentlich geringer als bei dem D-Netz. Jedoch ist das durch den Einsatz von speziellen Filtern in neueren Schrittmachern eher ein theoretisches Risiko. Bei Einhaltung vorbeugender Maßnahmen, wie beispielsweise der Wahrung eines Abstandes von etwa 20 cm zwischen Herzschrittmacher und Mobiltelefon, muss keine Störung befürchtet werden. Schrittmacherträger können ohne Weiteres mit dem Mobiltelefon telefonieren, sollten aber das eingeschaltete Mobiltelefon nicht direkt über dem Schrittmacher tragen, wie beispielsweise in der Brusttasche. Daher raten die Hersteller von Herzschrittmachern vorsorglich beim Gebrauch von Mobiltelefonen die Konsultation des behandelnden Arztes. Es wird auch empfohlen, bei der Benutzung eines Mobiltelefons möglichst das auf der entgegengesetzten Seite des Schrittmachers gelegene Ohr zum Telefonieren zu benutzen. Vorbeugend kann bei der Schritt

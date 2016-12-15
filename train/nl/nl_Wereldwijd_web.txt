@@ -1,0 +1,57 @@
+Het wereldwijde web (www), ook wel met de Engelse term "world wide web" aangeduid, maar meestal kortweg het web, houdt in:
+een aantal technische afspraken voor het wereldwijd over het internet aanbieden en verbinden van allerhande documenten en computertoepassingen;
+de verzameling documenten en toepassingen die wereldwijd volgens dit systeem over het internet worden aangeboden.
+
+
+== Het www als technologie ==
+De oorspronkelijke technische afspraken waar het www uit bestaat zijn de volgende:
+de URL: een uniforme adresseringsmethode voor pagina's, zowel gebruikt voor vaste documenten als voor veranderlijke inhoud, ongeacht waar op het internet ze staan en ongeacht hoe ze worden aangeboden;
+HTML: een documentopmaaktaal die naast opgemaakte tekst, afbeeldingen, video's en andere multimedia, ook hyperlinks (aanklikbare verwijzingen) en formulieren ondersteunt, beide gebaseerd op URL's
+HTTP: een netwerkprotocol voor het ophalen van documenten
+Sinds het ontstaan van het www is er aan deze afspraken flink gesleuteld; het W3C-consortium is opgericht om ze netjes te beheren. Ook zijn er allerlei aanvullende technische afspraken voor het www gemaakt, waarvan een deel door W3C beheerd wordt (bijvoorbeeld XML, XHTML, XML Schema, XSLT, RDF), maar sommige niet (bijvoorbeeld robots.txt en JavaScript).
+Het doel van het www was om internetgebruik eenvoudiger te maken. De gebruiker kan een wereldwijd, willekeurig groot netwerk van documenten en applicaties benaderen door niets anders te doen dan verwijzingen te volgen en formulieren in te vullen, en zonder voor elke applicatie weer aparte software te hoeven installeren; alles gaat met de webbrowser.
+Veelgebruikte termen:
+Een webpagina is een pagina op het web; pagina's kunnen een vaste of een veranderlijke inhoud hebben.
+Een website is een samenhangende verzameling pagina's, meestal op dezelfde computer.
+Een webapplicatie is een verzameling pagina's die samen een toepassing vormt.
+Een hyperlink is een verwijzing naar een pagina in een pagina; hiermee wordt de navigatie tussen de webpagina's verzorgd.
+Een zoekmachine is een webapplicatie waarmee naar pagina's kan worden gezocht (bv. Google, AltaVista, Bing).
+Een webserver is ofwel
+een computer die webpagina's aanbiedt via HTTP.
+een programma dat webpagina's aanbiedt via HTTP.
+
+Een webbrowser, een programma waarmee de gebruiker het web benadert, moet het volgende kunnen:
+aan de hand van een URL een document ophalen via HTTP of soms via een ander netwerkprotocol zoals FTP, Gopher of NNTP;
+het opgehaalde document aan de gebruiker tonen, als die pagina HTML is, platte tekst, of een afbeelding, bijvoorbeeld in een HTML-pagina;
+plug-ins en aparte applicaties ondersteunen voor het weergeven van andere soorten documenten, zoals video, PDF-documenten, enzovoorts;
+JavaScript interpreteren en uitvoeren.
+
+
+=== URL's ===
+URL's (Uniform Resource Locators) zijn adressen van webpagina's. Ze bevatten meestal
+de naam van het te gebruiken netwerkprotocol
+de naam of het nummer van de te benaderen computer
+een rest die de locatie van de pagina op de computer aangeeft; dit geeft in een applicatie vaak een bepaalde handeling aan.
+Bijvoorbeeld: http://nl.wikipedia.org/w/index.php?title=Wereldwijde_web&action=submit geeft een webpagina aan die benaderd wordt via HTTP, op de computer nl.wikipedia.org, met een voor de aldaar in werking zijnde webapplicatie specifieke nadere aanduiding.
+Een URL kan ook verwijzen naar een protocol of documenttype dat de webbrowser zelf niet ondersteunt, bv, irc://irc.freenode.net/wikipedia-nl; in zo'n geval kan de browser een externe applicatie opstarten.
+
+
+=== HTTP ===
+HTTP (het Hypertext Transfer Protocol) is het netwerkprotocol dat speciaal ontwikkeld is voor het www. Zoals de naam al zegt is het specifiek bedoeld voor het ophalen van hypertekstdocumenten (meestal geschreven in HTML).
+Kenmerkend voor HTTP is dat het in principe kortlopende verbindingen maakt, waarbij steeds een enkele webpagina opgevraagd of ingestuurd wordt. Dit is verschillend van bijvoorbeeld FTP, waarbij een verbinding wordt opgezet waarover vervolgens documenten kunnen worden opgevraagd of verstuurd tot de verbinding expliciet wordt afgesloten.
+
+
+=== HTML ===
+HTML (HyperText Markup Language) is begonnen als een eenvoudige opmaaktaal voor tekst, met hyperlinks die URL's bevatten. Al snel werden plaatjes en formulieren ondersteund. Allerlei verdere uitbreidingen volgden, in HTML zelf (bijvoorbeeld frames) en met behulp van nieuwe talen zoals JavaScript, CSS.
+Er zijn verschillende versies van HTML. De recentste heet HTML5, de opvolger van XHTML.
+
+
+== Geschiedenis van het www ==
+
+Het concept van het www is ontwikkeld vanaf 1989 door Tim Berners-Lee, een softwareontwikkelaar van de gebruikersondersteuningsafdeling van CERN, het Europese instituut voor kernfysica in Genève, en diens projectmanager Robert Cailliau. Doel van het www was om de informatieuitwisseling te vergemakkelijken tussen de wetenschappers die samenwerken in de veelal internationale projecten van CERN. Het doel was om een wiki-achtige omgeving op te zetten waarin projectdocumentatie en andere informatie wordt aangemaakt en bijgehouden in een gemeenschappelijk gemaakte hypertext die direct over het internet te bekijken en te wijzigen is. Aangenomen mocht worden dat elke deelnemer een computer met internetverbinding had, maar niet mocht worden aangenomen dat elke deelnemer ook hetzelfde soort computer met dezelfde soort grafische mogelijkheden en hetzelfde besturingssysteem had; vandaar dat het www van meet af aan platformonafhankelijk is geweest. In november 1990 was het concept ver genoeg ontwikkeld om er een formeel project van te maken, en daarom werd hier toen een voorstel voor ingediend. Op 6 augustus 1991 poste Tim een kort overzicht over het project op de nieuwsgroep alt.hypertext. Hiermee werd het project ook publiekelijk toegankelijk. Daarom wordt deze datum ook gezien als de geboortedatum van het wereldwijd web.
+WorldWideWeb (aan elkaar) was de naam voor het project, voor de software die Berners-Lee ervoor schreef (op de NeXT in Objective-C), en voor het geheel van documenten dat via deze software beschikbaar werd gesteld.
+Daarna werd de code omgezet naar C zodat ook voor andere platforms www-software geschreven kon worden. Het NCSA maakte op basis van deze code in 1992 de grafische webbrowser Mosaic, die de doorbraak voor het www betekende. Het ontwikkelde ook eigen webserversoftware (NCSA HTTPd) en voerde tal van innovaties door. Binnen een jaar steeg het aantal webservers van een handjevol naar duizenden en werd het www een standaardvoorziening die even belangrijk was als e-mail. Zowel de code van CERN als die van NCSA waren open source, waardoor het ook voor derden (zoals Microsoft) relatief gemakkelijk was om www-software te ontwikkelen.
+
+
+== Inhoud ==
+Het web bevat wereldwijd enkele miljarden pagina's met informatie en ontspanning, webpagina's genaamd, die zijn georganiseerd in websites en worden aangeboden op webservers. Een website hoeft niet per definitie op een webserver opgeslagen te zijn. De site moet wel te benaderen zijn door de server. Iedereen die per computer op het web is aangesloten, kan op een simpele manier de sites en pagina's doorzoeken. Een webserver is een dienstverlenende computer. De computer waaraan informatie wordt doorgegeven noemt men een client (Engels voor: cliënt, klant). Om gebruik te kunnen maken van de diensten van zo'n server zijn een webbr

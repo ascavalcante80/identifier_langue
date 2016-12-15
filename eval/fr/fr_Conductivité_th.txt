@@ -1,0 +1,65 @@
+n agrément technique.
+D'autre part on opère une distinction entre λi, la conductivité thermique d'un matériau dans une paroi intérieure ou extérieure lorsque le matériau est protégé contre l'humidité due à la pluie ou à la condensation, et d'autre part λe, la conductivité thermique du même matériau non protégé contre cette humidité.
+
+
+=== Normes et règlements ===
+En France, ont été promulguées des normes successives pour inciter les bâtisseurs à une isolation thermique maximale des bâtiments. Par exemple, la norme RT 2000 puis les normes RT 2005 et RT 2012.
+
+
+== Conductivités thermiques de quelques matériaux ==
+
+Ordres de grandeur des conductivités thermiques de quelques matériaux :
+
+
+=== Métaux ===
+Les métaux ont des conductivités élevées entre 20 et 418 Watt par mètre-kelvin
+
+
+=== Pierre naturelle ===
+Les pierres naturelles employées dans la construction ont des valeurs de conductivité thermique entre 0,15 et 3,5 watt par mètre-kelvin
+
+
+=== Terre ===
+
+
+=== Bois ===
+À densité et humidité égales, le bois résineux est plus conducteur que le bois feuillu. Plus un bois est dense et plus il est humide, plus il est conducteur.
+
+
+=== Isolants ===
+En termes de bâtiment, selon la norme française RT2012, un matériau est considéré comme isolant si sa conductivité thermique est inférieure à 0,065 watts par mètre-kelvin
+
+
+=== Dérivés du carbone ===
+Si le diamant a une conductivité thermique très élevée, celle du diamant bleu naturel l’est encore plus. On peut donc examiner des gemmes pour déterminer si elles sont de véritables diamants en utilisant un appareil de contrôle de la conductivité thermique, un des instruments standard utilisé en gemmologie. Les diamants de n'importe quelle taille paraissent toujours très froids au toucher en raison de leur effusivité thermique élevée.
+
+
+=== Matériaux divers ===
+
+
+== Conductivités thermiques des éléments ==
+Conductivité thermique des éléments à 27 °C en W·cm-1·K-1  :
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Conduction thermique
+Diffusion thermique
+Capacité thermique
+Coefficient de transfert thermique
+Résistance thermique
+
+
+=== Liens externes ===
+La conductivité thermique d'un matériau (λ) sur le site energieplus-lesite.be de Architecture et Climat de l'Université catholique de Louvain
+Conductivité thermique des matériaux (λ) sur le site energieplus-lesite.be de Architecture et Climat de l'Université catholique de Louvain
+Attestations de valeurs lambda sur un site de Plate-forme Maison Passive asbl
+ Portail de la physique
+ Portail des sciences des matériaux
+ Portail de la chimie
+ Portail de l’énergie

@@ -1,0 +1,34 @@
+La phase liquide est un état de la matière. Sous cette forme, la matière est facilement déformable mais difficilement compressible.
+Le liquide est une forme de fluide : les molécules sont faiblement liées, ce qui rend les liquides parfaitement déformables. Mais, à l'inverse du gaz, elles sont tout de même liées : une molécule ne peut s'éloigner beaucoup d'une autre, ce qui fait que la matière liquide a une cohésion que ne possède pas le gaz (et comme dans les solides, les molécules sont très proches les unes des autres, ce qui rend les liquides difficilement compressibles).
+
+
+== PropriétésModifier ==
+Les corps, selon les conditions de température et de pression, peuvent être sous forme de liquide, de gaz ou de solide (voir diagramme de phase). La forme liquide correspond à une forme de moindre énergie que le gaz (l'énergie cinétique des molécules d'un liquide est insuffisante pour rompre les forces qui se matérialisent par la tension superficielle) mais d'énergie supérieure à la forme solide (contrairement au solide, l'énergie cinétique des molécules suffit à les faire se déplacer spontanément les unes par rapport aux autres).
+
+
+=== ViscositéModifier ===
+Une caractéristique des liquides est leur viscosité, qui mesure l'attachement des molécules les unes aux autres - et donc la résistance à un corps qui traverserait le liquide. Plus la viscosité est grande, plus le liquide est difficile à traverser. Il y a donc toute une gamme d'états intermédiaires (pâte), qui rend la distinction difficile entre le liquide et le solide. En fait le meilleur test est celui de la rupture : un solide se brise et se fêle, et le reste ; un liquide se fend et se ressoude après la disparition de la cause de rupture, sans laisser d'autre trace qu'une onde.
+L'hélium II (« superfluide ») ne possède pas de viscosité du tout.
+
+
+=== Tension superficielleModifier ===
+Les liquides possèdent aussi une tension superficielle, qui caractérise entre autres leur tendance à former des ménisques sur leurs bords, ainsi que les différents effets de la capillarité.
+
+
+== Critères macroscopiquesModifier ==
+À l'état macroscopique, on caractérise l'état liquide par les critères suivants :
+le liquide possède un volume propre (qui ne dépend que de la température par effet de dilatation thermique, généralement faible) ;
+le liquide n'a pas de forme propre, il prend celle du récipient sous l'effet de la pesanteur ;
+sa surface libre au repos est plane et horizontale (dans un champ de pesanteur uniforme) à l'exception des bords (par effet de tension superficielle).
+
+
+== ExemplesModifier ==
+Dans des conditions ambiantes de température et de pression, certains composés chimiques sont liquides. En voici quelques exemples :
+
+
+== ConfusionsModifier ==
+
+
+=== Le verreModifier ===
+
+Le verre est-il à considérer comme un solide, ou seulement un fluide très visqueux ? Les très vieilles vitres sont plus épaisses en bas qu'en haut ce qui pourrait suggérer que le verre s'écoule lentement vers le bas. Il n'en est rien ; le profil en forme de poire des vitraux anciens n'est pas dû à l'écoulement du verre durant plusieurs siècles, mais au procédé de fabrication. Le verrier fabriquait la plaque de verre à partir d'une boule de verre visqueux qu'il mettait en rotation, pour obtenir progressivement un disque de verre grâce à la force centrifuge. Le bord du disque était alors plus épais que le centre. Le verrier posait ensuite les plaques avec le bord épais en bas pour des raisons de stabilité. Dans le cas des vitraux, la disposition des plaqu

@@ -1,0 +1,47 @@
+Arbejdsløshed opstår, når arbejdsudbuddet, altså udbuddet af arbejdskraft overstiger efterspørgslen efter arbejdskraft. Arbejdsløshed regnes for en af de allervigtigste problemstillinger i den økonomiske politik, da ufrivillig ledighed både kan være et meget stort økonomisk problem og i værste fald føre til andre sociale problemer for de ramte, især i tilfælde af langvarig ledighed.
+
+
+== Årsager til arbejdsløshed ==
+Der findes forskellige typer af arbejdsløshed og derfor også forskellige årsager til, at den opstår.
+
+
+=== Sæsonarbejdsløshed ===
+Efterspørgslen efter arbejdskraft har systematiske udsving i løbet af året pga. sæsonarbejde: Det gælder eksempelvis håndværkere, der har travlest om sommeren som følge af vejret, sæsonarbejdere indenfor landbrugssektoren, eller personer, der arbejder indenfor turisterhverv. Disse sæsonbetonede udsving i ledigheden regnes normalt ikke for et samfundsmæssigt problem på samme måde som længerevarende ledighedsperioder. Officielle ledighedsstatistikker offentliggør derfor ofte sæsonkorrigerede ledighedstal ved siden af de rene tal på måneds- og kvartalsbasis, og det er de sæsonkorrigerede tal, der normalt bruges i diskussioner, om ledigheden er steget eller faldet.
+
+
+=== Strukturarbejdsløshed ===
+Ser man bort fra sæsonudsving, opdeles ledigheden ofte i et strukturelt og et konjunkturelt bidrag. Den faktiske ledighed på ethvert tidspunkt vil således være lig summen af struktur- og konjunkturledigheden. Strukturledigheden er det ledighedsniveau, der vil være i en konjunkturneutral situation. Ofte defineres den som det ledighedsniveau, der er foreneligt med en stabil inflation. En ledighed, der er højere end det strukturelle niveau, forventes nemlig at føre til lavere lønstigninger, hvilket igen vil øge beskæftigelsen og dermed sænke ledigheden, mens en ledighed under det strukturelle niveau omvendt vil medføre en højere lønstigningstakt og dermed skabe flere arbejdsløse. Når ledigheden netop er på sit strukturelle niveau, vil lønstigningstakten være stabil (alt andet lige), og arbejdsløsheden hverken have tendens til at stige eller falde yderligere.
+Strukturledigheden er dermed også den del af arbejdsløsheden, der har en mere permanent karakter. Der kan være en række forskellige årsager til, at strukturledigheden er positiv. Økonomisk teori opererer især med fire hovedforklaringer på, at der permanent kan være strukturel ledighed i en økonomi:
+
+
+==== Minimumslønninger ====
+I mange lande (dog ikke Danmark) er der ved lov fastsat en minimumsløn, der gælder alle på arbejdsmarkedet. I disse lande er det derfor ulovligt for en virksomhed at ansætte medarbejdere til en løn, der ligger under dette minimumsniveau. En sådan minimumsløn vil under nogle omstændigheder medføre permanent ledighed for personer, der har et lavt kvalifikationsniveau.
+
+
+==== Effektivitetsløn ====
+Effektivitetsløn-teorier bygger på, at virksomhederne har en interesse i at betale deres medarbejdere en relativt høj løn for at motivere dem til at arbejde effektivt; men til gengæld ønsker virksomhederne ikke at ansætte så mange. Økonomer som Janet Yellen, George Akerlof og Joseph Stiglitz er blandt udviklerne af denne tankegang.
+
+
+==== Fagforeninger ====
+Fagforeninger kan have en naturlig interesse i at opretholde et højt lønniveau, selvom det medfører, at der vil blive ansat færre lønmodtagere. Denne mekanisme kan også skabe strukturledighed.
+
+
+==== Søge- og friktionsledighed ====
+Arbejdsmarkedet består af mange forskellige delarbejdsmarkeder: De arbejdssøgende har forskellige kvalifikationer og ønsker, og virksomhederne efterspørger ofte personer med helt specifikke kvalifikationer. Da ingen af parterne har fuld information om, hvad den modsatte side efterspørger og tilbyder, kan det tage et stykke tid, før en ledig person finder en passende virksomhed, der samtidig efterspørger hans kvalifikationer. Der vil derfor ofte være en vis ledighedsperiode i overgangen fra et job til et andet, eller for nyuddannede, der kommer ud på arbejdsmarkedet. Denne type ledighedsperioder kaldes søgeledighed eller friktionsledighed. Ledigheden kan især være langvarig, hvis de efterspurgte job findes i en anden del af landet end der, hvor de ledige bor (geografisk arbejdsløshed), eller hvis de ledige job findes i andre brancher, så der kræves omskoling eller tilsvarende, før de arbejdsløse kan tiltræde jobbet (teknologisk arbejdsløshed).
+Søgefriktionerne, som bl.a. skyldes manglende information, kan dermed også give anledning til såkaldte flaskehalsproblemer, hvor der er høj ledighed inden for nogle fag og geografiske områder, mens der samtidig er mangel på arbejdskraft i andre brancher og områder.
+Økonomerne Peter Diamond, Dale Mortensen og Christopher Pissarides fik Nobelprisen i økonomi i 2010 for deres arbejde med teorien om søgefriktioner på arbejdsmarkedet.
+
+
+=== Konjunkturarbejdsløshed ===
+Konjunkturarbejdsløshed betegner den arbejdsløshed, som er afhængig af konjunkturerne i samfundet. Som nævnt er faktisk (samlet) ledighed = strukturel ledighed + konjunkturledighed. I perioder med højkonjunktur vil produktionen og dermed beskæftigelsen være høj, mens den i perioder med lavkonjunktur vil være lav. Konjunkturarbejdsløsheden har derfor et positivt niveau i perioder med lavkonjunktur, idet efterspørgselen efter varer og tjenesteydelser understimulerer produktionen og dermed beskæftigelsen, og den faktiske ledighed derfor er større end det strukturelle niveau. I en højkonjunktur vil konjunkturledigheden omvendt være negativ, idet den faktiske ledighed i denne situation vil være lavere end den strukturelle.
+
+
+== Måling af arbejdsløshed i Danmark ==
+Danmarks Statistik offentliggør regelmæssigt tre forskellige statistiske opgørelser af ledigheden: Registreret nettoledighed, registreret bruttoledighed og den såkaldte AKU-ledighed.
+Nettoledigheden omfatter alle modtager af arbejdsløshedsdagpenge samt såkaldt arbejdsmarkedsparate kontanthjælpsmodtagere. Bruttoledigheden omfatter alle nettoledige samt alle personer, der er i aktivering og modtager en aktiveringsydelse. Både netto- og bruttoledigheden tæller altså antallet af personer, der modtager bestemte offentlige ydelser og er en totaloptælling, dvs. bygger på de samlede registreringer af disse overførselsindkomstmodtagere fra hele landet. Nye tal for såvel netto- som bruttoledighed offentliggøres hver måned.
+I modsætning hertil opgøres de AKU-ledige i form af en stikprøveundersøgelse (Arbejdskraftundersøgelsen). Hvert kvartal bliver 89.000 danskere spurgt om deres arbejdsmarkedstilknytning. Man opfattes som ledig i AKU-undersøgelsens forstand (AKU-ledig), hvis man svarer ja til, at man er ubeskæftiget, at man aktivt har søgt arbejde inden for fire uger forud for den uge, undersøgelsen finder sted, og at man kan tiltræde et job inden for to uger. AKU-undersøgelsen medtager altså personer, der er aktivt jobsøgende, selvom de ikke modtager nogen form for ledighedsunderstøttelse. Således medregnes jobsøgende studerende i AKU-ledigheden, selvom de ikke er berettiget til ledighedsydelser. Til gengæld medtager undersøgelsen ikke personer, der ikke aktivt søger job, selvom de modtager dagpenge og kontanthjælp. AKU-undersøgelsen offentliggør nye detaljerede tal for ledighed og beskæftigelse hvert kvartal. Mere overordnede tal for de AKU-ledige offentliggøres også hver måned.
+
+
+=== Ledigheden i Danmark januar 2014 ===
+I januar 2014 var den registrerede bruttoledighed på 143.000 personer eller 5,4 % af arbejdsstyrken, mens den registrerede nettoledighed var på 113.000 personer eller 4,3 % af arbejdsstyrken (sæsonkorrigerede tal).
+I januar 2014 var AKU-ledigheden på 203.000 personer eller 7,0 % af arbejdsstyrken (for 15-74-årige, sæsonkorrigerede tal). Ledigheden er ikke ligeligt fordelt på forskellige grupper. For mænd var ledigheden således 6,8 % og for kvinder 7,3 %. For de 15-24-årige var

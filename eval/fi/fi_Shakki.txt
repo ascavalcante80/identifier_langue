@@ -1,0 +1,92 @@
+ vei vuosia, veisi shakissa vastaava samantehoisilla tietokoneilla luokkaa kvadriljoonia vuosia.
+
+
+== Erikoisshakkeja ==
+
+Ehkä tunnetuin shakkivariaatio on entisen maailmanmestari Bobby Fischerin viimeistelemä Fischer random, joka tunnetaan myös nimellä Chess960 sen pelinaloitusasemien lukumäärän mukaan. Siinä upseereiden asema takarivillä arvotaan ennen ottelua. Tarkoitus on vähentää avausteorian merkitystä. Pelitapa on saavuttanut suosiota etenkin verkkopelaamisessa. Internetin kautta useat vanhastaan tutut variantit ovat saavuttaneet uutta suosiota, esimerkiksi syöttöshakki (engl. loser's chess) ja tandemshakki (bughouse). Variantiksi voidaan myös kutsua tilannetta, joissa vahvempi pelaaja antaa tasoitusta, esimerkiksi ratsun verran.
+Simultaanishakki on pelin muoto, jossa yksi pelaaja pelaa samanaikaisesti useaa vastustajaa vastaan. Sokkoshakissa pelaajat eivät näe nappuloita, vaan visualisoivat pelitilanteen päässään. Sokkosimultaani on, kuten nimi kertookin, näiden kahden lajin yhdistelmä.
+Tehtäväshakissa on löydettävä ratkaisu johonkin annettuun ongelmaan tietyssä asemassa. Retroanalyyttinen tehtävä tarkoittaa asemaan johtaneen siirtosarjan löytämistä. Tehtäväshakin piirissä shakin kaltaista peliä, jossa on poikkeavat säännöt, kutsutaan satushakiksi.
+Erilaiset erikoisshakit voidaan luokitella neljällä eri perusteella:
+Erilainen lauta: variantit, joissa käytetään esimerkiksi pienempää, isompaa, erimuotoista tai kolmiulotteista lautaa.
+Erilaiset nappulat: variantit, joissa käytetään eri tavoin liikkuvia tai lyöviä nappuloita.
+Eri määrä pelaajia: pelaajia voi olla myös enemmän kuin kaksi, kolmishakki ja erilaisia nelinshakkeja tunnetaan.
+Erilaiset säännöt: varianteissa voi olla esimerkiksi eri päämäärä, erilainen siirtojärjestys tai erilaiset lyöntisäännöt.
+Eräskin shakin variantti on Wargames Illustrated -lehdessä vuonna 2002 julkaistu versio, jossa mukana oli kolmas pelaaja, YK, jolla oli kahdeksan tamminappulaa ("rauhanturvaajaa"), jotka eivät voineet lyödä muita nappuloita, eikä niitä itseään voinut lyödä. YK pyrki siirtämään kuninkaan tavoin liikkuvat rauhanturvaajat asemaan, jossa pelin jatkamisesta tuli mahdotonta eli siirtovuorossa oleva pelaaja oli kykenemätön siirtämään nappulaa asemaan, jossa se olisi voinut lyödä vastustajan nappulan tai uhata sitä. Mikäli YK onnistui tässä, se voitti pelin.
+
+
+== Shakki populaarikulttuurissa ==
+Shakki on tuttu peli myös monissa elokuvissa ja televisiosarjoissa. Yleensä shakki näyttäytyy fiktiossa älykkäiden, akateemisen koulutuksen omaavien ihmisten pelinä. Tosiasiassa kuitenkin kuka tahansa voi olla potentiaalinen shakkimestari riippumatta koulutuksestaan tai ammatillisesta oppineisuudestaan. Shakkihistoria on täynnä tällaisia tapauksia. Esimerkiksi shakkihistorian yhdellä kuuluisimmalla maailmanmestarilla José Raúl Capablancalla ei ollut käytännössä mitään koulutusta eikä ammatillista oppineisuutta. Erityisesti yhdysvaltalaisissa elokuvissa shakin pelaaminen liittyy olennaisesti älykkään rikollisen arkkityyppiin, hyvänä esimerkkinä Salainen agentti 007 Istanbulissa -elokuvan konnahahmo Kronsteen. Tämä juontaa juurensa todennäköisesti kylmän sodan aikaiseen vastakkainasetteluun venäläisten (ts. Neuvostoliitto) kanssa, joita pidetään erityisen hyvinä shakin pelaajina.
+Shakilla itsellään on tärkeä rooli muun muassa ensimmäisessä Harry Potter -kirjassa ja sen elokuvaversiossa. Kenties kuuluisin fiktiivinen shakkipeli esiintyy Star Trek -televisiosarjassa, jossa päähenkilöt pelaavat toistuvasti kolmiulotteista, monikerroksisen pelilaudan omaavaa shakkipeliä. Kyseinen shakki on osoitus päähenkilöiden älyllisestä kyvykkyydestä, jota edustaa erityisesti pelin usein voittava Spock.
+Shakkipelejä valmistetaan nykyään myös lukuisin erilaisin teemoin, joissa perinteiset nappulat on korvattu erilaisin variaatioin. Esimerkiksi antiikin Kreikkaan tai Roomaan pohjautuvia pelejä valmistetaan paljon, samoin eräät suositut elokuvasarjat kuten Taru sormusten herrasta ja Tähtien sota ovat saaneet omat shakkinsa. Muunnoksissa on harvemmin puututtu pelin varsinaisiin sääntöihin.
+
+
+== Katso myös ==
+Ensimmäisen siirron etu shakissa
+Luettelo shakin Suomen-mestareista
+Luettelo shakinpelaajista
+Luettelo shakkitermeistä
+Luettelo suomalaisista shakkiseuroista
+Shakin maailmanmestaruus
+Shakkipelin keksijän palkkio
+
+
+== Lähteet ==
+
+
+=== Kirjallisuuslähteet ===
+Böök, Eero E.: Shakkipakinoita. Porvoo Helsinki: WS, 1967.
+Markkula, Mikko: Shakkitieto. Järvenpää: Suomen shakkikustannus, 2002. ISBN 951-97081-2-X.
+Ristoja, Thomas & Ristoja, Aulikki: Shakki: Perusteet, strategia, taktiikka, s. 5–51, 73–74, 144. Porvoo Helsinki Juva: WSOY, 1995 (3. painos 2004). ISBN 951-0-20505-2.
+
+
+=== Internetlähteet ===
+Shakin säännöt (PDF)
+Shakkinet – suomalainen shakkiportaali
+FIDE-Handbook - Maailman Shakkiliiton käsikirja
+
+
+=== Viitteet ===
+
+
+== Kirjallisuutta ==
+
+
+=== Alkeisoppaita ===
+Basman, Michael: Nuorten shakkiopas. (The young chess player, 2000.). Suom. Eero Raaste. Helsinki: WSOY, 2001. ISBN 951-0-25374-X.
+Fischer, Bobby – Margulies, Stuart – Mosenfelder, Donn: Bobby Fischer opettaa šakkia. (Alkuteos: Bobby Fischer teaches chess.) Suomentanut Aarne Valpola. Helsinki: WSOY, 1974. ISBN 951-0-06240-5.
+James, Richard: Shakkikirja: Shakin aakkoset alusta pitäen. (Move one! A chess course for beginners, 1991.). Suom. Henry Tanner. Hämeenlinna: Karisto, 1992. ISBN 951-23-3116-0.
+King, Daniel: Shakki: Siirrot, pelit, mestarit. (Chess: From first moves to checkmate, 2001.). Suom. Henry Tanner. Hämeenlinna: Karisto, 2001. ISBN 951-23-4208-1.
+Summerscale, Claire: Shakki. (Chess, 2006.). Suom. Eero Raaste. Helsinki: WSOY, 2007. ISBN 978-951-0-32687-9.
+Tessler, Andrew: Šakkiaapinen. (Your move, 1948.). Suom. K. M. Juvas. Helsinki: WSOY, 1972. ISBN 951-0-04484-9.
+Valo, Veikko: Shakin aakkoset. Järvenpää: Suomen shakkikustannus, 2001. ISBN 951-97081-1-1.
+Viktor Vámos: Chess Tactics for Beginners. Caissa, 2004. ISBN 0-87980-019-4. (englanniksi)
+Eade, James: Shakinpelaajan käsikirja: Alkuasemasta mattiin. (Chess player’s bible: Illustrated strategies for staying ahead of the game, 2004.). Suom. Henry Tanner. Hämeenlinna: Karisto, 2006. ISBN 951-23-4721-0.
+
+
+=== Muita kirjoja ===
+Konsala, Kimmo: Shakin maailmanmestareita. Hämeenlinna: Karisto, 1981. ISBN 951-23-1789-3. Kolmen maailmanmestarin elämäkerta: Morphy, Steinitz, Lasker.
+Kainulainen, J.: Shakkipelin historia. Hämeenlinna: Karisto, 1984. ISBN 951-23-2186-6.
+Konsala, Kimmo: Kaksi Shakkineroa. Hämeenlinna: Karisto, 1991. ISBN 951-23-2938-7. Jatkoa Shakin maailmanmestareita -kirjalle: Capablanca ja Alehin.
+Žuravljov, Nikolai: Shakkikirja. (Šag za šagom, 1986.). Suom. Juha Pessi. Helsinki: Orient express, 1991. ISBN 951-615-793-9.
+Müller, Karsten & Lamprecht, Frank: Fundamental Chess Endings. Gambit, 2001. ISBN 1-901983-53-6.
+Laato, Antti: Syvemmälle shakin salaisuuksiin. Jyväskylä: Atena, 2003. ISBN 951-796-306-8.
+Ristoja, Thomas & Ristoja, Aulikki: Shakki: Perusteet, strategia, taktiikka. WSOY-pikkujättiläinen. Porvoo Helsinki Juva: WSOY, 1995 (3. painos 2004). ISBN 951-0-20505-2. Alun perin kolmiosaisena ilmestynyt perusteos.
+Markkula, Mikko: Shakkitieto. Järvenpää: Suomen shakkikustannus, 2002. ISBN 951-97081-2-X.
+
+
+== Klassikoita (edelleen hyviä) ==
+Aron Nimzowitsch: My System. B. T. Batsford, 1987. ISBN 0-7134-5655-8. englanninkielinen laitos Nimzowitschin ensimmäisestä ja kuuluisimmasta kirjasta Mein System (1925). Todellinen klassikko.
+Réti, Richard: Shakkilaudan mestareita. (Die Meister des Schachbretts, 1931.) Toimittanut ja kääntänyt Erkki Vänskä. Helsinki: Ajatus, 2001. ISBN 951-566-051-3. Avausteoreettisen viisauden vanhentumisenkin huomioon ottaen ehdottomasti lukemisen arvoinen kirja jo jonkin aikaa pelanneelle. Melko nuorena kuolleen Retin pääteos.
+Max Euve, Walter Meider: Šakin hienouksia. Tammi, 1973. ISBN 951-30-2444-X. 2. p. 1978; "Amatööri vastaan mestari". 25 ex-maailmanmestari Euwen perusteellisesti selittämää peliä.
+Keres, Paul & Kotov, Aleksander: Taito voittaa shakissa. (suomentanut Raimo Lindroos). Helsinki: Tammi, 1965. ISBN 951-30-4532-3. Keresin ja Kotovin omiin peleihin pohjautuva kirja. Paljon tekstiä.
+
+
+== Aiheesta muualla ==
+
+ShakkiNet – suomalainen shakkiportaali
+Suomen Shakkiliitto SSL
+Shakki ja sen muunnelmia (englanniksi)
+Shakin säännöt (PDF) Suomen Shakkiliitto. Viitattu 23.10.2012
+Free Internet Chess Server – Yhdysvalloissa sijaitseva englanninkielinen ilmainen shakkipalvelin
+Loppupeliautomaatti
+Avainsiirto, interaktiivinen shakin opetussivusto shakin ensikohtaajille ja shakin harrastajille

@@ -1,0 +1,63 @@
+A webkiszolgáló/webszerver egy kiszolgáló, mely elérhetővé teszi a helyileg (esetleg más kiszolgálón) tárolt weblapokat a HTTP protokollon keresztül. A HTTP webszerverekhez webböngészőkkel lehet kapcsolódni.
+Egy webszerver két típusú lehet:
+egy erre a célra kialakított számítógép;
+egy számítógépes program, mely a háttérben futva biztosítja a weblapok elérését.
+
+
+== Általános funkciók ==
+Bár a webszerverek többnyire különböznek a részletekben, az alapvető funkcióik azonosak. Minden webszerver HTTP kéréseket fogad a hálózatról, és HTTP válaszokat küld vissza. A HTTP válasz az esetek többségében egy HTML dokumentum, de lehet még egyszerű szöveges fájl, kép, vagy más típusú fájl is.
+
+
+== Útvonalak feloldása ==
+A webszerverek a klienstől kapott kérésekben többek között URL címet kapnak, melyet aztán kétféleképpen értelmezhetnek:
+A tartománynév után álló relatív mappa és fájl struktúrát hozzárendelik egy gyökérmappához. (a gyökérmappa a webszerver beállításaiban van megadva, és az adatokat kérő kliens számára láthatatlan)
+A tartománynév után álló relatív mappa és fájlstruktúra (vagy akár még a tartománynév is) teljesen független a kért címben szereplő struktúrától. Ebben az esetben meghatározott szabályok szerint formázza a kért címet. Ennek segítségével egy mappára irányuló kérés teljesen más mappára vagy akár egy fájlra is mutathat és fordítva. Előnyei a másik megoldással szemben:
+
+a relatív mappaszerkezet is rejtve marad,
+nem létező fájlok, mappák kérése esetén is tudunk reagálni átirányítással vagy egyéb jelzéssel (míg a másik megoldás esetén 404-es hibakóddal tudunk reagálni, amely nem túl felhasználóbarát),
+kereső rendszerek számára (például Google) előnyösebb címeket tudunk használni, és
+a feldolgozást végző fájlok (PHP, ASP stb.) a mappaszerkezettől független helyen is elhelyezkedhetnek.
+
+A kliens például az alábbi URL-t kéri:
+
+http://www.pelda.com/utvonal/fajl.html
+
+A kliens webböngészője ezt értelmezve létrehoz egy kapcsolatot a www.pelda.com kiszolgálóval, és elküldi a következő HTTP 1.1 kérést:
+
+GET /utvonal/fajl.html HTTP 1.1
+Host: www.pelda.com
+…
+
+A www.pelda.com címet megfelelteti a webszerver az adott gyökérmappához (például /var/www/pelda), amelyhez hozzáfűzi a /utvonal/fajl.html elérést – ezzel megtörtént a megfeleltetés a fájlrendszer erőforráshoz. A kért eredmény a szerveren tehát: /var/www/pelda/utvonal/fajl.html.
+Ezt követően a webszerver ellenőrzi, hogy hozzáférhető-e az adott kérés, ill. hogy létezik-e. Ha nem létezett akkor 404-es hibakóddal tér vissza, ha hozzáférhető akkor beolvassa, elvégzi rajta az esetleges további műveleteket, majd elküldi a kliensnek. A válasz természetesen szintén magában foglalja a megfelelő fejlécet.
+A második megoldás esetében, az erőforrásokhoz történő megfeleltetés előtt a címet átformázza. Például:
+
+www.pelda.com/Toplista/kutyak+es+macskak
+Nyomtatási változat esetén: www.pelda.com/Nyomtatas/Toplista/kutyak+es+macskak
+
+URL kérést a következőképpen alakíthatja át:
+
+/var/www/pelda/toplista.php?cim=kutyak+es+macskak
+Nyomtatási cím esetén pedig:/var/www/pelda/nyomtat.php?cim=kutyak+es+macskak&hol=Toplista
+
+Sok esetben a cím olyan adatokat is tartalmaz, amelyre a feldolgozáshoz nincs is szükség, ezek a felhasználónak és a keresőrendszereknek nyújtanak további információkat. Az első megoldás esetében egy átláthatatlan mappaszerkezet alakulna ki, amely kézben tarthatatlan és a fájlrendszert mint erőforrást is túlzott mértékben igénybe venné.
+
+
+== Modulok ==
+Lehetőség van a válaszok feldolgozása előtt, az esetlegesen a kérésben érkezett adatok feldolgozására és ennek eredményenek visszaküldésére. Ilyenkor a szerver oldalon futó webszerver-modulok illetve a webszerver által meghívott CGI rutinok végzik el ezt a feladatot. A programrészletek (webszerver-modulok) rendszerint, a HTML kódba vannak beágyazva és maga a webszerver-program hajtja ezeket végre. Ilyenek például a(z):
+PHP
+ASP (Microsoft IIS -ben)
+JSP
+Ezenkívül léteznek még a CGI (Common Gateway Interface) rutinok, ami minden olyan program lehet, amely azon a rendszeren, ahol a webszerver fut, működőképes. Jelentősen lassabb a fenti megoldásnál, hiszen minden egyes futáskor az adott programnak a rendszer tárterületet, processzoridőt stb. kell adjon, ami nagyobb mennyiségű programnál jelentős sebességcsökkenést eredményez. Leginkább ez az oka, hogy ez a technika ma már kevéssé használatos.
+Ennek a sebességproblémának a kiküszöbölésére fejlesztették ki a FastCGI-t, amely az erős konkurencia miatt (JSP, PHP) nem igazán terjedt el.
+Vannak áthidaló megoldások, amelyek a "hagyományos" CGI programokat a webszerveren "belül" futtatják. A mod perl nevű Apache modul használatával például a Perl programok jelentős sebességnövekedéssel futtathatók, mivel így nem CGI-n keresztül futnak le, hanem csak az Apache és a Perl értelmező segítségével. Ma már szinte minden Apache szerverrel kiszolgált weblapon mod perl -t használnak a Perl szerveroldali szkriptek értelmezésére, mod php -t a PHP értelmezésére, és így tovább.
+
+
+== Szoftverek ==
+
+A legnépszerűbb HTTP webszerverek a következők:
+Apache HTTP Server az Apache Software Foundation terméke.
+Internet Information Services (IIS) a Microsoft terméke.
+Nginx
+lighttpd
+Zeus Web Server a Zeus Technol

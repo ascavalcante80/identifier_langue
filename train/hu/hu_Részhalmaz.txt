@@ -1,0 +1,29 @@
+A halmazelméletben egy halmaz valamely elemeinek a halmazát, összességét az adott halmaz részhalmazának nevezzük, beleértve azt az esetet is, amikor az adott halmaz összes elemét kiválasztjuk és azt is, amikor a halmazból egyetlen elemet sem választottunk ki. Az így értelmezett részhalmaz fogalma a halmazelmélet egyik alapvető fogalma.
+
+
+== Definíció ==
+Legyenek  és  tetszőleges halmazok. Azt mondjuk, hogy  részhalmaza a  halmaznak, és így jelöljük , ha az a  halmaz összes elemét tartalmazza a  halmaz, azaz .
+Ha , de , azaz -nek van legalább egy olyan eleme, amely nem eleme -nak, akkor azt mondjuk, hogy  valódi részhalmaza -nek, és ezt így jelöljük: .
+
+
+== Tulajdonságok ==
+Minden halmaz önmagának részhalmaza, azaz tetszőleges  halmazra teljesül, hogy .
+Az üres halmaz minden halmaznak részhalmaza, azaz tetszőleges  halmazra teljesül, hogy .
+Ha  és , akkor .
+Ha  és , akkor .
+ pontosan akkor áll fenn, ha .
+ pontosan akkor áll fenn, ha .
+ pontosan akkor áll fenn, ha .
+
+
+== A számhalmazok kapcsolata ==
+N = természetes számok halmaza (0, 1, 2, … ,∞)
+Z = egész számok halmaza (…,-3, -2, -1, 0, 1, 2,…)
+Q = racionális számok halmaza (z1 / z2 alakú számok, ahol z1, z2 ∈ Z ∩ z2 ≠ 0)
+Q' = irracionális számok halmaza (olyan számok, amelyek nem írhatók fel két egész szám hányadosaként)
+R = valós számok halmaza (a racionális és irracionális számok összessége (Q ∪ Q'))
+Ekkor: N ⊂ Z ⊂ Q ⊂ R, továbbá Q' ⊂ R.
+
+
+== Lásd még ==
+Hatv

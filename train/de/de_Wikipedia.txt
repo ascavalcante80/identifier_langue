@@ -1,0 +1,293 @@
+Wikipedia [ˌvɪkiˈpeːdia] ist ein am 15. Januar 2001 gegründetes Projekt zur Erstellung eines freien Onlinelexikons in zahlreichen Sprachen. Die Wikipedia ist gegenwärtig das meistbenutzte Online-Nachschlagewerk und liegt auf Platz sieben der meistbesuchten Websites der Welt und Deutschlands sowie auf Platz sechs in den USA. Sie ist dabei weltweit wie in Deutschland mit der Top Level Domain .org die einzige nichtkommerzielle Website unter den Top 50.
+Etwa 35 Millionen Artikel der Wikipedia in mehr als 280 Sprachen werden in Mehrautorenschaft von unentgeltlich arbeitenden Freiwilligen konzipiert, verfasst und nach dem Prinzip des kollaborativen Schreibens fortwährend gemeinschaftlich korrigiert, erweitert und aktualisiert.
+Das Ziel von Wikipedia ist es, eine frei lizenzierte und qualitativ hochwertige Enzyklopädie zu schaffen und zu verbreiten. Jeder Internetnutzer kann Wikipedia nicht nur lesen, sondern auch als Autor daran mitwirken. Um Inhalte zu verändern, ist eine Anmeldung nicht erforderlich. In einem offenen Bearbeitungsprozess hat Bestand, was von der Gemeinschaft der Mitarbeitenden akzeptiert wird.
+Bisher haben international mehr als 2,0 Millionen angemeldete und eine unbekannte Zahl nicht angemeldeter Nutzer zur Wikipedia beigetragen. Rund 5800 Autoren arbeiten regelmäßig an der deutschsprachigen Ausgabe (Stand: Mai 2015).
+Die englischsprachige Version wird mit Abstand am häufigsten aufgerufen, gefolgt von der japanischsprachigen Ausgabe und der russischsprachigen Wikipedia. Dabei ist die englischsprachige Wikipedia mit 5,01 Millionen Artikeln die größte Sprachversion, gefolgt von der schwedischen Wikipedia mit 2,10 Millionen Artikeln sowie von der deutschsprachigen Wikipedia mit 1,87 Millionen Artikeln und der niederländischsprachigen mit 1,84 Millionen Artikeln (jeweils Stand 21. November 2015). Neben ihrer Funktion als Enzyklopädie spielt die Wikipedia eine wachsende Rolle als Medium für die Verbreitung von Nachrichten, auch in aktuellen Krisensituationen.
+Alle Inhalte der Wikipedia stehen unter freien Lizenzen – Artikeltexte unter der GNU-Lizenz für freie Dokumentation sowie seit dem 15. Juni 2009 auch unter der Creative-Commons-Attribution-ShareAlike-Lizenz (CC-BY-SA), Bilder unter unterschiedlichen Lizenzen – und können somit (unter bestimmten Bedingungen) kommerziell genutzt, verändert und verbreitet werden.
+Betreiber ist die Wikimedia Foundation, Inc., eine Non-Profit-Organisation mit Sitz in San Francisco, Kalifornien. In vielen Ländern gibt es zudem unabhängige Wikimedia-Vereine, die mit der Stiftung zusammenarbeiten. Im deutschen Sprachraum sind dies Wikimedia Deutschland, Wikimedia Österreich und die Wikimedia CH.
+
+
+== Zum Namen WikipediaBearbeiten ==
+
+Der Name Wikipedia ist ein Kofferwort, das sich aus „Wiki“ und „Encyclopedia“ (dem englischen Wort für Enzyklopädie) zusammensetzt. Wikis sind Hypertext-Systeme für Webseiten, deren Inhalte von den Benutzern nicht nur gelesen, sondern auch online direkt im Webbrowser geändert werden können. Der Begriff „Wiki“ für solche Systeme kommt wiederum vom hawaiischen Wort für „schnell“.
+
+
+== GeschichteBearbeiten ==
+
+Der erste, der die Idee hatte, das Internet zur gemeinsamen Entwicklung einer Enzyklopädie zu verwenden, war – so wird allgemein angenommen – der Internet-Pionier Rick Gates, der sie in einem nicht erhaltenen Beitrag am 22. Oktober 1993 in einer Newsgroup im Usenet zur Diskussion stellte. Das Projekt, das den Namen Interpedia erhielt, kam jedoch nicht über das Planungsstadium hinaus. Auch der 1999 von Richard Stallman angeregten GNUPedia war kein Erfolg beschieden.
+Im März 2000 startete der Internet-Unternehmer Jimmy Wales mit dem damaligen Doktoranden der Philosophie Larry Sanger über die Firma Bomis ein erstes Projekt einer englischsprachigen Internet-Enzyklopädie, die Nupedia. Der Redaktionsprozess der bisherigen Enzyklopädien diente der Nupedia als Vorbild: Autoren mussten sich bewerben und ihre Texte anschließend ein Peer-Review-Verfahren durchlaufen, wobei Sanger als Chefredakteur amtierte.
+Ende 2000/Anfang 2001 wurden Sanger und Wales auf das Wiki-System aufmerksam, mit dessen Hilfe Benutzer Webseiten nicht nur lesen, sondern auch direkt über den Browser verändern können. Am 15. Januar 2001 war das Wiki der Nupedia unter der eigenständigen Adresse wikipedia.com abrufbar, was seither als die Geburtsstunde der Wikipedia gilt.
+Ursprünglich war die Wikipedia von Sanger auf Nupedia als „fun project“ neben der Nupedia angekündigt worden. Dank ihrer Offenheit entwickelte sich die Wikipedia jedoch – zur Überraschung von Sanger und Wales selbst – so schnell, dass sie die Nupedia in den Hintergrund rückte und im September 2003 ganz verdrängte.
+Am 15. März 2001 kündigte Wales in der Wikipedia-Mailingliste an, Versionen in weiteren Sprachen einrichten zu wollen; unter den ersten waren die deutschsprachige (nur ein Tag später, am 16. März 2001), die katalanische und die französische Wikipedia. Ende 2001 existierte die Wikipedia bereits in 18 Sprachen.
+Im Februar 2002 entschied sich Bomis, nicht länger einen Chefredakteur zu beschäftigen, und kündigte den Vertrag mit Larry Sanger, der wenig später seine Mitarbeit bei Nupedia und Wikipedia aufgab.
+Zur gleichen Zeit erlitt die Wikipedia ihren ersten Rückschlag. Zahlreiche Autoren der spanischen Wikipedia entschlossen sich zu einer Abspaltung und gründeten die Enciclopedia Libre Universal en Español, da sie, nach einer entsprechenden Mitteilung von Sanger, befürchten mussten, in der Wikipedia werde künftig Werbung eingeblendet.
+Um weitere Aufspaltungen zu verhindern, erklärte Wales im selben Jahr, dass die Wikipedia werbefrei bleiben werde. Außerdem wurde von der wikipedia.com-Website-Adresse zu der üblicherweise mit nichtkommerziellen Organisationen assoziierten Top-Level-Domain .org gewechselt.
+Am 20. Juni 2003 schließlich kündigte Wales die Gründung der gemeinnützigen Wikimedia Foundation an und übereignete ihr die Namensrechte (die bei Bomis oder ihm persönlich lagen) und später auch die Server.
+
+
+== FunktionsweiseBearbeiten ==
+
+
+=== GrundsätzeBearbeiten ===
+Vier Grundsätze sind den Angaben des Projekts zufolge unumstößlich und können auch nach Diskussionen nicht geändert werden:
+Wikipedia ist eine Enzyklopädie.
+Beiträge sind so zu verfassen, dass sie dem Grundsatz des neutralen Standpunkts entsprechen.
+Geltendes Recht – insbesondere das Urheberrecht – ist strikt zu beachten.
+Andere Benutzer sind zu respektieren und die Wikiquette einzuhalten.
+
+Die Grundsätze neutraler Standpunkt, Nachprüfbarkeit und Keine Theoriefindung sollen die inhaltliche Ausrichtung der Artikel festlegen. Um unweigerlich aufkommende Kämpfe um Artikelinhalte zu deeskalieren bzw. zu schlichten, um den Lesern zu ermöglichen, sich eine eigene Meinung zu bilden, und um ihre intellektuelle Unabhängigkeit zu unterstützen, hat Wikipedia die Richtlinie des neutralen Standpunkts (NPOV, von englisch neutral point of view) aufgestellt. Danach soll ein Artikel so geschrieben sein, dass ihm möglichst viele Autoren zustimmen können. Existieren zu einem Thema verschiedene Ansichten, so soll ein Artikel diese fair beschreiben, aber nicht selbst Position beziehen. Der neutrale Standpunkt verlangt jedoch nicht, dass alle Ansichten gleichwertig präsentiert werden (siehe auch herrschende Meinung). Soziale Prozesse sollen gewährleisten, dass er eingehalten wird, was bei kontroversen Themen oft zu langen Diskussionen führt.
+Welche Themen in die Enzyklopädie aufgenommen werden und in welcher Form, entscheidet der Theorie nach die Gemeinschaft der Bearbeiter in einem offenen Prozess. Konflikte entstehen in diesem Zusammenhang meist darüber, was „Wissen“ darstellt, wo die Abgrenzung zu reinen Daten liegt und was unter enzyklopädischer Relevanz zu verstehen ist. Abgesehen von groben Leitlinien, die Wikipedia von anderen Werktypen, wie Wörterbuch, Datenbank, Link- oder Zitatesammlung, abgrenzen, gibt es keine allgemeinen Kriterienkataloge (z. B. für Biographien), wie sie in traditionellen Enzyklopädien gebräuchlich sind. Im Zweifel wird über den Einzelfall diskutiert. Empfindet ein Benutzer ein Thema als ungeeignet oder einen Artikel als dem Thema nicht angemessen, kann er einen Löschantrag stellen, über den anschließend alle Interessierten diskutieren.
+Als Verhaltensvorschrift wird in einer der Usenet-Netiquette nachempfundenen Wikiquette von Mitarbeitern gefordert, ihre Mitautoren zu respektieren und niemanden in Diskussionen zu beleidigen oder persönlich anzugreifen. Grundlage ist hierbei die Regel „Gehe von guten Absichten aus!“.
+Mit dem Speichern ihrer Bearbeitung geben die Autoren ihre Einwilligung, dass ihr Beitrag unter der GNU-Lizenz für freie Dokumentation (GFDL) und seit 15. Juni 2009 auch unter der Creative-Commons-Attribution-Share Alike-Lizenz (CC-BY-SA) veröffentlicht wird. Diese Lizenzen erlauben es anderen, die Inhalte nach Belieben zu ändern und – auch kommerziell – zu verbreiten, sofern die Bedingungen der Lizenzen eingehalten werden und die Inhalte wieder unter den gleichen Lizenzen veröffentlicht werden. Durch dieses sogenannte Copyleft-Prinzip ist es unmöglich, Wikipedia-Artikel und auf ihnen basierende Texte unter Berufung auf das Urheberrecht exklusiv zu verwerten.
+
+
+=== Technischer AufbauBearbeiten ===
+Die Wikipedia besteht aus vielen Sprachversionen, wobei jede Sprachversion eine eigene Subdomain hat (z. B. de.wikipedia.org, en.wikipedia.org) und technisch ein eigenes Wiki darstellt. Die Sprachversionen sind weitgehend autark, was ihre Inhalte, Richtlinien und Organisatorisches angeht. Die enzyklopädischen Artikel werden in jeder Sprachversion individuell erstellt. Artikel zum gleichen Gegenstand in verschiedenen Sprachen können miteinander verknüpft werden. Sie werden aber nicht üblicherweise voneinander übersetzt oder inhaltlich miteinander synchronisiert.
+
+Die Webseiten jedes Wikis sind in als „Namensräume“ bezeichnete Gruppen aufgeteilt. Der wichtigste Namensraum ist der Artikelnamensraum mit den enzyklopädischen Artikeln für passive Nutzer. Daneben gibt es weitere Namensräume, beispielsweise den Wikipedianamensraum mit Seiten über Wikipedia-Metadiskurse, unter anderem mit den Richtlinien. Im Hilfenamensraum sind Hilfeseiten zusammengefasst, die Anleitungen zur methodischen Umsetzung von Artikelbearbeitungen enthalten. Angemeldete Benutzer verfügen jeweils über Benutzerseiten im Benutzernamensraum, die sie jeweils frei mit Inhalten füllen und gestalten können, wobei ein Bezug zu Wikipedia bestehen soll. Häufige Einträge dort betreffen persönliche Angaben zu Alter, Herkunft und Beruf, benutzerspezifische technische Hilfen, Bearbeitungsschwerpunkte, Nennung der vom Benutzer eröffneten Artikel sowie Kritik an Wikipedia.
+In allen Namensräumen hat jede Seite eine ihr zugeordnete Diskussionsseite. Die Diskussionsseiten können prinzipiell genauso wie normale Seiten bearbeitet werden. Hier gibt es jedoch bestimmte eigene Konventionen, wie die Signierung und das Einrücken von Diskussionsbeiträgen, um den Diskussionsverlauf erkenntlich zu machen.
+Der Inhalt aller Seiten ist als Hypertext organisiert. Querverweise und Formatierungsanweisungen geben die Autoren in einer einfachen Syntax ein. So wandelt die Software in doppelte eckige Klammern ([[]]) gesetzte Begriffe automatisch in einen internen Link auf den betreffenden Artikel um. Existiert der verlinkte Artikel bereits, wird der Link in blauer Farbe dargestellt. Existiert der Artikel noch nicht, erscheint der Verweis in Rot, und beim Anklicken öffnet sich ein Eingabefeld, in dem der Benutzer den neuen Artikel verfassen kann. Diese einfache Verknüpfungsmöglichkeit hat dafür gesorgt, dass die Artikel der Wikipedia wesentlich dichter miteinander vernetzt sind als die anderer Enzyklopädien auf CD-ROM oder im Internet.
+Neben den im Kontext angebrachten Hyperlinks auf andere Artikel bestehen noch weitere Navigationsmöglichkeiten, wie Kategorien oder der alphabetische Index, die jedoch eine untergeordnete Rolle spielen.
+
+
+=== OrganisationsstrukturBearbeiten ===
+Betreiberin der Wikipedia ist die Wikimedia Foundation mit Sitz in San Francisco. Die einzelnen Sprachversionen der Wikipedia sind nach dem gleichen Grundkonzept aufgebaut, genießen aber große Eigenständigkeit.
+Die Organisationsstruktur wird hauptsächlich durch in informellen Organisationsprozessen entstandene Normen bestimmt. Benutzer können sich mit ihren Beiträgen in der Gemeinschaft (Community) einen Ruf erwerben. Neben der Überzeugungskraft von Argumenten spielt der – etwa durch Fachkenntnis in bestimmten Gebieten, aber auch durch Aufnehmen von Kontakten und Bilden von informellen Cliquen erworbene – soziale Status innerhalb der Wikipedia-Gemeinschaft eine Rolle für die Akzeptanz von Bearbeitungen im Artikelnamensraum.
+
+Angemeldete Benutzer, die bereits eine bestimmte Zahl von Bearbeitungen vorgenommen haben, verfügen über zusätzliche Rechte. Besonders engagierte Teilnehmer können von der Autorengemeinschaft zu Administratoren gewählt werden. Administratoren haben erweiterte Rechte und Aufgaben, wie z. B. das Recht, die Bearbeitung von umstrittenen Artikeln für nicht angemeldete Benutzer zu sperren oder auch Bearbeiter zeitweise auszuschließen, die grob oder wiederholt gegen die Regeln verstoßen.
+Die meisten Regeln der Wikipedia entstehen dadurch, dass viele Teilnehmer einen einzelnen Vorschlag aufgreifen und anwenden. Wird ein derartiger Vorschlag von einer qualifizierten Mehrheit der Benutzer getragen, gilt er als akzeptiert und kann zur Regel werden.
+Bei umstrittenen Entscheidungen wird in der Wikipedia traditionellerweise versucht, einen Konsens zu finden. In der Praxis ist ein echter Konsens unter der Vielzahl von Mitarbeitern jedoch oft nicht möglich. In solchen Fällen werden die Entscheidungen in Verfahren getroffen, die zwischen Diskussion und Abstimmung anzusiedeln sind.
+Den größten persönlichen Einfluss – vor allem in der englischsprachigen Wikipedia – hat der Gründer Jimmy Wales, der mit seiner persönlichen Autorität zu Beginn Konflikte in der Gemeinschaft schlichtete. Einen Teil seiner Aufgaben in der englischsprachigen Wikipedia übertrug er Anfang 2004 einem von den Teilnehmern gewählten „arbitration committee“. Diese einem Schiedsgericht vergleichbare Institution existiert auch in anderen Sprachversionen, unter anderem in der deutsch- und französischsprachigen Wikipedia, wobei sich die jeweiligen Befugnisse deutlich unterscheiden.
+Mit der Zeit haben sich gegensätzliche Überzeugungen herausgebildet, wie sich die Wikipedia entwickeln soll. Eine wesentliche Meinungsverschiedenheit besteht zwischen den sogenannten „Inklusionisten“ und den „Deletionisten“ oder „Exklusionisten“. Dabei plädieren die Inklusionisten dafür, möglichst viele Informationen in die Wikipedia aufzunehmen und möglichst keine Artikel zu löschen. Ein Projekt, das aus dieser Auseinandersetzung im englischsprachigen Raum hervorging, war die Deletionpedia. Die Gegenposition vertreten die Deletionisten, die davor warnen, allzu detaillierte und irrelevante Informationen aufzunehmen.
+Wie stark die Organisationshierarchie sich gemäß dem Ehernen Gesetz der Oligarchie entwickelt, ist umstritten, wobei zwei von drei Forschungsarbeiten eine Oligarchisierung konstatieren.
+
+
+=== FinanzierungBearbeiten ===
+Die Wikipedia finanziert sich ausschließlich über Spenden von Privatpersonen und Unternehmen. Die Ausgaben der Wikimedia Foundation beliefen sich im Fiskaljahr 2008/2009 auf rund 470.000 Dollar im Monat. Davon entfielen ca. 40 % auf die Gehälter der rund 30 Angestellten und etwa 70.000 Dollar auf das Internet-Hosting. Das Budget für das Fiskaljahr 2009/2010 betrug 9,4 Millionen Dollar. Mit einer Spende von zwei Millionen Dollar im Jahr 2010 ist das Internetunternehmen Google Inc. einer der größten Einzelspender.
+An der Finanzierung der Wikipedia beteiligen sich auch die einzelnen nationalen Wikimedia-Chapter. Zum Beispiel hat Wikimedia Deutschland knapp siebzig Angestellte und betrieb den sogenannten Toolserver, auf dem Werkzeuge für Wikipedia-Autoren bereitstanden; inzwischen nur noch den Kartenserver OpenStreetMap.
+
+
+=== TechnikBearbeiten ===
+
+Anfangs verwendete Wikipedia als Software das in Perl geschriebene UseModWiki, das den Anforderungen jedoch bald nicht mehr gewachsen war. Im Januar 2002 stellte Wikipedia auf eine vom deutschen Biologen Magnus Manske geschriebene, MySQL-basierte PHP-Applikation (Phase II) um, die speziell an die Bedürfnisse der Wikipedia angepasst war. Nachdem die Website sich über ein Jahr die Ressourcen mit dem Webangebot von Bomis geteilt hatte, zog die englischsprachige Wikipedia, später auch die anderen Sprachversionen, im Juli 2002 auf einen eigenen Server mit einer von Lee Daniel Crocker überarbeiteten und teils neugeschriebenen Version von Manskes Software (Phase III) um. Diese erhielt später den Namen MediaWiki. Für Wikipedia wird zurzeit die MediaWiki-Version 1.27.0-wmf.7 (ec0370f) benutzt.
+
+Wikipedia läuft auf Linux-Servern, überwiegend auf der Server-Variante von Ubuntu, und mit einigen OpenSolaris-Servern für ZFS. HTTP-Anfragen gelangen zuerst an Varnish-Caches, die nicht angemeldete Besucher, die nur lesen wollen, mit vorgenerierten Seiten versorgen. Die anderen Anfragen kommen an load-balanced Server auf Basis der Software Linux Virtual Server, von wo sie zu einem der Apache-HTTP-Server gelangen. Dieser nutzt die Skriptsprache PHP und die Datenbank MariaDB, um die Seiten benutzerspezifisch zu generieren. Die MariaDB-Datenbank läuft auf mehreren Servern mit Replikation im Master-Slave-Betrieb.
+Mit steigenden Zugriffszahlen erhöhten sich die Anforderungen an die Hardware. Waren es im Dezember 2003 noch drei Server, sind zum Betrieb der Wikipedia und ihrer Schwesterunternehmungen im September 2014 mittlerweile 480 Server in Tampa, Amsterdam und Ashburn im Einsatz, die von einem Team sowohl ehrenamtlicher als auch fest angestellter Administratoren betreut werden. Das Prinzip, die Server nach berühmten Enzyklopädisten zu benennen, wurde 2005 aufgegeben.
+Wikipedia-Server verarbeiten zwischen 25.000 und 60.000 Zugriffe pro Sekunde, je nach Tageszeit. Teilweise kommt es dabei zu Kapazitätsengpässen, die etwa dazu führen, dass Seiten nur langsam oder gar nicht geladen werden können.
+Mehrere Unternehmen und Organisationen boten der Wikimedia Foundation ihre Unterstützung an. Im April 2005 erklärte sich der Suchmaschinenbetreiber Yahoo bereit, 23 Server in seinem Rechenzentrum in Asien für den Betrieb der Wikipedia bereitzustellen. Am 17. Juli 2009 wurden diese Server abgekündigt und zum 1. Januar 2010 abgeschaltet.
+Die Entwicklung der Software, etwa den Einbau neuer Funktionen, bestimmt das von der Community unabhängige Team der Programmierer, das einerseits versucht, sich an den Wünschen der Nutzer zu orientieren, andererseits neue Ideen, wie zum Beispiel Erweiterungen, von außerhalb implementiert.
+
+
+=== StatistikBearbeiten ===
+Die Wikipedia wird intern umfassend statistisch erfasst. Das Hauptranking der einzelnen Sprachversionen basiert auf der absoluten Artikelzahl. Die Mindestanforderungen an einen Artikel sind in den einzelnen Sprachversionen allerdings sehr unterschiedlich, weshalb die Artikelanzahl allein kein ausreichendes Vergleichskriterium ist – so haben einige Versionen so genannte Bots eingesetzt, um automatisch Artikel zu schaffen, was sich besonders bei der Volapük-Wikipedia zeigt, von deren über 118.000 Artikeln nur etwa ein Prozent größer ist als zwei Kilobyte. Daher werden die einzelnen Wikipedias auch nach dem Umfang der Artikel aufgelistet. Ein anderes Ranking resultiert aus der Anzahl der Besuche der Website; ein weiterer Anhaltspunkt ist die Anzahl der Bearbeitungen.
+
+
+== InhalteBearbeiten ==
+
+
+=== ErstellungBearbeiten ===
+
+Das Wiki-System sieht vor, dass jeder Besucher der Webseiten der Wikipedia Artikel und Beiträge verfassen und Texte ändern kann, ohne sich anmelden zu müssen. Bestimmte, dauerhaft umstrittene Artikel können jedoch von nicht angemeldeten oder neu angemeldeten Benutzern nicht bearbeitet werden (hierbei handelt es sich um eine sogenannte Halbsperre); es kommt auch vor, dass ein Artikel aktuell so stark umstritten ist oder mutwillig entstellt wird (Vandalismus), dass er für jegliche Bearbeitung vollgesperrt wird.
+Eine eigentliche Redaktion gibt es nicht, das Prinzip basiert vielmehr auf der Annahme, dass sich die Benutzer gegenseitig kontrollieren und korrigieren. Die deutschsprachige Wikipedia hat 2008 das System der Sichtung eingeführt. Dadurch wird allen unangemeldeten Benutzern standardmäßig die letzte gesichtete Version eines Artikels angezeigt, die frei von offensichtlichem Vandalismus ist. Neuere, ungesichtete Versionen bereits gesichteter Artikel werden angemeldeten Benutzern standardmäßig angezeigt, können aber auch von unangemeldeten Benutzern über den Reiter Ungesichtete Änderung aufgerufen werden.
+Jede Seite verfügt über eine eigene Diskussionsseite, auf der jeder Benutzer Verbesserungs- oder Änderungsvorschläge einbringen kann. Sie gibt zudem Aufschluss über die Entwicklungsgeschichte eines Artikels und eventuelle Kontroversen.
+
+
+=== Wikipedia im Vergleich zu anderen EnzyklopädienBearbeiten ===
+
+Im Dezember 2005 veröffentlichte die Zeitschrift Nature einen Vergleich der englischen Wikipedia mit der Encyclopædia Britannica. In einem Blindtest hatten 50 Experten je einen Artikel aus beiden Werken aus ihrem Fachgebiet ausschließlich auf Fehler geprüft. Mit durchschnittlich vier Fehlern pro Artikel lag die Wikipedia nur knapp hinter der Britannica, in der im Durchschnitt drei Fehler gefunden wurden.
+Britannica reagierte darauf im März 2006 mit einer Kritik der Nature-Studie, in der sie dem Wissenschaftsmagazin schwere handwerkliche Fehler vorwarf – so seien etwa Artikel herangezogen worden, die gar nicht aus der eigentlichen Enzyklopädie, sondern aus Jahrbüchern stammten, außerdem seien die Reviews selbst nicht auf Fehler geprüft worden. Die Zeitschrift Nature wies die Vorwürfe zurück und erklärte, sie habe die Online-Ausgaben verglichen, die auch die Jahrbuchartikel enthielten. Dass die Reviews auf Fehler geprüft seien, habe sie nie behauptet; und dadurch, dass die Studie als Blindtest durchgeführt worden sei, träfen sämtliche Kritikpunkte auch auf die Reviews der Wikipedia-Artikel zu, das Gesamtergebnis ändere sich folglich nicht.
+Gute Vergleichsnoten erhielt Wikipedia von Günter Schuler im Juli 2007 sowohl in der Konkurrenz zu den bekannten Universalenzyklopädien als auch in der Gegenüberstellung mit diversen Fachlexika und Online-Suchmaschinen wie Yahoo und Google. Die Vorzüge der Wikipedia gegenüber den klassischen Online-Suchmaschinen sah Schuler vor allem in der günstigen Kombination aus Weblinks, die „vom Feinsten“ seien, und der Tatsache, dass zumindest „die größeren Wikipedia-Sprachversionen mittlerweile so gut wie alle Themenbereiche abdecken.“
+Positiv fiel auch das Urteil von Christoph Drösser und Götz Hamann (Die Zeit) aus, die anlässlich des zehnten Geburtstags von Wikipedia hervorhoben, dass diese, anders als gedruckte Lexika, stets auf der Höhe der Zeit sei und ihre Wirkung allenfalls mit der von Denis Diderots Encyclopédie aus dem Jahre 1751 verglichen werden könne: Diderot verband mit seinem Werk die Hoffnung, dass „unsere Enkel nicht nur gebildet, sondern gleichzeitig auch tugendhafter und glücklicher werden“. Nach dem Erscheinen der ersten Bände seiner Enzyklopädie verbreitete diese sich in Europa wie keine vor ihr. In einer Welt aus Hörensagen, mündlicher Überlieferung, einzelnen aufklärerischen Schriften und kleineren Lexikon-Editionen erleuchtete das umfassende Werk den Kontinent. Mit Diderot bekam die Aufklärung ein intellektuelles Fundament. Gebildete Menschen in Europa bedienten sich mit einem Mal aus demselben Wissensschatz. Indem sie die Enzyklopädie nutzten und zitierten und übersetzten, verständigten sie sich darüber, wie die Welt ist. Eine ähnliche Wirkung entfaltet heute Wikipedia.
+
+
+== AutorenBearbeiten ==
+
+
+=== Identität und SachkompetenzBearbeiten ===
+
+Die Identität der Wikipedia-Autoren („Wikipedianer“) ist vielfach nicht bekannt. Zwar machen viele angemeldete Autoren Angaben zur eigenen Person auf ihrer Benutzerseite, doch ist dies freiwillig und kaum überprüfbar. Ein erheblicher Anteil bearbeitet unangemeldet ohne Benutzerkonto. Im Frühjahr 2007 geriet der Fall des 24-jährigen US-amerikanischen Wikipedia-Autors Essjay in die Schlagzeilen, der sich fälschlich als Universitätsprofessor ausgegeben hatte und in der englischsprachigen Wikipedia in die höchsten Community-Ämter aufgestiegen war.
+Im Juni 2014 änderte die Wikimedia-Foundation die Nutzungsbedingungen: Nun müssen sich Autoren zu erkennen geben, die Beiträge im Namen von Firmen usw. erstellen und dafür bezahlt werden.
+
+
+=== Sozialstruktur und GendergapBearbeiten ===
+
+Zur Sozialstruktur der Wikipedia-Autoren existieren noch wenige Untersuchungen. Eine Umfrage von Würzburger Psychologen ergab einen Männeranteil von 88 Prozent und etwa 50 Prozent Singles. 43 Prozent der Befragten arbeiten Vollzeit. Eine große Gruppe bilden Studenten. Das Durchschnittsalter beträgt 33 Jahre. Zu ihrer Motivation befragt, bewerteten über 80 Prozent die Erweiterung des eigenen Wissens als wichtig bis sehr wichtig. Deutlich wird auch ein hoher Anteil der 13- bis 23-Jährigen. 2011 nannte Jörg Zittlau Wikipedia „ein angestammtes Habitat der Nerds“.
+In einer Analyse des Partizipationsverhaltens angemeldeter Teilnehmer stellte Jimmy Wales fest, dass die Hälfte aller Beiträge von nur 2,5 Prozent der Nutzer stammte. Er stützte damit seine These von der Wikipedia als „community of thoughtful users“, die er einer Auffassung als emergentem Phänomen gegenüberstellte, in dem sich aus den Beiträgen einer Vielzahl anonymer Internetnutzer eher spontan eine Enzyklopädie herausbildet.
+Ein Artikel zu Kate Middletons Brautkleid wurde zum Gegenstand einer Kontroverse auf der englischen Wikipedia, nachdem sofort nach Einstellung ein Löschantrag auf den Artikel gestellt wurde. Bei der Wikimania 2012 führte Jimmy Wales, der sich persönlich für das Behalten des Artikels eingesetzt hatte und sich in seiner Begründung auf die Berichterstattung beim Onlinemagazin Slate bezog, das Kleid als Beispiel für den Gendergap – die mangelnde Beteiligung von Frauen wie auch die mangelnde Beachtung von Frauenthemen bei Wikipedia allgemein – an. Wikipedia habe kein Problem, Dutzende von Linuxvarianten in separaten Artikeln zu beschreiben, aber die vor allem männlich geprägte Community würdige ein derart kulturgeschichtlich wichtiges Kleidungsstück nicht ausreichend. Wales’ Äußerungen und die Kontroverse an sich hatten ein mehrfaches Presseecho.
+
+
+=== EntwicklungBearbeiten ===
+Seit geraumer Zeit hat die Wikipedia-Gemeinde zunehmend Schwierigkeiten, engagierte Autoren zu finden und zu halten. Eine im Herbst 2007 veröffentlichte Erhebung in der englischsprachigen Version ergab, dass die Wikipedia erstmals seit ihrer Gründung ein sinkendes Engagement ihrer aktiven Benutzer zu verzeichnen hat und auch die Zahl der Neuanmeldungen rückläufig ist. Einer der Hauptgründe ist laut einer Studie ein immer rauer werdender Umgangston. Eine Erklärung ist die, dass die Einstiegsschwierigkeiten für technisch nicht versierte Erstautoren zu groß sind. Dem soll seit April 2010 mit einem von der Stanton Foundation mit 890.000 Dollar finanzierten Projekt zur Verbesserung der Benutzerfreundlichkeit abgeholfen werden. In der deutschsprachigen Wikipedia wurde zudem im Jahr 2007 ein Mentorenprogramm ins Leben gerufen, um durch die Hilfe erfahrener Wikipedianer neuen Autoren den Einstieg zu erleichtern.
+Die zunehmende relative Macht einer sich sozial schließenden Administratorenschaft, der häufig verletzende Tonfall auf den Diskussionsseiten und in Projektdebatten, eine zunehmend brüske Behandlung von anonymen Mitarbeitern („IPs“) und neuangemeldeten Benutzern könnten hier eine problematische Entwicklung kennzeichnen.
+
+
+=== Mehrsprachigkeit und internationale ZusammenarbeitBearbeiten ===
+
+Die Wikipedia entwickelte sich schon kurz nach ihrer Gründung zu einem mehrsprachigen Unterfangen. Im Januar 2014 existierten 287 Sprachversionen von Wikipedia. Eine neue Wikipedia in einer anderen Sprache kann jederzeit gegründet werden, sobald sich genügend Interessierte finden. Über sprachliche Grenzen hinweg können in der Community Kontroversen entstehen. Auch ausgestorbene oder Plansprachen sind grundsätzlich zulässig. Inzwischen gibt es mehrere Wikipedias in Dialekten wie Kölsch oder Bairisch und Regional- und Minderheitensprachen wie dem Plattdeutschen oder den friesischen und sorbischen Sprachen.
+Die Sprachversionen von Wikipedia sind weitgehend voneinander unabhängig. Jede Sprachversion hat ihre eigene Community, die über die erwünschten und unerwünschten Inhalte entscheidet. Auf diese Weise ist Wikipedia nicht eine Enzyklopädie, die in viele Sprachen übersetzt wird, sondern eine Sammlung von inhaltlich eigenständigen Enzyklopädien. Jede Sprachversion entwickelt und pflegt ihre eigenen Richtlinien, etwa Relevanzkriterien oder Löschregeln. Eine Untersuchung eines britischen Forscherteams zeigte, dass der kulturelle Hintergrund einen erheblichen Einfluss auf das Editierverhalten der Autoren hat. So wird in der deutschsprachigen Wikipedia deutlich öfter Text gelöscht als in der niederländisch-, französisch- oder japanischsprachigen.
+
+Artikel zum gleichen Gegenstand werden üblicherweise in jeder Sprache eigens verfasst und gewartet. Nur gelegentlich werden Artikel ganz oder in Abschnitten wörtlich von einer Wikipedia-Sprachversion in eine andere übersetzt. Durch sogenannte Interwiki-Links können Artikel zum gleichen Gegenstand in verschiedenen Sprachversionen miteinander verknüpft werden.
+
+
+=== CommunityBearbeiten ===
+Die Autorenschaft der Wikipedia wird als eine „methodenorientierte Community“ beschrieben.
+
+Bedingt durch Sprachbarrieren besteht zwischen den einzelnen Sprachgemeinschaften in der Regel wenig Austausch; die Communitys organisieren und entwickeln sich unabhängig voneinander. Einzelne Initiativen wie die „Übersetzung der Woche“ versuchen, diese Barriere zu überwinden und für mehr Austausch zu sorgen.
+Besonders die Gründung von Wikimedia Commons bewirkte einen Aufschwung in der internationalen Zusammenarbeit. Auf den mehrsprachig angelegten Commons arbeiten Wikipedia-Teilnehmer aus allen Sprachversionen am Aufbau eines zentralen Medien-Repositoriums.
+
+
+=== KontaktBearbeiten ===
+Direkten Kontakt zu den Autoren eines Artikels bekommt man auf der jeweiligen „Diskussionsseite“ des Artikels. Für viele Themen und Fachbereiche gibt es ein „Portal“ beziehungsweise eine „Redaktion“. Die Autoren treffen sich im „Autorenportal“. Für allgemeine Fragen gibt es die Seite „Fragen zur Wikipedia“. Weitere Kontaktmöglichkeiten finden sich auf Wikipedia selbst in der linken Menüleiste unter „Kontakt“.
+
+
+== RechtsfragenBearbeiten ==
+
+
+=== UrheberrechtBearbeiten ===
+
+
+=== LizenzierungBearbeiten ===
+
+Es hat sich gezeigt, dass die GNU-Lizenz für freie Dokumentation (GFDL), unter der die Wikipedia-Inhalte stehen, für die Wiki-basierte Erstellung einer freien Enzyklopädie nur bedingt tauglich ist. Die Lizenz wurde ursprünglich für freie EDV-Dokumentationen entwickelt, bei denen die Anzahl der Textrevisionen und der beteiligten Autoren in der Regel überschaubar ist. In der Wikipedia hingegen ist gerade an Artikeln zu populären oder kontroversen Themen mitunter eine große Anzahl von Autoren beteiligt. Artikelverschmelzungen und -aufspaltungen, Übersetzungen aus anderssprachigen Wikipedia-Versionen sowie anonyme Textspenden aus unklaren Quellen sind an der Tagesordnung. Der komplexe Entstehungsprozess vieler Artikel lässt sich oft nur mühsam rekonstruieren.
+Es wird daher auch unter Juristen diskutiert, wie die GFDL-Lizenzbedingungen im Einzelnen anzuwenden sind. Dies gilt etwa für die Bereitstellung der vollständigen Versionsgeschichte, die Ermittlung von Hauptautoren oder die Pflicht zur vollständigen Wiedergabe des Lizenztextes.
+Nach einer Abstimmung innerhalb der Wikipedia hat die Wikimedia Foundation am 21. Mai 2009 bekannt gegeben, dass die Texte der Wikipedia ab 15. Juni 2009 sowohl unter GNU-Lizenz für freie Dokumentationen als auch unter Creative-Commons-Attribution-ShareAlike-Lizenz (Namensnennung-Weitergabe unter gleichen Bedingungen) lizenziert werden. Die Creative-Commons-Lizenzen sind im Gegensatz zur GNU-Lizenz nicht nur für EDV-Dokumentationen konzipiert und bieten somit vor allem bei gedruckten Medien Vorteile.
+
+
+== VerfügbarkeitBearbeiten ==
+
+
+=== Digitale KluftBearbeiten ===
+Angesichts der digitalen Spaltung bestehen bezüglich des Zugangs zu PC, Internet und somit Wikipedia sowohl global als auch lokal erhebliche Niveauunterschiede. Diese stehen dem Ideal der für jedermann gleichermaßen verfügbaren Enzyklopädie entgegen. In globaler Hinsicht verursachen sie zudem ein unerwünschtes Gefälle in der Vollständigkeit des enzyklopädischen Wissens, siehe Abschnitt „Gewichtung“ im Artikel „Kritik an Wikipedia“.
+
+
+=== ZensurBearbeiten ===
+Der prominenteste und bisher schwerstwiegende Zensurfall, dessen Opfer die Wikipedia wurde, sind die Sperrungen in der Volksrepublik China im Zeitraum zwischen 2004 und 2008, von denen zeitweise große Teile Chinas betroffen waren. Im September 2006 widersetzte sich Jimmy Wales einer Aufforderung der chinesischen Regierung, politische Einträge für eine chinesische Version der Wikipedia zu blockieren, mit der Begründung, Zensur widerspreche der Philosophie von Wikipedia. Dem Observer sagte Wales: „Wir stehen für die Freiheit von Information, und wenn wir einen Kompromiss eingingen, würde das meiner Ansicht nach ein ganz falsches Signal senden, nämlich dass es niemanden mehr […] gibt, der sagt: ‚Wisst ihr was? Wir geben nicht auf.‘“
+Der Organisation Reporter ohne Grenzen zufolge blockierte der Iran 2006 mehrere Monate lang die kurdische Wikipedia.
+Thailändische Nutzer berichteten im Oktober 2008 von einer Sperrung des englischen Artikels über König Bhumibol.
+Im Dezember 2008 blockierten britische Provider den Artikel über das Scorpions-Album Virgin Killer wegen des dort abgebildeten Album-Covers, das die Internet Watch Foundation, eine halbstaatliche britische Organisation zur Bekämpfung von Kinderpornografie im Internet, als Kinderpornografie eingestuft und auf ihre Sperrliste gesetzt hatte.
+
+
+== RezeptionBearbeiten ==
+
+
+=== Formen der NutzungBearbeiten ===
+
+Wikipedia-Inhalte werden von zahlreichen Websites dank der freien Lizenz aufgenommen, einige verdienen dabei an der Einblendung von Werbung. Auch viele Medien verwenden für ihre Berichte Beiträge aus der Wikipedia, oft ohne sie zu überprüfen.
+Es entstanden in der ersten Zeit der Wikipedia mehrere Offline-Reader, die eine Nutzung auch dann erlaubten, wenn man keine Verbindung zum Internet hatte. Bei deren Verbreitung spielte die deutschsprachige Wikipedia eine Vorreiterrolle. Deutschsprachige Wikipedianer stellten sogenannte WikiReader zusammen, Artikelsammlungen zu einem Thema, von denen einige in kleinen Auflagen auch gedruckt erschienen.
+Lektorierte Sammlungen von Wikipedia-Texten veröffentlichte in den Jahren 2005 und 2006 die Zenodot Verlagsgesellschaft als Taschenbuchreihe WikiPress. Seit 2008 gibt es den Freeware-Offline-Reader WikiTaxi. Er ermöglicht den Import von aktuellen Wikipedia-Datenbankauszügen in allen verfügbaren Sprachen und stellt die Offline-Nutzung von Wikipedia und den Schwesterprodukten sicher. Der zu Bertelsmann gehörende Wissen Media Verlag brachte im September 2008 das Wikipedia Lexikon in einem Band heraus, eine knapp 1000-seitige Druckfassung mit 20.000 Stichwörtern auf Basis der 2007/2008 am häufigsten aufgerufenen Artikel der deutschsprachigen Wikipedia. Diese Nutzungsformen verloren aber mit dem zunehmenden Umfang der Wikipedia und der zunehmend jederzeitigen Verfügbarkeit des Internet-Zugangs immer mehr an Bedeutung.
+Seit Februar 2009 können Auszüge aus der deutschsprachigen Wikipedia als vom Benutzer individuell zusammenstellbares Book-on-Demand im A5-Format mit mindestens 48 und höchstens 828 Seiten hergestellt werden. Nichts damit zu tun hat die inzwischen vielfach kritisierte Geschäftspraxis einiger Print-on-Demand-Buchverlage, die – wie Bucher LLC und VDM Publishing  – Wikipedia-Artikel in Sammelbänden ausdrucken und ohne Abstimmung mit Wikimedia im Online-Buchhandel vertreiben.
+Durch die immer größere Verbreitung von Smartphones spielt auch die Nutzung der Wikipedia unterwegs eine steigende Rolle. Sowohl eine angepasste („mobile“) Darstellung der Webseite als auch speziell angepasste Apps stellen die Wikipedia-Inhalte auf den meist kleinen Bildschirmen der Geräte passend dar. Auch der Zugang durch natürliche Sprache wird dabei immer wichtiger. Einige Apps, wie etwa AskWiki, können gesprochene Fragen verstehen und die Antworten aus einem passenden Wikipedia-Artikel heraussuchen.
+
+
+=== Weitere ProjekteBearbeiten ===
+
+
+==== WikimediaBearbeiten ====
+
+Da sich Wikipedia auf Enzyklopädieartikel beschränkt, sind inzwischen Ableger entstanden, die sich anderer Textsorten und weiterer Medien annehmen.
+Ein solcher Ableger ist Wiktionary, bei dem das Wiki-Konzept auf Wörterbücher angewendet wird. Im Juli 2003 wurde Wikibooks mit dem Ziel gegründet, freie Lehrbücher zu erstellen. Wikiquote sammelt Zitate; Wikisource ist eine Sammlung freier Originalquellen.
+Seit September 2004 gibt es mit den Wikimedia Commons eine zentrale Datenbank, die Bilder und andere Medien für alle Wikimedia-Projekte gemeinsam zugänglich macht, und Wikispecies, ein Verzeichnis biologischer Arten.
+Wikinews, das sich dem Aufbau einer freien Nachrichtenquelle widmet, wurde Anfang November 2004 ins Leben gerufen. Seit August 2006 gibt es Wikiversity, eine Studien- und Forschungsplattform auf Basis eines Wiki. Die beiden jüngsten Wiki-Projekte sind die freie Datenbank Wikidata, verfügbar ab Oktober 2012, und der Reiseführer Wikivoyage, der im November 2012 der Wikipedia-Familie beitrat.
+
+
+==== PartnerschaftenBearbeiten ====
+Am 23. April 2009 haben die Wikimedia Foundation und das Telekommunikationsunternehmen Orange eine Partnerschaft angekündigt, mit dem Ziel, die „Zugangsmöglichkeiten von Menschen zu freiem Wissen zu erweitern“. Auf den Mobile- und Webportalen von Orange sollen eigene Wikipedia-Kanäle mit entsprechenden Links bereitgestellt werden.
+
+
+==== Wikipedia als ModellBearbeiten ====
+Wikipedia inspirierte die Gründung zahlreicher anderer Wikis, so zum Beispiel die Enzyklopädieprojekte Wikiweise und Citizendium. Beide sehen sich als Gegenentwurf zur freien Wikipedia und wollen einen höheren Qualitätsstandard bieten. Aus der Wikipedia-Gemeinschaft entwickelten sich ab 2004 die Parodien Kamelopedia, Uncyclopedia und Stupidedia. Im Juli 2008 wurde von Google ein verwandtes ebenfalls mehrsprachiges Projekt namens Knol gestartet, das als mögliche ernsthafte Konkurrenz zur Wikipedia angesehen wurde, jedoch zum 1. Mai 2012 eingestellt worden ist. Das Projekt OpenStreetMap bezieht sich in der Arbeitsweise gerne auf die Wikipedia und bezeichnet sich häufiger als „Die Wikipedia für Karten“.
+Mehr dazu im Abschnitt „Wikipedia und die Popularisierung des Konzeptes: 2001 bis 2005“ (und folgenden) des Artikels „Wiki“.
+
+
+=== Sekundärliteratur über WikipediaBearbeiten ===
+Siehe auch Abschnitt „Wikipedia im Vergleich zu anderen Enzyklopädien“ sowie Artikel „Deutschsprachige Wikipedia“, Abschnitt „Rezeption“.
+
+
+==== Wissenschaftliche UntersuchungenBearbeiten ====
+Es gibt eine Reihe von Untersuchungen und Publikationen, die sich analysierend mit Wikipedia befassen, z. B. Nan Barber, Peter Meyers (Hrsg.): Wikipedia: The Missing Manual (Sebastopol/CA 2008). 2010 wurde die Forschungsinitiative „Critical Point of View“ gegründet, die sich grundlegend mit Wikipedia und ihrer Bedeutung für die Gesellschaft befassen will huffduffer.com. Aus der Community bzw. von der Wikimedia Foundation und den -Fördervereinen sind ebenfalls Forschungsprojekte zur Erforschung von Wikipedia kreiert worden: Einführung in Wikipedia/Forschung über Wikipedia; wikipediaforschung.de; blog.wikimedia.de.
+
+
+===== MarkenbildungBearbeiten =====
+Erfolg und Publizität des offenen Enzyklopädiekonzepts (Wikipedia lag 2007 erstmals auf Platz Vier der international bekanntesten Marken) weckten auch das Interesse zahlreicher Wissenschaftler und Studenten.
+So visualisierte und analysierte ein Forscherteam von IBM und MIT beispielsweise 2004 mit dem Historyflow-Verfahren die Evolution von Artikeln. Die Autoren stellten dabei unter anderem fest, dass die Gemeinschaft Vandalismus erstaunlich schnell beseitigte.
+
+
+===== MachtprozesseBearbeiten =====
+
+Die grundsätzliche Offenheit der Wikipedia, die jedermann zur Partizipation einlädt, steht in einem Spannungsverhältnis zu den dem ihr inhärenten Machtstrukturen, in denen Inhalte und Benutzer aus dem Projekt ausgeschlossen werden. Diese Strukturen sind mit verschiedenen Ansätzen soziologisch untersucht worden. Eine Autorengruppe um den Soziologen Christian Stegbauer untersuchte die deutschsprachige Wikipedia auf dem Stand vom September 2006 netzwerkanalytisch. Sie ermittelte eine zunehmende Schließung der Gruppe der Administratoren mit Selbstrekrutierung und sozialer Exklusion der nachfolgenden Mitarbeiter.
+Sie sieht darin zum Teil einen Selbststeuerungsprozess. Stegbauer verwendet für diese Gruppen (in verschiedenen Fachbereichen) den Ausdruck Führungselite, die Macht – allerdings nicht im politischen oder ökonomischen Sinn – auf sich versammelt. Er ermittelt und beschreibt im Einzelnen die Erstellung von Artikeln in einem System, das sich in ständigen Reputations- und Rollenkämpfen stabilisiert und dessen zentrales Ordnungsprinzip der Fleiß sei. Am deutlichsten ortet er es im Zugang zum Administratorenamt innerhalb der Autorenschaft. Denn die dort praktizierte formelle Wahl durch alle interessierten Wikipedia-Nutzer habe sich de facto zu einem Kooptationsverfahren von Spezialisten, seien es Spezialisten für Redigieren oder für Regel-Wissen, entwickelt. Er identifizierte insgesamt acht soziale Rollen:
+Führungseliten
+Artikelschreiber
+Vandalen
+RCler (recent-changes-Kontrolleure)
+Administratoren
+Begrüßer
+Trolle
+Propagandisten
+Der Soziologe René König beobachtet wissenssoziologische Machtprozesse in der deutschsprachigen Wikipedia. Am Beispiel von Verschwörungstheorien zu den Anschlägen vom 11. September 2001 zeigt er auf, wie Anhänger der „Wahrheitsbewegung“ scheiterten, als sie unter Hinweis auf den Neutralitätsgrundsatz alternative Sichtweisen auf die Ereignisse in den Artikel einbringen wollten. Dies wurde unter Hinweis auf das Verbot originärer Forschung unterbunden. Da es, wie bei einem Laienprojekt zu erwarten, allen an der Diskussion Beteiligten an Expertise gemangelt habe, sei eine offene Deliberation der zahlreichen Details und eine diskursive Abwägung der unterschiedlichen Positionen gescheitert. Stattdessen hätten Strategien der Kanalisierung und der Exklusion gegriffen, indem Inhalte, die nicht dem Mainstream entsprachen, in den Artikel Verschwörungstheorien zum 11. September 2001 ausgelagert worden seien. Diese Praxis sei schließlich auch auf die Diskussionsseite des Artikels angewandt worden, sodass nicht einmal dort von der offiziellen Version abweichende Inhalte zur Sprache gebracht werden konnten. König sieht die Wikipedia in einem „partizipativen Dilemma“: Einerseits sei sie abhängig vom aktiven Partizipationswillen von möglichst vielen Laien, andererseits führe deren massenhafte Partizipation dazu, dass als Kriterium für die Aufnahme von Inhalten „wieder nur die etablierten Wissenshierarchien“ genutzt würden, wodurch das Potenzial der Wikipedia begrenzt werde.
+
+
+===== QuellenlageBearbeiten =====
+Einen Überblick über die Lehr- und Forschungstätigkeit zu Wikis im Allgemeinen und der Wikipedia im Besonderen geben englisch die Wiki Research Bibliography und deutsch die Wikipedistik, siehe Abschnitt „Weblinks“.
+
+
+=== Preise, Auszeichnungen und EhrungenBearbeiten ===
+
+Wikipedia wurden folgende Preise und Auszeichnungen verliehen:
+Goldene Nica in der Kategorie „Digital Communities“ des Prix Ars Electronica (Mai 2004)
+Webby Award in der Kategorie „Community“ (2004)
+Grimme Online Award (2005)
+LeadAward als „Webleader des Jahres“ (2006)
+DMMA OnlineStar in der Kategorie „News“ (2006)
+Quadriga-Preis des Berliner Vereins Werkstatt Deutschland für „Eine Mission der Aufklärung“, den Jimmy Wales am 3. Oktober 2008 in der Berliner Komischen Oper entgegennahm. Das Preisgeld von 25.000 Euro ging an die Wikimedia Deutschland.
+Am 27. Januar 2013 wurde der Asteroid (274301) Wikipedia zu Ehren der Wikipedia benannt.
+Am 22. Oktober 2014 wurde in der westpolnischen Stadt Słubice das weltweit erste Wikipedia-Denkmal enthüllt.
+Erasmuspreis (2015)
+Prinzessin-von-Asturien-Preis in der Kategorie „Internationale Zusammenarbeit“ (2015)
+
+
+=== KritikBearbeiten ===
+
+
+== LiteraturBearbeiten ==
+Durch die chronologische Anordnung lassen sich sowohl die historische Entwicklung als auch zeitgebundene Schwerpunkte besser erkennen und nachvollziehen.
+2005
+Henriette Fiebig (Hrsg.): Wikipedia. Das Buch (PDF; 6,4 MB). WikiPress. Bd. 1. Zenodot, Berlin 2005, ISBN 3-86640-001-2.
+2006
+Ingo Frost: Zivilgesellschaftliches Engagement in virtuellen Gemeinschaften? Eine systemwissenschaftliche Analyse des deutschsprachigen Wikipedia-Projektes. Herbert Utz Verlag, München 2006, ISBN 3-8316-0609-9.
+Erik Möller: Die heimliche Medienrevolution – Wie Weblogs, Wikis und freie Software die Welt verändern. Verlag Heinz Heise, Hannover 2006, ISBN 3-936931-36-4, 1. Auflage als freier Download (PDF; 3,0 MB).
+Ulrike Pfeil: Cultural Differences in Collaborative Authoring of Wikipedia. In: Journal of Computer-Mediated Communication. Washington 12.2006, Nr. 1, S. 88. doi:10.1111/j.1083-6101.2006.00316.x ISSN 1083-6101.
+2007
+Margret Chatwin: Griff nach der Meinungshoheit. Internetkampagnen der „Jungen Freiheit“ am Beispiel von Wikipedia. In: Stephan Braun, Ute Vogt (Hrsg.): Die Wochenzeitung „Junge Freiheit“. Kritische Analysen zu Programmatik, Inhalten, Autoren und Kunden. VS Verlag für Sozialwissenschaften, Wiesbaden 2007, ISBN 978-3-531-15421-3, S. 231–267.
+Meike Jaschniok: Wikipedia und ihre Nutzer: zum Bildungswert der Online-Enzyklopädie. Tectum, Marburg 2007, ISBN 978-3-8288-9437-2.
+Christian Pentzold: Wikipedia: Diskussionsraum und Informationsspeicher im neuen Netz. Reinhard Fischer, München 2007, ISBN 978-3-88927-434-2.
+ Frank Schulenburg, Achim Raschka, Michail Jungierek: Der „McDonald’s der Informationen“? Ein Blick hinter die Kulissen des kollaborativen Wissensmanagements in der deutschsprachigen Wikipedia. In: Bibliothek. Forschung und Praxis. 31, Nr. 2, 2007, ISSN 0341-4183, S. 225–230.
+Günter Schuler: Wikipedia inside. Die Online-Enzyklopädie und ihre Community. Unrast, Münster 2007, ISBN 978-3-89771-463-2.
+ Christian Stegbauer: Die Bedeutung positionaler Netzwerke für die Sicherstellung der Online-Kooperation: Das Beispiel Wikipedia. In: Medien + Erziehung. Zeitschrift für Medienpädagogik. 51, Nr. 6, 2007, ISSN 0176-4918, S. 59–73.
+2008
+Axel Bruns: Blogs, Wikipedia, Second Life, and Beyond: From Production to Produsage. Lang, New York, NY 2008, ISBN 978-0-8204-8866-0 (englisch).
+ D. Fallis: Toward an Epistemology of Wikipedia. In: Journal of the American Society for Information Science and Technology. 59, Nr. 10, August 2008, ISSN 1532-2882, S. 1662–1674.
+Joachim Schroer: Wikipedia: auslösende und aufrechterhaltende Faktoren der freiwilligen Mitarbeit an einem Web-2.0-Projekt. Logos, Berlin 2008, ISBN 978-3-8325-1886-8.
+ Stefan Weber: Die Ethik wissenschaftlicher Textproduktion im Zeitalter des Internets. Wie Google und Wikipedia zunehmend die Recherche in der Bibliothek ersetzen. In: Communicatio Socialis. Internationale Zeitschrift für Kommunikation in Religion, Kirche und Gesellschaft. 41, Nr. 1, 2008, ISSN 0010-3497, S. 14–36.
+2009
+ H. L. Chen: The Use and Sharing of Information from Wikipedia by High-tech Professionals for Work Purposes. In: Electronic Library. 27, Nr. 6, 2009, ISSN 0264-0473, S. 893–905.
+Andrew Lih: The Wikipedia Revolution. Hyperion, New York 2009, ISBN 978-1-4013-0371-6.
+ S. Lim: How and Why Do College Students Use Wikipedia?. In: Journalf of the American Society for Information Science and Technology. 60, Nr. 11, November 2009, ISSN 1532-2882, S. 2189–2202.
+ P. D. Magnus: On Trusting Wikipedia. In: Episteme: A Journal of Social Epistemology.. 6, Nr. 1, 2009, ISSN 1472-3600, S. 74–90.
+ Lawrence Mark Sanger: The Fate of Expertise after Wikipedia. In: Episteme: A Journal of Social Epistemology. 6, Nr. 1, 2009, ISSN 1472-3600, S. 52–73.
+ P. Shachaf: The Paradox of Expertise: Is the Wikipedia Reference Desk As Good As Your Library?. In: Journal of Documentation. 65, Nr. 6, 2009, ISSN 0022-0418, S. 977–996.
+Christian Stegbauer: Wikipedia: Das Rätsel der Kooperation. VS – Verlag für Sozialwissenschaften, Wiesbaden 2009, ISBN 978-3-531-16589-9.
+ K. Brad Wray: The Epistemic Cultures of Science and Wikipedia. A Comparison. In: Episteme: A Journal of Social Epistemology.. 6, Nr. 1, 2009, ISSN 1472-3600, S. 38–51.
+2010
+Ziko van Dijk: Wikipedia. Wie Sie zur freien Enzyklopädie beitragen. Open Source Press, München 2010, ISBN 978-3-941841-04-8.
+Daniela Pscheida: Das Wikipedia-Universum – Wie das Internet unsere Wissenskultur verändert. Transcript, Bielefeld 2010, ISBN 978-3-8376-1561-6.
+Christian Stegbauer: Die Bedeutung des Positionalen. Netzwerk und Beteiligung am Beispiel von Wikipedia. In: Christian Stegbauer (Hrsg.): Netzwerkanalyse und Netzwerktheorie. Ein neues Paradigma in den Sozialwissenschaften. 2. Auflage. VS, Wiesbaden 2010 [zuerst 2008], S. 191–199, ISBN 978-3-531-17327-6.
+Nando Stöcklin: Wikipedia clever nutzen – in Schule und Beruf. Orell Füssli, Zürich 2010, ISBN 978-3-280-04065-2.
+2011
+Marius Beyersdorff: Wer definiert Wissen? Wissensaushandlungsprozesse bei kontrovers diskutierten Themen in „Wikipedia – Die freie Enzyklopädie“. Eine Diskursanalyse am Beispiel der Homöopathie. Lit, Berlin/Münster 2011, ISBN 978-3-643-11360-3.
+Ulrich Greiner: Ich war gerührt. Wie ein Skeptiker Wikipedia schätzen lernte. In: Die Zeit Nr. 3, 13. Januar 2011, S. 29.
+Logograph: Löschen, sperren, korrigieren. Der Alltag eines Wikipedia-Administrators. Logograph gewährt einen Einblick. In: Die Zeit Nr. 3, 13. Januar 2011, S. 28.
+Friederike Schröter: Vorsichtige Annäherung. Die Wissenschaft entdeckt das Wikipedia-Prinzip für sich. In: Die Zeit Nr. 3, 13. Januar 2011, S. 29.
+Wikimedia Deutschland e. V. (Hrsg.): Alles über Wikipedia und die Menschen hinter der größten Enzyklopädie der Welt. Hoffmann und Campe, Hamburg 2011, ISBN 978-3-455-50236-7.
+2012
+Hermman Cölfen: Wikipedia, in: Ulrike Haß (Hrsg.): Große Lexika und Wörterbücher Europas, Europäische Enzyklopädien und Wörterbücher in historischen Porträts, De Gruyter, Berlin 2012, 

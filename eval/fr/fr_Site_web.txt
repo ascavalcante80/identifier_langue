@@ -1,0 +1,46 @@
+our prévenir le dysfonctionnement d’un site web, on va corriger le bug à l’avance.
+
+
+=== La maintenance évolutiveModifier ===
+La maintenance évolutive consiste à améliorer les services d’un site web et d’ajouter de nouvelles fonctionnalités pour qu’il soit adapté aux nouvelles exigences des utilisateurs.
+
+
+=== La maintenance adaptativeModifier ===
+La maintenance adaptative consiste à améliorer le contenu d’un site web pour qu’il soit compatible avec les nouvelles contraintes technologiques (navigateurs, taille des écrans…).
+
+
+== Réglementation en FranceModifier ==
+
+Les contenus mis en ligne par l'intermédiaire d'un site web doivent respecter les règles légales et en particulier :
+les droits d'auteur ;
+les droits à l'image et à la vie privée de chacun ;
+la loi informatique et libertés (sur les données personnelles) ;
+la loi pour la confiance dans l'économie numérique ;
+le droit de la presse ;
+la loi relative à la protection pénale de la propriété littéraire et artistique sur internet.
+Un certain nombre de mentions légales doivent également figurer sur les sites dans une rubrique du même nom afin de donner aux internautes les informations obligatoires prévues par les différents textes de loi.
+Depuis la réforme du droit d'auteur en 2006, il existe un dépôt légal de l'Internet. Dans une logique de continuité des collections, la loi DADVSI prévoit le partage de l'archivage du web entre deux institutions dépositaires : l'Institut National de l'Audiovisuel gère le dépôt légal des sites du web médiatique tandis que la Bibliothèque nationale de France est chargé d'archiver l'ensemble des autres sites du web français. Elles collectent essentiellement les .fr mais aussi l'ensemble des noms de domaine dont l'éditeur est installé en France, quelle que soit l'extension.
+
+
+== Notes et référencesModifier ==
+Cet article est partiellement ou en totalité issu de l'article intitulé « Maintenance de site web » (voir la liste des auteurs).
+
+
+== Voir aussiModifier ==
+
+
+=== Articles connexesModifier ===
+
+Catégorie:Site web
+Portail web
+Page web
+Page d'accueil
+Conception de sites web / Web design
+Programmation web
+World Wide Web
+Référencement
+Monitoring de site web
+Web 2.0
+Humans.txt
+ Portail de l’informatique
+ Portail d’Internet

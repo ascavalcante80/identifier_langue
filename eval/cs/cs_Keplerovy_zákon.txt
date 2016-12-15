@@ -1,0 +1,20 @@
+ zákona z Keplerových zákonů ==
+Při planetárním pohybu je plošná rychlost stálá, jak plyne z druhého Keplerova zákona. Z konstantnosti plošné rychlosti vyplývá, že plošné zrychlení je nulové. Plošné zrychlení lze zapsat ve tvaru . Má-li tato hodnota být nulová, musí být nulový vektorový součin . Toho lze dosáhnout pouze tehdy, pokud je jeden z vektorů nulový, nebo pokud mají oba vektory stejný nebo opačný směr.
+Poněvadž při křivočarém pohybu je zrychlení nenulové a polohový vektor je také nenulový, přichází do úvahy pouze druhá možnost, tzn. zrychlení i průvodič leží na jedné přímce. Znamená to tedy, že pole bodového zdroje je centrálním polem a tedy, že hledaná gravitační síla je funkcí vzdálenosti od tohoto centra, ale nezávisí např. na zeměpisné šířce.
+Pro odvození velikosti radiálního zrychlení můžeme předpokládat, že těleso se kolem centra sil pohybuje po kružnici. Při rovnoměrném kruhovém pohybu, který pozorujeme v důsledku konstantnosti plošné rychlosti, se centrum nachází ve středu křivosti dráhy. Radiální zrychlení je tedy totožné s dostředivým zrychlením a má velikost
+,
+kde  je oběžná doba.
+Podle třetího Keplerova zákona platí , kde  je konstanta. Zrychlení lze pak zapsat ve tvaru
+,
+kde  je konstanta platná pro všechny planety.
+Síla, kterou působí Slunce na planetu, má velikost
+,
+kde  je hmotnost planety. Planeta však zároveň podle třetího Newtonova zákona působí na Slunce stejně velkou silou , kde  je hmotnost Slunce. Z rovnosti  dostaneme . Položíme-li , dostáváme Newtonův gravitační zákon ve známém tvaru
+
+
+== Související články ==
+Mechanika
+Gravitace
+Gravitační pole
+Newtonův gravitační zákon
+Keplerova úloha

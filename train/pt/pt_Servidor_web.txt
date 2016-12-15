@@ -1,0 +1,86 @@
+Servidor web pode ser um programa de computador responsável por aceitar pedidos HTTP de clientes, geralmente os navegadores, e servi-los com respostas HTTP, incluindo opcionalmente dados, que geralmente são páginas web, tais como documentos HTML com objetos embutidos (imagens, etc.) ou um computador que executa um programa que provê a funcionalidade descrita anteriormente. . O mais popular, e mais utilizado no mundo, é o servidor Apache (software livre). A Microsoft possui a sua própria solução denominada IIS (Internet Information Services).
+
+
+== Características ==
+Os pedidos http que se referem habitualmente a páginas HTML são normalmente feitos através de browsers.
+O processo se inicia com a conexão entre o computador onde está instalado o servidor web e o computador do cliente; como na web não é possível prever a que hora se dará essa conexão, os servidores web precisam estar disponíveis dia e noite.
+A partir daí é processado o pedido do cliente, e conforme as restrições de segurança e a existência da informação solicitada, o servidor devolve os dados. Genericamente tudo o que se enquadre no conceito de ficheiro pode ser enviado como resultado de um pedido http.
+Finalmente, os servidores web também podem executar programas e scripts, interagindo mais com o usuário.
+
+
+== Exemplo do fluxo pedido/resposta gerado quando se acessa uma página estática ==
+Supondo que num servidor web existe um ficheiro chamado introWebServer.html com o seguinte conteúdo:
+
+<html>
+ <body>
+  <p>olá mundo</p>
+ </body>
+</html>
+
+Se no browser tentar aceder a este ficheiro a sequência "pedido / resposta" iria produzir os seguintes comandos:
+Pedido
+
+GET /introWebServer.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel,
+application/vnd.ms-powerpoint, application/msword, */* application/x-pdf */*
+Accept-Language: en-gb,pt;q=0.5
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Host: localhost:79
+Connection: Keep-Alive
+Cookie: infoview_userCultureKey=useBrowserLocale
+
+Resposta
+
+HTTP/1.1 200 OK
+Server: Microsoft-IIS/5.1
+X-Powered-By: ASP.NET
+Date: Thu, 25 May 2006 14:02:51 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Thu, 25 May 2006 14:02:12 GMT
+ETag: "cd3bdd2380c61:ba9"
+Content-Length: 54
+
+<html>
+ <body>
+  <p>olá mundo</p>
+ </body>
+</html>
+
+Embora estes valores variem de acordo com o browser que utilizarmos e com o servidor web que responde a este pedido http, muito do conteúdo será sempre igual:
+no pedido
+GET /introWebServer.html HTTP/1.1
+ou seja estamos a pedir usando o protocolo HTTP versão 1.1 o ficheiro introWebServer.html que está na raiz do servidor
+na resposta
+HTTP/1.1 200 OK
+ou seja o pedido é válido (200 OK) e o conteúdo segue em baixo. Como podemos ver depois de mais um conjunto de dados aparece finalmente o conteúdo HTML da página que tínhamos criado.
+Independentemente de estarmos falando de páginas dinâmicas ou páginas estáticas este será sempre o fluxo que o pedido/resposta entre o servidor e o browser irá provocar.
+
+
+== Páginas Dinâmicas e Páginas Estáticas ==
+A origem do conteúdo enviado pelo servidor web numa resposta a um pedido HTTP pode ser:
+estática - se vier directamente de um ficheiro já existente no servidor
+dinâmica - se for criada dinamicamente por outro programa, script ou API chamado pelo servidor.
+no caso de uma página dinâmica, o pedido, depois de recebido, é processado pelo servidor web que vai criar dinamicamente o conteúdo que depois será enviado para o cliente.
+as páginas dinâmicas têm a vantagem de poderem ser programadas, ou seja usando alguma linguagem de programação (que dependendo do servidor web pode ser php, Java, Perl, Visual Basic .NET, C#, ...) podemos criar programas que correm no servidor web, eventualmente acessando a bases de dados e cujo resultado é enviado para o browser.
+
+
+== Exemplo do fluxo pedido/resposta gerado quando se acede a uma página dinâmica ==
+Num servidor web capaz de responder a páginas dinâmicas (no nosso caso o IIS da Microsoft) temos um ficheiro chamado introWebServer.asp com o seguinte conteúdo:
+
+<html>
+ <body>
+  <%
+  for i=1 to 10
+        Response.Write("<p>olá mundo</p>")
+  next
+  %>
+ </body>
+</html>
+
+Se no browser tentar aceder a este ficheiro, a sequência pedido / resposta iria produzir os seguintes comandos:
+Pedido
+
+GET /introwebserver.asp HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shock

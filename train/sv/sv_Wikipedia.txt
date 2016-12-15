@@ -1,0 +1,274 @@
+Wikipedia är en wiki och ett mångspråkigt webbaserat uppslagsverk med i huvudsak fritt och öppet innehåll som utvecklas av sina användare (ofta benämnda wikipedianer). Wikipedia lanserades den 15 januari 2001 av Jimmy Wales och Larry Sanger och är det mest besökta uppslagsverket på Internet. Wikipedia är rankad som nummer sju av Alexa bland alla webbplatser. Wikipedia drivs av den icke-vinstinriktade stiftelsen Wikimedia Foundation med stöd av privata donatorer. Projektet bygger på wikiprogramvaran MediaWiki, som är uteslutande fri och har öppen källkod.
+Wikipedia finns tillgänglig på många olika språk; 236 språkversioner har minst ett tusen artiklar och 12 språk har fler än en miljon artiklar i juni 2015. Den engelskspråkiga versionen är störst, med över fyra miljoner artiklar, 774 miljoner redigeringar sedan start, 125 000 aktiva bidragsgivare under den senaste månaden och 25 miljoner användaridentiteter. Därefter följer svenskspråkiga Wikipedia, nederländska, tyska och franska versionerna, ordnade i storlek efter antal artiklar. Totalt innehöll Wikipedia över 134 miljoner artiklar den 8 juni 2015, och den svenskspråkiga versionen har just nu 2 225 744 artiklar. Svenskspråkiga Wikipedia innefattar emellertid en stor andel (1,3 miljoner) robotskapade artiklar och är bara på tolfte plats sett till antal redigeringar, på femtonde plats sett till antal aktiva bidragsgivare under en månad och på artonde plats sett till antal användaridentiteter.
+
+
+== WikiprincipenRedigera ==
+Den funktionsprincip som ligger till grund för projektet kallas wiki (hawaiiska för snabbt). Wikiprincipen avser att det går snabbt att hitta artiklar, att det är enkelt att ändra och länka samman artiklar, att publiceringen inte fördröjs av redaktionell granskning och godkännande samt att det går snabbt att återställa ändringar till en tidigare version av artikeln. En wiki är en webbserver och databasserver som möjliggör för ett stort antal människor att tillsammans redigera webbsidor via webbgränssnitt, och innefattar funktioner för artikelhistorik och versionshantering. En wiki har således stora likheter med ett webbpubliceringssystem. Viktiga skillnader är att i en wiki lagras sidorna i en icke-hierarkisk struktur, vilket underlättar sökning och länkning, samt att en wiki saknar funktioner för att hantera linjeorganisationens arbetsflöden och beslutsgång för godkännande av publicering.
+
+
+== HistorikRedigera ==
+
+Wikipedia grundades 15 januari 2001 av internetentreprenören Jimmy Wales och filosofen Larry Sanger, båda knutna till Wales internetföretag Bomis. De hade under år 2000 försökt starta uppslagsverket Nupedia, vilket dock begränsades av strikta krav på skribenterna. Genom att använda wikitekniken lyckades man få igång skrivandet. Wikipedia var från början enbart engelskspråkigt, men 15 mars 2001 togs initiativet till flera språk. Först ut var tyska, tätt följt av katalanska och japanska. Dessa tre var i gång före utgången av mars. Den 11 maj 2001 lades ytterligare nio stora språk till. Före utgången av 2001 fanns Wikipedia på 18 språk. Engelskspråkiga Wikipedia har hela tiden varit störst och hade år 2012 över fyra miljoner artiklar.
+
+
+=== Svenskspråkiga Wikipedias historiaRedigera ===
+
+Svenska var det andra "mindre" språk (efter katalanska) som fick en egen Wikipedia, första redigeringen gjordes 23 maj 2001 av användaren LinusTolke. Den äldsta bevarade startsidan för Svenskspråkiga Wikipedia är från 10 juli 2001. Svenskspråkiga Wikipedia var dock i stort sett inaktiv till november 2002.
+
+
+== TeknikRedigera ==
+
+Wikipedia använder sig av den fria wikiprogramvaran MediaWiki som är licensierad under GNU General Public License (GPL). Serverklustren finns (sedan januari 2013) i delstaten Virginia och har även speglade data i servrar i Amsterdam, Nederländerna. Från början använde Wikipedia en annan wikiprogramvara, UseModWiki, som också är licensierad under GPL.
+
+
+=== Användargränssnitt för redigeringRedigera ===
+
+Wikipedias artiklar redigeras vanligen genom att man använder wikitext, som är ett kompakt märkspråk. För nybörjare och andra som inte vill eller kan använda märkspråk finns sedan sommaren 2013 ett alternativt och enklare redigeringsgränssnitt – VisualEditor. VisualEditor nås genom att välja fliken Redigera ovanför artikeln, medan wikikoden redigeras genom att välja Redigera wikitext. Båda metoderna kan användas för att wikifiera artikeln, det vill säga för att infoga länkar till andra artiklar, fotnoter, kategorier, bilder, rubriker, tabeller och annan typografisk formatering.
+Wikikod används även för att skapa mallar med innehåll som kan återanvändas i flera olika artiklar, exempelvis faktarutor, navigationsrutor och kvalitetsvarningar, och vars utformning kan anpassas med hjälp av olika parametrar. Mer komplicerad kodning av artiklar och mallar kan även göras i märkspråket html (för avancerad layout) och Lua (för att skapa programmoduler som kan användas i avancerade mallar). Inloggade användare kan anpassa sitt gränssnitt genom att välja mellan olika skal, och genom att aktivera olika finesser, det vill säga program som användare kan skriva i Javascript och som körs på Mediawikiservern.
+
+
+=== Wikipedia för mobiltelefonerRedigera ===
+Wikipedias användargränssnitt är ursprungligen utformat för webbläsare på persondatorer med relativt stora skärmar, men idag kan Wikipediasidor även läsas och redigeras från handhållna enheter såsom mobiltelefoner. Redan 2004 möjliggjorde Wapediatjänsten tillgång från mobiltelefoner via så kallade WAP-sidor (webbliknande teknik avsedd för mobiltelefoner med piltangenter och små skärmar). I juni 2007 lanserades en.mobile.wikipedia.org, ett officiellt webbgränssnitt avsett för mobila plattformar med enkla webbläsare. 2009 öppnades en nyare version, en.m.wikipedia.org avsedd för smartmobiler såsom Symbian-telefoner, iPhone och Android.
+
+
+=== Wikipedia för konsolerRedigera ===
+Wikipedia är även tillgängligt via spelkonsoler som Playstation 3, Nintendo Wii och Xbox 360. Där kan man ladda ner databasdumpar av åtminstone engelskspråkiga Wikipedia, men det är då den vanliga webbversionen av uppslagsverket och ingen speciellt utvecklad version.
+
+
+== DeltagandeRedigera ==
+
+Wikipedia kan redigeras av vem som helst. Detta gör att encyklopedin är beroende av ett stort antal välmenande skribenter som på frivillig basis håller efter den lilla grupp av skribenter som på olika sätt ställer till problem. Det sätt genom vilket materialet på Wikipedia skapas leder även till problem då felaktig och vinklad information kan läggas till. Grundtanken är dock att de flesta användare är intresserade av att bevara och skydda Wikipedia och att dessa därför snabbt kommer att återställa efter klotter och bidrag som inte anses hålla tillräckligt hög standard. Arbetssättet bygger även på idén att samarbete och diskussion mellan alla användare leder till att gruppen i helhet utvecklas och att konsensus om vad som räknas som neutralt kan uppnås även i svårare frågor. Grundtankarna går alltså tvärt emot idén om att publiceringen av kunskap bör begränsas till en liten grupp utvalda och speciellt kunniga personer som producerar material i en hierarkisk arbetsdelning.
+Wikipedia innehåller också mekanismer som underlättar arbetet mot klotter, vandalisering och konflikter. En del användare väljs till administratörer, som har möjlighet att tillfälligt eller tillsvidare blockera användare som inte följer reglerna och hindra redigering av sidor som är föremål för attacker eller konflikter. Gemenskapen poängterar att administratörerna inte skall tillmätas större auktoritet i sak, utan endast stödja själva processen.
+En del användare förespråkar att man inför granskade versioner av artiklar, alltså märker versioner som har bedömts som tillförlitliga av etablerade användare. Det skulle då vara den versionen som i första hand syns för oregistrerade läsare.
+
+
+=== Innehållsstyrande regler och riktlinjerRedigera ===
+Innehållet i Wikipedia omfattas av juridiska skäl av lagstiftningen (särskilt lagen om upphovsrätt) i Virginia där Wikipedias servrar numera befinner sig. Utöver detta är Wikipedias redaktionella principer sammanfattade i de så kallade "fem pelarna", och många policyer och riktlinjer syftar till att utforma innehållet på lämpligt sätt. Även dessa regler finns lagrade i wiki-form, och Wikipedia-skribenter kan skriva och revidera dessa policyer och riktlinjer. Dessa riktlinjer och policyer tillämpas genom att Wikipedia-skribenterna kan ta bort, märka eller ändra artikelmaterial som inte uppfyller dem. De regler som de icke-engelska utgåvorna av Wikipedia har baseras ofta på en översättning av reglerna på den engelskspråkiga Wikipedia och skrivs i Sverige utifrån lokala svenskspråkiga diskussioner.
+Wikipedia är också en Internetgemenskap. Som sådan har den utvecklat en egen kultur och egna traditioner, och de sammanfattas i fem grundprinciper:
+Projektet är ett uppslagsverk. Det bör endast innehålla ämnen som passar i ett uppslagsverk, information som kan verifieras i trovärdiga, publicerade källor och uppgifter som är av så stort allmänintresse att ett flertal författare kan bidra till ämnet och bevaka artiklarnas kvalitet. Artiklar som inte uppfyller dessa kriterier kan raderas. I praktiken har Wikipedia dock ett bredare utbud av artiklar än tryckta uppslagsverk.
+Projektet har öppet och fritt innehåll (Wikipedia använder sig av copyleftlicensen Creative Commons CC-BY-SA 3.0). Bilder och texter som bryter mot upphovsrätten får inte förekomma på Wikipedia utan raderas. Projektet drivs som en wiki, vilket betyder att alla artiklar (med några få undantag) kan redigeras av vem som helst, när som helst, och att vem som bidragit framgår av artiklarnas historik. Det är fritt att använda Wikipedias texter i egna skrifter så länge man följer licensen.
+Wikipedia har etikettregler. Författarna bör vara sakliga vid diskussioner, undvika konflikter och personangrepp, respektera konsensusbeslut och inte vandalisera. I annat fall kan användaridentiteten eller IP-adressen blockeras. Skrivandet diskuteras och beskrivs på – allmänt tillgängliga – sidor som inte ingår i själva uppslagsverket. Här finns både diskussionssidor för enskilda artiklar och mer övergripande sidor. De flesta språkversionerna har en sida för allmän diskussion kring arbetet med Wikipedia – den på svenskspråkiga Wikipedia heter Bybrunnen.
+Wikipedia har inga fasta regler, utöver målet att skriva en fri encyklopedi, utan endast riktlinjer som ständigt revideras för att återspegla den praxis som utvecklas. Riktlinjerna beskriver vad som kan raderas, vilken språklig stil man bör använda, hur beslut tas och mycket annat. Riktlinjerna kan ignoreras när man bedömer att gemenskapen inte kommer att invända och att handlingen förbättrar uppslagsverket. Nybörjare behöver inte känna till riktlinjerna, utan också de uppmuntras att vara djärva och att förbättra uppslagsverket enligt eget omdöme.
+Principen skriv från en neutral utgångspunkt, ofta förkortad NPOV av engelskans neutral point of view, innebär att Wikipedia-artiklar inte ska ta ställning. De ska inte vara vinklade utan återspegla alla signifikanta aspekter av ett ämne. Författare bör ha ambitionen att presentera idéer och fakta så att både anhängare och kritiker kan vara överens om formuleringen.
+
+
+=== Möten mellan deltagareRedigera ===
+
+De olika språkversionerna av Wikipedia fungerar som stora Internetbaserade grupparbeten, med målet att skapa en encyklopedi. Kontakter och diskussioner mellan medlemmarna i grupparbetet sker i regel i samma gränssnitt, via artiklarnas eller användarnas diskussionssidor eller genom de olika deltagarportalerna.
+Förutom samarbetet och diskussioner online, arrangeras olika sorters fysiska träffar mellan Wikipediaanvändare. I USA finns exempelvis Great American Wiknic, en årlig Wikipediaträff som under sommaren anordnas i flera amerikanska städer.
+Ibland samlas Wikipedia-användare lokalt till olika specialevenemang med syftet att bidra till projektet, exempelvis genom att ägna en dag åt fotografering av ett område ("fotosafari"). Lokalt anordnas ofta mindre och informella träffar på exempelvis något kafe eller pub. På svenskspråkiga Wikipedia kallas dessa möten ofta Wikifika respektive Wikipub.
+
+
+== KvalitetRedigera ==
+
+
+=== Att kvalitetsbedöma en artikelRedigera ===
+Wikipediaartiklar har mycket varierande kvalitet. Wikipediaartiklars trovärdighet vilar långt på dess källor och på att ett stort antal personer granskar och bidrar till artiklarna, medan andra uppslagsverk vilar på att dess författare är experter som anses vara auktoriteter på sina områden. En Wikipediaartikels tillförlitlighet kan bedömas bland annat genom att studera artikelns historik, som framgår av forskningsresultat nedan. En Wikipediaartikel som stämmer in på följande påståenden har således sannolikt hög trovärdighet:
+Många trovärdiga källor
+Inga kvalitetsvarningar såsom "källa behövs", "stubb" (kort artikel), ej "neutral synvinkel" eller "inaktuell"
+Stort redigeringsdjup, det vill säga många redigeringar av många bidragsgivare som håller artikeln uppdaterad
+Stabil (endast relativt små ändringar på senare tid, inte pågående redigeringskrig)
+Status som utvald artikel indikeras med en guldfärgad, silverfärgad eller grön stjärna längst upp, och innebär att artikeln har klassats som utmärkt, bra respektive rekommenderad efter granskning av flera Wikipediaredaktörer, och således anses vara särskilt läsvärd och tillförlitlig.
+Också vanliga kriterier för källkritik kan tillämpas på Wikipediaartiklar.
+
+
+=== Mätningar av kvalitet och trovärdighetRedigera ===
+Wikipedias trovärdighet, både jämfört med andra uppslagsverk och andra specialiserade källor, kan analyseras på olika sätt, bland annat genom blindtester av experter, genom statistik, genom analys av historiska mönster och genom att analysera styrkor och svagheter i wikimodellen. På Wikipedia finns ingen redaktion utan allt arbete utförs av mestadels anonyma frivilliga, vilket kan förväntas påverka tillförlitligheten negativt. Å andra sidan finns det fler som kan rätta felen.
+
+
+==== Analys av hur snabbt vandalism återställsRedigera ====
+Då Wikipedia är öppet för gemensam redigering och kan redigeras anonymt bedöms Wikipedias trovärdighet ofta efter hur fort felaktig eller missvisande information raderas.
+En tidig studie som genomfördes av IBM under 2003, visade att "vandalism åtgärdas ofta extremt fort – så fort att de flesta användare aldrig ser dess verkan", och drog slutsatsen att Wikipedia hade "oväntat effektiva självåterställande egenskaper".
+På engelskspråkiga Wikipedia gjordes en undersökning 2007 som visade att ca fem procent av det som skrivs på Wikipedia är klotter men att det har tagits bort inom en mediantid på 14 minuter, men i enstaka fall kan ligga kvar i flera år utan att upptäckas. Risken att den artikelversion man läser innehåller klotter beräknades till cirka 0,004 procent.
+
+
+==== Jämförelse med Encyklopedia BritannicaRedigera ====
+En undersökning som publicerades 2005 i tidskriften Nature visar att när det gäller artiklar om vetenskapliga ämnen var engelskspråkiga Wikipedia nästan lika korrekt som Encyclopædia Britannica. Wikipedia hade också ungefär samma antal allvarliga fel i artiklarna. Uppgifterna har ifrågasatts av Encyclopædia Britannica.
+
+
+==== Jämförelse med svenska NationalencyklopedinRedigera ====
+I en jämförelse utförd av Svenska Dagbladet 2006 där nio experter granskade varsin av nio artiklar mellan Nationalencyklopedin och svenskspråkiga Wikipedia var Nationalencyklopedin bäst i sex fall och Wikipedia var bäst i tre fall. Statens medieråd skrev (i en icke daterad artikel) att "De stickprov som gjorts visar dock på små skillnader. Där NE vinner i tillförlitlighet vinner Wikipedia i aktualitet."
+
+
+==== Granskning av ämnesexperterRedigera ====
+Den 24 oktober 2005 publicerade brittiska The Guardian en artikel med titeln ”Can you trust Wikipedia?” ('Kan man lita på Wikipedia?') där en panel av experter ombads granska sju artiklar som berörde deras specialområden och betygsätta artiklarna med 0-10 poäng. Alla artiklarna fick mellan 0 och 8 poäng, men de flesta fick mellan 5 och 8 poäng.
+Den vanligaste kritiken var:
+Torftigt språk eller språk som var svårt att läsa (3 fall).
+Förbiseenden eller felaktigheter (3 fall).
+Dålig balans i en artikel, då ett mindre viktigt område fick mer uppmärksamhet än det borde, eller då ett väldigt viktigt område inte fick den uppmärksamhet det borde (1 fall).
+Det vanligaste berömmet var:
+Faktamässigt sund och korrekt, inga uppenbara felaktigheter (4 fall).
+Mycket användbar information och väl utvalda länkar gör det möjligt att "få tillgång till mycket information snabbt" (3 fall).
+
+
+== KritikRedigera ==
+Kritiken mot Wikipedia har ökat i takt med att Wikipedia har blivit mer framträdande.[källa behövs] Eftersom engelskspråkiga Wikipedia är den största språkupplagan tar mycket av kritiken sina exempel därifrån. Wikipedia får också kritik för att det inte alltid finns säkra källor.
+
+
+=== Klotter och vandalismRedigera ===
+Wikipedias öppenhet gör den mottaglig även för redigeringar som inte är välmenade. Eftersom öppna nätverk fortfarande är en ny företeelse för de flesta, är många besökares första redigering rent klotter - de testar om "Redigera den här sidan" verkligen är det den ger sig ut för att vara. Många användare upptäckte Wikipedia på liknande sätt och eftersom klotter är lätt att ta bort är toleransen också ganska hög gentemot företeelsen. Det tar inte lång tid innan klottret är borttaget.
+Däremot tolereras inte avsiktlig vandalism. Användare som kontinuerligt förstör artiklar kan utestängas från framtida deltagande i projektet genom att en administratör blockerar deras användarkonto eller IP-adress. En studie gjord av IBM visade att vandalism vanligtvis tas bort mycket snabbt. En annan studie som mätte sidvisningar på engelskspråkiga Wikipedia med felaktigt vandaliserat innehåll kom fram till att 42 procent av allt klotter eller vandalism återställdes innan det hunnit ställa till med någon skada.
+Ett annat beteende som ofta ses som ett problem är bidragsgivare som använder flera användarnamn utöver sitt egentliga i vilseledande syfte. Dessa kallas sock puppets eller marionetter.
+
+
+=== VinklingarRedigera ===
+Wikipedia har anklagats för att ha en tendens att täcka vissa ämnen oproportionerligt i förhållande till hur viktigt ämnet är. I en intervju med The Guardian sade Dale Hoiberg, Encyclopædia Britannicas chefredaktör, om engelskspråkiga Wikipedia:
+"People write of things they're interested in, and so many subjects don't get covered; and news events get covered in great detail. The entry on Hurricane Frances is more than five times the length of that on Chinese art, and the entry on Coronation Street is twice as long as the article on Tony Blair."
+("Folk skriver om det som de är intresserade av, så många ämnen täcks inte in, och nyheter beskrivs väldigt detaljerat. Artikeln om orkanen Frances är mer än fem gånger så lång som den om kinesisk konst, och artikeln om Coronation Street är dubbelt så lång som den om Tony Blair.")
+Intervjun publicerades 26 oktober 2004. 28 mars 2005 hade artikeln om kinesisk konst blivit tre gånger så stor som den om orkanen Frances, underartiklar ej inräknade, och artikeln om Tony Blair var 50 % större än den om Coronation Street. Wikipedias förespråkare pekar på sådana exempel för att visa att vinklingarna kommer att bli mindre med tiden, medan motståndare anser att just dessa artiklar fick extra uppmärksamhet på grund av intervjun, och att ökningen inte gäller alla artiklar.[källa behövs]
+
+
+=== PlagiatRedigera ===
+År 2006 listade hemsidan wikipedia-watch.org ett dussintal plagieringar gjorda av redaktörer på den engelska versionen av Wikipedia. Jimmy Wales som varit med och grundat Wikipedia sade i detta sammanhang: "Vi måste hantera sådana händelser på fullaste allvar, utan nåd, eftersom denna typ av plagiering strider till 100 % mot alla våra grundläggande principer.
+
+
+=== Sexuellt innehållRedigera ===
+Wikipedia har kritiserats för att tillåta sexuellt innehåll i sina artiklar, bland annat bilder och filmer av onani och ejakulation samt även foton från pornografiska filmer i flera artiklar.
+Kritik har också riktas emot att sexuellt innehåll visas för frikostigt på Wikipedia och att bilderna är för lättåtkomliga för barn som eventuellt använder Wikipedia i sitt skolarbete.[källa behövs]
+Exempelvis visas det kontroversiella originalomslaget till albumet Virgin Killer av bandet Scorpions på engelska Wikipedia. Omslaget föreställer en naken minderårig flicka. 2008 blockerades artikeln under fyra dagar av de flesta av Storbritanniens internetleverantörer. Detta efter att den rapporterats som barnpornografi av ”The Internet Watch Foundation”, en ideell organisation som letar efter olagligt innehåll på Internet och samarbetar med bland annat brittisk polis. De ansåg då att införandet av bilden i artikeln var ”smaklöst”.
+Efter att Wikipedias grundare Larry Sanger pekat ut vad han ansåg vara fall av barnpornografi i Wikipedias bildbank Wikimedia Commons, tog Wikipedias andra grundare Jimmy Wales hastigt bort flera bilder med sexuellt innehåll, inklusive sakligt material, utan att konsultera användarna i stort. Detta har han fått kritik för och har nu frivilligt gett upp en del av de privilegier han haft som grundare.
+
+
+=== Intressekonflikter avslöjade av WikiscanningRedigera ===
+Under 2007 utvecklade CalTech-studenten Virgil Griffith webbtjänsten "WikiScanner" som samkör flera register. Därigenom upptäcktes det att olika organisationer, till exempel CIA, Vatikanen och Astra Zeneca redigerat vinklat i artiklar som rörde deras respektive områden. Generellt betraktades företagens beteende som dåligt, medan Wikiscanner spåddes få stor betydelse för att övervaka kvaliteten på Wikipedia.
+WikiScanning-historien uppmärksammades av The Independent, som fastslog att många censureringar, som gjorts på en rad Wikipediaartiklar av användare med egenintresse, hade upptäckts:
+
+
+=== RelevansRedigera ===
+Wikipedia har kritiserats för att ha löst definierade krav på vilka ämnen som anses vara relevanta nog att skriva om. Författaren Nicholson Baker skrev i The New York Review of Books att diskussionen kring vad som är relevant är så kontroversiell att ingen kan bilda sig en klar uppfattning och hävdade att artiklar om ämnen som borde vara relevanta lätt raderas.
+
+
+=== Kritik i traditionella medierRedigera ===
+Wikipedia har på senare år kritiserats för att bestå av en liten grupp människor som står för den största delen av innehållet.
+
+
+=== KvalitetRedigera ===
+Det här avsnittet är helt eller delvis baserat på material från engelskspråkiga Wikipedia, Reliability of Wikipedia
+Wikipedia har fått kritik för att avsaknaden av expertutlåtande försvagar kvalitén. När nya bidrag görs till Wikipedia handlar det ofta om små delar eller delar av en sida som ej utsätts för granskning. Hög- och lågkvalitetsändringar kan då blanda sig i samma artikel. Till exempel sade historikern Roy Rosenzweig: "Rent generellt är själva skrivandet Wikipedias akilleshäl. Grupper skriver sällan bra och bidragen på Wikipedia är ofta av ojämn kvalitet som beror på att meningar och stycken skrivna av olika personer har sammanfogats."
+Informationen i en artikel på Wikipedia kan vara 100 % korrekt men den kommer ofta från översättningar av Wikipedia på andra språk som i sin tur kan komma från en tidigare översättning. Detta gör att den blir svårläst och dåligt formulerad. Givetvis finns det risk att informationen också blir felaktig. Att många artiklar uppstår på detta sättet är mindre bra.
+
+
+=== Olämpligt som källmaterial (auktoritetsbrist)Redigera ===
+Bibliotekarien Philip Bradley säger i en intervju med The Guardian i oktober 2004 att "Det huvudsakliga problemet är bristen på auktoritet. Med tryckta publikationer måste utgivaren se till att den information denne publicerar är sanningsenlig då deras levebröd hänger på det." 
+Encyclopædia Britannicas före detta chefredaktör Robert McHenry och Paul Vallely har även de noterat att Wikipedias läsare inte kan veta vem som skrivit artikeln de läser - den kan vara skriven av någon som inte är en expert på ämnet. McHenry har också framfört att Wikipedia faller på att den säger sig vara en encyklopedi, ett ord som inger en auktoritet och pålitlighet som är oförenligt med koncepten öppenhet och wiki. 
+Larry Sanger, Nupedias förre chefredaktör, har i en intervju med Kuro5hin sagt att ett av Wikipedias stora problem är den "anti-elitism" som finns.
+Wikipedia ber användarna att verifiera innehållet genom att uppge och kontrollera källor. Dessa kan i praktiken vara bloggar, och ibland kan det visa sig att en artikel på Wikipedia verifieras genom att innehållet kontrolleras mot en källa, som i sin tur har använt Wikipedia som källa utan att uppge detta. I en magisteruppsats har det visat sig att över 90 procent av de gymnasieelever som ingick i undersökningsgruppen ser förekomsten av källor som det främsta kriteriet i bedömningen av en artikels tillförlitlighet. Ett betydligt mindre antal elever, bara två procent, tycker att författaren till artikeln är viktig. Detta skiljer sig därför markant från andra uppslagsverk, där till exempel en aktad författare eller forskare kan anses som en trovärdig källa.
+
+
+=== Övrig kritikRedigera ===
+I "Cult of the Amateur – How Today’s Internet is Killing Our Culture and Assaulting Our Economy", berättar IT-entreprenören Andrew Keen om sitt missnöje med Wikipedia. Han menar att de amatörer som skriver på sidan växer på bekostnad av forskare och experter. Detta bidrar till en disharmoni när webben utvecklas och författaren får ett samspel med publiken. Gränsen mellan amatör och expert suddas ut då amatörernas bloggar eller redigeringar inte alltid är kvalitetssäkrade, utan helt enkelt det som blir det mest intressanta och som då hörs mest. Han menar dock inte att det är den öppna tekniken, där alla är välkomna som användare som är problemet, utan själva implementeringen - det krävs en balansgång mellan öppenheten och auktoriteten.
+
+
+== Akademiska studier av WikipediaRedigera ==
+
+
+=== AllmäntRedigera ===
+I examensarbetet I mötet mellan tradition och förändring – Om Wikipedia som encyklopedi diskuterar man Wikipedia som fenomen och de möjligheter och de problem som webbplatsen förmedlar. Man diskuterar uppfattningar och teman som omgärdar encyklopedibegreppet för att därigenom förstå Wikipedias problem. Analysen lyfter fram idéer och tankar om begreppet encyklopedi och vad Wikipedia är och vill vara; Wikipedia står för något nytt som kan upplevas utmanande och som väcker kontroverser. Wikipedia utmanar de gamla värdena om hur information skall samlas in, utvärderas och göras tillgänglig då Wikipedias idé grundas på användares deltagande i utformandet av information.
+Ett av avsnitten handlar om kontroll och verifiering på Wikipedia och att det finns behov av att kunna verifiera källor, men att det då handlar om en rekommendation till användarna. Att skärpa kontrollen ytterligare på Wikipedia skulle, enligt dem som försvarar Wikipedias öppenhet och frihet, endast göra att detta begränsas och inskränks och att det är en grundläggande skillnad mellan Wikipedia och de mer traditionella encyklopedierna som har mer strikta kontroller.
+
+
+=== Könsfördelning och demografiRedigera ===
+Den globala enkätundersökningen Wikimedia General User Survey 2009 genomfördes under hösten 2008 bland besökare av 21 språkversioner av Wikipedia, främst den engelska, tyska och spanska versionen, dock ej den svenska versionen. Deltagarna i enkäten var boende i 228 olika länder. 1,14% var från Sverige. Av enkätsvaren var 35% Wikipediaförfattare (i huvudsak icke regelbundna bidragsgivare), medan 65% läste Wikipedia utan att bidra. 0,98% var dessutom administratörer. 12,8% av författarna och 31,2% av läsarna var kvinnor. Deltagarna var i åldrarna 10 - 85 år. Medelåldern bland författarna var 26,8 år, och bland läsarna 25,3 år. Gällande högsta examen som Wikipediaförfattarna hade uppnått hade 4,6% doktorerat, 15,1% hade högst uppnått masters/magisterexamen, 28,4% högst kandidatexamen, 33,4% endast gymnasieexamen, och 12,4% endast grundskoleexamen. Enligt en artikel i DN är bara drygt 10 procent av de som bidrar till Wikipedia kvinnor.
+I en studie bland Internetanvändare som genomfördes under 2007 av Hitwise (australiskt marknadsundersökningsföretag) och som även återgavs i tidningen Time, fann man att Wikipedias besökare var nästan jämnt fördelade mellan män och kvinnor men att 60% av alla redigeringar gjordes av män.
+
+
+=== DiskussionssidorRedigera ===
+I konferensartikeln "Talk before you Type: Coordination in Wikipedia" har artiklarnas diskussionssidor undersökts. Författarna har klassificerat sidorna i elva olika kategorier: koordinering av redigering, fakta som saknas, klotter, policy och riktlinjer, länkar till interna Wikipediaresurser (andra diskussionssidor), "off topic", omröstningar, granskning för artikelrekommendation, "infobox", bilder och övrigt. Författarna menar att en del strategisk planering av artikelredigering sker genom diskussionssidorna. I en tidigare artikel hade samma författare presenterat diskussionssidorna som en arena enbart för konfliktlösning. Författarna hävdar också att samtalet i diskussionssidorna är formaliserat (vissa etikettregler finns, som att signera sina inlägg) och policydrivet (referenser till riktlinjerna förekommer ofta).
+
+
+=== Policyer och riktlinjerRedigera ===
+En beskrivande studie som analyserade engelskspråkiga Wikipedias policyer och riktlinjer fram till september 2007 identifierade en del intresseväckande statistik:
+44 officiella policyer
+248 riktlinjer
+Även om grundprincipen "Strunta i reglerna" (ignore-all-rules) endast är sexton ord lång på engelskspråkiga Wikipedia så är sidan som förklarar policyn över femhundra ord lång. Den hänvisar läsarna till sju andra dokument, den har genererat över 8 000 ord av diskussion och har redigerats över 100 gånger under mindre än ett år.
+Studien jämförde även utvecklingen av policyer i form av tillförda ord jämfört med när de först skrevs:
+Ignore all rules: 3 600 % (inklusive övriga dokument som förtydligar)
+Consensus: 1 557 %
+Copyrights: 938 %
+What Wikipedia is not: 929 %
+Deletion: 580 %
+Civility: 124 %
+Siffran för "deletion" ansågs ej vara rättvis och heltäckande då policyn har delats upp i flera underpolicyer.
+
+
+=== AnonymitetRedigera ===
+Wikipedia gör det möjligt att redigera anonymt. De som redigerar måste inte uppge sin identitet, eller ens en e-postadress. En studie från 2007 vid Dartmouth College av franskspråkiga och nederländska Wikipedia, pekar på att i motsats till det förväntade sociala mönstret, var de som redigerade anonymt några av de mest produktiva bidragsgivarna av innehåll med hög klass. 
+Förklaringen till detta skulle enligt forskarna ligga i att förutsättningarna för att producera det som man kan kalla för ”allmän egendom” (collective goods) är så annorlunda vad gäller Wikipedia, jämfört med andra sammanhang. Det anses allmänt bland sociologer att det behövs en kritisk massa när en heterogen grupp med individer med både olika förutsättningar och motivation ska komma igång med att producera ”allmän egendom”.
+Denna uppnås med det produktionssätt som till exempel Wikipedia har på ett enklare och snabbare sätt än annars. Det blir fler som deltar och kvalitén ökar. Med andra ord gör tekniken det möjligt att nå tidigare outnyttjade "resurser", genom att tröskeln för att delta sänkts.
+Forskarna valde 1 000 bidrag av registrerade användare och 1 000 bidrag av icke registrerade användare slumpmässigt ur vardera språkgrupp (av totalt mer än 87 000 bidrag den 1 mars 2005).
+
+
+=== Konflikter och maktspel i arbetet att skapa konsensusRedigera ===
+I en studie  utförd av forskare från University of Washington och HP Labs har man försökt analysera redigeringskrig och konflikter i engelskspråkiga Wikipedias datadump från 2006:
+Wikipedia är ett massornas samarbete där formuleringen av artiklar inte bestäms definitivt utan genom konsensus. De sociala relationerna mellan Wikipedianerna leder ibland till konflikter. Policyer ("policies") och riktlinjer ("guidelines") underlättar ofta konfliktlösning men forskarna har hittat flera exempel där fundamentalt olika tolkningar av policyer inte har lett till någon lösning utan tvärtom förhindrat konsensus.
+Författarna har valt att analysera engelskspråkiga Wikipedias datadump från 2006. I denna dump har man försökt hitta redigeringskrig genom att studera artiklar med minst 250 redigeringar på dess diskussionssidor. Detta motsvarade 0,3 % av alla diskussionssidor. Dessa utvalda diskussionssidor täckte in 28,4 % av alla redigeringar på diskussionssidorna i dumpen. Dessutom täcker detta urval in 51,1 % av alla länkar till policyer. Sedan har man från de utvalda diskussionssidorna riktat in sig på kritiska sektioner genom att välja redigeringar under en tidsperiod då det var både många redigeringar på artikelsidan såväl som på diskussionssidan.
+Man hittade att tillit till konsensus ofta leder till ett antal tillfälliga maktspel. Maktspel som uppträdde ofta handlade om:
+Artiklars ämnesavgränsning. Centralt och perifert innehåll begränsas av en individ eller kärngrupp av bidragsgivare.
+Tidigare konsensus. Tidigare beslut presenteras som absoluta och icke utmanande.
+Tolkningsföreträde. En undergrupp i nätgemenskapen kräver större auktoritet än en annan.
+Bidragsgivarens legitimitet. Drag hos bidragsgivaren (såsom expertis) används för att främja eller underminera ett påstående.
+Hot om sanktioner. Hot om att använda sanktioner (såsom blockering) eller att genomföra en formell medling.
+Förfarande på andra sidor. Innehållsorganisation i andra artiklar framhålls för att validera eller diskreditera bidrag.
+Konsensus är aldrig slutgiltig och i dispyter diskuteras ofta legitimiteten i tidigare konsensus. Veteraner vill inte slösa tid på frågor som de anser lösta medan nybörjare uppfattar att deras perspektiv inte representerats i tidigare argument och därför vill lyfta konsensus till diskussion igen.
+Artikelförfattarna menar att Wikipedias nätgemenskap främjas av det svåra arbetet att söka konsensus och att sådant arbete kanske är det största formuleringsarbetet i Wikipedia och motsätter sig andra forskares åsikt att dessa aspekter av samarbetet är "kostsamt" och "improduktivt".
+Man erkänner dock att en del koordinationsarbete kan vara överflödigt men att eventuella verktyg för att underlätta koordinering inte får förstöra den sammanhållande funktion som konsensussökande diskussioner också skapar. Med koordinationsarbete menar man mödan att beskriva och arkivera tidigare diskussioner samt att hitta bland arkiverade diskussioner. Det man efterfrågar är bland annat visualiseringsverktyg för att annotera tidigare konsensus och vilka som var med i denna process, för att sammanfatta konflikter över tid så att man lättare kan förstå en artikels tillstånd. Ett meritsystemverktyg skulle kunna motivera till meningsfulla redigeringar, men kan även ge upphov till konkurrens. Ett innehållsdrivet meritsystem riskerar att bidragsgivare av rädsla för att sänka sin meritstatus försöker förhindra att deras text ändras.
+
+
+=== AdministratörsvalRedigera ===
+Forskare vid Carnegie Mellon University har utifrån en mängd statistik försökt skapa en modell  för att förstå och förutsäga administratörsval på engelskspråkiga Wikipedia. I modellen har de tagit in flera faktorer som i olika utsträckning påverkade resultatet av valet. Bland annat kunde de visa att antalet artikelredigeringar påverkade väldigt lite, men att policy- och projektredigeringar höjde chanserna från 1,8 % till 17-19 % per 1 000 redigeringar. De visade även att aktivitet i inom olika områden och att skriva redigeringssammanfattningar ökade chanserna att bli vald, medan medverkan i medlingsärenden över lag sänkte chanserna. Modellen använde dock rätt trubbiga mått på aktiviteten och forskarna konstaterar att man bör analysera vad administratörerna gör mer exakt.
+Forskarna påpekar själva att modellen inte tar vara på kvalitén i redigeringarna utan bara utgår från kvantiteten, men den har ändå visat sig kunna förutsäga 74,8 % av valresultaten.
+Några exempel på faktorer: (Värden inom parentes är inte statistiskt säkerställda)
+
+
+=== VandalismRedigera ===
+I studien The Work of Sustaining Order in Wikipedia: The Banning of a Vandal undersöks hur automatiserade och halvautomatiserade verktyg i kombination med samarbete bekämpar vandalism. Den visar på att sådana verktygs användning ökar i en omfattning som få tidigare har uppmärksammat. Studien inkluderar en fallstudie och ger en inblick i om hur snabbt en envis klottrares bidrag återställs och hur klottraren sedan blockeras.
+
+
+=== Dominerande författareRedigera ===
+I studien Wikipedians are born, not made: a study of power editors on Wikipedia från 2009 bekräftar Katherine Panciera m.fl. tidigare undersökningar som visar att en relativt liten grupp användare står för en stor del av redigeringarna och för en stor del av det material som blir kvar i artiklarna. Författarna visar att dessa användare går att känna igen från deras första tid på Wikipedia, bland annat genom att de gör flera redigeringar per dag. Dessa användare hänvisar också ofta till Wikipediaprojektets normer, såsom att skriva från en neutral utgångspunkt. Författarna föreslår olika åtgärder för att öka andelen användare som stannar och förblir produktiva.
+
+
+=== Wikipedia och kapitalismenRedigera ===
+I avhandlingen Frihetens rike: wikipedianer om sin praktik, sitt produktionssätt och kapitalismen (Uppsala universitet, 2015) undersöker Arwid Lund hur wikipedianer ser på sin roll som bidragsgivare till uppslagsverket. Frågeställningarna rör även synen på Wikipedias roll i samhället, i ljuset av kapitalistiska och kommunistiska infallsvinklar. Avhandlingen baseras på ett antal djupintervjuer med både tillfälliga och mer etablerade svenskspråkiga wikipedianer.
+
+
+== Betydelse och utmärkelserRedigera ==
+
+
+=== Wikipedia som informationskällaRedigera ===
+Många journalister, författare, forskare, med flera yrkeskategorier, hämtar dagligen uppgifter från Wikipedia, där snabbheten är en stor fördel jämfört med att leta i litteratur och forskningsartiklar. Det är tillåtet att direkt kopiera stora delar av artiklarna eller enstaka bilder till en egen publikation, förutsatt att man publicerar den under samma licens som Wikipedia, CC BY-SA (en bild kan ligga under annan öppen licens), och anger källa till artikeln så som licensen kräver. Referat och korta citat av och från Wikipedia är tillåtna enligt citaträtten som från vilken som helst annan källa. Eftersom Wikipedia bygger på tidskriftsartiklar, forskningspublikationer och böcker finns risk för rundgång av felaktiga uppgifter, om professionella författare och skribenter slarvar med att uppge källa då de hämtar uppgifter från Wikipedia.
+Det är vanligt förekommande att lärare, i synnerhet på universitetsnivå, avråder studenter från att använda Wikipedia som källa och istället rekommenderar att man går till de mer auktoritativa källor som i sin tur anges i många Wikipediaartiklar. Också Wikipedia rekommenderar att man använder Wikipedia för att hitta källor hellre än Wikipedia själv för faktauppgifter. Andra lärare accepterar enstaka hänvisningar till Wikipedia eller andra uppslagsverk, om andra källor inte kan hittas, under förutsättning att längre uppsatser och examensrapporter inte i sin helhet är baserade på detta, utan grundas på mer auktoritativa källor och på studentens egna undersökning. Wikipediaartiklarnas trovärdighet bör bedömas källkritiskt enligt kriterier presenterade nedan. Wikipedia förekommer i princip aldrig i källhänvisningar i forskningspublikationer.
+Källhänvisning till Wikipedia måste vara tillräckligt exakt, så att läsare själv kan hitta artikeln och se artikelns författare i artikelhistoriken. Accessdatum är viktigt, eftersom Wikipediaartiklar förändras.
+Källförteckningens källbeskrivning kan exempelvis utformas enligt följande om man använder Harvardsystemet som referenssystem:
+Pancreas (2012). Engelskspråkiga Wikipedia. http://en.wikipedia.org/wiki/Pancreas (Hämtad 12 februari, 2012.)
+Vid IEEE- och Vancouversystemet kan källbeskrivning formateras enligt följande (om källan är nummer 2 i källförteckningen):
+[2]   "Pancreas". Engelskspråkiga Wikipedia.
+http://en.wikipedia.org/wiki/Pancreas (Hämtad 12 februari, 2012.)
+
+Enligt Oxfordsystemet kan samma källbeskrivning utformas:
+2Pancreas. Engelskspråkiga Wikipedia. http://en.wikipedia.org/wiki/Pancreas (Hämtad 12 februari, 2012.)
+
+
+=== Erkännande och utmärkelserRedigera ===
+Som en av Internets största samarbetsprojekt och mest omfattande informationskällor har Wikipedia rönt uppmärksamhet i olika sammanhang. Här listas några exempel:
+2014 avtäcktes ett monument över Wikipedia i den polska staden Słubice.
+2015 års Erasmuspriset tilldelades Wikipedia.
+2015 års Prinsessan av Asturiens pris i kategorin "Internationella samarbete" tilldelades Wikipedia.
+
+
+== Se ävenRedigera ==
+Store norske leksikon – nätlexikon med fritt och öppet innehåll, men expertgranskning
+Citizendium – nätlexikon med fritt och öppet innehåll, men expertgranskning
+Svenskspråkiga Wikipedia
+Wikipediamonumentet
+
+
+== KommentarerRedigera ==
+
+
+== ReferenserRedigera ==
+
+
+=== ÖversättningarRedigera ===
+Avsnittet #Historik är helt, eller delvis, baserat på material från engelskspråkiga Wikipedia, History of Wikipedia
+Avsnittet #Trovärdighet är helt, eller delvis, baserat på material från engelskspråkiga Wikiped

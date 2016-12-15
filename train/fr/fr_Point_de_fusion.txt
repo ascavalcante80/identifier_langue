@@ -1,0 +1,34 @@
+Le point de fusion ou la température de fusion d'un corps représente la température à une pression donnée, à laquelle un élément pur ou un composé chimique fond c'est-à-dire passe de l'état solide à l'état liquide. Le point de congélation (ou point de solidification selon les matériaux) est la température de la transition inverse. Elle est habituellement mesurée sous pression atmosphérique normale (1 atmosphère) et il y a coexistence entre état solide et état liquide entre ces deux points. Pour une substance pure, les points de fusion et de congélation sont théoriquement égaux et constants à pression fixe. Le point de fusion/congélation le plus connu est probablement celui de l'eau (0 °C), celui-ci ayant étant pris comme zéro de l'échelle centigrade, souvent confondue avec l'échelle Celsius.
+Il est possible de déterminer la nature d'une substance (identification) par la mesure de sa température de fusion. C'est pourquoi la température de fusion est une propriété caractéristique de la matière. Toutefois, cette information n'est pas suffisante pour permettre une identification formelle, plusieurs molécules pouvant avoir une température de fusion très proche. Elle permet par contre d'éliminer du champ du possible des molécules ayant une température de fusion différente de celle mesurée.
+
+
+== ThéorieModifier ==
+
+La plupart des substances se liquéfient et se solidifient approximativement à la même température. Par exemple, pour le mercure, le point de fusion et de congélation sont 234,32 K (-38,82 °C). Cependant, plusieurs substances ont la caractéristique de pouvoir être en surfusion et peuvent donc geler à une température inférieure à leur point de congélation théorique. L'eau en est un exemple car la pression de surface des molécules d'eau pure est difficile à vaincre et on peut retrouver des gouttelettes d'eau jusqu'à −42 °C dans les nuages si elles ne contiennent pas un noyau de congélation.
+
+
+=== ThermodynamiqueModifier ===
+Lorsqu'un corps solide pur est chauffé, la température augmente jusqu'à atteindre le point de fusion. Là, la température reste constante tant que le corps n'est pas passé entièrement sous phase liquide. La différence d'énergie pour causer la fusion complète n'est donc pas seulement celle qu'on doit ajouter pour atteindre la température critique mais également la chaleur latente () pour passer à l'état liquide. Du point de vue de la thermodynamique, l’enthalpie () et l’entropie () du matériau augmentent donc () à  la température de fusion de telle façon qu’on peut les exprimer lors du changement d’un corps de masse m ainsi :
+ et  ce qui donne 
+ Chaleur latente massique exprimée en J/kg
+ Variation d'enthalpie en J
+ Variation d'entropie en J/K
+ masse en kg
+ Température en K
+
+
+=== CaractéristiquesModifier ===
+Contrairement à la température de vaporisation (point d'ébullition), la température de fusion est assez insensible aux changements de pression, car les volumes molaires de la phase solide et de la phase liquide sont assez proches,.
+Généralement, lorsque l'on reste dans la même famille de composés chimiques, le point de fusion augmente avec la masse molaire. L'élément du tableau périodique ayant la plus haute température de fusion est le tungstène à 3 683 K (3 410 °C), ce qui en a fait un excellent choix pour les lampes à incandescence. Toutefois, le carbone (graphite) a une température de fusion de 3825°C. Le Ta4HfC5 est le matériau réfractaire qui a le point de fusion le plus élevé à 4 488 K (4 215 °C)[réf. nécessaire]. À l'autre bout du spectre, l’hélium ne se congèle qu'à une température proche du zéro absolu et sous une pression de 20 atmosphères.
+Le point de fusion est donc un moyen de vérifier la pureté d'une substance : toute impureté fera varier le point de fusion de la substance testée.
+
+
+=== Cas particuliersModifier ===
+La transition entre solide et liquide se produit cependant sur une certaine plage de température pour certaines substances. Par exemple, l’agar-agar fond à 85 °C mais se solidifie entre 31 °C et 40 °C par un processus d’hystérésis. D'autre part, les substances amorphes, comme le verre ou certains polymères, n'ont en général pas de point de fusion, car elles ne subissent pas de fusion proprement dite mais une transition vitreuse.
+Il existe également d’autres exceptions :
+deux formes polymorphes ont souvent deux points de fusion différents ;
+pour les molécules, on parle de température de fusion moléculaire[réf. nécessaire] ;
+certaines substances n'ont pas de point de fusion observable. Ceci peut être dû à plusieurs phénomènes :
+la sublimation, c'est-à-dire le passage direct à l'état gazeux (par exemple l'iode ou le carbone),
+une décomposition à l'état solide (exemple des sels de diazonium),
+les polymères réticulés n'ont pas de point de fusion car la réticulation empêche tout glissement des chaînes les unes par rapport aux autres. Formellement, le « bloc de p

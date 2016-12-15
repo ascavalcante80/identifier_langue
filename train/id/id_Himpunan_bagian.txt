@@ -1,0 +1,34 @@
+Dalam matematika, terutama teori himpunan, suatu himpunan A adalah himpunan bagian atau subset dari himpunan B bila A "termuat" di dalam B. A dan B boleh jadi merupakan himpunan yang sama. Hubungan suatu himpunan yang menjadi himpunan bagian yang lain disebut sebagai "termasuk ke dalam" atau kadang-kadang "pemuatan". Himpunan B adalah superhimpunan atau superset dari A karena semua elemen A juga adalah elemen B.
+
+
+== Definisi ==
+Jika A dan B adalah himpunan-himpunan dan setiap elemen dari A juga merupakan elemen dari B, maka:
+
+A adalah subset atau himpunan bagian dari (atau termasuk ke dalam) B, dilambangkan dengan ,
+
+atau secara ekuivalen
+B adalah superset atau superhimpunan dari (atau meliputi) A, dilambangkan dengan 
+
+ Jika A adalah sebuah subset dari B, tetapi A tidak sama dengan B (yaitu ada paling sedikit satu elemen B yang bukan elemen dari A), maka
+
+A juga merupakan suatu subset wajar (proper subset atau strict subset) dari B; ini ditulis: 
+
+atau secara ekuivalen
+B adalah superset wajar (proper superset) dari A; ini ditulis: 
+
+Untuk setiap himpunan S, relasi inklusi ⊆ merupakan tatanan parsial pada himpunan  untuk semua subset dari S (himpunan pangkat dari S).
+Ketika dikuantifikasi, A ⊆ B ditulis: ∀x{x∈A → x∈B}.
+
+
+== Simbol ⊂ dan ⊃ ==
+Sejumlah pengarang menggunakan simbol ⊂ dan ⊃ untuk masing-masing mengindikasikan "subset" dan "superset", bukan dengan simbol ⊆ dan ⊇, tetapi artinya sama. Misalnya, bagi para pengarang ini, adalah benar untuk setiap himpunan A bahwa A ⊂ A.
+Para pengarang lain lebih suka menggunakan simbol ⊂ dan ⊃ untuk masing-masing mengindikasikan subset dan superset wajar, daripada ⊊ dan ⊋. Penggunaan ini membuat ⊆ dan ⊂ analog dengan simbol ketidaksamaan ≤ dan <. Misalnya, jika x ≤ y maka x dapat sama dengan y, atau tidak sama, tetapi jika x < y, maka x pasti tidak akan sama dengan y, dan pasti lebih kecil dari y. Ini mirip dengan kaidah penggunaan ⊂ sebagai "subset wajar", jika A ⊆ B, maka A dapat sama atau tidak sama dengan B, tetapi jika A ⊂ B, maka A pasti tidak akan sama dengan B.
+
+
+== Contoh ==
+
+Himpunan A = {1, 2} adalah "subset wajar" (proper subset) dari B = {1, 2, 3}, sehingga ekspresi A ⊆ B dan A ⊊ B keduanya benar.
+Himpunan D = {1, 2, 3} adalah subset dari E = {1, 2, 3}, sehingga D ⊆ E benar, dan D ⊊ E salah.
+Setiap himpunan adalah subset dari himpunan itu sendiri, tetapi bukan "subset wajar" (proper subset). (X ⊆ X benar, dan X ⊊ X salah untuk setiap himpunan X.)
+Himpunan kosong { }, dilambangkan dengan ∅, juga merupakan subset dari setiap himpunan X. Juga selalu merupakan subset wajar dari setiap himpunan kecuali terhadap dirinya sendiri.
+Himpunan {x: x adalah bilangan prima yang lebih besar dari 10} merupakan subset wajar dari {x: x adalah bilangan ganjil yang lebih 

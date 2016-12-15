@@ -1,0 +1,33 @@
+Lít là đơn vị đo thể tích thuộc hệ mét. Lít không phải là đơn vị SI nhưng cùng với các đơn vị như giờ và ngày, nó được liệt kê là một trong "các đơn vị ngoài SI được chấp nhận sử dụng với SI." Đơn vị thể tích của SI là mét khối (m³).
+Kí hiệu cho lít là chữ l thường hoặc L hoa. Chữ l viết tay (ℓ) cũng được sử dụng, nhưng không được BIPM chấp nhận.
+
+
+== Định nghĩa ==
+Một lít tương đương với:
+0,001 mét khối,
+1 đêximét khối,
+1.000 xentimét khối,
+thể tích của một hình khối có cạnh 10 xentimét.
+Có 1.000 lít trong 1 mét khối (m³). Xem bảng so sánh thể tích ở 1 E-3 m³.
+Lít được chia thành các đơn vị nhỏ hơn bằng các tiền tố SI, 1 lít tương ứng với:
+1.000.000 micrôlit (µL),
+1.000 millilit (mL) = 1.000 xentimét (cm³),
+100 xentilit (cL),
+10 đêxilit (dL),
+0,01 hectôlit (hL).
+Thể tích (và dung tích) lớn hơn có thể được đo bằng kilôlit (1 kL = 1.000 lit) hay mêgalit (1 ML = 1.000.000 lit).
+micrôlít << mililít < xentilít < đêxilít < lít
+Không có tiêu chuẩn quốc tế quy định khi nào sử dụng lít và khi nào sử dụng mét khối. Trong thực tế, lít thường được dùng cho những vật được đo bởi dung tích hoặc kích thước của vật chứa nó (như dung dịch hay hạt trái cây), trong khi mét khối (và các đơn vị dẫn xuất) được dùng cho những vật được đo bằng kích thước hoặc sự chiếm chỗ của nó. Lít cũng thường được dùng trong một số phép tính, như tỉ trọng (kg/L), cho phép dễ dàng so sánh với tỉ trọng của nước.
+
+
+== Kí hiệu ==
+Kí hiệu nguyên thuỷ cho lít là l (chữ l thường).
+Để hạn chế nhầm lẫn với số 1, L (chữ L hoa) được chấp nhận là kí hiệu thay thế từ năm 1979. Viện tiêu chuẩn kĩ thuật quốc gia Hoa Kì khuyến cáo sử dụng chữ L hoa. Chữ L hoa cũng thường được dùng ở Canada và Úc.
+Trước năm 1979, kí hiệu ℓ (l nhỏ viết tay, U+2113), được sử dụng ở một số nước; thí dụ như nó được khuyến cáo bởi ấn phẩm M33 của Viện tiêu chuẩn Nam Phi (South African Bureau of Standards) vào thập niên 1970. Kí hiệu này vẫn được sử dụng phổ biến nhưng không được BIPM chính thức công nhận.
+
+
+== Lịch sử ==
+Năm 1793, lít được giới thiệu ở Pháp như là "Đơn vị đo lường cộng hoà" (Republican Measures), và được định nghĩa là một đêximét khối. Nó có nguồn gốc từ một đơn vị cũ của Pháp, litron, và tên gọi này xuất phát từ tiếng Hi Lạp và Latinh.
+Năm 1879, CIPM sử dụng định nghĩa của lít, và kí hiệu l (chữ l thường).
+Năm 1901, tại hội nghị CGPM lần thứ 3, lít được tái định nghĩa dựa trên khoảng không gian chiếm bởi 1 kg nước tinh khiết ở nhiệt độ có tỉ trọng tối đa (3,98 °C) dưới áp suất 1 atm. Với định nghĩa này, 1 lít bằng 1,000028 dm³ (một số tài liệu tham khảo trước kia ghi là 1,000027 dm³).
+Năm 1964, tại hội nghị CGPM lần 12, lít lại được định nghĩa thêm lần nữa, trong mối liên hệ chính xác với mét, như là một tên gọi khác cho đ

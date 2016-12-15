@@ -1,0 +1,11 @@
+Webbsida är en enstaka sida på en webbplats.
+Tekniskt är en webbsida en textfil uppbyggd av till exempel Hypertext Markup Language (HTML) eller Extensible Hypertext Markup Language (XHTML) som kan läsas av en webbläsare.
+
+
+== Nomenklatur ==
+Ordet webbsida används ibland felaktigt med betydelsen ”webbplats”, vilket leder till att orden förväxlas.
+Ordet hemsida (engelska: Home page) används också ibland som synonym till webbsida, men kan även ha andra betydelser. På grund av detta rekommenderar Svenska datatermgruppen att man undviker ordet till förmån för mer precisa ord som ”webbplats”, ”webbsida”, ”ingångssida” och ”startsida” i de olika betydelserna.
+
+
+== Källor ==
+^ ”hemsida”. Svenska datatermgruppen.

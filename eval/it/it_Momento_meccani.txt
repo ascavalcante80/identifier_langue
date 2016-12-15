@@ -1,0 +1,38 @@
+meccanico, analogamente ad una forza, può essere conservativo ed ammettere quindi un'energia potenziale in base al lemma di Poincaré:
+ dove 
+In tal caso essa risulta per un sistema ad un grado di libertà angolare:
+
+Il valore dell'energia potenziale in  è definito arbitrariamente dal punto di vista matematico; si impone solitamente una condizione al contorno di Dirichlet, a non è applicabile la condizione di località dato che in generale l'energia potenziale rotazionale risulta sempre periodica nelle sue variabili angolari con periodo massimo 2π.
+Infine nel caso più generale coi tre gradi di libertà rotazionali:
+
+
+== Potenza rotazionale ==
+La potenza rotazionale, posseduta dal momento meccanico risulta essere:
+
+dove ω è la velocità angolare del punto.
+
+
+== Momento di tensione ==
+In statica dei solidi un momento meccanico si traduce in una tensione a seconda che esso sia flettente, ovvero orientato parallelamente alla sezione, o torcente, se orientato perpendicolarmente alla sezione.
+In una struttura planare su cui agiscano solo forze complanari ci sono solo momenti flettenti.
+
+
+== Note ==
+^ COPPIA MOTRICE E POTENZA, spaziomotori.it. URL consultato il 31 gennaio 2013.
+^ (EN) IUPAC Gold Book, "moment of a force"
+^ Si tratta quindi di un prodotto triplo
+
+
+== Voci correlate ==
+Coppia motrice
+Ingranaggio
+Momento flettente
+Momento torcente
+Momento angolare
+Momento meccanico magnetico
+Momento meccanico elettrico
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su momento meccanico

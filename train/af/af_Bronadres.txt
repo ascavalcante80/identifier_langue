@@ -1,0 +1,38 @@
+’n Bronadres (afgekort BA maar die Engelse URL word algemeen gebruik) ((en) Uniform Resource Locator) is ’n etiket wat na ’n inligtingsbron, soos byvoorbeeld ’n webbladsy of ’n ander lêer, verwys.
+
+
+== Opbou ==
+’n URL bestaan uit die volgende onderdele:
+die protokol.
+die magtiging, soos ’n gebruikersnaam en wagwoord.
+die domeinnaam.
+die poortnommer.
+die padnaam.
+’n navraagstring.
+’n fragmentidentifiseerder.
+Die opbou van ’n URL is vir die meeste protokolle as volg: 
+
+
+=== Protokol ===
+Die protokol word meestal genoteerd in die vorm protokolnaam: (let op die dubbelpunt aan die einde). URL’s kan hierdeur vir verskillende protokolle (en dus verskillende doele) gebruik word:
+
+
+=== Outoriteit ===
+Die outoriteit is die bron van die inligting, byvoorbeeld die bedienernaam van ’n webwerf. Hierdie word genoteerd in die vorm //gebruikersnaam:wagwoord@domein:poort
+In die meeste gevalle is die gebruikersnaam, wagwoord en poortnommer nie nodig nie, waardeur die @-teken en die dubbelpunt meestal nie in die URL voorkom nie, soos in byvoorbeeld //af.wikipedia.org of //proxy.voorbeeld.com:8080.
+
+
+=== Padnaam ===
+Die presiese betekenis van die padnaam hang van die protokol af; vir HTTP en FTP verwys die meestal na ’n fisiese lêer, terwyl dit met IRC na ’n kanaal verwys. Paaie word genoteer in die vorm /padnaam. Hulle word meestal in die vorm /dirnaam/dirnaam/.../dirnaam/lêernaam gebruik.
+
+
+=== Navraagstring ===
+’n Navraagstring word meestal gebruik om bepaalde parameters deur te gee, soos die soekterme van ’n soekaksie. Hoewel die navraagstring genoteerd word as ?navraagstring, is dit gebruiklik om dit te formatteer in die vorm ?parameter=waarde&parameter=waarde&....
+
+
+=== Fragmentidentifiseerder ===
+Die fragmentidentifiseerder word gebruik om na ’n spesifieke afdeling in die inligtingsbron te verwys en word genoteerd in die vorm #fragment. In HTML-bladsye word die identifiseerders gebruik om na teks-ankers (gewoonlik opskrifte) te verwys.
+
+
+== Beperkinge ==
+Slegs ’n beperkte versameling karakters mag gebruik word om URL’s mee te skryf. So mag daar byvoorbeeld geen spesiale karakters (wat die onderdele van mekaar onder

@@ -1,0 +1,13 @@
+Töjning (elongation) är ett enhetslöst, geometrioberoende mått på deformationsgraden och betecknas med e för teknisk töjning eller ε (epsilon) för sann töjning. Töjning kan anta både positiva och negativa värden beroende på om objektet utsatts för drag- eller tryckspänning.
+
+
+== Teknisk töjning ==
+Teknisk töjning är en linjär approximation av töjning:
+,
+där δ står för den erhållna förlängningen eller förkortningen (det vill säga  - ) och  för ursprunglig längd.
+
+
+== Sann töjning ==
+Den verkliga töjningen kallas sann töjning, naturlig töjning eller logaritmisk töjning:
+,
+där  står för längd efter deformation och  för längd före defo

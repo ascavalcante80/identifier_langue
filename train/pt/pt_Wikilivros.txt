@@ -1,0 +1,26 @@
+Wikilivros (do inglês: Wikibooks, anteriormente chamado Projeto de Textos Didáticos Livres da Wikimedia, do inglês: Wikimedia Free Textbook Project ou Wikimedia-Textos Didáticos) é um projeto de código wiki da Wikimedia Foundation, tal como a Wikipédia, dedicado ao desenvolvimento colaborativo de textos didáticos (como livros, apostilas, manuais) de conteúdo livre (licenciados sob a GNU FDL).
+Criada em 10 de julho de 2003, baseia-se no sistema wiki (do havaiano wiki-wiki = "rápido", "veloz", "célere"). O modelo wiki é uma rede de páginas web contendo as mais diversas informações, que podem ser modificadas e ampliadas por qualquer pessoa através de navegadores comuns, tais como o Internet Explorer, Mozilla Firefox, Netscape, Opera, Safari, ou outro programa qualquer (capaz de ler páginas em HTML e carregar imagens). Este é o fator que distingue o Wikilivros de todas as outras coletâneas de livros e materiais didáticos: qualquer pessoa com o acesso à Internet pode modificar qualquer artigo, e cada leitor é potencial colaborador do projeto.
+Antigamente, a Wikiversidade era um projeto desenvolvido internamente no Wikilivros, porém, esta sendo transferida para um novo domínio de internet.
+
+
+== História ==
+O Wikilivros foi lançado em 10 de julho de 2003, em resposta a um pedido feito pelo colaborador da Wikipédia Karl Wick por um projeto que acolhesse e construísse, gratuitamente, uma coletânea de livros didáticos sobre assuntos como química orgânica e física. Dois principais subprojetos (Wikijunior e Wikiversidade) se englobaram no que hoje é o Wikilivros, antes da política oficial de criação de novos projetos ser posteriormente modificada, de modo que a futura Wikimedia Incubator seja criada de acordo com a política de novos projetos da Wikimedia Foundation. Em agosto de 2006, a Wikiversidade tornou-se um projeto independente na Wikimedia Foundation, porém, ainda encontra-se em curso de importação de informações ainda contidas no Wikilivros.
+
+
+=== Wikijúnior ===
+Wikijúnior é um subprojeto do Wikilivros que é especializado em livros e textos didáticos para crianças. O projeto consiste de ambos uma revista e um website, e está, atualmente, a ser desenvolvida nos idiomas inglês, dinamarquês, finlandês, francês, alemão, italiano, japonês e espanhol. É financiado por uma subvenção da Fundação Beck.
+
+
+== Conteúdo didático ==
+
+Enquanto alguns livros são originais, outros começaram com textos copiados de outras fontes de livros didáticos de conteúdo livre na internet. Todo conteúdo do site está sob a GNU Free Documentation License. Isto significa que, como com um projeto seu irmão, a Wikipédia, as contribuições permanecem com o direito de seus criadores, enquanto que a licença copyleft garante que o conteúdo seja sempre livremente distribuível e reproduzível.
+O Wikilivros se difere do Wikisource porque espera-se que o conteúdo do Wikilivros seja significantemente alterado pelos participantes. Fontes crus de documentos, como textos originais shakespearianos, devem ser hospedados no Wikisource.
+O projeto está a trabalhar pela conclusão de vários livros em diversos idiomas, nos quais seus fundadores esperam que seja seguido pelo fluxo da adoção e uso do texto desenvolvido e hospedado lá.
+Uma restrição importante, imposta por Jimbo Wales, é a proibição da inclusão de manuais de jogos - especialmente jogos eletrônicos. Uma exceção seriam os jogos que são estudados de forma séria em alguma instituição de estudo (o que poderia incluir xadrez e go). .
+
+
+== Wikilivros x Wikipédia ==
+Conforme o artigo Wikipedia:O que a Wikipédia não é, os assuntos abaixo não são do escopo da Wikipédia, mas são do escopo do Wikilivros:
+Manuais de instrução
+Livros-texto
+Apesar de não ser exp

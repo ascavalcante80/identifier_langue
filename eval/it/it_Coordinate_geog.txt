@@ -1,0 +1,19 @@
+osservatorio di Monte Mario a Roma, posto a 12° 27' 08,40" E di Greenwich. Come ellissoide di riferimento venne utilizzato l'ellissoide di Hayford orientato appunto a Monte Mario. Tale sistema di coordinate venne utilizzato dall'Istituto Geografico Militare (IGM) per aggiornare i dati allo standard World Geodetic System 84 (WGS84), su cui si basa anche il Sistema di posizionamento globale (GPS). Lo standard WGS84 si basa su un modello geodetico della Terra standard. L'EGM96 è un geoide definito da un sistema di armoniche sferiche.
+
+
+== Voci correlateModifica ==
+Sistema geodetico di riferimento
+Altitudine
+Cartografia
+Coordinate celesti
+EGM96
+Greenwich
+Geografia
+Livello del mare
+Metri sul livello del mare
+IGM95
+
+
+== Collegamenti esterniModifica ==
+EPSG Geodetic Parameter Registry (catalogo interrogabile dei codici EPSG)
+Coordinate geografiche, in Tesauro del Nuovo soggettario, BNCF, marzo 2013.

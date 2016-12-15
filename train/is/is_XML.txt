@@ -1,0 +1,2 @@
+XML (Extensible Markup Language) er staðall fyrir skilgreiningu ívafsmála til almennra nota. XML var þróað af Alþjóðasamtökum um veraldarvefinn. Það er útfært í mörgum ívafsmálum svo sem RSS, Atom, RDF og XHTML.
+XML-skjöl byggjast upp eins og tré, þ.e.a.s. þau innihalda rótartag sem innheldur texta og/eða önnur tög sem aftur innihalda tög og/eða texta. Hvert tag á sér aðeins eitt „foreldri“ eða móðurtag en getur átt mörg „börn“ sem eru ýmist texti eða 

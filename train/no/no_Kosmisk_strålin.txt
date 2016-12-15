@@ -1,0 +1,53 @@
+Innenfor astrofysikk betegner kosmisk stråling partikler som stammer fra en kilde utenfor jorden og som treffer jordens atmosfære med høy hastighet, gjerne nær lyshastigheten, men den kinetiske energien til partiklene varierer mye. På det meste kan energien være på 1020  elektronvolt, som er mye høyere enn hva vi mennesker greier å akselerere partikler til i partikkelakseleratorer.
+Rundt 90% av disse partiklene er protoner, 9% er heliumkjerne, også kjent som alfapartikler. Den resterende 1% inkluderer elektroner og kjernene av tyngre element.
+
+
+== Kilder til kosmisk stråling ==
+De fleste partiklene stammer fra kilder utenfor vårt solsystem, slik som roterende nøytronstjerner, supernovaer og svarte hull. Noe av den sterkeste strålingen kommer også fra kilder utenfor vår galakse. Måten den sterkeste strålingen lages på er ennå ikke fullt ut forstått.
+Kosmisk stråling med energi over 10 GeV (1 Giga elektronVolt = 109 eV) stråler inn mot jorden like mye fra alle kanter. Dette tror man skyldes at vår galakses magnetiske felt endrer retningen til partiklene. Dette gjør kosmisk stråling mindre interessant i astronomi, siden vi ikke kan se hvor den kommer fra. Under 10 GeV påvirkes partiklene såpass av jordens magnetfelt at dette påvirker retningen.
+Kosmisk stråling skapes også av solen; disse partiklene har lav energi, rundt 10-100 keV. Mengden og styrken kan øke ved utbrudd (flares) på solen. Solvinden kan også skjerme for kosmisk stråling som kommer utenfra solsystemet. Man tror også at en del kosmisk stråling blir bremset opp ved heliopausen ved grensen av vårt solsystem og at dette er den såkalte anormale strålingen, med uventet lav energi. (Anomalous cosmis rays).
+
+
+== Deteksjon ==
+Partiklene kolliderer med atmosfæren og i kollisjonen skapes en rekke mesoner, kortlivede partikler som henfaller til myoner. Myonene vekselvirker ikke like lett med atmosfæren og myonenes høye hastighet forlenger levetiden deres, utfra Einsteins relativitetsteori. Dette gjør at myonene kan rekke å nå ned til bakken. Myonene opptrer som ioniserende stråling, det vil si at de river løs elektroner fra atomer de passerer. Dette gjør at de kan detekteres med enkle midler, for eksempel kan de ses som tynne streker av tåke i tåkekamre.
+
+
+== Påvirker strålingen atmosfæren? ==
+At kosmisk stråling kan få vann til å kondensere på denne måten, har fått enkelte til å spekulere i om kosmisk stråling kan påvirke dannelsen av skyer.
+Det er uansett almennt akseptert at kosmisk stråling har hold nivået av karbon-14 konstant i atmosfæren, i alle fall de siste 100.000 år. Dette er viktig for bruken av C14-datering i arkeologi.
+
+
+== Forskningsprosjekt ==
+Pågående forskningsprosjekt rundt kosmisk stråling inkluderer:
+CHICOS
+PAMELA
+Alpha Magnetic Spectrometer
+HiRes
+MARIACHI
+Pierre Auger Observatory
+SKY Experiment
+SLAC
+Spaceship Earth
+TRACER Long Duration Balloon Project
+Telescope Array
+
+
+== Påvirkning på mennesker ==
+Kosmisk stråling utgjør en liten del av bakgrunnstrålingen vi utsettes for. En undersøkelse fant at kosmisk stråling utgjorde 10% av bakgrunnsstrålingen i Australia. prosentandelen i Norge vil trolig være lavere, da geologiske forhold gjør at Norge har en bakgrunnsstråling over gjennomsnittet. Kosmisk stråling vil derimot kunne være en stor fare under bemannede romferder.
+
+
+== Referanser ==
+^ http://www.forskning.no/Artikler/2006/oktober/1161680300.74 CERN ser på kosmisk stråling
+^ http://www.arpansa.gov.au/baseline.htm
+C. D. Anderson and S. H. Neddermeyer, Cloud Chamber Observations of Cosmic Rays at 4300 Meters Elevation and Near Sea-Level, Phys. Rev 50, 263,(1936).
+M. Boezio et al, Measurement of the flux of atmospheric muons with the CAPRICE94 apparatus, Phys. Rev. D 62, 032007, (2000).
+R. Clay and B. Dawson, Cosmic Bullets, Allen & Unwin, 1997.
+P. K. F. Grieder, Cosmic Rays at Earth: Researcher’s Reference Manual and Data Book, Elsevier, 2001.
+J. Kremer et al, Measurement of Ground-Level Muons at Two Geomagnetic Locations, Phys. Rev. Lett. 83, 4241, (1999).
+S. H. Neddermeyer and C. D. Anderson, Note on the Nature of Cosmic-Ray Particles, Phys. Rev. 51, 844, (1937).
+D. Perkins, Particle Astrophysics, Oxford University Press, 2003. – Very interesting and well written book.
+C. E. Rolfs and S. R. William, Cauldrons in the Cosmos, The University of Chicago Press, 1988.
+J. F. Ziegler, The Background In Detectors Caused By Sea Level Cosmic Rays, Nuclear Instruments and Methods 191, 419, (1981).
+M. D. Ngobeni and M. S. Potgieter, Cosmic ray anisotropies in the outer heliosphere, Advances in Space Research, 2007.
+M. D. Ngobeni, Aspects of the modulation of cosmic rays in the outer heliosphere, M.Sc Dissertation, Northwest University (Potchefstroom campus) South Africa 2006.
+Martin Walt, Introduction to Geomagnetically Trapped Radia

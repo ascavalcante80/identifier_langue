@@ -1,0 +1,63 @@
+Per classificazione spettrale degli asteroidi si intendono i metodi per raggruppare gli asteroidi in base alle loro caratteristiche spettrali, al loro colore e, a volte, al loro albedo.
+Si ritiene che queste classificazioni corrispondano alla composizione superficiale degli asteroidi. Per i corpi più piccoli, quelli che non si sono differenziati, la composizione superficiale è verosimilmente simile a quella interna. Nei corpi più grandi come 1 Cerere e 4 Vesta si sa invece che esiste una struttura interna.
+
+
+== Classificazione moderna ==
+La classificazione moderna degli asteroidi è iniziata nel 1975 a opera di Clark R. Chapman, David Morrison e Ben Zellner  con tre categorie: tipo C per gli oggetti scuri carboniosi, tipo S per gli oggetti pietrosi (silicati) e tipo U per tutti gli altri. Questa classificazione è stata in seguito ampliata e chiarificata.
+Attualmente esistono molti altri schemi di classificazione  e benché si sforzino di mantenere una reciproca coerenza, non pochi asteroidi sono classificati in modo diverso a seconda dello schema e dei criteri adottati. Le due classificazioni più usate sono la classificazione Tholen e la classificazione SMASS.
+
+
+=== Classificazione Tholen ===
+Da oltre un decennio la classificazione maggiormente usata è quella di David James Tholen, che fu proposta per la prima volta nel 1984. Si è sviluppata a partire dalle osservazioni spettrali ad ampia banda (tra 0,31 µm e 1,06 µm) ottenute durante il programma Eight-Color Asteroid Survey (ECAS) negli anni ottanta, con l'aggiunta delle misurazioni di albedo. La formulazione iniziale era basata su 978 asteroidi.
+Lo schema include 14 tipi, la maggioranza degli asteroidi rientra in uno dei 3 gruppi più ampi, gli altri nei restanti tipi più piccoli.
+Gruppo C: oggetti carboniosi scuri. Questo gruppo ha 4 sotto-tipi:
+Tipo B
+Tipo F
+Tipo G
+Tipo C: questo tipo contiene la maggior parte degli asteroidi del gruppo C e circa il 75% di tutti gli asteroidi in generale.
+
+Tipo S: oggetti pietrosi (silicati). Questo tipo comprende circa il 17% di tutti gli asteroidi.
+Gruppo X
+Tipo M: oggetti metallici, questo tipo è il terzo più numeroso.
+Tipo E: si differenzia dal tipo M principalmente per l'alto albedo.
+Tipo P: si differenzia dal tipo M principalmente per il basso albedo.
+
+Tipo A: un piccolo gruppo.
+Tipo D: un piccolo gruppo.
+Tipo T: un piccolo gruppo.
+Tipo Q: per l'asteroide 1862 Apollo
+Tipo R: per l'asteroide 349 Dembowska
+Tipo V: per l'asteroide 4 Vesta
+Gli ultimi tre tipi contengono ciascuno un solo asteroide che ha caratteristiche spettrali uniche.
+Ad alcuni oggetti viene assegnata una combinazione di due o più tipi (es: CG) quando le loro caratteristiche sono una combinazione di tipi diversi.
+
+
+=== Classificazione SMASS ===
+Questa classificazione è stata introdotta da Schelte J. Bus e Richard P. Binzel nel 2002, ed è basata sul programma Small Main-Belt Asteroid Spectroscopic Survey (SMASS) e su un campione di 1447 asteroidi . Questo studio ha prodotto spettri a risoluzioni più alte rispetto l'ECAS, tuttavia è stata osservata una porzione più piccola di lunghezze d'onda (tra 0,44 µm e 0,92 µm). Inoltre non è stato considerato l'albedo.
+Nonostante si sia tentato di mantenere il più possibile i gruppi della classificazione Tholen, la differenza nei dati ha portato ad una suddivisione in 24 tipi. La maggioranza degli asteroidi rimane nei tre gruppi più ampi (C, S e X).
+Gruppo C: asteroidi carboniosi, che includono:
+Tipo B: che si sovrappone in gran parte ai tipi B e F della classificazione Tholen.
+Tipo C: il tipo standard degli oggetti carboniosi non inclusi nel tipo B.
+Tipo Cg, Ch, Cgh: collegati al tipo G di Tholen.
+Tipo Cb: di transizione tra i tipi C e B.
+
+Gruppo S: Silicati, che includono:
+Tipo A
+Tipo Q
+Tipo R
+Tipo K: una nuova categoria.
+Tipo L: una nuova categoria.
+Tipo S: il tipo standard del gruppo S.
+Tipo Sa, Sq, Sr, Sk, e Sl: di transizione tra il tipo S e gli altri tipi del gruppo S.
+
+Gruppo X: oggetti in maggior parte metallici che include:
+Tipo X: il tipo standard del gruppo X (include gli oggetti classificati da Tholen nei tipi M, E e P).
+Xe, Xc, and Xk: di transizione tra il tipo X e gli altri tipi.
+
+Tipo T
+Tipo D
+Tipo Ld: un nuovo tipo con caratteristiche spettrali più estreme rispetto al tipo L.
+Tipo O
+Tipo V
+Con questa classificazione un significativo numero di piccoli oggetti rientrano nei tipi Q, R e V, quelli che nella classificazione Tholen hanno un solo membro.
+Nella classificazione SMASS non esistono tipi combinati

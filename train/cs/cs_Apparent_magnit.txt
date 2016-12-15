@@ -1,0 +1,23 @@
+Hvězdná velikost (zdánlivá magnituda, zdánlivá hvězdná velikost, zdánlivá jasnost, symbol mag nebo m) je fotometrická veličina používaná v astronomii, která udává jasnost objektu (světelného zdroje) na obloze. Její hodnota představuje zdánlivou, tedy subjektivně vnímanou nebo přístrojem detekovanou, jasnost hvězdy. Nejedná se o jednotku SI.
+Hodnota hvězdné velikosti nemá nic společného se skutečnými rozměry hvězdy či jiného nebeského objektu. Pro porovnání skutečných jasností hvězd se používá absolutní hvězdná velikost (viz dále).
+
+
+== Historie a definice ==
+Starověká astronomie (astronom Hipparchos v 2. století př. n. l.) zavedla hrubé rozdělení hvězd podle jasnosti do šesti skupin, zvaných třídy: nejjasnější 1. mag, nejslabší 6. mag. Z tohoto rozdělení v roce 1854 vyšel Norman Robert Pogson a vytvořil matematický předpis pro obecnou jednotku jasnosti. Tato jednotka vychází z Weber-Fechnerova psychofyzikálního zákona, který říká, že mění-li se fyzikální podněty působící na naše smysly řadou geometrickou, vnímáme jejich změnu řadou aritmetickou. (Tento zákon se týká zvuku, osvětlení nebo odhadu hmotnosti.) Magnituda je proto logaritmická jednotka, u které platí, že 1 mag rozdílu jasnosti odpovídá jasnostem v poměru 2,512:1 (tzv. Pogsonův poměr). Tento poměr byl zvolen tak, že hvězdy lišící se o 5 mag mají vzájemný poměr jasností 1:100, čímž se zhruba dodržuje starověký význam magnitudy. Je třeba upozornit, že v souladu s tímto historickým významem znamená vyšší magnituda nižší jasnost hvězdy.
+Rozdíl hvězdných velikostí dvou hvězd m1 − m2 je tedy definován pomocí tzv. Pogsonovy rovnice
+m1 − m2 = −2,5 log10(I1/I2),
+kde I1 a I2 jsou hustoty světelného toku (množství světla dopadajících na jednotku plochy za jednotku času) dopadajícího na lidské oko nebo čidlo přístroje ze dvou srovnávaných hvězd. Hvězdná velikost m libovolné hvězdy je tedy rovna
+m = −2,5 log10(I/I0),
+kde I0 je hustota světelného toku hvězdy, které byla definitoricky přiřčena hvězdná velikost 0m. Původně byly hvězdné velikosti kalibrovány podle vybraných hvězd v okolí severního světového pólu (tzv. severní polární posloupnost).
+
+
+== Hvězdné velikosti nejslabších pozorovatelných objektů ==
+Lidské oko by v ideálním případě dokonale tmavého pozadí (kterého se v praxi nedosáhne) mělo být schopno registrovat hvězdy maximálně 8. až 9. mag. V praxi jsou okem bez dalekohledu za dobrých pozorovacích podmínek viditelné objekty o hvězdné velikosti asi 6. magnitudy (6m), na přírodní, skutečně tmavé obloze (stupeň Bortleho stupnici světelného znečištění 1, v ČR se již nevyskytuje) až 8m. Nejslabší hvězdy viditelné Hubbleovým vesmírným dalekohledem mají hvězdnou velikost 30m.
+
+
+== Absolutní hvězdná velikost ==
+Je zřejmé, že kromě skutečné svítivosti hvězdy, dané jejími fyzikálními vlastnostmi, má na hodnotu hvězdné velikosti vliv také její vzdálenost od Země. Proto se kromě této (tzv. zdánlivé, nesprávně relativní) zavádí také tzv. absolutní hvězdná velikost, která uvádí hvězdnou velikost, kterou by hvězda měla, pokud by byla ve vzdálenosti 10 parseků. Absolutní hvězdná velikost tak závisí pouze na skutečné svítivosti hvězdy.
+
+
+== Závislost na vlnové délce ==
+V době zavedení této veličiny do astronomické praxe, v 19. století, byly hvězdné velikosti určovány na základě srovnávání vjemu, kterým působily obrazy hvězd na lidské oko při pozorování v dalekohledu. Dnes takto určovanou veličinu nazýváme vizuální hvězdnou velikostí a její symbol doplňujeme indexem v (mv, odvozeno od angl. visual). Stanovujeme-li ji na podkladě fotografií hvězdných objektů, označujeme ji jako fotografickou a značíme mph (photographic); použijeme-li speciální fotografický materiál, se spektrální citlivostí podobnou citlivosti lidského oka, značíme ji mpv 

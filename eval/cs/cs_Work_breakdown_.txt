@@ -1,0 +1,22 @@
+ formulací jako je například 1.6 Sestavení provedeno má v tomto příkladu zdůraznit skutečnost, že prvky WBS jsou vždy produkty nebo výsledky činností.
+
+
+== Obvyklé chyby ==
+WBS obsahuje činnosti
+WBS nepokrývá zcela rozsah dodávky projektu
+WBS simuluje celý plán projektu, nebo harmonogram. Správně WBS určuje jen to, co se bude dělat, ale nestanovuje jak nebo kdy.
+WBS se snaží být organizační hierarchií. To není správně. Přesto může být WBS použita při přiřazování odpovědnosti. Viz responsibility assignment (RACI) matrix
+
+
+== Odkazy ==
+
+
+=== Reference ===
+↑ a b c Kolektiv autorů pod vedením Ing. Jaromíra PITAŠE, Ph.D. Národní standard kompetencí projektového řízení, verze 3.2. (IPMA®, verze 3.0), Brno: SPŘ o.s., 2012, ISBN 978-80-260-2325-8.
+↑ a b Doležal,J., Máchal,P.,Lacko,B. a kol. : Projektový management podle IPMA, Grada Publishing Praha (2012) , ISBN 978-80-247-4275-5
+↑ Project Management Institute. Project Management Institute Practice Standard for Work Breakdown Structures, Second Edition (2006) ISBN 1-933890-13-4 (Note: The Second Edition is an extensive re-write of the Practice Standard.)
+↑ Gregory T. Haugan. Effective Work Breakdown Structures (The Project Management Essential Library Series) ISBN 1-56726-135-3
+
+
+== Externí odkazy ==
+NÁRODNÍ STANDARD KOMPETENCÍ PROJEKTOVÉHO ŘÍZENÍ

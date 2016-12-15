@@ -1,0 +1,19 @@
+En mécanique céleste et en mécanique spatiale, l'argument du périastre est un des éléments utilisés pour définir la trajectoire d'un corps en orbite autour d'un autre. Il exprime l'angle entre la direction du nœud ascendant et celle du périastre de cette orbite. Il est mesuré dans le plan orbital et dans la direction du mouvement du corps. Il est couramment noté par la lettre grecque oméga, .
+Le terme périastre désigne normalement le périapside (terme général) d'une orbite décrite autour d'une étoile. Selon les corps orbités, le mot change, bien que le terme périapside reste toujours admissible. On parle alors de :
+périhélie pour une orbite décrite autour du Soleil ;
+périgée pour la Terre ;
+périsélène ou périlune pour la Lune ;
+périgalacticon pour le centre d'une galaxie ;
+etc.
+Un argument du périastre de 0° signifie que le corps en orbite est au plus près du corps central au même moment où il traverse son plan de référence du Sud vers le Nord. Un argument du périastre de 90° signifie que le périastre est atteint lorsque le corps est à sa distance maximale au-dessus du plan de référence.
+Lorsque l'orbite est elliptique, l'argument est l'angle entre la ligne des nœuds et le grand axe de l'ellipse.
+Ajouter l'argument du périastre à la longitude du nœud ascendant donne la longitude du périastre.
+
+
+== Calcul ==
+En astrodynamique, l'argument du périastre  peut être calculé de la manière suivante :
+
+où :
+ est le vecteur pointant vers le nœud ascendant,
+ est le vecteur d'excentricité (c'est-à-dire le vecteur pointant vers le périastre).
+Dans le cas d'une orbite équatoriale, bien que l'argument ne soit pas dé

@@ -1,0 +1,82 @@
+g"), der er af middel temperatur og ordinær størrelse.
+Yderligere nomenklatur i form af bogstaver kan følge spektraltypen for at vise specielle træk. F.eks indikerer et "e" tilstedeværelsen af emissionslinjer; "m" repræsenterer store niveauer af metal og "var" kan betyde variationer i spektraltypen.
+Hvide dværge har deres egen klasse, der begynder med bogstaverne D. Den er underinddelt i klasserne DA, DB, DC, DO, DZ, and DQ, afhængigt af typen af fremtrædende linjer i spektret. Dette følges af numeriske værdier der indikerer temperatur indekset.
+
+
+== Variable stjernerRedigér ==
+
+Variable stjerner har periodiske tilfældige variationer i deres luminositet på grund af indre eller ydre egenskaber. I de indre variable stjerner kan de primære typer inddeles i tre hovegrupper.
+Gennem deres udvikling passerer nogle stjerner igennem faser hvor de kan blive pulserende variable. Pulserende variable stjerner variere i radius og luminositet ovet tid, idet de udvider sig og trækker sig sammen med perioder fra minutter til år, afhængig af stjernens størrelse. Denne kategori omfatter Cepheider og cepheidelignende stjerner, og langperiodiske variable stjerner som Mira
+Udbruds-variable stjerner , er stjerner der oplever en pludselig stigning i luminositet på grund af flares eller tilfældige udkastninger af masse. Denne gruppe omfatter protostjerner, Wolf-Rayet stjerner, og Flare stjerner, såvel som kæmper og superkæmper.
+Kataklysmiske eller eksplosive variable gennemgår en dramatisk ændring i deres egenskaber. Denne gruppe inkluderer novaer og supernovaer. Et binært stjernesystem der inkluderer en hvid dværg kan producere særlige typer af stjerneeksplosioner, inkluderende novaen og en type 1a supernova. Ekslosionen skabes når den hvide dværg samler hydrogen fra en ledsagestjerne, og opbygger masse indtil hydrogenet undergår fusion. Nogle novaer er gengangere, idet de har periodiske udbrud af moderat amplitude.
+Stjerner kan også variere i lysstyrke på grund af ydre faktorer, som skyggende ledsagestjerner.
+
+
+== OpbygningRedigér ==
+Det indre af en stjerne er i hydrostatisk ligevægt: kræfterne på ethvert lille volumen udbalancerer næsten hinanden. De balancerende kræfter er gravitationen indad og et udadrettet tryk skabt af temperaturforskellen i stjernen. Denne trykgradient opretholdes af temperaturforskellene idet kernen er varmere end de ydre dele af stjernen. Temperaturen i kernen af en hovedseriestjerne er mindst af størrelsesorden 107 K. Den resulterende temperatur og det tilhørende tryk er tilstrækkeligt til at opretholde kernefusion og til at skabe den nødvendige trykgradient der indgår i den hydrostatiske ligevægt.
+Når atomkerner smeltes sammen i kernen, udsendes der energi i form af gammastråler. Disse fotoner vekselvirker med den omgivende plasma, hvilket tilfører yderligere energi til kernen. Stjerner på hovedserien omsætter hydrogen til helium, og opbygger på denne måde langsomt en stigende mængde af helium i kernen. Til sidst er heliumindholdet dominerende og energiproduktionen i kernen standser. For stjerner med mere end 0.4 solmasser vil fusionen i stedet fortsætte i en langsomt voksende skal rundt om den degenererede heliumkerne.
+Udover den hydrostatiske ligevægt vil det indre af en stabil stjerne også opretholde en termisk ligevægt. Der er en radial temperaturgradient gennem det indre, der resulterer i en energistrøm der flyder udad. Den mængde af energi der forlader ethvert cirkulært snit i stjernen vil svare til det der modtages indefra.
+
+Strålingszonen er området i stjernens indre, hvor stråling er tilstrækkeligt effektiv til at opretholde energistrømmen. I dette område er plasmaet ikke forstyrret og enhver bevægelse vil dø ud. Hvis dette ikke er tilfældet vil plasmaet blive ustabilt og der vil forekomme konvektion, idet der dannes en konvektionszone. Dette kan ske i områder med meget store energistrømme, som nær kernen eller i områder der er uigennemsigtige som i den ydre skal.
+Forekomsten af konvektion i kappen af en hovedseriestjerne afhænger af massen. Stjerner med mange gange Solens masse har en en konvektionszone dybt i det indre og en strålingszone i de ydre lag. Mindre stjerner som Solen er modsat, med konvektionszonen i de ydre lag.
+Røde dværgstjerner med mindre end 0.4 Solmasser er konvektive hele vejen igennem, hvilket forhindrer at der opsamles helium i kernen. For de fleste stjerners vedkommende vil konvektionszonerne også variere over tid som stjernen ældes og det indre af stjernen ændres.
+Den del af stjernen, der er synlig for en iagttager, kaldes fotosfæren. Det er det lag hvor stjernens plasma bliver gennemsigtigt for fotoner. Herfra udstråles den energi der er frembragt i stjernens indre. Det er i fotosfæren at solpletter forekommer.
+Over fotosfæren er stjerneatmosfæren. I en hovedseriestjerne som Solen, er den nederste del af atmosfæren den tynde kromosfære hvorfra der udgår spikuler og flares.
+Denne er omgivet af et overgangsområde, hvor temperaturen stiger hurtigt på en afstand af kun 100 km. Over dette er koronaen, et område af superophedet plasma, der kan have en udstrækning på flere millioner km. På trods af sin høje temperatur udsender koronaen kun lidt lys. Koronaen er normalt kun synlig ved solformørkelse. Fra koronaen udgår en solvind af plasma, der strækker sig ud fra stjernen indtil det når ud i det interstellare rum, hvor det vekselvirker med det stof der er tilstede der.
+
+
+== KernereaktionerRedigér ==
+
+En mængde forskellige kernereaktioner finder sted i kernen af stjerner, afhængig af deres masse og sammensætning,som en del af stjernens kernesyntese. Nettomassen af den fusionerede atomkerne er mindre end summen af dens enkeltdele. Denne tabte masse er omsat til energi, i overensstemmelse med masse-energi ækvivalensen E = mc²
+Brintfusionen er temperaturfølsom, så en moderat stigning i kernetemperaturen vil resultere i en betydelig stigning i fusionshastigheden. Som et resultat varierer kernetemperaturen for en hovedseriestjerne fra 4 millioner Kelvin for en lille M-klasse stjerne til 40 millioner Kelvin for en tung O-klasse stjerne.
+I Solen, der har en kernetemperatur på omkring 15 millioner Kelvin, smelter brint sammen til helium i proton-proton kernereaktionen
+41H → 2²H + 2e+ + 2νe (4.0 MeV + 1.0 MeV)
+21H + 2²H → 23He + 2γ (5.5 MeV)
+23He → 4He + 21H (12.9 MeV)
+Nettoreaktionen kan skrives således:
+41H → 4He + 2e+ + 2γ + 2νe (26.7 MeV)
+hvor e+ er en positron, γ er en gamma foton, νe er en neutrino, og H og He er isotoper af hydrogen og helium. Energien frigjort ved denne reaktion er af størrelsesordenen millioner af elektronvolt, der kun er en lille energimængde, men til gengæld sker der et enormt antal reaktioner sideløbende.
+I mere massive stjerner produceres helium i en cyklus af reaktioner der er katalyseret af kulstof, den såkaldte carbon-nitrogen-oxygen cyklus
+I udviklede stjerner med kerner der har temperatur på 100 millioner Kelvin og masser mellem 0.5 og 10 solmasser, kan helium forvandles til kulstof i triple-alfa-processen der bruger beryllium som mellemled:
+4He + 4He + 92 keV → 8*Be
+4He + 8*Be + 67 keV → 12*C
+12*C → 12C + γ + 7.4 MeV
+Nettoreaktionen er:
+34He → 12C + γ + 7.2 MeV
+I tunge stjerner kan grundstoffer fusionere i en såkaldt neon proces og i en oxygen-proces. Det sidste trin i kernesyntesen er siliciumfusion der resulteter i dannelse af isotopen Fe-56. Fusion kan da ikke forekomme andet end gennem en endoterm proces og derfor kan kun gravitationel sammensynkning producere yderligere energi.
+Eksemplet herunder viser tiden der er nødvendig, for at en stjerne på 20 solmasser bruger alt sit kernebrændsel. For en O-klasse hovedseriestjerne, ville det svare til en stjerne med 8 gange solradius og 62000 gange Solens luminositet.
+
+
+== Farver og spektralklasserRedigér ==
+Lyset fra en stjerne har et spektrum (farvesammensætning) der fortæller noget om stjernens temperatur og stofsammensætning, i det mindste for så vidt angår de lysudsendende dele af stjernens overflade. Af den grund inddeler man stjerner i forskellige spektralklasser – sorteret efter faldende, tilsvarende temperatur hedder stjernernes spektralklasser:
+O, B, A, F, G, K, M, R, N, S
+Den lidt »tilfældige« bogstavfølge skyldes at klassifikationssystemet blev opfundet inden man lærte den nærmere betydning af de forskellige klasser. Man kan huske rækkefølgen ved hjælp af denne memotekniske remse: »Oh, be a fine girl/guy, kiss me right now, sweetie!«.
+Hvis man varmer f.eks. et stykke jern op, vil det først blive rødglødende, siden skifter lyset fra gløden over orange og gult til »hvidglødende«: På samme måde er lyset de koldeste stjerner (med overfladetemperaturer på et par tusinde celsiusgrader) rødligt, mens varmere stjerner udsender gult, orange og hvidt lys – Solen med sin overfladetemperatur på knap 6000 °C, klassificeres således som en »gul« stjerne af astronomerne.
+Og der findes langt varmere stjerner: De der er »varmere end hvidglødende« har et blåt skær i deres lys, fordi de udsender mest af det kortbølgede, blå lys. De varmeste blandt disse blå stjerner har overfladetemperaturer på henved 45.000 °C.
+
+
+== SymbolikRedigér ==
+Stjernen henviser til stjernen over Betlehem, der bebudede Jesu fødsel og førte vise mænd fra Østerland til stalden, hvor de fandt "jødernes nyfødte konge"
+
+
+== Se ogsåRedigér ==
+Dobbeltstjerne
+
+
+== FodnoterRedigér ==
+
+
+== Eksterne henvisningerRedigér ==
+
+Konstellationer
+Monsterstjerne med 300 gange Solens masse
+Det astrofysiske grundlag for liv I
+Astronomisk Selskab, Astronomisk guide: Stjernerne på Himlen
+Curious About Astronomy? Stars, Curious About Astronomy? Stars, Questions
+dmoz: Stars
+NASA: Chandra X-ray Observatory News, Harvard: Chandra X-ray Observatory News
+Hubblesite: Star
+13 June, 2003, BBCNews: Strange star puzzles astronomers Citat: "...Achernar, otherwise known as Alpha Eridani...fairly close to us, being about 145 light-years distant...."
+2003-11-28, Science Daily: Biggest Star In Our Galaxy Sits Within A Rugby-ball Shaped Cocoon Citat: "...Eta Carinae...100 times more massive than our Sun and 5 million times as luminous. This star has now entered the final stage of its life and is highly unstable..."
+13 January 2005, Physicsweb: All change for stellar evolution
+LA-ikon

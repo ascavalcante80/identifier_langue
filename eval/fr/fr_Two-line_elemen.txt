@@ -1,0 +1,30 @@
+nt de traînée
+(paramètre 1.11)
+les dérivées première et seconde de la vitesse 
+elles donnent une indication sur la manière dont évolue l'orbite suite au freinage atmosphérique (paramètres 1.9 et 1.10). NB : la première est divisée par 2 et la seconde par 6'.
+Ces paramètres, s'ils sont récents, permettent de localiser l'objet avec une précision de l'ordre du kilomètre (à 300 kilomètres, cela fait 0,2 degré).
+
+
+== Liens externes ==
+NORAD Two-Line Element Sets Current Data
+(en) « Definition of Two-line Element Set Coordinate System », sur spaceflight.nasa.gov
+
+
+== Notes et références ==
+ « paramètres orbitaux à deux lignes / Liste de résultats / FranceTerme / Ressources / Accueil - Culture.fr », sur www.culture.fr (consulté le 27 novembre 2015)
+ (en) Dr. T.S. Kelso, « CelesTrak.com » (consulté le 17 décembre 2008)
+ À la manière des spotters d'avions ou de trains.
+ par exemple, trois paramètres de position (x, y, z) et trois paramètres de vitesse (x',y',z').
+ TLE du 30 septembre 2014 (source : http://www.celestrak.com/NORAD/elements/stations.txt).
+ TLE du 3 août 2009 (source : http://www.heavens-above.com/orbit.aspx?satid=33442&lat=0&lng=0&loc=Unspecified&alt=0&tz=CET).
+ (en) « What's up in space - 25 november 2008 - ISS toolbag », SpaceWeather.com (consulté le 18 décembre 2008) (aussi le 5 décembre 2008).
+ « TLE B-Star Drag Term »
+ « TLE format. »
+ Ces mises à l'échelle facilitaient le calcul de la série de Taylor à une époque où les ordinateurs manquaient de puissance.[réf. souhaitée]
+
+
+== Voir aussi ==
+Mécanique spatiale
+Observation des satellites artificiels
+
+ Portail de l’astronautique

@@ -1,0 +1,3 @@
+Voltti (tunnus V) on SI-järjestelmän johdettu jännitteen yksikkö. Se on nimetty italialaisen fyysikon Alessandro Voltan mukaan. Yksikkö on määritelty siten, että jos johteessa syntyy watin tehohäviö ja siitä kulkee läpi ampeerin virta, sen yli on yhden voltin jännite.
+Käytännön tarpeita varten voltti on vuodesta 1990 lähtien standardoitu niin kutsuttua Josephsonin ilmiötä apuna käyttäen.
+Voltteina mitataan myös sähköistä potentiaalia: sähköinen potentiaali

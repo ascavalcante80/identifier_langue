@@ -1,0 +1,9 @@
+Keplers lagar beskriver himlakroppars centralrörelse i solsystemet och lades fram av Johannes Kepler (1571–1630).
+De tre lagarna var huvudsakligen empiriskt grundade på Tycho Brahes omfattande och noggranna observationer av planeten Mars. Trots att Kepler kände till Nicolaus Cusanus' syn på Universum, delade han inte dennes uppfattning om stjärnorna.
+Keplers första lag: Planetbanorna är ellipser med stjärnan i den ena brännpunkten.
+Keplers andra lag: Varje planet rör sig längs sin elliptiska bana med en sådan hastighet att en linje från planeten till stjärnan ("radius vector") alltid sveper över en lika stor area på samma tid.
+Keplers tredje lag: Uttrycket  ger samma konstanta värde för alla planeter som går i bana runt stjärnan, där T är planetens omloppstid och r halva storaxeln i ellipsen.
+
+
+== Inflytande ==
+Med Keplers numeriska lagar kunde astronomer göra tio gånger mer precisa förutsägelser än tidigare, och när Isaac Newton hade publicerat sin gravitationslag år 1

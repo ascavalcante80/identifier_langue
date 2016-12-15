@@ -1,0 +1,42 @@
+plans and projects.
+"SWDXER" ¨The SWDXER¨ - with general SWL information and radio antenna tips.
+Build the Mystery Crystal set A simple and surprisingly effective and sensitive design.
+A website that has instructions on many different kinds of crystal radios, including a design only incorporating an earphone and a diode
+A website that lots of information on early radio and crystal sets
+Hobbydyne Crystal Radios History and Technical Information on Crystal Radios
+Ben Tongue's Technical Talk Section 1 links to "Crystal Radio Set Systems: Design, Measurements and Improvement".
+"Semiconductor archeology or tribute to unknown precusors". earthlink.net/~lenyr.
+Nyle Steiner K7NS, Zinc Negative Resistance RF Amplifier for Crystal Sets and Regenerative Receivers Uses No Tubes or Transistors. 20 tháng 11, 2002.
+Crystal Set DX? Roger Lapthorn G3XBM
+Building a crystal radio set A guide to building a simple crystal radio receiver.
+Website which has a large selection of homebuilt crystal and tube radios built by Dave Schmarder.
+The Bose Institute
+Varun Aggarwal of MIT's page on Bose
+
+
+=== Bằng sáng chế ===
+Bằng sáng chế Hoa Kỳ số 766.840 "Detector for Electrical Disturbances", 1904, Acharya Jagadish Chandra Bose
+Bằng sáng chế Hoa Kỳ số 836.531 "Means for receiving intelligence communicated by electric waves", 1906. G. W. Pickard.
+Bằng sáng chế Hoa Kỳ số 876.996 "Intelligence intercommunication by magnetic wave components", 1908. G. W. Pickard.
+Bằng sáng chế Hoa Kỳ số 956.165, "Space communication", 1910. G. W. Pickard.
+Bằng sáng chế Hoa Kỳ số 1.206.911, "System of radio communication", 1916. G. W. Pickard.
+Bằng sáng chế Hoa Kỳ số 1.224.499, "Radio telegraphy and telephony receiver", 1917. G. W. Pickard.
+Bằng sáng chế Hoa Kỳ số 1.245.266, "Radio telegraphy and telephony receiver", 1917. G. W. Pickard.
+Bằng sáng chế Hoa Kỳ số 1.249.482, "Radio telegraphy and telephony receiver", 1917. G. W. Pickard.
+Bằng sáng chế Hoa Kỳ số 1.485.524, "Crystal detector for radio communication", 1924. Hugo H. Pickron. (ed., uses "crystal radio" term in the patent.)
+Bằng sáng chế Hoa Kỳ số 1.575.067,"Functioning parts of mineral type detectors", 1926. L. B. Lambert.
+Bằng sáng chế Hoa Kỳ số 1.648.521, "Radio receiving set", 1927. A. Wikstrom.
+Bằng sáng chế Hoa Kỳ số 1.748.435, "Crystal radio apparatus", 1930. H. Adams.
+Bằng sáng chế Hoa Kỳ số 1.825.070, "Radio receiving set", 1931. W. J. Kayser.
+Bằng sáng chế Hoa Kỳ số 2.805.332, "Subminiature portable crystal radio", 1957. Keith L. Bell.
+
+
+== Liên kết ngoài ==
+Ellery W. Stone (1919). Elements of Radiotelegraphy. D. Van Nostrand company. 267 pages.
+Elmer Eustice Bucher (1920). The Wireless Experimenter's Manual: Incorporating how to Conduct a Radio Club.
+Milton Blake Sleeper (1922). Radio Hook-ups: A Reference and Record Book of Circuits Used for Connecting Wireless Instruments. The Norman W. Henley publishing co.; 67 pages.
+Robert Andrews Millikan, Henry Gordon Gale, Willard R. Pyle (1922). Practical physics. Ginn. 472 pages.
+JL Preston and HA Wheeler (1922) "Construction and operation of a simple homemade radio receiving outfit", Bu. of Standards, C-120: Apr. 24, 1922.
+PA Kinzie (1996). Crystal Radio: History, Fundamentals, and Design. Xtal Set Society.
+Thomas H. Lee, The Design of CMOS Radio-Frequency Integrated Circuits
+Derek K. Shaeffer and Thomas H. Lee, The Design and Implementation of Low-Power CMOS Radio Receivers

@@ -1,0 +1,49 @@
+Vesi (H2O, joskus myös divetymonoksidi tai divetyoksidi) on huoneenlämmössä nesteenä esiintyvä vedyn ja hapen muodostama kemiallinen yhdiste. Kaikki maapallolla oleva vesi lienee peräisin vuosimiljoonien aikana planeettaan törmänneistä asteroideista, komeetoista ja tulivuorten purkauksista. Vettä on saatavilla lähes kaikkialla maapallolla, ja se on kaiken tunnetun elämän perusehto.
+Vesi on puhtaana hajutonta, mautonta ja läpinäkyvää. Veteen liuenneet yhdisteet kuitenkin voivat muuttaa näitä ominaisuuksia. Ihmisen hajuaisti ei ole kehittynyt haistamaan vettä, koska sille ei ole biologista tarvetta, mutta sen sijaan aistit kykenevät tunnistamaan juomaveden mahdolliset epäpuhtaudet jossain määrin. Vesi toimii Maapallolla universaalina liuottimena ja veteen on lähes poikkeuksetta aina liuenneena jotain yhdisteitä. Poikkeuksen muodostaa tislattu vesi.
+Kemiallisena yhdisteenä veden systemaattinen nimi on divetymonoksidi, jota paitsi siitä hydridinä voitaisiin käyttää myös nimeä oksidaani. Käytännössä näitä nimiä ei kuitenkaan juuri käytetä edes tieteellisissä yhteyksissä. Sanaa divetymonoksidi on kuitenkin käytetty huijaus- ja pelottelutarkoituksessa.
+
+
+== Fysikaaliset ja kemialliset ominaisuudet ==
+
+Kiinteässä olomuodossa vesi on jäätä ja kaasuna vesihöyryä. Vesi voi esiintyä kaikissa kolmessa olomuodossaan erityisessä kolmoispisteessä (273,16 K; 6 mbar), joka toimii myös celsius- ja kelvin-asteikkojen määritelmänä. Vesi on myös ainoa aine, joka esiintyy Maan luonnonoloissa kaikissa kolmessa olomuodossa. Vesimolekyyli on poolinen, koska molekyylin happiatomilla on suurempi elektronegatiivisuus, sen puoli molekyylistä saa negatiivisen osittaisvarauksen. Tämä johtaa molekyylien välisiin vetysidoksiin, jotka aiheuttavat vedelle sen suhteellisen korkeat sulamis- ja kiehumispisteet. Vedessä vetysidoksen vastaanottajana ja luovuttajana on happi. Vesimolekyyli pystyy muodostamaan happiatomista neljä tetraedrisesti suuntautuvaa vetysidosta. Huoneenlämpöinen ja normaalissa paineessa nestemäinen vesi on kuitenkin jatkuvassa liikkeessä ja muodostaa muiden vesimolekyylien kanssa keskimäärin vain 3,4 vetysidosta. Jäässä molekyylit ovat paikallaan ja muodostavat täydet neljä vetysidosta.
+Puhdas vesi ei johda sähköä mainittavasti, mutta veteen liuenneet aineet (erityisesti suolat) parantavat veden johtavuutta huomattavasti. Valo läpäisee veden hyvin, eikä vesikasvien yhteyttäminen ilman tätä ominaisuutta onnistuisikaan.
+Vedellä on suhteellisen suuri lämmönvarauskyky. Siksi sitä käytetään mm. lämpöä kuljettavana nesteenä erilaisissa lämmitys- ja lämmönvarausjärjestelmissä.
+ominaislämpökapasiteetti: neste 4 186 J/(K·kg), kiinteä (jää 0 °C) 2 060 J/(K·kg)
+sulamislämpö: 333 kJ/kg (0 °C)
+höyrystymislämpö: 2 260 kJ/kg (100 °C)
+tiheys: 4 °C 1 000 kg/m3 = 1,000 kg/l = 1,000 g/cm3, muissa lämpötiloissa veden tiheys on pienempi
+kolmoispiste: lämpötila: 273,16 K (0,01 °C), paine: 611,73 Pa (noin 0,006 bar).
+
+
+== Biologiset ominaisuudet ja merkitys elämälle ==
+
+Koheesion vuoksi vesi on rakenteellisempaa kuin useimmat muut nesteet. Koheesio eli samanlaisten molekyylien molekyylienvälinen yhdistävä vuorovaikutus johtuu vedessä vetysidoksista ja aikaansaa muun muassa veden pintajännityksen. Yksittäinen vetysidos kestää vain joitain sekunnin biljoonasosia, mutta uusia muodostuu alati. Koheesio yhdistettynä haihtumisimuun, adheesioon ja juuripaineeseen mahdollistaa veden nousun kasveissa juuritasolta korkeimpiinkin osiin. Ylimpien vesimolekyylien haihtuminen nostaa koko alempien vesimolekyylien koheesion vuoksi yhtenäistä ketjua vastaavan määrän ylöspäin. Adheesio eli erilaisten molekyylien molekyylienvälinen yhdistävä vuorovaikutus saa vesimolekyylit tarttumaan myös kasvin soluihin ja näin vastustamaan gravitaation alaspäin vetävää voimaa.
+Vesi varastoi hyvin lämpöä eli sen ominaislämpökapasiteetti on suhteellisen suuri 4,186 kJ/(K·kg) (neste). Vesi voi siis varastoida tai luovuttaa suuren määrän lämpöä suhteellisen pientä lämpötilan muutosta vastaan. Tämän vuoksi suuret vesimassat voivat tasata ilmaston lämpötilaa varastoimalla auringosta tulevaa lämpöä lämpiminä ajanjaksoina (päivä, kesä) luovuttaakseen sitä kylminä aikoina (yö, talvi). Tästä syystä rannikkoseutujen ilmasto on yleisesti leudompi kuin sisämaiden. Veden suuri ominaislämpökapasiteetti johtuu vetysidoksista, joiden rikkominen vaatii suhteellisen suuren määrän energiaa.
+Vedellä on korkea höyrystymislämpö. Trooppisten alueiden merenpinnat sitovat suuret määrät lämpöä höyrystyessään. Kun höyry kulkeutuu napoja kohti kylmemmille alueille, se jäähtyy ja kondensoituu takaisin nesteeksi luovuttaen lämpöä. Veden vuoksi Maan lämpötila pysyy melko tasaisena ja elämälle suotuisana.
+Korkeasta höyrystymislämmöstä johtuu myös haihtumisjäähtyminen eli haihtumisesta johtuva pinnan jäähtyminen. Ilmiö perustuu kineettisiltä energioiltaan suurienergiaisimpien molekyylien eli kuumimpien molekyylien poistumiseen kaasuna, jolloin pinnalle jäävien molekyylien keskimääräinen kineettinen energia eli lämpö laskee. Haihtumisjäähtymisellä on suuri merkitys organismien lämmönsäätelyssä. Esimerkiksi kasvit eivät ylikuumene auringonpaisteessa lehdistä haihtuvan veden vuoksi. Ihmisen iholta tapahtuva hien haihtuminen laskee ruumiinlämpötilaa kuumissa olosuhteissa ja rasituksen aikana.
+Vesi laajenee jäätyessään, mistä johtuu, että jää kelluu veden pinnalla. Jään pienempi tiheys johtuu vetysidosten muodostamasta kidejärjestelmästä. Sulaessaan jään tiheys kasvaa, kun kidejärjestelmä löystyy ja rikkoutuu, painuu kasaan. Yli 4 °C:n lämpötiloissa vesi käyttäytyy kuin muutkin nesteet, eli laajenee lämmetessään (tiheys pienenee). Jään vettä pienempi tiheys mahdollistaa eliöiden selviytymisen järvissä ja merissä talvella, sillä jää muodostaa pinnalle eristekerroksen. Näin vedet eivät yleensä jäädy pohjaan saakka paitsi pienimmissä lammissa kylminä talvina. Samoin veden poikkeuksellinen lämpölaajeneminen mahdollistaa elämälle välttämättömät vesistöjen syksyiset ja keväiset täyskierrot. Vesi on tiheimmillään 4 celsiusasteessa.
+Vesi on hyvä liuotin muodostaen vesiliuoksia (aq). Ioniset ja pooliset aineet liukenevat veteen parhaimmin. Veteen suuntautuvia aineita kutsutaan hydrofiilisiksi, vettä pakoilevia aineita hydrofobisiksi. Hydrofobisia yhdisteitä ovat esimerkiksi pitkiä hiiliketjuja sisältävät aineet kuten öljyt.
+
+
+== Vesi luonnonvarana ==
+
+Nimenomaan makea vesi eli suolaa sisältämätön vesi on elämän elinehto. Maapallon vesivaroista 97 prosenttia on suolaista merivettä. Jäljelle jäävää kolmea prosenttia edustavasta makeasta vedestä puolestaan suurin osa on vaikeasti käytettävissä jäätiköissä (77 %) tai maa- ja kallioperässä (22 %). Vain noin 1 % maailman makeasta vedestä on helposti hyödynnettävissä järvissä, joissa ja tekoaltaissa: se tarkoittaa minimaalista 0,036 prosentin osuutta maapallon kaikesta vedestä. Vain 0,001 % vedestämme leijuu vesihöyrynä pilvissä.
+Teollisuusmaiden kotitalouksissa vettä käytetään keskimäärin 250 litraa/henkilö/päivä, kun taas teollisuudessa vettä käytetään keskimäärin 1500 litraa/henkilö/päivä. Kuivilla ja kuumilla alueilla vettä käytetään maanviljelyyn päivässä useita tuhansia litroja per henkilö.
+Keskimäärin 74 % vesivaroista käytetään kasteluun – kehitysmaissa kastelun osuus saattaa olla kuitenkin jopa noin 90 % vedenkäytöstä. Vesivoiman tuotanto nielee maailmassa 18 % ja kotitalouskäyttö 8 % varannoista.
+Suomessa on erittäin paljon järviä, joten juomakelpoista vettä käytetään moniin muihinkin tarkoituksiin. Suomessa on myös poikkeuksellisen paljon luonnonvaraisia lähteitä, joita voidaan hyödyntää myös juomavetenä .
+Vesi on joillakin alueilla maapallolla rajallinen luonnonvara ja voi johtaa jopa sotiin kyseisillä alueilla. Eräs tunnettu vesikiista on Turkin ja Syyrian välillä.
+
+
+== Vesi ja ihminen ==
+
+
+=== Fysiologinen merkitys ===
+
+Ihminen on noin 62-prosenttisesti vettä, ja jo muutaman prosentin nestehukka heikentää työkykyä merkittävästi. Kahdenkymmenen prosentin vajaus johtaa kuolemaan. Koska vettä poistuu ihmisessä monella tavalla, ihminen tarvitsee elääkseen jatkuvasti merkittäviä määriä vettä.
+
+Ihminen kuolee ensimmäisenä hapenpuutteeseen (minuuteissa), sitten vedenpuutteeseen (vuorokausia) ja ravinnonpuutteeseen vasta viikkojen tai kuukausien jälkeen.
+Veden haihtuminen vaatii paljon energiaa, ja käytännössä viilentää ihmisen ruumista. Tämän voi todeta itsekin helposti: nuolaisemalla kämmenselkää ja puhaltamalla siihen. Tämä on yksi hikoilun ja turkittomuuden etu.
+
+
+=== Kulttuurimerkitys ===
+Maanviljelyssä vesi tuli erityisen tärkeään asemaan, sitä tarvittiin juomiseen ja ruoanlaittoon verrattuna valtavia määriä. Makeaa vettä on saatavilla suuria määriä suurien jokien alueilla (Niili, Eufrat, Huanghe eli Keltainenjoki). Ne synnytti

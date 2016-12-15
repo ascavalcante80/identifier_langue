@@ -1,0 +1,20 @@
+Wiki adalah sebuah situs web (atau koleksi dokumen hiperteks lainnya) yang memperbolehkan penggunanya menambah atau mengubah isi situs tersebut. Istilah ini juga dapat merujuk kepada software kolaboratif yang digunakan untuk menciptakan situs web semacam itu.
+
+
+== Etimologi ==
+Ward Cunningham, pengembang perangkat lunak wiki yang pertama, WikiWikiWeb, mulanya mendeskripsikan wiki sebagai "basis data terhubung paling sederhana yang memiliki peluang untuk bekerja."
+
+Wiki (dengan huruf besar 'W') dan WikiWikiWeb kadang digunakan untuk merujuk kepada Portland Pattern Repository, wiki yang paling pertama diciptakan. Pendukung penggunaan ini mengusulkan penggunaan huruf kecil 'w' untuk membedakan istilah generik yang sedang dibicarakan di sini. Wiki wiki berasal dari istilah bahasa Hawaii untuk "cepat" atau "super-cepat"
+Kadang istilah wikiwiki atau WikiWiki digunakan daripada wiki. Istilah-istilah ini dapat digunakan secara berganti-ganti meskipun perbedaan pandangan mengenai kapitalisasi juga dapat diterapkan dalam cara yang mirip.
+Wikipedia merupakan aplikasi yang berbasiskan wiki dan merupakan situs wiki paling populer saat ini.
+
+
+== Ciri-ciri ==
+Menurut Ward Cunningham, sebuah situs web merupakan wiki jika memiliki ciri-ciri berikut:
+Wiki memungkinkan pengguna untuk mengubah sebuah halaman maupun membuat halaman baru dalam situs web, dengan menggunakan peramban web.
+Wiki dapat menunjukkan keterkaitan antara sebuah halaman dengan halaman lainnya, menggunakan pranala dalam halaman.
+Wiki mengundang pengunjung untuk ikut terlibat dalam membuat dan berkolaborasi yang membangun situs web tersebut.
+
+
+== Keamanan ==
+Karena wiki dapat diubah oleh semua oran

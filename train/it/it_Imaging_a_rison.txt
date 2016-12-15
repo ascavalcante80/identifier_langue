@@ -1,0 +1,173 @@
+L'imaging a risonanza magnetica (Magnetic Resonance Imaging, MRI), detto anche tomografia a risonanza magnetica (Magnetic Resonance Tomography, MRT) o risonanza magnetica tomografica (RMT), oppure semplicemente RM, è una tecnica di generazione di immagini usata prevalentemente a scopi diagnostici in campo medico, basata sul principio fisico della risonanza magnetica nucleare.
+
+L'aggettivo "nucleare" si riferisce al fatto che il segnale di densità in RM è dato dal nucleo atomico dell'elemento esaminato, mentre, nelle più diffuse tecniche di imaging radiologico, la densità radiografica è determinata dalle caratteristiche degli orbitali elettronici degli atomi colpiti dai raggi X. Questa ulteriore specificazione non introduce ambiguità ed evita inoltre equivoci con il decadimento nucleare, fenomeno col quale la RM non ha alcunché in comune.
+L'RM è generalmente considerata non dannosa nei confronti del paziente, e quest'ultimo non è sottoposto a radiazioni ionizzanti come nel caso delle tecniche facenti uso di raggi X o di isotopi radioattivi.
+Le informazioni date dalle immagini di risonanza magnetica sono essenzialmente di natura diversa rispetto a quelle degli altri metodi di imaging, infatti è possibile la discriminazione tra tessuti sulla base della loro composizione biochimica, inoltre si hanno immagini delle sezioni corporee su tre piani diversi (assiale, coronale, sagittale), il che però non le conferisce la tridimensionalità.
+Vi sono diverse applicazioni dell'imaging a risonanza magnetica, ad esempio l'imaging a risonanza magnetica in diffusione e la risonanza magnetica funzionale.
+Gli svantaggi dell'utilizzo di questa tecnica sono principalmente i costi e i tempi necessari all'acquisizione delle immagini.
+
+
+== Principi fisici ==
+Il principio di funzionamento si basa sul sottoporre il paziente ad un forte campo magnetico statico. L'intensità del campo magnetico può variare dai decimi di tesla, per piccole macchine dedicate allo studio delle articolazioni, a 3 tesla per le macchine attualmente in commercio per scopi diagnostici. Alcune macchine per la risonanza magnetica funzionale attualmente in commercio raggiungono campi di 7 T, mentre nell'ambito sperimentale sono in sviluppo dispositivi da 8 e 9 T.
+Nel campo magnetico statico, gli spin dei protoni all'interno dei tessuti tendono ad allinearsi alle linee di forza (in modo parallelo o antiparallelo); poiché gli spin allineati in senso parallelo sono in numero superiore, i tessuti vengono a possedere una leggera magnetizzazione totale. Questo allineamento non è mai totale, ma piuttosto gli spin dei vari protoni incominciano a mostrare una precessione attorno alla direzione del campo magnetico.
+Questa precessione mostra una frequenza tipica detta frequenza di Larmor che si trova nell'ordine dei MHz e quindi nel campo della radiofrequenza (per un campo di 1 T, la frequenza è di 42 MHz per l'atomo di idrogeno); se allora sul paziente viene applicato un campo magnetico rotante a questa esatta frequenza e di energia sufficiente, è possibile ruotare la magnetizzazione dei protoni di un angolo arbitrario (detto flip angle) che dipende dal tipo di immagini che si desidera ottenere.
+Il fornire questa energia alla stessa frequenza di precessione è il fenomeno che dà il nome "risonanza" al metodo; si tratta dello stesso principio per cui fornendo la spinta al momento giusto, si può aumentare l'ampiezza delle oscillazioni di un'altalena, seppur nel nostro caso applicato a livello atomico.
+Dopo l'impulso, a mano a mano gli spin dei protoni tenderanno a tornare al loro stato iniziale di allineamento lungo il campo (fenomeno di rilassamento); tramite una bobina ricevente viene misurato l'andamento della magnetizzazione nel piano perpendicolare al campo magnetico principale (Free Induction Decay, o FID). Tale rilassamento avviene con due costanti di tempo distinte: la prima, indicata con t1, indica la rapidità con cui si ricostruisce la magnetizzazione diretta lungo la direzione del campo principale, e dipende dall'interazione tra protoni e le molecole circostanti (rilassamento spin-reticolo), la seconda, indicata con t2, indica la rapidità con cui si distrugge la componente di magnetizzazione trasversale in condizioni ideali, e dipende dall'interazione mutua di protoni vicini (rilassamento spin-spin). In situazioni reali, la componente trasversa viene distrutta a causa della perdita di coerenza di fase tra i vari protoni del campione osservato, con un tempo chiamato t2* < t2. Essendo espressione di proprietà fisiche diverse, queste costanti sono funzioni dell'intensità del campo magnetico e, in generale, indipendenti l'una dall'altra.
+In teoria, sarebbe possibile effettuare misurazioni rilevando il segnale emesso da una grande varietà di nuclei atomici, come ad esempio il sodio, il fosforo, il carbonio e l'idrogeno, impostando la frequenza di risonanza delle bobine a radiofrequenza al valore appropriato. Tuttavia in campo diagnostico viene attualmente usato quasi esclusivamente l'idrogeno come fonte di segnale.
+
+
+== MRI dal punto di vista medico ==
+A prima vista, un'immagine di risonanza è simile a un'immagine ottenuta tramite tomografia computerizzata (TC). Esternamente le attrezzature per una TC e per una risonanza spesso sono simili: la principale differenza è la lunghezza del tubo in cui viene inserito il paziente, più piccola nel caso della TC, generalmente maggiore nel caso della MRI. In entrambe il paziente, su un lettino motorizzato, viene inserito in un anello. Nonostante questa sia la forma più comune per una macchina di risonanza magnetica umana, altre geometrie sono possibili (a ferro di cavallo o quadrata, ad esempio).
+Il paziente non deve assolutamente indossare oggetti di materiale metallico potenzialmente ferromagnetico, quali orologi, bracciali, catenine; particolare attenzione deve essere posta per accertarsi che il paziente non abbia subito in passato incidenti in seguito ai quali schegge metalliche possano essere rimaste alloggiate nei tessuti, od operazioni chirurgiche che abbiano previsto l'impianto di materiali simili. Oggetti di materiale ferromagnetico immersi in un campo magnetico intenso subiscono forze rilevanti che possono provocarne lo spostamento con conseguente danno ai tessuti, ad esempio nel caso delle schegge che si trovassero vicino a vasi sanguigni; anche in assenza di tale rischio la presenza di materiale ferromagnetico, alterando il campo elettromagnetico cui sono sottoposti i tessuti, può causare un anomalo riscaldamento dei tessuti circostanti, con conseguente possibile danno.
+La presenza di protesi, clip vascolari, stent, stimolatori cardiaci o altri apparati medico-chirurgici può, in molti casi, impedire l'esecuzione o la corretta lettura dell'esame. Dagli anni 1990 vengono utilizzati sempre più spesso materiali RM-compatibili, ma con l'aumentare della potenza degli apparecchi tale problema si rifà ogni volta vivo: occorre per tal motivo conoscere, per ogni materiale utilizzato, fino a che intensità del campo magnetico è da considerarsi RM-free.
+Le immagini di risonanza magnetica hanno normalmente dimensioni da 256×256 pixel (immagini cardiache) a 1024×1024 pixel (immagini cerebrali ad alta risoluzione) per una profondità di 16 bit/pixel. Questo comporta una risoluzione spaziale intrinseca piuttosto bassa (particolari di 1 mm sono praticamente al limite della visibilità), ma l'importanza di questo esame sta nel fatto di poter discriminare, per esempio, tra un tessuto del fegato ed uno della milza (che rispetto ai raggi X presentano la stessa trasparenza), oppure i tessuti sani dalle lesioni. I tempi di scansione sono molto più lunghi rispetto alle altre tecniche radiologiche (un esame completo di risonanza magnetica dura da 30 a 60 minuti), e la risoluzione temporale è generalmente piuttosto bassa (qualche immagine al secondo per le risoluzioni spaziali inferiori).
+Una caratteristica fondamentale della risonanza è la possibilità di variare il tipo di contrasto dell'immagine semplicemente modificando la sequenza di eccitazione che la macchina esegue. Ad esempio è possibile evidenziare oppure sopprimere il segnale dovuto al sangue, oppure ottenere informazioni di carattere funzionale invece che semplicemente morfologico.
+La risonanza magnetica è una tecnica di imaging multiplanare, in quanto si possono acquisire immagini su piani assiali, coronali o sagittali (inizialmente esisteva una differenza con la TC che consentiva l'acquisizione di immagini solo su piani assiali; oggi invece grazie al movimento del gantry, cioè del corpo macchina, si possono acquisire direttamente immagini in coronale) e multiparametrica, in quanto i parametri di riferimento utilizzabili sono sia la densità protonica che i tempi di rilassamento t1 e t2.
+
+
+=== Rischi per la salute ===
+L'indagine di risonanza magnetica, in quanto non comporta l'assorbimento di radiazioni ionizzanti da parte del paziente, è indicata rispetto alla TC quando non c'è necessità di avere un'altissima risoluzione spaziale. Inoltre risulta più utile in caso di lesioni localizzate in tessuti vicini a strutture ossee, che potrebbero non essere rilevabili attraverso i raggi X. Viene preferita alla TC anche in particolari categorie di pazienti (donne in gravidanza, bambini) nei quali si preferisce evitare l'esposizione a raggi X per ragioni radioprotezionistiche.
+Per quando riguarda le misure di sicurezza per gli operatori, per i pazienti e per il personale di servizio sono fondamentali le procedure di controllo su tutti i materiali ferromagnetici.
+Per gli operatori, non sono ancora stati dimostrati danni per la salute derivanti dalla permanenza in campi statici, sebbene tutte le normative attuali ne contemplino il rischio (vedasi il Decreto Europeo 35 - giugno 2013), indicando nel Datore di Lavoro il diretto responsabile.
+Esistono strumenti portatili (chiamati impropriamente "dosimetri") per il campionamento a lungo termine del campo magnetico.
+
+
+=== Applicazioni ===
+Quest'analisi strumentale serve per analizzare, verificare la presenza di alcune patologie:
+alzheimer: grazie al tensore di diffusione dell'acqua nella sostanza bianca si sta studiando la precoce diminuzione del fascio I FO in questa patologia;
+sclerosi multipla;
+processi espansivi come i tumori;
+ictus (nel processo finale durante l'edema cerebrale risultante; lo stravaso di sangue dell'ictus emorragico si vede meglio nella TC);
+per lo studio di sostanze chimiche;
+analisi per lo studio di tumori cerebrali.
+
+
+==== Risonanza magnetica cerebrale ====
+
+Lo studio del cervello viene fatto preferibilmente con questa tecnica, come nei casi di sclerosi multipla e di ictus.
+Inoltre, un utilizzo è lo studio funzionale del cervello, le cui aree attive possono venire evidenziate in base al segnale blood oxygenation level dependent (BOLD), dipendente dal grado di ossigenazione del sangue. Ma la RM rappresenta solo l'ultima fase dell'attività cerebrale, essendo una tecnica che rileva il movimento dei protoni: l'attività nervosa può essere infatti così scomposta:
+attività nervosa: studiata mediante l'elettroencefalogramma;
+spostamento delle correnti ioniche;
+attivazione della pompa sodio potassio con consumo di ATP;
+consumo di glucosio per produzione di energia: fase studiabile con la PET;
+formazione dei flussi cerebrali: studio mediante fRM.
+
+
+== Tecnologia ==
+Uno scanner commerciale è principalmente formato da elementi che creano campi magnetici statici oppure variabili nel tempo e nello spazio, coordinati da una complessa elettronica di controllo. Tali elementi sono:
+il magnete principale, la cui funzione è creare un campo magnetico statico e omogeneo di elevata intensità per permettere la polarizzazione dei nuclei;
+le bobine a radiofrequenza, che generano il campo magnetico rotante alla frequenza di Larmor;
+le bobine di gradiente, che generano campi magnetici che variano linearmente nello spazio, indispensabili alla generazione di immagini;
+varie bobine ausiliarie, che servono a compensare le eventuali disomogeneità o per modificare in altro modo le geometrie dei campi principali.
+
+
+=== Magnete principale ===
+Il magnete principale è il componente più grande e costoso dello scanner, e tutto il resto dello scanner può essere considerato ausiliario ad esso. La sua funzione è quella di creare un campo magnetico costante nello spazio e nel tempo. La specifica più importante di un magnete per l'imaging a risonanza magnetica è l'intensità del campo prodotto. Campi magnetici di maggiore intensità aumentano il rapporto segnale rumore (SNR) dell'immagine, permettendo risoluzioni più alte o scansioni più rapide. Tuttavia, intensità più alte richiedono magneti più costosi e con costi di manutenzione più elevati, oltre ad avere bisogno di misure di sicurezza più accurate. Al momento (2007), campi magnetici a 1,5 T sono considerati un buon compromesso tra costo e prestazioni per l'uso clinico generale. Sta comunque iniziando l'introduzione di campi magnetici a 3 T soprattutto per applicazioni di risonanza magnetica funzionale cerebrale o per l'imaging cardiaco. Alcuni studi sono in corso per ciò che riguarda l'imaging sull'uomo con campi magnetici a 7 T ed è attualmente in costruzione uno scanner whole-body (cioè in grado di effettuare l'imaging di ogni distretto corporeo) a 11,7 T (progetto Neurospin francese). Per esperimenti su cavie e piccoli animali, campi magnetici fino a 17 T sono attualmente usati.
+Un parametro altrettanto importante per valutare la qualità di un magnete è la sua omogeneità: le fluttuazioni nell'intensità del campo all'interno della regione osservata dovrebbero essere inferiori allo 0,001%.
+Tre tipi di magnete sono usati:
+magnete permanente: magneti convenzionali fatti di materiali ferromagnetici (ad esempio acciaio) possono essere usati per ottenere il campo principale. Magneti di questo tipo sono estremamente ingombranti (con un peso che può superare le 100 tonnellate), ma una volta installati necessitano di pochi costi di manutenzione. I magneti permanenti possono raggiungere solo intensità di campo limitate (normalmente inferiori a 0,4 T) ed hanno stabilità nel tempo ed omogeneità non eccellenti. Pongono inoltre problemi di sicurezza, in quanto il campo magnetico non può essere mai disattivato.
+elettromagnete resistivo: si tratta di un solenoide di cavo di rame. I vantaggi di questo tipo di magnete sono il basso costo, ma l'intensità di campo è limitata e la stabilità scarsa. L'elettromagnete richiede una corrente elettrica notevole per mantenere attivo il campo, il che lo rende costoso da utilizzare. Questa soluzione è in generale obsoleta.
+elettromagnete a superconduttore: quando una lega di niobio-titanio è raffreddata da elio liquido a 4 K, essa diventa superconduttiva, cioè riduce la propria resistenza elettrica a zero. Costruendo un elettromagnete con cavo superconduttivo, è possibile ottenere intensità di campo molto alte con ottime caratteristiche di stabilità. La costruzione di un tale magnete è estremamente costosa, e l'elio per il raffreddamento è costoso e molto difficile da maneggiare. Tuttavia, nonostante il costo, magneti a superconduttore raffreddati ad elio sono i più comunemente usati negli scanner moderni. Nonostante l'isolamento termico, il calore presente nell'ambiente attorno allo scanner causa una lenta ebollizione ed evaporazione dell'elio liquido. Di conseguenza è necessario rabboccare regolarmente l'elio. Per questo motivo, un criostato può essere usato per ricondensare l'elio che evapora. Sono anche attualmente disponibili scanner privi di raffreddamento ad elio, in cui il cavo del magnete è direttamente raffreddato dal criostato.
+I magneti principali sono disponibili in diverse forme. I magneti permanenti sono più frequentemente fatti a forma di ferro di cavallo, mentre quelli a superconduttore sono in genere toroidali. Tuttavia sono a volte usati anche magneti permanenti quadrati e magneti a superconduttore a ferro di cavallo.
+
+
+=== Bobine di gradiente ===
+Componente fondamentale di uno scanner per l'imaging sono le "bobine di gradiente", avvolgimenti in cui la corrente che vi scorre è modulata a seconda delle direttive della sequenza di eccitazione, e che hanno lo scopo di modificare l'intensità del campo magnetico lungo i tre assi spaziali. La loro caratteristica principale è la generazione di campi magnetici che variano linearmente di intensità lungo una direzione, e sono uniformi rispetto alle altre due.
+Ad esempio, attivando solo la bobina di gradiente lungo l'asse Z (convenzionalmente la direzione in cui è orientato il campo magnetico principale), si avrà all'interno del magnete un campo uniforme in ogni piano XY, mentre nella direzione Z varierà secondo la formula , dove  è l'intensità iniziale del campo magnetico, e  è l'intensità del gradiente, misurata in T/m. Valori tipici per i sistemi di gradienti degli scanner attualmente in commercio vanno da 20 mT/m fino a 100 mT/m. In pratica considerando uno scanner che abbia una zona utile per l'imaging (field of view) lunga 50 cm, ed una intensità di campo di 1,5 T, quando una bobina di gradiente da 20mT/m è attiva alla massima intensità, si avranno 1,495 T ad una estremità e 1,505 T all'altra.
+L'effetto delle bobine di gradiente è quello di modificare la frequenza di risonanza dei nuclei in maniera dipendente dalla posizione spaziale. Questo concetto è alla base della generazione di immagini.
+
+
+==== Geometria delle bobine di gradiente ====
+
+La maggior parte degli scanner attualmente in commercio hanno un magnete a superconduttore di forma toroidale. Per questo motivo le bobine di gradiente hanno geometrie diverse a seconda della direzione spaziale in cui sono attive (vedi figura), così da poter essere integrate nella struttura dello scanner. A causa della diversa forma geometrica, le prestazioni delle bobine non sono uguali. In generale la bobina diretta lungo l'asse Z produce un campo magnetico più omogeneo e lineare, in quanto è solenoidale e le equazioni che regolano il campo in queste condizioni sono di soluzione relativamente semplice.
+Tuttavia, a causa delle proprietà fisiche del campo magnetico, è impossibile ottenere un campo perfettamente lineare ed orientato in una unica direzione. In particolare, la terza equazione di Maxwell:
+
+nega la possibilità di creare un campo variabile linearmente nello spazio senza che si formino campi varianti in modo diverso orientati nelle altre direzioni spaziali (detti campi concomitanti o campi di Maxwell). Per questo motivo, le bobine di gradiente, per quanto ben progettate, non possono mantenere una qualità uniforme in tutto lo spazio disponibile per l'imaging, e nella pratica sono necessari alcuni interventi di correzione dell'immagine finale che tengano conto della non idealità del campo. In particolare, i campi concomitanti aumentano di intensità in maniera proporzionale al quadrato della distanza dal centro del magnete, e sono soprattutto visibili nelle immagini di fase.
+
+
+==== Rumore acustico ====
+L'accensione, lo spegnimento e la commutazione delle bobine di gradiente provoca un cambiamento nella forza di Lorentz sperimentata dalle bobine di gradiente, attraverso espansioni e contrazioni minute delle stesse. La commutazione è tipicamente nella gamma delle frequenze udibili, pertanto la vibrazione risultante produce una sensazione acustica costituita da un ticchettiio o da una serie di bip. Questa è più marcata con macchinari ad alto campo e con le tecniche di imaging rapido in cui il livello di pressione sonora può raggiungere i 120 dB (equivalenti a un motore a reazione al decollo) per un magnete da 3 T, e quindi una protezione acustica (cuffia o tappi auricolari) adeguata è essenziale per il paziente durante l'esame MRI.
+
+
+=== Bobine ausiliarie ===
+Attorno al magnete principale si trovano anche altre bobine oltre alle bobine di gradiente, che hanno la funzione di migliorare le caratteristiche del sistema stesso.
+
+
+==== Bobine di shimming ====
+Queste bobine hanno lo scopo di creare campi magnetici tali da annullare le imperfezioni e non linearità del campo magnetico principale, in modo da renderlo più omogeneo e quindi mantenere il più costante possibile la frequenza di Larmor nella zona di cui si vuole fare l'imaging.
+Al posto di bobine controllate elettronicamente, o più spesso in aggiunta ad esse, si utilizza anche uno "shimming passivo", costituito da elementi in materiale ferromagnetico posti nei dintorni del campo magnetico principale, che ne distorcono le linee di flusso.
+
+
+==== Bobine di schermatura (shielding) ====
+Queste bobine possono essere comandate autonomamente (schermatura attiva) oppure essere semplici avvolgimenti accoppiati induttivamente con le bobine di gradiente.
+Lo scopo di questi avvolgimenti consiste nel generare un campo magnetico che si annulli col campo primario o col campo prodotto dalle bobine di gradiente nei punti in cui non è desiderato un effetto magnetico, ad esempio all'esterno del magnete.
+Nonostante non siano noti effetti nocivi di un campo magnetico statico sui tessuti organici, almeno alle intensità usate per l'imaging diagnostico, è buona norma cercare di ridurre i campi indesiderati, sia per motivi precauzionali che per la salvaguarda delle apparecchiature elettriche ed elettroniche nei dintorni dello scanner ed all'interno dello scanner stesso. I campi magnetici variabili creano nei materiali conduttori delle correnti indotte (dette eddy currents, letteralmente "correnti a vortice" perché scorrono lungo linee circolari) che possono creare interferenza nelle apparecchiature ed effetti biologici negli esseri viventi, in quanto interferiscono con il debole campo elettrico dei neuroni, creando stimolazioni periferiche dei motoneuroni o, nei casi più gravi, disturbi temporanei alla vista fino alla stimolazione delle fibre cardiache, con rischio di fibrillazione ventricolare.
+
+
+== Procedura di imaging ==
+Una successione di impulsi a radiofrequenza e di applicazione di gradienti costituisce le cosiddette "sequenze di impulsi" o "sequenze di eccitazione". Gli impulsi a radiofrequenza hanno la funzione di perturbare l'equilibrio degli spin e di generare il segnale, mentre gli impulsi di gradiente influenzano la frequenza e la fase del segnale ricevuto, e sono necessari all'ottenimento dell'immagine.
+
+
+=== Imaging ===
+
+La generazione di immagini avviene attraverso la ripetuta acquisizione di segnali provenienti dal corpo, e attraverso l'opportuna modulazione delle bobine di gradiente. Facendo in modo che ogni voxel dell'immagine abbia una frequenza e/o una fase diversa rispetto a tutti gli altri, si riescono a separare i segnali provenienti da una singola porzione.
+L'imaging avviene attraverso tre processi separati:
+la selezione di una "fetta" (slice);
+la codifica in frequenza;
+la codifica di fase.
+
+
+==== Selezione della "fetta" (slice) ====
+L'applicazione di un gradiente lungo una direzione, fa sì che la frequenza di Larmor degli atomi vari linearmente lungo quella direzione. Come conseguenza, il corpo all'interno del magnete viene suddiviso in piani isofrequenziali paralleli. Un impulso radio ad una specifica frequenza (monocromatico) applicato mentre il gradiente è attivo, ecciterà un solo piano, lasciando in condizione di equilibrio tutti gli altri.
+
+
+==== Codifica in frequenza ====
+Applicando un gradiente dopo l'impulso a radiofrequenza e durante l'acquisizione del segnale emesso, si varia linearmente lungo lo spazio la frequenza di emissione da parte dei protoni. Il segnale acquisito è la somma di segnali a frequenze diverse, le quali possono essere ottenute tramite la trasformata di Fourier. Facendo corrispondere ad ogni frequenza una posizione spaziale, si ottiene una localizzazione in una dimensione. Per localizzare gli spin anche nella seconda direzione spaziale, è necessario utilizzare la codifica di fase.
+
+
+==== Codifica di fase ====
+Il gradiente nella seconda direzione spaziale viene applicato dopo l'impulso a radiofrequenza ma prima dell'acquisizione. Gli spin lungo quella direzione al momento dell'acquisizione avranno acquistato una fase pari a  dove  è la frequenza di Larmor,  è la coordinata lungo l'asse della codifica e  è il tempo di applicazione del gradiente. Una sola codifica di fase non è sufficiente per ottenere informazioni spaziali, per questo è necessario che la sequenza venga ripetuta un certo numero di volte per ottenere un campionamento significativo lungo la direzione della fase.
+
+
+=== Sequenze di base ===
+Diversi tipi di sequenze portano ad immagini che evidenziano caratteristiche diverse dei tessuti; in particolare due sequenze classiche servono ad individuare rispettivamente il t1 ed il t2. Entrambe si basano sull'applicazione di due impulsi a radiofrequenza in grado di far ruotare il vettore magnetizzazione nello spazio di 90° e 180°, ma i due impulsi vengono emessi in ordine inverso nelle due sequenze. Esse prendono il nome di Inversion Recovery e di Spin-Echo. L'applicazione di un solo impulso capace di ruotare la magnetizzazione di 90° produce una sequenza di nome Saturation Recovery.
+
+
+==== Saturation Recovery ====
+
+In questa sequenza viene applicato un solo impulso in grado di ruotare il vettore magnetizzazione di 90° (impulso a 90°), portando tutta la magnetizzazione presente sull'asse parallelo al campo principale, sul piano trasverso. La precessione di questo vettore produce un segnale oscillante monocromatico alla frequenza di Larmor, che si attenua secondo una legge esponenziale con costante di tempo t2*, chiamato segnale di decadimento libero dell'induzione (Free Induction Decay, o semplicemente FID):
+
+dove M0 è la magnetizzazione presente sull'asse longitudinale al momento dell'impulso a 90°, νL è la frequenza di Larmor e t il tempo trascorso. Se il sistema era in condizioni di equilibrio al momento dell'impulso, allora M0 dipende solo dalla densità degli spin (densità protonica), se la sequenza viene ripetuta in maniera rapida (TR nell'ordine di t1), il sistema non ha il tempo di tornare allo stato di equilibrio, e quindi la magnetizzazione iniziale sarà quella che si è riuscita a ripristinare nel tempo TR, e quindi dipendente da t1. Per questo motivo, sequenze con TR molto piccoli sono in generale definite t1-pesate.
+
+
+==== Inversion Recovery ====
+
+In questa sequenza vengono applicati due impulsi a radiofrequenza per ogni ripetizione (più gli impulsi di gradiente per ottenere l'immagine come visto poco sopra), il primo a 180°, ed il secondo, dopo un tempo tI, a 90°.
+Il primo impulso non produce nessun segnale, in quanto la magnetizzazione cambia di verso ma si mantiene parallela al campo magnetico principale; tuttavia, essa tenderà a riacquistare il verso originario secondo una legge esponenziale data dalla seguente formula:
+
+All'istante tI, la magnetizzazione lungo la direzione parallela all'asse principale viene ruotata fino a portarsi nel piano trasverso, in cui inizierà il moto di precessione. Questo moto, genera un segnale di intensità proporzionale al modulo del vettore magnetizzazione, e quindi proporzionale a . Come si osserva, dal momento che tI è un parametro scelto dall'operatore, l'intensità del segnale dipende dal parametro fisico tI e dal vettore magnetizzazione iniziale M0, proporzionale alla densità protonica. Se si vuole ottenere una misura esatta di questi parametri, sono necessarie più scansioni con diversi TI seguiti da un'operazione di regressione nonlineare.
+Lo scopo principale delle sequenze Inversion Recovery è la soppressione del segnale del tessuto adiposo (fat suppression) oppure del sangue (black blood), in quanto scegliendo un tI pari a , il segnale proveniente dal tessuto corrispondente al t1 scelto viene annullato. Per ottenere una valida soppressione del grasso il valore tipico nelle apparecchiature da 1,5 T (attualmente le più diffuse) è di circa 150-170 ms.
+
+
+==== Spin-Echo ====
+
+Anche in questo caso vengono usati due impulsi RF a 90° e 180°, ma stavolta vengono applicati in ordine inverso rispetto alla sequenza di inversion recovery. Il primo segnale a 90° ruota tutta la magnetizzazione nel piano trasverso rispetto al campo magnetico applicato, e produce un segnale FID che tende a zero con la costante di tempo t2*. Applicando dopo un certo intervallo di tempo TE/2 un impulso a 180°, il verso in cui gli spin precedono cambia. Siccome ogni spin si trova immerso nello stesso campo magnetico precedente, esso "tornerà indietro" con la stessa velocità di prima, causando un "riavvolgimento" delle fasi ed una riacquisizione della coerenza da parte del segnale. Al tempo TE gli spin saranno tutti di nuovo in fase, e si produrrà un'eco, la cui ampiezza massima sarà inferiore all'ampiezza del FID registrato precedentemente, in quanto nel frattempo gli spin avranno ricevuto un certo decadimento t2. In pratica, il modulo del vettore magnetizzazione trasversa al tempo TE sarà pari a:
+
+producendo quindi un'eco di ampiezza proporzionale a tale valore. In maniera simile al caso precedente, i parametri fisici da cui dipende l'ampiezza di questo segnale sono il tempo di rilassamento t2 e la densità protonica.
+
+
+== Modalità di imaging (contrasti) ==
+A differenza di altre tecniche di imaging, che permettono la raccolta di informazioni su una sola grandezza fisica (attenuazione ai raggi X nelle tecniche radiografiche, concentrazione di tracciante nelle tecniche di medicina nucleare ecc.), l'imaging a risonanza magnetica produce immagini che rispecchiano differenti proprietà fisiche, a seconda del tipo di sequenza utilizzata. Immagini di differenti grandezze fisiche vengono dette avere differente contrasto.
+
+
+==== Contrasti "classici" ====
+Le modalità di imaging più comuni e storicamente precedenti rispetto alle altre sono quattro:
+densità protonica;
+pesata t1;
+pesata t2;
+Per avere una analisi morfologica completa della regione oggetto di indagine, almeno due di questi contrasti (ad esempio t1 e t2) vengono acquisiti. Agenti di contrasto paramagnetici come il gadolinio hanno la proprietà di ridurre notevolmente il t2 dei tessuti con cui vengono a contatto, di conseguenza immagini con questo contrasto possono efficacemente mettere in risalto le zone raggiunte dall'agente. Questo è utile, ad esempio, per l'ottenimento di angiogrammi, e per la visualizzazione di emorragie.
+Il contrasto t2 identifica particolarmente bene siero, acqua e liquido cefalorachidiano, e viene utilizzato per valutare se ci sono edemi associati a particolari lesioni.
+
+
+==== Diffusione ====
+Questo tipo di imaging misura la diffusione delle molecole d'acqua nel tessuti biologici. In un mezzo isotropico (ad esempio in un bicchiere d'acqua), le molecole di liquido si muovono di moto browniano casuale. Invece nei tessuti biologici la diffusione può essere anisotropica. Ad esempio una molecola d'acqua all'interno di un assone di un neurone ha una probabilità molto bassa di attraversare la membrana mielinica. Di conseguenza la molecola si muoverà principalmente lungo l'asse della fibra neurale. Ribaltando il concetto, se misuriamo che le molecole d'acqua in una certa regione si stanno muovendo (diffondendo) lungo una particolare direzione, possiamo assumere che la mag

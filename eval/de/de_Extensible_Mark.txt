@@ -1,0 +1,74 @@
+ Markup Language)
+OSIS (Open Scripture Information Standard)
+
+
+==== Grafik ====
+SVG (Vektorgrafiken)
+X3D (3D-Modellierungssprache)
+Collada (Austauschformat für Daten zwischen verschiedenen 3D-Programmen)
+
+
+==== Geodaten ====
+Geography Markup Language (GML)
+GPS Exchange Format (GPX): XML für GPS-Daten
+Keyhole Markup Language (KML): Koordinaten-Spezifikation für Google Earth
+City Geography Markup Language (CityGML)
+OpenStreetMap (OSM)
+
+
+==== Multimedia ====
+MusicXML (Notendaten, aufgeschriebene Musik)
+SMIL (zeitsynchronisierte, multimediale Inhalte)
+MPEG-7 (MPEG-7 Metadaten)
+Laszlo (LZX)
+
+
+==== Sicherheit ====
+Security Assertion Markup Language (sicherheitsbezogene Informationen beschreiben und übertragen)
+XML Signature (XML-Schreibweise für digitale Signaturen)
+XML Encryption
+
+
+==== Ingenieurwissenschaften ====
+AutomationML, ein Format zur Speicherung von Anlagenplanungsdaten
+CAEX, ein Format zur Speicherung hierarchischer Objektinformationen
+GSDML, ein Format zur Beschreibung von Automatisierungsgeräten, die mit Profinet kommunizieren können
+IODD, ein Format zur Beschreibung von Sensoren und Aktoren
+PLMXML, ein Format zur Beschreibung von Produktdaten als Teil der Siemens PLM Software
+
+
+==== Weitere ====
+Darüber hinaus existieren XML-Sprachen für Webservices (z. B. SOAP, WSDL und WS-*), für die Einbindung von Java-Code in XML-Dokumente (XSP), für die Synchronisation von Kalenderdaten SyncML, mathematische Formeln (MathML), Repräsentation von Graphen (GraphML), Verfahren im Bereich des Semantischen Webs (RDF, OWL, Topic Maps, UOML), Service Provisioning (SPML), den Austausch von Nachrichten (XMPP) oder Finanzberichten wie bspw. Jahresabschlüssen (XBRL), in Bereichen der Automobilindustrie (ODX, MSRSW, AUTOSAR-Templates, QDX, JADM, OTX), automatisierter Test z. B. von Schaltkreisen (ATML) über Systembiologie (SBML) sowie Landwirtschaft (AgroXML) bis zum Verlagswesen (ONIX) oder Chemie (CIDX) und viele weitere mehr.
+Eine Zusammenfassung von XML-Sprachen für Office-Anwendungen findet sich im OpenDocument-Austauschformat (OASIS Open Document Format for Office Applications).
+
+
+== Alternative Formate ==
+S-Expressions (Lisp-Syntax für Listen)
+JSON (JavaScript Object Notation)
+YAML (YAML Ain't Markup Language)
+
+
+== Literatur ==
+ Elliotte Rusty Harold: Die XML Bibel. 2. Auflage. mitp, 2002, ISBN 978-3-8266-0821-6.
+ Stefan Mintert: XML & Co. Die W3C-Spezifikationen für Dokumenten- und Datenarchitektur. Addison-Wesley, München, ISBN 3827318440.
+ Christine Kränzler: XML/XSL - ... für professionelle Einsteiger . für Buch und Web. Markt+Technik, München/Germany 2002, ISBN 978-3-8272-6339-1.
+ Henning Lobin: Informationsmodellierung in XML und SGML. Springer, Berlin/Germany 2000, ISBN 3-540-65356-2.
+ Erik T. Ray: Einführung in XML. O’Reilly, 2004, ISBN 3-8972-1286-2.
+ Helmut Vonhoegen: Einstieg in XML. Aktuelle Standards: XML Schema, XSL, XLink. 7. Auflage. Galileo Press, 2013, ISBN 978-3-8362-2620-2.
+ Frank Bitzer: XML im Unternehmen. Briefing fürs IT-Management. Galileo Press, Bonn 2002, ISBN 978-3-8984-2288-8.
+ Michael Seeboerger-Weichselbaum: Das Einsteigerseminar XML. 2. Auflage. BHV Software, Kaarst 2000, ISBN 978-3-8287-1018-4.
+ Margit Becher: XML : DTD, XML-Schema, XPath, XQuery, XSLT, XSL-FO, SAX, DOM. W3L Verlag, Witten 2009, ISBN 978-3-937137-69-8.
+ Marco Skulschus, Marcus Wiederstein: XML: Standards und Technologien. Comelio Medien, Berlin 2009, ISBN 978-3-939701-21-7.
+
+
+== Weblinks ==
+
+World Wide Web Consortium über XML (englisch),edition-w3c.de – Deutsche Übersetzungen zu XML u. a.
+
+Linkkatalog zum Thema XML bei DMOZ
+Infos zu diversen XML-Technologien wie XSLT, XPath, Schematron, XProc, WordML, XSL-FO
+
+
+== Einzelnachweise ==
+↑ Tim Bray: Extensible Markup Language (XML) 1.0 (Fourth Edition) – Origin and Goals. World Wide Web Consortium, September 2006, abgerufen am 9. April 2013. 
+↑ http://www.plm.automation.siemens.com/de_de/products/open/plmxml/

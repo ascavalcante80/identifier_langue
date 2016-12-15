@@ -1,0 +1,98 @@
+As leis de Kepler são as três leis do movimento planetário definidas por Johannes Kepler (1571 – 1630), um matemático e astrônomo alemão. Essas leis foram a principal contribuição de Kepler à astronomia e à astrofísica.
+Kepler estudou as observações do astrônomo Tycho Brahe e descobriu, por volta de 1605, que estas observações seguiam três leis matemáticas relativamente simples. Suas três leis do movimento planetário desafiavam a astronomia e física de Aristóteles e Ptolomeu. Sua afirmação de que a Terra se movia, seu uso de elipses em vez de epiciclos, e sua prova de que as velocidades dos planetas variavam, mudaram a astronomia e a física.
+Em 1596, Kepler publicou Mysterium Cosmographicum, onde expôs argumentos favoráveis às hipóteses heliocêntricas. Em 1609 publicou Astronomia Nova… De Motibus Stellae Martis, onde apresentou as três leis do movimento dos planetas, que hoje levam seu nome: 
+Os planetas descrevem órbitas elípticas, com o sol num dos focos.
+O raio vetor que liga um planeta ao Sol descreve áreas iguais em tempos iguais. (lei das áreas)
+Os quadrados dos períodos de revolução () são proporcionais aos cubos das distâncias médias () do Sol aos planetas. , onde  é uma constante de proporcionalidade.
+O modelo de Kepler é heliocêntrico. Seu modelo foi muito criticado pela falta de simetria decorrente do fato do Sol ocupar um dos focos da elipse e o outro simplesmente ser preenchido com o vácuo.
+
+
+== Primeira lei de Kepler: lei das órbitas elípticas ==
+Esta lei definiu que as órbitas não eram circunferências, como se supunha até então, mas sim elipses.
+A distância de um dos focos até o objeto, mais a distância do objeto até o outro foco, é sempre igual não importando a localização do objeto ao longo da elipse.
+
+
+== Segunda lei de Kepler: lei das áreas ==
+
+Esta lei determina que os planetas se movem com velocidades diferentes, dependendo da distância a que estão do Sol.
+Periélio é o ponto mais próximo do Sol, onde o planeta orbita mais rapidamente.
+Afélio é o ponto mais afastado do Sol, onde o planeta move-se mais lentamente.
+
+
+== Terceira lei de Kepler: lei dos períodos ==
+Ou seja, sendo  o período de revolução (ano do planeta) e  o semi-eixo maior da órbita de um planeta, tem-se:
+, com  sendo uma constante.
+Esta lei indica que existe uma relação entre a distância do planeta e o período de translação (tempo que ele demora para completar uma revolução em torno do Sol). Portanto, quanto mais distante estiver do Sol mais tempo levará para completar sua volta em torno desta estrela.
+
+
+== Descobertas posteriores ==
+A explicação física do comportamento dos planetas veio somente um século depois, quando Isaac Newton foi capaz de deduzir as leis de Kepler a partir das hoje conhecidas como leis de Newton e de sua lei da gravitação universal, usando sua invenção do cálculo. É possível notar, de suas leis, que outros modelos de gravitação dariam resultados empíricos falsos.
+Em 1687, Newton publicou os Principia, onde explica as forças que agem sobre os planetas devido à presença do Sol:
+
+
+=== Derivação das leis de Kepler ===
+Com a Teoria da Gravitação Universal de Isaac Newton, foi possível postular um único princípio:
+que, aliado às Três Leis de Newton, foi capaz de explicar completamente as observações astronômicas conhecidas até a época e ainda depois, até a descoberta de que a velocidade da luz no vácuo é constante para todos os referenciais. Essa descoberta levou à criação da teoria da relatividade restrita e, consequentemente, da teoria da relatividade geral, que, para certos fenômenos que até então não haviam sido observados, invalida a teoria de Newton da gravitação.
+No entanto, as leis de Newton e a sua teoria da gravidade são mais do que o suficientes para explicar as leis de Kepler. De fato, as três leis são deriváveis da simples equação postulada acima, de modo que ainda aparecem mais completas do que da forma descrita por Kepler.
+Para derivá-las, é preciso introduzir alguns conceitos.
+ representa a derivada temporal de x, enquanto  é a derivada temporal segunda de .
+ é o vetor unitário que indica a direção do planeta em relação à sua estrela. A derivada temporal desse vetor, que representaremos como  é igual a , onde  é a velocidade angular do planeta em relação à estrela, e  é um vetor unitário perpendicular a . Existem duas direções possíveis de um vetor unitário perpendicular a outro, mas a direção deste é escolhida de modo que  tivesse que virar no sentido anti-horário para apontar na mesma direção dele. A derivada de , por sua vez, é .
+O vetor  é o vetor-posição do planeta em relação à sua estrela, e é definido como , onde  é o módulo da distância entre o planeta e a estrela. Assim, . Seguindo daí,
+
+.
+Organizando, temos, 
+Isso será usado na derivação das leis, que vem a seguir:
+
+
+==== Primeira lei de Kepler ====
+Em primeiro lugar, consideramos o planeta como sendo uma partícula (o que se justifica com boa aproximação para o fim das leis de kepler, já que o tamanho dos planetas do sistema solar são desprezíveis em comparação com a sua distância ao sol). Então, usamos a teoria da gravitação universal:
+
+Supondo que a massa do planeta é constante, (o que está de acordo com os sistemas observados por kepler), usamos a Segunda Lei de Newton.
+
+Assim,
+
+e
+
+Da última, podemos derivar a conservação do momento angular, multiplicando os dois membros por :
+
+onde  é uma constante, que sabemos ser a magnitude do momento angular.
+Podemos transformar derivadas temporais em derivadas em relação a , a partir da seguinte relação:
+
+Se tivermos a derivada de qualquer função  em relação ao tempo, podemos usar a regra da cadeia:
+
+O que é de grande utilidade na equação diferencial:
+
+É preciso aqui extrair do momento angular uma relação útil:
+
+Substituindo na equação principal,
+
+Aqui, convém usar uma transformação de variável:
+
+Utilizando-a na equação diferencial, a simplificamos significativamente.
+
+A função que satisfaz à essa equação diferencial é:
+
+Ou seja,
+
+ é uma constante arbitrária de integração, e pode ser obtido se for dada a posição do planeta em qualquer instante. Com  menor do que , temos a equação de uma elipse escrita em coordenadas polares. Se  for , a equação é a de um círculo.
+Assim, derivamos a Primeira Lei de Kepler.
+
+
+==== Segunda lei de Kepler ====
+A segunda Lei de Kepler é bem mais simples de se derivar.
+A área descrita pelo raio-vetor que liga o planeta à sua estrela durante um certo tempo é dada por
+
+Onde  são as áreas percorridas em frações desse tempo. Podemos fazer essas frações de tempo arbitrariamente pequenas, e consequentemente teremos um  cada vez maior. Nada se altera se fizermos o limite em que as frações de tempo tendem a , ou seja:
+.
+Quando tomamos áreas  menores, elas se aproximam arbitrariamente da área de um triângulo com base  e altura , onde  é a magnitude do raio vetor  que liga o planeta à sua estrela em algum instante dentro de um intervalo de tempo , e , com  sendo o análogo de  em algum instante dentro do intervalo . Ou seja,  é simplesmente a distância percorrida pelo planeta em um certo tempo.
+Ou seja, as áreas  se aproximam arbitrariamente de:
+
+ também pode se expressado como , onde  é a velocidade do planeta, em algum instante do mesmo intervalo de tempo de .
+Quando  tende a infinito,  tende a . Assim,
+
+O que constitui uma integral:
+
+ou, como ,
+
+ é o momento angular sobre a massa, o que nesse caso permanece sempre constante. Assim, a integral dá:
+

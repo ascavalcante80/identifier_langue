@@ -1,0 +1,49 @@
+a colaborativo de preguntas y respuestas divertidas.
+walk
+secuencias en la que cada término cuenta el número de caminos que hay en un espacio topológico.
+word
+la secuencia depende en las palabras de un idioma concreto.
+Por ejemplo, A011762 cuenta el número de letras que tienen en español los números (uno, dos, tres, cuatro, cinco, seis, ...). Desde 1 hasta 20 es: 3, 3, 4, 6, 5, 4, 5, 4, 5, 4, 4, 4, 5, 7, 6, 9, 10, 9, 10, 6.
+Algunas palabras clave son mutuamente excluyentes, por ejemplo: "core" y "dumb", "easy" y "hard", "full" y "more", "nonn" y "sign", y quizás "core" y "new". Pero "dumb" y "nice" pueden salir a la vez, por ejemplo en A056064.
+
+
+=== Desplazamiento ===
+El desplazamiento (offset) es el índice del primer término dado; o sea, con qué n se empiezan a dar los términos en la secuencia de fórmula a(n). Suele ser 0 ó 1, y el más habitual es 0, que además es el predeterminado.
+A veces es muy fácil de obtener. Por ejemplo, si listamos la secuencia de cuadrados como 0, 1, 4, 9, 16, 25, ... el desplazamiento es 0; mientras que si la escribimos como 1, 4, 9, 16, 25, ... entonces es 1.
+Otras veces hay discusiones sobre cuál debería ser el primer término. Por ejemplo, en el problema de cortar el pastel se decide el número máximo de trozos en que se puede cortar un pastel bajo, tortilla, pizza o círculo, haciendo n cortes. La secuencia que da OEIS es A000124: 1, 2, 4, 7, 11, 16, 22, 29, 37, ..., mientras que MathWorld dice 2, 4, 7, 11, 16, 22, 29, 37, ... La discusión está en si acepta n = 0 (hacer cero cortes al pastel), que técnicamente es posible (resulta en un solo trozo), pero es un caso irrelevante en este problema, ya que el pastel no se ha tocado.
+Un ejemplos de secuencia con desplazamiento 3 es A073502: la constante mágica de un cuadrado mágico n X n con números primos (considerando 1 como primo) con suma de filas mínima. Otro ejemplo, con desplazamiento -1 es A072171, que cuenta el número de estrellas de magnitud visual n.
+En realidad OEIS muestra dos números en el campo "desplazamiento". El primero es el descrito arriba, mientras que el segundo es un valor interno, que dice cuál es el índice del primer término (empezando en 1) que tiene un valor absoluto mayor que 1. Esto se graba para acelerar las búsquedas. Por ejemplo, A000001 empieza por 1, 1, 1, 2, con el primer término representando a(1), y por eso en el campo "desplazamiento" se muestra 1,4.
+
+
+=== Autor ===
+Consta como autor (o autores) la persona que envió la secuencia, aunque ésta sea conocida por todos desde hace tiempo. Se incluye el nombre, iniciales (si es aplicable), y apellido, junto con el correo electrónico (cambiando el carácter @ por (AT)). En muchas se incluye también la fecha en la que se añadió a OEIS.
+Cuando el autor es Neil Sloane, pone sólo "njas", que son sus iniciales.
+
+
+== Búsquedas en OEIS ==
+Al principio había tres tipos de búsquedas posibles (por términos de secuencia, por palabra, o por identificador de secuencia), pero en enero de 2006 se rediseñó el sistema y se incluyeron las características avanzadas en la misma página de búsqueda.
+En el sistema actual (2006), un sólo cuadro de texto permite especificar todas las opciones de búsqueda. Algunas de las que se pueden hacer son:
+1,4,9,16,25,36,64
+5 8 13 233 39088169
+"fermat's little theorem"
+author:Guy keyword:nice
+keyword:nice keyword:more -keyword:base
+keyword:new -keyword:base
+id:A64413
+A64413
+
+
+== Errores y problemas en OEIS ==
+Para el gran tamaño de su base de datos, OEIS está relativamente libre de errores. Pero como está operada por humanos, es inevitable que tenga algunos problemas o incluso errores.
+Los errores computacionales o tipográficos en la propia secuencia son extremadamente raros. Casi todas las secuencias incluyen fórmula o programa de ordenador, y mucha gente dedica mucho esfuerzo a volver a comprobar y a ampliar los resultados. Algunas secuencias contienen números muy altos con muchas probabilidades de ser primos, y es posible que al final acaben siendo pseudoprimos en vez de primos reales; cuando esto pasa, se anota en un comentario.
+Pero los errores más comunes en OEIS están en campos distintos al de "secuencia" o "secuencia con signos":
+Palabras clave que faltan. Varias secuencias multiplicativas no tienen la palabra clave "mult".
+Desplazamiento incorrecto. Como en el formulario de entrada de datos, sale 0 como opción predeterminada, muchos no se molestan en comprobar si 0 es correcto.
+Duplicados. Hay secuencias iguales (números y fórmula iguales, aunque el nombre puede variar). Cuando esto pasa, se etiquetan con "dupe".
+
+
+== Enlaces externos ==
+The On-Line Encyclopedia of Integer Sequences Página oficial; en inglés (incluso si se hace clic en "español")
+Artículos de Neil Sloane sobre OEIS:
+My Favorite Integer Sequences (2000, PDF, en inglés)
+The On-Line Encyclopedia of Integer Sequences (2003, PDF, en inglés)

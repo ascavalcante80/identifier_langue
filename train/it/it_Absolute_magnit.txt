@@ -1,0 +1,66 @@
+In astronomia, la magnitudine assoluta (M) è la magnitudine apparente (m) che un oggetto avrebbe se si trovasse ad una distanza dall'osservatore di 10 parsec o 1 unità astronomica a seconda del tipo di oggetto (stellare/galattico o corpo del Sistema solare). Più semplicemente, è una misura della luminosità intrinseca di un oggetto, senza tener conto delle condizioni in cui si trova l'osservatore. Più un oggetto è intrinsecamente luminoso, più la sua magnitudine assoluta è numericamente bassa, anche negativa. Ogni grado della scala corrisponde ad un incremento (o decremento) pari a ; in sostanza, una stella che presenta magnitudine +6 è circa 2,512 volte più luminosa di una che presenti +7 come magnitudine.
+Nel definire la magnitudine assoluta, è necessario specificare il tipo di radiazione elettromagnetica che viene misurata. Se ci si riferisce al totale dell'energia emessa, il termine corretto è magnitudine bolometrica. Mentre se si considera lo spettro del visibile si parla di magnitudine assoluta visuale.
+
+
+== Stelle e galassie (M)Modifica ==
+Nell'astronomia stellare e galattica la distanza standard è di 10 parsec, cioè circa 32,6 anni luce o 3 × 1014 km. Questa magnitudine assoluta è indicata con il simbolo M. Una stella a una distanza di 10 parsec ha una parallasse di 0,1 arcosecondi (100 mas). Per gli oggetti molto vasti come le galassie ci si riferisce ad un oggetto di pari luminosità intrinseca ma di aspetto puntiforme.
+Quando si definisce la magnitudine assoluta è necessario specificare il tipo di radiazione elettromagnetica che si sta misurando. Quando ci si riferisce alla radiazione totale, il termine appropriato è quello di magnitudine bolometrica. Il valore della magnitudine bolometrica può essere calcolato sommando alla magnitudine visuale la correzione bolometrica, . Si tratta di una correzione necessaria perché le stelle molto calde emettono la maggior parte della loro radiazione nell'ultravioletto, mentre quelle molto fredde nell'infrarosso, in conformità alla legge di Planck. Più un oggetto appare debole, alla supposta distanza di 10 parsec, più alto sarà il valore della sua magnitudine; più bassa è la sua magnitudine assoluta, più alta sarà la sua luminosità intrinseca.
+Molte stelle visibili ad occhio nudo hanno magnitudini assolute che sarebbero capaci di formare ombre da una distanza di 10 parsec: Rigel (−6,7), Deneb (−8,5), Naos (−7,3), e Betelgeuse (−5,6). Per confronto, Sirio ha una magnitudine assoluta di 1,4 e il Sole ha una magnitudine assoluta di circa 4,5. Le magnitudini assolute delle stelle in genere sono comprese tra −10 e +17. Proxima Centauri, una nana rossa che è la stella più vicina alla Terra dopo il Sole, ha una magnitudine assoluta di 15,4.
+Confrontando invece con le magnitudini apparenti (cioè quello che si vede osservando il cielo notturno), Sirio è −1,4. Venere arriva a −4,3 al suo massimo e la Luna piena è −12. L'ultimo oggetto con una magnitudine comparabile alla magnitudine assoluta delle stelle nominate più sopra fu visibile come una supernova circa mille anni fa; il suo resto è la nebulosa del Granchio, M1. Gli astronomi cinesi riferirono di poter leggere usando la sua luce, di vedere ombre causate da essa e di poterla osservare durante il giorno.
+Il diagramma H-R lega la magnitudine assoluta con la luminosità, la classificazione stellare e la temperatura superficiale.
+
+
+=== Ricavare M da mModifica ===
+La magnitudine apparente in una determinata banda x è definita come:
+
+ove dove Fx è il flusso osservato nella banda x, e C è una costante dipendente dalla banda in cui l'oggetto è osservato. Misurati i flussi di due stelle in una certa banda, la differenza fra le magnitudini dei due astri può essere quindi calcolata mediante la seguente formula:
+
+che è equivalente a:
+
+Per calcolare la magnitudine assoluta (M) data quella apparente (m), è necessario ricordare che la luminosità di un oggetto è direttamente proporzionale al quadrato della sua distanza. Ne segue che la differenza fra la magnitudine apparente e la magnitudine assoluta di un oggetto sarà espressa dalla seguente formula:
+
+ove  è la distanza della stella espressa in parsec. Stiamo infatti confrontando la luminosità dell'oggetto alla sua posizione reale con quella che esso avrebbe se si trovasse a 10 parsec di distanza. Ricordando che per le regole dei logaritmi vale che  e semplificando, dalla formula precedente si ottiene:
+
+Poiché il logaritmo è in base 10,  è uguale a . Di conseguenza dalla formula precedente si può ricavare:
+
+che è equivalente a:
+
+Questa formula è valida per oggetti relativamente vicini, come le stelle della nostra galassia. Per oggetti molto distanti, il redshift dovuto alla legge di Hubble complica il calcolo e può essere necessario aggiungere alla formula una correzione K. Inoltre la formula è corretta quando la distanza  è calcolata in uno spazio euclideo. Per gli oggetti molto distanti, a causa della teoria della relatività generale, l'approssimazione dello spazio a uno spazio euclideo non può essere più considerata valida e quindi ulteriori correzioni alla formula sono necessarie.
+Poiché la distanza di un oggetto è inversamente proporzionale alla sua parallasse, se al posto di  utilizziamo nella formula la parallasse dell'oggetto , otteniamo la seguente relazione fra M, m e la parallasse:
+
+ove  è espressa in arcosecondi.
+È possibile infine ricavare la magnitudine assoluta da quella apparente conoscendo il modulo di distanza :
+.
+
+
+==== EsempiModifica ====
+Rigel ha magnitudine apparente  ed è distante circa 860 anni luce. La sua magnitudine assoluta è quindi:
+
+Vega ha una parallasse di 0,129" e una magnitudine apparente 
+
+La galassia Occhio Nero ha una magnitudine apparente di  e un modulo di distanza di 31,06. Pertanto la sua magnitudine assoluta è:
+
+
+=== Magnitudine apparenteModifica ===
+Data la magnitudine assoluta  e la distanza  è possibile ricavare la magnitudine apparente mediante la seguente formula:
+
+Data la magnitudine assoluta è possibile calcolare quella apparente  dalla parallasse :
+
+Infine la magnitudine apparente è ricavabile da quella assoluta e dal modulo di distanza :
+
+
+=== Magnitudine bolometricaModifica ===
+La magnitudine bolometrica corrisponde alla luminosità assoluta dell'oggetto, ma espressa in unità di magnitudine. Per calcolare la magnitudine bolometrica è necessario prendere in considerazione tutte le lunghezza d'onda della radiazione elettromagnetica, comprese quelle non osservabili a causa dei limiti della strumentazione, dell'assorbimento causato dall'atmosfera terrestre e dell'estinzione operata dal mezzo interstellare. Per le stelle, in assenza di osservazioni su molteplici lunghezze d'onda, la magnitudine bolometrica può essere calcolata a partire dalla temperatura effettiva.
+La differenza fra la magnitudine bolometrica di una stella e quella del Sole è in relazione con il rapporto fra le loro luminosità assolute, come illustrato dalla formula seguente:
+
+che per inversione è equivalente a:
+
+dove
+ è la luminosità assoluta del Sole
+ è la luminosità assoluta della stella
+ è la magnitudine bolometrica del Sole
+ è la magnitudine bolometrica della stella.
+
+
+=== Stelle variabiliModifica ===
+Numerose stelle hanno una magnitudine variabile nel tempo. In alcune di queste le variazioni dipendono dalla loro magnitudine assoluta, e sono quindi estremamente utili 

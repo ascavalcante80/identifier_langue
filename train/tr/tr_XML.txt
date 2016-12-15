@@ -1,0 +1,26 @@
+Extensible Markup Language (Genişletilebilir İşaretleme Dili, kısaca XML), hem insanlar hem bilgi işlem sistemleri tarafından kolayca okunabilecek dokümanlar oluşturmaya yarayan bir işaretleme dilidir. W3C tarafından tanımlanmış bir standarttır. Bu özelliği ile veri saklamanın yanında farklı sistemler arasında veri alışverişi yapmaya yarayan bir ara format görevi de görür. SGML'in basitleştirilmiş bir alt kümesidir.
+
+
+== Gelişimi ==
+XML'in tasarımcısı, HTML'i de tasarlamış olan Tim Berners Lee'dir. Dilin düzenlenmesi de W3C'nin sorumluluğundadır. Karmaşık kod yazımı şeklinde görünen dizin, aslında bir grafiktir.
+
+
+== Kullanımı ==
+Günümüzde birçok yazılım, diğer yazılımlarla veri alışverişini XML formatı üzerinden yapmaktadır. Ayrıca XML'i esas format olarak kullanan uygulamalara rastlamak mümkündür. Rastgele veri erişimine uygun olmadığından veri tabanı amaçlı kullanılmamaktadır.
+Microsoft'un geliştirdiği .NET teknolojisinde kullanılan DataSet nesneleri XML formatındadır. Ayrıca XML, ofis uygulamalarının alt yapısı haline getirilmiştir.
+İçeriğin, doküman yapısının ve şeklin birbirinden ayrı ele alınması XML'i İçerik yönetim sistemlerinin ideal formatı haline getirmiştir.
+
+
+== XML dosyalarını işleme ==
+
+
+==== SAX ====
+Olay tabanlı, sözcüksel işleme. Dosyada içerisindeki her düğüm bir geri-besleme(callback) fonksiyonu aracılığı ile istemci koda yansıtılır. Bu yapısı nedeniyle oldukça hızlı ve etkilidir, ancak XML dosyasından rastgele düğüm ulaşımı oldukça zordur; Hedef düğüme ulaşmak için, her defasında dosyayı en başından işlemek zorundasınız.
+
+
+==== DOM ====
+Bu teknik tamamen arayüz yönelimlidir. Her düğüm ve parçalarına arayüz aracılığıyla ulaşılır. Rastgele ulaşımda etkili olmasına rağmen, büyük boyutlu dosyalar söz konusu olduğunda oldukça hantaldır ve hafıza tüketiminde fazla talepkârdır.
+
+
+== Örnek ==
+XML dokumanları ağaç veri yapısında olurlar. Bağımsız imler yapıyı oluştururken, içerik ya imin özelliği olarak ya da iki im arasında gösterilir (bkz. örnek). Yapıyla ilgili ayrıntılar DTD (Document Type Definition) ya da XML Schema adı verilen harici dokümanlar ile tanımla

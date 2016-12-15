@@ -1,0 +1,45 @@
+A fizikai teljesítmény (jelölése P) a munkavégzés vagy energiaátvitel sebessége, más szóval az egységnyi idő alatt végzett munka. SI rendszerben a teljesítmény mértékegysége a watt (jelölése: W).
+Az adott t idő alatt elvégzett W munka és az idő hányadosa az átlagos teljesítmény:
+
+A pillanatnyi teljesítmény a Δs elemi elmozdulás közben állandó F erő munkájának és a Δt időtartamnak a hányadosa, ha az időintervallum tart a nullához:
+, azaz: 
+
+
+== Mértékegységek ==
+A teljesítmény mértékegységeit a mechanikai munka mértékegységeiből származtatják az idő mértékegységével osztva. Az SI egység a watt (W), amely egyenlő a joule osztva másodperccel:
+1 W = 1 J/s
+A teljesítmény régi mértékegysége a lóerő (LE), angolul horsepower (HP), németül Pferdestärke (PS). Egy lóerő egyenlő egy 550 font tömegű test egy láb magasra, egy másodperc alatt történő felemeléséhez szükséges munkával.
+1 LE ≈ 745,699872 W
+A lóerő mértékegysége az SI mértékegységrendszer 1980-as magyarországi bevezetése óta elavulttá, kerülendővé vált.
+A hőtechnikában a kalória/óra ill. kilokalória/óra mértékegységet használták
+1 kcal/h = 4186,8 J / 3600 s = 1,163 W
+
+
+== Mechanikai teljesítmény ==
+Egy testre ható erő által végzett átlagos mechanikai munka definíciója:
+
+ahol
+F a testre ható erő
+s a test elmozdulása (elmozdulásvektor).
+A munka fenti képlete két vektor (F és s) skalárszorzata, ez azt jelenti, hogy munkát csak az elmozdulás irányába eső erőkomponens végez. Az elmozdulás irányába ható erő munkája pozitív, az ellenkező irányba ható erő negatív munkát végez. Az elmozdulásra merőleges irányba ható erő nem végez munkát.
+Az idő szerint deriválva azt kapjuk, hogy a pillanatnyi teljesítmény egyenlő az erőnek és a v sebességnek a skalárszorzatával:
+
+Az átlagos teljesítmény ekkor:
+
+Forgó mozgás esetén a pillanatnyi teljesítmény az M forgatónyomaték és az ω szögsebesség szorzata:
+
+
+== Villamos teljesítmény ==
+
+
+=== Pillanatnyi villamos teljesítmény ===
+Egy berendezés pillanatnyi villamos P teljesítménye:,
+,
+ahol
+P(t) a pillanatnyi teljesítmény wattban (W),
+U(t) a feszültség (potenciálkülönbség) voltban (V),
+I(t) a berendezésen átfolyó áram áramerőssége amperben (A).
+Ha a berendezés egy ellenállás, akkor:
+,
+ahol
+ 

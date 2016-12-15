@@ -1,0 +1,21 @@
+Volt je jednotka elektrického napětí, resp. potenciálu v soustavě SI, značí se písmenem V. Je pojmenován podle italského fyzika Alessandra Volty, vynálezce elektrického článku (1800).
+
+
+== Definice ==
+V soustavě SI patří volt mezi odvozené jednotky. Je definován jako taková velikost elektrického napětí na vodiči, kterým prochází konstantní proud 1 ampér, při kterém se na tomto vodiči rozptyluje výkon 1 watt.
+Volt by také bylo možno definovat jako napětí, pro které je potřeba k přemístění elektrického náboje o velikosti 1 coulomb práce 1 joule. V jiných jednotkách SI lze tedy volt vyjádřit následujícími vztahy:
+
+Rozměr v základních jednotkách SI je:
+V = m2·kg·s−3·A−1
+
+
+== Násobky a díly ==
+V praxi se velmi často používají násobky a díly této jednotky, např.:
+μV – mikrovolt (1 μV = 10−6 V)
+mV – milivolt (1 mV = 10−3 V)
+kV – kilovolt (1 kV = 103 V)
+MV – megavolt (1 MV = 106 V)
+
+
+== Reference ==
+↑ Bureau International des Poids et Mesures. Le Système international d’unités (SI) – The 

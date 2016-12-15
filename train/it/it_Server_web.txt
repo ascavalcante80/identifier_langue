@@ -1,0 +1,14 @@
+In informatica un server web (o web server) è un'applicazione software che, in esecuzione su un server, è in grado di gestire le richieste di trasferimento di pagine web di un client, tipicamente un web browser. La comunicazione tra server e client avviene tramite il protocollo HTTP, che utilizza la porta TCP 80 (o 8080), o eventualmente la versione sicura HTTPS, che utilizza invece la 443. L'insieme di tutti i web server interconnessi a livello mondiale dà vita al World Wide Web.
+
+
+== DescrizioneModifica ==
+Teoricamente un qualsiasi dispositivo per cui sia disponibile qualche software che agisca come server web può diventare un server web, ma solitamente i dispositivi che ospitano server web sono sistemi hardware dedicati e ottimizzati a tale scopo. Ad esempio si può installare un server web su un normale PC allo scopo di testare in locale un insieme di pagine web oppure per consentire l'accesso ai propri documenti da altri client host, sia in rete locale, sia via Internet.
+
+
+=== Elenco dei server web (software) più diffusiModifica ===
+Apache HTTP Server (sviluppato dalla Apache Software Foundation)
+Apache Tomcat (sviluppato dalla Apache Software Foundation)
+Cassini Server Web
+ColdFusion (di Macromedia, ora acquisita da Adobe Systems)
+HTTP File Server
+Internet Information Services (IIS, svil

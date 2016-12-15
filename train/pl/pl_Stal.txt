@@ -1,0 +1,109 @@
+Stal – stop żelaza z węglem, plastycznie obrobiony i obrabialny cieplnie, o zawartości węgla nieprzekraczającej 2,10%, co odpowiada granicznej rozpuszczalności węgla w żelazie (dla stali stopowych zawartość węgla może być dużo wyższa). Węgiel w stali najczęściej występuje w postaci perlitu płytkowego. Niekiedy jednak, szczególnie przy większych zawartościach węgla, cementyt występuje w postaci kulkowej w otoczeniu ziaren ferrytu.
+Według obecnie obowiązującej normy stal definiuje się jako materiał zawierający (masowo) więcej żelaza niż jakiegokolwiek innego pierwiastka, o zawartości węgla w zasadzie mniejszej niż 2% i zawierający inne pierwiastki. Ograniczona liczba stali chromowych może zawierać więcej niż 2% C, lecz 2% jest ogólnie przyjętą wartością odróżniającą stal od żeliwa.
+Stal obok żelaza i węgla zawiera zwykle również inne składniki. Do pożądanych składników stopowych zalicza się głównie metale, zwykle chrom, nikiel, mangan, wolfram, miedź, molibden, tytan. Pierwiastki takie jak tlen, azot, siarka oraz wtrącenia niemetaliczne, głównie tlenków siarki i fosforu zwane są zanieczyszczeniami.
+Stal otrzymuje się z surówki w procesie świeżenia (dawny proces) lub – w nowoczesnych instalacjach hutniczych – z wykorzystaniem pieców konwertorowych, łukowych i próżniowych, pozwalających na uzyskanie wysokiej jakości stali. Pierwotnym produktem hutniczym jest staliwo (np. w postaci kęsów, kęsisk lub kęsisk płaskich), które przerabiane jest na stal za pomocą obróbki plastycznej. Stalowe wyroby hutnicze to m.in. pręty okrągłe, kwadratowe lub sześciokątne, rury okrągłe, profile zamknięte i otwarte (płaskowniki, kątowniki, ceowniki, teowniki, dwuteowniki), blachy.
+Im większa zawartość węgla, a w konsekwencji udział twardego i kruchego cementytu, tym większa twardość stali. Węgiel w stalach niskostopowych wpływa na twardość poprzez wpływ na hartowność stali; im większa zawartość węgla tym dłuższy czas jest potrzebny do przemiany perlitycznej – co w konsekwencji prowadzi do przemiany bainitycznej i martenzytycznej. W stalach stopowych wpływ węgla na twardość jest również spowodowany tendencją niektórych metali, głównie chromu, do tworzenia związków z węglem – głównie węglików o bardzo wysokiej twardości.
+
+
+== Kryteria i podział stali ==
+Ze względów praktycznych klasyfikacji gatunków stali dokonuje się zgodnie z PN-EN 10020:1996 według składu chemicznego oraz według ich zastosowania i własności mechanicznych lub fizycznych.
+ze względu na skład chemiczny (rodzaj i udział składników stopowych):
+stal węglowa (niestopowa)
+niskowęglowa
+średniowęglowa
+wysokowęglowa
+
+stal stopowa
+niskostopowa
+średniostopowa
+wysokostopowa
+
+ze względu na procentową zawartość węgla i strukturę wewnętrzną:
+stal podeutektoidalna
+stal eutektoidalna
+stal nadeutektoidalna
+
+ze względu na stopień czystości:
+zwykłej jakości
+wyższej jakości
+najwyższej jakości
+
+ze względu na zastosowanie:
+stal konstrukcyjna
+ogólnego przeznaczenia
+niskostopowa
+wyższej jakości
+automatowa
+łożyskowa
+sprężynowa
+do azotowania
+do ulepszania cieplnego
+
+stal narzędziowa:
+węglowa
+stopowa:
+do pracy na zimno
+do pracy na gorąco
+szybkotnąca.
+
+stal specjalna
+nierdzewna
+chirurgiczna
+
+kwasoodporna
+magnetyczna
+odporna na zużycie
+Stal Hadfielda
+
+transformatorowa
+zaworowa
+żaroodporna
+stal maraging
+żarowytrzymała
+
+stale historyczne:
+stal damasceńska
+stal toledańska
+
+
+== Właściwości stali węglowej ==
+
+
+=== Właściwości fizyczne ===
+gęstość ≈ 7,86 g/cm3
+współczynnik liniowej rozszerzalności α = 12×10−6/K
+współczynnik przewodzenia ciepła k = 58 W/(m·K)
+współczynnik Poissona ν = 0,30
+rezystywność (20 °C, 0,37–0,42% węgla) = 171×10−9 Ω·m
+
+
+=== Właściwości mechaniczne i technologiczne ===
+Są to parametry charakteryzujące przydatność stali w gospodarce. Ich wielkość uzależniona jest od składu stopu i obróbki. Podane poniżej wartości są charakterystyczne dla stali stosowanych w budownictwie.
+Granica sprężystości określa maksymalne naprężenia, po ustąpieniu których materiał wraca do swoich pierwotnych wymiarów
+Wytrzymałość na rozciąganie określana wielkością naprężenia wywołanego w przekroju próbki przez siłę powodującą jej zerwanie. Badane są także inne parametry określające naprężenia w próbkach stali, takie jak wytrzymałość na ściskanie, zginanie, ścinanie i skręcenie. Podczas badania próbki stali na zerwanie określane są także:
+naprężenie rozrywające, czyli rzeczywista wartość naprężenia w miejscu przewężenia rozciąganej próbki bezpośrednio przed jej zerwaniem (jest to wartość siły powodującej zerwanie w odniesieniu do przekroju zerwanej próbki w jej najwęższym miejscu);
+wydłużenie względne, czyli procentowy przyrost długości zerwanej próbki w stosunku do jej początkowej długości,
+przewężenie względne, czyli procentowe zmniejszenie powierzchni przekroju poprzecznego zerwanej próbki w miejscu zerwania do jej przekroju pierwotnego.
+
+Sprężystość rozumiana jako zdolność materiału do odzyskiwania pierwotnej postaci po zaprzestaniu działania na niego sił powodujących odkształcenie. W zakresie naprężeń sprężystych obowiązuje prawo Hooke'a. Sprężystość materiału określa:
+współczynnik sprężystości podłużnej (moduł Younga) E, który dla stali ma wartość w granicach od 205 do 210 GPa (gigapaskali)
+moduł sprężystości poprzecznej G (moduł Kirchhoffa), który dla stali ma wartość 80 GPa
+
+Plastyczność, czyli zdolność materiału do zachowania postaci odkształconej na skutek naprężeń od obciążeń po zaprzestaniu ich działania. Są to odkształcenia trwałe, które powstają po przekroczeniu wartości tzw. granicy plastyczności, po przekroczeniu której następuje znaczny przyrost wydłużenia rozciąganej próbki, nawet bez wzrostu a często przy spadku wartości siły rozciągającej. Umownie przyjmuje się granicę plastyczności dla wartości naprężenia, przy którym trwałe wydłużenie próbki wynosi 0,2%.
+Ciągliwość – zdolność materiału pozwalająca na zachowanie jego właściwości podczas obróbki polegającej na jego tłoczeniu, zginaniu lub prostowaniu itp. Właściwość ta wykorzystywana jest podczas produkcji wyrobów (np. blach trapezowych, ościeżnic itp.).
+Udarność, czyli odporność na obciążenia dynamiczne
+Twardość, czyli zdolność przeciwstawienia się materiału przy próbie wciskania przedmiotów twardszych. Stal jest tym twardsza, im więcej zawiera składnika twardego cementytu – czyli im większy jest procent węgla
+Spawalność, to cecha stali pozwalająca na wykonanie trwałych połączeń przez spawanie
+Odporność na działanie środowiska:
+odporność na działanie podwyższonych i niskich temperatur
+odporność na działanie czynników powodujących korozję chemiczną i atmosferyczną
+
+
+== Normy materiałowe ==
+PN-EN 10020:2003. Definicje i klasyfikacja gatunków stali. Norma zawiera klasyfikację według składu chemicznego oraz ustalenia głównych klas jakościowych
+PN-EN 10027-1:2005. Określa europejski system oznaczania stali obejmujący znaki i oznaczenia cyfrowe składające się z symboli głównych (według zastosowań, własności mechanicznych lub fizycznych, bądź według składu chemicznego) i symboli dodatkowych
+PN-EN 10027-2:1994. Określa europejski system oznaczania stali obejmujący znaki i oznaczenia cyfrowe stali
+
+
+== Produkcja i zastosowanie ==
+Stal znalazła 

@@ -1,0 +1,23 @@
+La page web est l'unité de consultation du World Wide Web. Ce terme a une signification pratique ; il n'a pas de définition technique formelle. Elle est conçue pour être consultée à l'aide d'un navigateur web. Elle a une adresse web. Techniquement, une page web est souvent constituée d'un document en Hypertext Markup Language (HTML) et d'images. Cependant, tout type de ressources ou d'assemblage de ressources, textuelles, visuelles, sonores, logicielles, peuvent constituer une page web.
+
+
+== Terminologie ==
+En 1999, la Commission générale de terminologie et de néologie de France a recommandé d'écrire une page sur la toile. Cette recommandation n'a guère été suivie.
+
+
+== Consultation ==
+Une page web se consulte soit en entrant directement son adresse Web dans un navigateur Web, soit en suivant un hyperlien se trouvant dans une autre page. Les navigateurs les plus utilisés affichent la page sur moniteur d'ordinateur, dans une fenêtre, et permettent de l'imprimer. Cependant, le langage HTML à la base de la plupart des pages Web a été conçu pour permettre la consultation avec des dispositifs variés : écrans de toute taille, terminal en mode texte, imprimante, dispositif braille, synthétiseur vocal. Le terme page est donc généralement réducteur, de par son potentiel d'interactivité avec l'utilisateur.
+
+
+== Bases techniques ==
+Techniquement, une page Web est constituée d'une ou plusieurs ressources distinctes du World Wide Web. La principale ressource est généralement un document écrit dans le langage informatique HTML ou sa variante XHTML. HTML permet de contenir du texte, et de définir l'adresse Web et la disposition dans la page, d'autres ressources comme : des images, des vidéos, des animations, du sons, des applets et des documents inclus. Ceci permet d'intégrer dans une page des ressources provenant de n'importe quel serveur Web. Parfois le chargement d'une des ressources échoue, et la page doit être consultée sans être complète.
+
+
+== Mise en page ==
+Le langage HTML permet aux navigateurs Web d'adapter le rendu de chaque page aux conditions locales de consultation : dimensions de la fenêtre, fontes de caractères disponibles, préférences du visiteur. Entre un téléphone portable et une station de travail en passant par l'ordinateur personnel, ces conditions varient considérablement.
+On appelle « design fluide » les méthodes de design qui permettent aux pages de s'adapter aux conditions de consultation. Inversement, on appelle « design fixe » la méthode qui consiste à figer la taille de chaque élément de la page et à n'obtenir un rendu idéal que dans une fenêtre de dimensions précises, avec une taille de fonte précise.
+
+
+== Création d'une page Web ==
+Pour créer une page Web, un éditeur de texte ou un éditeur HTML spécialisé est nécessaire. Il faut ensuite enregistrer la page Web créée sur un serveur Web (hébergeur).
+Le design d’une page Web est personnel. Il est possible d’utiliser des modèles préfabriqués. Les modèles de Web page permettent au webmestre de se concentrer sur le contenu du site sans avoir à se préoccuper des problèmes esthétiques. Beaucoup de personnes utilisent les services gratuits de Google, Yahoo ou Geocities pour créer e

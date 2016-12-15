@@ -1,0 +1,30 @@
+kground (e.g. the Juno clump). Clans are groupings which merge very gradually into the background density and/or have a complex internal structure making it difficult to decide whether they are one complex group or several unrelated overlapping groups (e.g. the Flora family has been called a clan). Tribes are groups that are less certain to be statistically significant against the background either because of small density or large uncertainty in the orbital parameters of the members.
+
+
+== List of families ==
+
+Notes for table:
+[A]: Mean of the "core" members found in HCM and WAM analyses by Zappala et al. (1995), rounded to 2 significant digits. That analysis considered 12487 asteroids, but currently over 300,000 are known (an increase by a factor of over 25). Hence, the number of currently catalogued asteroids that are members of a given family is likely to be greater than the value in this column by a similar factor of roughly 25.
+[B]: Reference elsewhere.
+[C]: Most of these are families listed as "robustly" identified in Bendjoya and Zappala (2002). Exception: Karin family.
+[D]: TNOs are not considered asteroids, but are included here for completeness.
+See also Category:Asteroid groups and families, which names some less prominent and uncertain groupings.
+
+
+== See also ==
+asteroid
+minor planet
+main belt
+Hirayama families
+proper orbital elements
+Category:Asteroid groups and families
+Haumea
+
+
+== References ==
+
+
+== External links ==
+Planetary Data System - Asteroid Families dataset, as per the Zappalà 1995 analysis.
+Latest calculations of proper elements for numbered minor planets at astDys.
+Asteroid (and Comet) Groups by Petr Scheirich (with excellent plots).

@@ -1,0 +1,6 @@
+Volt (V) adalah satuan turunan di dalam Standar Internasional (SI) untuk mengukur perbedaan tegangan listrik. 1 Volt berarti beda tegangan yang diperlukan untuk membuat arus tepat sebesar 1 ampere di dalam suatu rangkaian dengan resistensi 1 ohm.
+Definisi
+V = I x R
+V adalan beda potensial pada kedua ujung rangkaian, satuannya Volt
+I adalah kuat arus listrik yang mengalir pada sutu rangkaian, satuannya Ampere
+R adalah besarnya hambatan dalam sebuah r

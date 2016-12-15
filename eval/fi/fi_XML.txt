@@ -1,0 +1,70 @@
+seen käyttää XML:n mukaista XSLT-muunnoskieltä.
+XSLT-kielen kanssa määritellään XPath-osoitinkieli, jolla voidaan määritellä helposti osajoukkoja XML-dokumentista.
+FO-sivunkuvauskieli on yleinen XML-formaatti, johon dokumentteja voidaan muuntaa helpompaa tulostamista varten. Se siis vastaa jossain määrin HTML-dokumentin ulkoasuominaisuuksia.
+
+
+== XML:n käytön tuomia etuja ==
+XML-dokumenttien käytöllä tavoitellaan muun muassa
+sisältöjen yhdenmukaisempaa tallennusmuotoa
+sisältövirheiden välttämistä
+tiedon hakemisen helpottamista
+sisällön monikäyttöisyyden ja monikanavajulkaisemisen parantamista
+käsittelyvaiheiden automatisointia
+riippumattomuutta tietystä ohjelmistotoimittajasta
+tiedon pitkäaikaissäilyvyyden parantamista
+integraatioiden helpottamista
+SEPA ja XML sanomat yleensä yritysten välisessä tiedonsiirrossa
+
+
+== XML-pohjaisia standardeja ja määrityksiä ==
+
+
+=== Tietämyksen esittäminen ===
+RDF
+XLink
+OWL
+XForms
+
+
+=== Asiakirjojen esittäminen ===
+ODF
+OXML
+DocBook XML
+
+
+=== Asiakirjojen yms. erikoisosat ===
+MathML - Matemaattiset merkinnät
+SVG - Kuvat
+vCard XML - Yhteystiedot
+VoiceXML - Äänet
+SMIL - sisällöt, joissa esimerkiksi video ja ääni synkronoidaan
+Dublin Core - Metadata
+
+
+=== Tiedonsiirto ===
+XML-RPC - toiminnon suorittaminen verkon yli
+SOAP - toiminnon suorittaminen verkon yli
+AJAX - toiminnon suorittaminen verkon yli
+WSDL - verkkoon tarjottujen palvelujen kuvaus
+WML - WAP-sivut
+XSQL - XML:n ja SQL:n yhdistelmä tiedonhakuun
+
+
+=== Sovellusalueittain ===
+FIXML
+ebXML-määritysperhe
+GML - paikkatietojen kuvauskieli
+JDF - graafisen teollisuuden työmäärykset
+TM-XML - tavaramerkkitieto
+
+
+== Katso myös ==
+DITA
+EDI
+SEPA
+XMLmosaic
+
+
+== Aiheesta muualla ==
+World Wide Web Consortiumin XML-pääsivu
+XML-spesifikaatio

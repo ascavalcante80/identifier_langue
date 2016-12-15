@@ -1,0 +1,16 @@
+i definir a escala magnitude dizendo que a razão das intensidades de uma estrela de magnitude 1 e 6 é exatamente 100. Na notação atual:
+
+Onde Fi é a intensidade de radiação para magnitude i. Assim, a razão entre estrelas de magnitude 1 e 2 seria a raiz quinta de 100 (já que esta raiz multiplicada cinco vezes dá 100):
+
+Pode-se então dizer que as razões abaixo valem para todas as magnitudes de 1 de 6:
+
+A raiz quinta de 100 (2,5118864...) é um número irracional, que em astronomia é conhecido com razão de Pogson. Para encontrar a relação geral entre as intensidades de radiação e magnitudes aparentes escreve-se a relação de forma geral como:
+
+para mi e mj variando de 1 a 6. Se se tomar o logaritmo decimal da equação acima e reordenar os termos, obtém-se finalmente a relação entre intensidade e magnitude aparente:
+
+Ou seja:
+
+
+== Ver também ==
+Magnitude absoluta
+Magnitude bolométrica

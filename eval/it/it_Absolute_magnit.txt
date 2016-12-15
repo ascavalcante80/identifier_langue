@@ -1,0 +1,26 @@
+per il calcolo delle distanze: osservando il periodo di luminosità, se ne ricava la magnitudine assoluta, e confrontandola con quella apparente si può calcolarne immediatamente la distanza. Tra questi tipi di stelle, le più importanti sono le Cefeidi (così chiamate perché la prima stella di questo tipo fu scoperta nella costellazione di Cefeo).
+
+
+== Corpi del sistema solare (H)Modifica ==
+Per pianeti, comete e asteroidi si usa una differente definizione di magnitudine assoluta, perché quella descritta sopra sarebbe così bassa da essere ben poco utile. Per questi oggetti, la magnitudine assoluta (H) è la magnitudine apparente che l'oggetto avrebbe se si trovasse ad 1 unità astronomica sia dal Sole che dalla Terra, con un angolo di fase di zero gradi (insomma osservandolo dal centro del Sole). Questo è fisicamente impossibile, ma è conveniente dal punto di vista del calcolo.
+
+
+=== MeteoreModifica ===
+Per una meteora, la distanza standard è un'altezza di 100 km allo zenit dell'osservatore.
+
+
+== Ricavare H da M e viceversaModifica ==
+Per convertire la magnitudine assoluta M in magnitudine assoluta H sottrarre 31,57. Per passare da H a M aggiungere la stessa quantità.
+
+
+== NoteModifica ==
+^ Astronomical Distances and Magnitudes, splung.com. URL consultato il 5 febbraio 2013.
+^ Absolute magnitude of meteors - International Meteor Organization, ultimo accesso 16 luglio 2008
+^ Absolute magnitude of Solar System bodies - NASA Jet Propulsion Laboratory, Solar System Dynamics Glossary. Ultimo accesso 16 luglio 2008
+
+
+== Voci correlateModifica ==
+Magnitudine apparente, per una descrizione più dettagliata dei problemi di misurazione della luminosità di un oggetto lontano
+Jansky, unità di misura del flusso utilizzata dai radioastronomi
+Luminosità superficiale, per oggetti estesi
+Lista delle stelle più luminose conosciute

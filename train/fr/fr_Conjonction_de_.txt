@@ -1,0 +1,298 @@
+En grammaire, une conjonction de coordination est un mot-outil invariable, qui unit deux phrases, deux sous-phrases ou, à l'intérieur d'une phrase indépendante, deux éléments de même fonction syntaxique et généralement aussi de même nature grammaticale. À la différence de la conjonction de subordination, qui établit une hiérarchie entre les éléments coordonnés, la conjonction de coordination réunit des éléments de même niveau syntaxique.
+Ces conjonctions possèdent trois caractéristiques, qui permettent de les distinguer des adverbes : elles ont une place fixe, généralement entre les éléments qu'elles sont chargées d'unir ; elles sont de purs liens, sans fonction à l'intérieur de la phrase ; enfin elles ne peuvent, en se juxtaposant, se combiner entre elles. Le non-respect de ces trois critères par donc a justifié son exclusion des conjonctions de coordination par les grammairiens modernes.
+Traditionnellement, les grammaires classent les conjonctions de coordination en fonction de critères sémantiques : copulatives (et, ni), qui marquent la simultanéité ou l'addition, disjonctive (ou), qui marque un choix, adversative (mais), qui marque l'opposition, causale (car), consécutive (donc), et déductive ou transitive (or). (mais ou et donc or ni car)
+
+
+== Liste des conjonctions de coordinationModifier ==
+Les grammaires scolaires françaises donnent la liste suivante des conjonctions de coordination : « car », « donc », « et », « mais », « ni », « or » et « ou ». Des phrases mnémotechniques permettent de se souvenir de cette liste canonique : Mais où est donc Ornicar ? en est une. Une autre formule, « Mais où est donc Carnior ? », est davantage utilisée dans les écoles primaires et secondaires du Québec. À cet égard, un groupe de musique québécois, Les Dales Hawerchuk, a composé et interprété en 2009 une chanson mettant à l'honneur cette formulation. Dans les deux cas, ces phrases peuvent se révéler trompeuses : il s'agit de et et ou, et non de est (verbe être) et où (qui dénote le lieu).
+La conjonction de coordination est le coordonnant type, elle n'a qu'un seul rôle : établir un lien de coordination entre deux éléments. Il existe d'autres coordonnants, qui sont des adverbes ou des locutions adverbiales, qualifiés selon les grammaires de conjonctifs, de coordinatifs ou de liaison, et qui possèdent des emplois plus larges. Certains de ces coordonnants, appelés « adverbes anaphoriques », réalisent un balisage textuel (auparavant, d'abord, ensuite, puis, alors, enfin, finalement, etc.), organisant le discours et facilitant l'orientation du lecteur. D'autres coordonnants marquent certains rapports argumentatifs (c'est pourquoi, en effet, dans ce cas, ainsi, aussi, néanmoins, alors, au contraire, d'ailleurs, etc.). Dans certains cas, ils jouent pleinement le rôle des conjonctions de coordination et peuvent alors se substituer à elles :
+« Il dit qu'il connaît parfaitement Marseille, {mais / pourtant} il n'y est allé qu'une seule fois. »
+« Vous ne le trouverez pas chez lui, {car / en effet} je viens de le croiser dans la rue. »
+« On savait que c'était Swann ; {mais / néanmoins} tout le monde se regarda d'un air interrogateur. » Proust, Du côté de chez Swann
+« Ses bras se levèrent, sa tête peu à peu se renversait, et / puis} il tomba évanoui sur le carreau. » Flaubert, Bouvard et Pécuchet
+Ces coordonnants se distinguent toutefois des conjonctions de coordination, car ils ne satisfont pas les caractéristiques de celles-ci données plus haut :
+à l'inverse des conjonctions de coordination, on peut les cumuler avant l'élément coordonné (ainsi d'ailleurs, alors finalement, puis, etc.)
+ils peuvent être associés à une conjonction de coordination, qui sera toujours placée avant eux (ou alors, mais ensuite, et pourtant, or dans ce cas, car enfin, etc.), alors qu'on ne peut juxtaposer deux conjonctions de coordination.
+à la différence des conjonctions de coordination, qui sont généralement placées entre les éléments coordonnés, ces coordonnants disposent d'une certaine mobilité dans le segment concerné :
+« en effet il sait piloter un avion »
+« il sait en effet piloter un avion »
+« il sait piloter un avion en effet »
+alors qu'avec car, il n'existe qu'une seule possibilité : « car il sait piloter un avion »
+C'est pour ces raisons, notamment pour sa mobilité dans la phrase et sa capacité à s'adjoindre à d'autres conjonctions de coordination (et donc, mais donc), que les grammairiens actuels, excluent maintenant donc de la liste des conjonctions de coordination et le range parmi les adverbes de relation logique.
+Grevisse distingue les conjonctions de coordination essentielles ou proprement dites : et, ou, ni, mais, car, or, et les conjonctions occasionnelles : voire, c'est-à-dire, soit, savoir, à savoir, ci, soit... soit... , excluant les adverbes anaphoriques, tels que donc, pourtant, en effet, qui peuvent être aussi utilisés pour marquer une relation en dehors de toute coordination.
+
+
+== Conjonction « et »Modifier ==
+
+La conjonction « et » est la conjonction de coordination la plus fréquente de la langue française. Tout comme « ni », elle est capable de coordonner tous les niveaux syntaxiques de la phrase, depuis la phrase elle-même jusqu'au mot (noms, pronoms, adjectifs, verbes, adverbes, plus exceptionnellement mots-outils), et même aux éléments de mot.
+
+
+=== Coordination de phrasesModifier ===
+La phrase est un ensemble de mots commençant par une majuscule et se finissant par un point. À ce critère d'identification basé exclusivement sur la ponctuation, Riegel en ajoute un autre, repris de G. Mauger, basé sur la sémantique : « la phrase est l'expression plus ou moins complexe, mais offrant un sens complet, d'une pensée, d'un sentiment, d'une volonté ». Certains esprits logiciens, tels que Léautaud, ont considéré que la phrase, puisqu'elle contient un sens complet, ne peut être coordonnée à une autre phrase. Grevisse rapporte les propos de Léautaud disant : « Pas de phrase commençant par Et », tout en précisant que, dans son œuvre, Léautaud ne suit pas lui-même cette prescription. À l'opposé, on peut trouver des ouvrages, comme J'ai tant rêvé de toi d'Olivier et de Patrick Poivre d'Arvor, qui commencent par « Et ».
+« le mari veut quelquefois réserver sa fortune à l'enfant qui a mérité la haine de la mère. Et c'est alors des combats, des craintes, des actes, des contre-lettres, des ventes simulées, des fidéicommis; enfin, un gâchis pitoyable, » Balzac, La Femme de trente ans.
+« Elle se faisait une image parfaitement ennuyeuse de la vie qu’elle allait reprendre à Paris. Et cependant à Hyères elle regrettait Paris. » Stendhal, Le Rouge et le Noir
+
+
+=== Coordination de sous-phrasesModifier ===
+Les sous-phrases sont des phrases, soit simplement rattachées les unes aux autres, soit insérées à l'intérieur d'une autre phrase sans jouer le rôle de sujet ou de complément, qui forment une phrase unique. La conjonction « et », entre autres, permet d'unir ces sous-phrases sans en changer leur nature.
+« Cependant le crépuscule tombait et des persiennes en face s'étaient relevées. » Flaubert, Bouvard et Pécuchet
+« Prends l'éloquence et tords-lui son cou ! » Verlaine, Jadis et Naguère
+
+
+=== Coordination de propositions et de syntagmesModifier ===
+« Les petits enfants imaginent avec facilité les choses qu'ils désirent et qu'ils n'ont pas. » Anatole France, Pierre Nozière
+« L’homme n’avait repris que malgré lui et faute de mieux le soin des bêtes et le manche de la charrue. » René Bazin, La Terre qui meurt
+
+
+=== Coordination de mots-outilsModifier ===
+« Si l’on en voulait croire la plupart des historiens du romantisme, [...] c’est avec et par André Chénier que commencerait en France la poésie du dix-neuvième siècle. » Ferdinand Brunetière, La Poésie française du dix-neuvième siècle in The International Library of Famous Literature
+« Comment et pourquoi les littératures de l'Europe moderne [...] se sont-elles détournées des voies où il pouvait sembler que leur passé les engageât ? » Ferdinand Brunetière, Histoire de la littérature française classique, tome I
+« ce jeune homme passa allègrement du soupçon légitime porté sur les limites de notre connaissance à cette affirmation que les choses n'étaient qu'en lui, que par et pour lui. » Éric-Emmanuel Schmitt, La Secte des égoïstes
+
+
+=== Coordination d'éléments de motModifier ===
+Si deux éléments coordonnés ne différent que par leur première partie, on peut, dans la coordination, se dispenser de répéter la seconde partie, que l'on remplace dans l'écriture par un trait d'union :
+« […] la particule humaine, considérée dans ses déterminations physio- et psychologiques, demeurerait la même. » Teilhard de Chardin, Apparition de l'homme.
+« […] par vagues, les bi-, tri-, et quadricycles défilaient. » Raymond Queneau, Chiendent.
+
+
+=== Coordination d'éléments de natures différentesModifier ===
+En général, les éléments coordonnés possèdent la même nature et la même fonction. On peut pourtant rencontrer, même dans la langue littéraire, des coordinations d'éléments de natures différentes, mais de fonction identique, ou des cas d'asymétries plus prononcées. Selon l'importance de ces asymétries, certains grammairiens acceptent et d'autres tiennent pour fautives ces constructions.
+« Elle voyait près du général et en costume d'officier anglais, Arthur à qui sans doute elle devait sa prompte délivrance. » Balzac, La Femme de trente ans
+« Depuis une cinquantaine d'années, et à mesure que l'Encyclopédie et Voltaire éclataient en France, les moines criaient au bon peuple de Milan, qu'apprendre à lire ou quelque chose au monde était une peine fort inutile, » Stendhal, La Chartreuse de Parme
+« Vous n'êtes plus qu'un homme aujourd'hui, et combien laid ! » Ghelderode, Théâtre
+En poussant l'asymétrie encore plus loin, on aboutit à des montages agrammaticaux, que Riegel qualifie de « zeugmes syntaxiques », lorsque les éléments sont de fonctions différentes, et de « zeugmes sémantiques », lorsque les éléments sont sémantiquement incompatibles. Lorsque ces formes sont délibérées, elles constituent des figures de style, visant l'humour ou l'ironie :
+« Plus tard il devint empereur / Alors il prit du ventre et beaucoup de pays » Prévert, Paroles
+« Cet homme marchait pur loin des sentiers obliques, / Vêtu de probité candide et de lin blanc ; » Victor Hugo, La Légende des siècles, Booz endormi
+« Alors elle va s' manger une pizza / Au jambon et au centre commercial » Renaud, Mistral gagnant, Le Retour de la Pépette
+
+
+=== ÉnumérationModifier ===
+Lorsqu'elle coordonne plus de deux éléments, cette conjonction de coordination est ordinairement présente seulement devant le dernier élément de la série, :
+« Ils dénigrèrent le corps des Ponts et chaussées, la régie des tabacs, le commerce, les théâtres, notre marine et tout le genre humain, comme des gens qui ont subi de grands déboires. » Flaubert, Bouvard et Pécuchet
+« le vieillard a une longue moustache, un bonnet de police bleu, une houppelande grise et un chien de Sibérie sur les talons. » Eugène Sue, Le Juif errant
+Mais elle peut aussi être répétée devant chaque membre de l'énumération pour l'énergie ou le relief de l'expression,. Il s'agit d'une figure de rhétorique, la polysyndète :
+« […] le monde, ce grand idiot, qui tourne depuis tant de siècles dans l'espace sans faire un pas, et qui hurle, et qui bave et qui se déchire lui-même. » Flaubert, Mémoires d'un fou
+« Sans ce retour inespéré j’y serais encore allée, ma pauvre petite, car mes conseils vous sont trop nécessaires, et à Victor et à vous. » Balzac, La femme de trente ans
+Enfin elle peut aussi être placée devant chaque terme sauf le premier :
+« La terre était belle, et riche, et féconde. » Lamennais, Paroles d'un croyant
+« ils sont, ceux-là, de probes, et de séditieux, et de hautains artistes » Huysmans, Là-bas
+« Voyez le ciel et les champs, et les arbres, et les paysans surtout dans ce qu'ils ont de bon et de vrai. » George Sand, La Mare au diable
+
+
+=== Accord au plurielModifier ===
+Le groupe coordonné par « et » forme un groupe complexe, dont le phénomène d'accord au pluriel révèle l'unité syntaxique.
+« Le malheur et la mélancolie sont les interprètes les plus éloquents de l'amour, » Balzac, La femme de trente ans
+« Un jeune campagnard, [...] fait le plus souvent connaissance avec la charrue et la faux paternelleS. » Anatole France, Le Génie latin
+« la guêpe fouisseuse, [...] leur perce avec un savoir et une adresse merveilleuX le centre nerveux d’où dépend le mouvement des pattes, » Proust, Du côté de chez Swann
+
+
+=== Coordination différéeModifier ===
+On dit que la coordination est différée, lorsque les éléments coordonnés sont séparés par des termes étrangers à la coordination. Cette séparation souligne le cheminement de la pensée, le second terme semblant être ajouté après réflexion :
+« Puisque sa famille l'avait toujours appelée ainsi, et ses amis, et tout le monde ! » Simenon, La Vérité sur Bébé Donge
+« Cette idée que la mauvaise humeur, la tristesse, l'ennui, sont des faits comme la pluie ou le vent, est en effet la première idée, et fausse. » Alain, Propos sur le bonheur
+« Mais la logique le veut, et la nécessité. » Bainville, Napoléon
+
+
+=== Coordination impliciteModifier ===
+De façon générale, la coordination est implicite quand elle n'est pas marquée par une conjonction de coordination. Un cas particulier de ce type de coordination est l'omission de « et » là où cette conjonction était attendue. Elle est alors remplacée par une simple virgule :
+« Femmes, moine, vieillards, tout était descendu. / L'attelage suait, soufflait, était rendu. » La Fontaine, Fables de La Fontaine, Le Coche et la Mouche
+« Je me mêlai de bonne foi à leurs plaisirs fiévreux, à leurs enthousiasmes d'un jour, à leurs passions d'une semaine. » Gracq, Le Rivage des Syrtes
+
+
+=== Ponctuation de « et »Modifier ===
+Le signe de ponctuation le plus délicat et le plus subtil à mettre en œuvre avec la conjonction « et » est la virgule. Le sens de la phrase peut changer sensiblement selon que ce signe est présent ou absent.
+
+
+==== Coordination simpleModifier ====
+On ne met pas de virgule avant « et » quand cette conjonction lie deux termes de fonction grammaticale équivalente, ou lorsqu'il existe une relation de cause à effet entre les propositions coordonnées :
+« Rages et repentirs bruissent et montent jusqu'au ciel du saint cavalier libérateur de la Bohême. » Olivier et Patrick Poivre d'Arvor, J'ai tant rêvé de toi
+« Dès qu'ils furent arrivés à Lyon et qu'ils eurent pris une chambre dans l'hôtellerie, ils reprirent leurs discours sérieux et tinrent conseil s'ils devaient faire mourir un des héros de leur histoire. » Esprit Fléchier, Mémoires sur les grands jours d'Auvergne
+« Le jour de ses dix-sept ans, elle avait repris son nom de guerre et quitté le monde des Visages-Pâles. » Didier van Cauwelaert, Cheyenne
+En revanche, on met une virgule dans les cas suivants :
+les deux termes coordonnés ont des fonctions différentes
+« Trop fatigués pour attendre le bon vouloir de cet homme […], trop tard pour visiter le cloître ou le trésor, et comme le refuge regorge de monde, nous nous engouffrons, trempés comme des soupes, dans l'albergue la plus proche. » Jean-Claude Bourlès, Le Grand Chemin de Compostelle
+« La Néva est contenue par deux quais de granit, alignés à perte de vue ; espèce de magnificence répétée dans les trois grands canaux qui parcourent la capitale, et dont il n'est pas possible de trouver ailleurs le modèle ni l'imitation. » Joseph et Xavier de Maistre Les Soirées de Saint-Pétersbourg
+les deux propositions liées expriment des idées distinctes
+« Ses habits étaient au goût du jour, et il salua les dames en homme qui les avait beaucoup aimées et qui les aimait encore peut-être. » Ponson du Terrail, La Femme immortelle
+« C'est si loin de moi, tout cela, et les barbarismes atroces de la langue philosophique sont si contraires à mon tempérament d'écrivain latin. » Léon Bloy, Au seuil de l'Apocalypse
+par souci de clarté, quand les termes coordonnés sont longs et complexes
+« Les régions B, qu'une ligne de visée traverse sans toucher au cœur, sont en général peu épaisses optiquement, et elles donnent naissance à une raie en émission qui serait centrée sur λ0 si la zone occultée était négligeable, et qui est plutôt décalée vers le rouge dans de nombreux cas. » Evry Schatzman, Astrophysique : les étoiles
+« À la fois plume et corolle, ainsi que certaines floraisons marines, une grande fleur blanche, duvetée comme une aile, descendait du front de la princesse le long d'une de ses joues dont elle suivait l'inflexion avec une souplesse coquette, amoureuse et vivante, et semblait l'enfermer à demi comme un œuf rose dans la douceur d'un nid d'alcyon. » Proust, Le Côté de Guermantes
+« L'aise, la joie, l'abondance remplissent l'âme de telle sorte, qu'elles en éloignent tout le sentiment de la misère des autres, et mettent à sec, si l'on y prend garde, la source de la compassion. » Bossuet, Sermon sur l'impénitence finale
+les propositions coordonnées sont de construction dissemblable (sujets ou modes différents)
+« Elle ignore l'Enfer comme le Purgatoire, / Et quand l'heure viendra d'entrer dans la nuit noire, / Elle regardera la face de la Mort,... » Baudelaire, Les Fleurs du mal, Allégorie
+« À cette question disons tout de suite que nous ne saurions encore, et que nous ne pourrons sans doute jamais, répondre avec assurance. » Pierre Teilhard de Chardin, La Place de l'homme dans la nature
+en l'absence de virgule, un terme d'une proposition pourrait sembler se rapporter à la proposition précédente, :
+« Je suis encore trop faible pour courir, et marcher le long de la plage, comme me l'a conseillé le médecin, m'ennuie. »
+
+
+==== ÉnumérationModifier ====
+Dans une énumération non liée par une conjonction de coordination (coordination implicite), la règle classique consiste alors à placer une virgule après le dernier terme de l'énumération,, tandis que le code typographique désapprouve cette pratique :
+« Les arbres, les eaux, les revers des fossés, les champs mûrissants, flamboient sous le resplendissement mystérieux de l'heure de Saturne ! » Paul Claudel, Tête d'or
+« Chaque jour, un mot, un éclair rapide, un regard, me faisaient frémir » Alfred de Musset, La Confession d'un enfant du siècle
+« Les auteurs gais, les humoristes, les comiques, en sont généralement dépourvus. » Sacha Guitry, Jusqu'à nouvel ordre, La Fantaisie
+Mais lorsque les deux derniers éléments sont liés par « et », alors la dernière virgule disparaît :
+« Une lampe à pétrole, du plus petit modèle, éclairait leurs fronts penchés, la soupière, un plat de lard froid et un autre de pommes crues. » René Bazin, La Terre qui meurt
+« Il revoit les moujiks vicieux, méfiants, menteurs, paresseux et butés, avec qui il causait tout à l’heure. » Romain Rolland, Vie de Tolstoï
+Toutefois, lorsque l'auteur veut souligner le dernier terme, il peut placer une virgule avant le « et », :
+« Les amis, la bonne chère, et surtout la paresse avaient promptement achevé sa ruine. » Flaubert, Bouvard et Pécuchet
+« D'Italiens, il n'a connu que des voituriers, des policiers, et quelques lazzaroni. » Julien Gracq, En lisant en écrivant, Gracq insistant sur les mauvaises fréquentations italiennes de Berlioz, des lazzaroni.
+« Il était un curieux mélange de sentimentalité germanique, de blague parisienne, et de fatuité insupportable. » Romain Rolland, Jean-Christophe, La Foire sur la place
+« Tout ce qui y surnageait, ainsi que dans toute sa personne, c'était la finesse, l'esprit, les grâces, la décence, et surtout la noblesse. » Jules Janin, Fénelon et Télémaque in Fénelon Les Aventures de Télémaque
+Cette virgule est nécessaire si le dernier terme seul est développé par un complément ou une subordonnée. Dans ce cas, la subordonnée ne modifie que le dernier terme :
+« il se nourrit de racines, de plantes, de fruits perdus, et de coquillages qu'il cherchait le long des grèves. » Flaubert, Trois contes
+La place de la virgule indique que seuls les coquillages étaient cherchés le long des grèves. Si Flaubert avait voulu dire qu'il trouvait toute sa nourriture le long des grèves, il aurait écrit :
+« il se nourrit de racines, de plantes, de fruits perdus et de coquillages, qu'il cherchait le long des grèves. »
+
+
+== Conjonction « ou »Modifier ==
+
+La conjonction ou permet d'indiquer une idée de sélection, de choix, entre les éléments (deux ou davantage) de même nature et même fonction, qu'elle coordonne. Comme la conjonction « et », elle est capable de coordonner tous les niveaux syntaxiques d'un texte : phrases, sous-phrases, propositions, syntagmes, mots, mots-outils et même des parties de mots. Exemples de coordination à différents niveaux syntaxiques :
+Phrases : « À Francfort que la neige obstrue ? À Hambourg où la pluie claque aux vitres ? Ou je ne sais quelle chapelle entre deux trains engloutie parmi de petits magasins sinistres ? » Paul Claudel, La Messe là-bas, 1919
+Propositions subordonnées : « Lorsque Guitry interprète quelqu'un de ses rôles, ou que Bocage rugit sous les traits de Buridan ou que Delaunay trace l'élégante silhouette d'un personnage de Musset, ils font plus que d'incarner sur la scène un certain type d'amant. » Alphonse Séché et Jules Bertaut, L'Évolution du théâtre contemporain, 1908
+Syntagmes : « Seul dans le milieu de la base un trou rond, gueule de four ou soupirail de cachot. » Paul Claudel, Connaissance de l'Est
+Verbes : « Quand Téry assimile ou compare les maîtres de l'enseignement aux magistrats, il semble vouloir insister sur le devoir qu'on aurait de conférer aux premiers l'inamovibilité des seconds ; » Charles Péguy, Œuvres complètes, Introduction par Maurice Barrès
+Mots-outils : « En effet, tout cela, simplement conté, vif, sifflant, spirituel, est — quoique ou parce que médisant — d'une lecture qui laisse un assez gai souvenir. » Henri Lavedan, Bon an, mal an
+Éléments de mots : « Parmi les signes caractéristiques, il faut noter […] les aspects micro- ou macro-papillaires irréguliers et congestifs sur le versant glandulaire, » Joseph Monsonego, Infections à papillovirus : état des connaissances, 2006
+
+
+=== Double nature de « ou »Modifier ===
+La conjonction « ou » est ambiguë, car elle peut tout aussi bien marquer une disjonction exclusive (« ou exclusif ») qu'une disjonction inclusive (« ou inclusif »). Dans le premier cas, un seul des termes coordonnés est vrai, et il exclut tous les autres, tandis que, dans le second cas, plusieurs termes coordonnés peuvent être simultanément vérifiés.
+
+
+==== Exemples de disjonction inclusiveModifier ====
+« Exclus ? Un mot banni du vocabulaire des dirigeants de la Croix-Rouge, qui va déployer un éventail d'offres pour les personnes âgées, malades ou handicapées. » Thierry Jacolet et Bruno Maillard, Un Siècle d'action humanitaire, 2009. Toutes les combinaisons d'âge, de maladie et de handicap sont concernées.
+« Ce sont des vaniteux, des faibles ou des sots, dont les mésaventures ou les infortunes nous inspirent plus d'ironie que de pitié. » Henry Gaillard de Champris, Anniversaires et pèlerinages, chapitre Émile Augier 1921
+« Le juge qui a jugé les combattants de Paris ou des provinces, a mis sur la sellette les soutiens de la loi. » Victor Hugo, Napoléon le Petit, 1852
+Quand on craint que la nature inclusive de la conjonction ne soit pas comprise par le lecteur, on peut la souligner en remplaçant le ou par « et/ou » :
+« Le clown, ou plutôt le comedian, présent dans une publicité télévisuelle provoque le rire qui peut avertir et/ou entraîner une certaine dérision, tout en respectant les normes de bienséance et de bon goût. » Nicole Vigouroux-Frey, Le Clown : rire et-ou dérision ?, 1999
+
+
+==== Exemples de disjonction exclusiveModifier ====
+Sur la carte d'un restaurant : « Fromage ou dessert ». Il n'est pas possible de prendre à la fois le fromage et le dessert. Si le fromage est choisi, il exclut le dessert. Dans tous les cas, ce groupe coordonné se réduit à un seul plat.
+« Pour être sincère, cette Farce de maître Pathelin, qu'elle soit vraie ou non, qu'on écrive Pathelin avec une h ou sans h, qu'on la vieillisse ou qu'on la rajeunisse, ne vaut pas grand'chose. » Henry Becque, Querelles littéraires
+« Voyant qu'il estoit si près de nos murailles, je dis que je le voulois avoir mort ou vif. » Jean Alexandre Buchon, Choix de chroniques et mémoires sur l'histoire de France, 1835
+« Celui des deux dont le nom sortira le premier partira demain pour les montagnes de la Suisse ou pour les montagnes des Pyrénées. » Léopold Lacour, Gaulois et parisiens, 1883
+Pour préciser la nature exclusive de la conjonction, on peut faire précéder chaque élément coordonné de « ou bien » ou de « soit », ou de commencer par « de deux choses l'une » :
+« Qui est plus criminel, à votre avis, ou celui qui achète un argent dont il a besoin, ou bien celui qui vole un argent dont il n'a que faire ? » Molière, L'Avare, acte II, scène 2
+« Est-ce à votre cocher, Monsieur, ou bien à votre cuisinier, que vous voulez parler ? » Molière, L'Avare, acte III, scène 1
+« Mais il ne répondit pas, soit étonnement de mes paroles, attention à son travail, souci de l'étiquette, dureté de son ouïe, respect du lieu, crainte du danger, paresse d'intelligence ou consigne du directeur. » Marcel Proust, À l'ombre des jeunes filles en fleurs, 1919
+« De deux choses l'une : ou l'homme que vous frappez est sans famille, sans parents, […]. Ou cet homme a une famille ; et alors croyez-vous que le coup dont vous l'égorgez ne blesse que lui seul ? » Victor Hugo, Le Dernier Jour d'un condamné, 1832
+« De deux choses l'une : ou bien il a profité de la confusion pour se prendre par la main et s'emmener promener, ou bien il est allé chercher une arme dans son bureau. » San-Antonio, Des Draqées sans baptême, 1953
+
+
+==== Ou exclusif asymétriqueModifier ====
+Dans ce type de coordination, la relation est exclusive, car la non-réalisation du premier terme coordonné entraîne automatiquement l'exécution du second. Les termes coordonnés ont donc un ordre et ne peuvent être intervertis. C'est pourquoi cette relation est dite aussi asymétrique.
+« Tu viendras ou tu n'es qu'un imbécile. » Francisque Sarcey, Journal de jeunesse de Francisque Sarcey
+« — Empoignez-les, père Morin ! ou la falaise va s’écrouler ! » Gustave Flaubert, Œuvres complètes, Bouvard et Pécuchet, 1881
+« — Filez, nom de Dieu ! ou je vous crève la paillasse ! » Gustave Flaubert, Œuvres complètes, Bouvard et Pécuchet, 1881
+« — Voilà, expose-t-il succinctement : ou tu te mets à table, ou tu dégustes ! » San-Antonio, Du poulet au menu, 1958
+
+
+=== Accords des groupes coordonnés par « ou »Modifier ===
+La règle générale d'accord des groupes coordonnés, qui s'applique par exemple parfaitement aux groupes coordonnés par « et », est la suivante : le receveur d'accord se met au pluriel lorsque le donneur d'accord est formé d'éléments coordonnés, même si ces éléments coordonnés sont tous au singulier. Cette règle est cependant moins systématique, lorsque la conjonction est « ou », car elle apporte une idée d'unicité lorsqu'elle s'interprète comme un « ou exclusif ». Dans ce cas, le groupe coordonné se trouve réduit, au point de vue du sens, à un seul terme, et le receveur d'accord se met au singulier.
+Dans « La peur ou la misère lui a fait commettre cette faute. », le verbe est au singulier, car il n'y a qu'un seul agent qui a provoqué cette faute, soit la peur, soit la misère (disjonction exclusive), alors que dans « La peur ou la misère ont fait commettre bien des fautes. », le verbe est au pluriel, car ici c'est tantôt la peur, tantôt la misère les initiatrices de ces fautes (disjonction inclusive). Le type de l'accord confirme ainsi la nature exclusive ou inclusive de la coordination.
+La conjonction ou peut servir aussi à préciser ou à corriger le premier élément : « cosmétique ou la science de la beauté », « La Folle journée ou Le Mariage de Figaro » ou « Bonjour ou plutôt Bonsoir »
+
+
+== Conjonction « ni »Modifier ==
+
+La conjonction ni permet d'indiquer une idée d'exclusion entre les éléments (deux ou davantage) de même nature et même fonction, qu'elle coordonne. Le type d'élément peut être le mot, le groupe ou la proposition, mais pas la phrase. Elle correspond donc à la conjonction « et » employée à la forme négative.
+La conjonction « ni » est habituellement répétée devant chaque élément qu'elle coordonne :
+Quel jour choisir ? Ni le mercredi, ni le samedi, ni le dimanche, en tout cas.
+Son emploi dépend de l'utilisation de l'une des locutions adverbiales de négation (telles que « ne… pas, ne… jamais », etc.), amputée de son second élément :
+Je ne bois ni thé, ni café.
+Et non pas : « Je ne bois pas ni thé ni café ». Ce qui correspondrait à une double négation.
+
+Si l'on choisit de conserver néanmoins le second élément de la négation, il faut alors supprimer la conjonction « ni » devant le premier élément (on observera dans ce cas la nécessité d'employer l'article partitif « de ») :
+
+Je ne bois pas de thé, ni de café.
+
+
+== Conjonction « mais »Modifier ==
+
+Les éléments coordonnés par la conjonction mais peuvent être des mots, des syntagmes, des propositions ou encore, des phrases, le plus souvent au nombre de deux. Elle peut occasionnellement se répéter si le nombre d'éléments coordonnés est supérieur à deux,,, ou pour donner plus de force à l'opposition,. Cette conjonction permet de marquer l'exclusion, la restriction, l'opposition, l'addition, l'extension et l'objection.
+
+
+=== ExclusionModifier ===
+Il y a exclusion, lorsque la seconde proposition exprime le contraire de ce qui est énoncé dans la première, de sorte que ne pouvant être vraies en même temps, elles s'excluent mutuellement. L'exclusion se marquant par non… mais ou ne… mais, la première proposition est négative et la seconde affirmative :
+« Le premier de tous les biens n'est pas dans l'autorité, mais dans la liberté. » Jean-Jacques Rousseau, Émile, livre second.
+« Ce n'était pas de lui qu'il était question, mais de son cheval. » Alexandre Dumas, Les Trois mousquetaires
+« Je l'aime, non point tel que l'ont vu les enfers, […] mais fidèle, mais fier, et même un peu farouche, » Racine, Phèdre, acte II, scène 5
+L'exclusion peut être renforcée par mais bien ou mais bien plutôt.
+
+
+=== RestrictionModifier ===
+Il y a restriction lorsque la première proposition n'est exclue qu'en partie, c'est-à-dire qu'elle est limitée ou restreinte par la seconde :
+« L'autruche a des ailes, mais elle ne vole pas. »
+« Ils ne mouraient pas tous, mais tous étaient frappés. » La Fontaine, Les Animaux malades de la peste
+« Passe encore de bâtir, mais planter à cet âge ! », La Fontaine, Le Vieillard et les Trois Jeunes Hommes, livre XI - fable 8
+« Il y avait bien une fontaine, mais sèche. » Jean Giono, L'Homme qui plantait des arbres.
+
+
+=== OppositionModifier ===
+Il y a opposition, lorsque la seconde proposition exprime une différence, c'est-à-dire qu'elle affirme quelque chose d'opposé à la première, sans l'exclure ni la restreindre :
+« Hamilcar leur avait fait des promesses exorbitantes, vagues il est vrai, mais solennelles et réitérées.. » Flaubert, Salammbô.
+« Ses traits étaient comme effacés, mais son regard myope avait de l'effronterie. » Paul Féval, Le Bossu
+«… ce rat départemental, vulgairement appelé tantôt l'abonné, tantôt l'actionnaire, tantôt membre correspondant, quelquefois souscripteur ou protecteur, mais partout un niais. » Balzac, L'Illustre Gaudissart
+L'opposition peut être renforcée par « mais bien » ou « mais au contraire » après une première proposition négative,.
+
+
+=== AdditionModifier ===
+La conjonction « mais » peut introduire une addition, une correction, une précision indispensable. Dans ce cas, l'affirmation qui précède apparaît comme une chose que l'on concède, que l'on reconnaît et que l'affirmation suivante va compléter ou dépasser sans l'annuler :
+« Il y a de bons mariages, mais il n'y en a point de délicieux » La Rochefoucauld
+« Mon dieu, le porche est sale et antique, mais enfin d'un caractère majestueux » Proust, Du côté de chez Swann
+« J'embrasse mon rival, mais c'est pour l'étouffer. » Racine, Britannicus, acte IV, scène 3
+«… où les phrases rythmiques et sûres, symboles encore, mais symboles purs, où les paroles, se font transparentes et révélatrices. » Gide, Le Traité du narcisse, chapitre I
+
+
+=== ExtensionModifier ===
+L'extension se marque par emphase au moyen de l'expression non seulement . . . mais (encore, aussi), la seconde proposition amplifiant ce qu'a dit la première, :
+« Ces pères de l'Église furent non seulement des professeurs éloquents, mais encore des hommes politiques. » Chateaubriand, Études ou discours historiques sur la chute de l'Empire romain
+« Le crime en général, le meurtre en particulier sont, non seulement leur excuse, mais leur unique raison d'être. » Mirbeau, Le Jardin des supplices
+« Mon fils est non seulement un des premiers avocats de Paris, mais encore le voici député depuis un an. » Balzac, La Cousine Bette
+Pour éviter les constructions boiteuses, les deux éléments coordonnés doivent être de même nature grammaticale. Ainsi on n'écrira pas : « Un bon général doit éviter non seulement les erreurs, mais aussi profiter de celles de son adversaire. », mais : « Un bon général doit non seulement éviter les erreurs, mais aussi tirer profit de celles de son adversaire. ».
+
+
+=== ObjectionModifier ===
+La conjonction « mais » peut introduire une objection, parfois sous la forme interrogative, parfois associée à « cependant » ou à « pourtant », formes jugées pléonastiques par certaines grammaires :
+« Oreste : Cette nuit je vous sers, cette nuit je l'attaque.
+Hermione : Mais cependant, ce jour, il épouse Andromaque ! » Racine, Andromaque, acte IV, scène 3
+« – Mais que ferons-nous de cet enfant en route ? il aura froid, il aura faim » George Sand, La Mare au diable
+« – Mais cependant si c'est un espion...
+– Que voulez-vous que fasse un espion? nous ne sommes plus au temps du cardinal de Richelieu » Dumas, Vingt ans après
+
+
+=== TransitionModifier ===
+Parfois la conjonction « mais » ne marque qu'une transition pour revenir à un sujet abandonné, ou pour quitter celui dont on parle, :
+« Mais la question n'est pas là. Que faisons-nous ici, voilà ce qu'il faut se demander. » Beckett, En attendant Godot, acte deuxième
+« Mais venons au sujet qui m'amène en ces lieux. » Molière, Les Femmes savantes, acte II, scène 2
+« Mais voilà qu'un malaise neuf me trouble aujourd'hui, parce que je viens de remarquer, soudain, les veines saillantes et les rides sur les mains si blanches de mon père » Colette La Maison de Claudine, chapitre Amour
+« Mais ceci nous mènerait trop loin, et nous y reviendrons lorsque nous traiterons des ordres monastiques. » Chateaubriand, Génie du christianisme
+
+
+=== En début de phraseModifier ===
+« Mais » s'emploie encore dans la conversation au commencement d'une phrase qui a quelque rapport avec ce qui a précédé,, pour renchérir ou pour souligner une émotion. Grevisse estime que, dans des emplois de ce genre, « mais » perd son rôle de coordinateur pour glisser vers le statut de mot-phrase.
+« – Mais que diable allait-il faire à cette galère ? » Molière, Les Fourberies de Scapin, acte II, scène 7
+« – Mais jamais de la vie, monsieur !... Qu'est-ce que c'est que ces manières ! » Feydeau, Le Dindon, acte I, scène 1.
+« – Mais enfin, M. le Perpétuel et moi, nous n'avons pas rêvé ! » Gaston Leroux, Le Fauteuil hanté
+« Mais que vous êtes élégante ce soir ! »
+
+
+=== Exemples de répétition de « mais »Modifier ===
+Répétitions donnant plus de force à l'opposition :
+« Immolez, non à moi, mais à votre couronne, mais à votre grandeur, mais à votre personne. » Corneille, Le Cid, acte II, scène 9
+« il reçoit mes caresses, mais il ne les cherche pas, mais il n'y répond pas. » Alexandre Dumas, La princesse Flora
+« À l'instant, il s'éleva dans tout Israël un seul cri, mais éclatant, mais unanime. » Rousseau, Le Lévite d'Ephraïm, chapitre 3
+Répétitions illustrant une opposition multiple :
+« Vraie noblesse de province, ignorée depuis deux cents ans à la Cour, mais pure de tout alliage, mais souveraine aux États, mais respectée des gens du pays comme une superstition et à l'égal d'une bonne vierge qui guérit les maux de dents, cette maison s'était conservée au fond de sa province... » Balzac, Le Cabinet des Antiques
+« et cette main sans pair, si vous l'aviez vue, est assez blanche, mais large, mais charnue, mais boursouflée, mais courte, et tient au bras le mieux nourri que j'aie vu de ma vie. » Marivaux Esprit de Marivaux, Portrait d'une veuve âgée qui veut encore plaire.
+
+
+=== Ponctuation de « mais »Modifier ===
+Les grammairiens semblent tous d'accord : « mais », quand il n'est pas en début de phrase, doit normalement être précédé d'une virgule,,,.
+On peut éventuellement omettre la virgule, quand « mais » joint deux éléments courts, comme deux adjectifs épithètes, attributs ou en apposition, deux verbes ou deux adverbes. Tanguay remarque que plus l'ellipse de la seconde proposition est importante, donc plus sa taille est réduite, et plus il semble que l'on hésite à mettre la virgule. Dans certains cas, cette suppression vise à donner à la phrase un rythme plus rapide ou mieux approprié, particulièrement entre deux mots semblables ou entre deux groupes très courts (sans verbe) :
+Alain est paresseux mais doux comme un agneau.
+Il a promis de conduire lentement mais sûrement.
+Mais l'omission de la virgule supprime la pause à la lecture, et donc atténue l'opposition marquée par « mais », comme le remarque Drillon, en analysant le vers original 

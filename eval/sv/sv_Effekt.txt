@@ -1,0 +1,18 @@
+m att tillämpa gradientteoremet (gradient theorem) erhålls
+
+där A and B är ändpunkterna för den kurva längs vilken arbete uträttas.
+Effekten i varje punkt längs kurvan C är tidsderivatan
+
+I en dimension, kan detta förenklas till
+
+För roterande system är effekten produkten av vridmomentet τ och rotationshastigheten ω enligt
+
+där ω mäts i radianer per sekund.
+För pneumatiska system, sådana som pneumatiska pumpar, ges effekten av
+
+där p är trycket i pascal, eller N/m2 och Q är flödeshastigheten i m3/s.
+
+
+== Externa länkar ==
+Power from The Physics Hypertextbook
+Tony R. Kuphaldt: Lessons In Electric Circuits -- Volume II: Power factor. Power in resistive and reactive AC circuits

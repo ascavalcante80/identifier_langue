@@ -1,0 +1,39 @@
+Системная инженерия — междисциплинарный подход и средства для создания успешных систем; междисциплинарный подход, охватывающий все технические усилия по развитию и верификации интегрированного и сбалансированного в жизненном цикле множества системных решений, касающихся людей, продукта и процесса, которые удовлетворяют потребности заказчика.
+
+
+== СтандартыПравить ==
+
+
+=== Основные стандарты на английском языкеПравить ===
+ISO/IEC 15288:2015 Systems and software engineering — System life cycle processes
+ISO/IEC TR 19760:2003 Systems engineering — A guide for the application of ISO/IEC 15288 (System life cycle processes)
+ISO/IEC 26702 (IEEE Std 1220:2005) Systems engineering — Application and management of the systems engineering process
+ISO/IEC TR 24748-1:2010 Systems and software engineering — Life cycle management — Guide for life cycle management
+ISO/IEC 25010:2011 Systems and Software Engineering — Systems and Software Engineering Quality Requirements and Evaluation
+ISO/IEC/IEEE 24765:2010 Systems and software engineering — Vocabulary
+ISO/IEC/IEEE 29148 Systems and software engineering — Life cycle processes — Requirements engineering
+ISO/IEC/IEEE 42010:2011 Systems and software engineering — Architecture description
+ISO 15926 Industrial automation systems and integration—Integration of life-cycle data for process plants including oil and gas production facilities
+ISO/IEC 29110:2011 Systems Engineering Standards for Very Small Entities
+
+
+=== Основные стандарты на русском языкеПравить ===
+ГОСТ Р ИСО/МЭК 15288-2005 Информационная технология. Системная инженерия. Процессы жизненного цикла систем (см. ISO/IEC 15288:2008)
+ГОСТ Р ИСО/МЭК 12207-2010 Информационная технология. Системная и программная инженерия. Процессы жизненного цикла программных средств (см. ISO/IEC 12207:2008)
+ГОСТ Р ИСО/МЭК ТО 16326-2002. Программная инженерия. Руководство по применению ГОСТ Р ИСО/МЭК 12207 при управлении проектом (см. ISO/IEC 16326)
+ГОСТ Р ИСО 15926-1-2008 Промышленные автоматизированные системы и интеграция. Интеграция данных жизненного цикла для перерабатывающих предприятий, включая нефтяные и газовые производственные предприятия (см. ISO 15926-1:2004)
+
+
+== См. такжеПравить ==
+Системотехника
+
+
+== ПримечанияПравить ==
+
+
+== ЛитератураПравить ==
+Батоврин В. К. Толковый словарь по системной и программной инженерии: учеб. пособие. — М. ДМК Пресс, 2012. — 280 с. ISBN 978-5-94074-818-2
+Гарольд «Бад» Лоусон. Путешествие по системному ландшафту / Пер. с англ. В. Батоврин. — М.: ДМК Пресс. — 2013. ISBN 978-5-94074-923-3
+Косяков А., Свит У., Сеймур С., Бимер С. Системная инженерия. Принципы и практика / Пер. с англ. В. Батоврин. — М.: ДМК Пресс. — 2014. — 636 с. ISBN 978-5-97060-068-9
+Шамие К. Системная инженерия для «чайников»: ограниченная серия от IBM. — John Wiley & Sons, Inc., 2014. — 69 с.
+Холл А. Д. Опыт

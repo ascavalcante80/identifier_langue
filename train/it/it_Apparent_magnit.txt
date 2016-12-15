@@ -1,0 +1,40 @@
+La magnitudine apparente (m) di un corpo celeste è una misura della sua luminosità rilevabile da un punto di osservazione, di solito la Terra. Il valore della magnitudine è corretto in modo da ottenere la luminosità che l'oggetto avrebbe se la Terra fosse priva di atmosfera. Maggiore è la luminosità dell'oggetto celeste minore è la sua magnitudine. Generalmente la magnitudine viene misurata nello spettro visibile (vmag), ma a volte possono essere utilizzate altre regioni dello spettro elettromagnetico, come la banda J nel vicino infrarosso. Sirio è la stella più luminosa del cielo notturno nello spettro visibile, ma nella banda J la stella più luminosa risulta Betelgeuse.
+Poiché ad esempio un oggetto estremamente luminoso può apparire molto debole se si trova ad una grande distanza, questa misura non indica la luminosità intrinseca dell'oggetto celeste, che viene invece espressa con il concetto di magnitudine assoluta.
+
+
+== StoriaModifica ==
+
+La scala con cui sono misurate le magnitudini affonda le sue radici nella pratica ellenistica di dividere le stelle visibili ad occhio nudo in sei magnitudini. Le stelle più luminose erano dette di prima magnitudine (m = +1), quelle brillanti la metà di queste erano di seconda magnitudine, e così via fino alla sesta magnitudine (m = +6), al limite della visione umana ad occhio nudo (senza un telescopio o altri aiuti ottici). Questo metodo piuttosto rozzo di indicare la luminosità delle stelle fu reso popolare da Tolomeo nel suo Almagesto, e si pensa che sia stato inventato da Ipparco. Il sistema prendeva in considerazione solo le stelle, e non considerava la Luna, il Sole o altri oggetti celesti non stellari.
+Nel 1856, Pogson formalizzò il sistema definendo una stella di prima magnitudine come una stella che fosse 100 volte più luminosa di una stella di sesta magnitudine. Perciò, una stella di prima magnitudine si trova ad essere 2,512 volte più luminosa di una stella di seconda. La radice quinta di 100 (2,512) è conosciuta come rapporto di Pogson. La scala di Pogson fu fissata in origine assegnando alla stella Polare una magnitudine di 2. Gli astronomi hanno in seguito scoperto che la Polare è leggermente variabile, pertanto oggi viene usata come riferimento la stella Vega. Si è deciso di adottare una scala logaritmica perché nel XIX secolo si credeva che l'occhio umano non fosse sensibile alle differenze di luminosità in modo direttamente proporzionale alla quantità di energia ricevuta, ma su scala logaritmica. In seguito si scoprì che ciò non è corretto, ma la scala logaritmica delle magnitudini rimase ugualmente in uso.
+Il sistema moderno non è più limitato a sei magnitudini. Oggetti molto luminosi hanno magnitudini negative. Per esempio Sirio, la stella più brillante della sfera celeste, ha una magnitudine apparente posta tra -1,44 e -1,46. La scala moderna include la Luna e il Sole. La prima, quando è piena, è di magnitudine -12, mentre il secondo raggiunge la magnitudine -26,8. Il Telescopio Spaziale Hubble e il Telescopio Keck hanno registrato stelle di magnitudine +30.
+
+
+== Relazioni matematicheModifica ==
+
+Poiché la quantità di luce ricevuta da un osservatore dipende dalle condizioni dell'atmosfera terrestre, il valore della magnitudine apparente viene corretto in modo da ottenere la luminosità che un oggetto avrebbe in assenza di atmosfera. Quanto più un oggetto è debole, tanto più elevata è la sua magnitudine.
+La magnitudine apparente di un oggetto non è una misura della sua luminosità intrinseca: quanto un oggetto appaia luminoso dalla Terra dipende infatti, oltre che dalla sua luminosità assoluta, anche dalla sua distanza. Un oggetto molto distante può apparire molto debole, anche se la sua luminosità intrinseca è elevata. Una misura della luminosità intrinseca dell'oggetto è la sua magnitudine assoluta (M), che equivale alla magnitudine che l'oggetto avrebbe se si trovasse alla distanza di 10 parsec dalla Terra (~32,6 anni luce). Per i pianeti e gli altri corpi del sistema solare la magnitudine assoluta equivale alla magnitudine apparente che il corpo avrebbe se si trovasse alla distanza di 1 UA sia dal Sole che dalla Terra. La magnitudine assoluta del Sole è 4,83 nella banda V (giallo) e 5,48 nella banda B (blu).
+Poiché , la magnitudine apparente m nella banda x può essere definita come:
+,
+dove  è il flusso osservabile nella banda x e  e  sono rispettivamente la magnitudine e il flusso di un oggetto di riferimento, ad esempio la stella Vega. L'incremento di una magnitudine corrisponde a una diminuzione di un fattore di . Per le proprietà dei logaritmi una differenza di magnitudini di  può essere convertita in una differenza di flusso mediante la seguente formula:
+.
+
+
+=== Esempio: il Sole e la LunaModifica ===
+Si supponga di voler conoscere il rapporto fra la luminosità del Sole e quello della Luna piena. La magnitudine apparente media del Sole è -26,74, quella della Luna piena mediamente è -12,74.
+Differenza di magnitudine: 
+Rapporto fra le luminosità: 
+Visto dalla Terra il Sole appare 400 000 volte più luminoso della Luna piena, ma il nostro Astro è quasi 400 volte più lontano dal nostro pianeta rispetto alla distanza media della Luna la quale ovviamente riflette, in piccola parte, la luce ricevente.
+
+
+=== AddizioneModifica ===
+Qualche volta può essere necessario sommare magnitudini, per esempio, per determinare la magnitudine combinata di una stella doppia, quando la magnitudine delle due componenti è conosciuta. Ciò può essere fatto utilizzando la seguente equazione:
+
+ove  è la magnitudine combinata e  e  le magnitudini delle due componenti. Risolvendo l'equazione per  si ottiene:
+
+Si noti che vengono utilizzati i numeri negativi di ogni magnitudine perché luminosità maggiori equivalgono a magnitudini minori.
+
+
+== PrecisazioniModifica ==
+La natura logaritmica della scala è dovuta al fatto che ai tempi di Pogson si pensava che l'occhio umano avesse esso stesso una risposta logaritmica (si veda per esempio la legge di Weber-Fechner). Tuttavia si è poi scoperto che l'occhio umano segue in realtà leggi di potenza, come quelle espresse dalla legge di Stevens.
+La misura della magnitudine viene complicata dal fatto che gli oggetti celesti non emettono radiazione monocromatica, bensì distribuita su un proprio caratteristico spettro. Per questo è importante sapere in quale regione di tale spettro stiamo osservando. A tal fine è utilizzato il sistema fotometrico UBV nel quale la magnitudine viene misurata a tre differenti lunghezze d'onda: U (centrata attorno a 350 nm, nell'ultravioletto vicino), B (circa 435 nm, nel blu) e V (circa 555 nm, nel mezzo dell'intervallo di sensibilità dell'occhio umano). La banda V è stata scelta perché fornisce magnitudini molto simili a quelle viste dall'occhio umano, e quando un valore di magnitudine apparente è fornito senza altre spiegazioni, si tratta in genere di una magnitudine V, chiamata anche magnitudine visuale.
+Tuttavia le stelle più fredde, come le giganti rosse e le nane rosse, emettono poca energia nelle parti blu ed UV del loro spettro, e la loro luminosità viene spesso sotto-stimata nella scala UBV. In effetti, alcune stelle di tipo L e T avrebbero una magnitudine UBV superiore a 100 perché emettono pochissima luce visibile, ma sono molto più luminose nell'infrarosso. L'originario sistema UBV è stato quindi integrato con due nuovi "colori", R ed I

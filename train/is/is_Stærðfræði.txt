@@ -1,0 +1,32 @@
+Stærðfræði er rökvísindi sem beitir ströngum, rökfræðilegum aðferðum til að fást við tölur, rúm, ferla, varpanir, mengi, mynstur, breytingar o.þ.h. Einnig er stærðfræði sú þekking sem leidd er út með rökréttum hætti frá ákveðnum fyrirframgefnum forsendum sem kallaðar eru frumsendur. Þeir sem starfa við rannsóknir og hagnýtingu á stærðfræði eru kallaðir stærðfræðingar.
+Þrátt fyrir að stærðfræðin sé ekki náttúruvísindagrein þar eð stærðfræðingar gera ekki athuganir eða tilraunir á náttúrunni er hún ein helsta undirstöðugrein allra raunvísinda, verkfræði og hagfræði. Hvergi hefur þó orðið jafn sterk samsvörun milli stærðfræðinnar og hins raunverulega heims og í eðlisfræði. Uppgötvanir stærðfræðinga á nýjum stærðfræðilegum fyrirbærum virðast oft hafa litla tengingu við raunveruleikann þegar þær eiga sér stað, en leiða jafnoft til framfara í tilteknum vísindagreinum.
+
+
+== Saga stærðfræðinnar ==
+
+Stærðfræði hefur fylgt manninum frá örófi alda, en elstu skráðu heimildir sýna stærðfræði í mikilli notkun í Súmeru og síðar Babýlóníu, þar sem vitað er að menn þekktu pí, hornasummu þríhyrnings og veldisreikning, svo að fátt eitt sé nefnt. Babýlóníumenn héldu skrár yfir landareignir og búfénað, stunduðu verslun, og skiluðu jafnvel mjög frumstæðum skattaskýrslum. Þessi iðja krafðist skilnings á tölum og einföldum reikniaðgerðum sem giltu um tölurnar, svo sem samlagningu, frádrátt, margföldun og deilingu.
+Þó eru til enn þá eldri heimildir um stærðfræði, frá því löngu áður en ritlistin kom til. Fornleifafræðingar hafa fundið mannvistarleifar í suðurhluta Afríku sem benda til þess að reikningar og tímamælingar (byggðar á staðsetningu stjarna) hafi verið stundaðar um 70.000 f.Kr. Ishangobeinið, sem fannst við upptök Nílar (í Norðaustur-Kongó), varðveitir elstu þekktu heimildina um runu frumtalna, ásamt nokkrum jafnhlutfallarunum, en beinið er frá um 20.000 f.Kr. Fornegyptar gerðu teikningar af einföldum rúmfræðilegum fyrirbærum um 5.000 f.Kr.
+
+
+=== Indversk stærðfræði ===
+Yngri heimildir eru til frá Indlandi. Eftir hrun siðmenningarinnar í Indusdalnum um 1.500 f.Kr. komu fram ýmsir stærðfræðingar. Málfræðingurinn Panini lagði fram málfræðireglur á 5. öld f.Kr. fyrir sanskrít með hætti sem líkist nútímalegu stærðfræðitáknmáli. Var fágun þess slík að búa má til Turing-vélar með því. Í dag er Panini-Backus-málskilgreiningarformið gjarnan notað til að skilgreina formleg mál í tölvum.
+Indverski stærðfræðingurinn Pingala, sem uppi var á 4. eða 3. öld f.Kr. rannsakaði það sem við þekkjum í dag sem Fibbonaccirununa, ásamt Pascalsþríhyrningnum og tvíundarkerfi. Hann notaðist við einfaldan punkt til þess að tákna núll, en það er eitt af elstu dæmum um sérstakt tákn fyrir núll.
+Bakshalihandritið, sem var ritað einhvern tímann á milli 200 f.Kr. og 200 e.Kr. sýnir meðal annars lausnir á línulegum jöfnuhneppum með allt að fimm óþekktum stærðum, lausn annars stigs jöfnu, geómetrískar raðir og jafnvel neikvæðar tölur, sem þóttu vafasamar í margar aldir þar á eftir. Einnig virðast indverskir stærðfræðingar frá Jaina-tímabilinu hafa þekkt mismunandi stig óendanleika, mengjafræði, logra, umraðanir og margt fleira.
+
+
+=== Grísk og hellenísk stærðfræði ===
+
+Saga grískrar stærðfræði hófst um 500 f.Kr. þegar Þales og Pýþagóras fluttu þekkingu Babýlóníumanna og Egypta til Grikklands. Þales notaði rúmfræði til að reikna hæðir píramída og fjarlægð skipa frá ströndu. Talið er að Pýþagóras hafi lagt fram pýþagórasarregluna, sem er kennd við hann, og að hann hafi notað algebraískar reglur til að reikna út pýþagórískar þrenndir.
+
+
+=== Kínversk stærðfræði ===
+Í Kína árið 212 f.Kr. skipaði keisarinn Qin Shi Huang (Shi Huang-ti) fyrir um að allar bækur skyldu brenndar. Þó svo að þessari tilskipun hafi ekki verið fylgt til hlítar, hefur lítið varðveist um sögu kínverskrar stærðfræði. Það að Kínverjar skrifuðu á bambus gerði lítið til þess að bæta úr því.
+Heimildir um talnaritun hafa fundist í skjaldbökuskeljum, en Kínverjar notuðust við tugakerfi sem var þannig að tölur voru ritaðar ofan frá og niður, með tákni hverrar einingar, ásamt tugveldismargföldunartákni inn á milli. Þannig var talan 123 rituð með því að skrifa táknið fyrir 1, svo táknið fyrir hundrað, svo táknið fyrir 2, svo táknið fyrir tug, loks táknið fyrir 3. Á sínum tíma var þetta fullkomnasta talnaritunarkerfi heims, en það gaf færi á útreikningum með reiknitækjum á borð við suan pan og abakus.
+Elsta stærðfræðitengda ritið sem lifði af bókabrennuna var I Ching frá 12. öld f.Kr., sem notast við 64 umraðanir strika sem voru ýmist heil eða brotin. Þýski stærðfræðingurinn Gottfried Wilhelm von Leibniz hafði mikinn áhuga á þessu riti, og telja sumir að hugmynd hans að tvíundarkerfinu hafi komið þaðan.
+Kínverjar uppgötvuðu ýmislegt sem Evrópa fór lengi vel á mis við, á borð við neikvæðar tölur, tvíliðuregluna, notkun fylkjareiknings til að leysa línuleg jöfnuhneppi, og kínverslu leifaregluna. Einnig þekktu Kínverjar Pascalsþríhyrninginn og þríliður löngu áður en þær þekktust í Evrópu.
+
+
+=== Persnesk og arabísk stærðfræði ===
+
+Íslamska heimsveldið sem náði yfir Miðausturlönd, norðurhluta Afríku, Íberíuskagann og hluta Indlands (sem nú er Pakistan) á 8. öld varðveitti og þýddi mikið af grískum stærðfræðiritum, sem þá höfðu gleymst víða í Evrópu. Einnig voru þýdd indversk stærðfræðirit, sem höfðu mikil áhrif, og urðu grunnur að gerð arabískra talna, sem við notum í dag.
+Muhammad ibn Musa al-Khwarizmi ritaði inngangsrit að því sem í dag þekkist sem algebra, og er það nafn d

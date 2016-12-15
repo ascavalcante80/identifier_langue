@@ -1,0 +1,47 @@
+Par coordonnées géographiques (ou encore « repères géographiques ») d'un lieu sur la Terre, on entend un système de trois coordonnées qui sont le plus souvent : la latitude, la longitude et l'altitude (ou l'élévation) par rapport au niveau moyen de la mer (élévation orthométrique) ou par rapport à une surface de référence, en général ellipsoïde (élévation ellipsoïdale).
+Ces coordonnées géographiques découlent d'un système géodésique qui modélise la forme de la Terre.
+Pour se repérer à la surface de la planète, on peut utiliser des systèmes de représentation graphiques appelés « repères cartographiques ».
+
+
+== Latitude (Lat.) ==
+
+La latitude est une valeur angulaire, expression du positionnement nord ou sud d'un point sur Terre. D'un point de vue mathématique, la latitude d'un point est l'angle au centre que forme la normale (verticale) en ce point avec le plan équatorial.
+La latitude est une mesure angulaire s'étendant de 0° à l'équateur à 90° aux pôles.
+Les points de même latitude constituent un cercle approximatif appelé parallèle (les irrégularités du cercle sont liées aux variations d'altitude), sauf aux pôles où ce cercle se réduit à un point. Ces cercles sont inscrits dans des plans perpendiculaires à l'axe de rotation de la Terre.
+Plus la latitude s'écarte de 0°, plus on s'éloigne du plan de l'équateur, cependant la latitude n'est pas une mesure proportionnelle à la distance entre les deux plans, mais proportionnelle à la distance la plus courte pour rejoindre l'équateur en parcourant la surface terrestre soit vers le nord géographique soit vers le sud géographique. En effet, la distance au plan de l'équateur ne varie pratiquement pas près des pôles même si la latitude varie beaucoup, au contraire des plans de latitude près de l'équateur où la variation de la distance inter-plan est minimale.
+
+
+== Longitude (Long.) ==
+
+La longitude est une valeur angulaire, expression du positionnement est ou ouest d'un point sur Terre. En Géodésie, c'est l'angle au centre que forme le plan passant par ce point avec le plan du méridien de méridien de Greenwich.
+Tous les lieux situés à la même longitude forment un demi-plan limité par l'axe des pôles géographiques, coupant la surface de la terre sur un demi-cercle approximatif dont le centre est le centre de la Terre, l'arc allant d'un pôle à l’autre. Un tel demi-cercle est appelé méridien.
+À la différence de la latitude (position nord ou sud) qui bénéficie de l'équateur et des pôles comme références, aucune référence naturelle n'existe pour la longitude.
+La longitude est donc une mesure angulaire sur 360° par rapport à un méridien de référence, avec une étendue de -180° à +180°, ou respectivement de 180° ouest à 180° est.
+Le méridien usuel de référence est le méridien de Greenwich (qui sert aussi de référence pour les fuseaux horaires).
+En combinant les deux angles, la position à la surface de la Terre peut être spécifiée.
+À titre d'exemple, Baltimore (aux États-Unis) a une latitude de 39,28° nord et une longitude de 76,60° ouest (39° 17′ N 76° 36′ O).
+Les coordonnées géographiques sont traditionnellement exprimées dans le système sexagésimal, parfois noté DMS : degrés ( ° ) minutes ( ′ ) secondes ( ″ ). L'unité de base est le degré d'angle (1 tour complet = 360 °), puis la minute d'angle (1 ° = 60 ′), puis la seconde d'angle (1 ′ = 60 ″).
+Pour donner une comparaison approximative en distance de ces unités à la surface de la Terre, le périmètre de la Terre qui correspond à 360 ° est d'environ 40 000 km. Plus précisément, il est de 40 075 km à l'équateur ; par conséquent :
+un degré représente environ 111,32 km (à l'équateur) ;
+une minute représente environ 1,86 km (à l'équateur) ;
+une seconde représente environ 30,92 m (à l'équateur).
+Les mesures inférieures à la seconde sont notées avec le système décimal.
+Ces distances correspondant à un écart de longitude (en degré, minute ou seconde), varient selon la latitude du lieu, puisque les méridiens terrestres se rapprochent progressivement depuis l'équateur vers les pôles. Le tableau ci-dessous en donne quelques exemples illustratifs.
+En faisant l'approximation que la terre est une sphère de circonférence C=40 000 km :
+- à chaque point de latitude se trouve une parallèle à l'équateur qui est = C=40 000 km
+- ces parallèles ont une circonférence dépendant de leur rayon soit: cos latitude X C/2Pi  ( où C/2Pi = rayon à l'équateur)
+- ces parallèles ont donc une circonférence de : 2Pi cos latitude X C/2Pi, c'est-à-dire : Cl = cos latitude X C = C cos latitude  (Cl circonférence à la latitude)
+- et à une latitude donnée, 1° de longitude est = C cos latitude / 360
+- à 45° de latitude, 1° de longitude est =40 000 X cos45 /360 =  78,567 km (avec une précision d'1m)
+De nos jours, les notations équivalentes en minutes décimales ou degrés décimaux sont également utilisées :
+DMS Degré:Minute:Seconde (49° 30′ 00″ - 123° 30′ 00″)
+DM Degré:Minute (49° 30,0′ - 123° 30,0′)
+DD Degré décimal (49,5000° - 123,5000°), généralement avec 4 décimales.
+Voir aussi Convertir les degrés sexagésimaux en degrés décimaux
+Le WGS 84 est le système géodésique associé au système GPS ; il s'est rapidement imposé comme la référence universelle pour la cartographie.
+Attention : il ne faut pas confondre les mesures angulaires de longitude utilisées en géographie, avec les mesures horaires, notamment pour les unités minutes et secondes ; en effet, si on admet que la durée du jour est de 24 heures (le lieu d'exposition du zénith solaire effectue le tour complet de la Terre, c'est-à-dire 360 °, en 24 h), alors pour le jour solaire moyen :
+15 ° de longitude correspondent à un écart horaire d'une heure (60 minutes de temps) ;
+donc 1 ° de longitude correspond à un écart de 4 minutes horaires ;
+15 ′ de longitude correspondent à 1 minute horaire ;
+15 ″ de longitude correspondent à 1 seconde horaire.
+Ces équivalences historiques sont approximatives, mais ne sont plus exactes aujourd'hui, car la définition et la mesure du temps (en secondes SI) n'est plus fondée sur la durée de rotation diurne terrestre dont la durée varie non seulement avec les lieux et les saisons, mais aussi d'une année sur l'autre, la rotation de la Terre n'étant pas régulière et ayant tendance à ralentir (donc la durée du jour solaire ayant tendance à rallonger au fil du temps, avec également des périodes moins fréquentes où cette durée d

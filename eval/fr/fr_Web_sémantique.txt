@@ -1,0 +1,71 @@
+a augmenter car on sera obligé d'en faire deux versions : une pour la visualisation par les êtres humains et une autre pour les machines. Cependant, beaucoup d'applications web font déjà face à ce problème en créant un format lisible pour un navigateur Web ou à la demande d'un lecteur RSS comme pour un blog. Le développement des microformats a été une réaction à ce genre de critique. Pour sa défense, le Web sémantique va probablement faire baisser les tâches de recherche d'informations et ainsi compenser le coût supplémentaire qu'impose la mise à disposition d'un format compatible pour les machines.
+L'une des premières solutions a été d'utiliser le langage GRDDL qui est un mécanisme qui utilise uniquement le contenu déjà présent dans une page HTML (avec des microformats potentiellement) pour en extraire du RDF. Cependant, la multiplicité, l'instabilité des microformats et la difficulté de créer le convertisseur XSLT pour GRDDL ont poussé à spécifier RDFa à intégrer simplement et explicitement du RDF au sein des pages HTML. La méthode RDFa va d'ailleurs être intégrée directement dans le standard HTML5 à travers les microdonnées, ce qui va encore simplifier l'insertion de données RDF dans un document.
+
+
+== Projets ==
+
+Cette section énumère quelques-uns des nombreux projets et des outils qui existent au sein du mouvement Web sémantique.
+
+
+=== AKSW ===
+AKSW (Agile Knowledge Engineering and Semantic Web) est un groupe de recherche qui est hébergé par la chaire de Betriebliche Informationssysteme (BIS) de l'Institut für Informatik (IFI) de l'université de Leipzig ainsi que par l'Institut pour l'Informatique Appliquée (InfAI). Le groupe de recherche AKSW a lancé un certain nombre de projets comme DBpedia.
+
+
+=== DBpedia et SemanticPedia ===
+DBpedia est un effort pour publier des données structurées extraites de Wikipédia : les données sont publiées en RDF et mises à disposition sur le Web des données via SPARQL sous la licence GFDL.
+SemanticPedia est une plate-forme de publication de données issues des différents projets Wikimedia en français portée par le Ministère de la Culture et de la Communication, Inria et Wikimedia France. Une version en français de DBpedia, dont les données alimente également fr.dbpedia.org, a été développée par l'équipe Wimmics du centre de recherche d'Inria Sophia Antipolis. La Ministre de la Culture, Aurélie Flippetti, a annoncé le 19 novembre 2012 que le chantier suivant concernerait le Wiktionnaire et ses deux millions de termes.
+
+
+=== Projet Data.bnf.fr de la Bibliothèque nationale de France ===
+La Bibliothèque nationale de France s'introduit dans la Web Sémantique à travers son projet data.bnf.fr. Ce projet intègre des données produites dans des formats divers, notamment Intermarc, XML-EAD, et Dublin Core pour la bibliothèque numérique. Les données sont modélisées et regroupées par des traitements automatiques et publiées dans divers standards RDF : RDF-XML, RDF-N3, et RDF-NT. Il existe aussi une publication de données en JSON. Le projet utilise la plateforme de développement sémantique CubicWeb.
+En 2013 le projet partage avec Gallica le Stanford Prize for Innovation in Research Libraries (SPIRL).
+
+
+=== Wikidata ===
+
+Wikidata publie certaines données, dites objectives sous divers formats (XML, JSON...). Une entité (un article de Wikipédia par exemple) est composée de plusieurs propriétés possédant une à plusieurs valeurs. Ces entités et propriétés sont marquées d'un identifiant unique ce qui permet de rendre la base indépendante de la langue utilisée. La valeur de ces propriétés peut être d’autres entités mais aussi des chaines, nombres, dates, etc.
+
+
+=== ERCIM ===
+L'avancement du Web sémantique dans le monde est suivi par le W3C dans le cadre d'un projet Semantic Web Advanced Deployment (SWAD). Le projet SWAD-Europe s'est déroulé de mai 2002 à octobre 2004.
+L'organisme européen hôte des projets W3C et qui suit l'avancement du Web sémantique est ERCIM (European Research Consortium for Informatics and Mathematics).
+
+
+=== Les projets d'ontologies ===
+
+
+==== FOAF ====
+FOAF (Friend Of A Friend) est un vocabulaire qui utilise RDF pour décrire les relations que les gens ont avec d'autres personnes et les « choses » autour d'eux. FOAF est un exemple de tentatives du Web sémantique de faire usage des relations au sein d'un contexte social.
+
+
+==== Semantically-Interlinked Online Communities (SIOC) ====
+
+
+=== Autres ===
+
+Le Web des données offre le développement de nouveaux usages qui rendent concrète la notion d'intelligence collective comme :
+Le social bookmarking.
+Les wikis sémantiques qui permettent de créer des contenus en précisant leur sens et en caractérisant leurs relations via une syntaxe de type wiki.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+(en) Site officiel du Web sémantique, W3C.
+Le web sémantique — traduction par Élisabeth Lacombe et Jo Link-Pezet de l'article de Tim Berners-Lee, James Hendler, Ora Lassila, in Scientific American, mai 2001, p. 29-37.
+Alexandre Monnin, Qu'est-ce que le Web Sémantique ?, septembre 2011. Long billet publié sur le C/blog du ministère français de la culture et de la communication.
+Julien Plu, Introduction au Web sémantique, avril 2011.
+Michel Héon, Web Sémantique et modélisation ontologique avec (G-OWL): Guide du développeur Java sous Eclipse, avril 2014, Editions ENI, Collection Epsilon
+Pourquoi et comment le monde est devenu numérique ? Un condensé de l'histoire de l'informatique, INRIA, 2010. Vidéo pédagogique d'environ 24 minutes à destination des lycéens. Présentation du Web sémantique par Rose Dieng-Kuntz ; début : 15 min.
+Analyse the web : reinium.com: The Semantic Web Analyzer
+
+ Portail du Web sémantique
+ Portail d’Internet
+ Portail de l’informatique

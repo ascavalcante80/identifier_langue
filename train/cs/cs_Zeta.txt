@@ -1,0 +1,19 @@
+Zéta (majuskulní podoba Ζ, minuskulní podoba ζ, řecký název Ζήτα) je šesté písmeno řecké abecedy. V systému řeckých číslovek má hodnotu 7. V moderní řečtině reprezentuje znělou alveolární frikativu ([z] IPA).
+Vyvinulo se z ní písmeno 'Z' v latince a písmeno 'З' v cyrilici.
+
+
+== Použití ==
+písmene 'ζ' se používá například jako symbolu pro
+Riemannovu funkci zeta v matematice
+
+
+== Reprezentace v počítači ==
+V Unicode je podporováno jak
+majuskulní zéta
+U+0396 GREEK CAPITAL LETTER ZETA
+
+tak minuskulní zéta
+U+03B6 GREEK SMALL LETTER ZETA
+
+V HTML je možné je zapsat pomocí &#918; respektive &#950, případně pomocí HTML entit &Zeta; respektive &zeta;.
+V LaTeXu je možné minuskulní zéta napsat pomocí příkazu \zeta, pro

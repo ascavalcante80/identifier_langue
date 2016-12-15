@@ -1,0 +1,41 @@
+à la lettre zēta ou zata Ⲋ.
+Il est possible que l'alphabet arménien dérive de l'alphabet grec. Dans ce cas, le za Զ dériverait du zêta.
+
+
+== Codage ==
+La majuscule Ζ possède les codages suivants :
+Unicode : U+0396
+Entité HTML : &Zeta;
+TeX : \Zeta ; 
+DOS Greek : 133
+DOS Greek-2 : 169
+Windows-1253 : 198
+La minuscule ζ possède les codages suivants :
+Unicode : U+03B6
+Entité HTML : &zeta;
+TeX : \zeta ; 
+DOS Greek : 157
+DOS Greek-2 : 218
+Windows-1253 : 230
+Le tableau suivant recense les différents caractères Unicode utilisant le bêta:
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+
+
+=== Bibliographie ===
+(en) Lilian Hamilton Jeffery, The Local Scripts of Archaic Greece, Oxford, Clarendon,‎ 1961
+(en) Nick Nicholas, Proposal to add Greek epigraphical letters to the UCS. Technical report, Unicode Consortium,‎ 2005 (lire en ligne [PDF])
+(en) Edward M. Thompson, An Introduction to Greek and Latin Palaeography, Oxford, Clarendon,‎ 1911
+(en) Ernest C. Colwell, Studies in methodology in textual criticism of the New Testament, Leyde, Brill,‎ 1969 (lire en ligne), « A chronology for the letters Ζ, Η, Λ, Π in the Byzantine minuscule book hand »
+
+
+=== Références ===
+ « Browse by letter form », Poinikastas
+ [PDF] « Grec et copte », Unicode
+ [PDF] « Symboles mathématiques alphanumériques », Unicode
+
+ Portail de l’écriture

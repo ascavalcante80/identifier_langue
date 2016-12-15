@@ -1,0 +1,39 @@
+A munkalebontási szerkezet egy projekt minden feladatát azonosítja. Sokszor egyszerűen feladatlistának nevezik. Angolul Work Breakdown Structure egy nagy, egyedi, beláthatatlannak tűnő munkát – a projektet – sok, kicsi, kezelhető feladatra bontja le. A WBS a projekt meghatározását és a kockázatmenedzsment-folyamatok eredményeit is felhasználja, és azonosítja azokat a feladatokat, amelyek a további tervezés alapját képezik. WBS számos olyan részletet tisztáz, amelyek szükségesek a projektmenedzsment tevékenységének elvégzéséhez.
+
+
+== Munkalebontási szerkezet ==
+
+
+=== A munkalebontási szerkezet definiálása ===
+A WBS segít:
+• részletesen megmutatni a projekt hatókörét. Bár a munkakimutatás elméleti szinten definiálja a hatókörét, a projekt hatóköréről gyakran csak a WBS segítségével kaphatunk képet.
+• szabályozni a haladást. A WBS-ben szereplő feladatok adják a szabályozási folyamat alapját, mivel mindegyik a munka mérhető egysége.
+• pontos költség- és ütemtervet készíteni. A WBS részletesen felsorolja valamennyi adott feladathoz tartozó eszköz-, munka- és anyagköltséget.
+• projektteameket alakítani. Minden teamtag pontos munkaleírást igényel, és azt is tudnia kell, hogyan illeszkedik az ő munkája a teljes projektbe. Egy jó WBS mindkettőt megmutatja. Úgy is növelhetjük a csapattagok projektterv iránti elkötelezettségét, hogy a részvételükkel alakítjuk ki a WBS-t.
+A munkalebontási szerkezetben kétféle feladat létezik: az összefoglaló feladat és a munkacsomag. Például: locsolórendszer telepítése a pázsithoz: ez összefoglaló feladat, mivel számos alárendelt, különálló feladatot foglal magában, pl. árokásás, vagy csövek elhelyezése. Ezeket a különálló feladatokat munkacsomagoknak nevezzük. Ha a munkacsomagokkal elkészültünk, akkor az összefoglaló feladatot is teljesítettük. Meg kell értenünk, hogy az összefoglaló feladatot valójában nem kell végrehajtani; az csak összefoglalja az alárendelt munkacsomagokat. A munkacsomagok azok a feladatok, amelyeket végrehajtanak. Az összefoglaló feladatok és a munkacsomagok közötti összefüggés megértése alapvető fontosságú a jó WBS felépítéséhez.
+
+
+=== A sikeres munkalebontási szerkezet kritériumai ===
+Mivel a jó WBS-t könnyű olvasni, az emberek gyakran azt gondolják, hogy megírni is könnyű. Ez azonban téves feltevés; rengeteg pontatlan és rosszul kidolgozott munkalebontási szerkezet készül minden évben. Azonban ha a WBS megfelel az alábbi értékelési kritériumoknak, a projektvezető biztos lehet benne, hogy a tervezés és a kommunikáció során, valamint a projekt nyomon követésekor hasznos eszköze lesz. Lássuk a sikeres WBS három kritériumát:
+1. A WBS-t felülről kell lebontani. A lebontás fentről lefelé történik: meg kell győződni róla, hogy a munkacsomagok az összefoglaló feladatok részei. Ez könnyen ellenőrizhető: induljunk el az egyik munkacsomagtól felfelé, és mindig tegyük fel a következő kérdést: „Ez a feladat a felette lévő feladat része?” Ha betartjuk ezt a szabályt, akkor:
+• Standard projektmenedzsment-szoftvereket használhat. Ha a projektet más módon bontjuk le, a szoftver teljesen értelmetlen eredményt ad a legfelső szinten.
+• Fontos projektinformációt adhat meg az összefoglaló feladat szintjén. Például az összefoglaló feladatok költségeit. Ez lehetővé teszi, hogy munkacsomag szinten végigkövessük a projektet, ugyanakkor be tudunk számolni a szponzornak a projekt állapotáról. A szponzor számára ez sokkal hasznosabb információ, amit az összefoglaló feladatok alapján gyűjthetünk össze.
+2. A munkacsomagnak az összefoglaló feladatban össze kell adódniuk. Az egyik legbosszantóbb tervezési hiba a szükséges feladatok kihagyása. A probléma úgy kerülhető el, ha nagy gonddal járunk el az adott összefoglaló feladat alatt lévő munkacsomagok eredményeinek összeadásakor. Az alárendelt feladatoknak összességükben ugyanazt az eredményt kell adniuk, mint amit az összefoglaló feladatban megneveztünk.
+3. Minden összefoglaló feladatot és munkacsomagot úgy kell elnevezni, hogy az egy terméket előállító tevékenységre utaljon. Ez azt jelenti, hogy minden feladatnak olyan leíró nevet kell adni, amely magában foglal egy igét – a tevékenységet – és egy főnevet – a terméket. Ezek nélkül a feladat nem egyértelmű. Lássunk két esetet ezzel kapcsolatban:
+• Határozatlan végű feladat. A „teljesítményelemzés” vagy a „kutatás” olyan tevékenységek, amelyeket értünk, de mivel nem állítanak elő egy kézzel fogható terméket, ezeket a tevékenységeket a végtelenségig folytathatjuk. Jobb, ha olyan neveket adunk ezeknek a feladatoknak, amelyek magukban foglalják az elemzés vagy kutatás termékét is, mint pl. „hardverkövetelmények definiálása”, „probléma megfogalmazása” vagy „lehetséges beszállók listájának összeállítása”. Ha egy termék előállítására összpontosítunk, akkor ezzel megadjuk a feladat határozott végpontját, és így könnyebb megbecsülni és nyomon követni az adott feladatot.
+• Határozatlan idejű tevékenységek. Az „adatbázis” olyan feladat, amely idén is több ezer projektben jelenik meg, de mi a szükséges tevékenység? Ez számos dolog lehet a tervezéstől a tesztelésig. Éppen ez a lényeg – nem világos, hogy mit értünk a feladat alatt. Úgy tehető világossá ez a feladat, ha kiegészítjük egy tevékenységgel, mint pl. „adatbázis tesztelése”.
+
+
+=== A munkacsomag mérete ===
+A projektekben a legnagyobb probléma, ami miatt nem tudják tartani az ütemtervet, hogy a munkacsomagok kezelhetetlenül nagyok. A munkacsomagok megfelelő méretezéséhez kövessük az alábbi gyakorlati szabályokat:
+• A 8/80-as szabály. Egyik feladat sem lehet rövidebb, mint 8 munkaóra, vagy hosszabb, mint 80. Ez azt jelenti, hogy ideális esetben a munkanapok 1-10 nap hosszúak. (Ez persze csak egy irányelv, nem kőbe vésett szabály)
+• A jelentési időszak szabálya. Egyik feladat sem lehet hosszabb, mint két beszámoló közötti idő. Más szavakkal, ha heti találkozókat tartunk, akkor egyik feladat sem lehet hosszabb, mint egy hét. Ez a szabály különösen hasznos, amikor az előrehaladásról be kell számolni, mert így majd soha nem kell olyanokat hallanunk, hogy a feladat 25, 40 vagy 60%-ban van kész. Ha beszámolási jelentési rendszert alkalmazunk, akkor a feladatok vagy teljesen késze vannak (100%), vagy elkezdődtek (50%), vagy nem kezdődtek el. Egyik feladat sem lehet 50%-os készültségű két egymást követő találkozón.
+• „Csak ha hasznos” szabály. Ha azon gondolkozunk, tovább bontsuk-e a feladatokat, ne felejtsük el, hogy ennek csak három oka lehet:
+1. A feladatot könnyebb megbecsülni. A kisebb a feladatoknál a bizonytalanság is kisebb, így a becslés pontosabb.
+2. A feladathoz könnyebb kijelölni valakit. Ha egy feladat elvégzését sok emberre bízzuk, elvész a felelősség. Ha lebontjuk a feladatot, az segíthet annak tisztázásában, hogy ki a felelős. Másik előnye, hogy a feladatok és az érőforrások ütemezése során a kevesebb emberhez hozzárendelt kisebb feladatok rugalmasabban kezelhetők.
+3. A feladatokat könnyebb nyomon követni. Itt ugyanaz a logika érvényes, mint a jelentési időszakok meghatározásakor. Mivel a kisebb feladatok kézzelfoghatóbbak, pontosabb képet kapunk ezek haladásáról.
+Ha egy feladat adott módon történő lebonyolítása nem hasznos – azaz nem könnyíti meg a becslést, hozzárendelést vagy nyomon követést -, akkor hagyja egészben!
+
+
+=== Teljesítési feltételek ===
+A teljesítési kritériumok a következő két fontos kérdésre adnak választ minden munkacsomag esetén: (1) Mikor van kész a feladat? (2) Honnan tudjuk, hogy helyesen végeztük el? Amint McConnell statisztikák mutatják, ezeket a kérdéseket a fejlesztés kezdeti szakaszában kell feltenni. Ugyanakkor némelyik feladatnak nincs kézzelfogható eredménye. Hogy tudunk például egy problémajelentést vagy egy üzleti esetet tesztelni? Ez nem mindig könnyű, mégis nagyon fontos dolog. A teljesítési feltételek meghatározása megköveteli, hogy a

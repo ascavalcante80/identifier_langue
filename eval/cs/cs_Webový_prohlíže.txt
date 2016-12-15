@@ -1,0 +1,80 @@
+avené na jádře Trident ====
+Internet Explorer
+Maxthon (dříve MyIE, ve verzi 1.x umožňuje používat také jádro Gecko)
+Netscape Browser 8.0 (tento prohlížeč umožňuje používat jak jádro Gecko, tak jádro Trident)
+32bit Web Browser
+AmiWeb
+Fast Browser
+NeoPlanet
+Smart Explorer
+AOL Explorer
+Avant Browser
+… a další
+
+
+==== Prohlížeče postavené na jádře Gecko ====
+Mozilla Firefox (s rozšířením IE Tab může používat i jádro Trident)
+Mozilla Suite
+SeaMonkey
+Epiphany
+Galeon
+Netscape Navigator (od verze 6.0)
+Camino
+K-Meleon
+Flock
+SkipStone
+My Internet Browser
+Maxthon (ve verzi 1.x)
+… a další
+
+
+==== Prohlížeče postavené na jádře WebKit ====
+Konqueror
+Safari
+OmniWeb
+Google Chrome
+Comodo Dragon
+Maxthon (od verze 3, navíc umožňuje používat také jádro Trident)
+Arora
+Epiphany (od verze 2.28)
+Midori
+Vivaldi
+Seznam.cz prohlížeč
+
+
+==== Prohlížeče postavené na jádře Presto ====
+Opera 7 a výše
+Prohlížeč Nintendo DS (založen na Opeře)
+Prohlížeč Nokia 770 (založen na Opeře)
+Prohlížeč Sony Mylo (založen na Opeře)
+Prohlížeč Wii Internet Channel (založen na Opeře)
+
+
+==== Ostatní grafické prohlížeče ====
+Amaya
+Arachne
+Dillo
+Links2
+Lobo
+NetPositive
+NetSurf
+Opera
+
+
+=== Textové prohlížeče ===
+w3m
+Elinks
+Links
+Lynx
+
+
+== Reference ==
+↑ StatCounter
+↑ http://gs.statcounter.com/
+↑ http://www.netmarketshare.com/
+
+
+== Související články ==
+Renderovací jádro prohlížeče
+Webový server
+Webová stránka

@@ -1,0 +1,27 @@
+.
+A Web Semântica é uma extensão da Web atual e não uma substituição. Ilhas dessa nova tecnologia poderão existir e serem desenvolvidas de forma a se incrementarem continuamente. Por outras palavras, não se deve pensar em termos de reconstrução da Web.
+
+
+== Programas especiais - os agentes ==
+(Fonte: Revista Info, junho de 2009)
+Para que a Web Semântica se concretize, é preciso que os dados sejam acompanhados de descrições baseadas nos padrões W3C. Por meios destes códigos, os computadores vão identificar o que representa um nome, um endereço ou uma cidade. Com essa camada adicional de conteúdo será possível a ação de programas especiais, os agentes, para lidar com informações e executar tarefas.
+
+
+== Ver também ==
+RDF
+RSS
+XML
+OWL
+W3C
+
+
+== Referências ==
+
+http://www.w3c.br/Padroes/WebSemantica
+http://tableless.com.br/a-web-semantica/
+http://www.uel.br/revistas/uel/index.php/informacao/article/view/15958
+http://www.tecmundo.com.br/web/800-o-que-e-web-semantica-.htm
+
+
+== Ligações externas ==
+Mapa Mental deste artigo WikiDraw!

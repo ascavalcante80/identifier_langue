@@ -1,0 +1,15 @@
+QRpedia is een op het mobiel internet gebaseerd systeem dat gebruikmaakt van QR-code om Wikipedia-artikelen te leveren aan gebruikers in hun voorkeurstaal. QR-codes die direct kunnen worden gelinkt aan iedere Uniform Resource Identifier (URI) kunnen eenvoudig worden gegenereerd, maar het QRpedia-systeem voegt meer functionaliteit toe. Het is sinds 2011 in gebruik bij instellingen, waaronder musea in het Verenigd Koninkrijk, de Verenigde Staten en Spanje. De broncode van het project is vrij herbruikbaar onder de MIT-licentie.
+
+
+== ProcesBewerken ==
+Wanneer een gebruiker een QR-code van QRpedia scant op zijn of haar mobiele apparaat, decodeert het apparaat de QR-code naar een Uniform Resource Locator (URL), met gebruikmaking van de domeinnaam "qrwp.org", en waarvan het pad (laatste deel) de titel is van een Wikipedia-artikel, en stuurt een verzoek voor het artikel in de URL van de QRpedia-webserver. Het zendt ook de taalinstelling van het apparaat mee.
+De QRpedia-server gebruikt dan de API van Wikipedia om te bepalen of er een versie van het opgegeven Wikipedia-artikel is in de taal die gebruikt wordt door het apparaat. Zo ja, dan zendt deze het artikel terug in een mobiel-vriendelijk formaat. Als er geen versie van het artikel beschikbaar in de gewenste taal, voert de QRpedia-server een zoekopdracht uit naar de titel van het artikel op Wikipedia in de desbetreffende taal, en geeft de resultaten.
+Op deze manier kan een QR-code hetzelfde artikel in vele talen leveren, zelfs als de instelling (in dit voorbeeld het museum) niet in staat is om zijn eigen vertalingen te maken. QRpedia houdt ook gebruiksstatistieken bij.
+
+
+== OorsprongBewerken ==
+QRpedia werd bedacht door Roger Bamkin, voorzitter van Wikimedia UK, en Terence Eden, een mobiel-internetconsultant. Het werd op 9 april 2011 onthuld bij het Backstage Pass-gebeuren bij het Derby Museum, onderdeel van de GLAM/Derby-samenwerking tussen het Derby Museum and Art Gallery en Wikipedia. De projectnaam is een portmanteau die de initialen "QR" (Quick Response) van de QR-code en "pedia" van Wikipedia combineert.
+
+
+== ImplementatieBewerken ==
+Hoewel het sy

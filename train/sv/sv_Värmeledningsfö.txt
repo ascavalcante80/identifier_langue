@@ -1,0 +1,10 @@
+Värmeledningsförmåga (även termisk konduktivitet, värmekonduktivitet eller specifik värmeledningsförmåga) är egenskapen hos ett material att leda värme.
+Enligt Fouriers lag är värmeflödet J (mängden värmeenergi som passerar på en tidsenhet) genom en stav eller en plåt proportionellt mot tvärsnittsarea S och mot temperaturskillnaden mellan den kalla och den varma sidan ΔT och omvänt proportionellt mot stavens längd (eller plåtens tjocklek) Δx:
+.
+I denna formel är  värmeledningsförmågan. Den mäts i SI-enheten W·m-1·K-1 (watt per meter och kelvin).
+I metaller beskriver Wiedemann-Franz-lagen proportionaliteten mellan värmeledningsförmåga och elektrisk ledningsförmåga. De flesta elektriska isolatorer är också värmeisolerande. Det finns dock undantag, såsom diamant som har hög värmeledningsförmåga, mellan 1000 och 2600 W·m-1·K-1 (högre än koppar). Aluminiumoxid (safir) är ett annat exempel på ett hårt, isolerande, material med hög ledningsförmåga.
+Värmeledningsförmågan ändras med temperaturen. För de flesta ämnen minskar den något med stigande temperatur. Kan även bero på trycket (vid låga tryck).
+
+
+== Värmekonduktivitet i byggsektorn ==
+För byggnadsmaterial anges isoleringsförmåga

@@ -1,0 +1,36 @@
+तलीय यूक्लिड ज्यामिति में वर्ग एक सम-चतुर्भुज है, जिसके चारो कोण ९० अंश के होते हैं।
+
+
+== वर्गीकरणसंपादित करें ==
+वर्ग आयत की एक विशेष दशा है, क्योंकि इसमें चार समकोण हैं। वैसे ही यह सम चर्तुर्भुज (रोम्बस), एवं समानांतर चतुर्भुज की भी विशेष दशा है।
+
+
+== मापन सूत्रसंपादित करें ==
+
+t भुजा वाले वर्ग का परिमाप (पेरिमीटर) :
+
+एवं क्षेत्रफल है:
+
+
+== मानक निर्देशांकसंपादित करें ==
+मूल में केन्द्रित वर्ग जिसकी भुजा लम्बाई 2 है, की भुजाओं के निर्देशांक हैं (±1, ±1), जबकि उसके आंतरिक क्षेत्र में सभी बिंदु (x0, x1) सम्मिलित हैं, &ऋणात्मक;1 < xi < 1.
+
+
+== गुणसंपादित करें ==
+वर्ग का प्रत्येक कोण समकोण है, यानि 90 अंश पर है।
+
+
+== अन्य तथ्यसंपादित करें ==
+It has all equal sides and the angles add up to 360 degrees. Wyoming is also a square because it has that nickname(see State nicknames).
+If a circle is circumscribed around a square, the area of the circle is  (about 1.57) times the area of the square.
+If a circle is inscribed in the square, the area of the circle is  (about 0.79) times the area of the square.
+A square has a larger area than any other quadrilateral with the same perimeter ([1]).
+A square tiling is one of three regular tilings of the plane (the others are the equilateral triangle and the regular hexagon).
+The square is in two families of polytopes in two dimensions: hypercube and the cross polytope. The Schläfli symbol for the square is {4}.
+The square is a highly symmetric object. There are four lines of reflectional symmetry and it has rotational symmetry through 90°, 180° and 270°. Its symmetry group is the dihedral group .
+
+
+== गैर यूक्लिड ज्यामितीसंपादित करें ==
+In non-euclidean geometry, squares are more generally polygons with 4 equal sides and equal angles.
+In spherical geometry, a square is a polygon whose edges are great circle arcs of equal distance, which meet at equal angles. Unlike the square of plane geometry, the angles of such a square are larger than a right angle.
+In hy

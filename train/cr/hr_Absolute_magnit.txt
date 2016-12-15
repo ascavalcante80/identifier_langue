@@ -1,0 +1,63 @@
+U astronomiji, apsolutna magnituda je prividna magnituda, m, koju bi astronomski objekt imao da je na nekoj dogovorenoj standardnoj udaljenosti. Apsolutna magnituda omogućuje da se međusobno usporedi pravi sjaj različitih objekata neovisno o tome koliko su udaljeni.
+Apsolutna magnituda koristi isti princio kao i prividna magnituda - razlika u sjaju od jedne magnitude znači omjer sjaja od ~2.512 (=100,4). Također, kao i prividna magnituda i apsolutna je magnituda broj koji ima to manju vrijednost što je objekt sjajniji, a to veću vrijednost što je objekt slabijega sjaja. Razlika u sjaju od 5 magnituda znači omjer u sjaju od točno 100. Mliječni Put, na primjer, ima apsolutnu magnitudu od oko -20,5, što znači da je kvazar s apsolutnom magnitudom od -25,5 točno 100 puta sjajniji od naše galaksije. Kad bi naša galaktika i taj kvazar bili jednako udaljeni od Zemlje, kvazar bismo na nebu vidjeli 100 puta sjajniji.
+
+
+== Apsolutna magnituda za zvijezde i galaktike (M) ==
+Apsolutna magnituda, M, zvijezde ili galaktike je prividna magnituda koju bi imale da su 10 parseka udaljene; apsolutna magnituda planeta (ili drugog tijela Sunčevog sustava) je prividna magnituda koju bi imalo da je 1 astronomsku jedinicu udaljeno i od Sunca i od Zemlje. Apsolutna magnituda Sunca je +4,83 u V traci (žuta) i +5,48 u B traci (plava).
+
+
+=== Proračun ===
+
+
+==== Primjer ====
+
+
+=== Prividna magnituda ===
+
+
+== Apsolutna magnituda za planete (H) ==
+Za planete, komete, asteroide i druga tijela Sunčevog sustava, definicija apsolutne magnitude je nešto drukčija nego za tijela dubokog svemira. Razlika je, zapravo, jedino u standardnoj udaljenosti za koju se računa prividni sjaj objekta.
+Za tijela Sunčevog sustava, apsolutna magnituda se definira kao prividna magnituda koju bi objekt imao da se nalazi na udaljenosti od 1 astronomske jedinice (1 AJ) i od Sunca i od Zemlje, pri faznom kutu od 0°.
+Za spomenute zadane udaljenosti (1 AJ), Sunce, Zemlja i objekt tvore jednakostraničan trokut, pa fazni kut nikako ne može biti nula, no ovakva je formulacija zgodna za računanje. Fazni kut od 0° znači da se sa Zemlje vidi ona strana nebeskog tijela koja je obasjana Suncem.
+
+
+=== Proračun ===
+Formula za H: (apsolutna magnituda)
+
+pri čemu je:
+ - prividna magnituda Sunca na udaljenosti od 1 AJ (i iznosi -26,73)
+ - geometrijski albedo tijela (broj između 0 i 1)
+ - promjer tijela
+ 1 AJ (~149,6 milijuna km).
+
+
+==== Primjer ====
+Mjesec:
+ = 0,12
+ = 3476/2 km = 1738 km
+
+
+=== Prividna magnituda ===
+Apsolutna magnituda se može koristiti i kod proračuna prividne magnitude tijela u raznim uvjetima.
+
+gdje je
+ = 1 AJ
+ je fazni kut, kut između pravaca Sunce-tijelo i Sunce-promatrač
+Po zakonu cosinusa, slijedi:
+
+ je fazni integral (integriranje reflektirane svjetlosti; broj između 0 do 1)
+Primjer:
+
+Difuzna sfera u punoj fazi reflektira 2/3 svjetla u odnosu na difuzni disk istog promjera
+Udaljenosti:
+ - udaljenost od promatrača do tijela
+ - udaljenost od Sunca do tijela
+ - udaljenost od promatrača do Sunca
+
+
+==== Primjer ====
+Mjesec
+ = +0,25
+ =  = 1 AJ
+ = 384,5 Mm = 2,57 mau
+Ko

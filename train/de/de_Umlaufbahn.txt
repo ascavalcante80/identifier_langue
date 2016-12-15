@@ -1,0 +1,65 @@
+Als Umlaufbahn oder Orbit wird in der Astronomie die Bahnkurve bezeichnet, auf der sich ein Objekt im freien Fall periodisch um ein anderes (massereicheres, zentrales) Objekt bewegt. Diese Bahn hat idealisiert die Form einer Ellipse. Da ständig Kräfte von außerhalb auf ein solches Zweikörpersystem wirken, kann die Bahnform jedoch keine mathematisch exakte Ellipse sein. Der Umlauf wird selten auch als Revolution bezeichnet.
+
+
+== Umlaufbahn als ZweikörperproblemBearbeiten ==
+
+Paare sich umkreisender Objekte sind vor allem:
+die Erde um die Sonne; siehe Erdbahn
+die Erde um den Erde-Mond-Schwerpunkt
+
+Erdumlaufbahn:
+der Mond um die Erde (genauer: den Erde-Mond-Schwerpunkt); siehe Mondbahn
+Satellit, Raumfähre oder ähnliche Raumflugkörper; siehe Satellitenorbit
+
+Planeten, Kometen oder Asteroiden (Planetoiden) um die Sonne (als Überblick siehe Sonnensystem)
+Monde um andere Planeten oder um Asteroiden
+Doppelsterne umeinander (bzw. um deren Baryzentrum).
+Exoplaneten um ihr Zentralobjekt
+die Sonne (und mit ihr das ganze Sonnensystem) um das Zentrum der Milchstraße
+Jede Bahnellipse hat eine charakteristische Umlaufzeit, die sich aus der Masse der Objekte (vor allem des Zentralkörpers) und dem mittleren Bahnradius ergibt. Der Umlauf erfolgt genähert in einer Bahnebene, die den Schwerpunkt der zwei Körper enthält. Der Vektor, der vom Zentralobjekt zum umlaufenden Objekt weist, wird Radiusvektor genannt.
+Jedoch sind nicht alle Bahnen geschlossen oder zeitlich stabil. Kometenbahnen können langgestreckt wie Hyperbeln sein, und Mehrfachsterne oder Asteroiden können auf instabile Bahnen gelangen. Der Umlauf aller Sterne um das galaktische Zentrum gleicht einer spiraligen Rotation mit einer Periode von 100 bis 300 Millionen Jahren. Relativistische Störungen führen dazu, dass eine Keplerbahn ein idealisierter Fall ist. Tatsächlich sind alle Bahnen instabil, auch die der Erde.
+
+
+== Planeten, Bahnelemente, DoppelsterneBearbeiten ==
+
+Am genauesten kennt man die Umlaufbahnen der Planeten unseres Sonnensystems. Anfang des 17. Jahrhunderts erkannte Johannes Kepler bei der Analyse der Marsbahn, dass diese Umlaufbahnen Ellipsen sind (siehe keplersche Gesetze). Ähnliches gilt für alle Himmelskörper, die sich um die Sonne bewegen und keinen anderen Kräften (wie etwa dem Sonnenwind) ausgesetzt sind.
+Aus dem newtonschen Gravitationsgesetz kann man ableiten, dass in jedem Zweikörpersystem die Bahnen Kegelschnitte sind – das heißt Kreise, Ellipsen, Parabeln oder Hyperbeln.
+Sie lassen sich – bei bewegten Punktmassen im Vakuum – exakt durch sechs Bahnelemente beschreiben.
+Die wahren Umlaufbahnen weichen allerdings von diesen idealen Keplerellipsen ab, weil sie prinzipiell auch der Gravitation aller anderen Körper des Systems unterliegen. Solange die Körper weit genug voneinander entfernt sind, bleiben die Differenzen zu den idealisierten Kegelschnitten minimal. Diese Bahnstörungen lassen sich durch die Störungsrechnung der Himmelsmechanik ermitteln, die auf Carl Friedrich Gauß und einige seiner Zeitgenossen zurückgeht. Sie modelliert die einzelnen Kräfte und berechnet, wie die momentane Keplerellipse oskulierend in die nächste Ellipse übergeht.
+Zusätzlich bewirkt jede ungleiche Massenverteilung – wie die Abplattung von rotierenden Planeten – ein etwas inhomogenes Gravitationsfeld; es ist insbesondere an Änderungen der Bahnen ihrer Monde zu bemerken. Auch die allgemeine Relativitätstheorie beschreibt Effekte, die die Umlaufbahnen geringfügig verändern.
+Beispielsweise zeigt der Planet Merkur eine zwar kleine, aber durchaus messbare Abweichung von einer Ellipsenbahn. Er kommt nach einem Umlauf nicht mehr genau auf den Ausgangspunkt zurück, sondern folgt durch eine rechtläufige Drehung der Apsidenlinie einer Rosettenbahn. Diese Periheldrehung kann die newtonsche Gravitationstheorie zwar erklären, aber nicht vollständig. Dazu müsste die Sonne eine etwas abgeflachte Form haben. Eine hinreichende Erklärung für die Gesamtgröße der Periheldrehung aller betroffenen Planeten liefert die allgemeine Relativitätstheorie.
+Auch Doppelsterne folgen genähert den keplerschen Gesetzen, wenn man ihre Bewegung als zwei Ellipsen um den gemeinsamen Schwerpunkt versteht. Nur bei Mehrfachsystemen oder sehr engen Sternpaaren sind spezielle Methoden der Störungsrechnung erforderlich.
+Noch größere Instabilitäten weisen die Orbits zweier eng einander umkreisender Neutronensterne auf. Durch die Effekte der Raum-Zeit-Relativität entsteht Gravitationsstrahlung, und die Neutronensterne stürzen (nach langer Zeit) ineinander. Zahlreiche Röntgenquellen am Himmel sind auf diese Weise zu erklären.
+Als die Physiker um die Jahrhundertwende begannen, die Bahnen der Elektronen im Atom zu berechnen, dachten sie an ein Planetensystem im Kleinen. Die ersten Modelle waren Keplerbahnen der Elektronen um den Atomkern.
+Allerdings erkannte man bald, dass Elektronen, die um den Kern kreisen, gemäß den Maxwellgleichungen elektromagnetische Wellen aussenden und wegen der so abgestrahlten Energie in Bruchteilen von Sekunden in den Atomkern stürzen müssten. Dies war eines der Probleme, die schließlich zur Entwicklung der Quantenmechanik führten.
+
+
+=== Anschauliche Erläuterung anhand der KegelschnittbahnenBearbeiten ===
+
+Die Mechanik einer Umlaufbahn wird oft an einem anschaulichen Gedankenexperiment demonstriert: Man nimmt an, man stehe auf einem hohen Turm oder Berg und schieße ein Projektil horizontal ab. Den Luftwiderstand lässt man zur Vereinfachung vorerst weg. Noch anschaulicher wird das Gedankenexperiment, wenn man es nicht auf der Erde, sondern auf einem kleinen Planeten oder Mond veranstaltet, in der Art des bekannten Titelbilds des Buchs Der kleine Prinz oder auf dem Marsmond Phobos (siehe dazu auch weiter unten).
+Bei niedriger Abschussgeschwindigkeit fliegt das Projektil entlang einer Wurfparabel und trifft nach kurzem Flug auf dem Boden auf (Bahn A in der nebenstehenden Skizze). (Genauer betrachtet ist der vermeintliche Parabelbogen ein Ausschnitt aus einer Ellipse.)
+Bei größerer Abschussgeschwindigkeit wird aus der Parabel ein Ellipsenbogen, und das Projektil trifft erst wieder auf der Erdoberfläche auf, nachdem es einen merkbaren Teil des Erdumfangs überflogen hat (Bahn B).
+Erreicht die Abschussgeschwindigkeit die erste kosmische Geschwindigkeit, wird aus dem Ellipsenbogen ein Vollkreis, ein Orbit. Das Projektil ist also zu schnell, um wieder herunterzufallen; man sagt, dass es dann „um die Erde herumfällt“ (Bahn C).
+Wird die Abschussgeschwindigkeit weiter erhöht, wird aus dem Kreis eine elliptische Umlaufbahn, wobei der Abschusspunkt der erdnächste Punkt ist und bleibt (Bahn D).
+Überschreitet die Abschussgeschwindigkeit die zweite kosmische Geschwindigkeit, öffnet sich die Ellipse zur Hyperbel. Es kommt keine Umlaufbahn zustande, das Projektil verlässt den Einflussbereich der Erde (Bahn E).
+
+
+== Oberflächennahe UmlaufbahnenBearbeiten ==
+Solange der Bahndurchmesser ungefähr gleich (genauer: nur gering größer) als der Durchmesser des als exakt kugelförmig angenommenen Zentralkörpers ist, spricht man von oberflächennahen oder niedrigen Orbits. Wenn die Bahn ebenfalls als kreisförmig angenommen wird, erhält man bei Gleichsetzung der Gewichtskraft mit der Zentrifugalkraft Resultate für Umlaufgeschwindigkeit (die Erste kosmische Geschwindigkeit) und Umlaufzeit.
+Newtonsches Gravitationsgesetz:
+
+mit  = Gewichtskraft,  = Gravitationskonstante,  = Masse des Satelliten,  = Masse des Zentralkörpers,  = Radius des Zentralkörpers
+Die Gewichtskraft des Satelliten ergibt sich unter Verwendung der durchschnittlichen Dichte  des Zentralkörpers (statt dessen Masse) damit wie folgt:
+
+Durch Gleichsetzen mit dem Ausdruck  für die Gewichtskraft ergibt sich daraus die Zentripetalbeschleunigung  (im Fall der Erde die Erdbeschleunigung):
+
+Die Gewichtskraft  und die Zentrifugalkraft  bei Bahngeschwindigkeit  sollen () im Gleichgewicht sein:
+
+Aufgelöst nach  nach Kürzen von :
+
+Die Umlaufzeit  ergibt sich aus , also Umfang / Geschwindigkeit:
+
+Abgesehen von Naturkonstanten hängt die Umlaufzeit also lediglich von der Dichte des Zentralkörpers ab, nicht jedoch von dessen Radius.
+Konkrete Werte für Umlaufbahnen um die Erde:
+
+Der Wert von ca. 90 Minuten ist von niedrigen Satellitenorbits und von den meisten bemannten erdumkreise

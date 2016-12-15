@@ -1,0 +1,34 @@
+Webböngészőnek vagy böngészőnek (angolul browser) nevezzük azon programokat, amelyekkel az interneten található tartalmakat – legtöbbször weblapokat – lehet megtekinteni, illetve az interneten keresztül elérhető szolgáltatásokat használni.
+
+
+== Szabványok és protokollok ==
+A webböngészők a webszerverekkel HTTP protokollon keresztül kommunikálnak. A HTTP segítségével a böngészők adatokat küldhetnek a webszervereknek, valamint weblapokat tölthetnek le róluk. A leggyakrabban használt HTTP szabvány a http:// 1.1, melynek teljes leírása az RFC 2616 alatt található meg.
+A lapokat a böngésző az URL segítségével találja meg, mely a lap címét jelöli. Az URL a címhez tartozó protokollal kezdődik, például a http: a HTTP protokoll jelölése. Sok böngésző több más protokollt is támogat, mint például az ftp: az FTP, a gopher: a Gopher, a https: pedig a HTTPS protokollhoz.
+A weblaphoz tartozó fájl formátuma többnyire HTML, ez a HTTP protokollban a MIME tartalomtípus alatt van megadva. A legtöbb böngésző a HTML mellett támogat más formátumokat is, mint amilyen a JPEG, PNG és GIF képtípusok, valamint tovább bővíthető bennük a támogatott fájltípusok listája különböző beépülők használatával. A HTTP tartalom és az URL használatával a webfejlesztők képeket, animációkat, mozgóképeket és hangokat ágyazhatnak be vagy tehetnek elérhetővé a weblapokon.
+A HTML a böngészőkkel együtt fejlődött, a „hivatalos” HTML-változatokat a W3C hagyta jóvá illetve készítette el. A böngészők sokfélesége és a cégek saját HTML módosításai kompatibilitási problémákhoz vezettek. A modern webböngészők (mint a Firefox, a Mozilla, az Opera, a Safari, a Google Chrome stb.) már pontosabban támogatják a HTML és XHTML szabványokat (a HTML 4.01-gyel kezdődően), melyek figyelembe vételével a weblapoknak azonosan kell megjelenniük minden ilyen böngészőben. Az Internet Explorer jelenleg még nem támogatja tökéletesen a HTML 4.01 és XHTML 1.x szabványokat. Manapság sok weboldal már valamilyen könnyen kezelhető, azonnali eredményt szolgáltató, úgynevezett ALAKHŰ (WYSIWYG) szerkesztővel készült, mint amilyen a Macromedia Dreamweaver vagy Microsoft Frontpage, bár utóbbi nem szabványos HTML kódot készít, akadályozva a W3C munkáját a szabványok további fejlesztése, különösen az XHTML és a CSS stíluslapok tekintetében.
+Egyes böngészők olyan népszerű protokollokat is támogatnak, melyek nem kapcsolódnak szorosan a böngészéshez. Ilyenek például az IRC csevegő, a Usenet hírolvasó vagy a levelező kliens, melyekhez NNTP, SMTP, IMAP és POP protokollokat használják.
+A modern böngészők kiegészítők révén képesek különböző programozási nyelveken írt kódokat, végrehajtani, ezáltal látványosabb tartalmat jeleníthetnek meg; ilyenek a Flash, Java stb. nyelvek.
+A legtöbb böngésző támogat valamilyen szkript nyelvet (JavaScript, VBScript, JScript…). Talán a JavaScript az egyik legelterjedtebb, de ennek is több változata létezik, és a megvalósítása függ a használt operációs rendszertől, böngészőtől, sőt böngészőverziótól.
+
+
+== Böngészők típusai ==
+Webböngészők listája
+
+
+=== Karakteres böngészők ===
+A karakteres böngészők konzolos felületen futnak, csak HTML és XML tartalmat tudnak értelmezni, rendelkeznek azonban megoldásokkal, hogy grafikákat – vagy egyéb nem szöveges tartalmakat – lementsenek illetve külső program segítségével megjelenítsenek. Sebességük általában nagyobb, mint grafikus társaiké, mert a grafikai elemeket nem – és így a reklámokat sem – töltik le, ez egyes esetekben (például kutatómunkáknál) rendkívül hasznos lehet. Ezekkel az eszközökkel vakok is viszonylag könnyedén böngészhetnek az Interneten, mert a sima szöveg könnyedén átalakítható kimondott szavakká vagy Braille-írássá. Ezek a böngészők minden elterjedtebb számítógéprendszerre megtalálhatóak.
+ELinks
+Links
+Lynx
+w3m
+
+
+=== Grafikus böngészők ===
+A grafikus böngészők használatának előfeltétele egy grafikus felület, GUI vagy egy grafikus operációs rendszer (pl: Mac OS, Unix vagy Linux és X11 kombinációja, OS/2, Microsoft Windows stb.). Ma ilyen típusú böngészőket használnak túlnyomó részben. Ezek az alkalmazások képeket, videókat, más alkalmazásokat (például Java) képesek önállóan, vagy úgynevezett beépülők (pluginek) segítségével megjeleníteni, futtatni. A legelterjedtebb böngészők egy sor egyéb funkcióval is rendelkeznek, például levelezés, UseNet, ICQ-támogatás, FTP, illetve az olyan kényelmi szolgáltatások, mint a biztonságos böngészés, a felugró ablakok tiltása vagy a több lapon böngészés lehetősége.
+
+
+==== A W3C statisztikái ====
+
+
+==== A StatCounter statisztikái (2011 szeptember) ====
+Internet Explorer - az összes verzió együtt (

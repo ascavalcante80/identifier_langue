@@ -1,0 +1,119 @@
+Owoc (łac. fructus) − w znaczeniu botanicznym występujący u roślin okrytozalążkowych organ powstający z zalążni słupka, zawierający w swym wnętrzu nasiona, osłaniający je i ułatwiający rozsiewanie.
+Część owocu otaczająca nasiona określa się mianem owocni (perykarpu). Gdy w powstaniu organu otaczającego nasiona biorą udział inne części rośliny niż słupek – twór taki określany jest mianem owocu pozornego. Gdy w jednym kwiecie występuje większa liczba słupków wolnych (słupkowie apokarpiczne), wtedy powstające z nich owoce tworzą owoc zbiorowy na wspólnym dnie kwiatowym (np. malina, jaskier). Natomiast z kilku kwiatów zebranych w skupiony kwiatostan powstają owocostany (morwa, kłębek buraka, figowiec, ananas).
+Budowa owoców stanowi adaptację do różnych form rozsiewania. Owoce mięsiste mogą być roznoszone przez zwierzęta, dla których stanowią pokarm (zoochoria), owoce suche rozprzestrzeniane są m.in. przez wiatr (anemochoria), wodę (hydrochoria) lub zwierzęta.
+Owocami jako rodzajem pożywienia określane są części roślin o grubej warstwie miąższu i przyjemnym, zwykle słodkim smaku i zapachu. Owoce stanowią istotną część pożywienia dla ludzi i wielu zwierząt.
+
+
+== MorfogenezaEdytuj ==
+Z rozwojowego punktu widzenia owocem jest zalążnia w stanie dojrzałości nasion. Proces przekształcania zalążni w zakresie morfologicznym i biochemicznym jest następstwem zapłodnienia, chociaż możliwe jest powstawanie owoców beznasiennych (partenokarpicznych).
+W rozwoju owocu wydzielane jest sześć faz:
+powstanie zawiązków,
+rozwój przed zapyleniem i zapłodnieniem,
+zapylenie i zapłodnienie, a także zawiązanie owocu,
+wzrost po zawiązaniu owocu,
+dojrzewanie,
+starzenie.
+Wzrost w wyniku podziałów komórek przyszłej owocni rozpoczyna się w fazie pąku kwiatowego i ma charakter wykładniczy. U niektórych gatunków w okresie kwitnienia dochodzi do zahamowania wzrostu, co określane jest fazą osłabionego wzrostu. Po zapłodnieniu rozpoczyna się rozwój nasienia i na jego wzrost skierowana jest większość aktywności metabolicznej. Do momentu kwitnienia owocnia (ściana owocu) ma charakter merystematyczny. Później dochodzi do różnicowania się komórek w tkanki zapewniające rozwój owocu i nasienia. Powstają wiązki przewodzące, chlorenchyma, aparaty szparkowe oraz struktury funkcjonalne poszczególnych typów owocu. Części kwiatu nie biorące udziału w tworzeniu owocu – zazwyczaj pręciki, szyjka słupka i płatki korony – więdną i odpadają. W owocach soczystych dalszy wzrost owocu związany jest przede wszystkim z powiększaniem rozmiarów komórek. Nasila się on po wykształceniu nasion w okresie poprzedzającym dojrzewanie nasion. Końcowa faza rozwoju owoców suchych związana jest z degeneracją i obumieraniem komórek przy jednoczesnym różnicowaniu części z nich w sklerenchymę.
+
+
+=== Regulacja hormonalnaEdytuj ===
+Proces rozwoju i dojrzewania owoców, a także proces dojrzewania nasion regulowany jest przez hormony roślinne: auksyny, gibereliny, cytokininy, kwas abscysynowy (ABA) oraz etylen. Znaczenie poszczególnych fitohormonów zostało poznane w wyniku traktowania roślin endogennymi związkami, analizę zawartości poszczególnych substancji oraz badania biochemiczne, genetyczne i molekularne. Jeżeli nie dojdzie do zapylenia tkanki owocu nie rozwijają się a wierzchołek generatywny odpada. Odpadaniu kwiatów zapobiegają fitohormony uczestniczące w zapylaniu, czyli auksyny i gibereliny. U wielu gatunków obserwuje się zależność pomiędzy ilością ziaren pyłku umieszczonych na znamieniu słupka a okazałością owocu. Obecność pyłku można zastąpić auksynami lub giberelinami podanymi z zewnątrz. Opryskiwanie auksynami pozwala uzyskać owoce u gatunków takich jak ogórek, pomidor, tytoń, fasola, truskawka, papryka. Gibereliny stymulują rozwój owoców brzoskwini, śliwy, róży, jabłoni, winorośli, czereśni, figi czy pomarańczy. Powstające w wyniku podania endogennych auksyn lub giberelin owoce są partenokarpiczne, nie zawierają nasion. We wczesnej fazie rozwoju tkanek owocu stwierdza się w nich wysoką zawartość egzogennych auksyn, giberelin i cytokinin. Źródłem związków jest głównie zapłodniony zalążek. Podanie tych fitohormonów dodatkowo stymuluje wzrost owocu, jednak nadmiar auksyn może także przyspieszyć opadanie owoców określane jako opad czerwcowy. Gibereliny i auksyny są kluczowe także w fazie wzrostu w wyniku powiększania się komórek, po zapłodnieniu. Na etapie dojrzewania znaczenia nabiera zawartość etylenu i ABA. Oba te hormony przyspieszają dojrzewanie, przy czym ABA stymuluje także wytwarzanie etylenu. Dojrzewanie wiąże się ze wzrostem aktywności oddechowej, wzrostem przepuszczalności błon komórkowych, wzrostem aktywności enzymów takich jak celulaza, poligalakturonaza, rybonukleaza, liaza fenyloalaninowa, oksydaza fenolowa czy peroksydaza. Intensyfikacja tych procesów jest wynikiem działania etylenu. Gibereliny, auksyny i cytokininy także wpływają na proces dojrzewania. Jednak w przeciwieństwie do etylenu i ABA opóźniają go.
+
+
+=== Kontrola genetycznaEdytuj ===
+Za kontrolę genetyczną rozwoju owcu u Arabidopsis odpowiada duża rodzina genów kasety MADS, odpowiedzialna także za rozwój kwiatów. Geny kasety MADS kodują czynniki transkrypcyjne. Niezbędne do właściwego wykształcenia słupkowia są produkty genów AGAMOUS (AG) trzy geny SEPALLATA (SEP1, SEP2 i SEP3). Kolejne dwa geny, SHATTERPROOF (SHP1 i SFP2), określane bezpośrednio po odkryciu jako AGL1 i AGL5 (AGL – AGAMOUS-like) ze względu na duże podobieństwo do genu AGAMOUS, są niezbędne do zawiązania owocu i powstania strefy rozejścia łuszczyny. Proces rozdzielenia zalążków jest kontrolowany przez gen SEEDSTICK, redundantny względem genów SHP1i SHP2. Pośrednio rozwój łuszczyny jest także regulowany przez gen FRUITFUL (wcześniej określany jako AGL8), regulujący transkrypcję genów wymaganych do różnicowania się komórek rozwijającego się owocu. Mutacja tego genu skutkuje brakiem wydłużania się owocu.
+
+
+== BudowaEdytuj ==
+Owoce powstają z zalążni słupka i składają się z owocni (perykarpu), powstającego ze ściany zalążni, oraz nasion powstających z zapłodnionych zalążków. Owocnia zbudowana jest z trzech warstw:
+egzokarp – warstwa zewnętrzna, okrywająca owoc, tworząca skórkę
+mezokarp – warstwa środkowa, może być soczysta (np. u pestkowca) albo sucha i twarda (np. w strąkach),
+endokarp – warstwa wewnętrzna, tworząca ściany komory nasiennej. Może być błoniasta i cienka jak w strąkach grochu, grubsza i skórzasta jak w jabłku lub zdrewniała w pestce śliwy.
+
+
+== PodziałEdytuj ==
+
+Opracowano wiele klasyfikacji owoców i definicji ich typów. Niekiedy jednak opis owoców jest zawężony do wąskiej grupy roślin takiej jak rodzaj, a przyporządkowanie mu schematycznych cech sprawia trudności.
+Ze względu na ekologię i morfologię, owoce dzieli się na pojedyncze i zbiorowe oraz suche i soczyste:
+Owoce pojedyncze – powstają z pojedynczych zalążni, a jeżeli w kwiecie jest kilka zalążni, to owoce te powstają rozłącznie od siebie:
+owoce suche – owocna wysycha w trakcie dojrzewania:
+pękające – zwykle wielonasienne, otwierają się samorzutnie po dojrzeniu rozsiewając nasiona:
+mieszek,
+strąk,
+łuszczyna,
+łuszczynka,
+torebka,
+
+niepękające (zamknięte) – zazwyczaj jednonasienne, owocnia osłania nasiona pękając dopiero podczas ich kiełkowania,
+niełupka,
+ziarniak,
+orzech (np. żołędzie) i orzeszek (np. kłębki buraka),
+skrzydlak,
+rozłupnia rozpadająca się na rozłupki,
+
+owoce soczyste (mięsiste) – mają owocnię przynajmniej częściowo z miękiszu:
+pestkowiec,
+jagoda,
+
+(soczyste są również różne owoce pozorne: owoce jabłkowate, jagody pozorne, wielopestkowce)
+
+Owoce zbiorowe – powstają z wielu zalążni w pojedynczym, wielosłupkowym (apokarpicznym) kwiecie, gdy zrastają się ze sobą poszczególne owoce lub rozwijają się na rozrośniętej innej części kwiatu, zwykle dnie kwiatowym:
+wielomieszkowe (wielomieszek) – wiele mieszków w różnym stopniu zrośniętych (przykład – piwonia),
+wielopestkowcowe – pestkowce osadzone na wspólnym dnie kwiatowym zrastają się mięsistymi owocniami (przykład – jeżyna),
+wieloorzeszkowe – zalążnie dojrzewają jako drobne orzeszki, a dno kwiatowe staje się mięsiste i otacza orzeszki (np. u róży) lub wynosi orzeszki na zewnątrz (np. u truskawki),
+
+Zbliżone do owoców zbiorowych są owoce rozpadające się, powstające z pojedynczego słupka powstałego z więcej niż jednego owocolistka Rozpadają się one na jednonasienne człony (np. strąk przewęzisty u seradeli, łuszczyna przewęzista u rzodkwi, wieloniełupka u ślazu, czterodzielna rozłupnia u ogórecznikowatych i jasnotowatych).
+
+Owocostan (owoc złożony) – powstaje z całych kwiatostanów, a zatem tworzony jest przez różne elementy kwiatów oraz liście przykwiatowe i oś kwiatostanu:
+orzeszkowy – orzeszki powstają z zalążni, podczas gdy oś kwiatostanu i listki okwiatu stają się mięsiste (przykład – morwa),
+pestkowcowy – mięsista oś kwiatostanu obrasta drobne pestkowce tworząc dzwonkowate zagłębienie (przykład – figa),
+jagodowy – jagody pozrastane są wraz z mięsistymi przysadkami i osią kwiatostanu (przykład – ananas).
+
+
+=== Klasyfikacja WinkleraEdytuj ===
+Opracowana przez Winklera w roku 1939 klasyfikacja botaniczna owoców uwzględnia budowę kwiatów, z których powstają. W klasyfikacji tej owoc jest wytworem słupkowia oraz każdej innej części kwiatu. Typy owoców wydzielane są poprzez przyporządkowanie czterech cech słupkowia:
+chlorikarpelia – wolnoowocolistkowość – owoc zbiorowy,
+synkarpelia – zrosłoowocolistkowość – owoc pojedynczy,
+epichlamydia – nadokwiatowość – owoc wolny,
+hipochlamydia – podokwiatowość – owoc kubkowaty.
+Cechy pierwsza i druga mogą być połączone z cechą trzecią i czwartą, co powala wyróżnić kwiaty:
+wolnoowocolistkowe nadokwiatowe – np. jaskier (Ranunculus),
+zrosłoowocolistkowe nadokwiatowe – np. psianka (Solanum),
+wolnoowocolistkowe podokwiatowe – np. róża (Rosa),
+zrosłoowocolistkowe podokwiatowe – np. dereń (Cornus).
+
+
+=== Klasyfikacja LewinaEdytuj ===
+Lewin w roku 1961 zaproponował klasyfikację owoców według ich hipotetycznej ewolucji. Wyróżnił cztery podstawowe typu owoców:
+owoce apokarpiczne,
+owoce synkarpiczne,
+owoce parakarpiczne,
+owoce lizykarpiczne.
+Poszczególne typy podstawowe dzielone są na mniejsze kategorie na podstawie modyfikacji ewolucyjnych.
+
+
+== FunkcjeEdytuj ==
+
+Funkcje owocu zależą od jego budowy. Najbardziej ograniczoną funkcją owocu lub ściany owocu jest ochrona nasion podczas ich rozwoju oraz zapewnienie ich uwolnienia, gdy są już dojrzałe. W takim przypadku to same nasiona wykształcają struktury ułatwiające rozsiewanie oraz ochronę mechaniczną. Inną możliwością jest udział owoców w rozsiewaniu i tworzenie wraz z nasionami diaspor, zapewniających specyficzny sposób rozprzestrzeniania oraz stanowiących ochronę mechaniczną. Powstałe na drodze ewolucji duże zróżnicowanie sposobów rozsiewania ma swoje odzwierciedlenie w bogactwie budowy morfologicznej i anatomicznej owoców.
+Niekiedy owoce mogą pełnić dodatkowe funkcje. U orzecha ziemnego niedojrzałe owoce wykazują geotropizm dodatni. W efekcie wydłużania się szypułki owoc umieszczany jest w glebie. Wielu autorów opisało, wytwarzane przez taki owoc, struktury przypominające włośniki, a doświadczenia pokazują, że są one zdolne do pobierania z gleby wody i składników mineralnych. Wytwarzanie owoców podziemnych nie ogranicza się do jednego gatunku. Także inne rośliny należące do tej samej rodziny i uprawiane w Afryce produkują owoce tego rodzaju.
+
+
+=== Przystosowania do rozprzestrzenianiaEdytuj ===
+Część rośliny służąca do rozprzestrzeniania określana jest mianem diaspory. Diasporą często jest nasiono, w którego uwolnieniu i rozprzestrzenieniu owoc może odgrywać różną rolę. Diasporą może być także cały owoc – pojedynczy, cząstkowy (np. skrzydlak klonu lub rozłupka selerowatych) lub zbiorowy (np. wielopestkowiec jeżyny). Nierzadko wraz z owocem odpada też jakaś część kwiatu – zawsze tak jest w przypadku owoców pozornych, ale też bywa, że owoce odpadają wraz z trwałym kielichem (np. rozłupnia lebiodki) lub z podsadką (np. orzeszki lipy). Diasporą może być cały owocostan lub jego część, a nawet owoce wraz z dużą częścią rośliny (gatunki o kulistym pokroju pędów pędzone przez wiatr, tzw. biegacze).
+Ballochoria
+Owoce gwałtownie pękając powodują wyrzucenie nasion. Eksplozywny ruch jest wynikiem napięcia powstającego w żywych lub martwych ścianach owocu. W efekcie nasiona wyrzucane są na zasadzie wytrysku (np. u tryskawca na ponad 12 m) lub rozrzutu (np. u niecierpka i cyklantery).
+Herpochoria
+Owoce zaopatrzone w ości i włoski wykonujące ruchy pod wpływem zmian wilgotności, pozwalające na przemieszczanie się lub wkręcanie w podłoże (np. u jęczmienia i iglicy).
+Barochoria
+Owoce opadające pod wpływem grawitacji – zwykle są kuliste, co pozwala toczyć się po podłożu lub pękają po uderzeniu w ziemię i uwalniają kuliste nasiona (np. kasztanowiec).
+Anemochoria
+Owoce przystosowane do rozsiewania przez wiatr są lekkie i zaopatrzone w urządzenia opóźniające opadanie i poddawanie się ruchom powietrza – aparaty lotne w postaci puchu, włosków i skrzydełek (np. u mniszka (tzw. dmuchawce), brzóz i klonów). Specyficzne przystosowania występują u owoców chamaechorycznych – toczonych po podłożu (np. dęte strąki moszenek i ostrołódki. Owoce boleochoryczne wprawiane są w ruch przez wiatr dzięki czemu rozsypują nasiona (np. torebki maku).
+Hydrochoria
+Owoce przenoszone przez wodę, zachowujące długo zdolność do kiełkowania. Zwykle wyposażone w adaptacje do unoszenia na powierzchni wody (np orzeszki turzyc mają powietrzny pęcherzyk, liczne owoce mają duże przestwory międzykomórkowe. Owoce pływające wytwarzają rośliny określane mianem nautochorów. Ombrochory to rośliny, które wykorzystują energię kinetyczną deszczu. Ich owoce zbudowane są tak, by woda z opadów wypłukiwała nasiona lub, by uderzające krople wyrzucały je z owocu.
+Zoochoria
+Rozprzestrzeniane przez zwierzęta owoce mogą być przez nie przenoszone przy okazji konsumpcji (dyschoria), spożywane (endochoria) i przemieszczane przyczepione do powierzchni ciała zwierząt (epichoria). W każdym wypadku rozprzestrzenianiu takiemu sprzyjają różne przystosowania – pożywny miąższ, twarde okrywy, haczykowate wyrostki.
+
+
+== EwolucjaEdytuj ==
+Owoce jako organy typowe dla roślin okrytonasiennych pojawiły się wraz z nimi we wczesnej kredzie (ok. 140 milionów lat temu), tj. 220 milionów lat po wyewoluowaniu roślin nasiennych i 300 milionów lat po powstaniu roślin naczyniowych. Owoce wraz z okrytonasiennymi podlegały szybkiemu różnicowaniu w środkowej kredzie. Najstarsze znane ślady kopalne owoców liczą sobie ok. 121 milionów lat i pochodzą z północnoamerykańskich i azjatyckich stanowisk datowanych na piętra aptu i albu. Owoce te należą do roślin z rzędów rogatkowców, bukowców i jaskrowców. Są niewielkie (od 1 do 40 mm długości) i zawierają nasiona typowe dla roślin wczesnosukcesyjnych – drobne, z cienką łupiną i niewielką ilością substancji zapasowych. Powstanie owoców jest kolejnym krokiem ewolucji roślin lądowych, u których w kolejnych grupach sukcesywnie zwiększa się liczba osłon zarodka, począwszy od pojedynczej osłony u mszaków po czwartą, jaką jest owoc u okrytonasiennych. Kolejna ściana ochronna dla zarodka to jedno z istotnych osiągnięć ewolucyjnych związanych z powstaniem owocu. Drugim jest wykorzystanie go do rozprzestrzeniania diaspor roślin. O ile u nagonasiennych nasiona spadają zwykle w pobliżu organizmu rodzicielskiego, o tyle u okrytonasiennych pokonywać mogą znaczne odległości, co tłumaczyć może ich gwałtowny, w sensie ewolucyjnym, sukces w krótkim czasie po wyewoluowaniu.
+Ważnym etapem w ewolucji okrytonasiennych było powstanie owoców mięsistych. Owoce takie umożliwiły rozprzestrzenianie nasion przez ptaki i ssaki. Nasiona mogły być przemieszczane na duże odległości co prowadził odo powstania izolowanych populacji i kolejnych specjacji. W efekcie w późnej kredzie i wczesnym kenozoiku nastąpił wzrost różnorodności okrytonasiennych. Skład i okres dojrzewania owoców mięsistych jest wynikiem koewolucji z żywiącymi się 

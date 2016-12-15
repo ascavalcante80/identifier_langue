@@ -1,0 +1,63 @@
+ tài liệu XML trên sẽ hiện ra như sau:
+
+Các tham chiếu ký tự số trông giống như các thực thể. Nhưng thay cho một cái tên, chúng gồm một ký tự "#" và theo sau là một con số. Con số (theo hệ thập phân hoặc hệ cơ số 16 với tiền tố "x") đại diện cho một mã hiệu Unicode (Unicode code point), và thường được dùng để đại diện cho các ký tự không dễ gõ trên máy tính, chẳng hạn một chữ cái Ả-rập trong một tài liệu được soạn trên một máy tính châu Âu. Dấu & trong ví dụ "AT&T" có thể được biểu diễn như sau (số 38 thập phân và 26 trong hệ cơ số 16 đều đại diện cho giá trị Unicode của dấu &):
+
+Còn có nhiều quy tắc khác cần thiết cho việc viết các tài liệu XML định dạng đúng, chẳng hạn một tên XML có thể chứa các ký tự nào, nhưng phần giới thiệu ngắn này chỉ cung cấp các kiến thức căn bản để đọc và hiểu được nhiều tài liệu XML.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+
+=== Tài liệu Tiếng Việt ===
+10 điểm cần biết trong XML
+
+
+=== Tiếng Anh ===
+
+
+==== Đặc tả ====
+Trang chủ về XML tại W3C
+Đặc tả XML 1.0
+Đặc tả XML 1.1
+
+
+==== Tài liệu cơ bản ====
+The XML FAQ
+XML.com - Trang Web thương mại với nhiều bài về các công nghệ XML
+Annotated XML Specification
+Absolute Beginners' XML Tutorial
+XML Tutorial for Beginners
+W3 Schools - Learn XML
+Introduction to XML
+XML: Some hyperlinks minus the hype by Philip Wadler
+Xml and tools for Xml or in Xml
+
+
+=== Trình soạn thảo XML ===
+Editors danh sách mở
+Editors Danh sách dài tại xml.com
+
+
+=== XML certification ===
+JavaRanch XML Certification Discussion Forum
+
+
+=== Trình phân tích cú pháp XML ===
+Microsoft XML Parser (MSXML) specification
+Expat XML Parser in C in SourceForge.net
+Apache Xerces
+dom4j Open source library for working with XML, XPath and XSLT on the Java platform
+CookXml XML Parser for Java
+Liquid XML Parser
+TinyXml Parser for C++ programmers
+XimpleWare's VTD-XML XML Parser in both C and Java
+Stefan Heymann's free XML Parser for Delphi
+Microsoft's XML library for the.NET framework
+XeML.net
+
+
+=== Danh sách thư XML ===
+XML-DEV Mailing List

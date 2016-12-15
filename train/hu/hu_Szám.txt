@@ -1,0 +1,16 @@
+A szám matematikai fogalom, mennyiségek leírására használatos. Ha mást nem mondunk, számon általában valós, esetleg komplex számokat értünk.
+
+
+== Szemléletes számfogalom ==
+A legközismertebb számok a pozitív egészek {1; 2; 3; 4; 5; 6; 7; 8; …}, ezek alakultak ki legkorábban, amikor az ember elkezdte a dolgokat megszámolni. Az indiaiak nagy találmánya volt a 0, mely a semennyit jelöli. A helyiértékes számírás lehetetlen nélküle. Ezek együtt alkotják a természetes számok halmazát {0; 1; 2; 3; …}. Jele  (esetleg N). (Vannak matematikusok, akik a nullát nem sorolják a természetes számok közé.) A vagyon és adósság, illetve a bevétel és kiadás analógiájára megalkothatóak a negatív és pozitív számok. Ezek a nullával együtt alkotják az egész számok halmazát. Jele  (esetleg Z).
+A méréssel alakult ki a racionális számok és irracionális számok fogalma. Az előbbi az egész számok hányadosaként felírható számokat jelenti. Jele  (esetleg Q). Püthagorasz iskolájának nagy kudarca volt, hogy a négyzet átlóját nem tudták kifejezni az oldalhossz racionális számszorosaként. Ez pontosan az oldalhossz gyök kettőszöröse, amelyről belátható, hogy nem racionális szám. Ezek az irracionális számok. Jelük  . A racionális és irracionális számokat együtt valós számoknak nevezzük. Jele  (esetleg R).
+A komplex számokat a valós számok további bővítésével kapjuk. Ebben a számhalmazban már minden szám (négyzet)gyöke értelmezhető. A komplex számok a harmadfokú egyenlet megoldásakor jutottak először szerephez, mivel képlet készíthető a megoldásukhoz, de komplex számok nélkül nem számolható ki az eredmény valós gyökök esetén sem. A komplex számoknak a tudomány számos területén komoly szerep jut. Jelük  (esetleg C).
+
+
+== Számhalmazok ==
+
+Bár a számhalmazok tetszőleges mértékig bővíthetők az alkalmazott módszerrel, a kvaternióknál bővebb számhalmazokat ritkán alkalmazzuk. A számhalmazok egyre bővülő sorrendben szabályos jelöléssel:
+
+természetes számok; egész számok; racionális számok; valós számok; komplex számok; kvaterniók
+Ezek a jelölések a következő szavakból jönnek:
+természetes (naturales), egész(Zahlen), racionális (quotientis = hányadosok), valós (real, Reelen), komplex (complex

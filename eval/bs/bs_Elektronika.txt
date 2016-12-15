@@ -1,0 +1,24 @@
+= Analogni integralni sklopovi ===
+
+
+=== Linearni integralni sklopovi ===
+Ako sklop prati promjenu ulazne veličine analognom (sličnom, odgovarajućom ) promjenom na izlazu onda se taj sklop smatra analognim, Ako su te promjene linearno zavisne jedna od druge (linearna funkcija) onda se i sklopovi smatraju linearnim. Radi lakšeg proučavanja i upotrebe ova vrsta sklopova se dijeli u nekoliko grupa i to:
+Operaciona pojačala
+Komparatori
+Niskofrekventna pojačala
+Visokofrekventna i širokopojasna pojačala
+Modulatori, demodulatori i mješači signala
+Generatori funkcija
+Analogno - digitalni pretvarači (AD - DA konverteri)
+Stabilizatori i regulatori napona i struje
+Sklopovi posebne namjene
+
+
+== Također pogledajte ==
+Printana ploča (elektrotehnika)
+Pioneer Corporation
+
+
+== Vanjski linkovi ==
+www.elektronika.ba
+www.radiomuseum.org

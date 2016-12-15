@@ -1,0 +1,40 @@
+ma ada dan teorema empat warna, yang hanya "berhasil" dibuktikan dengan komputer, dan belum pernah dibuktikan oleh manusia secara manual.
+
+
+=== Perubahan ===
+Memahami dan menjelaskan perubahan adalah tema biasa di dalam ilmu pengetahuan alam, dan kalkulus telah berkembang sebagai alat yang penuh-daya untuk menyelidikinya. Fungsi-fungsi muncul di sini, sebagai konsep penting untuk menjelaskan besaran yang berubah. Pengkajian kaku tentang bilangan real dan fungsi-fungsi berperubah real dikenal sebagai analisis riil, dengan analisis kompleks lapangan yang setara untuk bilangan kompleks.
+Hipotesis Riemann, salah satu masalah terbuka yang paling mendasar di dalam matematika, dilukiskan dari analisis kompleks. Analisis fungsional memusatkan perhatian pada ruang fungsi (biasanya berdimensi tak-hingga). Satu dari banyak terapan analisis fungsional adalah mekanika kuantum.
+Banyak masalah secara alami mengarah pada hubungan antara besaran dan laju perubahannya, dan ini dikaji sebagai persamaan diferensial. Banyak gejala di alam dapat dijelaskan menggunakan sistem dinamik; teori kekacauan (chaos mempertepat jalan-jalan di mana banyak sistem ini memamerkan perilaku deterministik yang masih saja belum terdugakan.
+
+
+=== Struktur ===
+Banyak objek matematika, semisal himpunan bilangan dan fungsi, memamerkan struktur bagian dalam. Sifat-sifat struktural objek-objek ini diselidiki di dalam pengkajian grup, gelanggang, lapangan dan sistem abstrak lainnya, yang mereka sendiri adalah objek juga. Ini adalah lapangan aljabar abstrak. Sebuah konsep penting di sini yakni vektor, diperumum menjadi ruang vektor, dan dikaji di dalam aljabar linear. Pengkajian vektor memadukan tiga wilayah dasar matematika: besaran, struktur, dan ruang. Kalkulus vektor memperluas lapangan itu ke dalam wilayah dasar keempat, yakni perubahan. Kalkulus tensor mengkaji kesetangkupan dan perilaku vektor yang dirotasi. Sejumlah masalah kuno tentang Kompas dan konstruksi garis lurus akhirnya terpecahkan oleh Teori Galois.
+
+
+=== Dasar dan filsafat ===
+Untuk memperjelas dasar-dasar matematika, lapangan logika matematika dan teori himpunan dikembangkan, juga teori kategori yang masih dikembangkan. Kata majemuk "krisis dasar" mejelaskan pencarian dasar kaku untuk matematika yang mengambil tempat pada dasawarsa 1900-an sampai 1930-an. Beberapa ketaksetujuan tentang dasar-dasar matematika berlanjut hingga kini. Krisis dasar dipicu oleh sejumlah silang sengketa pada masa itu, termasuk kontroversi teori himpunan Cantor dan kontroversi Brouwer-Hilbert.
+Logika matematika diperhatikan dengan meletakkan matematika pada sebuah kerangka kerja aksiomatis yang kaku, dan mengkaji hasil-hasil kerangka kerja itu. Logika matematika adalah rumah bagi Teori ketaklengkapan kedua Gödel, mungkin hasil yang paling dirayakan di dunia logika, yang (secara informal) berakibat bahwa suatu sistem formal yang berisi aritmetika dasar, jika suara (maksudnya semua teorema yang dapat dibuktikan adalah benar), maka tak-lengkap (maksudnya terdapat teorema sejati yang tidak dapat dibuktikan di dalam sistem itu).
+Gödel menunjukkan cara mengonstruksi, kumpulan sembarang aksioma bilangan teoretis yang diberikan, sebuah pernyataan formal di dalam logika yaitu sebuah bilangan sejati-suatu fakta teoretik, tetapi tidak mengikuti aksioma-aksioma itu. Oleh karena itu, tiada sistem formal yang merupakan aksiomatisasi sejati teori bilangan sepenuhnya. Logika modern dibagi ke dalam teori rekursi, teori model, dan teori pembuktian, dan terpaut dekat dengan ilmu komputer teoretis.
+
+
+=== Matematika diskret ===
+Matematika diskret adalah nama lazim untuk lapangan matematika yang paling berguna di dalam ilmu komputer teoretis. Ini menyertakan teori komputabilitas, teori kompleksitas komputasional, dan teori informasi. Teori komputabilitas memeriksa batasan-batasan berbagai model teoretis komputer, termasuk model yang dikenal paling berdaya - Mesin turing.
+Teori kompleksitas adalah pengkajian traktabilitas oleh komputer; beberapa masalah, meski secara teoretis terselesaikan oleh komputer, tetapi cukup mahal menurut konteks waktu dan ruang, tidak dapat dikerjakan secara praktis, bahkan dengan cepatnya kemajuan perangkat keras komputer. Pamungkas, teori informasi memusatkan perhatian pada banyaknya data yang dapat disimpan pada media yang diberikan, dan oleh karenanya berkenaan dengan konsep-konsep semisal pemadatan dan entropi.
+Sebagai lapangan yang relatif baru, matematika diskret memiliki sejumlah masalah terbuka yang mendasar. Yang paling terkenal adalah masalah "P=NP?", salah satu Masalah Hadiah Milenium.
+
+
+=== Matematika terapan ===
+Matematika terapan berkenaan dengan penggunaan alat matematika abstrak guna memecahkan masalah-masalah konkret di dalam ilmu pengetahuan, bisnis, dan wilayah lainnya. Sebuah lapangan penting di dalam matematika terapan adalah statistika, yang menggunakan teori peluang sebagai alat dan membolehkan penjelasan, analisis, dan peramalan gejala di mana peluang berperan penting. Sebagian besar percobaan, survey, dan pengkajian pengamatan memerlukan statistika. (Tetapi banyak statistikawan, tidak menganggap mereka sendiri sebagai matematikawan, melainkan sebagai kelompok sekutu.)
+Analisis numerik menyelidiki metode komputasional untuk memecahkan masalah-masalah matematika secara efisien yang biasanya terlalu lebar bagi kapasitas numerik manusia, analisis numerik melibatkan pengkajian galat pembulatan atau sumber-sumber galat lain di dalam komputasi.
+
+
+== Lihat pula ==
+
+
+== Referensi ==
+
+
+== Pustaka ==
+
+
+== Pranala luar ==

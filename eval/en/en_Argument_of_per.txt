@@ -1,0 +1,18 @@
+wed, then the value of ω follows from the two-dimensional case:
+
+(if the orbit is clockwise (i.e. ) then )
+where:
+ and  are the x and y components of the eccentricity vector 
+In the case of circular orbits it is often assumed that the periapsis is placed at the ascending node and therefore ω=0.
+
+
+== See also ==
+Kepler orbit
+Orbital mechanics
+Orbital node
+
+
+== References ==
+
+
+== External links ==

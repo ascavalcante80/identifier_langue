@@ -1,0 +1,5 @@
+Virtual International Authority File (VIAF) is een internationale, online dienst waarmee persoonsnamen van auteurs gekoppeld worden. Dit koppelen gebeurt op basis van thesaurusbestanden die voorkomen in catalogi van diverse bibliotheken in de wereld. VIAF zorgt voor een eenduidige verwijzing naar personen onafhankelijk van variaties in schrijfwijze.
+VIAF is begonnen als gezamenlijk project van de Library of Congress, de Nationale Bibliotheek van Duitsland (DNB), de Bibliothèque nationale de France (BNF) en het Online Computer Library Center (OCLC). Inmiddels hebben 22 organisaties uit 19 landen hier aan bijgedragen. De Koninklijke Bibliotheek (Nederland) testte haar aansluiting in 2013.
+VIAF koppelt alle thesaurusgegevens voor een bepaalde entiteit aan elkaar tot een "super" thesaurusrecord. Met VIAF kan gezocht worden in de metadata van een entiteit in wereldwijd aangesloten bibliotheken. Met WorldCat kun je zoeken op deze entiteit zelf in de wereldwijd aangesloten bibliotheken.
+De techniek om deze data te verzamelen berust op het Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH).
+Wik

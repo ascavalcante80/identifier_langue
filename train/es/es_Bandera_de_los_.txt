@@ -1,0 +1,31 @@
+La bandera de los Estados Unidos de América —conocida en ese país como the Stars and Stripes, Old Glory y the Star-Spangled Banner— consta de trece franjas horizontales de igual tamaño, siete rojas y seis blancas alternadas, y un rectángulo azul en el sector del cantón superior izquierdo con cincuenta estrellas blancas de cinco puntas. Las barras representan a las Trece Colonias originales que se independizaron del Reino Unido y las estrellas, a los cincuenta estados que forman la Unión. Presenta una gran similitud con la bandera de la Compañía Británica de las Indias Orientales, en la cual posiblemente se inspiró.
+
+
+== Historia ==
+La bandera de los Estados Unidos ha sido modificada en 26 ocasiones. La versión con 48 estrellas duró 47 años, hasta que se adoptó la de 49 estrellas el 4 de julio de 1959. La marca fue batida por la actual versión de 50 estrellas, adoptada el 4 de julio de 1960.
+
+
+==== La primera bandera ====
+
+En el momento de la Declaración de Independencia del 4 de julio de 1776 los Estados Unidos no tenían bandera oficial. La que se llama bandera americana no tuvo nunca carácter oficial; fue utilizada durante la Guerra de Independencia de los Estados Unidos y sirvió de base para la futura bandera nacional. Esa bandera es muy parecida a la bandera de la Compañía Británica de las Indias Orientales (CBIA) y hay quienes opinan que se inspiró en ella. Lo cierto es que la primera bandera utilizada muy similar a la de la CBIA fue la Grand Union Flag, llamada también Continental Colors, Congress Colors, First Navy Ensign o incluso Cambridge Flag. Tal bandera que mantenía la versión de la Union Jack de su época (es decir una Union Jack con la cruz de San Jorge orlada en blanco (símbolo de Inglaterra) sobre una Cruz de San Andrés blanca sobre fondo azul (símbolo de Escocia) no tuvo estatus de oficial, aunque fue el primer emblema de la United States Navy antes de la declaración formal de la independencia.
+Otra teoría sobre el origen de la bandera es que se inspiró en el escudo de armas de George Washington, originario de Inglaterra. El 14 de junio de 1777 el Segundo Congreso Continental aprobó la Resolución de la Bandera, determinando que "la bandera de los trece Estados Unidos sean trece barras rojas y blancas alternadas, que la unión sean trece estrellas blancas sobre campo azul, representando una nueva constelación."  De hecho, el 14 de junio se celebra el Día de la Bandera. Algunos estudiosos discuten la disposición de las estrellas dentro del cantón azul. Así, Francis Hopkinson, uno de los firmantes de la Declaración de Independencia, se atribuye la autoría de la bandera que lleva su nombre, mientras otro diseño, con las estrellas en círculo se atribuye a Betsy Ross, quien supuestamente cosió una bandera para George Washington; sin embargo, ninguna tiene rigor histórico.
+
+
+==== Evolución de la bandera ====
+En 1795 el número de estrellas se incrementó de 13 a 15 como consecuencia de la admisión de Vermont y Kentucky como estados de la Unión. Las 15 estrellas se mantuvieron pese a la admisión de nuevos estados hasta 1818 en que aprobó por ley una bandera de 20 estrellas con la precisión de que se añadiría una más por cada nuevo estado que ingresara en la Unión, y que cada nuevo diseño entraría en vigor siempre el 4 de julio siguiente a la admisión. La bandera ha ido incrementando el número de estrellas hasta llegar a las 50 actuales en 1960 tras la admisión de Hawái.
+
+
+== Construcción de la bandera ==
+El hombre acreditado como diseñador de la actual bandera americana de 50 estrellas es Robert G. Heft. Tenía 17 años en ese momento y creó el diseño de la bandera en 1958 como un proyecto de clase de la escuela secundaria mientras vivía con sus abuelos en Ohio.
+
+
+=== Especificaciones ===
+
+El diseño básico de la bandera actual se especifica en el título 4 del Código de los Estados Unidos, que incluye la adición de nuevas estrellas para representar a nuevos estados. La especificación da los siguientes valores:
+A = altura (1.0)
+B = anchura: (1.9)
+C = alto del cantón (0.5385 = A*7/13)
+D = ancho del cantón (0.76 = B*2/5)
+E = F = línea de estrellas (0.0538 = C/10)
+G = H = columna de estrellas (0.0633 = D/12)
+K = diámetro de

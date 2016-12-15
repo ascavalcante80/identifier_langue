@@ -1,0 +1,13 @@
+Moment siły (moment obrotowy) siły F względem punktu O – iloczyn wektorowy promienia wodzącego r, o początku w punkcie O i końcu w punkcie przyłożenia siły, oraz siły F:
+
+Wektor momentu siły jest wektorem osiowym (pseudowektorem), zaczepiony jest w punkcie O, a jego kierunek jest prostopadły do kierunku płaszczyzny wyznaczonej przez wektor F i promień wodzący r.
+Określa się także moment siły względem osi, jest on równy rzutowi wektora momentu siły na tę prostą. Współrzędne Mx, My i Mz wektora M0 nazywają się momentami siły względem odpowiednich osi x, y i z.
+
+Jednostką momentu siły jest Nm (niutonometr). Jednostka ta jest zdefiniowana analogicznie jak dżul, czyli jednostka energii. Aby nie tworzyć nieporozumień, nie nazywa się niutonometra dżulem.
+W przypadku dźwigni dwustronnej o nierównych ramionach pozostanie ona w równowadze, gdy wartości momentów sił przyłożone do obu ramion będą równe, a ściślej, gdy suma wektorów momentów będzie równa zeru:
+
+W przypadku pokazanym na rysunku, gdy siły P1 i P2 są prostopadłe do wektorów r1 i r2
+
+
+== WzoryEdytuj ==
+Moment obrotowy wału przenosząc

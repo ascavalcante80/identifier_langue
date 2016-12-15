@@ -1,0 +1,50 @@
+Em ciência da computação, uma gramática linear é uma gramática livre-do-contexto que tem no máximo um símbolo não-terminal no lado direito de suas produções.
+Uma linguagem linear é uma linguagem gerada por alguma gramática linear.
+
+
+== Exemplo ==
+Uma gramática linear simples consiste em G com N = {s}, Σ = {a, b}, P com símbolo inicial S e regras:
+S → aSb
+S → ε
+Ela gera a linguagem .
+
+
+== Relacionamento com gramáticas regulares ==
+Dois tipos principais de gramáticas lineares são as seguintes:
+A gramática linear à esquerda ou gramática regular à esquerda, em que todos os símbolos não terminais do lado direito da regra estão do lado esquerdo dos outros símbolos
+Exemplo:
+Todas as regras de produção P seguem a forma:
+A → wB
+A → w
+A gramática linear à esquerda ou gramática regular à esquerda, em que todos os símbolos não terminais do lado direito da regra estão do lado esquerdo dos outros símbolos
+Exemplo:
+Todas as regras de produção P seguem a forma:
+A → Bw
+A → w
+Em conjunto, esses dois tipos especiais de gramáticas lineares são conhecidos como gramáticas regulares; ambos podem descrever exatamente as linguagens regulares.
+Outros tipos especiais de gramática linear são os seguintes:
+gramáticas lineares em que todos os símbolos não-terminais do lados direito estão nas extremidades esquerda ou direita, mas não necessariamente todos ao mesmo fim.
+gramática linear unitária à esquerda. Uma gramática linear à esquerda com a restrição que o tamanho da palavra de entrada tem que ser menor ou igual a 1.
+Todas as regras de produção P seguem a forma:
+A→wB
+A→w
+|w| <= 1
+gramática linear unitária à direita. Assemelha-se à forma da gramática linear unitária à esquerda porém com os símbolos do lado direito da regra invertidos
+Todas as regras de produção P seguem a seguinte forma:
+A→Bw
+A→w
+|w| <= 1
+Através da inserção de novos símbolos não-terminais, toda gramática linear pode ser interposta nesta forma sem afetar a linguagem gerada. Por exemplo, as regras de G acima podem ser substituídas por
+S → aA
+A → Sb
+S → ε
+Assim, gramáticas lineares desta forma especial podem gerar todas as linguagens lineares.
+
+
+== Poder Expressivo ==
+Vimos que todas as linguagens regulares são lineares; do exemplo deu uma linguagem linear não-regular. Todas as linguagens lineares são, por definição, livre de contexto; um exemplo simples de uma linguagem não-linear livre de contexto é a linguagem Dyck de pares de colchetes bem balanceados. Assim, as linguagens regulares são um subconjunto próprio das linguagens lineares, o que, por sua vez, formam um subconjunto próprio das linguagens livres de contexto.
+Enquanto as linguagem lineares que são linguagens regulares são deterministas, existem linguagens lineares que são não-determinísticas. Por exemplo, a linguagem das palíndromes de mesmo comprimento sobre o alfabeto {0 e 1} tem a gramática linear S → 0S0 | 1S1 | ε. Uma palavra arbitrária dessa linguagem não pode ser analisada sem ler todas as suas letras primeiro que significa que um autômato com pilha tem que tentar transições de estado alternativas para acomodar os diferentes comprimentos possíveis de uma palavra semi-produzida . Esta linguagem é não determinística. Desde linguagens livres de contexto não determinísticas não podem ser aceitas em tempo linear, linguagens lineares não podem ser aceitas em tempo linear no caso geral. Além disso, é indecidível se uma determinada linguagem livre de contexto é uma linguagem livre de contexto linear .
+
+
+== Propriedades de Fechamento ==
+Se L é uma linguagem linear e M é uma linguagem regular, então, a intersecção  é também uma linguagem linear; em outras palavras, as lin

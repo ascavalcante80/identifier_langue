@@ -1,0 +1,18 @@
+Työnositus (engl. Work Breakdown Structure (WBS)) on menetelmä projektissa tehtävän työn jakamiseksi pienempiin osiin, jotta nämä osat voitaisiin tunnistaa ja luokitella paremmin. Työ jaetaan hierarkkisesti pienempiin, hallittavissa oleviin elementteihin, joilla on selkeät suoritusoikeudet ja -vastuut. Nämä tehtäväelementit ovat itsenäisiä, eivätkä riipu toisistaan. Tehtäväelementeistä muodostuu koko projektin kokonaisuus.
+Työnosituksen lopputuloksena saadaan matalimman tason osituksia, joita kutsutaan työpaketeiksi (engl. Work Package (WP)). Ne ovat projektin tuotosten tarkentuneita kuvauksia. Työpakettien aikataulua sekä kustannuksia voidaan arvioida sekä valvoa.
+
+
+== Johdanto ==
+Projektit voivat epäonnistua useista eri syistä, kuten siitä, että unohdetaan tehdä kaikki projektin vaatima työ, ei osata arvioida työn kestoa tai että työn kustannusten arvioinnissa tulee virheitä. Ratkaisuna näihin ongelmiin voidaan käyttää työnositusta, jolloin työt voidaan jakaa niin pieniin osiin, että niiden tarvitsema aika ja kustannus voidaan arvioida helpommin. Ositetut työt voidaan tehdä myös missä järjestyksessä tahansa, sillä työnositus ei ota kantaa töiden suoritusjärjestykseen.
+Liiallista projektin osittamista tulee kuitenkin välttää, koska työn osittaminen ja osituksen arviointi on kallista. Tämän takia osituksen tulisikin olla joustavaa. Työn osituksen tarkkuus voi myös vaihdella projektiryhmän jäsenten välillä, sillä kokeneet projektiryhmän jäsenet eivät välttämättä tarvitse kaikkein yksityiskohtaisinta ositusta. Työnositus voikin tämän takia heijastaa projektin johtajan luottamusta projektin jäseniin.
+Työn ositus katselmoidaan ennen sen hyväksymistä. Osituksen seurauksena projektin sisältöön, aikatauluun tai kustannuksiin voi tulla muutoksia.
+
+
+== Hyvän työnosituksen piirteitä ==
+Työ voidaan osittaa sekä projektin tuotosten että ohjelmistotuotannon vaiheiden perusteella tai näiden yhdistelmänä.
+Hyvin ositetun työn paketit täyttävät seuraavat piirteet:
+Työpakettien tilanne ja valmistuminen on selkeästi mitattavissa.
+Alku- ja lopputapahtumat ovat selkeästi määriteltyjä.
+Jokaisella työpaketilla on jonkinlainen tuotos (konkreettinen tai abstrakti).
+Työpaketteihin kuluva aika ja kustannukset ovat helposti arvioitavissa.
+Ku

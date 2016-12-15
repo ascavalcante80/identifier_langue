@@ -1,0 +1,49 @@
+blapok ==
+A honlapok lehetnek statikusak és dinamikusak. A statikus weblapok tartalma állandó, nem változik (például bemutatkozó oldalak) csak manuális átszerkesztéssel. A dinamikus weblapok alapeleme az ún. motor, amelynek segítségével ismételten végezhetőek azonos műveletek egyszerűen (például hírportálok) és nem kell a forráskódot manuálisan szerkeszteni, mert azt a honlapmotor állítja elő sablonszerűen. A statikus weblapok létrehozására alkalmas a HTML és JavaScript és minden kliens oldalon futó webes nyelv. A dinamikus weblapokhoz szükség van egy-egy olyan leíró nyelvre (például PHP, Java), amely szerveroldali és a szerveren képes a felvitt információkat/adatokat rögzíteni akár szöveges (fizikai fájlok), akár adatbázisba betárolás formájában (például mySQL, postgreSQL).
+
+
+== A weblap célja ==
+A weblapokat általában azért készítik, hogy a mögötte álló céget vagy személyt megtalálják az interneten és információt szerezzenek róla a honlapján. Mivel sok esetben a weblap az amivel egy vállalkozás/személy esetén először találkozunk, ezért bizonyos értelemben a weblap meghatározza a cég/személy megítélését az internetes közösségben.
+
+
+== Kapcsolódó szócikkek ==
+Webböngésző
+Protokoll
+Weblap (1.) szabványok:
+HTML (HyperText Markup Language)
+XHTML (Extensible HyperText Markup Language)
+XML (Extensible Markup Language)
+
+Kiegészítések weblapokhoz:
+Stíluslapok (CSS, azaz Cascading Style Sheets)
+Képek:
+JPG/JPEG (Joint Photographic Experts Group)
+PNG (Portable Network Graphics)
+GIF (Graphics Interchange Format)
+
+Erőforrások és objektumok:
+Kliens-oldali:
+JavaScript, ECMAScript, AJAX, jQuery
+VBScript (Visual Basic Script)
+
+Szerver-oldali:
+PHP (PHP: Hypertext Preprocessor)
+ASP (Active Server Page)
+JSP (Java Server Page)
+Perl
+
+Egyéb:
+Flash (SWF, azaz ShockWave Flash file)
+Java
+Bővítmények/beépülő modulok/kiterjesztések
+
+
+== Jegyzetek ==
+
+
+== További információk ==
+A honlap szó eredete
+Honlap, weblap, webhely: terminusok útvesztőjében
+A W3C, az internetes szabványokat kezelő szervezet
+Internet.lap.hu - linkgyűjtemény
+Weblapkészítés

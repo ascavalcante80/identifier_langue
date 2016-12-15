@@ -1,0 +1,87 @@
+Il verbo è una parte del discorso variabile, che indica un'azione che il soggetto compie o subisce, l'esistenza o uno stato del soggetto, il rapporto tra il soggetto e il nome del predicato.
+Alcuni esempi in lingua italiana:
+Il tacchino mangia (il soggetto compie un'azione);
+Il tacchino è mangiato (il soggetto subisce un'azione);
+L'essere è, il nulla non è (esistenza del soggetto);
+Paolo è arrabbiato (rapporto tra soggetto e nome del predicato).
+
+
+== Modo dei verbi ==
+Il modo di un verbo indica:
+l'atteggiamento che un parlante instaura con il proprio interlocutore;
+l'atteggiamento che un parlante assume in rapporto alla propria comunicazione.
+I modi veri e propri sono quelli detti "finiti":
+l'indicativo presenta la realtà di un fatto: tale realtà può essere provata vera o falsa;
+il congiuntivo presenta un fatto, un'azione o un processo secondo le marche del desiderio, del timore, della volontà o della supposizione, senza che quindi si possa ragionevolmente avanzare un giudizio di verità;
+il condizionale sottolinea la presenza di un condizionamento concreto o virtuale sulla realtà di un fatto, di un'azione o di un processo;
+l'imperativo rinvia al desiderio di orientare le azioni dell'interlocutore attraverso un comando, una esortazione, una preghiera.
+L'espressione "modo verbale" è estesa arbitrariamente (ma tradizionalmente) ai cosiddetti "modi indefiniti": infinito, participio e gerundio. L'arbitrarietà dell'attribuzione consiste nel fatto che queste tre forme non connotano la modalità dell'azione e anzi assumono il valore di modo della forma finita:
+Truccata, la ragazza spiccherebbe assai di più (= Se fosse truccata, la ragazza spiccherebbe assai di più);
+Truccata, la ragazza spiccò assai di più (= Dopo che fu truccata, la ragazza spiccò assai di più).
+
+
+=== Modi e modalità ===
+Il modo è una forma specializzata, evidenziata da materiale morfologico o organizzata in paradigmi di flessioni, per esprimere alcune fondamentali modalità della locuzione (comando, speranza, certezza, possibilità). La modalità dei verbi era un fenomeno riconosciuto già in epoca classica e riconosciuta in forme grammaticalizzate o lessicalizzate. Aristotele, ad esempio, distingueva tra discorsi "apofantici" (o "assertivi") e discorsi "semantici", dei quali è impossibile dire se siano veri o falsi, e tra questi ultimi menzionava la preghiera.
+Il valore di modalità che ciascun modo attribuisce all'azione è orientativo: non sono rari i casi in cui un modo esprime di fatto il valore caratteristico di un altro modo. L'indicativo di cortesia, ad esempio, dissimula il carattere conativo di una frase:
+Allora, mi dà due etti di prosciutto cotto e una scamorza.
+Il condizionale può invece indicare un tempo e non una modalità:
+Disse che sarebbe partito.
+Il condizionale composto esprime qui il "passato del futuro". In spagnolo, invece, per lo stesso scopo si usa il condizionale presente:
+Dijo que vendría. (Disse che sarebbe venuto, ma letteralmente Disse che verrebbe)
+D'altra parte, lo stesso modo indicativo non serve solo per asserire: si potrebbe piuttosto dire che tale forma è modalmente non marcata, in quanto non sembra dire nulla di specifico sull'atteggiamento del parlante verso l'interlocutore o la propria locuzione.
+Non vi è insomma un rapporto di corrispondenza biunivoca tra modi e modalità. Per la precisione, va indicato come "modo" una flessione specializzata per esprimere una certa modalità. Così, ad esempio, in inglese la modalità condizionale non ha un modo dedicato, ma viene espressa perifrasticamente:
+He would read → Egli leggerebbe (letteralmente: Egli voleva leggere).
+Sempre in inglese, l'imperativo ha una forma fonologicamente identica all'infinito:
+Be good! → Sii buono! - Siate buoni!
+Ancora in inglese, una modalità che presenti un fatto non recisamente, in termini che indicherebbero l'utilizzo del congiuntivo in italiano, viene espressa lessicalmente:
+He may have come → Può darsi che sia arrivato (letteralmente: Egli può essere arrivato).
+I modi, oltre che esprimere modalità, possono avere un ruolo sintattico: così, ad esempio, il congiuntivo, in italiano, opera spesso come marca di subordinazione:
+Sono sicurissimo che non sia lui: in questa frase, il modo congiuntivo si accompagna a una modalità che esprime massima certezza.
+Inoltre, alcuni modi diversi dall'indicativo, nelle clausole subordinate, piuttosto che esprimere modalità, cercano di segnalare l'ordine cronologico tra due eventi. Così fanno, in italiano, congiuntivo e condizionale:
+Credo (A) che esca (B)
+B è simultaneo o successivo ad A
+Credo (A) che sia uscito (B)
+B precede A
+Credo (A) che uscirà (B)
+B è successivo ad A
+Analogamente, quando la narrazione è successiva all'evento, avremo:
+Credevo (A) che uscisse (B)
+B è simultaneo o successivo ad A
+Credevo (A) che fosse uscito (B)
+B precede A
+Credevo (A) che sarebbe uscito (B)
+B è successivo ad A
+Si assiste insomma a un frequente scambio di funzione tra tempo e modo. Esiste anche il fenomeno inverso, per cui forme tipicamente temporali servono di fatto a marcare una specifica modalità. Quella della possibilità è espressa dal futuro semplice e dal futuro anteriore:
+Saranno le 3.
+Avrete fatto - immagino - la mia stessa supposizione.
+Il futuro può esprimere anche un comando:
+[...] amerai il prossimo tuo come te stesso.
+
+
+== Tempo dei verbi ==
+Il tempo verbale colloca l'azione in un asse cronologico, tanto assolutamente quanto relativamente a un certo termine. Nel secondo caso il tempo evidenzia tra due frasi del periodo un rapporto di contemporaneità o di non contemporaneità.
+Bisogna distinguere tra tempo fisico (time in inglese, zeit in tedesco) e tempo linguistico (tense in inglese, tempus in tedesco). Il riferimento cronologico espresso grammaticalmente non per forza coincide con quello reale. È ad esempio possibile trovare una frase in italiano in cui il passato prossimo rinvia a un evento futuro:
+Domani vedremo chi ha avuto ragione.
+Sono invece informazioni di ordine pragmatico e non grammaticali a indicarci il rapporto di contemporaneità o di non contemporaneità:
+Quando dormo bene, russo fragorosamente;
+Quando dormo bene, lavoro meglio.
+I tempi verbali vengono indicati come "semplici" o "composti" a seconda che siano costituiti da una forma singola o dall'insieme di verbo ausiliare e participio passato.
+Già Aristotele aveva evidenziato, nel De Interpretatione, l'intrinseco legame fra verbo e tempo: il verbo (rhema) viene definito come la forma che "aggiunge al suo significato il tempo". Aristotele individua dunque, tra le categorie grammaticali, alcune proprie dei verbi. Per quanto antico, questo apparentamento non è mai stato messo significativamente in discussione. È stato semmai precisato che:
+il tempo viene designato da numerosi mezzi linguistici oltre al verbo, tanto che esso sembra essere "una proprietà globale dell'enunciato";
+il verbo non esprime sempre il tempo: talvolta è piuttosto l'aspetto a risultare significativo e ciò in presenza di uguali tempi grammaticali (Scrivo / Sto scrivendo).
+
+
+== Diatesi ==
+"La diatesi esprime il rapporto del verbo con il soggetto o l'oggetto". Essa può essere:
+attiva: il soggetto compie un'azione;
+passiva: il soggetto subisce l'azione;
+riflessiva: il soggetto compie un'azione per sé;
+media: indica una certa intensità della partecipazione del soggetto all'azione.
+
+
+== Aspetto verbale ==
+L'aspetto verbale connota l'atto verbale secondo le marche "della durata, della momentaneità, della ripetitività, dell'inizio o della conclusione di un processo, della compiutezza o dell'incompiutezza dell'azione". Come accennato, sono entrambe al presente le forme Scrivo e Sto scrivendo, ma la prima ha aspetto durativo, la seconda progressivo.
+
+
+== Verbi lessicali e verbi ausiliari ==
+Il verbo ha la proprietà di imporre all'enunciato una serie di argomenti. Gli argomenti identificano nella clausola i partecipanti all'azione e sono detti elementi "nucl

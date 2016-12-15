@@ -1,0 +1,61 @@
+A weblap vagy más szóval weboldal eredeti értelmében egy olyan webdokumentum, mely megfelel a World Wide Web számára, és alkalmas arra, hogy egy webböngésző megjelenítse. A webböngésző a weblapot monitoron vagy mobil eszközön jeleníti meg. A weboldal az, ami megjelenik, nem pedig a fájl vagy fájlok, melyek meghatározzák a weboldal tartalmát és formáját, de sokan a weboldalt leíró fájlokat is weboldalnak hívják. A weboldal fő jellemzője a hiperszöveg, mely más weboldalakra navigálhat el minket linkeken vagy magyarul hiperhivatkozás-okon keresztül.
+E szavakat többféle értelemben használjuk a mai magyar köznyelvben, sokszor téves értelemben. Sokan a weboldalnak vagy honlapnak hívják a webhelyeket, más néven webszájtokat, mivel az internet magyarországi elterjedésekor az angol website szót nem fordították le, nem volt rá megfelelő magyar szó, és még a mai napig a webhely kifejezés sem terjedt el eléggé. Ezért helyette tévesen a honlap, weblap, weboldal szavak valamelyikét használjuk a köznyelvben. A webhely egy adott doménen található weboldalak összessége, tehát a webhely, webszájt weboldalakból, weblapokból tevődik össze. Egyik része a másiknak. A honlap (homepage) szó pedig az adott webhelyen található weblapok közül az elsőt jelöli, a főoldalt, azaz a kezdőlapot. Mivel az internet magyarországi elterjedésekor egyes szavakat lefordítottak, másokat nem, egyes szavakra hamarabb találtak magyar megfelelőt (akár tükörfordítás, akár nyelvújítás segítségével), mint más szavakra, és mivel sokan rosszul használták az eredeti fogalmakat, keverve azok jelentéseit, ezért a mai magyar nyelvben már az eredeti fogalmak helyett a legtöbben szinonímának gondolják a weblap, weboldal szavakat a webhely, webszájt illetve a honlap szóval.
+Az „eredeti” definíció szerint – melyet a World Wide Web Consortium határozott meg– a következő:
+Egy vagy több webes forrásból származó információk összessége, amelyet egyidejű feldolgozásra szánnak, és egy egyszeri URI határoz meg. Jobban mondva, egy weblap egy webes forrás, amely további webes forrásokat foglalhat magába egyetlen közös egységként való feldolgozásra, és azon egyedüli webes forrás URI-je hivatkozik rá, amely nem foglaltatik benne.
+A magyar nyelvben – főként a hétköznapokban – általában három értelmet tulajdonítunk a honlap, webhely, weblap és weboldal szavaknak.
+Első értelmezés, egyetlen fájl:
+Egy forrás (általában fájl), amely meghatározza a weblap (első és második értelemben vett) alakját, és hipertext-et (hiperszöveget) közöl egy a formátumát feldolgozni/értelmezni képes szoftvernek (például webböngésző), hogy aztán a weblap tartalmát a felhasználónak felfogható formába adja. A fájl alapja (néhány kivételtől eltekintve) egy nemzetközi szabvány.
+Második értelmezés, több fájl:
+Egy – az első értelemben vett – weblap és a hozzá szorosan kapcsolódó fájlok. A szorosan kapcsolódó fájlok elérési útvonalát mindig tartalmazza a weboldal (1.) – formátumának megfelelően hivatkozik a fájlra –, hogy a kliens számítógép weboldalt (2.) feldolgozni képes szoftver(ek) külön-külön feldolgozza, és beépítse a weboldalba (1.) annak struktúrája szerint.
+Harmadik értelmezés, fájlok összessége:
+Olyan weblapok (1. és 2.) összessége, amelyek szorosan kapcsolódnak egymáshoz. Az egymáshoz való kapcsolódás több szempont szerint jöhet létre, de leggyakoribb formája az interneten egy domain alatt megtalálható weboldalak (1. és 2.).
+
+
+== Egyetlen fájl (1.) ==
+Előfordul, hogy ez a fájl nem teljesen felel meg egy szabványnak, vagy a fájlt nem tudja megjeleníteni a szabványnak megfelelően a böngésző, esetleg másképp jeleníti meg. (Szabványuk általában HTML vagy XHTML.)
+Ezeket a fájlokat általában az interneten helyezik el, hogy aztán egy bizonyos protokollal (HTML fájlok esetén általában HTTP vagy HTTPS) egy kliens számítógépre letöltse a kiszolgálóról.
+A szavak ezen értelmezését használjuk legkevesebb esetben a „hétköznapokban”. Ha mégis, általában erre a weblap vagy weboldal szavak használata elfogadott és javasolt.
+
+
+=== Beágyazott erőforrások ===
+Csak HTML és/vagy XHTML szabványokra vonatkozóan:
+A weblapok lehetnek statikusak, tehát egyszerű, HTML/XHTML nyelven írt lapok; vagy különböző program- vagy szkriptnyelveken írt dinamikus, azaz időben változó kinézetű és viselkedésű lapok. A legtipikusabb ilyen nyelvek:
+kliens-oldali, a böngészőben végrehajtott szkriptek:
+JavaScript
+VBScript
+
+szerver-oldali szkriptek (a böngésző statikus HTML/XHTML lapot és esetleg kliens-oldali szkripteket kap):
+PHP
+ASP
+JSP
+Perl
+
+A szkripteken túl lehetnek egy lapba ágyazva további speciális objektumok is, például Flash (SWF) vagy ún. Java kisalkalmazások.
+
+
+=== Weblap elérése ===
+Weblapot elérhetünk személyi számítógépünkön (például otthonról), az internetről vagy bármilyen más számítógép-hálózatról a megfelelő protokollal.
+Csak az interneten:
+A weblapokat a webcímükkel, vagy más néven URL-jükkel, vagy URI-jükkel azonosítjuk. Ez teszi lehetővé, hogy a weboldalakra minden felhasználói környezetben egységes módon hivatkozzunk. Egy weblap néhány lehetséges elérési módja:
+a webcím begépelése a webböngésző címsorába,
+rákattintás egy másik weboldal egy hiperlinkjére,
+előhívás a böngésző Kedvencek vagy Könyvjelzők funkciója segítségével.
+Mindegyik felsorolt módszer közvetve vagy közvetlenül a webcím felhasználásával éri el a kért weblapot. A webcím szintaxisa az alkalmazott protokolltól függhet. (A leggyakoribb a HTTP, hiperszöveg-átviteli protokoll, amelyet általában a felhasználók használnak. Ez a webcím kezdődik az ismert http:// szöveggel. A honlapok (3.) karbantartói általában FTP vagy más adatátviteli protokollt használnak. Ez a webcím ftp:// szöveggel kezdődik.) Fejlesztők továbbá saját számítógépen offline szerkesztő módban dolgozhatnak, weboldalkészítés során pl. apache webszerveren futtathatják. Ez az elérési mód nem közösségi, privát célokat szolgál, de ez az egyik módja az elérésnek.
+
+
+== Több fájl (2.) ==
+A HTML weblapok (1.) gyakran hivatkoznak például képekre, stíluslapokra, hiperhivatkozással akár másik weboldalra (1.). A nyers XML fájlok általában hivatkoznak egy stíluslapra, hogy azt könnyebben felfoghatóvá tegye a felhasználó számára.
+Amennyiben a weboldal (1.) egy másik weboldalra (1.) hivatkozik, a kliens számítógép weboldalt (1.) feldolgozni képes szoftver értelmezi azt a fájlt is. (Egyszerű példája ennek egy HTML oldalba írt keret.)
+Ha egy weboldal (2.) feldolgozásához több program szükséges, akkor a második alkalmazást a weboldalt (2.) lekérő szoftver hívja meg, hogy értelmezze (megjelenítse és/vagy lejátssza és/vagy futtassa stb.), és akár be is építse a weboldalba (2.). (Például egy Flash film.)
+Általában ebben az értelemben a weblap vagy weboldal szavakat használjuk.
+
+
+== Fájlok összessége (3.) ==
+Néhány további szempont az egymáshoz való kapcsolódáshoz (ezek közül rendszerint egyszerre többnek kell fennállnia, hogy honlapról (3.) beszélhessünk): a weboldalak (1. és 2.) szerzője ugyanazon cég vagy személy; a weboldalak (1. és 2.) címe ugyanaz; a weboldalak (1. és 2.) logója ugyanaz; a weboldalak (1. és 2.) ugyanazon témáról szólnak; a weboldalak (1. és 2.) stílusa (kinézete) nagyban hasonlít; a weboldalak (1.) egy vagy több ugyanazon fájlra hivatkoznak.
+Általában a honlap (3.) weboldalai (1. és 2.) kölcsönösen hiperlinkekkel hivatkoznak egymásra, bár ez nem jelenti azt, hogy minden egymásra hivatkozó weblap (1. és 2.) egy honlapba (3.) tartozik.
+A honlap (3.) weboldalai (1. és 2.) között általában többféleképp is navigálhatunk. Két leggyakoribb formája a menü és a honlaptérkép/sitemap. Ezekben általában az összes vagy főbb weboldalak listája elrendezve található meg. Lásd még: honlaptérkép.
+Csak ha a webhely (3.) az interneten található meg: a honlap (3.) weboldalai (1. és 2.) és/vagy egyéb fájljai esetleg nem mindenki számára elérhetőek. Előfordulhat, hogy a webhely (3.) készítő(i) bizonyos felhasználók vagy önmaguk számára olyan területeket különítettek el a kiszolgáló adattárolóján, hogy azokhoz csak az arra jogosult személyek, esetleg programok férjenek hozzá. (Például egy web-alapú e-mail postafiók.)
+Ez egy elvontabb értelmezése a négy szónak. Általában ebben az értelemben a honlap vagy webhely szavakat használjuk.
+
+
+== Statikus és dinamikus we

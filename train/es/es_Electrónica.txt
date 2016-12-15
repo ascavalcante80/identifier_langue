@@ -1,0 +1,103 @@
+La electrónica es la rama de la física y especialización de la ingeniería, que estudia y emplea sistemas cuyo funcionamiento se basa en la conducción y el control del flujo de los electrones u otras partículas cargadas eléctricamente.
+Utiliza una gran variedad de conocimientos, materiales y dispositivos, desde los semiconductores hasta las válvulas termoiónicas. El diseño y la gran construcción de circuitos electrónicos para resolver problemas prácticos forman parte de la electrónica y de los campos de la ingeniería electrónica, electromecánica y la informática en el diseño de software para su control. El estudio de nuevos dispositivos semiconductores y su tecnología se suele considerar una rama de la física, más concretamente en la rama de ingeniería de materiales.
+
+
+== Historia ==
+
+El funcionamiento del siguiente dispositivo está basado en el efecto Edison. Edison fue el primero que observó en 1883 la emisión termoiónica, al colocar una lámina dentro de una bombilla para evitar el ennegrecimiento que producía en la ampolla de vidrio el filamento de carbón. Cuando se polarizaba positivamente la lámina metálica respecto al filamento, se producía una pequeña corriente entre el filamento y la lámina. Este hecho se producía porque los electrones de los átomos del filamento, al recibir una gran cantidad de energía en forma de calor, escapaban de la atracción del núcleo (emisión termoiónica) y, atravesando el espacio vacío dentro de la bombilla, eran atraídos por la polaridad positiva de la lámina.
+El ingeniero británico Sir John Ambrose Fleming (1849-1945) aplicó el efecto Edison a un tubo para detectar las ondas hertzianas e inventó así el DIODO, primer tubo electrónico en el que se había hecho el vacío y en cuyo interior existía un ÁNODO (electrodo positivo) y un CÁTODO (electrodo negativo). El último, al alcanzar el estado de incandescencia, emitía electrones con carga negativa que eran atraídos por el ánodo; es decir, el diodo actuaba como una válvula que sólo dejaba pasar la corriente en un sentido.
+El otro gran paso lo dio Lee De Forest cuando inventó el triodo en 1906. Este dispositivo es básicamente como el diodo de vacío, pero se le añadió una rejilla de control situada entre el cátodo y la placa, con el objeto de modificar la nube electrónica del cátodo, variando así la corriente de placa. Este fue un paso muy importante para la fabricación de los primeros amplificadores de sonido, receptores de radio, televisores, etc.
+Lee De Forest es considerado el Padre de la electrónica, ya que antes del Triodo, solo nos limitábamos a convertir la corriente alterna en corriente directa o continua, o sea, solo se construían las fuentes de Alimentación, pero con la creación del Triodo de Vacío, vino la Amplificación de todo tipo de señales, sobre todo la de Audio, la Radio, la TV y todo lo demás, esto hizo que la industria de estos equipos tuvieran un repunte tan grande que ya para las décadas superiores a 1930 se acuñara la palabra por primera vez de "Electrónica" para referirse a la tecnología de estos equipos emergentes.
+Conforme pasaba el tiempo, las válvulas de vacío se fueron perfeccionando y mejorando, apareciendo otros tipos, como los tetrodos (válvulas de cuatro electrodos), los pentodos (cinco electrodos), otras válvulas para aplicaciones de alta potencia, etc. Dentro de los perfeccionamientos de las válvulas se encontraba su miniaturización.
+Pero fue definitivamente con el transistor, aparecido de la mano de Bardeen y Brattain, de la Bell Telephone Company, en 1948, cuando se permitió aún una mayor miniaturización de aparatos tales como las radios. El transistor de unión apareció algo más tarde, en 1949. Este es el dispositivo utilizado actualmente para la mayoría de las aplicaciones de la electrónica. Sus ventajas respecto a las válvulas son entre otras: menor tamaño y fragilidad, mayor rendimiento energético, menores tensiones de alimentación, etc. El transistor no funciona en vacío como las válvulas, sino en un estado sólido semiconductor (silicio), razón por la que no necesita centenares de voltios de tensión para funcionar.
+A pesar de la expansión de los semiconductores, todavía se siguen utilizando las válvulas en pequeños círculos audiófilos, porque constituyen uno de sus mitos más extendidos.
+El transistor tiene tres terminales (el emisor, la base y el colector) y se asemeja a un triodo: la base sería la rejilla de control, el emisor el cátodo, y el colector la placa. Polarizando adecuadamente estos tres terminales se consigue controlar una gran corriente de colector a partir de una pequeña corriente de base.
+En 1958 se desarrolló el primer circuito integrado, que alojaba seis transistores en un único chip. En 1970 se desarrolló el primer microprocesador, Intel 4004. En la actualidad, los campos de desarrollo de la electrónica son tan vastos que se ha dividido en varias disciplinas especializadas. La mayor división es la que distingue la electrónica analógica de la electrónica digital.
+La electrónica es, por tanto, una de las ramas de la ingeniería con mayor proyección en el futuro, junto con la informática.
+
+
+== Aplicaciones de la electrónica ==
+La electrónica desarrolla en la actualidad una gran variedad de tareas. Los principales usos de los circuitos electrónicos son el control, el procesado, la distribución de información, la conversión y la distribución de la energía eléctrica. Estos usos implican la creación o la detección de campos electromagnéticos y corrientes eléctricas. Entonces se puede decir que la electrónica abarca en general las siguientes áreas de aplicación:
+Electrónica de control
+Telecomunicaciones
+Electrónica de potencia
+
+
+== Sistemas electrónicos ==
+Un sistema electrónico es un conjunto de circuitos que interactúan entre sí para obtener un resultado. Una forma de entender los sistemas electrónicos consiste en dividirlos en las siguientes partes:
+Entradas o Inputs – Consisten en artefactos electrónicos conectados juntos para manipular, interpretar y transformar las señales de voltaje y corriente provenientes de los transductores.j
+Circuitos de procesamiento de señales – Sensores (o transductores) electrónicos o mecánicos que toman las señales (en forma de temperatura, presión, etc.) del mundo físico y las convierten en señales de corriente o voltaje. Ejemplo: El termopar, la foto resistencia para medir la intensidad de la luz, etc.
+Salidas u Outputs – Actuadores u otros dispositivos (también transductores) que convierten las señales de corriente o voltaje en señales físicamente útiles. Por ejemplo: un display que nos registre la temperatura, un foco o sistema de luces que se encienda automáticamente cuando esté oscureciendo.
+Básicamente son tres etapas: La primera (transductor), la segunda (circuito procesador) y la tercera (circuito actuador).
+
+Como ejemplo supongamos un televisor. Su entrada es una señal de difusión recibida por una antena o por un cable. Los circuitos de procesado de señales del interior del televisor extraen la información sobre el brillo, el color y el sonido de esta señal. Los dispositivos de salida son un tubo de rayos catódicos o monitor LCD que convierte las señales electrónicas en imágenes visibles en una pantalla y unos altavoces. Otro ejemplo puede ser el de un circuito que ponga de manifiesto la temperatura de un proceso, el transductor puede ser un termocouple, el circuito de procesamiento se encarga de convertir la señal de entrada en un nivel de voltaje (comparador de voltaje o de ventana) en un nivel apropiado y mandar la información decodificándola a un display donde nos dé la temperatura real y si esta excede un límite preprogramado activar un sistema de alarma (circuito actuador) para tomar las medida pertinentes.
+
+
+== Señales electrónicas ==
+Es la representación de un fenómeno físico o estado material a través de una relación establecida; las entradas y salidas de un sistema electrónico serán señales variables.
+En electrónica se trabaja con variables que toman la forma de Tensión o corriente estas se pueden denominar comúnmente señales. Las señales primordialmente pueden ser de dos tipos:
+Variable analógica–Son aquellas que pueden tomar un número infinito de valores comprendidos entre dos límites. La mayoría de los fenómenos de la vida real dan señales de este tipo (presión, temperatura, etc.).
+Variable digital– También llamadas variables discretas, entendiéndose por estas, las variables que pueden tomar un número finito de valores. Por ser de fácil realización los componentes físicos con dos estados diferenciados, es este el número de valores utilizado para dichas variables, que por lo tanto son binarias. Siendo estas variables más fáciles de tratar (en lógica serían los valores V y F) son los que generalmente se utilizan para relacionar varias variables entre sí y con sus estados anteriores.
+
+
+== Tensión ==
+Es la diferencia de potencial generada entre los extremos de un componente o dispositivo eléctrico. También podemos decir que es la energía capaz de poner en movimiento los electrones libres de un conductor o semiconductor. La unidad de este parámetro es el voltio (V). Existen dos tipos de tensión: la continua y la alterna.
+Voltaje continuo (VDC)–Es aquel que tiene una polaridad definida, como la que proporcionan las pilas, baterías y fuentes de alimentación.
+Voltaje alterno (VAC)–Es aquel cuya polaridad va cambiando o alternando con el transcurso del tiempo. Las fuentes de voltaje alterno más comunes son los generadores y las redes de energía doméstica.
+
+
+== Corriente eléctrica ==
+También denominada intensidad, es el flujo de electrones libres a través de un conductor o semiconductor en un sentido. La unidad de medida de este parámetro es el amperio (A). Al igual que existen tensiones continuas o alternas, las intensidades también pueden ser continuas o alternas, dependiendo del tipo de tensión que se utiliza para generar estos flujos de corriente.
+
+
+== Resistencia ==
+
+Es la propiedad física mediante la cual todos los materiales tienden a oponerse al flujo de la corriente. La unidad de este parámetro es el Ohmio (Ω). No debe confundirse con el componente resistor. La propiedad inversa es la conductancia eléctrica.
+
+
+== Circuitos electrónicos ==
+Se denomina circuito electrónico a una serie de elementos o componentes eléctricos (tales como resistencias, inductancias, condensadores y fuentes) o electrónicos, conectados eléctricamente entre sí con el propósito de generar, transportar o modificar señales electrónicas. Los circuitos electrónicos o eléctricos se pueden clasificar de varias maneras:
+
+
+== Componentes ==
+Para la síntesis de circuitos electrónicos se utilizan componentes electrónicos e instrumentos electrónicos. A continuación se presenta una lista de los componentes e instrumentos más importantes en la electrónica, seguidos de su uso más común:
+Altavoz: reproducción de sonido.
+Cable: conducción de la electricidad.
+Conmutador: reencaminar una entrada a una salida elegida entre dos o más.
+Interruptor: apertura o cierre de circuitos, manualmente.
+Pila: generador de energía eléctrica.
+Transductor: transformación de una magnitud física en una eléctrica (ver enlace).
+Visualizador: muestra de datos o imágenes.
+
+
+=== Dispositivos analógicos (algunos ejemplos) ===
+Amplificador operacional: amplificación, regulación, conversión de señal, conmutación.
+condensador: almacenamiento de energía, filtrado, adaptación impedancias.
+Diodo: rectificación de señales, regulación, multiplicador de tensión.
+Diodo Zener: regulación de tensiones.
+Inductor: adaptación de impedancias.
+Potenciómetro: variación de la corriente eléctrica o la tensión.
+Relé: apertura o cierre de circuitos mediante señales de control.
+Resistor o Resistencia: división de intensidad o tensión, limitación de intensidad.
+Transistor: amplificación, conmutación.
+
+
+=== Dispositivos digitales ===
+Biestable: control de sistemas secuenciales.
+Memoria: almacenamiento digital de datos.
+Microcontrolador: control de sistemas digitales.
+Puerta lógica: control de sistemas combinacionales.
+
+
+=== Dispositivos de potencia ===
+DIAC: control de potencia.
+Fusible: protección contra sobre-intensidades.
+Tiristor: interruptor semiconductor para el control de potencia.
+Transformador: elevar o disminuir tensiones, intensidades, e impedancia aparente.
+Rectificador controlado de silicio (SCR).
+Triac: control de potencia.
+Varistor: protección contra sobre-tensiones.
+
+
+== Equipos de medición ==
+Los equipos de medición de electrónica se utilizan para crear estímulos y medir el comportamiento de los Dispositivos Bajo Prueba (DUT por sus siglas en inglés).La medición de magnitudes mecánicas, térmicas, eléctricas y químicas se realiza empleando dispositivos denominados sensores y transductores. El sensor es sensible a los cambios de la magnitud a medir, como una temperatura, una posición o una concentr

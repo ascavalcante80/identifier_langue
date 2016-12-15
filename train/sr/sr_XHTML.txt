@@ -1,0 +1,54 @@
+XHTML (skraćeno od engl. Extensible HyperText Markup Language) je jezik za označavanje baziran na XML opisnom jeziku, i predstavlja reformulaciju HTML (engl. HyperText Markup Language) jezika namenjenog opisu veb stranica.
+XHTML kombinuje HTML oznake sa sintaksnim pravilima XML-a. XHTML 1.0 je 26. januara 2000. godine preporučen kao standard od strane WWW konzorcijuma (W3C), međunarodne organizacije zadužene za izradu Internet standarda.
+
+
+== Motivacija ==
+XHTML je dizajniran s ciljem da zameni HTML, zbog problema proširivosti i kompatibilnosti sa drugim tipovima podataka. Struktura XHTML dokumenta je zasnovana na pravilima XML-a, dok je HTML 4 baziran na jeziku SGML, koji se odlikuje većom fleksibilnošću od XML-a. Fleksibilnost koju je HTML nasledio uzrokovala je probleme u interpretiranju dokumenata . Ovi problemi su posebno izraženi na mobilnim telefonima i drugim uređajima sa ograničenim mogućnostima. Ovo je rezultovalo činjenicom da HTML specifikacija nije u potpunosti podržana u svim veb pregledačima.
+
+
+== Razlika između XHTML i HTML ==
+U sledećoj listi navedena su neka XHTML 1.0 pravila koja se razlikuju od HTML 4.01. Većina ovih pravila se odnose na promenu SGML sintakse u strožu, XML formu.
+Svi neprazni elementi zahtevaju završne oznake:
+Nepravilno: <p> Prvi paragraf <p> drugi paragraf
+Pravilno: <p> Prvi paragraf </p> <p> Drugi paragraf </p>
+
+Prazni elementi takođe moraju biti zatvoreni:
+Nepravilno: <br>
+Pravilno: <br></br> ili <br/>
+
+Elementi moraju biti pravilno gnježdeni, tako da poslednji otvoreni element mora biti prvi zatvoren:
+Nepravilno: <em><strong> Tekst </em> </strong>
+Pravilno: <em><strong> Tekst </strong> </em>
+
+Vrednosti atributa se moraju nalaziti unutar navodnika:
+Nepravilno: <table border=1>
+Pravilno: <table border="1">
+Pravilno: <table border='1'>
+
+Nazivi elemenata i atributa moraju biti zapisani malim slovima:
+Nepravilno: <A HREF="http://www.example.com"> Primer </A>
+Pravilno: <a href="http://www.example.com"> Primer </a>
+
+HTML omogućava da se vrednosti nekih atributa izostave, i da se navedu samo njihova imena. XHTML ovo ne dozvoljava:
+Nepravilno: <input type="text" disabled/>
+Pravilno: <input type="text" disabled="disabled"/>
+
+Zastareli atributi i elementi u HTML 4.01 nisu deo XHTML:
+Nepravilno: <font color="blue"> Plavi tekst </font>
+Pravilno: <span style="color: blue"> Plavi tekst </span>
+
+
+== Verzije XHTML standarda ==
+
+
+=== XHTML 1.0 ===
+XHTML 1.0 je odobren od strane W3C konzorcijuma 26. januara 2000. godine. Ova specifikacija sadrži sve HTML 4 elemente i atribute koji nisu prezentacioni već strukturni, koji su podeljeni u tri verzije:
+XHTML 1.0 Strict
+XHTML 1.0 Transitional
+XHTML 1.0 Frameset
+
+
+=== XHTML 1.1 ===
+XHTML 1.1 je preporučen od strane W3C konzorcijuma 31. maja 2001. godine i predstavlja nešto izmenjenu verziju njegovog prethodnika.
+U ovoj verziji su uvedeni elementi za prikaz rubi karaktera.
+Druge izmene se odnose na uklanjanje name atributa iz elemenata a i map, kao i na zamenu lang

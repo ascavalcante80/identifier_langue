@@ -1,0 +1,20 @@
+noa, kumpi niistä on suurempi.
+Kompleksilukuja ei voi sijoittaa lukusuoralle, mutta ne voidaan asettaa vastaamaan tason pisteitä. Tällöiln jokaista kompleksilukua a + bi vastaa tason piste (a, b). Tällä tavoin käsiteltyä tasoa sanotaan kompleksitasoksi.
+Reaali- ja kompleksiluvut voidaan jakaa algebrallisiin ja transkendenttisiin lukuihin. Luku on algebrallinen, jos se on jonkin sellaisen polynomiyhtälön ratkaisu, jossa kaikki kertoimet ovat kokonaislukuja. Algebrallisia lukuja ovat esimerkiksi kaikki rationaaliluvut sekä kaikki niistä juurenotolla saadut luvut. Transkendenttisiksi on voitu osoittaa muun muassa pii sekä Neperin luku e.
+Jokainen edellä mainituista lukualueista on kaikkien seuraavien aito osajoukko. Matemaattisia merkintöjä käyttäen tämä voidaan ilmaista seuraavasti: .
+
+
+== Lukujen merkintä ==
+Lukujen kirjoittamiseen käytetään länsimaissa yleisesti ns. arabialaisia numeroita järjestelmässä, jonka kantaluku on 10. Tässä järjestelmässä lukujen kirjoitusasut muodostetaan numeroista 0–9 sekä desimaalierottimesta, joka on maasta riippuen pilkku tai piste. Suomessa käytetään pilkkua desimaalien erottamiseen. Peräkkäin kirjoitetuista numeroista oikeanpuoleisin on vähiten merkitsevä ja merkitys kasvaa vasemmalle mennessä kantaluvun verran. Eli esim. 123 tarkoittaa samaa kuin 1 · 102 + 2 · 101 + 3 · 100. Vastaavasti desimaalierottimen oikealla puolella olevat numerot ilmaisevat luvun osia. Desimaalierotinta ei aina merkitä näkyviin.
+On myös muita tapoja merkitä luvun osia. Näistä esimerkkinä murtoluvut. Kokonaisluvut ja luvun osat murtolukuina voidaan merkitä myös samaan lukuun peräkkäin ilman yhteenlaskuoperaattoria.
+
+
+== Sanan muita merkityksiä ==
+Luku voi myös tarkoittaa kirjan tai muun kirjallisen tuotoksen numeroitua osaa, joka alkaa otsikolla ja sisältää yhden tai useamman kappaleen. Kirjallisen teoksen luku voi olla numeroitu tai numeroimaton.
+
+
+== Katso myös ==
+Suurten lukujen nimet
+
+
+== Lähteet ==

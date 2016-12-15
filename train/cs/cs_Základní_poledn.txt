@@ -1,0 +1,19 @@
+Základní poledník nebo též nultý poledník je poledník, od kterého se počítá zeměpisná délka. Prochází Královskou observatoří v Greenwichi v Anglii (dnes jižní předměstí Londýna), podle toho se nazývá též Greenwichský poledník. K jeho definici byl použit Airyho pasážník Greenwichské hvězdárny.
+
+
+== Historie základního poledníku ==
+Od počátků astronomie bylo její důležitou aplikací měření času a využití nebeských těles pro navigaci. Pravý sluneční čas je v každém místě svázán s místním poledníkem. Zavedení jednotného času na větším území proto nutně souvisí se stanovením významného poledníku. Historicky vzniklo mnoho úředních časů a mnoho s nimi svázaných významných poledníků, a pro účely navigace si alespoň každá koloniální mocnost zvolila svůj systém souřadnic se svým základním poledníkem. Vývoj techniky a dopravy si koncem 19. století vynutil přijetí jednotného systému měření času a zeměpisné délky.
+Poledník, který je základní v dnešním systému používán, byl určen na zvláštní konferenci (International Meridian Conference) pořádané v říjnu 1884 ve Washingtonu, na které se sešlo 41 delegátů z 25 zemí.
+Na konferenci byly přijaty tyto základní principy:
+Bylo by vhodné přijmout jeden světový poledník a nahradit tak všechny dosud existující.
+Poledník procházející hlavním pasážníkem na Greenwichské hvězdárně by měl být stanoven jako „počáteční poledník“.
+Všechny zeměpisné délky v rozmezí 180° na východ i na západ by měly být počítány od tohoto poledníku.
+Všechny země by měly přijmout univerzální den.
+Za univerzální den by měl být stanoven střední sluneční den, který začíná o půlnoci středního slunečního času v Greenwichi a má 24 hodiny.
+Nautický a astronomický den by všude měly začínat o střední půlnoci.
+Měly by být podporovány všechny technické studie regulující a rozšiřující používání desítkového systému na dělení času a prostoru.
+Rezoluce č. 2, zavádějící základní poledník v Greenwichi, prošla hlasováním v poměru 22:1. San Domingo (nyní Haiti) hlasovalo proti, Francie a Brazílie se zdržely. Francie nepřijala tento systém až do roku 1911.
+Na protější straně Země oproti nultému poledníku se nachází mezinárodní datová hranice.
+Dříve se jako základní poledník používal zejména ostrov El Hierro v české literatuře označovaný jako Ferro (součást Kanárských ostrovů), který byl definován jako bod 20° na západ od Paříže (ve skutečnosti 20°23'9"; tj. 18°08'51" západně od Greenwiche). Další užívané základní poledníky byly v Kodani, Paříži (2°20'14" východně od Greenwiche), Petrohradě (poledník procházející hvězdárnou Pulkovo, 30°19'42,09" východně od Greenwiche), Římě (12°27'08,04" východně od Greenwiche), Jeruzalémě, Pise či Philadelphii.
+Při popisu jiných nebeských těles se používají obdobně libovolně definované základní poledníky. Např. základní poledník Měsíce leží přesně uprostřed jeho přivrácené strany. Nultý poledník na Marsu prochází kráterem Airy-0.
+Vzhledem k jemným pohybům zemské kůry by definování souřadného systému polohou pasážníku bylo dlouhodobě problematické. V současnosti se proto k zafixování zeměpisných souřadnic používá jiné metody. Základní souřadnicí, která v definic vystupuje, je čas UTC (Universal Time Coordinate), který je s korekcí na nerovnoměrnost zemské rotace vztažen k času TAI. Čas TAI udržuje soubor atomových hodin. Prostorové souřadnice pak vzhledem k času určuje standard International Terrestrial Reference System. Tak se získá vztažná

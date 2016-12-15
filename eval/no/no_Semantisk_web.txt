@@ -1,0 +1,38 @@
+ilemma når det eksisterer flere vokabular fra forskjellige ontologier bli kombinert i ett dokument. Deduksjon feiler når inkonsistensen er tilstedeværende i et dokument med flere separate vokabular.
+Et siste hinder er ren menneskelig bedrageri. Falsk informasjon satt inn i semantiske egenskaper. Kryptografi blir normalt sett utøvd for å forhindre bedrageri.
+Mange av teknikkene nevnt her vil kreve en utvidelse av Web Ontology Language (OWL) for å bli løst.
+
+
+== Eksisterende prosjekter ==
+Flere av prosjektene listet her er fortsatt under utvikling og de fleste er av tidlig alder. Listen er betenkt som en oversikt over eksisterende eksempler på bruk av en semantisk web så langt.
+
+
+=== DBpedia ===
+DBpedia har som mål å hente ut data fra Wikipedia og gjøre det tilgjengelig i et semantisk RDF-format. Resultatet blir publisert og blir lagt ut fritt tilgjengelig med GNU Free Documentation License. Dette tillater semantiske agenter til å sende spørringer til datasettet og lenke og bruke materialet tilgjengelig i egne datakilder.
+
+
+=== FOAF ===
+FOAF er et populært prosjekt som tillater folk å uttrykke semantiske begreper i forhold til personer og deres relasjoner mellom dem. FOAF står for Friend of a Friend. Med FOAF kan agenter se sammenhengen mellom personer, som f.eks. om de er kjent gjennom jobb, skole, organisasjoner eller privat. Man kan til og med spesifisere foreldre og barn. Siden hele sammenhengen av de forskjellige personene og alle deres relasjoner vil det være nærmest umulig for mennesker å se sammenhengen mellom alt. Dette er derimot noe en agent ville klart å sett sammenhengen i på kort tid.
+FOAF er et eksempel på et semantisk prosjekt i sosiale sammenhenger.
+
+
+== Se også ==
+FOAF
+RDF
+
+
+== Referanser ==
+^ ««The Semantic Web», artikkel i Scientific American». Besøkt 14. juni 2010. 
+^ «"WorldWideWeb: Proposal for a HyperText Project"». Besøkt 15. juni 2010. 
+^ «"Weaving the web, kapittel 12"». Besøkt 15. juni 2010. 
+^ Sikos, Leslie F. (2015). «2». Mastering Structured Data on the Semantic Web: From HTML5 Microdata to Linked Open Data. Apress. ISBN 1484210492. 
+^ «"Om Mikroformater"». Besøkt 16. juni 2010. 
+^ «"Linked Data av Tim Berners-Lee"». Besøkt 16. juni 2010. 
+^ «"World Wide Web Size"». Besøkt 17. juni 2010. 
+
+
+== Eksterne lenker ==
+Offisielt nettsted
+SemanticWeb.org Wiki
+W3C Semantic Web Activity
+Semantic Overflow

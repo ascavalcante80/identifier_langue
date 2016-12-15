@@ -1,0 +1,63 @@
+A vas fémes tulajdonságú kémiai elem, rendszáma a periódusos rendszerben 26, atomtömege 55,845 g/mol. A vegyjele Fe, ami a latin ferrum szóból ered, nyelvújításkori neve vasany. Elemi állapotban szürkésfehér, szívós, jól alakítható fém. A földkéreg 4,8% vasat tartalmaz különböző vegyületek alakjában, elemi vas a természetben nem található (eltekintve a meteoritvastól). Az elemek közül ennél több csak oxigénből, szilíciumból és alumíniumból van. A vas ipari fontosságú elem. Érceiből redukálással állítják elő. Először a nyersvasgyártási eljárással nyersvasat, öntészeti célra öntöttvasat, az acélgyártás műveleteivel acélt állítanak elő.
+
+
+== TulajdonságaiSzerkesztés ==
+
+
+=== ReakcióiSzerkesztés ===
+Elemekkel:
+Oxigénnel: 
+Halogénekkel (Cl, Br, I) is Fe3+ ionná oxidálódva pl. FeCl3 vagy FeBr3 halogenideket alkot, jóddal +2-ig oxidálódik (az FeI3 instabil, mg-os mennyiségben előállítható fekete anyag).
+Kénnel (S) csak Fe2+(ferro-) ionná oxidálódik mert a kén nem annyira oxidatív.
+
+Vízzel nem reagál, ha az oxigénmentes, desztillált víz, de ha a vízben van oldott oxigén, akkor rozsda (FeO(OH) vagy Fe(OH)3·Fe2O3) keletkezik.
+Savakkal:
+A híg szervetlen savak (HCl, HNO3…) mind reagálnak vele, kénsavval és sósavval csak +2-ig oxidálódik, de így nem stabil, lassan (hetek, hónapok alatt) alakul át Fe3+ (ferri-) vegyületekké.
+A tömény szervetlen savak passziválják, védőréteg alakul ki a felszínén, ami megakadályozza a további reakciót (a HCl csak vízmentesen passziválja), ezért a tömény savakat vastartályban lehet szállítani.
+A híg szerves savak (CH3COOH, C3H4(OH)(COOH)3...) lassan, de oldják. Közben hidrogén gáz fejlődik.
+
+Lúgokkal nem reagál, nem amfoter fém.
+A pozitívabb standard elektródpotenciálú fémeket redukálni tudja, sóikban a helyüket átveszi.
+A vas levegőn csak magas hőmérsékleten (1250 K) oxidálódik. Ekkor vas(II)-vas(III)-oxid, Fe3O4 keletkezik. A száraz klórgáz és a cseppfolyós klór közönséges körülmények között a vasat nem támadja meg, ezért hozható a klór vaspalackokban forgalomba. Viszont víznyomok jelenlétében a vas már szobahőmérsékleten is reagál a klórral. A jód 100 °C-on reagál a vassal. Ekkor a vas vas(II)-jodiddá (FeI2) oxidálódik. Hevítés hatására kénnel és foszforral is reakcióba lép, nitrogénnel azonban magas hőmérsékleten sem reagál.
+
+
+=== Kémiai tulajdonságaiSzerkesztés ===
+A Fe2+ ion-vegyületek zöld színűek, az aniontól függően, de ezek a sók nem stabilak, levegőn átalakulnak sárga színű Fe3+ vegyületekké. A kettős szulfátok stabilabbak – például a Mohr-só, ennek képlete Fe(NH4)2(SO4)2 –, de levegőn lassan ezek is oxidálódnak. A vas(III)-oxalát ellenben fény hatására vas(II)-oxaláttá alakul (Fe2(C2O4)3 → 2 Fe(COO)2+2 CO2).
+A Fe2+ iont tartalmazó vas(II)-vegyületek redukáló tulajdonságúak (legerősebben lúgos közegben), könnyen oxidálódnak stabilabb vas(III)-vegyületekké. Bár a vas oxidációs száma vegyületeiben leggyakrabban +2 vagy +3, egyes vegyületeiben (a ferrátokban) a vas oxidációs száma +6 is lehet.
+Reakcióképessége miatt kísérő elemeitől nehezen, hosszadalmas laboratóriumi műveletekkel is csak részben sikerül megtisztítani. A színvasnak minősíthető fém is csak mintegy 99,998% Fe-t tartalmaz; ezt főleg kísérleti célokra használják. Ipari célra – amennyiben tiszta vasra van szükség – nem ennyire tiszta, hanem gazdaságosabban előállítható vasfajtákat használnak, például az elektrolitvasat, vagy a túloxidálással készült Armco-vasat.
+
+
+=== Fizikai tulajdonságaiSzerkesztés ===
+
+A vas 1538 °C-on olvad. Az olvadt vas hűlés közben ugyanezen a hőmérsékleten szabályos rendszerbeli, térben középpontos kockarácsú (vagy tércentrált) kristályokká dermed; a kockarács élei 0,293 nm hosszúak. További hűlés során a kristályszerkezet megváltozik az A4 = 1394 °C hőmérsékleten: felületen középpontos (lapcentrált) rácsúak lesznek, a rácselem élei 0,368 nm-re változnak. Miközben az acél tovább hűl, A3 = 912 °C hőmérsékleten a kristályok ismét térben középpontos kockarácsúak lesznek, a rácselem mérete 0,290 nm. Ezután több átalakulásra már nem kerül sor; szobahőmérsékleten a vas szintén tércentrált kockarácsú, csupán az élei rövidülnek meg 0,286 nm-re a zsugorodás miatt.
+A vasnak tehát három kristályos módosulata van: 1538 és 1394 °C között a δ-vas, 1394 és 912 °C között a γ-vas, 912 °C-nál kisebb hőmérsékleten pedig az α-vas állandó. Látható, hogy az α(δ)- és az α-vas azonos rácsszerkezetű, csupán a rácselemük méretében különböznek egymástól, ami pedig a hőtágulással magyarázható (ebből adódik jelzésük egyezősége is). Régebben megkülönböztették a β-vasat is, de ez csak a mágnesezhetőség határát (770 °C) jelölte, nem külön módosulat. Fontos megjegyezni, hogy a vas módosulatainak a sűrűsége (fajtérfogata) különböző. Ennek az az oka, hogy az α-vas kockarácsában a vasatomok nem olyan szorosan helyezkednek el, mint a γ-vaséban.
+A vas legfontosabb ötvözete az acél, ami ötvözőként szenet és más ötvözőelemeket tartalmaz. Az ötvözők, de a szándék nélkül vasba került többi elem hatására is, az acél keményebbé, szilárdabbá – bizonyos határon túl pedig akár rideggé is – válik.
+A vas az elektromosságot és a hőt közepesen vezeti, és mágnesezhető. A vason kívül csak két másik fémes elem, a kobalt és a nikkel mágnesezhető.
+
+A vas gőznyomása
+
+Az adatok az elemi állapotú vasra vonatkoznak. Ipari célokra szénacélt, illetve öntöttvasat gyártanak, amelyeknek alacsonyabb az olvadáspontja (az oldatok fagyáspontcsökkenésének törvénye szerint). A ledeburit például 4,3%-os összetételű eutektikuma a vasnak és a szénnek (azaz: 66% vaskarbidnak) 1147 °C-os olvadásponttal. Ezen a hőmérsékleten az elemi vas még szilárd halmazállapotú.
+Spektrumvonalának hullámhossza 617,3 nm.
+
+
+== ElőállításaSzerkesztés ==
+
+
+== TörténeteSzerkesztés ==
+A sumer nyelvben már megjelenik a vasat jelentő szó AN.BAR formában. Jellemző módon az összetétel eleje (AN) az égre utal, a BAR pedig egy sok jelentésű szó. A szó szerinti fordítása valószínűleg „égi fém”, amely arra utal, hogy először a meteoritvassal ismerkedtek meg Mezopotámiában (ahol nincsenek érclelőhelyek). A vasat valószínűleg az ókori Anatóliában vagy a Kaukázusban kezdték el nagy mennyiségben felhasználni az i. e. 2. évezredben. A legrégebbi vasszerszámot a a Kheopsz-piramisnál folytatott ásatásoknál találták. Annak, hogy fennmaradt, a sivatagi száraz klíma lehet a magyarázata. Arról nincs pontos tudásunk, hogy mikor és hogyan nyerték ki a vasat először vasércből. A felfedezést feltehetően egy tűzbe került vasérc darabon kialakuló változás megfigyelése indította el. Az első „kohók” széljárta helyeken kapart kis gödrök voltak, amiben faszénnel kevert vasércet izzítottak. A vasérc redukálódott, azaz oxigéntartalma eltávozott, visszamaradt a vas, amiről a salakot kovácsolással el lehetett távolítani, az acélszerű terméket pedig fel lehetett használni.
+
+
+== ElőfordulásaSzerkesztés ==
+A nehézelemek közül a természetben a vas a legelterjedtebb. A csillagok energiatermelési folyamatai során ugyanis, mind a könnyű atomok egyesülésekor, mind pedig a nehéz atomok szétbomlásakor, a vas végtermékként, „hulladékként” jelenik meg. Ezért a vas gyakori mind a meteoritokban, mind pedig a Föld-típusú bolygók magjában.
+A vas a talajban különböző ásványok kristályrácsában, így a csillámokban, augitban, olivinben és biotitban található. Az adszorpciós komplexuson is megkötődhet Fe2+-, Fe3+-, vagy Fe(OH)2+-, Fe(OH)2+-ion formában. A talaj oldható Fe-tartalma általában kicsi, a pH csökkenésével növekszik, és csak erősen savanyú talajokban, pl. podzolokban jelentős mennyiségű. A Fe mozgékonysága a savanyú talajokban jó. Ennek következtében a feltalaj oldható Fe-tartalma a mélyebb rétegekbe mosódik, ott kicsapódik. A kelátok a vasat megvédik a kicsapástól, a vaskelátok oldatban maradnak. A Fe mozgékonyságát a talajban nagymértékben befolyásolják az oxidációs, redukciós viszonyok. A Fe3+-ionok csak pH = 3 alatt stabilak, e fölött kicsapódnak, míg a Fe2+-ionok csak a semleges pont közelében csapódnak ki vas-hidroxid formájában. Az oxidáció a redox potenciál növekedésével fokozódik, és ennek következtében a Fe kicsapódása is nagyobb mérvű. A redox potenciál függ a pH-értéktől, növekvő pH-értékkel csökken, ezért a Fe oldhatósága annál kisebb, minél nagyobb a talaj pH-értéke. Mésztartalmú talajokon a növények Fe-ellátása ennek következtében veszélyeztetett. A Fe2+ ↔ Fe3+ átalakulás természetesen a talaj szellőzöttségétől is függ. A pangó víz elősegíti a redukciót. A kétértékű vas aránya a mélyebb talajrétegekben egyre nagyobb.
+
+
+== Élettani szerepeSzerkesztés ==
+
+
+=== NövényekSzerkesztés ===
+A növények számára elsősorban azért fontos, mert a fotoszintézis kulcsvegyületének, a klorofill bioszintézisében alapvető szerepet játszik, de a klorofillnak nem alkotója.
+A vas egyébként nemcsak a klorofill bioszintéziséhez szükséges, de komponense nagyon sok fontos növényi enzim-rendszernek: a citokróm-oxidáz például az elektrontranszportért felelős. Vas a fő komponense a ferredoxinnak, amely a nitrátok és a szulfátok redukciójában játszik szerepet. Részt vesz a vas a NADP képződésében, tehát az energialáncban, továbbá az elemi nitrogén kémiai megkötését végző nitrogenáz molekula - a molibdénen kívül - fő komponensként vasatomokat tartalmaz.
+A fontosabb vastartalmú enzimek (egy kivételével mind az oxido-reduktázok csoportjába tartoznak, ezen belül is döntő többségük a molekuláris oxigén, illetőleg hidrogén-peroxid átalakulásával kapcsolatban végzi tevékenységét): glutamát-szintetáz, ferredoxin-nitrát-reduktáz, szulfit-reduktáz (NADPH), citokróm-peroxidáz, kataláz, peroxidáz, lipoxigenázok, hidrogenáz.
+A növényi levelek vastartalma 10–1000 mg/kg nagyságrendben szokott mozogni: a legtöbb növénynél a kritikus alsó határt 50 mg/kg értékkel lehet megjelölni. A növények nagyobb foszfor-tartalma csökkenti a vas felvehetőségét: a P:Fe arány általában a 29:1 értékkel fejezhető ki. A növények vasellátása szempontjából a kioldható Fe(II)-formát tartják lényegesnek, de praktikusan a vas-ellátottság megbízható indikátora a klorofill mennyisége. A talajban lévő vas(III) forma a gyökereken keresztül történő vasfelvételnél általában vas(II)-formává alakul át és rendszerint komplexképző segítségével kerül a növények belsejébe. Az ionfelvételnél igen erős versengés folyik: a réz, a mangán és a cink - nagyobb mennyiségben - a vasfelvételt gátolják.
+Közismert a növények életében a mészklorózisnak nevezett tünet, amikor a talajban levő nagyobb kalcium-karbonát-tartalom következtében kialakuló magasabb pH-érték miatt a vas felvétele gátolt, illetőleg a növényben levő vas nem tud részt venni a klorofill bioszintézisében. A fi

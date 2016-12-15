@@ -1,0 +1,26 @@
+Moc – skalarna wielkość fizyczna określająca pracę wykonaną w jednostce czasu przez układ fizyczny. Z definicji, moc określa wzór:
+
+gdzie:
+P – moc,
+W – praca,
+t – czas.
+Wzór ten jest prawdziwy, gdy praca wykonywana jest w tym samym tempie (nie zmienia się w czasie). W przeciwnym wypadku powyższy wzór będzie określał moc średnią. Aby obliczyć moc chwilową należy skorzystać z innego wzoru:
+
+Moc mechaniczną można także obliczyć ze wzoru:
+
+gdzie:
+P – moc,
+F – siła działająca na ciało (np. siła ciągu),
+v – prędkość ciała.
+Moc może być również definiowana jako prędkość emisji energii (na przykład dla źródła światła, anteny, głośnika). Wzór na moc (przy stałym tempie emisji) przybiera wówczas postać:
+
+gdzie E jest energią emitowaną w czasie t.
+Specyficzne zagadnienie mocy fizycznej w odniesieniu do człowieka i zwierząt omówione jest w haśle: silnik żywy.
+
+
+== W elektryczności ==
+Moc urządzeń elektrycznych wyraża się iloczynem natężenia przepływającego przez nie prądu I i napięcia elektrycznego U, do którego urządzenie jest włączone
+
+
+== Jednostka mocy ==
+Jednostką mocy w układzie SI jest wat (W). Moc jest równa 1 wat, jeśli praca 1 dżul

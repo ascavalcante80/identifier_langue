@@ -1,0 +1,80 @@
+XML (Extensible Markup Language) er et universelt og utvidbart markeringsspråk og en forenklet videreføring av SGML. XML er et verktøy for deling av strukturerte data mellom informasjonssystemer, særlig over internett. XML brukes imidlertid også til koding av dokumenter og som kommunikasjonsmiddel mellom ulike informasjonssystemer og dataformater. Filformatet .xml organiserer data i en hierarkisk struktur. Formatet er et vanlig tekstformat, leselig for mennesker, der merker, eller tagger, gir informasjon om hva innholdet er.
+Spesifikasjonen av XML, som gis ut av W3C, fastsetter et metaspråk som andre språk kan defineres ut fra. De eksakte kravene til et konkret språk som bygger på XML fastsettes av en DTD eller et XML-skjema. Noen kjente språk som bygger på XML er RSS, XHTML, MathML og Scalable Vector Graphics (SVG).
+
+
+== Styrker og svakheter ==
+Det som gjør XML spesielt velegnet for datautveksling er:
+Formatet er både menneskelig lesbart og maskinlesbart.
+Det kan bruke tegnsettet Unicode, som representerer alle nåværende og kjente historiske tegnsystemer.
+Det er egnet til å representere generelle datastrukturer som databasetabeller, lister og trestrukturer.
+Formatet er selvdokumenterende ved at det beskriver strukturen og datanavnene i tillegg til selve dataverdiene.
+Det har en streng syntaks som gjør dataene enkle å tolke for et program.
+XML brukes også utstrakt for dokumentlagring og prosessering, både over nett og lokalt. Følgende fordeler kan nevnes:
+Robust, logisk verifiserbart format basert på internasjonale, åpne standarder.
+Hierarkisk struktur velegnet for de fleste (men ikke alle) typer dokumenter.
+Plattformuavhengig, og derfor ganske immun mot teknologiendringer.
+Markeringsspråk har vært i bruk siden 1980-tallet (SGML), og er svært populært i seg selv, og er derfor støttet av en stor mengde programvare.
+For visse anvendelser har formatet også noen svakheter:
+XML-syntaks er nokså plasskrevende og delvis overflødig (start- og sluttagg med samme metainformasjon).
+Det setter større krav til overføringskapasitet og øker lagringskostnader. Det er altså et problem ved begrenset båndbredde, selv om filkompresjon har stor effekt.
+XML-syntaks har noen spesielle egenskaper fra dens SGML-kompatibilitet.
+XML krever ofte spesiell parsing for å hente ut individuelle verdier.
+Modellering av overlappende (ikke-hierarkiske) datastrukturer krever ekstra innsats.
+Mapping av XML til objektorienterte eller relasjons-paradigmer kan være komplisert.
+
+
+== Syntaksregler for XML ==
+Et XML-dokument er vanligvis en tekstfil med en Unicode-basert tegnkoding som UTF-8 eller UTF-16, selv om en annen tegnkoding (f.eks. ISO-8859-1 eller ASCII) alternativt kan brukes.
+Til forskjell fra f.eks. HTML er XML helt avhengig av struktur, innhold og korrekthet for å kunne håndteres effektivt. For at et dokument skal regnes for å være «velformet» (W3C Recommendation XML 1.0 (Third Edition)), må det som minimum oppfylle følgende:
+Det må ha ett og bare ett rotelement.
+Ikke-tomme elementer må begrenses av en starttagg og en sluttagg med samme navn: <avsnitt>...</avsnitt>. Tomme elementer (dvs. uten datainnhold eller subelementer, men evt. med attributter) kan alternativt angis med en såkalt lukket tagg: <nylinje/>.
+Alle attributtverdier må settes i anførselstegn (enten et enkelt rett anførselstegn (') eller et dobbelt rett anførselstegn (")). En attributtverdi må begynnes og avsluttes med samme type anførselstegn. Den typen anførselstegn som ikke brukes til å omslutte attributtverdien, kan brukes som en del av attributtverdien.
+Elementer kan inneholde andre elementer, men ikke overlappe hverandre. Det betyr at alle ikke-rotelementer må være fullstendig inneholdt i et annet element.
+Det er forskjell på store og små bokstaver i elementnavn. F.eks. er <Eksempel> og </Eksempel> et velformet par, mens <Eksempel> og </eksempel> ikke er det.
+Gode valg av elementnavn gjør at en kan bygge inn semantikk (mening) i dataene som en del av strukturen. Dette gjør at XML-dokumenter enklere kan forstås av mennesker, samtidig som de er prosesserbare av dataprogrammer.
+Her er et eksempel på et XML-dokument, en oppskrift på loffbaking:
+
+Elementnavnene kan brukes for alle mulige matoppskrifter, mens det aktuelle innholdet (instansen) uttrykker en brødoppskrift.
+Ved å gi logiske navn til elementer og attributter blir det lettere for andre å forstå XML-dokumentet uten å ha lest en formatbeskrivelse først.
+Et XML-dokument som er velformet og i tillegg oppfyller kravene i et tilknyttet XML Schema-dokument eller en DTD, kalles gyldig (engelsk: valid). Slike valideringsdokumenter for XML kalles på norsk XML-skjemaer (eng. XML schema).(liten s).
+
+
+== Skjemaspråk ==
+Før de generelle databeskrivelsesspråkene som SGML og XML kom, måtte programvareutviklere definere spesielle filformater eller minispråk for å utveksle data mellom programmer. Dette krevde videre utvikling av spesiell lese- og skrivekode samt detaljerte formatbeskrivelser.
+XMLs regelmessige struktur og strenge syntaksregler gjør at programvareutviklere kan bruke standard kode for lesing og skriving. Og ettersom XML har sitt datamodellorienterte rammeverk for utvikling av anvendelsestilpassede språk, kan utviklere begrense seg til å utvikle høyt abstraherte beskrivelser veltilpasset for sine data.
+Et XML-skjema er en beskrivelse av en gitt type XML-dokument som uttrykker innhold og begrensninger som går videre i forhold til det som er definert av XML som sådan. Et antall standard og spesialtilpassede skjemaspråk er blitt utviklet for å formaldefinere slike beskrivelser. Noen av disse er XML-baserte selv.
+Det finnes mange godt utprøvde verktøy for å validere XML-dokumenter mot et XML-skjema, slik at innholdet følger de begrensninger som ligger i skjemaet. De blir også brukt i XML-behandlingsprogrammer til å gi løpende tilbakemeldinger på lovlig innhold.
+Det eldste skjemaformatet er Document Type Definition (DTD), som er arvet uendret fra SGML. Mens DTD alltid støttes av diverse verktøy ettersom det var med i XML 1.0, er det begrenset i anvendelsen av følgende årsaker:
+Det har ikke støtte for nye XML-egenskaper, herunder navnerom som den viktigste.
+Det har manglende uttrykksevne. Visse formelle sider ved et XML-dokument kan ikke uttrykkes i en DTD.
+DTD har ikke XML-syntaks.
+Et nyere skjemaspråk, beskrevet av W3C som etterfølgeren til DTD-er, kalles rett og slett XML Schema, og refereres gjerne som XML Schema Definition (XSD). XSD har langt sterkere uttrykksevne enn DTD til å beskrive XML-språk. Dessuten bruker XSD et XML-basert format som gjør det mulig å anvende XML-verktøy til å prosessere XSD-dokumenter. Det er også mulig å lage et XML Schema-dokument for språket selv (hvilket også er gjort).
+Her er et XML Schema-dokument som kan brukes for å validere oppskrift-eksemplet over:
+
+Noen negative aspekter med XSD:
+Standarden er svært stor, noe som gjør den vanskelig å forstå og implementere.
+Den XML-baserte syntaksen gjør skjemaet omfangsrikt og krevende å lese og skrive.
+Et annet populært skjemaspråk er RELAX NG. Det ble opprinnelig standardisert av OASIS og er nå også en ISO-standard som del av DSDL). RELAX NG har to hovedretninger for syntaksen, en som er XML-basert og en kompakt variant som ikke bruker XML. Den kompakte syntaksen sikter mot å øke lesbarhet og skrivbarhet, mens siden det finnes en veldefinert måte å oversette kompakt syntaks til XML-syntaks og tilbake igjen, har en ikke mistet fordelen med å kunne bruke standard XML-verktøy. RELAX NG har en mer kompakt definisjon, noe som gjør den lettere å implementere enn XSD.
+Noen skjemaspråk beskriver ikke bare strukturen til et gitt XML-format, men tilbyr også noen enkle muligheter for å prosessere individuelle XML-filer som følger formatet. Både DTD og XSD har denne evnen. De kan for eksemple forsyne XML-dokumenter med default-verdier. I RELAX NG har en bevisst unnlatt å tilby slike egenskaper.
+
+
+== Visning av XML på Internett ==
+Extensible stylesheet language (XSL) er et tillegg til XML som gjør det mulig å beskrive visuelle egenskaper og transformasjoner av XML-data uten å legge instruksjonene inn i dataene selv. Det resulterende dokumentet kan så fremstilles i en nettleser akkurat som et HTML-dokument som bruker CSS for fremvisning. En måte å oppnå dette på er å inkludere følgende i XML-dokumentet:
+
+som deklarerer at det navngitte XSLT-stilarket skal brukes for å transformere XML-dokumentet til HTML. Denne prosessen kan både foregå på webtjeneren og i nettleseren.
+Et XML-dokument kan også fremvises direkte i noen nettlesere slik som Internet Explorer 5 eller Mozilla med presentasjonsspråket CSS. Denne prosessen er pr. mars 2004 fortsatt ikke stabil i de nevnte nettleserne. I andre nettlesere, som Opera, fungerer dette greit.
+For at CSS-formatering skal tillates, må XML-dokumentet inkludere en spesiell referanse til et stilark:
+
+Vær oppmerksom på at dette avviker vesentlig fra HTML sin måte å referere til et stilark på, som bruker link-elementet.
+Spesielle anvendelser av XML finnes i det grafiske filformat SVG og et IM-system kalt Jabber.
+En XSL-prosessor kan brukes for å vise en XML-fil på skjerm eller utskrift. XSL er egentlig beregnet på å lage PDF-filer. XSLT brukes til å oversette XML til andre formater – XHTML, andre varianter av XML, eller et vanlig tekstformat.
+
+
+== Tolking av XML ==
+XML kan brukes til å organisere data i en hierarkisk struktur. XML er svært fleksibelt og kan derfor tolerere at dataene er irregulære og ufullstendige. Man snakker om semi-strukturerte data.
+XPath er et språk som brukes til å velge ut elementer i et XML-dokument ved at den tolker XML-dokumenter som trær av noder. XPath kan navigere gjennom disse nodene og bruke logiske operatorer og funksjoner på dataene som ligger i dokumentet.
+XQuery er et spørrespråk som brukes på XML-data. XQuery kan brukes til kommunikasjon mellom nett og databaser og er sammen med XML et skritt i retning av det semantiske nett, som er en av visjonene til W3C. Tanken er at informasjon i XML-dokumenter i større grad merkes med innhold, slik at det er lettere for informasjonssystemer å søke opp og sammenligne aktuell informasjon.
+
+
+== Prosessering av XML-filer ==
+API-ene (Application Program Interface) mest brukt for prosessering av XML-data via et programmeringsspråk er SAX og DOM. SAX brukes for sekvensiell prosessering, mens DOM brukes for uthenting av enkeltverdier. En annen type XML-prosesserende API er databinding, hvor XML-data gjøres tilgjengelig som en strengt typet datastruktur for et programmerings

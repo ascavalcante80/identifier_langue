@@ -1,0 +1,35 @@
+L'area è la misura dell'estensione di una regione bidimensionale di uno spazio, ovvero la misura dell'estensione di una superficie. Come per le altre misure di natura geometrica, per la precisione si dovrebbe distinguere fra la regione bidimensionale (insieme di punti) e la sua area (valore numerico associato alla precedente). Spesso però, nel parlare comune ma anche in esposizioni scientifiche, il termine area e il termine superficie vengono usati intercambiabilmente. Ciò è un errore perché esistono molte differenze, anche sostanziali.
+
+
+== Unità di misura dell'area ==
+Per l'area sono state e sono utilizzate tuttora varie unità di misura. Nel passato si sceglievano unità sulla base di esigenze locali e, in particolare nel mondo rurale, si avevano misure diverse anche in regioni limitrofe. Successivamente, a partire dalle spinte illuministiche, si sono date definizioni razionali e unificanti. Qui presentiamo le unità più importanti.
+metro quadro (m², a volte scritto erroneamente mq) — è l'unità del Sistema internazionale di unità di misura
+centimetro quadrato (cm²): 1 cm² = 0,0001 m² — è l'unità del sistema CGS
+ara: 1 ara = 100 m² (usata per misurare l'estensione di terreni)
+ettaro: 1 ha = 10.000 m² (usata per misurare l'estensione di terreni)
+giornata: 1 giornata = 3810 m² (usata per misurare l'estensione di terreni)
+chilometro quadro: 1 km² = 1.000.000 m² (usato per la misura di territori di estensione media e grande (superfici comunali, provinciali, regionali, nazionali, continentali e planetarie)
+piede quadrato: 1 piede quadrato = 0,09290304 m² — (unità di misura anglosassone)
+iarda quadrata: 1 iarda quadrata = 9 piedi quadrati = 0,83612736 m²
+miglio quadrato: 1 miglio quadrato = 2.589.988,1103 m²
+acro internazionale: 1 acro = 4.046,8564224 m²
+
+
+== Formule per il calcolo dell'area ==
+
+
+=== Aree di figure piane ===
+Rettangolo:  (dove  è la misura della lunghezza della base e  la misura dell'altezza).
+Parallelogramma:  (dove  è la misura della lunghezza della base e  la misura dell'altezza corrispondente).
+Quadrato:  (dove  è la misura del lato).
+Rombo:  (dove  è la misura della lunghezza della diagonale maggiore e  la misura della diagonale minore).
+Trapezio:  (dove  e  sono le misure delle lunghezze delle basi ed  l'altezza).
+Triangolo:  (dove  è la misura della lunghezza della base e  la misura dell'altezza corrispondente).
+secondo la formula di Erone  (dove , ,  sono le misure delle lunghezze dei lati e  è il semiperimetro).
+
+Poligono regolare:  (dove  è la misura della lunghezza del semiperimetro ed  è la misura dell'apotema del poligono ovvero la distanza tra il centro ed un lato).
+Cerchio:  (dove  è la misura del raggio del cerchio).
+Ellisse:  (dove  e  sono le misure delle lunghezze dei semiassi).
+L'area sottesa da una funzione  non negativa è uguale all'integrale definito della funzione stessa .
+La formula di camminamento consente di sapere l'area racchiusa da una poligonale chiusa, noti un certo numero di lati e gli angoli interni.
+L

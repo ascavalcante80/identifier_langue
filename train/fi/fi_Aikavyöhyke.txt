@@ -1,0 +1,18 @@
+Aikavyöhyke on maapallon alue, jolla käytetään samaa kellonaikaa.
+Aikaero vierekkäisten aikavyöhykkeiden välillä on yksi tunti tai puoli tuntia siten, että itään päin mentäessä kellonaika on edellä. Aikavyöhykkeet suunnilleen myötäilevät 15 pituusastetta leveitä kuvitteellisia vyöhykkeitä, joita on kaiken kaikkiaan 24 kappaletta. Aikavyöhykkeitä on nykyään nelisenkymmentä: tasatuntivyöhykkeet UTC-12:sta UTC+14:ään sekä joukko sellaisia vyöhykkeitä, joilla ero UTC-aikaan ei ole tasatunteja.
+Matemaattisina rajoina aikavyöhykkeiden välillä voidaan pitää pituus­piirejä 7,5; 22,5; 37,5 ja niin edelleen astetta itäistä tai läntistä pituutta aina 15 asteen välein. Nämä rajat sijaitsevat niiden pituuspiirien puolivälissä, joissa aikaero nollameridiaaniin verrattuna on täysiä tunteja. Useimmissa valtioissa on kuitenkin koko valtion alueella käytössä sen aikavyöhykkeen aika, johon maan keskeisimmät osat kuuluvat. Täten aikavyöhykkeiden rajat poikkeavat jonkin verran pituuspiireistä ja noudattelevat sen sijaan valtioiden rajoja. Poikkeuksena ovat jotkin länsi-itäsuunnassa pitkät valtiot kuten Venäjä, Yhdysvallat ja Kanada, joiden eri osissa on eri kelloaika; tällöinkin niiden rajat noudattavat yleensä osavaltio- tai muita hallinnollisia rajoja eivätkä pituuspiirejä. Keskusjohtoisessa Kiinassa on vain yksi aikavyöhyke, vaikka sen alueella voisi olla viisi, joista kolme kokonaista vyöhykettä. Aikaisemmin Kiinassa olikin viisi aikavyöhykettä. Lisäksi on huomattava, että esimerkiksi Ranskassa ja Espanjassa on voimassa Keski-Euroopan aika (UTC + 1 h), vaikka nämä maat sijaitsevat pääosin Länsi-Euroopan aikavyöhykkeellä (UTC). Muutamissa maissa on myös käytössä aika, jonka ero UTC:hen verrattuna ei ole tasatunteja vaan esimerkiksi 3 ½ tai 5 ½ tuntia.
+Aikavyöhykkeet määritellään suhteellisina nollameridiaaniin, joka kulkee Greenwichin kuninkaallisen observatorion läpi Lontoossa, Britanniassa. Tästä aikavyöhykkeestä käytetään tunnusta UTC. Esimerkiksi Suomi on normaaliaikaan kaksi tuntia nollameridiaanin aikaa edellä, joten Suomen aikavyöhyke on UTC+2 ja kesäaikaan UTC+3.
+Autonomisessa Suomessa 1900-luvun alkuun mennessä Helsingin paikallisaika vakiintui Suomen yleiseksi ajaksi. Virallisesti sitä ei sellaiseksi kuitenkaan määrätty, vaikkakin vuonna 1888 keisari Aleksanteri III määräsi, että kaikilla Suomen rautateillä oli käytettävä vain sitä. Valtioneuvoston määräyksellä Suomi siirtyi Helsingin paikallisajasta Itä-Euroopan vyöhykeaikaan siten, että vappuyönä 1921 kello 24 kelloja siirrettiin 20 minuuttia ja 10,9 sekuntia eteenpäin.
+
+
+== KesäaikaMuokkaa ==
+
+Kesäaika tarkoittaa kellonajan muuttamista siten, että auringon valoisuus osuu paremmin päiväsaikaan. Tämä tehdään niin, että tiettynä päivänä keväällä kelloja siirretään tunnilla eteenpäin ja vastaavasti tiettynä päivänä syksyllä taaksepäin. Talvella noudatetaan normaaliaikaa, kesäaika on siis poikkeama siitä.
+
+
+=== Kesäaika Euroopan unionissaMuokkaa ===
+Euroopan unionin jäsenmaat, mukaan lukien Suomi, siirtyvät kesäaikaan maaliskuun viimeisenä sunnuntaina ja poistuvat kesäajasta lokakuun viimeisenä sunnuntaina. Kesäajan aikaan Suomi on kolme tuntia UTC-aikaa edellä, sillä UTC-aika ei siirry kesäaikaan ollenkaan.
+
+
+=== Kesäaika Yhdysvalloissa ja KanadassaMuokkaa ===
+Valtaosa Yhdysvaltojen osavaltioista ja useimmat Kanadan provinssit ja territoriot siirtyvät kesäaikaan maaliskuun tois

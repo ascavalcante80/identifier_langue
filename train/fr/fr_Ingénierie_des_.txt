@@ -1,0 +1,100 @@
+L'ingénierie des systèmes ou ingénierie système est une approche scientifique interdisciplinaire, dont le but est de formaliser et d'appréhender la conception de systèmes complexes avec succès.
+L'ingénierie des systèmes a pour objectif de contrôler la conception de systèmes dont la complexité ne permet pas le pilotage simple. Par système, on entend un ensemble d'éléments humains ou matériels en interdépendance les uns les autres et qui inter-opèrent à l'intérieur de frontières ouvertes ou non sur l'environnement. Les éléments matériels sont composés de sous-ensembles de technologies variées : mécanique, électrique, électronique, matériels informatiques, logiciels, réseaux de communication, etc.
+Les efforts en ingénierie des systèmes embrassent l'ensemble du cycle de vie du système et leur mise en cohérence mobilise l'ensemble des corpus théoriques (sciences de l'ingénieur, sciences humaines, sciences cognitives, génie logiciel, etc.)
+
+
+== Vue d'ensemble ==
+L'ingénierie des systèmes se focalise sur la définition des besoins du client et des exigences fonctionnelles, détectés tôt dans le cycle de vie, en documentant les exigences, puis en poursuivant avec la synthèse de la conception et la validation du système.
+Une fois les exigences analysées, on considère alors le processus global de mise au point de ce système complexe :
+environnement, contexte, enjeux ;
+décomposition fonctionnelle ;
+estimation des coûts et calendrier global ;
+information aux assurances ;
+conception :
+architecture physique,
+développement,
+tests et intégration,
+qualification,
+formation ;
+
+maintenance ou du soutien logistique ;
+fin de vie.
+
+
+== Histoire ==
+Les premiers organismes à s'intéresser à l'ingénierie des systèmes ont été les grandes institutions de la défense américaine : la NASA, l'USAF ont tenté, dans les années 1960, de cadrer le développement des programmes militaires et d'exploration spatiale, au travers d'approches industrielles plus rationnelles. Cet effort a abouti, en 1991, à la création de l'INCOSE, premier organisme mondial d'ingénierie des systèmes, tant par sa date de création que par sa taille.
+Le Cycle en V a longtemps été considéré comme l'un des éléments fondamentaux de l'Ingénierie des Systèmes. Toutefois, l'intérêt de ce type d'approche est aujourd'hui discuté, en raison des difficultés de récursivité dans la gestion de programmes complexes et de l'existence de cycles particuliers en génie logiciel (ex.: méthodes dites Agiles) et en gestion des ressources humaines.
+
+
+== Champ ==
+Une grande partie des ingénieries individuelles, telles que le génie civil, l'électronique, l'automatique et la productique, après avoir chacune travaillé isolée du reste des autres disciplines en se spécialisant dans son domaine, se retrouvent en 2008 concernées par cette nouvelle discipline agrégatrice qu'est l'ingénierie des systèmes. Également, le génie logiciel est la discipline qui a pris un peu de retard, ce qui lui a été bénéfique pour s'intégrer dans l'ingénierie des systèmes. Le génie logiciel est considéré comme le domaine le plus avancé en matière d'ingénierie des systèmes.
+
+
+=== Gestion des exigences ===
+La gestion des exigences consiste à gérer les exigences hiérarchisées d'un projet, à détecter les incohérences entre elles et à assurer leur traçabilité.
+
+
+=== Architecture fonctionnelle et logique ===
+L'architecture fonctionnelle est une représentation logique des liens hiérarchiques entre fonctions, en matérialisant les flux.
+
+
+=== Intégration, Vérification, Validation, Qualification (IVVQ) ===
+L’IVVQ est un ensemble de domaines et de processus mettant en place des stratégies pour les étapes de conception/validation de systèmes. Ces stratégies ont pour objectif de garantir un niveau de qualité et de robustesse. C’est une démarche multi-disciplinaire au service de la conformité et de la qualité d’un système.
+Les règles d'usage
+Du fait qu'il soit très important de savoir ce que l'on fait et de quoi on parle, la définition de certains termes semble importante dans ce domaine. En effet, on ne peut pas parler d’IVVQ sans tomber dans le travers de la différence entre la Validation et la Vérification. Les définitions ci-contre permettent de donner des définitions précises (cf. L’ISO 9000 : 2000)
+Les technologies
+Identification des outils, qu'ils soient de Tests ou de mesure (métriques)
+Les principaux domaines de compétences
+Le domaine de compétence de l'IVVQ n'est pas un domaine de compétence "simple" mais est un domaine complexe composé de sous-domaines de compétences que l'on peut classer en 3 sous-domaines :
+un domaine d'outils (test, mesure, simulation, HIL, SIL, MIl…) ;
+un domaine « métier validation propre », c'est-à-dire écriture de plan de validation, plan de test, séquences de tests ;
+un domaine orienté "Management de projet" dans lequel on trouvera des compétences d'animation de revues de pairs, d'audits, de définition de Stratégie de V&V.
+Les enjeux
+Exemple d'objectif « qualité-coûts-délais » (QCD) pour des activités de validation.
+
+
+== Disciplines en relation étroite ==
+
+
+=== Ingénierie des connaissances ou cognitive ===
+L'ingénierie des connaissances complète l'ingénierie informatique sur le plan de la connaissance humaine (capital immatériel).
+
+
+=== Conception de systèmes de contrôle ===
+La conception et la mise en œuvre des systèmes de contrôle est utilisée à grande échelle dans presque tous les domaines des services publics et de l'industrie (énergie, industrie aérospatiale, télécommunications,...), et est un sous-domaine important de l'ingénierie des systèmes.
+Le contrôle de croisière d'une automobile et le système de guidage d'un missile sont deux exemples.
+La théorie des systèmes de contrôle est un champ actif des mathématiques appliquées, qui implique l'étude d'espaces de solutions et le développement de nouvelles méthodes pour l'analyse des processus de contrôle.
+
+
+=== Conception d'interfaces ou Architecture Organique ===
+Cette représentation graphique met en lien les composants avec leurs interfaces.
+
+
+=== Recherche opérationnelle ===
+La recherche opérationnelle (aussi appelée aide à la décision) peut être définie comme l'ensemble des méthodes et techniques rationnelles d'analyse et de synthèse des phénomènes d'organisation utilisables pour élaborer de meilleures décisions.
+
+
+=== Ingénierie de la sûreté ===
+Voir :
+sûreté ;
+sûreté de fonctionnement ;
+safety engineering.
+
+
+=== Ingénierie de la sécurité ===
+Voir :
+sécurité ;
+sûreté de fonctionnement ;
+security engineering.
+L'ingénierie de la sécurité est très fortement liée aux aspects de l'ingénierie informatique relatifs au matériel informatique.
+Sur ces aspects, voir :
+génie informatique ;
+sécurité des systèmes d'information.
+
+
+=== Ingénierie informatique ===
+L'ingénierie informatique comprend l'ingénierie portant sur le matériel informatique et l'ingénierie sur les logiciels, développée par les sociétés de services en informatique et par les éditeurs de logiciel. La partie relative à la sécurité informatique est en relation avec l'ingénierie de la sécurité.
+
+
+=== Ingénierie de la maintenance ===
+L'ingénierie de la maintenance ou du soutien logistique est une discipline créée dans les années 1970 aux USA et appliquée en Europe dans les anné

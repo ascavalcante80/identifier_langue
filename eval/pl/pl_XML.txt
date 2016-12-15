@@ -1,0 +1,16 @@
+em dokumentu jest element o nazwie ksiazka-telefoniczna. Ma on przypisany jeden atrybut o nazwie kategoria i wartości bohaterowie książek. Korzeń jest rodzicem dwóch innych elementów, oba mają tę samą nazwę osoba i przypisany atrybut o nazwie charakter. Każdy z elementów o nazwie osoba jest rodzicem dla trzech innych elementów o nazwach imie, nazwisko i telefon, które zawierają konkretne dane w formie węzłów tekstowych (tekst pomiędzy odpowiednimi znacznikami otwierającym i zamykającym). Element o nazwie telefon w dwunastym wierszu dokumentu jest pusty (nie ma żadnych potomków), a znacznik otwierający jest jednocześnie znacznikiem zamykającym. Zapis <telefon/> jest równoważny zapisowi <telefon></telefon>. W trzecim wierszu dokumentu znajduje się komentarz.
+
+
+== XML w oknie przeglądarki internetowej ==
+Dokument XML nie precyzuje, jak należy wyświetlać przechowywane w nim dane i większość przeglądarek internetowych przy próbie wyświetlenia go w swym oknie potraktuje go jak zwykły tekst. Istnieją jednak łatwe sposoby na prezentowanie dokumentów XML na stronach internetowych w przyjazny dla użytkownika sposób.
+Możliwe jest wyrenderowanie dokumentu przy użyciu stylów CSS. W tym celu należy umieścić na początku dokumentu odpowiednią instrukcję sterującą, na przykład:
+
+Transformacje XSL umożliwiają konwersję danych do innego formatu, na przykład XHTML. Arkusz stylów jest zbiorem reguł określających sposób postępowania wobec każdego węzła dokumentu podczas transformacji. Większość współczesnych przeglądarek wyposażona jest w transformator XSL i wystarczy dodać na początku przetwarzanego dokumentu XML instrukcję sterującą podobną do poniższej:
+
+
+== Linki zewnętrzne ==
+Strona domowa XML (ang.)
+Rekomendacja XML 1.0 (ang.)
+Rekomendacja XML 1.1 (ang.)
+Kurs XML na stronach W3Schools (ang.)
+Kurs XML na stronach MSDN (ang.)

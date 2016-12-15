@@ -1,0 +1,43 @@
+áficas ricas.
+
+
+=== JavaScriptEditar ===
+
+O JavaScript é uma linguagem de computador interpretada desenvolvida originalmente para uso em páginas web, cuja versão padronizada é ECMAScript. Ainda que seu nome seja similar ao da linguagem Java, o JavaScript foi desenvolvido pela Netscape e não possui semelhanças com o Java. Em conjunto com a tecnologia de Document Object Model, o JavaScript tornou-se um método bastante poderoso de manipulação de páginas web.
+
+
+=== AJAXEditar ===
+
+Em sua forma mais simples, todas as informações opcionais e ações em uma página web com JavaScript são carregadas do servidor web ao navegador quando a página é carregada. O AJAX é uma tecnologia baseada em JavaScript que fornece um método no qual pequenas partes de uma página web podem ser atualizados sem a necessidade de atualização de toda a página. O AJAX é visto como um importante aspecto do que chama-se Web 2.0.
+
+
+=== Plataforma FlashEditar ===
+
+Adobe Flash (antes: Macromedia Flash), ou simplesmente Flash, é um software primariamente de gráfico vetorial - apesar de suportar imagens bitmap e vídeos - utilizado geralmente para a criação de animações interativas que funcionam embutidas num navegador web. O produto era desenvolvido e comercializado pela Macromedia, empresa especializada em desenvolver programas que auxiliam o processo de criação de páginas web que posteriormente foi adquirida pela Adobe, em 2005.
+
+
+=== CGIEditar ===
+
+Consiste em uma tecnologia que permite que programas interpretados gerem páginas web dinâmicas, permitindo a um navegador passar parâmetros para o servidor web para, então, receber o resultado do processamento. É uma especificação independente de linguagem de programação.
+
+
+== Aspecto profissionalEditar ==
+O surgimento da Web representou uma nova fronteira profissional para diversos setores. À época do seu "estouro" comercial, jornalistas, publicitários, designers, escritores, redatores, fotógrafos, além é claro de programadores, e webmasters e demais especialistas afluíram ao mercado, criando e desenvolvendo empresas com os mais variados objetivos.
+Com o tempo o capital de risco, utilizado para fundar e fazer operar as primeiras empresas, afastou-se, levando-as à falência. Foi a chamada "bolha".
+Hoje, o cenário mostra-se diverso, com investidores cautelosos, grandes corporações investindo com bastante cuidado e uma imensa legião de profissionais freelancers atendendo a seus clientes diretamente.
+
+
+== Notas e Referências ==
+
+
+== Ver tambémEditar ==
+
+Deep web
+Diretórios de sites
+Internet
+Motor de busca
+Navegador
+Sítio web
+Web 2.0
+Web semântica
+Web service'

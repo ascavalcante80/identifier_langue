@@ -1,0 +1,15 @@
+WGS 84 (World Geodesic System 1984 : système géodésique mondial, révision de 1984) est le système géodésique mondial le plus courant, car il est utilisé par le système GPS.
+Les précédentes réalisations étaient : WGS 72 (associé au système TRANSIT), WGS 64 et WGS 60.
+Un système géodésique ne doit pas être confondu avec un type de projection cartographique : il définit une représentation du géoïde terrestre. La plupart des projections pour navigation (marine ou aérienne), appelées UTM (Transverse Universelle de Mercator) sont basées sur la référence WGS, version de 1984.
+
+
+== Valeurs numériques ==
+Les valeurs des paramètres de l'ellipsoïde de révolution IAG GRS 80, associé au système WGS84 sont les suivantes :
+(Attention: L'ellipsoïde de référence WGS84, associé au système WGS84, diffère légèrement de l'ellipsoïde de révolution IAG GRS 80 pour la valeur de l'aplatissement. Cela implique de légères modifications des valeurs calculées. Par exemple, le demi petit axe b augmente de 0,1 mm.)
+Par définition :
+Par calcul :
+
+À titre indicatif :
+la longueur de l'ellipse méridienne est : 40 007,863 km (via la formule approchée 2·π.(a+b).(1+ e4/64+ ...))
+la surface est : S = 510,065 622 millions de kilomètres carrés (formule approchée S = 2·π.(a²+b²)  ; on peut donc coller environ 1000 fois la France sur le globe terrestre).
+le volume est : V = 1 083 mill

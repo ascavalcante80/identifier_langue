@@ -1,0 +1,8 @@
+e sul piano stesso di riferimento, nel caso di un'orbita geocentrica si direbbe "orbita equatoriale". Si usa assumere che , dove  è la componente x del vettore eccentricità.
+quando l'orbita è circolare, in quanto ruotandola attorno al centro non cambia nulla. Si assume quindi che la linea degli apsidi coincida con quella dei nodi, e quindi che ω=0.
+
+
+== Voci correlate ==
+Meccanica celeste
+Astrodinamica
+Elementi orbitali

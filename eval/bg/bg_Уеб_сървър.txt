@@ -1,0 +1,18 @@
+използваните езици са PHP, Python и Perl.
+
+
+== Популярни уеб сървъри ==
+apache
+lighttpd
+nginx
+Apache Tomcat
+
+
+== Вижте също ==
+Клиент-сървър
+Сървър
+
+
+== Външни препратки ==
+Apache software foundation
+lighttpd

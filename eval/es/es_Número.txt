@@ -1,0 +1,70 @@
+acionales:
+si ,
+cuando 
+y si 
+cuando 
+pero no desarrolló más su teoría.
+Pero en el mismo año 1872 cinco matemáticos, un francés y cuatro alemanes, publicaron sus trabajos sobre la aritmetización de los números reales:
+Charles Meray (1835-1911) en su obra “Noveau preçis d’analyse infinitesimale” define el número irracional como un límite de sucesiones de números racionales, sin tener en cuenta que la existencia misma del límite presupone una definición del número real.
+Hermann Heine (1821-1881) publicó, en el Journal de Crelle en 1872, su artículo "Los elementos de la teoría de funciones", donde proponía ideas similares a las de Cantor, teoría que en conjunto se llama actualmente "teoría de Cantor-Heine".
+Richard Dedekind (1831-1916) publica su “Stetigkeit und irrationale zahlen”. Su idea se basa en la continuidad de la recta real y en los “agujeros” que hay si sólo consideramos los números racionales. En la sección dedicada al “dominio R” enuncia un axioma por el que se establece la continuidad de la recta: “cada punto de la recta divide los puntos de ésta en dos clases tales que cada punto de la primera se encuentra a la izquierda de cada punto de la segunda clase, entonces existe un único punto que produce esta división”. Esta misma idea la utiliza en la sección “creación de los números irracionales” para introducir su concepto de “cortadura”. Bertrand Russell apuntaría después que es suficiente con una clase, pues esta define a la otra.
+Georg Cantor (1845-1918). Define los conceptos de: sucesión fundamental, sucesión elemental, y límite de una sucesión fundamental, y partiendo de ellos define el número real.
+Karl Weierstrass (1815-1897). No llegó a publicar su trabajo, continuación de los de Bolzano, Abel y Cauchy, pero fue conocido por sus enseñanzas en la Universidad de Berlín. Su caracterización basada en los “intervalos encajados”, que pueden contraerse a un número racional pero no necesariamente lo hacen, no es tan generalizable como las anteriores, pero proporciona fácil acceso a la representación decimal de los números reales.
+
+
+=== Álgebras hipercomplejas ===
+La construcción de obtención de los números complejos a partir de los números reales, y su conexión con el grupo de transformaciones afines en el plano sugirió a algunos matemáticos otras generalizaciones similares conocidas como números hipercomplejos. En todas estas generalizaciones los números complejos son un subconjunto de estos nuevos sistemas numéricos, aunque estas generalizaciones tienen la estructura matemática de álgebra sobre un cuerpo, pero en ellos la operación de multiplicación no es conmutativa.
+
+
+=== Teoría de conjuntos ===
+
+La teoría de conjuntos sugirió muchas y variadas formas de extender los números naturales y los números reales de formas diferentes a como los números complejos extendían al conjunto de los números reales. El intento de capturar la idea de conjunto con un número no finito de elementos llevó a la aritmética de números transfinitos que generalizan a los naturales, pero no a los números enteros. Los números transfinitos fueron introducidos por Georg Cantor hacia 1873.
+Los números hiperreales usados en el análisis no estándar generalizan a los reales pero no a los números complejos (aunque admiten una complejificación que generalizaría también a los números complejos). Aunque parece los números hiperreales no proporcionan resultados matemáticos interesantes que vayan más allá de los obtenibles en el análisis real, algunas demostracciones y pruebas matemáticas parecen más simples en el formalismo de los números hiperreales, por lo que no están exentos de importancia práctica.
+
+
+=== Socialmente ===
+Los número naturales por la necesidad de contar.
+Los números fraccionarios por la necesidad de medir partes de un todo, y de compartir.
+Los enteros negativos por fenómenos de doble sentido: izquierda-derecha, arriba-abajo, pérdida- ganancia
+Los números reales por la necesidad de medir segmentos
+Los números complejos por exigencias de resolver ecuaciones algebraicas, como el caso de la cúbicas o de x2 + 1 = 0 
+
+
+== Sistemas de representación de los números ==
+Los números como expresión de cantidades aparecen en todas las culturas humanas. Incluso los grupos humanos con culturas materiales más simples disponen en su lengua de alguna manera para expresar cantidades en forma numérica, al menos hasta cierto número, mediante palabras que designa a estos números (palabras numerales). El advenimiento de la escritura también comportó la búsqueda de sistemas de representación gráfica para los números, estos sistemas van desde sistemas muy simples basados en rayas a sistemas elaborados que permiten expresar números elevados.
+
+
+=== Cifra, dígito y numeral ===
+
+Una de las formas más frecuentes de representar números por escrito consiste en un "conjunto finito de símbolos" o dígitos, que adecuadamente combinados permiten formar cifras que funcionan como representaciones de números (cuando una secuencia específica de signos se emplea para representar un número se la llama numeral, aunque una cifra también puede representar simplemente un código identificativo.)
+
+
+=== Base numérica ===
+
+Tanto las lenguas naturales como la mayor parte de sistemas de representación de números mediante cifras, usan un inventario finito de unidades para expresar una cantidad mucho mayor de números. Una manera importante de lograr eso es el uso de una base aritmética en esos sistemas un número se expresa en general mediante suma o multiplicación de números. Los sistemas puramente aritméticos recurren a bases donde cada signo recibe una interpretación diferente según su posición. Así en el siguiente numeral arábigo (base 10):
+
+El <8> por estar en última posición representa unidades, el <6> representa decenas, el <5> centenas, el <3> millares y el <1> decenas de millares. Es decir ese numeral representara el número:
+
+Muchas lenguas del mundo usan una base decimal, igual que el sistema arábigo, aunque también es frecuente que las lenguas usen sistemas vigesimales (base 20). De hecho la idea de usar un número finito de dígitos o signos para representar números arbitrariamente grandes funciona para cualquier base b, donde b es un número entero mayor o igual que 2. Los ordenadores frecuentemente usan para sus operaciones la base binaria (b = 2), y para ciertos usos también se emplea la base octal (b = 8 ) o hexadecimal (b = 16). La base coincide con el número de signos primarios, si un sistema posicional tiene b símbolos primarios que designaremos por , el numeral:
+
+Designará al número:
+
+
+=== Números en las lenguas naturales ===
+
+Las lenguas naturales usan nombres o numerales para los números frecuentemente basados en el contaje mediante dedos, razón por la cual la mayoría de las lenguas usan sistemas de numeración en base 10 (dedos de las manos) o base 20 (dedos de manos y pies), aunque también existen algunos sistemas exóticos que emplean otras bases.
+
+
+== Referencias ==
+
+
+== Véase también ==
+Sistema de numeración
+Cifra
+Anexo:Números
+Anexo:Nombres de los números en español
+
+
+=== Enlaces externos ===
+ Wikiquote alberga frases célebres de o sobre Número. Wikiquote
+ Wikimedia Commons alberga contenido multimedia sobre NúmeroCommons.

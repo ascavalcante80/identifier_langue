@@ -1,0 +1,156 @@
+Elektroniikka on sähkötekniikan osa, joka perustuu elektronien liikkeen ohjaamiseen. Elektroniikka sisältää sähköisten laitteiden suunnittelua, rakentelua, käyttöä ja tutkimista. Elektroniikan aikakausi alkoi vuonna 1902 John Ambrose Flemingin keksittyä tyhjiödiodin, jolloin hän myös loi elektroniikan käsitteen.
+Laajempia määritelmiä ovat antaneet alaa tutkivat insinöörit sekä standardointijärjestö. Suomen Akatemian tieteen keskustoimikunnan elektroniikkajaoston mietintö vuodelta 1974 on seuraavanlainen: ”Elektroniikka on teknologia, jossa puolijohdeainetta, elektroniputkia ja muita elektronisia komponentteja käytetään hyväksi toteutettaessa mitä erilaisimpia järjestelmiä, tiedonsiirtoa ja käsittelyä, koneistojen automaattista valvontaa ja ohjausta ynnä prosessisuureiden niin tieteellistä kuin käytännöllistäkin mittausta varten.”
+
+Sähköalan kansainvälinen standardisoimisjärjestö International Electrotechnical Commission (IEC) sanoi vuonna 1956, että ”elektroniikka on se tieteen ala, joka käsittelee sähkön johtumista tyhjiössä, kaasussa ja puolijohteessa sekä näihin ilmiöihin perustuvien laitteiden sovellutuksissa.”
+Yhdysvaltain sähkö- ja elektroniikkainsinöörit taas määrittelevät, että "elektroniikka on se tieteen ja tekniikan ala, joka käsittelee ihmisen aistin ja aivojen korvaamista ja täydentämistä laitteilla, jotka keräävät ja käsittelevät informaatiota, siirtävät sen haluttuun paikkaan, jossa ohjaavat koneita tai esittävät informaatiota ihmisen käytettäväksi."
+Sähkövoimatekniikassa elektroniikan sovelluksia ovat muun muassa taajuusmuuttajat ja HVDC-merikaapelit.
+
+
+== Elektroniikka-aloja ==
+analogiaelektroniikka
+digitaalielektroniikka
+tehoelektroniikka
+optoelektroniikka
+radiotekniikka
+
+
+== Elektroniikan mittaus- ja testauslaitteita ==
+
+Elektroniikassa käytetään monia erityisiä sähköteknisiä mittalaitteita, joilla voidaan mitata ja tarkkailla erilaisia sähköisiä ilmiöitä elektronisissa laitteissa. Useat mittaus- ja tastauslaitteet ovat itsekin elektronisia laitteita, vaikka vanhat mittalaitteiden periaatteet saattavatkin olla sähkömekaanisia.
+Sähköisten suureiden mittaamiseen käytettyjä laitteita ovat:
+ampeerimittari
+galvanometri (nykymuodossaan kiertokäämimittari), jolla voidaan mitata sähkövirtaa
+pihtivirtamittari, jota käytetään johtimessa kulkevan virran mittaamiseen johtimen ulkopuolelta
+
+volttimittari
+yleismittari, jolla voi mitata jännitettä, virtaa ja vastusta.
+LCR-mittari, jolla voi mitata induktanssia, kapasitanssia ja vastusta
+eristysvastusmittari
+Seuraavilla laitteilla voidaan tutkia elektroniikan ilmiöitä ja komponenttien toimintaa:
+logiikka-analysaattori (digitaalisten piirien testaamiseen)
+oskilloskooppi, joka piirtää kuvaajan jännitteen, virran tai vastuksen muuttumisesta ajan suhteen.
+spektrianalysaattori, jolla mitataan signaalin amplitudia taajuuden funktiona.
+taajuuslaskin
+vektoripiirianalysaattori
+Seuraavilla laitteilla voidaan tuottaa testaamisessa tarvittavia herätesignaaleita tutkittaville laitteille:
+pulssigeneraattori
+signaaligeneraattori
+Tutkittavalle laitteelle käyttöjännitettä tuottamaan voidaan käyttää laboratoriovirtalähdettä.
+
+
+== Elektroniikan komponentit ==
+Elektroniikan piireissä käytetään elektronisten, aktiivisten komponenttien lisäksi passiivisia komponentteja, joista osa on toiminnaltaan lineaarisia.
+jännite- ja virtalähde
+
+
+=== Liitoskomponentit ===
+Johtimet ja kaapelit:
+koaksiaali- ja twinaksiaalikaapeli
+sähköjohdin
+Liittimet:
+banaaniliitin
+BNC-liitin
+D-liitin
+DIN-liitin
+N-liitin
+piirilevyliitin
+puristusliitin
+RCA-liitin
+SMA-liitin
+kytkentärima
+
+
+=== Passiiviset komponentit ===
+
+Passiivisiksi komponenteiksi kutsutaan komponentteja, jotka kuluttavat energiaa.
+kytkin
+Dip-kytkin
+vipukytkin
+kiertokytkin
+painokytkin
+
+muuntaja
+vastus
+PTC- ja NTC -termistorit
+VDR eli varistori
+LDR eli valovastus
+potentiometri eli säätövastus
+
+kondensaattori
+säätökondensaattori
+
+kela
+yhteismuotokuristin (CMC)
+sulake
+ylijännitesuoja (TVS)
+metallioksidivaristori (MOV)
+kaasupurkausputki
+
+kide
+
+
+=== Aktiiviset komponentit ===
+
+Aktiiviseksi komponentiksi kutsutaan komponenttia, joka tuottaa energiaa tai osallistuu aktiivisesti piirin sähköiseen toimintaan. Tyypillisiä esimerkkejä ovat jännite, virta- ja teholähteet, esimerkiksi paristo tai komponentit, joilla saadaan aikaan vahvistusta. Mikropiirit ovat laajoja toimintoja sisältäviä aktiivisia komponentteja.
+elektroniputki
+Aktiiviset puolijohdekomponentit:
+transistori
+BJT eli bipolaarinen transistori
+FET eli kanavatransistori
+
+tyristori
+GTO, Gate Turnoff Thyristor
+Triac
+IGBT
+
+
+=== Puolijohdekomponentit ===
+Puolijohdekomponentteja ovat mm. aktiiviset puolijohdekomponentit kuten transistorit ja seuraavat komponentit:
+DIAC
+diodi
+laserdiodi
+Schottky-diodi
+tunnelidiodi
+hohtodiodi eli LED
+fotodiodi
+zenerdiodi
+kapasitanssidiodi
+transienttisuojadiodi
+
+
+=== Analogiset piirit ===
+operaatiovahvistin
+komparaattori
+transkonduktanssivahvistin
+regulaattori
+
+
+=== Digitaaliset piirit ===
+loogiset portit
+rekisterit
+A/D-muuntimet
+D/A-muuntimet
+multiplekseri
+enkooderi
+dekooderi
+laskuri
+summain
+mikrokontrollerit
+FPGA-piirit
+logiikkapiiriperheet
+LVDS-signaalit
+
+
+== Piirirakenteita ==
+tasasuuntaaja, vaihtosuuntaaja ja taajuusmuuttaja
+modulaattori ja ilmaisin (modulaation)
+oskillaattori
+kideoskillaattori
+VCO
+
+taajuussekoitin
+suodattimet
+alipäästösuodatin
+ylipäästösuodatin
+kaistanpäästösuodatin
+kaistanestosuod

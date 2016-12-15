@@ -1,0 +1,9 @@
+Trojková soustava (trinární soustava, též také ternární soustava) je číselná soustava, která používá tři symboly – 0, 1 a 2. Trojková soustava je poziční číselná soustava mocnin čísla 3. Podobně, jako se dvojková číslice nazývá bit, trojková číslice se nazývá trit. Jeden trit obsahuje  (přibližně 1,584 96) bitů informací.
+Kromě výše popsané trojkové soustavy existuje též balancovaná trojková soustava, která používá symboly 0,1,-1 a umožňuje tak přímo vyjadřovat i záporná čísla.
+
+
+== Porovnání s ostatními soustavami ==
+
+
+== Praktické použití ==
+Trojková soustava se používá k označování částí směn v baseballu. Každá směna se skládá ze tří autů a každý aut je tedy jedna třetina směny a je označován .1, např. pokud hráč vyautoval všechny 3 hráče soupeře ve čtvrté, páté a šesté směně a dva v sedmé směně, jeho skóre je 3.2, (3⅔). Trojková soustava se zde používá pouze v desetinné čá

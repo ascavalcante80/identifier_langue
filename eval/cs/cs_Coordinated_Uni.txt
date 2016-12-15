@@ -1,0 +1,21 @@
+což je kód pro písmeno Z v hláskovací tabulce ICAO.
+
+
+== Čas v Česku ==
+Místní čas v České republice je dán jako UTC+1:00 (v zimním období) a jako UTC+2:00 v období letního času. To znamená, že je-li čas čehokoliv udán například na „16:00 UTC“, v ČR to je v 17:00 místního času (v zimě) nebo 18:00 (v letním čase).
+
+
+== Související články ==
+Universal Time
+Základní poledník
+Časové pásmo
+NTP
+Terestrický čas
+
+
+== Externí odkazy ==
+ Obrázky, zvuky či videa k tématu Coordinated Universal Time ve Wikimedia Commons
+Časový server BIPM
+time.gov – Oficiální čas USA
+cmi.cz – Český metrologický institut
+Informace o aktuální přestupné sekundě

@@ -1,0 +1,81 @@
+defined as
+,
+where s(x) is the dimensionless transport distribution function. The integrals In are the moments of the function
+,
+where x is the energy of carriers. By substituting the previous formulas for the transport coefficient to the equation for λE we get the following equation
+.
+From the previous equation we see that λE to be zero the bracketed term containing In terms have to be zero. Now if we assume that
+,
+where δ is the Dirac delta function, In terms get the following expressions
+,
+,
+.
+By substituting these expressions to the equation for λE, we see that it goes to zero. Therefore, P(x) has to be delta function.
+
+
+== EquationsEdit ==
+In an isotropic medium the thermal conductivity is the parameter k in the Fourier expression for the heat flux
+
+where  is the heat flux (amount of heat flowing per second and per unit area) and  the temperature gradient. The sign in the expression is chosen so that always k > 0 as heat always flows from a high temperature to a low temperature. This is a direct consequence of the second law of thermodynamics.
+In the one-dimensional case q = H/A with H the amount of heat flowing per second through a surface with area A and the temperature gradient is dT/dx so
+
+In case of a thermally-insulated bar (except at the ends) in the steady state H is constant. If A is constant as well the expression can be integrated with the result
+
+where TH and TL are the temperatures at the hot end and the cold end respectively, and L is the length of the bar. It is convenient to introduce the thermal-conductivity integral
+
+The heat flow rate is then given by
+
+If the temperature difference is small k can be taken as constant. In that case
+
+
+== Simple kinetic pictureEdit ==
+
+In this Section we will derive an expression for the thermal conductivity. Consider a gas with hard-core interactions but negligible volume within a vertical temperature gradient. The upper side is hot and the lower side cold. There is a downward energy flow because the gas atoms, going down, have a higher energy than the atoms going up. The net flow of energy per second is the heat flow H. The heat flow is proportional to the number of particles that cross the area A per second. This number is proportional to the product nvA where n is the particle density and v the mean particle velocity. The magnitude of the heat flow will also be proportional to amount of energy transported per particle so with the heat capacity per particle c and some characteristic temperature difference ΔT. So far we have
+
+The unit of H is J/s and of the right-hand side it is (particle/m3)•(m/s)•(J/(K•particle))•(m2)•(K) = J/s, so this is already of the right dimension. Only a numerical factor is missing. For ΔT we take the temperature difference of the gas between two collisions
+
+where l is the mean free path. Detailed kinetic calculations show that the numerical factor is -1/3, so, all in all,
+
+Comparison with the one-dimension expression for the heat flow, given above, gives as the final result
+
+The particle density and the heat capacity per particle can be combined as the heat capacity per unit volume
+so
+
+where CV is the molar heat capacity at constant volume and Vm the molar volume.
+For the hard-core gas the mean free path is given by
+
+where σ is the collision cross section. So
+
+The heat capacity per particle c and the cross section σ both are temperature independent so the temperature dependence of k is determined by the T dependence of v. For a monatomic gas, with atomic mass M, v is given by
+
+So
+
+This expression also shows why gases with a low mass (hydrogen, helium) have a high thermal conductivity.
+For metals at low temperatures the heat is carried mainly by the free electrons. In this case the mean velocity is the Fermi velocity which is temperature independent. The mean free path is determined by the impurities and the crystal imperfections which are temperature independent as well. So the only temperature-dependent quantity is the heat capacity c, which, in this case, is proportional to T. So
+
+with k0 a constant. For pure metals such as copper, silver, etc. l is large, so the thermal conductivity is high. At higher temperatures the mean free path is limited by the phonons, so the thermal conductivity tends to decrease with temperature. In alloys the density of the impurities is very high, so l and, consequently k, are small. Therefore, alloys, such as stainless steel, can be used for thermal insulation.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+Notes
+
+References
+
+
+== Further readingEdit ==
+Callister, William (2003). "Appendix B". Materials Science and Engineering - An Introduction. John Wiley & Sons. p. 757. ISBN 0-471-22471-5. 
+Halliday, David; Resnick, Robert; & Walker, Jearl(1997). Fundamentals of Physics (5th ed.). John Wiley and Sons, New York ISBN 0-471-10558-9.
+Srivastava G. P (1990), The Physics of Phonons. Adam Hilger, IOP Publishing Ltd, Bristol.
+TM 5-852-6 AFR 88-19, Volume 6 (Army Corp of Engineers publication)
+Reid, C. R., Prausnitz, J. M., Poling B. E., Properties of gases and liquids, IV edition, Mc Graw-Hill, 1987
+R. Joven, R. Das, A. Ahmed, P. Roozbehjavan, B. Minaie, "Thermal properties of carbon fiber/epoxy composites with different fabric weaves ", in: SAMPE International Symposium Proceedings, Charleston, SC; 2012
+
+
+== External linksEdit ==
+Thermopedia
+J Chem Phys thermal conductivity of electrolyte solutions
+The importance of Soil Thermal Conductivity for power companies
+J Chem Phys gas mixtures

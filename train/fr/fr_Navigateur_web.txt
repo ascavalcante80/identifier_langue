@@ -1,0 +1,83 @@
+Un navigateur web est un logiciel conçu pour consulter et afficher le World Wide Web. Techniquement, c'est au minimum un client HTTP.
+Il existe de nombreux navigateurs web, pour toutes sortes de matériels (ordinateur personnel, tablette tactile, téléphones mobiles, etc.) et pour; différents systèmes d'exploitation (GNU/Linux, Windows, Mac OS, iOS et Android). Les plus utilisés à l'heure actuelle sont Google Chrome, Mozilla Firefox, Internet Explorer, Safari et Opera.
+
+
+== Terminologie ==
+Le terme navigateur est inspiré de Netscape Navigator, le navigateur phare en 1995 et 1996.
+D'autres métaphores sont ou ont été utilisées. Le premier terme utilisé était browser, comme en anglais. Par la suite, on a vu fureteur (surtout utilisé au Québec), butineur, brouteur, arpenteur, fouineur ou encore explorateur (inspiré d'Internet Explorer). Le terme navigateur internet, bien qu'incorrect, est également souvent rencontré. Aujourd'hui, les termes navigateur ou logiciel de navigation sont recommandés en France par la DGLFLF, ainsi qu'au Canada par l'OQLF.
+
+
+== Histoire ==
+Les navigateurs web sont des logiciels complexes et en constante évolution, tant au niveau des fonctionnalités, qu'au niveau de la sécurité, car des nouvelles fonctionnalités offrent de nouveaux angles d'attaque.
+
+Le premier navigateur s'appelle WorldWideWeb. Il est développé par l'inventeur du Web, Tim Berners-Lee, en octobre-novembre 1990. C'est un navigateur en mode graphique. Ce premier navigateur était en plus un éditeur HTML, ce qui n'est pas commun. La rapidité de développement a été rendue possible par l'ordinateur choisi pour ce projet, un NeXt. Toutefois, le choix de cet ordinateur rare a sévèrement limité la diffusion du navigateur. Plus tard, le navigateur est renommé Nexus pour éviter la confusion avec le World Wide Web.
+Le premier navigateur pour le système X Window sur Unix fut Erwise, créé en 1992 en Finlande par les étudiants Kim Nyberg, Kari Sydänmaanlakka, Teemu Rantanen, et Kati Borgers (née Suominen).
+Le troisième navigateur fut ViolaWWW.
+En 1993, apparaît NCSA Mosaic. Ce navigateur disponible sur de nombreux systèmes provoqua l'accélération fulgurante et exponentielle du Web. Il est le premier navigateur à afficher les images (GIF et XBM) dans les pages web elles-mêmes, puis à supporter les formulaires interactifs dans les pages.
+Dès 1995, Netscape Navigator devint le navigateur dominant, développé par Marc Andreessen, ancien développeur de Mosaic.
+En 1995 sortit également Internet Explorer 1 de Microsoft.
+À partir de 2000, et après plusieurs années de « guerre des navigateurs » (voir Évolution de l'usage des navigateurs web), c'est Internet Explorer qui devint le navigateur le plus utilisé. La raison en est principalement sa pré-installation au sein de Microsoft Windows, le système d'exploitation le plus utilisé sur les ordinateurs personnels à cette époque.
+À compter de 2005, on note une régression de la part de marché d'Internet Explorer, surtout au bénéfice de Mozilla Firefox.
+En décembre 2008 sort le navigateur Google Chrome, édité par Google. En 2010 il fait partie des trois navigateurs les plus utilisés et en 2012, il devient un des navigateurs les plus utilisés.
+De nombreux autres navigateurs, appelés navigateurs alternatifs, se partagent les miettes, notamment :
+les navigateurs basés sur le moteur de rendu Gecko de Mozilla (dont K-Meleon, SeaMonkey, Flock, IceWeasel et Galeon) ;
+les navigateurs basés sur Presto (Suite internet Opera version 9 et plus, Opera Mobile, Opera Mini, Wii Internet Channel, Nintendo DS Browser, Sony Mylo) ;
+les navigateurs basés sur KHTML du projet KDE (Konqueror) ou sur son fork WebKit (Safari d'Apple, OmniWeb d'OmniGroup, Midori du projet Xfce, Epiphany).
+Devant le développement croissant des smartphones et tablettes numériques, plusieurs concepteurs de navigateurs sortent des versions mobiles ; Le navigateur Firefox Mobile (nom de code Fennec) est la version mobile de Firefox, Opera Mobile pour Opera, Internet Explorer Mobile la version mobile d'IE, etc.
+De plus, depuis le milieu des années 1990, il a toujours existé une multitude d'autres navigateurs plus ou moins populaires.
+
+
+== Fonctionnement ==
+Le navigateur web est composé de composants permettant de communiquer suivant des standards des réseaux, d'un moteur de rendu des standards du Web, d'une interface utilisateur adaptée au système d'exploitation qui l'accueille et accessoirement d'un gestionnaire d'extensions appelées plugins.
+
+
+=== Interface utilisateur ===
+Pour la grande majorité des navigateurs sur le marché, l'interface utilisateur est composée d'une zone d'affichage éventuellement gérée sous forme d'onglets, d'une barre de menus déroulants, d'une barre d'outils, d'une barre d'état et surtout d'une barre d'adresse, parfois fusionnée, comme dans le cas de Chrome et de Chromium avec la barre de recherche. Selon les navigateurs il est possible de réorganiser et d'afficher ou non ces différentes barres.
+La barre de menus abrite les favoris (ou marque-pages ou bookmarks), les commandes des fichiers (ouverture, fermeture), les options de configuration, , etc.
+
+
+== Utilisation ==
+La fonction principale d'un navigateur web est de permettre la consultation d'informations disponibles (« ressource » dans la terminologie du Web) sur le World Wide Web. Les principales étapes de la consultation d'une ressource sont les suivantes :
+L'utilisateur donne au navigateur web l'adresse web de la ressource à consulter. Il existe trois manières de donner une adresse web :
+taper soi-même l'adresse web dans la barre d'adresse du navigateur ;
+choisir une ressource dans la liste des favoris (ou marque-pages ou bookmarks), sachant qu'à chaque favori est associée une adresse web ;
+suivre un hyperlien, sachant qu'à chaque hyperlien est associée une adresse web.
+
+Le navigateur se connecte au serveur web hébergeant la ressource visée et la télécharge. Le protocole de communication généralement utilisé est HTTP.
+le moteur de rendu du navigateur traite cette ressource, télécharge les éventuelles ressources associées et affiche le résultat sur l'écran de l'utilisateur.
+
+
+== Fonctionnalités ==
+
+
+=== Rendu à l'écran ===
+
+Un navigateur web doit être capable, au minimum, d'afficher le texte d'une page web. Un navigateur en mode texte n'affiche souvent rien de plus. Les navigateurs couramment utilisés fonctionnent cependant en mode graphique et sont capables d'utiliser une typographie élaborée, d'ajouter des images dans le texte, de jouer de la musique et des animations et d'interagir avec les actions de l'utilisateur.
+Une page web est un texte écrit dans le langage informatique HyperText Markup Language (HTML) qui donne au navigateur le texte à afficher ainsi que la structure générale de la mise en page : titres et paragraphes, listes, tableaux. La mise en page peut être raffinée par l'utilisation de feuilles de style en cascade (CSS) : marges, alignements, espacements, couleurs, bordures, etc.
+La position des images dans une page web est donnée par le langage HTML. Les images sont généralement dans un format de données parmi les trois suivant : GIF, JPEG ou PNG.
+
+
+=== Rendus sur d'autres dispositifs ===
+
+La plupart des navigateurs permettent d'imprimer les pages web en noir et blanc ou en couleurs. En outre, des dispositifs particuliers peuvent être utilisés pour pallier un handicap visuel ou moteur.
+
+
+=== Scripts ===
+Dans le contexte du Web, un script est un programme informatique intégré à la page web et exécuté par le navigateur. Un script permet des tâches simples comme vérifier les données entrées dans un formulaire, gérer des menus ou réagir aux déplacements du pointeur de souris. Le principal langage de script côté client est le JavaScript. Ce langage est standardisé par l'ECMA sous le nom d'ECMAScript.
+
+
+=== Plugins ===
+Les navigateurs pouvant difficilement gérer l'ensemble des formats de données existants et futurs, les éditeurs de navigateurs ont été amenés à développer un mécanisme de modules d'extension qui prennent le nom de plugins, ou de contrôles ActiveX pour Internet Explorer.
+Ceux-ci permettent d'afficher directement dans la fenêtre du navigateur des données de formats très différents allant de documents PDF à du contenu multimédia. Ce mécanisme permet également d'utiliser des langages de programmation côté client comme les animations Flash, les applets Java ou la technologie Silverlight. La large diffusion d'un plugin étant nécessaire pour qu'un format de données ait une chance de s'imposer sur le Web, on en trouvera bien souvent en libre téléchargement sur les sites de sociétés éditrices de logiciels permettant de créer un type de contenu particulier.
+
+
+=== Protocoles ===
+Le protocole HTTP n'est pas le seul qu'un navigateur web puisse utiliser. Il peut gérer aussi les transferts de fichiers à l'aide de FTP ou WebDAV, et établir des connexions sécurisées en utilisant HTTPS (HTTP sur SSL). Certains navigateurs (comme Firefox) supportent le protocole Gopher qui précéda de peu HTTP et devenu confidentiel aujourd'hui. Ces protocoles de communication sont généralement standardisés par l'IETF.
+
+
+== Vulnérabilités ==
+Du fait de sa forte diffusion dans le monde le navigateur web est une cible privilégiée des pirates désireux de nuire aux internautes.
+L'exploitation des traces numériques du navigateur web est utilisé par certaines entreprises de commerce électronique.
+
+
+== Variétés d'attaqu

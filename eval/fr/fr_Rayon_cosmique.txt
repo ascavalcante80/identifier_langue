@@ -1,0 +1,33 @@
+n ou un bogue). Ce fut un problème pour l’électronique en très haute altitude, tel que les satellites, mais avec des transistors devenants de plus en plus petits, ça devient une plus grande préoccupation. Des études menées par IBM dans les années 1990, suggérent que les ordinateurs subissent en général une erreur par rayon cosmique induit de 256 mégaoctets de mémoire vive par mois. Pour réduire ce problème, Intel a proposé un détecteur de rayon cosmique qui pourrait être intégrés aux futurs microprocesseurs ayant une faible finesse de gravure, permettant au processeur d’exécuter de nouveau la dernière commande suivant le rayon cosmique. Les rayons cosmiques sont suspectés d’être la cause d’un incident de vol en 2008 où un avion de ligne Airbus A330 de la compagnie Qantas, qui plongea deux fois sur une centaine de mètres après un mauvais fonctionnement inexpliqué dans le pilotage automatique. Plusieurs passagers ainsi que des membres de l’équipage furent blessés, dont certains sérieusement. Après cet incident, les enquêteurs de l’accident ont déterminé que le système de contrôle de vol a reçu un pic de données inexpliqué, et que tout le système fonctionnait parfaitement. Une mise à jour logiciel a été faite dans tous les avions de ligne A330 et A340 du monde, permettant de filtrer électroniquement ces pics de données.
+
+
+== BibliographieModifier ==
+L. I. Dorman, Cosmic Ray Interactions, Propagation, and Acceleration in Space Plasmas, Springer, Dordrecht, 2006
+L. I. Dorman, Cosmic Rays in the Earth's Atmosphere and Underground, Kluwer, Dordrecht, 2004
+M. W. Friedlander, Cosmic Rays, Harvard Univ. Press, Cambridge (Mass.), 1989
+M. W. Friedlander, A Thin Cosmic Rain : Particles From Outer Space, ibid., 2000 (Voir avec Google)
+V. L. Ginzburg dir., Astrophysics of Cosmic Rays, North-Holland, Amsterdam, New York, 1990
+L. Koch-Miramond & M. A. Lee dir., Particle Acceleration Processes, Shock Waves, Nucleosynthesis and Cosmic Rays, Advances in Space Research, vol. IV, no 2-3, Pergamon Press, Oxford, 1984
+M. S. Longair, High Energy Astrophysics, Cambridge Univ. Press, Cambridge (G.-B.), 1981, 2e éd. 1994
+J. Mayerhöfer, « Victor Franz (Francis) Hess », in C. C. Gillispie dir., Dictionary of Scientific Biography, vol. VI, p. 354-356, C. Scribner's Sons, New York, 1991
+R. Schlickeiser, Cosmic Ray Astrophysics, Springer, Berlin, Londres, 2002
+Y. Sekido & H. Elliot dir., Early History of Cosmic Ray Studies, Reidel, Dordrecht, 1985
+Veniamin Sergeevich Berezinskiĭ, Vitaliĭ Lazarevich Ginzburg ; Astrophysics of cosmic rays ; 1990 (Voir avec Google)
+P. V. Sokolsky, Introduction to Ultrahigh Energy Cosmic Ray Physics, Addison-Wesley, Redding (Mass.), 1989.
+
+
+== NotesModifier ==
+Sources et références :
+Crozon M, La querelle des rayons cosmiques, Les génies de la science, 2007, no 31, p. 24-27
+
+
+== Voir aussiModifier ==
+
+
+=== Articles connexesModifier ===
+
+
+=== Liens externesModifier ===
+
+ Portail de la physique
+ Portail de l’astronomie

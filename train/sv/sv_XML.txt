@@ -1,0 +1,65 @@
+Extensible Markup Language, XML, är ett universellt och utbyggbart märkspråk och en förenklad efterträdare till SGML. XML blev en W3C-rekommendation 10 februari 1998. XML-rekommendationen beskriver både strukturen på XML och vad som krävs av en XML-tolk. Bland annat XHTML, XSL och SMIL, är baserade på XML.
+XML-koden kan inte definiera vilka element eller attribut som kan användas. Denna definition görs av en dokumentmall som antingen är intern eller länkas in i dokumentet. Syftet med XML är att kunna utväxla data mellan olika informationssystem. Detta görs genom att skicka data som ren text; text som även kan förstås av människor.
+Den 4 februari 2004 blev den senaste specifikationen av XML, XML 1.1, en W3C-rekommendation.
+
+
+== Syntax ==
+Grundsyntaxen för ett element i XML ser ut såhär:
+
+XML är dessutom skiftlägeskänsligt, således är name, Name och NAME tre olika element.
+Genom att kombinera flera element i en hierarki kan man beskriva olika information. Följande exempel är en boksamling beskriven med XML:
+
+
+=== Deklaration ===
+Första raden i exemplet ovan är en XML-deklaration. Det är en valfri rad som talar om vilken version av XML som används men kan också innehålla information om teckenkodning samt externa filer.
+
+
+=== Element ===
+Element är grunden i ett XML-dokument. Ett element består vanligtvis av en start- och en sluttagg, och kan ha olika attribut och innehåll. Starttaggen består av namnet inom vinkelparenteser, <titel>, och sluttaggen består av samma namn med vinkelparenteser men med ledande snedstreck, </titel>. Innehållet i ett element är allt som finns mellan start- och sluttaggen. Det kan vara både text och andra element. Så här kan ett komplett element, med starttagg, sluttagg och innehåll, se ut:
+
+
+=== Attribut ===
+Förutom innehållet i ett element kan ett element även ha attribut. Ett attribut läggs till i starttaggen och har ett namn och ett värde. Ett attributnamn får bara förekomma en gång i en tagg och värdet måste alltid vara inom enkla eller dubbla citationstecken. Så här kan användandet av attribut se ut:
+
+Här har elementet bok fått ett attribut språk med värdet engelska.
+
+
+=== Inkapsling ===
+Element kan innehålla andra element:
+
+Detta är ett element (bok) som innehåller 2 andra element (titel och författare). XML kräver att element är korrekt inkapslade, de får aldrig överlappa varandra. Därför är denna kod felaktig:
+
+<h1>Här är min <em>Rubrik</h1> <p>Med</em> ett stycke.</p>
+
+Detta skulle istället ha skrivits som:
+
+<h1>Här är min <em>Rubrik</em></h1> <p><em>Med</em> ett stycke.</p>
+
+
+=== Rotelement ===
+Alla XML dokument måste ha exakt ett rotelement. I vårt exempel var boksamling rotelementet som innehöll alla andra element i dokumentet. Följande exempel är alltså ett felaktigt XML-dokument:
+
+
+=== Tomma element ===
+Element som inte har något innehåll kan istället för att använda sig av en sluttagg för att stängas skrivas som ett tomt element. Detta görs genom att lägga till ett snedstreck innan den stängande vinkelparentesen i en starttagg. Dessa tre skrivsätt är ekvivalenta:
+
+
+=== Entiteter ===
+En entitet i XML är en bit data som kan representeras med ett alternativt namn och används till exempel när det finns risk för data tolkas om vid skillnader mellan författarens och läsarnas datormiljöer.
+Det finns 5 st fördeklarerade entitetreferenser i XML:
+&amp; — (et (ampersand på engelska), &)
+&lt; — (mindre än, <)
+&gt; — (större än, >)
+&apos; — (apostrof, ')
+&quot; — (citationstecken, ")
+Andra entitetsreferenser ska deklareras i dokumentmallen. Referenser kan referera till andra referenser.
+
+
+== Användning ==
+Eftersom XML är utbyggbart så har många olika märkspråk baserats på det. Exempel på tillämpningar av XML är att beskriva webbsidor (XHTML) och multimediasynkronisation (SMIL), och att utväxla information i olika system, exempelvis affärssystem.
+XML används för att strukturera och organisera information/data, till skillnad från till exempel HTML som används till att åskådliggöra och visa data. Genom tillägg som XPath och XSLT kan man (utgående från ett XML-dokument) automatgenerera HTML-kod för att visas i till exempel en webbläsare.
+För att kunna hantera ett XML-dokument, krävs att sändare och mottagare har kommit överens om vilka element och attribut som ska kunna användas. Därför måste man ha en gemensam dokumentmall.
+
+
+=== Härledda språk ===
+Flera mer eller mindre formellt definierade märkspråk är baserade på XML och har bestämda dokumentmallar som man kan använda 

@@ -1,0 +1,39 @@
+Krystalka je primitivní rozhlasový přijímač, který ke své činnosti nepotřebuje napájení. Energie, která rozkmitává membránu jejího sluchátka, se bere přímo z vysílaného signálu.
+Za svůj název tento přijímač vděčí hlavní součástce, kterou byl některý z krystalů s usměrňovacími vlastnostmi (nejčastěji se používal galenit). Krystalu se dotýkal hrot z fosforbronzu, wolframu nebo jiného vhodného materiálu, čímž vznikla primitivní hrotová dioda. Hrot byl pohyblivý (ovládal se malou páčkou umístěnou v kulovém kloubu), aby se na krystalu dalo najít místo s nejlepším příjmem.
+
+
+== Princip činnosti ==
+
+Krystalka demoduluje amplitudově modulované signály, za určitých okolností (s velmi špatnou kvalitou) i signály modulované kmitočtově. Z antény přichází spektrum signálů na paralelní rezonanční obvod, který má selektivní charakter, a tlumí všechny kmitočty vyjma kmitočtu rezonančního. Diodou je odstraněna kladná, nebo záporná část obálky amplitudově modulovaného signálu, ze zbylé části se pak kondenzátorem vyfiltruje vysokofrekvenční nosná vlna a do sluchátek jde nízkofrekvenční obálka signálu.
+
+
+== Konstrukce krystalky ==
+
+Nejjednodušší krystalky byly tvořeny zprvu jen detekčním krystalem a filtračním kondenzátorem. Ty neumožňovaly ladění a přijímaly veškeré signály, které na anténu dopadly. Vzhledem k množství rozhlasových stanic v začátcích rozhlasové éry a velmi malé citlivosti tento nedostatek nevadil.
+Později, s rostoucím množstvím rozhlasových stanic, byly konstrukce krystalek doplněny laděným rezonančním obvodem. Cívka se nejčastěji používala vzduchová válcová. U starších konstrukcí se také používala cívka voštinová (obdoba křížového vinutí) nebo cívka pavučinová (plochá cívka vinutá od středu k obvodu střídavým proplétáním vodiče přes 6 až 12 radiálních zářezů na kartonu). Ladění umožňuje kondenzátor s proměnnou kapacitou. V případě potřeby větší selektivity lze detekční diodu zapojit na odbočky cívky. Tím se zvýší selektivita.
+Při použití dvou rezonančních obvodů spojených induktivní vazbou se zvyšuje selektivita celé krystalky. Pak je nutno oba rezonanční obvody ladit na stejný kmitočet.
+Kondenzátor s proměnou kapacitou sériově připojený mezi anténu a krystalku slouží k impedančnímu přizpůsobení antény ke krystalce. Jiným způsobem impedančního přizpůsobení může být vstupní přizpůsobovací transformátor odbočkami. Řešení s proměnnou kapacitou se ale v praxi nepoužívá.
+
+
+== Praktická realizace ==
+
+Praktická realizace krystalky má několik kritických bodů, které je nutné dodržet.
+Detektor: Jako detektor se v počátcích používal galenitový krystal a kovový hrot. Lze použít polovodičovou diodu a to buď germaniovou nebo Shottkyho. Křemíková dioda je nevhodná z důvodu vysokého prahového napětí. I tak ale musí vstupní signál dosahovat nejméně několika desetin voltu.
+Sluchátka: Sluchátka jsou zatěžovací impedancí celé krystalky. Impedance obvodů krystalky je vysoká, a tak by při použití sluchátek s nízkou impedancí byl obvod krystalky zatížen, napětí na rezonančním obvodu by vlivem snížení činitele jakosti kriticky pokleslo a nedošlo by k reprodukci zvuku ve sluchátkách. Používají se proto vysokoimpedanční sluchátka anebo výstupní převodní transformátory impedance umožňující připojení sluchátek s nízkou impedancí.
+Cívky: Provedení cívek má vliv na jejich činitel jakosti Q a tím i na selektivitu a ztráty v obvodu. Klasické válcové cívky bez jádra mají činitel jakosti kolem 100, pro dosažení ještě lepších výsledků je třeba použít speciálních konstrukcí cívek (například vinutých na keramickém tělísku) anebo cívek s feritovým jádrem, které mají vysoký činitel jakosti.
+Pokud krystalka obsahuje pouze jednu cívku s těsnou vazbou (nebo cívku přímo navázanou na anténu), nelze při návrhu vycházet jen z prostého výpočtu paralelního rezonančního obvodu, ale je nutno při výpočtu potřebné indukčnosti cívky počítat i s nezanedbatelným kapacitním vlivem antény. Což ve výsledku znamená, že cívka bude mít citelně menší počet závitů, než vychází výpočtem, protože kapacita antény se částečně sčítá s kapacitou ladícího kondenzátoru.
+
+
+== Vlastnosti krystalky ==
+Citlivost krystalky je velmi malá, protože v ní nedochází k žádnému zesílení přijímaného signálu. Proto vyžaduje anténu s vysokým ziskem, kvalitní uzemnění a silný signál z vysílače.
+Selektivita je dána použitým obvodem, ale obecně je selektivita krystalky nízká. To znamená, že pokud vysílá několik dostatečně silných vysílačů kmitočtově blízko sebe, nedají se dostatečně odladit a všechny blízké stanice jsou reprodukovány současně. Ve většině případů ale nízká selektivita nevadí.
+Výhodou krystalky při příjmu ampitudově modulovaného signálu je minimální zkreslení - v celé přijímací cestě je totiž zařazen jen jeden nelineární prvek (demodulační dioda).
+Protože je krystalka přijímač bez jakéhokoliv zesílení, je příjem možný jen na sluchátka.
+
+
+== Anténa krystalky ==
+Protože je anténa jediným prvkem, který je schopen přivádět krystalce energii, je důležité, jaké má vlastnosti a jakým způsobem je postavená. Anténa pro krystalku je specifickou záležitostí a proto nelze ke krystalce použít žádné z typů antén používaných k jiným moderním typům přijímačů, jakými jsou např. antény prutové-teleskopické, vestavěné ferritové či antény televizní.
+Vhodnou anténou pro krystalku je například 10 až 30 metrů dlouhý, 1 až 2 mm silný měděný nebo bronzový vodič (plný drát), který je natažený vodorovně nebo mírně šikmo ve výšce nejméně 5 (nebo více) metrů nad zemí (nebo jiným elektricky vodivým povrchem, např. nad plechovou střechou), který plní funkci anténního zářiče. Je jedno, zda je drát opatřený izolací nebo je holý. Vodič je natahuje např. mezi domem a vzdáleným stromem, mezi domem a v zemi zakotveným sloupem nebo mezi dvěma stromy navzájem. Na obou koncích je zářič antény asi 1 metr před místem ukotvení izolovaný (od úvazů) jedním nebo několika za sebou umístěnými porcelánovými nebo plastovými izolátorky.
+Od jednoho konce anténního zářiče je sveden signál anténním svodem ke krystalce. Svod je prostý ohebný izolovaný jednožilový vodič nikoliv koaxiál. Průřez vodiče 1,5 až 2,5mm2, izolace odolná povetrnosti a slunečnímu záření. Svod je pokud možno přímý a krátký. Přesto, že je izolovaný, nesmí se zbytečně dotýkat kovových předmětů nebo stěn budovy. Pokud prochází do místnosti, prochází malým otvorem skrz dřevěný nebo plastový okenní rám, nikoli otvorem skrz zděnou stěnu.
+Krátká a nízko umístěná anténa neposkytne krystalce potřebnou energii. Na rezonančním obvodu nevznikne dostatečné napětí, které by dokázalo otevřít diodu v propustném směru a do sluchátka se proto nedostane žádný signál. Krystalka v takovém případě nebude pouze hrát slabě, jak se mnozí domnívají, ale nebude hrát vůbec.
+Za bouřky může na anténním vodiči vznikat vysoké napětí a proto je zapotřebí krystalku od antény odpojit a anténu nejkratší cestou 

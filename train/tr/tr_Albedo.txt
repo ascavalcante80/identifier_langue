@@ -1,0 +1,30 @@
+Yansıtabilirlik ya da Albedo (Latince albus = beyaz), yüzeylerin yansıtma gücü; veya bir yüzeyin üzerine düşen elektromanyetik enerjiyi yansıtma kapasitesi. Genel olarak güneş ışığını yansıtma kapasitesi için kullanılır. Albedo, cismin yüzey dokusuna, rengine ve alanına bağlı olarak değişir. Elektromanyetik tayfın tümünde veya belirli bir bölümünde hesaplanabilir.
+Uzaydan dünyamıza bakıldığında, bulutlar parlak, okyanus yüzeyi ise genelde koyu olarak gözükür. Beyaz bulutlar üzerlerine düşen ışığın büyük bölümünü yansıtırlar; yani albedoları yüksektir. Deniz yüzeyi ise üzerine düşen ışığın büyük bölümünü emer, ancak çok küçük bölümünü yansıtır; yani albedosu düşüktür. Gezegenimizin yüzeyinde en yüksek albedo oranına sahip olan cisimler arasında kar ve kum sayılabilir. En düşük albedo değerlerine ise yeni sürülmüş nemli topraklarda ve ormanlık alanlarda rastlanır.
+
+
+== Birim tanımı ==
+Geometrik albedo
+Sıfır evre acısında iken cismin parlaklığının aynı konumda ve görünür büyüklükte iken mükemmel dağılım gösteren diskin parlaklığına oranıdır.
+Bond albedosu
+Soğurma olmadan uzaya yansıtılan ısınımın güneşten gelen enerjiye oranıdır. Gezegensel albedo olarak da adlandırılır.
+Albedonun belirli bir birimi yoktur, iki şekilde tanımlanabilir:
+Yüzde olarak
+Cismin üzerine çarpan ışığı yansıtma oranının yüzde olarak ifadesi. Bu tanıma göre, üzerine çarpan ışığın tümünü yansıtan cismin albedosu %100, hiç yansıtmayan cismin albedosu %0, yarısını yansıtan - yarısını emen cisminki ise %50 olarak ifade edilir.
+0 ve 1 arasında bır sayı ile
+Üzerine çarpan ışığın tümünü yansıtan cismin albedosu 1, üzerine çarpan ışığın tümünü emen ve hiç yansıtmayan cismin albedosu 0, yarısını yansıtan cismin albedosu ise 0,5 olarak kabul edilir.:
+
+ALBEDO VE SICAKLIK ARASINDAKİ İLİŞKİ
+Daha büyük ya da daha az, gelen yöndeki radyasyon, ve buna bağlı olarak daha fazla ya da daha az bir emme, ayrı ayrı bir vücut ısısını etkileyebilir.
+Başka bir örnek vermek gerekirse, dünyanın en kentleşmiş ülkelerinden biri olan Belçika ile hemen güneybatısındaki Fransa da albedo etkileri farklıdır çünkü Fansa Belçika'ya göre daha sıcaktır.
+Albedo ve sıcaklık arasındaki ilişki soğuk bölgelere göre tropik bölgelerde daha fazladır.Çünkü güneş ışınları tropik bölgelerde daha güçlüdür.
+Aklık da daha küçük bir ölçekte çalışır. Yaz aylarında insanlar koyu renkli giysiler yerine açık renkli kıyafetleri tercih ederler. Çünkü koyu renkli kıyafetler güneş ışınlarını daha fazla çeker.Açık renkli giysiler ise güneş ışınlarını geri yansıtırlar.
+TİPİK ALBEDO
+Tüm yüzeyini kapsayan 45 derece kuzey enlemlerinde bir çam ormanı ile anakara arasındaki albedo farkı sadece %9 dur.
+ Bu düşük değer, ışık miktarının yukarıya yansımasıyla azalır. Ağaçların arasındaki ışık farkındaki yansımalar çam ağaçlarının kısmen renginden elde edilir.
+Bir okyanusun albedosu, ışık suya nüfuz ettiği zaman ,yaklaşırken  düşük  %3.5 oranında olur ancak radyasyon geliş açısı değiştiği zaman bu oran da değişir.
+Yoğun çalılar  %9 ve %14 arasındadır. Bir çim% 20 civarındadır.
+Bir kurak arazi de bir ağacın toprak rengine bağlılığı vardır. Bir çöl ya da bir büyük plaj da kum farklı renklerde büyük varyasyonlar gösterir. genellikle bu fark  yaklaşık % 25 oranın da düşük olabilir.
+Bir  yüzeye ulaşmadan önce yapay yapılar genellikle ışığı emer çünkü Kentsel yapıların çok farklı albedo değerleri var. Dünyanın kuzey bölgelerinde, şehirler genellikle çok koyu, ortalama albedo yaz aylarında küçük bir artış ile, yaklaşık % 7 olduğunu göstermiştir. Tropikal ülkelerde, şehirlerde % 12 civarında bir aklık vardır. Farklı değerler, farklı malzeme ve bina stilleri doğrudan etki eder.
+Taze yağmış kar% 90 bir aklık var. Sıkıştırılmış kar da (örneğin, Antarktika ovaları) yaklaşık% 80'dir.
+Ağaçlar (fotosentez ve farklı ağaç türlerinin arasındaki yeşillik ve değişkenlik birden yansımaları yoluyla) ışık enerjisini absorbe etmede çok  verimli olduğundan, ormanlar kesildikçe absorbe etme oranı azalır ve bu yüzden  Dünya'nın soğumasını beklemek mantıklı görünür.Bunun  etkileri bu kadar da basit değildir.Çünkü  Ormanlar üzerinde bulutluluk oranı fazla olur ve bulutluluğun fazla olduğu yerde  yüksek bir aklık vardır. Genellikle karla kaplı soğuk bölgelerde, ağaçların olmadığı alanlarda,% 10'dur.ormanları içeren ve orta-enlemler daha ılıman olduğu için aklık oranı %50'ye kadar çıkar.
+Karla kaplı bir alan ısındıkça, kar erime eğilimine girer ve aklık düşer.Bu etki önemli ısınma gerektiren modellerin temelidir ve küresel ısınma nedeniyle mevsimsel kar kaplı böl

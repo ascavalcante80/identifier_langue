@@ -1,0 +1,2 @@
+Extensible HyperText Markup Language (XHTML) er ívafsmál fyrir vefsíður sem er mjög líkt HTML, en með ritunarreglur sem samræmast XML-staðlinum ólíkt HTML sem leyfir til dæmis opin tög.
+HTML byggir á SGML sem mjög sveigjanlegur staðall fyrir ívafsmál. XHTML byggir hins vegar á XML sem mun strangari undirgerð af SGML. Hægt er að þátta rétt mynduð XHTML-skjöl með venjulegum XML-þáttara, ólíkt HTML sem þarf flókinn, lauslegan þáttara sem að oft þarf að túlka kóðann og geta sér til um merkinguna. XHTML er myndað úr HTML og XML þar sem það er endu

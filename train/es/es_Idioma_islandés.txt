@@ -1,0 +1,97 @@
+Este artículo se refiere a la lengua islandesa. Para información sobre el pueblo islandés, véase Islandés (etnia).
+El islandés es la lengua oficial que se habla en Islandia. Es una lengua flexiva sintética de gran complejidad morfológica que pertenece a la familia de las lenguas germánicas, grupo germánico septentrional, subgrupo escandinavas occidentales y es la única lengua escandinava que no presenta variación dialectal. La hablan alrededor de 320 000 personas.
+El islandés, aunque también pertenece al germánico septentrional (y deriva directamente del danés), guarda diferencias muy notables con las restantes lenguas nórdicas debido a su poca evolución lingüística.
+
+
+== Aspectos históricos, sociales y culturales ==
+
+
+=== Historia ===
+Antes de la introducción de la escritura basada en el alfabeto latino (que vino a reemplazar gradualmente al Futhark rúnico), existía en Islandia y en otros países nórdicos como Suecia, Dinamarca o Noruega una lengua en la que se componían largos y complejos poemas, que seguían unas normas concretas. Los autores que componían y recitaban estas obras, eran denominados "skalden" (escaldos), en relación con aquellos poemas, que se llamaban "skald". Los "skalden" han escrito de este modo gran parte de la historia de Escandinavia.
+La lengua normativa es una continuación directa de la lengua de los antiguos colonos, mostrando una fuerte influencia de la lengua del sudoeste de Noruega; de hecho, durante los primeros 200 años no había diferencias notables entre el antiguo nórdico y el islandés antiguo. Los lazos culturales entre las dos naciones fueron muy fuertes hasta el siglo XIV, cuando se produjo la Unión de Kalmar entre Dinamarca, Noruega y Suecia, que conllevó la separación entre islandeses y noruegos. En el siglo XVI los islandeses tradujeron la Biblia y otras literaturas de tipo religioso a su lengua; y los noruegos adoptaron el danés como lengua oficial de su Iglesia al producirse la reforma protestante.
+La ocupación danesa de Islandia no ha tenido prácticamente influencia en la evolución de la lengua islandesa escrita, que se mantuvo vigente para las comunicaciones cotidianas de la población. El danés se usaba solamente para los comunicados oficiales, del mismo modo que se usó el inglés durante la ocupación estadounidense en la Segunda Guerra Mundial.
+Aunque en 1944 la Constitución islandesa no estableció el islandés como la lengua oficial del Estado, es considerada la lengua de facto del país, y desde entonces es la única autorizada en los comunicados oficiales o en los edictos públicos.
+
+
+=== Evolución de la lengua ===
+Mientras que la mayoría de los idiomas europeos occidentales han reducido en gran medida el alcance de la flexión, particularmente en la declinación de los sustantivos, el islandés mantiene una gramática flexiva comparable a la del latín, el griego clásico, o el germánico.
+El islandés escrito ha cambiado muy poco desde la era de los vikingos. Como resultado de esto, y de las similitudes gramaticales entre la gramática moderna y la antigua, los hablantes de la era actual pueden leer sin dificultad las sagas originales y edda que fueron escritos hace unos 800 años, pero, por otra parte, existe un desfase entre ortografía y fonética (ortografía histórica). Esta forma antigua del idioma se conoce como islandés antiguo, pero se suele igualar al nórdico antiguo (un término que se refiere a la lengua común escandinava de la era de los vikingos).
+Los islandeses son excepcionalmente conservadores en materia lingüística y muy reacios a aceptar los préstamos de otros idiomas. Así, en lugar de importar palabras de otras lenguas para conceptos nuevos, se crean nuevas palabras islandesas, como por ejemplo, heiðursmerki significa medalla y está compuesta por heiður (honor) y merki (estandarte, bandera). Otra forma es revivir palabras antiguas dándoles un significado moderno. Cada vez que surge un nuevo concepto o se crea un nuevo objeto, hay un departamento de la Universidad de Islandia, en Reikiavik, que se encarga de encontrar un nombre para ello.
+
+Es posible establecer dos etapas de desarrollo de la lengua en cuanto a la pronunciación:
+Islandés antiguo o nórdico antiguo, hasta el año 1540.
+Islandés moderno, desde el año 1540 en adelante, con la traducción del Nuevo Testamento.
+El islandés moderno sufrió los cambios debidos a la gran alteración fonética que afectó a todas las lenguas germánicas. Desde entonces, las antiguas vocales del noruego antiguo marcadas con acento agudo se transformaron en diptongos para el islandés, de este modo a = [a], e = [ε] y o = [ɔ] se transformaron en á = [au], é = [jε] y ó = [ou].
+
+
+== Alfabeto ==
+El alfabeto islandés está formado por 32 letras del alfabeto latino que fue introducido alrededor del año 1000, desplazando al rúnico. De las 26 letras del mencionado alfabeto se excluyen 4: C, Q, W y Z, pero se agregan 7 vocales con signo diacrítico: Á, É, Í, Ó, Ú, Ý, Ö y 2 consonantes: Ð/ð, que es una fricativa dental sonora; Þ/þ, que es una fricativa interdental sorda más el dígrafo Æ/æ que se pronuncia como el diptongo [ai].
+La Z fue derogada en 1974, siendo substituida por la S (que tenía la misma pronunciación). A pesar de ello, todavía quedan algunos hablantes que se resisten a abandonar aquella letra e incluso uno de los mayores periódicos islandeses, el Morgunblaðið, sostiene esa postura.
+La siguiente tabla muestra cómo los caracteres especiales se pueden escribir en sistemas operativos como Microsoft Windows: consiste en mantener pulsada la tecla ALT hasta haber terminado de introducir la secuencia numérica deseada.
+En GNU/Linux se introducen mediante una codificación más universal, estandarizada y compatible: Unicode. Para introducir cualquier carácter Unicode se presiona Control+Shift+u y luego se teclea la combinación de caracteres (no hay que estar presionando todo el rato). Como indicativo de haber presionado Control+Shift+u, aparece una U subrayada.
+
+
+== Descripción lingüística ==
+
+
+=== Fonología ===
+Lo que más cambió en el islandés moderno en relación al antiguo noruego fue el sistema fonológico, especialmente en lo que se refiere a su sistema vocálico. Del siglo XII tenemos una excelente descripción del sistema fonológico del islandés antiguo en el llamado primer tratado gramatical. En él consta que en el islandés había 9 unidades vocálicas cualitativas, teniendo un total de 26 fonemas vocálicos, ya que estas podían ser orales o nasales, cortas o largas.
+En lo que se refiere a las consonantes oclusivas, el islandés presenta contraste entre aspiradas y no aspiradas, en lugar de entre sordas y sonoras, como en la mayoría de las lenguas europeas. También son comunes las oclusivas sordas preaspiradas. Sin embargo, las consonantes fricativas y los fonemas sonorantes presentan contraste regular sonoro, incluyendo las nasales (algo poco frecuente en las lenguas del mundo). Adicionalmente, hay contraste de longitud para varios fonemas, con la excepción de las consonantes sordas sonorantes.
+
+
+=== Consonantes ===
+Las sonoras fricativas [v], [ð], [j] y [ɣ] no son completamente constrictivas y son a menundo más cercanas a aproximantes que a fricativas.
+
+La condición de [c] y [cʰ] como fonemas o como alófonos de /k/ y /kʰ/ es materia de debate. Por otra parte, la presencia de pares mínimos como gjóla [couːla] «brisa» contra góla [kouːla] «aullido» y kjóla [cʰouːla] «vestidos» contra kóla [kʰouːla] «cola» sugiere que las oclusivas palatales son fonemas separados. Por otra parte, solo las oclusivas palatales, no las velares, pueden aparecer ante vocales anteriores, y algunos lingüistas (verbigracia Rögnvaldsson) han insistido en una representación fonémica subyacente de [couːla] y [cʰouːla] como /kjoula/ y /kʰjoula/ respectivamente, mediante un proceso fonológico de fusión de /k(ʰ)j/ en [c(ʰ)]. Que esta aproximación, que es consistente con la ortografía y con procesos históricos, represente una realidad sincrónica es materia de debate.
+Las fricativas dentales [θ] y [ð] son alófonos de un mismo fonema. /θ/ se usa al comienzo de la palabra, como en þak [θaːk] «techo» y ante una consonante sorda, como en maðkur [maθkʏr] «gusano». [ð] se emplea en forma intervocálica, como en iða [ɪːða] «vórtice» y al final de la palabra, como en bað [paːð] "baño", aunque puede ser desonorizada en [θ] ante pausa. El fonema /θ/ representa en verdad una fricativa alveolar sorda no sibilante [θ̠] o [ð̠] cuando es sonora.
+De las sordas nasales, solo [n̥] aparece al comienzo de la palabra, por ejemplo en hné [n̥jɛː] «rodilla». Recientemente, ha aumentado la tendencia de pronunciar esta como sonora, especialmente entre los niños; verbigracia, pronunciando hnífur«cuchillo» como [nivʏr] en lugar de la estándar [n̥ivʏr]. La nasal palatal aparece ante las oclusivas palatales y las nasales velares ante las oclusivas velares. La [ŋ] aparece también ante [l] y [s] a través de la supresión de [k] en los grupos [ŋkl] y [ŋks].
+Las preaspiradas [ʰp ʰt ʰc ʰk] (verbigracia: löpp [lœʰp] «pie») no ocurren en posición inicial. En la mayoría de los análisis, la longitud de la consonante es vista como fonémica, mientras que la longitud vocálica como determinada completamente por el ambiente.
+
+
+=== Vocales ===
+Donde los símbolos aparecen en pares, aquel a la derecha del punto representa una vocal redondeada.
+
+
+==== Cantidad vocálica ====
+La cantidad es la duración de las vocales, diptongos y sílabas en aquellas lenguas indoeuropeas caracterizadas como lenguas cuantitativas.
+En islandés los monoptongos y diptongos tónicos son largos en los siguientes casos:
+En palabras monosílabas cuando la vocal se encuentra al final de la palabra:
+fá [fauː] «recibir»
+nei [neiː] «no»
+þú [θuː] «tú»
+
+Ante una sola consonante:
+fara [ˈfaːra] «ir»
+hás [hauːs] «ronco»
+vekja [ˈvɛːca] «despertar»
+ég [jɛːɣ] «yo»
+spyr [spɪːr] «pregunto»
+
+Ante cualquiera de estos grupos [pr tr kr sr], [pj tj sj], o [tv kv]. Excepción: si hay una t ante el infijo k. Verbigracia notkun y litka. (Existen también excepciones adicionales como um y fram, donde la vocal es corta a pesar de las reglas y en, donde la longitud de la vocal depende del contexto.)
+lipra [ˈlɪːpra] «a la ágil»
+sætra [ˈsaiːtra] «de los dulces»
+akra [ˈaːkra] «a los campos»
+hásra [ˈhauːsra] «de los roncos»
+vepja [ˈvɛːpja] «chorlito»
+letja [ˈlɛːtja] «disuadir»
+Esja [ˈɛːsja] topónimo de una montaña
+götva [ˈkœːtva] como en uppgötva «descubrir»
+vökva [ˈvœːkva] «regar»
+
+Ante otros grupos consonánticos (incluidos los oclusivos preaspirados [hp ht hk] y consonantes geminadas, las vocales acentuadas son cortas. Las vocales inacentuadas son siempre breves.
+Karl [kʰartl̥] «Carlos»
+standa [ˈstanta] «estar de pie»
+sjálfur [ˈsjaulvʏr] «(uno) mismo»
+kenna [ˈcʰɛnːa] «enseñar»
+fínt [fin̥t] «fino»
+loft [lɔft] «aire»
+upp [ʏʰp] «arriba»
+yrði [ˈɪrðɪ] como en nýyrði «neologismo»
+ætla [ˈaiʰtla] «desear»
+laust [løyst] «ligeramente»
+(Nota: en islandés el acento recae siempre en la primera sílaba.)
+
+
+=== Gramática ===
+
+El islandés es una lengua de la familia germánica escandinava occidental y la más «arcaica» de las lenguas germánicas. Tiene tres géneros gramaticales: mascul

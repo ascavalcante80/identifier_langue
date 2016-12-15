@@ -1,0 +1,46 @@
+Eine Seilwinde ist prinzipiell eine Vorrichtung, mit der man mit Hilfe eines Seils etwas ziehen kann.
+Dabei wird das Seil meist auf einer durch einen Motor oder durch Muskelkraft angetriebenen zylindrischen Trommel aufgewickelt.
+Die Windenseile können aus herkömmlichem Seil (Naturfaser) sein; bei schweren Lasten wird meist Stahlseil und seit jüngerer Zeit auch Plaste- bzw. Kunstfaser-Seil, beispielsweise aus langkettigem, texturiertem Polyethylen (PE-UHMW), verwendet.
+Die Zugkraft lässt sich durch Einsatz eines Flaschenzuges steigern.
+
+
+== Trommelwinde ==
+Die Seilwinde ist eine Seiltrommel, die mechanisch, elektrisch oder hydraulisch angetrieben wird und auf der ein Seil aufgerollt wird. Das Seil kann sich selbstständig nebeneinander gleichmäßig aufrollen, wenn die freie Strecke des Seiles vor der Trommel lang genug ist. Anderenfalls kann eine zusätzliche Seilführung zum Einsatz kommen, die das Seil „ordentlich aufrollt“, indem sie es seitlich versetzt.
+In diesen Fällen wird die ganze Zugkraft vom Seil auf die Trommel übertragen. Dabei muss man berücksichtigen, dass die Zugkraft mit der Anzahl der Lagen auf der Trommel abnimmt, da sie vom Antriebsdrehmoment und dem Hebelarm (Radius auf der Trommel) abhängig ist. So ist bei einer Winde mit einer Zugkraft von 50 kN auf der innersten Lage auf der äußersten Lage (normalerweise 4 - 5 Lagen) je nach Seildurchmesser nur mehr eine Zugkraft von 20 - 30 kN vorhanden.
+Mit Hilfe moderner Steuerungssysteme und durch entsprechende Auslegung der Seilwinde ist es heute möglich, auch bei Trommelwinden konstante Zugkraft lagenunabhängig sicherzustellen.
+
+
+== Bobine ==
+Die Bobine verwendet eine schmale Trommel auf die ein Band oder Flachseil übereinander aufgewickelt wird. Sie wird bei geringen Förderhöhen verwendet und hat den Vorteil, dass das Seil nicht seitlich veränderlich aus-/einläuft.
+
+
+== Spillwinde oder Treibscheibenwinde ==
+Es gibt aber auch andere Winden, bei denen das Seil um ein Seilspill herumgeschlungen wird und erst dann auf einer Haspel aufgewickelt wird. Sie werden Spillwinden oder Treibscheibenwinde genannt. Im Schiffbau ist diese Windenform auch als Winsch bekannt. Die Haspel übt nur eine Vorspannung aus, damit das Seil die notwendige Reibung am Spillkopf hat. In diesem Fall hat die Winde über die gesamte Seillänge dieselbe Zugkraft und Seilgeschwindigkeit. Diese Winde hat aber einen größeren Platzbedarf und ist wesentlich aufwendiger gebaut.
+Sonderformen sind Kettenzüge.
+
+
+== Anwendungen ==
+
+Die Anwendungsart bestimmt die Größe und die genauere Konstruktion einer Seilwinde.
+
+
+=== Einbau und Betrieb in Kraftfahrzeugen (Feuerwehr, THW, Katastrophenschutz) ===
+Winden können entweder heckseitig oder vorne am Fahrzeug angebaut sein. Bei heckseitigen Winden ist die Belastung des Fahrgestells günstiger, da der Rahmen auf Druck und nicht auf Zug wie bei Frontwinden belastet wird.
+Bei Heckwinden wird das Seil im Fahrzeugrahmen entweder frei oder durch Rohre und Umlenkrollen nach vorne geführt. An der Vorderseite des Fahrzeuges ist entweder ein so genanntes Seilfenster mittels vier Rollen, die das Seil führen oder eine so genannte Propellerrolle (das sind zwei Umlenkrollen, die sich um 360 Grad drehen können) angebracht. Der Zugwinkel darf aber trotzdem nicht mehr als 15 Grad nach links oder rechts von der Fahrzeugachse abweichen, da sonst Schäden am Fahrgestell auftreten können und sich die Zugkraft verringert. Einige Winden werden dann automatisch über einen Schalter heruntergeschaltet und die Zugkraft wird reduziert.
+Um das Seil bei der unbelasteten Winde schneller ausziehen zu können, haben die Winden meistens einen Freilauf oder einen Schnellgang. Dabei wird die Trommel durch eine Kupplung vom Antrieb getrennt und kann sich frei durchdrehen. Dieser Freilauf darf sich aber nur in unbelastetem Zustand schalten lassen.
+Die Seilgeschwindigkeit wird bei mechanischen Winden über die Motordrehzahl, bei hydraulischen über ein Steuerventil geregelt.
+Um eine zu hohe Belastung der Winde und des Seils zu vermeiden, sind bei hydraulischen Antrieben Überdruckventile oder bei mechanischen Winden Scherbolzen als Sollbruchstelle eingebaut. Bei modernen Winden wird die gezogene Last, in Prozent, am Bediendisplay angezeigt.
+Die übliche Zugkraft einer Feuerwehrseilwinde beträgt 50 kN (beispielsweise RW 1 und LF 24, beziehungsweise RF oder RLF), und sie hat eine Zuglänge von 50 bis 60 m. Dabei ist zu berücksichtigen, dass mehrere Seilwindungen auf der Trommel verbleiben müssen, damit die Zugkraft durch Reibung und nicht allein über das Seilschloss auf die Trommel übertragen wird.
+Gesteuert werden die Windenbewegungen meistens aus technischen Gründen vom Fahrersitz aus. Es gibt allerdings auch Fernsteuerungen, mit der sich der Maschinist vom Fahrzeug wegbewegen kann und die Steuerung der Seilwinde bedient.
+Auch beim Betrieb von Seilwinden ist Sicherheit das oberste Gebot. Deshalb dürfen sich die Feuerwehrangehörigen nicht im Bereich des Seiles aufhalten (1,5-fache Seillänge als Sicherheitsabstand), wenn die Winde unter Zug ist. Das Seil muss regelmäßig kontrolliert und gewartet werden. Wenn Litzen gebrochen sind oder Seilknicke auftreten, muss das Seil ausgetauscht werden.
+Damit ein Fahrzeug die Windenleistung ausnutzen kann, muss das Fahrzeug selbst gut verankert sein. Das kann auf verschiedene Arten passieren. Die einfachste Art ist, Unterlegkeile unter die Räder zu legen. Auch eine Allradbremse kann verwendet werden oder das Fahrzeug wird beispielsweise an einem starken Baum verankert, wobei die Zugkräfte berücksichtigt werden müssen, die der Fahrzeugrahmen dabei übertragen muss.
+
+
+== Hubschrauber ==
+
+Winden sind oftmals an Hubschraubern zum Zwecke der Rettung von Personen oder der Aufnahme sonstiger Lasten aus der Luft verbaut. Rettungswinden an Hubschraubern werden besonders zur See und in den Bergen eingesetzt, wo eine Landung oftmals nicht möglich ist. Seilwinden sind zum Beispiel an folgenden Hubschraubertypen verbaut:
+an diversen Bell UH-1D der Bundeswehr (Luftwaffe/ Heer)
+an den Westland Sea King MK 41 der Marine
+an einzelnen Polizeihubschraubern der Länder
+an allen SAR-Hubschraubern der Bundeswehr
+an einigen zivile

@@ -1,0 +1,47 @@
+Volumen (ponegdje i zapremina ili obujam) je mjera prostora koji objekt zauzima. SI jedinica za volumen je kubni metar.
+
+Riječ volumen se koristi kod opisivanja prostora koji zauzima dano tijelo, dok se zapremina koristi u značenju koliko se u neki spremnik može pohraniti (npr. boca od litre). Za volumen se češće koristi mjerna jedinica kubni metar, dok se za zapreminu češće koristi litra.
+
+Samo 3-dimenzionalni objekti imaju volumen, dok 1-dimenzionalni (npr. linije) i 2-dimenzionalni (npr. kvadrat) imaju volumen jednak nuli.
+Matematično, volumen su definirani preko integralnog računa, aproksimirajući tijelo kao zbroj volumena velikog broja vrlo malih kocki.
+
+
+== Obrazci za obim ==
+Jednačine za volumen:
+Kocka: (gdje je s dužina brida)
+ 
+Pravougla prizma: (gdje je a dužina, b širina, a c visina)
+ 
+Valjak: (r = poluprečnik baze, h = visina)
+ 
+Sfera: (r = poluprečnik sfere)
+ 
+Elipsoid: (a, b, c = poluosi elipsoida)
+ 
+Piramida: (A = površina baze, h = visina od baze do vrha)
+ 
+Stožac (piramida s kružnom bazom): (r = promjer kruga baze, h = visina od baze do vrha)
+ 
+Bilo koja prizma koja ima konstantni poprečni prerez po cijeloj visini**: (A = površina baze, h = visina)
+ 
+Bilo koje tijelo (potreban integralni račun)
+
+gdje je h bilo koja dimenzija tijela, a A(h) površina poprečnog prereza okomitog na h, zadana kao funkcija položaja uzduž h. Ovo vrijedi za bilo koji oblik.
+
+
+== Druge SI jedinice za volumen ==
+
+
+== Američke mjerne jedinice za volumen ==
+
+
+== Britanske mjerne jedinice za volumen ==
+
+
+== Volumen mjera kod kuhanja ==
+
+
+== Volumen i gustoća ==
+
+
+== Također pogledaj

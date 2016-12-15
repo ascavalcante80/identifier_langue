@@ -1,0 +1,49 @@
+Elektronik är den gren av elektrotekniken som bygger på elektroners rörelse i vakuum, gas eller fasta material (som halvledare). I både amerikanskt och europeiskt språkbruk omfattas även användningen av elektroniska komponenter, inom exempelvis radio, television, datateknik, kommunikation, informationsteknik och mätteknik.
+Traditionellt betecknas elektrisk apparatur utan aktiva komponenter som ej elektronisk. Exempel på icke-elektronisk utrustning är därför värme-element, elmotorer och enklare elkraftöverföring.
+Elektroniken har en central roll i den pågående "informationsrevolutionen" eftersom datorer och annan kringutrustning är uppbyggd av olika elektroniska komponenter.
+
+
+== Teori ==
+
+De mest grundläggande lagarna som beskriver hur elektronik fungerar är Ohms lag och Kirchhoffs lagar samt även Maxwells ekvationer.
+
+
+== Komponenter ==
+Beståndsdelarna i elektronik kallas komponenter. Komponenterna är uppdelade i olika typer beroende på dess egenskaper. När komponenter kopplas samman så bildas kretsar. Komplexa komponenter brukar även kallas kretsar.
+
+
+=== Aktiva komponenter ===
+
+Exempel: transistor, MOSFET, CMOS, diod, diac, TRIAC, operationsförstärkare, tyristor
+
+
+=== Passiva komponenter ===
+
+Exempel: motstånd, kondensator, spole
+
+
+=== Analoga kretsar ===
+
+Exempel: förstärkare, oscillator, blandare
+
+
+=== Digitala kretsar ===
+
+Byggblock:
+Logiska grindar
+Adderare
+Multiplikator
+Vippor
+Räknare
+Register
+Multiplexer
+Schmittrigger
+Kraftigt integrerade komponenter:
+Mikroprocessor
+Mikrocontroller
+ASIC
+DSP
+FPGA
+
+
+=== Elektrome

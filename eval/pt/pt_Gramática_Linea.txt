@@ -1,0 +1,8 @@
+guagens lineares são fechadas sob a operação de intersecção. Além disso, as linguagens lineares são fechadas sob homomorfismo e homomorfismo inverso . Estas três propriedades de fechamento mostram que as linguagens lineares formam um trio completo. Trios completos em geral, são famílias de linguagens que gozam de um par de outras propriedades matemáticas desejáveis.
+
+
+== Referencias ==
+↑ Marcus Vinícius Midena Ramos.
+↑ Introduction to automata theory, languages, and computation. [S.l.: s.n.], 1979. ISBN 0-201-02988-X
+↑ Greibach, Sheila. "The Unsolvability of the Recognition of Linear Context-Free Languages".. [S.l.]: Journal of the ACM 13 (4), October 1966. doi:10.1145/321356.321365
+↑ John E. Hopcroft and Jeffrey D. Ullman. Introduction to Automata Theory, Languages, and Computation. [S.l.]: Addison-Wesley Publishing, Reading Massachusetts, 1979. Capítulo: Ex. 11.1, pp. 282f. , ISBN 0-201-02988-X

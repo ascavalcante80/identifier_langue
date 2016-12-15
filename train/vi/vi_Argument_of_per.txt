@@ -1,0 +1,13 @@
+Acgumen của cận điểm  (viết tắt là ω) là một tham số quỹ đạo để xác định quỹ đạo của một thiên thể. Nó là góc giữa điểm nút lên của quỹ đạo (giao điểm của quỹ đạo và mặt phẳng tham chiếu, khi thiên thể đi từ Nam lên Bắc) và cận điểm quỹ đạo (điểm trên quỹ đạo nằm gần tâm của hệ quy chiếu nhất), đo trên mặt phẳng quỹ đạo, và theo chiều chuyển động của thiên thể.
+Nếu mặt phẳng quỹ đạo trùng với mặt phẳng tham chiếu, tức là độ nghiêng quỹ đạo bằng 0, điểm nút lên của quỹ đạo sẽ vô định. Với chuyển động trên quỹ đạo tròn, cận điểm quỹ đạo cũng vô định. Cả hai trường hợp này dẫn đến việc acgumen của cận điểm bị vô định.
+Trong hệ Mặt Trời, do cận điểm quỹ đạo còn được gọi là điểm cận nhật, nên acgumen của cận điểm còn được gọi là acgumen của điểm cận nhật.
+
+
+== Công thức ==
+Trong cơ học thiên thể, acgumen của cận điểm ω được tính theo:
+ω = arccos((n • e)/(|n| |e|))
+(nếu ez < 0, ω = 2 π - ω ở trên)
+với:
+n là véctơ chỉ theo phương của điểm nút lên của quỹ đạo (như vậy véctơ này nằm trên mặt phẳng tham chiếu, có thành phần chiếu lên phương z của hệ quy chiếu bằng 0).
+e là véctơ độ lệch quỹ đạo (chỉ theo hướng đến cận điểm quỹ đạo).
+Nếu độ nghi

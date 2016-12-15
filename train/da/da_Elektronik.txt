@@ -1,0 +1,24 @@
+Elektronik er videnskaben og teknologien om elektroniske kredsløb bestående af komponenter såsom transistorer, integrerede kredsløb, modstande og spoler. Den fundamentale forståelse af elektroniske komponenters virkemåde er et fysisk problem (faststoffysik, elektromagnetisme) mens design og konstruktion af elektroniske kredsløb er en ingeniør-disciplin.
+Denne viden anvendes i apparater som ved hjælp af elektriske strømme og elektromagnetiske felter behandler information i form af signaler, eller konverterer eller distribuerer elektrisk energi. Selvom elektricitet har været anvendt siden slutningen af 1800-tallet til at overføre data via telegrafi og telefoni, er udviklingen af elektronik først rigtig begyndt ved fremkomsten af radiofoni.
+Elektronik kan groft opdeles i to delområder: Analog elektronik, som blander, forstærker, filtrerer og på anden måde behandler signaler der varierer kontinuerligt indenfor givne intervaller, og digital elektronik som behandler signaler der altid antager én ud af et begrænset antal (almindeligvis 2) diskrete størrelser. Dertil findes hybride kredsløb, som formidler signaler mellem analoge og digitale systemer.
+
+
+== Elektronik i praksis ==
+I færdigbyggede elektroniske apparater er de fleste komponenter monteret på en eller flere printplader eller som tykfilmskredsløb – undtagelserne er bl.a. tunge og/eller omfangsrige komponenter som kræver en mere robust fastgørelse end en printplade kan tilbyde.
+Til at forbinde elektroniske apparater med hinanden og med lysnettet anvendes ledninger og kabler forsynet med stik i forskellige udformninger til forskellige formål.
+Når et nyt elektronisk apparat skal udvikles, er det ofte nødvendigt at afprøve idéen i det nye apparat i praksis inden en egentlig produktion sættes i gang. Sådanne prototype-opstillinger kan udføres enten på et breadboard, med wire wrapping-teknik eller til nød som en "elektronisk fuglerede".
+
+
+== Måle- og afprøvningsudstyr til udvikling og fejlfinding ==
+Når ingeniører udvikler prototyper til nye elektroniske apparater, og når teknikere reparerer defekte apparater, anvender de en række måleinstrumenter:
+Et amperemeter (f.eks. galvanometer) som måler strømstyrke, et ohmmeter (f.eks. Wheatstones bro) som måler resistans (fænomenet modstand), samt et voltmeter der måler spænding ses ofte bygget sammen til ét måleapparat, et såkaldt multimeter eller universalinstrument.
+Et oscilloskop visualiserer signaler (spændinger) der ændrer sig kontinuerligt i form af en graf på en skærm. Det bruges til at måle spændinger og frekvenser, "tage tid" på signaler, samt en række andre ting.
+Frekvens kan også måles digitalt med en frekvenstæller, eller analogt med et frekvensmeter.
+Ofte ønsker man at se hvordan et kredsløb "reagerer" på bestemte arbejdsbetingelser, og til det formål findes der udstyr til at skabe de betingelser der skal undersøges:
+En laboratorie-strømforsyning er et apparat der omformer lysnettets høje vekselspænding til de lave jævnspændinger som det meste elektronik arbejder med. Lave vekselspændinger skaffes fra særlige, variable transformatorer.
+En tonegenerator, også kaldet en funktionsgenerator, leverer et signal med en frekvens og en amplitude (størrelse) som kan vælges trinløst indenfor givne intervaller.
+Til afprøvning af radioudstyr findes såkaldte målesendere, som er "tone"-generatorer der kan levere meget højfrekvente signaler som bl.a. radiomodtagere arbejder med. Radiosendere afprøves ofte under brug af en dummy-load som erstatning for en antenne: Den absorberer energien fra senderen uden at forstyrre vigtige radiotransmissioner med "prøvesignaler".
+
+
+== Støj ==
+Overalt hvor elektrisk strøm sættes "i arbejde" i elektriske og elektroniske anordninger skabes elektrom

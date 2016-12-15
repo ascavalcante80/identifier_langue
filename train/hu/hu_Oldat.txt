@@ -1,0 +1,8 @@
+A többkomponensű, egyfázisú, homogén, vagy inhomogén, folyékony, vagy szilárd halmazállapotú rendszereket összefoglaló néven elegyeknek nevezzük.
+
+Az oldat elnevezést ezen belül azokra a rendszerekre használjuk, amelyekben egyik komponens – az oldószer – koncentrációja a többiéhez – oldott anyagok – képest viszonylag nagy.
+A komponens a rendszert alkotó, kémiailag egységes részecskéinek halmaza. Megkülönböztetünk egy-, két- és többkomponensű rendszereket.
+Az oldatokat telítettség szempontjából három csoportba sorolhatjuk:
+telítetlen oldat: ha az oldott komponens koncentrációja kisebb, mint az adott körülményekhez (oldószer, hőmérséklet, nyomás) tartozó oldhatósága;
+telített oldat: ha az oldott komponens koncentrációja megegyezik az adott körülményekhez (oldószer, hőmérséklet, nyomás) tartozó oldhatóságával;
+túltelített az oldat, ha az oldott komponens koncentrációja nagyobb, mint az adott 

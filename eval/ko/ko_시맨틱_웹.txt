@@ -1,0 +1,28 @@
+품 개발과 비즈니스 활동을 전개하고 있다.
+분산된 정보자원을 의미적 상호 운용성으로 통합하여 거대한 지식 베이스를 구축한 시맨틱 웹은, 웹서비스에도 의미적 상호운용성을 실현하여, 궁극적으로 시맨틱 웹 서비스(Semantic Web Service)로 진화하여 갈 것이다. 온톨로지 언어 OWL 개발과 동시에 서비스 온톨로지인 OWL-S가 개발되었고, W3C의 SWSI나 유럽의 WSMO/L/X 연구등에서 알 수 있는 바와 같이, 시맨틱 웹은 지식을 넘어서 지식 서비스로 나아가고 있다.
+현재는 서로 독립적이며 자발적으로 발전되어 온 웹2.0과 시맨틱 웹은 자신의 영역을 더욱 확대하기 위하여 상존하고 있지만, 궁극적으로는 자연스럽게 통합되어 차세대 웹 기술로 나타날 것이다. 이미, 마이크로포맷, RDFa, GRDDL, RSS 등에서 상호 협력이 진행되고 있고, 인간 중심의 RIA 인터페이스와 컴퓨터 중심의 시맨틱 비즈니스 프로세스를 기반으로 하는 새로운 엔터프라이즈 시스템의 개발이 가속화되고 있다. 웹2.0과 시맨틱 웹은 경계가 분명한 경쟁기술이 아니라, 그림2처럼 차세대 웹 기술 발전 추세에서 보는 바와 같이 차세대 웹을 향한 진행 과정의 기술로 가까운 시일 내에 서로를 감싸게 될 것이다.
+
+
+== 같이 보기 ==
+RDF
+메타데이터
+온톨로지
+에이전트
+
+
+== 주석 ==
+↑ W3C, 2007
+
+
+== 참고 문헌 및 외부 링크 ==
+Tim Berners-Lee, James Hendler, Ora Lassila The Semantic Web, Scientific American, May 2001
+Nigel Shadbolt, Wendy Hall, Tim Berners-Lee, The Semantic Web Revisited, IEEE Intelligent Systems, 2007
+Semantic Web Best Practices and Deployment Working Group
+James Hendler, Ora Lassila, SemWeb@5: Current Status and Future Promise of the Semantic Web, Semantic Technology Conference, March, 2006
+Anupriya Ankolekar et al, The TwoCultures: Mashing up Web 2.0 and the Semantic Web, WWW2007, May, 2007
+Tim Berners-Lee, Wendy Hall, James Hendler, Nigel Shadbolt, Daniel J. Weitzner, Creating a Science of the Web, Science, August, 2006
+Tim Berners-Lee et al, A Framework for Web Science, Foudations and Trends in Web Science, Vol.1, No.1, 2006
+전양승 외, 시맨틱 웹 서비스 기술 연구 동향, 정보과학회지, 2006년 4월
+전종홍 외, 시맨틱웹, TTA Journal, No 107, 2006년, 10월
+Loraine Lawson, Loraine Lawson, http://www.itbusinessedge.com/cm/blogs/lawson/myths-about-semantic-technology-part-i/?cs=33168, 2009
+knol - 시맨틱웹

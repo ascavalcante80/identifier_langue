@@ -1,0 +1,62 @@
+Le volt (symbole : V) est une unité, de force électromotrice et de différence de potentiel (ou tension) et dérivée du SI.
+Ce nom a été donné en hommage à Alessandro Volta, inventeur italien de la pile voltaïque en 1800.
+
+
+== Définition ==
+Il correspond à la différence de potentiel électrique qui existe entre deux points d'un circuit parcouru par un courant constant de 1 ampère lorsque la puissance dissipée entre ces deux points est égale à 1 watt.
+Autrement dit, le volt est la différence de potentiel électrique qui accélère une charge électrique de 1 coulomb en lui donnant une énergie de 1 joule,. Il en résulte que le volt est ce qui déplace une charge de 1 coulomb avec une force de 1 newton sur une longueur de 1 mètre.
+
+Il peut être défini à partir des unités de base du système international, dont il est une des unités dérivées :
+
+avec :
+W : watt ;
+A : ampère ;
+J : joule ;
+N : newton ;
+m : mètre ;
+s : seconde ;
+kg : kilogramme ;
+C : coulomb.
+
+
+=== Note typographique ===
+Selon la norme du Système international d'unités, tous les noms d'unités sont des noms communs et s'écrivent donc en minuscules ; le symbole associé est en minuscules, sauf quand le nom de l'unité provient d'un nom de personne, auquel cas le symbole commence par une majuscule (d'où : « volt », nom commun écrit en minuscules ; mais comme ce nom dérive de celui d'Alessandro Volta, le symbole est « V » majuscule).
+
+
+== Histoire et définition ==
+
+En 1800, Alessandro Volta développe ce qu'on appelle la pile voltaïque, un précurseur de la pile alcaline, qui produit une tension électrique continue. Volta a déterminé que la meilleure paire de différents métaux pour produire de l'électricité est une paire de zinc et d'argent. Dans les années 1880, le Congrès international d'électricité, actuellement la Commission électrotechnique internationale (CEI), a approuvé le volt comme unité de force électromotrice. Dans le même temps, la tension fut définie comme « la différence de potentiel à travers un conducteur quand un courant d'un ampère dissipe une puissance d'un watt ».
+
+
+== Comparaison avec l'hydraulique ==
+Le volt est l'unité de différence de potentiel et de tension.
+L'analogie avec l'hydraulique est souvent utilisée pour expliquer la tension et l'intensité dans les circuits électriques ; ils sont comparés à des tuyaux remplis d'eau. Pour avoir une meilleure image de ce qu'est la pression de l'eau, on peut imaginer de l'eau sortant d'un robinet, d'un tuyau d'arrosage ou une chute d'eau causée par un barrage : plus la pression est élevée et plus l'eau qui sort du tuyau a un débit élevé.
+La pression correspond d'après cette analogie à la tension électrique. Dans un circuit, la tension s'explique par la différence de potentiel entre les deux pôles électriques, c'est-à-dire par un surplus de charges négatives. Cette différence crée un champ électrique qui entraîne le déplacement des charges jusqu'à ce que celles-ci se soient équilibrées des deux côtés.
+
+
+== Tensions nominales courantes ==
+Les tensions nominales de différentes sources :
+potentiel d'action de la cellule nerveuse : autour de 75 mV ;
+accumulateur au NiMH ou au NiCd : 1,2 V ;
+pile au mercure : 1,355 V ;
+pile alcaline non rechargeable (c'est-à-dire piles AAA, AA, C et D) : 1,5 V ;
+accumulateur lithium : 3,75 V par élément ;
+alimentation des circuits de logique à transistors couplés (circuit TTL) : 5 V ;
+pile PP3 : 9 V ;
+système électrique d'une automobile : 12 V ;
+prises murales standard (tension alternative) :
+100 V au Japon,
+120 V en Amérique du Nord,
+230 V en Afrique, Asie et Europe,
+240 V en Australie ;
+
+circulation du TGV: 25 kV (25 000 V) (tension alternative) ;
+réseaux de distribution :
+basse tension : de 100 à 750 V (tension alternative),
+moyenne tension : jusqu'à 33 kV (tension alternative) ;
+
+réseaux de distribution (moyenne tension) : de 1 à 25 kV (tension alternative) ;
+réseaux de répartition (haute tension) : de 33 à 150 kV (tension alternative) ;
+réseaux de transports (haute tension) : de 150 à 1 200 kV (tension alternative) et jusqu'à 900 kV (tension continue) ;
+foudre : très variable, généralement aux alentours de 100 MV.
+Dans tous les réseaux électriques, du fait de la résistance de chaque matériau qui les composent, en particulier des conducteurs, il existe une chute de tension proportionnelle à la longueur des câbles. Les lignes à haute tension permettent de réduire relativement les pertes. Lesquelles sont principalement dues à l'effet Joule (chaleur dissipée) et sont proportionnelles au produit de la résistance par le carré de l'intensité (P = RI2) ; la puissance acheminée étant 

@@ -1,0 +1,21 @@
+O módulo de Young ou módulo de elasticidade é um parâmetro mecânico que proporciona uma medida da rigidez de um material sólido. É um parâmetro fundamental para a engenharia e aplicação de materiais pois está associado com a descrição de várias outras propriedades mecânicas, como por exemplo, a tensão de escoamento, a tensão de ruptura, a variação de temperatura crítica para a propagação de trincas sob a ação de choque térmico, etc.  
+É uma propriedade intrínseca dos materiais, dependente da composição química, microestrutura e defeitos (poros e trincas), que pode ser obtida da razão entre a tensão exercida e a deformação sofrida pelo material. Tensão corresponde a uma força ou carga, por unidade de área, aplicada sobre um material, e deformação é a mudança nas dimensões, por unidade da dimensão original. Assim, o módulo de Young é dado por:
+
+em que:
+ é o módulo de elasticidade ou módulo de young, medido em unidades de pressão (pascal  ou  ou ). As unidades praticadas são megapascal (MPa ou ) ou gigapascal (GPa ou )
+
+ é tensão aplicada, medida em pascal (),
+ é a deformação elástica longitudinal do corpo de prova (adimensional).
+ou
+ = 
+onde
+ é a força, medida em newton.
+ é a área da secção através da qual é exercida a tensão, e mede-se em metros quadrados.
+ é a variação do comprimento, medido em metros.
+ é o comprimento inicial, medido em metros.
+
+Para a maioria dos metais, este módulo varia entre 45 GPa, para o magnésio, até 400 GPa, para o tungstênio. Os polímeros geralmente possuem módulo de elasticidade bem mais baixos, variando entre 0,002 e 4,8 GPa.
+A diferença na magnitude do módulo de elasticidade dos metais, cerâmicas e polímeros é consequência dos diferentes tipos de ligação atômica existentes neste três tipos de materiais. Além disso, com o aumento da temperatura, o módulo de elasticidade diminui para praticamente todos os materiais, com exceção de alguns elastômeros.
+Os valores dos módulos de elasticidade de diferentes classes de materiais podem ser encontrados em livros e sites que abordam o assunto (Ver item Ligações externas).
+Outras propriedades elásticas importantes são: módulo de cisalhamento (), módulo volumétrico () e coeficiente de Poisson ( ). Os métodos de caracterização podem ser por meio de ensaio destrutivo (em que o corpo de prova fica inutilizado após a realização) ou ensaio não destrutivo (sem qualquer dano, podendo o material ser reutilizado normalmente).
+Nos ensaios destrutivos, também chamados de quase-estáticos, a carga, que pode ser estática ou se alterar lentamente ao longo do tempo, é aplicada uniformemente sobre uma secção reta ou superfície de um corpo, e a deformação é medida e relacionada ao módulo elástico que pode ser o módulo de Young ou o módulo de 

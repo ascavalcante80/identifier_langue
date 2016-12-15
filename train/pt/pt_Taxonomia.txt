@@ -1,0 +1,63 @@
+Taxonomia (do grego antigo τάξις táxis, arranjo e nomia νομία, método) é a disciplina acadêmica que define os grupos de organismos biológicos, com base em características comuns e dá nomes a esses grupos. Para cada grupo é dado uma nota e os grupos podem ser agregados para formar um super grupo de maior pontuação, criando uma classificação hierárquica.  Os grupos criados por este processo são referidos como taxa (singular táxon). Um exemplo da classificação moderna foi publicado em 2009 pelo Angiosperm Phylogeny Group para todas as famílias de plantas com flores vivas (Sistema APG III).
+
+
+== Definições ==
+A definição exata de taxonomia varia ligeiramente de fonte para fonte, mas o núcleo da disciplina permanece: a concepção, nomeação e classificação dos grupos de organismos. Nas referências, três definições são encontradas nos livros didáticos. Veja, abaixo:
+Teoria e prática de agrupamento de indivíduos em espécies, organizando as espécies em grupos maiores e dando os nomes aos grupos, produzindo assim uma classificação;
+Um campo da ciência (e principal componente da sistemática) que engloba identificação, descrição, nomenclatura e classificação;
+A ciência da classificação, em biologia, o arranjo dos organismos em uma classificação.
+
+
+== Aplicação ==
+Taxonomia é uma sub-disciplina de biologia e geralmente é praticada por biólogos conhecidos como taxonomistas, embora naturalistas entusiastas frequentemente se envolvem em publicações de novos taxa. O trabalho realizado pelos taxonomistas é crucial para a compreensão da biologia em geral. Dois campos de biologia aplicada em que o trabalho taxonômico é de fundamental importância é o estudo da biodiversidade e conservação. Sem uma taxonomia dos organismos em uma determinada área, estimar a quantidade da diversidade presente não é realista. Como a conservação tornou-se cada vez mais politicamente importante, o trabalho taxonômico impacta não só na comunidade científica, mas na totalidade da sociedade.
+
+
+== Descrições taxonômicas ==
+
+O táxon é definido por sua descrição. Não existem regras fixas que regem a definição dos taxa, mas a nomeação e publicação de novos taxa é regido por um conjunto de regras. Em zoologia, a nomenclatura mais comumente utilizados (superfamília a subespécie), é regulada pelo Código Internacional de Nomenclatura Zoológica. Nas áreas de botânica, Ficologia e micologia, a nomeação dos taxa é regido pelo Código Internacional de Nomenclatura Botânica.
+A descrição inicial de um táxon envolve cinco requisitos principais:
+O táxon deve receber um nome com base nas 26 letras do alfabeto latino (um binômio das novas espécies ou uninomial para outros patentes).
+O nome deve ser único (não pode ter um homônimo).
+A descrição deve basear-se em pelo menos um Espécie-tipo.
+Ela deve incluir referências e atributos que tornem o táxon único.
+Estes quatro primeiros requisitos devem ser publicados em uma obra em que haja um grande numero de cópias idênticas, como um registro científico permanente.
+Muitas vezes também são incluídas mais informações, como a distribuição geográfica do táxon, notas ecológicas, química, comportamento, etc. Os pesquisadores podem chegar a vários taxa, dependendo dos dados disponíveis e os recursos, os métodos variam de simples comparações quantitativa ou qualitativa de características marcantes, análises com computadores das grandes quantidades de dados de sequência de DNA.
+
+
+== Classificação dos organismos ==
+A classificação biológica é um passo crítico no processo taxonômico, pois informa hipoteticamente quais são os parentes do taxon. Embora a disciplina de taxonomia em si não lida com as investigações de como os taxa estão relacionados uns com os outros, ela serve para comunicar estes resultados. Para isso, ela classifica em ordens taxonômicas (em ordem do maior para o menor): Domínio, Reino, Filo, Classe, Ordem, Família, Gênero e Espécie.
+
+
+=== Filogenética ===
+
+O sistema de classificação biológica permanece praticamente inalterado em sua estrutura desde 1753. Mas, a maneira como as relações entre estes táxons são investigadas mudou drasticamente nas últimas décadas. Agora, é comum os biólogos elaborarem a classificação com base nos resultados de análises filogenéticas usando dados de sequência de DNA. Como resultado, a filogenética tem impacto direto sobre as classificações taxonômicas, mesmo que não seja parte da taxonomia. Atualmente a filogenética passou a ser considerada fundamental para a moderna sistemática, embora sua utilização para a descrição de novos táxons e para o posicionamento dentro de um esquema de classificação existente não seja obrigatória. Desde seu advento, os taxonomistas estão empenhados em revisar as propostas de classificações pré existentes de modo a atender a filogenia. Frequentemente relações insuspeitas entre seres ou grupos de seres são descobertas conduzindo a grandes revisões nas classificações. Tem sido muito útil também para esclarecer o mais correto posicionamento de espécies e gêneros cuja morfologia tornava difícil uma decisão sobre sua melhor classificação.
+
+
+=== Taxonomia numérica ===
+Em taxonomia numérica, a taxonomia é exclusivamente com base na análise de Clustering e "união de vizinho" para melhor ajustar as equações numéricas que caracterizam traços mensuráveis ​​de uma série de organismos. É o resultado de uma medida de "distância" evolutiva entre as espécies. O uso deste método tornou-se raro nos tempos modernos, tendo sido em grande parte substituída pela análises cladísticas, pois a taxonomia numérica é sensível a serem enganados por traços de Plesiomorfia.
+
+
+== História da taxonomia ==
+
+
+=== Primeiros taxonomistas ===
+Taxonomia tem sido chamado de "profissão mais antiga do mundo", pois nomear e classificar nossos arredores foi provavelmente uma das primeiras coisas que a humanidade fez para poder se comunicar. Foram importantes para saber os nomes das plantas e animais venenosos e comestíveis, para comunicar essas informações para os outros membros da família ou grupo.
+No Oriente, um dos primeiros registros de farmacopeias foi escrito por Shen Nung, imperador da China (c. 3000 aC). Ele queria divulgar informações relacionadas com a agricultura e medicina, e diz-se ter provado centenas de plantas com o objetivo de aprender o seu valor medicinal. Registros são difíceis de interpretar depois de algum tempo, mas ilustrações de plantas medicinais aparecem em pinturas egípcias de c. 1500 aC. As pinturas mostram claramente que essas sociedades valorizavam e comunicavam o uso de diferentes espécies e tinham uma taxonomia básica.
+
+
+=== De Aristóteles até Plínio ===
+Registros históricos mostram que a classificação dos organismos informalmente ocorreu nos tempos de Aristóteles (Grécia, 384-322 aC) , que foi o primeiro a começar a classificar todas as coisas vivas. Alguns termos que ele deu para os animais, como os invertebrados e vertebrados ainda são comumente usados. Seu aluno Teofrasto (Grécia, 370-285 aC) continuou esta tradição e escreveu uma classificação de 480 plantas chamado Historia Plantarum. Vários grupos de plantas reconhecidas atualmente ainda pode ser rastreada até Teofrasto, como Cornus, Açafrão e Narciso. O próximo grande ressurgimento de taxonomistas chegou com Plínio, o Velho (Roma, 23-79 dC). Elaborou 160 volumes do trabalho Naturalis Historia, descreveu muitas plantas e deu muitos nomes latinos com nomenclatura binomial.
+
+
+=== Taxonomistas Pré-Linnaeus ===
+
+Não foi 1500 anos depois que as obras taxonômicas se tornaram suficientemente ambiciosas para substituir os textos antigos. Isso é muitas vezes creditado ao desenvolvimento das sofisticadas lentes ópticas, o que permitiu o estudo da morfologia dos organismos com muito mais detalhes. Um dos primeiros autores a tirar vantagem deste salto tecnológico foi Andrea Cesalpino (Itália, 1519-1603), que é muitas vezes é referido como "o primeiro taxonomista". Sua grande obra De Plantis saiu em 1583 e descreveu mais de 1.500 espécies de plantas. Duas grandes famílias de plantas que ele primeiro reconheceu ainda estão em uso hoje: o Asteraceae e Brassicaceae. Em seguida, no século XVII, John Ray (Inglaterra, 1627-1705) escreveu muitas obras taxonômicas importantes. Indiscutivelmente a sua maior realização foi Methodus Plantarum Nova (1682), onde publicou mais de 18.000 espécies de plantas. Na época suas classificações foram, a mais complexa produzida por um taxonomista, pois ele baseou seus táxons em muitos caracteres combinados. Os próximos trabalhos taxonômicos importantes foram produzidos por Joseph Pitton de Tournefort (França, 1656-1708). Seu trabalho, a partir de 1700, Institutiones Rei Herbariae, incluiu mais de 9.000 espécies em 698 gêneros, isso influenciou diretamente Carl Linnaeus, pois era o texto que ele usou quando era um jovem estudante.
+
+
+=== A era Linnaeus ===
+O botânico sueco Carl Linnaeus (1707-1778) marcou o início de uma nova era na taxonomia. Com suas principais obras Systema Naturae (primeira edição) em 1735, Species Plantarum em 1753, e Systema Naturae (Edição 10) , ele revolucionou a taxonomia moderna. Suas obras implementaram um sistema de nomenclatura binomial padronizado para espécies animais e vegetais, o que provou ser uma solução elegante para uma literatura taxonômica caótico e desorganizado. O sistema de Linnaeus nasceu e ainda hoje é usado essencialmente da mesma maneira que no século XVIII. Atualmente, os taxonomistas de plantas e animais considerar o trabalho de Linnaeus como o "ponto de partida" para nomes válidos (em 1753 e 1758, respectivamente). Os nomes publicados antes destas datas são referidos como "pré-Linnaeus" e não são considerado válidos (com a excepção das aranhas publicados em Svenska Spindlar). Até mesmo nomes taxonômicos publicados por Carl Linnaeus antes destas datas são consideradas pré-Linnaeus.
+
+
+== Nomes válidos x nomes aceitos ==
+Como vimos acima, existem regras claras para a publicação de novas espécies, gêneros, etc. Quando um novo nome é publicado e atende a todas as regras, é um nome válido, ou seja, validamente publicado. No entanto isto não implica que seja um nome automaticamente aceito. A não aceitação de um nome pode acontecer e é bastante frequente. Na realidade, apesar de desconhecermos uma estatística oficial, provavelmente mais da metade dos nomes válidos não são considerados aceitos, e há muitos casos em que não há consenso sobre o nome aceito. Isto ocorre por diversas razões.
+Naturalmente, quando as atuais regras taxonômicas começaram a ser utilizadas, as comunicações eram bastante demoradas. Uma época muito diferente de hoje em que alguém publica uma nova espécie e em poucos minutos esta informação pode ser incluída nos grandes bancos de dados da internet. Naquela época meses ou mesmo anos se passavam antes que fosse possível saber se alguma espécie já havia sido publicada por alguém em outra parte do mundo. Deste modo muitas espécies foram descritas diversas vezes com nomes diferentes. Pelas regras, vale apenas o nome mais antigo, o primeiro a ser publicado, e os pos

@@ -1,0 +1,17 @@
+A világháló (angol eredetiben World Wide Web, WWW vagy röviden Web) az interneten működő, egymással úgynevezett hiperlinkekkel összekötött dokumentumok rendszere. A rendszert webböngésző program segítségével lehet elérni. Ez a program képes megjeleníteni az egyes dokumentumokat, „weblapokat”. A felhasználó a lapokon található hiperlinkek segítségével további lapokat kérhet le, amelyeken újabb hiperlinkek lehetnek. A rendszer „háló”-jellegét is ez adja; a dokumentumok a háló csomópontjai, míg a hiperlinkek a háló szálai, amelyeken keresztül egy vagy több lépésben tetszőleges csomóponthoz eljuthatunk.
+
+
+== Történet ==
+A Web alapelveit Tim Berners-Lee, a CERN részecskefizikai kutatóközpont munkatársa dolgozta ki 1989-ben. Eredeti célja a különböző intézményekben világszerte dolgozó kutatók közötti automatizált információmegosztás volt. Az alapötlet egy globális információs hálózat létrehozása volt a számítógépek, a számítógépes hálózat és a hipertext képességeinek ötvözésével.
+A világháló több szempontból eltér az akkori hipertextes rendszerektől:
+A WWW-ben megengedett az egyirányú link, nem kell kétirányú. Ez lehetővé teszi, hogy valakinek az anyagára hivatkozzunk, anélkül, hogy az illetőt felkeresnénk.
+A WWW nem volt szabadalmazott, bizonyos alkalmazásokkal szemben, mint például a HyperCard és a Gopher. Ez lehetővé tette, hogy függetlenül fejlesszék a szervereket és a klienseket, és licenc megkötések nélkül bővítsék kiterjesztésekkel.
+1993. április 30-án a CERN bejelentette, hogy a Világháló mindenki számára szabad és ingyenes.
+Még ugyanebben az évben elindult az első magyarországi WWW-szerver, a www.fsz.bme.hu.
+
+
+== A három szabvány ==
+A Világháló három szabványra épül:
+A Uniform Resource Locator (URL), leírja, milyen egyedi „címmel” kell rendelkeznie az egyes oldalaknak;
+A hipertext átviteli protokoll (Hyper Text Transfer Protocol, HTTP), megadja, hogyan küld egymásnak információt a böngésző és a kiszolgáló, és a
+hipertext leíró nyelv (Hyper Text Markup Language, HTML), a

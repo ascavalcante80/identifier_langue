@@ -1,0 +1,8 @@
+Apsolutna magnituda je magnituda u astronomiji pomoću koje se standardizuje jačina sjaja nekog nebeskog tijela. Ona je definisana kao onaj sjaj koji ima npr. zvijezda na odstojanju 10 parseka (32,6 svjetlosne godine) od Zemlje.  Na ovaj način porede se međusobno objekti po magnitudi.
+
+
+== Proračun ==
+Apsolutna magnituda ustanovljava se proračunom, potrebna je udaljenost (parsek) od Zemlje i prividna magnituda. 
+Uz korištenje logaritma za bazu 10 su:
+d = udaljenost (parsek)
+m = pri

@@ -1,0 +1,78 @@
+XHTML (zkratka anglického extensible hypertext markup language – „rozšiřitelný hypertextový značkovací jazyk“) je značkovací jazyk pro tvorbu hypertextových dokumentů v prostředí WWW vyvinutý W3C. Původně se předpokládalo, že se stane nástupcem jazyka HTML, jehož vývoj byl verzí 4.01 ukončen. V roce 2007 však došlo k založení pracovní skupiny, která má za cíl vytvořit novou verzi HTML, která ponese označení HTML 5 a její XML variantu XHTML 5.
+
+
+== Verze ==
+
+
+=== XHTML 1.0 ===
+W3C doporučení z 26. ledna 2000 revidovaný 1. srpna 2002.
+První specifikace, jejímž cílem bylo převedení staršího jazyka HTML tak, aby vyhovoval podmínkám tvorby XML dokumentů a přitom byla zachována zpětná kompatibilita.
+Existuje ve třech verzích: Strict, Transitional a Frameset.
+XHTML 1.0 Strict se používá, pokud chcete strukturovaný dokument osvobozený od formátovacích značek souvisejících s rozvržením stránky. Předpokládá se jeho užití společně s CSS, které vám umožní dosáhnout potřebných grafických efektů. Nicméně i tato verze obsahuje formátovací elementy, například <b> nebo <i> a naopak zavrhuje některé sémantické elementy, například <menu>.
+XHTML 1.0 Transitional je přechodným DTD pro webové stránky, který vám umožní používat překonané tagy. Je vhodný pro formátování stránek vytvářených pro staré prohlížeče, které nerozumí kaskádovým stylům CSS nebo chcete-li používat ve svých dokumentech některé zavržené, ale sémantické elementy, například již zmíněné <menu>.
+XHTML 1.0 Frameset vám umožňuje používat zastaralé značky jako XHTML 1.0 Transitional a přidává podporu pro rámce. V dnešní době by se mělo rámům vyhýbat použitím CSS, AJAXu nebo serverových skriptů jako například PHP.
+
+Přehlednou tabulku lze najít na stránkách W3C. V kolonce „DTD“ lze vyčíst, ve které verzi XHTML se element vyskytuje (nic = Strict, L = Transitional, F = Frameset).
+
+
+=== Modularizace XHTML ===
+Dalším krokem ve vývoji XHTML byla modularizace s cílem dosáhnutí vyšší flexibility napříč uživatelskými agenty (WWW prohlížeče, mobilní zařízení, tiskárny, čtečky apod.).
+Doporučení vyšlo 8. října 2008.
+
+
+=== XHTML Basic 1.1 ===
+W3C pracovní koncept z 29. července 2008.
+Příklad minimální sady modulů potřebné k vytvoření XHTML dokumentu, která je cílená na mobilní aplikace.
+
+
+=== XHTML Mobile Profile ===
+XHTML Mobile Profile – někdy taky XHTML MP je postaveno na základě XHTML Basic a je určeno pro použití v mobilních telefonech. Někdy je také označováno jako WAP 2.0. XHTML MP podporuje na rozdíl od WAP 1.0 a WAP 1.1 barvu a barevné obrázky ve formátech GIF, JPEG a PNG.
+
+
+=== XHTML 1.1 – modulově založené XHTML ===
+W3C doporučení ze 31. května 2001.
+Příklad rozsáhlé sady modulů pro komplexnější tvorbu XHTML dokumentů.
+Vynechává již prakticky všechny prezentační vlastnosti.
+Je velice podobné XHTML 1.0 Strict, ale na rozdíl od něj může vzhledem ke své modularizaci sloužit jako základ budoucím rozšířeným dokumentům z rodiny XHTML.
+Je výslovně zakázáno odesílat takto zformátovaný dokument s MIME typem text/html, ale je nutno ho odesílat s MIME typem application/xhtml+xml. Tohoto lze docílit několika způsoby:
+pojmenování souboru *.xhtml;
+odesláním MIME typu s hlavičkou pomocí HTTP;
+atd.
+
+
+=== XHTML-Print ===
+Vývojové stádium Candidate Recommendation. Poslední doporučení vyšlo 20. září 2006.
+Zaměření na tiskový výstup.
+
+
+=== XHTML 2.0 ===
+Vývojové stádium Working Draft. Poslední pracovní návrh vyšel 26. července 2006.
+Není zamýšleno tak, aby bylo zpětně kompatibilní se svými předchůdci.
+Vývoj XHTML2 byl ukončen na konci roku 2009 
+
+
+=== XHTML 5 ===
+Součástí specifikace HTML 5, vývojové stádium Working Draft.
+Oproti předchozím verzím obsahuje řadu rozšíření (značky pro audio, video, možnost tvorby offline webových aplikací a další).
+Poslední pracovní návrh vyšel 25. srpna 2009.. Dev verze pak vyšla 21. prosince 2009.
+
+
+== Rozdíly XHTML oproti HTML ==
+V XHTML na rozdíl od HTML musí být všechny tagy ukončené a to včetně nepárových jako jsou <meta>, <link>, <br>, <hr> nebo <img>. Zápis může mít více podob. Buď použijeme klasické (a validní) <img></img> nebo zkrácené <img/> nebo mírně upravené <img />. První způsob se nedoporučuje používat, zasíláme-li XHTML dokument s typem text/html. Druhý způsob, bez mezery, se nedoporučuje používat kvůli postarším prohlížečům, které by v takovém případě mohly vynechat poslední atribut, je-li nějaký uvedený.
+V XHTML na rozdíl od HTML musí být všechny tagy a jejich atributy zapsány malými písmeny a to z toho důvodu, že jsou takto deklarované v odkazované DTD a X(HT)ML je case sensitive, tedy záleží na velikosti písem. Pokud bychom si deklarovali vlastní DTD, můžeme směle používat i velká písmena.
+Všechny hodnoty atributů musí být uzavřeny do uvozovek;
+Dokument musí začínat XML deklarací. Její použití není povinné, pokud je dokument kódován v UTF-8 nebo pokud určujeme kódování vyšší protokolem (http například);
+Pokud potřebujeme pracovat s rámy, můžeme deklarovat XHTML 1.0 Frameset a pro jednotlivé stránky XHTML 1.0 Transitional.
+XHTML dokument bychom měli zasílat s jiným MIME typem než klasické HTML dokumenty.
+Další rozdíly již nejsou natolik důležité a časté 
+
+
+=== XHTML MIME typ ===
+Klasické HTML stránky se zasílaly s MIME typem text/html, který prohlížečům řekl, aby tento typ dokumentu zpracovaly jako HTML stránku. Je to podobné jako přípony (.jpg, .exe …) ve Windows. XHTML má však odlišná pravidla na zpracování dokumentu, proto bychom měli zasílat XHTML dokumenty s MIME typem application/xhtml+xml, které prohlížečům poví, že mají tu čest s XHTML dokumentem. V praxi se změna MIME typu může provádět v zásadě třemi způsoby:
+Změnou přípony souborů na .xhtml. Většina serverů je nakonfigurována tak, aby soubory s touto koncovkou poslaly prohlížečům s typem application/xhtml+xml.
+Zasláním požadované http hlavičky, například pomocí php či jiného serverového jazyku.
+Pomocí souboru .htaccess můžeme změnit výchozí MIME typ pro jakoukoliv koncovku. Můžeme například nastavit, aby server posílal soubory s koncovkou .jemihorko s MIME typem application/xhtml+xml.
+Ovšem při zasílání XHTML dokumentů s tímto typem je třeba počítat s jistými problémy:
+Při jakékoliv syntaktické chybě vůči správné sestavenosti musí prohlížeč zobrazit chybové hlášení a nepokračovat dále ve vykreslování stránky. Takže stačí jediná chyba programátora, ne úplně dotažená stránka (např. když je přetížený server) nebo když uživatel používá nevhodný akcelerátor stahování a uživatel ze stránky nic neuvidí. Prohlížeč však přitom nekontroluje validitu – validita není nezbytná podmínka pro zobrazení.
+Stránka se v některých prohlížečích zobrazí až po úplném načtením stránky, což je způsobeno předchozím bodem – prohlížeč musí nejprve zkontrolovat, zda je dokument správně sestavený a až poté jej může začíst vykreslovat. Nicméně se od tohoto v novějších verzí prohlížečů ustupuje a zpracování stránky je průběžné.
+MIME typu application/xhtml+xml nerozumí jisté (velké) procento interpretů . Mezi nejzásadnější patří Internet Explorer, až do své verze 8. Dále pak různé hlasové čtečky a

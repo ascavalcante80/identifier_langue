@@ -1,0 +1,84 @@
+Wikivoyage is a free web-based travel guide for travel destinations and travel topics written by volunteer authors. It is a sister project of Wikipedia and supported and hosted by the same non-profit Wikimedia Foundation. Wikivoyage has been called the "Wikipedia of travel guides".
+The project was started when editors at the German and then Italian versions of Wikitravel decided in September 2006 to move their editing activities and then current content to a new site, in accordance with the site license, a procedure known as "forking". The resulting site went live as "Wikivoyage" on December 10, 2006 and was owned and operated by a German association set up for that purpose, Wikivoyage e.V. (which continues to be its representative association). Content was published under the copyleft license Creative Commons Attribution-ShareAlike.
+In 2012, following a lengthy history of dissatisfaction with their existing host, the English-language version community of Wikitravel also decided as a community to fork their project. In a two-way move, the English Wikitravel community re-merged with Wikivoyage under the Wikivoyage brand, and also all Wikivoyage language versions moved their operations to be hosted by the Wikimedia Foundation (WMF), a non-profit organization hosting several of the world's largest wiki-based communities such as Wikipedia. Following agreements by the various communities involved and the Wikimedia Foundation, the site was moved to the WMF servers in December 2012 and the whole of Wikivoyage was officially re-launched as a Wikimedia project on January 15, 2013, the day of the 12th anniversary of Wikipedia's launch.
+
+
+== Description ==
+Using a wiki model, Wikivoyage is built through collaboration of Wikivoyagers from around the globe. Articles can cover different levels of geographic specificity, from continents to districts of a city. These are logically connected in a hierarchy, by specifying that the location covered in one article "is within" the larger location described by another. The project also includes articles on travel-related topics, phrasebooks for travelers, and suggested itineraries.
+Wikivoyage is a multilingual project available in nine languages, with each language-specific project developed independently. While now a Wikimedia project, it was begun independently. Wikivoyage content is broadly categorized as: destinations, itineraries, phrasebooks, and travel topics.
+
+
+=== Destinations ===
+Geographical units within the geographical hierarchy may be described in articles, based on the criterion, "can you sleep there?"
+The hierarchy includes:
+Continents
+Continental sections (like Southeast Asia)
+Countries
+Regions within countries (provinces, counties, states, groups of states etc.)
+Cities of any size, including fairly small villages if they are tourist destinations
+Districts within large cities
+National parks provided they have accommodation for the traveller
+Attractions such as hotels, restaurants, bars, stores, nightclubs, tour operators, museums, statues or other works of art, city parks, town squares or streets, festivals or events, transport systems or stations, bodies of water, and uninhabited islands are listed in the article for the place within which they are located.
+
+
+=== Itineraries ===
+An itinerary describes a group of destinations according to a temporal division rather than a spatial one and will list destinations and attractions to visit during a given amount of time, with recommended durations of stay and routes to follow. Itineraries may cross geographical regions, but usually have a well-defined path.
+
+
+=== Phrasebooks ===
+A phrasebook comprises:
+An overview of the language, giving a brief history, scope (where it is spoken, how many speakers), alphabet or symbol set, and any other general info on the language.
+A pronunciation guide, with a description of each written symbol in the language (that is, its alphabet), and a pronunciation note for each symbol.
+A phrase list. Each entry in the phrase list includes the word or phrase being translated, the spelling in the local language symbol set as it would be seen written down, and a pronunciation cue.
+
+
+=== Travel topics ===
+Travel topics are articles that deal with a specific topic of interest to travelers that is too large or detailed to go in a specific travel guide destination page; travel tips that are so general that they apply to nearly all destinations and do not need to be in each specific travel guide; major events that occur in different places; and specialist travel information, such as regional guides to scuba-diving sites.
+
+
+== Organization and operation ==
+
+
+=== Mode of operation ===
+Wikivoyage uses the free MediaWiki software (developed for Wikipedia) to allow internet-based editing without requiring registration. Quality assurance occurs in the same way as on Wikipedia: through reciprocal control by editors. The use of the same software is intended to facilitate familiarization with Wikivoyage.
+
+
+=== License ===
+Wikivoyage uses the Creative Commons Attribution-ShareAlike license, but not the GNU free documentation license. This is intended to facilitate the production of printed guides from a legal point of view. Media files are intended to be published either in the public domain or under multiple licenses (GNU, Creative Commons).
+
+
+=== Information structure ===
+The information is built up in a more structured way than usual for encyclopaedias. Articles belonging to a topic are grouped by the categories known from the Mediawiki software as well as through the so-called bread crumb trails which show the geographical connection between the articles.
+In the German-language version, different name spaces are used to separate different topics. The main name space contains travel destinations within their geographical hierarchy. Two other important name spaces are reserved for travel topics and travel news, with the intent to allow a tight interconnection between travel destinations and topics.
+The content design is decided by consensus of the community of authors.
+
+
+=== Languages ===
+At the time of transfer to WMF, the content of Wikivoyage was available in German, Italian, English, French, Dutch, Russian, and Swedish languages. The Russian language project is named Викигид (which translates roughly as "wiki guide").
+On January 3, 2013, Portuguese and Spanish versions were created. In March 2013, Polish and Romanian versions followed. In April 2013, Hebrew and Ukrainian versions were added, followed in May 2013 by Greek, the Vietnamese version in August 2013 and the Chinese version on January 2014.
+Statistics at 00:00, 13 December 2014 (UTC)
+
+
+=== Grand Total ===
+
+
+=== Distribution ===
+The choice of the Creative Commons Attribution-ShareAlike license is intended to allow simplified distribution by mention of the authors, without the need to state the complete license text.
+Creative Commons Attribution-ShareAlike allows distribution through mirrors or by other means of modern media. Up-to-date archives are provided on a weekly basis. The files contained in these archives are provided with all the necessary legal licensing information, e.g. the attribution of the authors.
+
+
+== History ==
+
+The name is a portmanteau of the words "Wiki" (an Internet-based software system that allows change and extension of the text by any user) and "voyage", meaning travel, journey, or trip. It was retained after extensive voting amongst established editors to decide on the post re-launch name.
+
+
+=== Launch ===
+Many Wikivoyage authors and administrators started by working on Wikitravel, which launched its German version on October 7, 2004. On April 20, 2006, Wikitravel was acquired by the for-profit Internet Brands, an operator of media and e-commerce sites. Discontent increased in response to the management style of the new owners, and this led to the decision by most German administrators and authors to continue the project as a fork.
+After about six months of preparation, the non-profit association Wikivoyage e.V. was founded and registered, as both the owner of the domain names and operator of the servers. On December 10, 2006, the project went live online with the initial data from the German-language Wikitravel. After seven months, 40% of the articles were new, rising to 50% after 10 months. At this stage there were still major gaps in the coverage, but there were several articles for travel destinations like Egypt, Thailand and Switzerland and for the travel topic "cycling".
+The Italian branch of Wikivoyage was launched on December 10, 2007. The organization of media data and the administration of user access were already applicable for use in branches in other languages.
+The project garnered some press reports, particularly by Swiss radio and newspapers. The Tages-Anzeiger from Zurich and the Swiss radio station DRS1 reported broadly on the project and discussed its weaknesses. The project was mainly supported by German and Swiss authors.
+
+
+=== Additional languages and migration ===
+In 2012, after a lengthy history of dissatisfaction with Wikitravel's host and owner, Internet Brands, it was proposed that the community at Wikitravel fork their work from Wikitravel and Wikitravel Shared and – together with the existing sites at Wikivoyage – merge to create a new travel wiki hosted by the Wikimedia Foundation, the steward of Wikipedia and a large range of other non-profit reference sites based upon a wiki community culture. After lengthy discussion by users of all three communities, comments by their respective hosts, and confirmation by the Wikimedia Foundation that it would host a travel project if users wished, nearly all administrators and bureaucrats at Wikitravel decided to fork their existing work to Wikivoyage.
+The contents of Wikitravel in all languages and its related Commons-equivalent site (for images, video, and other media files) were downloaded on August 2, 2012 as a "database dump" in preparation for such a migration. This content became the starting point for all languages excluding German and Italian, which were already hosted by Wikivoyage. Forking is a normal or anticipat

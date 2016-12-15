@@ -1,0 +1,21 @@
+ polovičnímu úhlu smyku mezi druhou a třetí souřadnicovou osou.
+
+
+=== Objemová a tvarová deformace ===
+Uvažujme v diferenciálním okolí bodu, ve kterém známe složky , kvádr, jehož hrany mají před deformací délky , přičemž tyto hrany jsou rovnoběžné se směry hlavních os deformace. Daný kvádr zůstane kvádrem i po deformaci (za předpokladu malých deformací), pouze dojde ke změně délek jeho hran na . Při vhodné volbě souřadnicové soustavy, tzn. osy souřadnicové soustavy leží ve směru hlavních os deformace (na jednotlivé stěny kvádru tedy působí pouze čistý tah nebo čistý tlak), platí
+
+pro .
+Po deformaci lze tedy délky hran vyjádřit jako . Pro objem kvádru po deformaci pak při zanedbání veličin vyšších řádů dostáváme
+
+což bývá obvykle zapisováno jako
+,
+kde  je objem tělesa před deformací a  je objem tělesa po deformaci. Stopa  tedy popisuje relativní objemovou změnu, tedy objemovou deformaci. Vzhledem k tomu, že stopa izotropní části  je stejná jako stopa celého tenzoru , odpovídá objemová deformace izotropní části objemové deformaci celého tenzoru deformací. Stopa deviátoru  je nulová, tzn. relativní objemová změna odpovídající deviátoru tenzoru malých deformací je také nulová. Deviátor tedy nezpůsobuje změny objemové, ale pouze změny tvaru, tedy tvarovou deformaci.
+
+
+== Související články ==
+Rotace
+Translace
+Topologické zobrazení
+Rovnice kompatibility deformací
+Rychlost deformace
+Deformační metoda

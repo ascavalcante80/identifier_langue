@@ -1,0 +1,11 @@
+Artık yıl, Gregoryen takviminde (Miladî takvim) 365 yerine 366 günü olan yıl. Bu fazladan gün (artık gün), normalde 28 gün olan şubat ayına 29 Şubat'ın eklenmesi ile elde edilir. Dört yılda bir yapılan bu uygulamanın nedeni Dünya'nın Güneş çevresinde dönme süresinin (astronomik yıl), Güneş'in aynı meridyenden iki kez geçişi arasındaki ortalama zamanın (gün) tam katı olmamasıdır. Bir astronomik yıl yaklaşık olarak 365,242 gün olmasına rağmen normal bir takvim yılı 365 gündür.
+Artık yıl uygulaması ilk olarak MS 46 yılında, Jülyen Takvimi'nde uygulanmıştır.
+
+
+== Artık yılların belirlenmesiDeğiştir ==
+Genel bir kural olarak artık yıllar 4 rakamının katı olan yıllardır:
+MS 88, 1992, 1612, 1996, 2004 vb.
+Ancak bu kuralın iki istisnası vardır. 100'ün katı olan yıllardan sadece 400'e kalansız olarak bölünebilenler artık yıldır:
+400, 800, 1200, 1600, 2000 yılları artık yıldır ancak 1800, 1900 artık yıl değildir.
+Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365 1/4 yerine yaklaşık 365,242 gün olmasından kaynaklanan hatayı gidermektir. Hesabı daha da hassas hâle getirmek için, 4000'e kalansız olarak bölünen yıllar da artık yıl kabul edilmez:
+4000, 16000, 24000 vb. yıllar

@@ -1,0 +1,16 @@
+conversione dei dati aeronautici dai vecchi standard Roma 40 e ED50 al WGS84, nel rispetto dei nuovi standard internazionali emanati dall'ICAO.
+
+
+== Bibliografia ==
+(EN) "DOC 9674/AN 946 - WGS84 Manual", ICAO, seconda edizione, 2002.
+(EN) Department of Defense - World Geodetic System 1984, Its Definition and Relationships With Local Geodetic Systems, earth-info.nga.mil. URL consultato il 27 dicembre 2013.
+
+
+== Voci correlate ==
+Cartografia
+GPS
+Navigatore satellitare
+
+
+== Collegamenti esterni ==
+Sito di Eurocontrol sul WGS84.

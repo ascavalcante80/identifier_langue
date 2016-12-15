@@ -1,0 +1,35 @@
+, and 33% methane
+for Orcus (BB, grey/blue): 85% amorphous carbon, +4% Titan tholin, and 11% H2O ice
+
+
+=== Size determination ===
+It is difficult to estimate the diameter of TNOs. For very large objects, with very well known orbital elements (like Pluto), diameters can be precisely measured by occultation of stars.
+For other large TNOs, diameters can be estimated by thermal measurements. The intensity of light illuminating the object is known (from its distance to the Sun), and one assumes that most of its surface is in thermal equilibrium (usually not a bad assumption for an airless body). For a known albedo, it is possible to estimate the surface temperature, and correspondingly the intensity of heat radiation. Further, if the size of the object is known, it is possible to predict both the amount of visible light and emitted heat radiation reaching Earth. A simplifying factor is that the Sun emits almost all of its energy in visible light and at nearby frequencies, while at the cold temperatures of TNOs, the heat radiation is emitted at completely different wavelengths (the far infrared).
+Thus there are two unknowns (albedo and size), which can be determined by two independent measurements (of the amount of reflected light and emitted infrared heat radiation).
+Unfortunately, TNOs are so far from the Sun that they are very cold, hence produce black-body radiation around 60 micrometres in wavelength. This wavelength of light is impossible to observe on the Earth's surface, but only from space using, e.g. the Spitzer Space Telescope. For ground-based observations, astronomers observe the tail of the black-body radiation in the far infrared. This far infrared radiation is so dim that the thermal method is only applicable to the largest KBOs. For the majority of (small) objects, the diameter is estimated by assuming an albedo. However, the albedos found range from 0.50 down to 0.05, resulting in a size range of 1200–3700 km for an object of magnitude of 1.0.
+
+
+== See also ==
+Dwarf planet
+List of trans-Neptunian objects
+Mesoplanet
+Nemesis (hypothetical star)
+Small Solar System body
+Triton
+Tyche (hypothetical planet)
+
+
+== Notes ==
+^ 2003 SS422 is excluded from the count because it has an observation arc of only 76 days and hence its semi-major axis is not securely known.
+^ a b The literature is inconsistent in the use of the phrases "scattered disc" and "Kuiper belt". For some, they are distinct populations; for others, the scattered disk is part of the Kuiper belt, in which case the low-eccentricity population is called the "classical Kuiper belt". Authors may even switch between these two uses in a single publication. In this article, the scattered disk will be considered a separate population from the Kuiper belt.
+
+
+== References ==
+
+
+== External links ==
+Nine planets, University of Arizona
+David Jewitt's Kuiper Belt site
+Large KBO page
+
+A list of the estimates of the diameters from johnstonarchive with references to the original papers

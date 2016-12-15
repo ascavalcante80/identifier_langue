@@ -1,0 +1,24 @@
+Przewodność cieplna (właściwa), przewodnictwo cieplne (właściwe), współczynnik przewodzenia ciepła, współczynnik przewodności cieplnej, współczynnik przewodnictwa cieplnego (symbol λ lub k) – zdolność substancji do przewodzenia ciepła. W tych samych warunkach więcej ciepła przepłynie przez substancję o większej przewodności cieplnej.
+
+
+== Definicja ==
+Dla ciała o kształcie prostopadłościanu przewodzącego ciepło w warunkach stanu stabilnego (ustalonego), które stanowi przegrodę dla przepływu ciepła, ilość przekazanej energii jest zależna od substancji, proporcjonalna do powierzchni przekroju poprzecznego przegrody, różnicy temperatur oraz czasu przepływu ciepła i odwrotnie proporcjonalna do grubości przegrody:
+
+Z powyższego wynika:
+
+gdzie:
+Q – ilość ciepła przepływającego przez ciało
+λ – współczynnik przewodnictwa cieplnego
+S – pole przekroju przez który przepływa ciepło
+t – czas przepływu
+ΔT – różnica temperatur w kierunku przewodzenia ciepła
+d – grubość przegrody.
+Jednostką współczynnika przewodzenia ciepła jest w układzie SI J/(m·s·K) = W·m−1·K−1 (wat na metr kelwin), czyli w jednostkach podstawowych SI kg·m/(s³·K)
+
+
+== Właściwości ==
+Przewodność cieplna jest wielkością charakterystyczną substancji w danym stanie skupienia i jego fazie. Dla substancji niejednorodnych jest zależna od ich budowy, porowatości itp. Dla małych zakresów temperatur w technice przyjmuje się, że przewodność cieplna nie zależy od temperatury. W rzeczywistości przewodność cieplna zależy od temperatury. Substancjami najlepiej przewodzącymi ciepło są metale, najsłabiej gazy.
+
+
+== Zakres stosowania ==
+Wyżej wymienione wzory są prawdziwe dla wymiany cieplnej odbywającej się tylko przez przewodzenie ciepła, kiedy nie występuje ani promieniowanie cieplne, ani konwekcja, które nie są proporcjonalne do różnicy temperatur, natomiast zależą od innych parametrów fizy

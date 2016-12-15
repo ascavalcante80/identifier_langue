@@ -1,0 +1,28 @@
+ various natural language processing tasks were solved with the help of Wiktionary data:
+Rule-based machine translation between Dutch language and Afrikaans; data of English Wiktionary, Dutch Wiktionary and Wikipedia were used with the Apertium machine translation platform.
+Construction of machine-readable dictionary by the parser NULEX, which integrates open linguistic resources: English Wiktionary, WordNet, and VerbNet. The parser NULEX scrapes English Wiktionary for tense information (verbs), plural form and part of speech (nouns).
+Speech recognition and synthesis, where Wiktionary was used to automatically create pronunciation dictionaries. Word-pronunciation pairs were retrieved from 6 Wiktionary language editions (Czech, English, French, Spanish, Polish, and German). Pronunciations are in terms of the International Phonetic Alphabet. The ASR system based on English Wiktionary has the highest word error rate, where each third phoneme has to be changed.
+Ontology engineering and semantic network constructing.
+Ontology matching.
+Text simplification. Medero & Ostendorf assessed vocabulary difficulty (reading level detection) with the help of Wiktionary data. Properties of words extracted from Wiktionary entries (definition length and POS, sense, and translation counts) were investigated. Medero & Ostendorf expected that (1) very common words will be more likely to have multiple parts of speech, (2) common words to be more likely to have multiple senses, (3) common words will be more likely to have been translated into multiple languages. These features extracted from Wiktionary entries were useful in distinguishing word types that appear in Simple English Wikipedia articles from words that only appear in the Standard English comparable articles.
+Part-of-speech tagging. Li et al. (2012) built multilingual POS-taggers for eight resource-poor languages on the basis of English Wiktionary and Hidden Markov Models.
+Sentiment analysis.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+List of all Wiktionary editions
+Wiktionary front page
+English Wiktionary
+
+Wiktionary Android package at the F-Droid repository
+Wiktionary on Google Play
+Wiktionary's multilingual statistics
+Wikimedia's page on Wiktionary (including list of all existing Wiktionaries)
+Pages about Wiktionary in Meta.
+Meta:Main Page – OmegaWiki

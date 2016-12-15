@@ -1,0 +1,13 @@
+Cilindrada, denominación que se da a la suma del volumen útil de todos los cilindros de un motor alternativo. Es muy usual que se mida en centímetros cúbicos (cm3) pero los vehículos norteamericanos usaban el sistema inglés de pulgadas cúbicas. (16.4 cc equivalen a una pulgada cúbica. Un motor 250 equivale a 4100 cc.)
+La cilindrada se calcula en forma siguiente:
+
+d = diámetro del cilindro, también llamado calibre
+L = carrera del pistón
+En otras palabras, cilindrada es el volumen geométrico ocupado por el conjunto de pistones desde el punto muerto inferior (PMI) hasta el más alto (PMS), también llamado punto muerto superior. La cilindrada da una buena medida de la capacidad de trabajo que puede tener un motor.
+
+
+== Fiscalidad ==
+La cilindrada ha sido habitualmente usada en muchos países como punto de partida para el cálculo de los impuestos aplicados al automóvil. En Alemania hasta el año 1989 se calculaba la cilindrada fiscal mediante una fórmula diferente, siguiendo la normativa StVZO:
+
+d = diámetro del cilindro en mm. redondeado a la baja hasta el medio mm.
+h = carrera del pistón en mm. redondeado a la baja hasta

@@ -1,0 +1,15 @@
+O pagină web este o resursă aflată în spațiul web (WWW) din Internet, de obicei în format HTML sau XHTML (extensia numelui fișierului fiind de cele mai multe ori .html sau .htm) și având hiperlinkuri (hiperlegături) pentru navigarea simplă (cu un singur clic de maus) de la o pagină sau secțiune de pagină la alta. Pagina web se numește astfel deoarece ea se poate afișa pe un monitor sau ecran de calculator și se aseamănă într-o oarecare măsură cu o pagină de ziar. Lățimea paginii web este de obicei astfel făcută ca ea să încapă în întregime pe lățimea ecranului disponibil. În schimb înălțimea ei poate depăși cu mult pe cea a ecranului. În aceste cazuri browserul și mausul permit de obicei vizionarea simplă și rapidă a întregii pagini, și anume prin "tragerea" ei în sus și în jos, după dorință.
+Pentru a furniza nu numai texte dar și imagini și sunete, paginile web utilizează deseori fișiere grafice sau sonore integrate, dar și hiperlinkuri către alte resurse neintegrate în pagina respectivă.
+De obicei furnizorul de informații își grupează și organizează paginile în cadrul unui site web, care la cerere, și pentru a putea fi regăsit, primește un identificator Internet unic numit URI.
+
+
+== Conținut ==
+O pagină web poate conține:
+texte în cele mai diferite formate (forme, mărimi, culori, poziții etc.)
+imagini (fișiere cu formatele .gif, .jpeg, .png ș.a.)
+audio (fișiere în formatele .mid, .wav ș.a.)
+conținut multimedial interactiv care, pentru a fi văzut și utilizat, necesită de obicei un plugin ca de ex. cu formatul Adobe Flash sau Adobe Shockwave
+miniaplicații (așa-numite "applets") – subprograme care rulează la chemarea paginii și care deseori oferă filme, imagini, interacțiune și sunete.
+Paginile web mai pot conține și elemente care nu sunt făcute pentru a fi afișate de browser, cum ar fi:
+scripturi (de obicei în formatul JavaScript), care adaugă paginii funcționalitate suplimentară (de exemplu creează efecte vizuale sau verifică datele introduse intr-un formular web),
+meta-etichete – furnizează informații despre pagină, instrucțiuni pentru roboții motoarelor de căutare, etc. Cuvintele cheie 

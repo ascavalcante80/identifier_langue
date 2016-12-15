@@ -1,0 +1,22 @@
+XML (Extensible Markup Language) adalah bahasa markup untuk keperluan umum yang disarankan oleh W3C untuk membuat dokumen markup keperluan pertukaran data antar sistem yang beraneka ragam. XML merupakan kelanjutan dari HTML (HyperText Markup Language) yang merupakan bahasa standar untuk melacak Internet.
+
+
+== Mengenal XML ==
+XML didesain untuk mampu menyimpan data secara ringkas dan mudah diatur. Kata kunci utama XML adalah data (jamak dari datum) yang jika diolah bisa memberikan informasi.
+XML menyediakan suatu cara terstandarisasi namun bisa dimodifikasi untuk menggambarkan isi dari dokumen. Dengan sendirinya, XML dapat digunakan untuk menggambarkan sembarang view database, tetapi dengan suatu cara yang standar.
+
+
+== Tipe XML ==
+XML memiliki tiga tipe file :
+XML, merupakan standar format dari struktur berkas (file) yang ada.
+XSL, merupakan standar untuk memodifikasi data yang diimpor atau diekspor.
+XSD, merupakan standar yang mendefinisikan struktur database dalam XML.
+
+
+== Keunggulan XML ==
+Keunggulan XML bisa diringkas sebagai berikut :
+Pintar (Intelligence). XML dapat menangani berbagai tingkat (level) kompleksitas.
+Dapat beradaptasi. Dapat mengadaptasi untuk membuat bahasa sendiri. Seperti Microsoft membuat bahasa MSXML atau Macromedia mengembangkan MXML.
+Mudah pemeliharaannya.
+Sederhana. XML lebih sederhana.
+Mudah dipindah-pindahkan (Portability).

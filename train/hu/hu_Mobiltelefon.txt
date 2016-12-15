@@ -1,0 +1,50 @@
+Lásd még: Okostelefon és Feature phone
+A mobiltelefon vagy maroktelefon olyan telefonkészülék, amivel vezetékes kapcsolódás nélkül lehetséges beszéddel, vagy egyéb módon is kommunikálni, ezáltal az hordozható. A működéséhez szükséges egy mikrohullámú kommunikációs hálózat, és maga a „mobilnak” mondott, hordozható készülék, ami lehetővé teszi a hozzáférést a hálózathoz, amin szöveges-, beszéd-, képi-, video- és adatátvitel is lehetséges. A készülék vezeték nélküli működése akkumulátor révén történik, amit bizonyos időközönként fel kell tölteni egy erre alkalmas eszköz, a mobiltöltő segítségével. Ezt leszámítva semmilyen más vezetékes kapcsolatra nincs szükség a készülék alapvető használatához.
+
+
+== Jellemzői ==
+A mobiltelefonok tulajdonságai nagyon gyorsan fejlődött és fejlődik. Kezdetekben tömegük meghaladta az 1kg-ot, ma már 100 g körül is vannak telefonok. A fejlesztő cégek egymásra licitálva látták el a készülékeket legkülönfélébb funkciókkal. Amíg az egyik gyártó mobilja mutatni tudta az időt a másiké már ébreszteni is tudott, a harmadiké szöveges üzenetet tudott küldeni, és ezek a fejlesztések mennek évről évre. Az alap beszédközvetítő funkción kívül a mai mobilok számos egyéb szolgáltatást támogatnak, így például az SMS-t (szöveges üzenet), e-mail, internet, MMS (multimédia üzenet, fotók, videók küldése), valamint WAP, fényképezőgép, számológép, naptár, napló, stopper, rádió, mp3, videókamera, tévé, érintőképernyő stb.
+2005 körül indult hódítóútjára az okostelefonnak is hívott mobilkészülék típus, melynek fő tulajdonsága, hogy sokkal több funkcióra képes, s ezek közül a telefonálás csak egy a többiből, ezért nem is feltétlenül lehet pusztán telefonként meghatározni. Jellemzői a számítógépekhez hasonló képességei, amelyekkel képes az internethez kapcsolódni, alkalmazásokat letölteni és használni. További gyakori tulajdonság az érintőképernyő megjelenése, ahol a bekapcsológomb kivételével nincs fizikai billentyűzet, minden egyéb funkciót a képernyő virtuális felületén lehet elvégezni. Az „okostelefon” megnevezéssel egy időben a korábbi, alacsonyabb technikai színvonalú készülékekre – jellemzően azokra, amelyek csak a beszédet preferálják – megjelent a „butatelefon” kifejezés is.
+
+
+== Technológia ==
+A legtöbb használatban lévő telefon egy bázisállomásokból álló mobil kommunikációs sejthálózatra kapcsolódik, amely összeköttetésben áll a hagyományos PSTN telefonhálózattal is (a többiek műholdas hálózatra csatlakoznak).
+A mobiltelefont meg kell különböztetni a drót nélküli telefonoktól, amelyek általában csak a korlátozott hatósugarú alapállomás környékén működnek, és jellemzően egy-egy lakáson belül használják őket. Technikailag a mobiltelefon kifejezéssel jelöljük a műholdas telefonokat is és az előző generációs MTS telefonokat, amik nem ún. sejthálózaton működtek.
+A készülékeket generációkba is sorolhatjuk, a hálózati képességeik alapján osztályozva. A (betárcsázós) WAP oldalakat elérő készülékek első generációsak (1G), a csomagkapcsolt adatátvitelre képesek a 2G-s készülékek (fő jellemzőjük a GPRS és az MMS küldési képesség, ami nem tartozik szigorúan össze, hiszen volt GPRS-képes telefon, monokróm kijelzővel (Siemens C55, M55)).
+A megemelt sávszélességet (és csomagkapcsolt átvitelt) alkalmazó készülékek 2,5G-sek. Ezekkel (2G-2,5G) elvileg megoldható, hogy a készülék állandóan csomagkapcsolt üzemmódban legyen, de ez nagyon fogyasztja az akkumulátort. Lényegében ennek amerikai megfelelője a CDMA.
+A 3G-s készülékek a MMS-küldés mellett videohívások bonyolítására is képesek. Meglévő másodlagos kamera esetén minket is látnak, de a technológia lehetővé teszi, hogy pl. csak a másik felet lássuk. Ezt a lehetőséget a WCDMA (Egy. Államok, Ázsia) illetve az UMTS (Európa) nyújtja.
+Az ennél is nagyobb hálózati teljesítményt nyújtó 3.5G-s készülékek HSDPA adatátviteli technológiát használnak.
+A negyedik generáció (4G) új szabványa az LTE, amellyel akár száz megabites sebesség is elérhető.
+
+
+== Elterjedése ==
+
+
+=== Magyarországon ===
+Magyarországon az ezredfordulóra a mobiltelefonok széleskörűen elterjedtek: A Nemzeti Hírközlési Hatóság kiadványai szerint 1999 elején még csak 1,1 millió előfizetést tartottak nyilván hazánkban, 2000 elején már 1,9 millió, 2001 elején 3,5 millió, 2002-ben szintén év elején 5,4 millió, 2003-ban 7 millió, 2004-ben 8 millió, 2005 elején 8,8 millió. 2005 novemberében 9,14 millió előfizetést tartottak nyilván. Ezek szerint 100 lakosra 90,7 előfizetés jutott, vagyis átlagosan tízből kilenc magyarnak van mobilja. 2008-ra 11 millió lett ez a szám. A számkiszolgálás növelése végett 1998 szeptemberében a mobiltelefon-számokat 6 jegyűről 7 jegyűre változtatták.
+A mobiltelefon rohamos elterjedését több tényező segítette elő. Az egyik legfontosabb, a mobiltelefonok árának csökkenése, ami a kereslet erőteljes növekedését idézte elő, így a mobil ajándéktárgynak is alkalmas lett. Ezt részben igazolja is az NHH statisztikája, amely az előfizetésszám hirtelen emelkedését mutatja a karácsonyi időszakban más időszakokhoz képest. A másik lényeges tényező, hogy a fenntartási költségek is lassan egyre kedvezőbbek. Ennek mozgatórugója a szolgáltatók közötti intenzív verseny. Az elterjedést segítette a készülékek folyamatos fejlődése is, ahogy ez jellemző más elektronika termékekre. Fontos még, hogy alapszintű kezelésük egyszerű legyen.
+A jövő szempontjából gondot jelent a szolgáltatók számára hogy a telekommunikációs szolgáltatásokból már nem tudnak lényegesen több profitot kitermelni, hiszen új felhasználókat csak nehezen nyerhetnek meg.
+
+
+== Telefonszámok Magyarországon ==
+A Nemzeti Hírközlési Hatóság közleménye szerint 2010. január 15-étől a mobiltelefon-számokat csak a teljes formátum, azaz mind a 11 számjegy (előhívó, körzetszám és telefonszám) tárcsázásával lehet hívni, megszűnik az egy hálózaton belüli hét számjegyes hívás lehetősége.
+A mobiltelefon tulajdonosoknak 2010 januárjáig a telefonjuk memóriájában tárolt hétjegyű számokat ki kellett egészíteniük a 06, vagy +36 azonosítóval és (többnyire) a szolgáltatót kijelölő számmal. Az NHH javaslata szerint a legcélszerűbb mindig a +36-os formával kezdeni a telefonszámok rögzítését, mert így külföldről is lehet vele itthoni számot hívni.
+
+
+== Történet ==
+
+A mobiltelefon manapság egyike a leggyakrabban használt eszközeinknek. A bázisállomások technológiájának elméletét már 1947-ben kifejlesztették a Bell Labs mérnökei az AT&T-nél, és a hatvanas években került továbbfejlesztésre a cégnél. A rádiótelefonok hosszú és változatos története a második világháborúig nyúlik vissza, amikor a hadsereg rádióhullám-alapú telefon-összeköttetéseket kezdett alkalmazni. A kézi rádiótelefonok 1983 óta elérhetőek. Mivel előállításuk olcsó, és könnyen fejleszthetők, a mobiltelefon-hálózatok gyorsan elterjedtek az egész világon, a vezetékes telefont háttérbe szorítva.
+1945-ben készítették el a mobiltelefonok 0G generációját, a mobil rádiótelefont. Ezeket a telefonokat hivatalosan nem sorolják a mobiltelefonok közé, mivel nem támogatták a beszédcsatorna frekvenciájának beszélgetés közbeni automatikus átváltását (hívásátadás), amire akkor lehetett szükség, amikor a felhasználó az egyik cellából (bázisállomástól) a másikba lépett át.
+1970-ben a Bell Labs mérnöke Amos Bell feltalálta a hívásátadást, ami lehetővé tette, hogy a telefon használója beszélgetés közben több ún. cellán (körzeten) is áthaladjon. A Motorola mérnökét, Martin Coopert tartják az első, gyakorlatban is használható kézi mobiltelefon feltalálójának. Cooper egy modern, bár meglehetősen nehéz, hordozható készülékkel 1973. április 3-án kezdeményezte az első mobilhívást, a Motorola Kommunikációs Divíziójának igazgatója felé.
+Az első, teljesen automatikus celluláris hálózatokat az 1980-as évek első felében hozták létre (1G generáció). Az első ilyen az 1981-ben üzembe helyezett Nordic Mobile Telephone (NMT) rendszer volt. Az évtized végéig a legtöbb mobiltelefon túlságosan nagy méretű volt ahhoz, hogy valaki a zsebében hordja, ezért ezeket általában gépjárművekbe építették be, autótelefonként. A miniatürizálás fejlődésével, kisebb digitális elemekkel és nagyobb hatásfokú akkumulátorokkal a telefonok kisebbekké és könnyebbekké váltak.
+
+
+== Egészség ==
+Nincs kimutatható közvetlen egészségkárosító hatása a készülék által létrehozott, rádiófrekvenciás elektromágneses mezőnek. Azonban a készülék bekapcsolt állapotban az agy közeli területén fokozza az anyagcserét. A hatás egészségügyi jelentősége egyelőre ismeretlen, de ennek alapján javasolható a fülhallgató és headset használata, és az, hogy ne telefonáljunk autóban, mert ott a készülék által kisugárzott energia általában nagyobb, mint szabad térben. Nem tanácsos töltőn lévő mobillal sem fülhöz szorítva beszélgetni.
+Az Amerikai Egyesült Államok legjelentősebb szövetségi egészségügyi intézménye, a National Institutes of Health kábítószerhasználattal foglalkozó intézetének kutatócsoportja Nora D. Volkow vezetésével arra vállalkozott, hogy pontosan felmérje a mobilkészülékek agyi aktivitásra kifejtett hatását. Eredményeiket a Journal of the American Medical Association című orvosi szaklapban közlik.
+A készülék antennájához legközelebb eső agyi területeken - a homloklebeny szemüreg felé eső részén, illetve a halántéklebeny csúcsán - körülbelül 7 százalékos, statisztikailag jelentős anyagcsere-fokozódás volt kimutatható a telefon bekapcsolt állapotában a kikapcsolthoz képest.
+A WHO kutatásai szerint potenciális rákkeltő hatása van.
+
+
+== Természetvédelmi és emberjogi vonatkozások ==
+A mobiltelefonok egyik alkotóeleme a tantál, amelynek bányászata veszélyezteti egyes gorillapopulációk létét. A Kongói Demokratikus Köztársaságban nagy mennyiségben található arany, tantál, ón és volfrám bányászatához kapcsolódó erőszakos cselekedetekért egyes civil szervezetek az elektronikai vállalatokat teszik felelőssé, amennyiben illegálisan, a feketepiacról szerzik be a termékeik előállításához szükséges alapanyagokat. A 

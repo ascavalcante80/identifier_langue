@@ -1,0 +1,53 @@
+perature, resulting in the luminosity varying approximately as the fourth power of the star's mass. For very low-mass stars, molecules in the atmosphere also contribute to the opacity. Below about 0.5 M☉, the luminosity of the star varies as the mass to the power of 2.3, producing a flattening of the slope on a graph of mass versus luminosity. Even these refinements are only an approximation, however, and the mass-luminosity relation can vary depending on a star's composition.
+
+
+== Evolutionary tracks ==
+
+Once a main-sequence star consumes the hydrogen at its core, the loss of energy generation causes its gravitational collapse to resume. Stars with less than 0.23 M☉, are predicted to directly become white dwarfs once energy generation by nuclear fusion of hydrogen at their core comes to a halt. In stars between this threshold and 10 M☉, the hydrogen surrounding the helium core reaches sufficient temperature and pressure to undergo fusion, forming a hydrogen-burning shell. In consequence of this change, the outer envelope of the star expands and decreases in temperature, turning it into a red giant. At this point the star is evolving off the main sequence and entering the giant branch. The path which the star now follows across the HR diagram, to the upper right of the main sequence, is called an evolutionary track.
+The helium core of a red giant continues to collapse until it is entirely supported by electron degeneracy pressure—a quantum mechanical effect that restricts how closely matter can be compacted. For stars of more than about 0.5 M☉, the core eventually reaches a temperature where it becomes hot enough to burn helium into carbon via the triple alpha process. Stars with more than 5–7.5 M☉ can additionally fuse elements with higher atomic numbers. For stars with ten or more solar masses, this process can lead to an increasingly dense core that finally collapses, ejecting the star's overlying layers in a Type II supernova explosion, Type Ib supernova or Type Ic supernova.
+When a cluster of stars is formed at about the same time, the life span of these stars will depend on their individual masses. The most massive stars will leave the main sequence first, followed steadily in sequence by stars of ever lower masses. Thus the stars will evolve in order of their position on the main sequence, proceeding from the most massive at the left toward the right of the HR diagram. The current position where stars in this cluster are leaving the main sequence is known as the turn-off point. By knowing the main sequence lifespan of stars at this point, it becomes possible to estimate the age of the cluster.
+
+
+== See also ==
+
+Hydrogen-burning process
+Red dwarf
+Supergiant
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== General ===
+Kippenhahn, Rudolf, 100 Billion Suns, Basic Books, New York, 1983.
+
+
+=== Technical ===
+Arnett, David, Supernovae and Nucleosynthesis, Princeton University Press, Princeton, 1996.
+Bahcall, John N., Neutrino Astrophysics, Cambridge University Press, Cambridge, 1989.
+Bahcall, John N., Pinsonneault, M.H., and Basu, Sarbani, "Solar Models: Current Epoch and Time Dependences, Neutrinos, and Helioseismological Properties," The Astrophysical Journal, 555, 990, 2001.
+Barnes, C. A., Clayton, D. D., and Schramm, D. N.(eds.), Essays in Nuclear Astrophysics, Cambridge University Press, Cambridge, 1982.
+Bowers, Richard L., and Deeming, Terry, Astrophysics I: Stars, Jones and Bartlett, Publishers, Boston, 1984.
+Bradley W. Carroll and Dale A. Ostlie (2007). An Introduction to Modern Astrophysics. Person Education Addison-Wesley San Francisco. ISBN 0-80530402-9. 
+Chabrier, Gilles, and Baraffe, Isabelle, "Theory of Low-Mass Stars and Substellar Objects," Annual Review of Astronomy and Astrophysics, 38, 337, 2000.
+Chandrasekhar, S., An Introduction to the study of stellar Structure, Dover Publications, Inc., New York, 1967.
+Clayton, Donald D., Principles of Stellar Evolution and Nucleosynthesis, University of Chicago Press, Chicago, 1983.
+Cox, J. P., and Giuli, R. T., Principles of Stellar Structure, Gordon and Breach, New York, 1968.
+Fowler, William ., Caughlan, Georgeanne R., and Zimmerman, Barbara A., "Thermonuclear Reaction Rates, I," Annual Review of Astronomy and Astrophysics, 5, 525, 1967.
+Fowler, William A., Caughlan, Georgeanne R., and Zimmerman, Barbara A., "Thermonuclear Reaction Rates, II, " Annual Review of Astronomy and Astrophysics, 13, 69, 1975.
+Hansen, Carl J., Kawaler, Steven D., and Trimble, Virginia Stellar Interiors: Physical Principles, Structure, and Evolution, Second Edition, Springer-Verlag, New York, 2004.
+Harris, Michael J., Fowler, William A., Caughlan, Georgeanne R., and Zimmerman, Barbara A., "Thermonuclear Reaction Rates, III," Annual Review of Astronomy and Astrophysics, 21, 165, 1983.
+Iben, Icko, Jr, "Stellar Evolution Within and Off the Main Sequence," Annual Review of Astronomy and Astrophysics, 5, 571, 1967.
+Iglesias, Carlos A, and Rogers, Forrest J., "Updated Opal Opacities," The Astrophysical Journal, 464, 943, 1996.
+Kippenhahn, Rudolf, and Weigert, Alfred, Stellar Structure and Evolution, Springer-Verlag, Berlin, 1990.
+Liebert, James, and Probst, Ronald G., "Very Low Mass Stars", Annual Review of Astronomy and Astrophysics, 25, 437, 1987.
+Padmanabhan, T., Theoretical Astrophysics, Cambridge University Press, Cambridge, 2002.
+Prialnik, Dina, An Introduction to the Theory of Stellar Structure and Evolution, Cambridge University Press, Cambridge, 2000.
+Novotny, Eva, Introduction to Stellar Atmospheres and Interior, Oxford University Press, New York, 1973.
+Shore, Steven N., The Tapestry of Modern Astrophysics, John Wiley and Sons, Hoboken, 2003.

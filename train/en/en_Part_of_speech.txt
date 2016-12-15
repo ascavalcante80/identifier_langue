@@ -1,0 +1,93 @@
+A part of speech is a category of words (or, more generally, of lexical items) which have similar grammatical properties. Words that are assigned to the same part of speech generally display similar behavior in terms of syntax—they play similar roles within the grammatical structure of sentences—and sometimes in terms of morphology, in that they undergo inflection for similar properties. Commonly listed English parts of speech are noun, verb, adjective, adverb, pronoun, preposition, conjunction, interjection, and sometimes numeral, article or determiner.
+A part of speech – particularly in more modern classifications, which often make more precise distinctions than the traditional scheme does – may also be called a word class, lexical class, or lexical category, although the term lexical category refers in some contexts to a particular type of syntactic category, and may thus exclude parts of speech that are considered to be functional, such as pronouns. The term form class is also used, although this has various conflicting definitions. Word classes may be classified as open or closed: open classes (like nouns, verbs and adjectives) acquire new members constantly, while closed classes (such as pronouns and conjunctions) acquire new members infrequently, if at all.
+Almost all languages have the word classes noun and verb, but beyond these there are significant variations in different languages. For example, Japanese has as many as three classes of adjectives where English has one; Chinese, Korean and Japanese have a class of nominal classifiers; many languages lack a distinction between adjectives and adverbs, or between adjectives and verbs (see stative verbs). This variation in the number of categories and their identifying properties means that analysis needs to be done for each individual language. Nevertheless, the labels for each category are assigned on the basis of universal criteria.
+
+
+== HistoryEdit ==
+The classification of words into lexical categories is found from the earliest moments in the history of linguistics.
+
+
+=== IndiaEdit ===
+In the Nirukta, written in the 5th or 6th century BC, the Sanskrit grammarian Yāska defined four main categories of words:
+nāma – nouns (including adjectives)
+ākhyāta – verbs
+upasarga – pre-verbs or prefixes
+nipāta – particles, invariant words (perhaps prepositions)
+These four were grouped into two larger classes: inflected (nouns and verbs) and uninflected (pre-verbs and particles).
+The ancient work on the grammar of the Tamil language, Tolkāppiyam, dated variously between the 1st and 10th centuries AD, classifies Tamil words as peyar (noun), vinai (verb), idai (part of speech which modifies the relationships between verbs and nouns), and uri (word that further qualifies a noun or verb).
+
+
+=== Western traditionEdit ===
+A century or two after the work of Nirukta, the Greek scholar Plato wrote in the Cratylus dialog that "... sentences are, I conceive, a combination of verbs [rhēma] and nouns [ónoma]". Aristotle added another class, "conjunctions" [sýndesmos], which included not only the words known today as conjunctions, but also other parts (the interpretations differ, in one interpretation it is pronouns, prepositions, and the article).
+By the end of the 2nd century BC, this classification scheme had been expanded into eight categories, seen in the Art of Grammar, attributed to Dionysius Thrax:
+Noun (ónoma): a part of speech inflected for case, signifying a concrete or abstract entity
+Verb (rhēma): a part of speech without case inflection, but inflected for tense, person and number, signifying an activity or process performed or undergone
+Participle (metokhḗ): a part of speech sharing features of the verb and the noun
+Article (árthron): a declinable part of speech, taken to include the definite article, but also the basic relative pronoun
+Pronoun (antōnymía): a part of speech substitutable for a noun and marked for a person
+Preposition (próthesis): a part of speech placed before other words in composition and in syntax
+Adverb (epírrhēma): a part of speech without inflection, in modification of or in addition to a verb, adjective, clause, sentence, or other adverb
+Conjunction (sýndesmos): a part of speech binding together the discourse and filling gaps in its interpretation
+It can be seen that these parts of speech are defined by morphological, syntactic and semantic criteria.
+The Latin grammarian Priscian (fl. 500 AD) modified the above eightfold system, excluding "article" (since Latin, unlike Greek, does not have articles), but adding "interjection".
+The Latin names for the parts of speech, from which the corresponding modern English terms derive, were nomen, verbum, participium, pronomen, praepositio, adverbium, conjunctio and interjectio. The category nomen included substantives (nomen substantivum, corresponding to what are today called nouns in English) as well as adjectives (nomen adjectivum). This is reflected in the older English terminology noun substantive and noun adjective. Later the adjective was taken as a separate class, and the English word noun came to be applied to substantives only.
+Works of English grammar generally follow the pattern of the European tradition as described above, except that participles are now usually regarded as forms of verbs rather than as a separate part of speech. Eight or nine parts of speech are commonly listed: noun, verb, adjective, adverb, pronoun, preposition, conjunction, interjection and article or (more recently) determiner. Some modern classifications include further classes defined in addition to these. For discussion see the sections below.
+
+
+== EnglishEdit ==
+English words have been classified into eight or nine parts of speech (and this scheme, or slight expansions of it, is still followed in most dictionaries):
+Noun
+a word or lexical item denoting any abstract (abstract noun: e.g. home) or concrete entity (concrete noun: e.g. house); a person (police officer, Michael), place (coastline, London), thing (necktie, television), idea (happiness), or quality (bravery). Nouns can also be classified into count nouns or non-count nouns, or both categories.
+Pronoun
+a substitute for a noun or noun phrase (them, he)
+Adjective
+a modifier of a noun or pronoun (big, brave)
+Verb
+a word denoting an action (walk), occurrence (happen), or state of being (be)
+Adverb
+a modifier of an adjective, verb, or other adverb (very, quite)
+Preposition
+a word that relates words to each other in a phrase or sentence and aids in syntactic context (in, of)
+Conjunction
+a syntactic connector; links words, phrases, or clauses (and, but)
+Interjection
+an emotional greeting or exclamation (Huzzah, Alas)
+Article
+a grammatical marker of definiteness (the) or indefiniteness (a, an). Not always listed among the parts of speech. Sometimes determiner (a broader class) is used instead. Generally, the articles are not considered a separate part of speech, but are classified as adjectives. They modify nouns by limiting, in the same manner as a number ("the pen," "a pen,""one pen").
+English words are not generally marked as belonging to one part of speech or another; this contrasts with many other European languages, which use inflection more extensively, meaning that a given word form can often be identified as belonging to a particular part of speech and having certain additional grammatical properties. In English, most words are uninflected, while the inflective endings that exist are mostly ambiguous: -ed may mark a verbal past tense, a participle or a fully adjectival form; -s may mark a plural noun or a present-tense verb form; -ing may mark a participle, gerund, or pure adjective or noun. Although -ly is a frequent adverb marker, some adverbs (e.g. tomorrow, fast, very) do not have that ending, while some words with that ending (e.g. friendly, ugly) are not adverbs.
+Many English words can belong to more than one part of speech. Words like neigh, break, outlaw, laser, microwave, and telephone might all be either verbs or nouns. In certain circumstances, even words with primarily grammatical functions can be used as verbs or nouns, as in, "We must look to the hows and not just the whys." The process whereby a word comes to be used as a different part of speech is called conversion or zero derivation.
+
+
+== Functional classificationEdit ==
+Linguists recognize that the above list of eight or nine word classes is drastically simplified. For example, "adverb" is to some extent a catch-all class that includes words with many different functions. Some have even argued that the most basic of category distinctions, that of nouns and verbs, is unfounded, or not applicable to certain languages. Modern linguists have proposed many different schemes whereby the words of English or other languages are placed into more specific categories and subcategories based on a more precise understanding of their grammatical functions.
+Common lexical categories defined by function may include the following (not all of them will necessarily be applicable in a given language):
+Categories that will usually be open classes:
+adjectives
+adverbs
+nouns
+verbs (except auxiliary verbs)
+interjections
+ideophones
+
+Categories that will usually be closed classes:
+auxiliary verbs
+clitics
+coverbs
+conjunctions
+determiners (articles, quantifiers, demonstrative adjectives, and possessive adjectives)
+particles
+measure words or classifiers
+adpositions (prepositions, postpositions, and circumpositions)
+preverbs
+pronouns
+contractions
+cardinal numbers
+
+Within a given category, subgroups of words may be identified based on more precise grammatical properties. For example, verbs may be specified according to the number and type of objects or other complements which they take. This is called subcategorization.
+Many modern descriptions of grammar include not only lexical categories or word classes, but also phrasal categories, used to classify phrases, in the sense of groups of words that form units having specific grammatical functions. Phrasal categories may include noun phrases (NP), verb phrases (VP) and so on. Lexical and phrasal categories together are called syntactic categories.
+
+
+== Open and closed classesEdit ==
+Word classes may be either open or closed. An open class is one that commonly accepts the addition of new words, while a closed class is one to which new items are very rarely added. Open classes normally contain large numbers of words, while closed classes are much smaller. Typical open classes found in English and many other languages are nouns, verbs (excluding auxiliary verbs, if these are regarded as a separate class), adjectives, adverbs and interjections. Ideophones are often an open class, though less familiar to English speakers, and are often open to nonce words. Typical closed classes are prepositions (or postpositions), determiners, conjunctions, and pronouns.
+The open–closed distinction is related to the distinction between lexical and functional categories, and to that between content words and function words, and some authors consider these identical, but the connection is not strict. Open classes are generally lexical categories in the stricter sense, containing words with greater semantic content, while closed classes are normally functional categories, consisting of words that perform essentially grammatical functions. This is not universal: in many languages verbs and adjectives are closed classes, usually consisting of few members, and in Japanese the formation of new pronouns from existing nouns is relatively common, though to what extent these form a distinct word class is debated.
+Words are added to open classes through such processes as compounding, derivation, coining, and borrowing. When a new word is added through some such process, it can subsequently be used grammatically in sentences in the same ways as other words in its class. A closed class may obtain new items through these same processes, but such changes are much rarer and take much more time. A closed class is normally seen as part of the core language and is not expected to change. In English, for example, new nouns, verbs, etc. are being added to the language constantly (including by the common process of verbing and other types of conversion, where an existing word comes to be used in a different part of speech). However, it is very unusual for a new pronoun, for example, to become accepted in the language, even in cases where there may be fe

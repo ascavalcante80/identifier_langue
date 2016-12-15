@@ -1,0 +1,93 @@
+In geometry, a square is a regular quadrilateral, which means that it has four equal sides and four equal angles (90-degree angles, or right angles). It can also be defined as a rectangle in which two adjacent sides have equal length. A square with vertices ABCD would be denoted  ABCD.
+The square is the n=2 case of the families of n-hypercubes and n-orthoplexes.
+A square has Schläfli symbol {4}. A truncated square, t{4}, is an octagon, {8}. An alternated square, h{4}, is a digon, {2}.
+
+
+== Characterizations ==
+A convex quadrilateral is a square if and only if it is any one of the following:
+a rectangle with two adjacent equal sides
+a quadrilateral with four equal sides and four right angles
+a parallelogram with one right angle and two adjacent equal sides
+a rhombus with a right angle
+a rhombus with all angles equal
+a quadrilateral where the diagonals are equal and are the perpendicular bisectors of each other, i.e. a rhombus with equal diagonals
+
+
+== Perimeter and area ==
+
+The perimeter of a square whose four sides have length  is
+
+and the area A is
+
+In classical times, the second power was described in terms of the area of a square, as in the above formula. This led to the use of the term square to mean raising to the second power.
+The area can also be calculated using the diagonal d according to
+
+In terms of the circumradius R, the area of a square is
+
+since the area of the circle is  the square fills approximately 0.6366 of its circumscribed circle.
+In terms of the inradius r, the area of the square is
+
+A convex quadrilateral with successive sides a, b, c, d is a square if and only if 
+
+
+== Properties ==
+A square is a special case of a rhombus (equal sides, opposite equal angles), a kite (two pairs of adjacent equal sides), a parallelogram (opposite sides parallel), a quadrilateral or tetragon (four-sided polygon), and a rectangle (opposite sides equal, right-angles) and therefore has all the properties of all these shapes, namely:
+The diagonals of a square bisect each other and meet at 90°
+The diagonals of a square bisect its angles.
+Opposite sides of a square are both parallel and equal in length.
+All four angles of a square are equal. (Each is 360°/4 = 90°, so every angle of a square is a right angle.)
+All four sides of a square are equal.
+The diagonals of a square are equal.
+
+
+== Coordinates and equations ==
+
+The coordinates for the vertices of a square with vertical and horizontal sides, centered at the origin and with side length 2 are (±1, ±1), while the interior of this square consists of all points (xi, yi) with −1 < xi < 1 and −1 < yi < 1. The equation
+
+specifies the boundary of this square. This equation means "x2 or y2, whichever is larger, equals 1." The circumradius of this square (the radius of a circle drawn through the square's vertices) is half the square's diagonal, and equals . Then the circumcircle has the equation
+
+Alternatively the equation
+
+can also be used to describe the boundary of a square with center coordinates (a, b) and a horizontal or vertical radius of r.
+
+
+== Construction ==
+The animation at the right shows how to construct a square using a compass and straightedge. This is possible as 4 = 22, a power of two.
+
+
+== Symmetry ==
+
+The square has Dih4 symmetry, order 8. There are 2 dihedral subgroups: Dih2, Dih1, and 3 cyclic subgroups: Z4, Z2, and Z1.
+These 6 symmetries express 8 distinct symmetries on a square. John Conway labels these by a letter and group order.
+Each subgroup symmetry allows one or more degrees of freedom for irregular quadrilaterals. r8 is full symmetry of the square, and a1 is no symmetry. d4, is the symmetry of a rectangle and p4, is the symmetry of a rhombus. These two forms are duals of each other and have half the symmetry order of the square. d2 is the symmetry of an isosceles trapezoid, and p2 is the symmetry of a kite. g2 defines the geometry of a parallelogram.
+Only the g4 subgroup has no degrees of freedom but can seen as a square with directed edges.
+
+
+== Other facts ==
+The diagonals of a square are  (about 1.414) times the length of a side of the square. This value, known as the square root of 2 or Pythagoras' constant, was the first number proven to be irrational.
+A square can also be defined as a parallelogram with equal diagonals that bisect the angles.
+If a figure is both a rectangle (right angles) and a rhombus (equal edge lengths), then it is a square.
+If a circle is circumscribed around a square, the area of the circle is  (about 1.5708) times the area of the square.
+If a circle is inscribed in the square, the area of the circle is  (about 0.7854) times the area of the square.
+A square has a larger area than any other quadrilateral with the same perimeter.
+A square tiling is one of three regular tilings of the plane (the others are the equilateral triangle and the regular hexagon).
+The square is in two families of polytopes in two dimensions: hypercube and the cross polytope. The Schläfli symbol for the square is {4}.
+The square is a highly symmetric object. There are four lines of reflectional symmetry and it has rotational symmetry of order 4 (through 90°, 180° and 270°). Its symmetry group is the dihedral group D4.
+If the inscribed circle of a square ABCD has tangency points E on AB, F on BC, G on CD, and H on DA, then for any point P on the inscribed circle,
+
+
+== Squares inscribed in triangles ==
+
+Every acute triangle has three inscribed squares (squares in its interior such that all four of a square's vertices lie on a side of the triangle, so two of them lie on the same side and hence one side of the square coincides with part of a side of the triangle). In a right triangle two of the squares coincide and have a vertex at the triangle's right angle, so a right triangle has only two distinct inscribed squares. An obtuse triangle has only one inscribed square, with a side coinciding with part of the triangle's longest side.
+The fraction of the triangle's area that is filled by the square is no more than 1/2.
+
+
+== Squaring the circle ==
+Squaring the circle is the problem, proposed by ancient geometers, of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge.
+In 1882, the task was proven to be impossible, as a consequence of the Lindemann–Weierstrass theorem which proves that pi (π) is a transcendental number, rather than an algebraic irrational number; that is, it is not the root of any polynomial with rational coefficients.
+
+
+== Non-Euclidean geometry ==
+In non-Euclidean geometry, squares are more generally polygons with 4 equal sides and equal angles.
+In spherical geometry, a square is a polygon whose edges are great circle arcs of equal distance, which meet at equal angles. Unlike the square of plane geometry, the angles of such a square are larger than a right angle. Larger spherical squares have larger angles.
+In hyperbolic geometry, squares with right angles do not exist. Rather, squares in hype

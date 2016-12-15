@@ -1,0 +1,16 @@
+jemném fázovém posuvu napětí a proudu. Proto se do výpočtu přidává násobení členem cos , což je tzv. účiník.
+
+
+== Starší jednotky ==
+Dříve se pro udávání výkonu používala jednotka koňská síla - zkratka k (kůň) nebo HP (z anglického "Horse Power"). Dnes přežívá v udávání výkonu spalovacích motorů, správnější je ovšem použití jednotky kilowatt. Přibližný přepočet je 1 HP = 736 W.
+
+
+== Související články ==
+Účinnost
+Transformátor
+Gyrátor
+Kapacitor
+
+
+== Externí odkazy ==
+ Slovníkové heslo výkon ve Wikislovníku

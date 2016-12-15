@@ -1,0 +1,23 @@
+cky, 1998] D. Vokrouhlicky (1998). Diurnal Yarkovsky effect as asource of mobility of meter-sized asteroidal fragments. Astronomy & Astrophysics, vol. 335, p. 1093–1100. Résumé disponible sur ADS : 1998A&A...335.1093V
+[Vokrouhlicky, 1999] D. Vokrouhlicky (1999). A complete linear model for the Yarkovsky thermal force on spherical asteroid fragments. Astronomy & Astrophysics, vol. 344, p. 362–366. Résumé disponible sur ADS : 1999A&A...344..362V
+[Vokrouhlicky et al., 2000] D. Vokrouhlicky, A. Milani et S.R. Chesley (2000). Yarkovsky effect on small near-Earth asteroids : mathematical formulation and examples. Icarus, vol. 148, p. 118–138. Résumé disponible sur ADS : 2000Icar..148..118V DOI:10.1006/icar.2000.6469
+[Vokrouhlicky et al., 2005] D. Vokrouhlicky, M. Broz, W.F. Bottke, D. Nesvorny et A. Morbidelli (2005). Non-gravitational perturbations and evolution of the asteroid main belt, in Dynamics of Populations of Planetary Systems (Z. Knezevic et A. Milani, eds.), no 197 in Proceedings IAU Colloquium, p. 145–156. International Astronomical Union, Cambridge Academic Press, (Cambridge). Résumé disponible sur ADS : 2005dpps.conf..145V DOI:10.1017/S1743921304008609
+
+
+=== Notes et références ===
+ Dans le cas d'une orbite circulaire, elle est confondue avec la composante tangentielle, mais pour une orbite excentrique, ce n'est pas le cas.
+ Car on raisonne sur une révolution de l'astéroïde : pendant une révolution la composante radiale va être en moyenne nulle, tandis que la composante le long de la trajectoire va avoir un effet moyenné non nul.
+ Si ω est nul ou tend vers l'infini, il n'y pas d'effet Yarkovsky.
+ avec une coupure sans grande importance à , νmm étant la fréquence de mouvement moyen, νmm = 2π/P.
+ Cette fonction est donnée pour mieux comprendre les équations précédentes. De plus amples détails peuvent être trouvés dans la littérature.
+
+
+== Voir aussi ==
+Effet YORP
+l'Effet Magnus, bien que concerné par des forces de nature très différentes, concerne aussi un changement de trajectoire liée à une rotation de l'objet en déplacement.
+
+
+== Liens externes ==
+Rapport de stage sur les effets des perturbations non gravitationnelles sur l'évolution du spin des NEAs
+(en) Article arXiv sur l'influence de la dérive due à l'effet Yarkovsky et prédiction sur les astéroïdes géocroiseurs connus (C. R. Nugent, A. Mainzer, J. Masiero, T. Grav, et J. Bauer )[1]
+ Portail de l’astronomie

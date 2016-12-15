@@ -1,0 +1,67 @@
+I raggi cosmici sono particelle energetiche provenienti dallo spazio esterno, alle quali è esposta la Terra e qualunque altro corpo celeste, nonché i satelliti e gli astronauti in orbita spaziale. La loro natura è molto varia (l'energia cinetica delle particelle dei raggi cosmici è distribuita su quattordici ordini di grandezza), così come varia è la loro origine: il Sole, le altre stelle, fenomeni energetici come novae e supernovae, fino ad oggetti remoti come i quasar.
+
+
+== Generalità ==
+In media, una particella incide su ogni centimetro quadrato di superficie sulla Terra ogni secondo.
+La maggior parte dei raggi cosmici che arrivano sulla Terra è un prodotto secondario di sciami formati nell'atmosfera dai raggi cosmici primari, con interazioni che tipicamente producono una cascata di particelle secondarie a partire da una singola particella energetica.
+
+Tali particelle possono essere osservate con speciali apparecchiature. È per evitare queste interferenze che molti laboratori di fisica si trovano nel sottosuolo, come il laboratorio del Gran Sasso.
+I raggi cosmici hanno aiutato lo sviluppo della fisica delle particelle: dallo studio di tale radiazione spaziale, sono state scoperte particelle come il positrone (la prima particella di antimateria mai scoperta), il muone, e le particelle strane, in un'epoca nella quale la tecnologia degli acceleratori non era sviluppata. Ancora oggi, tuttavia, l'energia dei raggi cosmici è milioni di volte superiore rispetto a quella che si può ottenere dagli acceleratori terrestri.
+Nei casi in cui manchi lo schermo dell'atmosfera, come nei satelliti artificiali, i raggi cosmici pongono un problema notevole: l'elettronica di bordo deve essere irrobustita e schermata pena malfunzionamenti, e nel caso di missioni con equipaggio umano gli astronauti stessi sono sottoposti al bombardamento di raggi cosmici che possono avere effetti ionizzanti sui tessuti biologici.
+
+
+== Storia ==
+
+Nel 1785, Coulomb notò che un elettroscopio si scaricava spontaneamente .
+Dopo la scoperta della radioattività (dovuta nel 1896 ad Antoine Henri Becquerel, Marie Curie e Pierre Curie), numerosi ricercatori notarono fra il 1901 e il 1903 che anche un rivelatore completamente schermato mostrava comunque un segnale, deducendo che la scarica spontanea degli elettroscopi era dovuta a una radiazione altamente penetrante.
+L'origine extraterrestre di parte di questa radiazione (i cosiddetti raggi cosmici) è stata scoperta soprattutto grazie agli studi, indipendenti e contemporanei, dell'austriaco Victor Franz Hess e dell'italiano Domenico Pacini, quest'ultimo per mezzo di esperimenti eseguiti fra il 1907 e il 1911 e descritti in una memoria pubblicata nel Nuovo Cimento nel 1912 , l'austriaco per mezzo di esperimenti eseguiti fra il 1911 e il 1912 (il volo che consentì la dimostrazione fu quello del 7 agosto 1912) e pubblicati ugualmente nel 1912.
+
+Pacini poté escludere l'origine terrestre delle radiazioni studiandole nelle acque marine di Livorno e in quelle del lago di Bracciano fra giugno e ottobre 1911 e registrandone la diminuzione dell'intensità all'aumentare della profondità; Hess registrandone l'aumento dell'intensità con l'altezza per mezzo di un pallone aerostatico.
+
+Victor Hess vinse il Premio Nobel per la fisica nel 1936 per le sue pionieristiche ricerche nel campo della radiazione cosmica (Pacini era morto da due anni e dunque non più eleggibile). Werner Kolhorster effettuò ulteriori misure negli anni a seguire (1911-1914), fino all'altezza di 9 km, utilizzando palloni aerostatici, e confermò i risultati di Hess migliorandone la precisione.
+
+Dopo Hess, fu Robert Millikan, negli anni '20, a interessarsi a questa radiazione, e a lui si deve il nome di raggi cosmici: così come Pacini e Hess, egli riteneva che fossero composti principalmente da raggi gamma. Arthur Compton ipotizzò, al contrario, che fossero composti da particelle cariche: successive misurazioni dimostrarono la validità di questa seconda ipotesi. La distribuzione delle radiazione, infatti, variava con la latitudine magnetica, come ci si attende per le particelle cariche sotto l'influenza del campo geomagnetico terrestre.
+Nel 1931, il fisico italiano Bruno Rossi notò che, se la carica delle particelle era positiva, esse dovevano provenire in maniera preferenziale da ovest: toccò ad Álvarez e Compton  dimostrare sperimentalmente la correttezza dell'idea di Rossi.
+Negli anni intorno al 1940, Enrico Fermi spiegò il possibile meccanismo di accelerazione dei raggi cosmici, in particolare nei resti di supernova. Il meccanismo di Fermi resta ancora il modello principe per la spiegazione dell'emissione.
+L'astrofisico sovietico Nikolai Kozyrev, isolato dalla Cortina di Ferro della San Pietroburgo degli anni '60 e perciò ignaro di molte scoperte scientifiche "occidentali" sulla meccanica quantistica e sulla fisica delle particelle, si dedicò dal 1959 fino alla morte all'investigazione, teorica e sperimentale, di raggi di natura cosmica provenienti dalle stelle.
+Nei primi anni '60, il fisico Giuseppe Cocconi, lavorando al Brookhaven National Laboratory, fu il primo ad ipotizzare che i raggi cosmici altamente energetici fossero di provenienza extragalattica. Tale ipotesi venne in seguito confermata. Cocconi ipotizzò anche che all'emissione di raggi cosmici carichi si accompagnasse l'emissione di raggi gamma; anche quest'ipotesi venne confermata e oggi i raggi gamma vengono utilizzati come tracciatori dell'accelerazione cosmica di particelle.
+
+
+== I raggi cosmici primari ==
+Al di là dell'atmosfera, i raggi cosmici sono costituiti da protoni (per circa il 90%), da nuclei di elio (quasi il 10%); tuttavia, anche elettroni ed altri nuclei leggeri, fotoni, neutrini ed in minima parte antimateria (positroni ed antiprotoni) fanno parte dei raggi cosmici primari. Giunte nell'atmosfera terrestre, tali particelle interagiscono con i nuclei delle molecole dell'atmosfera, formando così, in un processo a cascata (vedi figura), nuove particelle proiettate in avanti, che prendono il nome di raggi cosmici secondari.
+La composizione e lo spettro in energia sono stati dettagliatamente studiati per la radiazione cosmica primaria. Il flusso relativo all'Idrogeno è poco più del 90%, un po' meno del 10% per l'Elio, 7 × 10−4  per gli elementi leggeri come Litio, Berillio e Boro, e 5 × 10−3  per altri elementi dal Carbonio al Neon.
+Lo spettro (numero di raggi incidenti per unità di energia, per unità di tempo, per unità di superficie per steradiante) dei raggi cosmici primari è ben descritto da una legge a potenza nella forma
+con  per valori dell'energia inferiori a . Per valori superiori dell'energia, si ha un irripidimento, con  che diviene pari a 3. Il punto in cui tale cambio di pendenza ha luogo viene denominato ginocchio.
+Per energie ancora più alte (), lo spettro dei raggi cosmici torna ad essere meno ripido, dando luogo ad un ulteriore cambio di pendenza che viene chiamato caviglia.
+
+
+== Caratteristiche dei raggi cosmici secondari ==
+
+La radiazione secondaria al livello del mare è costituita da due componenti (molle e dura) che hanno diverso comportamento nell'attraversamento di mezzi molto densi (ferro, piombo, …).
+La componente molle (circa il 30% della radiazione secondaria), composta da elettroni e fotoni ed in minima parte da protoni, kaoni e nuclei, è capace di attraversare solo pochi centimetri di assorbitore. La componente dura (circa il 70%), composta da muoni, riesce a penetrare spessori di materiali assorbenti di oltre un metro.
+Il flusso medio delle particelle che compongono la radiazione, vale a dire il numero di particelle che nell'unità di tempo e nell'unità di superficie raggiungono il livello del mare, per particelle di energia dell'ordine del Gev, è stimato essere dell'ordine di
+
+I raggi cosmici hanno una distribuzione angolare rispetto alla normale alla superficie della Terra descrivibile dalla funzione:
+
+Naturalmente, la distribuzione nell'angolo azimutale è uniforme: . Le particelle che compongono la radiazione sono molto energetiche. Si stima che il flusso medio a livello del mare abbia un'energia media di 3 GeV.
+Il leptone μ (muone) è una particella elementare a spin 1/2, massa  (circa duecento volte la massa dell'elettrone), e vita media .
+Esiste in due stati di carica (positiva e negativa) e sperimenta due tipi di interazione, oltre quella gravitazionale: l'interazione elettromagnetica e debole.
+Come detto in premessa, i μ sono prodotti nell'alta atmosfera principalmente dal decadimento di π carichi:
+
+Alla produzione, essi sono caratterizzati da velocità relativistiche e, per via del fenomeno della dilatazione temporale, riescono a giungere al livello del mare, dove si osserva che i μ+ sono circa il 20% in più dei μ-.
+
+
+=== Raggi cosmici ad altissima energia ===
+Uno dei misteri più oscuri della cosmologia moderna sono i raggi cosmici con energie dell'ordine di , ossia la quantità di energia di una palla da tennis colpita da un professionista (oltre 100 km/h) concentrata in una sola particella, solitamente un protone. Per contro, la massa a riposo del protone è circa .
+Queste particelle hanno una velocità meno di una parte su  inferiore alla velocità della luce, e, a causa dello scattering nel fondo di microonde, dovrebbero avere un'origine entro 200 milioni di anni luce da noi (altrimenti verrebbero assorbite dall'interazione con la radiazione cosmica di fondo). Tuttavia, non si conosce alcun oggetto celeste in grado di generare queste particelle con una tale energia all'interno di questo limite.
+Qualche anno fa, l'esperimento AGASA in Giappone aveva segnalato l'esistenza di un flusso anomalo di tali enigmatiche particelle; i risultati di AGASA non sono stati tuttavia confermati dall'esperimento Auger, più sensibile.
+
+
+=== Raggi cosmici galattici - nuove scoperte ===
+A seguito di osservazioni da parte dell’Osservatorio Australe Europeo, utilizzando il sistema Very Large Telescope VLT coordinato con l'osservatorio spaziale Chandra per la rilevazione dei raggi X, e con i rivelatori di raggi gamma MAGIC, HESS, VERITAS e Fermi-GLAST, si è recentemente scoperto il meccanismo che sta alla base dell’accelerazione delle particelle che costituiscono i raggi cosmici galattici (fino all'energia del ginocchio).
+Si è dimostrato che i raggi cosmici di energia intermedia (fino a 10000 TeV) che permeano lo spazio interstellare e bombardano costantemente il nostro pianeta, e che provengono dalla Via Lattea, vengono accelerati nei resti delle esplosioni delle supernove (oggetti di massa pari a qualche massa solare). Si è quindi visto che l'energia termica totale causata dall'esplosione delle stelle viene spesa in gran parte per accelerare alcune particelle a velocità prossime a quelle della luce.
+
+
+=== Raggi cosmici extragalattici - nuove scoperte ===
+Nel 2004, il grande rivelatore a terra chiamato Osservatorio Pierre Auger ha cominciato a raccogliere dati; esso campiona attualmente una superficie di oltre 3000 chilometri quadrati (circa tre volte la superficie del comune di Roma) nella pampa argentina vicino a Malargue. L’osservatorio Auger sta fornendo informazioni fondamentali sui raggi cosmici, in particolare indicando che la direzione dei raggi cosmici di energia estremamente alta (superiore ad alcuni joule per particella, ossia a centinaia di milioni di TeV) è correlata ai nuclei delle galassie al di fuori della Via Lattea, e in particolare è stata riconosciuta come sorgente la galassia Centaurus A. Sembra quindi provato che l’origine dei raggi cosmici di altissima energia sia legata ai collassi gravitazionali in prossimità dei buchi neri supermassicci (con masse superiori anche a un miliardo di masse solari).
+L’astronomia con i raggi cosmici carichi è comunque difficile, perché, anche con strumenti grandissimi come Auger, il numero di eventi raccolti è piccolo (qualche decina all’anno), e non è possibile “puntare” oggetti esterni al supergruppo

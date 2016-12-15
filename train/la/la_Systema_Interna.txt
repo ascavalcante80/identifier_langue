@@ -1,0 +1,50 @@
+Systema Internationale Unitatum (siglum SI) est mensurae systema quod circum annum 1960 ex mensuris metricis creatum est ut unitates magnitudinibus mensura laboratoriali utiliores habeantur.
+
+
+== Unitates axiomaticae ==
+Hoc SI systema septem unitates primarias vel axiomaticas habet: metrum (m), chiliogramma (kg), secundum (s), Amperium (A), Kelvin (K), moles (mol), et Candela (cd). 
+
+
+=== Metrum ===
+Metrum (-i, n.) (symbolum: m) est distantia quam per conventum anni 1983 lumen in vacuo in parte  secundi percurrit, ut velocitas lucis subtiliter definita sit sequenti modo
+.
+
+
+=== Chiliogramma ===
+Chiliogramma (-atis, n.) (symbolum: kg) est massae unitas ab anno 1889 definita ut unum chiliogramma sit quam massam exemplar priscum continet Lutetiae apud Officinam Internationalem Ponderae Mensuraeque situm. Exemplar factum est ex metallis Platino (90 %) atque Iridio (10 %). In forma cylindrica fusum est 39mm alti, cum radio 19.5mm.
+
+
+=== Secundum ===
+Secundum (-i, n.) (symbolum: s) est temporis spatium quod per conventum anni 1967 correspondet tantis 9 192 631 770 periodorum lucis undarum quam potimur ex transitione inter duos gradus hypersubtiles stati fundamentalis atomi Cs 133.
+
+
+=== Amperium ===
+Amperium (-ii, n.) (symbolum: A) est fluxionis unitas electricae ab anno 1948 definita postulando constantem magneticum in legem Biot-Savart esse accurate
+
+.
+
+Est fluxio electrica constans quae, si contineatur in duobus conductoribus parallelis, longitudinibus infinitis, quorum diametros neglegere possumus, uno metro exactiter inter eos, vim in quoque conductore creet magnitudinis 2×10–7 Newtoni per metrum conductoris.
+
+
+=== Kelvin ===
+Kelvin (-is, m.) (symbolum: K) est unitas temperaturae thermodynamicae absolutae quae per conventum anni 1968 definita est ut pars 1/276.16 sit temperaturae thermodynamicae status trini aquae in quo simul status liquidi, solidi, et gasi coexistent.
+
+
+=== Moles ===
+Moles (-is, f.) (symbolum: mol) est quantitatis materiae unitas quae per conventum anni 1969 tantis entitatibus correspondet ut quantae atomorum carboniorum sunt in parte 0.012 chiliogrammatis carbonii. Secundum conventum anni 1980 asciscitur atomos carbonii esse sine vinculi et in statu quantico fundamentali quiescendi.
+
+
+=== Candela ===
+Candela (-ae, f.) (symbolum: cd) est intensitatis luminosae unitas quae mensura est sensitivitatis oculi humani et intensitatis lucis physicae coniunctim. Unitas candelae definitur ut una candela communis habeat intensitatem luminosam comparabilem. Per conventum anni 1979 una candela correspondet intensitate luminosa quam fons monochromatica lucis edit si sua frequentia est 540 x 1012 Hertz et sua intensitas physica est 1/683 Wattii per steradian.
+
+
+== Praefixa universalia ==
+Omnes mensurae metricae praefixis utuntur ad novas unitates, quae magnitudines communicant, creandas. Si magnitudo maior est quam magnitudo unitatis, praefixum e lingua Graeca provenit, ut hecto- e verbo graeco ἑκατόν, 100; si minor, e lingua Latina, ut centi- e "centum." Quodque praefixum significat potentia decimorum sic:
+Ergo, centimetrum significat spatium centesimae metri; chiliogramma significat massam mille grammatum.
+
+
+== Unitates secundariae ex axiomaticis derivatae ==
+Per compositionem unitatium primariarum, omnes unitates secundarias derivantur, exempli causa, de area metrum quadratum (m2), de volumine metrum cubicum (m3), et de vi Newtonium (N = kg m/s2). In Systemate Internationale, variae unitates secundariae physicis praeclaribus nominata sunt:
+
+
+== Quantitates dimensionis uni

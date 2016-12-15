@@ -1,0 +1,58 @@
+Systeemtheorie is een multidisciplinaire theorie over de systematische beschouwing van systemen in de natuur, wetenschap en of maatschappij. Deze theorie is gericht op de complexiteit en onderlinge afhankelijkheid tussen en binnen systemen, wat in de praktijk vaak vereenvoudigd wordt door alleen naar bepaalde aspecten uit het systeem te kijken. Ze is gebaseerd op principes uit de natuurkunde, biologie en techniek en heeft haar uitwerking naar onder andere de cybernetica, filosofie, organisatieleer, management, psychotherapie, economie en sociologie.
+
+
+== Ontwikkeling en tijdlijn ==
+De systeemtheorie ontstond aan het begin van de 20e eeuw. Het was tot op een zekere hoogte een reactie op de evolutietheorie. Menselijke samenlevingen en allerlei andere systemen waren voorheen binnen het kader van de evolutietheorie beschouwd als chaotische producten die het resultaat waren van toevalligheden binnen het kader van natuurlijke selectie. De systeemtheorie zag ze daarentegen als grote gehelen die zowel geordend als dynamisch waren. Dit nieuwe paradigma deed zich vrijwel tegelijkertijd voor in de fysica, de biologie, de psychologie, de sociologie en de culturele antropologie. Vergelijkbare ontwikkelingen vonden ook buiten de wetenschap plaats, namelijk in de schilderkunst, beeldhouwkunst en architectuur waar het constructivisme centraal stond.
+De serieuze ontwikkeling van de systeemtheorie als vakgebied begon in de jaren 1940.
+1940-1949: Ludwig von Bertalanffy introduceert het begrip Organismic Revolution en legt de basis voor de algemene systeemtheorie, John von Neumann introduceert de speltheorie, Claude Shannon & Warren Weaver de informatietheorie, Norbert Wiener de cybernetica.
+1956 : Kenneth E. Boulding formuleert een hiërarchie van stelsels waarmee systemen geclassificeerd kunnen worden.
+1963 : Edward Lorenz publiceert de eerste waarneming van wanordelijk gedrag in een stelsel.
+1970er jaren: Benoît Mandelbrot speelt een sleutelrol in de ontwikkeling van chaostheorie met de ontwikkeling van de fractale wiskunde. David Ruelle en Floris Takens ontwikkelen het begrip vreemde aantrekker. Dit legt de grondslag voor de chaostheorie.
+1977 : De Belgische chemicus Ilya Prigogine ontvangt de Nobelprijs voor zijn werk aan dissipatieve structuren en zelforganisatie.
+1981 : Peter Checkland ontwikkelt de zogenaamde Soft Systems Methodology: een methodiek en schematechniek gebaseerd op het systeemdenken.
+1990 : Peter Senge ontwikkelt het begrip van systeemgrondvormen of oertypes als deel van een benadering die een lerende organisatie beschrijft
+
+
+== Vormen van systeemtheorie ==
+
+
+=== Algemene systeemtheorie ===
+De algemene systeemtheorie is opgezet als wetenschap die een beschrijving geeft van de meest algemene kenmerken van de werkelijkheid, die men beschouwt als opgebouwd uit systemen. De term en eerste aanzet is voorgesteld door Bertalanffy rond 1950. In de jaren vijftig is het idee gegroeid tot een raamwerk van denkbeelden door de inbreng van wetenschappers uit allerlei disciplines. In de volgende decennia zijn deze denkbeelden verder uitgewerkt in allerlei vakwetenschappen. Dit onderzoek naar algemene patronen in systemen is later vervolgd in chaostheorie en het onderzoek naar complexe systemen.
+
+
+=== Chaostheorie ===
+
+De chaostheorie is de populaire benaming voor het deelgebied binnen de wiskunde dat het gedrag van bepaalde dynamische systemen (Engels: Dynamical systems of systeemtheorie) onderzoekt. De officiële naam binnen de wiskunde is dynamische systemen. Hierbij worden omstandigheden onderzocht waarbij deterministische chaos optreedt en wordt gekeken welke eigenschappen deze heeft. Het begrip chaos heeft hierbij een technische betekenis, te onderscheiden van het losse alledaagse woordgebruik. Deterministische chaos betekent dat de schijnbare wanorde toch exact bepaald is en geordend tot stand komt volgens een algoritme of rekenregel. Bijvoorbeeld een differentiaalvergelijking of recursie. Het gebied is bijzonder praktisch want de stabiliteit en betrouwbaarheid van systemen wordt ermee onderzocht.
+
+
+=== Cybernetica ===
+De cybernetica is de wetenschap die zich bezighoudt met de besturing van systemen: de controle van biologische en mechanische systemen, de communicatie binnen biologische en mechanische systemen, en de feedback oftewel terugkoppeling. De cybernetica werd in de jaren 50 van de twintigste eeuw voorgesteld door de Amerikaanse wiskundige Norbert Wiener. De cybernetica is verwant met de systeemtheorie en zij is van toepassing op alle stelsels met inbegrip van de biologische systemen, maar bijvoorbeeld ook van toepassing op een eenvoudig systeem, zoals een thermostaat die de temperatuur in een gebouw regelt.
+
+
+=== Sociale systeemtheorie ===
+Specifiek in de sociologie hebben de ontwikkelingen in het systeemdenken geleid tot de afbouw van het eng natuurwetenschappelijk model van de sociologie. Zo ontwikkelde bijvoorbeeld Talcott Parsons in de 1960er jaren een grand theorie over de sociologie, waarin economie, biologie, systeemtheorie en politicologie worden gecombineerd. Andere benaderingen uit de theorie over complexe systemen hebben geleerd, dat sociale interactie wordt geordend als gevolg van zelforganisatie. Dit was het werk van onder andere de Amerikaanse bioloog Stuart Kauffman. De thans meest prominente benadering is die van de Duitse socioloog Niklas Luhmann, die Parsons' benadering radicaal heeft uitgebreid, onder meer met noties uit de algemene systeemtheorie.
+Het structureel functionalisme - dat zich mede dankzij Bronisław Malinowski en Alfred Radcliffe-Brown voor het eerst manifesteerde binnen de culturele en de sociale antropologie - was met name een tegenreactie op de evolutionistische benadering van culturen. Niet het verleden van een bepaalde cultuur moest centraal staan bij het bestuderen van die cultuur, maar de functies van de verschillende sociale en culturele elementen die gezamenlijk het sociale of culturele systeem vormen.
+
+
+=== Wereld-systeemtheorie ===
+De wereld-systeemtheorie is een theoretisch raamwerk in de internationale betrekkingen en de sociologie, voornamelijk ontwikkeld door Immanuel Wallerstein. Wallerstein kiest in zijn werk expliciet voor een 'niet-disciplinaire benadering' (te onderscheiden van een multidisciplinaire). Volgens hem zijn de scheidslijnen tussen antropologie, economie, politicologie, sociologie en geschiedenis gebaseerd op de liberale staatsopvatting en hinderlijk bij het bestuderen van sociale systemen in hun totaliteit.
+
+
+=== Wiskundige systeemtheorie ===
+De wiskundige systeemtheorie is de leer van de wiskundige beschrijving van systemen. Dit vak wordt ook wel genoemd; mathematische systeemtheorie, lineaire systeemtheorie (LTC-systeem) of dynamische systeemtheorie. Het richt zich enerzijds op de studie van systemen, dynamische processen en verschijnselen, die in wisselwerking staan met hun omgeving. Dit kan zich richten op de analyse van problemen waarbij keuzen gemaakt worden in een technisch besluitvormingsproces. Anderzijds beschrijft dit vak wiskundige modellen van systemen uit verschillende vakgebieden en richt zich op het voorschrijven van modellen met gewenst gedrag. Een streven hierbij is om klassen van systemen wiskundig te formaliseren.
+
+
+== Zie ook ==
+Lijst van systeemdenkers
+Complexiteitstheorie
+Complex systeem
+Santa Fe Instituut
+Systeemtheorie (management)
+Systeemtherapie
+Systeemwetenschap
+LTC-systeem
+
+
+== Bronnen ==
+2005, D. Hinrichsen en A.J. Pritchard, Mathematical Systems Theory I - Modelling, State Space Analysis, Stability and Robustness, Springer Verlag. ISBN 3540441255
+2003, M.W. Hirsch, S. Smale and R. Devaney, Differential Equations, dynamical systems, and an introduction

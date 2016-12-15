@@ -1,0 +1,49 @@
+Le leggi di Keplero sono le tre leggi del movimento dei pianeti. Sono il principale contributo di Giovanni Keplero all'astronomia e alla meccanica.
+L'astronomo tedesco le derivò in parte studiando le osservazioni di Tycho Brahe. Isaac Newton avrebbe più tardi verificato la validità di queste leggi alla luce della teoria della gravitazione universale.
+
+
+== Prima Legge (Legge delle orbite ellittiche, 1608) ==
+
+La prima legge afferma che:
+Keplero propone un modello eliocentrico in cui non vengono più dette le orbite circolari, le forme perfette, ed è supportato nel farlo dai dati sperimentali ottenuti da Tycho Brahe. Osserviamo che, poiché l'ellisse è una figura piana, i moti dei pianeti avvengono in un piano, detto piano orbitale. Per la Terra tale piano è detto eclittica.
+Nella figura a fianco è rappresentata un'orbita ellittica, con indicati i suoi parametri caratteristici: semiasse maggiore (a), semiasse minore (b), semi-distanza focale (c), eccentricità (e).
+Tra questi parametri esistono le relazioni seguenti:
+
+L'ellisse in figura ha un'eccentricità di circa 0,5 e potrebbe rappresentare l'orbita di un asteroide. I pianeti hanno in realtà eccentricità molto più piccole: 0,0167 per la Terra, 0,0934 per Marte e 0,2482 per Plutone (pianeta nano).
+La distanza dei pianeti dal Sole non è costante, ma varia da un massimo (afelio) a un minimo (perielio). È possibile considerare la prima legge di Keplero collegata alla conservazione della Quantità di moto.
+
+
+== Seconda Legge (Legge delle aree, 1609) ==
+
+La seconda legge afferma che:
+
+
+=== Conseguenze della seconda legge ===
+La velocità areolare è costante.
+La velocità orbitale non è costante, ma varia lungo l'orbita. Le due aree evidenziate nella figura qui a fianco sono infatti uguali e vengono quindi percorse nello stesso tempo. In prossimità del perielio, dove il raggio vettore è più corto che nell'afelio, l'arco di ellisse è corrispondentemente più lungo. Ne segue quindi che la velocità orbitale è massima al perielio e minima all'afelio.
+Il momento angolare orbitale del pianeta si conserva (vedi riquadro sotto per la dimostrazione).
+La velocità lungo una determinata orbita è inversamente proporzionale al modulo del raggio vettore. Questa è una conseguenza della conservazione del momento angolare. Se L, dato dal prodotto di m, r e vt è costante ne discende che vt è inversamente proporzionale a r (si veda "momento angolare" per la definizione di L, m, r e vt).
+Sul pianeta viene esercitata una forza centrale, cioè diretta secondo la congiungente tra il pianeta e il Sole. La seconda legge della dinamica per i sistemi in rotazione è
+
+dove M è il momento meccanico applicato. Poiché L si conserva, la sua variazione è nulla e quindi anche M è nullo. Questo può accadere solo se F è parallelo a r, cioè è diretto come la congiungente con il Sole.
+
+La seconda legge di Keplero risulta quindi generalizzabile a un qualsiasi moto centrale, legando l'accelerazione tangenziale alla velocità areolare. Nella figura qui a fianco OA rappresenta il raggio vettore e AB la traiettoria del pianeta nel tempo Δ t. Se Δ t è sufficientemente piccolo, AB può essere approssimato da un segmento di retta. Sia inoltre θ l'angolo tra il raggio vettore e AB. Nel tempo Δ t viene quindi descritta un'area
+
+La velocità areolare è quindi
+
+essendo
+
+la velocità orbitale istantanea. Poiché  è il modulo del momento angolare, risulta . Se  è costante, anche L lo è.
+È possibile considerare la prima legge di Keplero collegata alla conservazione del Momento angolare.
+
+
+== Terza Legge (Legge dei periodi, 1619) ==
+
+La terza legge afferma che:
+Il rapporto tra il quadrato del periodo di rivoluzione e il cubo del semiasse maggiore dell'orbita è lo stesso per tutti i pianeti
+Questa legge è valida anche per i satelliti che orbitano intorno ai pianeti e può essere espressa in forma matematica nel modo seguente:
+
+dove  è il semiasse maggiore (o equivalente al raggio medio) dell'orbita, T il periodo di rivoluzione e K una costante (a volte detta di Keplero), che dipende dal corpo celeste attorno al quale avviene il moto di rivoluzione (ad esempio, se si considera il moto di rivoluzione dei pianeti del sistema solare attorno al Sole e misurando le distanze in unità astronomiche e il tempo in anni solari, K vale 1). Per un'orbita circolare la formula si riduce a
+
+dove r è il raggio dell'orbita.
+Si può dimostrare che , con  per il caso gravitazionale e  massa ridotta. La dimostrazione è particolarmente sempli

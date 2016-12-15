@@ -1,0 +1,64 @@
+i più ontologie. Se si vuole un sistema dinamico in grado di raffinarsi e funzionare su scala universale, bisognerà pagare il prezzo di una certa dose di incoerenza. A partire dal 2006 il progetto di realizzazione del web semantico mediante la costruzione di ontologie è stato parzialmente revisionato. In un articolo pubblicato su International Journal on Semantic Web and Information Systems dal titolo The Semantic Web Revisited, Tim Berners-Lee, Nigel Shadbolt e Wendy Hall hanno ridefinito alcuni aspetti del web semantico in funzione della dinamicità del World Wide Web. L'idea era quella di sviluppare e migliorare le ontologie in maniera collaborativa, grazie all'intervento di comunità di pratica. In seguito, questo nuovo approccio si è orientato sempre più a far sì che i dati vengano strutturati sotto forma di Linked Data che non sotto forma di ontologie. Nell'articolo del 2009 emerge chiaramente che i Linked Data vengono considerati come le nuove colonne portanti su cui costruire il web semantico.
+
+
+=== Agenti semantici ===
+È da segnalare che molto lavoro è attualmente in corso per estendere le possibilità del web semantico applicando l'idea degli agenti semantici intelligenti (programmi in grado di esplorare ed interagire autonomamente con i sistemi informatici per, ad es., ricercare informazioni). Ruolo di questi agenti nel web semantico è di fornire più vaste capacità di inferenza realizzando quanto espresso in un articolo su Scientific American di Tim Berners-Lee intitolato The Semantic Web, dove si prospetta un futuro in cui Lucy fissa una visita medica alla madre utilizzando alcuni agenti capaci di "capire" la patologia, contattare i centri in grado di curarla e perfino di richiedere un appuntamento ai relativi agenti, salvo poi lasciarle la decisione di confermare.
+
+
+=== Limiti ===
+L'imprecisione del sistema è il prezzo da pagare alla sua universalità, i messaggi di "not found" (non trovato) non saranno completamente eliminati. Tutto questo per rendere possibile l'affiancarsi di più referenze e quindi non perdere, almeno in linea programmatica, la possibilità di più definizioni, di più comprensioni di uno stesso oggetto concreto.
+Un altro tema molto importante e dibattuto è come gestire la fiducia sulle asserzioni o, più esattamente, sugli autori delle asserzioni.
+Per ovviare il problema delle certificazioni che sarebbero necessarie a mantenere la veridicità delle ontologie, le asserzioni vengono trasformate a loro volta in termini legati al proprio autore attraverso il ruolo (proprietà) "Asserisce" che ha per codominio il termine "Asserzione". In questo modo è possibile attribuire a questo nuovo termine un Soggetto, un Predicato e un Oggetto utilizzando le normali relazioni. Attraverso questo procedimento, proposizioni del tipo "il bicchiere contiene del vino" vengono modificate in proposizioni del tipo "Marco ASSERISCE che il bicchiere (Soggetto) contiene (Predicato) del vino (Oggetto)". Se si vuole essere più precisi, bisognerebbe inserire nell'ontologia ben 4 asserzioni:
+Marco - asserisce - Asserzione
+Asserzione - haSoggetto - Bicchiere
+Asserzione - haPredicato - Contiene
+Asserzione - haOggetto - Vino
+
+
+== Note ==
+^ IsaViz su w3.org
+^ Immagine su w3.org
+^ (EN) Representing vCard Objects in RDF/XML
+^ (EN) SPARQL Query Language for RDF, W3C Recommendation 15 January 2008
+^ (EN) OWL Web Ontology Language Use Cases and Requirements
+^ International Journal On Semantic Web and Information Systems
+^ http://The%20Semantic%20Web%20Revisited http://eprints.ecs.soton.ac.uk/12614/1/real/OLD_Semantic_Web_Revisted.pdf
+^ http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf
+^ The Semantic Web
+
+
+== Bibliografia ==
+Tim Berners-Lee, L'architettura del nuovo Web, Feltrinelli, Milano, 2002
+Michael Daconta, The Semantic Web, Wiley Pub., Indianapolis, 2003
+Davies, John, Towards the semantic web, J. Wiley, Chichester-Hoboken, 2003
+Dieter Fensel, Spinning the semantic Web, MIT Press, Cambridge, 2003
+Tim Berners-Lee, The Semantic Web, in «Scientific American», maggio 2001
+Luca Spinelli, Panoramica sul web semantico, in «Login», Gruppo Editoriale Infomedia, 2005
+Johan Hjelm, Creating the semantic Web with RDF, Wiley, New York, 2001
+
+
+== Voci correlate ==
+Base di conoscenza
+KQML, linguaggio e protocollo di comunicazione usato per scambiare informazioni e conoscenza
+Logiche descrittive
+Ontologia (informatica)
+Resource Description Framework (RDF), standard per la descrizione della conoscenza nel web
+SKOS
+Topic Maps, tecnologia per l'organizzazione e la rappresentazione della conoscenza
+XML
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Web semantico
+
+
+== Collegamenti esterni ==
+Rassegna stampa in tempo reale sul web semantico
+RDF Primer del W3C
+Un sistema semantico che raccoglie riferimenti a risorse di pubblica utilità quali strumenti e documenti nell'area Semantic Web
+SWAD-Europe su W3C
+Websemantico.org
+TermExtractor - software gratuito per l'estrazione di termini. Utile come punto di partenza per temi quali l'Ontologia
+Web Semantico e Rappresentazione della conoscenza: Percorso di studio introduttivo.
+Web semantico, in Tesauro del Nuovo soggettario, BNCF, marzo 2013.

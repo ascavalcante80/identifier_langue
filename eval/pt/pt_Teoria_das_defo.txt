@@ -1,0 +1,11 @@
+mente iguais. Logo, tem-se,
+,
+ou, ,
+onde  são as componentes do tensor de deformações infinitesimal , também denominado de tensor de deformações de Cauchy, tensor de deformações linear ou tensor de pequenas deformações. Assim,
+,
+ou usando uma notação diferente,
+.
+Para além das definições anteriores, o gradiente de deformações pode ser expresso como  onde  é um tensor de identidade de segunda ordem, tendo-se,
+.
+Também, a partir da expressão geral dos tensores de deformações finitas Lagrangiano e Euleriano tem-se,
+.

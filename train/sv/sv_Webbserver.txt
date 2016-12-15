@@ -1,0 +1,11 @@
+En webbserver är antingen ett datorprogram som tillhandahåller webbsidor för en viss webbplats eller en serverdator på vilken sådan programvara körs.
+
+
+== Datorprogram ==
+Ett webbserverprogram har som uppgift att tillhandahålla webbsidor och andra filer via datakommunikationsprotokollet HTTP eller HTTPS, vanligen över Internet eller ett intranät baserat på internetteknik. Det förekommer också att en enskild användare kör en webbserver för eget lokalt bruk på sin egen dator. Vanligen kommunicerar användaren med webbservern med hjälp av en webbläsare. Användaren väljer webbsidor och webbläsaren beställer webbsidorna från webbservern och visar dem på användarens datorskärm. Webbläsaren är klient till webbservern.
+Det vanligaste webbserverprogrammet är Apache HTTP Server. Några leverantörer har inkorporerat Apache-servern i sin egen webbserver och tillfogat extra, egen funktionalitet.
+Andra vanliga webbservrar är Microsoft Internet Information Server (IIS), Google GWS, nginx och lighttpd.
+
+
+== Dator ==
+En dator som kör en webbserverprogramvara kallas fö

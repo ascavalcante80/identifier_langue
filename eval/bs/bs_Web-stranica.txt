@@ -1,0 +1,20 @@
+m.
+Dizajniranje web-stranice je visoko personalan dio posla. Dizajn može biti urađen prema ličnom ukusu ili izborom raznih šablona koji već postoje. Web šabloni dopuštaju web dizajnerima mijenjanje sadržaja web-stranice bez brige o općoj estetici. Većina ljudi objavljuju svoje vlastite web-stranice koristeći proizvode kao Tripod ili Angelfire. Ovi web alati nude besplatno kreiranje web-stranice i hosting do određenog ograničenja. Drugi načini kreiranja web-stranice je skidanje specijaliziranog softvera, poput Wiki-a, CMS-a ili foruma. Ove opcije dopuštaju brzo i jednostavno kreiranje web-stranice koje su obično dinamične.
+
+
+== Sačuvavanje ==
+Dok korisnik pregleda web-stranicu, kopija iste je sačuvana lokalno; to je što se prikazuje. Zavisno od postavki preglednika, ova kopija može biti obrisana u bilo kojem trenutku, ili pohranjena neograničeno, ponekad da korisnike to i ne zna. Većina GUI preglednika omogućava opcije za spašavanje web-stranice trajno. One mogu sadržiti:
+Sačuvaj renderirani tekst bez formatiranja ili slika, uz hiperlinkove svedene na običan tekst
+Sačuvaj HTML kao što je uslužen - ukupna struktura sačuvana ali neki linkovi mogu biti raskinuti
+Sačuvaj HTML sa relativnim linkovima izmijenjeni u apsolutne, tako da su sačuvani hyperlinkovi
+Sačuvaj cijelu web-stranicu - Sve slike i drugi resursi, uključujući stilove i skripte se preuzimaju i sačuvavaju u novu fasciklu uz HTML, sa linkovima prema njima izmenjenim da se odnosi na lokalne kopije. Ostali relativni linkovi izmijenjeni u apsolutne
+Sačuvaj HTML, kao i sve slike i druge resurse u jednu MHTML datoteku. Ovo je podržano na Internet Explorer i Opera. Ostali preglednici mogu podržati ovo, ako je instaliran odgovarajući dodatak.
+Većina operativnih sistema omogućuju aplikacijama kao što web preglednici ne samo da štampaju trenutno posmatranu web-stranicu na printer, nego opcionalno da "print" u datoteku koja se može posmatrati ili će se štampati kasnije. Neke web-stranice su dizajnirane, na primjer upotrebom CSS, tako da su hiperlinkovi, meniji i druge stavke navigacije, koji će biti beskorisne na papiru, renderirani u print sa ovim u vidu. Ponekad, odredišne adrese hyperlinkova mogu biti prikazane izričito, bilo u tijelu stranice, ili se nalaze na kraju štampane verzije. Dizajneri web-stranice mogu navesti u CSS da nefunkcionalni meniji, navigacioni blokovi i druge stavke mogu jednostavno biti odsutne iz štampane verzije.
+
+
+== Također pogledajte ==
+Web dokument
+Web dizajn
+
+
+== Reference ==

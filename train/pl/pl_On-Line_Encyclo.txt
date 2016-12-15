@@ -1,0 +1,3 @@
+On-Line Encyclopedia of Integer Sequences (OEIS, czasami nazywana również od nazwiska autora encyklopedią Sloane) – internetowa, darmowa baza ciągów liczb całkowitych.
+OEIS skierowana jest do zawodowych matematyków oraz amatorów i jest szeroko cytowana. Zawiera ponad 260 tysięcy (na 2015 r.) różnych ciągów, będąc tym samym największą bazą danych tego typu.
+Każdy wpis zawiera początkowe elementy ciągu, słowa kluczowe, komentarze, linki do literatury oraz dodatkowe funkcje, takie jak generowanie wykresu czy odtwarzanie muzyczne

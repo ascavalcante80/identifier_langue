@@ -1,0 +1,71 @@
+XHTML (Extensible HyperText Markup Language) est un langage de balisage servant à écrire des pages pour le World Wide Web. Conçu à l'origine comme le successeur de HTML, XHTML se fonde sur la syntaxe définie par XML, plus récente, mais plus simple que celle définie par SGML sur laquelle repose HTML. Il s'agissait en effet à l'époque de tirer parti des bénéfices techniques attendus de la simplification offerte par XML.
+
+
+== Le nom XHTML ==
+Comme de nombreux langages fondés sur XML, celui-ci commence par la lettre X, qui représente le mot extensible. Ainsi le premier document décrivant officiellement XHTML s'appelle XHTML 1.0 The Extensible HyperText Markup Language (« XHTML 1.0 Le langage de balisage hypertexte extensible »). C'est cependant l'abréviation XHTML qui est une marque du World Wide Web Consortium (W3C) et qui est seule utilisée dans les spécifications qui ont suivi la version 1.0.
+
+
+== XHTML, évolution de HTML ==
+XHTML 1.0 reformule simplement HTML 4 en application de XML 1.0. La syntaxe seule change, aucune fonctionnalité n'ayant été ajoutée ni retirée. La conversion d'un document en HTML 4.01 conforme en XHTML 1.0 peut se faire automatiquement sans perte d'information.
+XHTML 1.0 est devenu une recommandation du W3C en 2000, et le XHTML 1.1 en 2001. Durant toutes les années 2000, HTML 4 et XHTML sont tous les deux utilisés par les développeurs et interprétés par les navigateurs Web.
+
+
+=== Conversion de HTML en XHTML ===
+Cet exemple illustre les différences syntaxiques les plus courantes entre un document écrit en HTML 4 et en XHTML 1.0.
+
+À l'inverse de la syntaxe HTML permissive ci-dessus, le même document doit être « bien formé » pour respecter les règles d'écriture du XHTML :
+
+
+== Modularisation de XHTML ==
+Les évolutions suivantes divisent le langage XHTML en modules, chacun regroupant un type de fonctionnalités. Cette division est conçue pour permettre d'étendre le format, ou à l'inverse d'en tirer des sous-ensembles adaptés à des contextes spécifiques. Ainsi :
+XHTML1.1 enrichit XHTML1.0 avec l'élément ruby permettant d'ajouter des annotations aux textes écrits dans les langues idéographiques (japonais, hébreu, chinois…)
+XHTML BASIC est un sous-ensemble simplifié, destiné à l'adaptation des contenus aux clients légers (mobiles)
+
+
+== Développement du XHTML 2.0 ==
+Le XHTML 2.0 était en cours de développement. Il ne devait pas être compatible en ascendance et en descendance, notamment à cause de l'introduction de XForms et de XFrames.
+Finalement le 2 juillet 2009 le W3C a officiellement annoncé l'abandon du développement du XHTML 2 afin de se consacrer entièrement à son nouveau successeur : le HTML 5.
+
+
+== Document Valide XHTML ==
+Pour qu'un document soit valide XHTML, il doit avoir une déclaration de type (DOCTYPE) et un encodage (ISO ou UTF) conforme aux spécifications du W3C.
+
+
+=== La déclaration XML ===
+La déclaration XML n'est requise que dans quelques conditions d'encodage (jeu de caractères autre qu'UTF-8 en particulier), et lorsque le document est traité en tant que document XML (type de contenu application/xhtml+xml). La plupart des documents XHTML 1.0 ne l'exigent donc pas. Il entraîne par ailleurs dans le navigateur web Internet Explorer 6.0 un mode d'interprétation problématique des Cascading Style Sheets et des scripts JavaScript. Néanmoins, la version Internet Explorer 8 tend à se rapprocher des autres navigateurs et à se conformer au CSS.
+En fonction du jeu de caractères retenu, le document peut donc commencer par l'instruction suivante mise en première ligne :
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+Quelques exemples de Déclaration de Type de Documents en XHTML :
+XHTML 1.0 Strict
+
+<!DOCTYPE html 
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+XHTML 1.0 Transitional
+
+<!DOCTYPE html 
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+XHTML 1.0 Frameset
+
+<!DOCTYPE html 
+PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+
+
+=== Déclaration XMLNS ===
+La redondance des attributs xml:lang et lang n'est requise qu'en cas de document XHTML 1.0 traité en tant que document text/html, selon les recommandations (non normatives) de compatibilité XHTML/HTML. On écrira alors :
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+Dans un document XHTML 1.0 traité en tant que document application/xhtml+xml ou dans un document XHTML 1.1 et au-delà, on écrira obligatoirement :
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+
+
+== Notes et références ==
+ (en) X

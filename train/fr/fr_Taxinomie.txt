@@ -1,0 +1,72 @@
+La taxinomie, ou taxonomie,,,,, est une science, branche de la biologie, qui a pour objet de décrire les organismes vivants et de les regrouper en entités appelées taxons afin de les identifier puis les nommer et enfin les classer et de les reconnaitre via des clés de détermination dichotomiques. Elle complète la systématique qui est la science qui organise le classement des taxons et leurs relations. Parmi ces méthodes, les plus récentes incluent une nouvelle approche conceptuelle de la classification mais aussi des méthodes d'analyse d'éléments empiriques restés longtemps ignorés de la science avant l'arrivée, au cours de la seconde moitié du XXe siècle, des découvertes de la biologie moléculaire.
+La taxinomie s'étend maintenant à d'autres sciences, entre autres les sciences humaines et sociales, les sciences de l'information ou l'informatique.
+
+
+== Étymologie et usage du motModifier ==
+
+Le mot taxinomie provient du grec τάξις (taxis) « placement », « classement », « ordre » et de νομός (nomos) qui signifie « loi », « règle »). Le terme fut créé en 1813, sous l'orthographe de taxonomie, par le botaniste suisse Augustin Pyrame de Candolle (1778-1841) dans sa Théorie élémentaire de la botanique ou exposition des principes de la classification naturelle et de l'art de décrire et d'étudier les végétaux, pour désigner dans sa « théorie des classifications » à la fois la méthode et ce qu'il a qualifié de « bases de la botanique philosophique » (Mémoires et souvenirs, Livre III, § 11).
+Émile Littré, dans son Dictionnaire de la langue française (version 1872-1877) précisait que le mot « taxinomie » pouvait aussi être utilisé, formé sur l'étymon grec taxis (l'ordre). Le Grand dictionnaire terminologique confirme que taxinomie est recommandé par plusieurs auteurs considérant « taxonomie » comme « un calque de l'anglais taxonomy ». Cependant, la plupart des dictionnaires anglais affirment que le mot taxonomy dérive du français, et, pour le TLFI, l'anglais taxonomy est apparu en 1828 dans Webster's.
+Le terme de taxinomie ne dérive pas du mot taxon, ce dernier étant un concept apparu bien plus récemment (mot créé par le botaniste Herman Johannes Lam en 1948). Ainsi, la taxinomie n'est pas, étymologiquement, l'étude des taxons mais bien les lois sur l'ordre, donc les règles de la classification. Cependant, le mot taxinomie est aussi et très souvent utilisé pour nommer la science de la description des taxons. Même les auteurs pronant l'usage du terme "taxinomie" ne parlent pas de taxins. Notez également que les autres langues utilisent des termes similaires à "taxonomie", pas "taxinomie". Ainsi, on écrit "taxonomie" en Allemand, "taxonomy" en Anglais, "taxonomia" en Espagnol (Castillan), Portugais et en Catalan, "tassonomia" en Italien, etc.
+Le terme est devenu d’usage courant au XXIe siècle, soit dans la graphie originale, taxonomie, même si celle-ci est étymologiquement contestée, soit sous la graphie corrigée par Émile Littré, taxinomie avec un « i ». La première de ces graphies reste néanmoins d'usage majoritaire parmi les spécialistes de la discipline.
+
+
+== Différences entre taxinomie et systématiqueModifier ==
+Dans la plupart des disciplines de la biologie, le terme taxinomie est inséparable de celui de systématique, science qui a pour objet de dénombrer et de classer les taxons dans un certain ordre, basé sur des principes divers.
+Dans la pratique, le terme « systématique » désigne aussi bien la méthode utilisée (on dira par exemple la « systématique phylogénétique ») que le résultat obtenu avec cette méthode (la « systématique des Agaricales »). Dans le sens concret de résultat, les deux sciences sont peu distinctes et souvent confondues, car pratiquées simultanément par les mêmes personnes. Les taxinomistes ont de tout temps été nommés systématiciens, car après avoir étudié et décrit des organismes, ils ont tout naturellement essayé de les classer à partir du bas niveau des espèces (alpha taxonomy ou « taxinomie primaire »).
+Ceux qui utilisent surtout le sens de méthode, les phylogénéticiens notamment, nomment souvent le résultat classification ou encore « taxinomie ».
+
+
+== Historique et évolution des modèlesModifier ==
+
+
+=== Avant LinnéModifier ===
+La première classification des végétaux est généralement attribuée à Théophraste à la fin du IVe siècle av. J.-C., même si son Histoire des plantes reprend en partie des théories de l'École pythagoricienne. Le premier classificateur connu des animaux fut Aristote, dans le traité Histoire des animaux.
+
+
+=== Carl von LinnéModifier ===
+Le naturaliste suédois Carl von Linné (1707-1778) posa les fondations de la systématique, et fut l'auteur d'une classification dont les grands principes furent la base de la systématique scientifique jusqu'au milieu du XXe siècle.
+
+
+=== Augustin de CandolleModifier ===
+Bien que, comme la méthode de Jussieu, elle utilise les binoms linnéens (on dit aussi binôme en Botanique, le Code de Nomenclature zoologique, 4e édition, 1999, corrige bien en "binom", traduction de "binomen" et non "binomial") et préconise la « méthode naturelle » opposée au « système artificiel » de Carl von Linné, la taxinomie proposée par de Candolle s'en écarte par l'importance donnée aux coupures. Alors que pour Linné et Jussieu, la nature « ne fait pas de saut », Candolle insiste sur les discontinuités qui sont à la base de la notion de taxon, à la fois entité et coupure.
+
+
+=== La révolution darwinienneModifier ===
+Dans la systématique classique (parfois dite « linnéenne »), l'ordre hiérarchique interne des taxons était fondé à l'origine sur des critères de ressemblance « morphologique » et d'affinités supposées. Bien que fortement anthropocentrique et reflétant des causes de la diversité des êtres vivants (création divine) telles qu’on les pensait voici 250 ans, elle fait encore, en ce début du XXIe siècle, partie du bagage culturel commun de tous les naturalistes. Mais par la suite, au fur et à mesure de l'avancée des connaissances, notamment à partir des travaux de Jean-Baptiste de Lamarck et Charles Darwin, cet ordre a rapidement eu l'ambition de donner par surcroît une image de l'évolution.
+L’anthropocentrisme fut battu en brèche avec Charles Darwin qui recommande en 1859 une classification purement généalogique. S’il y a eu évolution, les espèces doivent être classées selon leur degré d’apparentement évolutif. Mais il faudra attendre près d’un siècle pour que nous y arrivions vraiment, et d'abord pour que nous acceptions la généalogie comme inaccessible (qui descend de qui ?) pour mieux nous concentrer sur la phylogénie (qui est plus proche de qui ?).
+
+
+=== Développements modernesModifier ===
+Dans la deuxième moitié du XXe siècle, la systématique dite phylogénétique s'est développée à partir d'une méthode de reconstruction qui a connu un développement foudroyant : la cladistique, initiée par Willi Hennig en 1950. Cette méthode est fondée globalement sur des relations évolutives pour laquelle le critère fondamental du choix de la classification est qu'elle doit refléter strictement la phylogénie, c'est-à-dire les degrés d’apparentement entre espèces. La notion même d'une telle phylogénie est une conséquence de la théorie de l'évolution, et le succès prédictif des arbres phylogénétiques une des preuves de cette théorie.
+D'importants progrès en génomique ont été permis par l'analyse génétique automatique et le développement des outils et modèles informatiques. Ils imposent et permettent la redéfinition de certaines espèces ou groupes d'espèces et permettraient une meilleure connaissance et suivi des espèces.
+
+
+== Principes communs et différencesModifier ==
+Toutes les classifications actuelles se présentent sous la forme d'un arbre (classement arborescent), depuis une racine incluant tous les êtres vivants existants ou ayant existé, jusqu'aux individus. Chaque nœud de l'arbre définit un taxon, qui groupe tous les sous-taxons qu'engendre le nœud.
+
+
+=== La notion d'espèceModifier ===
+Un concept important de classification, assez stable, est celui d'espèce. Ce groupement est relativement bien défini, du moins pour les espèces à reproduction.
+L'espèce se définit comme une communauté d'êtres vivants interféconds (ou interfertiles, capables de se reproduire entre eux), pouvant échanger du matériel génétique et produisant des descendants eux-mêmes féconds (en effet, certains individus du même genre mais appartenant à des espèces différentes peuvent se croiser pour donner un individu hybride, mais celui-ci est le plus souvent stérile). Dans le cas de la multiplication strictement asexuée, on parle abusivement d'espèces à la place de lignée, le groupement étant alors purement phylogénétique. Le cas des entités à la limite du vivant (virus, prions) est encore différent ; elles sont en général exclues des classifications. Une autre difficulté à citer est celle des symbioses strictes, comme les lichens (qui combinent un organisme de nature fongique, et un organisme capable de photosynthèse, de nature végétale), mais en général, un des deux partenaires est capable de vivre sans s'associer à l'autre, et l'on peut les classer dans deux espèces distinctes, avec comme caractéristique d'une des deux espèces de ne pouvoir survivre sans l'autre.
+
+
+=== Emploi du binom latinModifier ===
+Les espèces sont nommées selon le système binominal mis en place par Carl von Linné. Le nom scientifique d'une espèce est la combinaison de deux mots latins ou considérés comme étant du latin (jusqu'à trois dans certaines disciplines, pour une sous-espèce, variété ou forme) généralement écrits en italiques : un nom de genre, suivi d'une ou deux épithètes spécifiques.
+Au-dessous du rang de genre, tous les noms de taxons sont appelés combinaisons. On distingue plusieurs catégories de combinaisons :
+Entre genre et espèce (sous-genre, section, sous-section, série, sous-série, etc.), les combinaisons sont infragénériques et binominales: nom de genre, puis après indication du rang, une épithète infragénérique, par exemple le cèpe appartient à la section « Boletus sect. Edulis » ;
+Au rang d'espèce, les combinaisons sont spécifiques et binominales ;
+Au-dessous de l'espèce, les combinaisons sont infraspécifiques et trinominales.
+
+
+=== Approche phylogénétiqueModifier ===
+L'approche phylogénétique actuelle fait appel aux données de la cladistique, mais ses exigences se résument à n'accepter que des taxons monophylétiques, c'est-à-dire correspondant à un clade donné. Elle demande que les taxons soient limités à ceux qui respectent les deux conditions suivantes :
+tous les individus du taxon descendent d'un individu ancestral particulier ;
+tous les descendants de cet ancêtre particulier sont dans le taxon.
+On parle alors seulement de taxon monophylétique ou clade. Cette contrainte a amené des modifications fondamentales de la classification scientifique, certaines renversant le « sens commun » modelé par l'héritage culturel. Ainsi les dinosaures n'ont pas disparu, la systématique moderne incluant les oiseaux dans le groupement « dinosaures ».
+Parmi d'autres exemples, les taxons traditionnels comme reptiles, poissons, algues, dicotylédones, pongidés, n'ont pas droit de cité en systématique phylogénétique, car considérés polyphylétiques (origines multiples) ou paraphylétiques (incomplets) (dicotylédones a été remplacé par dicotylédones vraies). D'autres ont survécu avec quelques séquelles, comme champignons. Enfin, certains ont surmonté la tempête, comme animal (métazoaires) ou mammifères. Remarquons qu'il n'y avait rien d'évident à ce que tous les animaux multicellulaires partagent un ancêtre commun qui les sépare de tout végétal ou champignon.
+À part cela, sa structure reste fondamentalement de type linnéen et sa nomenclature (c'est-à-dire les dénominations elles-mêmes) également.
+Il y a plusieurs approches techniques pour élaborer les arbres phylogénétiques.
+L'approche cladistique cherche en particulier à déterminer les caractères propres à une branche, qui « signent » un apparentement.
+L'approche phénétique, une classification basée uniquement sur des mesures de distance entre taxons (évaluées par exemple en comptant les différences de séquences d'ADN) sans chercher à faire une interprétation phylogénétique.
+L’approche probabiliste qui construit des arbres phylogénétiques en utilisant des modèles d’évolution des caractères (le plus souvent moléculaires, mais pas obligatoirement).
+Selon les publications, on trouve à ce jour des classifications de tout type, depuis la classification traditionnelle à peine remaniée, jusqu'aux classifications 

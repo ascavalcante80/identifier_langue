@@ -1,0 +1,17 @@
+Momentum virium sive plenius momentum virium respectu axis (symbolum usitatum  de Anglico verbo torque derivatum) est velut vis angularis, quae corporis rotationem efficit, auget, vel diminuit, secundum aequationem:
+
+ubi
+ est corporis momentum inertiae, et
+ est acceleratio angularis.
+ quidem ab vi  calculatur per formulam definientem:
+
+ubi
+ est vector ab axi rotatorio in punctum corporis ubi vis agitur, et
+ est productum vectorale.
+Cum rotatio solum circum axim fixum producitur, facilius est solum magnitudinem momenti tractare: tunc quidem saepe scribitur tantum:
+
+ubi
+r est distantia ab axi in punctum ubi vis agitur,
+F est magnitudo vis, et
+θ est angulus inter  et .
+Unitas momenti virium a

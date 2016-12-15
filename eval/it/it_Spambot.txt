@@ -1,0 +1,22 @@
+'abbonato di generare una whitelist, o un elenco di specifici indirizzi e-mail che il filtro dovrebbe lasciare passare.
+
+
+== Bibliografia ==
+(EN) Spam Email by the US FTC
+
+
+== Voci correlate ==
+Address munging
+Botnet
+Spam#I comportamenti contro lo spam
+
+
+== Collegamenti esterni ==
+Stas Bekman's Article on Botnets and how they are used for spamming
+Botnet discussion mailing list
+Fight Spam - Join Byteplant's Spambot Honeypot Project
+Spambot Beware! - information on how to avoid, detect, and harass spambots
+Bot-trap - A Bad Web-Robot Blocker
+How to block spambots
+Virus Bulletin's The World of Botnets
+How to detect and ban spambots with iptables

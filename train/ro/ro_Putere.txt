@@ -1,0 +1,30 @@
+Puterea în fizică este mărimea fizică scalară ce caracterizează schimbul de energie în unitatea de timp.
+
+
+== DefinițieModificare ==
+Definiția clasică a puterii se bazează pe puterea mecanică:
+
+unde
+P este puterea
+L este lucrul mecanic
+t este timpul.
+Unitatea de măsură pentru putere în SI este wattul:
+
+
+== Tipuri de putereModificare ==
+
+
+=== după naturăModificare ===
+mecanică
+termică (calorică, frigorifică)
+electrică
+sonoră
+luminoasă
+
+
+=== după durata efectuăriiModificare ===
+instantanee
+medie
+Puterea instantanee este derivata energiei schimbate (în relația următoare sub forma lucrului mecanic) în funcție de timp:
+
+Pentru un interval de timp Δt puterea medie este energia schimbată (în relația următoare sub forma lucrului mecanic) în inter

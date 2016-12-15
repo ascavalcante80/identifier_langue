@@ -1,0 +1,148 @@
+ pedagógusnak nem kell érteni a sakkjátékhoz, kizárólag a szabályait kell jól ismernie. Az új tárgy a sakk alapszabályait és eszközrendszerét használva épül be az általános tanterv alaptantárgyaiba, előmozdítva ezzel azok készségszintű elsajátítását. A sakkjáték elsajátítása nem cél, hanem eszköz, amely hihetetlenül hatékony a logikus, kreatív gondolkodás fejlesztésére. Polgár Judit hangsúlyozta, nem nagymestereket akarnak nevelni a gyerekekből, a cél a logikus és kreatív gondolkodás fejlesztése. A gyakorlatokat akár a sporttal vagy az irodalommal is össze lehet kötni, és különböző élethelyzeteket is szimulálnak velük.
+A kerettantervhez Sakkpalota címmel tartós kivitelű tankönyv- és munkafüzet-sorozat, valamint tanári kézikönyv is készült, kiegészítő eszközökkel, mozgásosjáték-leírásokkal, kereszttantárgyi hivatkozásokkal és képességfejlesztő feladatokkal. Az Európai Sakkszövetség (ECU) hivatalosan is támogatja a Sakkpalota program nemzetközi elterjesztését.
+
+
+== Sakk és matematikaSzerkesztés ==
+
+Matematikai problémákat is fel lehet vetni a sakktáblán. Ilyen például a domináns királynők problémája, vagy a nyolckirálynő-probléma. De olyan feladványok is lázban tartották az embereket, mint például az, hogy végig lehet-e úgy menni egy huszárral mind a 64 mezőn, hogy egy mezőre csak egyszer léphet rá. Ez a feladat huszárvándorlás-probléma néven vált ismertté. Az utóbbi feladatra jobb oldalon található egy lehetséges megoldás.
+
+
+=== Számítógépes sakkprogramokSzerkesztés ===
+Az 1950-es évektől kezdődően a számítógépek fejlődésével párhuzamosan egyre több, egyre erősebb sakkprogramot írtak. 1947-ben készült el a világ első sakk-komputer programja, amelyet Alan Turing írt. 1974-ben volt az első sakkprogram-világbajnokság. A győztes a szovjet Kaissza nevű program volt.
+Az 1990-es évek második felétől a számítógépes sakkprogramok játékereje olyan nagy lett, hogy még egy sakknagymester számára is komoly kihívást jelent egy erős sakkprogram elleni parti. Nagy feltűnést keltett, amikor 1996-ban, a történelemben első alkalommal a sakkprogram győzött: a Deep Blue szabályos mérkőzésen legyőzte az akkori világbajnokot, Garri Kaszparovot. 1997-ben a Deep Blue (több partiból álló) mérkőzést nyert a világbajnokkal szemben. A meccs végeredménye: 3½–2½ (két győzelem, egy vereség, három döntetlen). A legjobb sakkprogramok már képesek legyőzni a legerősebb emberi játékosokat.
+A 2000-es évek technológiai fejlődése a személyi számítógépeket is képessé tette megfelelő sakkprogramok futtatására. A 4–8 magos processzorokkal ellátott gépek játékereje például bőven meghaladja a 3000 Élő-értéket. Kaszparov az ilyen programokkal való játékot ahhoz hasonlította, mintha egy súlyemelő egy erőgéppel akarná felvenni a versenyt.
+
+
+== PszichológiaSzerkesztés ==
+A sakk pszichológiájának kiterjedt tudományos szakirodalma van. Alfred Binet és mások megmutatták, hogy a sakktudás központi részét nem a téri-vizuális képesség, hanem tanult elemek és verbális képességek alkotják.
+Adriaan de Groot doktori disszertációjában megmutatta, hogy a sakkmesterek igen gyorsan felismerik a sakkállások legfontosabb jellemzőit. De Groot szerint ez a gyors helyzetfelismerés, amit több éves gyakorlás és tapasztalat alapoz meg, fontosabb a nyers számítási képességnél, annál, hogy az ember hány lépést képes előre kiszámolni. De Groot kimutatta azt is, hogy a sakkmesterek képesek a mindössze néhány másodperc erejéig mutatott állás csaknem tökéletes visszaidézésére. A memorizáció képessége nem lehet önmagában felelős a sakkban való jártasságért, hiszen véletlenszerűen felállított sakkfigurák esetében a mesterek és a kezdők ugyanolyan mértékben tudták felidézni az állást (kb. féltucat figurát mindkét esetben). Sokkal inkább a minták felismerésének képessége különbözteti meg a képzett játékost a kezdőtől – mely mintákat azután könnyebb memorizálni, mint a különálló figurákat. Ha a felállított sakkfigurák egy tényleges játszmaállás részei voltak, a mesterek pozíciófelidézési képessége közel állt a tökéleteshez.
+Az ellenfélnek a koncentrálásból való kizökkentése érdekében a legmagasabb szinteken komoly szerepe van a játékosok közötti pszichológiai hadviselésnek is. Az 1972-es sakkvilágbajnokságon Fischer győzelmét Borisz Szpasszkij ellen a szakírók jelentős hányadban a Fischer által folytatott sikeres pszichológiai hadviselésnek tudják be. Nem voltak mentesek a pszichológiai fogásoktól a Kaszparov–Karpov, a Karpov–Korcsnoj világbajnoki döntők sem, de ide sorolhatjuk a 2006-os sakkvilágbajnokság Kramnyik–Topalov-mérkőzését is. Ez utóbbi miatt Topalovot később a FIDE Etikai Bizottsága el is marasztalta.
+
+
+== ÉrdekességekSzerkesztés ==
+
+
+=== A leggyorsabb mattSzerkesztés ===
+
+A leggyorsabb matt, ami lehetséges, a bolondmatt: 1. g4 e5 (vagy e6) 2. f3 (vagy f4) Vh4#. A második leggyorsabb a susztermatt.
+A susztermatt a következő lépésekből áll:
+1. e4 e5
+2. Vh5?! Hc6
+3. Fc4 Hf6??
+4. Vxf7# 1–0
+
+
+=== SakkvariánsokSzerkesztés ===
+Sakkvariánsok azok, amelyek a sakkal közös őstől származnak, de különböznek a lépésekben vagy az alapállásban vagy a táblában. Több mint 2000 ilyen variánst ismerünk. A legnépszerűbb a kínai sakk és a sógi.
+A sakk első változatai a csaturanga és a satrandzs voltak.
+Nemzeti változatai a kínai sakk, a sógi, a koreai sakk és a thai sakk. Ezeket összeköti a közös előd.
+A modern sakk változatai, mint például a Sakk960, amit Bobby Fischer talált fel.
+
+
+=== Különleges sakkbábok és sakktáblákSzerkesztés ===
+
+Az asztali sakktáblán kívül régóta népszerűek a magánkertekben, nyilvános parkokban, strandokon, köztereken felállított nagyméretű sakkok is. Az élősakkban a bábukat idomított kutyák, sőt néha szolgák is helyettesítették. Ez már a múlté, csak ritkán, egy-egy látványos kulturális esemény, fesztivál részeként tartanak élősakk-bemutatót, de a kerti sakk továbbra is divatos: ma az esztergált, faragott, kovácsolt és műanyag óriássakk (kerti sakk)-készletek a keresettek.
+
+A hexasakkot hatszög alakú, háromszínű táblán játsszák. Feltalálója, Władysław Gliński szülőországában (Lengyelország) a legelterjedtebb. Ide sorolható még a Polgár László által jegyzett csillagsakk is, amelyet csillag alakú táblán játszanak.
+A hármas sakkot, mint a neve is elárulja, hárman játsszák egy 96 mezős, hatszög alakú táblán. A lépések megegyeznek a sakk lépéseivel, de mindenki mindenki ellen játszik. Ebből következően teljesen más stratégiát követel, mint a hagyományos sakk. A hármas sakk igazi különlegességét a tábla középen található, csillagot formáló hat mező adja. Ezen a hat mezőn ugyanis a soron lévő játékos szabadon döntheti el, hogy mely irányban, mely ellenfél ellen kívánja csapatait felvonultatni.
+
+
+=== A sakktáblán játszható egyéb játékokSzerkesztés ===
+A sakktáblán más játékok is játszhatók, például az ún. francia sakk, a tandem sakk, a Makarenko-sakk, a dáma, az Arimaa, a helma (halma, harmadik nevén parasztháború) vagy a rókavadászat, amelynek célja a „róka”, azaz egy figura bekerítése. A kezdő sakkozók feladatául szokták adni, hogy a sakktábla egyik felére felállított összes figurát lólépésben szedje le. Ez nem csak a huszár lépéseinek megfigyelését, gyakorlását jelenti, hanem összpontosítást kíván és a kombinatív készséget is fejleszti.
+
+
+== KépgalériaSzerkesztés ==
+
+
+== JegyzetekSzerkesztés ==
+
+
+== ForrásokSzerkesztés ==
+↑ Bird: Bird, Henry Edward. Chess History and Reminiscences. Forgotten Books [First published 1893] (2008). ISBN 978-1-60620-897-7 
+↑ Burgess2000: Graham Burgess. The Mammoth Book of Chess. New York: Carroll & Graf (2000). ISBN 0-7867-0725-9 
+↑ Burgess2004: Burgess, Graham. The Mammoth Book of the World's Greatest Chess Games, 2nd, New York: Carroll & Graf (2004). ISBN 978-0-7867-1411-7 
+↑ chess-poster: Sakkban használt fogalmak (Check) (angol nyelven). chess-poster.com. (Hozzáférés: 2015. július 23.)
+↑ FIDE-szabályzat: Laws of Chess. FIDE. (Hozzáférés: 2015. január 18.)
+Magyar fordítása: A sakkjáték szabályzata. (Hozzáférés: 2015. július 24.)
+↑ Franklin: Franklin, Benjamin.szerk.: Walter Isaacson: The Morals of Chess, A Benjamin Franklin Reader. New York: Simon & Schuster [1779] (2003). ISBN 0-7432-5782-0. Hozzáférés ideje: 2010. december 12. 
+↑ Groot-1946: de Groot, Adriaan D.. Thought and Choice in Chess. Amsterdam: Amsterdam Academic Archive [1946 (first Dutch ed.); 1965 (English ed.)] (2008). ISBN 978-90-5356-998-6. OCLC 4988227 
+↑ Harding: Harding, Tim. Better Chess for Average Players. New York: Courier Dover Publications (2003). ISBN 0-486-29029-8. OCLC 33166445 
+↑ Hooper: The Oxford Companion to Chess, Second edition. Oxford; New York: Oxford University Press (1992). ISBN 0-19-866164-9. OCLC 25508610 
+↑ Hsu: Feng-Hsiung Hsu. Behind Deep Blue: Building the Computer that Defeated the World Chess Champion. Princeton: Princeton University Press (2002). ISBN 0-691-09065-3. OCLC 50582855 
+↑ Kaszparov-2003a: Kasparov, Garry. My Great Predecessors, part I. London; Guilford, CT: Everyman Chess (2003a). ISBN 1-85744-330-6. OCLC 223602528 
+↑ Kaszparov-2003b: Kasparov, Garry. My Great Predecessors, part II. London; Guilford, CT: Everyman Chess (2003b). ISBN 1-85744-342-X. OCLC 223906486 
+↑ Kaszparov-2004a: Kasparov, Garry. My Great Predecessors, part III. London; Guilford, CT: Everyman Chess (2004a). ISBN 1-85744-371-3. OCLC 52949851 
+↑ Kaszparov-2004b: Kasparov, Garry. My Great Predecessors, part IV. London; Guilford, CT: Everyman Chess (2004b). ISBN 1-85744-395-0. OCLC 52949851 
+↑ Kaszparov-2006: Kasparov, Garry. My Great Predecessors, part V. London; Guilford, CT: Everyman Chess (2006). ISBN 1-85744-404-3. OCLC 52949851 
+↑ Keene: Keene, Raymond. Gary Kasparov's Best Games. London: B. T. Batsford (1993). ISBN 0-7134-7296-0. OCLC 29386838 
+↑ Leibs: Leibs, Andrew. Sports and Games of the Renaissance. Westport, CT: Greenwood Publishing Group (2004). ISBN 0-313-32772-6 
+↑ Mattolna: Molnár Béla nemzetközi mester: A sakkjáték iskolája. Kombinációs játék. Tolna megyei Sakkszövetség. (Hozzáférés: 2015. július 24.)
+↑ niif: Láng Attila D.: A sakk szabályai. niif.hu. (Hozzáférés: 2015. július 23.)
+↑ PolgárJ: Polgár Judit Sakkpalota képességfejlesztő oktatási program. Polgár Judit Sakk Alapítvány. (Hozzáférés: 2015. július 24.)
+↑ Pritchard-2000: Pritchard, David. Popular Chess Variants. London: Batsford Chess Books (2000). ISBN 0-7134-8578-7. OCLC 44275285 
+↑ Robbins: Robbins, T.W. (1996.). „Working Memory in Chess” (PDF). Memory & Cognition 24, 83–93. o. DOI:10.3758/BF03197274.  
+↑ Robinson: Estes, Rebecca. World Cultures Through Art Activities. Englewood, CO: Teachers Ideas Press (1996). ISBN 1-56308-271-3 
+↑ sulinet: Vereb András: Deák délutánok - Sakktaktika, kombinációk. jaszdeak.sulinet.hu. (Hozzáférés: 2015. július 24.)
+↑ Tamburro: Tamburro, Pete (2010. Szeptember). „Challenging the Ruy Lopez”. Chess Life, 18–21. o.  
+↑ tapolcanet: Sakkban használt fogalmak. tapolcanet.hu. (Hozzáférés: 2015. július 23.)
+↑ Vale: Vale, Malcolm. The Princely Court: Medieval Courts and Culture in North-West Europe, 1270–1380. Oxford: Oxford University Press (2001). ISBN 0-19-926993-9. OCLC 47049906 
+↑ Verwer: Verwer, Renzo. Bobby Fischer for Beginners. Alkmaar: New in Chess (2010). ISBN 978-90-5691-315-1 
+↑ 1vb: Mark Weeks: World Chess Championship 1886 Steinitz - Zukertort Title Match (angol nyelven) (HTML). (Hozzáférés: 2012. március 28.)
+
+
+== FordításSzerkesztés ==
+Ez a szócikk részben vagy egészben a Chess című angol Wikipédia-szócikk ezen változatának fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+Ez a szócikk részben vagy egészben a Schach című német Wikipédia-szócikk ezen változatának fordításán alapul. Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+
+
+== További információkSzerkesztés ==
+A Nemzetközi Sakkszövetség (FIDE) honlapja (angol)
+A Nemzetközi Levelezési Sakkszövetség (ICCF) honlapja) (angol)
+A Nemzetközi Sakkfeladványszerző Szövetség (WFCC) honlapja (angol)
+A Magyar Sakkszövetség honlapja
+Magyar Sakkvilág - folyóirat
+A sakk szabályai
+A sakk szerepe az iskolaelőkészítésben
+Sakk.lap.hu - linkgyűjtemény
+
+
+=== SakklexikonokSzerkesztés ===
+Otto Borik, Joachim Petzold (Hrsg.): Meyers Schachlexikon. Meyers Lexikonverlag, Mannheim 1993, ISBN 3-411-08811-7.
+David Hooper, Kenneth Whyld: The Oxford Companion to Chess. University Press, Oxford 1992, ISBN 0-19-866164-9.
+Isaak und Wladimir Linder: Schach, das Lexikon. Sportverlag, Berlin 1996, ISBN 3-328-00665-6.
+Klaus Lindörfer: Großes Schach-Lexikon. Geschichte, Theorie und Spielpraxis von A-Z. Orbis, München 1991, ISBN 3-572-02734-9.
+
+
+=== Általános sakkirodalomSzerkesztés ===
+Binet, A.. Psychologie des grands calculateurs et joueurs d'échecs (French nyelven). Paris: Hachette (1894). OCLC 287413777 
+José Raúl Capablanca: Grundzüge der Schachstrategie. Beyer-Verlag, Hollfeld72002, ISBN 3-88805-292-0.
+Jean Dufresne, Jacques Mieses: Lehrbuch des Schachspiels. Bearb. von Rudolf Teschner. Reclam, Stuttgart312004, ISBN 3-15-021407-6.
+Max Euwe: Schach von A bis Z. Vollständige Anleitung zum Schachspiel. Beyer-Verlag, Hollfeld41994, ISBN 3-88805-181-9.
+Moves in Mind: The Psychology of Board Games. Hove, UK: Psychology Press (2004). ISBN 1-84169-336-7. OCLC 53962630 
+de Groot, Adriaan D., Gobet, Fernand. Perception and Memory in Chess: Heuristics of the Professional Eye. Assen, NL: Van Gorcum (1996). ISBN 90-232-2949-5 
+Holding, Dennis. The Psychology of Chess Skill. Hillsdale, N.J.: Erlbaum (1985). ISBN 978-0-89859-575-8. OCLC 11866227 
+Werner Lauterbach: Das unsterbliche Spiel. Einführung in die Schachkunst. De Gruyter, Berlin51987, ISBN 3-11-010918-2.
+Metzner, Paul. Crescendo of the Virtuoso: Spectacle, Skill, and Self-Promotion in Paris during the Age of Revolution. Berkeley: University of California Press (1998). ISBN 0-520-20684-3. OCLC 185289629 
+Murray, H.J.R.. A History of Chess. Northampton, Mass.: Benjamin Press (originally published by Oxford University Press) (1913). ISBN 0-936317-01-9. OCLC 13472872 
+Aaron Nimzowitsch: Mein System. Verlag das Schacharchiv, 2006, ISBN 3-88086-117-X.
+Joachim Petzold: Das königliche Spiel. Die Kulturgeschichte des Schach. Kohlhammer, Stuttgart 1987, ISBN 3-17-009405-X.
+Helmut Pfleger, Eugen Kurz, Gerd Treppner: Schach Zug um Zug. Bauerndiplom. Turmdiplom. Königsdiplom. Orbis, München 2003, ISBN 3-572-01414-X.
+Pritchard, David. The Encyclopedia of Chess Variants. Godalming: Games & Puzzles Publications (1994). ISBN 0-9524142-0-1. OCLC 60113912 
+Wolfram Runkel: Schach. Geschichte und Geschichten. Wunderlich, Reinbek 1995, ISBN 3-8052-0578-3.
+Tarrasch, Siegbert. Das Schachspiel. Systematisches Lehrbuch für Anfänger und Geübte. Zürich: Edition Olms (1995). ISBN 3-283-00253-3 
+Tarrasch, Siegbert. The Game of Chess. New York: Courier Dover Publications (1987). ISBN 0-486-25447-X. OCLC 15631832 
+Dunnington, Angus. Chess Psychology: Approaching the Psychological Battle Both on and Off the Board. Everyman Chess (2003). ISBN 978-1-85744-326-4 
+Reuben Fine. The World's Great Chess Games. Courier Dover Publications (1983). ISBN 0-486-24512-8. OCLC 9394460 
+Hale, Benjamin. Philosophy Looks at Chess. Open Court Publishing Company (2008). ISBN 978-0-8126-9633-2 
+James Mason. The Art of Chess. Dover Publications (1947). ISBN 0-486-20463-4. OCLC 45271009  (see the included supplement, "How Do You Play Chess")
+Rizzitano, James. Understanding Your Chess. Gambit Publications (2004). ISBN 1-904600-07-7. OCLC 55205602 
+Saariluoma, Pertti. Chess Players' Thinking: A Cognitive Psychological Approach. New York: Routledge (1995). ISBN 978-0-415-12079-1 
+Линдер И. М.: Эстетика шахмат. М.: Советская Россия, 1981. 240 с. Серия: Шахматное искусство. (oroszul)
+
+
+== Kapcsolódó szócikkekSzerkesztés ==
+
+Híres sakkozók listája
+Sündisznó (sakk)
+Hnefatafl – viking sakk
+Kvantumsakk (más néven progmatos sakk)

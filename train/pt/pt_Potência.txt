@@ -1,0 +1,70 @@
+Em física, potência é a grandeza que determina a quantidade de energia concedida por uma fonte a cada unidade de tempo. Em outros termos, potência é a rapidez com a qual uma certa quantidade de energia é transformada ou é a rapidez com que o trabalho é realizado. Potência também pode ser entendida como sendo a força multiplicada pela velocidade.
+Em outros ramos, como na Engenharia, a compreensão sobre o assunto potência é de grande relevância, dado que quando um engenheiro vai projetar uma máquina, na ótica da engenharia, é importante o tempo mínimo com que uma maquina vá produzir trabalho, dando assim maior credibilidade do que a quantidade de trabalho que ela poderá realizar.
+
+
+== Fórmula ==
+A potência P é dada por  Onde W= trabalho realizado
+t= tempo com que se executa o trabalho
+Variação de energia é a energia que mudou de natureza ou transitou para outro local.
+A variação de energia recebe diversos nomes, quando se refere a tipos específicos de energia:
+Trabalho (): é a energia consumida ao longo de um percurso ()
+Potência: sabendo a Força aplicada (constante) e a velocidade da partícula: 
+Quantidade de Calor (): é a variação da energia térmica ().
+Potência instantânea O intervalo de tempo com que um trabalho é feito é algo de extrema importância para sabermos assim a potência instantânea, que pode ser dado pela taxa de variação instantânea com a qual o trabalho é realizado, podendo ser escrito como:. .
+
+
+== Unidades de potência ==
+
+No SI, a unidade de potência é o W (watt), dimensionalmente igual a joule por segundo (J.s–1). Usam-se-lhe, conforme a ordem de grandeza, submúltiplos e múltiplos, como, por exemplo, miliwatt, mW (10–3W) e quilowatt, kW (103W), entre tantas. Pode-se utilizar estas unidades multiplicadas por hora, O Kwh (quilowatt-hora),que por definição é a energia correspondente á potência de 1 Kw durante uma hora. Esta unidade pode ser observado na conta de energia elétrica.
+Ainda se usam, conquanto apenas por motivos histórico-práticos, unidades não-oficiais como cavalo-vapor, CV (735,5W), horse power, Hp (746,6W) e outras unidades híbridas.
+
+
+== Potência do ser humano ==
+A potência consumida/dissipada por um ser humano é em torno de 100 watts, variando de 85 W durante o sono a 800 W ou mais enquanto pratica desporto. Ciclistas profissionais tiveram medições de 2000 W de potência realizada por curtos períodos de tempo.
+
+
+== Potência de motor ==
+A potência fornecida por um motor alternativo (P) pode ser obtida a partir do seu torque (T) e da sua rotação (n):
+Potência em CV:  onde P [cv] , T [kgf.m], n [rpm].
+
+Potência em kW:  onde P [kW], T [kgf.m], n [rpm].
+
+Potência em kW:  onde P [kW], T [N.m], n [rpm].
+Potência em kW:  onde P [kW], T [N.m], n [rpm].
+Outra maneira:
+
+Adicionando as unidades (velocidade angular em Hertz ou rotações por segundo, rps):
+
+
+== Potência específica ==
+Chama-se potência específica ou potência mássica a potência por unidade de massa do sistema relativamente ao qual é calculada. Dimensionalmente, no Sistema Internacional de Unidades, exprime-se em watt por quilograma (W.kg–1).
+
+
+== Potência média ==
+A Potência média é dada em um certo intervalo de tempo (t). Para se obter a potência média é necessário que haja o trabalho total (W) e o tempo (t). Após isso, Dividi-se um pelo outro, encontrando:  
+Sendo essa uma maneira alternativa de se encontrar a potência média.
+
+
+== Propriedade gráfica ==
+No caso em que uma potência e constante , o gráfico da potência em função do tempo esta representado na Figura ao lado.Pode-se concluir que a potencia é caracterizada pela área abaixo da curva, que é numericamente igual ao trabalho W realizado no intervalo de tempo   .
+
+A propriedade é valida também quando a potência e variável, sendo que a potência e numericamente igual a área abaixo da curva, sendo igual numericamente ao trabalho realizado num intervalo de tempo. 
+
+
+== Potência e velocidade ==
+Considerando uma força constante  que atua num corpo durante um intervalo de tempo, no qual o deslocamento é , como observado na Figura ao lado. Assim, a potência média da força pode ser escrita como: 
+
+ = 
+
+Onde:  é o modulo da velocidade média.
+A potência instantânea é a taxa da variação instantânea com a qual o trabalho e realizado, em geral, o cálculo da potência instantânea é complexo. No entanto, quando a potência é constante, seu valor pode ser calculado pela mesma fórmula para o calculo da potencia media: 
+
+Pode-se expressar a taxa com a qual uma força realiza trabalho sobre uma partícula, ou um objeto que se comporta como partícula, em termos da velocidade e de força. Para uma partícula que se move em linha reta, sob a ação de uma força  que faz um ângulo com a direção do movimento da partícula, temos: 
+
+Em casos, no qual a força aplicada é paralela a velocidade, temos que: , assim ,então pode-se escrever que:
+
+A potência instantânea desenvolvida por uma força F é a taxa com a qual a força realiza um trabalho sobre uma carga em um certo instante. 
+
+
+== Potência elétrica ==
+A potência elétrica pode ser definida pelo produto entre a corrente e e a tensão medida entre dois pontos onde circula uma corrente elétrica. Existem dois tipos de corrente elétrica, que são a corrente continua, sendo caracterizada como tendo um valor constante em relação ao tempo, e também a corrente alternada, que varia o seu valor de modo senoidal com o tempo. Para uma corrente alternada trifásica, sendo uma carga alimentada por três condutores,

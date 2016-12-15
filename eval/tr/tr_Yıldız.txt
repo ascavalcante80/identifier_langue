@@ -1,0 +1,68 @@
+fın kendine özgü özelliklerini belirtmek için kullanılır. Örneğin "e" harfi yayım çizgilerinin (emisyon çizgileri) varlığını belirtirken "m" harfi normalötesi yüksek metal düzeyini belirtir. "var" ise tayf tipinde değişiklikler olduğunu belirtir.
+Beyaz cücelerin D harfiyle başlayan kendi sınıflandırmaları vardır. Tayfta belirgin olan çizgilerin tipine göre DA, DB, DC, DO, DZ, ve DQ alt sınıflarına ayrılırlar. Bunu sıcaklık dizgesini belirten sayılar eklenir.
+
+
+== Değişen yıldızlarDeğiştir ==
+
+Değişen yıldızlar, içsel veya dışsal özellikleri nedeniyle parlaklıklarında sıralı ya da rastgele değişiklikler gösteren yıldızlardır. İçsel özellikleri nedeniyle değişen yıldızlar üç ana gruba ayrılabilirler.
+Zonklayan değişen yıldızlar, yıldızın yaşlanma süreci nedeniyle zaman içinde büyüyerek ya da küçülerek yarıçapı değişen yıldızlardır. Sefe ve sefe benzeri yıldızlar ile , Tansık gibi uzun dönemli yıldızları içerir.
+Patlayan değişen yıldızlar kütle fırlatma ya da püskürtme olayları nedeniyle parlaklıklarında ani yükselmeler gösteren yıldızlardır. Bu grubun içinde önyıldızlar, Wolf-Rayet yıldızları, ve Parıltılı yıldızlar ile dev ve üstdev yıldızlar da bulunur.
+Afet ya da patlama değişken yıldızlarının özelliklerinde oldukça dramatik değişiklikler olur. Bu grubun içinde Novalar ve Üstnovalar bulunur. Yakınında beyaz cüce bulunan bazı çiftyıldız sistemleri nova ve Tip 1a üstnova gibi olağanüstü yıldız patlamalarına neden olabilir. Beyaz cüce eşyıldızından hidrojen alarak çekirdek kaynaşması olana kadar kütlesinin artmasıyla patlama oluşur. Bazı novaların tekrar eden hatta sıralı orta ölçekte patlamaları olur.
+Çiftyıldızlarda yıldız tutulması gibi dışsal nedenlerle de yıldızların parlaklığı değişebilir. Ayrıca dönen yıldızlarda oluşan aşırı yıldızlekeleri nedeniyle de parlaklık değişebilir. Yıldız tutulmasına örnek verilebilecek olan çiftyıldız sistemi Umacı'dır; parlaklığı düzenli olarak 2,87 gün içinde 2,3 ile 3,5 kadir sınıfı arasında değişir.
+
+
+== YapıDeğiştir ==
+Kararlı, ana dizi yıldızının içi kuvvetlerin birbirini sürekli karşıladığı sürekli bir denge hâlindedir. Birbirini dengeleyen kuvvetler içeri doğru yönelen kütleçekim kuvveti ve bunu karşılayan plazma gazının ısı erkidir. Bu kuvvetlerin birbirini dengelemesi için tipik bir yıldızın çekirdeğindeki sıcaklık 107 K ya da daha yüksek olmalıdır. Bir ana dizi yıldızının hidrojen yakan çekirdeğinde ortaya çıkan sıcaklık ve basınç çekirdek kaynaşmasının oluşması ve yıldızın daha fazla çökmesini önleyecek kadar yeterli erke üretir.
+Öğecik çekirdekleri yıldızın çekirdeğinde kaynaştıkça gama ışınları şeklinde erke yayarlar. Bu ışıközleri (foton) çevresini saran plazma ile etkileşime girerek çekirdeğe ısı erkesi eklerler. Ana dizideki yıldızlar hidrojeni helyuma çevirerek yavaş ama düzenli artan bir oran da çekirdekteki helyumu artırırlar. Sonunda helyum oranı baskın hâle gelir ve çekirdekteki erke üretimi durur. Bunun yerine 0,4 güneş kütlesinden büyük yıldızlarda yozlaşmış helyum çekirdeğin çevresinde yavaşça genişleyen kabukta çekirdek kaynaşması oluşur.
+Hidrostatik dengenin dışında kararlı bir yıldızın içinde erke dengesini sağlayacak ısıl denge de bulunur. İçeride bulunan ışınsal sıcaklık eğimi sonucunda dışarıya doğru sürekli olarak bir erke akısı oluşur. Yıldızın herhangi bir katmanından dışa doğru akan erke akısı , yukarıdan içeriye doğru gelen erke akısına tam olarak denktir.
+
+Işınım bölgesi yıldızın içinde erke akısını sağlayacak kadar verimli bir ışınım aktarımı olan bölgedir. Bu bölgede plazma hareketsizdir ve herhangi bir kütle hareketi sönümlenir. Eğer böyle olmazsa plazma dengesiz hâle gelir ve ısıyayımsal bölge oluşturacak şekilde ısıyayım (konveksiyon) oluşur. Bu çekirdeğin yakınında ya da dış katmanın yüksek donukluk olan bölgelerinde, çok yüksek erke akısının ortaya çıktığı yerlerde ortaya çıkar.
+Ana dizi yıldızının dış katmanlarında ısıyayımı oluşması tayf tipine bağlıdır. Güneş’in birkaç katı kütlesi olan yıldızların içlerinde ısıyayımsal, dış katmanlarında da ışınım bölgeleri bulunur. Güneş gibi küçük yıldızlar da ise tam tersi ısıyayım dış katmanlarda yer alır. 0,4 güneş kütlesinden daha az kütleye sahip olan kırmızı cücelerin tamamında ısıyayım bulunur dolayısıyla da çekirdekte helyum birikmesi olmaz. Yıldızların çoğunda yıldz yaşlandıkça ve içinin oluşumu değiştikçe ısıyayım bölgeleri de değişir.
+Ana dizi yıldızının gözlemci tarafından görülebilen kısmına ışıkyuvar (fotosfer) denir. Bu katmanda yıldızın plazma gazı ışığın ışıközlerine (foton) karşı saydamlaşır. Çekirdekte üretilen enerji ışıkyuvardan uzaya doğru yayılır. Yıldızlekeleri ya da ortalamadan düşük sıcaklığa sahip bölgelere ışıkyuvarda ortaya çıkar.
+Işıkyuvarın üzerinde yıldız gazyuvarı (atmosfer) bulunur. Güneş gibi ana dizi yıldızlarında gazyuvarın en alt düzeyi içinde iğnelerin bulunduğu ve yıldız püskürtüleri başladığı ince renkyuvarıdır. Bunu 100 km. içinde çok hızlı bir şekilde sıcaklığın arttığı geçiş bölgesi çevreler. Bunun ötesinde milyonlarca kilometre dışarıya uzanabilen aşırı ısıtılmış plazma olan güneş tacı bulunur. Bir tacın oluşumu yıldızın dış katmanlarında ısıyayımın oluşumuna bağlıdır. Çok yüksek ısısına rağmen taç çok az ışık yayar. Güneş’in tacı yalnızca güneş tutulmasında görünür hâle gelir.
+Taçtan sonra plazma parçacıklarından oluşan bir yıldız rüzgârı, yıldızlararası ortam ile etkileşecek şekilde dışarı doğru yayılır.
+
+
+== Çekirdek kaynaşması tepkime yollarıDeğiştir ==
+
+Yıldız çekirdek bireşiminin bir parçası olarak, yıldızın kütlesine ve bileşimine bağlı olarak yıldız çekirdeklerinde birkaç dizi farklı çekirdek tepkimesi yer alır. Kaynaşan öğecik çekirdeğinin net kütlesi tepkimeye giren kütlenin toplamından azdır. Kaybolan bu kütle E=mc² kütle-enerji bağıntısına göre enerjiye çevrilir.
+Hidrojen çekirdek kaynaşma süreci sıcaklıktan etkilenir, çekirdek sıcaklığındaki orta derece bir artış kaynaşma hızını oldukça önemli derecede artırır. Sonuç olarak ana dizi yıldızlarının çekirdek sıcaklıkları küçük bir M-sınıfı yıldızda 4 milyon °K ‘den büyük bir O-sınıfı yıldızdaki 40 milyon °K’ya kadar değişkenlik gösterir.
+Güneşin 107 °K’lik sıcaklıktaki çekirdeğinde hidrojen önelcik-önelcik zincirleme tepkimesi ile helyuma dönüşür.:
+41H → 22H + 2e+ + 2νe (4,0 MeV + 1,0 MeV)
+21H + 22H → 23He + 2γ (5,5 MeV)
+23He → 4He + 21H (12,9 MeV)
+Bu tepkimeler genel olarak şu tepkimede toplanır:
+41H → 4He + 2e+ + 2γ + 2νe (26,7 MeV)
+e+ bir Pozitron, γ gama ışını Foton , νe ise bir nötrinodur. H ve He hidrojen ile helyumun yerdeşleridir (izotop). Bu tepkime sonucu salınan erke milyonlarca elektronvolttur, yani oldukça küçük bir miktar erkedir. Ancak devasa sayıda tepkimenin aynı anda oluşmasıyla yıldızın ışınım çıktısını sağlayacak kadar erke üretilir.
+Daha büyük yıldızlarda karbonun katalist olduğu karbon-azot-oksijen çevrimi ile helyum üretilir.
+108 °K’lik çekirdek sıcaklıklarına sahip olan ve kütlesi 0,5 ile 10 güneş kütlesi arasında değişen daha gelişmiş yıldızlarda ara öğe olarak berilyumu kullanan üçlü alfa süreci ile helyum karbona dönüştürülebilir.:
+4He + 4He + 92 keV → 8*Be
+4He + 8*Be + 67 keV → 12*C
+12*C → 12C + γ + 7,4 MeV
+Yani toplam tepkime:
+34He → 12C + γ + 7,2 MeV
+Daha büyük yıldızlarda büzülen çekirdeklerde daha ağır öğelerde Neon yanma süreci ve Oksijen yanma süreci ile yakılabilir. Yıldız çekirdek bireşiminin son aşaması kararlı demir-56 yerdeşini üreten Silikon yanma sürecidir. Isıalan (endotermik) süreç haricinde artık çekirdek kaynaşması olamayacağından daha fazla erke ancak kütleçekimsel çöküş ile üretilebilir.
+Aşağıdaki örnek 20 güneş kütlesine sahip bir yıldızın tüm yakıtını tüketmesi için gereken zamanı gösterir. O-sınıfı bir ana dizi yıldızı olarak 8 güneş yarıçapına ve Güneş’in parlaklığının 62.000 katına sahip olacaktır.
+
+
+== KaynakçaDeğiştir ==
+
+
+== Okumak içinDeğiştir ==
+Pickover, Cliff (2001). The Stars of Heaven. Oxford University Press. ISBN 0-19-514874-6. 
+Gribbin, John; Mary Gribbin (2001). Stardust: Supernovae and Life — The Cosmic Connection. Yale University Press. ISBN 0-300-09097-8. 
+Hawking, Stephen (1988). A Brief History in Time. Bantam Books. ISBN 0-553-17521-1. 
+
+
+== Ayrıca bakınızDeğiştir ==
+
+Takımyıldız
+Karadelik
+Yıldızların spektral sınıflandırılması
+
+
+== Dış bağlantılarDeğiştir ==
+Tanımlayıcılarına, konsayılarına ve kaynak kodlarına göre yıldız arama (koordinat) Query star by identifier, coordinates or reference code. Centre de Données astronomiques de Strasbourg – Strasbourg Gökbilim Bilgi Merkezi
+Yıldız, Dünya Kitabı @ NASA
+Yıldızların ve takımyıldızların portreleri. Illinois Üniversitesi
+Sınıflandırma Kodlarını Nasıl Deşifre Etmeli. Astronomical Society of South Australia – Güney Avustralya Gökbilim Topluluğu

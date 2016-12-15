@@ -1,0 +1,10 @@
+Absolutna wielkość gwiazdowa – obserwowana wielkość gwiazdowa (a zatem wyrażona w magnitudo), jaką miałby obiekt oglądany z pewnej ustalonej odległości, przy braku pochłaniania światła w przestrzeni międzygwiezdnej. W przypadku obiektów poza Układem Słonecznym przyjęto jako odległość odniesienia 10 parseków.
+Zależność pomiędzy wielkością obserwowaną a absolutną można wyrazić za pomocą wzoru:
+
+gdzie:
+M – wielkość absolutna, zdefiniowana jako wielkość obserwowana z odległości 10 pc,
+m – wielkość obserwowana,
+r – odległość od gwiazdy wyrażona w parsekach.
+Obserwując niebo z powierzchni Ziemi widzimy gwiazdy słabsze i jaśniejsze, ale nie znając odległości do nich nie da się stwierdzić, które z nich są naprawdę bardzo jasne, a które widzimy jako jasne tylko dlatego, że znajdują się dostatecznie blisko. Tak więc aby określić absolutną wielkość gwiazdową, należy znać odległość do danej gwiazdy i jej obserwowaną wielkość. Np. nasze Słońce, którego wielkość obserwowana wynosi aż –26,73m ze względu na małą odległość, ma wielkość absolutną zaledwie +4,83m, podczas gdy np. Deneb (alfa Cygni – jeden z wierzchołków Trójkąta Letniego), ma wielkość absolutną aż –7,2m.
+Wielkość absolutna nigdy nie jest wyznaczana z bezpośredniego pomiaru. Zawsze oblicza się ją na podstawie pomiarów innych parametrów obiektu.
+Gwiazdy świecą własnym światłem, dlatego ich wielkość absolutną (oznaczaną literą M) definiuje się jako obserwowaną wielkość gwiazdową, jaką miałyby znajdując się w odległości 10 parseków (32,6 lat świetlnych) od obserwatora. Natomiast dla ciał niebieskich, które tylko odbijają świat

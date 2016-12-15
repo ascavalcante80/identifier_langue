@@ -1,0 +1,62 @@
+La teoria dei sistemi, più propriamente teoria del sistema generale (definizione originale di Ludwig von Bertalanffy) detta anche teoria generale dei sistemi e ancora generalizzata in sistemica (systemics in inglese e systémique in francese) è un'area di studi interdisciplinari che si occupa della costituzione e dell'analisi delle proprietà di un sistema in quanto tale.
+
+
+== Definizione di sistema ==
+In generale condizione necessaria perché sia stabilito un sistema e sia mantenuto come tale (senza degenerare nell'insieme dei suoi componenti) è che i suoi elementi interagiscano tra loro. In grande approssimazione, più elementi sono detti interagire quando il comportamento dell'uno influenza quello dell'altro, ad esempio attraverso scambi di energia negli urti, svolgendo funzionalità diverse, ad esempio in un circuito elettronico, e scambiando informazioni come nei sistemi sociali.
+I sistemi non possiedono proprietà, ma ne acquisiscono continuamente, eventualmente le stesse, grazie all'opportuno continuo interagire funzionale dei componenti (es. dispositivi elettronici -sistemi artificiali-, sistemi biologici -sistemi naturali-). Quando i componenti cessano di interagire (ad esempio per mancanza di energia in un sistema elettronico), i sistemi degenerano in insiemi. Le proprietà sistemiche non sono il risultato di interazioni poi mantenute, come accade ad esempio in processi di miscelazione di acqua colorata o nel cucinare.
+La stabilità della proprietà è dovuta all'interazione continua. Un intervento sistemico quindi non è sugli elementi, ma, ad esempio, sulle interazioni, sulle relazioni, sull'energia fornita, sulle perturbazioni e fluttuazioni, sulla somministrazione degli input. Gli interventi sistemici, e cioè sulle proprietà del sistema, dipendono dal tipo di sistema. Gli interventi sopra citati vanno bene per sistemi non autonomi, come in fisica, mentre per quelli autonomi, dotati di sistema cognitivo, è importante agire sull'apprendimento, sul modello cognitivo, le informazioni disponibili, le rappresentazioni e la memoria. Alea, dal latino, significa dado. Riferito al lancio del dado , il calcolo aleatorio, applicato alla sistemistica, sta per calcolo delle probabilità.
+
+
+== Generalità ==
+La teoria dei sistemi nacque come risposta alle nuove conoscenze che la biologia cominciò a sviluppare nei primi anni del XX secolo e che fecero nascere la scuola di pensiero organicistica che si opponeva a quella meccanicistica, caratteristica del XIX secolo. Uno dei primi esponenti di questo tipo di pensiero fu Ross Harrison che studiò il concetto di organizzazione identificando nella configurazione e nella relazione i due elementi più importanti degli oggetti che compongono un sistema.
+Uno degli elementi fondamentali dell'organizzazione negli organismi viventi è la sua natura gerarchica, ovvero l'esistenza di più livelli di sistema all'interno di ogni sistema più ampio. Così le cellule si combinano per formare i tessuti, i tessuti per formare gli organi e gli organi per formare gli organismi. A loro volta gli organismi vivono in gruppi formanti sistemi sociali che vanno poi a formare attraverso l'interazione con altre specie gli ecosistemi. Ciò che risultò subito chiaro fu l'esistenza di diversi livelli di complessità e che ad ogni livello di complessità i fenomeni osservati mostrano proprietà che non esistono al livello inferiore. Nei primi anni venti il filosofo C. D. Broad coniò per questo tipo di proprietà il termine Proprietà Emergenti.
+Questo tipo di concezione contraddice il paradigma cartesiano secondo cui il comportamento del tutto può essere compreso completamente studiando le proprietà delle sue parti. La teoria dei sistemi non si può dunque conciliare con l'approccio analitico o riduzionistico che aveva caratterizzato il modus operandi degli scienziati fino a quel tempo.
+Il concetto di sistema si è rapidamente diffuso nell'ingegneria dove certi strumenti interpretativi ad esso connessi possono ritenersi patrimonio consolidato.
+Particolarmente efficace è la possibilità di ridurre, in sede di analisi, il funzionamento di fenomeni fisici complessi all'interazione di sistemi più semplici e, viceversa, la possibilità di progettare sistemi in maniera strutturata componendo unità più semplici.
+Tutti i sistemi fisici di interesse per l'ingegnere sono sistemi dinamici orientati che descrivono una vasta gamma di fenomeni e di processi. La dipendenza dagli interventi esterni (orientamento), messa in evidenza nel modello matematico, ne caratterizza la collocazione tra le scienze dell'ingegneria.
+Scopo della Teoria dei Sistemi è introdurre ai principali metodi di studio dei sistemi dinamici orientati con particolare riferimento alla classe dei sistemi lineari e stazionari, a tempo continuo e a tempo discreto.
+In Ingegneria la necessità di associare ai fenomeni una loro descrizione quantitativa ha poi dato luogo all'associazione sistema-modello, cuore della Teoria dei Sistemi: questa pertanto ha l'obiettivo di inquadrare in maniera unitaria le relazioni di causa-effetto e fornire degli strumenti di analisi matematica e sintesi ingegneristica.
+Per esempio, lo studio delle proprietà nel dominio del tempo e della frequenza fornisce elementi essenziali di interpretazione del comportamento di fenomeni e processi caratteristici dei diversi settori applicativi dell'Automatica e dell'Informatica. Alcuni programmi di calcolo e simulazione attualmente disponibili costituiscono un formidabile ausilio all'utilizzo delle tecniche della Teoria dei Sistemi di cui hanno anche adottato il linguaggio grafico.
+Un sistema è una qualsiasi identità che è possibile analizzare e quindi scomporre. Ogni sistema ha degli attributi/proprietà che possono essere:
+Variabili / Condizionate
+Costanti
+Relazioni
+Cambiamenti.
+
+
+=== Sistemica ===
+Con il termine Sistemica si fa riferimento ad un'estensione concettuale, metodologica e culturale, della Teoria Generale dei Sistemi. Si riferisce in sostanza ai concetti, principi, applicazioni e metodi basati sul concetto di sistema, proprietà sistemiche, interazione, auto-organizzazione ed emergenza con riferimento alla scienza della complessità.
+
+
+=== Approccio Sistemico ===
+Con il termine approccio sistemico ci si riferisce alla dimensione metodologica generale della Sistemica, per cui, considerando un problema si valuta l'efficacia di modellare usando i sistemi che identificano il livello di descrizione più adeguato, come i componenti, la scalarità, le interazioni, il ruolo costruttivista dell'osservatore che inventa le variabili. Gli esperimenti sono come domande alla natura che risponde facendoli accadere: non vi sono risposte in natura senza domande, al più effetti che attendono una domanda adeguata per diventare risposta.
+
+
+=== Teoria Generale dei Sistemi originariamente Teoria Generale del Sistema ===
+In realtà non esiste una teoria nel senso compiuto del termine, ma diversi approcci teorici che usano il concetto di sistema in diversi contesti disciplinari come la fisica, biologia, economia, ecologia e geologia. Oggi l'aspetto generale è considerato nelle Teorie dell'emergenza.
+
+
+=== Teorie dei Sistemi ===
+Intendendo contesti disciplinari, come in Ingegneria, quali la Teoria dei controlli, la Teoria degli automi, la Dinamica dei Sistemi intesa come reti di feedback dei controlli tipiche dell'ingegneria e la teoria dei Fluid Networks.
+
+
+== Teoria dei Sistemi classica ==
+Possiamo rappresentare un sistema come una 'scatola nera' (in inglese, 'black box') con ingressi (solitamente indicati con ) ed uscite . Lo stato del sistema è descritto da un insieme di variabili, dette appunto di stato, solitamente indicate con , che definiscono la "situazione" in cui si trova il sistema ad un certo istante temporale.
+Gli ingressi agiscono sullo stato del sistema e ne modificano le caratteristiche ovvero i valori in un dato istante temporale: queste modifiche vengono registrate dalle variabili di stato. I valori delle uscite del sistema, solitamente le uniche variabili misurabili (ingressi esclusi) dipendono a loro volta dalle variabili di stato del sistema e dagli ingressi (in maniera più o meno diretta).
+Per lo studio del sistema si analizza e si fissa il lasso di tempo [T] nel quale sarà studiato. In questo lasso di tempo (insieme ordinato di istanti) si considerano una serie di istanti particolari.
+Ordinato significa che prendendo due elementi qualsiasi possiamo stabilire con certezza quale dei due precede l'altro.
+Gli elementi necessari per studiare un sistema sono:
+// Insieme ordinato del tempo
+ // Insieme delle variabili di ingresso
+ // Insieme delle variabili di uscita
+ // Insieme delle variabili di stato
+ // Equazione di stato
+ // Equazione di uscita
+L'equazione di stato f serve per calcolare lo 'stato' interno del sistema in un determinato istante ovvero la sua evoluzione nel tempo.
+
+quindi si tiene conto dello stato iniziale e di tutti gli ingressi fino a quel momento. Grazie a questa funzione possiamo studiare l'evoluzione dello stato interno di un sistema.
+L'equazione di uscita g serve a calcolare l'uscita u(ti) nell'istante ti
+
+Tiene quindi conto dello stato interno del sistema e degli ingressi dell'istante ti. Il sistema quindi dipende da questa sestupla di dati:
+
+Formalmente sono possibili tre diverse modellizzazioni matematiche equivalenti e interscambiabili di un sistema dinamico: il modello Ingresso-Stato-Uscita (ISU) che, come visto, evidenzia lo stato interno del sistema, le cause perturbanti o forzanti che agiscono su di esso, ovvero gli ingressi, ed infine l'output di uscita; il modello Ingresso-Uscita (modello ARMA Auto Regressive Moving Average, Modello Autoregressivo a Media Mobile) che lega direttamente gli Ingressi (e le sue derivate) con le Uscite (e le sue derivate) nascondendo le variabili di stato; infine per sistemi lineari tempo invarianti (LTI) il modello tramite funzione di trasferimento ottenuto nel do

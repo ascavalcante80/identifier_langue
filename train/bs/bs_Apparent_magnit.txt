@@ -1,0 +1,11 @@
+Prividna magnituda je prividna jačina sjaja nekog nebeskog tijela (planete, zvijezde) u astronomiji.  Ova astronomska veličina ne pokazuje stvarni sjaj.
+
+
+== Proračun ==
+Ova magnituda je neophodna za proračun apsolutne magnitude nakon što se ustanovi njena udaljenost od Zemlje . 
+Uz korištenje logaritma za bazu 10 su:
+d = udaljenost (parsek)
+m = prividna magnituda
+M = apsolutna magnituda
+
+Kao polazna tačka koristila se je prije zvijezda Vega. To znači da prividna magnituda znači poređenje između zvijezde Vega i dotične zvijezde

@@ -1,0 +1,87 @@
+ique et physique, dans le domaine des sciences humaines. L'étude de systèmes complexes (évolution du chômage, capital d'une entreprise, évolution démographique d'une population…) fait appel à des connaissances mathématiques élémentaires mais le choix des critères de comptage, notamment dans le cas du chômage, ou de la modélisation peut être sujet à polémique.
+
+
+=== Astrologie, ésotérismeModifier ===
+Les mathématiques ont entretenu pendant longtemps des liens très étroits avec l'astrologie. Celle-ci, par le biais de thèmes astraux, a servi de motivation dans l'étude de l'astronomie. Des mathématiciens de renom furent également considérés comme des grands astrologues. On peut citer Ptolémée, les astronomes de langue arabe, Regiomontanus, Cardan, Kepler, ou encore John Dee. Au Moyen Âge, l'astrologie est considérée comme une science se rangeant dans les mathématiques. Ainsi Theodor Zwingler signale dans sa grande encyclopédie, concernant l'astrologie, que c'est une science mathématique traitant du « mouvement actif des corps en tant qu'ils agissent sur d'autres corps » et réserve aux mathématiques le soin de « calculer avec probabilité les influences [des astres] » en prévoyant leur « conjonctions et oppositions ». Les théories astrologiques occidentales contemporaines se targuent de suivre des méthodes scientifiques. En particulier, l'astrologie statistique utilise les tests statistiques pour mettre en évidence d'éventuelles corrélations entre la position des astres et le devenir des hommes. Toutefois, ces études initiées par Choisnard et Gauquelin, menées à la marge de la recherche scientifique, n'ont, en date de 2009, pas été productives et n'ont réussi à donner aucune preuve recevable d'un lien de cause à effet.
+Les mathématiques sont aussi une composante de l'ésotérisme. Très fréquemment, les mathématiciens eux-mêmes ont été tentés de trouver dans la figure ou le nombre un sens caché servant de clé dans la découverte du monde. Dans l'école pythagoricienne, chaque nombre a une signification symbolique et le serment des initiés se serait énoncé devant une tretraktys De même Platon ne se contente pas d'énumérer les solides qui portent son nom il attribue à chacun d'eux une nature (eau, terre, feu, air, univers). L'arithmosophie, la numérologie, la gématrie, l'arithmancie tentent, à travers des calculs sur les nombres, de trouver des significations cachées à des textes ou d'en extraire des propriétés prédictives. On retrouve cette fascination pour le nombre et la figure encore de nos jours où certains attribuent des vertus cachées à un pentacle ou un nombre d'or.
+
+
+== Impact culturelModifier ==
+
+
+=== Expression artistiqueModifier ===
+
+Les notes qui sonnent bien ensemble à une oreille occidentale sont des sons dont les fréquences fondamentales de vibration sont dans des rapports simples. Par exemple, l'octave est un doublement de fréquence, la quinte une multiplication par 3/2.
+Ce lien entre les fréquences et l'harmonie a été notamment détaillé dans le Traité de l'harmonie réduite à ses principes naturels de Jean-Philippe Rameau, compositeur baroque français et théoricien de la musique. Il repose en partie sur l'analyse des harmoniques (notées 2 à 15 dans la figure suivante) d'un son fondamental Do grave (noté 1), les premières harmoniques et leurs octaves sonnant bien entre elles.
+
+Si la courbe tracée en rouge, qui suit les notes harmoniques, a une allure logarithmique, cela correspond au rapport entre deux phénomènes :
+d'une part, la représentation de la hauteur d'un son par notre système auditif qui est proportionnelle au logarithme de la fréquence du son (une fréquence double correspond toujours à la même « distance sonore » appelée octave) ;
+d'autre part, les fréquences harmoniques qui sont des multiples entiers de la fréquence fondamentale.
+
+Les Occidentaux associent une certaine beauté aux figures symétriques. Une symétrie d'une figure géométrique est, intuitivement, l'existence d'un motif de la figure qui se répète suivant une règle précise, tout en étant partiellement transformé. Mathématiquement, une symétrie est l'existence d'une action non triviale d'un groupe, très souvent par isométrie, c'est-à-dire qui préserve les distances sur la figure. En d'autres termes, l'intuition de la règle est mathématiquement réalisée par le fait que c'est un groupe qui agit sur la figure, et le sentiment qu'une règle régit la symétrie est précisément dû à la structure algébrique de ce groupe.
+Par exemple, le groupe lié à la symétrie miroir est le groupe cyclique à deux éléments, ℤ/2ℤ. Un test de Rorschach est une figure invariante par cette symétrie, de même qu'un papillon et plus généralement le corps des animaux, du moins en surface. Lorsqu'on dessine la surface de la mer, l'ensemble des vagues possède une symétrie par translation : bouger notre regard de la longueur séparant deux crêtes de vagues ne change pas la vue que l'on a de la mer. Un autre cas de symétrie, cette fois non isométrique et presque toujours seulement approximative, est celui présenté par les fractales : un certain motif se répète à toutes les échelles de vision.
+
+
+=== VulgarisationModifier ===
+
+La vulgarisation mathématique a pour objectif de présenter les mathématiques en un langage dénué de termes techniques. Comme l'objet d'études des mathématiques n'est pas réel, elle use souvent d'un vocabulaire imagé, et de comparaisons ou analogies non rigoureuses, pour faire sentir l'idée des développements mathématiques. Parmi les ouvrages qui se fixent ce but, citons Oh, les maths de Yakov Perelman et Le livre qui rend fou de Raymond Smullyan. Toutefois, les mathématiques font rarement l'objet de vulgarisation dans des journaux écrits ou télévisés.
+La revue Tangente, l'aventure mathématique est le principal magazine de vulgarisation mathématique édité en France.
+La revue Images des mathématiques, soutenue par le Centre national de la recherche scientifique (CNRS), relève également le défi. Elle fait découvrir au plus grand nombre la recherche mathématique contemporaine et son environnement.
+La revue Accromαth est soutenue par l'Institut des sciences mathématiques et le Centre de recherches mathématiques de Montréal. Elle s'adresse principalement aux élèves et enseignants d'école secondaire et de cégep et est distribuée gratuitement au Québec.
+
+
+=== Littérature et filmographieModifier ===
+Si nombre de biographies portent sur les mathématiciens, les mathématiques sont un thème certes peu exploité dans la littérature ou la filmographie, mais présent.
+
+
+==== RomansModifier ====
+Plusieurs livres de Denis Guedj, dont :
+
+
+==== FilmsModifier ====
+
+
+==== ThéâtreModifier ====
+
+
+===== Pièces de théâtreModifier =====
+La Preuve de David Auburn, 2000 (Proof,  éd. Dramatist's Play Service, 2002)
+One zéro show et Du point à la ligne de Denis Guedj (Paris, Seuil, 2001, (ISBN 9782020373791))
+
+
+===== Spécialistes de théâtre de sciencesModifier =====
+Le Théâtre scientifique de Louis Figuier, Fabienne Cardot, Romantisme, 1989
+Théâtre et sciences, Le double fondateur, Jacques Baillon, L'Harmattan, 1998
+La Recherche théâtrale dans un institut technologique et scientifique, Ouriel Zohar, dans Théâtre et Science,  éd. Pr Lucile Garbagnati, F. Montaclair et D. Vingler, Presses du Centre Unesco de Besançon et du Théâtre de l'Université de Franche-Comté, Besançon, 1998.
+Théâtre et matière, Les moteurs de représentation, Jacques Baillon, L'Harmattan, 2002
+Le Théâtre de sciences, Michel Valmer, CNRS Éditions, 2006
+Science on stage, from Dr Faustus to Copenhagen, Kirsten Sheperd-Barr, Princeton University Press, 2006.
+Le Modèle scientifique dans le théâtre de Tom Stoppard, Liliane Campos, dans Epistémocritique, Revue d'études et de recherches sur la littérature et les savoirs, vol. II, 2008
+L'île logique, théâtre et clowns sur la logique, les mathématiques et la physique théorique (CNRS, école Polytechnique), Cédric Aubouy. 2008.
+
+
+==== Séries téléviséesModifier ====
+Numb3rs, série de Nicolas Falacci et Cheryl Heuton.
+Eureka, série télévisée créée par Andrew Cosby et Jaime Paglia.
+Stargate Universe, série télévisée créée par Brad Wright et Robert C. Cooper.
+
+
+== BibliographieModifier ==
+Jean-Pierre Kahane (ed.), L'enseignement des sciences mathématiques : Commission de réflexion sur l'enseignement des mathématiques [détail des éditions]
+
+
+== Notes et référencesModifier ==
+
+
+== AnnexesModifier ==
+
+
+=== Articles connexesModifier ===
+
+
+=== Liens externesModifier ===
+Open Directory — Mathématiques
+Yahoo! Directory — Mathématiques
+
+ Portail des mathématiques
+ Portail des sciences

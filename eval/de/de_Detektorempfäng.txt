@@ -1,0 +1,52 @@
+cheid mit Detektor-Disziplinen, den „Hombrew Radiocontest”.
+
+
+== WeiterentwicklungBearbeiten ==
+Ab den frühen 1920er Jahren gab es neben dem Detektorradio einen weiteren Geradeausempfänger – das Audion. Der Detektor hatte bisher den Vorteil, dass ein Selbstbau um etwa ein Drittel billiger war als der eines Audionempfängers und dass er keine eigene Batterie und keine weitere externe Energiequelle benötigte. In Deutschland betrug der Ausstattungsgrad mit Detektoren 1924 noch über 50 %. Aber das Audion wurde u. a. durch den ab 1926 produzierten preiswerten Empfänger der Loewe Audion GmbH Ortsempfänger OE333 populärer, dessen Erfolg einige Veränderungen am deutschen Markt verursachte. Erstmals nahmen die Verkaufszahlen von Detektorradios ab, und auch die Preise anderer angebotener Audionempfänger fielen. In den 1930er Jahren bedrängte dann der Überlagerungsempfänger Detektor- und Audionradios erheblich am Markt. Nach dem Zweiten Weltkrieg stieg jedoch in der Nachkriegszeit in Europa für Detektor- wie für den Audion-Empfänger die Beliebtheit wieder an. Verlage wie Radio RIM in München veröffentlichten Schaltungen zum Nachbau.
+Noch zu Anfang der Transistorzeit in den 1950er Jahren wurden Audion-ähnliche Transistorschaltungen oder Reflexempfänger mit ähnlicher Technik eingesetzt. Heute sind aber praktisch nur noch Überlagerungsempfänger im Einsatz. Für Sonderzwecke (z. B. Schulung, Experimente) ist der Detektorempfänger aber auch heute noch ein lohnendes Projekt.
+Detektorempfänger sind mit gleichem Grundaufbau auch für UKW-Empfang realisierbar – die Frequenzmodulation kann nach dem Prinzip des Flankendemodulators demoduliert werden. Dazu muss der Schwingkreis gegenüber der Sendefrequenz etwas verstimmt sein. Als Antenne dient z. B. ein Halbwellen-Schleifendipol. Solche Geräte wurden nie kommerziell gefertigt, der Bau und die Verwendung im Nahfeld eines UKW-Senders ist jedoch lehrreich.
+In Bezug auf die Energieversorgung kann man Rectenna (aus dem Englischen von rectifying antenna) als Nachfolger sehen. So wird eine Schaltungsanordnung bezeichnet, die Hochfrequenzenergie empfängt und diese dann in eine Gleichspannung umwandelt.
+Durch die Abschaltung von vielen leistungsstarken Rundfunksendern im Mittelwellenbereich können heute weniger Radiosender aus Europa als noch vor 25 Jahren auch mit Detektorempfängern empfangen werden. Allerdings wird mit der abnehmenden Senderdichte der Fernempfang mit einem Detektorradio leichter möglich.
+
+
+== ZitatBearbeiten ==
+In seinem Roman It's a Battlefield (1934), dessen Handlungsort das Londoner Stadtgebiet ist, erwähnt der Schriftsteller Graham Greene in einem kurzen Dialog den Detektorempfänger. In der deutschen Übersetzung von Walter Puchwein lautet der Dialog:
+„Moskau habe ich gehört“, erklärte Crabbe, „Rom habe ich gehört, New York, aber Genf kann ich nicht kriegen. Was für einen Apparat haben Sie?“ fauchte er Surrogate an.
+„Verzeihen Sie“, erwiderte dieser, „aber ich glaube, Sie haben mich mißverstanden. Ich sprach vorhin nicht von der Radiostation …“
+„Erzählen Sie mir nur nichts von einem Kristall“, fiel ihm Crabbe ins Wort. „Ich bin zwar ein alter Mann, aber noch nicht verblödet. Was die Leute mir für Geschichten erzählen über Stationen, die sie angeblich mit Kristalldetektoren bekommen können …“
+
+
+== Siehe auchBearbeiten ==
+Magnetischer Detektor
+Geschichte des Hörfunks
+
+
+== WeblinksBearbeiten ==
+
+Historische Information zu alten Radios und deren Technik
+Detektorempfänger mit Baukasten-Mitteln gebaut
+Gollums Welt der Detektorempfänger
+Bastelprojekte speziell für Kurzwellenempfang
+Prinzip des Detektorempfangs mit dem Bild einer Rahmenantenne
+Linksammlung und Glossar rund um Detektorempfänger - teilweise englisch
+Erläuterung der theoretischen Hintergründe bis zum Weitempfang
+Spulen für Detektorempfänger
+
+
+== EinzelnachweiseBearbeiten ==
+↑ Friedrich Benz: Einführung in die Funktechnik. Springer-Verlag, Wien 1937.
+↑ Bild einer Radiopostkarte
+↑ Datasheet LT1016 (PDF; 1,3 MB)
+↑ Hans Heinrich Meinke, Friedrich-Wilhelm Gundlach: Taschenbuch der Hochfrequenztechnik – Band 2: Komponenten. Springer-Verlag, Berlin 1992. ISBN 3-540-54714-2. S. N16
+↑ Kristalloden Technik, R. Rost, Verlag Wilhelm Ernst und Sohn 1954, S.157
+↑ Radiobasteln für Jungen, Heinz Richter, Franckh'sche Verlagsbuchhandlung 1974, S.27
+↑ RIM bastelbuch 1964 („RIM-Buch“), Radio-RIM, München 1964, S. 83
+↑ Vladimir Gurevitch: Electric relays: Principles Applications. Taylor & Francis Group/CRC Press. Boca Ratin (Florida USA), 2006. Seite 211ff. ISBN 978-0849-34188-5.
+↑ Thomas H. Lee: Planar Microwave Engineering: A practical guide to theory, measurements and circuits. Cambridge University Press. Edinburgh, 2004. Seite 297ff. ISBN 978-0521-83526-8.
+↑ Empfangsschaltungen, in: „Des Funkbastlers Ratgeber”. Broschüre der Firma Anschütz & Co. Kiel, 1926. Seiten 14-22 und 32-43.
+↑ Rundfunkempfang ohne Röhren, Herbert G. Mende, Franzis Verlag 1959, S. 16
+↑ Siegfried Wirsum: „Radiobasteln mit Feldeffekttransistoren”. Radio RIM. München, 1973. Seite 7ff.
+↑ Berthold Bosch, Detektor Fernempfang
+↑ Veröffentlichungen von Dave Schmarder theradioboard.com, abgerufen 20. April 2014, englisch.
+↑ Eva Susanne Breßler: „Von der Experimentierbühne zum Propagandainstrument: Die Geschichte der Funkausstellung 1924 bis 1939”. Böhlau Verlag GmbH und Cie. Köln, 2009. Seite 73ff. ISBN 978-3412-20241-5.
+↑ Graham Greene: It's a Battlefield. William Heinemann, London 1934. Deutsche Übersetzung von Walter Puchwein. Schlachtfeld des Lebens. Rowohlt, Hamburg 1952/April 1953, S. 69.

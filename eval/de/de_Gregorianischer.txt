@@ -1,0 +1,64 @@
+e Osterzyklus.
+
+
+=== Kalenderwochen pro JahrBearbeiten ===
+Die Sonnenzirkel-Periode enthält genau 20.871 Wochen (wo). In jeder Periode gibt es 71 Jahre mit einer 53. Kalenderwoche.
+400 a · 365,2425 d/a = 146.097 d
+146.097 d / 7 d/wo = 20.871 wo
+400 a · 52 wo/a + x · 1 wo/a = 20.871, wo   (alle 400 Jahre haben mindestens 52 Wochen, in x Jahren der 400 Jahre erhöht sich die Zahl der Wochen um 1 Woche)
+x = (20.871 wo - 20.800 wo) a/wo = 71 a
+
+
+=== Durchschnittliche Monatslänge und durchschnittliche Wochenzahl pro MonatBearbeiten ===
+Ein Monat (mo) ist im Durchschnitt 30,436875 Tage oder 4,348125 Wochen lang, das heißt vier Wochen, zwei Tage, zehn Stunden, 29 Minuten und sechs Sekunden oder 2.629.746 Sekunden (ohne Berücksichtigung von Schaltsekunden). (Betrachtet wird ein ganzer Schaltjahrzirkel von 400 a.)
+146.097 d ÷ 4.800 mo = 30,436875 d/mo
+20.871 wo ÷ 4.800 mo = 4,348125 wo/mo
+
+
+=== Freitag, der 13.Bearbeiten ===
+Ein bestimmtes Datum (Tag und Monat oder nur Tag) fällt nicht gleich häufig auf alle Wochentage. Der 13. eines beliebigen Monats fällt geringfügig öfter (nämlich 688 mal in 400 Jahren) auf einen Freitag als auf andere Wochentage (Donnerstag und Samstag: 684 mal, Montag und Dienstag: 685 mal, Sonntag und Mittwoch: 687 mal).
+
+
+=== OsterzyklusBearbeiten ===
+Im gregorianischen Kalender sind nach jeweils 5.700.000 Jahren wieder 5.700.000 Ostern gleich auf die Jahresdaten verteilt wie die 5.700.000 Ostern vorher (siehe Osterzyklus).
+
+
+== Siehe auchBearbeiten ==
+Liste der Kalendersysteme
+Umrechnung zwischen julianischem Datum und gregorianischem Kalender
+
+
+== WeblinksBearbeiten ==
+
+Allgemein
+Kalendergenerator Jahreskalender ausdrucken
+Ewiger Kalender
+zu Kalenderrechnung im Allgemeinen siehe die Weblinks im Artikel Kalender
+Spezielle Aspekte des gregorianischen Kalendersystems
+Papst Gregor XIII: Inter Gravissimas Päpstliche Bulle, die den gregorianischen Kalender verordnete
+Alternativen zum gregorianischen Kalender
+Portable Bibliothek für internationale Datums- und Uhrzeitberechnungen
+Hermann Grotefend: Zeitrechnung des Deutschen Mittelalters und der Neuzeit
+Holger Oertel: Gregorianischer Kalender. Abgerufen am 2. September 2012.  Einführung in den einzelnen Territorien
+
+
+== EinzelnachweiseBearbeiten ==
+↑ Heiner Lichtenberg: Das anpassbar zyklische, soliluneare Zeitzählungssystem des Gregorianischen Kalenders – Ein wissenschaftliches Meisterwerk der späten Renaissance. In: Mathematische Semesterberichte, Band 50, 2003, S. 47.
+↑ J. Meeus: Astronomical Tables of the Sun, Moon and Planets. Willmann-Bell, Richmond 1995, ISBN 0-943396-45-X, S. 140: März-Äquinoktium am 10. März 1582, 23:57:54 Dynamischer Zeit, also im Gebiet der heutigen mitteleuropäischen Zeitzone und östlich davon am 11. März.
+↑ Pedersen, a. a. O., S. 68.
+↑ J. D. North: The Western Calendar - „Intolerabilis, Horribilis, et Derisibilis“; Four Centuries of Discontent. In: G. V. Coyne, M. A. Hoskin, O. Pedersen: Gregorian Reform of the Calendar: Proceedings of the Vatican conference to commemorate its 400th anniversary. Specola Vaticana, citta del vaticano 1983, S. 78, harvard.edu
+↑ A. Ziggelaar: The Papal Bull of 1582 Promulgating a Reform of the Calendar. In: G. V. Coyne, M. A. Hoskin, O. Pedersen: Gregorian Reform of the Calendar: Proceedings of the Vatican conference to commemorate its 400th anniversary. Specola Vaticana, citta del vaticano 1983 , S. 201, harvard.edu
+↑ Heinz Zemanek: Kalender und Chronologie. München 1990, S. 29.
+↑ A. Ziggelaar: The Papal Bull of 1582 Promulgating a Reform of the Calendar. In: G. V. Coyne, M. A. Hoskin, O. Pedersen: Gregorian Reform of the Calendar: Proceedings of the Vatican conference to commemorate its 400th anniversary. Specola Vaticana, citta del vaticano 1983, S. 223, (harvard.edu)
+↑ Laut Historisch-Biographischem Lexikon der Schweiz, Artikel »Zeitrechnung«, in reformiert Glarus erst 1798.
+↑ Mike Spathaky: Old Style and New Style Dates and the change to the Gregorian Calendar. 2006.
+↑ Auf den 31. Januar folgte der 14. Februar.
+↑ Auf den 31. Januar folgte der 14. Februar.
+↑ Cornelius Hasselblatt: Geschichte der estnischen Literatur: von den Anfängen bis zur Gegenwart. Berlin 2006. S. XVII
+↑ Regina Kusch: Als Preußen zehn Tage aus dem Jahr 1612 strich. Deutschlandfunk, 2. September 2012, abgerufen am 2. September 2012. 
+↑ Vgl. Dicziunari Rumantsch Grischun, Artikel Büman (Band II, Seite 602 ff.), wonach im (evangelischen) Engadin laut einer Angabe von etwa 1910 Neujahr „noch vor 40 Jahren“ am 13. Januar gefeiert wurde, also etwa bis 1870.
+↑ Günther Winkler: Zeit und Recht (Band 100 von Forschungen aus Staat und Recht). Springer, 1995, ISBN 978-3-211-82763-5, S. 330 (eingeschränkte Vorschau in der Google-Buchsuche).
+↑ Ludwig Ideler: Handbuch der mathematischen und technischen Chronologie, 2. Band. August Rücker, Berlin 1826, S. 325 (Internet Archive).
+↑ Esin İleri: Lehrbuch der türkischen Sprache. ISBN 3-87548-344-8, S. 159; abgerufen 15. Februar 2011.
+↑ Şükran Vahide: Islam in der modernen Türkei. ISBN 978-3-8258-1794-7, S. 207; abgerufen 15. Februar 2011.
+↑ Heinz Zemanek: Kalender und Chronologie, München, 1990.

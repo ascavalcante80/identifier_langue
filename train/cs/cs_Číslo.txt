@@ -1,0 +1,57 @@
+Číslo je abstraktní entita užívaná pro vyjádření množství nebo pořadí. Čísla se dnes obvykle zapisují v desítkové poziční číselné soustavě pomocí arabských číslic a pomocných znaků, zejména desetinné čárky a znamének plus a mínus. V informatice se užívají i jiné poziční soustavy, například dvojková nebo šestnáctková soustava.
+Někdy se používají i starší nepoziční číselné soustavy, jako jsou například římské číslice.
+V laickém použití se někdy výraz číslo mylně používá ve významu číslice.
+
+
+== Počátek zaznamenávání čísel ==
+
+Nejstarší archeologické doklady o počítání představují patrně tzv. vrubovky, kostěné nebo dřevěné tyčky se zářezy, kde každý zářez odpovídá jednomu počítanému objektu. Kolem roku 3000 př.n.l. byly v Sumerské říši k vyjadřování množství obchodovaného zboží používány různě vytvarované zhruba centimetrové hliněné žetony, představující například jednu ovci, jednu domluvenou míru obilí nebo oleje apod., počet žetonů pak vyjadřoval celkové domluvené množství zboží. Žetony byly po obchodním jednání uzavřeny do duté hliněné koule opatřené pečetěmi smluvních stran. Pro ověření množství bylo ovšem nutno pečetě porušit. Proto bylo kromě pečetí na kouli napsáno, jaké žetony v jakém množství se v ní nacházejí. Obchodníci si po čase všimli, že tak vlastně žetony nepotřebují.
+Egyptské číslice používají například symbol
+pro 1 a
+pro 10.
+K označování pořadí (např. panovníků, knih apod.) se naproti tomu v mnoha kulturách užívala písmena abecedy. V řeckých, hebrejských i hlaholských textech se písmena příslušné abecedy s pevně danými hodnotami užívala i pro zaznamenávání nejčastějších čísel (např. 1-9, 10-90, 100-900). Jiné hodnoty se zapisovaly jako součty těchto čísel. Podobný nepoziční systém představují římské číslice, které ale nepoužívají všechny znaky abecedy v jejich pořadí, nýbrž jen znaky I, V, X, L, C, D a M. Hodnotu čísla tvoří součet jejich hodnot. Číslo 2012 se zapíše jako MMXII.
+Vruby i nepoziční číselné soustavy jsou poměrně názorné, hodí se však jen pro zápis malých přirozených čísel a neposkytují žádnou podporu pro aritmetické operace. Další rozvoj počítání a matematiky proto velmi podpořilo zavedení pozičních číselných soustav o daném základu.
+
+
+== Poziční číselné soustavy ==
+Podrobnější informace naleznete v článku Číselná soustava.
+Poziční číselná soustava o základu N užívá N různých číslic, jejich hodnota však závisí na umístění čili pozici v celém zápisu čísla: tatáž číslice 2 v zápisu 222 znamená jednou 200, podruhé 20 a na posledním místě 2.
+Dnes používáme desítkovou soustavu čísel (dekadická), která využívá základu deset. Pracuje s číslicemi 0, 1, 2, 3, 4, 5, 6, 7, 8 a 9. Další číslo 10 tvoří základ soustavy. dvojková (binární) soustava používá pouze dvou číslic 0 a 1. Hodnotu lze také vyjádřit v šestnáctkové soustavě (hexadecimální) pomocí hexadecimálního čísla, které používá běžné číslice pro hodnoty 0–9 a „číslice“ A–F (nebo a–f) pro hodnoty 10–15.
+
+
+== Číselné obory ==
+Číselný obor je množina čísel, na nichž je bez omezení definována operace sčítání a násobení. Vůči těmto operacím je uzavřený, to znamená, že i jejich výsledky patří do téhož oboru.
+
+
+=== Přirozená čísla ===
+Podrobnější informace naleznete v článku Přirozené číslo.
+Zvláštním případem „vyjádření množství“ je „vyjádření počtu“ - přidělení určitého čísla skupině objektů, o kterých uvažujeme jako o jednotkových (každý z nich je „jeden“) a dále nedělitelných. Tomuto vyjadřování počtu říkáme v běžném jazyce počítání a čísla, používaná k vyjádření počtu jsou označována jako přirozená čísla.
+Přirozená čísla jsou obvykle označována symbolem  (v teorii množin také symbolem ). Podle toho, k jakým účelům se definice přirozených čísel používá, je mezi ně někdy zařazován i „počet objektů v prázdném souboru“ - číslo 0. Aby v tomto nedocházelo k nejasnostem, používá se obvykle pro přirozená čísla s nulou symbol
+a pro přirozená čísla bez nuly symbol
+V tomto článku je používán symbol  ve smyslu „počtů v neprázdných souborech objektů“, takže 
+
+
+=== Celá čísla ===
+Podrobnější informace naleznete v článku Celé číslo.
+Přirozená čísla jsou naprosto postačující, dokud je v rámci počítání používáno pouze sčítání a násobení, případně mocnění. Při pokusu o „opačné“ početní operace ale přirozená čísla již nestačí.
+Příkladem takové nedostatečnosti je určení „počtu peněz, které dluží Karel Jirkovi“. Dokud Karel dluží Jirkovi, je vše v pořádku a „vejdu“ se do přirozených čísel. Dokonce ještě v případě, kdy Karel vše vrátí, lze se s tím vypořádat v oboru . Co ale s případem, kdy se situace otočí a Karel naopak půjčí nějaké peníze Jirkovi (nebo mu vrátí víc, než kolik mu dlužil)?
+Tato motivace - zachycení záporných počtů především v oblasti financí, vedla k rozšíření oboru přirozených čísel na celá čísla, která vzniknou z  přidáním „zrcadlových obrazů“ jednotlivých počtů:
+Tyto zrcadlové obrazy mi umožňují odpověď ve výše uvedeném příkladě i v obrácené situace (lze dlužit zápornou částku). Obor celých čísel je totiž uzavřený co se týká operace opačné ke sčítání - odčítání. Lze tedy napsat například:
+
+
+=== Racionální čísla ===
+Podrobnější informace naleznete v článku Racionální číslo.
+Stejně, jako je odečítání opačnou operací ke sčítání (a abychom jej mohli používat bez omezení, museli jsme rozšířit přirozená čísla na celá čísla), nabízí se otázka, co s opačnou operací k násobení - s dělením. Při pokusech o „vracení do původního stavu“ po vynásobení - což přesně dělení vlastně je - brzy přijdeme na to, že v některých případech nevystačíme s celými čísly. Číselný obor celých čísel by bylo potřeba rozšířit o čísla vyjadřující taková množství (v tuto chvíli už nelze mluvit o počtu) jako je „sedm polovin“, „jedna třetina“ nebo „sedmnáct setin“.
+Rozšíření oboru celých čísel o tato „zlomková množství“ vzniká obor racionálních čísel
+Tento zápis vypadá hrozivě, ale nevyjadřuje nic jiného, než to, co vedlo k zavedení pojmu racionálního čísla - potřebu vyjádřit zlomková množství. Konkrétně „sedm polovin“, „jedna třetina“ a „sedmnáct setin“ lze zapsat takto:
+V dnes běžně používané desítkové číselné soustavě mají obzvláštní důležitost zlomky dělící objekt na části odpovídající mocninám desítky - například na desetiny, setiny, tisíciny. Pro ty je používán zjednodušený zápis s použitím desetinné čárky:
+
+
+=== Reálná čísla ===
+Podrobnější informace naleznete v článku Reálné číslo.
+Zdálo by se, že množina racionálních čísel je již dostatečná pro řešení všech matematických úloh, které by koho mohly napadnout. To vychází z myšlenky, že mezi libovolnými dvěma racionálními čísly se nachází jejich průměr, neboli jejich součet vydělený dvěma, což je také racionální číslo, takže racionální čísla pokryjí číselnou osu celou. Že tomu tak není, to zjistila již sekta Pýthágorejců v antickém Řecku. Problém, ke kterému neexistuje řešení mezi racionálními čísly, lze formulovat následujícím způsobem:Najděte takové číslo, jehož druhá mocnina je 2.
+Důkaz, že takové racionální číslo neexistuje, lze najít zde.
+Představím-li si rozmístění racionálních čísel na číselné ose, pak na každém jejím sebemenším kousku jich je nekonečně mnoho. Přesto se na tuto číselnou osu vejde i veliké množství (dokonce mnohem větší množství, než je všech racionálních čísel) čísel jiných - iracionálních čísel. Příkladem je číslo z výše uvedeného příkladu, které je obvykle označováno symbolem . Takováto čísla (která jsou řešením nějaké polynomické rovnice, nebo zjednodušeně řečeno, která lze vyjádřit pomocí sčítání, odčítání, násobení, dělení, mocnění a odmocňování racionálních čísel) jsou nazývána algebraická.
+Otázka, zda existují ještě jiná, než algebraická čísla, byla vyřešena kladně - například Ludolfovo číslo  není algebraické - jedná se o takzvané transcendentní číslo.
+Množina čísel, která odpovídají veškerým myslitelným množstvím (tj. racionální, iracionální, algebraická, transcendentní), nazýváme množinou reálných čísel, používá se pro ní označení . Na rozdíl od racionálních čísel tato množina již beze zbytku vyplňuje číselnou osu.
+Poznámka: To, že reáln

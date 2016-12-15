@@ -1,0 +1,22 @@
+а. Ajax приложения написаны на JavaScript.
+«Простой» API. Простой API представляет собой XML формат данных (расширенный GeoRSS), для отображения точек данных поверх Yahoo! Maps. В Flash и Ajax API также есть поддержка отображения данных формата GeoRSS.
+
+
+== См. также ==
+Веб-картография
+Космоснимки
+SAS.Планета
+
+
+== Примечания ==
+
+
+== Ссылки ==
+Официальный сайт (англ.)
+Статья о Yahoo! Maps (рус.)
+Yahoo! Local and Maps Blog (англ.)
+Yahoo! Maps API Documentation (англ.)
+Yahoo! Maps API Discussion Group (англ.)
+Yahoo! Maps API Gallery (англ.)
+Yahoo! Maps API Gallery (older) (англ.)
+GeoRSS Home (англ.)

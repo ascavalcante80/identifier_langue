@@ -1,0 +1,31 @@
+språk, i motsetning til DOM. Eksempel på et slikt databindingssystem er Java Architecture for XML Binding (JAXB) [1] og Strathclyde Novel Architecture for Querying XML (SNAQue) [2].
+
+Den innebygde filformatet for OpenOffice.org og AbiWord er XML. Deler av Microsoft Office 11 vil også være i stand til å redigere XML-filer ved hjelp av et brukergitt schema (ikke DTD). Det finnes et titall andre XML-editorer.
+
+
+== XML-versjoner ==
+Den siste XML-versjonen er 1.1 (4. februar 2004). Spesifikasjonen til den første versjonen, XML 1.0, er nå revidert for tredje gang.
+XML 1.0 og XML 1.1 er ulike i forhold til krav til tegn som kan brukes i elementnavn, attributtnavn o.l.: XML 1.0 tillater bare tegn som er lovlige Unicode 2.0. Dette inkluderer de fleste «world scripts», men utelukker «scripts» som kan brukes i senere versjoner av Unicode, som mongolsk, kambodsjansk, amharisk, burmesisk, etc. XML 1.1 har begrensninger bare når det gjelder visse styretegn, hvilket innebærer at alle andre tegn kan brukes, selv om Unicode-standarden vokser eksponensielt.
+Det bør nevnes at begrensningen som er til stede i XML 1.0 bare gjelder element- og attributtnavn (komponentnavn). Både XML 1.0 og XML 1.1 tillater alle Unicode-tegn i selve innholdet. XML 1.1 er derfor bare nødvendig dersom du ønsker å bruke Unicode i komponentnavn.
+Andre mindre endringer mellom XML 1.0 og XML 1.1 er at styretegn nå tillates bare om de inngår i en escape-sekvens. To spesielle formfeed-tegn, som må behandles som «whitespace», er inkludert.
+Alle XML 1.0-dokumenter er lovlige XML 1.1-dokumenter, med ett unntak: XML-dokumenter som erklærer seg selv som ISO-8859-1-kodet, som betyr CP1252-kodet, kan nå være ulovlig. Dette er fordi CP1252 bruker styretegnblokker av ISO-8859-1 for spesielle tegn, som €, Œ, og ™. XML 1.0-dokumenter som deklarerer CP1252-koding vil likevel være gyldige.
+Det snakkes også om XML 2.0, selv om det gjenstår å se om det noensinne dukker opp. XML-SW (SW for skunk works), skrevet av en av de opprinnelige utviklerene av XML, inneholder noen forslag til en XML 2.0-versjon, f.eks. at DTD ikke lenger skal være tillatt, samt integrasjon av navnerom, XML Base og XML Information Set inn i hovedstandarden.
+
+
+== Se også ==
+DocBook
+SMIL (Synchronized Multimedia Integration Language)
+WSDL
+
+
+== Referanser ==
+^ Bray, Tim: Extensible Markup Language (XML) 1.0 (Fourth Edition) – Origin and Goals World Wide Web Consortium September 2006
+
+
+== Eksterne lenker ==
+XML-spesifikasjon
+Annotated XML Specification
+World Wide Web Consortiums nettsted
+World Wide Web Consortium XML nettsted
+Spesifikasjonen av XML 1.1
+Spesifikasjonen av XML 1.0

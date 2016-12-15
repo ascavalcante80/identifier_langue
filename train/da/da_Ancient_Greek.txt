@@ -1,0 +1,49 @@
+Oldgræsk er det græske sprog, som det blev talt og skrevet i oldtiden (ca. 800 f. Kr. – ca. 600 e. Kr.), i modsætning til nygræsk, som er betegnelsen for det græske sprog efter oldtiden. Græsk tilhører den indoeuropæiske sprogæt.
+Klassisk græsk er næsten det samme som oldgræsk, men er en snævrere betegnelse for de oldgræske dialekter, der blev talt i de græske bystater og kolonier i arkaisk og klassisk tid ca. 800-320 f.Kr. I den følgende tid, Hellenismen, opstod det græske fællessprog koine, som ikke i så høj grad var opdelt i forskellige dialekter. Oldgræsk og klassisk græsk bruges ofte synonymt.
+Af berømte værker skrevet på oldgræsk er Homers digte, Sofokles' tragedier, Aristofanes' komedier, Platons dialoger og Aristoteles' værker, som alle er skrevet på en dialekt af klassisk græsk. Det Nye Testamente er skrevet på en variant af koine, som kaldes nytestamentligt græsk.
+
+
+== Dialekter ==
+De klassiske dialekter falder i tre hovedgrupper:
+Østlige
+Æolisk
+Ionisk
+Attisk
+
+Vestlige
+Nordvestgræsk
+Dorisk
+
+Arkadisk-kyprisk
+Ionisk græsk blev talt i Attika, dele af det vestlige Lilleasien og på øerne derimellem. Attisk græsk er en variant af det ioniske sprog. Attisk græsk indtager en særstilling, fordi det er den dialekt, der undervises i på fx gymnasier. De æoliske dialekter afviger stærkt indbyrdes; de blev talt i Boiotien, Thessalien, på Lesbos og andre steder. De doriske dialekter blev talt af spartanerne, andre folk på Peloponnes og flere andre steder. Den arkadisk-kypriske dialekt er udviklet af mykensk græsk i bronzealderen.
+De fleste dialekter kan igen inddeles i grupper, der svarer til de bystater eller landskaber, hvor de blev talt. Der er både ø-dorisk (fx kretisk dorisk), lakonisk dorisk (spartansk) og nordpeloponnesisk dorisk (korinthisk).
+Ikke-joniske dialekter kendes primært fra indskrifter, men digterinden Sapphos digte er på æolisk, og digteren Pindars er på (boiotisk) dorisk.
+Homers episke sprog er et kunstsprog, ikke en talt dialekt. Det er grundlæggende ionisk, men det har en række elementer fra andre dialekter som den æoliske.
+Med Alexander den Store blev attisk verdenssproget, og efterhånden forsvandt de gamle dialekter til fordel for det hellenistiske fællessprog, koine.
+
+
+== Karakteristika fra det oldgræske sprogs grammatik ==
+
+
+=== Verbalbøjning ===
+Et typisk græsk verbum findes i 304 finitte og 304 infinitte verbalformer.
+De oldgræske verber bøjes i:
+3 diateser (aktiv, medium, passiv)
+5 aspekt- eller tempusstammer (imperfektiv, aorist, perfektiv, futurum futurum perfecti)
+4 finitte modi (indikativ = præsens, konjunktiv, optativ, imperativ) og 4 infinitte modi (infinitiv, participium, verbaladjektiv og gerundiv)
+de finitte former bøjes i 3 personer (1., 2., 3.) og 3 tal (singularis, pluralis og dualis)
+infinitiven er ubøjelig, men de øvrige i 3 køn (maskulinum, femininum, neutrum), 5 kasus (nominativ, vokativ, akkusativ, genitiv og dativ) og 3 tal (singularis, pluralis og dualis)
+Der findes ikke en særlig passivform i imperfektiv og perfektiv, ikke en indikativ (præsens) i aorist, ikke en præteritum, konjunktiv og imperativ i futurum, ikke en konjunktiv og optativ i perfektum medium, ikke en futurum perfecti i aktiv og passiv, ikke et verbaladjektiv og en gerundiv i aktiv og medium og ikke en 1. person i dualis. Nominalbøjningen byder også på en række sammenfald: Der findes ikke skel mellem nominativ, vokativ og akkusativ i neutrum, ikke skel mellem nominativ og vokativ i pluralis, i femininum og i aktiv og passiv participium, ikke skel mellem nominativ, akkusativ og dualis og mellem genitiv og dativ i dualis og ikke skel mellem maskulinum og neutrum i genitiv og dativ.
+
+
+=== Aspekt ===
+Græsk er et aspektsprog lige som de slaviske sprog. Særlig skellet mellem imperfektiv og aorist er centralt. Enhver handling bliver ved hjælp af aspektet karakteriseret som en handling set som en proces (imperfektiv) og en handling set som en realitet (aorist), fx ἤκουον "jeg sad og hørte" ~ ἤκουσα "jeg hørte". Imperfektiv svarer på mange måder til engelsks "progressive" former (I was listening ~ I listened). latin og de romanske sprog har et lignende skel i datid mellem imperfektum og perfektum (latin: audiebam ~ audivi, fransk: j'écoutais ~ j'écoutai, j'ai écouté).
+På græsk dannes aorist af en særlig stamme, der som regel er beslægtet med imperfektivstammen, men ikke altid (fx ἐώρων "jeg sad og så" ~ εἶδον "jeg så"). Den mest almindelige måde at danne aorist på er med -s- ("sigmatisk aorist"). Næsthyppigst er den aorist, der er dannet på roden med en enkelt stammevokal foran endelsen ("tematisk aorist" eller "aorist 2") – ligesom imperfektiv (i de tilfælde vil imperfektiv så være dannet med en stammeudvidelse). Sjælden er derimod en den aorist, der er dannet direkte på roden uden en stammevokal ("atematisk aorist" eller "rodaorist").
+Et tredje aspekt er den såkaldte perfektiv, der tidligere blev kaldt perfektum, men den latinske og germanske perfektum vil normalt svare til en græsk aorist. Den græske perfektum betegner ikke en handling i fortiden, men en nutidig tilstand, der er resultatet af en fortidig handling: ἡ ἐπιστολὴ γέγραπται = "brevet er skrevet, brevet foreligger" modsat aorist ἡ ἐπιστολὴ ἐγράφθη "brevet blev skrevet, er blevet skrevet". Perfektum kan også have en intensiverende betydning.
+Perfektiv dannes ligeledes af en særlig stamme, der normalt har reduplikation, dvs. gentagelse af begyndelseskonsonanten med et -e- imellem: γράφω ⇒ γέγραφα. Hvis stammen begynder med en tung konsonantforbindelse, er der kun et e- i ordets begyndelse, og hvis stammen begynder med en vokal, forlænges den.
+Futurum er ikke et aspekt, men dannes ikke desto mindre parallelt med de tre aspekter. Tempus er ikke en grundlæggende kategori i det græske verbalsystem (i modsætning til latin og germansk), og aspekt er ikke i første omgang et spørgsmål om tid. Datid udtrykkes derimod med en særlig modus (præteritum). Derfor findes der heller ikke konjunktiv præteritum (som på latin).
+
+
+=== Augmentet ===
+Præteritum er kendetegnet ved en særlig forstavelse, e-, ἐ-, der er valgfrit i digtersproget, men obligatorisk i prosa: λύω "jeg løser" (præsens indikativ aktiv) → ἔλυον "jeg løste" (præteritum indikativ aktiv). Det kaldes også et syllabisk augment.
+Hvis ordet begynder med en vokal, dannes præteritum derimod med et temporalt augment,

@@ -1,0 +1,20 @@
+ Tähden paikkaa pääsarjassa muuttavat myös sen pyöriminen, läheiset kaksoistähtikumppanit ja magneettikentät. Tähti voi tilapäisissä purkauksissa kirkastua pääsarjasta ulos.
+Nollaiän pääsarjan absoluuttinen visuaalinen kirkkaus MV ja väri-indeksi B-V.
+
+
+== Pääsarja-taulukoita ==
+Pääsarjan tähden spektrityyppi-väri-indeksi ja lämpötila riippuvat toisitaan. Vastaavan spektriluokan jättiläistähdet ovat saman spektriluokan pääsarjan tähteä punaisempia eli niiden B-V on positiivinen.
+Spektri, väri-indeksi B-V, lämpötila.
+
+Log M on massan logaritmi. L on luminositeetti. Mbol on bolometrinen kirkkaus. MV on visuaalinen kirkkaus. R on tähden säde. U-B, B-V jne ovat väri-indeksejä. 
+
+
+== Katso myös ==
+Massa-luminositeetti-relaatio
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+Main sequence

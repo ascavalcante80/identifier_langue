@@ -1,0 +1,218 @@
+La Enciclopedia electrónica de secuencias de enteros (OEIS por sus siglas en inglés, de On-Line Encyclopedia of Integer Sequences) es una base de datos que registra secuencias de números enteros. Está disponible libremente en Internet, en la dirección http://oeis.org/.
+La información que contiene OEIS es de interés para matemáticos profesionales, pero también sirve como entretenimiento para cualquiera que desee practicar la matemática recreativa.
+Hasta la fecha de febrero de 2006, la OEIS cuenta con más de 115.000 secuencias, lo que la hace la base de datos más grande de este tipo. Entre ellas están la famosa lista de números primos (A000040), la sucesión de Fibonacci (A000045), y otras sin nombre propio, por ejemplo: la secuencia de "números que no son cuadrados" módulo 48 (A028761).
+Cada entrada contiene los primeros términos de la secuencia, palabras clave que la describen, motivación matemática, fórmulas, enlaces a obras relacionadas, y más. Las secuencias se pueden buscar por cualquiera de estos campos, por subsecuencia, y de otras formas.
+
+
+== Historia ==
+Neil Sloane empezó a coleccionar secuencias de enteros en los años 1960 como apoyo a su trabajo en combinatoria. Al principio, la base de datos la almacenaba en tarjetas perforadas, pero se publicó en forma de libro dos veces:
+A Handbook of Integer Sequences (1973, ISBN 0-12-648550-X), con 2.400 secuencias.
+The Encyclopedia of Integer Sequences (1995, ISBN 0-12-558630-2), con 5.487 secuencias.
+Estos libros fueron bien recibidos, y, sobre todo después de la segunda publicación, los matemáticos empezaron a enviar a Sloane nuevas secuencias de forma continua. Entonces, la colección se hizo intratable para estar en forma de libro, y cuando alcanzó las 16.000 secuencias, Sloane decidió pasarlas a Internet: primero, como un servicio de correo electrónico (1995), y poco después como un servicio web (1996). Actualmente la base de datos sigue creciendo, a un ritmo de aproximadamente 10.000 entradas por año.
+En 2004, Sloane celebró el registro de la secuencia número 100.000 (A100000). En 2006, se renovó la interfaz de usuario y se añadieron nuevas opciones de búsqueda. En octubre de 2010, ya lleva 179.911 secuencias, y continua aproximándose hacia las 200.000 gracias a la colaboración de varias personas de diversos campos de estudios.
+La base de datos ha sido gestionada por Sloane durante más de 40 años, pero desde el 2002, un grupo de editores y voluntarios ayudan a mantenerla.
+Como resultado de su trabajo en esta colección, en 1998 Sloane fundó el Journal of Integer Sequences.
+
+
+== No enteros ==
+Además de secuencias de números enteros, OEIS también registra secuencias de fracciones, números complejos, dígitos de números trascendentes, y otros. Lo que se hace es representarlos en forma de secuencia de enteros.
+Por ejemplo, las secuencias de racionales se representan mediante dos secuencias (etiquetadas con la palabra clave "frac"): la de numeradores y la de denominadores. Como muestra: la quinta sucesión de Farey, , está catalogada como la secuencia de numeradores 1, 1, 1, 2, 1, 3, 2, 3, 4 (A006842), y la secuencia de denominadores 5, 4, 3, 5, 2, 5, 3, 4, 5 (A006843).
+Algunos de los números irracionales importantes, como Pi (π = 3.1415926535897 ... ) salen bajo la lista infinita de sus decimales: 3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5, 8, 9, 7 ... (A000796).
+
+
+== Convenciones ==
+Actualmente (2006) OEIS está limitado a texto ASCII, por lo que usa una convención para la notación matemática. Por ejemplo, f(n) para funciones, n para la variable índice, etc. Las letras griegas se escriben mediante el nombre completo, como mu para μ, phi para φ, etc.
+Cada secuencia se identifica por la letra A seguida de 6 dígitos, que a veces se ponen sin los ceros de la izquierda, ej. A315 en vez de A000315.
+Los números de la secuencia están separados por comas. Las cifras de cada número están juntas, sin comas, puntos o espacios.
+En comentarios y fórmulas, a(n) representas el término número n de la secuencia a.
+
+
+=== Significado especial del cero ===
+A veces se usa el cero para representar la inexistencia de algunos elementos de la secuencia. Por ejemplo, A104157 enumera el menor primo de entre los n^2 primos consecutivos que se necesitan para hacer un cuadrado mágico n X n de mínima constante mágica, ó 0 si no existe tal cuadrado. Para a(1) (cuadrado mágico de 1 X 1), vale 2; a(3) vale 1480028129, pero no hay ningún cuadrado mágico de 2 X 2, por lo que a(2) es 0.
+Este uso especial tiene sentido matemáticamente en algunas funciones de conteo; por ejemplo, la función fi de Euler  (A014197) cuenta el número de soluciones de φ(x) = m. Hay 4 soluciones para 4, pero ninguna para 14, por tanto a(14) en la A014197 vale 0.
+
+
+=== Orden lexicográfico ===
+La OEIS almacena el orden lexicográfico de las secuencias, por lo que cada una tiene un predecesor y un sucesor (se les llama contexto). Para calcular el orden, se normaliza cada secuencia omitiendo los ceros y unos iniciales e ignorando los signos.
+Por ejemplo, tenemos las secuencias: números primos, primos palindrómicos, sucesión de Fibonacci, la del número máximo de trozos conseguidos con n cortes de un círculo (problema de cortar el pastel) , y la de los coeficientes en la expansión de la serie . En el orden lexicográfico de OEIS, quedan:
+Secuencia #1: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, ...
+Secuencia #2: 2, 3, 5, 7, 11, 101, 131, 151, 181, 191, 313, 353, 373, 383, 727, 757, 787, 797, 919, 929, ...
+Secuencia #3: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, ...
+Secuencia #4: 1, 2, 4, 7, 11, 16, 22, 29, 37, 46, 56, 67, 79, 92, ...
+Secuencia #5: 1, -3, -8, -3, -24, 24, -48, -3, -8, 72, -120, 24, -168, 144, ...
+mientras que en orden lexicográfico sin normalizar, el orden sería #3, #5, #4, #1, #2.
+
+
+== Auto-referencias ==
+Muy pronto en la historia de OEIS hubo gente que sugirió secuencias basadas en el orden de las propias secuencias de OEIS. Sloane decía: "Me resistí a añadir esas secuencias durante mucho tiempo, en parte porque deseaba mantener la dignidad de la base de datos, pero también porque A22 ¡sólo tenía 11 términos conocidos!".
+Una de las primeras secuencias auto-referentes que Sloane aceptó en el EOIS fue A031135 (después A091967): "a(n) = término número n de la secuencia An". Se continuó trabajando con esta secuencia en el momento en que se encontraron más términos para A000022. Pero con n grandes, esta n puede corresponder a una secuencia que tiene términos finitos (palabra clave "fini") y todos conocidos (palabra clave "full"); en ese caso, a(n) de A091967 está indefinido.
+A100544 lista el primer término dado en la secuencia An, pero se tiene que actualizar de vez en cuando debido a la diferencia de opiniones sobre el desplazamiento de cada secuencia. Otra alternativa sería listar el término a(1) de la secuencia An, si no fuera porque algunas secuencias tienen un desplazamiento de 2 o mayor.
+Estas ideas condujeron a la pregunta "¿Está n en la secuencia An?", y se crearon A053873: n está en An, y A053169: n no está en An. Por ejemplo, el primo compuesto 2808 está en A053873 porque A002808 es la secuencia de números primos compuestos, y el no-primo 40 está en A053169 porque no está en A000040, los números primos. La paradoja es: ¿a qué secuencias pertenecen 53169 y 53873?
+
+
+== Ejemplo de una entrada de OEIS ==
+Aquí se muestra parte de A046970, que es una que contiene información en casi todos los campos posibles.
+
+ID Number: A046970
+URL:       http://www.research.att.com/projects/OEIS?Anum=A046970
+Sequence:  1,3,8,3,24,24,48,3,8,72,120,24,168,144,192,3,288,24,360,72,
+           384,360,528,24,24,504,8,144,840,576,960,3,960,864,1152,24,
+           1368,1080,1344,72,1680,1152,1848,360,192,1584,2208,24,48,72,
+           2304,504,2808,24,2880,144,2880,2520,3480,576
+Signed:    1,-3,-8,-3,-24,24,-48,-3,-8,72,-120,24,-168,144,192,-3,-288,
+           24,-360,72,384,360,-528,24,-24,504,-8,144,-840,-576,-960,-3,
+           960,864,1152,24,-1368,1080,1344,72,-1680,-1152,-1848,360,
+           192,1584,-2208,24,-48,72,2304,504,-2808,24,2880,144,2880,
+           2520,-3480,-576
+Name:      Generated from Riemann Zeta function: coefficients in series
+              expansion of Zeta(n+2)/Zeta(n).
+Comments:  ...
+           Apart from signs also Sum_{d|n} core(d)^2*mu(n/d) where core(x) is
+              the squarefree part of x. - Benoit Cloitre
+              (abcloitre(AT)modulonet.fr), May 31 2002
+References M. Abramowitz and I. A. Stegun, Handbook of Mathematical Functions,
+              Dover Publications, 1965, pp. 805-811.
+Links:     Wikipedia, Riemann zeta function.
+Formula:   Multiplicative with a(p^e) = 1-p^2. a(n) = Sum_{d|n} mu(d)*d^2.
+Example:   a(3) = -8 because the divisors of 3 are {1, 3}, and mu(1)*1^2 + mu(3)*3^2 =
+              -8.
+           a(4) = -3 because the divisors of 4 are {1, 2, 4}, and mu(1)*1^2 +
+              mu(2)*2^2 + mu(4)*4^2 = -3
+Math'ca:   muDD[d_] := MoebiusMu[d]*d^2; Table[Plus @@ muDD[Divisors[n]], {n,
+              60}] (Lopez)
+Program:   (PARI) A046970(n)=sumdiv(n,d,d^2*moebius(d)) (Benoit Cloitre)
+See also:  Sequence in context: A016623 A046543 A035292 this_sequence A058936
+              A002017 A086179
+           Adjacent sequences: A046967 A046968 A046969 this_sequence A046971
+              A046972 A046973
+           Cf. A027641 and A027642.
+Keywords:  sign,mult
+Offset:    1
+Author(s): Douglas Stoll, dougstoll(AT)email.msn.com
+Extension: Corrected and extended by Vladeta Jovovic (vladeta(AT)Eunet.yu),
+              Jul 25 2001
+           ...
+
+
+== Información para cada entrada ==
+
+
+=== ID (identificador) ===
+Cada secuencia en OEIS tiene un número de serie: un entero positivo de seis dígitos precedido por A (y con los ceros a la izquierda, hasta noviembre de 2004). Los números son asignados por algún editor, o por un expendedor de números A que hay en la página: se pueden pedir varios a la vez, y esto es útil para poder crear referencias cruzadas entre varias secuencias que queremos incluir. Si no se usa un número A dado por el sistema, se pierde al cabo de un mes.
+Un ID mayor suele indicar que se añadió después. Como ejemplo, aquí se muestran varias secuencias escogidas arbitrariamente, junto con su fecha de entrada en el OEIS.
+Las secuencias que salían en los libros (antes de existir OEIS) no tenían los mismos ID. El Handbook of Integer Sequences de 1973 tenía unas 2400 secuencias ordenadas lexicográficamente, y cada una se identificaba con la letra M seguida de 4 dígitos (incluyendo ceros). El libro Encyclopedia of Integer Sequences, de 1973, tenía 5487 secuencias, también por orden lexicográfico, usando como ID la letra N con 4 dígitos (incluyendo ceros). En el actual OEIS, al acceder a estos registros antiguos (mediante el nuevo identificador A), aún se pueden ver los antiguos números M y N que tenían, entre paréntesis después del A.
+
+
+=== URL ===
+El campo URL da el formato preferido para enlazar a la página. Es una dirección corta que contiene la información básica.
+Por ejemplo, la URL para acceder a A012345 es:
+http://www.research.att.com/~njas/sequences/A012345
+
+
+=== Secuencia ===
+Aquí se listan los números de la secuencia, o al menos varias líneas con los primeros términos. No se hace distinción entre secuencias finitas pero largas y secuencias infinitas, así que para saber si hay más números de los que hay apuntados, hay que consultar si tiene las palabras clave "full", "fini", o "more".
+Para saber cuál es la n tal que a(n) es el primer término, hay que consultar el campo "desplazamiento".
+
+
+=== Con signo ===
+Internamente, las secuencias se graban sin signos de negativos. Si una secuencia tiene alguno, se usa este campo para grabar los términos junto con su signo. Además, tendrá que llevar la palabra clave "sign".
+
+
+=== Nombre ===
+Aquí se graba el nombre de la secuencia (si es que tiene alguno conocido), o una descripción corta. Muchas veces se pone la fórmula, si es sencilla.
+Por ejemplo, A000578 es 1, 8, 27, 64, 125, 216, 343, 512, ... y tiene por nombre "Los cubos: a(n) = n^3."
+
+
+=== Comentarios ===
+Información sobre la secuencia que no se ajusta a los otros campos. Se suelen anotar relaciones curiosas entre diferentes secuencias, o se explican aplicaciones no triviales de alguna de ellas.
+Por ejemplo, Sloane comenta en A003215 que hay una relación no esperada entre los números centrados hexagonales y los polinomios de Bessel segundos y_2(n) (A001498).
+Si no se dice el autor de cada comentario, se atribuyen a quien envió la secuencia a OEIS.
+
+
+=== Maple, Mathematica y otros programas ===
+Maple y Mathematica suelen ser los programas usados para calcular las secuencias de OEIS, y ambos tienen sus propios campos (etiquetados "Maple" y "Mathematica"). Cualquier otro programa se puede incluir con la etiqueta "Program" y el nombre entre paréntesis; algunos de los que se han usado son PARI, Magma, Matlab, e incluso Microsoft Excel.
+Se supone que el programa ha sido escrito por la persona que envió la secuencia, a menos que se dé otro nombre.
+
+
+=== "Véase también" ===
+Se marcan con "Cf." las referencias cruzadas (a otras secuencias) que ha incluido el autor de la secuencia.
+Excepto en las secuencias nuevas, el campo "Véase también" incluye información sobre el orden lexicográfico de la secuencia (su contexto) y da enlaces a secuencias con números A cercanos. Por ejemplo, la secuencia A046970 ("coeficientes en la expansión en serie de Zeta(n+2)/Zeta(n)") tiene:
+secuencias en contexto (orden lexicográfico): A016623 A046543 A035292 A046970 A058936 A002017 A086179
+secuencias adyacentes (por número A): A046967 A046968 A046969 A046970 A046971 A046972 A046973
+Cf. (referencias cruzadas): A027641 A027642
+
+
+=== Palabras clave ===
+OEIS tiene su propio conjunto de palabras clave de 4 ó 5 letras, que sirven para describir algunos detalles sobre cada secuencia. Éstas son:
+base
+los resultados del cálculo dependen de la base usada.
+Por ejemplo, 2, 3, 5, 7, 11, 101, 131, 151, 181, ... (A002385) son números primos en cualquier base, pero son capicúas sólo en base 10 (en binario ya no lo son).
+En realidad su uso depende de la definición; por ejemplo, A000668 (3, 7, 31, 127, 8191, 131071, ...) está definida como "primos de la forma 2^n - 1", y por eso no usa la palabra clave "base". Pero también podría definirse como "primos tales que su representación en binario consiste sólo en unos" (que es lo mismo), y entonces sí que la llevaría.
+bref
+la secuencia es tan corta que no es muy útil para hacer análisis.
+Por ejemplo, A079243 ("número de clases de isomorfismos en operaciones binarias cerradas asociativas no-conmutativas no-asociativas anticonmutativas en un conjunto de orden n") tiene 4 elementos.
+cofr
+la secuencia representa una fracción continua.
+cons
+la secuencia es la expansión decimal de una constante matemática importante, como e o π.
+core
+una secuencia fundamental debido a su importancia en las matemáticas, como los números primos, la sucesión de Fibonacci, etc.
+dead (muerta)
+secuencias erróneas que han aparecido en artículos o libros.
+A veces también se usa para marcar duplicados; por ejemplo, A088552 es la misma que A000668. Ver también "dupe".
+dumb (tonta)
+palabra muy subjetiva, para marcar secuencias poco importantes o sin relación directa con las matemáticas.
+Por ejemplo, A082390 son los "números de un teclado de ordenador, presionados siguiendo una espiral", y A001355 son los "dígitos mezclados de π y de e".
+dupe (duplicada)
+se debe usar para marcar secuencias repetidas, aunque en la práctica se usa "dead".
+eigen
+secuencia de autovalores.
+easy (fácil)
+secuencia con términos que se pueden calcular fácilmente.
+El mejor ejemplo es A000027: 1, 2, 3, 4, 5, 6, 7, ... (cada término es 1 más el anterior).
+A veces se usa esta palabra clave para las secuencias del tipo "primos de la forma f(m)", donde f(m) es una función fácil de calcular; aunque f(m) sea fácil, determinar la primalidad de f(m) puede no serlo.
+fini
+la secuencia es finita (aunque puede tener muchos más términos de los que se muestran).
+Por ejemplo, A105417 (números pandigitales en la numeración romana) muestra sólo una cuarta parte de todos los términos, pero tiene un comentario que dice que el último es 3888.
+frac
+secuencia de numeradores o de denominadores de una fracción que representa a un número racional.
+Una secuencia de este tipo debe tener una referencia cruzada con su correspondiente secuencia de numeradores o denominadores. A veces esto no es necesario, por ejemplo en la lista de fracciones egipcias A069257, la lista de numeradores serían todo unos (secuencia A000012).
+No se usa "frac" para secuencias de fracciones continuas, sino que se usa "cofr".
+full
+se pone cuando el campo "secuencia" muestra la secuencia completa.
+Por ejemplo, A002267 muestra los primos supersingulares, y sólo hay 15 de ellos.
+Naturalmente, si una secuencia tiene la palabra clave "full", también tendrá la "fini" (secuencia finita).
+hard (difícil)
+los términos de la secuencia cuestan mucho de calcular, incluso con herramientas sofisticadas.
+Se suele usar para marcar secuencias correspondientes a problemas aún por resolver, como "¿Cuántas esferas pueden tocar a otra esfera del mismo tamaño?" (A001116 lista las 10 primeras soluciones conocidas).
+more
+no se conocen los siguientes términos de la secuencia.
+Suele ir junto con "hard".
+mult
+la secuencia corresponde a una función multiplicativa: el término a(1) es 1, y a(mn) es a(m)*a(n) si m y n son primos entre sí.
+Por ejemplo, en A046970, a(12) = a(3)a(4) = -8 × -3.
+new
+se añade automáticamente a las secuencias que fueran añadidas en las dos últimas semanas, o a las que han recibido especial atención recientemente.
+nice
+palabra muy subjetiva, para marcar secuencias excepcionalmente bonitas.
+nonn
+la secuencia consiste de enteros no negativos (puede incluir ceros).
+No se hace diferencia entre los que son siempre positivos por definición (por ejemplo, los cuadrados, n2) y los que lo son debido al desplazamiento elegido en la secuencia (por ejemplo, los cubos, n3 son siempre positivos, pero es porque se ha escogido un n inicial de 0; en general, elevar a 3 un número no lo hace positivo).
+obsc
+secuencia considerada poco clara y que necesita una mejor definición.
+Por ejemplo, A025046 fue revisada por un colaborador, que no pudo reproducir los resultados originales.
+sign
+algunos (o todos) valores de la secuencia son negativos.
+Entonces se incluye un campo "Signed" en el que sale con los signos correctos, mientras que en "Sequence" sigue saliendo en positivo (haciendo el valor absoluto).
+tabf
+una tabla de números irregular (o con forma rara) en la que los números se leen fila por fila para generar una secuencia.
+Por ejemplo, A071031 es el "triángulo, leído por filas, que contiene los estados sucesivos de un autómata celular generado por la 'regla 62'".
+tabl
+una secuencia obtenida leyendo una disposición geométrica de números, como un triángulo o un cuadrado, fila a fila.
+Un ejemplo famoso es el triángulo de Pascal leído por filas, A007318.
+uned
+secuencia no editada por Sloane, pero de interés para OEIS.
+Puede tener errores tipográficos o computacionales, ya que no está revisada. Los colaboradores pueden detectar y corregir la secuencia y enviar a Sloane su edición.
+unkn (desconocida)
+se sabe poco sobre esta secuencia; ni siquiera la fórmula que la produce.
+Por ejemplo, A072036 sale porque alguien la preguntó en Internet Oracle, un sistem

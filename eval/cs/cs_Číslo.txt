@@ -1,0 +1,47 @@
+á čísla „beze zbytku vyplňují číselnou osu“ se zásadním způsobem odráží v některých vlastnostech, na kterých stojí celý obor matematické analýzy. Například je zde pravda, že „každá omezená množina má supremum a infimum“ nebo „z omezené posloupnosti lze vybrat konvergentní posloupnost“, což jsou tvrzení, která neplatí ani na oboru racionálních čísel, dokonce ani na oboru algebraických čísel.
+
+
+=== Komplexní čísla ===
+Podrobnější informace naleznete v článku Komplexní číslo.
+Zdálo by se, že již není v rozšiřování číselných oborů kam postupovat, neboť reálná čísla již pokrývají jakékoliv myslitelné množství. Pro potřeby zjednodušení matematických výpočtů je přesto zaváděn ještě větší číselný obor - tzv. komplexní čísla.
+Motivací pro jejich zavedení je, aby každá polynomická rovnice měla nějaké řešení. V příkladu z předchozího odstavce jsme v podstatě řešili polynomickou rovnici , jejím řešením jsou dvě čísla:  a .
+Pokusím-li se vyřešit podobnou rovnici , pak v oboru reálných čísel řešení nenajdeme. Komplexní čísla jsou proto zaváděna jako dvojice reálných čísel - reálná část a imaginární část (vizuálně odpovídá obor komplexních čísel nikoliv číselné ose, ale číselné rovině).
+
+
+==== Hyperkomplexní čísla ====
+Další rozšíření představují:
+Kvaterniony (H)
+Oktoniony (O)
+Sedeniony (S)
+
+
+=== Shrnutí ===
+Postupným rozšiřováním řešeným matematických úloh jsme se dostali k následující hierarchii číselných oborů:
+
+Grafické zobrazení vztahu mezi jednotlivými množinami
+
+Jiným směrem zobecnění přirozených čísel je jejich rozšíření do třídy kardinálních a ordinálních čísel. Platí: 
+
+
+== Odkazy ==
+
+
+=== Reference ===
+↑ Drevnosti mordovskogo naroda. - Saransk, 1941, P.33
+↑ Мордва: Историко-этнографические очерки. Саранск,1981
+↑ [1]
+
+
+=== Literatura ===
+Ottův slovník naučný, heslo Číslo. Sv. 6, str. 758
+
+
+=== Související články ===
+Seznam čísel
+Vědecký zápis čísel
+
+
+=== Externí odkazy ===
+ Slovníkové heslo číslo ve Wikislovníku
+ Téma číslo ve Wikicitátech
+ Galerie číslo ve Wikimedia Commons

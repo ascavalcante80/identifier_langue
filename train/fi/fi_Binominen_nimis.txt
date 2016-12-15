@@ -1,0 +1,30 @@
+Binominen nimistö (binominen = kaksiniminen) on eliölajien nimeämisessä yleismaailmallisesti sovellettu ja sovittu käytäntö, jossa kunkin lajin tieteellinen nimi koostuu kahdesta osasta: suvun nimestä ja itse lajia kuvaavasta osasta, lajimääritteestä eli lajiepiteetistä.
+
+
+== Tieteellinen nimistö ==
+Biologisten lajien ja muiden taksonien yleismaailmallisen nimistön tehtävänä on mahdollistaa kielirajat ylittävä yhteisymmärrys sen suhteen, mistä lajista milloinkin on kyse. Nimistön kielenä on perinteisesti latina, ja tieteellisistä nimistä on siksi käytetty myös nimitystä latinalainen nimi. Tieteellinen nimi on kuitenkin oikeampi nimitys, koska usein nimi (tai sen osa) on peräisin kreikan kielestä ja joskus muistakin kielistä, ja muutettu latinalaiseen asuun. Lisäksi nimet eivät aina noudata latinan sanastoa tai kielioppisääntöjä vaan ovat sovinnaisia.
+
+
+== Kaksiosainen lajinimi ==
+Binomisen nimistön eli lajeille käytetyn kaksisanaisen tieteellisen nimen otti käyttöön Carl von Linné 1700-luvun puolessa välissä teoksessaan Systema Naturae. Esimerkiksi ihmisen tieteellinen nimi on Homo sapiens, jossa Homo tarkoittaa ihmisen sukua ja sapiens on sukuun kuuluvaa lajia määrittävä lajiosa. Kaksiosainen lajinimi muodostuu siis sukunimestä ja sen perässä olevasta lajimääritteestä, josta kasveilla käytetään myös nimeä epiteetti.
+Sukunimeä voidaan käyttää yksinään, mutta kaksiosaisen nimen jälkimmäinen osa eli lajimäärite ei tarkoita yksin mitään taksonomista yksikköä, vaan lajimäärite esitetään aina sukunimen yhteydessä. Esimerkiksi sana sapiens tarkoittaa suoraan suomennettuna viisasta, mutta se ei ole yksin minkään lajin nimi. (Suku koostuu ryhmästä toisilleen läheistä sukua olevia lajeja, jotka muistuttavat toisiaan melko paljon; laji taas on tunnetuimman määritelmän mukaan yksilöjoukko, joka pystyy lisääntymään keskenään mutta ei muiden lajien yksilöiden kanssa.)
+Alalajeista käytetään kolmesanaista eli trinomista nimistöä, esim. Corvus corone cornix.
+
+
+== Auktori ==
+Biologiaan liittyvissä teksteissä kirjoitetaan tieteellisen nimen perään usein auktorimerkintä, jossa on tieteellisen nimen antajan nimi (tai kasvitieteessä tunnetun henkilöiden kohdalla pelkkä lyhenne, kuten L. Linnélle) sekä nimenantovuosi. Eläinlajien nimissä auktorin nimi ja vuosiluku laitetaan sulkuihin, jos lajin sukunimiosa on vaihtunut sen jälkeen kun alkuperäinen lajinimi annettiin. Esimerkiksi ritariperhonen on edelleen samassa Papilio-suvussa, johon Linné sen kuvasi vuonna 1758. Hän kuvasi myös isoapollon Papilio-sukuun kuuluvaksi, mutta Latreille] antoi vuonna 1804 apolloperhosen sukunimeksi Parnassius, ja siitä syystä lajinimen auktorimerkintä laitetaan sulkeisiin seuraavan esimerkin mukaisesti:
+Papilio machaon Linnaeus, 1758
+Parnassius Latreille, 1804
+Parnassius apollo (Linnaeus, 1758)
+Myös kasveilla auktorimerkintä laitetaan sulkuihin suvun muuttuessa, mutta lisäksi nimen perään lisätään sen henkilön nimi (tai nimilyhenne), joka teki muutoksen.
+
+
+== Lajinimen kirjoittamista koskevia sääntöjä ja käytäntöjä ==
+Lajinimen jälkiosaa, lajimääritettä, ei käytetä irrallaan vaan ainoastaan kaksiosaisen nimen osana.
+Lajitason tieteelliset nimet kirjoitetaan kursiivilla, esimerkiksi Homo sapiens. Käsin tai kirjoituskoneella kirjoitetussa tekstissä ne alleviivataan.
+Ensimmäinen termi (suvun nimi) kirjoitetaan isolla alkukirjaimella, mutta jälkimmäinen pienellä, esimerkiksi Canis lupus ja Anthus hodgsoni. (Tästä modernista käytännöstä poiketen Linné alun perin kirjoitti aina myös jälkimmäisen osan isolla, ja myöhemminkin alussa oli tapana kirjoittaa isolla jälkimmäinen osa, jos se perustui erisnimeen - esim. Berberis Darwinii).
+Tieteellisissä kirjoituksissa mainitaan usein kaksisanaisen nimen jälkeen tutkija, joka ensin on julkaissut lajin tieteellisen kuvauksen eli auktori, ja yleensä myös julkaisun painatusvuosi. Kasvi- ja sienitieteessä tunnetuilla auktoreilla on virallisesti sovitut nimilyhenteet. Esimerkiksi Amaranthus retroflexus L.
+Kun tieteellistä nimeä käytetään tavallisen nimen kanssa, se yleensä seuraa sulkeissa, esimerkiksi "varpunen (Passer domesticus) on yleinen lintu."
+Tieteellinen nimi pitäisi kirjoittaa kokonaisuudessaan, kun se ensi kerran mainitaan tai kun monta lajia samasta suvusta on lueteltuna samassa tekstissä tai raportissa. Sen jälkeen siihen voidaan viitata käyttämällä vain suvun etukirjainta, esimerkiksi Canis lupus → C. lupus. Jossain harvoissa tapauksissa lyhyempi tapa on vakiintunut tavalliseen käyttöön, esimerkiksi bakteeri Escherichia coli on usein kirjoitettu E. coli ja Tyrannosaurus rex on usein vain T. rex.
+Lyhennettä "sp." tai "spec." käytetään silloin, kun oikea lajinimi ei ole tiedossa, esimerkiksi Canis sp. tarkoittaa "(jokin) Canis-suvun laji". Lyhenne "spp." (monikko) tarkoittaa "useita tämän suvun lajeja".
+Lyhennettä "cf." käytetään, kun tunnistaminen ei ole varma, mutta suvun lajeista e

@@ -1,0 +1,47 @@
+ die exakt berechnete Zuordnung der logisch miteinander arbeitenden elektronischen Bauteile auf einer Platine entsteht ein elektronischer Schaltkreis.
+Ein selbständig und logisch arbeitender Rechnen-Operator-Chip ist der moderne Prozessor, der nicht nur auf dem Mainboard eines Computers zu finden ist, sondern ein Bestandteil moderner Industrie- und Fahrzeugtechnik ist.
+
+
+== Bedeutung ==
+Die Elektronik umfasst heute unzählige Gebiete, von der Halbleiterelektronik über die Quantenelektronik bis hin zur Nanoelektronik. Seit dem Siegeszug des Computers, der stetigen Entwicklung der Informationstechnologie und der zunehmenden Automation hat sich die Bedeutung der Elektronik beständig erweitert. Die Elektronik nimmt heute in unserer Gesellschaft einen großen Stellenwert ein und ist aus vielen Bereichen nicht mehr wegzudenken.
+
+
+== Elektronikfertigung ==
+Im Jahre 2007 kamen 38 % aller weltweit hergestellten Elektronikprodukte aus der Asien-Pazifik-Region. Im Jahre 1995 lag dieser Anteil noch bei 20 %. Allein China erhöhte seinen Anteil von 3 % 1995 auf 16 % 2007. Unter den Top-10-Ländern befinden sich auch Südkorea, Malaysia, Singapur und Thailand. Der Anteil von Westeuropa lag 2007 bei 19 % der globalen Produktion (entspricht ca. 192 Mrd. Euro). Für die Leistungsreihenfolge der Größe der Elektronikfertigung in Westeuropa gilt folgende Rangliste (Stand 2006): Deutschland, Frankreich, Großbritannien, Irland, Italien.
+
+
+== Siehe auch ==
+
+Für freizeitmäßig betriebene Elektronik siehe Hobbyelektronik. Für Elektronik im KFZ siehe Automobilelektronik.
+Elektroindustrie
+Elektronikschrott
+
+
+== Literatur ==
+Karsten Block, Hans J. Hölzel, Günter Weigt: Bauelemente der Elektronik und ihre Grundschaltungen. Stam-Verlag, ISBN 3-8237-0214-9.
+Stefan Goßner: Grundlagen der Elektronik. 8. Auflage. Shaker Verlag, Aachen 2011, ISBN 978-3-8265-8825-9.
+Ekbert Hering, Klaus Bressler, Jürgen Gutekunst: Elektronik für Ingenieure. Springer, Berlin 2001, ISBN 3-540-41738-9.
+P. Horowitz, W. Hill: Die hohe Schule der Elektronik. Band 1 Analogtechnik. Elektor-Verlag, ISBN 978-3-89576-024-2.
+P. Horowitz, W. Hill: Die hohe Schule der Elektronik. Band 2 Digitaltechnik. Elektor-Verlag, ISBN 978-3-89576-025-9.
+K. Küpfmüller, G. Kohn: Theoretische Elektrotechnik und Elektronik, Eine Einführung. 16., vollst. neu bearb. u. aktualisierte Auflage. Springer, Berlin 2005, ISBN 3-540-20792-9.
+Patrick Schnabel: Elektronik-Fibel. 4. vollständig überarbeitete Auflage. BoD, Norderstedt 2006, ISBN 3-8311-4590-3.
+U. Tietze, C. Schenk: Halbleiter-Schaltungstechnik. Springer, Berlin, ISBN 3-540-42849-6.
+Claus-Christian Timmermann: Hochfrequenzelektronik mit CAD, Band 1. Leitungen, Vierpole, Transistormodelle und Simulation mit numerischen und symbolischen CAD/CAE-Systemen. PROFUND Verlag, 2003, ISBN 3-932651-21-9.
+Claus-Christian Timmermann: Hochfrequenzelektronik mit CAD, Band 2. Rauschen, Schmal- und Breitbandverstärker, Oszillatoren, Koppler, Filter, PLL, Antennen- und Optoelektronik. PROFUND Verlag, 2005, ISBN 3-932651-22-7.
+
+
+== Einzelnachweise ==
+↑ Timmermann: Hochfrequenzelektronik mit CAD, Band 1. (Lit.), S. 70 ff.
+↑ Timmermann: Hochfrequenzelektronik mit CAD, Band 2. (Lit.), S. 100 ff.
+↑ Timmermann: Hochfrequenzelektronik mit CAD, Band 2. (Lit.), S. 150 und S. 12–30.
+↑ Listen elektronischer Bauelemente und ihre Lieferanten: FBDi Directory 09
+↑ Yearbook of World Elektronik Data von Reed Electronics Research, Juni 2006.
+
+
+== Weblinks ==
+
+Literatur über Elektronik im Katalog der Deutschen Nationalbibliothek
+S.m.i.L.E. interaktives Lehr- und Lernprogramm der Professur für Elektronik an der Universität der Bundeswehr Hamburg
+Lehrbuch Elektronik, Prof. S. Gossner
+Elektronik für Physiker, Uni Kiel
+Das ELektronik-KOmpendium (das ELKO) (Grundkurse, Minikurse, Bauteile, Schaltungstechnik, Digitaltechnik, Lehrmaterial)

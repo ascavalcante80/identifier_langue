@@ -1,0 +1,3 @@
+XML (skraćenica na engleskom za Extensible Markup Language) je proširiv jezik za označavanje koji definira skup pravila za kodiranje dokumenata u obliku koji je ujedno i ljudima i mašinama čitljiv. On je definiran u specifikaciji XML 1.0 proizvedena od strane W3C zajedno sa nekoliko drugih srodnih specifikacija. XML je pojedostavljena verzija SGML-a (Standard Generalized Markup Language), koji se već decenijama koristi u izdavačkim sistemima.
+Glavna upotreba XML-a danas je za razmjenu informacija između različitih računarskih sistema, naročito tih sistema koji su povezani preko Interneta.
+Važno je navesti da HTML nije jedan od XML jezika jer ne zadovoljava dobru strukturu dokumenta. Međutim, XHTML jeste XML jezik jer zahtijeva dobru strukturu i validitet (tj. tačnos

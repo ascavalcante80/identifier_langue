@@ -1,0 +1,26 @@
+El tiempo universal coordinado o UTC (de una transigencia entre la versión en inglés Coordinated Universal Time y la versión en francés Temps universel coordonné) es el principal estándar de tiempo por el cual el mundo regula los relojes y el tiempo.
+Es uno de los varios sucesores estrechamente relacionados con el tiempo medio de Greenwich (GMT). Para la mayoría de los propósitos comunes, UTC es sinónimo de GMT, pero GMT ya no es el estándar definido con más precisión para la comunidad científica.
+
+
+== UTC y otros estándares ==
+El UTC se obtiene a partir del Tiempo Atómico Internacional, un estándar de tiempo calculado a partir de una media ponderada de las señales de los relojes atómicos, localizados en cerca de 70 laboratorios nacionales de todo el mundo. Debido a que la rotación de la Tierra es constante pero no estable y se retrasa con respecto al tiempo atómico, UTC se sincroniza con el tiempo medio de Greenwich (obtenido a partir de la duración del día solar), al que se le añade o quita un segundo intercalar cuando resulta necesario, siempre a finales de junio o diciembre. La decisión sobre los segundos intercalares la determina el Servicio Internacional de Rotación de la Tierra y Sistemas de Referencia, basándose en sus mediciones de la rotación de la Tierra.
+El UTC presenta problemas para sistemas informáticos como Unix, que guardan el tiempo como un número de segundos a partir de un tiempo de referencia. Debido a los segundos intercalares, es imposible determinar qué representación va a tener una fecha futura, debido a que el número de segundos intercalares que se han de incluir en la fecha es aún desconocido.
+UTC es el sistema de tiempo utilizado por muchos estándares de Internet y la World Wide Web. En particular, se ha diseñado Network Time Protocol como una forma de distribuir el tiempo UTC en Internet.
+El propio servidor de Wikipedia utiliza UTC como base para su lista de actualizaciones de los artículos.
+
+
+== UTC y GMT ==
+La hora GMT se basa en la posición media del Sol y fue definida por primera vez a partir del mediodía de Greenwich, pero el 1 de enero de 1925 se adoptó la convención de que la jornada comenzase a la media noche, atrasando aquel día 12 horas y desde entonces el GMT se sigue definiendo a partir de la medianoche de Greenwich. Esta hora carece de cierta fiabilidad ya que se basa en el movimiento medio del Sol. Fue por esto por lo que se definió la hora UTC, que tiene una gran precisión, ya que está dada por relojes atómicos.
+
+
+== Zonas horarias con respecto al UTC ==
+Las zonas horarias de todo el mundo se expresan como desviaciones positivas o negativas de UTC, tomando como referencia el meridiano cero o meridiano de Greenwich.
+Puesto que la Tierra gira de oeste a este, al pasar de un huso horario a otro en dirección este hay que sumar una hora. Por el contrario, al pasar de este a oeste hay que restar una hora. El meridiano de 180°, conocido como línea internacional de cambio de fecha, marca el cambio de día.
+
+
+=== Horario de verano ===
+UTC no cambia con un cambio de las estaciones, pero la hora local puede cambiar si una jurisdicción contempla el horario de verano. Por ejemplo, la hora oficial es de cinco horas por delante, hora local, en la Costa Este de los Estados Unidos durante el invierno con respecto a la Costa Oeste, pero cuatro horas por delante durante el horario de verano en esa zona.
+
+
+== Hora Zulu ==
+ZULU u Hora Zulu designa en usos militares, y en la navegación aérea, el Tiempo Universal Coordinado. ZULU representa la letra Z en el código Interco. Su principal mérito es que permite usar como referencia una hora en común y no las horas locales con las cuales se requería un proces

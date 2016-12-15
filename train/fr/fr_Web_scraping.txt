@@ -1,0 +1,20 @@
+Le web scraping (parfois appelé Harvesting) est une technique d'extraction du contenu de sites Web, via un script ou un programme, dans le but de le transformer pour permettre son utilisation dans un autre contexte, par exemple le référencement
+
+
+== Arguments contre ==
+Cela permet de récupérer le contenu d’une page web en vue d'en réutiliser le contenu. Cette opération se pratique le plus souvent de façon automatique, qui permet de constituer des pages à bon compte. Cette pratique n'a pas très bonne presse chez les contributeurs authentiques car elle peut être assimilée à un pillage. Pour inciter les webmasters à ne pas utiliser de méthode de web scraping, Google, sanctionne les sites qui les utilisent en les supprimant de ses pages de résultats[réf. nécessaire].
+Google Actualités, en agrégeant sans autorisation préalable les manchettes d'autres sites, est considéré par certains comme du Web scraping.
+
+
+== Arguments pour ==
+Dans un cadre entreprise, qui est elle bien sûr propriétaire de ses données, cette technologie permet de réduire significativement le temps et le coût des intégrations d'applications d'entreprise. Bien que ce type d'intégration ait été dans le passé dénigré pour son manque de fiabilité et de performance, il existe aujourd'hui sur le marché des outils professionnels qui permettent ces intégrations dans le respect des contraintes de sécurité et de gouvernance imposées par les grandes entreprises.
+
+
+== Applications utilisant le Web scraping ==
+PhantomJS + CasperJS (framework permettant le scraping)
+Scrapy
+weboob
+
+
+== Utilisation dans la gestion de données multimédia ==
+Le Web scraping peut être utilisé pour récupérer des Métadonnées. C'est ainsi q

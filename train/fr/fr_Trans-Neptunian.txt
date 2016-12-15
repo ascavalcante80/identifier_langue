@@ -1,0 +1,69 @@
+En astronomie, on désigne par objet transneptunien (OTN, parfois TNO d'après le nom anglais transneptunian object) tout objet du Système solaire dont l'orbite est entièrement ou pour la majeure partie au-delà de celle de la planète Neptune. La ceinture de Kuiper et le nuage d'Oort (nuage hypothétique) sont les noms de quelques subdivisions de ce volume de l'espace. Un objet transneptunien est dit extrême (en anglais extreme trans-Neptunian object ou ETNO) lorsque, d'une part, sa distance au périhélie est supérieure à 30 unités astronomiques et, d'autre part, le demi-grand axe de son orbite est supérieur à 150 unités astronomiques.
+La planète naine Pluton est le premier objet transneptunien à avoir été découvert, mais c'est la découverte de (15760) 1992 QB1 qui a déclenché la recherche d'autres objets transneptuniens.
+Ces dernières années, de nouveaux objets transneptuniens ont été recensés. En novembre 2000 fut découvert Varuna, un astéroïde de la ceinture de Kuiper d'environ 1 000  kilomètres de diamètre. En juillet 2001, on découvrit Ixion, un plutino d'environ 1 055 km de diamètre. Un peu plus d'une année plus tard, en octobre 2002 un objet plus massif qu'Ixion a été repéré (Quaoar, 1 280 km), et en février 2004, un objet encore plus grand, Orcus, a été découvert.
+La gravitation, la force d'attraction entre toute matière, attire également les planètes. En raison des légères perturbations observées sur les orbites des planètes connues au début des années 1900, on a supposé qu'il devait y avoir au-delà de Neptune une ou plusieurs autres planètes non identifiées. La recherche de ces dernières mena à la découverte de Pluton et, par la suite, à celle de quelques autres objets significatifs. Cependant, ces objets ont toujours été trop petits pour expliquer les perturbations observées mais des estimations révisées de la masse de Neptune ont montré que le problème était factice.
+Némésis, l'étoile-compagne hypothétique du Soleil, serait tombée sous la définition d'objet transneptunien, mais il semble qu'il n'existe aucune étoile de ce genre.
+
+
+== Type d'objets transneptuniens ==
+Les objets sont classés en fonction de leur orbite en relation à celle de Neptune
+Les objets en résonance avec Neptune (résonances ordonnées par le demi-grand axe)
+4:5 exemple : (79969) 1999 CP133
+3:4 exemples : 1998 UU43, 1999 RW215
+2:3, comme Pluton, appelés plutinos
+3:5 (143751) 2003 US292
+4:7 2000 OP67
+1:2 appelés en anglais twotinos exemples : 1997 SZ10, 1999 RB215
+2:5 2000 CQ105
+1:3 (136120) 2003 LG7
+
+On pourrait même y inclure les troyens de Neptune (résonance 1:1).
+À l'exception de 2:3 et 1:2, les objets occupant les autres résonances sont peu nombreux. Ces deux résonances constituent les limites conventionnelles de la Ceinture principale, peuplée par les objets dits classiques, non résonants (cubewanos).
+Les objets non affectés par Neptune connus sont :
+les cubewanos, les plus nombreux (plus de 680) et
+les objets épars, résidant au-delà de la résonance 1:2.
+
+
+== Distribution ==
+
+Le diagramme illustre la distribution des transneptuniens connus (jusqu’à 70 ua) en relation avec les orbites des planètes et des centaures. Les différentes familles sont représentées en couleurs différentes. Les objets en résonance orbitale sont marqués en rouge (les astéroïdes troyens de Neptune en 1:1, les plutinos en 2:3, les objets en 1:2, twotinos en anglais, plus quelques petites familles. Le terme Ceinture de Kuiper (Kuiper belt regroupe les objets dits classiques (cubewanos, en bleu) avec les plutinos et les objets en 1:2 (en rouge). Les objets épars (scattered disk) s’étendent bien au-delà du diagramme avec des objets connus à distance moyenne au-delà 500 ua (Sedna) et l’aphélie supérieur à 1000 ua ((87269) 2000 OO67).
+
+
+== Caractéristiques physiques ==
+On pense généralement que les transneptuniens sont composés surtout de glaces et recouverts des composés organiques — notamment du tholin — issus des radiations. Toutefois, la confirmation récente de la densité de Hauméa (2,6  à  3,4 g·cm-3) implique une composition surtout rocheuse (à comparer avec la densité de Pluton : 2,0 g·cm-3). Compte tenu de la magnitude apparente des transneptuniens (> 20, sauf les plus grands), l’étude physique se limite à :
+La mesure des émissions thermiques
+Les indices de couleur (les comparaisons des magnitudes à travers des filtres différents)
+L'analyse spectrale (partie visuelle et infrarouge)
+L'étude des couleurs et des spectres apporte des indices sur l’origine des transneptuniens et tente de découvrir de possibles corrélations avec d’autres classes d’objets, par exemple les centaures et certaines lunes des planètes géantes (Triton, Phœbé) suspectées de faire partie initialement de la ceinture de Kuiper.
+Toutefois, l’interprétation des spectres est souvent ambiguë, plusieurs modèles correspondant au spectre observé, qui dépend notamment de la granularité (taille des particules) inconnue. De plus, les spectres sont indicatifs uniquement de la couche de surface qui est exposée aux radiations, au vent solaire et à l'action des micrométéorites. Ainsi, cette fine couche de surface pourrait être bien différente de l’ensemble de la régolithe située au-dessous, et finalement très différente de la composition de l’objet.
+
+
+=== Couleurs ===
+
+Comme les centaures, les transneptuniens surprennent par toute une gamme des couleurs, du bleu gris au rouge intense. Contrairement aux centaures qui se regroupent en deux classes, la distribution des couleurs des transneptuniens semble uniforme.
+L'indice de couleur est la mesure des différences de magnitude apparente de l’objet vu à travers des filtres bleu (B), neutre (V; vert-jaune) et rouge (R). Le graphe représente les indices connus des transneptuniens à l’exception des plus grands. Pour la comparaison, deux lunes Triton et Phœbé, le centaure Pholus et la planète Mars sont aussi représentés (il s'agit des noms en jaune, la taille n'est pas à l’échelle !).
+Des études statistiques rendues possibles récemment par le nombre grandissant d’observations, tentent de trouver des corrélations entre les couleurs et les paramètres des orbites dans l’espoir de confirmer les théories de l’origine des différentes classes.
+Objets classiques
+Les objets classiques semblent être divisés en deux populations différentes :
+la population dite froide (inclinaison de l’orbite <5°) qui sont exclusivement rouges ;
+la population dite chaude (à l’orbite plus inclinée) qui affiche toute la gamme des couleurs.
+Objets épars
+Les objets épars montrent une ressemblance avec la population chaude des objets classiques, suggérant une origine commune.
+
+
+==== Les grands transneptuniens ====
+
+Les plus grands objets suivent typiquement des orbites inclinées tandis que les objets plus petits sont regroupés près de l’écliptique.
+À l’exception de Sedna, tous les grands objets (Éris, Makémaké, Hauméa, Charon et Orcus) se caractérisent par une couleur neutre (indice de couleur infrarouge V-I < 0,2) alors que les objets plus petits (Quaoar, Ixion, 2002 AW197 et Varuna), comme la grosse majorité du reste de la population, sont plutôt rouges (V-I 0,3-0,6). Cette différence laisse à penser que la surface des grands transneptuniens est couverte de glaces qui recouvrent les couches plus sombres et plus rouges.
+Voici la liste des grands transneptuniens
+
+
+==== Les petits transneptuniens ====
+Depuis la découverte de 1992 QB1, tous les objets transneptuniens découverts mesurent moins de 3000 km.
+Voici quelques objets transneptuniens de petite taille :
+
+
+=== Les spectres ===
+Les transneptuniens se caractérisent par une variété de spectres qui diffèrent dans la partie visible rouge et dans l'infrarouge. Les objets neutres présentent un spectre plat, réfléchissant autant dans l’infrarouge que dans la partie visible. Les spectres des objets très rouges par contre, possèdent une pente montante, en réfléchissant bien plus en rouge et infrarouge. Une tentative récente de classification introduit quatre classes BB (bleu, comme Orcus), RR (très rouge comme Sedna) avec BR et IR comme classes intermédiaires.
+Les modèles typiques de la surface incluent la glace d'eau, carbone amorphe, de silicates et de macromolécules de tholin, crées par l'intense radiation. Quatre variétés de tholin sont évoquées pour expliquer la couleur rougeâtre :
+tholin de Titan, produit d'un mélange de 90 % diazote (N2) et de 10 % de méthane (CH4) ;

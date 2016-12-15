@@ -1,0 +1,135 @@
+odifier =====
+
+Afin de générer une image 2D, l'IRM impose une phase et une fréquence de résonance aux spins (voir plus haut) qui dépend de leur position. Nous savons que la phase est 2pi périodique, ainsi les zones de l'espace codées avec une phase de 2pi+phi et phi se chevaucheront.
+
+
+===== Artefact de troncature (phénomène de Gibbs)Modifier =====
+il est lié à des interactions entre les protons et leur environnement, source d’apparition de faux contours.
+
+
+== ApplicationsModifier ==
+
+
+=== Angio-IRMModifier ===
+L'angio-IRM ou ARM est utilisée pour visualiser les artères afin de mettre en évidence des anomalies telles que les sténoses, dissections, fistules, les anévrismes et artérite. Les artères cérébrales, cervicales, rénales, iliaques, pulmonaires et l'aorte sont les artères les mieux étudiées par cette technique.
+L'angio-IRM fait appel aux séquences en échos de gradient ultrarapides avec injection de chélates de gadolinium en intra-veineuse. D'autres séquences, comme l'angiographie par temps de vol (TOF-MRA) ou par contraste de phase (PC), permettent aussi de visualiser les fluides en mouvement sans injection de marqueur particulier.
+
+
+=== IRM cardiaqueModifier ===
+
+
+=== Cholangio-IRMModifier ===
+L'étude des voies biliaires et pancréatiques par l'IRM de manière non invasive est une nouvelle approche des bilans d'imagerie des pathologies hépato-pancréatico-biliaires.
+
+
+=== IRM fonctionnelle (IRMf)Modifier ===
+
+La méthode la plus utilisée actuellement est celle basée sur l’aimantation de l’hémoglobine contenue dans les globules rouges du sang. L’hémoglobine se trouve sous deux formes :
+les globules rouges oxygénés par les poumons contiennent de l’oxyhémoglobine (molécule non active en RMN) ;
+les globules rouges désoxygénés par le métabolisme des tissus contiennent de la désoxyhémoglobine (active en RMN car fortement paramagnétique).
+En suivant la perturbation du signal de RMN émis par cette molécule, il est donc possible d’observer l’afflux de sang oxygéné, qui chasse le sang désoxygéné. Lorsqu'une zone du cerveau augmente son activité, un afflux de sang oxygéné lui parvient grâce à un mécanisme combinant la dilatation des vaisseaux sanguins à divers autres mécanismes mal élucidés, ce qui répond ainsi à la demande de consommation locale en dioxygène des cellules actives : c'est le signal BOLD. En faisant l’acquisition d’images pondérées T2* à une cadence rapide (environ une image toutes les secondes, voire moins), il est possible de suivre en direct, sous forme de film, les modulations de débit sanguin liées à l’activité cérébrale, par exemple lors d'une tâche cognitive.
+
+
+=== IRM paramétriqueModifier ===
+Cette méthode consiste à mesurer par IRM des paramètres hémodynamiques ou de perméabilité des vaisseaux capillaires, dont les calculs dérivent d'un modèle mathématique appliqué aux données d'imagerie obtenues dans des conditions particulières. En général il s'agit de séquences dites dynamiques car avec une résolution temporelle élevée, permettant de suivre l'évolution de l'intensité de signal après injection d'un produit de contraste paramagnétique. Cette méthode permet de calculer le flux et le volume sanguin d'un tissu, et la perméabilité des capillaires (micro-vaisseaux) de ce tissu. Cette méthode semble très prometteuse en cancérologie pour déterminer quand une tumeur est cancéreuse, mais reste utilisée de façon très marginale compte tenu du haut niveau technique nécessaire. Actuellement, seules les universités américaines disposent de tels équipements.
+
+
+=== Imagerie du tenseur de diffusionModifier ===
+
+L’imagerie du tenseur de diffusion (DTI) est une technique basée sur l'IRM qui permet de visualiser la position, l’orientation et l’anisotropie des faisceaux de matière blanche du cerveau.
+
+
+=== Spectroscopie RMNModifier ===
+Il permet l'étude de la présence et concentration de certains métabolites. Son application est encore rare, il demande des IRM de haut-champ (1,5 Tesla minimum et 3 Tesla pour obtenir des pics bien différenciés) et des formations spécifiques pour les radiologues.
+Cependant la technique semble très prometteuse notamment en oncologie, par exemple, il permet de faire la différence entre récidive locale et nécrose post-radiothérapique dans un stade précoce avec une précision que, seule, une biopsie (invasive et parfois risquée) peut égaler.
+
+
+== Déroulement de l'examen médical IRMModifier ==
+Un examen IRM anatomique dure en général de 10 à 30 minutes. Un ensemble complet d'examens prend souvent entre une demi-heure et une heure pleine. L'examen est absolument sans douleur. Le patient est allongé sur une table d'examen motorisée. Au cours de l'acquisition, il ne doit pas bouger : la table se déplace automatiquement pour le faire passer dans l'antenne. Les seules gênes à en attendre sont le bruit notable et la sensation d'enfermement (le corps étant dans un tube ouvert) pouvant poser quelques problèmes chez certains claustrophobes. En général, le ou les manipulateurs en électroradiologie médicale restent en contact constant avec le patient.
+L'examen IRM se réalise sur un patient en pyjama ; il doit retirer montres, bijoux, ceinture, clés, cartes bancaires, à puce ou magnétique, pièces de monnaie etc. c'est-à-dire tout élément métallique qui pourrait être attiré par l'aimant. Les accompagnants (parents s'il s'agit d'enfants) doivent également se séparer de ces accessoires pour pénétrer dans la salle de l'appareil d'imagerie.
+
+
+=== IndicationsModifier ===
+
+L'imagerie par résonance magnétique a l'avantage d'apporter une bonne visualisation de la graisse, de l'eau, donc de l'œdème et de l'inflammation avec une bonne résolution et un bon contraste.
+En particulier, l'IRM permet d'imager la fosse sous-tentorielle de l'encéphale, dont l'exploration est difficile en CT-scan à cause d’artefact de durcissement de faisceaux.
+Cette imagerie n'est pas adaptée à l'étude des tissus pauvres en protons comme les tendons et le tissu osseux.
+Les éléments anatomiques étudiés par l'IRM :
+le cerveau et la moelle épinière :
+
+diagnostic des maladies neurologiques inflammatoires (sclérose en plaques),
+la fosse postérieure du cerveau est particulièrement bien visible par l'IRM (ce qui n'est pas le cas par le scanner cérébral),
+
+le rachis : Hernie discale et toutes les pathologies disco-somatiques, lésions traumatiques du rachis et de la moelle, la spondylodiscite infectieuse ;
+les viscères digestifs et pelviens ainsi que les muscles ;
+les articulations et les structures adjacentes (hanches, genoux, ménisques, ligaments croisés), notamment chez les sportifs ;
+les processus tumoraux, même osseux ;
+les gros vaisseaux comme l'aorte et ses branches (artères rénales, iliaques), les vaisseaux cérébraux et cervicaux sont étudiés pour le bilan de maladie athéromateuse, des dissections, sténoses (artérite oblitérante des membres inférieurs). L'artère pulmonaire peut être analysée par l'ARM dans le cadre de l'embolie pulmonaire ;
+les malformations artério-veineuses mais aussi les malformations cardiaques congénitales (tétralogie de Fallot, atrésie pulmonaire, transposition des gros vaisseaux) ;
+les arbres hépato-biliaire et pancréatico-biliaire sont étudiés dans certaines pathologies hépatiques (CBP) et pancréatiques (tumeur du pancréas, insuffisance pancréatique exocrine) (cholangio-IRM) ainsi que le système porte (en ARM).
+
+
+=== Contre-indicationsModifier ===
+Les contre-indications au passage d'examen IRM sont :
+la présence de métaux susceptibles de se mobiliser dans le corps :
+
+clips vasculaires cérébraux surtout chez les patients opérés d'un anévrisme cérébral,
+corps étranger métallique ferro-magnétique intra-oculaire ou dont la mobilisation exposerait le patient à des blessures (séquelle d'accident de chasse, accident de meulage…),
+valves cardiaques non compatibles, ce qui est le cas de la valve Starr-Edwards pré 6000. La plupart des valves cardiaques sont compatibles avec l'examen IRM,
+
+Les clips caves inférieurs, clips de trompe de Fallope ou stents coronaires nécessitent une précaution d'emploi. Les différentes prothèses (hanche, genou) ne sont pas des contre-indications,
+on respectera, malgré une compatibilité avérée, un délai après chirurgie. Celui-ci se situant généralement entre 3 et 6 semaines après la pose du matériel. Ce délai correspond au temps nécessaire pour que les différents tissus de l'organisme adhèrent au matériel et le « stabilisent »,
+en revanche, il n'y a pas de délai postchirurgical après ablation de matériel, mais attention aux agrafes chirurgicales ;
+
+les dispositifs biomédicaux :
+
+stimulateur cardiaque et défibrillateur cardiaque non compatibles dont le fonctionnement peut être altéré par le champ magnétique et conduire à des troubles du rythme cardiaque potentiellement mortels. Les modèles les plus récents sont compatibles avec l'IRM mais il faut s'assurer que l'ensemble « stimulateur cardiaque + sondes » le soit. Même dans ce cas, la présence de ce matériel génère de nombreux artéfacts gênant l'imagerie proche du dispositif ;
+pompe à insuline ;
+neuro-stimulateur ;
+dispositifs transdermiques (patchs). Certains de ces dispositifs possèdent un mince halo métallique de protection dans leurs couches superficielles qui peut être cause de brûlures. C'est le cas par exemple de Nitriderm TTS®, Scopoderm TTS® et Neupro® qui contiennent de l'aluminium ;
+
+l'état du patient :
+
+impossibilité de rester allongé (insuffisance cardiaque ou respiratoire avec orthopnée) ;
+impossibilité de rester immobile (patient pusillanime, enfants, troubles psychiatriques). Les examens d'imagerie peuvent le cas échéant être réalisés sous prémédication, voire sous anesthésie générale. Il convient alors d'utiliser le seul matériel d'anesthésie homologué pour entrer dans la salle d'IRM ;
+la claustrophobie, qui peut faire l'objet des mesures citées précédemment ;
+l'allergie au gadolinium ou à son chélateur/ligand ou encore à l'excipient rarissime. Cependant, le produit est très toxique par extravasation (nécrose des tissus). Il n'existe pas d'interaction connue avec d'autres médicaments ;
+insuffisance rénale sévère (uniquement en cas d'injection de produit de contraste) ;
+la grossesse, en dehors d'indication formelle. Il n'a jamais été démontré d'effet délétère des champs magnétiques sur le fœtus. Mais, par précaution, seules les indications mettant en jeu le pronostic vital ou fonctionnel de la mère sont validées. En cas d'injection de gadolinium : il y a un passage lent de la barrière placentaire (constaté uniquement sur spécimen murin) ;
+allaitement : en cas d'injection de gadolinium uniquement : excrétion faible dans le lait maternel (constaté uniquement sur spécimen murin), recommandation de traite et élimination du lait pendant 24 à 48 heures suivant l'injection.
+
+
+=== Effets secondairesModifier ===
+Avec les précautions ci-dessus, l'imagerie par résonance magnétique est totalement non invasive (excepté, s'il y a indication, l'injection de produit de contraste) et sans irradiation.
+L'effet du haut champ magnétique et du champ oscillant reste discuté. Chez les personnes travaillant en IRM (et donc exposés durablement), il est décrit un goût métallique dans la bouche, des vertiges.
+L'examen n'est pas contre-indiqué chez la femme enceinte mais des lésions de l'ADN de certaines cellules de patients soumis à une IRM cardiaque ont été décrits sans que les conséquences en soient claires.
+
+
+== Notes et référencesModifier ==
+
+
+=== NotesModifier ===
+ L'IRM a une meilleure résolution en contraste que le scanner et le scanner a une meilleure résolution spatiale que l'IRM, il faut donc considérer ces deux examens comme complémentaires.
+ Le terme « nucléaire »(du latin : nucleus « noyau ») renvoie donc simplement au fait que cette technique repose sur les propriétés des noyaux atomiques mais n'a pas de lien avec les processus de fission nucléaire qui produisent les rayonnements ionisants dont les effets peuvent être dangereux sur la santé. Le nom complet de l'IRM devrait donc en réalité être « IRMN », « imagerie par résonance magnétique nucléaire » mais pour ne pas effrayer les patients qui associent souvent, et à tort, le mot « nucléaire » avec la radioactivité, on omet souvent le terme « nucléaire » pour parler simplement d'IRM
+ Une réaction allergique au produit de contraste en IRM est dans la grande majorité des cas due à une intolérance du chélateur (molécule cage) et non au gadolinium. De plus, les différents fabricants de PdC utilisent des chélateurs différents, DTPA-Gd (Magnevist) ou DOTA-Gd (Dotarem) sont deux exemples. Ceci permet de renouveler un examen avec injection en utilisant une autre marque s'il y a eu réaction avec la première
+ Le plus souvent, il s'agit de méglumine, la réaction d'allergie à cet excipient est extrêmement rare
+
+
+=== RéférencesModifier ===
+
+
+== Voir aussiModifier ==
+
+
+=== BibliographieModifier ===
+B. Kastler, D. Vetter, Z. Patay et P. Germain, Comprendre l'IRM Manuel d'auto-apprentissage, 6e édition, 2006. (ISBN 2-294-05110-6) (édition antérieure : 5eédition, 2003 ISBN 2-294-01411-1)
+
+
+=== Articles connexesModifier ===
+Imagerie cérébrale
+Tomographie d'émission monophotonique (Single Photon Emission Computed Tomography)
+Imagerie moléculaire
+
+ Portail de la médecine
+ Portail de la physique
+ Portail de l’imagerie numérique

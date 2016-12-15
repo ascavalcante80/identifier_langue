@@ -1,0 +1,11 @@
+'n Vierkant is 'n vierhoek ('n tweedimensionele voorwerp) met vier sye wat almal ewe lank is en vier regte hoeke tussen die sye.
+
+
+== Eienskappe ==
+Die oppervlakte van die vierkant word as volg bereken:
+oppervlak = sy × sy (lengte × hoogte)
+Die omtrek volg uit die formule:
+omtrek = 4 × sy
+Die lengte van die diagonaal is:
+diagonaal =  × sy
+Met 'n

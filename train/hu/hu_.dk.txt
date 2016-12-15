@@ -1,0 +1,7 @@
+A .dk Dánia internetes legfelső szintű tartomány kódja. A tartományt a DK Hostmaster tartja karban.
+Minden újonnan kérelmezett domainnevet el kell fogadnia egy elismert bejegyzésre jogosulttal. Utána a kérelmező kérheti, hogy a regisztrátor vagy a DK Hostmaster menedzselje az oldalt. A bejegyzett cím tartalmazhatja az alap karaktereken kívül a æ, ø, å, ö, ä, ü és é dán karaktereket is.
+
+
+== Története ==
+Az országkódot 1987. július 14-én hozta létre az ARPA Network Information Center. A Stanford Research Institute és a Koppenhágai Egyetem Datalogist Institutjánál működő Dán UNIX Használók Csoportja (DKUUG) menedzselte a végződést. Kezdetben az egyetemen belüli UNIX rendszer azonosítására használták, UUCP szabvánnyal működött.
+1989-ben a DKUUG névhasználati szerződést kötött a három másik, akkor Dániában működő EAN, EARN és DECnet cégekkel. Megállapodtak, hogy a névteret megosztják az összes többi, általuk használt névtérrel, mint például a .uucp vagy a gov.uk, így mi

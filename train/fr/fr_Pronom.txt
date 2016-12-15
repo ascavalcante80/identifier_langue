@@ -1,0 +1,356 @@
+En grammaire française, le pronom est un mot-outil variable dont le rôle principal est de se substituer à un élément quelconque, linguistique ou non. Le pronom est donc avant tout un représentant.
+Étymologiquement, pronom signifie mis pour le nom (le préfixe pro- a le sens de à la place de). C'est-à-dire que le pronom remplace un nom, auquel il se rapporte.
+Par ailleurs, le pronom peut parfois être le noyau d'un syntagme (appelé syntagme pronominal) :
+Nous avons vu quelque chose de vraiment intéressant.
+Le syntagme pronominal « quelque chose de vraiment intéressant » a pour noyau le pronom indéfini « quelque chose ».
+
+Certains pronoms ont des correspondants dans la catégorie des déterminants. La différence entre un pronom et le déterminant correspondant, est que le déterminant est toujours suivi du nom noyau avec lequel il forme un syntagme, tandis que le pronom est employé tout seul, remplaçant à la fois le déterminant et le nom :
+Les vacances sont terminées. Je voudrais pouvoir les recommencer.
+Le syntagme « Les vacances », constitué d'un nom noyau (« vacances ») actualisé par un déterminant (l'article défini « les »), est l'antécédent du pronom personnel « les ».
+
+Si l'élément représenté est de nature linguistique ou phrastique (un nom ou un mot quelconque, un syntagme, une proposition, une phrase…), le pronom est un représentant textuel. Si au contraire l'élément remplacé est de nature extralinguistique, le pronom est un représentant référentiel.
+
+
+== Pronom, représentant référentielModifier ==
+Lorsque le pronom est un représentant référentiel, il désigne, non plus un segment du texte, mais un élément non encore désigné par un nom, et cependant susceptible de l'être, en d'autres termes, un référent. Au fond, le rôle du pronom référentiel consiste à faire du référent l'équivalent d'un nom (voilà pourquoi certains grammairiens parlent de nominal pour désigner ce type de représentant).
+Les pronoms personnels des 1re et 2e personnes (les fameux embrayeurs de la situation d'énonciation) sont nécessairement des référentiels :
+Je te parle. Rien« te », le destinataire, etc.
+
+
+== Cinétisme du pronomModifier ==
+
+
+=== Cinétisme de négativation des pronoms animésModifier ===
+Le cinétisme guillaumien ici décrit par Olivier Soutet, à propos de la négativation des pronoms, concerne les pronoms directement référentiels, c'est-à-dire ceux qui ne sont pas endophoriques.
+
+Précisons que qui (distr.) est le pronom distributif qui dans Chacun avait apporté un cadeau, qui des fleurs, qui des chocolats, qui des marrons glacés.
+Quant à la personne 1 (saisie précoce), il s'agit du forclusif de la négation (ne... personne et personne... ne). On pourrait dire que dans l'ordre ne laisse entrer personne !, le pronom réfère à des personnes très virtuelles mais dont l'existence reste possible. La « négativation de l'individu » (Olivier Soutet) n'est totale qu'avec la personne 2 : Personne dans les rues, personne aux portes de la ville.
+
+
+=== Cinétisme de négativation des pronoms inanimésModifier ===
+
+
+=== Autre cinétismeModifier ===
+
+
+== Fonction du pronomModifier ==
+Que le pronom représenté soit de nature linguistique ou extralinguistique, en d'autres termes, qu'il soit antécédent, conséquent ou référent, cet élément a virtuellement une valeur de nom, de sorte que le pronom qui le représente (ou le nominalise), va nécessairement hériter de toutes les fonctions habituelles de cette catégorie.
+Mais si les fonctions du pronom sont bien les mêmes que celles du nom, son emploi et sa syntaxe en revanche, n'obéissent pas aux mêmes règles.
+
+
+== Différentes catégories de pronomModifier ==
+On peut distinguer neuf sous-catégories de pronoms.
+Pronom substantif
+Pronom adjectif
+Pronom numéral
+Pronom quantitatif
+Pronom personnel
+Pronom impersonnel
+Pronom possessif
+Pronom démonstratif
+Pronom indéfini
+Pronom relatif
+Pronom interrogatif
+Le pronom interrogatif est une variété d'outil interrogatif. Il s'agit principalement des pronoms « quel » (ainsi que ses flexions « quelle, quels, quelles »), « lequel » (ainsi que ses flexions « laquelle, auquel, duquel... »), « qui, que, quoi » et « où » :
+Quelle est cette fleur ? De toutes ces fleurs, laquelle préfères-tu ? Où sont les fleurs ?
+
+On remarquera qu'il n'existe ni pronom exclamatif, ni pronom numéral. Cependant, dans certains emplois, l'adjectif numéral — cardinal ou ordinal — peut avoir valeur de pronom numéral, mais sa forme reste celle de l'adjectif numéral :
+J'ai acheté des pommes. Les deux que j'ai mangées étaient excellentes.
+On peut considérer que l'adjectif numéral cardinal « deux » a ici la valeur d'un pronom numéral, représentant anaphorique du nom « pommes ».
+
+Il y avait là quatre arbres. J'étais sous le deuxième.
+De la même façon, l'adjectif numéral ordinal « deuxième » a ici la valeur d'un pronom numéral, représentant anaphorique du nom « arbre ».
+
+
+== Pronoms françaisModifier ==
+
+
+=== Pronoms personnelsModifier ===
+
+
+==== Définition du pronom personnelModifier ====
+En grammaire, le pronom personnel est une catégorie de pronom servant à désigner les trois types de personne grammaticale. Il varie selon la personne, le genre, le nombre et la fonction.
+En français, le pronom personnel a deux rôles possibles dans la phrase. Il peut avoir la valeur d'un pronom déictique ou celle d'un pronom représentant:
+
+
+===== Pronoms personnels déictiquesModifier =====
+Le pronom personnel de première ou de deuxième personne sert à désigner une personne qui participe à l'acte d'énonciation. Il possède donc une valeur déictique.
+ex: Regarde-moi quand je te parle. Moi et je désignent le locuteur, alors que te désigne le destinataire.
+
+
+===== Pronoms personnels représentantsModifier =====
+Le pronom personnel de troisième personne sert à désigner des personnes ou des choses qui ont déjà été mentionnées ou qui vont l'être. Il a une valeur anaphorique ou cataphorique, il fait partie des pronoms représentants.
+ex: Un homme est monté dans le bus. Il m'a beaucoup intrigué. Il remplace le groupe nominal un homme, il a donc une valeur anaphorique.
+ex: Il m'a beaucoup intrigué, cet homme qui est monté dans le bus. Il annonce le groupe nominal cet homme, il a donc une valeur cataphorique.
+Nous et vous peuvent avoir un rôle déictique ou associer un déictique et un représentant.
+ex: Toi et moi, nous nous comprenons à demi-mots. Nous est ici l'équivalent de je + tu : il s'agit donc d'un représentant reprenant les déictiques désignant le locuteur et le destinataire.
+Le pronom impersonnel il n'est ni déictique ni représentant. ex: Il pleut.
+Le pronom sujet on a un sens indéfini, mais a tendance à remplacer le pronom nous dans le langage parlé.
+ex: On dit que tout va mal. >> On signifie une ou un groupe de personnes indéfini.
+ex: On va à la piscine. >> On signifie nous.
+
+
+===== Pronoms personnels formelsModifier =====
+Le pronom vous peut remplacer tu dans un style formel. Il s'agit du vous de politesse.
+ex: Je vous en prie.
+Le pronom nous peut aussi remplacer je dans un style officiel lorsque le locuteur détient une autorité sur le destinataire.
+
+
+==== Formes du pronom personnelModifier ====
+
+
+===== Formes conjointes et disjointesModifier =====
+La forme conjointe est la forme que prend le pronom lorsqu'il n'est pas séparé du verbe, si ce n'est par une autre forme un autre pronom de forme conjointe ou par l'adverbe de négation ne.
+ex: Je regardai l'inconnu avec insistance.
+ex: Je le regardai avec insistance.
+ex: Je ne détournai pas mon regard.
+La forme disjointe est la forme que prend le pronom lorsqu'il est séparé du verbe ou employé sans verbe. Il peut être :
+séparé du verbe par une préposition ; ex: J'ai rêvé de toi.
+en position détachée ; ex: Lui, c'est quelqu'un sur lequel on peut compter.
+sujet mis en relief ; ex: Lui n'est pas arrivé en retard.
+utilisé dans une apostrophe ; ex: Toi, approche !
+placé après ne...que ; ex: Je n'ai vu que lui.
+utilisé dans une réponse elliptique ; ex: - Qui est là ? - Moi.
+employé avec une tournure présentation ; ex: C'est lui que je veux voir.
+coordonné à un nom, un groupe nominal ou à un autre pronom ; ex: Ton frère et moi sommes amis.
+
+
+==== Pronoms réfléchisModifier ====
+Aux troisièmes personnes du singulier et du pluriel, et aux formes disjointes, le pronom personnel prend une forme spécifique lorsqu'il est réfléchi, c'est-à-dire lorsqu'il représente le même référent que le sujet.
+ex: Ils se sont rencontrés à la piscine.
+ex: Ils se parle à lui-même.
+Les pronoms réfléchis conjoints servent à construire les formes pronominales, réciproques ou pronominales passives.
+Dans la construction réfléchie, le sujet exerce l'action sur lui-même. ex: Je me vois dans la glace.
+Dans la construction réciproque, les différents sujets exercent leur action les uns sur les autres. ex: Nous nous écrivons régulièrement.
+Le verbes en construction pronominale peuvent prendre une valeur passive. ex: Ces articles se vendent chers.
+
+
+=== Pronoms adverbiauxModifier ===
+Les formes en et y sont des pronoms remplaçant généralement une préposition. On parle alors de pronoms adverbiaux, car ils ont souvent, comme les adverbes, une fonction circonstancielle.
+Le pronom y inclue le sens de la préposition à. Il peut avoir les fonctions de :
+complément essentiel de lieu ; ex: Allons à la piscine ensemble. >> Allons-y ensemble.
+complément circonstanciel de lieu ; ex: Ils ont rencontré des amis à la piscine. >> Ils y ont rencontré des amis.
+complément d'objet indirect ; ex: Il ne pense pas assez à son bac. >> Il n'y pense pas assez.
+complément de l'adjectif. ex: Il est favorable à certaines réformes. >> Il y est favorable.
+Le pronom en remplace la préposition de. Ils peut avoir les fonctions de :
+complément essentiel de lieu ; ex: Je viens de la piscine. >> J'en viens.
+complément circonstanciel de lieu ; ex: J'ai rapporté des fruits du magasin. >> J'en ai rapporté des fruits.
+complément d'objet indirect ; ex: Vous parliez des nouvelles réformes. >> Vous en parliez.
+complément du nom ; ex: Je connais tous les recoins de la ville. >> J'en connais tous les recoins.
+complément de l'adjectif ; ex: Il est fier de sa réussite. >> Il en est fier.
+complément d'objet direct ; ex: Je t'ai déjà donné beaucoup d'argent. >> Je t'en ai déjà donné beaucoup.
+attribut du sujet. ex: C'est de l'eau plate. >> C'en est.
+
+
+=== Pronoms relatifsModifier ===
+
+
+==== DéfinitionModifier ====
+Le pronom relatif a pour rôle de relier une proposition subordonnée relative à la proposition principale à laquelle elle est rattachée.
+Lorsque la proposition subordonnée relative est adjective, le pronom relatif remplace un groupe de mots que l'on appelle son antécédent. L'antécédent est situé dans la proposition dont dépend la relative, le pronom a alors une valeur anaphorique.
+ex: L'ordinateur que tu m'as donné n'est pas très performant.
+Lorsque la relative est substantive, le pronom relatif n'a pas d'antécédent, il est nominal.
+ex: Qui va à la chasse perd sa place.
+
+
+==== Forme simpleModifier ====
+La forme simple du pronom relatif varie selon le caractère animé ou inanimé de l'antécédent.
+ex: L'homme qui nous a salué est un ami. ex: C'est un ami avec qui j'ai longtemps voyagé.
+
+
+==== Forme composéeModifier ====
+La forme composée du pronom relatif varie selon le genre et le nombre de son antécédent. Il peut se contracter avec les prépositions à et de.
+ex: Cet homme nous a salués, lequel est un ami. ex: C'est un ami avec lequel j'ai longtemps voyagé.
+
+
+=== Pronoms interrogatifsModifier ===
+Un pronom interrogatif permet de demander l'identité de la personne ou de la chose concernée par le reste de la phrase. Les pronoms interrogatifs peuvent être simples, renforcés ou composés.
+
+
+==== Forme simpleModifier ====
+Les formes simples des pronoms interrogatifs varient selon le caractère animé ou inanimé du référent, et la fonction du pronom.
+ex: Qui as-tu rencontré ? ex: Avec qui iras-tu à la piscine ?
+
+
+==== Forme renforcéeModifier ====
+À chaque forme simple correspond une forme renforcée qui est une locution pronominale interrogative.
+ex: Qui-est-ce que tu as rencontré ? ex: Avec qui est-ce que tu iras à la piscine ?
+
+
+==== Forme composéeModifier ====
+La forme composée varie selon le genre, le nombre et la fonction du référent, et peut se contracter avec les prépositions à et de. Elle a une valeur anaphorique, car elle reprend un groupe nominal.
+ex: J'ai acheté deux livres. Lequel veux-tu lire ? ex: Tu as beaucoup d'amis. Avec lequel iras-tu à la piscine ?
+
+
+=== Pronoms possessifsModifier ===
+Le pronom possessif remplace un groupe nominal introduit par un déterminant possessif. Il varie selon le genre, le nombre du possédé, et la personne du possesseur.
+ex: Ma voiture est en panne, mais la tienne roule encore.
+ex: Prête moi ton stylo, j'ai oublié le mien.
+
+
+=== Pronoms démonstratifsModifier ===
+
+
+==== DéfinitionModifier ====
+Le pronom démonstratif remplace un groupe nominal précédé d'un déterminant démonstratif. Il peut avoir une valeur déictique ; ex: Regardez donc celle-là ! mais aussi de représentant, total : ex: Il écrit souvent à son frère. Celui-ci ne lui répond jamais. ; ou partiel : Ces livres sont très intéressants, je vous conseille celui-là.
+
+
+==== Formes simplesModifier ====
+La forme simple d'un pronom démonstratif reprend un nom, mais pour le modifier et désigner un autre référent. C'est pourquoi elle est toujours accompagnée de :
+une proposition relative ; ex: Ce fauteuil est confortable, mais celui que nous avions essayé hier l'était plus.
+un complément du nom ; ex: Les plats de ce restaurants sont excellents, mais ceux d'ici sont meilleurs.
+un participe ; ex: Ces peintures sont celles représentant des paysages. ; ex: Les exercices à faire sont ceux notés dans le livre.
+
+
+==== Formes composéesModifier ====
+La forme composée d'un pronom démonstratif n'est pas nécessairement modifiée par un autre référent. La particule localisatrice -ci renvoie à la forme la plus proche, alors que la particule -là renvoie à quelque chose de plus éloigné.
+ex: Ces livres sont intéressants. Je vous conseille celui-ci.
+ex: Ces dossiers sont urgents. Traitez ceux-là en priorité.
+
+
+==== Formes neutresModifier ====
+Le pronom démonstratif simple ce, et ses dérivés ceci, cela et ça sont désignés comme neutres, car ils ne varient pas en genre ni en nombre, et se réfèrent uniquement à des inanimés.
+Le pronom démonstratif neutre de forme simple ce intervient exclusivement pour former des propositions subordonnées relatives. ex: Ce qu'il a dit m'a beaucoup énervé.
+Les pronoms démonstratifs neutres de forme composée ceci, cela et ça reprennent des inanimés. Ils ont une valeur de représentant : ex: - Je t'ai apporté des livres. - Pose cela sur la table. ; ou de déictique : ex: C'est quoi, ça ?
+
+
+=== Pronoms indéfinisModifier ===
+Un pronom indéfini désigne un être animé ou inanimé dont on ne précise pas l'identité ou le nombre. Le pronom indéfini peut être nominal : ex: Chacun voit midi à sa porte. ; ou représentant : ex: Tous ses amis étaient venus. Il a offert un cadeau à chacun.
+On peut classer les pronoms indéfinis en tenant compte de leur sens.
+
+
+=== Pronoms numérauxModifier ===
+Le pronom numéral équivaut à un nom précédé d'un déterminant numéral. Il a la même forme que le déterminant numéral et peut être cardinal (deux) ou ordinal (le deuxième), mais a les fonctions d'un groupe nominal. Le pronom numéral est presque toujours représentant. ex: Nous avons examiné dix dossiers. Cinq ont été écartés.    
+
+
+== Pronoms en diverses languesModifier ==
+
+
+=== Pronoms allemandsModifier ===
+La plupart des pronoms allemands varient selon le cas, le genre et le nombre, et sont donc déclinables. Ils occupent la même place que le groupe nominal qu'ils remplacent.
+
+
+==== Pronoms personnelsModifier ====
+ex: Ich habe ein Geschenk von meiner Oma bekommen.
+J'ai reçu un cadeau de la part de ma grand-mère.
+ex: Könnte ich dir helfen, deine Hausaufgaben zu machen ?
+Puis-je t'aider à faire tes devoirs ?
+ex: Ich habe ihm gefragt, ob er dieses Buch gelesen hat.
+Je lui ai demandé s'il a lu ce livre.
+
+
+===== Pronoms personnels réfléchisModifier =====
+ex: Ich wasche mich.
+Je me lave.
+ex: Er fragt sich ob er zum Rathaus wählen gehen wird.
+Il se demande s'il ira à la mairie voter.
+
+
+==== Pronoms relatifsModifier ====
+ex: Der Mann, der heute gestorben ist...
+ex: Das Haus, das ich baue...
+ex: Die Frau, der du ein Geschenk gabst...
+ex: Die Bücher, deren die Seite abgerissen ist...
+- Wo(r)+préposition: worauf (sur lequel), worum (autour duquel), etc...
+ex: Der Tisch, worauf die Vase stand...
+Wo(r)+ préposition peut être remplacé par « préposition + pronom relatif » :
+ex: Der Tisch, auf dem die Vase stand...
+- Wo (où), was (ce que, ce qui), wenn (quand), wie (comment) et warum (pourquoi)
+ex: Die Stadt, wo er wohnt...
+ex: Er hatte alles ausgegeben, was er hatte.
+ex: Die Jahre, wenn er geboren ist...
+ex: Die Art, wie er singt...
+ex: Niemand weiß (die Grunde), warum er so schnell weggefahren ist.
+
+
+==== Pronoms interrogatifsModifier ====
+Was (que, quoi) ex: Was hast du gesagt? Qu'as-tu dis ?
+Wer (qui: sujet) ex: Wer ist dieser Mann? Qui est cet homme ?
+Wen (qui: COD) ex: Wen hilfst du doch? Qui aide-tu ?
+Wem (qui: COI) ex: Wem hast du gefragt? À qui as-tu demandé ?
+Wo (où) ex: Wo wohnst du? Où habites-tu ?
+Warum (pourquoi) ex: Warum ist Herr Jäger zurückgekommen? Pourquoi M. Jäger est-il reparti ?
+Wie (comment) ex: Wie hast du deine Hausaufgabe gemacht? Comment as-tu fait tes devoirs ?
+Wenn (quand) ex: Wenn wurde diese Kirche gebaut? Quand fut construite cette église ?
+Welcher (lequel) ex: Welcher hast du gekauft? Lequel as-tu acheté ?
+
+
+==== Pronoms possessifsModifier ====
+ex: Es ist meiner.
+C'est le mien.
+
+
+==== Pronoms démonstratifsModifier ====
+Les pronoms démonstratifs der, das et die se déclinent comme les pronoms relatifs.
+Les pronoms démonstratifs dieser (celui-ci) et jener (celui-là) prennent dans leur déclinaisons les marques premières.
+Les pronoms démonstratifs derjenige (celui), derselbe (le même) et der gleiche (le semblable) se déclinent comme des adjectifs épithètes précédés d'un déterminant.
+
+
+=== Pronoms anglaisModifier ===
+
+
+==== Pronoms personnelsModifier ====
+ex: I am washing the car.
+Je lave la voiture.
+ex: I help him to do your homeworks.
+Je l'aide à faire ses devoirs.
+
+
+===== Pronoms réfléchisModifier =====
+ex: I am washing myself.
+Je me lave.
+
+
+==== Pronoms relatifsModifier ====
+- Les pronoms relatifs utilisés en anglais pour désigner les humains sont who et that. Les pronoms relatifs which et that sont quant à eux utilisés pour un antécédent non humain. Whose est un pronom relatif au génitif.
+ex: The woman who was living here died yesterday./ The woman living here died yesterday.
+La femme qui vivait ici est morte hier.
+ex: It's a house which was built in the eighteenth century.
+C'est une maison qui fut construite au dix-huitième siècle.
+ex: The house whose doors are red is expensive.
+La maison dont les portes sont rouges, est chère.
+- Where (où), when (quand) et why (pourquoi) peuvent être utilisé comme des pronoms relatifs.
+ex: It's the town where I was born.
+C'est la ville où je suis né.
+ex: The day when he died was a Sunday. (Ou: The day he died was a Sunday.)
+Le jour où il mourut était un dimanche.
+ex: There's no reason why you should not come.
+Il n'y a pas de raison que vous ne veniez pas.
+- Le pronom peut être omis s'il remplace l'objet. ex: The man we saw yesterday is my brother. ex: The man who we saw yesterday is my brother. ex:
+L'homme qu'on a vu hier est mon frère.
+- Si le pronom relatif remplace le sujet et s'il est suivi d'un verbe, le pronom est obligatoire. ex: The man who lives here is my brother.
+L'homme qui habite ici est mon frère.
+
+
+==== Pronoms interrogatifsModifier ====
+Who (qui) (sujet) ex: Who saw my keys? Qui a vu mes clés ?
+Whom (qui) (objet) ex: To whom are you speaking? À qui parles-tu ?
+What (que, quoi) ex: What are you doing? Que fais-tu ?
+Which (lequel) ex: Which have you chosen? Lequel as-tu choisi ?
+Where (où) ex: Where did you go yesterday? Où es-tu allé hier ?
+Why (pourquoi) ex: Why did you buy it? Pourquoi as-tu acheté cela ?
+When (quand) ex: When did he come? Quand est-il venu ?
+Whose (à qui) ex: Whose bag is this? À qui appartient ce sac ?
+How (comment) ex: How did you come here? Comment es-tu venu ici ?
+How + adjectif / adverbe ex: How long will he stay? Combien de temps restera-t-il ?
+
+
+==== Pronoms possessifsModifier ====
+ex: It's mine. C'est le mien.
+
+
+==== Pronoms démonstratifsModifier ====
+Ils sont identiques aux déterminants démonstratifs. Ils sont this et that au singulier, et these et those au pluriel.
+
+
+=== Pronoms espagnolsModifier ===
+
+
+==== Pronoms personnelsModifier ====
+
+
+===== Pronoms réfléchisModifier =====
+
+
+==== Pronoms relatifsModifier ====
+- Les pronoms relatifs espagnols sont que, pour désigner une personne ou un objet, quien / quienes est employé uniquement pour une ou des personnes, et lo que est utilisé pour désigner uniquement un obje

@@ -1,0 +1,28 @@
+Krystalmodtagere (også kendt som krystalapparater, krystalradioer) blev først bygget omkring 1900 af Greenleaf Whittier Pickard. Krystalmodtagerne anvendte krystaldetektordioder til at detektere radiofonisignaler. Andre ensrettende overgange blev lavet af oxiderede metallegeringer.
+Den "moderne" udgave af krystalmodtageren er en diodemodtager, hvor krystallet er udskiftet med en småsignal Schottky-diode baseret på halvledermaterialet silicium eller en punktkontaktdiode baseret på halvledermaterialet germanium.
+
+
+== Mere om modtagertypen ==
+En krystalmodtager eller diodemodtager er den simplest mulige radioforsats. Derfor er den et godt eksempel til begynderundervisning. Den er bedst egnet til at modtage AM, men kan også anvendes til FM.
+
+
+=== Krav ===
+Den kræver en lang radioantenne (f.eks. 10+ meter isoleret eller ikke-isoleret elektrisk ledende tråd mindst 1 meter over jorden) ved modtagelse af f.eks. langbølgebåndet, mellembølgebåndet og kortbølgebåndet. Desuden skal den jordes i bogstaveligste forstand – signalet bliver stærkere af det. Forfatteren har kun kunnet få den til at virke med en højttaler af krystaløreproptypen og kun ved modtagelse af stærke udenlandske kortbølgesendere.
+De fleste diodemodtagere er beregnet til modtagelse af langbølgebåndet og mellembølgebåndet.
+
+
+=== Opbygning ===
+
+Antennen er tilsluttet til svingningskredsens ene ende direkte, via en kondensator eller på et udtag på spolen – og jordlederen er forbundet til den anden svingningskreds ende.
+Svingningskredsen består af en kondensator – almindeligvis variabel – og en spole. Ved modtagelse af langbølgebåndet og mellembølgebåndet benyttes typisk en variabel kondensator på 500-50 pF og en af 2 spoler med en passende induktion så båndet dækkes.
+Detektoren udgøres af en Schottky diode eller en germaniumdiode. Det er lige meget hvilken vej den vender i forhold til svingningskredsens tilkoblingspunkt, da man ikke kan høre forskel på lydfasningen (med denne modtagers kvalitet). Diodens anden ende kobles til krystaløreproppen, hvis anden ende kobles til svingningskredsens jordende.
+I princippet bør der sættes en kondensator på ca. 1-2 nF over krystaløreproppens to tilkoblingspunkter.
+
+
+=== Virkemåde ===
+Fra radioantennen modtages et svagt elektrisk signal fra en eller flere stærke stationer – sandsynligvis ved en impedans betydeligt højere end 50 ohm – f.eks. 1 kohm.
+Den svage modtagne elektriske energi – muligvis fordelt på flere radiostationers signaler – resulterer i en vekselstrøm gennem svingningskredsen. For de fleste frekvenser "kortsluttes" de til jord, og derfor er der for disse frekvenser kun et lavt spændingsbidrag over svingningskredsen.
+Hvis der er frekvenser til stede, som er indenfor svingningskredsens resonansfrekvens, så vil disse frekvensers elektriske energi starte og vedligeholde en større elektrisk svingning med en større spænding til følge.
+Svingningskredsen virker som et filter.
+
+Svingningskredsens Q er formentlig mellem 50 og 1000, men selv ved langbølgebåndssignaler vil den elektriske svingning kunne falde hurtigere end typiske AM-modulationssignaler. Derfor vil 

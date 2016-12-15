@@ -1,0 +1,164 @@
+Animalia (-ium, n.) (ab anima) seu Metazoa (-orum, n.) in biologia hodie appellantur illa copia rerum viventium quae simul sunt eukaryoticae, heterotrophicae, et multicellulares, et quae motiles aliquando in circulo vitae embryonice per blastulas evoluta sunt. Animalia cuncta quoque parietibus cellularibus duris et chloroplastis omnino carent. Scientia quae animalia investigat zoologia appellatur.
+Regnum Animale sive fauna hodie ponitur unum ex sex regnorum rerum viventium. Animalis definitio, quae rei interest, se per aetates evolvens hodie ab animalibus excludit protozoa, quae potius in regno Protistorum cum protophylis et aliis organsimis unicellularibus locatur. In Historia naturae ab Carolo Linnaeo scripta, animalia partiebantur in paucas classes: Vermes, Insecta, Pisces, Amphibia, Reptilia, Aves, et Mammalia. Hodie autem regnum in multis phylis consistit, unumquodque plures classes continens.
+
+
+== Systema taxinomicum regni animalium ==
+Supraimperium: Biota
+Imperium: Eukaryota (quae nucleum in cellula habent)
+Regnum: Animalia seu Metazoa (quae plures cellulas habent)
+Subregnum: Parazoa (quae vera textura cellulari carent)
+Phylum: Porifera (demospongiae)
+
+Subregnum: Eumetazoa (quae veras texturas cellulares habent)
+Infraregum: Radiata (quorum corpora embrionica symmetriam radialem habent)
+Phylum: Placozoa
+Phylum: Ctenophora
+Classis: Tentaculata
+Classis: Nuda
+
+Phylum: Cnidaria
+Classis: Hydrozoa (hydra)
+Classis: Scyphozoa (medusa)
+Classis: Anthozoa (corallium, anemona)
+
+Infraregnum: Bilateria (quorum corpora embryonica symmetriam bilateram habent)
+Cladus: Protostomia (quae os primum ex grastulae sacco formant ante anum)
+Superphylum: Platyzoa
+Phylum: Platyhelminthes
+Phylum: Rotifera
+
+Superphylum: Lophotrochozoa
+Phylum: Annelida
+Classis: Sipunculida
+Classis: Polychaeta (vermis marinus)
+Classis: Oligochaeta
+Familia: Lumbricidae (lumbricus)
+
+Classis: Hirudinea
+Familia: Hirudinidae (hirudo)
+
+Phylum: Mollusca
+Classis: Gastropoda (cochlea et limax)
+Classis: Cephalopoda (sepia et octopus)
+
+Superphylum: Ecdysozoa (quae cuticula organica dura formant quae ut sceletos aut repla fungunt )
+Phylum: Cephalorhyncha
+Phylum: Onychophora
+Phylum: Nematoda
+Phylum: Arthropoda
+Subphylum: Trilobitomorpha
+Classis: Trilobita
+
+Subphylum: Chelicerata
+Classis: Arachnida (aranea)
+Ordo: Scorpionida (scorpio)
+
+Classis: Merostomata / Palaeostraca
+Ordo: Xiphosura (?)
+
+Subphylum: Myriapoda
+Classis: Centipoda (centipes et scolopendra)
+Classis: Diplopoda
+
+Subphylum: Crustacea
+Classis: Malacostraca
+Ordo: Decapoda
+Subordo: Macrura (cammarus, locusta marina)
+Subordo: Brachyura (cancer)
+
+Subphylum: Hexapoda
+Classis: Insecta
+Ordo: Blattodea (blatta)
+Ordo: Odonata (libella et libellula)
+Ordo: Isoptera (termes)
+Ordo: Orthoptera (locusta et gryllus)
+Ordo: Homoptera (cicada et aphis)
+Ordo: Hemiptera (cimex)
+Ordo: Coleoptera (scarabaeus)
+Ordo: Hymenoptera (apis et formica)
+Ordo: Diptera (musca)
+Ordo: Siphanoptera (pulex)
+Ordo: Lepidoptera (papilio)
+
+Cladus: Deuterostomia (quae os solum post anum ex grastulae sacco formant)
+Phylum: Xenoturbellida
+Phylum: Vetulicolia
+Phylum: Echinodermata
+Classis: Asteroidea (?)
+
+Phylum: Hemicordata
+Phylum: Chordata
+Subphylum Cephalochordata
+Subphylum Urochordata
+Subphylum: Vertebrata
+Classis: Pisces (piscis)
+Ordo: Clupeiformes (clupea?)
+Ordo: Cypriniformes (cyprinus)
+Ordo: Siluriformes (silurus)
+Ordo: Perciformes (perca)
+
+Classis: Amphibia
+Ordo: Salienta (rana et bufo)
+Ordo: Caudata (salamandra)
+
+Classis: Reptilia
+Ordo: Testudinata (testudo)
+Ordo: Squamata (lacerta)
+Ordo: Ophidia (serpens)
+Ordo: Crocodylia (crocodylus)
+
+Classis: Aves
+Ordo: Struthioniformes (struthio)
+Ordo: Ciconiformes (ciconia)
+Ordo: Anseriformes (anas, anser, olor (cygnus))
+Ordo: Falconiformes (falco)
+Familia: Accipitridae (aquila, vultur)
+
+Ordo: Galliformes (phasianus, pavo)
+Ordo: Passeriformes
+Familia: Passeridae (passer)
+Familia: Hirundinidae (hirundo)
+Familia: Sturnidae (sturnus)
+Familia: Corvidae (cornix, pica)
+Familia: Fringillidae (fringilla)
+
+Classis: Mammalia
+Ordo: Artiodactyla
+Familia: Suidae (sus)
+Familia: Camelidae (camelus)
+Familia: Cervidae (cervus)
+Familia: Bovidae (bos)
+
+Ordo: Perissodactyla (equus etc.)
+Ordo: Proboscidea (elephas)
+Ordo: Cetacea (balaena, orca et delphinus)
+Ordo: Rodentia (sciurus et mus)
+Ordo: Lagomorpha (lepus)
+Ordo: Chiroptera (vespertilio)
+Ordo: Primates (simia et macaca)
+Ordo: Carnivora
+Familia: Canidae (lupus, canis, vulpes)
+Familia: Felidae (felis, tigris, leo, panthera etc.)
+Familia: Ursidae (ursus)
+
+
+== Notae ==
+
+
+== Vide etiam ==
+Animalia paradoxa
+Planta
+Zoologia
+
+
+== Nexus externi ==
+
+Animalia apud Systema Natura
+Animalia apud Universitatem Californiensem (Berkeley)
+Animalia apud Animaldiversityweb
+
+
+== Bibliographia ==
+Baguñà, J., et M. Riutort. 2004. Molecular Phylogeny of the Platyhelminthes. Canadian Journal of Zoology 82:168–193.
+Brusca, Richard C., et Gary J. Brusca. 1990. Invertebrates. Sinauer.
+Dunn, C. W., A. Hejnol, D. Q. Matus, K. Pang, W. E. Browne, S. A. Smith, E. Seaver, G. W. Rouse, M. Obst, G. D. Edgecombe, M. V. Sørensen, S. H. D. Haddock, A. Schmidt-Rhaesa, A. Okusu, R. Møbjerg Kristensen, W. C. Wheeler,

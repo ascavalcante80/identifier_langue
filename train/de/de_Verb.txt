@@ -1,0 +1,216 @@
+Verb (lat. verbum temporale (zeitliches Wort) oder kurz verbum (Wort)), auch Verbum, Zeitwort oder Tätigkeitswort, ist ein fachsprachlicher Ausdruck der traditionellen Grammatik für eine Wortart, die eine Tätigkeit, ein Geschehen oder einen Zustand ausdrückt, und erfasst Wörter wie gehen, denken, segeln und wandern. In vielen, aber keineswegs allen, Sprachen sind Verben dadurch charakterisiert, dass sie finit oder infinit sein können, d. h. dass sie als finite Verben Wortformen (Flexion) für Tempora bzw. für Personalformen ausbilden. Der Verbalaspekt bzw. die Aktionsart beschreiben den zeitlichen Verlauf eines verbalen Geschehens; hierbei unterscheidet man einen durativen oder imperfektiven sowie einen punktuellen oder perfektiven Aspekt. Der Aspekt beschreibt die Haltung des Sprechers zur zeitlichen Struktur von Handlungen oder Ereignissen.
+Das Verb ist (in seiner Funktion als Prädikat) typischerweise das Zentrum des Satzes, von dem dann Ergänzungen abhängen; als solches wird es typischerweise auch für Diathesen markiert, d.h. für Variation in der Realisierung von Argumenten bzw. Ergänzungen. Durch die Sprechsituation, der Deixis ergibt sich die Bezugnahme auf Personen, Orte und Zeiten im Kontext, die mit Hilfe von deiktischen oder indexikalischen Ausdrücken wie ich, du, dort, hier, morgen, heute … dann auch die Tempora oder Zeitstufen der Verben also Gegenwart, Vergangenheit und Zukunft bestimmen. Hinzu tritt noch in dieser Kontextualität die subjektive Sichtweise des Sprechers, was den Modus des Verbs bestimmt.
+
+Verben werden nach Person und Numerus­formen flektiert. Ihnen kommt eine herausragende Funktion bei der Generierung syntagmatischer Beziehungen auf Satzebene zu, so dem Verhältnis zwischen dem Subjekt und dem finiten Verb. Sie bilden Flexionsparadigmen, die eine Differenzierung nach den Kategorisierungen Tempus und Modus wiedergeben. Finite Verbformen tragen deshalb Zeichen­kombinationen zur Person, zum Genus verbi, zum Verbnumerus, dem Tempus und Modus mit sich. Tempus und Modus sind flexionsklassenabhängig und werden durch unterschiedliche Stammformen gekennzeichnet.
+So beim Vokalwechsel mit dem Tempusaffix „-te“ oder bei alternativer Segmentierung mit „-t“ . Die Verben sind dabei durch Personalsuffix bzw. Numerussuffixe gekennzeichnet.
+
+
+== Definition und wichtigste Eigenschaften ==
+In der Grammatik des Deutschen wird das Verb definiert als veränderbare (flektierbare) Wortart, die eine Tätigkeit, einen Vorgang oder einen Zustand bezeichnet. In der (Schul)grammatik spricht man daher auch von Tätigkeitswort, Zeitwort oder Tu[n]wort und teilt Verben (unter anderem) in Tätigkeits-/Handlungsverben (weinen, kritisieren, malen), Vorgangsverben (wachsen, fallen) und Zustandsverben (stehen, leben, bleiben) ein. Diese inhaltliche Bestimmung kann kritisiert werden, da auch Substantive Tätigkeiten, Vorgänge und Zustände bezeichnen können (Beispiele: die Zubereitung, das Ereignis, die Ankunft).
+Als Differenzierungsmerkmal wird auch hervorgehoben, dass das Verb „die einzige konjugierbare Wortart“ sei. Die grammatischen Merkmale, durch die Konjugation definiert ist, sind hierbei vor allem Tempus, Modus und Personalformen (also Person und Numerus), bzw. Infinitivformen (sowie in manchen Sprachen zusätzlich auch Aspekt).
+Verben dienen typischerweise als das Prädikat eines Satzes, vom Verb hängen dann Ergänzungen wie Subjekt und Objekt ab. Diese Eigenschaft von Verben kann auf ihre jeweilige Wortbedeutung zurückgeführt werden, die Verbbedeutung kann insofern in der Notation der Prädikatenlogik dargestellt werden, z. B.:
+(1) Peter geht = GEHEN (Peter) = G (p)
+(2) Die Katze fing die Maus = FANGEN (die Katze, die Maus) = F (k, m)
+Diese logische Struktur bildet sich ab in der grammatischen Eigenschaft der Verbvalenz.
+
+
+== Etymologie ==
+Der Ausdruck Verbum ist eine gelehrte Entlehnung des 15. Jahrhunderts von lat. verbum „Wort, Ausdruck; Zeitwort“. Die gekürzte Form Verb taucht erst im 18. Jahrhundert auf.
+Das lateinische Wort verbum wurde für das griechische Wort ῥῆμα rhêma verwandt, das allgemein Rede, Wort, Ausspruch bedeutet, spezifischer aber auch als das griechische Wort für Aussage angesehen wird – „ein Hinweis darauf, dass man das Verb als unentbehrlich für eine Aussage ansah“.
+
+
+== Universalsprachlichkeit des Verbums? ==
+Die Universalsprachlichkeit der Wortart Verb wird unterschiedlich beurteilt. Die Nomen-Verb-Distinktion (Unterscheidung zwischen Nennwörtern und Tätigkeitswörtern) wird sprachübergreifend als grundlegende grammatische Unterscheidung angesehen (siehe hierzu Syntaxtheorie).
+
+
+== Verb, Flexion und verbale Kategorien ==
+Insbesondere bei flektierenden Sprachen unterscheidet man die Konjugation, also die Flexion von Verben, von der Deklination oder Nominalflexion.
+Zu unterscheiden ist zwischen dem Verb und der Verbform. Bei den Verbformen unterscheidet man zwischen den finiten Verbformen (gebeugte (konjugierte) Verbform; Verbum finitum oder auch kurz Finitum) und den infiniten Verbformen (ungebeugte Verbform; Verbum infinitum oder auch kurz Infinitum ≈ Infinitiv, Partizip I und Partizip II).
+In der jüngeren Vergangenheit wurden für verschiedene Sprachen Computerprogramme entwickelt, die alle Verbformen generieren können. Für Deutsch finden sich in Grundlagen der Generierung deutscher Verbformen mit dem Computer dazu Details und ein entsprechendes Programm.
+
+
+== Verbale Kategorien ==
+In Sprachen, die Verben morphologisch verändern, sie also zum Beispiel beugen bzw. konjugieren, können die einzelnen Verbformen nach bestimmten Kategorien klassifiziert werden, wobei verschiedene Grammatikschulen verschiedene Paradigmen verwenden. Die wichtigsten Kategorien sind:
+Aktionsart: Die Aktionsart bezeichnet die interne temporale Struktur von Situationen und damit die objektiven Verhältnisse des Ereignisses in Hinblick auf seinen zeitlichen Verlauf, etwa als zeitlich ausgedehnt oder nicht ausgedehnt, als zielgerichtet oder nicht zielgerichtet usw. Diese Tatsachen lassen sich mit den Begriffen Ingressiv, Inchoativ, Durativ, Iterativ, Frequentativ, Stativ, Momentativ, Egressiv und Konativ beschreiben.
+Aspekt: Der Verbalaspekt wird nicht immer eindeutig von der Aktionsart unterschieden. Im Unterschied zu dieser bezeichnet er jedoch die subjektive Betrachtungsweise des Ereignisses nach den Grundkategorien perfektiv (als abgeschlossen gedachtes Ereignis) und imperfektiv (als nicht abgeschlossen gedachtes Ereignis). Darüber hinaus gibt es komplexere Aspekte wie beispielsweise der perfektische Aspekt, der einen aus einem abgeschlossenen Ereignis resultierenden Zustand bezeichnet.
+Diathese, auch Verbalgenus, Verbgenus, Genus verbi bzw. Genus Verbi, kurz auch Genus, oder deutsch Gattung genannt: Die Diathese eines Verbs bezeichnet das Verhältnis des Verbs zu den Hauptaktanten. Dabei kommen verschiedene Systeme vor. Das häufigste System (in Akkusativsprachen) kennt die Kategorien Aktiv, Passiv und Medium oder Reflexiv. Darüber hinaus gibt es Sprachen mit einem Ergativ- oder Aktiv-System und Mischsysteme.
+Genus nominis (nicht zu verwechseln mit Genus verbi; siehe Diathese): Insofern in Verbformen Kongruenz zu einem oder mehreren Hauptaktanten ausgedrückt wird, kann das Genus (oder die Klassenzugehörigkeit) dieser Aktanten am Verb mit ausgedrückt werden. Das Genus ist somit ebenso wie der Numerus und die Person keine eigentliche verbale Kategorie.
+Modus, deutsch auch Aussageform, Aussageweise oder kurz Weise genannt: Der Modus bringt die logische Modalität oder die persönliche Einstellung des Sprechers zur Realität oder Realisierung eines Ereignisses zum Ausdruck. Dazu gehören die Kategorien der Realität (Indikativ), der Möglichkeit (Potentialis), der Notwendigkeit oder des Sollens (Nezessitativ, Debitiv), des Wunsches (Optativ), der Aufforderung oder des Befehls (Kohortativ, Imperativ, Jussiv), des Zweifelns (Dubitativ), der Bedingung (Konditionalis), der Irrealität (Irrealis), der Distanzierung (zum Beispiel Modus relativus) und einige andere. Der Modus kann auch grammatisch erforderlich sein (zum Beispiel Konjunktiv).
+Numerus, deutsch Zahl: Der Numerus beim Verb ist eine sekundäre Kategorie, die aus der Kongruenz mit Aktanten resultiert: zum Beispiel Singular, Dual und Plural.
+Person: Die Person ist eine Kategorie, die zwar in vielen Sprachen hauptsächlich beim Verb vorkommt, aber letztlich auf der Kongruenz zu einem oder mehreren Hauptaktanten beruht. Diese Aktanten sind je nach ihrem Verhältnis zum Sprechakt 1. Person (Sprecher), 2. Person (Adressat) oder 3. Person (unbeteiligter Sprechgegenstand). In der Mehrzahl der 1. und 2. Person kann es Unterscheidungen geben, ob mehrere Sprecher bzw. Adressaten gemeint sind oder jeweils nur ein Sprecher bzw. Adressat und eine als zugehörig gedachte Gruppe, insbesondere in der 1. Person Plural, ob die Adressaten mit eingeschlossen sind (inklusiv) oder nicht (exklusiv). Weitere Unterscheidungen können in Hinblick auf das soziale Verhältnis zwischen den Personen (Höflichkeitsformen) getroffen werden, wobei in den meisten Sprachen dafür keinen eigenen Verbformen existieren, sondern zum Beispiel Plural für Singular oder 3. Person für 2. Person verwendet wird.
+Rektion: Die Rektion eines Verbs beschreibt, wie ein Verb im Satz eingebunden wird. Jedes Verb besitzt ein bestimmtes Muster von Aktanten, die obligatorisch oder fakultativ in einem grammatisch vollständigen Satz mit diesem Verb auftreten. Die Rektion legt dabei fest, welche Aktanten auftreten, welche Rolle sie im Satz einnehmen (etwa Subjekt, direktes Objekt, indirektes Objekt) und in welchem Kasus bzw. welcher Präpositionalphrase sie stehen. Verben mit keinem Aktanten werden auch impersonal genannt, Verben mit einem (Subjekts-)Aktanten intransitiv und solche mit zwei Aktanten (Subjekt und direktes Objekt) transitiv.
+Tempus, deutsch Zeit: Das Tempus bezeichnet das relative Zeitverhältnis des Ereignisses, und zwar zunächst vom Zeitpunkt des Sprechaktes aus betrachtet (absolutes Tempus): Präsens, Präteritum, Futur. Darüber hinaus können sogenannte relative Tempora die Zeitstufe eines Ereignisses im Verhältnis zu einem anderen Ereignis als Vorzeitigkeit, Gleichzeitigkeit oder Nachzeitigkeit ausdrücken, zum Beispiel das Plusquamperfekt (deutsch: vollendete Vergangenheit) als Vorzeitigkeit für die Vergangenheit, das Perfekt (deutsch: vollendete Gegenwart) als Vorzeitigkeit für die Gegenwart oder das Futur II als Vorzeitigkeit für die Zukunft.
+Diese Kategorien sind nicht unbedingt immer eindeutig in verschiedenen Sprachen zu unterscheiden. So tendieren die Indogermanischen Sprachen dazu, Kategorien wie das Tempus, den Aspekt oder den Modus miteinander zu vermischen.
+Übersicht:
+
+
+== Einteilungen ==
+
+
+=== nach morphologischen Kriterien ===
+Nach Art der Konjugation werden Verben in starke (gehen - ging - gegangen), schwache (loben - lobte - gelobt) und gemischte Verben (denken - dachte - gedacht) eingeteilt. Schwache Verben werden auch regelmäßige Verben genannt und starke und gemischte auch unregelmäßige.
+Nach einer anderen Einteilung gibt es starke (z. B. lesen) und schwache Verben (z. B. spielen) und dazu unregelmäßige Verben (z. B. nennen und bringen, mögen, haben und sein).
+
+
+=== nach syntaktischen Kriterien ===
+
+
+==== Verhältnis zum Prädikat: Vollverb | Nicht-Vollverb (Hilfsverb) ====
+Nach der Funktion bei der Bildung des Prädikats teilt man die Verben in Vollverb (Hauptverb, Kopula-, Gefügeverb) und Nicht-Vollverb (Nebenverb, Modalitätsverb, Hilfsverb (im weiteren Sinn)) ein.
+Vollverben sind Verben, die allein das Prädikat im Satz bilden können. Kopulaverben (sein, werden, bleiben) sind ebenfalls allein prädikatsfähig, werden indes meistens mit einer Erweiterung verwendet („Er bleibt Grieche“, „Sie wurden erhört“).
+Nicht-Vollverben sind Verben, die nicht allein das Prädikat bilden können.
+Zu den Nicht-Vollverben werden gezählt:
+Hilfsverben (im weiteren Sinne)
+Hilfsverben (im engeren Sinne) (haben, sein, werden)
+Modalverben (dürfen, können …)
+
+Modalitätsverben, modifizierende Verben (scheinen, brauchen …)
+Funktionsverben (in Verbindung mit nominalem Bestandteil)
+bekommen-Verben (er bekommt das Buch geschenkt)
+
+
+==== Verhältnis zum Objekt: transitives Verb | intransitives Verb ====
+Nach ihrem Verhältnis zum Objekt werden die Verben eingeteilt in transitives Verb und intransitives Verb.
+
+
+==== Verhältnis zum Subjekt: persönliches Verb | unpersönliches Verb ====
+Nach dem Verhältnis zum Subjekt unterscheidet man persönliche Verben und unpersönliche Verben.
+
+
+==== Verhältnis zu Subjekt und Objekt ====
+
+
+===== nicht reflexive | reflexive, einschließlich reziproke Verben =====
+Nach ihrem Verhältnis zu Subjekt und Objekt können die Verben eingeteilt werden in nicht reflexive und reflexive, einschließlich reziproke Verben.
+
+
+===== nach der Valenz: ein- oder mehrwertige Verben =====
+Nach der Anzahl der Bindungen bzw. Bindungsmöglichkeiten (Valenz) werden Verben eingeteilt in avalente (nullwertige) Verben | monovalente (einwertige) Verben | bivalente (zweiwertige) Verben | trivalente (dreiwertige) Verben.
+
+
+=== nach semantischen Kriterien ===
+Die Einteilung der Verben in semantischer Hinsicht ist variantenreich. Die Terminologie uneinheitlich.
+
+
+==== Zustands-, Vorgangs- und Tätigkeitsverben ====
+Verbreitet ist die Einteilung in:
+Zustandsverben
+Vorgangsverben (Verlaufsverben)
+Handlungsverben oder Tätigkeitsverben (Aktivitätsverben)
+Mitunter wird statt von Vorgangsverben von Prozessverben (Bsp.: erblühen) einerseits und Verursachungsverben (Bsp: wecken) andererseits gesprochen.
+
+
+==== nach der Aktionsart ====
+Nach der Aktionsart werden Verben unterschiedlich eingeteilt.
+Nach einer Einteilung werden terminative und durative Verben unterschieden.
+Durative Verben sind Verben, die den reinen Ablauf oder Verlauf des Geschehens kennzeichnen.
+Beispiel: blühen, wohnen, träumen
+Terminative Verben grenzen den Verlauf des Geschehens zeitlich ein oder drücken einen Übergang aus.
+Beispiel: erblühen, aufwachen
+Nach einer anderen Einteilung werden imperfektive und perfektive Verben unterschieden. Unterklassen der imperfektiven Verben sind durative und iterative Verben und Unterklassen der perfektiven Verben inchoative (ingressive), terminative (egressive), affektive, effektive und punktuelle (momentane) Verben.
+
+
+==== Absolute und relative Verben ====
+Ein absolutes Verb benötigt neben dem Subjekt keine weiteren Satzergänzungen damit ein grammatikalisch korrekten und vollständiger Satz gebildet werden kann. Relative Verben hingegen verlangen neben dem Subjekt noch weitere Ergänzungen damit der Satz in korrekter Form gebildet wird. Aus Kasusterminologischer Sicht lassen sich folgende Beispiele für die Ergänzungen aufführen:
+Akkusativobjekt (direktes Objekt)
+Dativobjekt (indirektes Objekt)
+Genitiv
+Präpositionalobjekt
+Adverbialbestimmung.
+
+
+=== nach etymologischen Kriterien ===
+Viele Verben sind Basislexeme, die nicht von anderen Wörtern abgeleitet sind. Andere Verben sind Ableitungsformen z. B. von:
+Adjektiven; Beispiele: röten, vergrößern
+Substantiven: trompeten, umgarnen, adressieren
+Eigennamen: röntgen, beckmessern, hartzen; berlinern, schanghaien
+Andere Verben sind durch Zusammensetzung entstanden, etwa als Verbindung von Verben mit:
+Adjektiven (schwarzarbeiten, freihalten, gutmachen)
+Substantiven (notlanden, gewährleisten, staubsaugen, leidtun, haltmachen, achtgeben, brustschwimmen)
+
+
+== Arten und Typen der Verben ==
+Hier wird eine alphabetische Übersicht über die Arten und Typen der Verben gegeben. Dies ohne Anspruch auf Vollständigkeit. Dabei ist zu berücksichtigen, dass sowohl Gleiches verschieden benannt wird als auch unter dem gleichen Ausdruck je nach Theorie/Schule/Autor Unterschiedliches verstanden wird.
+atelisches Verb:
+Der Ausdruck atelisches Verb (synonym: imperfektives Verb) bezeichnet Verben, „die statische Zustände oder Relationen oder dynamische Vorgänge, Prozesse, Aktivitäten, die keinen Kulminations- oder Endpunkt voraussetzen“.
+Beispiele: lachen, schlafen, sitzen …
+Atelische Verben werden weiter eingeteilt in activities (Beispiel: schlafen) und states (Beispiel: wissen).
+finite Verbform | infinite Verbform
+Funktionsverb:
+Als Funktionsverb bezeichnet man Verben, wenn sie in Verbindung mit bestimmten Substantiven ihre „eigentliche“ Bedeutung als Vollverb (fast ganz) verloren haben.
+Beispiele: zur Anwendung gelangen, zum Erfolg bringen, in Erwägung ziehen, Beachtung finden …
+Gefügeverb:
+Gefügeverb nennt man „Verben, die im Satz nicht allein stehen können, sondern mit einer Erweiterung kombiniert werden müssen.“ Das Gefügeverb und seine Erweiterung bilden ein Verbgefüge, das als Ganzes im Satz ein Prädikat bildet und Bedeutungs- und Valenzträger ist.
+Beispiel: auf die Palme … bringen; zur Weißglut bringen.
+Als Gefügeverben sieht man unpersönliche Verben, reflexive Verben, Funktionsverben und sonstige Gefügeverben an
+Gerundiv-Verb:
+Als Gerundiv-Verb bezeichnet man das Verb sein, „sofern es in Kombination mit einem Hilfsverb (im zu-Infinitiv) auftritt.“
+Beispiel: Du bist zu beglückwünschen.
+Handlungsverb:
+Als Handlungsverb (auch: Tätigkeitsverb (im weiteren Sinn); engl.: verb of action, action verb) bezeichnet man Verben, die eine Tätigkeit beschreiben.
+Beispiele: aufstehen, pfeifen, arbeiten …
+Für die Ereignissemantik beinhaltet ein Handlungsverb „ein Ereignis- bzw. allgemeiner ein Situationsargument“.
+Hauptverb:
+Hauptverben sind Verben, die im Satz ohne andere Verben auftreten können.
+Man betrachtet als Hauptverb das Vollverb, das Kopulaverb und das Gefügeverb.
+Hilfsverb
+Der Ausdruck Hilfsverb (auch: Hilfs(zeit)wort, Auxiliar(verb); engl. auxiliary (verb), helping verb) bezeichnet „Verben, die zur Bildung von zusammengesetzten Verbformen dienen.“ Sie benötigen „für die vollständige Satzaussage ein anderes Verb oder eine andere Ergänzung.“
+Mitunter unterscheidet man Tempus-, Konjunktiv-, Passiv-Hilfsverben
+Beispiele: Alle haben gelacht. (Tempus-Hilfsverb); Ich würde kommen. (Konjunktiv-Hilfsverb); Alle Plätze wurden besetzt. (Passiv-Hilfsverb)
+Als Gegenbegriff gilt das Vollverb. Die Einteilung in Hilfs- und Vollverb ist jedoch umstritten. Die Duden-Grammatik von 2005 zieht der traditionellen Bezeichnung Hilfsverb die Kategorie Verb mit Spezialfunktion vor.
+imperfektives Verb:
+Der Ausdruck imperfektives Verb ist Synonym für den Ausdruck atelisches Verb und bezeichnet ein Verb, das „den reinen Ablauf oder Verlauf des Geschehens“ kennzeichnet.
+ingressives Verb (auch: inchoatives Verb, Inchoativ(um)):
+Das ingressive Verb ist ein perfektives Verb, das den Beginn eines Geschehens kennzeichnet.
+Beispiele: aufblühen, erstarken …
+kausatives Verb
+klassifizierndes Verb:
+Klassifizierende Verben sind „Handlungsverben, die bei verschiedenen Typen von Objekten verschiedene moprhologische Formen aufweisen, die jeweils für das Objekt charakteristische sind.“
+Kopula­verb (auch: Kopula-Verb)
+Mediales Verb:
+Als mediales Verb (auch: Mittelverb; engl.: middle verb) werden zum einen Verben bezeichnet, „die weder ein Passiv bilden können noch mit Modaladverbien kombinierbar sind: ähneln, kosten, meinen, passen“ und zum anderen „Verben in Reflexivkonstruktionen vom Typ ‚Die Tür öffnet sich‘“.
+Modalitätsverb (auch: halbmodales Verb, Halbmodale, modifizierendes Verb):
+Durch ein Modalitätsverb wird ein (anderes) Vollverb im Infinitiv mit zu seinem Inhalt nach abgewandelt.
+Beispielverben: beginnen, belieben, drohen, pflegen, scheinen, vermögen, versprechen, verstehen, versuchen.
+Beispielsätze: Er drohte Bundeskanzler zu werden. / Ich habe noch zu tun.
+Ein Verb kann (im Deutschen) als Vollverb oder (in anderer Bedeutung) als Modalitätsverb auftreten.
+Beispiel: Das Wetter verspricht gut zu werden (versprechen als Modalitätsverb). Der Wahlkampfredner verspricht gutes Wetter (versprechen als Vollverb).
+Modalverb (auch: modales Hilfsverb):
+Als Modalverb bezeichnet man Verben, die „in Verbindung mit einem Vollverb im Infinitiv aus[sagen], dass etwas möglich, notwendig, gewollt, erlaubt, gefordert ist.“
+nullwertiges Verb:
+Als nullwertiges Verb bezeichnet man ein Verb, das keiner Ergänzung bedarf (vgl. Valenz (Linguistik)).
+Partikelverb:
+Von einem Partikelverb (auch: Distanzkompositum; Partikelkompositum) spricht man bei zusammengesetzten Verben, „deren Erstglieder (die sogen. Partikel bzw. Verbzusätze) im Dt. in bestimmten syntaktischen Konstruktionen getrennt vom Verbstamm auftreten können.“
+Beispiel: (nachschauen): Das Mädchen schaut ihrer Freundin nach.
+perfektives Verb:
+Das perfektive Verb (auch: terminatives Verb; telisches Verb) ist ein Verb, das ein zeitlich begrenztes Geschehen bezeichnet.
+Man unterscheidet zwischen dem ingressiven Verb und dem resultativen Verb.
+Nach der Duden-Grammatik ist der Ausdruck perfektives Verb veraltetes (Quasi-)Synonym für den Ausdruck telisches Verb.
+persönliches Verb (Synonym: Personale) | unpersönliches Verb (Synonyme: Impersonale, impersonales Verb, unipersonales Verb): siehe Einteilung
+Privativum:
+Als Privativum wird ein Verb aus inhaltlichen (semantischen) Gründen bezeichnet, wenn es von einer Ausgangsbedeutung etwas beseitigt.
+Beispiel: desinformieren, entschlacken
+reflexives Verb
+regelmäßiges Verb | unregelmäßiges Verb
+Tätigkeitsverb:
+Der Ausdruck Tätigkeitsverb wird teils bedeutungsgleich (synonym) wie Handlungsverb, teils im engeren Sinn als atelisches Handlungsverb verwendet.
+telisches Verb
+Ein telisches Verb (auch perfektives Verb, terminatives Verb) ist ein Verb, das Vorgänge (Handlungen, Ereignisse) beschreibt, die einen Endpunkt voraussetzen, der jedoch „nicht notwendigerweise eintreten“ muss.
+Beispiele: gewinnen, sterben, einschlafen, erblühen, loslaufen, finden, begegnen, töten.
+terminatives Verb: Synonym für telisches Verb
+transitives Verb | intransitives Verb
+Verb mit Spezialfunktion:
+In der Duden-Grammatik verwendeter Ausdruck für Verben, die anders als Vollverben „nur als Bestandteile mehrteiliger (komplexer) Prädikate auf(treten)“.
+Dazu werden gezählt das infinitregierende Verb (Beispiel: Egon hat gespielt), Prädikatverben (Kopulaverben; scheinen, dünken, heißen) und Funktionsverben (Beispiel: ein Versprechen geben).
+Vollverb (auch Hauptverb genannt):
+Ein Vollverb ist ein Verb, das (in finiter Form) allein das Prädikat bilden kann.
+Beispiel: Sie hasst ihn.
+Vorgangsverb:
+„Vorgangsverben sind nicht agentive Verben mit dynamischer Aktionsart.“
+Zustandsverb:
+„Zustandsverben sind atelische Verben, die statische Relationen oder Sachverhalte beschreiben und kein typisches Agens als Subjekt verlangen“.
+Beispiele: stehen, liegen, wohnen, leben, bleiben.
+
+
+== Literatur ==
+Elke Diedrichsen: Zu einer semantischen Klassifikation der intransitiven Haben- und Sein-Verben im Deutschen. In: Graham Katz, Sabine Reinhard, Philip Reuter (Hrsg.): Sinn & Bedeutung VI

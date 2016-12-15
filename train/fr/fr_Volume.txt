@@ -1,0 +1,73 @@
+Le volume, en sciences physiques ou mathématiques, est une grandeur qui mesure l'extension d'un objet ou d'une partie de l'espace.
+En physique, le volume d'un objet mesure « l'extension dans l'espace physique » qu'il possède dans les trois directions en même temps, de même que l'aire d'une figure dans le plan mesure « l'extension » qu'elle possède dans les deux directions en même temps.
+En mathématiques, le volume d'une partie de l'espace géométrique est sa mesure au sens de la théorie de la mesure de Lebesgue.
+
+
+== Mesure du volumeModifier ==
+Le volume physique se mesure en mètre cube dans le système international d'unités. On utilise fréquemment le litre, notamment pour des liquides et pour des matières sèches. Ainsi, on considère le volume comme une grandeur extensive et la grandeur intensive thermodynamique associée est la pression.
+
+En mathématique, et plus précisément en géométrie euclidienne, le volume du parallélépipède engendré par 3 vecteurs non coplanaires  se calcule grâce au produit mixte des trois vecteurs :
+
+Les calculs de volume ont évolué au cours de l'histoire en suivant les progrès du calcul infinitésimal. C'est ainsi que les premiers volumes ont été calculés grâce à la méthode d'exhaustion, puis en utilisant le principe de Cavalieri et pour finir en calculant des intégrales triples.
+Pour les solides simples (parallélépipède et objets de révolution), il existe des formules mathématiques permettant de déterminer leur volume d'après leurs dimensions caractéristiques.
+
+
+== Unités de volumeModifier ==
+L'unité de volume du système international est le mètre cube (m³) et ses dérivés (dm³, cm³, mm³). Mais d'autres unités de volume persistent surtout dans les pays anglo-saxons (voir Conversion des unités).
+Les volumes de matière liquide ont souvent leurs unités propres (litre, pinte, baril). La mise en place du système métrique a grandement simplifié le nombre d'unités de volume utilisées qui dans l'Ancien Régime en comptait plus de vingt (voir Unités de mesure de l'Ancien Régime).
+Pour les gaz où l'on veut connaître la quantité de matière (nombre de molécules) contenue dans un volume donné quelles que soient la pression et la température, deux définitions de correction existent :
+le mètre cube dit normal exprimé en m3(n) correspondant à un volume de gaz ramené sous une pression de 1 013,25 hPa (pression d'une atmosphère normale ou 1 atm) et une température de 0 °C.
+le mètre cube dit standard exprimé en m3(s) correspondant à un volume de gaz ramené sous une pression de 1 013,25 hPa (pression d'une atmosphère normale ou 1 atm) et une température de 15 °C.
+Les volumes décrit ci-dessus correspondent à des volumes dits corrigés. Le volume qui ne tient pas compte de ces corrections est dit brut. On rencontre ces volumes dans l'élaboration des débits (voir débit) et du pouvoir calorifique des gaz.
+Dans l'Union européenne, de nombreux volumes (et masses), sur les produits de consommation, sont indiqués en quantité estimée. Ils sont marqués comme tel, d'un « e » minuscule.
+En mathématiques, l'unité de volume n'apparaît pas dans les formules. Elle est implicitement donnée par le volume du cube unité. Si, par exemple, pour des questions d'échelle, le cube unité a pour arête 2 cm, un volume de X (cube unité) correspond à 8X cm³.
+
+
+== Quelques formulesModifier ==
+
+Dans la suite on notera
+ le volume d'une figure
+ et  les aires de la grande base et de la petite base
+ la hauteur (ou distance séparant les deux faces)
+ ou  le diamètre
+ ou  le rayon
+ l'arête
+ ou  la longueur et la largeur d'un rectangle
+
+
+=== Les solides de PlatonModifier ===
+Ce sont les cinq seuls polyèdres réguliers. Si l'arête du polyèdre est , son volume est donné par les formules du tableau suivant:
+
+
+=== Les prismes et cylindresModifier ===
+La formule générale est toujours :  (volume = aire de la base × hauteur), que le prisme ou le cylindre soit droit ou pas.
+En particulier,
+pour le parallélépipède rectangle ou pavé : ,
+pour le cylindre de révolution : .
+
+
+=== Les pyramides et cônesModifier ===
+La formule générale est toujours : 
+Le cône de révolution : 
+La pyramide tronquée par un plan parallèle à la base : 
+
+
+=== La bouleModifier ===
+La boule a pour volume  ou 
+Pour une calotte sphérique,  ou  où  est le rayon de la boule,  est le rayon de la calotte et  la hauteur de la calotte.
+Le volume de la boule percée d'un cylindre (rond de serviette) ne dépend pas du rayon de la boule mais seulement de la hauteur H du cylindre: 
+Le secteur sphérique (intersection entre un cône de sommet O et la boule de centre O :  où  est la hauteur de la calotte et  le rayon de la boule.
+
+
+=== Solides de révolutionModifier ===
+
+Le théorème de Guldin (ou règle de Pappus) permet de calculer le volume d'un solide de révolution engendré par la révolution d'un élément de surface  plane autour d'un axe situé dans son plan et ne le coupant pas, pour peu que l'on connaisse le centre de gravité  de l'élément de surface .
+ où  est la distance séparant le point  de l'axe de rotation.
+Cette formule permet de déterminer les volumes suivants :
+le tore :  où  est le rayon du cercle de centre  tournant autour de l'axe  et où  est la distance de  à .
+le tonneau : Kepler donne une formule approchée pour le volume d'un tonneau, qui se révèle exacte lorsque le tonneau est engendré par une sphère, une pyramide, un hyperboloïde à une nappe, un paraboloïde elliptique, un ellipsoïde de révolution. Si  et  sont les surfaces des bases et  la surface de la section à mi-hauteur alors
+
+
+=== AutresModifier ===
+Le conoïde circulaire droit (exemple l'incisive) :  où  est le rayon du cercle de base et  la hauteur du conoïde.
+Le lingot (hexaèdre formé de deux bases rectangulaires parallèles et de 4 faces latérales trapézoïdales) . On retrouve la formule de Kepler :  où  et  sont les surfaces des deux bases rectangulaires et  la surface de la section à mi-hauteur. Cette formule est très employée en génie civil dans les calculs de volume de terrassement et plus particulièrement pour les mouvements de terres dans le domaine des

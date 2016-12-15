@@ -1,0 +1,33 @@
+poteries décorées de carrés sont attestées dès le VIe millénaire av. J.-C. en Mésopotamie.
+Des tablettes démontrent la connaissance des symétries et rotations du carré vers le XVIIIe siècle av. J.-C.. La tablette BM 15285 contient une quarantaine de problèmes mathématiques concernant des aires de figures liées à des carrés.
+L'Ancien testament recommande de bâtir des villes de forme carrée, quelle que soit la forme de son enceinte.
+
+
+== Informatique ==
+Plusieurs caractères Unicode représentent des carrés. Dans la table des formes géométriques (U+25A0 et suivants), retenons :
+carrés de grande taille :
+carré noir (plein) ■ : U+25A0,
+carré blanc (vide) □ : U+25A1 ;
+
+carré de taille moyenne :
+noir ◼ : U+25FC,
+blanc ◻ : U+25FB ;
+
+carré de petite taille :
+noir ◾ : U+25FE,
+blanc ◽ : U+25FD.
+
+Dans la table des symboles divers et des flèches (U+2B00 et suivants) :
+grand carré noir ⬛ : U+2B1B ;
+grand carré blanc ⬜ : U+2B1C.
+Dans le langage LaTeX, les extension amsfonts et amssymb fournissent la commande \square pour mettre un carré en mode mathématique.
+
+
+== Notes et références ==
+
+
+== Articles connexes ==
+
+Pseudo-carré
+Nombre carré
+ Portail de la géométrie

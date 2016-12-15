@@ -1,0 +1,6 @@
+h der eingangs getroffenen Definition dann ganz, was verwirren kann. Die linearen Sprachen haben praktisch viel weniger Bedeutung als die kontextfreien (Typ 2) und die regulären (Typ 3) und besitzen auch keine „Hausnummer” in der Hierarchie.
+
+
+== Weblinks ==
+Lineare Grammatiken – Definition und Eigenschaften von Gerriet Backer und Marita Scheiwe, TU Braunschweig
+Automaten und Formale Sprachen von Berndt Farwer, Uni Hamburg (pdf; 643 kB; GZIP)

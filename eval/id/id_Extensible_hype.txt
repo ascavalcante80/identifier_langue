@@ -1,0 +1,20 @@
+
+
+=== Elemen dasar pada XHTML ===
+XHTML masih menggunakan elemen pada HTML, meski beberapa penambahan dan penyempurnaan. Berikut beberapa elemen yang digunakan pada XHTML:
+
+
+=== Beberapa aturan pada XHTML ===
+Seperti yang telah disinggung sebelumnya, XHTML merupakan penyempurnaan dari HTML. Untuk itu, ada beberapa aturan agar program lebih stabil dan konsisten.
+Setiap tag harus ditulis dengan huruf kecil.
+Memberi penutup untuk setiap tag.
+Membuka dan menutup tag pada sarang yang benar.
+Atribut tag ditulis dengan huruf kecil dan memakai tanda petik.
+
+
+== Pranala luar ==
+(Inggris) Spesifikasi XHTML 1.0
+(Inggris) Spesifikasi XHTML 1.1
+
+
+== Referensi ==

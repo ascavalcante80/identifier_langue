@@ -1,0 +1,6 @@
+Systems Engineering (SE) er en række metoder, både teoretiske og praktiske, til at anskaffe, udvikle, drive og skrotte produkter baseret på systemtankegangen, hvilket giver effektive løsninger til problemerne, samt at administrere den tekniske kompleksitet af den resulterende løsning.
+Hvad der gør SE unik, specielt i kontrast til traditionelle ingeniørdiscipliner, er at SE ikke laver håndgribelige produkter. Mens derimod civilingeniører måske designer bygninger, og elektronikingeniører designer elektroniske kredsløb, behandler systems engineers abstrakte systemer, og overlader det til andre ingeniørdiscipliner at designe og levere de håndgribelige produkter som er en virkeliggørelse af disse systemer.
+Systems engineering spænder over hele systemets livsførløb (system lifecycle). SE fokuserer på at definere kundens behov og krævede funktionalitet tidligt i udviklingsfasen, dokumentere kravene, fortsætte med at generere systemkravene inden den funktionel arkitektur, der så igen danner basis for komponent design. Når alle komponenter er produceret skal de integreres og så installeres før den egentlige driftsfase. Slutteligt arbejder mange SE med den endelige udfasning. Det vil sige at SE følger systemet fra vugge til grav.
+Eksempel på et livsførløb:
+Brugerkrav
+Systemkrav

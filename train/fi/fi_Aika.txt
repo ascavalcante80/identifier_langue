@@ -1,0 +1,48 @@
+Aika on fysiikan perussuure, jonka yksikkö on sekunti . Ajalla voidaan tarkoittaa myös ihmisen luomaa käsitettä tapahtumahetkien suhteista.
+
+
+== Ajanlaskun historia ==
+Aikaa on ensin mitattu sen selkeimmistä merkeistä eli vuorokausina (päivän ja yön vaihteluna) ja vuodenaikoina, minkä perusteella on kehitetty kalentereita. Vanhimmatkin tuntemamme sivilisaatiot ovat jakaneet aikaa ainakin kuukausiksi ja tunneiksi. 3000 vuotta vanhoissa babylonialaisissa teksteissä puhutaan, miten kuukauden 7., 14., 21. ja 28. päivä ovat lepopäiviä; viikotkin ovat siis olleet käytössä jo kauan. Minuutit ja sekunnit ovat tulleet tarpeeseen vasta tähtitieteen myötä, ja vaikka nekin on tunnettu jo pari tuhatta vuotta, on niitä käytetty vasta 1600-luvulta lähtien. Tunnin ja minuutin jako seksagesimaalijärjestelmän mukaisesti kuuteenkymmeneen osaan periytyy babylonialaisilta. Sekunnin käyttöönoton aikoihin esiintyi myös tapa jakaa sekunti 60 terttiin ja tertti 60 kvarttiin. Nykyään sekuntia lyhyemmistä ajoista käytetään sekunnin desimaaliosia.
+
+
+== Aika fysiikassa ==
+Fysiikassa perussuure aika (lat. tempus, tunnus t) määritellään tapahtumien välisenä etäisyytenä aika-avaruuden neljännellä akselilla. Einsteinin suppean suhteellisuusteorian mukaan aikaa ei voi esittää muuten kuin aika-avaruuden osana. Tapahtumien välinen etäisyys riippuu tapahtumia tarkkailevien havainnoitsijoiden suhteellisesta nopeudesta tapahtumaan nähden. Einsteinin yleinen suhteellisuusteoria muutti ajan määritelmää vielä enemmän esittämällä kaareutuneen aika-avaruuden käsitteen. Eristetyssä järjestelmässä ajan kuluessa eteenpäin entropia eli haje aina kasvaa, joten hajeen kasvusta voidaan päätellä ajan suunta. Normaalisti syy-seuraussuhteen mukaisesti syy on myös aina ennen seurausta.
+Ajan voi käsittää myös nopeudeksi, jolla eri ilmiöt tapahtuvat. Esimerkiksi suuressa painovoimakentässä aika kuluu suhteellisuusteorian mukaan hitaammin kuin pienessä painovoimakentässä, mikä näkyy esimerkiksi kemiallisten reaktioiden ja kellojen käynnin hidastumisena. Ihmiset eivät kuitenkaan voi itse huomata ajan kulumisessa tapahtuvia muutoksia lähiympäristössään, sillä aivot ja havainnot toimivat samalla aikaan sidotulla nopeudella.
+
+
+== Ajan mittaaminen ==
+Ajan perusyksikkö on SI-järjestelmän mukaisesti sekunti . Sen lisäyksiköitä ovat minuutti ja tunti. Muita perusyksikön kerrannaisia ovat vuorokausi ja viikko. Maan kiertoliikkeeseen auringon ympäri perustuva yksikkö on vuosi, joka jakautuu 12:een, kestoltaan vaihtelevaan kuukauteen.
+Ajan mittaus perustuu jonkin muutoksen havaitsemiseen: osoittimellisen kellon osoittimet kääntyvät, tiimalasin hiekka valuu kuvusta toiseen, vesikellon vesi valuu astiasta tai astiaan ja aurinko liikkuu taivaalla. Jos mikään ei muutu, ei aikaakaan voi havaita.
+Kellonaika kertoo, kuinka monta tuntia, minuuttia ja sekuntia on kulunut vuorokauden vaihtumisesta (vertaa päivämäärään). Suomessa käytetään kirjoitetussa kielessä kellonajan 24-tuntista esitystapaa, mutta muun muassa anglosaksisissa maissa käytössä on 12-tuntinen esitystapa. Tällöin erikseen ilmoitetaan tarkoitetaanko aamupäivää (a.m. tai AM) vai iltapäivää (p.m. tai PM). Puhekielessä Suomessakin käytetään yleensä 12-tuntista esitystapaa, jolloin asiayhteys kertoo, puhutaanko aamu- vai iltapäivästä.
+
+
+== Aikakäsityksiä ==
+Eri lähteet viittaavat siihen, että aikakäsitys ja sen muotoutuminen liittyvät ihmisten käyttäytymiseen ja kulttuurihistoriaan. Tyypillisesti voidaan mieltää yön alkavan vuorokauden alussa eli klo 00, aamuyön alkavan klo 05, aamun klo 06-08 ja aamupäivän klo 10. Keskipäivä on 12.00 ja iltapäivä alkaa sen jälkeen. Alkuilta alkaa klo 18 ja ilta klo 21 jatkuen vuorokauden loppuun. Nämä ovat kulttuurisidonnaisia sanattomia sopimuksia, jotka ovat muotoutuneet ihmisten välisessä käyttäytymisessä.
+Nykyaikana ajan määritykset liittyvät vahvasti käyttäytymiseen, esimerkiksi koska syödään lounasta ja koska sanotaan "hyvää päivää". Näihin kysymyksiin neuvoja antavat erilaiset käytösoppaat ja nämä käytännöt vaihtelevat maittain.
+Tähtitieteellisessä mielessä aamu alkaa siitä, kun auringon yläreuna pilkistää ensimmäisen kerran taivaanrannan takaa, ja yö siitä, kun auringon yläreuna katoaa horisontin taakse. Tähtitieteellinen keskipäivä on se hetki, jolloin aurinko on havaintopaikan meridiaanilla, joko suoraan pohjoisessa, suoraan etelässä tai suoraan yläpuolella.
+Suomalaisessa kulttuurissa vuorokausi vaihtuu keskiyöllä. Tämä on vain sopimuskysymys, sillä vuorokaudessa on muitakin sopivia aloituskohtia. Vuorokausi voisi alkaa vaikkapa auringon noustessa, auringon ollessa korkeimmillaan taivaalla tai auringon laskiessa. Kaikkia näitä vuorokauden alkukohtia on käytetty eri kulttuureissa. Islamilaisessa ja juutalaisessa kulttuurissa vuorokausi alkaa auringon laskusta. Samoin useimmissa kristillisissä kirkoissa liturginen vuorokausi vaihtuu illalla.
+Myös koko käsite aika käsitetään eri kulttuureissa ja uskonnoissa eri tavoin. Suoraviivainen aikakäsitys mieltää ajan janana, jolla on alku ja loppu. Itämaisissa uskonnoissa, kuten hindulaisuudessa, vallitsee kiertävä aikakäsitys, joka mieltää ajan kehänä.
+Aikatutkimuksen piirissä on kehitetty teesi ajan nopeutumisesta, akseleraatiosta. Sen mukaan myöhäiskapitalistisessa yhteiskunnassa on siirrytty non-stop-elämään ja 24/7-kulttuuriin, jota leimaa ajallinen samanaikaisuus, epälineaarisuus, katkonaisuus ja välittömyys. Seurauksena on jatkuva kiire ja aikapula niin työelämässä kuin vapaa-ajallakin. Lisäksi ajan nopeutuminen johtaa nykyhetken laajentumiseen ja tulevaisuuden kutistumiseen, sillä nopeasti muuttuvissa olosuhteissa aiemmat saavutukset menettävät merkityksensä ja tulevaisuutta on aina vain vaikeampi ennustaa.lähde?
+
+
+== Katso myös ==
+Aika-avaruus
+Aikajärjestelmä
+Aikamatkailu ja aikakone
+Aikavyöhyke
+Ajan ja avaruuden filosofia
+Absoluuttinen aika ja avaruus
+Ajanlasku
+Kalenteri
+Päivä
+ISO 8601
+
+
+== Lähteet ==
+Taylor, Barry N. & Thompson, Ambler (toim.): The International System of Units (SI) (pdf) (nro 330) NIST Special Publication.  2008. Washington D.C.:  NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. Viitattu 15.2.2013. (englanniksi)
+
+
+=== Viitteet ===
+
+
+== Kirjal

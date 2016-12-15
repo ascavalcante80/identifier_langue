@@ -1,0 +1,37 @@
+Das World Geodetic System 1984 (WGS 84) ist ein geodätisches Referenzsystem als einheitliche Grundlage für Positionsangaben auf der Erde und im erdnahen Weltraum.
+
+
+== BestandteileBearbeiten ==
+Das System besteht aus:
+einem Referenzellipsoid, das in seiner Einfachheit bestmöglich der Erdoberfläche angepasst ist, für Ortsangaben nach geographischer Länge und Breite;
+einem detaillierten Modell für die von dieser idealisierten Form abweichende Erdfigur, das sogenannte Geoid; aktuell ist das EGM96 (Earth Gravitational Model 1996);
+einem Satz dreidimensionaler Koordinaten der zwölf über die Erde verteilten Fundamentalstationen für die Verankerung obiger Modelle in der Erdkruste.
+
+
+== KoordinatensystemBearbeiten ==
+Das Koordinatensystem, in dem das Referenzellipsoid, das Geoid und die Lage der Fundamentalstationen definiert sind, ist ein kartesisches Rechtssystem (Z weist zum Nordpol, X in Richtung 0° Länge und Breite, Y nach 90° Ost). Seine Definition folgt den Vorgaben des IERS:
+Es ist zentriert auf den Schwerpunkt der Erde inklusive Atmosphärenmasse.
+Seine Längenskala ist die lokale, im durch die Masse der Erde relativistisch gekrümmten Raum.
+Die Orientierung seiner Achsen relativ zur Erdkruste (Referenzpol und Referenzmeridian) entsprach zur Epoche 1984.0 der des IERS (damals BIH).
+Die zeitliche Entwicklung seiner Orientierung folgt global der Rotation der Erdkruste (die Bewegung der Kontinentalplatten erfolgt gegeneinander, ohne Nettorotation).
+Die Vermessung der Positionen der Fundamentalstationen zueinander und ihr Anschluss an den International Terrestrial Reference Frame (ITRF) des IERS erfolgt regelmäßig über GPS; aktuell ist der Station-Set G873 (Epoche 1997.0).
+
+
+== ReferenzellipsoidBearbeiten ==
+Die Werte für die Größe und Abplattung der Erde und ihr Gravitationsfeld werden fortlaufend präzisiert. Damit aber das Ellipsoid eine stabile Referenz bildet, werden seine Parameter im WGS84 festgelegt auf:
+große Halbachse a = 000000006378137.00000000006.378.137 Meter,
+Abplattung f = 1 / 298,257.223.563 entsprechend einer kleinen Halbachse b = a(1−f) von etwa 000000006356752.31419999996.356.752,3142 Metern,
+Geozentrische Gravitationskonstante G·M⊕ = 3,986 004 418·1014 m3/s2 (das Produkt ist genauer zu bestimmen als die Einzelfaktoren),
+Rotationsgeschwindigkeit  = 7,292 115·10−5 rad/s.
+Die Parameter des WGS84-Referenzellipsoides entsprechen etwa denen des GRS 80-Referenzellipsoides.
+
+
+== GravitationsmodellBearbeiten ==
+Aktuell gilt das Gravitationsmodell WGS84-EGM96. Die Ortsabhängigkeit des Erdschwerepotentials wird beschrieben durch Kugelflächenfunktionen der zugeordneten Legendrepolynome. Die Entwicklungskoeffizienten Cnm und Snm der Reihenentwicklung sind bis zum Grad n und Ordnung m von 360 vermessen, insgesamt mehr als 130.000 Koeffizienten.
+Kurzzeiteffekte, wie Gezeiteneffekte, die eine Höhenverschiebung von bis zu 50 cm verursachen, bleiben unberücksichtigt. Langfristige Änderungen, beispielsweise verursacht durch die Kontinentaldrift von einigen Zentimetern pro Jahr, werden als Korrekturen des bestehenden Modells notiert.
+
+
+== Abweichungen zu anderen geodätischen DatenBearbeiten ==
+Der Referenzmeridian des IERS verläuft etwa 100 Meter östlich an der Königlichen Sternwarte von Greenwich vorbei (am Äquator ist die Abweichung zum Greenwich-Nullmeridian geringer).
+Die vernachlässigbare Abweichung der definierten Abplattung von der des ursprünglich verwendeten GRS 80-Ellipsoids (f ≈ 1/298,257 222) entspricht 0,1 mm in der kleinen Halbachse und entstand durch Rundung bei der Hin- und Rückumrechnung zwischen Abplattung und dem entsprechenden Koeffizienten der Kugelflächenfunktion.
+Für G·M⊕ wurde in einer früheren Version von WGS 84 der ungenauere GRS 80-Wert 3,986 005·1014 m3/s2 verwendet. Dieser Wert ist in Millionen von GPS-Empfängern fest programmie

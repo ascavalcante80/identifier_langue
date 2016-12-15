@@ -1,0 +1,116 @@
+Tall er aritmetikkens grunnbegrep og et tall er en abstrakt matematisk enhet som beskriver en størrelse, måling eller opptelling. I vårt tallsystem har vi tallsymbolene 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, og ett eller flere av disse symbolene brukes til å representere tall. Et tall kan være flersifret, og da kaller vi tallsymbolene for siffer i tallet.
+
+
+== Ulike typer tall ==
+Tallene kan klassifiseres i ulike mengder, og i matematikken bruker vi bestemte symboler for å symbolisere disse mengdene.
+
+
+=== Naturlige tall ===
+Se hovedartikkel: Naturlige tall
+De naturlige tallene er de mest kjente, og det er disse tallene barn blir kjent med når de lærer å telle. Naturlige tall er positive, hele tall, altså 1, 2, 3, 4, 5, ...
+I vårt titallsystem (som blir brukt over nesten hele verden) blir tallene representert ved ti ulike tallsymboler, fra 0 til 9. Tall som er større enn 9 blir representert ved to eller flere tallsymboler som utgjør sifrene i tallet. Symbolet for mengden av naturlige tall er 
+
+
+=== Hele tall ===
+Se hovedartikkel: Hele tall
+De negative tallene er de tallene som er mindre enn null. De representeres ved å indikere det motsatte positive tallet med et minus-tegn foran. For eksempel kan et positivt tall representere saldoen i en bankkonto, mens et negativt tall kan representere uttak. Når vi kombinerer de negative heltallene med de naturlige tallene og null, får vi mengden av hele tall, symbolisert ved 
+
+
+=== Rasjonale tall ===
+Se hovedartikkel: Rasjonale tall. Se også: Irrasjonale tall.
+De rasjonale tallene er de som kan uttrykkes som en brøk med en teller (som er et heltall) og en nevner som er forskjellig fra null. Brøken  er den størrelsen du får når et helt tall  blir delt i  like store deler. To ulike brøker kan representere det samme tallet, for eksempel representerer 1/2 og 2/4 det samme tallet. Brøkene kan være negative, positive eller null. Symbolet for de rasjonale tallene er 
+
+
+=== Reelle tall ===
+Se hovedartikkel: Reelle tall. Se også: Imaginære tall.
+De reelle tallene er alle de tallene som kan representeres ved punkter på en linje, det vil si alle naturlige tall, alle heltall, alle rasjonale tall og også de irrasjonale tallene, det vil si de tallene som ikke kan uttrykkes som en brøk. Et eksempel på et slikt irrasjonalt tall er , som hører med til de reelle tallene, men kan ikke skrives som et brøk eller som et desimaltall med et endelig antall siffer.
+Symbolet for de reelle tallene er .
+
+
+=== Komplekse tall ===
+Se hovedartikkel: Komplekse tall
+De reelle tallene kan utvides med de komplekse tallene . Historisk sett oppsto disse tallene ut fra spørsmålet om det er mulig å trekke ut kvadratroten av et negativt tall. Ut fra undersøkelser av denne problemstillingen ble det oppdaget et nytt tall , representert ved symbolet i. De komplekse tallene består av alle tallene på formen i, hvor  og  er reelle tall. Dersom  er null, kaller vi i for et imaginært tall. Dersom  er null, får vi et reelt tall. Komplekse tall korresponderer med koordinatene til punkter i det komplekse planet. I det komplekse planet måles de reelle tallene langs førsteaksen (x-aksen) og de imaginære tallene langs andreaksen (y-aksen) i et koordinatsystem.
+
+
+== Tallenes historie ==
+Gjennom arkeologiske utgravninger datert 30 000 år f.Kr. har det blitt funnet ulvebein med 55 streker systematisk risset inn. Dette er noen av de eldste forløperne til tallsystem vi har. Det er uvisst hva dette ulvebeinet ble brukt til, men det er sannsynlig at det har blitt brukt til å holde oversikt over ett eller annet (for eksempel en dyreflokk, tidssykluser i en kalender eller lignende).
+Babylonerne hadde det eldste plassverdisystemet vi kjenner til, med 60 som grunntall. Det eldste titallsystemet vi kjenner tilhørte de gamle egypterne, men dette var et additivt tallsystem.
+
+
+== Aspekter ved tallbegrepet ==
+I forbindelse med barns læring av tallbegrepet skiller vi ofte mellom noen hovedaspekter:
+Kardinaltall
+Ordinaltall
+Tall som identitet
+For at barn skal få en full forståelse for tall og telling, må det få erfaring med alle de ulike måtene tallene kan opptre på og lære å skille mellom dem.
+
+
+=== Kardinaltall ===
+Kardinaltall kaller vi det når tallordet forteller noe om hvor mange. Dette kan vi også kalle for mengdetall eller antall. Her skiller vi ofte mellom to hovedtyper:
+Hovedtype A: Tallordet angir antallet objekter, for eksempel 5 klosser.
+Hovedtype B: Tallordet angir antallet måleenheter, for eksempel 4 meter.
+Når barn utvikler kardinaltallsbegrepet, ser vi ofte eksempler på at noe av det første de lærer er å skille mellom en-to-mange. Små barn kan ofte skille mellom små mengder, mens større mengder blir bare betegnet som mange. Dersom barnet har et fullt utviklet kardinaltallsbegrep, innebærer det at de:
+kan telle
+kan svare på spørsmålet om hvor mange ved å oppgi det siste ordet i tellingen
+har antallskonservering (dvs. at antallet er uavhengig av hvordan en teller, hva slags objekter som telles, osv.)
+
+
+=== Ordinaltall ===
+Ordinaltall er tallord som forteller om hvor et objekt er plassert i en serie eller rekkefølge. Dette kaller vi for ordenstall eller rekkefølgetall. Et eksempel på dette er datoer, som beskriver en rekkefølge og ikke et antall.
+Dersom et barn har ordinal forståelse, kan det sortere ulike gjenstander etter størrelse eller andre egenskaper.
+
+
+=== Tall som identitet ===
+Tall som identitet bruker vi når tallordet brukes som identifikasjon, for eksempel når en buss har nummer 60, eller et hus har nummer 39. Da er ikke tallordet knyttet til antall eller rekkefølge, og det blir mer som en merkelapp.
+
+
+=== Algebra ===
+Algebra generaliserer tall ved at bokstaver eller andre symboler representerer tall. Dette brukes for å beskrive mønster og sammenhenger. Algebra brukes også i fagene geometri og funksjoner.
+
+
+== Store tall ==
+Million har 6 nuller, 106
+Milliard har 9 nuller, 109
+Billion har 12 nuller, 1012
+Billiard har 15 nuller, 1015
+Trillion har 18 nuller, 1018
+Trilliard har 21 nuller, 1021
+Kvadrillion har 24 nuller, 1024
+Kvadrilliard har 27 nuller, 1027
+Kvintillion har 30 nuller, 1030
+Kvintilliard har 33 nuller, 1033
+Sekstillion har 36 nuller, 1036
+Sekstilliard har 39 nuller, 10 39
+Septillion har 42 nuller, 1042
+Septilliard har 45 nuller, 1045
+Oktillion har 48 nuller, 1048
+Oktilliard har 51 nuller, 1051
+Nonillion har 54 nuller, 1054
+Nonilliard har 57 nuller, 1057
+Desillion har 60 nuller, 1060
+Undesillion har 66 nuller, 1066
+Dodesillion har 72 nulller, 1072
+Tredesillion har 78 nuller, 1078
+Quattordesillion har 84 nuller, 1084
+Kvindesillion har 90 nuller, 1090
+Seksdesillion har 96 nuller, 1096
+Googol har 100 nuller, 10100
+Septendesillion har 102 nuller, 10102
+Oktoesillion har 108 nuller, 10108
+Novemdesillion har 114 nuller, 10114
+Vigintillon har 120 nuller, 10120
+Unvigintillion har 126 nuller, 10126
+Dovigintillion har 132 nuller, 10132
+Trevigintillion har 138 nuller, 10138
+Kvartvigintillion har 144 nuller, 10144
+Kvintvigintillion har 150 nuller, 10150
+Seksvigintillion har 156 nuller, 10156
+Septenvigintillion har 162 nuller, 10162
+Octovigintillion har 168 nuller, 10168
+Novemvigintillion har 174 nuller, 10174
+Trigintillion har 180 nuller, 10180
+Untrigintillion har 186 nuller, 10186
+Dotrigintillion har 192 nuller, 10192
+Trerigintillion har 198 nuller, 10198
+Dogoogol har 200 nuller, 10200
+Centillion har 600 nuller,

@@ -1,0 +1,30 @@
+anční správy,Česká správa sociálního zabezpečení, veřejné zakázky) v rámci komunikace s firmami.
+Výpisy z bank ve formátu XML (například GE Money Bank)
+
+
+== Verze XML ==
+Aktuální verze XML je 1.1 (od 16. srpna 2006). První verze XML 1.0 existuje v páté revizi. Obě verze se liší v požadavcích na použité znaky v názvech elementů, atributů atd. Verze 1.0 dovolovala pouze užívání znaků platných ve verzi Unicode 2.0, která obsahuje většinu světových písem, ale neobsahuje později přidané sady jako je Mongolština a podobně. Verze XML 1.1 zakazuje pouze řídící znaky, což znamená, že mohou být použity jakékoli jiné znaky.
+Je třeba poznamenat, že omezení ve verzi 1.0 se vztahuje pouze na názvy elementů a atributů. Jinak obě verze dovolují v obsahu dokumentu jakékoli znaky. Verze 1.1 je tedy nutná, pokud potřebujeme psát názvy elementů v jazyku, který byl přidán do Unicode později.
+Další menší změna mezi XML 1.0 a 1.1 je, že řídící znaky se nyní mohou vkládat jen jako escape sekvence, a se speciálními znaky „form-feed“ se musí zacházet jako s bílými znaky.
+Všechny dokumenty verze 1.0 budou platné ve verzi 1.1 s jednou výjimkou: dokumenty deklarované s kódováním ISO-8859-1, které jsou ve skutečnosti v kódu Windows CP1252, nemusejí být nyní platné. Důvodem je, že CP1252 používají blok řídících znaků pro speciální zobrazení, jako jsou znaky €, Œ, a ™. Dokumenty s deklarací CP1252 zůstávají platné.
+
+
+== Související technologie ==
+Jmenné prostory v XML – Umožňují kombinovat značkování podle různých standardů v jednom dokumentu.
+XML Schema, RELAX NG, Schematron – Předpis struktury a datových typů pro třídu dokumentů v XML.
+XSL – Transformace dokumentu v XML na jiný, odvozený dokument, např. XML, HTML nebo textový. Zahrnuje XSLT, XSL-FO a XPath.
+XQuery – Dotazy nad daty v XML.
+
+
+== Externí odkazy ==
+ Obrázky, zvuky či videa k tématu Extensible Markup Language ve Wikimedia Commons
+ZVON – Vše o XML a jak tvořit XML
+www.w3.org/XML/ – Specifikace, pracovní skupiny W3C atd.
+Slabikář XML (česky)
+Kurz XML
+XML Document Authoring Tools
+XML-DEV Mailing List
+
+
+== Literatura ==
+Charles F. Goldfarb: The Roots of SGML – A Personal Recollection. http://www.sgmlsource.com/history/roots.htm.

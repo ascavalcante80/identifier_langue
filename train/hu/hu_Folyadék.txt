@@ -1,0 +1,14 @@
+A folyadék (ideális folyadéknak tekintve) az anyagnak azon halmazállapota, amelyben az anyag felveszi a tárolásra szolgáló edény alakját, megtartja a térfogatát és nem képes csavaróerők továbbítására. Gyakorlatilag összenyomhatatlan, részecskéi állandóan, tetszőleges módon helyet változtatnak. A részecskék – sok szilárd anyagtól eltérően – rendezetlenül helyezkednek el, eltekintve egyfajta enyhe fokú, laza rendezettségtől. Az amorf anyagokat (pl. üveg, teflon) tekinthetjük akár nagyon nagy viszkozitású folyadékoknak is, az ezek közötti határ számos esetben nem egyértelmű.
+
+
+== Statikai és dinamikai tulajdonságai ==
+Míg a szilárd anyagok szilárdsága alaktartó, a folyadékok szilárdsága térfogattartó.
+A nyomás a folyadékelem normálisának megfelelő irányba mutat. A Pascal-elv értelmében a súlytalan folyadék belsejében a nyomás irányfüggetlen, ezért vektori irány nem rendelhető hozzá.
+
+
+== Reális folyadék ==
+Az általános felfogás szerint az ideális folyadék részecskéi között súrlódóerők nem adódhatnak át. Eszerint a súrlódásos folyadékokat kell reális folyadéknak neveznünk. Valójában a reális folyadék más módon is eltérhet az ideális folyadéktól. Felléphet benne a kompresszibilitás jelensége, felléphetnek benne elektrosztatikus erők, kohéziós erők, a van der Waals-erők, a felületi feszültségből származó erő is.
+A vízmolekula például súlyzó alakú; a hidrogén- és az oxigénatom irányultsága miatt elektromos, vagy mágneses térben rendezettséget mutat, (diamágneses), igen nagy a permittivitása.
+
+
+== L

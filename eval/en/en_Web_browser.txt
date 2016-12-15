@@ -1,0 +1,48 @@
+ browsers have these user interface elements in common:
+Back and forward buttons to go back to the previous resource and forward respectively.
+A refresh or reload button to reload the current resource.
+A stop button to cancel loading the resource. In some browsers, the stop button is merged with the reload button.
+A home button to return to the user's home page.
+An address bar to input the Uniform Resource Identifier (URI) of the desired resource and display it.
+A search bar to input terms into a search engine. In some browsers, the search bar is merged with the address bar.
+A status bar to display progress in loading the resource and also the URI of links when the cursor hovers over them, and page zooming capability.
+The viewport, the visible area of the webpage within the browser window.
+The ability to view the HTML source for a page.
+Major browsers also possess incremental find features to search within a web page.
+
+
+=== Privacy and securityEdit ===
+
+Most browsers support HTTP Secure and offer quick and easy ways to delete the web cache, download history, form and search history, cookies, and browsing history. For a comparison of the current security vulnerabilities of browsers, see comparison of web browsers.
+
+
+=== Standards supportEdit ===
+Early web browsers supported only a very simple version of HTML. The rapid development of proprietary web browsers led to the development of non-standard dialects of HTML, leading to problems with interoperability. Modern web browsers support a combination of standards-based and de facto HTML and XHTML, which should be rendered in the same way by all browsers.
+
+
+=== ExtensibilityEdit ===
+A browser extension is a computer program that extends the functionality of a web browser. Every major web browser supports the development of browser extensions.
+
+
+== ComponentsEdit ==
+Web browsers consist of a user interface, layout engine, rendering engine, JavaScript interpreter, UI backend, networking component and data persistence component. These components achieve different functionalities of a web browser and together provide all capabilities of a web browser.
+
+
+== See alsoEdit ==
+
+Geobrowsing
+Internet OS
+List of web browsers
+Mobile browser
+Timeline of web browsers
+Web browser engines
+Headless browser
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Architecture of the World Wide Web, Volume One
+WorldWideWeb: Proposal for a HyperText Project
+How Browsers Work: Behind the scenes of modern web browsers

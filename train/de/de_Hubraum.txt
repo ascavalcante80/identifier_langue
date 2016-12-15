@@ -1,0 +1,63 @@
+Der Hubraum oder das Hubvolumen bezeichnet für die Zylinder von Kolbenmaschinen das umschlossene Volumen, das sich aus dem Arbeitsweg des einzelnen Kolbenhubes und der wirksamen Kolbenquerschnittsfläche ergibt. Er definiert also das Volumen, das bei einem Motor durch den Hub aller Kolben insgesamt verdrängt wird.
+
+
+== DefinitionBearbeiten ==
+Als wirksame Kolbenquerschnittsfläche ist in der Regel die von dem Kolbenring bzw. der inneren Zylinderwand umschlossene Kreisfläche  anzusehen (, wobei  der Radius der Kolbenfläche ist).
+Nicht anzusetzen ist dagegen eine größere Kolbenfläche, die sich aus einer gewölbten statt einer planen Kolbenendfläche ergibt. Bei Maschinen deren Kolben eine durchgehende Kolbenstange hat, wie z. B. bei Dampflokomotiven üblich, muss zur Bestimmung des Hubvolumens die Kreisquerschnittsfläche der Kolbenstange vom Kolbenquerschnitt abgezogen werden.
+Der Kolbenhub ist der Weg, der zwischen den beiden äußersten Stellungen des Arbeitskolbens zurückgelegt wird, bei Verbrennungsmaschinen meist als oberer und unterer Totpunkt bezeichnet.
+Das Hubvolumen  ergibt sich also mit  als wirksamer Kolbenfläche und  als Hubweg zu
+,
+wobei als Maßeinheit meist Kubikzentimeter oder Liter angegeben werden.
+Bei gleichen Parametern (Drehzahl und effektivem Mitteldruck) ist der Hubraum ein Indikator zum Vergleich der Leistung verschiedener Maschinen und eine der Kenngrößen eines Verbrennungsmotors. Es wird zudem unterschieden nach dem einzelnen Zylinderhubraum und Gesamthubraum einer Maschine, der sich aus der Multiplikation der Zylinderhubräume mit der Zahl der Zylinder ergibt.
+Je nachdem ob der Kolbenhub größer oder kleiner als der Durchmesser des Zylinders ist, spricht man von einem Langhuber oder einem Kurzhuber. Sind Hub und Bohrung gleich groß, so spricht man von einem quadratischen Hubverhältnis.
+
+
+== BerechnungBearbeiten ==
+Wichtige Größen:
+ → Zylinder-Hubraum;
+ → Motor-Hubraum;
+ → Verdichtungsraum;
+ → Verbrennungsraum;
+ → Zylinder-Anzahl;
+ → Zylinder-Durchmesser (Bohrung);
+ → Zylinder-Radius (= halber Durchmesser);
+ (bzw.: ) → Kolbenhub, Hubweg oder kurz Hub.
+
+
+=== Zylinder-HubraumBearbeiten ===
+Der Hubraum ist das Volumen zwischen dem unteren und oberen Totpunkt des Kolbens eines Motor-Zylinders und wird üblicherweise in cm3 oder in l angegeben. Es gilt:
+.
+
+
+=== Motor-HubraumBearbeiten ===
+Für Mehrzylinder-Motoren mit Z Zylindern lautet die anschließende Formel, sofern die einzelnen Zylinder gleiche Hubräume aufweisen:
+.
+
+
+=== VerbrennungsraumBearbeiten ===
+Der Verbrennungsraum ist das von Zylinder, Kolben und Zylinderkopf eingeschlossene Volumen; er ist von der Stellung des Kolbens abhängig, im Betrieb also zeitabhängig. Befindet sich der Kolben im unteren Totpunkt, dann gilt:
+.
+Bei Doppelkolbenmotoren haben zwei Zylinder einen Verbrennungsraum gemeinsam, die Verhältnisse sind komplizierter.
+
+
+== Spezifikationen bei Kfz-VerbrennungsmotorenBearbeiten ==
+Kurzhuber erlauben wegen der größeren Zylinderquerschnittsfläche die Unterbringung größerer Ventile. Sie haben – bei gleicher Drehzahl - im Vergleich zu Langhubern eine geringere Kolbengeschwindigkeit, sind also drehzahlfester und werden daher überwiegend in Sportwagen und Motorrädern verwendet.
+Langhuber ermöglichen eine bessere Brennraumgestaltung und eine bessere Verbrennung.
+Im Allgemeinen ähnelt der Brennraum kurz nach der Zündung, also dann wenn das Gas am heißesten ist, einem flachen Zylinder, hat also eine große Oberfläche im Verhältnis zum Rauminhalt. Je kleiner die Zylinderbohrung und je länger der Hub ist, desto weniger flach ist die Form des Brennraums zu diesem Zeitpunkt, desto kleiner ist die Brennraumoberfläche und desto geringer sind die Wärmeleitungsverluste durch sie.
+Langhuber haben deshalb einen geringfügig höheren Wirkungsgrad.
+Die Tendenz im Kfz-Bau geht zunehmend zu kleineren und damit leichteren Motoren, da diese aufgrund der kleineren Wärmeübergangsflächen bei gleicher Leistung geringere thermische Verluste aufweisen. Dies bedeutet jedoch nicht zwangsläufig einen schlechteren Wirkungsgrad großvolumiger Motoren.
+
+
+=== Hubraum und DrehmomentBearbeiten ===
+Bei gegebenem Zylindermitteldruck bestimmt die Größe des Hubraums das Drehmoment. Hubraum, Mitteldruck und Drehzahl zusammen beeinflussen die Leistung.
+Faustformel für Saugmotoren: Der Wert für das maximale Drehmoment in Nm gemessen liegt hier bei etwa 100 Nm pro Liter Hubraum. Eine Abweichung des Drehmomentwertes von etwa 10 bis 15 Prozent ist hierbei jedoch oft vorhanden, in der Regel nach unten aber auch zunehmend nach oben.
+Beispiel
+Hat ein Saugmotor einen Hubraum von 2000 cm3, so liegt das maximale Drehmoment meist bei 170 bis 210 Nm. Liegt es deutlich höher (über 240 Nm), ist davon auszugehen, dass der Motor über eine Motoraufladung verfügt wie z.B. einen Abgasturbolader oder einen Kompressor.
+
+
+=== Hubraum und Kfz-SteuerBearbeiten ===
+Der Hubraum wird oft auch für die Steuerbemessung herangezogen, wobei hier die sogenannte Steuerformel verwendet wird (Situation in Deutschland). Da die Steuern meist gestaffelt sind, wurden immer wieder Motoren mit Hubräumen knapp unter diesen Grenzwerten gebaut, zum Beispiel 1998 cm³ statt 2000 cm³. Auch die Typenbezeichnung eines Kraftfahrzeuges hat oft den Hubraum in der genaueren Bezeichnung.
+Die Berechnung des Hubraums von Hubkolbenmotoren nach der Steuerformel erfolgt in Deutschland seit 1989 nach zwei unterschiedlichen Verfahren:
+alte StVZO-Steuerformel: Gesamthubraum =  (d = Bohrung, h = Hub, Z = Zylinderzahl; Bohrung D und Hub H sind vor der Berechnung auf halbe Millimeter, das Ergebnis auf volle Kubikzentimeter abzurunden. Anmerkung:  wird hier auf 0,78 abgerundet, daher weicht der Hubraum nach alter Steuerformel recht deutlich nach unten vom tatsächlichen Hubraum ab)
+neue EU-Steuerformel: Gesamthubraum =  (d = Bohrung, h = Hub, Z = Zylinderzahl; Bohrung D und Hub H werden auf volle Millimeter mathematisch auf- oder abgerundet;  wird hier auf 0,7854 aufgerundet)
+Da zum Teil in der – mehrfach geänderten – Steuerformel andere Rundungsregeln gelten, als in der Technik üblich, gab und gib

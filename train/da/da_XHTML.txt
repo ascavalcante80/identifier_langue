@@ -1,0 +1,68 @@
+XHTML (Extensible HyperText Markup Language) er et XML markup language, der er en udvidelse af HTML som gør det til et XML-dokument. XHTML indeholder de samme elementer som HTML, men skrives efter andre regler, baseret på XML (Extensible Markup Language), og kan derfor anses som en reformulering af HTML i sproget XML.
+
+
+== Grundlæggende forskelle mellem HTML og XHTML ==
+I XHTML
+skal alle elementer afsluttes
+skal det altid være det næmeste element der afsluttes
+skal alle elementer og attribute skrives med små bogstaver lower case
+skal værdien af attributter stå med anførelsestegn
+tillades minimerede attributter ikke
+bruges attributten "id" til identifikation
+
+
+=== Eksempler ===
+
+
+==== Alle elementer afsluttes ====
+Dårlig:
+
+ Mad<br>
+ Liste over drikke
+ <ul>
+   <li>Kaffe</li>
+   <li>Te
+     <ul>
+       <li>Sort te</li>
+       <li>Grøn te</li>
+     </ul>
+   <li>Mælk</li>
+ </ul>
+
+God:
+
+ Mad<br />
+ Liste over drikke
+ <ul>
+   <li>Kaffe</li>
+   <li>Te
+     <ul>
+       <li>Sort te</li>
+       <li>Grøn te</li>
+     </ul>
+   </li>
+   <li>Mælk</li>
+ </ul>
+
+
+==== Nærmeste element afsluttes ====
+Dårlig:
+
+ <b><i>Hallo</b></i>
+
+God:
+
+ <b><i>Hallo</i></b>
+
+
+==== Elementer og attributter skrives med små bogstaver ====
+Dårlig:
+
+ <P CLASS="BASIS">Hej med dig<BR />dette er næste linje</P>
+
+God:
+
+ <p class="basis">Hej med dig<br />dette er næste linje</p>
+
+
+==== Værdien af attributte

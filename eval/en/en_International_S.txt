@@ -1,0 +1,79 @@
+ and commerce". The legislation stated that the federal government has a responsibility to assist industry, especially small business, as it voluntarily converts to the metric system of measurement. Exceptions were made for the highway and construction industries; the Department of Transportation planned to require metric units by 2000, but this plan was cancelled by the 1998 highway bill TEA21. However, the US military uses the metric system widely, partly because of the need to work with armed services from other nations.
+
+Although overall responsibility for labelling requirements of consumer goods lies with Congress and is therefore covered by federal law, details of labelling requirements for certain commodities are controlled by state law or by other authorities such as the Food and Drug Administration, Environmental Protection Agency and Alcohol and Tobacco Tax and Trade Bureau. The federal Fair Packaging and Labeling Act (FPLA), originally passed in 1964, was amended in 1992 to require consumer goods directly under its jurisdiction to be labelled in both customary and metric units. Some industries are engaged in efforts to amend this law to allow manufacturers to use only metric labelling. The National Conference on Weights and Measures has developed the Uniform Packaging and Labeling Regulations (UPLR) which provides a standard approach to those sections of packaging law that are under state control. Acceptance of the UPLR varies from state to state – fourteen states accept it by merely citing it in their legislation.
+
+During the first decade of the 21st century, the EU directive 80/181/EEC had required that dual unit labelling of goods sold within the EU cease by the end of 2009. This was backed up by requests from other nations including Japan and New Zealand to permit metric-only labelling as an aid to trade with those countries. Opinion in the United States was split – a bill to permit metric-only labelling at the federal level was to have been introduced in 2005 but significant opposition from the Food Marketing Institute, representing US grocers, has delayed the introduction of the bill. During a routine decennial review of the directive in 2008, the EU postponed the sunset clause for dual units indefinitely.
+Meanwhile, in 1999 the UPLR was amended to permit metric-only labelling and automatically became law in those states that accept UPLR "as is". By 1 January 2009, 48 out of 50 states permit metric-only labelling, either through UPLR or through their own legislation. As of February 2013 the use of metric (and therefore SI) units in the United States does not follow any pattern. Dual-unit labelling on consumer goods is mandatory. Some consumer goods such as soft drinks are sold in metric quantities, others such as milk are sold in customary units. The engineering industry is equally split. The automotive industry is largely metric, but aircraft such as the Boeing 787 Dreamliner were designed using customary units.
+
+
+=== European Union ===
+
+In 1960, all the largest industrialised nations that had an established history of using the metric system were members of the European Economic Community (EEC).
+In 1972, in order to harmonise units of measure as part of a programme to facilitate trade between member states, the EEC issued directive 71/354/EEC. This directive catalogued units of measure that could be used for "economic, public health, public safety and administrative purposes" and also provided instructions for a transition from the existing units of measure that were in use. The directive replicated the CGPM SI recommendations and in addition pre-empted some of the additions whose use had been recommended by the CIPM in 1969, but had not been ratified by the CGPM. The directive also catalogued units of measure whose status would be reviewed by the end of 1977 (mainly coherent CGS units of measure) and also catalogued units of measure that were to be phased out by the end of 1977, including the use of obsolete names for the sale of timber such as the stere, the use of units of force and pressure that made use of the acceleration due to gravity, the use of non-coherent units of power such as the Pferdestärke (PS), the use of the calorie as a measure of energy and the stilb as a measure of luminance. The directive was silent in respect of units that were specific to one or two countries including the pond, pfund, livre (Dutch, German and French synonyms for 500 g), thereby effectively prohibiting their use as well.
+
+When the directive was revisited during 1977, some of the older units that were being reviewed (such as millimetre of mercury for blood pressure) were retained but others were phased out, thereby broadly aligning the allowable units with SI. The directive was however overhauled to accommodate British and Irish interests in retaining the imperial system in certain circumstances. It was reissued as directive 80/181/EEC. During subsequent revisions, the directive has reflected changes in the definition of SI. The directive also formalised the use of supplementary units, which in 1979 were permitted for a period of ten years. The cut-off date for the use of supplementary units was extended a number of times and in 2009 was extended indefinitely.
+
+
+=== India ===
+
+India was one of the last countries to start a metrication programme before the advent of SI. When it became independent in 1947, both imperial and native units of measure were in use. Its metrication programme started in 1956 with the passing of the Standards of Weights and Measures Act. Part of the act fixed the value of the seer (a legacy unit of mass) to 0.9331 kg exactly; elsewhere the Act declared that from 1960 all non-metric units of measure were to be illegal.
+Four years after the Indian Government announced its metrication programme, SI was published. The result was that the initial metrication programme was a conversion to the CGS system of units and the subsequent adoption of SI has been haphazard. Fifty years later, many of the country's schoolbooks still use CGS or imperial units. Originally the Indian Government had planned to replace all units of measure with metric units by 1960. In 1976 a new Weights and Measures Act replaced the 1956 Act which, amongst other things, required that all weighing devices be approved before being released onto the market place. However, in 2012, it was reported that traditional units were still encountered in small manufacturing establishments and in the marketplace alongside CGS, SI and imperial measures, particularly in the poorer areas.
+The use of the Indian numbering system of crores (7007100000000000000♠10000000) and lakhs (7005100000000000000♠100000), which do not map onto the SI system of prefixes, is widespread and is often found alongside or in place of the western numbering system.
+
+
+== Redefinition of units ==
+
+After the metre was redefined in 1960, the kilogram remained the only SI base unit that relied on a specific physical artifact, the international prototype of the kilogram (IPK), for its definition and thus the only unit that was still subject to periodic comparisons of national standard kilograms with the IPK. After the 1996–1998 recalibration, a clear divergence between the various prototype kilograms was observed.
+At its 23rd meeting, held in 2007, the CGPM recommended that the CIPM should continue to investigate methods to provide exact fixed values for physical constants of nature that could then be used in the definitions of units of measure in place of the IPK, thus enabling the transition from explicit unit definitions to explicit constant definitions.
+At a meeting of the CCU held in Reading, United Kingdom, in September 2010, a resolution and draft changes to the SI Brochure that were to be presented to the next meeting of the CIPM in October 2010 were agreed to in principle. The proposals that the CCU put forward were:
+In addition to the speed of light, four constants of nature – the Planck constant, an elementary charge, the Boltzmann constant and the Avogadro number – be defined to have exact values.
+The International prototype kilogram be retired
+The current definitions of the kilogram, ampere, kelvin and mole be revised.
+The wording of the definitions of all the base units be both tightened up and changed to reflect the change in emphasis from explicit unit to explicit constant definitions.
+The CIPM meeting of October 2010 reviewed progress towards establishing fixed values for the constants but found that "the conditions set by the General Conference at its 23rd meeting have not yet been fully met. For this reason the CIPM does not propose a revision of the SI at the present time".
+At the 24th CGPM meeting, held in October 2011, the CIPM sponsored a resolution in which the requisite definition changes were agreed to in principle and in which the conditions required to be met before the redefinitions could be implemented were restated.
+By November 2014 the conditions set out at the 23rd meeting of the CGPM for the unit redefinitions had still not been met, and the 25th meeting of the CGPM, held in November 2014, adopted a similar resolution encouraging further work towards establishing fixed values for the fundamental constants.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+International Union of Pure and Applied Chemistry (1993). Quantities, Units and Symbols in Physical Chemistry, 2nd edition, Oxford: Blackwell Science. ISBN 0-632-03583-8. Electronic version.
+Unit Systems in Electromagnetism
+MW Keller et al. Metrology Triangle Using a Watt Balance, a Calculable Capacitor, and a Single-Electron Tunneling Device
+"The Current SI Seen From the Perspective of the Proposed New SI". Barry N. Taylor. Journal of Research of the National Institute of Standards and Technology, Vol. 116, No. 6, Pgs. 797–807, Nov–Dec 2011.
+B. N. Taylor, Ambler Thompson, International System of Units (SI), National Institute of Standards and Technology 2008 edition, ISBN 1437915582.
+
+
+== External links ==
+Official
+BIPM Bureau International des Poids et Mesures (SI maintenance agency) (home page)
+BIPM brochure (SI reference)
+
+ISO 80000-1:2009 Quantities and units – Part 1: General
+NIST Official Publications
+NIST Special Publication 330, 2008 Edition: The International System of Units (SI)
+NIST Special Publication 811, 2008 Edition: Guide for the Use of the International System of Units
+NIST Special Pub 814: Interpretation of the SI for the United States and Federal Government Metric Conversion Policy
+
+Rules for SAE Use of SI (Metric) Units
+International System of Units at DMOZ
+EngNet Metric Conversion Chart Online Categorised Metric Conversion Calculator
+U.S. Metric Association. 2008. A Practical Guide to the International System of Units
+History
+LaTeX SIunits package manual gives a historical background to the SI system.
+Research
+The metrological triangle
+Recommendation of ICWM 1 (CI-2005)
+Pro-metric advocacy groups
+The UK Metric Association
+The US Metric Association
+Pro-customary measures pressure groups
+Pro-customary measures groups at DMOZ

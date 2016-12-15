@@ -1,0 +1,41 @@
+steg från grundprinciperna har gjorts för att få acceptans även hos vanliga användare. Exempelvis har en av grundenheterna en beteckning som innefattar ett prefix: kg (kilogram). Även enheter som enkelt kan härledas ur andra enheter accepteras enligt SI för vardaglig användning, såsom minuter, timmar och grad Celsius.
+
+
+== Enheter ==
+
+SI är uppbyggt av sju grundenheter. Genom att multiplicera och dividera grundenheterna med varandra bildas härledda enheter, några med speciella namn.
+
+
+=== SI:s grundenheter ===
+
+
+== Prefix ==
+För att bilda större eller mindre enheter använder SI SI-prefix.
+
+
+== Se även ==
+Cgs-systemet
+MKS-systemet
+SI-enhet
+Decimalsystemet
+
+
+== Källor ==
+
+
+=== Noter ===
+^ EU-direktiv, nr 80/181/EEC
+^ [http://www.riksdagen.se/webbnav/index.aspx?nid=3911&bet=1992:1514 svensk lag (1992:1514)
+^ http://www.riksdagen.se/webbnav/index.aspx?nid=3911&bet=1993:1066 svensk förordning (1993:1066)
+^ Tabeller och formler för NV- och TE-programmen, Ekbom m.fl., sida 74.
+
+Den här artikeln är helt eller delvis baserad på material från engelskspråkiga Wikipedia, International System of Units, 4 december 2008.
+
+
+== Externa länkar ==
+BIPM – SI: engelska, franska
+Konvertera.nu – SI-Systemet
+SP – SI-systemet
+NIST – Essentials of the SI
+Nyteknik - Kunskap är makt / EU-direktiv
+SI-visan

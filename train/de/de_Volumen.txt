@@ -1,0 +1,48 @@
+Das Volumen (Pl. Volumen oder Volumina; von lat. volumen „Windung, Krümmung“, aus volvere „wälzen, rollen“), auch: Raum- oder Kubikinhalt, ist der räumliche Inhalt eines geometrischen Körpers. Übliches Formelzeichen ist V.
+In der Physik bezeichnet man mit dem Volumen die Ausdehnung (den Platzbedarf) eines Körpers. Die (kohärente) SI-Einheit für das Raummaß ist der Kubikmeter (Einheitenzeichen m3). Vereinzelt liest man noch die veralteten Abkürzungen cbm für m³ und ccm für cm³. Die Einheit Liter ist für Gase und Flüssigkeiten gebräuchlich und als 1 dm3 (10×10×10 cm³) definiert.
+Technisch muss unterschieden werden:
+Hohlvolumen, der freie Raum innerhalb gewisser Grenzen, etwa das Fassungsvermögen eines Behälters
+Rauminhalt, das Volumen fester Körper, von Flüssigkeiten oder Gasen
+
+
+== GeschichteBearbeiten ==
+Die ersten bekannten Formeln zur Volumenbestimmung (auch Stereometrie) stammen schon aus dem frühen Ägypten. Das Moskauer Papyrus ist eine Sammlung von Rechenaufgaben und ist etwa auf das Jahr 1850 v. Chr. datiert. Unter anderem sind hier die Formeln für die Bestimmung der Volumina für Rechteckkegel beschrieben. Die Bestimmung wurde durch Analyse und anschließender Synthese erreicht. Das heißt, der Körper wurde in mehrere bekannte Körper zerlegt und die Einzelvolumina addiert.
+
+
+== MessmethodenBearbeiten ==
+
+Im Laufe der Zeit haben sich ganz unterschiedliche Methoden zur Bestimmung von Volumina entwickelt:
+Auslitern: Der Körper wird mit Sand oder Wasser gefüllt, dessen Menge anschließend in einem bekannten Gefäß bestimmt wird; somit lässt sich bei Gefäßen das Volumen ihres Innenraumes bestimmen.
+Wasserverdrängung: Der Körper wird in ein vollständig mit Wasser gefülltes Gefäß eingetaucht. Das Volumen des übertretenden Wassers wird anschließend in einem geometrisch einfachen Gefäß (z. B. Zylinder) vermessen. Infolge möglicher Wechselwirkungen zwischen Probekörper und Wasser kann es zu Messfehlern kommen, weshalb auch andere Flüssigkeiten eingesetzt werden können.
+Bei einem Körper mit einer bekannten Dichte lässt sich das Volumen auch erwiegen.
+
+
+== Algebraische BerechnungBearbeiten ==
+In der Theorie kann aus bekannten Ausmaßen und Form des Körpers ebenfalls das Volumen durch Rechnung nach für den entsprechenden Körper gültigen Formeln bestimmt werden:
+Beispiele:
+
+Würfel mit der Kantenlänge a:
+
+Quader mit den Kantenlängen a, b und c:
+
+Kugel mit dem Radius r:
+
+Rotationskörper der Funktion f(x) bei Rotation um die x-Achse:
+
+Rotationskörper um die y-Achse:
+
+Körper, bei Schnitten orthogonal zur x-Achse: Hat ein Körper die stetige Querschnittsfunktion  mit x im Intervall (a;b) dann hat er das Volumen:
+
+Zylinder oder Prisma mit der Grundfläche A und der Höhe h:
+
+Kegel oder Pyramide mit der Grundfläche A und der Höhe h:
+
+
+== VerallgemeinerungBearbeiten ==
+Man kann ein Volumen auch über mehrdimensionale Mannigfaltigkeiten definieren, siehe dazu auch Volumenform. Nach dieser Verallgemeinerung ist das Volumen eines Teilraumes des zweidimensionalen euklidischen Raumes sein Flächeninhalt und Entsprechendes gilt auch in höherdimensionalen euklidischen Räumen. Beispielsweise hat ein n-dimensionaler Hyperwürfel mit Kantenlänge  ein Volumen von .
+Das Volumen einer orientierbaren Riemannschen Mannigfaltigkeit ist definiert durch Integration der Volumenform über die Mannigfaltigkeit.
+
+
+== HohlraumBearbeiten ==
+Ein Hohlraum ist ein mathematisches, ein physikalisches oder ein natürliches Objekt. Ein Hohlraum hat ein Volumen, das man als Hohlvolumen bezeichnet. Ein in einer Struktur eingeschlossenes Volumen kann ein Hohlraum sein. Dabei verändert die Existenz von Hohlräumen oft die umliegende Struktur, z. B. in Hinsicht auf Festigkeit oder Elastizität (Siehe Porosität).
+Ein natürlicher Hohlraum enthält ein Vakuum oder ist mit Gasen, Flüssigkeiten oder anderen Stoffen gefüllt, was wiederum die umschließende Struktur beeinflussen kann. Insbesondere kann die Grenzfläche zwischen Hohlraum und Struktur sich verändern, schwer zu erkennen sein oder auch nur auf gedanklicher Ebene existieren. Auch ein Hohlraum, der eine oder mehrere Öffnungen hat, also nicht vollständig von der umschließenden Struktur umgeben ist, wird umgangssprachlic

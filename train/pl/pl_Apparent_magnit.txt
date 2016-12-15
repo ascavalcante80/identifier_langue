@@ -1,0 +1,26 @@
+Obserwowana wielkość gwiazdowa (także widzialna, pozorna lub widoma, oznaczana literą m) – wielkość gwiazdowa obiektu widzianego z Ziemi (przy założeniu braku atmosfery). Zależy od mocy promieniowania (jasności) gwiazdy i jej odległości od Ziemi.
+Wielkość obserwowana zależy także od długości fali, na jaką czuły jest odbiornik, dlatego zazwyczaj podaje się w jakim zakresie prowadzono obserwacje:
+mV – wielkość wizualna – natężenie w zakresie widmowym odpowiadającym maksimum czułości ludzkiego oka;
+mbol – wielkość bolometryczna – określa natężenie światła wysyłanego przez obiekt we wszystkich długościach fali, pomijając pochłanianie przez atmosferę ziemską; , gdzie BC to tak zwana poprawka bolometryczna;
+mph – wielkość fotograficzna – odbiornikiem jest ortochromatyczna klisza fotograficzna (obecnie nieużywana);
+mpv – wielkość fotowizualna – odbiornikiem jest panchromatyczna klisza fotograficzna naświetlona przez odpowiednio dobrany filtr (umożliwia to uzyskanie charakterystyki czułości zbliżonej do ludzkiego oka).
+Gołym okiem można w dobrych warunkach dostrzec maksymalnie gwiazdy do ok. 8m gwiazdowej wielkości wizualnej. Jednak, w wyniku powszechnego zanieczyszczenia światłem w większości miejsc próg dostrzegalności jest obniżony – na niebie miejskim wynosi ok. 4m. W dobrych warunkach przez lornetkę można dostrzec obiekty do ok. 10m. Najsłabiej świecące obiekty obecnie obserwowane (przez Kosmiczny Teleskop Hubble’a) mają jasność ok. 28m.
+Obserwowaną wielkość gwiazdową można obliczyć ze wzoru
+
+gdzie
+E – natężenie światła emitowanego ze źródła wyrażone w luksach (mierzone bolometrycznie, fotometrycznie lub oceniane wizualnie);
+C – stała zależna od rodzaju wielkości obserwowanej
+Dla wielkości wizualnej, stałą C dobiera się tak, by najsłabsze gwiazdy widoczne gołym okiem miały jasność równą 6 magnitudo. Standardowo dla wielkości wizualnej: .
+
+
+== Wartości wielkości widzialnych ==
+
+
+=== Maksymalne wielkości widzialne Słońca, Księżyca i planet ===
+Słońce: –26,74m
+Księżyc w pełni: –12,71m
+Wenus (w pobliżu maksymalnej elongacji): –4,7m
+Mars (podczas wielkiej opozycji): –2,7m
+Jowisz: –2,5m
+Merkury (w pobliżu maksymalnej elongacji): –1,8m
+Saturn: ok. 

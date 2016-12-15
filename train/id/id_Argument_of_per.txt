@@ -1,0 +1,12 @@
+Argumen periapsis (juga disebut argumen perifokus atau argumen perisenter), disimbolkan sebagai ω, adalah salah satu elemen orbit dari suatu benda yang mengorbit. Jika dirincikan, ω adalah sudut antara periapsis orbit (titik pendekatan terdekat ke titik pusatnya) dan nove menaik orbit (titik tempat benda langit melintasi bidang referensi dari Selatan ke Utara). Sudut ini diukur dalam bidang orbit dan arah gerakannya. Untuk jenis-jenis orbit tertentu, kata-kata seperti "perihelion" (untuk orbit yang terpusat ke Matahari), "perigea" (untuk orbit yang terpusat ke Bumi), "periastron" (untuk orbit mengitari bintang) dan lainnya bisa menggantikan kata "periapsis". Lihat apsis untuk penjelasan lebih lanjut.
+Argumen periapsis 0° berarti bahwa benda yang mengorbit akan berada pada pendekatan terdekatnya dengan benda pusat pada waktu yang sama ketika melintasi bidang referensi dari Selatan ke Utara. Argumen periapsis 90° berarti bahwa benda yang mengorbit akan mencapai periapsis pada jarak paling utara dari bidang referensi.
+Menambahkan argumen periapsis ke bujur node menaik akan menghasilkan bujur periapsis. Tetapi, khususnya dalam diskusi bintang biner dan eksoplanet, istilah "bujur periapsis" atau "bujur periastron" sering digunakan sama seperti "argumen periapsis".
+
+
+== Penghitungan ==
+Dalam astrodinamika, argumen periapsis ω dapat dihitung sebagai berikut:
+
+(jika  maka )
+di mana:
+ adalah vektor yang mengarah ke node menaik (artinya komponen -z  bernilai nol),
+ adalah vekto

@@ -1,0 +1,28 @@
+En otras geometrías, se deben considerar los efectos locales de la métrica, expresados mediante el tensor métrico, sobre el elemento diferencial de volumen. Dada una subvariedad de Riemann (con clausura compacta) M de dimensión 3 su volumen, viene dado por la integración de la una 3-forma :
+
+Donde g es precisamente el determinante del tensor métrico definido en toda la subvariedad riemanniana.
+
+
+=== GeneralizacionesEditar ===
+Dado un subconjunto compacto del espacio euclídeo tridimensional o de una variedad riemanniana de dimensión 3 puede definirse el volumen de dicho subconjunto mediante la medida de Hausdorff-Besicovitch para definir el volumen dicho subconjunto. El número calculado así será un número del intervalo 
+
+
+== Véase tambiénEditar ==
+
+Área.
+Unidades de medida.
+Metrología.
+Geometría.
+Volumetría.
+Tamaño.
+Masa.
+
+
+== ReferenciasEditar ==
+
+
+=== Enlaces externosEditar ===
+ Wikcionario tiene definiciones y otra información sobre volumen.Wikcionario
+ Wikimedia Commons alberga contenido multimedia sobre Volumen. Commons
+ Wikiquote alberga frases célebres de o sobre tamaño (volumen). Wikiquote
+El Diccionario de la Real Academia Española tiene una definición para volumen.

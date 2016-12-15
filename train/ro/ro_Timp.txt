@@ -1,0 +1,78 @@
+Timpul este unul din conceptele fundamentale ale fizicii și filosofiei. Este o măsură a duratei evenimentelor și are diferite înțelesuri în funcție de contextul în care este definit. În fizică, timpul este o dimensiune a naturii și poate fi văzută ca o măsură a schimbării. În accepția fizicii clasice, timpul este un continuu. Fizica modernă (mai precis, teoria mecanicii cuantice) dispută însă această calitate, sugerând că ar exista doar continuu spațiu-timp. În filosofie, timpul este definit ca un flux neîntrerupt, ireversibil, care nu poate curge decât într-o singură direcție. Este deci un continuu în care evenimentele se succed de la trecut, prin prezent spre viitor și în cadrul căruia se desfășoară toate procesele din natură. Definirea cu exactitate a timpului este o sarcină dificilă, atât în filozofie cât și în știință..
+
+
+== Definiția timpului în fizică ==
+Timpul este o marime fizica abstracta.
+Durata de timp scursă între două evenimente poate fi definită pe baza unei mișcări uniforme (de exemplu deplasarea luminii între două oglinzi paralele, rotirea Pământului), sau și pe baza unui fenomen repetitiv (cum ar fi oscilația unui pendul gravitațional, a unui pendul elastic, a unui circuit LC, etc.). Prin această metodă se poate defini doar timpul pentru punctul din spațiu în care este plasat instrumentul de măsură (ceasul). Pentru alte puncte din spațiu este necesar să se stabilească mai întâi noțiunea de „simultaneitate la distanță” — un criteriu după care să se poată declara dacă două evenimente ce au loc în puncte diferite din spațiu sunt simultane sau nu.
+
+
+=== Timpul în mecanica clasică ===
+În mecanica clasică se consideră „de la sine înțeles” că simultaneitatea a două evenimente este o proprietate independentă de observator și că ordinea cronologică și duratele fenomenelor sunt independente de observator sau experimentator. În acest fel, mulțimea momentelor de timp este izomorfă cu mulțimea punctelor de pe o dreaptă:
+fiecărui eveniment îi corespunde un punct unic de pe axa timpului,
+pentru a asocia un număr fiecărui moment de timp este necesar să fixăm o origine a timpului (un moment pe care să-l notăm convențional cu „0”) și să măsurăm durata dintre momentul respectiv și momentul „0”.
+Timpul în mecanica clasică este omogen (se scurge permanent la fel de repede), nu este influențat de obiectele sau fenomenele ce au loc, și este independent de spațiu.
+
+
+=== Timpul în mecanica relativistă ===
+În teoria relativității, simultaneitatea, duratele și ordinea cronologică a evenimentelor depind de observator. Transformările Lorentz stabilesc (în teoria relativității restrânse) relația dintre duratele fenomenelor așa cum sunt percepute de observatori diferiți, în funcție de viteza cu care se deplasează aceștia față de fenomenele studiate.
+Ca urmare, timpul nu mai există independent de observator. În schimb, se poate construi un model matematic de spațiu cvadridimensional, numit „spațiu-timp”, astfel că fiecărui eveniment i se poate asocia un punct din spațiu-timp. Pentru un observator dat, fiecare punct din spațiu-timp este văzut ca un punct având o anumită poziție în spațiu față de sistemul de referință al observatorului și un anumit moment în timpul observatorului. În teoria relativității restrânse, spațiu-timpul este modelat ca spațiu Minkowski.
+Noțiunea absolută (independentă de observator) de ordine cronologică se păstrează doar în anumite limite. Anume, fiecărui eveniment (fiecărui punct din spațiu-timp) i se pot asocia:
+un con de lumină viitor, constituit din punctele aflate la distanță (în spațiu) mai mică sau egală cu timpul scurs de la evenimentul considerat la acel punct înmulțit cu viteza luminii în vid; cu alte cuvinte, mulțimea de puncte în care poate ajunge lumina emisă în punctul din spațiu-timp corespunzător evenimentului sau mai târziu;
+precum și un con de lumină trecut, constituit din punctele aflate la distanță mai mică sau egală cu timpul scurs de la ele la evenimentul considerat înmulțit cu viteza luminii în vid.
+Conurile de lumină trecut și viitor ale unui punct din spațiu-timp sunt independente de observator.
+Punctele din conul de lumină viitor apar oricărui observator ca fiind ulterioare (în timp) evenimentului considerat. Punctele din conul de lumină trecut apar oricărui observator ca fiind anterioare evenimentului considerat. Orice punct aflat în afara conului viitor și a conului trecut apare față de unii observatori ca fiind anterior evenimentului considerat, față de alții ca fiind ulterior evenimentului și iarăși față de alții ca fiind simultan cu evenimentul considerat. Deoarece viteza luminii în vid este cea mai mare viteză de deplasare a unei acțiuni, rezultă că evenimentele din afara conurilor de lumină ale unui eveniment nu pot influența (cauzal) și nu pot fi influențate de acel eveniment.
+În teoria relativității generalizate, forma spațiu-timpului este influențată de prezența materiei; ca urmare spațiu-timpul nu este o simplă „scenă” în care se desfășoară fenomenele fizice, ci este influențat de acestea.
+
+
+== Sensul curgerii timpului (săgeata timpului) ==
+Există fenomene reversibile, care se desfășoară la fel indiferent de sensul în timp, de exemplu mișcarea punctelor materiale sub efectul gravitației. Dacă am avea un film cu mișcarea planetelor în jurul Soarelui și am rula filmul înainte și înapoi, nu am putea să determinăm care sens este înainte și care înapoi — derularea filmului înapoi nu ar prezenta fenomene incompatibile cu legile fizicii.
+Pe de altă parte, există fenomene ireversibile, în raport cu care timpul „curge” într-un sens bine determinat, dinspre trecut spre viitor: de exemplu, amestecarea spontană a două lichide. Dacă am avea un film reprezentând amestecarea unei picături de cerneală într-un pahar cu apă și am rula filmul înainte și înapoi, am determina ușor sensul corect — derularea înapoi prezintă fenomene contrare celui de-al doilea principiu al termodinamicii.
+Există cel puțin trei lucruri care definesc un sens al curgerii timpului:
+sensul termodinamic, sensul în care crește entropia
+sensul psihologic, determinat de faptul că ne amintim trecutul și nu ne amintim viitorul
+sensul cosmologic, cel în care Universul este în expansiune
+Sensul termodinamic și sensul psihologic sunt probabil îndreptate în același sens deoarece memorarea unei informații în memoria unui calculator, și probabil și în memoria umană, este un proces în cursul căruia entropia crește.
+
+
+== Măsurarea timpului ==
+
+
+=== Unități de măsură ===
+Unitatea de măsură pentru timp în Sistemul Internațional de Unități de Măsură este secunda, având simbolul „s”. Ea este definită pe baza proprietăților atomului de cesiu. Definiția mai veche era făcută pe baza divizării zilei solare medii în ore, minute și secunde; aceasta s-a utilizat până la apariția ceasurilor atomice, capabile să pună în evidență neuniformitatea rotației Pământului.
+
+
+=== Standarde de timp ===
+Standardele de timp sunt reguli prin care unui moment de timp i se asociază o notație de tip „dată și oră”. Există:
+timpul terestru (TT), timpul perceput de un observator aflat pe suprafața geoidului terestru. Este succesorul timpului efemeridelor, definit însă corect în cadrul teoriei relativității.
+Geocentric Coordinate Time (TCG)
+Barycentric Coordinate Time (TCB)
+timpul atomic internațional (TAI), materializarea timpului terestru (TT) realizată prin corelarea unor ceasuri atomice
+timpul universal coordonat (UTC), definit pe baza TAI, dar cu o regrupare diferită a secundelor în minute pentru a-l menține în sincronism cu rotația Pământului.
+
+
+=== Timpul astronomic ===
+În astronomie există câteva noțiuni de „timp”, numite colectiv timp astronomic. Acești „timpi” sunt definiți ca unghiuri între repere de pe Pământ și repere legate de alte corpuri cerești. Ei sunt echivalenți cu timpul (fizic) doar în măsura în care viteza de rotatie a Pământului poate fi considerată constantă. Există:
+timpul sideral, definit ca unghiul orar al punctului vernal. Este dependent de longitudinea observatorului considerat
+timpul solar adevărat, definit ca unghiul orar al Soarelui. Este dependent de observatorul considerat și curge neuniform în timpul anului (vezi ecuația timpului).
+timpul solar mijlociu, definit pe baza timpului solar adevărat dar mediind variațiile din cursul anului
+timpul civil, definit ca timpul solar mediu minus 12 ore (pentru ca ziua să înceapă la miezul nopții, nu la amiază)
+timpul universal, definit ca timpul civil al Observatorului din Greenwitch.
+
+
+=== Exemple de intervale de timp ===
+Vârsta Pământului: 1,3•1017 secunde;
+vârsta Piramidei lui Keops: 1,5•1011 secunde;
+durata medie de viață a unui om: 2•109 secunde;
+durata revoluției Pământului în jurul Soarelui: 3,1•107 secunde = 1 an;
+durata rotației Pământului în jurul axei sale: 8,6•104 secunde = 1 zi;
+timpul de înjumătățire al neutronilor liberi: 700 secunde;
+timpul între două bătăi normale ale inimii: 0,8 secunde;
+perioada notei la a diapazonului: 2,3•10-3 secunde;
+timpul de înjumătățire al miuonilor: 2,2•10-6 secunde;
+perioada tipică de rotație a unei molecule: 1•10-12 secunde;
+timpul de înjumătățire a pionilor neutri: 2,2•10-16 secunde;
+timpul de trecere a unei particule elementare rapide printr-un nucleu de dimensiuni medii: 2•10-23 secunde.
+
+
+== Istoric ==
+Dintotdeauna timpul a fost un subiect important al filozofiei, artei, poeziei și științei. Există multe divergențe în legatură cu însemnătatea lui, din acest motiv este dificil de oferit o definiție a timpului care să nu ducă la controvese. Multe domenii folosesc o definiți

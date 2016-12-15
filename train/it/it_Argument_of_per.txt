@@ -1,0 +1,16 @@
+In meccanica celeste e astronautica l'argomento del pericentro (chiamato anche argomento del periapside o meno correttamente argomento del periasse) è uno degli elementi orbitali di un corpo orbitante ed è rappresentato dalla lettera greca ω. Nello specifico ω è l'angolo tra il vettore che punta al periapside (il punto di massimo avvicinamento al corpo centrale), detto vettore eccentricità, e il vettore che punta al nodo ascendente (il punto in cui il corpo nel suo moto attraversa il piano di riferimento da Sud a Nord), detto vettore asse nodale. L'angolo si misura sul piano orbitale e nella direzione del moto. Per specifici tipi di orbita invece che "pericentro" si possono usare i termini "perielio" (per orbite eliocentriche), "perigeo" (per orbite geocentriche) o "periastro" per una stella generica .
+Un argomento di pericentro di 0° indica che il corpo orbitante sarà nel punto di massima vicinanza al corpo centrale nel momento in cui attraversa il piano di riferimento da Sud a Nord, uno di 90° invece indica che il corpo sarà nel punto più a nord del piano di riferimento quando raggiunge il suo pericentro.
+Sommando all'argomento del pericentro la longitudine del nodo ascendente si ottiene la longitudine del pericentro. Comunque, specialmente nella trattazione di stelle binarie e esopianeti, il termine "longitudine del pericentro" è spesso usato come sinonimo di "argomento del pericentro".
+
+
+== Calcolo ==
+
+L'argomento del pericentro ω può essere calcolato nel modo seguente:
+
+(se  allora )
+Dove:
+ è il vettore asse nodale :
+ è il vettore eccentricità, che è una costante vettoriale del moto.
+
+L'argomento del pericentro non è definito in due casi:
+quando l'orbita giac

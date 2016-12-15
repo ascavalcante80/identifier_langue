@@ -1,0 +1,39 @@
+TLE (Two-Line Elements) – najbardziej popularny format zapisu elementów orbitalnych sztucznych satelitów Ziemi.
+W systemie TLE, w postaci dwóch linii (wierszy) zapisane są parametry keplerowskie orbit sztucznych satelitów oraz inne informacje takie jak numer satelity w katalogu USSPACECOM (United States Space Command) i NORAD, daty wprowadzenia satelity na orbitę i wygenerowania informacji TLE. System zapisu jest powszechnie używany przez NASA i NORAD.
+NASA i NORAD na bieżąco podają nowe efemerydy zapisywane w systemie TLE.
+Dzięki informacjom zawartym w TLE, można przy użyciu specjalnych programów komputerowych wyznaczyć dokładne położenie danego satelity w czasie i przestrzeni.
+Przykład zapisu parametrów orbity satelity geostacjonarnego ASTRA 1A (stan w 2014-01-10 13:11:11,7672 UTC) w formacie TLE:
+
+ASTRA 1A
+1 19688U 88109B   14010.54944175 -.00000011  00000-0  00000+0 0  2965
+2 19688 011.1647 044.6562 0015541 000.0918 153.0075 00.98336015 71458
+
+W formacie TLE, w przyszłości bezproblemowo można dodać trzecią linię (co będzie nieuniknione), zawierającej inne przydatne informacje, można wtedy także spekulować nad innym znaczeniem terminu TLE (Three-Line Elements).
+Format TLE wydaje się być bardzo skomplikowany, jednak po jego rozszyfrowaniu zorientować się można, że zawarte są w nim wystarczające informacje dotyczące orbity danego satelity, dzięki czemu w określonym czasie można przewidzieć jego położenie względem Ziemi.
+W systemie tym zawarte są kepleriańskie parametry orbit, czyli orbit stałych (przewidziane są konkretne zmiany orbity względem czasu). Nieregularności orbitalne sztucznych satelitów, spowodowane są m.in. wiatrem słonecznym, tarciem atmosferycznym i nieregularnym polem magnetycznym na różnych szerokościach geograficznych Ziemi. Dlatego elementy orbitalne TLE, należy często uaktualniać gdyż z biegiem czasu stają się niedokładne i błędnie odzwierciedlają położenie satelity w przestrzeni. Częściej należy uaktualniać TLE satelitów o niskich orbitach sięgających do 400 km wysokości (np. ISS – Międzynarodowej Stacji Kosmicznej) zaleca się aktualizację, co 1-2 tygodni. TLE satelitów o wyższych orbitach można uaktualniać odpowiednio, co kilka tygodni, a nawet miesięcy.
+System TLE jest używany przez wszystkie najpopularniejsze programy astronomiczne śledzące sztuczne satelity i generujące mapy nieba, bez wątpienia należą do nich: Orbitron i SkyMap.
+Struktura TLE:
+
+AAAAAAAAAAAAAAAAAAAAAAAA
+1 AAAAAU LLLLLLLL RRDDD.DDDDDDDD +.MMMMMMMM +SSSSS-S +BBBBB-B E NNNNC
+2 AAAAA III.IIII RRR.RRRR EEEEEEE PPP.PPPP YYY.YYYY ZZ.ZZZZZZZZFFFFFC
+
+Wiersz Nr.0
+AAAAAAAAAAAAAAAAAAAAAAAA– 24 znakowa nazwa sztucznego satelity, przy czym puste znaki wypełnione są spacjami, aby tworzyć pełny ciąg.
+Wiersz Nr.1
+1 – Liczba określająca numer linii danych orbitalnych. Znaki = [01]
+AAAAA – Satellite number – Katalogowy numer satelity. Wartość (00001 – 99999).
+U – Klasyfikacja (klasa) satelity. "U" (Unclassified) – oznacza satelitę dla użytku publicznego. Znaki = [08]
+LLLLLLLL – International Designator – Data określająca wprowadzenie satelity na orbitę. Dwie pierwsze cyfry to ostatnie cyfry roku (Np. 05 =2005), dwie następne trójki to numer kolejnego dnia i część doby. Znaki= [10 – 17]
+RR – Epoka wygenerowania parametrów TLE. Wartość dwu cyfrowa będąca ostatnimi cyframi roku (np. 05 =2005). Znaki= [19 – 20]
+DDD.DDDDDDDD – Epoka wygenerowania parametrów TLE. Jest to numer kolejnego dnia roku i część doby (np. liczba 23.23432123 =23 stycznia, godzina 5:37). Znaki= [21 – 32]
++.MMMMMMMM – Mean Motion – Wartość określająca zmienność liczby obiegów w czasie. Połowa pochodnej liczby obiegów Ziemi dziennie liczona po upływie określonego czasu. Liczba wyrażona jest w obiegach Ziemi na dzień do kwadratu. Znaki = [34 – 43]
++SSSSS-S – Second Time Derivative of Mean Motion – szósta część drugiej pochodnej liczby obiegów Ziemi w czasie. Zapis w postaci formatu mantysa. Znaki = [45 – 52]
++BBBBB-B – BSTAR drag term – Wpływ oporu atmosfery na ruch orbitalny satelity. Zapis w postaci formatu [mantysa]. Znaki = [54 – 61]
+E – Ephemeris type – jedno cyfrowa liczba całkowita będąca modelem fizycznym określającym tor lotu satelity. Owe pole w praktyce jest nieużywane, a jego wartość często wynosi 0. Znaki = [63]
+NNNN – Element number – Czterocyfrowa liczba całkowita (1 – 9999) będąca numerem satelity nadawanym przez NORAD. Znaki = [65 – 68]
+C – Checksum – Jednocyfrowa liczba całkowita, suma kontrolna. Wartość =(0 – 9). Jest to suma kontrolna pola NNNN (modulo 10). Znaki= [69]
+Wiersz Nr.2
+2 – Liczba określająca numer linii danych orbitalnych. Znaki = [01]
+III.IIII – Inklinacja orbity podana w stopniach całkowitych i dziesiętnych. Nachylenie orbity satelity do płaszczyzny równika. Wartość 0° – 180°. Znaki = [09 – 16]
+RRR.RRRR – Right Ascension of the Ascending Node – RA węzła 

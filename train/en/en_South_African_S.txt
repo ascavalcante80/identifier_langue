@@ -1,0 +1,9 @@
+South African Standard Time, or SAST, is the name of the time zone used by all of South Africa, as well as Swaziland and Lesotho. The zone is two hours ahead of UTC (UTC+2) and is the same as Central Africa Time, with Daylight saving time not being observed in either time zone. Solar noon in this time zone occurs at 30° E in SAST, effectively making Pietermaritzburg at the correct solar noon point, with Johannesburg and Pretoria slightly west at 28° E and Durban slightly east at 31° E. Thus the majority of South Africa's population experience true solar noon at approximately 12:00 daily.
+The western Northern Cape and Western Cape differ however. Everywhere on land west of 22°30′ E effectively experiences year-round daylight saving time due to its location in true UTC+1 but still being in South African Standard Time, thus sunrise and sunset are relatively late in Cape Town compared to the rest of the country.
+To illustrate, daylight hours for South Africa's western and eastern-most major cities:
+The South African National Time Standard or 'SA Time' Master Clock is maintained at the Time and Frequency Laboratory of the National Metrology Institute of South Africa (NMISA) at Pretoria, and distributed publicly by an NTP Internet Time service. [1], [2].
+
+
+== History ==
+Before 8 February 1892 there was no uniformity of time in South Africa and local time was in use at the various towns. In 1892 a railway conference was held in Bloemfontein, and amongst the subjects discussed was the difficulty of working a railway system in the absence of a uniform time system. As an outcome the then governments of the Orange Free State, Transvaal and the Cape Colony officially adopted a uniform standard time of Greenwich Mean Time (GMT)+01:30 which was defined as mean time 22.5° east of Greenwich. On 1 March 1903 GMT+02:00 was adopted, which became the current UTC+02:00 when UTC replaced GMT for most purposes.
+Prior to 1 March 1903 the Colony of Natal w

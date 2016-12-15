@@ -1,0 +1,70 @@
+In matematica, un numero è un modo di esprimere una quantità, oppure la posizione in un elenco di elementi, oppure il rapporto tra grandezze dello stesso tipo. Il concetto di numero nasce per la necessità del conteggio, come astrazione del concetto di quantità, realizzato attraverso una corrispondenza biunivoca tra elementi di due insiemi distinti.
+Si definisce operazione numerica una procedura che, a partire da uno o più numeri, genera un altro numero. Le operazioni numeriche fondamentali (dette anche "operazioni aritmetiche") sono: l'addizione, la sottrazione, la moltiplicazione e la divisione. Lo studio delle proprietà di queste operazioni è parte dell'algebra elementare.
+Un insieme di numeri è frequentemente espresso attraverso il concetto di campo.
+
+
+== Tipi di numeriModifica ==
+
+Un numero che esprime la dimensione di un insieme di elementi, così come un numero che identifica la posizione in una successione di oggetti, è detto numero naturale. La necessità di esprimere una grandezza in relazione ad un'altra grandezza ha reso necessaria l'introduzione di altre classi di numeri, come i numeri razionali ed i numeri reali. L'esigenza di rappresentare il numero ottenuto attraverso un'operazione matematica, infine, ha giustificato l'utilizzo di ulteriori classi di numeri come, ad esempio, i numeri algebrici.
+
+
+=== Numeri naturaliModifica ===
+Durante la storia della matematica sono stati definiti diversi insiemi numerici. Tra questi i numeri naturali, che sono:
+
+I numeri naturali (il cui insieme è indicato per convenzione con il simbolo ) sono usati per contare. La presenza dello zero fra i numeri naturali dipende dalla convenzione scelta. Lo zero è previsto dagli assiomi di Peano.
+L'insieme dei numeri naturali costituisce una successione ordinata. Ogni numero è descritto tramite una o più cifre.
+
+
+=== Numeri interi relativiModifica ===
+Se a partire dall'insieme dei numeri naturali si introduce il segno (e lo zero se non incluso), distinguendo tra numeri positivi e numeri negativi, si ottengono i numeri interi relativi (o semplicemente interi), il cui insieme è indicato per convenzione con il simbolo . I numeri interi relativi sono:
+
+
+=== Numeri razionaliModifica ===
+Se a partire dai numeri interi si costruiscono numeri dati dal rapporto tra di loro, si ottengono i numeri razionali, i quali sono quindi esprimibili tramite una frazione (ratio in latino, da cui il nome di numeri "razionali"). Ad esempio:
+
+L'insieme di tutti i numeri razionali è per convenzione indicato col simbolo .
+
+
+=== Numeri algebriciModifica ===
+I numeri algebrici sono numeri ottenibili come radici di equazioni algebriche a coefficienti interi. I numeri razionali sono algebrici. Il viceversa non è in generale vero: ad esempio:
+
+sono numeri algebrici che non possono essere descritti tramite una frazione, non sono razionali.
+Un numero non algebrico è detto trascendente. Ad esempio,  (pi greco) ed  sono trascendenti: non è possibile ottenere  come radice di un'equazione polinomiale a coefficienti interi.
+
+
+=== Numeri realiModifica ===
+L'insieme dei numeri reali comprende i numeri esprimibili, con o senza la virgola, tramite il sistema numerico decimale. I numeri reali comprendono i numeri elencati precedentemente. In particolare i numeri reali si dividono in razionali e irrazionali, oppure in algebrici e trascendenti.
+L'insieme dei numeri reali è simboleggiato per convenzione con .
+
+
+=== Numeri complessiModifica ===
+L'insieme dei numeri reali non fornisce tutte le soluzioni delle equazioni algebriche. Per esempio, l'equazione:
+
+non ha soluzioni nel campo dei numeri reali, perché il quadrato di un numero reale è sempre positivo o nullo. Per risolvere questo problema, è stata introdotta l'unità immaginaria  . Essa è così definita:
+
+Tale numero non appartiene all'insieme dei numeri reali, esso appartiene all'insieme dei numeri complessi. In generale, un numero complesso è un'espressione del tipo:
+
+dove  è l'unità immaginaria e  sono numeri reali. L'insieme dei numeri complessi è indicato per convenzione con il simbolo .
+Gli insiemi numerici sono ciascuno sottoinsieme dell'altro, secondo quest'ordine (dove il simbolo  indica l'inclusione stretta):
+
+
+=== QuaternioniModifica ===
+I numeri complessi sono stati estesi e hanno dato luogo ai quaternioni. L'operazione di moltiplicazione dei quaternioni non gode della proprietà commutativa.
+
+
+=== OttonioniModifica ===
+Gli ottonioni estendono i quaternioni. Questa volta si perde la proprietà associativa. Gli unici sistemi associativi con dimensione finita, oltre ai reali, sono i quaternioni e i numeri complessi.
+
+
+== NotazioneModifica ==
+I numeri vanno distinti per il tramite dei nomi, dato che i numeri sono dei concetti e anche se i nomi utilizzati nelle varie lingue variano i concetti rimangono gli stessi. La notazione di numero come serie di cifre è definita dai sistemi di numerazione. I popoli spesso associano a dei numeri utilizzati di frequente dei nomi particolari, oltre a quelli che vengono assegnati dal sistema di numerazione, spesso questi nomi sono utilizzati in contesti specifici, un classico esempio è la dozzina.
+
+
+== EstensioniModifica ==
+Gli ultimi sviluppi della teoria dei numeri hanno condotto ai numeri iperreali ed ai numeri surreali, che estendono i numeri reali dai numeri infinitesimi ai numeri infinitamente grandi attraverso degli inserimenti. Mentre i numeri reali sono infinitamente prolungabili alla destra del punto decimale, si può anche provare a espandere i numeri a sinistra in modo infinito, ciò conduce ai numeri p-adici. Per gestire insiemi infiniti, i numeri naturali sono stati generalizzati nei numeri ordinali e nei numeri cardinali. Il primo insieme viene utilizzato per definire l'ordine di inserimento degli insieme il secondo definisce il formato di inserimento. Nel caso di insiemi finiti si equivalgono.
+Le operazioni aritmetiche sui numeri sono addizione, sottrazione, moltiplicazione e divisione. Queste operazioni sono state generalizzate in una branca dell'algebra chiamata algebra astratta. Essa contiene i concetti di gruppo, anello e campo.
+
+
+== Somiglianze nelle varie cultureModifica ==
+In molte culture la rappresentazione grafica dei numeri è assai simile. I numeri "uno", "due" e "tre" degli antichi romani erano espressi come I, II, III (numeri romani). I cinesi usavano una notazione analoga, con le cifre in orizzontale, o in verticale, ma al contrario dei romani utilizzavano un sistema posizionale, simile al nostro attuale, con le cifre da 0 a 9. I numeri, detti tsu o hêng, cambiavano orientamento a seconda della posizione: | = | era 121, - || - ◦ era 1210. Gli tsu erano verticali, gli hêng orizzontali, i numeri sopra al cinque avevano una bacchetta disposta perpendicolarmente alle altre. Il sistema era impiegato con le bacchette da calcolo, che i cinesi manovravano a velocità tali da stupire i primi missionari nestoriani.
+Tuttavia, non c'era un segno univoco per definire il quattro tra i romani, mentre per i cinesi era ||||. I romani usavano una notazione a sottrazione: esprimevano il quattro con una V preceduta da una I. La V indicava il num

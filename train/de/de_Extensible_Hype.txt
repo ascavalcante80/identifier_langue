@@ -1,0 +1,66 @@
+Vorlage:Infobox Dateiformat/Wartung/MagischeZahl fehltVorlage:Infobox Dateiformat/Wartung/Website fehlt
+Der W3C-Standard Extensible HyperText Markup Language (erweiterbare HTML; Abkürzung XHTML) ist eine textbasierte Auszeichnungssprache zur Strukturierung und semantischen Auszeichnung von Inhalten wie Texten, Bildern und Hyperlinks in Dokumenten. Es ist eine Neuformulierung von HTML 4.01 in XML: Im Gegensatz zu HTML, welche mittels SGML definiert wurde, verwendet XHTML die strengere und einfacher zu parsende SGML-Teilmenge XML als Sprachgrundlage. XHTML-Dokumente genügen also den Syntaxregeln von XML.
+
+
+== XHTML 1.0: Übergang von HTML zu XHTMLBearbeiten ==
+XHTML 1.0 enthält alle Elemente von HTML 4.01, sodass eine Umformung von HTML-4.01-konformen Seiten zu XHTML 1.0 leicht möglich ist. Ein nicht XHTML-fähiger Webbrowser kann XHTML-Dokumente unter bestimmten Bedingungen trotzdem richtig darstellen (siehe MIME-Typen und HTML-Kompatibilität): er verarbeitet sie als normales HTML. Dabei wird ausgenutzt, dass die HTML-Parser der verbreiteten Browser tolerant gegenüber Syntaxfehlern sind. Diese Fehlertoleranz entstand als Antwort darauf, dass zahlreiche HTML-Dokumente im World Wide Web nicht dem formalen Standard entsprachen und Anwender Browsermeldungen über HTML-Syntax-Fehler als lästig empfinden. Für XHTML hingegen gilt die XML-Grundidee des unkomplizierten Datenaustauschs und der problemlosen automatisierten Verarbeitung. Daher sind Programme, die XHTML verarbeiten, nicht mehr derartig tolerant.
+Neuere XHTML-Dokumenttypen enthalten keine Layout-Auszeichnungen mehr. XHTML Transitional 1.0 ist der letzte Dokumenttyp, welcher noch Layout-Elemente enthält, wie etwa <font> oder <b>. In moderneren Dokumenttypen wie XHTML Strict 1.0 sind zwar noch wenige Layout-Elemente enthalten, allerdings nur noch aus Gründen der Rückwärtskompatibilität zu den Transitional-Dokumenttypen. In XHTML Basic oder XHTML 2 schließlich sind Layout-Elemente gar nicht mehr enthalten. Für die visuelle Gestaltung von XHTML-Elementen soll nur noch auf externe CSS-Regeln verwiesen werden.
+
+
+== XHTML-ModularisierungBearbeiten ==
+Um die Entwicklung von Sprachen zu ermöglichen, die auf XHTML basieren, wurden verwandte und zusammengehörige Elemente in XHTML 1.1 in sogenannten Modulen zusammengefasst. Basierend auf diesen in DTDs und zukünftig in XML-Schema abgefassten Modulen kann man eigene XHTML-Dokumenttypen nach dem Baukastenprinzip zusammenstellen und mit anderen XML-basierten Sprachen mischen. Beispielanwendungen der XHTML-Modularisierung sind XHTML 1.1, XHTML Basic sowie die Mischungen mit SMIL (Multimedia), SVG (Vektorgrafik) und MathML (mathematischer Formelsatz). Zum Einbinden allgemeiner Objekte wie zum Beispiel Multimedia-Plug-ins gibt es das Objektmodul.
+
+
+== VersionenübersichtBearbeiten ==
+XHTML fasst als Begriff die verschiedenen XHTML-Versionen zusammen:
+XHTML 1.0 stellt die XML-basierte Neuformulierung von HTML 4.01 dar. XHTML 1.0 erhält die bekannten drei Dokumenttypen Strict, Transitional und Frameset. XHTML 1.0 wurde so angelegt, dass eine Rückwärtskompatibilität mit den verbreiteten HTML-Browsern möglich ist. Gleichzeitig kann es von neueren Browsern gemäß den strengen Regeln verarbeitet werden.
+Die aktuelle Version XHTML 1.1 trennt sich von den missbilligten Elementen und Attributen der Transitional- und der Frameset-Variante, die direkt die Präsentation des Dokuments beeinflussen. Der Sprachumfang entspricht somit weitestgehend XHTML 1.0 Strict, hinzu kommen Elemente für Ruby-Erläuterungen. XHTML 1.1 ist nicht mit Blick auf die Kompatibilität zu HTML-Browsern angelegt.
+XHTML Basic ist für minimalistische Geräte wie Mobiltelefone und Handhelds ausgelegt, indem nur einige Sprachbestandteile (Module) von XHTML verwendet werden. XHTML Basic ist die Basis für XHTML Mobile Profile (siehe WAP 2.0) und für WML 2.0.
+Durch die Modularisierung entstanden weitere Misch-Versionen, wie z. B. XHTML 1.1 plus MathML plus SVG.
+Die Version XHTML 2.0, deren Entwicklung zugunsten von HTML5 Ende 2009 eingestellt wurde, hätte mit dem Erbe aus HTML 4 gebrochen und sah grundlegende Veränderungen vor.
+Wichtige Neuerungen wären das vereinfachte uneingeschränkte Notieren von Hyperlinks gewesen, das vereinfachte Einbinden anderer Medienarten (z. B. Grafiken und Videos), die erweiterten Möglichkeiten, um Zugänglichkeit zu gewährleisten, und das ausgereiftere Angeben von Metadaten. Bisherige Kernfunktionen von HTML bzw. XHTML wären in XHTML 2.0 in andere XML-Sprachen ausgelagert worden, namentlich XForms für Formulare, XML Events zur Einbindung von Scripten und XFrames für Frames.
+
+
+== Die wichtigsten Unterschiede zwischen HTML und XHTMLBearbeiten ==
+Außerdem:
+Das Start-Tag des Wurzel-Elements html muss immer die Namensraum-Angabe für XHTML enthalten: <html xmlns="http://www.w3.org/1999/xhtml">
+In XHTML 1.1 wurde das lang-Attribut durch das xml:lang-Attribut von XML ersetzt. In XHTML 1.0 wird die Angabe beider Attribute empfohlen, z. B. <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">.
+Die Rolle des name-Attributs bei den Elementen a, frame und map übernimmt ab XHTML 1.0 das id-Attribut. Wenn Abwärtskompatibilität erwünscht ist, sollten sowohl das name- als auch das id-Attribut mit gleichem Attributwert notiert und XHTML 1.0 Transitional deklariert werden. In XHTML 1.1 bzw. XHTML-Modularisierung existiert kein name-Attribut mehr für diese Elemente.
+Das Attribut name bei den Elementen form und img ist nur noch in XHTML 1.0 Transitional vorhanden, nicht in XHTML 1.0 Strict und XHTML 1.1. Diese Einschränkung ist vor allem beim DOM-Zugriff auf die Elemente relevant.
+
+
+=== BeispielBearbeiten ===
+Dies ist der Quelltext eines standardkonformen HTML-Dokuments. Das Beispiel ist bewusst so kurz wie möglich gehalten und soll Unterschiede bei der erlaubten Syntax aufzeigen. Auch in HTML empfiehlt es sich, alle notwendigen Elemente vollständig zu notieren.
+
+Das html-Element wurde ganz weggelassen, für das head- bzw. body-Element fehlen End- bzw. Starttag, p- und li-Elemente wurden nicht geschlossen. Das src-Attribut des Bildes ist ohne Anführungszeichen angegeben.
+Das gleiche Dokument als gültiges XHTML 1.1 könnte folgendermaßen aussehen:
+
+Die XML-Deklaration <?xml version="1.0" encoding="UTF-8" ?> ist optional, wird aber vom W3C empfohlen, da sie XML-Parsern die Zeichenkodierung des Dokuments mitteilt. Die Zeichenkodierung UTF-8 sollte in Großbuchstaben geschrieben werden. Dies widerspricht auf den ersten Blick dem XHTML-Grundsatz, alle Elemente und Attribute klein zu schreiben. Jedoch handelt es sich um den offiziellen Namen, vergeben von der IANA, bei dessen Interpretation die XML-Parser die Groß-/Kleinschreibung ignorieren können. Wenn die Kodierungsangabe fehlt und keine Kodierung im HTTP-Header gesendet wurde, kann der Browser gemäß dem XML-Standard die Kodierung UTF-8 oder UTF-16 verwenden.
+Die Angabe der XML-Deklaration führt dazu, dass der Internet Explorer 6 und Opera 7.0 bis 7.03 in den sogenannten Quirks-Modus springen, was zu Besonderheiten bei der Verarbeitung der Stylesheets und JavaScript führt. Aus diesem Grund wird die XML-Deklaration oft weggelassen, wenn das Dokument als text/html an diesen Browser ausgeliefert wird (siehe den folgenden Abschnitt über MIME-Typen).
+
+
+== MIME-Typen und HTML-KompatibilitätBearbeiten ==
+Beim Übertragen von HTML- und XHTML-Dokumenten finden bestimmte MIME-Typen Verwendung, z. B. in der Content-Type-Kopfzeile bei E-Mail und vor allem bei HTTP:
+Für HTML-Dokumente ist es gemäß RFC 2854 vorgesehen, sie mit dem MIME-Typ text/html zu senden.
+Ein XHTML-1.0-Dokument soll normalerweise gemäß RFC 3236 mit dem MIME-Typ application/xhtml+xml gesendet werden. Wenn sich das Dokument an die Richtlinien der Rückwärtskompatibilität hält, kann es gemäß RFC 2854 und dem XHTML-1.0-Standard als text/html gesendet werden. Aufgrund der mangelnden XHTML-Unterstützung der verbreiteten Software kommt der letzteren Option ein besonderer Stellenwert zu.
+Da für XHTML 1.1 keine Kompatibilität mit gewöhnlichen HTML-Browsern vorgesehen ist, sollen solche Dokumente gemäß einer W3C-Mitteilung nur als application/xhtml+xml ausgeliefert werden. Dasselbe gilt für die übrigen Abkömmlinge von XHTML-Modularisierung, also etwa XHTML Basic.
+Vom MIME-Typ hängt ab, wie die Browser das Dokument verarbeiten. Erst wenn ein XHTML-Dokument etwa mit dem Inhaltstyp application/xhtml+xml deklariert wird, setzen XHTML-fähige Browser ihre XML-Parser ein, durch welche die Vorteile des strengen XHTML-Codes, wie etwa die einfache Verarbeitbarkeit, ausgenutzt werden. Wenn dies der Fall ist, kann das Dokument nur dann dargestellt werden, wenn es sich um wohlgeformtes XML handelt. Viele aktuelle Browser, darunter Mozilla, Mozilla Firefox, Google Chrome, Opera und Safari, unterstützen den MIME-Typ application/xhtml+xml. Der weit verbreitete Internet Explorer kann mit diesem MIME-Typ jedoch erst seit Version 7.0 etwas anfangen: Ältere Versionen öffnen einen Download-Dialog, anstatt das Dokument darzustellen. Daher sollte text/html verwendet werden, wenn der Browser nicht ausdrücklich in der Accept-Kopfzeile der Anfrage übermittelt hat, dass er application/xhtml+xml unterstützt. Dies kann serverseitig ermittelt werden, um den passenden MIME-Typ zu senden – wobei man für den Internet Explorer ab Version 7.0 eine Versionsprüfung durchführen müsste, da der IE nach wie vor */* als MIME-Typ sendet.
+
+
+== XHTML und LayoutBearbeiten ==
+Mit HTML 4 begann das W3C damit, diejenigen Elemente und Attribute, die direkt für die Präsentation des Dokuments zuständig waren und keine ausgabe-unabhängige Strukturierung ausdrückten, schrittweise aus HTML auszuschließen. Zwar enthält XHTML 1.0 genauso wie HTML 4 eine Transitional-Variante mit diesen veralteten Sprachbestandteilen. Es hat sich jedoch im modernen Webdesign durchgesetzt, dass die Strict-Variante verwendet wird und die Dokumente konsequent mit CSS formatiert werden. Der strukturierte Inhalt und das jeweilige Layout können dadurch getrennt definiert werden. Mit XHTML 1.1 und dem geplanten XHTML 2.0 wollte das W3C diese Entwicklung endgültig abschließen, indem nur noch ausgabe-unabhängige Textauszeichnung erlaubt und das Layout zwangsläufig mit CSS oder ähnlichen Sprachen realisiert werden sollte.
+
+
+== ErweiterungenBearbeiten ==
+
+
+=== Erweiterungen bei HTMLBearbeiten ===
+HTML-Seiten besitzen als SGML-Sprache zwar eine genau definierte Struktur, die in der Dokumenttypdefinition (DTD) festgelegt ist. Ohne Kenntnis der DTD kann aber die hierarchische Baumstruktur eines Dokuments nicht zweifelsfrei ermittelt werden. Manche Elemente haben keinen End-Tag (wie z. B. <br> für einen Zeilenumbruch) oder ein optionales End-Tag (wie <p> für einen Textabsatz). Nur die DTD bestimmt, welche Elemente dies sind. Kennt der Parser sie nicht, so ist die Dokumenthierarchie mehrdeutig. XHTML als XML-Sprache behebt diesen Mangel.
+HTML ist eigentlich nicht erweiterbar, übliche Browser gehen aber bei der HTML-Verarbeitung folgendermaßen vor:
+Auszeichnung durch unbekannte Elemente wird ignoriert.
+Bei syntaktischen Fehlern wird versucht, trotzdem einen logischen Elementenbaum zu erzeugen. Es wird versucht, aus einer nicht-konformen Seite das Beste zu machen, d. h. eine Seite wird auf jeden Fall dargestellt.
+Damit ist die Verarbeitung von verschiedenen HTML-Versionen möglich. Führt eine Version ein neues Element ein, wird dieses von älteren Browsern einfach ignoriert. Gleiches gilt für Attribute. Kennt ein HTML-3.2-fähiger Browser beispielsweise das in HTML 4.0 eingeführte acronym-Element für Abkürzungen nicht, wird es überlesen und die Abkürzung erscheint in normaler Textformatierung. Dasselbe gilt für browserspezifische Erweiterungen. Das blink-Element ist beispielsweise in keinem HTML-Standard enthalten. Einige Browser, ursprünglich nur der Netscape Navigator, stellen den Text dann blinkend dar. Andere Browser stellen den Text wiederum normal dar.
+
+
+=== Erweiterungen bei XHTMLBearbeiten ===
+Im Gegensat

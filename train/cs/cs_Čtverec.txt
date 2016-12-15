@@ -1,0 +1,18 @@
+V geometrii je čtverec pravidelný čtyřúhelník. Je to tedy rovinný útvar ohraničený čtyřmi shodnými úsečkami, jehož všechny vnitřní úhly jsou shodné.
+Přeneseně má čtverec v algebře význam druhé mocniny, protože obsah čtverce je roven druhé mocnině délky jeho strany, například čtverec vzdálenosti chápeme jako druhá mocnina vzdálenosti.
+
+
+== VlastnostiEditovat ==
+Čtverec je rovnoběžník, lze ho považovat za zvláštní případ obdélníku nebo kosočtverce.
+Protilehlé strany jsou rovnoběžné.
+Všechny strany jsou shodné.
+Všechny vnitřní úhly jsou pravé.
+Úhlopříčky čtverce jsou shodné a navzájem kolmé, půlí jeho úhly i sebe navzájem.
+Čtverci lze jakožto pravidelnému mnohoúhelníku opsat i vepsat kružnici, je to zároveň tětivový čtyřúhelník i tečnový čtyřúhelník. Je to tedy dvojstředový čtyřúhelník a středy kružnice opsané i vepsané splývají.
+Čtverec má ze všech obdélníků s daným obvodem největší obsah a ze všech obdélníků s daným obsahem nejmenší obvod.
+Euklidovskou rovinu lze definovat jako dvojrozměrný prostor, v němž existuje čtverec.
+
+
+== VzorceEditovat ==
+
+Pomocí délky strany čtverce  lze vyjádř

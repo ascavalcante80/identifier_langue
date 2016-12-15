@@ -1,0 +1,13 @@
+Absolutní hvězdná velikost (absolutní jasnost, absolutní magnituda) je veličina určující hvězdnou velikost vztaženou na standardní pozorovací podmínky. Rozlišujeme při tom dva případy.
+
+
+== HvězdyEditovat ==
+U hvězd a objektů podobných hvězdám označujeme tuto veličinu symbolem M a definujeme ji jako hvězdnou velikost, jakou by tato hvězda měla při pozorování ze vzdálenosti 10 parseků čili 32,6 světelných roků. Vztah mezi absolutní hvězdnou velikostí M a zdánlivou hvězdnou velikostí m je dán rovnicí
+M = m + 5 [1 − log10(d)],
+kde d je vzdálenost hvězdy v parsecích od pozorovatele (od Země).
+Stejně jako v případě zdánlivých hvězdných velikostí, i u absolutních hvězdných velikostí rozlišujeme různé varianty těchto veličin. Při stanovení na základě vizuálního pozorování nazýváme tuto veličinu absolutní vizuální hvězdnou velikostí a značíme ji Mv; je-li změřena ze snímku pořízeného fotografickou cestou, nazýváme ji absolutní fotografickou hvězdnou velikostí a značíme Mph, resp. Mpv při použití fotografického materiálu s obdobnou citlivostí, jakou má lidské oko (z angl. photovisual). V současné době při měřeních pomocí přístrojů se nejčastěji stanovují ve třech spektrálních oborech, a to v ultrafialovém oboru při vlnové délce 360 nm (symbol veličiny MU), ve viditelné oblasti při 420 nm (modrá barva, MB) a při 540 nm (žlutozelená barva, tzv. vizuální, MV). Pro hvězdy spektrální třídy A0 jsou si všechny tyto veličiny právě (definitoricky) rovny. Současné stanovení těchto tří veličin napovídá o povrchové teplotě dané hvězdy; čím jsou rozdíly MB−MV a MU−MB větší (pozitivnější), tím jsou povrchové teploty daných hvězd nižší a naopak.
+
+
+== Tělesa sluneční soustavyEditovat ==
+Absolutní hvězdná velikost H u malých těles sluneční soustavy, jako např. planetek, měsíců planet, komet je definována jako hvězdná velikost, kterou by uvedené těleso mělo při pozorování ze Země ze vzdálenosti právě 1 astronomické jednotky (AU), kdyby současně bylo vzdáleno 1 AU od Slunce a nulové hodnotě úhlu, který svírá směr od zkoumaného tělesa ke Slunci se směrem k pozorovateli (tj. úhel Slunce-těleso-Země, tzv. fázový úhel φ). V tomto případě závisí vztah mezi takto definovanou absolutní hvězdnou velikostí H a zdánlivou hvězdnou velikostí m nejen na vzdálenosti d pozorovatele od zkoumaného objektu a vzdálenosti r objektu od Slunce, ale také na optických vlastnostech objektu, především na odrazivosti jeho povrchu (albedu), na struktuře jeho povrchu a na fázovém úhlu φ:
+mv = Hv + 5*log(r×d) + 

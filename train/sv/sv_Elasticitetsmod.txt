@@ -1,0 +1,14 @@
+Elasticitetsmodul E eller Youngs modul (efter Thomas Young) Y är en materialberoende parameter inom hållfasthetsläran som beskriver förhållandet mellan mekanisk spänning och deformation. Elasticitetsmodulen förhåller sig till skjuvmodulen enligt en formel som inkluderar Poissons tal.
+Elasticitetsmodulen E för en provstav under ett dragprov är definierad som
+
+där σ är spänningen i staven och ε är dess töjning. Enheten är pascal (Pa=N/m²) och storleksordningen är typiskt 100 GPa. Ekvationen är en omformulering av Hookes lag.
+Elasticitetsmodulen bestäms av atomernas bindningar och förändras därför inte vid till exempel härdning eller glödgning då dessa behandlingar inte förändrar atombindningarna.
+
+
+== Ungefärliga värden ==
+Elasticitetsmodulen kan variera mellan olika uppmätningar av draghållfasthet beroende på bland annat testmetod och testmaskin. Dessa värden är approximationer och endast tänkta för ett jämförelsesyfte.
+
+
+== Se även ==
+Dragprovkurva
+Hooke

@@ -1,0 +1,3 @@
+ontologi design
+Protégé Opensource visuelt ontologi-editor skrevet i Java. Protégé har en arkitektur som tillader brugere at udvikle plug-in værktøjer. Eksisterende plug-ins tillader brug af forskellige formater inklusive OWL og RDF samt visualisering af ontologier på forskellige måder.
+Jena Opensource ontology API (Application Programming Interface) skrevet i Java. Jena understøtter læsning og redigering af OWL- and DAML-ontologier. Protégé anvender Jena til sin OWL-implementering.

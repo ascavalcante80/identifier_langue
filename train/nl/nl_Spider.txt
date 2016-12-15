@@ -1,0 +1,24 @@
+Een spider (ook wel webcrawler genoemd) is een bot die het wereldwijde web op een methodische en geautomatiseerde manier doorbladert. Spiders maken veelal een lokale kopie van de gevonden pagina's om deze later te kunnen verwerken en indexeren voor bijvoorbeeld zoekmachines.
+De werkingswijze is eenvoudig: de spider begint met een lijst met URL's en bezoekt deze één voor één, waarbij alle hyperlinks die in de bezochte pagina's voorkomen aan de lijst van te bezoeken URL's worden toegevoegd. Op deze wijze kan een spider vrijwel alle publiekelijk toegankelijke pagina's op het internet langsgaan. Veelal komen spiders met een vaste regelmaat langs om hun index actueel te houden.
+Spiders dienen zich tijdens hun rondgang te gedragen omdat ze pagina's nu eenmaal sneller kunnen opvragen en verwerken dan een mens. De meeste spiders nemen de moeite om pagina's van één webserver niet allemaal achter elkaar op te vragen maar deze over een tijdsbestek te spreiden om te voorkomen dat de betreffende webserver overbelast raakt.
+
+
+== Robots.txt ==
+Voor eigenaars en beheerders van websites zijn methodes geïntroduceerd om het gedrag van spiders te beïnvloeden. Zo kan in de hoofdmap van de website een tekstbestandje genaamd 'robots.txt' worden gezet met beperkingen voor één of meerdere spiders. Er kan worden aangegeven welke delen van de website door bepaalde spiders niet mogen worden bezocht. Alvorens een website te bezoeken zal een goede spider controleren of dit bestand bestaat en of er voor de betreffende spider beperkingen staan aangegeven.
+Sommige spiders negeren robots.txt. Dit kan nadelige gevolgen hebben voor de website die ze bezoeken. Om dit tegen te gaan kan men op een webserver de IP-adressen van de betreffende spiders blokkeren. Robots die zich goed gedragen houden zich aan de regels die in robots.txt staan.
+
+
+== Meta-tags ==
+Het is mogelijk in de header van individuele webpagina's meta-tags op te nemen voor robots. Als deze meta-tag niet aanwezig is, gaat de robot uit van de standaardwaarde:
+
+<meta name="robots" content="index,follow">
+
+Het content-element kent de volgende variaties:
+index / noindex – wel of niet indexeren van de pagina
+follow / nofollow – wel of niet volgen van hyperlinks op de pagina
+noarchive – de pagina niet lokaal archiveren
+Index en Follow hebben niet direct effect, standaard wordt een pagina geïndexeerd en worden de hyperlinks op een pagina gevolgd.
+
+
+== Useragent ==
+Een spider meldt zich aan met een bepaalde useragent. Bijvoorbeeld, de spiders van Go

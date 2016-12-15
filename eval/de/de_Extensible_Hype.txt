@@ -1,0 +1,48 @@
+z zu HTML wurde XHTML mit Blick auf die Möglichkeit der Erweiterbarkeit geschaffen. XHTML nutzt dazu das Namensraum-Konzept von XML. Eine XHTML-Version bildet dabei einen solchen Namensraum. Andere XML-Sprachen wie MathML, SVG und RDF stellen weitere Namensräume dar. In einem XHTML-Dokument können nun Elemente aus fremden Namensräumen verwendet werden, indem Sie über das Attribut xmlns eine entsprechende Namensraum-Angabe erhalten. Dazu muss ein spezieller Doctype verwendet werden, welcher die Elemente definiert - bei Verwendung von MathML ist es:
+
+Ein Beispiel für die Nutzung des Namensraum-Konzeptes zur Erweiterung von XHTML ist die Einbettung von MathML:
+
+Ein MathML-fähiger Browser könnte diesen Dokumentausschnitt folgendermaßen darstellen:
+
+Erweiterungen sind also durch Bildung von neuen Namensräumen möglich, ohne dass die XHTML-Standards selbst geändert werden müssen. Durch die Verwendung von Namensräumen ist ein Konflikt von Elementen gleichen Namens in verschiedenen Erweiterungen ausgeschlossen. Diese können immer eindeutig zugeordnet und zum Beispiel über das DOM mit der Kennung des Namensraums angesprochen werden. Die infolge der XHTML-Modularisierung entstandenen erweiterten XHTML-Versionen bauen auf diesem Konzept auf.
+Durch das Entstehen solcher Erweiterungen tritt eine ähnliche Situation wie bei HTML-Erweiterungen ein, denn nicht alle Browser unterstützen die eingebundenen Erweiterungen wie zum Beispiel SVG. Der Browser hat folgende Möglichkeiten, mit Elementen aus unbekannten Namensräumen umzugehen:
+Er kann die Auszeichnung durch solche Elemente ignorieren und die Textinhalte einfach darstellen (wie bei HTML).
+Er kann alle Elemente des unbekannten Namensraums sowie deren Textinhalte ignorieren.
+Er kann versuchen, aus dem Web ein Plug-in für die Erweiterung zu laden, und die Seite dann korrekt darstellen.
+
+
+== EinzelnachweiseBearbeiten ==
+↑ RFC 3236
+↑ http://blog.codingoutloud.com/2009/04/08/is-utf-8-case-sensitive-in-xml-declaration/
+↑ http://www.iana.org/assignments/character-sets
+↑ http://www.w3.org/TR/2006/REC-xml-20060816/#charencoding
+
+
+== WeblinksBearbeiten ==
+
+
+=== XHTML betreffende SpezifikationenBearbeiten ===
+XHTML selbst
+HTML 4.01 (deutsche Übersetzung)
+XHTML 1.0 (deutsche Übersetzung)
+Modularization of XHTML (deutsche Übersetzung)
+Abkömmlinge der XHTML-Modularisierung
+XHTML 1.1 (deutsche Übersetzung)
+XHTML Basic (deutsche Übersetzung)
+An XHTML + MathML + SVG Profile
+XHTML + RDFa
+XHTML+SMIL Profile
+XHTML 2.0
+Grundlagen für XHTML
+XML (deutsche Übersetzung)
+XML Namespaces (deutsche Übersetzung)
+
+
+=== XHTML-Einführungen und -WerkzeugeBearbeiten ===
+Selfhtml
+Einführung in XHTML, CSS und Webdesign
+Fachartikel im T3N Magazin XHTML2: Vom XML-Hype zur Anwendung (PDF-Datei; 252 kB)
+XHTML-Überblick von Jens Meiert
+HTML and XHTML Frequently Answered Questions
+XHTML 1.0 Schema Validator zur Überprüfung der Syntax eines XHTML-Dokuments (englisch)
+W3C Markup Validation Service, ebenfalls zur Prüfung auf syntaktische Fehler (englisch)

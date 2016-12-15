@@ -1,0 +1,20 @@
+Web crawler, em português rastreador web, é um programa de computador que navega pela World Wide Web de uma forma metódica e automatizada. Outros termos para Web crawlers são indexadores automáticos, bots, web spiders, Web robot, ou Web scutter.
+O processo que um Web crawler executa é chamado de Web crawling ou spidering. Muitos sites, em particular os motores de busca, usam crawlers para manter uma base de dados atualizada. Os Web crawlers são principalmente utilizados para criar uma cópia de todas as páginas visitadas para um pós-processamento por um motor de busca que irá indexar as páginas baixadas para prover buscas mais rápidas. Crawlers também podem ser usados para tarefas de manutenção automatizadas em um Web site, como checar os links ou validar o código HTML. Os crawlers também podem ser usados para obter tipos específicos de informações das páginas da Web, como minerar endereços de email (mais comumente para spam).
+Um Web crawler é um tipo de robô de Internet ou agente de software. Em geral, ele começa com uma lista de URLs para visitar (também chamado de seeds). À medida que o crawler visita essas URLs, ele identifica todos os links na página e os adiciona na lista de URLs para visitar. Tais URLs são visitadas recursivamente de acordo com um conjunto de regras.
+
+
+== Exemplos de Web crawlers ==
+DataparkSearch
+Wget
+HTTrack
+JSpider
+Methabot
+Pavuk
+WebSPHINX
+YaCy
+Crawljax
+Yahoo! Slurp é o nome do crawler do Yahoo!.
+Msnbot é o nome do crawler do Bing - Microsoft.
+Googlebot é o nome do crawler do Google.
+Methabot é um crawler com suporte a scripting escrito em C.
+arachnode

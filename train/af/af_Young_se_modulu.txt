@@ -1,0 +1,21 @@
+In meganika van materiale, is Young se modulus (E) 'n mate van die styfheid van 'n materiaal. Dit staan ook bekend as die elastisiteitsmodulus bekend (alhoewel Young se modulus streng gesproke slegs een van verskeie elastisiteitsmodulusse soos die massamodulus en die skuifmodulus is). Dit word gedefinieer as die verhouding van spanning stress oor strain in die gebied waar Hook se wet geldig is vir die materiaal.
+Dit kan eksperimenteel bepaal word vanaf die helling van 'n spanning-vervormingskromme wat geskep word tydens spanningstoetse op 'n eenvoudige materiaal van die monster.
+Young se modulus is vernoem na Thomas Young, die 18de eeuse Britse wetenskaplike. Die begrip is egter reeds in 1727 deur Leonard Euler ontwikkel en die eerste eksperimente wat die begrip van Young se modulus in sy huidige vorm gebruik het is deur die Italiaanse wetenskaplike Giordano Riccati in 1782 uitgevoer – wat Young se werk met sowat 25 jaar vooruitgegaan het.
+
+
+== Eenhede ==
+Young se modulus is die verhouding van spanning, wat 'n eenheid van druk het tot vormverandering (rek), wat dimensieloos is; daarom word Young se modulus self in drukeenhede uitgedruk.
+Die SI-eenheid van elestisiteitsmodulus (E) is die pascal; die praktiese eenhede is megapascal (MPa) of gigapascal (GPa of kN/mm2).
+
+
+== Gebruike ==
+Young se modulus maak dit moontlik om die gedrag van 'n materiaal wat aan 'n vrag lading onderworpe is te bereken. Dit kan byvoorbeeld gebruik word om te voorspel hoeveel 'n draad sal rek of buig as dit aan meganiese spanning onderwerp word. Sommige berekeninge vereis ook die gebruik van ander materiaaleienskappe, soos die skuifmodulus, digtheid of Poisson se verhouding.
+
+
+=== Lineêr en nie-lineêre materiale ===
+Vir baie materiale is Young se modulus basies konstante oor 'n reeks van vervormings. Sulke materiale word lineêr genoem en gehoorsaam Hooke se wet. Voorbeelde van lineêre materiale sluit in staal, koolstofvesel en glas. Rubber en grond (buiten vir klein vervormings) is nie-lineêre materiale.
+
+
+=== Rigtingafhanklike materiale ===
+Die meeste metale en keramieke asook baie ander materiale is isotropies wat beteken dat hulle meganiese eienskappe dieselfde is in alle rigtings. Metale en keramieke kan egter met onsuiwerhede behandel word sodat hulle 'n grein verkry. Die grein van hierdie en ander saamgestelde materiale bestaande uit twee of meer bestanddele het 'n meganiese struktuur wat wissel in orientasie en grootte, wat hulle anisotropies maak. Dit beteken dat Young se modulus vir hierdie materiale sal afhang van die rigting waarop die krag uitgeoefen word. Gevolglik het anisotropiese materiale verskillende meganiese eienskappe wanneer die rigting, waarop die lading toegepas word, verander word. Koolstofvesel is byvoorbeeld baie stywer (hoër Young se modulus) wanneer dit parallel ten opsigte van die vesels belaai word en is 'n voorbeeld van materiale met transversale isotropie. Ander materiale soos die sluit in hout en gewapende beton. Ingenieurs gebruik dikwels hierdie rigtingafhanklike verskynsel tot hul voordeel wanneer hulle verskeie strukture ontwerp.
+Koper het uitstekende elektriese geleidingseienskappe wat benut word om elektrisiteit oor lang afstande te versend. Ten spyte van sy hoë waarde vir Young se modulus teen 130 GPa, het dit 'n baie lae vloeigrens (trekspanning waar die materiaal permanent/plasties vervorm). Wanneer die koperkabel egter saam met verharde staaldraad gevleg word kan die uitrek van die kabel verhoed word aangesien die staal die trekspanning opneem wat andersins die koper sou laat vervorm h

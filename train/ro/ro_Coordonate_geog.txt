@@ -1,0 +1,40 @@
+Sistemul de coordonate geografice este un sistem de referință care utilizează coordonatele unghiulare, latitudine (nordică sau sudică) și longitudine (estică și vestică) și servește la determinarea unghiurilor laterale ale suprafeței terestre (sau mai general ale unui sferoid). Globul este împărțit în 360° (grade) latitudine și 180° (grade) longitudine.
+
+
+== Sistemul ==
+Rețeaua liniilor meridianelor și latitudinilor care se intersectează sub un unghi de 90°, este un sistem imaginar care împarte suprafața globului, cu scopul ușurării orientării. Ecuatorul aparține liniilor de latitudine fiind între ele linia cea mai lungă ce împarte globul în două emisfere de nord și sud care sunt așezate perpendicular (90°) pe raza globului terestru, ecuatorul fiind linia care delimitează latitudinea nordică de cea sudică.
+Fiecare meridian intersectează liniile de latitudine sub un unghi de 90° și unește cei doi poli ai pământului, puncte unde toate meridianele se întâlnesc.
+Meridianul care trece prin observatorul astronomic din localitatea Greenwich, Marea Britanie este azi considerat meridianul zero. Începând de aici se consideră meridiane de longitudinea estică sau vestică în funcție de poziția respectivului meridian față de meridianul zero și de prelungirea acestui meridian (meridianul de 180°).
+Până la începutul secolului XX, „meridianul 0” nu era considerat același punct, de exemplu un astfel de punct prin care trecea meridianul 0 era El Hierro cu denumirea veche Ferro situat pe insulele Canare, sau Parisul era considerat la fel punctul prin care trecea în trecut meridianul 0.
+Azi fiind acceptat pe plan internațional faptul că meridianul 0 trece prin Greenwich, o localitate lângă Londra, Pământul fiind considerat de formă sferică, mai precis de forma unui geoid.
+
+
+== Hărți ==
+La început forma pământului a creat probleme serioase la întocmirea unor hărți geografice exacte, primul care realizează proiecția globului pe o suprafață plană este cartograful Mercator. Ulterior apar o serie de sisteme geodezice de întocmirea hărților. Cu dezvoltarea sistemului GPS (sistemul de navigație prin satelit) crește precizia hărților și apare necesitatea stabilirii unui sistem internațional unitar pentru navigația navală și aeriană.
+
+
+== Coordonate geografice ==
+
+Un sistem de coordonate geografice definește orice locații de pe Pământ prin 2 sau 3 coordonate ale unui sistem de coordonate sferice care este aliniat la axa în jurul căreia se învârte Pământul. Pornind de la teoriile vechilor babilonieni, extinse ulterior de Ptolemeu, unui cerc întreg i s-au atribuit 360°.
+
+
+== Descriere ==
+latitudinea (Lat.) este unghiul dintre orice punct și ecuatorul. Liniile cu o latitudine constantă sunt numite paralele. Ele trasează cercuri pe suprafața Pământului, dar singura paralelă care este un cerc mare este ecuatorul (latitudine=0 grade), cu fiecare pol geografic aflat la 90 de grade (Polul Nord 90° N; Polul Sud 90° S).
+longitudine (Long.) este unghiul spre est sau vest al unui punct arbitrar de pe Pământ: Observatorul din Greenwich (Marea Britanie) este considerat punctul internațional cu longitudine 0 grade. Anti-meridianul Greenwich este atât 180°V cât și 180°E. Liniile de longitudine constantă sunt numite meridiane. Meridianul care trece prin Greenwich este meridianul primar. Spre deosebire de paralele, toate meridianele sunt jumătăți de cercuri complete și nu sunt paralele: ele se intersectează la polul nord și la cel sud.
+Combinând aceste două unghiuri, poate fi specificată poziția orizontală a oricărui punct de pe Pământ.
+Spre exemplu, Baltimore, Maryland (din SUA) are o latitudine de 39.3° Nord, și o longitudine de 76.6° Vest. Deci, un vector desenat din centrul Pământului spre un punct dispus la 39.3° nord de ecuator și 76.6° vest de Greenwich va trece prin Baltimore.
+Gradele sunt împărțite în minute ( ′ ) și secunde ( ″ ). Există mai multe formate pentru grade, toate fiind în ordinea Lat.-Long.:
+GM Grade:Minute (49:30.0-123:30.0)
+GMS Grade:Minute:Secunde (49:30:00-123:30:00)
+GZ Grade Zecimale (49.5000-123.5000), de obicei cu 4 zecimale.
+Pentru a face conversia de la primele 2 formate la ultimul, gradele zecimale sunt egale cu numărul întreg de grade, plus minutele împărțite la 60, plus secundele împărțite la 3600. La momentul actual gradele zecimale sunt formatul cel mai utilizat.
+Ecuatorul este evident o parte importantă a sistemului de coordonate, reprezentând punctul zero al unghiului latitudine și punctul aflat la jumătatea dintre poli. El este planul fundamental al sistemului geografic de coordonate.
+Valorile de latitudine și longitudine sunt stabilite printr-un sistem geodetic asociat, cum ar fi WGS84. Unui același punct de pe Pământ îi pot corespunde diferite latitudini și longitudini, în funcție de sistemul geodetic folosit.
+
+
+== Coordonate geostaționare ==
+Sateliții geostaționari, cum ar fi cei de televiziune, sunt dispuși deasupra ecuatorului. Poziția lor față de Pământ este exprimată în grade zecimale; latitudinea lor nu se schimbă și este întotdeauna egală cu zero ° (= deasupra ecuatorului).
+
+
+== A treia dimensiune: altitudine, înălțime, adâncime ==
+Pentru a 

@@ -1,0 +1,46 @@
+Le polonium est l'élément chimique de numéro atomique 84, de symbole Po. C'est un « métal pauvre » radioactif. Seul l'isotope 210Po est présent naturellement, à l'état de traces dans les minerais d'uranium (produit de la désintégration radioactive du radon, et l'un des principaux facteurs d'induction des cancers du poumon dits radio-induits par le radon).
+
+
+== Histoire ==
+C'est le premier élément découvert par Pierre et Marie Curie en 1898 dans leurs recherches sur la radioactivité de la pechblende. Ce n'est que plus tard qu'ils découvrirent le radium. Le mot polonium a été ainsi choisi en hommage aux origines polonaises de Marie Skłodowska-Curie.
+
+
+== Isotopes ==
+
+Le polonium possède 33 radioisotopes d'une masse atomique variant entre 188 et 220 u. L'isotope à la durée de vie la plus longue est le polonium 209 (209Po) avec une demi-vie de 103 ans, et l’isotope naturellement présent à la durée de vie la plus courte est le polonium 210 (210Po) avec une demi-vie de 138,376 jours.
+
+
+== Propriétés ==
+
+Le polonium est un métal pauvre à température de fusion basse et relativement volatil : à 50 °C, un échantillon de polonium perd la moitié de sa masse en 45 heures, et finirait par se sublimer entièrement même à température ambiante.
+Il est en effet très volatil — il perd 50 % de sa masse en 45 heures en n'étant chauffé qu'à 55 °C (son point de fusion est de 254 °C), peut-être par désagrégation à l'échelle atomique induite par sa très forte activité α, laquelle a d'ailleurs pour effet de le maintenir à température élevée — et assimilé par les organismes vivants en raison de sa chimie similaire à celles du tellure et du bismuth : on a montré que certains micro-organismes sont capables de méthyler le polonium à l'aide de méthylcobalamine, de la même façon qu'elles peuvent méthyler le mercure, le sélénium et le tellure.
+C’est un émetteur de rayonnement alpha. Le 210Po a une période radioactive de 138 jours et 9 heures.
+Il est généré par la suite de désintégrations qui, partant de l'uranium 238 et passant, entre autres, par le radium 226, le radon 222 et le plomb 210, aboutissent au polonium 210 puis se terminent par le plomb 206 stable.
+Chaîne de désintégration :
+238U α→ 234Th β→ 234Pa β→ 234U α→ 230Th α→ 226Ra α→ 222Rn α→ 218Po α→ 214Pb β→ 214Bi β→ 214Po α→ 210Pb β→ 210Bi β→ 210Po α→ 206Pb (stable)
+Il se désintègre en émettant des particules alpha dont l’énergie typique est de 5,3 MeV. Pour comparaison, l’énergie transportée par les rayons du soleil (domaine visible) n’est que de l’ordre de quelques électrons volts (eV). Ces particules alpha sont des rayonnements ionisants de forte énergie capables de générer des dégâts importants lors de leurs interactions avec la matière vivante (cellules, ADN). L’exposition aux rayonnements ionisants augmente les risques de cancer, d’anomalies génétiques, et pourrait avoir de nombreuses conséquences sanitaires autres que les cancers. Le polonium 210 présente une très forte activité spécifique, de 166 TBq/g. Un seul gramme de 210Po pur est donc le siège de 1,66×1014 désintégrations par seconde, et émet donc autant de particules α que 4,5 kg de radium 226 ou 13,5 tonnes d’uranium 238.
+Élément radioactif naturellement présent dans l’environnement et la chaîne alimentaire, le polonium 210 est présent en quantité infinitésimale (en masse) dans l’écorce terrestre. Mais compte tenu de sa très forte radioactivité, les résultats exprimés en becquerels par kilogramme de sol ne sont pas négligeables.
+La radioactivité du polonium 210 est tellement élevée qu’il dégage une importante chaleur (140 watts par gramme). Ainsi, selon l'Argonne National Laboratory aux États-Unis, la température d’une capsule contenant environ un demi-gramme de polonium 210 peut dépasser 500 °C. Cette propriété a été utilisée pour développer des générateurs thermo-électriques légers utilisés par exemple dans le domaine spatial comme source d’énergie pour les satellites.
+
+
+== Production ==
+Dix grammes d'uranium ne peuvent produire qu'un milliardième de gramme de polonium. Sa production nécessite un réacteur nucléaire d'un type particulier, capable d'irradier du bismuth avec des neutrons. Seuls les pays nucléaires disposent du savoir-faire et des équipements nécessaires à sa fabrication.
+La production annuelle est estimée à un maximum de 100 grammes, en Russie pour la plus grande part.
+
+
+== Utilisations ==
+Source alpha,
+Source de neutrons, en mélange avec le béryllium : ce dernier émet un neutron lors de l'absorption d'une particule alpha, produite par le 210Po. Ce système est utilisé comme source primaire au démarrage des réacteurs nucléaires, comme détonateur dans les premières bombes nucléaires ou dans le domaine spatial comme source d’énergie pour les satellites.
+Le polonium 210 est également utilisé dans les applications antistatiques, telles que les certaines brosses pour matériels sensibles à l'électricité statique, bien que les sources β soient généralement préférées car nettement moins dangereuses.
+Source de chaleur. Le polonium 210 dégage 140 watts par gramme. Ainsi, selon l'Argonne National Laboratory aux États-Unis, la température d’une capsule contenant environ un demi-gramme de polonium 210 peut dépasser 500 °C. Cette propriété a été utilisée pour développer des générateurs thermo-électriques légers utilisés par exemple dans le domaine spatial comme source d’énergie pour les satellites et de robots d'exploration planétaires tels que les Lunokhod soviétiques
+
+
+== Intoxication au polonium ==
+Le polonium est un élément hautement radioactif et toxique. Même pour de faibles quantités (quelques microgrammes), la manipulation de 210Po est très dangereuse et nécessite un équipement spécial et des procédures strictes. Absorbé dans les tissus, il provoque des dommages directs par émission de particules alpha. L'absorption de 1 à 10 microgrammes est suffisante pour provoquer la mort.
+L’activité maximale admissible pour du polonium ingéré est seulement de 1 100 becquerel, soit l’équivalent à 6,6×10-12 gramme. À masse identique, le polonium est environ 106 fois plus toxique que le cyanure de sodium ou le cyanure de potassium.
+L'intoxication au polonium a été suspectée comme cause du décès de Yasser Arafat, suite à des analyses réalisées par des experts suisses. Leurs résultats montraient une concentration plus élevée qu'attendue de cette substance dans les restes de l'homme d'\'Etat, tout en atteignant des seuils qui ne permettent pas de conclure définitivement. Les compléments d'expertise réalisés sous contrôle de la justice française ont finalement écarté l'hypothèse d'un empoisonnement.
+L'espion russe Alexandre Litvinenko a été assassiné par empoisonnement avec cette substance en 2006. La quantité de polonium 210 qui lui aurait été « administrée » était probablement très élevée - puisqu’elle a conduit à son décès en 3 semaines. En utilisant des données toxicologiques sur les animaux de laboratoire, on peut imaginer qu’il s’agissait de quelques microgrammes de polonium 210. Le coût de la dose de polonium 210 qui aurait tué ce dernier est estimé à 25 millions de dollars US par le Berliner Zeitung.
+
+
+== Présence dans le tabac ==
+Du fait de l’utilisation d’engrais à base d

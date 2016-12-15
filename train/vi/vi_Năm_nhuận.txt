@@ -1,0 +1,62 @@
+Năm nhuận là năm:
+Theo dương lịch, chứa một ngày dôi ra.
+Theo âm-dương lịch, chứa tháng thứ 13.
+để đảm bảo đồng bộ việc lặp lại của năm trên lịch với năm thiên văn hay năm thời tiết.
+Trong trường hợp dương lịch thì các mùa và các sự kiện thiên văn không lặp lại chính xác sau một số nguyên các ngày, vì thế năm dương lịch cứ sau một khoảng thời gian nhất định phải thêm vào một ngày để đảm bảo việc chỉnh lại các sai số do làm tròn năm.
+Trong trường hợp âm dương lịch như lịch Trung Quốc thì do một chu kỳ quay của Mặt Trăng quanh Trái Đất là khoảng 29,53 ngày nên một năm âm lịch chỉ có khoảng 354 ngày (làm tròn). Do vậy, cứ sau một vài năm âm lịch thì người ta phải bổ sung một tháng (tháng nhuận) để đảm bảo năm âm lịch tương đối phù hợp với chu kỳ của thời tiết, là yếu tố phụ thuộc vào chu kỳ quay của Trái Đất xung quanh Mặt Trời.
+Khái niệm năm nhuận không nên nhầm lẫn với các giây nhuận (dùng để đảm bảo cho thời gian của đồng hồ đồng bộ với ngày).
+
+
+== Dương lịch ==
+
+
+=== Lịch Gregorius ===
+Theo lịch Gregorius - loại lịch tiêu chuẩn hiện nay được dùng trên hầu khắp thế giới thì những năm nào chia hết cho 4 được coi là năm nhuận. Trong năm nhuận, tháng 2 có 29 ngày thay cho 28 ngày. Cứ 4 năm lại thêm 1 ngày vào lịch bởi vì một năm dương lịch dài khoảng 365 ngày và 6 giờ.
+Ngoài ra, vẫn có một số ngoại lệ đối với nguyên tắc này vì một năm dương lịch ngắn hơn 365,25 ngày một chút. Những năm chia hết cho 100 chỉ được coi là năm nhuận nếu chúng cũng chia hết cho 400. Ví dụ, 1600 và 2000 là các năm nhuận nhưng 1700, 1800 và 1900 không phải năm nhuận. Tương tự như vậy, 2100, 2200, 2300, 2500, 2600, 2700, 2900 và 3000 không phải năm nhuận nhưng 2400 và 2800 là các năm nhuận. Theo nguyên tắc này thì trung bình một năm có 365 + 1/4 − 1/100 + 1/400 = 365,2425 ngày, tức là 365 ngày 5 giờ 49 phút và 12 giây.
+Lý do nằm sau quy tắc này như sau:
+Lịch Gregory được tạo ra để đảm bảo ngày xuân phân ở châu Âu rơi vào ngày 21 tháng 3, để đảm bảo ngày lễ Phục Sinh có thể điều chỉnh theo ngày xuân phân một cách rõ ràng hơn.
+Một năm xuân phân (tính giữa hai điểm xuân phân kế tiếp nhau) là khoảng 365,242375 ngày.
+Quy tắc tính năm nhuận theo lịch Gregory lấy một năm trung bình là 365,2425 ngày.
+Sự sai khác rất nhỏ này (trên 0,0001 ngày) có nghĩa là sai số thời gian sẽ tích lũy đủ một ngày trong khoảng 8.000 năm. Nhưng trong thời gian của 8.000 năm thì độ dài của một năm xuân phân cũng sẽ thay đổi theo một lượng mà người ta không thể dự báo chính xác trước (xem dưới đây). Vì thế quy tắc tính năm nhuận của lịch Gregory là đủ thỏa mãn.
+
+
+==== Ngày nào là ngày nhuận ====
+Lịch Gregory là bản sửa đổi của lịch Julius được sử dụng bởi người La Mã. Lịch La Mã có nguồn gốc là lịch Mặt Trăng (mặc dù từ thế kỷ 5 TCN nó không còn tuân theo chu kỳ Mặt Trăng nữa) và được đặt tên cho các ngày theo ba tuần (pha) của chu kỳ Mặt Trăng: trăng mới (calends, từ đó có từ "calendar" nghĩa là lịch), phần đầu tiên (nones) và trăng tròn (ides). Các ngày đã được đếm ngược (bao gồm cả ngày này) cho đến ngày kế tiếp được đặt tên, vì thế ngày 24 tháng 2 là ante diem sextum calendas martii ("ngày thứ sáu trước lịch của tháng 3").
+Từ năm 45 TCN, tháng 2 trong những năm nhuận có hai ngày được gọi là "ngày thứ sáu trước lịch của tháng 3". Ngày dư ra nguyên thủy là ngày thứ hai trong những ngày được gọi như vậy, nhưng từ thế kỷ 3 nó đã là ngày đầu tiên. Từ đó có thuật ngữ ngày nhuận cho ngày 24 tháng 2 trong năm nhuận.
+Khi mà tập quán này được tuân theo, những ngày lễ sau ngày thêm vào đã bị dịch chuyển trong năm nhuận. Ví dụ, ngày lễ trước đây của thánh Matthias, vào ngày 24 tháng 2 trong những năm thường sẽ rơi vào ngày 25 tháng 2 trong năm nhuận.
+Tuy nhiên điều tế nhị của lịch sử này đang trong quá trình bị loại bỏ: Liên minh châu Âu thông báo rằng, từ năm 2000, ngày 29 tháng 2 sẽ là ngày nhuận chứ không phải là ngày 24 tháng 2[cần dẫn nguồn], và Giáo hội Công giáo Rôma hiện nay cũng sử dụng ngày 29 tháng 2 như ngày nhuận. Sự khác biệt rõ ràng chỉ có ở những nước kỷ niệm "ngày có tên".
+
+
+=== Lịch Julius ===
+Lịch Julius thêm một ngày vào tháng 2 trong những năm chia hết cho 4.
+Quy tắc này lấy một năm trung bình dài 365,25 ngày. Sự dôi ra của khoảng 0,0076 ngày trong mối quan hệ với năm xuân phân có nghĩa là ngày xuân phân sẽ dịch chuyển lên sớm hơn trong lịch này cứ sau mỗi 130 năm.
+
+
+=== Lịch Julius cải tiến ===
+Lịch Julius cải tiến thêm một ngày vào tháng 2 trong những năm chia hết cho 4, trừ những năm chia hết cho 100 mà khi chia cho 900 không để lại số dư bằng 200 hay 600.
+Quy tắc này phù hợp với quy tắc của lịch Gregory cho đến năm 2800 (năm nhuận trong lịch Gregory nhưng không phải trong lịch Julius sửa đổi).
+Quy tắc này tính một năm trung bình dài khoảng 365,242222... ngày. Con số này xấp xỉ gần đúng với một năm chí tuyến trung bình, nhưng bởi vì năm xuân phân chí tuyến trung bình là dài hơn một chút nên lịch Julius sửa đổi không thỏa mãn tốt như lịch Gregory trong việc giữ ngày xuân phân rơi đúng hoặc sát với ngày 21 tháng 3.
+
+
+=== Lịch Iran ===
+Lịch Iran cũng có một ngày nhuận một lần trong bốn năm, nhưng cứ 33 năm thì năm nhuận rơi vào năm thứ năm thay vì năm thứ tư. Hệ thống sử dụng để tính toán là chính xác hơn và phức tạp hơn, và nó dựa trên cơ sở thời gian diễn ra xuân phân trong tháng 3 được quan sát tại Tehran. Chu kỳ 33 năm là không đều hoàn toàn; cứ mỗi chu kỳ 33 năm sẽ bị tách bởi một chu kỳ có 29 hay 37 năm.
+
+
+== Âm-Dương Lịch ==
+
+
+=== Lịch Trung Quốc ===
+Lịch Trung Quốc là một loại âm dương lịch, vì thế năm nhuận có một tháng thừa, gọi là tháng nhuận. Trong lịch Trung Quốc tháng nhuận được thêm vào phù hợp
+
+
+=== Lịch Hebrew ===
+Lịch Hebrew (lịch Do Thái) cũng là một loại âm dương lịch với tháng dôi ra. Trong lịch Hebrew tháng dôi ra được gọi là Adar Rishon (Adar thứ nhất) và được thêm vào trước tháng Adar, mà tháng này sau đó trở thành tháng Adar Sheni (Adar thứ hai). Phù hợp với chu kỳ Mêtôn, nó được thêm vào bảy (7) lần trong chu kỳ mười chín (19) năm, thông thường trong các năm thứ 3, 6, 8, 11, 14, 17, và 19 của chu kỳ này.
+Lịch Hêbrơ có quy luật hoãn lại để lui thời điểm bắt đầu của năm từ một đến hai ngày. Năm trước khi có sự hoãn lại có một đến hai ngày dôi ra, và năm mà thời điểm bắt đầu của nó bị lui lại mất một đến hai ngày. Các quy luật hoãn lại này làm giảm số lượng các tổ hợp khác nhau của độ dài năm và ngày bắt đầu của tuần từ 28 xuống 14, cũng như điều chỉnh thời điểm của lễ hội tôn giáo nào đó trong mối tương quan với lễ hội xaba.
+
+
+== Quy tắc dài hạn của năm nhuận ==
+Sự sai khác giữa lịch Gregory và năm xuân phân tích lũy đủ 1 ngày trong khoảng 8.000 năm. Điều này có nghĩa là lịch cần phải được hoàn thiện hơn bằng các phương thức tinh vi hơn cho quy tắc năm nhuận: có lẽ bằng cách bỏ năm nhuận trong năm chia hết cho 8.000.
+(Phần lớn giống như đề xuất này là bỏ năm nhuận trong năm chia hết cho 4.000 [1]. Đề xuất này dựa trên cơ sở sự sai khác giữa lịch Gregory và năm chí tuyến trung bình. Những đề xuất khác thì cho rằng lịch Gregory tự bản thân nó đã có sự tinh vi giống như thế (một cách sai sót) [2], [3].)
+Tuy nhiên, ở đây không cần thiết phải có sự tính toán lịch xa đến như vậy bởi vì trong một khoảng thời gian của hàng chục nghìn năm thì số ngày của năm có thể sẽ bị thay đổi vì một loạt các nguyên nhân, đáng kể nhất là:
+Tuế sai sẽ dịch chuyển thời điểm của xuân phân trong mối liên quan đến điểm cận nhật và vì thế sẽ thay đổi độ dài của năm xuân phân.
+Gia tốc th

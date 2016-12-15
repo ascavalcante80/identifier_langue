@@ -1,0 +1,7 @@
+Współrzędne geograficzne – szerokość i długość geograficzna mierzone w stopniach, minutach i sekundach kątowych. Początkiem układu współrzędnych geograficznych jest przecięcie się południka zerowego (Greenwich) z równikiem.
+Jeden stopień (°) to 60 minut ('), a jedna minuta to 60 sekund ("). Znaków minut i sekund kątowych (') i (") nie należy mylić z apostrofem i cudzysłowem („”) i (‚’).
+Istnieje kilka formatów dla stopni, wszystkie one mają podobny porządek:
+DM S Stopnie:Minuty:Sekundy (49° 30' 00" – 49d 30m 00s)
+DM Stopnie:Minuty (49° 30.0' – 49d 30.0m)
+D D Stopnie Dziesiętne (49.5000° – 49.5000d), w ogóle z 4 dziesiętnymi liczbami
+DM F S

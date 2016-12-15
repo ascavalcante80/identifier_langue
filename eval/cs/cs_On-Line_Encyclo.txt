@@ -1,0 +1,25 @@
+ní dobu, editor později může rozhodnout o jejím vymazání.
+sign – Posloupnost obsahuje záporná čísla.
+tabf – Posloupnost vznikla čtením nepravidelného geometrického uspořádání čísel řádek po řádku.
+tabl – Posloupnost vznikla čtením pravidelného geometrického uspořádání čísel řádek po řádku. Příkladem je Pascalův trojúhelník, A007318.
+uned – Posloupnost byla do databáze zařazena, aniž by ji upravil editor, a může tedy obsahovat typografické či jiné chyby.
+unkn – O posloupnosti není téměř nic známo, ani její definiční vzorec. Jedná se obvykle o zadání nevyřešených problémů.
+word – Posloupnost závisí na slovech nějakého běžného jazyka. Příkladem je posloupnost počtu písmen v anglických slovech pro jednotlivé číslice, A005589.
+
+Autor: Jméno a zpravidla e-mailová adresa člověka, který původně posloupností do databáze přispěl (bez ohledu na to, že posloupnost neobjevil). Někteří častí přispěvatelé jsou identifikováni zkratkou, například „njas“ značí samotného Sloana.
+Doplnění: Seznam osob, které k upřesnění posloupnosti dále přispěly.
+
+
+== Reference ==
+↑ a b N. J. A. Sloane: My Favorite Integer Sequences, 2002, arXiv:math/0207175 [math.CO]
+↑ N. J. A. Sloane: A Handbook of Integer Sequences. Academic Press, New York, 1973. xiii+206 pp. ISBN 0-12-648550-X
+↑ N. J. A. Sloane, Simon Plouffe: The Encyclopedia of Integer Sequences. Academic Press, San Diego, 1995. xiii+587 pp. ISBN 0-12-558630-2
+↑ The OEIS 100K E-Party na webu OEIS
+↑ Explanation of Terms Used in Reply From na webu OEIS
+↑ Issue A-numbers na webu OEIS
+↑ Keywords v nápovědě OEIS
+
+
+== Externí odkazy ==
+The On-Line Encyclopedia of Integer Sequences (OEIS)
+The On-Line Encyclopedia of Integer Sequences (OEIS) Wiki

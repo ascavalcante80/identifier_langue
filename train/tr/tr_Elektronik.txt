@@ -1,0 +1,11 @@
+Elektronik, elektrik kullanarak bilgi işleyen, taşıyan veya depolayan elemanları ve sistemleri inceleyen bilim dalıdır. Özellikle serbest elektronların (valans elektron) denetimini konu alır. Atom çekirdeğinin en dış yörüngesindeki elektronun atom çekirdeğine daha zayıf bir kuvvetle bağlı olmasından dolayı valans elektronun enerji seviyesinin arttırılması sonucu atom çekirdeğinden koparılması prensibidir.
+Elektronik cihazların temel yapı taşlarında silisyum, germanyum, ve galyum elementleri kullanılarak imal edilir. Bu maddeler aralarında mikro veya nano boşluklar bırakılarak elektronların bu elementler arasında kuantum sıçramaları yani elektronların orbital (yörünge) değiştirmesi sağlanarak mantıksal işlemler yaptırılır. Bilgisayarın ve elektronik cihazların temel çalışma prensibi bu ilkeye dayanır. Elektronik devre elemanları bir hastanenin ameliyathanesinden bin kat daha temiz ortamlarda imal edilir. Bunun nedeni gözle görünmeyen bir toz zerreciğinin bile mikroçip içindeki elektron etkileşimine olumsuz etkisidir.
+Elektronik, kablo, motor, jeneratör, batarya, anahtar, röle, transformatör, direnç ve pasif elemanlar kullanarak enerji üretimi, dağıtımı, anahtarlaması, saklaması ve dönüşümü ile uğraşan elektrik ve elektromekanik bilim ve teknolojilerinden farklıdır. Bu farklılık 1906 yılı civarında Lee De Forest'in zayıf radyo ve ses sinyallerinin kuvvetlendirilmesine yarayan ve mekanik bileşeni olmayan triyod'u bulması ile başlamıştır. 1950 yılına kadar bu alan radyo teknolojisi olarak anılmıştır. Çünkü temel uygulaması radyo iletimi, alımı ve vakum tüplerinin tasarımı ve teorisiydi.
+Günümüzde birçok elektronik alet elektron kontrolü için yarı iletken elemanlar kullanmaktadır. Yarı iletken konusu katı hal fiziğinin bir dalıdır. Bu başlık elektronik devre tasarımındaki pratik problemlerin çözümü ile ilgilenen elektronik mühendisliğine odaklanmaktadır.
+
+
+== Elektronik devre türleriDeğiştir ==
+Elektronik devre ve elemanları analog ve sayısal olarak 2 gruba ayrılabilir. Bazı aletler her iki gruba da dahil olabilir.
+
+
+=== Analog devrelerDeğiştir 

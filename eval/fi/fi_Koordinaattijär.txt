@@ -1,0 +1,15 @@
+n perin 93 kiintopisteeseen, joiden määrää on myöhemmin kasvatettu.
+EUREF-FIN on ETRS89:n suomalainen realisaatio, jonka tarkkuutta on kasvatettu mittaamalla kahdessa vaiheessa noin 450 kiintopistettä Suomessa ja lähialueilla maan rajojen ulkopuolella. WGS84:n ja EUREF-FIN-koordinaatistojen ero on tällä hetkellä (2008) alle metri ja suuressa osassa käyttötarkoituksia koordinaatistoja voidaan pitää yhtenevinä.
+Kartastokoordinaattijärjestelmä (KKJ) on Suomessa vuodesta 1970 käytetty koordinaattijärjestelmä. Sen realisaatio perustuu kolmiomittauksiin ja se on jonkin verran vääristynyt. KKJ:n käytöstä valtakunnallisessa kartoituksessa ollaan luopumassa ja uudet maasto- ja merikartat laaditaan EUREF-FIN-koordinaatistoon.
+NAD83 (North American Datum) on ETRS89:n kaltainen alueellinen pohjoisamerikkalainen koordinaattijärjestelmä, joka on senttimetritasolla yhtenevä WGS84:n kanssa. NAD83:n realisaatio perustuu osin vanhoihin kolmiomittauksiin ja sitä jonkin verran vaivaavat vääristymät. Siksi sen pohjalta on laadittu paikallisia tarkempia realisaatioita.
+
+
+== Lähteet ==
+Poutanen Markku: GPS-paikanmääritys. ISBN 951-9269-89-4
+Poutanen Markku, Geodeettinen laitos: Koordinaatit, korkeus, kartat ja GPS. GPS paikkatiedon tuotannossa ja navigoinnissa. TKK Koulutuskeskus Dipoli 21.-22.11.2000.
+Suomen koordinaattijärjestelmät. Viitattu 20.8.2008
+ITRS, ITRF, ETRS, ETRF, EUREF – Uusia koordinaattijärjestelmiä ym asiaan liittyvää. Viitattu 20.8.2008
+Maanmittauslaitos: Koordinaatti- ja korkeusjärjestelmät. Viitattu 20.8.2008
+Differences between coordinate systems. Viitattu 20.8.2008
+Suomen geoidimallit ja niiden käyttäminen korkeuden muunnoksissa. Viitattu 29.8.2011
+Suomen geodeettiset koordinaatistot ja niiden väliset muunnokset. Viitattu 29.8.2011

@@ -1,0 +1,29 @@
+(waarvan de waarde nog niet precies is vastgesteld):
+De constante van Planck h wordt gelijk gesteld aan precies 6,626 06... × 10−34 J·s; het kilogram (kg) wordt hieruit afgeleid.
+De elementaire lading e wordt gelijk gesteld aan precies 1,602 17... × 10−19 C; de coulomb (C) en de ampère (A) worden hieruit afgeleid.
+De constante van Boltzmann k wordt gelijk gesteld aan precies 1,380 65... × 10−23 J·K−1; de kelvin (K) wordt hieruit afgeleid.
+De constante van Avogadro NA wordt gelijk gesteld aan precies 6,022 14... × 1023 mol−1; de mol wordt hieruit afgeleid.
+Alle zeven definities worden van de vorm: eenheid1 is de eenheid van dimensie, zodanig dat natuurconstante = numerieke_waarde eenheid2.
+De volgorde van definiëring wordt seconde, meter, kilogram, ampère, kelvin, mol, candela; steeds is eenheid2 samengesteld uit in ieder geval eenheid1 en verder geen andere dan eerder gedefinieerde eenheden.
+"Natuurconstanten" wordt ook "fundamentele constanten" genoemd. De constante van Avogadro is overigens geconstrueerd en niet meer afhankelijk van het koolstofatoom. De magnetische veldconstante μ0 zal als de nieuwe definities aangenomen zijn niet langer exact de waarde 4 π × 10-7 N/A2 hebben (al blijft dat een benadering met grote nauwkeurigheid).
+
+De andere natuurconstanten zijn een cesiumfrequentie, de lichtsnelheid en een specifieke lichtstroom. Zie voor het geheel de voorgestelde nieuwe definities van de basiseenheden.
+
+
+== Afleiding van de overige SI-eenhedenBewerken ==
+De SI-eenheden zijn als volgt van de basiseenheden afgeleid:
+
+
+== Niet-SI-eenhedenBewerken ==
+Het Verenigd Koninkrijk, de Verenigde Staten, Liberia en Myanmar (het vroegere Birma) gebruiken vaak nog niet-SI-eenheden zoals pound (voor massa), inch, foot, yard en mile (voor lengte of afstand). Deze zogeheten imperiale eenheden zijn ook gebruikelijk bij het meten van de diameter of diagonaal van een aantal dingen zoals fietswielen (verouderd), computermonitoren, de afmetingen van andere computeronderdelen, het raster van printplaten of de resolutie van printers.
+Naast het imperiale stelsel zijn er ook niet-SI-eenheden die wél zijn goedgekeurd voor gebruik samen met SI-eenheden. Voorbeelden hiervan zijn de liter (voor inhoud), uur en minuut voor tijd en graden Celsius voor temperatuur (de SI-eenheden voor deze grootheden zijn respectievelijk kubieke meter voor inhoud, seconde voor tijd en kelvin voor temperatuur). Ook hiervan afgeleide eenheden (zoals de kilowattuur die veel gebruikt wordt als eenheid van energie bij elektriciteitsleverantie) zijn geen SI-eenheden, maar wel toegestaan.
+
+
+== Zie ookBewerken ==
+Metriek stelsel
+Natuurkundige grootheden en eenheden
+Dimensie van een grootheid
+
+
+== Externe linksBewerken ==
+(fr) (en) Site van het Bureau International des Poids et Mesures

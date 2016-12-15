@@ -1,0 +1,16 @@
+stellen, entfällt und der Server daher höhere Besucherzahlen verkraften kann. Weiterer Vorteil ist die größere Flexibilität bei der Gestaltung. Im Gegensatz zu herkömmlichen CMS, wo Datenbankinhalte in vorgefertigte und relativ starre HTML-Schablonen eingefügt werden, bestimmt ein strukturiertes XML-Ausgangsdokument Layout und Benutzerführung des daraus generierten HTML-Dokuments wesentlich mit. Das ermöglicht die laientaugliche Herstellung auch von langen und zusammenhängenden Inhalten per XML-Editor sowie deren Präsentation in leicht rezipierbarer Form, etwa als webgerechtes E-Book, wobei eine einzige „Webseite“ aus etlichen Bildschirmseiten bestehen kann, die per CSS „gefaltet“ sind und sich bequem durchblättern oder per Menünavigation ansteuern lassen. Auch die Gestaltung ganzer Websites als grafische Benutzeroberflächen mit mehreren, parallel bedienbaren Elementen wird so möglich.
+Als ein Haupthindernis für eine breite Verwendung dieser wesentlich erweiterten Möglichkeiten bzgl. Darstellung und Datenvorhaltung galt lange der Microsoft Internet Explorer, der als langjähriger Marktführer erst mit der 2009 erschienenen Version 8 auch hinsichtlich CSS ausreichende Standardkonformität bietet.
+
+
+== Mobile WebseiteBearbeiten ==
+
+
+== WeblinksBearbeiten ==
+
+de.selfhtml.org – HTML-Referenz
+
+
+== EinzelnachweiseBearbeiten ==
+↑ Kopie der ersten Webseite bei w3.org
+↑ Jakob Nielsen (2006): F-Shaped Pattern For Reading Web Content
+↑ Jakob Nielsen (1997): How Users Read On the Web

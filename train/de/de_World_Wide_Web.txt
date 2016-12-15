@@ -1,0 +1,55 @@
+Das World Wide Web [ˌwɜːldˌwaɪdˈwɛb] (englisch für „weltweites Netz“, kurz Web, WWW, selten und vor allem in der Anfangszeit und den USA auch W3) ist ein über das Internet abrufbares System von elektronischen Hypertext-Dokumenten, sogenannten Webseiten. Sie sind durch Hyperlinks untereinander verknüpft und werden im Internet über die Protokolle HTTP oder HTTPS übertragen. Die Webseiten enthalten meist Texte, oft mit Bildern und grafischen Elementen illustriert. Häufig sind auch Videos, Tondokumente und Musikstücke eingebettet.
+Umgangssprachlich wird das World Wide Web oft mit dem Internet gleichgesetzt, es ist jedoch jünger und stellt nur eine von mehreren möglichen Nutzungen des Internets dar. Andere Internet-Dienste wie E-Mail, IRC oder Telnet sind nicht in das World Wide Web integriert.
+Zum Aufrufen von Inhalten aus dem World Wide Web wird ein Webbrowser benötigt, der z. B. auf einem PC oder einem Smartphone läuft. Mit ihm kann der Benutzer die auf einem beliebigen, von ihm ausgewählten Webserver bereitgestellten Daten herunterladen und auf einem geeigneten Ausgabegerät wie einem Bildschirm oder einer Braillezeile anzeigen lassen. Der Benutzer kann dann den Hyperlinks auf der angezeigten Webseite folgen, die auf andere Webseiten verweisen, gleichgültig ob diese auf demselben Webserver oder einem anderen gespeichert sind. So ergibt sich ein weltweites Netz aus Webseiten. Das Verfolgen der Hyperlinks wird auch als „Surfen im Internet“ bezeichnet.
+Mit dem so genannten Web 2.0 wurden ab etwa den 2000er Jahren Webseiten populär, deren Inhalt der Nutzer nicht nur wie etwa bei Nachrichten-Seiten passiv ansehen, sondern selbst ändern und ergänzen kann, z. B. um eigene Inhalte zu veröffentlichen oder mit anderen Nutzern zu kommunizieren. Dazu zählen Blogs als private Meinungsseiten, von einer losen Autorengemeinschaft geschaffene Seiten nach dem Wiki-Prinzip und Soziale Netzwerke.
+Das WWW wurde unter Weiterentwicklung bekannter ähnlicher Konzepte 1989 von Tim Berners-Lee und Robert Cailliau am europäischen Forschungszentrum CERN entwickelt. Berners-Lee entwickelte dazu das HTTP-Netzwerkprotokoll und die Textauszeichnungssprache HTML. Zudem programmierte er den ersten Web-Browser und die erste Webserver-Software. Er betrieb auch den ersten Webserver der Welt auf seinem Entwicklungsrechner vom Typ NeXTcube. Das Gesamtkonzept wurde der Öffentlichkeit 1991 unter Verzicht auf jegliche Patentierung oder Lizenzzahlungen zur freien Verfügung gestellt, was erheblich zur heutigen Bedeutung beitrug.
+Das WWW führte zu umfassenden, oft als revolutionär beschriebenen Umwälzungen in vielen Lebensbereichen, zur Entstehung neuer Wirtschaftszweige und zu einem grundlegenden Wandel des Kommunikationsverhaltens und der Mediennutzung. Es wird in seiner kulturellen Bedeutung, zusammen mit anderen Internet-Diensten wie E-Mail, teilweise mit der Erfindung des Buchdrucks gleichgesetzt.
+
+
+== GeschichteBearbeiten ==
+
+
+=== EntwicklungBearbeiten ===
+
+Das Web entstand 1989 als Projekt an der Forschungseinrichtung CERN, in der Nähe von Genf auf schweizerischem und französischem Gebiet liegend, an dem Tim Berners-Lee ein Hypertext-System aufbaute. Die Idee hierzu stellte er erstmals am 12. März 1989 in der Forschungseinrichtung vor. Das Konzept wurde von dem Belgier Robert Cailliau mitentworfen. Das ursprüngliche Ziel des Systems war es, Forschungsergebnisse auf einfache Art und Weise mit Kollegen auszutauschen. Eine Methode dafür war das „Verflechten“ von wissenschaftlichen Artikeln – also das Erstellen eines Webs. In Berners-Lees eigenen Worten:
+
+Das dem Hypertext zugrunde liegende Konzept stammt von früheren Entwicklungen ab, wie Ted Nelsons Projekt Xanadu, Vannevar Bushs „memex“ Maschinenidee und dem Note Code Project.
+Das World Wide Web unterscheidet sich von damaligen Hypertext-Systemen (Note Code benutzte beispielsweise eine einfache und lesbare Syntax und semantische Deskriptoren). Das WWW benötigt nur unidirektionale Links statt bidirektionaler, was es ermöglicht, einen Link auf eine Ressource zu setzen, ohne dass deren Besitzer eingreifen muss. Zudem, anders als andere Protokolle wie HyperCard oder Gopher, baut das World Wide Web auf einem freien Protokoll auf, was die Entwicklung von Servern und Clients ohne Beschränkungen durch Lizenzen möglich machte. Tim Berners-Lee machte das World Wide Web-Projekt am 6. August 1991 mit einem Beitrag zur Newsgroup alt.hypertext öffentlich und weltweit verfügbar.
+Das erste Web-Anzeigeprogramm, das eher ein Browser-Editor-Hybrid war, nannte Berners-Lee einfach „WorldWideWeb“. Er hatte es im Herbst 1990 auf einem NeXT-Computer geschrieben. Später benannte er es – um Verwechslungen mit dem World Wide Web (mit Leerzeichen) zu vermeiden – in „Nexus“ um. Es konnte damals nur Text anzeigen, aber spätere Browser wie Pei Weis Viola (1992) fügten die Fähigkeit Grafiken anzuzeigen hinzu. Marc Andreessen vom NCSA veröffentlichte im Jahre 1993 einen Browser namens „Mosaic für X“, der bald dem Web und auch dem gesamten Internet ungekannte Popularität jenseits der bisherigen Nutzerkreise und ein explosionsartiges Wachstum bescherte. Marc Andreessen gründete die Firma „Mosaic Communications Corporation“, später „Netscape Communication“. Mittlerweile können moderne Browser auch zusätzliche Merkmale wie dynamische Inhalte, Musik, Animationen und Videos wiedergeben.
+
+
+=== NameBearbeiten ===
+In Berners-Lees erstem Projektentwurf vom März 1989 hieß das Web noch Mesh (engl. Geflecht). Der Name wurde aber schnell verworfen, da er zu sehr an Mess (engl. Unordnung) erinnert. Die folgenden Benennungsversuche Mine of Information (engl. Informations-Mine) oder The Information Mine hatten keinen Bestand, da die Abkürzungen MOI (frz. ich) und TIM zu egozentrisch wirkten. Außerdem war eine Mine ein nur teilweise geeignetes Bild, da man aus ihr bloß etwas herausholen kann, das Web dagegen sowohl Informationen liefern als auch mit ihnen befüllt werden sollte.
+Schließlich legte Berners-Lee sich auf Web und World Wide Web fest, obwohl er von Kollegen gewarnt wurde, dass die im Englischen und Französischen zungenbrecherische Abkürzung WWW den Projekterfolg gefährden würde. Web erschien ihm als Bild besonders passend, da es in der Mathematik ein Netz von Knoten (engl. Nodes) bezeichnet, von denen jeder mit jedem verbunden sein kann.
+
+
+== FunktionsweiseBearbeiten ==
+Das WWW basiert auf drei Kernstandards:
+HTTP als Protokoll, mit dem der Browser Informationen vom Webserver anfordern kann.
+HTML als Auszeichnungssprache, die festlegt, wie die Information gegliedert ist und wie die Dokumente verknüpft sind (Hyperlinks).
+URLs als eindeutige Bezeichnung einer Ressource, die in Hyperlinks verwendet wird.
+Folgende Standards kamen später dazu:
+Cascading Style Sheets (CSS) legen das Aussehen der Elemente einer Webseite fest, wobei Darstellung und Inhalt getrennt werden.
+Hypertext Transfer Protocol Secure (HTTPS) ist eine Weiterentwicklung von HTTP, bei dem das Protokoll SSL zwischen TCP und HTTP geschoben wird und in der Folge der Datentransfer komplett verschlüsselt wird.
+Document Object Model (DOM) als Programmierschnittstelle für externe Programme oder Skriptsprachen von Webbrowsern.
+Das World Wide Web Consortium (W3C), das heute vom Erfinder des WWW Tim Berners-Lee geleitet wird, und andere entwickeln den HTML- und den CSS-Standard; andere Standards kommen von der Internet Engineering Task Force, der ECMA und Herstellern wie Sun Microsystems. Nicht vom W3-Konsortium standardisiert ist die am weitesten verbreitete Skript- oder Makrosprache von Webbrowsern:
+JavaScript ist eine Skriptsprache mit Anweisungen für den Browser, mit der Programme (Skripte) eingebettet werden können. Dadurch können Webseiten mit Hilfe des Document Object Models (DOM) dynamisch geändert werden. Skripte sind üblicherweise kleine Programme, können aber auch als Client Manager mit Hilfe des DOM die vollständige Kontrolle über die Anzeige übernehmen. Eine von Microsoft entwickelte Variante von JavaScript heißt JScript. Beide Sprachen sind ähnlich, allerdings nicht kompatibel zueinander. Diese Inkompatibilität war ein entscheidender Teil des sogenannten Browserkriegs.
+Das WWW wurde und wird durch andere Techniken ergänzt. Schon früh wurden Bilder zur Illustration benutzt; man verwendete die Formate GIF für Grafiken und Animationen und JPEG für Fotos. Später wurde GIF mehr und mehr von PNG verdrängt, da für dessen Verwendung – im Gegensatz zu GIF – keine Lizenzgebühren anfielen.
+Zudem können in Browsern zahlreiche weitere Dateitypen durch Browsererweiterungen, so genannte Plug-ins, dargestellt werden. Dadurch lassen sich Multimediainhalte von Animationen bis hin zu Musik und Videos oder ganze Anwendungen wie zum Beispiel Versicherungsrechner oder Navigationsoberflächen darstellen. Ferner ermöglichen Java-Applets das Einbetten von Programmen, die auf dem Computer des WWW-Benutzers ablaufen.
+Weitere beliebte Formate sind PDF zum Anzeigen von Dokumenten und Flash für interaktive Inhalte oder Animationen.
+
+
+== Dynamische Webseiten und WebanwendungenBearbeiten ==
+
+Mit Hilfe der dynamischen WWW-Seiten kann das WWW als Oberfläche für verteilte Programme dienen: Ein Programm wird nicht mehr konventionell lokal auf dem Rechner gestartet, sondern ist eine Menge von dynamischen WWW-Seiten, die durch einen Webbrowser betrachtet und bedient werden können. Vorteilhaft ist hier, dass die Programme nicht mehr auf den einzelnen Rechnern verteilt sind und dort (dezentral) administriert werden müssen.
+Dynamische Webanwendungen werden entweder am Webserver oder direkt im Browser ausgeführt.
+Ausführen von Webanwendungen am Webserver: Der Inhalt wird durch in Skriptsprachen (wie PHP oder Perl) oder kompilierte Anwendungen (wie JSP, Servlets oder ASP.NET) geschriebene Webanwendungen erzeugt und an den Browser geliefert.
+Dynamische Websites am Client: Der Browser erzeugt oder ändert Inhalt mittels JavaScript.
+Gemischte Ausführung: Eine gemischte Ausführung stellt AJAX dar – hier sendet der Browser mittels JavaScript einen Request, der vom Webserver bearbeitet wird und so dynamisch Teile der HTML-Struktur erneuert.
+Nachteilig sind die begrenzten Ausdrucksmöglichkeiten von WWW-Seiten, so dass Programme in Form von Internetseiten im Allgemeinen nicht so einfach bedient werden können wie konventionelle Programme. Ein Trend, der versucht, beides in Einklang zu bekommen, sind Rich Internet Applications.
+Zurzeit ist zu beobachten, dass immer mehr Dienste, die ursprünglich vom WWW getrennt waren und als eigenes Programm liefen, über das WWW angeboten werden und mittels eines Browsers genutzt werden können:
+So wird Webmail oft als E-Mail-Client oder WebFTP als FTP-Client genutzt; Webforen ersetzen das Usenet und Webchats den IRC.
+
+
+== Kompatibilität und ZugänglichkeitBearbeiten ==
+Oft führten Browser-Hersteller neue Möglichkeiten ein, ohne auf eine Standardisierung zu warten. Umgekehrt werden jedoch immer noch nicht alle Teile von Standards wie HTML oder CSS korrekt implementiert. Das führt zu Inkompatibilitäten zwischen bestimmten Webseiten und manchen Browsern

@@ -1,0 +1,37 @@
+ (az Office 2007-től ez az alapértelmezett) és XML fájlokat szerkeszteni a felhasználó által definiált séma felhasználásával. Tucatnyi más XML szerkesztő is elérhető az előzőeken kívül.
+
+
+== XML verziók ==
+Jelenleg két XML verzió létezik. Az XML 1.0-t 1998-ban definiálták, és azóta többször is módosították anélkül, hogy új verziószámot kapott volna. Jelenleg a 2004. február 4-én publikált harmadik kiadás az aktuális. Széles körben elterjedt, és még mindig ajánlják általános felhasználásra. Az XML 1.1-et egy napon adták ki az XML 1.0 harmadik kiadásával. Az XML 1.1 sok olyan – köztük néhány vitatott – tulajdonsággal bír, aminek célja az XML használatának egyszerűbbé tétele több felhasználói csoport (főleg mainframe programozók) számára. Az XML 1.1 nem túl elterjedt, és csak azoknak ajánlják, akik ki tudják használni az egyedi képességeit.
+Az XML 1.0 és az XML 1.1 az elemek, attribútumok stb. nevében megengedett karakterekben különbözik. Az XML 1.0 csak a Unicode 2.0 szabványban megengedett karaktereket engedélyezi, ami magában foglalja a legtöbb világnyelvet, de nem tartalmazza azokat a nyelveket, melyeket a későbbi Unicode szabvány verzióban vezettek be. Ilyen nyelv a mongol, a kambodzsai, a burmai stb. Az XML 1.1 csak bizonyos vezérlő karakterek használatát tiltja, ami azt jelenti, hogy minden más karakter használható, még ha nem is definiálták az aktuális Unicode verzióban.
+Meg kell jegyezni, hogy az XML 1.0 megkötései csak az elemek illetve attribútumok neveire vonatkoznak: mind az XML 1.0, mind az XML 1.1 megengedi a teljes Unicode készlet használatát a tartalomban. Így az XML 1.1 csak akkor szükséges, ha a Unicode 2.0 után publikált szöveghez szeretnénk elem és attribútum neveket fűzni.
+Másik kisebb különbség az XML 1.0 és az XML 1.1 között, hogy a vezérlő karakterek nem szerepelhetnek, hacsak nem „escape” karakter formátumúak, és két speciális Unicode karaktert tartalmaz, amit üres helyként kezelnek.
+Az XML 1.0 dokumentumok helyesen formázott XML 1.1 dokumentumok egy kivétellel: a nem "escape" formátumú Cl karakterek hibásak: az XML 1.1 megköveteli a Cl vezérlő karakterek számmal történő hivatkozását.
+Megbeszélés folyik az XML 2.0 szabványról, bár nem látható előre, hogy egyáltalán létre fog-e jönni. Az XML-SW (SW: skunk works, titkos projekt) – amit az XML egyik eredeti szerzője írt – tartalmaz néhány utalást az XML 2.0 formátumára: a DTD kiküszöbölése a szintaxisból, névterek, XML Base és XML Information Set (infoset) integrációja az alap szabványba.
+A World Wide Web Consortium (W3C) rendelkezik egy XML Binary Characterization Working Group-pal, ami bevezető kutatást végez a binárisan kódolt XML infoset-ek felhasználásának terén. A munkacsoportnak nem célja bármilyen szabvány létrehozása. Mivel az XML definíció szerint szöveg alapú, a Sun Microsystems a gyors infoset nevet adta a saját bináris infoset implementációjának, hogy elkerülje az összetévesztés lehetőségét, és az ISO-n keresztüli szabványosításán dolgozik.
+
+
+== Külső hivatkozások ==
+XML specifikáció
+Jegyzetekkel ellátott XML specifikáció
+World Wide Web Consortium (W3C) XML honlap
+XML 1.0 specifikáció
+XML 1.1 specifikáció
+
+kapcsolódó szabványok
+Relax NG honlap
+
+tutorial
+W3Schools
+
+szoftver
+fejlesztői erőforrás
+XML Document Authoring Tools
+XML-DEV Mailing List
+
+
+== Jegyzetek ==
+
+
+== Irodalom ==
+Szeredi - Lukácsy - Benkő: A szemantikus világháló elmélete és gyakorlata. Typotex Kiadó, 2005. ISBN 963-9548-48-0

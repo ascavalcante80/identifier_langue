@@ -1,0 +1,187 @@
+Un acier est un alliage métallique constitué principalement de fer et de carbone (dans des proportions comprises entre 0,02 % et 2 % en masse pour le carbone).
+C’est essentiellement la teneur en carbone qui confère à l’alliage les propriétés du métal qu’on appelle « acier ». Il existe d’autres métaux à base de fer qui ne sont pas des aciers comme les fontes et les ferroalliages par exemple.
+
+
+== Constitution de l’acier ==
+L’acier est élaboré pour résister à des sollicitations mécaniques ou chimiques ou une combinaison des deux.
+Pour résister à ces sollicitations, des éléments chimiques peuvent être ajoutés à sa composition en plus du carbone. Ces éléments sont appelés éléments d’additions, les principaux sont le manganèse (Mn), le chrome (Cr), le nickel (Ni), le molybdène (Mo).
+Les éléments chimiques présents dans l’acier peuvent être classés en 3 catégories :
+Les impuretés, originellement présentes dans les ingrédients de haut fourneau qui serviront à produire la fonte qui servira à fabriquer l’acier. Ce sont le soufre (S) et le phosphore (P) présent dans le coke mais aussi le plomb (Pb) et l’étain (Sn) qui peuvent être présents dans les aciers de récupération ainsi que nombre d’autres éléments à bas point de fusion comme l’arsenic (As), l’antimoine (Sb) ;
+Pour des raisons mal comprises, le plomb est dans certaines circonstances (dans l’industrie nucléaire notamment) un "contaminant métallurgique" qui peut contribuer à la dissolution, l’oxydation et la fragilisation d’aciers qui sont exposés aux alliages de plomb.
+Les éléments d’addition mentionnés plus haut et qui sont ajoutés de manière intentionnelle pour conférer au matériau les propriétés recherchées, et enfin ;
+Les éléments d’accompagnement que l’aciériste utilise en vue de maîtriser les diverses réactions physico-chimiques nécessaires pour obtenir finalement un acier conforme à la spécification. C’est le cas d’éléments comme l’aluminium, le silicium, le calcium.
+
+
+== Aperçu de la composition, des avantages et des inconvénients ==
+La teneur en carbone a une influence considérable (et assez complexe) sur les propriétés de l’acier : en dessous de 0,008 %, l’alliage est plutôt malléable et on parle de « fer » ; au-delà de 2,1 %, on entre dans le domaine de l'eutectique fer/carbure de fer ou bien fer/graphite, ce qui modifie profondément la température de fusion et les propriétés mécaniques de l'alliage, et l'on parle de fonte.
+Entre ces deux valeurs, l’augmentation de la teneur en carbone a tendance à améliorer la dureté de l’alliage et à diminuer son allongement à la rupture ; on parle d’aciers « doux, mi-doux, mi-durs, durs ou extra-durs » selon la "classification traditionnelle".
+Dans les manuels de métallurgie un peu anciens, on peut trouver comme définition de l'acier un alliage fer-carbone où le carbone varie de 0,2 à 1,7 % ; la limite actuelle a été établie à partir du diagramme binaire fer/carbone. Toutefois, il y a des aciers avec des concentrations de carbone supérieures à ces limites (acier lédéburitiques), obtenus par frittage.
+On modifie également les propriétés des aciers en ajoutant d’autres éléments, principalement métalliques, et on parle d’aciers alliés. De plus, on peut encore améliorer grandement leurs caractéristiques par des traitements thermiques (notamment les trempes ou la cémentation) prenant en surface ou à cœur de la matière ; on parle alors d’aciers traités.
+Outre ces diverses potentialités, et comparativement aux autres alliages métalliques, l’intérêt majeur des aciers réside d’une part dans le cumul de valeurs élevées dans les propriétés mécaniques fondamentales :
+raideur, résistance à la déformation élastique : module d’élasticité E ;
+dureté, résistance à la déformation irréversible, à la rupture : limite élastique Re, résistance minimale à la rupture Rm, dureté H ;
+résistance aux chocs : résilience K.
+D’autre part, leur coût d’élaboration reste relativement modéré, car le minerai de fer est abondant sur terre (environ 5 % de l’écorce) et sa réduction assez simple (par addition de carbone à haute température). Enfin les aciers sont pratiquement entièrement recyclables grâce à la filière ferraille.
+On peut néanmoins leur reconnaître quelques inconvénients, notamment leur mauvaise résistance à la corrosion à laquelle on peut toutefois remédier, soit par divers traitements de surface (peinture, brunissage, zingage, galvanisation à chaud, etc.), soit par l’utilisation de nuances d’acier dites « inoxydables ». Par ailleurs, les aciers sont difficilement moulables, donc peu recommandés pour les pièces volumineuses de formes complexes (bâtis de machines, par exemple). On leur préfère alors des fontes. Enfin, lorsque leur grande masse volumique est pénalisante (dans le secteur aéronautique par exemple), on se tourne vers des matériaux plus légers (alliages à base d’aluminium, titane, composites, etc.), qui ont l’inconvénient d’être plus chers.
+Lorsque le prix est un critère de choix important, les aciers restent privilégiés dans presque tous les domaines d’application technique : équipements publics (ponts et chaussées, signalisation), industrie chimique, pétrochimique, pharmaceutique et nucléaire (équipements sous pression, équipements soumis à l’action de la flamme, capacités de stockage, récipients divers), agro-alimentaire (conditionnement et stockage), bâtiment (armatures, charpentes, ferronnerie, quincaillerie), industrie mécanique et thermique (moteurs, turbines, compresseurs), automobile (carrosserie, équipements), ferroviaire, aéronautique et aérospatial, construction navale, médical (instruments, appareils et prothèses), composants mécaniques (visserie, ressorts, câbles, roulements, engrenages), outillage de frappe (marteaux, burins, matrices) et de coupe (fraises, forets, porte-plaquette), mobilier, design et équipements électroménagers, etc.
+
+
+== Histoire de l’acier ==
+
+L’Âge du fer se caractérise par l’adaptation du bas fourneau à la réduction du fer,,. Ce bas fourneau produit une loupe, un mélange hétérogène de fer, d’acier et de laitier, dont les meilleurs morceaux doivent être sélectionnés, puis cinglés pour en chasser le laitier.
+En poussant le vent, on attise la combustion et la température de fusion du métal est atteinte. On extrait le métal par vidange du creuset : c’est la production au haut fourneau. On obtient alors de la fonte, le fer liquide se chargeant de carbone au contact du charbon de bois. En effet, deux phénomènes complémentaires se déroulent dans le creuset du haut fourneau : le fer se charge de carbone lorsqu’il arrive au contact du charbon de bois, ce qui abaisse son point de fusion. Puis ce métal fondu continue à s’enrichir en carbone, en dissolvant le charbon de bois. Les premières coulées de fonte ont été réalisées par les Chinois durant la période des Royaumes combattants (entre -453 et -221). Ceux-ci savent aussi brûler le carbone de la fonte, en le faisant réagir avec de l’air, pour obtenir de l’acier. Il s’agit du procédé indirect, car l’élaboration de l’acier se fait après l’obtention de la fonte,. En Europe et en Asie, durant l’Antiquité, on produisait également de l’acier en recarburant le fer avec des gaz de combustion et du charbon de bois (acier de cémentation).
+Réaumur, en réalisant de très nombreuses expériences et en publiant les résultats de ses observations en 1722, fonde la sidérurgie moderne : il est le premier à théoriser le fait que l’acier est un état intermédiaire entre la fonte et le fer pur, mais les connaissances du temps ne lui permettent pas d’être scientifiquement précis. Il faut attendre 1786 pour que la métallurgie devienne scientifique : cette année-là, trois savants français de l’école de Lavoisier, Berthollet, Monge et Vandermonde présentent devant l’Académie royale des sciences un Mémoire sur le fer dans lequel ils définissent les trois types de produits ferreux : le fer, la fonte et l’acier. L’acier est alors obtenu à partir du fer, lui-même produit par affinage de la fonte issue du haut fourneau. L’acier est plus tenace que le fer et moins fragile que la fonte, mais chaque transformation intermédiaire pour l’obtenir augmente son coût.
+La révolution industrielle apparait grâce à la mise au point de nouvelles méthodes de fabrication et conversion de la fonte en acier. En 1856, le procédé Bessemer, est capable d’élaborer directement l’acier à partir de la fonte. Son amélioration par Thomas et Gilchrist permet sa généralisation,. Ces découvertes, mènent à la fabrication en masse d’un acier de qualité (pour l’époque). Enfin, vers la seconde moitié du XIXe siècle, Dmitri Tchernov découvre les transformations polymorphes de l’acier et établit le diagramme binaire fer/carbone, faisant passer la métallurgie de l’état d’artisanat à celui de science.
+
+
+== Fabrication de l’acier ==
+
+
+== Composition et structure des aciers ==
+
+
+=== Teneur en carbone ===
+
+On distingue plusieurs types d’aciers selon le pourcentage massique de carbone qu’ils contiennent :
+les aciers hypoeutectoïdes (de 0,0101 à 0,77 % de carbone) qui sont les plus malléables ;
+les aciers extra-doux ont une teneur inférieure à 0,022 % de carbone ; ils sont hors de la « zone d’influence » de l’eutectoïde (perlite) et n’ont donc pas de perlite ; ils sont durcis par des précipités de cémentite en faible quantité ;
+entre 0,022 et 0,77 % de carbone, la cémentite est présente dans la perlite mais n’existe pas sous forme « seule » ;
+
+l’acier eutectoïde (0,77 % de carbone) appelé perlite ;
+les aciers hypereutectoïdes (de 0,77 à 2,11 % de carbone) qui sont les plus durs et ne sont pas réputés soudables.
+La limite de 2,11 % correspond à la zone d’influence de l’eutectique (lédéburite) ; il existe toutefois des aciers lédéburitiques.
+La structure cristalline des aciers à l’équilibre thermodynamique dépend de leur concentration (essentiellement en carbone mais aussi d’autres éléments d’alliage), et de la température. On peut aussi avoir des structures hors équilibre (par exemple dans le cas d’une trempe).
+La structure du fer pur dépend de la température :
+jusqu’à 912 °C, le fer (fer α) a une structure cristalline cubique centrée appelée ferrite
+entre 912 °C et 1 394 °C, le fer (fer γ) a une structure cristalline cubique à faces centrées appelée austénite
+entre 1 394 °C et son point de fusion à 1 538 °C, le fer (fer δ) retrouve une structure cristalline cubique centrée appelée ferrite delta (cette ferrite joue un rôle essentiel dans la mise en œuvre et surtout le soudage des aciers duplex).
+La structure du fer + carbone évolue d’une façon plus complexe en fonction de la température et de la teneur en carbone. Les règles diffèrent selon que l’on est hors de la « zone d’influence » de l’eutectoïde (entre 0 % et 0,022 %), entre 0,022 % et 0,77 % (hypoeutectoïde) ou entre 0,77 % et 2,11 % (hypereutectoïde ; au-delà, il s’agit de fonte). Voir l’étude du diagramme fer-carbone.
+D’une manière simplifiée, pour un carbone compris entre 0,022 % et 2,11 % :
+jusqu’à 727 °C on trouve un mélange de ferrite et de cémentite ;
+à partir de 727 °C le fer α se transforme en fer γ (changement de phase appelé austénitisation) ; La température de fin de transformation dépend de la teneur en carbone.
+Les aciers non alliés (au carbone) peuvent contenir jusqu’à 2,11 % en masse de carbone. Certains aciers alliés peuvent contenir plus de carbone par l’ajout d’éléments dits « gammagènes ».
+Les différentes phases de l’acier :
+Austénite
+Bainite
+Cémentite
+Ferrite
+Martensite
+Perlite
+
+
+=== Éléments d’alliage ===
+Le carbone a une importance primordiale car c’est lui qui, associé au fer, confère à l’alliage le nom d’acier. Son influence sur les propriétés mécaniques de l'acier est prépondérante. Par exemple, en ce qui concerne l'amélioration de la propriété de dureté, l’addition de carbone est trente fois plus efficace que l'addition de manganèse.
+L’aluminium : excellent désoxydant. Associé à l’oxygène, réduit la croissance du grain en phase austénitique. Au-delà d'un certain seuil, il peut rendre l’acier inapte à la galvanisation à chaud.
+Le chrome : c’est l’élément d’addition qui confère à l’acier la propriété de résistance mécanique à chaud et à l’oxydation (aciers réfractaires). Il joue aussi un rôle déterminant dans la résistance à la corrosion lorsqu’il est présent à une teneur de plus de 12 à 13 % (selon la teneur en carbone). Additionné de 0,5 % à 9 % il augmente la trempabilité et la conservation des propriétés mécaniques aux températures supérieures à l’ambiante (famille des aciers alliés au chrome). Il a un rôle alphagène.
+Le cobalt : utilisé dans de nombreux alliages magnétiques. Provoque une résistance à l’adoucissement lors du revenu.
+Le manganèse : forme des sulfures qui améliorent l’usinabilité. Augmente modérément la trempabilité.
+Le molybdène : augmente la température de surchauffe, la résistance à haute température et la résistance au fluage. Augmente la trempabilité.
+Le nickel : rend austénitiques (rôle gammagène) les aciers à forte teneur en chrome. Sert à produire des aciers de trempabilité modérée ou élevée (selon les autres éléments présents), à basse température d’austénitisation et à ténacité élevée après traitement de revenu. C’est l’élément d’alliage par excellence pour l’élaboration des aciers ductiles à basses températures (acier à 9 % Ni pour la construction des réservoirs cryogéniques, acier à 36 % Ni dit INVAR pour la construction des cuves de méthaniers et des instruments de mesure de précision).
+Le niobium : même avantage que le titane mais beaucoup moins volatil. Dans le domaine du soudage il le remplace donc dans les métaux d’apport.
+Le phosphore : augmente fortement la trempabilité. Augmente la résistance à la corrosion. Peut contribuer à la fragilité de revenu.
+Le silicium : favorise l’orientation cristalline requise pour la fabrication d’un acier magnétique, augmente la résistivité électrique. Améliore la résistance à l’oxydation de certains aciers réfractaires. Utilisé comme élément désoxydant.
+Le titane : pouvoir carburigène élevé (comme le niobium) et réduit donc la dureté de la martensite. Capture le carbone en solution à haute température et, de ce fait, réduit le risque de corrosion intergranulaire des aciers inoxydables (TiC se forme avant Cr23C6 et évite donc l’appauvrissement en chrome au joint de grain).
+Le tungstène : améliore la dureté à haute température des aciers trempés revenus. Fonctions sensiblement identiques à celles du molybdène.
+Le vanadium : augmente la trempabilité. Élève la température de surchauffe. Provoque une résistance à l’adoucissement par revenu (effet de durcissement secondaire marqué).
+
+
+=== Structure des aciers ===
+
+Lors du refroidissement d’un lingot, l’acier se solidifie à l’état austénitique. Au cours du refroidissement, à 727 °C, l’austénite se décompose, soit en ferrite + perlite, soit en perlite + cémentite. La vitesse de refroidissement ainsi que les éléments d’alliage ont une importance capitale sur la structure obtenue, et donc sur les propriétés de l’acier. En effet :
+les joints de grain bloquent les dislocations, donc augmentent la dureté et la limite élastique ; or, plus les grains sont petits, plus il y a de joints de grain…
+la cémentite est un carbure, une céramique très dure ; sa présence augmente la dureté et la limite élastique, mais diminue la ductilité.
+De manière générale :
+un refroidissement rapide donne de petits grains, alors qu’un refroidissement lent donne de gros grains ;
+la réorganisation des atomes pour passer de la structure austénitique (cubique à faces centrées) à la structure ferritique (cubique centrée) se fait par des mouvements d’atomes de faible ampleur (quelques distances interatomiques) ;
+la ferrite pouvant contenir moins de carbone dissous (voir Solution solide et Site interstitiel), le carbone doit migrer sur de plus grandes distances pour former de la cémentite ; la distance à parcourir est moins grande dans le cas de la perlite (eutectoïde), puisque la cémentite s’intercale entre des « tranches » de ferrite ;
+la germination des nouveaux cristaux se fait de manière préférentielle aux défauts, et notamment aux joints de grain de l’austénite ; ainsi, la structure de solidification de l’austénite joue un rôle important (voir Solidification).
+Certains éléments chimiques peuvent « piéger » le carbone pour former des carbures (par exemple le titane ou l’aluminium). Ils empêchent ainsi la formation de cémentite.
+On peut modifier la structure de l’acier par des traitements thermomécaniques :
+déformations : écrasement du lingot, laminage à froid ou à chaud, forgeage…
+traitements thermiques, qui permettent de « rejouer » le refroidissement :
+trempe, éventuellement suivie d’un revenu : la rapidité de la transformation ne permet pas au carbone de diffuser et le « piège » dans la maille cubique centrée, qui se déforme pour donner de la martensite ; les cristaux forment de petites aiguilles ;
+une trempe plus lente, ou bien une trempe étagée, permet la formation de bainite ;
+recuit, permettant la diffusion des éléments, la réorganisation des atomes et l’élimination des dislocations.
+
+La métallurgie des poudres consiste à compacter de la poudre d’acier et de la chauffer en dessous de la température de fusion, mais suffisamment pour que les grains se « soudent » (frittage). Cela permet de maîtriser la structure de l’acier et son état de surface (en particulier pas de retrait ni de retassure), mais introduit de la porosité.
+
+
+== Différentes « familles » d’aciers ==
+Il existe des aciers faiblement alliés, à faible teneur en carbone, et au contraire des aciers contenant beaucoup d’éléments d’alliage (par exemple, un acier inoxydable typique contient 8 % de nickel et 18 % de chrome en masse).
+
+
+=== Différentes classifications ===
+
+Chaque pays a son mode de désignation des aciers. Le schéma ci-contre indique la désignation européenne selon la norme EN10027. Cette norme distingue quatre catégories :
+les aciers non-alliés d’usage général (construction) ;
+les aciers non-alliés spéciaux, pour traitement thermique, malléables, soudables, forgeables… ;
+les aciers faiblement alliés, pour trempe et revenu ; les éléments d’alliage favorisent la trempabilité et permettent d’avoir des structures martensitiques ou bainitiques, donc des aciers à haute dureté, à haute limite élastique, pour les outils, les ressorts, les roulements…
+les aciers fortement alliés :
+les aciers inoxydables,
+les aciers rapides, pour les outils à forte vitesse de coupe comme les forets.
+
+
+=== Aciers non alliés ===
+
+
+==== Aciers non alliés d’usage général ====
+Ils sont destinés à la construction soudée, à l’usinage, au pliage… On distingue :
+Le type S qui correspond à un usage général de base (construction de bâtiment…)
+Le type P pour usage les appareils a pression
+Le type L pour les tubes de conduites
+Le type E pour la construction mécanique.
+Le type R pour les rails
+La désignation de ces aciers comprend la lettre indiquant le type d’acier, suivie de la valeur de la limite élastique (Re) exprimée en mégapascals (MPa). Noter qu’il s’agit de la valeur à faible épaisseur, les résistances décroissant avec l’épaisseur.
+S’il s’agit d’un acier moulé, la désignation est précédée de la lettre G. La désignation peut être complétée par des indications supplémentaires (pureté, application dédiée…)
+Exemples :
+S185 (anciennement A33), Re = 185 MPa
+S235 (anciennement A37, E24), Re = 235 MPa
+E295 (anciennement A50), Re = 295 MPa
+GE295, acier moulé, Re = 295 MPa
+S355 J2 WP (anciennement A52, E36), Re = 355 MPa, à grain fin et auto-patinable (c’est l’acier Corten A)
+
+
+==== Aciers non alliés spéciaux (type C) ====
+La teneur en manganèse est inférieure à 1%, et aucun élément d'addition ne dépasse 5% en masse. Leur composition est plus précise et plus pure et correspond à des usages définis à l’avance.
+Leurs applications courantes sont les forets (perceuses), ressorts, arbres de transmission, matrices (moules)…
+Leur désignation comprend la lettre C suivie de la teneur en carbone multipliée par 100. S’il s’agit d’un acier moulé, on précède la désignation de la lettre G.
+Exemples :
+C45, acier non allié comportant un taux de 0,45 % de carbone ;
+GC22, acier moulé non allié comportant un taux de 0,22 % de carbone.
+
+
+=== Aciers faiblement alliés ===
+La teneur en manganèse est supérieure à 1% et aucun élément d’addition ne doit dépasser 5% en masse. Ils sont utilisés pour des applications nécessitant une haute résistance.
+Exemples de désignation normalisée :
+35NiCrMo16 : contient 0,35 % de carbone, 4 % de nickel, du chrome et molybdène en plus faible teneur. Cet acier présente une bonne tenue aux chocs ainsi qu’une haute résistance mécanique jusque 600 °C ;
+100Cr6 : 1 % de carbone et 1,5 % de Chrome. C’est l’acier typique utilisé dans les roulements à billes.
+
+
+=== Aciers fortement alliés ===
+Au moins un élément d’addition dépasse les 5 % en masse, destinés à des usages bien spécifiques, on y trouve des aciers à outils, réfractaires, maraging (très haute résistance, utilisés dans l’aéronautique), Hadfields (très grande résistance à l’usure), Invar (faible coefficient de dilatation)
+Un exemple de désignation normalisée : X2CrNi18-9 (c’est un acier inoxydable).
+Les aciers rapides spéciaux (ARS, ou high speed steels, HSS) font partie de cette famille.
+
+
+==== Aciers inoxydables ====
+
+Ces aciers présentent une grande résistance à la corrosion, à l’oxydation à chaud et au fluage (déformation irréversible). Ils sont essentiellement alliés au chrome, élément qui confère la propriété d’inoxydabilité, et au nickel, élément qui confère de bonnes propriétés mécaniques. Les aciers inoxydables sont classés en quatre familles : ferritique, austénitique, martensitique et austéno-ferritique. Les aciers inoxydables austénitiques sont les plus malléables et conservent cette propriété à très basse température (−200 °C).
+Leurs applications sont multiples : chimie, nucléaire, alimentaire, mais aussi coutellerie et équipements ménagers. Ces aciers contiennent au moins 10,5 % de chrome et moins de 1,2 % de carbone.
+
+
+==== Aciers multiphasés ====
+Ces aciers sont conçus suivant les principes des composites : par des traitements thermiques et mécaniques, on parvient à enrichir localement la matière de certains éléments d’alliage. On obtient alors un mélange de phases dures et de phases ductiles, dont la combinaison permet l’obtention de meilleures caractéristiques mécaniques. On citera, par exemple :
+les aciers Dual Phase qui sont la déclinaison moderne de l’acier damassé, mais où la distinction entre phase dure (la martensite) et phase ductile (la ferrite), se fait plus finement, au niveau du grain ;
+Les aciers duplex formés de ferrite et d’austénite dans des proportions sensiblement identiques ;
+les aciers TRIP (TRansformation Induced Plasticity), où l’austénite se transforme partiellement en martensite après une sollicitation mécanique. On débute donc avec un acier ductile, pour aboutir à un acier de type Dual Phase.
+les aciers damassés où des couches blanches ductiles pauvres en carbone absorbent les chocs, et les noires, plus riches en carbone, garantissent un bon tranchant perso.orange.fr ;
+
+
+== Propriétés et caractéristiques des aciers ==
+L’acier est un alliage essentiellement composé de fer, sa densité varie donc autour de celle du fer (7,32 à 7,86), suivant sa composition chimique et ses traitements thermiques. La densité d’un acier inox austénitique est typiquement un peu supérieure à 8, en raison de la structure cristalline. Par exemple, la densité d’un acier inoxydable de type AISI 304 (X2CrNi18-10) est environ 8,02.
+Les aciers ont un module de Young d’environ 200 GPa (200 milliards de pascals), indépendamment de leur composition. Les autres propriétés varient énormément en fonction de leur composition, du traitement thermo-mécanique et des traitements de surface auxquels ils ont été soumis.
+Le coefficient de dilatation thermique de l'acier: 11,7*10^-6 mm/mm/°C
+Le traitement thermo-mécanique est l’association :
+d’un traitement thermique, sous la forme d’un cycle chauffage-refroidissement (trempe, revenu…) ;
+d’un traitement mécanique, une déformation provoquant de l’écrouissage (laminage, forgeage, tréfilage…).
+Le traitement de surface consiste à

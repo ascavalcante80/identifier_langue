@@ -1,0 +1,15 @@
+r eksentrisitas (vektor mengarah ke periapsis).
+Dalam hal orbit khatulistiwa, meski argumennya belum ditentukan, sering diasumsikan bahwa:
+
+di mana:
+ adalah komponen-x eksentrisitas vektor 
+Dalam hal orbit lingkaran sering diasumsikan bahwa periapsis ditempatkan di node menaik dan hasilnya ω=0.
+
+
+== Lihat pula ==
+Orbit Kepler
+Node orbit
+Mekanika orbit
+
+
+== Catatan kaki ==

@@ -1,0 +1,24 @@
+Een schrikkeljaar is een kalenderjaar met 366 dagen, in plaats van 365. Deze extra dag, een schrikkeldag, wordt ingevoerd om te voorkomen dat de kalenderjaren te veel gaan afwijken van het tropisch jaar. Een schrikkeldag valt op 29 februari en komt in de gregoriaanse kalender voor in elk jaar dat deelbaar is door 4, met uitzondering van eeuwjaren. Deze hebben enkel een schrikkeldag als ze deelbaar zijn door 400. Zo was 1600 een schrikkeljaar, 1900 geen schrikkeljaar en 2000 weer wel. Volgens deze methode zouden er sinds het begin van onze jaartelling 488 schrikkeljaren zijn geweest, met het jaar 4 als eerste. Deze rekenmethode is echter pas in de meeste landen in 1582 met de invoering van de gregoriaanse kalender begonnen, de daarvoor gangbare juliaanse kalender had een andere methode die een grotere afwijking gaf.
+
+
+== Oorzaak ==
+Een tropisch jaar (de tijd die de aarde nodig heeft om in haar baan om de zon van lentepunt naar lentepunt te draaien) is niet exact 365 dagen, maar 5 uren, 48 minuten en 45,1814 seconden langer. Als men zich van dat verschil niets zou aantrekken en de duur van een jaar op 365 dagen zou afronden, dan zou men na vier jaar bijna een dag tekortkomen (preciezer: 23 uur en 15 minuten). We zouden dan oud en nieuw te vroeg vieren; bijna een dag voordat de aarde werkelijk helemaal rond de zon is gegaan. Het toelaten van de afwijking zou tot gevolg hebben dat de seizoenen ten opzichte van het kalenderjaar gaan verschuiven, het begin van de lente zou elke 100 jaar dan ongeveer 24 dagen vroeger vallen. De aarde heeft 365 dagen en afgerond 6 uur nodig(356+1/4 dag) nodig om een baan ronde de zon te beschrijven.Na 4 jaar komt er één dag bij. Want 4×1/4 is 4/4, dus één dag. Dan telt de maand februari 29 dagen.
+
+
+== Correctie ==
+Om dit te compenseren krijgt ieder vierde jaar (ieder jaartal dat deelbaar is door 4) er een dag bij: 29 februari, de schrikkeldag. Dit levert een gemiddelde op van 365 dagen en 6 uur per jaar. Omdat 5 uur, 48 minuten en 45,1814 seconden minder is dan 6 uur, is dit een overcorrectie, die optelt tot ongeveer drie dagen per 400 jaar.
+In principe kan men dit oplossen door elke 128 jaar (dus elk 32ste schrikkeljaar) geen schrikkeljaar in te voeren. Een jaar duurt immers 365 dagen 5 uur 48 minuten en 45 seconden = 365,2421875 dagen.
+365,25 × 128 = 46752 dagen.
+365,2421875 × 128 = 46751 dagen.
+Deze cyclus van 128 jaren wordt gebruikt in de Iraanse kalender, echter met 4 × verschuiven in plaats van 1 × overslaan.
+De gregoriaanse kalender lost de overcompensatie op door slechts eeuwjaren die deelbaar zijn door 400 (zoals 2000) als schrikkeljaar te behouden, en eeuwjaren die niet deelbaar zijn door 400 (zoals 1700, 1800, 1900) niet.
+
+Deze grafiek toont het verschil tussen de seizoenen en het kalenderjaar als gevolg van de volgens de gregoriaanse voorschriften ongelijkmatig verdeelde schrikkeldagen. Vergelijking van 1796 en 2196, die op overeenkomstige plaatsen in de cyclus liggen, toont echter aan dat het uiteindelijke achterlopen circa 0,125 dag per 400 jaar bedraagt, of 27 seconden per jaar. Dit geldt voor elk paar jaren die precies 400 jaar, de cyclusduur, uit elkaar liggen.
+
+
+== Verdere correcties ==
+Met deze gegevens is uit te rekenen dat men iedere 100 jaar zo'n kleine drie kwartier te veel heeft. Hiervoor zal in principe na een aantal millennia nog een correctie nodig zijn. De lengte van het zonnejaar is echter geen constante. Dit wordt veroorzaakt doordat de precessie van de aardas, en daarmee de jaarlengte, niet helemaal constant is. Bovendien neemt de omwentelingssnelheid van de aarde af door de getijdenwerking van de maan en de zon. Om voor toenemende daglengte te corrigeren wordt zo nu en dan een schrikkelseconde ingevoegd; de verandering van de jaarlengte gedeeld door de zo gecorrigeerde daglengte is echter van dezelfde orde van grootte als de nog resterende afwijking. Doordat het om nog onbekende veranderingen gaat is niet op voorhand vast te stellen wanneer die schrikkeldag moet worden weggelaten.
+
+
+== Andere schrikkeljaren ==
+Het schrikkeljaar vol

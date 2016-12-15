@@ -1,0 +1,61 @@
+Ein Webserver (lateinisch servire ‚dienen‘; englisch server ‚Diener‘, ‚Dienst‘) ist ein Server, der Dokumente an Clients wie z. B. Webbrowser überträgt. Als Webserver bezeichnet man den Computer mit Webserver-Software oder nur die Webserver-Software selbst. Webserver werden lokal, in Firmennetzwerken und überwiegend als WWW-Dienst im Internet eingesetzt. Dokumente können somit dem geforderten Zweck lokal, firmenintern und weltweit zur Verfügung gestellt werden.
+
+
+== Technik ==
+Die Hauptaufgabe eines Webservers ist die Auslieferung von statischen Dateien, z. B. unveränderlichen HTML- oder Bild-Dateien, oder dynamisch erzeugten Dateien, z. B. Seiten, deren Inhalte stets individuell gemäß dem Profil eines eingeloggten Benutzers erstellt werden.
+Für eine komplette Webseite werden in der Regel die HTML-Seite inklusive verknüpfter Designbeschreibungen (CSS) und Bilddateien (JPG, PNG, GIF, Flash) jeweils als einzelne Dateien übertragen. Für jede benötigte Datei muss der Webbrowser eine eigene Anfrage an den Webserver senden, d. h. zur Darstellung einer komplexen Webseite sind manchmal hunderte Anfragen und Serverantworten nötig.
+Als Übertragungsmethoden dienen standardisierte Übertragungsprotokolle (HTTP, HTTPS) und Netzwerkprotokolle wie IP und TCP, üblicherweise über Port 80 (HTTP) und Port 443 (HTTPS). HTTP ist dabei das meist eingesetzte Protokoll, Alternativen wie SPDY sind erst in der Erprobungsphase.
+
+
+=== Dynamische Dokumente ===
+Die meisten Webseiten stellen ihre Inhalte erst beim Aufruf aus unterschiedlichen Quellen zusammen.
+Skriptsprachen wie ASP, PHP oder JSP parsen und interpretieren ein HTML-Dokument während des Aufrufs serverseitig und lassen es vom Webserver an den Webbrowser übertragen. Dabei wird der zuvor getrennte Inhalt und die Struktur aus Dateien und Datenbanken mit Content-Management-System zu einem Dokument verarbeitet. Webseiten und Applikationen wie Blogs, Onlineforen, Onlineshops, etc nutzen diese Technik.
+
+
+==== Schnittstellen ====
+
+
+=== Weitere Funktionen ===
+Neben dem Ausliefern von statischen oder dynamischen Dokumenten können Webserver noch weitere Funktionen erfüllen:
+Zugriffsbeschränkung
+wird die Authentifizierung nicht durch das CMS verwaltet, können Webserver auch die HTTP-Authentifizierung einsetzen.
+Sicherheit
+Zur Verschlüsselung der Server-Client-Kommunikation wird ggf. das HTTPS-Verfahren eingesetzt.
+Cookieverwaltung
+Webserver können auch HTTP-Cookies verwalten.
+Weiterleitung
+soll gar kein Dokument ausgeliefert werden, sondern der Aufruf auf ein anderes Dokument weitergeleitet werden, wird die Anfrage mit einer Rewrite-Engine umgeleitet.
+Fehler
+etwaige Fehler oder Erfolge werden dem Browser mit HTTP-Statuscodes und einer Fehlerseite mitgeteilt.
+Protokollierung
+Auf einem Webserver werden üblicherweise alle Anfragen in einer Logdatei protokolliert, aus der mittels Logdateianalyse Statistiken über Anzahl der Zugriffe pro Seite generiert werden können. HTTP ist ein verbindungs- und zustandsloses Protokoll. Damit ist die Zuordnung einer Anforderung zu einem Nutzer über die IP-Adresse grundsätzlich möglich. Die Zuordnung ist jedoch z. B. bei Web-Zugängen über LAN nicht immer eindeutig. Die Angabe von Visits, Hits, Benutzer o. Ä. ist daher nur eingeschränkt aussagekräftig. Zwischengeschaltete Proxyserver, die gegenüber dem Webserver als Client auftreten, erschweren diese Zuordnung zusätzlich.
+Caching
+bei großen Zugriffszahlen kann vor allem die aufwändige dynamische Inhaltsauslieferung gepuffert werden und mit HTTP Caching der Webserver, Scripte und Datenbanken geschont werden.
+Konfiguriert werden Webserver durch spezifische Konfigurationsdateien oder Interfaces global konfiguriert oder auch durch standardisierte Formate wie .htaccess.
+
+
+== Beispiel ==
+Ist ein Nutzer mit dem Internet verbunden und gibt in die Adresszeile seines Webbrowsers eine Webadresse ein, z. B. „http://de.wikipedia.org/wiki/Webserver“, wird dem Webbrowser der darin enthaltene Domain-Bestandteil „de.wikipedia.org“ vom Betriebssystem mittels Abfrage eines DNS-Servers in eine IP-Adresse umgesetzt, z. B. 145.168.145.25 (IPv4) oder 2a00:1450:8007::63 (IPv6). Der Webbrowser sendet dann die vollständige Adresse (URL) an diese IP-Adresse auf Port 80. Von dort antwortet der Webserver und sendet die entsprechende Ergebnisseite der Homepage an den Webbrowser.
+
+
+== Geschichte ==
+1989 schlug Tim Berners-Lee seinem Arbeitgeber CERN, der Europäischen Organisation für Kernforschung, ein Projekt vor, das den Austausch von Informationen unter den mehreren tausend Mitarbeitern sichern sollte. Er führte unter anderem aus, dass ein „Web“ miteinander verbundener Informationen nützlicher als eine festgelegte Hierarchie sei und die Speichersoftware von der Anzeigesoftware getrennt sein müsse. Er konnte dieses Projekt verwirklichen und entwickelte in dessen Verlauf den ersten Webserver CERN httpd und den ersten Webbrowser WorldWideWeb, beide unter NeXTStep. Der CERN httpd wurde auf Unix und VMS portiert und bis 1996 weiterentwickelt.
+1994 entschied sich Tim Berners-Lee, das World Wide Web Consortium zu gründen, um die weitere Entwicklung der verwendeten Technologien (Protokolle, Darstellungssprachen, Unicode usw.) zu regulieren.
+
+
+== Software ==
+
+Der Apache HTTP Server, nginx, Microsoft IIS und Google Web Server sind die am meisten benutzten Webserver.
+Weitere Webserver:
+Abyss Web Server (Aprelium Technologies; Freeware)
+Ada Web Server AWS (Ada Core, Webserver in Ada)
+AIDeX Webserver (AIDeX Softwareentwicklung, Freeware)
+AOLserver (America Online; freie Software)
+Apache Tomcat (Apache Software Foundation; freie Software)
+Boa (Webserver) (GNU General Public License)
+Bozohttpd (BSD-Lizenz)
+CaddyLink
+CERN httpd (Open Source)
+Elserv für Emacs
+Fnord (GNU General Public License)
+G-WAN (für Webapplikationen in Java, ASM, C, C++, C#, D, Objective-C und Objective

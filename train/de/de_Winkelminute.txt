@@ -1,0 +1,26 @@
+Die Winkelminute oder Bogenminute oder Minute (von lateinisch pars minuta ‚verminderter Teil‘) ist der sechzigste Teil eines Winkelgrads. Sie stellt eine Unterteilung der Maßeinheit Grad zur Angabe der Größe ebener Winkel dar.
+Der Vollwinkel hat 360 Grad. Ein Grad besteht aus 60 Winkelminuten: 1° = 60′. Eine Winkelminute entspricht somit 
+Eine Winkelminute wiederum besteht aus 60 Winkelsekunden: 1′ = 60″; somit gilt: 1° = 3600″. Als Dezimalminute bezeichnet man eine Angabe der Minuten mit Dezimalstellen statt Winkelsekunden.
+Zu beachten ist, dass (entsprechend dieser Definition) eine Größenangabe in Bogenminuten trotz des gleichen Präfixes „Bogen-“ nichts mit einer Angabe im Bogenmaß zu tun hat. Nicht zu verwechseln sind die Winkeleinheiten Minute und Sekunde überdies mit der Angabe der Rektaszension in Stunden, Minuten und Sekunden im Zeitmaß der Astronomie.
+Die Winkelminute gehört zwar nicht zum Internationalen Einheitensystem (SI), ist zum Gebrauch mit dem SI aber zugelassen. Dadurch ist sie eine gesetzliche Maßeinheit.
+
+
+== Schreibweise ==
+Analog zur üblichen Angabe von Uhrzeiten werden Winkel auch in einer Schreibweise, die Grad, Minuten und Sekunden gemeinsam verwendet, angegeben. Der anzugebende Winkel wird dabei als Summe von drei Winkeln dargestellt, wobei die Zahlenwerte vor den Minuten und Sekunden kleiner als 60 sind. Diese Schreibweise wird zum Beispiel bei geographischen Koordinaten für die Angabe von Längengrad und Breitengrad verwendet. 51° 14′ 4,2″ ist die Schreibweise für 51 Grad + 14 Winkelminuten + 4,2 Winkelsekunden.
+Das Einheitenzeichen für die Winkelminute besteht aus einem geraden, geneigten, hochgestellten Strich: 1′ = 1 Minute. Das typographisch korrekte Zeichen im Unicode ist PRIME, Code U+2032. Ersatzweise wird auch ein vertikaler Strich ( ' ) verwendet. Auf Schreibmaschine oder PC nutzt man oft den Apostroph. Das Einheitenzeichen wird ohne Lücke unmittelbar hinter der letzten Ziffer des Zahlenwertes geschrieben wie auch bei den Einheitenzeichen der Winkeleinheiten Grad und Sekunde. Siehe auch Gradzeichen.
+
+
+== Umrechnung ==
+
+Letztere Schreibweise wird im folgenden Beispiel benutzt:
+51° 14′ 4,2″ (sprich: 51 Grad, 14 Minuten, 4,2 Sekunden) lassen sich wie folgt in Dezimalschreibweise umrechnen:
+Die Umrechnung von Dezimalgrad in Grad-Minuten-Sekunden erfolgt, indem der Dezimalteil zunächst mit 60 multipliziert wird.
+0,2345° · 60′ / 1° = 14,07′
+Die daraus resultierende Ganzzahl sind die Winkelminuten. Der verbleibende Dezimalteil wird wieder mit 60 multipliziert.
+0,07′ · 60″ / 1′ = 4,2″
+Die daraus resultierende Zahl sind die Sekunden.
+
+
+== Beispiele ==
+Eine Winkelminute entspricht ungefähr dem Winkel, unter dem eine Strecke von einem Meter Länge aus einer Entfernung von 3440 m erscheint.
+Als Größenvergleich für eine Winkelminute kann auch der Mond herangezogen werden. Für einen Beobachter auf der Erde erstreckt sich der gesamte Durchmesser des Mondes im Mittel über einen Winkelbereich von rund 31 Winkelminuten

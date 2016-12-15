@@ -1,0 +1,12 @@
+P(φ),
+kde P je empirická funkce, zohledňující závislost nejen na fázovém úhlu φ, ale také na charakteru povrchu.
+Podobně jako u hvězd, tak i u malých těles sluneční soustavy závisí hodnota H na způsobu jejího stanovení a spektrálním oboru, ve kterém se měří.
+Poměrně jednodušší je vztah mezi veličinou Hv ve vizuálním oboru, albedem pv a průměrem (rozměrem) pozorovaného objektu D:
+Hv = 15,618 - 5 log10(D) - 2,5*log10(pv),
+resp.
+D = 1329(10-Hv/5)/pv1/2.
+Z těchto vztahů lze při znalosti (nebo alespoň odhadu) hodnoty albeda pv stanovit průměr (rozměr) D zkoumaného tělesa.
+
+
+== Související článkyEditovat ==
+Hvězdná velikost

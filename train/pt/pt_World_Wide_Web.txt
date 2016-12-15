@@ -1,0 +1,65 @@
+A World Wide Web (termo inglês que, em português, se traduz literalmente por "Teia mundial"), também conhecida como Web ou WWW, é um sistema de documentos em hipermídia (hipermédia) que são interligados e executados na Internet.
+Os documentos podem estar na forma de vídeos, sons, hipertextos e figuras. Para consultar a informação, pode-se usar um programa de computador chamado navegador para descarregar informações (chamadas "documentos" ou "páginas") de servidores web (ou "sítios") e mostrá-los na tela do usuário (ecrã do utilizador). O usuário (utilizador) pode então seguir as hiperligações na página para outros documentos ou mesmo enviar informações de volta para o servidor para interagir com ele. O ato de seguir hiperligações é, comumente, chamado "navegar" ou "surfar" na Web.
+
+
+== HistóriaEditar ==
+
+As ideias por trás da Web podem ser identificadas ainda em 1980, no CERN- Organização Europeia para a Investigação Nuclear (Suíça ), quando Tim Berners-Lee construiu o ENQUIRE. Ainda que diferente da Web atualmente, o projeto continha algumas das mesmas ideias primordiais, e também algumas ideias da Web semântica. Seu intento original do sistema foi tornar mais fácil o compartilhamento de documentos de pesquisas entre os colegas.
+A 21 de março de 1989, Tim Berners-Lee escreveu uma proposta de gerenciamento de informação , que referenciava o ENQUIRE e descrevia um sistema de informação mais elaborado. Com a ajuda de Robert Cailliau, ele publicou uma proposta mais formal para a World Wide Web no final de 1990.
+
+Um computador NeXTcube foi usado por Berners-Lee como primeiro servidor web e também para escrever o primeiro navegador, o WorldWideWeb, em 1990. No final do mesmo ano, Berners-Lee já havia construído todas as ferramentas necessárias para o sistema : o navegador, o servidor e as primeiras páginas web , que descreviam o próprio projeto. Em 6 de agosto de 1991, ele postou um resumo no grupo de notícias alt.hypertext. Essa data marca a estreia da Web como um serviço publicado na Internet.
+O conceito crucial do hipertexto originou-se em projetos da década de 1960, como o projeto Xanadu e o NLS. A ideia revolucionária de Tim foi unir o hipertexto e a Internet. Em seu livro Weaving The Web , ele explica que sugeriu repetidamente o casamento das tecnologias para membros de ambas as comunidades de desenvolvedores. Como ninguém implementou sua ideia, ele decidiu implementar o projeto por conta própria. No processo, ele desenvolveu um sistema de identificação global e único de recursos, o Uniform Resource Identifier (URI).
+Sistemas anteriores se diferenciavam da Web em alguns aspectos. Na Web, uma hiperligação é unidirecional, enquanto que trabalhos anteriores somente tratavam de ligações bidirecionais. Isso tornou possível criar uma hiperligação sem qualquer ação do autor do documento sendo ligado, reduzindo significativamente a dificuldade em implementar um servidor Web e um navegador. Por outro lado, o sistema unidirecional é responsável por o que atualmente chama-se hiperligação quebrada, isto é, uma hiperligação que aponta para uma página não disponível devido à evolução contínua dos recursos da Internet com o tempo.
+Diferente de sistemas anteriores como o HyperCard, a World Wide Web não era software proprietário, tornando possível a criação de outros sistemas e extensões sem a preocupação de licenciamento. Em 30 de abril de 1993, a CERN anunciou que a World Wide Web seria livre para todos, sem custo. Nos dois meses após o anúncio de que o gopher já não era mais livre, produziu-se uma mudança para a Web. Um antigo navegador popular era o ViolaWWW, que era baseado no HyperCard.
+Considera-se que a grande virada (viragem) da WWW começou com a introdução do Mosaic em 1993, um navegador gráfico desenvolvido por um time (uma equipa) de desenvolvedores (investigadores) universitários. Antes de seu lançamento, os gráficos não eram frequentemente misturados com texto em páginas web.
+
+
+== FuncionamentoEditar ==
+
+Visualizar uma página web ou outro recurso disponibilizado normalmente inicia ou ao digitar uma URL no navegador ou seguindo (acessando) uma hiperligação. Primeiramente, a parte da URL referente ao servidor web é separada e transformada em um endereço IP, por um banco de dados da Internet chamado Domain name system (DNS). O navegador estabelece, então, uma conexão TCP-IP com o servidor web localizado no endereço IP retornado.
+O próximo passo é o navegador enviar uma requisição HTTP ao servidor para obter o recurso indicado pela parte restante da URL (retirando-se a parte do servidor). No caso de uma página web típica, o texto HTML é recebido e interpretado pelo navegador, que realiza então requisições adicionais para figuras, arquivos de formatação, arquivos de script e outros recursos que fazem parte da página.
+O navegador, então, renderiza (reconstitui) a página na tela do usuário (utilizador), assim como descrita pelos arquivos que a compõe.
+
+
+== PadrõesEditar ==
+A funcionalidade da Web é baseada em três padrões:
+URL, um sistema que especifica como cada página de informação recebe um "endereço" único onde pode ser encontrada. Esse padrão é definido em RFC 1738 (URL, em dezembro de 1994) e RFC 3986 (URL, em janeiro de 2005).
+HTTP, um protocolo que especifica como o navegador e servidor web comunicam entre si. Esse padrão é definido em RFC 1945 (HTTP/1.0, maio de 1996), RFC 2616 (HTTP/1.1, junho de 1999) e RFC 2617 (autenticação HTTP).
+HTML, uma linguagem de marcação para codificar a informação de modo que possa ser exibida em uma grande quantidade de dispositivos. Esse padrão é definido em HTML 1 , RFC 1866 (HTML 2.0), HTML 3.2 , HTML 4.01 , HTML 5 e XHTML .
+
+
+== Evolução do códigoEditar ==
+Web é todo o conteúdo que o usuário final pode acessar na rede. Sendo que, a web já passou por transformações evolutivas - evolução do código e dentre elas existem a: WEB 1.0, WEB 2.0 E WEB 3.0.
+
+
+=== Web 1.0Editar ===
+A web 1.0 é considerada como estática, sendo que seus conteúdos não podem ser alterados pelos usuários (utilizadores) finais. Todo o conteúdo da página é somente leitura, por isso o termo estático. Na web 1.0, não existia a interatividade do usuário com a página, onde somente o webmaster ou o programador pode realizar alterações ou atualizações da página.
+
+
+=== Web 2.0Editar ===
+A web 2.0 é o que usamos atualmente, destaca-se por ser dinâmica, ao contrário da web 1.0 que é estática. Referindo-se à web 2.0, dinâmico indica a interatividade e participação do usuário final com a estrutura e conteúdo da página. Nela, o usuário final pode postar comentários, enviar imagens, compartilhar arquivos e fazer milhares de outras coisas que a web 1.0 não permitia. Outra grande mudança entre a web 1.0 e a web 2.0 foi que o usuário diminuiu a taxa de download e aumentou a de upload, o que indica que o usuário está interagindo mais com a web e trocando mais informações por compartilhamento.
+A Web 2 é chamada de Web participativa ou colaborativa  .
+
+
+=== Web 3.0Editar ===
+A web 3.0 é uma evolução da 2.0, pois tem o intuito de mudar as formas de pesquisas para facilitar a vida do usuário da web 2.0, a fim de que possa suprir as necessidades de hoje que são consideradas extravasamento de dados, ou seja, o usuário está postando muitos dados aleatoriamente e isso dificulta a localização. A web 3.0 também vem incrementar a interatividade entre homem e máquina, melhorando as linguagens de programação para que o homem e a máquina falem a mesma língua. Como exemplo, podemos utilizar o Google que inovou seu site com uma nova forma de pesquisa interativa: o usuário pode encontrar informações sobre o arquivo que ele adicionou na barra de pesquisa do site do Google. Essa é uma das formas que podemos apresentar a web 3.0 que ainda é só um conceito que está chegando a sua fase final e entrando em aplicação.
+A Web 3 é chamada de Web semântica ou marketing .
+
+
+== WebwritingEditar ==
+Pode-se pensar que webwriting é apenas uma técnica para escrever conteúdos digitais, mas o conceito é bem mais amplo, diretamente relacionado ao mundo WWW. São englobadas no conceito de webwriting todas as técnicas que facilitam a interpretação de um conteúdo em ambientes digitais.
+A reprodução de uma foto, um texto mais sintetizado e mais objetivo, as cores a serem usadas nas páginas web, o posicionamento dos links e os formatos de navegação são algumas das preocupações trabalhadas dentro do webwriting.
+
+
+== Tecnologias relacionadasEditar ==
+
+
+=== NavegadorEditar ===
+
+O navegador é um programa de computador usado para visualizar recursos da WWW, como páginas web, imagens e vídeos. Com ele também é possível por comunicar-se com o servidor web a fim de receber ou enviar informações. O primeiro navegador desenvolvido no CERN foi o WorldWideWeb, pelo próprio Tim Berners-Lee, para plataforma NeXTSTEP em 1990. Mas, mais adiante, surgiram outros navegadores, como o Viola, da Pei Wei (1992). Marc Andreessen, da NCSA lançou um navegador chamado "Mosaic para X" em 1993 que causou um tremendo aumento na popularidade da Web entre usuários novos. Andreesen fundou a Mosaic Communication Corporation (hoje Netscape Communications). Características adicionais como conteúdo dinâmico, música e animação podem ser encontrados em navegadores modernos. Frequentemente, as capacidades técnicas de navegadores e servidores avançam muito mais rápido que os padrões conseguem se ajustar, por isso não é incomum que essas características não funcionem propriamente em todos os computadores.
+A necessidade de encontrar exatamente a informação desejada surgiu com a WWW: desta constatação, vieram os primeiros motores de busca.
+
+
+=== Plataforma JavaEditar ===
+
+Um avanço significativo da Web foi a plataforma Java, desenvolvida pela Sun Microsystems. Ela permite que páginas web incrustem pequenos programas (chamados applets) diretamente dentro da informação enviada que será rodada no computador do usuário. Esses applets são executados na própria máquina cliente, fornecendo uma experiência mais rica para o usuário. Essa tecnologia nunca ganhou a popularidade que a Sun esperava, por uma variedade de razões, incluindo falta de integração com outros conteúdos e o fato de que a JVM (máquina virtual necessária para a execução do conteúdo) ter que ser instalada antes do uso. Atualmente, o Adobe Flash realiza várias das funções originalmente visadas aos applets Java, como apresentação de vídeo, animação e interfaces gr

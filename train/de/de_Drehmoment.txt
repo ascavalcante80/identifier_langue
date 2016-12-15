@@ -1,0 +1,105 @@
+Das Drehmoment, auch Moment (von lateinisch momentum Bewegungskraft) ist eine physikalische Größe in der klassischen Mechanik. Es spielt für Drehbewegungen die gleiche Rolle wie die Kraft für geradlinige Bewegungen. Ein Drehmoment kann die Rotation eines Körpers beschleunigen oder bremsen und den Körper verwinden oder verbiegen. In Antriebswellen bestimmt das Drehmoment zusammen mit der Drehzahl die übertragene Leistung. Die international verwendete Maßeinheit für das Drehmoment ist das Newtonmeter. Als Formelzeichen ist  üblich.
+Wirkt eine Kraft rechtwinklig auf einen Hebelarm, so ergibt sich der Betrag  des Drehmoments aus der Länge  des Hebelarms multipliziert mit dem Betrag  der Kraft:
+
+Der Vektor des Drehmoments  ergibt sich aus dem Kreuzprodukt aus Abstandsvektor und Kraftvektor:
+
+Dabei ist  der Abstandsvektor vom Bezugspunkt des Drehmoments zum Angriffspunkt der Kraft. Die Richtung des Drehmomentvektors gibt sowohl die Richtung der Drehachse als auch den Drehsinn des Drehmoments an.
+Wirken mehrere Kräfte  () auf verschiedene Punkte  ein, so ist das gesamte Drehmoment die Vektorsumme der einzelnen Drehmomente:
+
+Wirken zwei Kräfte auf einen Körper, die zwar denselben Betrag , aber entgegengesetzte Richtung haben, und deren Wirklinien einen gewissen Abstand  haben, so verursachen sie ein Drehmoment mit dem Betrag . Man spricht von einem Kräftepaar. Umgekehrt lässt sich in der Statik auch jedes Drehmoment auf ein Kräftepaar zurückführen.
+
+
+== Spezielle Bezeichnungen in der Technik ==
+In der Technik wird das Drehmoment meist Moment genannt. Es wird unterschieden nach
+Art der Beanspruchung:
+Biegemoment: Ein Drehmoment, das ein Bauteil auf Biegung beansprucht.
+Torsionsmoment: Das Drehmoment, das ein Bauteil auf Verdrehung (Torsion) beansprucht.
+Art der Bewegung:
+Gier-, Nick-, Wankmoment: Drehmomente um spezielle Achsen eines Starrkörpers.
+Art der Wirkung:
+Abtriebsmoment: Das Drehmoment, das an der Welle einer Kraftmaschine oder an der Ausgangswelle eines Getriebes gemessen wird. Für die angetriebene Arbeitsmaschine oder das Getriebe ist es das Antriebsmoment.
+Anfahrmoment: Das Drehmoment, das eine Kraftmaschine aus dem Stand leisten kann, oder das eine Arbeitsmaschine oder ein Fahrzeug beim Anfahren benötigt.
+Antriebsmoment: Das Drehmoment, das an der Eingangswelle einer Arbeitsmaschine oder eines Getriebes, an der Radachse eines Fahrzeugs oder an der Achse eines Propellers wirkt. Für die treibende Kraftmaschine oder das treibende Getriebe ist es das Abtriebsmoment.
+Anzugsdrehmoment, oder Anziehdrehmoment: Das Drehmoment, das beim Befestigen (Anziehen) einer Schraube aufgebracht wird.
+Kippmoment: In der Mechanik das Drehmoment, das ein aufrecht stehendes Objekt umkippt. In der Elektrotechnik das maximale Drehmoment in der Drehmoment/Drehzahl-Kennlinie eines Asynchronmotors.
+Lastmoment: Das Drehmoment, das eine Arbeitsmaschine der antreibenden Kraftmaschine oder dem Getriebe entgegensetzt. Für die Kraftmaschine oder das Getriebe ist es das Abtriebsmoment.
+Sonstigem:
+Bemessungsmoment: Das Drehmoment, für das ein Bauteil bei der Konstruktion bemessen wurde.
+Nennmoment: Das Drehmoment, für das eine Komponente entworfen wurde.
+
+
+== Das Drehmoment als gerichtete Größe ==
+Wenn eine Kraft  am Punkt  angreift, so verursacht sie bezüglich des Punktes  ein Drehmoment , das sich wie folgt berechnen lässt:
+.
+Die Richtung des Drehmomentvektors ergibt sich auch aus der Drei-Finger-Regel, die bei Vektorprodukten allgemein gilt: Wenn man mit dem Daumen der rechten Hand in Richtung des Abstandsvektors  zeigt und mit dem Zeigefinger in Richtung der Kraft , dann gibt der Mittelfinger die Richtung des Drehmomentvektors  an. Daher kann man aus der Richtung des Drehmomentvektors nach der Korkenzieherregel den Drehsinn ablesen.
+Der Drehmomentvektor ist ein Pseudovektor (auch „axialer Vektor“ genannt). Das bedeutet: Anders als der Abstands- und der Kraftvektor kehrt er bei Raumspiegelung seine Richtung nicht um.
+Zur zeichnerischen Darstellung: Wie alle Vektoren kann der Drehmomentvektor in Zeichnungen (vgl. Abbildung im Einleitungsabschnitt) als ein Pfeil dargestellt werden. Dabei steht die Länge des Pfeils für seinen Betrag. Die Richtung gibt - wie gesagt - den Drehsinn des Drehmoments an. Dies kann durch einen zusätzlichen gebogenen Pfeil um die Drehachse angedeutet werden. Da die Pfeilspitze keine lineare, sondern eine Drehrichtung symbolisiert, wird der Drehmomentvektor gelegentlich auch mit einer doppelten Spitze gezeichnet.
+
+
+=== Spezialfall: Zwei Dimensionen ===
+Wenn alle Kräfte und Abstandsvektoren in einer Ebene orthogonal zur Drehachse liegen, so vereinfachen sich alle in diesem Artikel besprochenen Berechnungen enorm, denn sämtliche Drehmomente können dann als Skalare behandelt werden. Die Angabe der Richtung reduziert sich in diesem Fall auf das Vorzeichen des Drehmoments: In Übereinstimmung mit der allgemeinen vektoriellen Definition werden Drehmomente, die bei Draufsicht auf die Ebene gegen den Uhrzeigersinn wirken (in „mathematisch positiver Richtung“) positiv gezählt, Drehmomente im Uhrzeigersinn entsprechend negativ. Für viele technische Anwendungen, bei denen die Lage der Drehachse durch die Lager vorgegeben ist, ist dieser zweidimensionale Spezialfall der Regelfall.
+
+
+=== Maßeinheit ===
+Die Maßeinheit des Drehmoments im SI ist das Newtonmeter (N m). Mit den Basiseinheiten Kilogramm, Meter und Sekunde gilt:
+
+Die Einheit der mechanischen Arbeit ist ebenfalls das Newtonmeter. Dennoch sind Drehmoment und Arbeit unterschiedliche physikalische Größen, die sich nicht ineinander umrechnen lassen, weshalb man die Einheit der Arbeit als Joule bezeichnen darf (), diejenige des Drehmoments aber nicht. Arbeit wird geleistet, wenn bei einer Bewegung entlang einer Strecke eine Kraft(komponente) parallel zur Bewegung wirkt. Beim Drehmoment wirkt dagegen die Kraft senkrecht zu der durch den Hebelarm gebildeten Strecke. Die Arbeit ist eine skalare Größe. Das Drehmoment ist dagegen ein Pseudovektor.
+Dem Satz „Arbeit = Kraft mal Weg“ entspricht hier „Arbeit = Drehmoment mal Winkel“. Um diesen Zusammenhang darzustellen, kann für das Drehmoment als Energie pro Winkel auch die Einheit
+
+verwendet werden, wobei die Richtung des Vektors dann in Richtung der Drehachse zeigt. Dabei ist  die Maßeinheit Radiant für ebene Winkel.
+In technischen Dokumenten und auf Typenschildern wird das Drehmoment in der Einheit Nm angegeben. Andere verwendete Einheiten sind z. B. oz.·in (1 oz·in = 7,06 mN m) oder Kombinationen aus diversen (Gewichts-) Kraft- und Längeneinheiten.
+
+
+=== Statik ===
+Die Statik ist der Teilbereich der Mechanik, der sich mit Gleichgewichtszuständen befasst. Wenn ein Körper sich im Kräftegleichgewicht befindet, dann ändert er seine Geschwindigkeit nicht (s. 1. Newtonsches Gesetz). Entsprechend dazu gilt, dass ein Körper, der sich im Drehmomentengleichgewicht
+
+befindet, seine Rotationsgeschwindigkeit nicht ändert. Ist die Summe aller Drehmomente für irgendeinen Bezugspunkt gleich Null, so gilt das auch für jeden beliebigen anderen Bezugspunkt. Daher ist man bei der Wahl des Bezugspunkts völlig frei. Bei drehbar gelagerten Körpern bietet sich aber ein Punkt auf der Drehachse an. Weil nämlich die Zwangskräfte der Lager kein Drehmoment um die Drehachse verursachen, erleichtert dies die Berechnung der Drehmomentenbilanz erheblich.
+Ein Kraftpfeil lässt sich entlang seiner Wirkungslinie verschieben. In der Position, wo der Abstandsvektor  senkrecht zum Kraftpfeil und senkrecht zur Drehachse steht, wird er als Hebelarm bezeichnet. Betragsmäßig gilt dann: „Drehmoment gleich Hebelarm mal Kraft“. Bei zwei angreifenden Kräften (die dann als Kraft und Last bezeichnet werden) ist das oben genannte Drehmomentengleichgewicht äquivalent zum Hebelgesetz:
+Kraftarm mal Kraft = Lastarm mal Last.
+(Man beachte, dass streng genommen nur die Beträge gleich sind, denn die beiden Drehmomente sind gegensinnig und haben daher umgekehrte Vorzeichen.)
+
+
+=== Dynamik ===
+Die Dynamik beschäftigt sich mit Zuständen, die sich nicht im Gleichgewicht befinden. Nach dem 2. Newtonschen Gesetz führt eine resultierende Kraft an einem Körper zu einer Geschwindigkeitsänderung. Analog dazu bedeutet ein resultierendes Drehmoment eine Änderung der Winkelgeschwindigkeit . Das Trägheitsverhalten bezüglich der Rotation hängt nicht nur von der Masse eines Körpers, sondern auch von deren räumlicher Verteilung ab. Dies wird durch das Trägheitsmoment  ausgedrückt. Bei einer Drehung um eine feste Achse gilt für das Drehmoment in Richtung dieser Achse:
+
+Hierbei ist zu beachten, dass das Trägheitsmoment nicht nur von der Position der Drehachse (s. Steinerscher Satz) sondern auch von ihrer Richtung abhängig ist. Will man die obige Gleichung allgemeiner für jede beliebige Raumrichtung formulieren, so muss man stattdessen den Trägheitstensor  verwenden.
+
+Man kann den Zusammenhang von Drehmoment und Rotation auch über die Änderungsrate des Drehimpulses ausdrücken:
+
+Im zweidimensionalen Spezialfall bewirkt ein Drehmoment lediglich eine Beschleunigung oder Abbremsung einer Rotationsbewegung. Im allgemeinen dreidimensionalen Fall kann es hingegen auch die Richtung der Rotationsachse verändern. (s. z. B.: Präzession)
+
+
+=== Entsprechungen zwischen geradliniger Bewegung und Drehbewegung ===
+Das Drehmoment  nimmt in der klassischen Mechanik für Drehbewegungen eine ähnliche Rolle ein wie die Kraft  für geradlinige Bewegungen:
+↑ a b Diese vereinfachten Formeln gelten für eine konstante Kraft entlang eines Weges in Kraftrichtung bzw. ein konstantes Drehmoment um eine Achse in Drehrichtung. Bei veränderlichen Kräften und Drehmomenten bzw. bei schiefwinkligen Anordnungen sind die allgemeinen Formeln in der Zeile darunter zu verwenden.
+
+
+== Messung des Drehmoments ==
+
+
+=== Ruhender Körper ===
+Der drehbare Körper wird durch ein statisches Gegenmoment in Ruhe gehalten. Das auf den ruhenden Körper wirkende und zu messende Drehmoment ist gleich groß wie das Gegenmoment, das zum Beispiel mit einem Drehmomentschlüssel erzeugt wird und dessen Wert das Produkt aus der Hebelarmlänge und der Gegenkraft am Schlüsselgriff ist.
+Beim Anziehen einer Schraube oder einer Mutter mittels eines Drehmomentschlüssels wird jenes Drehmoment sowohl erzeugt als auch gemessen, das die Schraubverbindung dem Anziehvorgang entgegensetzt. Dabei ist der drehbare Körper erst vollständig in Ruhe, wenn der Vorgang des Anziehens beendet ist.
+
+
+=== Drehender Körper ===
+Das die Drehgeschwindigkeit verändernde Drehmoment lässt sich durch Messen der Winkelbeschleunigung  bestimmen, wenn das Trägheitsmoment  bekannt ist. Die Auswertung erfolgt mit der Formel
+.
+Bei Übertragung einer Leistung  zum Beispiel über eine rotierende Welle interessiert die Abhängigkeit des dabei wirkenden Drehmomentes von der Drehzahl  (Drehmomentkurve). Dafür ist der Zustand konstanter Drehzahl herzustellen. Gemessen werden die Leistung und die Drehzahl. Die Auswertung erfolgt mit der Formel
+.
+Das Messen der Leistung erfolgt mit Hilfe einer sogenannten Leistungsbremse: Pendelmaschine, Pronyscher Zaum oder Wasserwirbelbremse.
+
+
+== Drehmomente an ausgewählten Maschinen ==
+
+
+=== Beispiel: Elektromotor ===
+Elektromotoren haben ein relativ hohes Anfahrmoment, das bei Drehstrommotoren durch temporären Betrieb in Dreieckschaltung noch erhöht werden kann. Das Bild zeigt das Abtriebsmoment eines Asynchronmotors in Abhängigkeit von der Drehzahl. Der normale Betriebsbereich ist rechts von den Kipppunkten K1 oder K2 auf der steil abfallenden Kurve. Der Bereich links von den Kipppunkten ist der Anfahrbereich, der wegen des schlechten Wirkungsgrades möglichst schnell durchfahren werden soll.
+
+
+=== Beispiel: Drehmoment und Leistung von Kolbenmotoren ===
+
+Der bei Automobilen verwendete Begriff maximales Drehmoment des Verbrennungsmotors bei einer bestimmten Drehzahl bezeichnet das maximale vom Motor an der Kurbelwelle abgegebene Drehmoment. Genaugenommen handelt es sich dabei um den zeitlichen Mittelwert über einen vollen Arbeitszyklus, also über eine Umdrehung beim Zweitaktmotor, zwei Umdrehungen beim Viertaktmotor.
+Das Drehmoment M für Zweitaktmotoren berechnet sich daher aus:
+
+Hierbei ist  das Hubvolumen und  der effektive Mitteldruck,  also die in dem Zyklus geleistete Arbeit in Form von „Kraft mal We

@@ -1,0 +1,12 @@
+Matematika (grč. mathema - nauka, učenje) je nauka koja izučava aksiomatski definisane apstraktne strukture koristeći logiku. Izučavane strukture najčešće potiču iz drugih prirodnih nauka, najčešće fizike, ali neke od struktura su definisane i izučavane radi internih razloga.
+
+
+== Podjela ==
+Matematika se dijeli na aritmetiku i geometriju.
+
+
+== Historija ==
+Matematika se razvila iz potrebe da se obavljaju proračuni u trgovini, vrše mjerenja zemljišta i predviđaju astronomski događaji, i ove tri primjene se mogu dovesti u vezu sa grubom podjelom matematike u izučavanje strukture, prostora i izmjena.
+Izučavanje strukture počinje sa brojevima, u početku sa prirodnim brojevima i cijelim brojevima. Osnovna pravila za aritmetičke operacije su definisana u osnovnoj algebri a dodatna svojstva cijelih brojeva se izučavaju u teoriji brojeva. Izučavanje metoda za rješavanje jednačina je dovelo do razvoja apstraktne algebre koja između ostalog izučava prstenove i polja, strukture koje generalizuju osobine koje posjeduju brojevi. Fizikalno važan koncept vektora se izučava u linearnoj algebri.
+Izučavanje prostora je počelo sa geometrijom, prvo Euklidovom geometrijom i trigonometrijom u pojmljivom trodimenzionalnom prostoru, ali se kasnije proširila na ne-Euklidske geometrije koje imaju centralnu ulogu u opštoj relativnosti. Moderna polja geometrije su diferencijalna geometrija i algebarska geometrija. Teorija grupa izučava koncept simetrije, i predstavlja vezu u u izučavanju prostora i strukture. Topologija povezuje izučavanje prostora i izmjene fokusirajući se na koncept kontinuiteta.
+Razumjevanje i opisivanje izmjena mjerljivih varijabli je glavna značajka prirodnih nauka, i diferencijalni račun je razvijen u te svrhe. Centralni koncept kojim se opisuje promjena varijable je funkcija. Mnogi prirodni problemi su vodili uspostavljanju veze između vrijednosti i količine izmjene, i metodi razvijeni pri tome, se izučavaju u diferencijalnim jednačinama. Brojevi koji predstavljaju kontinualne veličine su realni brojevi, i detaljno izučavanje njihovih svojstava i funkcija je predmet analize. Zbog matematskih razloga, uveden je koncept kompleksnih brojeva koji se izučavaju u kompleksnoj analizi. Funkcionalna analiza je skoncetrisana na n-dimenzionalne prostore funkcija postavljajući time osnovu za izučav

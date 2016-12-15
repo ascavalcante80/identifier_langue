@@ -1,0 +1,107 @@
+En física, una órbita es la trayectoria que describe un objeto físico alrededor de otro mientras está bajo la influencia de una fuerza central, como la fuerza gravitatoria.
+
+
+== Historia ==
+Las órbitas se analizaron por primera vez de forma matemática por Johannes Kepler, quien fue el que formuló los resultados en sus tres leyes del movimiento planetario. La primera, encontró que las órbitas de los planetas en el sistema solar son elípticas y no circulares o epiciclos, como se pensaba antes, y que el Sol no se encontraba en el centro de sus órbitas sino en uno de sus focos. La segunda, que la velocidad orbital de cada planeta no es constante, como también se creía, si no que la velocidad del planeta depende de la distancia entre el planeta y el Sol. Y la tercera, Kepler encontró una relación universal entre las propiedades orbitales de todos los planetas orbitando alrededor del Sol. Para cada planeta, la distancia entre el planeta y el Sol al cubo, medida en unidades astronómicas, es igual al periodo del planeta al cuadrado, medido en años terrestres.
+Isaac Newton demostró que las leyes de Johannes Kepler se derivaban de su teoría de la gravedad y que, en general, las órbitas de los cuerpos que respondían a la fuerza gravitatoria eran secciones cónicas. Isaac Newton demostró que un par de cuerpos siguen órbitas de dimensiones que son inversamente proporcionales a sus masas sobre su centro de masas común. Cuando un cuerpo es mucho más masivo que el otro, se hace la convención de tomar el centro de masas como el centro del cuerpo con mayor masa.
+
+
+== Órbitas planetarias ==
+
+Dentro de un sistema planetario, los planetas, planetas enanos, asteroides, cometas y la basura espacial orbitan alrededor de la estrella central, el sol, con órbitas elípticas. Un cometa en una órbita parabólica o hiperbólica alrededor de una estrella central no tiene un lazo gravitatorio con la estrella y por tanto no se considera parte del sistema planetario de la estrella. No se han observado en el Sistema Solar cometas con órbitas claramente hiperbólicas. Los cuerpos que tienen un lazo gravitacional con uno de los planetas del sistema planetario, ya sean naturales o artificiales, realizan órbitas elípticas alrededor del planeta.
+Debido a las perturbaciones gravitatorias mutuas, las excentricidades de las órbitas de los planetas varían a lo largo del tiempo. Mercurio, el planeta más pequeño del Sistema Solar, tiene la órbita más excéntrica. El siguiente es Marte, mientras que los planetas con menor excentricidad son Venus y Neptuno.
+Cuando dos objetos orbitan sobre sí, el periastro es el punto en el que los dos objetos se encuentran más próximos el uno al otro y el apoastro es el punto donde se encuentran más lejos.
+En una órbita elíptica, el centro de masas de un sistema entre orbitador y orbitado se sitúa en uno de los focos de ambas órbitas, sin nada en el otro foco. Cuando un planeta se acerca a su periastro, el planeta incrementa su velocidad. De igual manera, cuando se acerca a su apoastro, disminuye su velocidad.
+
+
+=== Explicación intuitiva ===
+Hay varias maneras de poder explicar el funcionamiento de una órbita:
+Cuando un objeto se mueve de forma oblicua, cae hacia un objeto orbitado. Sin embargo se mueve tan rápido que la curvatura del objeto orbitado siempre caerá debajo de este.
+Una fuerza, como la gravedad, atrae un objeto hacia una trayectoria curvada mientras intenta mantener el vuelo en línea recta.
+Cuando un objeto cae, se mueve de forma lateral lo suficientemente rápido (tiene suficiente velocidad tangencial) como para evitar el objeto orbitado.
+
+Un ejemplo utilizado comúnmente para ilustrar una órbita alrededor de un planeta es el cañón de Newton. Se imagina un cañón situado en lo alto de una montaña que dispara bolas de cañón de forma horizontal. La montaña necesita ser muy alta para evitar la atmósfera terrestre e ignorar los efectos de fricción sobre la bola de cañón.
+Si el cañón dispara una bola con una velocidad inicial baja, la trayectoria de la bola se curva e impacta contra el suelo (A). Aumentando la velocidad inicial, la bola de cañón impacta en el suelo cada vez más lejos (B) del cañón, debido a que mientras la bola sigue cayendo, el suelo también se curva. Todos estos movimientos son realmente órbitas en su sentido técnico, ya que describen una trayectoria elíptica alrededor de un centro de gravedad pero que se interrumpe al chocar contra la tierra.
+Si se dispara la bola con suficiente velocidad, el suelo se curva al menos tanto como la bola al caer, por lo que la bola de cañón nunca impacta contra el suelo. Se dice que está realizando una órbita sin interrupción o de circunnavegación. Para cada altura sobre el centro de gravedad hay una velocidad específica que produce una órbita circular (C).
+Si la velocidad de disparo aumenta más allá de esta velocidad, se producen órbitas elípticas (D). A una velocidad mayor, denominada velocidad de escape, que de nuevo depende de la altura donde se dispara, se produce una órbita infinita (E), primero del tipo parabólica y con velocidades más altas del tipo hiperbólica. En ambos tipos de órbitas infinitas el resultado es que el objeto ha escapado de la gravedad del planeta y se marcha hacia el espacio.
+
+
+== Análisis del movimiento orbital ==
+
+
+=== Teoría clásica de Newton ===
+Para un sistema de sólo dos cuerpos que se influyen únicamente por la gravedad, sus órbitas pueden ser calculadas mediante las leyes del movimiento de Newton y la ley de la gravitación universal: la suma de las fuerzas será igual a la masa por su aceleración; la gravedad es proporcional al producto de las masas e inversamente proporcional al cuadrado de la distancia (este cálculo desprecia pequeños efectos como la forma y dimensiones de los cuerpos, que no son relevantes si los cuerpos orbitan a distancias razonablemente grandes comparadas con sus propias dimensiones, y asimismo se ignoran efectos relativistas también muy pequeños en las circunstancias habituales del Sistema Solar).
+Para realizar los cálculos, es conveniente describir el movimiento en un sistema de coordenadas que esté enfocado en centro de gravedad del sistema. Si uno de los cuerpos es mucho más masivo que el otro, el centro de gravedad prácticamente coincidirá con el centro del cuerpo más pesado, por lo que se puede decir que el cuerpo más ligero orbita alrededor el más pesado. La teoría newtoniana predice que en un problema de dos cuerpos, la órbita de un cuerpo es una sección cónica. La órbita puede ser abierta, si el objeto nunca regresa, o cerrada, si regresa, dependiendo de la suma total de energía cinética y potencial del sistema. En el caso de una órbita abierta, la velocidad en cualquier posición de la órbita es al menos la de la velocidad de escape para esa posición; en una órbita cerrada, es siempre menor.
+Una órbita abierta tiene forma de hipérbola si la velocidad es mayor que la velocidad de escape, o de parábola, si la velocidad es exactamente igual a la velocidad de escape. Los cuerpos se aproximan durante un momento, luego sus trayectorias se curvan una respecto a la otra en el momento que su aproximación es la más cercana y luego se separan para siempre.
+Una órbita cerrada tiene forma de elipse. En el caso especial de que el cuerpo orbitante se encuentre siempre a la misma distancia del centro, también tiene forma de círculo. De otra manera, el punto donde el objeto se encuentra más cerca de la Tierra se denomina perigeo, o periastro cuando orbita alrededor de otro cuerpo que no es la Tierra. De forma similar, el punto en el que se encuentra más alejado de la Tierra se llama apogeo, o apoastro si no orbita sobre la Tierra. Una línea dibujada desde el periastro al apoastro es la línea de los ápsides: este es el eje mayor de la elipse.
+Los cuerpos orbitantes en órbitas cerradas repiten su trayectoria en un período constante. Este movimiento es descrito por las leyes empíricas de Kepler, que pueden ser derivadas matemáticamente desde las Leyes de Newton. Estas leyes son:
+La órbita de un planeta alrededor del Sol es una elipse, con el Sol en uno de sus focos. Por tanto, la órbita yace en un plano, denominado plano orbital. El punto de la órbita más cercano al cuerpo atrayente es el periastro. El punto más alejado se denomina apoastro. Existen nombres específicos para cuerpos determinados: los objetos que orbitan alrededor del Sol tienen perihelio y afelio, los objetos que orbitan alrededor de la Tierra tienen perigeo y apogeo.
+Mientras los planetas se mueven alrededor de su órbita durante una cantidad de tiempo fija, la línea desde el Sol al planeta barre una área constante del plano orbital, sin importar en qué parte de la órbita se encuentra el planeta en ese período. Esto significa que un planeta se mueve más rápido cuando se acerca a su perihelio que cuando lo hace a su afelio, debido a que en la distancia menor se necesita barrer un arco mayor para cubrir el mismo área. La ley se suele resumir como "áreas iguales a tiempos iguales".
+Para cada planeta, la relación entre el cubo de su semieje mayor con respecto al cuadrado del período es un valor constante para todos los planetas.
+Excepto para casos especiales como los puntos de Lagrange, no se conoce un método para solucionar las ecuaciones de movimiento para un sistema de cuatro o más cuerpos. Las soluciones para dos cuerpos se publicaron en los Philosophiae Naturalis Principia Mathematica de I. Newton en 1687. En 1912, Karl F. Sundman desarrolló una serie infinita convergente que soluciona el problema con tres cuerpos, sin embargo su convergencia es demasiado lenta para ser utilizada como método práctico de cálculo. En su lugar, las órbitas pueden ser aproximadas con una precisión alta arbitraria. Existen dos formas para estas aproximaciones.
+Una forma es tomar el movimiento elíptico puro como base y añadirle las perturbaciones para tener en cuenta la influencia gravitacional de los otros cuerpos. Este es el método conveniente para calcular las posiciones de objetos astronómicos. Las ecuaciones de movimiento de la Luna, los planetas y otros cuerpos se conocen con gran precisión y se utilizan para generar tablas para la navegación astronómica. Aún así, hay fenómenos seculares que deben ser tratados con métodos post-Newtonianos.
+Para propósitos científicos o de una misión espacial, se utiliza la forma de ecuación diferencial. De acuerdo a las Leyes de Newton, la suma de todas las fuerzas es igual a la masa por su aceleración. Por tanto, las aceleraciones se pueden expresar en términos de posición. Los términos de las perturbaciones son más fáciles de describir de esta forma. La predicción de las posiciones futuras y velocidades desde los términos iniciales se soluciona con un problema de valor inicial. Los métodos numéricos calculan las posiciones y velocidades de los objetos para un tiempo futuro muy pequeño, y luego se prolonga repitiéndolo. Sin embargo, los pequeños errores aritméticos debido a la limitada precisión de la matemática del computador se acumulan, limitando la precisión de esta aproximación.
+Las simulaciones de diferenciales con grandes cantidades de objetos realizan los cálculos de forma jerárquica entre los centros de masas. Utilizando este esquema se pueden simular galaxias, cúmulos estelares y otros objetos grandes.
+
+
+=== Teoría relativista de Einstein ===
+Es bien conocido que la teoría de la relatividad especial está en contradicción con la teoría newtoniana de la gravitación, ya que en ésta tiene lugar la acción a distancia instantánea. Esa y otras razones llevaron a Einstein a buscar una teoría más general que fue la teoría de la relatividad general que incorpora una descripción relativista adecuada del campo gravitatorio. En esta teoría la presencia de una masa en el espacio curva el espacio-tiempo de tal manera que la geometría del mismo deja de ser euclídea (aunque sigue siendo aproximadamente euclídea si las masas y velocidades de los cuerpos toman valores como los observados en el sistema solar). Las órbitas planetarias no son estrictamente secciones cónicas sino curvas geodésicas (líneas de mínima curvatura) sobre la geometría curva del espacio-tiempo. La teoría es no lineal y resulta muy complicado hacer cálculos por ejemplo para un problema de dos cuerpos de masas iguales. Sin embargo, para sistemas planetarios como el sistema solar, en que el astro central, el sol, es mucho más masivo que el resto de planetas, puede estimarse la curvatura del espacio-tiempo debida únicamente al sol (despreciando la del resto de planetas) y asumir que los planetas mucho menos masivos se mueven según geodésicas de la geometría curvada por el sol.
+Para los valores presentes en el sistema solar los resultados cuantitativos de la teoría einsteniana son numéricamente muy cercanos a la teoría newtoniana (por lo que generalmente se justifica a efectos prácticos usar la teoría newtoniana que es computacionalmente más simple). Sin embargo, la teoría newtoniana no puede explicar algunos hechos que sí son correctamente explicados por teoría relativista de Einstein, entre los que se encuentra el notable efecto de avance del perihelio del planeta Mercurio, que es explicado con muy buena aproximación por la teoría relativista de Einstein pero no por la teoría newtoniana.
+
+
+=== Órbitas en el caso newtoniano ===
+Para analizar el movimiento de un cuerpo bajo la influencia de una fuerza que siempre se dirige desde un punto fijo es conveniente utilizar coordenadas polares cuyo origen coincida con el centro de la fuerza. En tal sistema de coordenadas, sus componentes radial y transversal son respectivamente:
+
+Ya que la fuerza es completamente radial y que la aceleración es proporcional a la fuerza, implica que la aceleración transversal es igual a cero. Como resultado,
+
+.
+
+Tras su integración, se obtiene,
+
+, que es una prueba teórica de la segunda ley de Kepler.
+
+La constante de integración l es el momento angular por unidad de masa. Por tanto,
+
+Donde se introduce una variable adicional,
+
+La fuerza radial es f(r) por unidad es , tras la eliminación la variable tiempo del componente radial de la ecuación se obtiene,
+
+En el caso de la gravedad, la ley universal de gravitación de Newton afirma que la fuerza es inversamente proporcional al cuadrado de la distancia,
+
+Donde G es la constante de gravitación universal, m la masa del cuerpo orbitante y M la masa del cuerpo central. Sustituyendo en la ecuación anterior se obtiene,
+
+Para la fuerza gravitacional, el término de la derecha de la ecuación se convierte en una constante y la ecuación se parece a una ecuación armónica. La ecuación para la órbita descrita por la partícula es:
+
+Donde p, e y  son constantes de la integración,
+
+Si el parámetro e es menor que uno, e es la excentricidad y a es el semieje mayor para una elipse. En general, se puede reconocer como la ecuación de una sección cónica en coordenadas polares (r,θ).
+
+
+=== Órbitas en el caso relativista ===
+En el caso relativista, el problema de dos cuerpos puede resolverse aproximadamente usando la solución de Schwarzschild para el campo gravitatorio creado por un cuerpo con simetría esférica. La órbita planteria en el espacio-tiempo es una geodésica de la métrica de Schwarzschild. La órbita así obtenida obtendría a partir de una geodésica de la métrica de métrica de Schwarzschild es equivalente a que la partícula notara una aceleración radial efectiva dada por:
+
+donde:
+, constante de la gravitación universal y velocidad de la luz.
+, coordenada radial de Schwarzschild.
+, momento angular orbital del planeta por unidad de masa.
+Las constantes del del movimiento asociadas a la energía y el momento angular son:
+
+La ecuación del movimiento, haciendo el cambio  como en el caso clásico, queda como:
+
+Para todos los planetas del sistema solar la corrección relativista dada por el tercer término del segundo miembro es pequeña comparada con los otros términos. Para mostrar esto conviene introducir un parámetro adimensional  y hacer un nuevo cambio de variable  con lo que la ecuación de movimiento puede reescribirse como:
+
+(*)
+
+donde:
+
+Para el planeta Mercurio el parámetro  es máximo, alcanzado el valor . Sin embargo, la pequeñez de este término hace que las correcciones relativistas produzcan sólo pequeñas correcciones y por esa razón la teoría newtoniana da tan buenas aproximaciones para el sistema solar. Buscando las raíces de la función , teniendo en cuenta la pequeñez de este parámetro, se llega a:
+
+Para las órbitas planetarias estables se tiene  (el caso  queda excluido ya que implica que la partícula cae sobre el sol ). La solución de la ecuación (*) viene dada por:
+
+Esta integral puede reducirse a una integral elíptica mediante el cambio de variable , quedando como:
+
+(**)
+
+donde:
+
+Usando una de las funcio

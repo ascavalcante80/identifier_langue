@@ -1,0 +1,10 @@
+WorldCat è un catalogo bibliografico che registra le collezioni delle 72.000 biblioteche che, da oltre 170 nazioni, partecipano alla cooperazione bibliotecaria Online Computer Library Center (OCLC). WorldCat è costruito e mantenuto collettivamente dalle biblioteche partecipanti.
+
+
+== Storia ==
+Il catalogo fu creato da Fred Kilgour a partire dal 1967 e divenne operativo dal 1971. Alla fine del 2014 aveva raggiunto una mole di oltre 331 milioni di record bibliografici, che puntano a non meno di 2,2 miliardi di risorse (sia fisiche, sia digitali), in più di 480 lingue. È il più ampio database bibliografico internazionale. OCLC fornisce WorldCat liberamente alle biblioteche, ma il catalogo stesso è la base per altri servizi a pagamento, come la condivisione di risorse e la gestione completa della biblioteca.
+Nel 2003, OCLC iniziò il programma pilota "Open WorldCat", rendendo disponibili record abbreviati, provenienti da una sezione di Worldcat, ai siti web partner e ai rivenditori di libri per incrementare l'accessibilità delle collezioni delle biblioteche partecipanti. Nel 2006 divenne possibile fare ricerche su WorldCat direttamente sul suo sito web. Nel 2007, WorldCat Identities cominciò a fornire pagine su 20 milioni di "identità", la maggior parte dei quali è costituita da autori e persone che sono soggetti di titoli pubblicati.
+
+
+== Limitazioni ==
+WorldCat opera seguendo un modello misto di aggiornamento in tempo reale e di elaborazione batch. Tutte le biblioteche che riversano i propri record su WorldCat effettuano gli aggiornamenti a scadenze predefinite con OCLC, mentre tutte le biblioteche (ca 25.000) che catalogano online arricchiscono il catalogo in tempo reale. WorldCat può mostrare dunque che un determinato documento è presente nel catalogo della biblioteca, ma non se questo è in prestito in quel momento, oppure è disponibile. Per ovviare a questo problema, esiste la possibilità per le biblioteche di aggiungere link diretti al proprio c

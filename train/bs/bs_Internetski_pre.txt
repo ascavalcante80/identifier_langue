@@ -1,0 +1,6 @@
+Internetski preglednik (eng. browser, web browser, internet browser) je program sa kojim se pregledaju web stranice na Internetu, kao i na lokalnom serveru. Internetski preglednici rade na taj način što sa web stranica učitavaju HTML (Hypertext Markup Language) dokumente, a nakon toga prikazuju isti na izlaznom uređaju - monitoru. Internetske preglednike opisuju sljedeće osobine: brzina, sigurnost, dokumentacija za podršku i pomoć, mogućnosti i jednostavnost korištenja.
+Novije generacije web browsera podržavaju HTML5 standard.
+
+Neki od internetskih preglednika koji se danas koriste su:
+Google Chrome
+Int

@@ -1,0 +1,20 @@
+zy: Michael C. Daconta., Leo Obrst, Kevin Smith.
+
+
+== Korzyści z takiej reprezentacji wiedzy ==
+Dzięki standaryzacji możliwa stanie się swobodna wymiana danych oraz formalizacja i unifikacja dotychczasowej już zelektronizowanej wiedzy. Dzięki dobrze określonym strukturom reprezentacji komputer będzie mógł w łatwiejszy oraz bardziej trafny sposób wyszukiwać informacji lub nawet wnioskować w poszukiwaniu nowych faktów i powiązań.
+Wyobraźmy sobie, że szukamy w Internecie informacji o jakiejś konkretnej grupie ludzi. Standardowym zachowaniem jest wpisanie w wyszukiwarkę internetową nazwiska tych osób oraz analiza wyników wyszukiwania pod kątem oceniania czy znaleźliśmy rzeczywiście szukane osoby. Jeśli jednak wyszukujemy w informacjach opisanych siecią semantyczną możemy pytać o osoby wskazując jakiś konkretny, bardzo szczegółowy fakt, np. "dyrektorzy przychodni lekarskich" i w wyniku otrzymamy kompletną listę spełniającą zapytanie.
+
+
+== Zobacz też ==
+Ontologia (informatyka)
+FOAF
+hakia
+
+
+== Linki zewnętrzne ==
+standard Semantic Web (ang.) tworzony przez W3C.
+Narzędzia i materiały do pracy z sieciami semantycznymi (ang.)
+blog Tima Bernersa-Lee (ang.) - ma służyć głównie wspieraniu działań na rzecz propagacji technologii Semantic Web.
+Szkoła Web 3.0 - Celem Szkoły Web 3.0 jest przybliżenie oraz dokładne i poprawne przedstawienie czym są, co oferują i jak powinno się budować i wykorzystywać technologie semantyczne.
+SemanticMind (ang.) - ciekawy, techniczny blog o rozwoju technologii semantycznych i Web 3.0

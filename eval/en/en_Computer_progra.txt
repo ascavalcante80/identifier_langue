@@ -1,0 +1,55 @@
+ular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications. For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software. Many applications use a mix of several languages in their construction and use. New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+
+
+=== Debugging ===
+
+Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users. Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages. Use of a static code analysis tool can help detect some possible problems.
+Debugging is often done with IDEs like Eclipse, Visual Studio, Kdevelop, NetBeans and Code::Blocks. Standalone debuggers like gdb are also used, and these often provide less of a visual environment, usually using a command line.
+
+
+== Programming languages ==
+
+Different programming languages support different styles of programming (called programming paradigms). The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference. Ideally, the programming language best suited for the task at hand will be selected. Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute. Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly. It is usually easier to code in "high-level" languages than in "low-level" ones.
+Allen Downey, in his book How To Think Like A Computer Scientist, writes:
+The details look different in different languages, but a few basic instructions appear in just about every language:
+Input: Gather data from the keyboard, a file, or some other device.
+Output: Display data on the screen or send data to a file or other device.
+Arithmetic: Perform basic arithmetical operations like addition and multiplication.
+Conditional Execution: Check for certain conditions and execute the appropriate sequence of statements.
+Repetition: Perform some action repeatedly, usually with some variation.
+
+Many computer languages provide a mechanism to call functions provided by shared libraries. Provided the functions in a library follow the appropriate run time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+
+
+== Programmers ==
+
+Computer programmers are those who write computer software. Their jobs usually involve:
+
+
+== See also ==
+
+ACCU
+Association for Computing Machinery
+Computer networking
+Hello world program
+Institution of Analysts and Programmers
+System programming
+The Art of Computer Programming
+
+
+== References ==
+
+
+== Further reading ==
+A.K. Hartmann, Practical Guide to Computer Simulations, Singapore: World Scientific (2009)
+A. Hunt, D. Thomas, and W. Cunningham, The Pragmatic Programmer. From Journeyman to Master, Amsterdam: Addison-Wesley Longman (1999)
+Brian W. Kernighan, The Practice of Programming, Pearson (1999)
+Weinberg, Gerald M., The Psychology of Computer Programming, New York: Van Nostrand Reinhold
+
+
+== External links ==
+ Media related to Programming at Wikimedia Commons
+ Quotations related to Programming at Wikiquote
+ Learning materials related to programming at Wikiversity
+Software engineering at DMOZ
+Computer programming – Khan Academy

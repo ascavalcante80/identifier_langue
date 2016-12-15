@@ -1,0 +1,34 @@
+Bir maddenin başka bir madde içinde gözle görülemeyecek kadar küçük tanecikler halinde dağılarak, homojen karışım oluşturması olayına çözünme, elde edilen karışıma da çözelti denir.
+Bir çözeltiyi oluşturan maddelerden genellikle çok olanına çözücü, az olanına da çözünen denir. Doğada birçok çözücü ve çözünen madde vardır. Bilinen en iyi çözücü sudur. Birçok katı, sıvı ve gaz maddeler suda çözünürler. Çay, deniz suyu, kola, mürekkepli su, alkollü su vb. çözeltiye örnek verilebilir. Çözünme erime ile karıştırılmamalıdır.
+
+
+== Örnekler ==
+
+
+== Çözelti türleri ==
+Çözelti türlerini üç ana başlık altında inceleyebiliriz.
+Çözücünün durumuna göre (fiziksel haline göre; katı, sıvı, gaz):
+Çözeltinin fiziksel halini belirleyen çözücüdür.
+Elektrik akımı iletmelerine göre:
+Elektrik akımını ileten çözeltiler: Çözünen madde çözünürken iyonlarına ayrılıyorsa böyle çözeltilere iyonik çözeltiler denir. İyonlu çözeltiler elektrik akımını iletirler. Bu nedenle de elektrolit çözeltiler olarak da bilinirler. Örnek olarak; asit-baz çözeltileri, tuz çözeltileri verilebilir. Tuz su içerisinde çözünürken Na+ ve Cl- iyonlarına ayrışır.
+Elektrik akımını iletmeyen çözeltiler: Kovalent bağlı bileşikler çözücü içerisinde çözünürken moleküller halinde dağılırlar. Bu tür çözeltiler elektrik akımını iletmezler. Alkolün su içerisinde çözünmesi olayını örnek olarak verebiliriz.
+
+Çözünen madde miktarına göre:
+Doymuş çözeltiler: Çözücünün çözebileceği maksimum maddeyi çözdüğü durumdur.
+Aşırı doymuş çözeltiler: Çözeltinin maksimum çözebileceği madde miktarından daha fazla madde çözünmüş çözeltilerdir. Kararsızdırlar. Bir miktar çözünen madde çökerek doymuş çözelti haline gelirler.
+Doymamış çözeltiler: Bir çözücünün çözebileceği maksimum maddeden daha azını çözdüğü durumdur. Bu tip çözeltilere belli bir miktar daha çözünen atıldığı takdirde, çözücü eklenen çözüneni de çözebilme kapasitesine sahiptir.
+Seyreltik çözelti: Az miktarda çözünen içeren çözeltilere seyreltik çözelti denir. Birim hacme düşen çözünen madde miktarı ne kadar az ise, çözelti o kadar seyreltiktir.
+Derişik çözelti: Çok miktarda çözünen içeren çözeltilere derişik çözelti denir. Birim hacme düşen çözünen madde miktarı ne kadar fazla ise, çözelti o kadar derişiktir.
+
+Bir çözeltiye bir miktar çözücü ilave edildiğinde veya bir miktar çözücü buharlaştırıldığında, yüzde derişim değişir. Ancak çözünen madde miktarı değişmez.
+
+
+=== Çözeltilerin donma ve kaynama noktaları ===
+Bir çözücüde, uçucu olmayan bir maddenin çözünmesi, onun buhar basıncını düşürür.
+Çünkü; çözünen madde tanecikleri birim yüzeydeki çözücü taneciklerinin sayısını azaltır.
+Bu durum çözücünün zor buharlaşmasına neden olur. Buhar basıncının düşmesi de kaynama noktasının yükselmesine sebep olur. Yani çözelti saf çözücünün normal kaynama noktasında kaynamaz. Çözeltinin buhar basıncını bir atmosfere çıkarmak için sıcaklığının çözücünün normal kaynama sıcaklığının üstüne çıkarılması gerekir. Şu halde uçucu olmayan maddelerin çözülmesiyle hazırlanan çözeltilerin kaynama noktaları saf çözücülerinkinden daha yüksektir. Örneğin tuzlu suyun donma noktası saf suyun donma noktasından küçüktür. %10'luk tuz çözeltisinin donma noktası -6 °C iken %20'lik tuz çözeltisinin donma noktası -16 °C'ye düşer.
+Kaynama noktasındaki yükselme çözeltideki çözünenin derişimi ile orantılıdır. Aşağıdaki bağıntı bu ilişkiyi ifade etmektedir.
+DTb=Kb x m
+m: molalite
+Kb: molal kaynama noktası yükselmesi sabiti
+Donma noktasında katı ve sıvının buhar basıncı eşittir. Sıvı çözücü ile katı çözücünün buhar basıncı eğrileri çözeltinin donma noktasında kesişir. Ancak bu sıcaklıkta çözeltinin buhar basıncı saf çözücünün denge buhar basıncından daha düşüktür. 

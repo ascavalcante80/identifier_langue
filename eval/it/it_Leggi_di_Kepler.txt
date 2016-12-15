@@ -1,0 +1,26 @@
+ce nel caso di orbita circolare di raggio  e nell'approssimazione in cui una massa (per esempio quella del sole) sia molto più grande dell'altra (pianeta), ovvero . La forza di attrazione gravitazionale è , e la forza centrifuga (supponendo  fissa) è  dove  è la pulsazione e  il periodo. Uguagliando le due forze si ottiene
+
+
+== Limiti di validità delle leggi di Keplero ==
+Va specificato che le leggi di Keplero sono precise se e solo se sono soddisfatte le seguenti ipotesi:
+la massa del pianeta è trascurabile rispetto a quella della stella di riferimento;
+si possono trascurare le interazioni tra diversi pianeti (tali interazioni portano a leggere perturbazioni sulla forma delle orbite).
+
+
+== Bibliografia ==
+Frederick J. Bueche, Fisica, Milano, Principato, 1991,
+Paride Nobel, Fenomeni Fisici, Napoli, Editrice Ferraro, 1994 ISBN 88-7271-126-6
+
+
+== Voci correlate ==
+Velocità areolare
+Derivazione delle leggi di Keplero
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Leggi di Keplero
+
+
+== Collegamenti esterni ==
+Leggi di Keplero, in Tesauro del Nuovo soggettario, BNCF, marzo 2013.

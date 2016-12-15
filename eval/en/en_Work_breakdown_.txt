@@ -1,0 +1,42 @@
+ offices and procedures have been built to match this naval architecture structure, so any significant change of WBS element numbering or naming in the hierarchy would be unacceptable.
+
+
+== Example ==
+
+The figure on the left shows a work breakdown structure construction technique that demonstrates the 100% rule and the "progressive elaboration" technique. At WBS Level 1 it shows 100 units of work as the total scope of a project to design and build a custom bicycle. At WBS Level 2, the 100 units are divided into seven elements. The number of units allocated to each element of work can be based on effort or cost; it is not an estimate of task duration.
+The three largest elements of WBS Level 2 are further subdivided at Level 3. The two largest elements at Level 3 each represent only 17% of the total scope of the project. These larger elements could be further subdivided using the progressive elaboration technique described above.
+WBS design can be supported by software (e.g. a spreadsheet) to allow automatic rolling up of point values. Estimates of effort or cost can be developed through discussions among project team members. This collaborative technique builds greater insight into scope definitions, underlying assumptions, and consensus regarding the level of granularity required to manage the projects.
+
+
+== Misconceptions ==
+A WBS is not an exhaustive list of work. It is instead a comprehensive classification of project scope.
+A WBS is neither a project plan, a schedule, nor a chronological listing. It specifies what will be done, not how or when.
+A WBS is not an organizational hierarchy, although it may be used when assigning responsibilities. See also: responsibility assignment (RACI) matrix (also called a Staffing Matrix).
+
+
+== See also ==
+List of project management topics
+Project planning
+Product breakdown structure
+Value breakdown structure
+Project management software
+Structure chart
+
+
+== References ==
+
+
+== Further reading ==
+Carl L. Pritchard. Nuts and Bolts Series 1: How to Build a Work Breakdown Structure ISBN 1-890367-12-5
+Project Management Institute. Project Management Institute Practice Standard for Work Breakdown Structures, Second Edition (2006) ISBN 1-933890-13-4 (Note: The Second Edition is an extensive re-write of the Practice Standard.)
+Gregory T. Haugan. Effective Work Breakdown Structures (The Project Management Essential Library Series) ISBN 1-56726-135-3
+Dennis P. Miller, PMP, "Building Your Project Work Breakdown Structure -- Visualizing Your Objectives, Deliverables, Activities and Schedule". ISBN 1-42006969-1 (Note: This new book is essentially a facilitator's guide for planning a project based on the WBS.)
+
+
+== External links ==
+ Media related to Work breakdown structures at Wikimedia Commons
+how to create work breakdown structure WBS using standard Division of work
+EverySpec.Com copies of MIL-HDBK-881 versions
+Defense Acquisition University ACQ101 Summary for Work Breakdown Structures
+How to Make a Work Breakdown Structure
+NASA Work Breakdown Structure Handbook, NASA/SP-2010-3404, January 2010

@@ -1,0 +1,48 @@
+La nomenclatura binomiale, o nomenclatura binomia, è una convenzione standard utilizzata in sistematica per conferire il nome a una specie. Come suggerisce il termine binomiale, il nome scientifico di una specie viene coniato dalla combinazione di due nomi:
+il nome del genere a cui appartiene la specie
+un epiteto che caratterizzi e distingua quella specie dalle altre appartenenti al quel genere.
+Il primo termine (nome generico) porta sempre l'iniziale maiuscola, mentre il secondo termine (nome specifico) viene scritto in minuscolo; entrambi i nomi vanno inoltre scritti in corsivo (ad esempio Homo sapiens). Quando il genere è stato precedentemente trattato nel testo o quando sono già state elencate delle specie di quel genere, il nome generico può essere abbreviato con la sua lettera iniziale (H. sapiens) ma non deve mai essere omesso. Solo in rare occasioni questa abbreviazione viene usata comunemente al posto del nome completo. Per esempio il batterio Escherichia coli viene spesso indicato solo come E. coli.
+
+
+== Origine dei nomiModifica ==
+Come nome specifico viene utilizzato un aggettivo che permette di distinguere la specie dagli altri membri di quel genere. Sia il nome generico che l'epiteto derivano frequentemente dal latino. Alcuni nomi sono di origine greca o derivano dalla lingua locale o dall'autore che per primo ha scoperto la specie. Infatti, i tassonomisti, per nominare le specie, traggono spunto da una varietà di fonti, inclusi i giochi di parole. Comunque, i nomi usati tendono a essere "latinizzati" ed è per questa ragione che il nome binomiale, oltre a essere detto nome scientifico, viene spesso chiamato volgarmente "nome latino".
+Per maggiori dettagli sull'origine dei nomi scientifici si veda la lista dei termini latini e greci comuni nei nomi scientifici.
+
+
+== Importanza e usi del sistema binomialeModifica ==
+L'importanza del sistema binomiale deriva principalmente dalla sua semplicità e dal suo esteso uso:
+Lo stesso nome è valido in tutte le lingue, evitando così possibili difficoltà di traduzione;
+Ogni specie può essere identificata inequivocabilmente da due sole parole;
+Il sistema è stato adottato internazionalmente in botanica (dal 1753), zoologia (dal 1758) e batteriologia (dal 1980).
+Lo svantaggio della nomenclatura binomiale è il fatto che spesso in caso di cambiamento nella classificazione (genere), si deve cambiare in parte o tutto il nome, per cui una stessa specie può adottare nel corso degli anni anche diversi nomi, oppure avere una serie di nomi che dipendono dalle diverse teorie scientifiche in circolazione. Le procedure associate alla nomenclatura binomiale cercano in ogni modo di ridurre l'instabilità. In particolare, quando, per vari motivi, le specie vengono trasferite da un genere a un altro, se è possibile, viene conservato lo stesso epiteto specifico. Similarmente, se delle specie, che venivano considerate distinte, vengono successivamente ritenute sottospecie della stessa specie, i loro termini specifici vengono spostati a termini sottospecifici nella nomenclatura trinomiale.
+Le regole dei codici di nomenclatura per le Piante, Funghi, Cianobatteri, Animali, Batteri e Virus differiscono tra di loro. Per esempio, la nomenclatura ICBN (piante) non mostra tautonomia, cioè l'uso dello stesso nome per il genere e la specie, mentre il codice ICZN (animali) sì. È stata suggerita la creazione di un BioCode che prenda il posto e unifichi i vari codici, ma vi sono anche dei dibattiti sullo sviluppo di un PhyloCode, che si occuperà di nominare i rami (o cladi) dei vari alberi filogenetici (o cladogrammi).
+
+
+== Estensioni del nome scientificoModifica ==
+
+
+=== Nomenclatura trinomiale degli animaliModifica ===
+In zoologia, una specie animale può risultare ulteriormente suddivisa in sottospecie, le quali vengono identificate con il sistema di nomenclatura trinomiale. Per fare un esempio, il cormorano comune (Phalacrocorax carbo) della Nuova Zelanda differisce da quelli viventi in altre regioni, e viene classificato come sottospecie Phalacrocorax carbo novaehollandiae. Per la classificazione degli animali, viene usata esclusivamente questa categoria come livello inferiore alla specie e, per questo motivo, non è necessario aggiungere ulteriori indicazioni. Il terzo epiteto è sufficiente per indicare che si tratta di una sottospecie.
+
+
+=== Suddivisione botanicaModifica ===
+In botanica, una specie, oltre che in sottospecie, può risultare suddivisa in varietà, forme, cultivar o altre categorie. A causa di ciò, il nome del taxon deve essere preceduto da una abbreviazione che indichi quella categoria infraspecifica (subsp., var., form. etc.), cosa che non avviene nella nomenclatura trinomiale degli animali. Ad esempio, una singola specie di pianta (Pinus nigra) può avere sottospecie (Pinus nigra subsp. salzmannii), varietà (Pinus nigra var. caramanica), varietà di sottospecie (Pinus nigra subsp. salzmannii var. corsicana) o altre complesse terminologie.
+
+
+=== Ibridi botaniciModifica ===
+Dall'incrocio di individui appartenenti a taxon differenti si ottiene un ibrido e questi vengono indicati utilizzando il segno di moltiplicazione × oppure aggiungendo il prefisso "notho-" al termine che denota il livello della tassonomia. Ad esempio Forsythia × intermedia è il nome degli ibridi ottenuti dall'incrocio di F. suspensa con F. viridissima oppure × Cupressocyparis leylandii è il nome degli ibridi ottenuti dall'incrocio di Cupressus macrocarpa con Chamaecyparis nootkatensis
+
+
+== Autori nei nomi scientificiModifica ==
+Molte volte si vedrà un nome (o una sua abbreviazione) dopo un nome scientifico e spesso anche una data annuale. Per essere completa, la referenza a una specie deve includere anche l'autore (o gli autori) che ha descritto la specie e che le ha dato il nome. Mentre il nome scientifico viene scritto in corsivo, la citazione sull'autore no. Questa aggiunta viene usualmente fatta una sola volta in un particolare articolo o citazione. Le convenzioni sulla citazione degli autori differiscono, per alcune modalità, tra le piante e gli animali, e sono governate rispettivamente dal Codice Internazionale di Nomenclatura Botanica e dal Codice Internazionale di Nomenclatura Zoologica.
+
+
+=== Citazione degli autori in botanicaModifica ===
+I nomi degli autori botanici risultano abbreviati da un indice standardizzato e pubblicato dai Royal Botanic Gardens di Kew (le abbreviazioni standard degli autori botanici sono elencate in questa lista).
+Così, nell'esempio Pinus sylvestris L., l'abbreviazione "L." si riferisce a Carolus Linnaeus; nell'esempio Pinus koraiensis Siebold & Zucc., Siebold si riferisce a Philipp Franz von Siebold e Zucc. al coautore Joseph Gerhard Zuccarini.
+Se una specie viene trasferita a un genere differente conservando inalterato l'altro termine, l'autore originale viene posto tra parentesi tonde e si aggiunge l'autore responsabile dello spostamento. Per esempio, la sequoia sempreverde venne descritta inizialmente da David Don come Taxodium sempervirens D. Don. In seguito, Stephan Ladislaus Endlicher si accorse che questa specie differiva largamente dalle altre specie del genere Taxodium, e la incluse in un nuovo genere, pubblicando la combinazione Sequoia sempervirens (D. Don) Endl..
+Negli articoli che trattano la tassonomia dettagliata delle piante, vengono sempre aggiunti la data e la pubblicazione dell'autore, ma, nelle enciclopedie o altre opere non tassonomiche, questa è una pratica rara. Per il precedente esempio, la citazione completa è Sequoia sempervirens (D. Don) Endl., Syn. Conif. 198 (1847), riferendosi alla pagina 198 del Synopsis Coniferarum di Endlicher, pubblicato nel 1847.
+
+
+=== Citazione degli autori in zoologiaModifica ===
+Per i nomi delle specie animali, gli autori vengono indicati con il loro cognome scritto per intero, cioè senza abbreviazione. Il primo nome viene omesso ma, se esistono due autori con lo stesso cognome, viene aggiunta l'iniziale per distinguerli. La

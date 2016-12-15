@@ -1,0 +1,45 @@
+Un fus orar este o zonă pe Pământ în care este legal în vigoare aceeași oră (același timp). Timpul aflat legal în vigoare într-un anumit loc este numit timp legal, oră legală, oră oficială sau, uneori, timp standard sau oră locală.
+
+
+== Timpul legal și fusurile orare ==
+Timpul civil al unui loc este definit, prin măsurători astronomice, astfel încât ora 12 să coincidă cu amiaza locului (momentul când Soarele ajunge în punctul cel mai înalt de pe cer). Deoarece amiaza astronomică nu este simultană în toate punctele de pe Pământ, utilizarea timpului civil ar duce la situația în care fiecare localitate are propria oră. Timpul civil este egal doar pentru locuri situate pe un același meridian. Pentru puncte aflate la longitudini diferite, diferența de timpi civili este proporțională cu diferența de longitudine, fiecare 15° diferență de longitudine ducând la o diferență de 1 oră între timpii civili.
+Pentru a evita existența unei ore diferite în fiecare punct de pe Pământ, s-a stabilit o împărțire a suprafeței Pământului în zone numite fusuri orare. Fiecare fus orar are asociat un meridian numit meridianul central al fusului orar. Toate punctele încadrate într-un fus orar au ca timp legal timpul civil al meridianului central al fusului orar respectiv.
+Pe mare, sunt luate ca meridiane centrale toate meridianele multiplu de 15°. Fiecărui astfel de meridian îi corespunde ca fus orar zona cuprinsă între 7°30‘ est față de meridianul central și 7°30‘ vest față de meridianul central. De exemplu, zona cuprinsă între 22°30‘ și 37°30‘ longitudine estică are ca timp legal timpul civil al meridianului de 30° longitudine estică. În orice punct de pe glob, diferența dintre timpul civil și timpul legal este astfel de cel mult 30 de minute. Diferența de timp legal între două fusuri orare vecine este de exact 1 oră.
+Timpul civil al meridianului 0° este timpul universal coordonat (prescurtat UTC). Timpul universal coordonat coincide cu timpul legal al fusului orar cuprins între 7°30‘ longitudine vestică și 7°30‘ longitudine estică.
+Timpul legal al fiecărui fus orar este specificat relativ la UTC. De exemplu, pentru fusul orar cuprins între 22°30‘ și 37°30‘ longitudine estică, adică pentru fusul având ca meridian central meridianul de 30° longitudine estică, timpul legal este egal cu UTC+2h. Asta înseamnă că, de exemplu, dacă UTC este 15 octombrie ora 14:32, fusul orar UTC+2 are ca timp legal 15 octombrie ora 16:32. În același moment, fusul orar UTC+10h are ca timp legal 16 octombrie ora 00:32. Dacă UTC este 15 octombrie ora 07:12, fusul orar UTC+2h are timpul legal 15 octombrie ora 09:12, iar fusul orar UTC-11h are timpul legal 14 octombrie ora 20:12.
+Meridianului 180° are asociate două fusuri orare. Un fus se întinde de la meridianul 172°30‘ longitudine estică până la meridianul 180° și are timpul legal egal cu UTC+12h. Celălalt fus se întinde de la meridianul 180° până la meridianul 172°30‘ longitudine vestică și are timpul legal egal cu UTC-12h. Între aceste două fusuri orare diferența de timp legal este de exact 24 de ore, adică o zi. Linia de demarcație dintre ele (meridianul 180°) se numește linia de schimbare a datei.
+
+
+== Timpul universal coordonat ==
+
+Timpul de referință pentru definirea fusurilor orare este timpul universal coordonat (UTC), care are la origine timpul civil al observatorului astronomic Royal Greenwich Observatory din Greenwich, Londra, Anglia [1]. În momentul de față, timpul universal coordonat este definit pe baza timpului atomic, cu niște corecții aplicate în vederea păstrării lui în sincronism cu rotația Pământului.
+Termenul Greenwich Mean Time (GMT) este ambiguu în acest moment, putând desemna timpul universal coordonat, timpul civil al Observatorului din Greenwich, care diferă de UTC cu cel mult 0,9 secunde, sau timpul solar mediu al Observatorului din Greenwich, care este timpul civil plus 12 ore.
+
+
+== Fusurile orare reale ==
+
+Pe uscat, liniile de demarcație dintre fusurile orare sunt modificate în așa fel încât să se suprapună, pe cât posibil, peste granițele stalelor sau diviziunilor administrative. Ca urmare,există puncte în care diferența dintre timpul legal și timpul civil este mai mare de 30 minute. Unele fusuri orare sunt atât de mult lățite încât ajung să se învecineze cu fusuri orare având timpul legal cu 2 sau chiar 3 ore mai mare sau mai mic. De exemplu, China are pe întreg teritoriul aceeași oră legală, deși se întinde pe aproximativ 60° de longitudine și ar trebui să fie divizată în 5 fusuri orare distincte.
+Linia de schimbare a datei, indeosebi, este modificată pentru a evita arhipelagurile din Oceanul Pacific. Ca urmare, există fusuri orare dincolo de UTC+12h, și anume UTC+13h și UTC+14h. Acestea sunt construite în zone care, ideal, ar trebui să aparțină de fusurile UTC-11h și, respectiv, UTC-10h.
+Pe lângă fusurile orare cu diferențe de număr întreg de ore, există, din motive istorice, teritorii în care ora legală este intermediară între două fusuri "obișnuite". De exemplu, India are ora legală UTC+5h30min.
+Câteva exemple privind timpul legal în diverse orașe de pe Glob sunt date în continuare:
+Los Angeles, California, SUA: UTC − 8 (ex. dacă este 12:00 UTC, atunci este 04:00 în Los Angeles)
+Toronto, Ontario, Canada: UTC − 5 (ex. dacă este 11:00 UTC, atunci este 06:00 în Toronto)
+Stockholm, Suedia: UTC + 1 (ex. dacă este 12:00 UTC, atunci este 13:00 în Stockholm)
+Istanbul, Turcia: UTC + 2 (ex. dacă este 03:00 UTC, atunci este 05:00 în Istanbul)
+Mumbai, India: UTC + 5.5 (ex. dacă este 13:00 UTC, atunci este 18:30 în Mumbai)
+Tokyo, Japonia: UTC + 9 (ex. dacă este 11:00 UTC, atunci este 20:00 în Tokyo)
+Acolo unde ajustarea pentru fusul orar rezultă într-un timp de cealaltă parte a miezului nopții UTC, atunci data locului respectiv este cu o zi mai devreme sau mai târziu. Exemplu:
+Cairo, Egipt: UTC + 2 (ex. dacă este 23:00 UTC, luni, 15 martie, atunci ora în Cairo este 01:00, marți, 16 martie)
+Auckland, Noua Zeelandă: UTC + 12 (ex. dacă este 21:00 UTC, miercuri, 30 iunie atunci ora în Auckland este 09:00, joi, 1 iulie)
+New York, SUA: UTC − 5 (ex. dacă este 02:00 UTC, ,marți, ora în NY este 21:00, luni)
+Honolulu, Hawaii, SUA: UTC − 10 (e.g. ex. dacă este 06:00 UTC, luni, 1 mai, atunci ora în Honolulu este 20:00, duminică, 30 aprilie)
+
+
+== Ora de vară ==
+
+În unele țări, în special din zona temperată, în timpul verii timpul legal este cu o oră mai mare (mai târziu) decât timpul fusului orar "normal" în care este încadrat locul respectiv. Ca urmare, ora legală se calculează ca și când teritoriul respectiv ar fi încadrat în fusul orar vecin spre est.
+De exemplu, România are în mod normal (iarna) ora legală egală cu UTC+2h. În timpul verii, mai exact între ultima duminică din luna martie și ultima duminică din octombrie, ora legală este UTC+3h.
+
+
+== Istoric ==
+Înai

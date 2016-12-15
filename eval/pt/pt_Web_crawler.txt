@@ -1,0 +1,8 @@
+.net é um Web crawler open-source usando a plataforma .NET e escrito em C#
+Goutte é um Web Scraper para criar um crawler desenvolvido em PHP por Fabien Potencier usando o Symfony.
+DuckDuckBot é o web crawler do DuckDuckGo.
+Patent2net é um crawler especializado em encontrar, organizar e disponibilizar patentes depositadas na Espacenet.
+OpenWebSpider - http://www.openwebspider.org
+
+
+== Referências ==

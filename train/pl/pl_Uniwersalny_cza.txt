@@ -1,0 +1,13 @@
+Uniwersalny czas koordynowany, UTC (ang. wymowa jutisi, Coordinated Universal Time, fr. Temps Universel Coordonné) – wzorcowy czas ustalany na podstawie TAI (fr. Temps Atomique International), uwzględniający nieregularność ruchu obrotowego Ziemi i koordynowany względem czasu słonecznego.
+Aby zapewnić, że Słońce średnio w ciągu roku przechodzi nad południkiem zerowym o godz. 12:00 UTC z dokładnością nie mniejszą niż 0,9 s, od czasu do czasu do UTC dodawana jest tzw. sekunda przestępna. Operację tę przeprowadza IERS (International Earth Rotation Service).
+
+
+== Opis ==
+Coordinated Universal Time jest wyrażany za pomocą 24-godzinnego zegara i wykorzystuje kalendarz gregoriański. Jest używany w nawigacji lotniczej i morskiej, gdzie jest znany pod swoją wojskową nazwą "Zulu time" ("Zulu" w alfabecie fonetycznym odpowiada literze "z", oznaczającej południk zerowy, czyli długość geograficzną 0, w londyńskiej dzielnicy Greenwich).
+UTC został zdefiniowany przez Comité Consultatif International des Radiocommunications (CCIR), poprzednika Międzynarodowej Unii Telekomunikacyjnej. Pełną definicję zawiera CCIR Recommendation 460-4 lub ITU-T Recommendation X.680 z lipca 1994 (z późniejszymi poprawkami).
+Akronim UTC jest niezależny od języka i odpowiada w języku angielskim nazwie Coordinated Universal Time, a w języku francuskim Temps Universel Coordonné. W komunikacji radiowej na morzu i w powietrzu poza określeniem „Czas Zulu” używa się również rozwinięcia akronimu Universal Time Correct.
+Polska znajduje się w strefach czasowych:
+UTC+01:00 (czas środkowoeuropejski (CET), w okresie zimowym) oraz
+UTC+02:00 (czas środkowoeuropejski letni (CEST), w okresie letnim).
+Różnią się one odpowiednio o 1 i 2 godziny od uniwersalnego czasu skoordynowanego.
+W Polsce stosuje się czas UTC(PL) – wprowadzony w 2003 ustawowo jako czas urzędowy do zastosowań oficjalnych, udostępniany z dwóch adresów IP przez Główny Urząd Miar, oraz czas UTC (AOS) – pod

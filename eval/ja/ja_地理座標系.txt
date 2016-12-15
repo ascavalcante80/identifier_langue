@@ -1,0 +1,26 @@
+には、東に49m足し、北に23.4m引けばよい。しかし、ヘルメルト変換という特殊な操作を行わなければ座標ごとのデータの変換をできないことが多い。これには、球面座標系から直交座標系、またその逆への変換も含まれる。
+主な地理情報システムのソフトでは、緯度/経度のデータは'Geographic Coordinate System'で表示されることが多い。例えば、1983年のNorth American Datum（NAD83）は、'GCS North American 1983'と表示される。
+
+
+== 静止座標 ==
+放送衛星など静止軌道の衛星は、赤道上の地球に対して定まった位置に静止しており、そのためその位置は経度のみで表すことができる。赤道上にあるため、緯度は常に0である。
+
+
+== 出典 ==
+
+
+== 関連項目 ==
+カーナビゲーション
+ジオコーディング
+ランベルト正角円錐図法
+投影法 (地図)
+北回帰線
+南回帰線
+ISO 6709
+
+
+== 外部リンク ==
+Mathematics Topics-Coordinate Systems
+Geographic coordinates of countries (CIA World Factbook)
+FCC coordinates conversion tool (DD to DMS/DMS to DD)
+Coordinate converter, formats: DD, DMS, DM

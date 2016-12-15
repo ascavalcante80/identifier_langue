@@ -1,0 +1,18 @@
+Objeto estelar joven es una estrella en sus primeros estadios de evolución. En la literatura científica escrita en inglés aparece con el acrónimo YSO (‘young stellar object’) .
+Esta clase la constituyen dos grupos de objetos: protoestrellas y estrellas de pre-secuencia principal. Algunas veces se las diferencia por rango de masa: objetos estelares jóvenes masivos (en inglés: massive YSO o MYSO), de masa intermedia (en inglés: intermediate-mass YSO), de masa pequeña (en inglés: low-mass YSO) y enanas marrones o cafés (en inglés: brown dwarf).
+Los objetos estelares jóvenes son usualmente clasificados usando un criterio basado en la pendiente de su distribución espectral de energía, introducida por Lada C.J. and Wilking B.A. en 1984. Ellos propusieron tres clases (I, II y III), basándose en los intervalos de valores del índice espectral :
+.
+Aquí  es la frecuencia,  es la densidad de flujo.
+El índice  es calculado en el intervalo de longitud de onda 2.2–20  (región del infrarrojo cercano y medio). Posteriormente, en 1994, Greene et al. adicionaron una cuarta clase de fuentes con espectro plano. En 1993, Andre et al. discubrieron los objetos de Clase 0, objetos con emisión intensa en el rango submilimétrico, pero débiles en los .
+Clase 0: fuentes indetectables en 
+Clase I: fuentes con 
+Espectro plano: fuentes con 
+Clase II: fuentes con 
+Clase III: fuentes con 
+Este esquema de clasificación refleja groseramente una secuencia evolutiva. Los astrónomos creen que muchas de las fuentes immersas en el polvo de Clase 0 evolucionan hacia el estado de Clase I disipando su envoltura circunestelar. Eventualmente, ellos llegan a ser ópticamente detectables en la línea de nacimiento estelar como estrellas de pre-secuencia principal.
+Los objetos estelares jóvenes están relacionados a otras fenómenologías asociadas a la formación de estrellas: chorros de gas circunestelares, flujos de gas bipolares, máseres astrofísicos, objetos Herbig-Haro, discos protoplanetarios y discos circunestelares
+
+
+== ReferenciasEditar ==
+Lada, C. J.; Wilking, B. A. (1984),The nature of the embedded population in the Rho Ophiuchi dark cloud - Mid-infrared observations, The Astrophysical Journal, vol. 287, pp. 610–621
+Greene, Thomas P.; Wilking, Bruce A.; Andre, Philippe; Young, Erick T.; Lada, Charles J. (1

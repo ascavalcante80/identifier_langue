@@ -1,0 +1,75 @@
+Les Paramètres orbitaux à deux lignes, ou plus couramment en anglais Two-Line Elements, très souvent désignés par le sigle TLE, sont une représentation standardisée des paramètres orbitaux des objets en orbite terrestre. Ces éléments sont mesurés et calculés par le NORAD et la NASA, non seulement pour les satellites artificiels, mais aussi pour les débris spatiaux. Ils permettent de calculer la position des objets en orbite à tout instant car ils suivent les lois de Kepler et Newton. À cause des nombreuses perturbations dont ils font l'objet (influences de l'attraction de la Lune et du Soleil, freinage atmosphérique, vent solaire… mais aussi, les corrections volontaires d'orbite), ces paramètres doivent cependant être régulièrement mis à jour et ne sont valables que pour une période limitée. Toutes ces données sont accessibles au grand public sur le site Celestrak. Elles sont utilisées par de nombreux amateurs, observateurs de satellites ou radioamateurs. Il existe de nombreux programmes de poursuite satellite (Seesat5…) qui permettent de les exploiter et d'ainsi prédire le passage d'un satellite.
+Le format date de l'époque des cartes perforées et était utilisé par un programme en FORTRAN d'un modèle NASA/NORAD, le SGP4 (Simplified General Perturbations Satellite Orbit Model 4). Il comprend deux lignes de 69 caractères à champs de longueur fixe. Ces paramètres reprennent l'identification de l'objet, les conditions de la mesure (date, numéro d'orbite) et les paramètres orbitaux proprement dits (six paramètres sont nécessaires pour décrire une orbite).
+
+
+== Description d'un TLE ==
+L'exemple suivant est celui d'un TLE de la Station Spatiale Internationale (la numérotation des colonnes, en rose, ne fait pas partie du TLE).
+
+ISS (ZARYA)             
+1 25544U 98067A   14273.50403866  .00012237  00000-0  21631-3 0  1790
+2 25544  51.6467 297.5710 0002045 126.1182  27.2142 15.50748592907666
+         1         2         3         4         5         6         
+123456789012345678901234567890123456789012345678901234567890123456789
+
+La signification des paramètres est la suivante
+
+LINE 1:
+FIELD  COLS         CONTENT                                                          EXAMPLE
+ 1     01-01        Line number                                                      1
+ 2     03-07        Satellite number                                                 25544
+ 3     08-08        Classification (U=Unclassified)                                  U
+ 4     10-11        International Designator (Last two digits of launch year)        98
+ 5     12-14        International Designator (Launch number of the year)             067
+ 6     15-17        International Designator (Piece of the launch)                   A    
+ 7     19-20        Epoch Year (Last two digits of year)                             14
+ 8     21-32        Epoch (Day of the year and fractional portion of the day)        273.50403866
+ 9     34-43        First Time Derivative of the Mean Motion (divided by 2)          .00012237
+10     45-52        Second Time Derivative of Mean Motion (dec. pt assumed; / by 6)  00000-0
+11     54-61        BSTAR drag term (decimal point assumed)                          21631-3
+12     63-63        The number 0 (Originally this should have been "Ephemeris type") 0
+13     66-68        Element number                                                   179
+14     69-69        Checksum (Modulo 10)                                             0
+
+LINE 2:
+FIELD  COLS         CONTENT                                                          EXAMPLE
+ 1     01-01        Line number                                                      2
+ 2     03-07        Satellite number                                                 25544
+ 3     09-16        Inclination [Degrees]                                            51.6467
+ 4     18-25        Right Ascension of the Ascending Node [Degrees]                  297.5710
+ 5     27-33        Eccentricity (decimal point assumed)                             0002045
+ 6     35-42        Argument of Perigee [Degrees]                                    126.1182  
+ 7     44-51        Mean Anomaly [Degrees]                                            27.2142
+ 8     53-63        Mean Motion [Revs per day]                                       15.50748592
+ 9     64-68        Revolution number at epoch [Revs]                                90766     
+10     69-69        Checksum (Modulo 10)                                             6
+
+Parmi les débris spatiaux, la trousse à outils perdue le 18 novembre 2008 par Heidemarie Stefanyshyn-Piper (STS-126) lors d'une sortie extravéhiculaire a aussi son TLE :
+
+ISS DEB [TOOLBAG]       
+1 33442U 98067BL  09215.54829407  .13008691  12713-4  15349-3 0  3986
+2 33442 051.6268 036.9885 0007699 292.6234 072.1768 16.49476607 40751
+         1         2         3         4         5         6         
+123456789012345678901234567890123456789012345678901234567890123456789
+
+Ce genre de TLEs permet aux amateurs de retrouver dans le ciel et photographier ce petit objet de magnitude 6 (8?).
+
+
+=== Description des paramètres ===
+Directement après le numéro de ligne (1 ou 2), on trouve d'abord des paramètres d'identification :
+le numéro de catalogue 
+il identifie de manière unique l'objet, on parle de numéro NORAD ou USSpaceCom (paramètre 1.2, repris en seconde ligne dans 2.2)
+indication 
+une lettre indiquant que l'objet n'est pas secret ('U' comme 'unclassified') (paramètre 1.3)
+désignation internationale 
+trois paramètres donnant l'année de lancement (1.4), le numéro de lancement dans l'année (1.5) et le numéro de l'objet de ce lancement (paramètre 1.6).
+Afin de pouvoir déterminer la position d'un objet à T+1, il faut connaître 6 paramètres à l'instant T. Par exemple, sa position (x,y,z) et sa vitesse (x',y',z'). Les TLEs utilisent un autre référentiel :
+moyen mouvement et excentricité 
+le moyen mouvement, exprimé en révolutions par jour (paramètre 2.8) et l'excentricité (paramètre 2.5) fixent la taille et la forme de l'ellipse,
+nœud ascendant, inclinaison et position du périgée
+le nœud ascendant (paramètre 2.4), l'inclinaison (paramètre 2.3) et la position du périgée (paramètre 2.6) positionnent l'ellipse dans l'espace,
+anomalie moyenne 
+l'anomalie moyenne positionne l'objet sur l'orbite.
+l'instant de la mesure
+année, jour et partie décimale du jour (paramètres 1.7 et 1.8)
+D'autres paramètres affinent le modèle
+coefficie

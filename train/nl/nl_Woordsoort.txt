@@ -1,0 +1,20 @@
+Elk woord in een taal behoort tot een bepaalde woordsoort, woordklasse ofwel lexicale categorie. Een lexicale categorie wordt over het algemeen gedefinieerd op grond van syntactische en morfologische kenmerken.
+Een lexicale categorie kan open of gesloten zijn. Daarnaast worden inhoudswoorden onderscheiden van functiewoorden.
+In de computationele taalkunde worden de woorden van tekst met behulp van part-of-speech tagging automatisch tot een bepaalde woordsoort (‘part of speech’) gerekend.
+
+
+== Alle talenBewerken ==
+Het aantal lexicale categorieën, evenals de manier waarop ze precies worden ingedeeld, verschilt per taal en nog meer per taalfamilie. Zo wordt in veel niet-Indo-Europese talen geen onderscheid gemaakt tussen bijvoeglijke naamwoorden en bijwoorden, tussen bijwoorden en werkwoorden (zie statief werkwoord) of tussen bijvoeglijke naamwoorden en zelfstandige naamwoorden. Anderzijds kent het Japans drie verschillende categorieën bijvoeglijke naamwoorden, waar de meeste andere talen er maar één hebben. Ook worden in het Japans, Koreaans en de Chinese talen telwoorden als een aparte categorie beschouwd.
+In feite is het zelfs zo dat veel van de hier genoemde begrippen onbruikbaar blijken bij het beschrijven van de syntactische structuur van veel niet-Indo-Europese talen.
+
+
+== NederlandsBewerken ==
+In de ontleding onderscheidt men in het Nederlands de volgende woordsoorten:
+
+
+==== VoorbeeldzinBewerken ====
+Het paard is overgevoelig geworden door het galopperen over harde straten.
+het: lidwoord (en wel de onzijdige vorm van het bepaald lidwoord)
+paard: zelfstandig naamwoord (in het enkelvoud)
+is: werkwoord (vervoegd in de 3e persoon enkelvoud)
+overgevoelig: bi

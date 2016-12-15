@@ -1,0 +1,20 @@
+Sémantický web se má stát novým evolučním stupněm stávajícího webu. Jedná se o web, kde jsou informace strukturovány a uloženy podle standardizovaných pravidel, což usnadňuje jejich vyhledání a zpracování. Staví zejména na Resource Description Framework (RDF) a Ontology Web Language (OWL). Na specifikacích pro sémantický web pracuje World Wide Web Consortium (W3C).
+Myšlenku sémantického, neboli významového webu poprvé vyslovil Tim Berners-Lee v roce 2001, kdy upozornil na skutečnost, že současný web je pouze změť webových stránek, která neustále roste a ve které je stále složitější nalézt relevantní informace. Sémantický web je podle něj rozšířením současného webu, v němž informace mají přidělen dobře definovaný význam lépe umožňující počítačům a lidem spolupracovat. Sémantický web představuje reprezentaci dat na WWW. Je založen na technologii Resource Description Framework (RDF), která integruje širokou škálu aplikací využívajících syntaktický zápis v XML a identifikátory URI pro pojmenovávání. Znamená to tedy, že data prezentovaná na Internetu by měla mít přesně definovaný význam a dovolovat do značné míry automatizované (strojové) zpracování, které by se mělo realizovat pomocí softwarových agentů.
+Základním krokem k vytvoření sémantického webu je konceptualizace dat dostupných na Internetu, jejíž klíčovým nástrojem jsou ontologie, aneb formalizované reprezentace znalostí určené k jejich sdílení a znovupoužití. Sémantický web je dále založen na standardizovaném popisu webových zdrojů (vše, dosažitelné pomocí WWW, tedy textové dokumenty, obrázky, videosekvence, zvukové soubory apod.). Každý zdroj by byl vybaven stejnými charakteristikami údaji (autor, typ zdroje, klíčová slova atd.), což by umožnilo uživatelům Internetu pracovat se sítí WWW jako s relační databází a dotazovat se na její obsah prostřednictvím jazyků podobných SQL. Důraz by se kladl na vysokou přesnost a relevanci odpovědi na vyhledávací dotaz.
+Technologickým základem sémantického webu by se měl stát standard RDF (Resource Description Framework) - obecný rámec pro popis, výměnu a znovupoužití metadat. Poskytuje jednoduchý model pro popis zdrojů, který není závislý na konkrétní implementaci. Datový model RDF umožní specifikovat trojice (zdroj, vlastnost, hodnota vlastnosti). Tímto se jedná mimo jiné o přiřazení sémantiky webovým zdrojům, což je pro sémantický web klíčové.
+Sémantický web propaguje Tim Berners-Lee již řadu let, přesto se dosud nedočkal výrazného rozmachu, pravděpodobně protože je oproti stávajícímu webu příliš komplikovaný. Proto vznikají jednodušší způsoby, jak do stávajícího webu snadno přidat sémantickou informaci: Mikroformáty a RDFa.
+
+
+== Příklad webu ==
+Semanticweb.org – Sémantický web postavený na MediaWiki
+
+
+== Související články ==
+RDF
+Sémantika
+Web 3.0
+Mikroformáty
+
+
+== Literatura ==
+BUREŠ, David. 2003. Sémantický web – ontologie. Dostupný z: <http://digiweb.ihned.cz

@@ -1,0 +1,106 @@
+A kilogramm a tömeg SI-alapegysége; a jele kg.
+A kilogramm az egyetlen SI-alapegység, amelyiknek a definíciója még mindig etalonon, és nem valamilyen alapvető fizikai állandón alapszik – az ilyen típusú definíció bevezetését 2014-re tervezik.
+
+
+== Gramm és kilogrammSzerkesztés ==
+A kilogramm az egyetlen SI-alapegység, amelyik előtagot tartalmaz; a megfelelő előtag nélküli egység a gramm. Ennek történelmi okai vannak. 1790-ben a francia nemzetgyűlés megbízta az ország legnevesebb tudósait egy új mértékegységrendszer kidolgozásával. Ez volt a decimális mértékegységrendszer, az SI előfutára. Az 1799-es definíció szerint a tömeg alapmértékegysége a grave, 1 dm³ +4 °C-os víz tömegével egyezik meg. További mértékegységek pedig a tonne (1000 grave) és a gramme (1/1000 grave).
+A francia forradalom kitörése után azonban a grave-et elvetették (részben, mert hétköznapi használatra túl nagynak tartották, részben pedig politikai okokból – a „grave” egyik jelentése ugyanis „gróf”), helyette a grammot tették meg alapmértékegységnek (később a cgs rendszer alapjává is vált). Mivel azonban egygrammos etalont mind készíteni, mind használni nehézkes lett volna, egy egy kilogrammos etalont is készítettek (ez volt az ún. levéltári kilogramm, kilogramme des Archives). Idővel a kilogramm fokozatosan átvette a gramm szerepét, nemcsak etalonként, hanem alapmértékegységként is, és az SI mértékegységrendszerbe már ez került bele.
+
+
+== Részei és többszöröseiSzerkesztés ==
+A prefixumokat a grammhoz illesztjük, de alapmértékegységnek a kilogrammot tekintjük. A mérésügyi törvény elsősorban azokat a prefixumokat engedélyezi, amelyek tízes hatványkitevője háromnak egész számú többszöröse. További többszörös és tört mértékek:
+t, tonna = 1000 kg = 1 000 000 gramm
+q, mázsa = 100 kg = 100 000 gramm
+dkg, dekagramm = 10 gramm
+cg, centigramm = 1/100 gramm
+mg, milligramm = 1/1000 gramm
+μg, mikrogramm = 1/1 000 000 gramm
+
+
+== Súly és kilogrammSzerkesztés ==
+
+A hétköznapi szóhasználatban a kilogrammot gyakran a súly mértékegységének mondják. Valójában a súly SI-mértékegysége a newton; a kilogrammhoz igazított SI-n kívüli mértékegysége a kilopond (kp). Utóbbi a műszaki mértékegység-rendszerben alapmértékegység volt. A súly a tömeg és a nehézségi gyorsulás szorzata; mivel a Föld felszínén a nehézségi gyorsulás jó közelítéssel állandó, a két mennyiség többé-kevésbé felcserélhető (1 kg tömeg 9,80665 newton, illetve 1 kilopond súlyú), általánosságban azonban ez nem igaz. A tömeg mértékére általában a súlyból következtetünk.
+Léteznek eljárások, amelyek nem súlymérési módszerrel teszik lehetővé a tömeg megmérését, például rugók lengésével. Ilyen eljárások szükségesek az űrhajózásban.
+
+
+== A kilogramm definíciójaSzerkesztés ==
+Az első meghatározás (1795) szerint legyen egy kilogramm annyi víznek a tömege, amely egytized méter élhosszúságú kockába fér a víz fagyáspontján. Ez volt gyakorlatilag a liter mértékegység meghatározása. Louis Lefèvre‑Gineau és Giovanni Fabbroni igen pontos mérésekkel kimutatták, hogy van a víznek egy sokkal stabilabb jellemzője: az a hőmérséklet, amelyen legnagyobb a sűrűsége. Ezt ők 4 °C-ként határozták meg, és ennek alapján készült el platinából a Levéltári Kilogrammo 1799-ben. A XX. század óta ezt úgy fogalmazzák meg, mint 1 köbdeciméter (dm³) víz tömege a legnagyobb sűrűségű állapotban, 3,984 Celsius-fokon és normál légköri nyomáson. Hétköznapi használatra 1 kg-nak vehetjük a vizet bármely hőmérsékleten, mivel a sűrűsége nem változik nagyon. 50 °C-ig 1% a hiba, de 100 °C-on már 4%. Az eredeti platina etalon neve: kilogramme des Archives, míg a platina-iridium (és most már hivatalos) változat neve: prototype international du kilogramme. Az őskilogramm Marc Etienne Janety királyi ékszerész munkája
+Ez valójában körkörös definíció: a víz sűrűsége kis mértékben függ a légnyomástól, a nyomás pedig többek között a tömegből származtatott SI egység. Ennek elkerülésére 1889-ben, a párizsi 1. Általános Súly- és Mértékügyi Konferencián (Conférence générale des poids et mesures) a kilogrammot egy nemzetközi etalon, a sèvres-i Nemzetközi Súly- és Mértékügyi Hivatalban (Bureau International des Poids et Mesures) őrzött, platina-irídium ötvözetből készült, 39 mm magasságú és átmérőjű henger (a „Le Grande Kilo”) tömegeként definiálták. Jelenleg egy elsőrendű etalont és hat hivatalos másolatát őrzik. Az etalonról az egyes országok számára másolatokat készítenek; ezek a nemzeti etalonok, amelyeket mintegy 10 évente újra összehasonlítanak a nemzetközi etalonnal. 
+A 90% platina, 10% irídium ötvözet nagy sűrűsége miatt alkalmas etalonnak; a szennyeződésnek kitett felület így viszonylag kicsi, és a kisebb térfogat miatt a kiszorított levegő okozta felhajtóerő is kisebb, így a mért tömeg kevésbé függ a levegő sűrűségétől. Emellett az ötvözet viszonylag közömbös; könnyen megmunkálható, sima felületűre alakítható – mindkettő tovább csökkenti a szennyeződést. A kilogramm etalon eredetileg platinából készült. A platina-iridium ötvözetnek (1874 alloy) az anyaga azonos a etalon anyagával. Az ötvözet tervezésére és elkészítésére vonatkozó leírás a méter szócikkben szerepel. Abban az időben, amikor törvényerőre emelkedett, az Osztrák–Magyar Monarchia egységesen írta alá a méteregyezményt, és azonos törvényeket hoztak az ország részterületeire. Ezek közül Szlovákia egyedülálló, hiszen nemrég vált külön Csehországtól, ezért ott a legfrissebb a métertörvény és a kilogramm etalon.
+
+
+=== Mérés és kalibrálásSzerkesztés ===
+
+Tisztítása különleges műveletet igényel. A Physikalisch-Technische Bundesanstalt széles tartományban végez kalibrálást. A magyar (16. számú) kilogramm etalont utoljára 2007-ben hitelesítették.
+A különféle anyagból készült etalonok eltérő méretűek
+A táblázat első sora az 1874 alloy adatait tartalmazza, a második az őskilogramm adatait. Az invart (kobalttal dúsított invar) a méter etalonhoz használják. A kilogramm etalonokat nem egyszerű (7860 kg/m³), hanem korrózióálló acélból készítik. Az ötvözet anyagától függően tehát a kilogramm etalonok magassága és átmérője 38,9–39,2 mm között változik. A térfogati adatok alapján belátható, hogy például ha egy platina és egy acél etalont hasonlítanak össze, a normál légköri levegő által keltett felhajtóerő miatt 95 mg mérési hiba keletkezik. Ennek kiküszöbölésére egyes laboratóriumok vákuum alatti mérleget használnak (NPL). A német Physikal-Technische Bundesantalt kétféle vákuummérleget is használ. A BIPM kimérte az acél kilogramm etalonok mérési hibáját. Az általuk közölt ábrán jól látható, mekkora a mérési bizonytanságnak az a része, amelyet az etalon megválasztása, a mérleg megválasztása, illetve a levegő által keltett felhajtóerő okoz.
+
+
+=== Tömeg etalonok jelzéseSzerkesztés ===
+OIML R 111-94, Organisation Internationale de Métrologie Légale (A Törvényi Mérésügy Nemzetközi Szervezete). Azonosítók: E1, E2, F1, F2, M1, M2, M3
+ASTM E 617-97, American Society for Testing and Materials (Anyagok és Anyagvizsgálatok Amerikai Társasága). Azonosítók: 0...7 (számjegyek)
+NIST HB 105-1-90 National Institute of Standards and Technology (Országos Műszaki és Szabványügyi Intézet). Azonosító: F
+Az NBS dokumentum további tömeg-etalonokat határozott meg; National Bureau of Standards (Országos Szabványügyi Iroda), jogutódja a NIST. Az etalonok azonosítóját lásd a következő táblázatban: J, M, S, S-1, P, Q, T
+Az échelle francia szó, eredetileg létrafokot jelent (kiejtése: ɛʃɘl). Az alábbi táblázatban a minőségi fokozatot jelöli: hol helyezkedik el az adott etalon a mértékek hierarchikus rendjében
+Etalonoknál a tűrésmező a Vezérfonal a mérési bizonytalanság meghatározására című kiadványban értelmezett négyszögletes eloszláshoz hasonló, tehát nem a szórás, vagy annak kiterjesztett értéke
+Az etalonok hitelesítésére különleges hidrosztatikus mérlegeket terveztek. Az amerikai NIST (illetve elődje, az NBS) elektronikus mérlege vagy vizet használ, vagy FC-75 típusú perfluorokarbon szénhidrogénszármazékot.
+További pontosítást igényelnek az anyagok mágneses tulajdonságai. Így például a platina paramágneses anyag, a sárgaréz diamágneses, az acél viszont ferromágneses. Ezt az etalonok hitelesítésénél figyelembe kell venni. Az Alac típusú etalonok mágneses szuszceptibilitását rendszeresen tesztelik a BIPM-ben.
+
+
+=== National Bureau of StandardsSzerkesztés ===
+National Bureau of Standards: Circular 3. Design and test of standards of mass; Classification of Weight, 1903, 1918. NBS Handbook 44. átvéve a NIST számára 1991-ben
+A P, Q, T osztályoknál, ha a névleges érték igen kicsi, akkor az érték tűrése kisebb, mint 5 %
+
+
+== Problémák a definícióvalSzerkesztés ==
+Az etalonon alapuló definícióval számos probléma van. Elméletileg, ha az etalonnal valami történik (például jelentős szennyeződés éri), akkor az egész világon minden test tömege számszerűen megváltozik. Ezt a furcsa helyzetet az okozza, hogy nem az etalon lett 1 kilogrammos tömegűre elkészítve, hanem az 1 kilogramm pontosan és mindig az a tömeg, amennyi az etalon mindenkori tömegével azonos. Rengeteg problémát vet fel és rengeteg erőforrást emészt fel az etalon tárolása, sérülésektől és szennyeződéstől való védelme, rendszeres tisztítása, a nemzeti etalonok előállítása és rendszeres kalibrálása.
+Az etalon tömegének mérési hibája néhány mikrogramm. Az etalonok tömege folyamatosan változik: a nemzeti etalonok esetében akár évi két mikrogrammal. A nemzetközi etalon ennél minden bizonnyal stabilabb, de kismértékben szintén változik. (Természetesen csak a szó „rendes” értelmében – ha szigorúan vesszük a definíciót, a nemzetközi etalon értéke sohasem változhat.)
+Mindezen problémák miatt a kutatók nagy erőfeszítéseket tesznek egy modern, a fizika alapvető állandóiból és törvényeiből levezethető definíció megalkotására.
+
+
+== Javasolt új definíciókSzerkesztés ==
+Erőfeszítéseket tesznek alapvető vagy atomi állandók felhasználásával történő új definíció bevezetésére. A működő javaslatok az alábbiak:
+
+
+=== Atom-számláló megközelítésSzerkesztés ===
+
+
+==== Az Avogadro-projektSzerkesztés ====
+Az Avogadro-szám megközelítés kísérletet tesz rá, hogy a kilogrammot adott számú szilíciumatom tömegeként definiálja. Gyakorlati megközelítéssel egy gömböt használnának, amelynek méretét interferometria felhasználásával mérhetnék.
+A projekt megvalósításához egyetlen szilíciumizotóp szükséges. Erre a célra a 28-as izotópot választották, amelyet Oroszország tudott elegendő mennyiségben szállítani. Ebből az anyagból a német PTB-nek sikerült egykristálynövesztéssel szilíciumgömböket előállítania. Az ausztráliai Optikai Kutatóintézetben érték el a gömbök csiszolásával a lehető legtökéletesebb gömbformát. Az így létrehozott 93 mm átmérőjű gömbnek a gömbformától való eltérése jelenleg kisebb, mint 35 nm. A szilíciumgömb felületén oxidok képződnek néhány molekulányi rétegben (SiO és SiO2). Víz is rakódik rá; ha azonban vákuumban mérjük a tömegét, a víz elpárolog róla, tehát a mérés pontosságát nem befolyásolja. A hagyományos platina–irídium kilogrammok ellenőrzése nagy mértékben függ azok állapotától és a mérlegek tulajdonságaitól, addig a szilíciumetalonról elmondható, hogy adatai ismertek és állandóak.
+Az elgondolás a következőkön alapszik:
+Az Avogadro-szám az alapvető fizikai állandók közé tartozik, és értékét nagy pontossággal ismerjük. Ennek alapján pontosan megmondható, hány darab atom van egy kilogramm szilícium-28-ban
+A szilíciumkristály rácsállandója atomfizikai megfontolások alapján kiszámítható, értékét ezért pontosan ismerjük
+A rácsállandó és az atomok darabszáma alapján pontosan meghatározható a gömb térfogata; ebből az átmérője. A szilícium-egykristály monotonitása rendkívül stabil
+Az előbbi adatokból nagy pontossággal ismertté tehető a szilíciumgömb sűrűsége. A sűrűség ismeretében a hidrosztatikai mérlegelés pontosan elvégezhető.
+A mérési bizonytalanságot rontja, ha az etalonban más izotópok is vannak, mint a tervezetben meghatározott 28-as; ezek éppúgy rácsszerkezeti hibát okoznak, mint bármilyen egyéb szennyező anyag. Ezért van szükség a tiszta izotópra a mérések számára.
+
+
+==== Az elemi elektromos töltés alapján való meghatározásSzerkesztés ====
+Az ion-felhalmozódásos megközelítés aranyatomok (Au197) felhalmozásán alapul, és a semlegesítéséhez szükséges elektromos töltést mérné. Az aranyatomok felhalmozódását egy tömegszeparátor gyűjti, és egy tömegkomparátor által vezérelt érzékelő méri. A létrejövő mikrohullámú sugárzás a Josephson-állandóval áll kapcsolatban
+
+
+=== Alapvető állandók felhasználásávalSzerkesztés ===
+A Watt-mérleg az áram erőhatásán alapszik. Ez a mérőeszköz az amper mértékegység meghatározására szolgáló árammérlegen alapszik, annak továbbfejlesztett változata. A Watt-mérleggel kísérletek folynak a BIPM, az NPL és a NIST és Svájc laboratóriumaiban.
+Jelenleg az amper, a volt az ohm egységeket és a Planck-állandót lehet összekapcsolni a tömeggel. A 2011. évi Általános Súly- és Mértékügyi Konferencia tárgya döntést hozni erről.
+A lebegtetett szupravezető megközelítés a kilogrammot elektromos mennyiségekhez köti. Egy szupravezető tekercs által keltett mágneses térben szupravezető anyagot lebegtetve a szükséges elektromos áram mérésével definiálható a tömeg. Az eredmény meghatározásához ismerjük már elegendő pontossággal a kvantum-Hall effektust és a Josephson-állandót. A készülék maga gyakorlatilag azonos szerkezetű a Watt-mérleg szerkezetével: mágnestekercs terében lebegő mágnes, amely kétkarú mérleghez illeszkedik, és a felrakott mérlegsúllyal kiegyenlíthető.
+Mivel a Josephson-féle (CIPM (1988) Recommendation 1, PV 56; 19) és von Klitzing-féle (CIPM (1988), Recommendation 2, PV 56; 20) állandóknak megállapodással adtak értéket, lehetőség nyílik azok kombinációjára (KJ ≡ 4,835 979 · 1014 Hz/V és RK ≡ 2,581 280 7 · 104 Ω), az amper definíciójával a kilogrammot a következőképp definiálhatjuk:
+A kilogramm az a tömeg, amely pontosan 2 · 10-7 m/s² gyorsulással mozogna, ha akkora erő hatna rá, mint az elhanyagolható keresztmetszetű, egymástól 1 méter távolságban haladó végtelen hosszú párhuzamos vezetőpár egy méteres szakaszára, ha a vezetőkön keresztül pontosan 6,241 509 629 152 65 · 1018 elemi töltés másodpercenkénti áram folyna.. Ez az elv gyakorlatilag azonos az áramerősség mértékegységének meghatározására szolgáló árammérleg szerkezetével, amennyiben a mérést az erő mérésére vezeti vissza. (A fenti definíció az amper definíciójának fordítottja).
+
+
+== Külső hivatkozásokSzerkesztés ==
+Tömeg-konverzió
+↑ Újradefiniálják a kilogrammot (Index, 2012. február 21.)
+↑ The Energy Library. (Hozzáférés: 2014. január 7.)
+↑ Kilogram. Kilogramme des Archives. (Hozzáférés: 2014. január 7.) A liter, és ezzel a kilogramm meghatározásához szükséges méréseket Antoine Lavoisier és René Just Haüy végezték el; ez lett a Nemzeti Konventhez benyújtott 1795-ös (La Loi Du 18 Germinal An 3) definíció alapja. A további mérések (Louis Lefèvre‑Gineau és Giovanni Fabbroni) találtak a fagypontnál is stabilabb vonatkoztatási pontot; azt a hőmérsékletet, amelyen maximális a víz sűrűsége, s amelyet akkoriban +4 °C-ként határoztak meg. Ennek alapján kissé korrigált értékkel készült el a végleges platina etalon (Kilogramme des Archives). A víz sűrűségének ma ismert értékét a XX. században pontosították; így lett ez a hőmérséklet 3,984 °C (Vienna Standard Mean Ocean Water). Az 1795-ös kilogramm 18841 grain; az 1799-es kilogramm 18827 grain, az eltérés alig észrevehető
+↑ Coleman – Crown – Dresser: Uniform laws and regulations in the area of legal metrology and engine fuel quality. ts.nist.gov, 2003. (Hozzáférés: 2011. június 9.) Jellemző idézet az Egyesült Államok mérésügyi törvényébőL. When used in this handbook, the term "weight" means, "mass." (Ha súlyt mondunk, az midig tömeget jelent)
+↑ McDonald, Donald: pmr-v12-i4-142-145.pdf. platinummetalsreview.com, 2006. (Hozzáférés: 2011. március 15.) A platina kilogramm története
+Felirata: A kilogramm alapmintája, amely a 3-ik évben, Germinal 18-án készült, és átadva a 7. év Messidor 4-én
+↑ BIPM - unit of mass. bipm.org, 2010 [last update]. (Hozzáférés: 2011. március 3.)
+↑ BIPM - international prototype and its six official copies. bipm.org, 2007. (Hozzáférés: 2011. március 10.) A kilogramm és másolatai Sévres-ben
+↑ Meyer-Stoll, Cornelia: Die Regulierung der bayerischen Landesmaße. radiobar.toolbarhome.com, 2011. (Hozzáférés: 2011. március 3.)
+E dokumentum tartalmazza az Ausztria által is használt, hegyi kristályból készült kilogramm etalon képét
+↑ BIPM:: BIPM - Verifications. bipm.org, 2011. (Hozzáférés: 2011. március 15.) Az 1890 óta végzett összehasonlítások eredménye 10-8 nagyságrendbe esik
+↑ C. Goyon – R. S. Davis: Density Detemination of Prototypes and Mass Standards at the BIPM. bipm.org, 2009. (Hozzáférés: 2011. március 25.)Az angol etalonok irídiumtartalma kisebb (feltehetőleg a hidegalakítási technológia miatt), de a mért eredményt nem tekintik szignifikánsan eltérőnek
+↑ How do I calculate and apply air buoyancy corrections? Reference: National Physical Laboratory. npl.co.uk, 2011. (Hozzáférés: 2011. március 22.)A felhajtóerő számítása két kilogramm atalon összehasonlításánál
+↑ Šutek, Ľubomír: 'Zákona č. 505/1990... Etalón Hmotnosti Slovenského metrologického ústavu za Národnỳ Etalón'. s

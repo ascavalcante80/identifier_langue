@@ -1,0 +1,18 @@
+Lista roșie a IUCN, creată în 1963, reprezintă inventarul cel mai complet al stării de conservare a speciilor de animale și plante, fiind cel mai bun indicator al stării biodiversității mondiale.
+
+
+== Categoriile Listei roșii ==
+EX (extinct) – Dispărută, Extinctă
+EW (extinct in the wild) – Dispărută din sălbăticie, Extinctă în sălbăticie, Dispărută din natură
+CR (critically endangered) – În pericol critic de dispariție, În pericol mare de dispariție, Critic amenințată cu dispariția
+EN (endangered) – În pericol de dispariție, Amenințată cu dispariția
+VU (vulnerable) – Vulnerabilă
+NT (near threatened) – Aproape amenințată cu dispariția, Potențial amenințată cu dispariția
+LC (least concern) – Neamenințată cu dispariția , Cu probabilitate mică de dispariție
+DD (data deficient) – Date insuficiente
+NE (not evaluated) – Neevaluată, Starea de conservare nu a fost încă evaluată de IUCN
+
+0: specie moartă sau dispărută
+1: specie periclitată de dispariție imediată
+2: specie foarte periclitată
+3: sp

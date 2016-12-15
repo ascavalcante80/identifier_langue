@@ -1,0 +1,67 @@
+ que se envían a través del método HTTP GET, se referencian a través del Array unidimensional $_GET['variable']. Esta variable contiene el dato enviado por GET asociado a tal variable, en caso de que exista.
+
+
+===== Método POSTEditar =====
+Contiene todas las variables que se envían a través del método HTTP POST, se referencian a través del Array unidimensional $_POST['variable']. Esta variable contiene el dato enviado por POST asociado a tal variable.
+
+
+===== SesionesEditar =====
+Contiene datos de sesión adquiridos mediante una petición GET, POST o la lectura de una Cookie[cita requerida]. Se referencia a través del Array unidimensional $_SESSION['variable'].Esta variable contiene un dato de session.
+
+
+===== CookiesEditar =====
+Contiene datos sobre todas las cookies adquiridas en la petición al server, proporcionadas por el navegador en la petición HTTP. Se referencia a través del Array unidimensional $_COOKIES['variable']
+
+
+===== ServidorEditar =====
+Contiene datos proporcionados por el Servidor Web. Se referencia a través del Array unidimensional $_SERVER['variable']
+
+
+===== ProcesamientoEditar =====
+1) Dado el siguiente código PHP.
+
+En el caso anterior, podría tomarse por supuesta la decisión del usuario utilizando un enlace cuyo destino sea el archivo que contenga el Script anterior + la variable y el valor utilizando la siguiente sintaxis: archivo.php?var=val donde var es el nombre de una variable dada y val es valor asignado a la variable.
+
+2) En caso afirmativo el Script anterior genera el siguiente código html que es enviado posteriormente al navegador.
+
+3) El navegador interpreta el código html y lo muestra similar a :
+Su dirección web es 192.168.0.1
+
+
+== Servidor Web LocalEditar ==
+Un Servidor Web Local es aquel Servidor Web que reside en una red local al equipo de referencia. El Servidor web Local puede estar instalado en cualquiera de los equipos que forman parte de una red local. Es por tanto obvio, que todos los Servidores Web, son locales a la red local en la que se encuentran, o como mínimo, locales al sistema en el que están instalados.
+Cuando un servidor Web se encuentra instalado en el mismo equipo desde el cual se desea acceder puede utilizarse la dirección de Loopback, 127.0.0.1 en Ipv4 y ::1 en Ipv6. El puerto TCP 80 se obvia. Los archivos se almacenan en un directorio determinado por la configuración, generalmente modificable.
+Existen numerosas aplicaciones que facilitan la instalación automática de servidores web Apache y aplicaciones adicionales como Mysql y PHP (entre otros), de forma conjunta, como XAMPP, JAMP o EasyPHP. Estas aplicaciones reciben el nombre de LAMP cuando se instalan en plataformas Linux, WAMP en sistemas Windows y MAMP en sistemas Apple Macintosh.
+
+
+== SoftwareEditar ==
+Algunos servidores web importantes son:
+Nginx
+Apache
+Internet Information Services (IIS)
+Cherokee
+Tomcat
+Otros servidores, más simples pero más rápidos, son:
+lighttpd
+thttpd
+
+
+== Véase tambiénEditar ==
+PHP
+ASP
+Perl
+Python/WSGI
+CGI
+.NET
+JSP (Tecnología Java )
+CF (Adobe Coldfusion)
+Servidor de aplicaciones
+Servidor de archivos
+Node.js
+
+
+== ReferenciasEditar ==
+
+
+== Enlaces externosEditar ==
+World Wide Web Consortium (W3C)

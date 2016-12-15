@@ -1,0 +1,15 @@
+), kvaternió (Hamilton, a felfedezőjük)
+Szokásos még ezek nullánál nagyobb vagy kisebb számokat tartalmazó részhalmazainak jelölésére indexes jelöléseket alkalmazni:
+ℕ+, ℤ+, ℚ+, ℝ+
+ℕ-, ℤ-, ℚ-, ℝ-
+ℕ0+, ℤ0+, ℚ0+, ℝ0+
+A komplex számokon belül nem lehet negatív, illetve pozitív számokat értelmezni, ezért ezeket a jelöléseket eme halmazra nem alkalmazzuk.
+A prímszámok halmazának jelölésére szokásos még: ℙ.
+
+
+== További információk ==
+
+Számok különböző nyelveken
+What's special about this number?
+A szám fogalma (angol)
+Mezopotámiai és német számok

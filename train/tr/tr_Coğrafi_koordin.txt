@@ -1,0 +1,22 @@
+Coğrafi koordinat sistemi, dünya üzerindeki herhangi bir yeri topografik bir nokta olarak tanımlamayı sağlayabilen bir koordinat sistemidir. Küresel koordinat sistemindeki üç bileşenden ikisi kullanılarak belirtilir. Burada aşılması gereken zorluk, dünyanın bir küre değil de (jeodezi) bağlamında yaklaşık olarak bir elipsoit ya da basık sferoit şeklinde olmasıdır.
+
+
+== TarihçeDeğiştir ==
+İlk defa Babilliler ortaya atmış, sonrasında Batlamyus tarafından bir tam çemberin 360 derece (360°) olduğunun belirtilmesi ile teori daha da geliştirilmiştir.
+Sanayi devrimi ve emperyalizm çağında askeri ve ticari denizciliğin gereksinimleri sonucu büyük önem kazanmış ve hızla standartlaşmıştır. Günümüzdeki sistemlerin kaynakları da ulusal ya da NATO benzeri ittifaklara ait askeri standartlardır. Özellikle 1980 sonrası dünya ekonomisinde hakim duruma gelen küreselleşme politikaları daha evrensel standartlar yaratmış, GPS teknolojilerini ve yeni uygulama alanlarını teşvik etmiştir.
+
+
+== Enlem ve BoylamDeğiştir ==
+Enlem (kısaltması: φ, phi ya da Lat.) yeryüzündeki bir noktanın yerküre merkezinden ölçülmek üzere ekvatora olan açısıdır. Aynı enlem açılarını birleştiren paralel çizgilere Enlem çizgileri ya da paralel denir. Kuzey Kutbu 90°N; Güney Kutbu 90°S olup 0° paraleli ya da enlemi de ekvator olarak adlandırılır. Böylece ekvator yerküreyi kuzey ve güney yarıkürelerine böler.
+Boylam (kısaltması: λ, lambda ya da Lon.) yeryüzündeki bir noktadan geçerek iki kutbu birleştiren boylam çizgisi ya da meridyenin, Greenwich'den geçen referans ya da başlangıç meridyeni ile açısıdır. Tüm meridyenler yarım çember şeklinde, 0 referans meridyeninin batısında 180 (W) ve doğusunda 180 (E) olmak üzere 360 adet yarım çemberdirler, yani referans meridyenin tam karşısındaki simetriği, aynı zamanda 180°W ve 180°E meridyenidir. Paralel değildirler, kuzey ve güney kutup noktalarında birleşirler.
+
+
+=== Ölçü birimi (derece) ve gösterim biçimleriDeğiştir ===
+Belli bir noktanın gösteriminde önce enlem sonra boylam olmak üzere bir değer çifti kullanılır. Enlem ve boylamlar için geleneksel ölçü birimleri derece, dakika (1/60 derece) ve saniye (1/60 dakika) olmakla birlikte ondalık sisteme uyarlanmış yazım biçimleri de vardır:
+DMS Derece:Dakika:Saniye (49°30'00"N, 123°30'00"W)
+DM Derece:Dakika-ondalık (49°30.0', -123°30.0'), (49d30.0m,-123d30.0')
+DD Dakika-ondalık (49.5000°,-123.5000°), genellikle 4-6 ondalık haneyle.
+Bunlardan günümüzde en yaygını, Google maps ve GPS aygıtlarının da benimsediği, ondalık sistemde dakika yazımıdır.
+
+
+=

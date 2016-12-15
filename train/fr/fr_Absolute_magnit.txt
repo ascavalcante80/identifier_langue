@@ -1,0 +1,45 @@
+En astronomie, la magnitude absolue indique la luminosité intrinsèque d'un objet céleste, au contraire de la magnitude apparente qui dépend de la distance à l'astre et de l'extinction dans la ligne de visée.
+Pour un objet situé à l'extérieur du Système solaire, elle est définie par la magnitude apparente qu'aurait cet astre s'il était placé à une distance de référence fixée à 10 parsecs (environ 32,6 années-lumière) en l'absence d'extinction interstellaire.
+Pour un corps du Système solaire, il s'agit de la magnitude apparente qu'il aurait à une unité astronomique à la fois de la Terre et du Soleil, en supposant sa face visible totalement illuminée.
+Pour les météores (étoiles filantes), il s'agit de leur magnitude apparente s'ils étaient observés à 100 km d'altitude au zénith.
+Comme toutes les magnitudes, elle est une fonction affine décroissante du logarithme de la luminosité de l'objet : la magnitude augmente d'une unité lorsque la luminosité est divisée par 2,5. La différence entre magnitude absolue et apparente (ou relative), dans le cas d'un objet situé en-dehors du Système solaire, est donnée par le module de distance. La magnitude absolue peut être donnée dans une bande spectrale, le plus souvent le filtre V du système photométrique de Johnson, ou comme magnitude bolométrique, à savoir qu'elle décrit le flux reçu dans toutes les longueurs d'onde. La différence entre la magnitude absolue en bande V et cette dernière constitue la correction bolométrique.
+
+
+== Étoiles et galaxies (M)Modifier ==
+
+
+=== DéfinitionModifier ===
+Par définition de l'Union astronomique internationale, « la magnitude absolue d'un objet est la magnitude que verrait un observateur situé à une distance d'exactement 10 parsecs [soit 32,6 années-lumière] de cet objet ».
+La magnitude absolue est ainsi une échelle logarithmique directement liée à la luminosité de l'étoile. La définition de la magnitude absolue s'écrit en termes mathématiques :
+
+où L est la luminosité de l'étoile exprimée en unités de luminosité solaire, C une constante, et log désigne le logarithme décimal. S'agissant d'une échelle logarithmique inversée, plus un astre est lumineux, plus sa magnitude est faible.
+Selon que la luminosité est calculée sur une bande spectrale bleue B (autour de 436 nm) ou visible V (aux alentours de 545 nm), la magnitude absolue est notée MB ou MV. La constante est choisie aujourd'hui telle que les magnitudes absolues du Soleil dans les bandes B et V soient MB = 5,48 et MV = 4,83.
+Quand on considère la totalité du spectre électromagnétique, des ondes radio aux rayons gamma, et pas seulement une bande spectrale donnée, on parle de luminosité bolométrique, et donc de magnitude bolométrique.
+Les magnitudes absolues des étoiles s'étendent généralement de -10 à +17 en fonction de leur type spectral : une supergéante bleue a une magnitude absolue descendant jusqu'à -10 tandis que celle d'une naine rouge peut aller jusqu'à +17. Le Soleil, avec une magnitude absolue de +4,8 se situe à peu près à mi-chemin de ces deux extrêmes.
+
+
+=== Magnitude apparente et distanceModifier ===
+La comparaison de la magnitude absolue avec la magnitude apparente (qui est la magnitude observée effectivement sur Terre) permet une estimation de la distance de l'objet. Suivant la décroissance de la luminosité avec le carré de la distance, on obtient :
+
+où  est la magnitude réelle apparente,  la magnitude absolue et  la distance exprimée en parsecs. La valeur  est aussi appelée module de distance, ce dernier étant plus souvent utilisé pour les objets extra-galactiques.
+Pour avoir la magnitude absolue, il faut des modèles stellaires, et connaître la température de l'étoile (qui peut s'obtenir à partir de l'indice de couleur, qui n'est autre que la différence des magnitudes apparentes d'un objet dans deux bandes spectrales différentes).
+Dans la pratique, la seule quantité aisément accessible est évidemment la magnitude observée, qui est en fait la combinaison de la magnitude apparente et de l'absorption interstellaire: , où  est l'absorption.
+La connaissance de l'absorption est souvent critique. L'absorption modifie la luminosité réelle de l'objet, à cause de la diffusion de la lumière par les grains de poussière interstellaire. La distribution chaotique des grains dans l'espace rend extrêmement difficile l'estimation de l'absorption interstellaire, puisque celle qui est valable dans une direction donnée pour un objet donné, peut être significativement différente pour l'étoile d'à côté (en faisant l'hypothèse que les deux étoiles sont à la même distance). De plus, à cause de l'effet de diffusion, l'absorption dépend de la longueur d'onde, et est donc un effet chromatique (voir article détaillé).
+Donc, en pratique, l'équation s'écrit comme suit:
+
+et seule la valeur de  est facile à mesurer.
+
+
+== Magnitude absolue des objets du Système solaire (H)Modifier ==
+Dans ce cas particulier, la distance de référence n'est pas 10 parsec, mais une unité astronomique.
+Les objets du Système solaire comme les planètes, les comètes ou les astéroïdes ne font que réfléchir la lumière qu'ils reçoivent du Soleil et leur magnitude apparente dépend donc, non seulement de leur distance à la Terre, mais aussi de leur distance au Soleil. La magnitude absolue de ces objets est donc définie comme leur magnitude apparente s'ils étaient situés à une unité astronomique du Soleil et une unité astronomique de la Terre, l'angle de phase étant de zéro degré (à la « pleine lune », toute la surface visible depuis la Terre est éclairée).
+Pour un corps situé à une distance  de la Terre et  du Soleil, la relation entre sa magnitude (relative)  et sa magnitude absolue, notée , est donnée par la formule :
+
+où  est l'intégrale de phase, fonction de , représentant l'angle de phase de l'objet ;  et  doivent être exprimées en unités astronomiques.
+L'intégrale de phase  peut être "approchée" par la formule :
+
+La situation décrite par la définition de la magnitude absolue est physiquement impossible : l'angle de phase est de 30 degrés pour un astre sphérique à une unité astronomique de la Terre et du Soleil. Elle doit être considérée comme une référence — et elle se trouve donner le bon ordre de grandeur pour le résultat observé.
+
+
+== Objets célestes très lumineuxModifier ==
+Quelques étoiles visibles à l’œil nu ont une magnitude absolue qui fait qu’elles seraient plus brillantes que

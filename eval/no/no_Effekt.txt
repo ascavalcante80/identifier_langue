@@ -1,0 +1,10 @@
+
+ står for tid i sekunder.
+Eksempel: Dersom man har utført et arbeid på 20 Joule i løpet av 4 sekunder har man hatt en gjennomsnittlig effekt på 5 Watt over de 4 sekundene.
+
+Sammenheng mellom elektrisk effekt, strøm og spenning er gitt ved
+
+der
+ står for strøm målt i ampere
+ står for spenning målt i volt
+Eksempel: Dersom man forbruker 10 ampere (A) over et spenningsfall på 230 volt er effekten 2 300 Watt.

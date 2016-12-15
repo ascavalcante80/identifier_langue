@@ -1,0 +1,157 @@
+생물 분류(生物分類)(또는 생물학 과학 분류)는 생물의 종을 종류별로 묶고, 생물학적 형태에 따라 유기체들을 계통화하는 방법을 말한다. 생물 분류는 분류학이나 계통분류학에서 다룬다.
+
+
+== 개요편집 ==
+현재 구분되어 있는 생물 종은 300만에서 1000만종에 이른다. 각 종에는 학명이 부여된다. 학명은 전반에는 속명으로, 속과는 극히 관계가 가까운 종을 집계한 것이다. 이것들을 분류해 그룹으로 분류명을 적는다. 이 분류를 한층 더 계층적으로 세분화하여, 여러 생물군 간의 관계나 나아가 진화의 계보를 분명히 하려고 한다.
+분류학은 각 시대마다 당시까지 판명된 정보에 근거하여 납득할 수 있는 분류 체계를 모색해 왔다. 린네의 시대에는 형태를 중심으로 현미경이 사용되게 되면서, 그것에서 얻을 수 있는 정보를 이용한 생화학이 발달하면서 색소 등을 이용해 보다 체계적인 방법을 찾을 수 있었다. 때문에 분류 체계는 시대와 함께 변화하면서 점차 발전해 가고 있다. 20세기 말에는 유전자 그 자체를 참조하는 분자유전학의 수법이 수용되면서 많은 분류군에 대해 재검토를 요구받고 있다. 따라서 이러한 체계는 과학과 기술의 발전에 따라 향후에도 변동가능한 것들이다.
+
+
+== 고대 분류 체계편집 ==
+생물을 어떻게 분류하는 것이 가장 합리적일 것인가 하는 문제는 아리스토텔레스 이래 다양한 연구가가 되고 여러가지 안이 나왔다. 아리스토텔레스의 《동물의 발생》에는 동물 분류를 다음과 같이 하고 있다.
+유혈동물
+태생
+인류
+태생 사족류
+고래류
+
+난태생
+연체어류
+
+난생
+조류
+난생사족류
+무족류
+
+불완전 난생
+어류
+
+무혈동물
+불완전 난생
+연체류
+연각류
+
+저생 혹은 자연발생
+유절류
+
+무성 생식 또는 자연발생
+갑각류
+기타
+
+아리스토텔레스의 권위가 절대적이었던 중세까지는 이 동물 분류가 지배적이었다.
+
+
+== 린네의 분류편집 ==
+근대적인 분류법의 쇄신은 린네로부터 시작되었다. 린네는 종의 학명에 이명법을 채용하여 분류를 체계화했다. 또 속·종의 상위 분류로서 강·목을 마련하고, 계층적인 분류 체계를 연구했다. 현재의 생물 분류에서도 이 규칙은 변함없이 지켜지고 있지만, 린네의 시대보다 계층 구조가 보다 세밀하게 확장되었다. 또한 그의 이론 중 발생했던 일부 오류는 수정 과정을 거쳤다. 예를 들어, 린네는 고래를 어류로 분류하였지만, 포유류로 정정되었다. 또한 식물을 수술의 개수를 바탕으로 분류한 것은 유명하지만, 현재의 식물 분류에서는 이러한 방법이 바뀌었다.
+
+
+== 분류 체계편집 ==
+필요에 따라 각 단계 사이를 더 잘게 나누기도 한다.
+...
+강 (classis)
+아강(subclassis)
+상목 (superordo)
+목 (ordo)
+아목 (subordo)
+하목 (infraordo)
+소목 (parvordo)
+상과 (superfamilia)
+과 (familia)
+...
+그리고 계 위에 도메인을 두거나 과와 속 사이에 족(族, tribus)을 두기도 한다.
+도메인 > 계 > 아계 > 문 > 아문 > 하문 > 상강 > 강 > 아강 > 하강 > 소강 > 상목 > 목 > 아목 > 하목 > 소목 > 상과 > 과 > 아과 > 족 > 아족 > 속 > 아속 > 종 > 아종
+
+
+== 전체 분류 등급편집 ==
+아래 분류 등급의 일부는 명확하지 않다. 분류학자들이 필요에 의해서, 언제든지 자신의 뜻대로 새로운 분류 등급을 창안할 수도 있기 때문이다. 명명할 때, 적용하는 명명 규약에 따라서 각기 변하는 일부 제한 규정이 있다.
+아래 분류 등급은 아주 일반적인 것에서부터 아주 특수한 것에 이르기까지 관련있는 분류 등급(주석 참조)을 단지 예시할 목적으로 인위적으로 종합한 것이다.
+도메인 (Domain) 또는 Empire
+계 (Kingdom)
+아계 (Subkingdom)
+Branch
+하계 (Infrakingdom)
+
+상문 (Superphylum) 또는 Superdivision (식물학)
+문 (Phylum) 또는 Division (식물학)
+아문 (Subphylum) 또는 Subdivision (식물학)
+하문 (Infraphylum) 또는 Infradivision (식물학)
+미문 (Microphylum)
+
+상군 (Supercohort) (식물학)군 (Cohort) (식물학)아군 (Subcohort) (식물학)하군 (Infracohort) (식물학)
+
+상강 (Superclass)
+강 (Class)
+아강 (Subclass)
+하강 (Infraclass)
+소강 (Parvclass)
+
+Superdivision (동물학)Division (동물학)Subdivision (동물학)Infradivision (동물학)
+
+상부 (Superlegion) (동물학)
+부 (Legion) (동물학)
+아부 (Sublegion) (동물학)
+하부 (Infralegion) (동물학)
+
+상군 (Supercohort) (동물학)군 (Cohort) (동물학)아군 (Subcohort) (동물학)하군 (Infracohort) (동물학)
+
+Gigaorder (동물학)Magnorder 또는 Megaorder (동물학)Grandorder 또는 Capaxorder (동물학)Mirorder 또는 Hyperorder (동물학)상목 (Superorder)
+Series (어류)
+목 (Order)
+소목 (Parvorder) - 일부 동물학 분류에서 사용.
+Nanorder (동물학)
+Hypoorder (동물학)
+Minorder (동물학)
+아목 (Suborder)
+하목 (Infraorder)
+소목 (Parvorder) - 자주 사용하며, 동물학에서는 미목(Microorder)
+
+절 (Section) - 동물학
+아절 (Subsection) - 동물학
+
+Gigafamily (동물학)
+Megafamily (동물학)
+Grandfamily (동물학)
+Hyperfamily (동물학)
+상과 (Superfamily)
+Epifamily (동물학)
+Series (for Lepidoptera)
+Group (for Lepidoptera)
+과 (Family)
+아과 (Subfamily)
+하과 (Infrafamily)
+
+상족 (Supertribe)
+족 (Tribe)
+아족 (Subtribe)
+하족 (Infratribe)
+
+속 (Genus)
+아속 (Subgenus)
+Section (식물학)
+Subsection (식물학)
+Series (식물학)
+Subseries (식물학)
+
+Superspecies 또는 Species-group
+종
+아종 (Subspecies) 또는 Forma Specialis (균류), 또는 Variety (세균))
+변종 (Variety) (식물학) 또는 Form (동물학) / Morph (식물학)
+아변종 (Subvariety) (식물학)
+Form (식물학)
+Subform (식물학)
+
+
+== 접미사편집 ==
+속 위의 분류 이름은 속의 라틴어 이름의 어근에 표준적인 접미사를 붙여서 만드는 경우가 많다. 이 접미사는 계나 문에 따라 약간씩 다르다.
+
+
+== 생물 분류 체계의 변천편집 ==
+
+
+== 같이 보기편집 ==
+분류학
+
+
+== 주석편집 ==
+↑ For the general usage and coordination of zoological ranks between the phylum and family levels, including many intercalary ranks, see Carroll (1988). For additional intercalary ranks in zoology, see especially Gaffney & Meylan (1988); McKenna & Bell (1997); Milner (1988); Novacek (1986, cit. in Carroll 1988: 499, 629); and Paul Sereno's 1986 classification of ornithischian dinosaurs as reported in Lambert (1990: 149, 159). For botanical ranks, including many intercalary ranks, see Willis & McElwain (2002).
+↑ 가 나 다 라 마 바 사 아 동물 분류학에서 코호트(cohort)와 그 관련 분류 등급은 강(綱) 그룹과 목(目) 그룹 사이에 삽입한다. 식물학 분류에서, 코호트 그룹은 문(門) 그룹과 강(綱) 그룹 사이에 삽입하곤 한다.: 목 분류 등급으로 사용하기도 한다. Willis & McElwain (2002: 100–101) 참조. : See International Code of Botanical Nomenclature, Vienna Code 2006, Article 17.2. The cohort has also been used between infraorder and family in saurischian dinosaurs (Benton 2005).
+↑ 가 나 다 라 These are movable ranks, most often inserted between the class and the legion or cohort. Nevertheless, their positioning

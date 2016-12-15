@@ -1,0 +1,100 @@
+Le potassium est l'élément chimique de numéro atomique 19, de symbole K. C’est un métal alcalin mou, d’aspect blanc métallique, légèrement bleuté, que l’on trouve naturellement lié à d’autres éléments dans l’eau de mer et dans de nombreux minéraux. Il s’oxyde rapidement au contact de l’air et réagit violemment avec l’eau. Il ressemble chimiquement au sodium.
+
+
+== Histoire ==
+Le potassium a été découvert en 1807 par Sir Humphry Davy, qui l’obtient par électrolyse d’hydroxyde de potassium ; c'est d'ailleurs le premier métal isolé par électrolyse. C'est aussi Davy qui forge le mot potassium, à partir du mot potasse (nom de l'hydroxyde de potassium à l'époque) et du suffixe -ium.
+Le symbole K fait référence au latin kalium, lui-même forgé à partir de l’arabe al-qalyah — القَلْيَة (« cendre de plantes »). Potassium se dit aussi kalium en allemand et dans d’autres langues germaniques.
+
+
+== En analyse biologique ==
+Le taux sanguin de potassium est appelé kaliémie. Dans le sang d'un adulte de poids moyen à jeun, il doit être compris entre 3,5 et 4,5 mmol/L
+
+
+== Caractéristiques ==
+
+
+=== Caractéristiques chimiques ===
+
+Le potassium est un solide mou que l'on peut couper facilement à l’aide d’un couteau. Les surfaces fraîchement tranchées ont un aspect métallique. Il s’oxyde rapidement à l’air et doit donc être conservé dans l’huile.
+Comme les autres métaux alcalins, l’eau se décompose à son contact avec formation de dihydrogène. Lorsqu’il est plongé dans l’eau, il réagit violemment en produisant du dihydrogène qui peut s’enflammer, voire détoner, en présence d’oxygène et d’une source de chaleur.
+Ses sels émettent une couleur violette lorsqu’ils sont exposés à une flamme.
+
+
+=== Caractéristiques physiques ===
+Allié au sodium le potassium constitue le mélange NaK utilisé comme caloporteur dans les échanges thermiques. Le mélange 78 % K et 22 % Na a une température de fusion de -12,6 et bout à 785 °C facilitant ainsi l'exploitation de la boucle fluide et prévenant le risque de gel.
+Coefficient de dilatation à 25°C = 83 • 10-6 °C-1
+Évaluation de la masse volumique du solide: ρ = 890 /(1+0,000083*(t-25))3 ; avec ρ en kg/m3 et t en °C
+Corrélation pour la masse volumique du liquide: ρ = 839,853 - 0,222 • t  ; avec ρ en kg/m3 et t en °C ; applicable entre 100 et 600 °C
+Corrélation pour la valeur de Cp du solide: Cp = 0,70916 +0,0020766 • t ; avec Cp en kJ/kg/K et t en °C ; applicable entre 0 et 60 °C
+Corrélation pour la valeur de Cp du liquide: Cp = 0,950054 - 0,00048851 • t + 0,000000314284 • t2 ; avec Cp en kJ/kg/K et t en °C ; applicable entre 70 et 600 °C
+Corrélation pour la viscosité dynamique du liquide: μ = - 0,000000013350779 • t3 + 0,00001439107 • t2 - 0,0051496071 * t + 0,8329122 ; avec μ en mkg/m/s et t en °C ; applicable entre 70 et 600 °C
+
+
+=== Isotopes ===
+
+Le potassium possède 24 isotopes connus de nombre de masse variant entre 32 et 55, ainsi que quatre isomères nucléaires.
+Le potassium est présent dans la nature sous la forme de trois isotopes : 39K (93,26 %) et 41K (6,73 %) tous deux stables, et un radioisotope à longue durée de vie (demi-vie de 1,248 milliard d'années), 40K (0,01167 %). Les autres radioisotopes du potassium ont tous une demi-vie inférieure à une journée, et pour la plupart d'entre eux inférieure à une minute.
+La masse atomique standard du potassium est de 39,0983(1) u
+Le 40K se désintègre :
+par émission β- en 40Ca (88,8 %)
+par capture électronique (11,2 %) et par émission β+ (très rare) en 40Ar ;
+La méthode de datation au potassium-argon (couple d’isotopes 40K - 40Ar) est communément utilisée pour la datation des roches.
+
+
+=== L'ion potassium ===
+L'ion K+ est un gros cation (~140 pm) peu coordinant et donc difficile à précipiter en solution aqueuse. Cependant le perchlorate de potassium KClO4 est peu soluble dans l'eau (7 g/L à 0°C, 20 g/L à 25°C). Il forme des complexes avec les éthers couronnes, ce qui permet de solubiliser certains de ses sels en solution organique.
+
+
+=== Gisements ===
+Cet élément représente environ 2,58 % du poids total de la croûte terrestre, dont il est un des sept éléments les plus abondants.
+Le potassium n’est pas un élément natif. Il est obtenu principalement à partir de l’hydroxyde de potassium par un procédé d'électrolyse en voie sèche fondue dont le principe a très peu changé depuis sa découverte par Sir Davy.
+Des minéraux tels que la carnallite KMgCl3·6H2O, la langbeinite K2Mg2(SO4)3, la polyhalite K2Ca2Mg(SO4)4·2H2O, et la sylvine KCl, que l’on trouve au fond des anciens lacs et mers sont des minerais importants de potassium, et permettent son exploitation économique.
+Les principaux gisements de potassium sont situés en Saskatchewan, en Biélorussie, en Russie (voir la société Uralkali), au Nouveau-Mexique, en Californie et en Utah, ainsi qu'en Alsace et Allemagne.
+Les océans constituent une réserve importante de potassium, mais sa concentration y est plus faible que celle du sodium (cf. eau de mer).
+
+
+=== Synthèse du potassium ===
+Le potassium est produit par réduction de chlorure de potassium (KCl) liquide par de la vapeur de sodium à 870 °C puis distillation.
+
+
+== Utilisation du potassium ==
+
+
+=== Applications du potassium métallique ===
+Le potassium métallique est utilisé comme réactif dans de nombreuses réactions de chimie fine et de pharmacie, où on l’utilise en particulier pour ses propriétés de puissant réducteur (action similaire à celle du sodium métallique).
+L’alliage NaK est utilisé dans les transferts de chaleur : le potassium, comme le sodium, est un excellent conducteur électrique.
+
+
+=== Composés du potassium ===
+Le potassium est un élément essentiel pour la croissance des plantes ; on le trouve, sous forme de composés, dans la plupart des sols (voir Rôle du potassium dans la fertilisation).
+Le potassium est vital pour le fonctionnement des cellules animales (voir Pompe sodium-potassium).
+Ses principaux composés :
+l’hydroxyde de potassium plus connu sous le nom de potasse caustique ou potasse, et utilisé pour la fabrication de produits détergents ;
+le chlorure de potassium est utilisé comme substitut du sel alimentaire, en perfusion à l’hôpital pour compenser une carence à l’origine de troubles du rythme cardiaque. À trop fortes doses, il peut arrêter le cœur : c’est le cas dans les injections à but létal ;
+le nitrate de potassium est le salpêtre ou nitre, utilisé dans la poudre à canon ;
+le carbonate de potassium est utilisé dans la fabrication du verre et est le principal constituant de la potasse (fertilisant) ;
+dans les engrais NPK (azote-phosphore-potassium) ;
+autres sels importants de potassium :
+le bromure de potassium,
+l’iodure de potassium,
+le phosphate de potassium,
+le sulfate de potassium,
+le bisulfite de potassium.
+
+
+== Aspects médicaux ==
+
+
+=== Précautions ===
+Le potassium sous forme de métal réagit violemment avec l’eau. Sa réaction avec l’eau est d’ailleurs bien plus forte que celle du sodium dans un milieu aqueux. Le potassium peut aussi réagir violemment avec son propre oxyde ; par exemple un choc sur une coulée de potassium oxydé peut provoquer une explosion. Ce métal doit donc être conservé à l’abri de l’eau et de toute atmosphère oxydante ou chargée d’humidité. Il est le plus souvent conservé immergé dans l’huile ou entouré de graisse. Dans les échantillons destinés aux expériences de laboratoire scolaires et universitaires il est fourni en flacons sous forme d’olives pour éviter – en cas de doute sur une étiquette endommagée – de le confondre avec le sodium.
+
+
+=== Nutrition et médecine ===
+Le potassium est un micronutriment essentiel à l’alimentation humaine.
+Le potassium sous sa forme de cation K+ est le principal ion intracellulaire de l’organisme. Il existe un gradient de concentration en faveur de la sortie de l’ion depuis le compartiment intracellulaire vers le compartiment extracellulaire. Ce gradient est entretenu par des pompes situées dans les membranes cellulaires, en particulier la pompe sodium-potassium est responsable de l’existence d’un potentiel de repos négatif présent dans toutes les cellules vivantes.
+La concentration de K+ plasmatique (ou kaliémie) est très finement régulée, en particulier au niveau du rein, de sorte que ce taux demeure dans une fourchette précise de 3,5  à  5,5 mmol·l-1. Les variations pathologiques de la kaliémie (hypokaliémie et surtout hyperkaliémie) sont des troubles sévères susceptibles d’entraîner des anomalies cardiaques fatales.
+Une alimentation variée constitue le meilleur moyen d’avoir un bon taux de potassium dans l’organisme. L'apport quotidien chez l'adulte se situe normalement entre 60 et 120 mmol par jour.Des recherches ont mis en évidence qu’un régime riche en potassium peut réduire les risques d’hypertension.
+On trouve de bonnes quantités de potassium dans :
+les pois secs (930 mg/100 g)
+les lentilles (837 mg/100 g)
+le pruneau (732 mg/100

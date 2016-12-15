@@ -1,0 +1,131 @@
+El calendario gregoriano es un calendario originario de Europa, actualmente utilizado de manera oficial en casi todo el mundo. Así denominado por ser su promotor el papa Gregorio XIII, vino a sustituir en 1582 al calendario juliano, utilizado desde que Julio César lo instaurara en el año 46 a. C. El papa promulgó el uso de este calendario por medio de la bula Inter Gravissimas.
+El germen del calendario gregoriano fueron dos estudios realizados en 1515 y 1578 por científicos de la Universidad de Salamanca, que fueron remitidos a la Iglesia. Del primero se hizo caso omiso y del segundo finalmente fructificó el actual calendario mundial.
+
+
+== HistoriaEditar ==
+La reforma gregoriana nace de la necesidad de llevar a la práctica uno de los acuerdos del Concilio de Trento: ajustar el calendario para eliminar el desfase producido desde el primer Concilio de Nicea, celebrado en 325, en el que se había fijado el momento astral en que debía celebrarse la Pascua y, en relación con esta, las demás fiestas religiosas móviles. Lo que importaba, pues, era la regularidad del calendario litúrgico, para lo cual era preciso introducir determinadas correcciones en el civil. En el fondo, se trataba de adecuar el calendario civil al año trópico.
+En el Concilio de Nicea se determinó que la Pascua debía conmemorarse el domingo siguiente al plenilunio posterior al equinoccio de primavera en el hemisferio norte (equinoccio de otoño en el hemisferio sur). Aquel año 325 el equinoccio había ocurrido el día 21 de marzo, pero con el paso del tiempo la fecha del acontecimiento se había ido adelantando hasta el punto de que en 1582, el desfase era ya de 10 días, y el equinoccio se fechó el 11 de marzo.
+El desfase provenía de un inexacto cómputo del número de días con que cuenta el año trópico; según el calendario juliano que instituyó un año bisiesto cada cuatro, consideraba que el año trópico estaba constituido por 365,25 días, mientras que la cifra correcta es de 365,242189, o lo que es lo mismo, 365 días, 5 horas, 48 minutos y 45,16 segundos. Esos más de 11 minutos contados adicionalmente a cada año habían supuesto en los 1257 años que mediaban entre 325 y 1582 un error acumulado de aproximadamente 10 días.
+El calendario gregoriano ajusta este desfase cambiando la regla general del bisiesto cada cuatro años, y hace que se exceptúen los años múltiplos de 100, excepción que a su vez tenía otra excepción, la de los años múltiplos de 400, que sí eran bisiestos. La nueva norma de los años bisiestos se formuló del siguiente modo: la duración básica del año es de 365 días; pero serán bisiestos (es decir tendrán 366 días) aquellos años cuyas dos últimas cifras son divisibles por 4, exceptuando los múltiplos de 100 (1700, 1800, 1900..., que no serán bisiestos), de los que se exceptúan a su vez aquellos que también sean divisibles por 400 (1600, 2000, 2400..., que serán bisiestos). El calendario gregoriano ajusta a 365,2425 días la duración del año, lo que deja una diferencia de 0,000300926 días al año de error, es decir, adelanta cerca de 1/2 minuto cada año (aprox. 26 s c/año), lo que significa que se requiere el ajuste de un día cada 3300 años. Esta diferencia procede del hecho de que la traslación de la Tierra alrededor del Sol no coincide con una cantidad exacta de días de rotación de la Tierra alrededor de su eje. Cuando el centro de la Tierra ha recorrido una vuelta completa en torno al Sol y ha regresado a la misma «posición relativa» en que se encontraba el año anterior, se han completado 365 días y un poco menos de un cuarto de día (0,242189074 para ser más exactos). Para hacer coincidir el año con un número entero de días se requieren ajustes periódicos cada cierta cantidad de años.
+Sin embargo, intentar crear una regla para corregir este error de un día cada 3300 años es complejo. En tan largo tiempo la Tierra se desacelera en su velocidad de rotación (y también se desacelera el movimiento de traslación) y ello crea una nueva diferencia que es necesario ir corrigiendo. La Luna ejerce un efecto de retraso sobre esta velocidad de giro por la excentricidad creada por las mareas. La disminución de la velocidad de giro creada por esa excentricidad es similar a la que se produce cuando hacemos girar un frisbee poniéndole un poco de arena mojada en un lado del borde inferior: cuando el platillo se hace girar, su velocidad de giro es mucho menor a la que tiene cuando no existe tal excentricidad. Este efecto todavía se encuentra en análisis y medición por parte del mundo científico y adicionalmente existen otros efectos que complican definir reglas con tal precisión. Este error es solo de una parte por millón. Lo más práctico será que cuando la diferencia sea significativa, es decir, cuando llegue a ser de un día, se declare que el siguiente año bisiesto no lo sea. De todas maneras, quedan casi dos mil años de análisis y discusión antes de necesitar este ajuste. Véase año para una descripción un poco más profunda.
+Otro problema distinto, como ya se ha señalado, es la disminución de la velocidad de rotación terrestre (y también de la traslación terrestre), la cual se puede medir con gran precisión con un reloj atómico. Es un problema distinto porque no tiene que ver nada con el cálculo del calendario y, por lo tanto, con los ajustes que se le tengan que hacer al calendario. Más bien es al contrario: es el reloj atómico el que tiene que ajustarse a los movimientos de la Tierra, es decir, a la duración del día solar y del año terrestre. El reloj atómico mide un tiempo uniforme que, por lo tanto, no existe en la naturaleza, donde los movimientos del mundo físico son uniformemente variados.
+
+
+== El día, la semana y el mesEditar ==
+Día: es la unidad fundamental de tiempo del calendario gregoriano. Un día equivale aproximadamente a 86.400 segundos del Tiempo Atómico Internacional o TAI: recordemos que es el TAI el que se tiene que ajustar al verdadero movimiento de rotación terrestre, que se retrasa con respecto a la duración del mismo.
+Semana: periodo de 7 días.
+El impulsor de la reforma del calendario es Ugo Buocompagni, jurista eclesiástico, elegido papa el 14 de mayo de 1572 bajo el nombre de Gregorio XIII. Se constituye la Comisión del Calendario, en la que destacan Cristóbal Clavio y Luis Lilio. Clavio, astrónomo jesuita, el "Euclides de su tiempo", era un reputado matemático y astrónomo. El mismo Galileo Galilei lo requirió como aval científico de sus observaciones telescópicas. Un cráter de la Luna lleva su nombre. En cuanto a Lilio, médico y astrónomo, sabemos que fue el principal autor de la reforma del calendario. Muere en 1576 sin ver culminado el proceso. Finalmente, un personaje más en esta historia: Alfonso X de Castilla, El Sabio: el valor dado al año trópico en las Tablas alfonsíes de 365 días 5 horas 49 minutos y 16 segundos es el tomado como correcto por la Comisión del Calendario. Pedro Chacón, matemático español, redacta el Compendium con el dictamen de Lilio, apoyado por Clavio, y se llega al 14 de septiembre de 1580 cuando se aprueba la reforma, para llevarla a la práctica en octubre de 1582.
+Al jueves -juliano- 4 de octubre de 1582 le sucede el viernes -gregoriano- 15 de octubre de 1582. Diez días desaparecen debido a que ya se habían contado de más en el calendario juliano.
+El calendario se adoptó inmediatamente en los países donde la Iglesia Católica tenía influencia. Sin embargo, en países que no seguían la doctrina católica, tales como los protestantes, anglicanos, ortodoxos, y otros, este calendario no se implantó hasta varios años (o siglos) después, e incluso en algunos, se sigue llamando calendario juliano, para no reconocer la autoridad de papa de Roma en su implantación. A pesar de que en sus países el calendario gregoriano es el oficial, las iglesias ortodoxas (excepto la de Finlandia) siguen utilizando el calendario juliano (o modificaciones de él diferentes al calendario gregoriano). Sin embargo, fuera del mantenimiento de un calendario eclesiástico diferente en algunos países, el calendario gregoriano es el que se considera como base para el establecimiento del año civil en todo el mundo, incluyendo los países con un año eclesiástico o religioso diferente al que se estableció en la reforma gregoriana del siglo XVI.
+
+
+==== Línea temporalEditar ====
+Año 1582
+Italia, Portugal, España (posesiones europeas y Canarias) y la zona católica de Polonia: después del jueves 4 de octubre de 1582 vino el viernes 15 de octubre.
+Francia, Lorena (Lorraine) y el valle del Misisipí (Estados Unidos): después del domingo 9 de diciembre de 1582 vino el lunes 20 de diciembre.
+Países Bajos (Brabante, Zelanda y el Staten Generaal): después del lunes 17 de diciembre de 1582 vino el martes 28 de diciembre.
+Bélgica (Limburgo y provincias del sur): después del jueves 20 de diciembre de 1582 vino el viernes 31 de diciembre.
+Año 1583
+Países Bajos (Holanda, Flandes, Hennegan y algunas provincias del sur): el sábado 1 de enero de 1583 vino después del viernes 21 de diciembre de 1582 (por lo que la gente se quedó sin fiestas de Navidad ni Año nuevo).
+Alemania (zonas católicas): originalmente el lunes 21 de febrero de 1583 debía suceder al domingo 10 de febrero, pero el pueblo no hizo ningún caso. Luego se decidió que el domingo 16 de octubre de 1583 seguiría al sábado 5 de octubre.
+Austria (Tirol, Salzburgo y Brescia): el domingo 16 de octubre de 1583 siguió al sábado 5 de octubre.
+Austria (Carintia-Kärnten y Estiria-Steiermark): el domingo 25 de diciembre de 1583 seguiría al sábado 14 de diciembre.
+Las posesiones españolas en América y Asia Virreinato de la Nueva España (Hoy México, Cuba y parte sur de EUA) en América de Norte y Central; la América del Sur española (Virreinato del Perú); y la Capitanía General de Filipinas): el sábado 15 de octubre de 1583 vino después del viernes 4 de octubre. Debido a la distancia con la metrópoli y la dificultad de llegar la orden de cambio a todos los lugares, Felipe II, en Pragmática del 14 de mayo de 1584, establece este año para el cambio de calendario. 
+Países Bajos (Groninga): el lunes 21 de febrero de 1583 vino después del 10 de febrero. Retrocedieron al juliano en julio-agosto de 1594. Finalmente el miércoles 12 de enero de 1701 vino después del martes 31 de diciembre de 1700.
+Año 1584
+Bohemia (Bohemia, Moravia y Lusacia): el martes 17 de enero de 1584 vino después del lunes 6 de enero.
+Suiza (cantones más católicos): el domingo 22 de enero vino después del 11 de enero.
+Silesia (Slask): el lunes 23 de enero vino después del domingo 12 de enero.
+Año 1587
+Hungría: el domingo 1 de noviembre de 1587 vino después del sábado 21 de octubre.
+Año 1590
+Transilvania (Siebenbürgen-Ardeal-Erdély): el martes 25 de diciembre de 1590 vino después del lunes 14 de diciembre.
+Año 1605
+Canadá (Nueva Escocia): desde 1605 al 13 de octubre de 1710, usaron el calendario gregoriano. Después usaron el juliano desde el 2 de octubre de 1710 hasta el miércoles 2 de septiembre de 1752, que fue seguido por el jueves 14 de septiembre. Desde entonces usaron el gregoriano.
+El resto de Canadá había estado utilizando el calendario gregoriano desde su implantación original.
+Año 1610
+Alemania (Prusia): el jueves 2 de septiembre de 1610 vino después del miércoles 22 de agosto.
+Año 1682
+Francia (Estrasburgo): en febrero de 1682.
+Año 1700
+Alemania protestante, Dinamarca y Noruega: el lunes 1 de marzo de 1700 vino después del 18 de febrero.
+Países Bajos (Güeldres-Gelderland, zona protestante de Holanda): el lunes 12 de julio de 1700 vino después del 30 de junio.
+Países Bajos (Utrecht y Overijssel): el domingo 12 de diciembre de 1700 vino después del sábado 30 de noviembre.
+Año 1701
+Países Bajos (Frisia y otra vez Groninga) y Suiza (Zúrich, Berna, Basilea, Schaffhausen, Gent, Mühlhausen y Biel): el miércoles 12 de enero de 1701 vino después del martes 31 de diciembre de 1700.
+Países Bajos (Drenthe): el jueves 12 de mayo de 1701 vino después del miércoles 30 de abril.
+Año 1752
+Inglaterra y sus colonias (Terranova y la costa de la bahía de Hudson, en Canadá; litoral atlántico de Estados Unidos (EE.UU.), Washington y Oregón; Escocia, Irlanda, India): el jueves 14 de septiembre de 1752 vino después del miércoles 2 de septiembre.
+Esta es la causa de que aunque se dice que los escritores Miguel de Cervantes Saavedra y William Shakespeare murieron ambos el 23 de abril de 1616, en realidad este último murió 10 días después (el 3 de mayo del calendario europeo actual).
+En Inglaterra, a los días en el calendario juliano que ocurrieron antes de la introducción del calendario gregoriano en 1752 se les llama OS (Old Style o 'estilo antiguo'). Las iniciales NS (New Style o 'estilo nuevo') indican el calendario gregoriano.
+Año 1753
+Suecia y Finlandia (que cuando fue conquistada por Rusia tuvo que adoptar en cierto grado el calendario juliano): en el año 1700 se decidió cancelar los días bisiestos durante cuarenta años, lo que lograría acumular los 10 días que faltaban. Ese año se cumplió, pero no en los bisiestos 1704 y 1708 (no se sabe por qué). Por lo tanto en esa década sus fechas no coincidían con ningún otro país (ya sea que tuviera calendario gregoriano o juliano). Más tarde, en 1712 decidieron que volverían al calendario juliano agregando un día (un "30 de febrero") al año bisiesto 1712. Cuarenta años después decidieron hacer el cambio drástico normal: el jueves 1 de marzo de 1753 vino después del miércoles 17 de febrero.
+Año 1867
+Alaska: octubre de 1867, cuando se convirtió en una entidad federal de Estados Unidos.
+Año 1873
+Japón: antes se usaba un calendario propio lunar.
+Año 1875
+Egipto.
+Año 1912 o 1929
+China: antes tenía un calendario propio lunar. Los autores no se ponen de acuerdo si el cambio se produjo en 1912 o en 1929. Hasta hace pocos años en Hong Kong el pueblo utilizaba el calendario lunar (que es muy difícil de traducir al calendario gregoriano, el cual es estrictamente solar).
+Albania: diciembre de 1912.
+Año 1914 o 1926
+Turquía: hasta el 1 de enero de 1914 (según otros hasta 1926 por las reformas occidentales de Mustafa Kemal Atatürk) Turquía funcionó con el calendario islámico.
+Año 1916
+Bulgaria: el 14 de abril de 1916 vino después del 31 de marzo.
+Año 1918
+Rusia y Estonia: el jueves 14 de febrero de 1918 vino después del miércoles 31 de enero. Otras zonas orientales de la Unión Soviética lo cambiaron dos años después.
+Año 1919
+Rumania: el lunes 14 de abril de 1919 vino después del domingo 31 de marzo.
+Yugoslavia.
+Año 1923
+Grecia: el jueves 1 de marzo de 1923 vino después del 15 de febrero.
+
+
+== Duración del año gregorianoEditar ==
+El calendario gregoriano distingue entre :
+año común: el de 365 días
+año bisiesto: el de 366 días
+año secular: el terminado en "00" -múltiplo de 100-
+Es año bisiesto el que sea múltiplo de 4, con excepción de los años seculares. Respecto a estos, es bisiesto el año secular múltiplo de 400.
+De esta manera, el calendario gregoriano se compone de ciclos de 400 años:
+En 400 años hay (400/4)-4 seculares = 96 años bisiestos
+De los 4 años seculares, solo uno es bisiesto (múltiplo de 400)
+En el ciclo de los 400 años tenemos 96 + 1 = 97 años bisiestos, y 400 - 97 = 303 años comunes
+Haciendo el cómputo en días:
+97 x 366 días = 35.502 días
+303 x 365 = 110.595 días
+Esto hace un total de 146.097 días en los 400 años, de modo que la duración media del año gregoriano es de 365,2425 días.
+En los 400 años del ciclo del calendario gregoriano, estos 146.097 días, que son 20.871 * 7 días, hay un número entero de semanas 20.871, de tal modo que en cada ciclo de 400 años no solo se repite exactamente el ciclo de años comunes y bisiestos, sino que el ciclo semanal también es exacto, esta congruencia da lugar a que tomando un grupo de 400 años seguidos, el siguiente ciclo de 400 años es exactamente igual.
+La primera semana del año, la número 01, es la que contiene el primer jueves de enero. Las semanas de un año van de la 01 a la 52, salvo que el año termine en jueves, o bien en jueves o viernes si es bisiesto, en cuyo caso se añade una semana más: la 53.
+Mes: periodo de 30 ó 31 días, salvo para febrero que tiene 28 días en un año común, y 29 días en un año bisiesto.
+Existe una copla con varias versiones que se utiliza como regla nemotécnica para recordar el número de días de cada mes:
+
+Treinta días trae noviembre,
+con abril, junio y septiembre;
+veintiocho solo uno
+y los demás, treinta y uno.
+
+Otra versión dice:
+
+Treinta días traen septiembre,
+abril, junio y noviembre.
+Todos los demás treinta y uno
+excepto febrero que tiene veintiocho,
+y en año bisiesto veintinueve.
+
+Una variante latinoamericana reza así:
+
+Treinta días tiene noviembre
+con abril, junio y septiembre.
+Los demás son treinta y uno
+menos febrero mocho
+que solo trae veintiocho.
+
+Otra regla nemotécnica consiste en cerrar los dos puños y juntarlos con los nudillos hacia arriba. Los nudillos sobresalientes representarán a los meses de 31 días, y los huecos entre nudillos los meses de menos de 31 días. El primer nudillo (el del dedo meñique) representa a enero (y por ser sobresaliente equivale a 31 días). El hueco próximo (entre los nudillos del meñique y del dedo anular) representa a febrero (y por ser hueco tiene menos de 31 días, en este caso 29 o 28 días). El segundo nudillo (del dedo anular) representa a marzo (y por ser sobresaliente equivale a 31 días) y así sucesivamente hasta llegar a julio, representado por el nudillo del dedo índice (que por ser sobresaliente equivale a 31 días). Luego se pasa a la otra mano y se cuenta desde el nudillo del dedo índice, que al igual que el anterior representará a agosto (y por ser sobresaliente equivaldrá a 31 días). Se continúa la cuenta hasta llegar a diciembre, representado por el nudillo del dedo anular (que por ser sobresaliente dice que diciembre tiene 31 días).
+Otra manera de visualizar la anterior nemotécnica es como sigue: con el puño cerrado de cualquier mano, pose su dedo índice de la otra mano en el nudillo del dedo índice de su puño; ese nudillo indica el mes de enero. Desplace su dedo índice al intersticio entre los nudillos del dedo índice y medio de su puño, ese intersticio representa a febrero, desplace su índice al siguiente nudillo (dedo medio) "marzo" y así sucesivamente considerando cada nudillo e instersticio hasta llegar al nudillo del meñique que representa a julio, una vez aquí vuelva a llevar su índice al nudillo del dedo índice del puño que ahora indicará el mes de agosto y siga la cuenta nuevamente hasta el nudillo anular que será diciembre. Cada mes caído en nudillo es de 31 días y cada mes caído en instersticio es de 30 días a excepción de febrero.
+
+
+== Origen de la Era CristianaEditar ==
+Los romanos contaban los años desde la fundación de Roma, es decir, ab urbe condita, abreviadamente a.u.c.
+En la era cristiana, con el papa Bonifacio IV en 607, el origen de la escala pasó a ser el nacimiento de Cristo. Un monje rumano, Dionisio el Exiguo, matemático, basándose en la Biblia y otras fuentes históricas, entre los años 526 y 530, había fechado el nacimiento de Cristo el día 25 de diciembre del año 753 a.u.c. Dicho año pasó a ser el año 1 A. D., Anno Domini, año 1 del Señor, pero los años anteriores a este seguían siendo años a.u.c. Finalmente en el siglo XVII se nombran los años anteriores al 1 A. D. como

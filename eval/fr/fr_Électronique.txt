@@ -1,0 +1,41 @@
+parfois sensibles aux particules du rayonnement cosmique. L'étude de cette sensibilité et des moyens à mettre en œuvre afin de garantir le bon fonctionnement du système complet, notamment dans le cas de fonctions estimées critiques, est intégrée dans les activités du concepteur électronicien.
+
+
+=== Méthodes de conception ===
+L'électronique moderne est basée exclusivement sur un certain nombre d'outils logiciels de conception : on parle de Conception Assistée par Ordinateur. Il inclut la saisie de schémas, le placement/routage, la modélisation. La conception de circuits intégrés complexes comprend des étapes intermédiaires, telles que la synthèse logique ou l'analyse des délais. Les composants électroniques programmables (microprocesseur, FPGA, DSP) déplacent davantage encore la conception dans le domaine informatique : ils apportent la flexibilité et la baisse des coûts.
+
+
+=== Méthodes de fabrication ===
+La fabrication de circuits électroniques s'est extrêmement diversifiée depuis les années 1980. Alors que la fabrication de prototypes peut toujours se faire de manière artisanale, la production de grande à très grande série dans des usines de plus en plus complexes et coûteuses, permet d'obtenir une technologie toujours plus performante à des prix raisonnables. Alors que l'industrie de la micro-électronique demande des investissements de plus en plus importants pour suivre les évolutions techniques, les industries de technique standard sur circuit imprimé cherchent à améliorer leur rendement (robots de fabrication/assemblage/test, GPAO, délocalisations).
+
+
+=== Méthodes de test ===
+Le test d'un circuit électronique est une étape importante, car il s'agit souvent de systèmes complexes dont on ne peut garantir la fiabilité et les performances, même après de nombreuses simulations. On distingue les tests unitaires, pour la mise au point de prototypes, et les tests en série, plus ou moins automatisés, destinés à repérer les défauts de fabrication et/ou d'assemblage. De nombreux outils existent pour faciliter cette étape importante : appareillage de mesure (multimètre, oscilloscope, analyseur de fréquence, etc.), standards pour la mesure automatisée (JTAG, GPIB), systèmes automatisés (planche à clous, testeur à sonde mobile, banc de test spécifique).
+
+
+== Électronique et développement durable ==
+
+L'industrie électronique est une industrie qui, comme les autres, produit une quantité de plus en plus importante de déchets comprenant de nombreux éléments précieux et/ou toxiques (contact recouverts d'or, pistes en cuivre, brasures contenant du plomb, etc.). Il existe une directive européenne sur les déchets électroniques qui a été traduit dans le droit français en 2014. En France, les équipements électroniques peuvent être rapportés en fin de vie aux enseignes qui les vendent} . La loi Grenelle II ajoute en 2010 que quand ils sont vendus sous la seule marque d'un revendeur, ce dernier doit « pourvoir ou contribuer à la collecte, à l'enlèvement et au traitement des déchets d'équipements électriques et électroniques en substitution de la personne qui fabrique, importe ou introduit sur le marché national ces équipements (...) quelle que soit la technique de vente utilisée, notamment la vente à distance et le commerce électronique ».
+D'autre part, l'électronique entre dans une bonne part des équipements informatiques (ordinateurs, réseaux) très consommateurs d'énergie électrique, et donc indirectement émetteur de gaz à effet de serre, ou générateur de déchets (éventuellement radioactifs). Les industriels cherchent à réduire la consommation de certains appareils électriques. Mais ceux-ci nécessitent très souvent un temps de démarrage ou d'initialisation important (surtout vrai pour les ordinateurs), ce qui encourage les utilisateurs à les laisser allumés en permanence, d'où un gaspillage important d'énergie. Des solutions commencent à poindre ; Une écoconception "intelligente" permet par exemple de détecter l'inactivité de l'appareil et de le désactiver pour réduire sa consommation (on parle alors de mode "veille" ou "veille profonde"). Pour le confort d'utilisation, il faut que la sortie du mode de veille soit rapide.
+Les enjeux de consommation électrique sont particulièrement mis en valeur par :
+la multiplication du nombre d'appareils électriques et électroniques équipant chaque foyer, bureau, véhicule, etc.
+la présence dans les salons d'appareils multi-usages (une console de jeux permet de jouer sur sa télévision, de naviguer sur Internet, de regarder des DVD, etc.) ce qui incite à les laisser constamment allumés,
+la vulnérabilité des réseaux de distribution d'électricité (blackout aux États-Unis ou coupures d'électricité régulières en Provence[réf. nécessaire])
+la prise de conscience du dérèglement climatique. Ainsi, les économies d'énergie sont ramenées à un équivalent-tonnes de CO2 virtuellement non rejetées dans l'atmosphère.
+Les appareils électroniques étant presque tous des biens de consommation à courte durée de vie, ils sont renouvelés de plus en plus fréquemment. Les améliorations apportées par les fabricants trouvent donc une application rapide. Face à des produits électroniques concurrents aux fonctionnalités similaires, la consommation électrique réduite d'un appareil peut devenir un argument commercial de vente. Le "greenwashing" ou Écoblanchiment est une pratique qui consiste à inonder le consommateur d'arguments environnementaux pas toujours justifiés et qui lui font perdre ses repères.
+Les distributeurs de composants électroniques proposent désormais des composants sans plomb, répondant aux normes "RoHS".
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+
+
+=== Liens externes ===
+
+ Portail de l’électricité et de l’électronique
+ Portail de la physique

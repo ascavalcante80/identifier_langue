@@ -1,0 +1,142 @@
+Un servidor web o servidor HTTP es un programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales y/o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente. El código recibido por el cliente suele ser compilado y ejecutado por un navegador web. Para la transmisión de todos estos datos suele utilizarse algún protocolo. Generalmente se usa el protocolo HTTP para estas comunicaciones, perteneciente a la capa de aplicación del modelo OSI. El término también se emplea para referirse al ordenador que ejecuta el programa.
+
+
+== ArquitecturaEditar ==
+
+
+=== Petición GETEditar ===
+Un servidor web opera mediante el protocolo HTTP, de la capa de aplicación del Modelo OSI. Al protocolo HTTP se le asigna habitualmente el puerto TCP 80. Las peticiones al servidor suelen realizarse mediante HTTP utilizando el método de petición GET, en el que el recurso se solicita a través de la url al servidor Web.GET /index.html HTTP/1.1 HOST: www.host.com
+En la barra de URL de un navegador cualquiera, la petición anterior sería análoga a la siguiente dirección Web:
+www.host.com/index.html
+
+
+==== Esquema de una petición GETEditar ====
+
+
+===== Petición WebEditar =====
+
+El navegador, por medio de la interfaz de usuario, permite al usuario realizar una o varias peticiones Web. La interfaz de usuario o entorno de usuario es el conjunto de elementos del navegador que permiten realizar la petición de forma activa. Una petición Web no sólo puede ser realizada mediante un navegador, sino con cualquier herramienta habilitada para tal fin, como una consola de comandos Telnet.
+Elementos del entorno de usuario más comunes en navegadores Web visuales:
+
+
+===== 1.1 Socket a dirección DNSEditar =====
+Se produce una socket con un servidor dado en dirección IP mediante TCP. Por lo general las direcciones que el navegador posee inicialmente son direcciones DNS (direcciones alfanuméricas) que deberá convertir a direcciones numéricas.
+
+
+===== 1.2 Resolución de DNS a IPEditar =====
+Si la dirección dada es DNS y no existe una regla en la base de datos DNS, el Host Resolver Request solicita al servidor DNS la o las direcciones IPs correspondientes. El navegador crea una nueva regla y almacena la dirección IP junto a la dirección DNS en su base de datos de reglas DNS.
+
+
+===== 1.3 Recuperación de la regla DNSEditar =====
+Una vez almacenada la regla, se realiza una petición a la base de datos DNS para recuperar los valores de la regla.
+
+
+===== 1.4 Socket a dirección IPEditar =====
+Se produce una socket con la dirección IP mediante TCP. La dirección IP puede haberse recuperado en el paso anterior.
+
+SOCKET 192.168.0.1
+
+
+===== 1.5 Preparación de la peticiónEditar =====
+Se crea la petición GET estableciendo la url, un flag, la priority de la petición y el method (implícitamente GET).
+
+
+===== 1.6 Apertura CachéEditar =====
+Se abre y/o se crea una entrada en el http cache.
+
+
+===== 1.7 Efectuación de la peticiónEditar =====
+Se realiza la petición GET. Se leen las cabeceras HTTP de la http transaction y más tarde el cuerpo de la http transaction.
+
+GET /index.html HTTP/1.1
+
+
+===== 1.8 Consulta en CachéEditar =====
+Se consulta en el caché de disco si existe una entrada en el caché asociada al recurso que se ha solicitado. Los valores son created (true o false) y key (la url del recurso).
+
+
+===== 1.9 Respuesta boleana de la existencia del recurso solicitadoEditar =====
+Si la entrada no existe (si el valor de created es false) se escriben los datos en el caché de disco. Si no, se lee directamente.
+
+
+===== 2.0 Presentación visual del recursoEditar =====
+Se concluye l operación y se muestra en pantalla (si es preciso) la información.
+
+
+==== Petición GET pasivaEditar ====
+Javascript permite realizar modificaciones en el estado del navegador. El estado del navegador viene definido por el array de objetos location del objeto global Window. Se referencia a tal objeto con window.location. En concreto window.location.href contiene la dirección actual del navegador Web.
+Si una parte del script ejecuta tal sentencia:
+window.location.href='http://wikipedia.org';
+El navegador hará tal petición Web sin que el usuario haya mediado en tal circunstancia o sus efectos. Del mismo modo se producirá una nueva petición GET si se altera el valor de window.location.search o window.location.protocol.
+
+
+==== Procedimiento del navegadorEditar ====
+La tarea del navegador Web es crear la petición a partir de los datos recogidos en el entorno de usuario de elementos del mismo, como enlaces, el valor del texto de la barra de búsqueda, los metatags.
+Al pulsar en el enlace, el navegador crea automáticamente la petición GET y las cabeceras de la petición sobre la base de los metatags (cabeceras definidas), los cookies y cabeceras automáticas del navegador, para luego enviarlas junto a la petición al Servidor.
+
+
+=== Petición POSTEditar ===
+Es el segundo tipo de petición HTTP más utilizado. Los datos a enviar al servidor se incluyen en el cuerpo de la misma petición con las cabeceras HTTP asignadas correspondientemente respecto al tipo de petición. Generalmente se asocia con los formularios web en los que los datos suelen ser cifrados para enviarlos de manera segura al servidor.
+Por motivos de convención se incluye en la petición la cabecera application/x-www-form-urlencoded, que indica el formato o codificación de los datos a enviar; esta es variable->valor en el formato: variable=valor separada cada par variable->valor por &. Esta cabecera, en los formularios HTML se envía automáticamente, pero en otras tecnologías web tal como AJAX, si se desea hacer correctamente una petición POST, debe ser especificado o instanciado el objeto: setRequestHeader("Content-type:application/x-www-form-urlencode"); ajax.send(data);
+Si se utilizase el método GET los datos deberían de ser añadidos a la URL, lo que los expondría a ser vistos de forma directa.
+
+
+==== Estructura de una petición POSTEditar ====
+
+
+==== Composición de una petición POSTEditar ====
+Las cabeceras más comunes que se envían en una petición POST:
+Petition type: Especifica el tipo de petición HTTP. (Esta cabecera no tiene nombre, se envía tal cual)
+Referer: Especifica la url desde la cual se hizo la petición POST.
+Content-Length: Especifica la longitud en bytes de los datos enviados en el cuerpo de la petición.
+Origin: Especifica la url principal del sitio.[cita requerida]
+User-Agent:Especifica el identificador del navegador Web desde el cual se hizo la petición.
+Content-Type: Especifica el formato o MIME de los datos enviados en el cuerpo de la petición.
+Accept: Especifica el MIME que se espera en la respuesta.
+Accept-Language: Especifica el código del lenguaje esperado en la respuesta.
+Accept-Charset: Especifica la codificación que se espera en la respuesta.
+Cookie: Especifica un identificador de sesión en la petición derivado de un cookie.
+Accept-Encoding: Especifica el tipo de codificación (generalmente compresión) que se espera de la respuesta. (No todos los navegadores envían esta cabecera)
+
+
+=== Estructura de una respuesta POSTEditar ===
+
+
+==== Codificación del mensaje del cuerpo de la peticiónEditar ====
+Los datos que se envían en el cuerpo de la petición POST deben tener algún formato que permita manipularlos en un futuro procesamiento. Por ello la petición debe tener asignada la cabecera Content-Type cuyo valor será la codificación de los datos. De este modo el sistema podrá diferenciar entre variables aisladas, datos binarios, texto plano, o cualquier otro tipo de formato. El formato de una cadena de datos se denomina MIME y es el valor que deberá ser incluido en esta cabecera.
+En HTML la cabecera Content-Type se especifica automáticamente y su valor es application/x-www-form-urlencoded, no obstante pueden especificarse por estándar otros dos valores: multipart/form-data y text/plain utilizando el atributo enctype del elemento form de la siguiente manera
+O cualquier otro valor MIME. El multipart/form-data se utiliza para enviar grandes cadenas binarias que suponen cualquier otro tipo de documento que no sea texto plano, como imágenes, vídeos o ejecutables. Para varios valores, separar por comas.
+El application/x-www-form-urlencoded codifica de forma automática los valores de todos los elementos del formulario del modo variable=valor, separados por &. El atributo name de un input suele ser el nombre de la variable y su value el valor. Los espacios se reemplazan por + y los caracteres no alfanuméricos por $HH donde HH representa el número hexadecimal del carácter ASCII.
+que representado de otra forma es:
+
+
+==== Procedimiento del navegadorEditar ====
+El navegador recopila la información del formulario para crear la petición y enviarla. Las cabeceras las envía junto a la petición POST, y se recopilan sobre la base de los metatags definidos en el código, los automáticos del navegador y los Cookies. Es el navegador, también, el que codifica los datos si es necesario. [cita requerida]
+
+
+== FuncionamientoEditar ==
+
+El Servidor web se ejecuta en un ordenador manteniéndose a la espera de peticiones por parte de un cliente (un navegador web) y que responde a estas peticiones adecuadamente, mediante una página web que se exhibirá en el navegador o mostrando el respectivo mensaje si se detectó algún error. A modo de ejemplo, al teclear www.wikipedia.org en nuestro navegador, éste realiza una petición HTTP al servidor de dicha dirección. El servidor responde al cliente enviando el código HTML de la página; el cliente, una vez recibido el código, lo interpreta y lo exhibe en pantalla. Como vemos con este ejemplo, el cliente es el encargado de interpretar el código HTML, es decir, de mostrar las fuentes, los colores y la disposición de los textos y objetos de la página; el servidor tan sólo se limita a transferir el código de la página sin llevar a cabo ninguna interpretación de la misma.
+Además de la transferencia de código HTML, los Servidores web pueden entregar aplicaciones web. Éstas son porciones de código que se ejecutan cuando se realizan ciertas peticiones o respuestas HTTP. Hay que distinguir entre:
+Aplicaciones en el lado del cliente: el cliente web es el encargado de ejecutarlas en la máquina del usuario. Son las aplicaciones tipo Java "applets" o Javascript: el servidor proporciona el código de las aplicaciones al cliente y éste, mediante el navegador, las ejecuta. Es necesario, por tanto, que el cliente disponga de un navegador con capacidad para ejecutar aplicaciones (también llamadas scripts). Comúnmente, los navegadores permiten ejecutar aplicaciones escritas en lenguaje javascript y java, aunque pueden añadirse más lenguajes mediante el uso de plugins.
+Aplicaciones en el lado del servidor: el servidor web ejecuta la aplicación; ésta, una vez ejecutada, genera cierto código HTML; el servidor toma este código recién creado y lo envía al cliente por medio del protocolo HTTP.
+Las aplicaciones de servidor muchas veces suelen ser la mejor opción para realizar aplicaciones web. La razón es que, al ejecutarse ésta en el servidor y no en la máquina del cliente, éste no necesita ninguna capacidad añadida, como sí ocurre en el caso de querer ejecutar aplicaciones javascript o java. Así pues, cualquier cliente dotado de un navegador web básico puede utilizar este tipo de aplicaciones.
+El hecho de que HTTP y HTML estén íntimamente ligados no debe dar lugar a confundir ambos términos. HTML es un lenguaje de marcas y HTTP es un "protocolo".
+
+
+== Aplicación del lado del ServidorEditar ==
+Una aplicación del lado del servidor es cualquier programa o conjunto de instrucciones diseñadas con la finalidad de que un Servidor Web las procese para realizar alguna acción. Las aplicaciones del lado del servidor están escritas mediante algún lenguaje de programación, entre los que destacan:
+El 75% de las aplicaciones del lado del servidor están escritas en PHP, seguido de ASP y las demás opciones usadas de forma alternativa y muy casual.
+
+
+=== Procesamiento del lado del servidorEditar ===
+Un servidor web tiene la función de procesar los scripts del lado del servidor para dar una salida en HTML y otros lenguajes del lado del cliente al Navegador Web del cliente. La información a procesar podrá ser cedida por el cliente al script mediante cualquier aplicación en el entorno del Navegador. Para ello pueden utilizarse formularios web, enlaces con los valores implícitos en la cadena o cualquier otro método.
+
+
+==== Procesamiento de PHPEditar ====
+
+En PHP existen variables Globales que representan variables y datos de la conexiones que establece el Servidor con el cliente.
+
+
+===== Método GETEditar =====
+Contiene todas las variables

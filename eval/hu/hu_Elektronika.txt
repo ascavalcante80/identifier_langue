@@ -1,0 +1,61 @@
+erő
+Tápegység
+Impedanciaillesztő
+Műveleti erősítő
+Komparátor
+
+
+== Digitális áramkörök ==
+Számítógépekben, elektronikus órákban, programozható logikai áramkörökben, ipari vezérlőkben használt kapcsolások.
+Multiplexer
+Demultiplexer
+Multivibrátor
+Logikai kapu
+Mikrokontroller
+Mikroprocesszor
+Regiszter
+Számláló
+Schmitt-trigger
+
+
+== Zaj ==
+Elektronikus eszközökben előforduló zaj effektusok:
+Fehérzaj
+Rózsaszín zaj
+Termikus zaj (Johnson-Nyquist zaj)
+Sörét zaj
+1/f zaj (villódzási zaj)
+Lavina zaj
+Négyszög zaj
+Árameloszlási zaj
+
+
+== Elektronikai elméletek ==
+Matematikai eljárások az elektronikában
+Digitális elektronika
+Analóg elektronika
+
+
+== Félvezető anyagok ==
+Germánium
+Szilícium
+Gallium-arzenid
+Szelén
+Réz-oxid (Kuprox)
+
+
+== Lásd még ==
+mechatronika
+elektronikus zene
+
+
+== További információk ==
+Csákány Antal: Elektronika
+
+
+== Elektronikával foglalkozó weboldalak ==
+I-Pont Elektro
+Elektronikai linkgyűjtemény
+Kapcsolási rajz gyűjtemény
+Studiotech szakmai könyvtár
+Elektronikai hírek

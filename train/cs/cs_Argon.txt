@@ -1,0 +1,30 @@
+Argon, chemická značka Ar, (lat. Argon) je chemický prvek patřící mezi vzácné plyny, které tvoří přibližně 1 % zemské atmosféry.
+
+
+== Základní fyzikálně-chemické vlastnosti ==
+
+Bezbarvý plyn, bez chuti a zápachu, nereaktivní, úplně inertní. Doposud se podařilo připravit pouze dvě chemické sloučeniny argonu na helsinské univerzitě v roce 2000 – HArF a ArF. V 1 litru vody se rozpustí 33,6 ml argonu (je dokonce rozpustnější než kyslík). Ještě o něco lépe se rozpouští v nepolárních organických rozpouštědlech. Argon lze adsorbovat na aktivním uhlí.
+Argon se stejně jako ostatní vzácné plyny snadno ionizuje, a v ionizovaném stavu září. Toho se využívá v osvětlovací technice. Argon září při větší koncentraci červeně, při nižších přechází přes fialovou a modrou až k bílé barvě.
+
+
+== Historický vývoj ==
+Henry Cavendish a Joseph Priestley předpokládal přítomnost argonu ve vzduchu již v roce 1785, když se jim podařilo ze vzduchu odstranit kyslík reakcí s rozžhavenou mědí, oxid uhličitý rozpuštěním ve vodě a dusík odstranili působením elektrických výbojů na jeho směs s kyslíkem, při čemž vznikají oxidy dusíku a ty se rozpouští ve vodě za vzniku kyseliny dusičné. Plyn, který v nádobě zůstal, je atmosférický argon, který obsahuje pouze další vzácné plyny.
+Objev argonu je oficiálně připisován lordu Rayleighovi a Williamu Ramsayovi roku 1894, kteří prvek objevili stejným způsobem jako Henry Cavendish a Joseph Priestley a pomocí zkoumání spektrálních čar došli k názoru, že se jedná o nový prvek a pojmenovali ho podle jeho netečnosti argon – líný.
+
+
+== Výskyt a získávání ==
+Argon je hojně zastoupen v zemské atmosféře. Tvoří přibližně její 1 % (ve 100 l vzduchu je 934 ml argonu) je proto poměrně snadno získáván frakční destilací zkapalněného vzduchu. Atmosférický argon lze získat způsobem popsaným v historickém vývoji nebo frakční adsorpcí na aktivní uhlí při teplotě kapalného vzduchu.
+
+
+== Využití ==
+
+Inertních vlastností argonu se využívá především při svařování kovů, kde tvoří ochrannou atmosféru kolem roztaveného kovu a zabraňuje vzniku oxidů a nitridů a tím zhoršování mechanických vlastností svaru.
+V metalurgii se ochranná atmosféra argonu nasazuje při tavení slitin hliníku, titanu, mědi, platinových kovů a dalších.
+Růst krystalů superčistého křemíku a germania pro výrobu polovodičových součástek pro výpočetní techniku se uskutečňuje v atmosféře velmi čistého argonu.
+Argon se ve směsi s dusíkem používá jako ochranná atmosféra žárovek a jako prostředí pro uchovávání potravin. V této směsi se také používá k plnění sáčků (například brambůrek), které jsou takto ochráněny před zvlhnutím a před rozmačkáním.
+Čistého argonu se používá ve výbojkách, elektrických obloucích a doutnavých trubicích, kde podle koncentrace dokáže vytvořit červenou, fialovou, modrou a bílou barvu.
+Výrazný přínos pro analytickou chemii znamenal objev a technické zvládnutí práce s dlouhodobě udržitelným plazmatem, indukčně vázaným plazmatem, označovaným obvykle zkratkou ICP. Jako nejvhodnější médium pro přípravu tohoto plazmatu se ukázal právě čistý argon. Proudící plyn o průtoku 10 – 20 l/min je přitom ve speciálním hořáku buzen vysokofrekvenčním proudem o frekvenci řádově desítek MHz a příkonu 0,5 – 2 kWh. Tímto způsobem je možno udržet argonové plazma o teplotě 6 – 8000 K po téměř neomezenou dobu. V současné době se toto medium uplatňuje ve dvou analytických technikách:
+
+ICP-OES neboli optická emisní spektrometrie s indukčně vázaným plazmatem, která vychází ze skutečnosti, že při teplotě nad 6 000 K je vybuzena velká většina emisních čar ve spektrech prvků. Analyzovaný roztok je dávkován do plazmatu, kde se okamžitě odpaří a dojde k disociaci všech chemických vazeb. Kvalitním monochromátorem jsou pak monitorovány úseky emisního spektra, ve kterých se nacházejí emisní linie analyzovaných prvků. Změřená intenzita emitovaného záření o vlnové délce emisní line je úměrná koncentraci měřeného prvku v roztoku.
+
+ICP-MS neboli hmotnostní spektrometrie s indukčně vázaným plazmatem, kde se využívá faktu, že většina atomů, které se plazmatu

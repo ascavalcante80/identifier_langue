@@ -1,0 +1,18 @@
+Die Liste länderspezifischer Top-Level-Domains (engl. country code top level domains, Abkürzung ccTLDs) listet über 200 ccTLDs, wobei jedem Land genau ein Zwei-Buchstaben-Code (ALPHA-2) nach ISO 3166 zugeordnet ist. Daneben gibt es häufig noch eigene ccTLDs für abhängige Gebiete, die meist geographisch vom Mutterland getrennt sind.
+Die Liste aller Top-Level-Domains wird von der Internet Assigned Numbers Authority (IANA) verwaltet.
+
+
+== Länderspezifische Top-Level-DomainsBearbeiten ==
+Diese Liste enthält länderspezifische Top-Level-Domains mit zweibuchstabigem Code aus ISO 3166. Internationalisierte Top-Level-Domains sind nicht enthalten. Nicht alle Top-Level-Domains sind einer Vergabestelle zugeordnet oder werden genutzt, das Buchstabenkürzel ist jedoch für eine Verwendung durch die angegebene Gebietskörperschaft reserviert.
+
+
+== Internationalisierte Top-Level-DomainsBearbeiten ==
+In der folgenden Liste sind länderspezifische, internationalisierte Top-Level-Domains enthalten.
+Neben den länderspezifischen Top-Level-Domains gibt es übergangsweise eine Reihe von Test-Domains zum Testen von internationalisierten Namen in der Root-Zone. Die Namen bedeuten „Test“ in der jeweiligen verwendeten Sprache.
+
+
+== Historische Top-Level-DomainsBearbeiten ==
+Die folgende Liste enthält historische Top-Level-Domains, deren Kürzel nicht länger für die angegebene Gebietskörperschaft vorgesehen ist.
+
+
+== Weblink

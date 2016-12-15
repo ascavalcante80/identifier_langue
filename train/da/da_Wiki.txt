@@ -1,0 +1,24 @@
+En wiki er et websted hvor enhver ved hjælp af en browser kan oprette, vedligeholde og forfatte webdokumenter og websider i samarbejde med andre. En wiki er en moderne teknologi (web 2.0), som muliggør, at mange brugere i fællesskab opbygger indhold/viden. En wiki sætter grupper i stand til at organisere og dele indhold og viden på en organisk og fri måde. En wiki bruger typisk et simpelt opmærkningssprog til at formatere teksten med. Nogle wikier tilbyder dog WYSIWYG funktionalitet, så en bruger ikke behøver sætte sig ind i det anvendte opmærkningssprog før wikien kan anvendes.
+Indtastede ændringer og tilføjelser er for nogen wikiers vedkommende umiddelbart tilgængelige uden at indholdet bliver gennemlæst af andre, dvs. også uden at ændringerne er blevet explicit accepteret eller godkendt først. Den resulterende samling af hypertekstdokumenter, også kaldet enten "wiki" eller "WikiWikiWeb", er typisk produceret af adskillige brugere.
+Mange wikier kan med det samme genkendes på deres brug af WikiOrd (eller CamelCase). Disse produceres ved at bruge stort startbogstav for hvert ord og fjerne mellemrummene mellem ordene; dette medfører, at frasen automatisk laves til et link (Wikipedia bruger ikke længere CamelCase). Ellers kan der være en knap eller en tekst, der hedder edit (redigér), som tillader at redigere i siden med det samme, og uden at man skal søge om lov.
+Wiki er kort form af wiki wiki der betyder "hurtig" på hawaiiansk og udtales "viki" på dansk.
+
+
+== Historie ==
+Den orignale WikiWikiWeb blev skabt af Ward Cunningham i 1995. Han opfandt og navngav Wiki konceptet, og skabte den første version af en WikiWiki server med anvendelse af Perl-programmeringssproget. Enkelte er af den opfattelse at alene Ward's wiki bør kaldes Wiki (med stort W) eller WikiWikiWeb[Kilde mangler].
+
+
+== Wiki-vandalisme ==
+Den åbne filosofi bag mange wiki'er, det, at alle må redigere og gemme sider, forhindrer ikke folk i at ødelægge eller modificere sider til noget direkte forkert. Når folk ødelægger sider, kaldes det for wiki-vandalisme. Studier fra IBM viser, at sider udsat for wiki-vandalisme har en levetid på ca. 5 min. (de 5 min. gælder kun i den engelske udgave af Wikipedia), før den tidligere version bliver genoprettet af en anden bruger. Undersøgelserne viser ydermere at 97 % af vandalismen foretages af anonyme brugere. [Kilde mangler]
+
+
+== Wiki-software ==
+Der er mange forskellige programmer, der frit kan anvendes til at styre en wiki. Det mest udbredte for øjeblikket er nok MediaWiki der blandt andet anvendes til Wikipedia. I firmaerne er TWiki det mest udbredte program[Kilde mangler].
+
+
+== Wiki i undervisning ==
+Udbredelsen af wikier har åbnet for muligheden for brugen af denne i læringskontekst. Wikien kan bruges i undervisningen af såvel studerende som undervisere, som alle har mulighed for at oprette og redigere i artikler og sammen udbygge en fælles vidensdatabase. Wikien kan bruges som et opslagsværk af nuværende og kommende studerende, og styrker samtidig de studerendes kommunikationsevner og brug af it.
+Underviseren kan vælge om vedkommende vil anvende Wikipedia til e-læring, hvilket vil betyde at wikiredigeringer vil være synlige for alle, eller om man hellere skal anvende en wiki fra et lukket e-læringssystem som fx Blackboard Learning System.Hvis formålet er at opbygge en vidensdatabase blandt de studerende, vil sidstnævnte løsning være at foretrække.
+
+
+=== E-læring i virksomheder 

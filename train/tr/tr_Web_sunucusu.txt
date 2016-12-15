@@ -1,0 +1,68 @@
+Web sunucusu, Hosting ya da "barındırma" işlemini İnternet protokolü üzerinden sunan bir sunucudur. Barındırma ya da hosting, Web sayfalarını İnternet'te yayınlamak için gerekli alanın kiralanmasıdır. Diğer bir ifade ile hosting, bir Web sitesinde yayınlanmak istenen sayfaların, resimlerin veya dokümanların İnternet kullanıcıları tarafından erişebileceği bir bilgisayarda tutulmasıdır.
+Bir Web sitesi kurmak için dosyaların saklanacağı bilgisayar bir ev bilgisayarı olmamalıdır, çünkü gerekli program ve donanımı olsa bile İnternet bağlantısının veri yükleme hızı (upload) bu iş için genelde yetersizdir.
+İnternet'te site yayınlamak için özel olarak üretilmiş, İnternet'e hızlı bağlantısı olan, yüzlerce kullanıcıya aynı anda hizmet verebilecek bir bilgisayarda (server, yani sunucu) dosyaların saklanması gerekir. Web siteye ait dosyalar için depo vazifesi gören ve İnternet kullanıcılarının erişimine sunan bilgisayarlara Web sunucusu (web server), bu veri saklama ve yayınlama işlemine de Web hosting denir.
+
+
+== Hosting işlemlerinde dikkat edilecek noktalarDeğiştir ==
+Hosting kiralama ya da satın alma öncesinde bâzı konular önem taşır. Aşağıdaki özellikler, ihtiyaçlar da gözetilerek değerlendirilmelidir.
+
+
+=== Web sunucusu üzerinde çalışan işletim sistemleri (platform) ve donanımlar (hardware)Değiştir ===
+"Platform" sunucu üzerinde kullanılan Linux, MacOS, Microsoft Windows, UNIX gibi işletim sistemleri için kullanılan bir terimdir. En basit anlamda, sunucu üzerinde çalışan ve donanım ile diğer tüm servislerin yönetimini sağlayan işletim sistemidir. Sitede ihtiyaç olan yazılımlara göre kullanılmasını gerekkiren işletim sistemi de değişecektir. Sitede sadece HTML dosyaları kullanılacaksa Windows veya Unix sistemleri fazla bir fark taşımaz.
+Günümüzde Windows ve yeni bir UNIX formu olan Linux platformları en çok kullanılan server sistemleridir.
+Eğer sitede ASP, FrontPage, MS SQL, Access veya başka Microsoft ürünleri kullanmak isteniyorsa, Windows tabanlı hosting kullanılmalıdır.
+Eğer sitede PHP, MySql, CGI veya Perl kullanmak isteniyorsa UNIX hostlar daha çok tercih edilmektedir. UNIX sistemi Windows sistemine göre genellikle daha ucuz ve stabildir. Güvenlik açısından UNIX, kullanım ve kurma kolaylığı açısından Windows tercih edilir.
+Sunucunun sahip olduğu donanım da oldukça önemlidir. İşlemci, disk, hafıza, ağ kartı gibi ayrıntıları gözeterek, mümkün olan en uyumlu ve hızlı donanımı hedeflenmelidir. Eğer güvenliğe önem veriliyorsa Firewall, yani siteye yapılacak saldırıları önlemeye yarayan donanımı da tercih edilmelidir.
+
+
+=== Sunucunun türüDeğiştir ===
+
+
+==== Dedicated HostingDeğiştir ====
+Dedicated Hosting nedir: Bir sunucunun tümüyle bir kişi tarafından kiralanmasına "dedicated hosting" denir. Genelde hosting için bir sunucuyu tümüyle kiralamak gerekmez, sunucunun bir bölümü bu site için yeterlidir. Ancak bâzı siteler performans gereksinimleri ve ziyaretçi yoğunluğu gibi nedenlerle bir serverin bir bölümü ile yetinemezler ve bir sunucu hatta birkaç sunucu üzerinde barındırılırlar. Mesela mail, dosya, arama motorları veya sayaç siteleri performansları için, müzik siteleri ise kullandıkları band genişliği için tek bir sunucuda barındırılırlar.
+Dedicated hosting paketleri diğer hosting paketlerinden çok daha pahalıdır. Ayrıca fiyat konusu sadece sunucunun kendisi ile ilgili değil, sunucun kiralandığı şirket tarafından verilen hizmet ile bağlantılı olarak da değişir. Örneğin managed dedicated serverler, daha pahalıdır.
+Dedicated Hosting hizmetinin "managed" olması, sunucunun kiralayan hosting şirketi tarafından yönetilip yönetilmediğidir. Eğer sunucu hosting şirketi tarafından yönetiliyor ise buna Managed Dedicated Server denir. Bu sunucuların alttaki özelliklere sahip olması tercih edilmelidir:
+Sunucunun bakımı, işletim sisteminin güncellenmesi yapılması
+Sunucu üzerinde bulunun dosya ve veri tabanının (database) belli aralıklarla yedeklenmesi
+Sorun çıktığı anlarda yardımcı olacak teknik ekip ya da destek hattı olması
+Sunucu üzerinde programların sayısının çok, özelliklerinin gelişkin olması (istatistik, antivirüs, mail vb).
+Eğer teknik bilgi bir sunucuyu dışardan yönetmeye, sorun yaşandığında veya çöktüğünde onu kurtarmak için yeterli işlemleri yapmaya yeterli değilse managed bir server almak daha iyi bir seçim olacaktır. Ayırıca bulut platformu sistemleri üzerinden de sunucu servisi almak mümkündür. Ancak bu hizmetlerin ABD'de bulunması hâlinde NSA ve muhtemelen başka istihbarat kuruluşlarının mahkeme kararı olmaksızın bilgileri inceleyebileceği düşünülmelidir.
+
+
+==== Co-location hostingDeğiştir ====
+Co-location Hosting nedir? Bir Web sunucusunu yüksek hızda İnternet erişimi, güvenlik, yedekleme ve teknik destek gibi hizmetleri sağlayabilecek bir Network Operasyon Merkezi'nde barındırmaktır. Yani sunucu İnternet bağlantısının sürekli olduğu, elektrik kesintilerine uğramayacağı ve soğutma hizmetinin verildiği özel odalarda barındırmak üzere hazırlanmış özel yerlerde tutma işlemidir. Bu özel merkezlerde barındırmak ücretlidir. İşletim sistemi, donanımı ve tüm diğer ayrıntıları kontrol etmek tamamiyle sunucu sahibinin yükümlülüğündedir. Genelde co-location sunucuya erişim İnternet üzerinden bir kontrol paneli sayesinde sağlanır.
+
+
+==== Sanal barındırma hizmetiDeğiştir ====
+Sanal barındırma hizmeti (İng. Virtual Hosting: Bir Web sunucusunun sahip olduğu kaynaklarının paylaştırılarak bünyesinde birden çok sunucu oluşturulması; alan, hafıza ve bağlantının bölümlere ayrılarak, her bölümün birbirinden bağımsız çalışmasına sanal barındırma hizmeti denir. Bu hizmet, az sayıda kişinin kullanımına açılmış ve kullanıcılara tekil sunuculardaki yetkiler (root erişim) verimiş olmalıdır. Böylelikle kullanıcı sunucu üzerinde çok daha fazla kontrol imkânına sahiptir.
+
+
+==== Shared Hosting / Paylaşımlı barındırma hizmetiDeğiştir ====
+Shared (paylaşımlı) hosting, bir Web sunucusu üzerinde birçok kullanıcının olduğu anlamına gelir. Bu sunucularda kullanılan sunucunun fiziksel gücü ve bant genişliğine bağlı olarak yüzlerce site barındırılabilir. Aynı sunucuda hizmet alan farklı kişiler ile o sunucuyu paylaşıldığı, ortaklaşa kullanıldığı için bu hizmete paylaşımlı barındırma hizmeti denir.
+Shared Hosting, paylaşımlı bir hizmet olduğu için pekala diğer müşterilerin yaşadığı olumsuz sorunlardan etkilenmek muhtemeldir. Örneğin bir hizmetle aynı sunucu üzerinde bulunan bir Web sitesinin saldırı alması, aşırı sistem kaynaklarını tüketmesi gibi durumlarda bu hizmetin aksamasına veya performansının düşmesine sebep olabilir. Bu noktada dikkat edilmesi gereken şey, hizmet alınan firmanın profesyonel olmasıdır. Türkiye'de bu profesyonellik, TİB (Telekomünikasyon İletişim Başkanlığı) tarafından Yer Sağlayıcı Faaliyet Belgesi ile yasal olarak kontrol altına alınmak istenmiştir.
+
+
+=== Sunucunun İnternet hızıDeğiştir ===
+Siteye ait sayfaların yüklenme hızı önemli bir konudur. Her bağlantı çeşidi değişik oranlarda bilgi transferi gerçekleştirmekte ve bu birim olarak megabit/saniye (Mbps) olarak ölçülmektedir. Uluslararası İnternet omurgalarını oluşturan OC3 bağlantılarında hız 155 Mbps'dir. Bu hız 43 Mbps'lik T3 hatlarına göre üç kat daha fazladır. Karşılaştırma yapılacak olunursa bir T3 hattı, her biri 1,544 Mbps'lik kapasiteye sahip olan 30 T1 hattı kadar bilgi transfer kapasitesine, bir T1 hattı ise 54 tane 28.800 modem toplamı kadar kapasiteye sahiptir. T1 hatları genel olarak bir Web hosting sağlayıcısının ihtiyaçlarını karşılamaz. Dolayısıyla iyi firmalar yedekli T3 hatları üzerinden müşteri Web sitelerinin ihtiyaçlarını karşılarlar. Bununla birlikte hatların doluluk oranı da önemli bir faktördür. Web sitelerinde anlık hız sınırlamalarının, kesintilerin olmaması için hatların %50 doluluk oranı altında bir kapasitede bulunmaları gerekir.
+Sitenin bir ziyaretçi tarafından gezilirken yavaş olmasının iki önemli nedeni vardır:
+Bilgisayarın yeterli aksama sahip olamaması
+Hosting alınan sunucunun İnternet'e bağlanma hızı
+Sayfaların dosya olarak büyüklüğü
+Hosting aldınan sunucunun İnternet'e çıkış hızı düşük ise ya da kapasitesinin üstünde hosting hizmeti veriyorsa doğal olarak sayfaların yüklenme hızı yavaş olur. Ayrıca hız konusu sayfaların boyutu ve hazırlandıkları programlarla da ilgilidir. Çünkü bâzı siteler flash ve animasyon programları ile hazırlanır. Bu durum HTML formatta hazırlanan sitelere oranla flash kullanan sitelerin daha yavaş açılmasına neden olur.
+
+
+=== Disk alanı ve bant genişliğiDeğiştir ===
+Disk alanı: Sitenin alan boyutu (sunucunun kaç megabayt olduğu) ihtiyaçların ve servisin kalitesi ölçüsünde değişiklik gösterir. Geniş kapsamlı ve içeriği fazla bir site düşünülüyorsa siteye alınacak alanın boyutunun da büyük olması gerekir. Sitede bol resim, müzik, flash kullanmak plânlanıyorsa site alanının büyük olmasına özen gösterilmelidir. Sitede e-posta hizmeti verilecekse bu hizmetin de oldukça fazla yer anlamına geldiği unutulmamalıdır.
+Genelde kişisel sayfalar için (resim, müzik, video, e-posta hizmeti barındırmayan) 5-25 MB, küçük kurum ve kuruluşlar için 50-250 MB, büyük kurum ve servisler içinse 250 MB üzeri bir alan önerilir.
+Bant genişliği, kısaca aylık veri transfer limitdir. Gelen ziyaretçilerin istekleri ve Web sitesi üzerinde yapılan işlemler sonucunda ağ üzerinden giden ve gelen elektronik veri miktarı genelde Dedicated Hosting türü dışında sınırlıdır. Okuyucular adres satırına bir site adresi girdiklerinde tarayıcı sunucudan o sitenin ilgili sayfasını ister ve sunucu ile okuyucunun tarayıcısı arasında bir veri iletişimi olur. Web sitesinin ne kadar çok ziyaretçisi olursa o kadar çok bant genişliğine ihtiyacı vardır.
+Her ay 20.000 kişi tarafından ziyaret edilen 50 kilobyte'lık bir Web sayfası, aylık bir gigabyte'lik trafik anlamına gelir (50.000 B×20.000 hit = 1 milyar byte ∼= 1 gigabyte). Sunucuyu alınacak firmanın sunduğu aylık bant genişliği ve bunun aşılması durumunda ne olacağı konuları önceden öğrenilmelidir.
+
+
+=== Sunucunun desteklediği programlar ve genel özellikleriDeğiştir ===
+Siteye İnternet üzerinden giriş yapabilmek ve dosyaları göndermek, yönetmek için kullanılacak kontrol paneli bu başlığın en temel unsurudur. Kontrol paneli dosya, veri tabanı, alan adı, e-posta gibi konularda yönetim imkânı verir. Bu yüzden hem yeni, hem de güvenli olmalıdır.
+Sunucunun desteklediği yazılımlar, sitede yapmak istenileni doğrudan etkileyecektir. İnternet siteleri tanıtımın yanında, hazırlanan dinamik formlar sayesinde daha farklı işlevleri de (iş başvuru formları, talep formları, kredi kartı ile satış gibi) yerine getirmektedir. Bu tür formların hazırlanması programlama dilleri (ASP, CGI, JavaScript, Perl, PHP, SQL v.s.) ile yapılmaktadır. Her yazılım gibi bu yazılımların da güncellenmiş versiyonları, dolayısıyla da farklılıkları vardır. Ayrıca hazırlanacak site dili ile ilgili ayrıntıları da unutulmamalıdır.
+Hosting şirketleri genelde maliyetleri nedeniyle açık kaynak (open source) yazılımları tercih etmektedir. Sitede kullanılacak hizmetler için önceden araştırma yapıp, hangi yazılım ve versiyonlara ihtiyaç duyulacağı belirlenmeye çalışılmalıdır.
+
+
+=== Sunucu sahibi şirketin özellikleriDeğiştir ===
+Hazırlanacak Web sitesinin ihtiyaçlarını belirleyip bu iş için ayırılması düşünülen bütçeye karar verdikten sonra Web hosting firmaları arasında tercih yapmalıdır. Firma seçimi konusunda dikkat edilmesi gereken başlıca noktala

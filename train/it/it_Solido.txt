@@ -1,0 +1,32 @@
+Si definisce solido una porzione di materia che si trova in uno stato condensato caratterizzato da resistenza a deformazione e a variazioni di volume.
+La branca della fisica che si occupa dei solidi è detta fisica dello stato solido, mentre la chimica dello stato solido si concentra principalmente sulla natura e proprietà chimiche e chimico-fisiche dei solidi. Lo studio dei materiali solidi rientra nella Scienza dei materiali e nella Tecnologia dei materiali. Lo studio del comportamento meccanico del corpo solido è oggetto della meccanica dei solidi.
+
+
+== Caratteristiche dei solidi ==
+Alla scala microscopica, le particelle (atomi, molecole o ioni) che compongono un solido:
+sono fortemente stipate tra loro
+oscillano attorno a posizioni relative fisse nello spazio (moto di agitazione termica)
+reagiscono ai cambiamenti di forma e di volume con sforzi che sono funzione dell'entità della deformazione subita.
+Dal punto di vista macroscopico, il concetto di solido si identifica con il concetto di materiale solido e di corpo solido.
+Nel modello di corpo solido rientrano gran parte degli elementi strutturali più comuni (travi, piastre, membrane, ecc.) di cui la meccanica delle strutture fornisce una rappresentazione semplificata del comportamento.
+
+
+== Cristallinità dei solidi ==
+I solidi possono essere distinti in cristallini e amorfi a seconda che sia individuabile o no una struttura regolare nella disposizione delle particelle che li compongono.
+La struttura cristallina di un solido ne influenza profondamente le proprietà: per esempio, la grafite pura e il diamante sono entrambi costituiti da atomi di carbonio e differiscono tra loro solo per il reticolo cristallino, eppure tali materiali presentano valori di durezza e caratteristiche esteriori (colore e indice di rifrazione) assai differenti.
+
+
+=== Solidi cristallini ===
+
+I solidi cristallini hanno un valore del punto di fusione ben definito e spesso presentano comportamenti differenti in differenti direzioni di misurazione, cioè sono generalmente anisotropi. In presenza di un solvente molto polare (come l'acqua) danno luogo a soluzioni in cui gli ioni esistono solvatati in fase liquida. Sia tali soluzioni sia i solidi ionici fusi sono in grado di condurre la corrente elettrica, mentre allo stato solido ciò non è possibile perché gli elettroni sono implicati rigidamente nel legame ionico così come lo sono gli ioni.
+I solidi cristallini possono essere ulteriormente classificati in base alla disposizione spaziale assunta dalle particelle che li compongono, ossia al loro reticolo cristallino e all'essere formati da un singolo cristallo (monocristalli) o da più cristalli (policristalli) aggregati tra loro. I monocristalli sono sfruttati in laboratorio per la caratterizzazione dei solidi cristallini tramite metodiche quali la diffrazione dei raggi X, la spettroscopia di diffrazione elettronica e la spettroscopia fotoelettronica.
+
+
+=== Solidi amorfi ===
+
+I solidi amorfi, come conseguenza della loro struttura casuale, sono caratterizzati da maggior contenuto entropico rispetto ai solidi ionici e non hanno punto di fusione ben definito (i legami tra le particelle non hanno tutti la stessa forza) e costante nel tempo. Hanno la caratteristica di essere materiali isotropi e non sono solubili nei comuni solventi.
+Spesso i materiali amorfi sono paragonati a liquidi sottoraffreddati, aventi valori estremamente elevati di viscosità.
+
+
+=== Solidi semicristallini ===
+Un discorso a parte meritano i materiali polimerici, nei quali generalmente zone a struttura regolare (cristallina) coesistono frammiste con zone a struttura irregolare (amorfa), per cui tali m

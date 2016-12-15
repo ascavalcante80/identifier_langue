@@ -1,0 +1,23 @@
+e errata delle teorie sui principi cognitivi (si veda: The Magical Number Seven, Plus or Minus Two), poiché gli elementi di una WBS non sono dati interconnessi casualmente. La documentazione definitiva riguardo alle WBS non contengono questa raccomandazione. È molto più importante costruire un raggruppamento logico di risultati pianificati che preoccuparsi dei limiti della memoria umana a breve termine.
+In questo senso può essere utile realizzare una mappa mentale prima della WBS: essendo uno strumento di creatività aiuta a sviscerare alcuni aspetti che potrebbero rimanere reconditi con un approccio esclusivamente logico-razionale. La realizzazione potrebbe essere affidata al singolo come al gruppo di lavoro; in ogni caso è importante tenere a mente il principio secondo cui "la mappa non è il territorio", per cui... la mappa mentale potrà descrivere in modo molto parziale l'articolazione del discorso e avrà invece soprattutto lo scopo di focalizzare l'attenzione sulla preparazione delle attività. Si noti che, benché la WBS abbia uno scopo più denotativo, anche per essa vale il principio del dualismo mappa-territorio.
+Al di là della progressiva elaborazione dei dettagli, gli aggiornamenti della WBS richiede un controllo formale dei cambiamenti. Questo è un altro motivo per cui una WBS dovrebbe essere orientata alla produzione di risultati (deliverable oriented) e non alle prescrizioni di metodi: i metodi possono cambiare rapidamente, e lo fanno, ma le modifiche nei risultati pianificati richiedono un maggiore grado di formalità. Se i risultati e le azioni si confondono a vicenda, il controllo dei cambiamenti può essere troppo rigido per le azioni e troppo informale per i risultati.
+
+
+== Note ==
+^ Così in Nepi A., Introduzione al Project Management. Che cos'è, come si applica, tecniche e metodologie, Guerini e Associati, terza edizione ampliata, 2006, p. 121. Sul concetto di Work Breakdown Structure cfr. ibidem, p. 122-128.
+^ FS = finish-to-start, SS = start-to-start, SF = start-to-finish, FF = finish-to-finish, SSL = start-to-start with lag, FSL = finish-to-start with lead
+^ MSO = must-start-on, MFO = must-finish-on, SNET = start-no-earlier-than, FNET = finish-no-earlier-than, SNLT = start-no-later-than, FNLT = finish-no-later-than. Tali vincoli temporali sono classificati come rigidi (MSO, MFO) o semi-rigidi (SNET, FNET, SNLT, FNLT) in contrapposizione ai vincoli totalmente flessibili ASAP = as-soon-as-possible e ALAP = as-late-as-possible
+
+
+== Voci correlate ==
+Progetto
+Project management
+PERT/CPM
+Diagramma di Gantt
+Deliverable
+Mappe mentali
+
+
+== Altri progetti ==
+
+ Wikimedia Commons contiene immagini o altri file su Work Breakdown Structure

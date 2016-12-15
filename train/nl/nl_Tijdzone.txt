@@ -1,0 +1,50 @@
+Een tijdzone is een gebied op aarde met gelijke (standaard)tijd. De zones zijn ontstaan na een eeuwenlange ontwikkeling in het meten van de tijd. Vooral door de ontwikkeling van het spoorvervoer ontstond de nood aan een veralgemeende tijd. Eerder werd per plaats een lokale tijd aangehouden, gebaseerd op de (gemiddelde) lokale 12.00 uur-tijd.
+De tijd in een bepaalde tijdzone wordt aangegeven als het tijdverschil van de zone met UTC. UTC is nagenoeg hetzelfde als GMT (Greenwich Mean Time).
+
+
+== VerklaringBewerken ==
+De aarde draait in 24 uur om haar as. Als we de aarde in 24 zones willen indelen is theoretisch iedere tijdzone van één uur 360°/24 = 15° breed. De nulmeridiaan van Greenwich is het centrum van de UTC. Deze tijdzone strekt zich in theorie uit van 7,5° westerlengte tot 7,5° oosterlengte. De Midden-Europese tijdzone (UTC+1) strekt zich dan in theorie uit van 7,5° oosterlengte tot 22,5° oosterlengte. In de praktijk volgen tijdzones vaak landsgrenzen en hanteren landen uit praktische overwegingen de tijdzone van een belangrijk buurland. Een voorbeeld is de Benelux, die gezien zijn ligging de Greenwich-tijd zou moeten hanteren, maar de Midden-Europese tijd gebruikt sinds de Duitse bezetting in de Tweede Wereldoorlog.
+De verdeling van de aarde in 24 tijdzones van 15° breed is hoofdzakelijk theoretisch en wordt voornamelijk op volle zee in internationale wateren gebruikt (zogenaamde nautische tijd of zeetijd). Er bestaan in de praktijk meer dan 24 verschillende tijdzones. Dit heeft twee oorzaken. In de eerste plaats verschillen niet alle tijdzones een geheel aantal uren van UTC. Ook halve uren en kwartieren komen voor. Zo hanteert bijvoorbeeld Venezuela een tijdzone van UTC-4:30 en Nepal een tijdzone van UTC+5:45. In de tweede plaats zorgt het grillige verloop van de internationale datumgrens ervoor dat sommige plaatsen meer dan 12 uur verschillen ten opzichte van UTC. In totaal zijn er wereldwijd 41 verschillende tijdzones in gebruik.
+Er zijn 21 landen die meerdere tijdzones beslaan. Het land met de meeste tijdzones is Frankrijk: dankzij de vele overzeese gebieden zijn dat er in totaal 12 (gedurende de zomertijd 13). Rusland heeft de meeste opeenvolgende tijdzones, namelijk 11 (van UTC+2 tot en met UTC+12). De Volksrepubliek China is het grootste land met één tijdzone: sinds 1949 hanteert het hele land UTC+8. UTC+8 komt globaal overeen met de zonnetijd in de, in het oosten van het land liggende, hoofdstad Peking. In het westen van het land wijken klok en zonnetijd aanzienlijk van elkaar af. De grens tussen Afghanistan en China is de landgrens met het grootste tijdverschil, namelijk 3,5 uur (UTC+4:30 naar UTC+8).
+Iedere dag op aarde begint officieel op de Line-eilanden in Kiribati, waar men 14 uur voor loopt op UTC, begint 26 uur later op de onbewoonde Amerikaanse eilanden Howland en Baker, die onder een (nautische) tijdzone vallen die 12 uur achter loopt op UTC, en eindigt daar nog eens 24 uur later. Twee consequenties hiervan zijn dat iedere datum 50 uur lang ergens op aarde voorkomt en dat gedurende twee uur per etmaal (namelijk tussen 10:00 en 12:00 uur UTC) er drie verschillende data in gebruik zijn: als het bijvoorbeeld in Reykjavik (UTC+0) 10:30 uur is, dan is het 23:30 uur de vorige dag in Amerikaans-Samoa (UTC-11) en 0:30 uur de volgende dag op Kiritimati (UTC+14).
+
+
+== GeschiedenisBewerken ==
+Vanouds werd op elke plek op aarde de lokale tijd gehanteerd. Als de zon in het zuiden stond, was het twaalf uur. Een zonnewijzer wees dan altijd de juiste tijd aan. Met de komst van nauwkeurige uurwerken lukte dat niet meer en ging men over naar de middelbare zonnetijd. Nog altijd gold dat elke plaats zijn eigen tijd had. Dat werd nauwelijks opgemerkt doordat er weinig gereisd werd, en bovendien waren de reistijden lang. Veel mensen hadden zelf geen klok of horloge maar gebruikten de klok op de kerktoren. De torenklok hoefde niet precies gelijk te lopen, want iedereen keek op dezelfde klok.
+Door de komst van spoorwegen en radio kwam de noodzaak een uniforme tijd in te voeren. In België werd in 1892 UTC ingevoerd.
+In Nederland was de situatie ingewikkelder: in 1866 besloten de Nederlandse spoorwegbedrijven dat alle stationsklokken de tijd van Amsterdam zouden aanhouden. Sommige gemeenten besloten dat hun burgerlijke tijd gelijk zou zijn aan de spoortijd, maar andere hielden vast aan de lokale tijd, waardoor de torenklok niet gelijk stond met de stationsklok.
+In 1892 besloten de spoorwegen in Nederland de tijd van Greenwich aan te houden. Deze was 19 minuten en 32,13 seconden achter op de tijd van Amsterdam. De meeste plaatsen in Nederland hielden zich inmiddels aan de Amsterdamse tijd. Pas in 1909 hanteerden alle Nederlandse plaatsen dezelfde tijd, want toen werd bij wet bepaald dat de Amsterdamse tijd voor heel Nederland, en dus ook voor de spoorwegen, zou gelden. Met ingang van 17 maart 1937 werd de tijd vereenvoudigd tot UTC + 20 minuten.
+In 1940 werd door de Duitse bezetter zowel in Nederland als België de Midden-Europese Tijd ingevoerd, die een uur voor is op de tijd van Greenwich en ruim 40 minuten op de tijd van Amsterdam. (In België gold dit ook tussen 1914 en 1918 in de door de Duitsers bezette gebieden.)
+Van 1916 tot 1945 kende Nederland zomertijd om het energieverbruik te verminderen; in België was dat van 1918 tot 1945. In 1977 werd de zomertijd in beide landen opnieuw ingevoerd.
+
+
+== Lijst van alle tijdzonesBewerken ==
+Landen met * hanteren een periodieke zomertijd.
+
+
+=== UTC-12Bewerken ===
+
+
+=== UTC-11Bewerken ===
+
+
+=== UTC-10 (HST - Hawaiian Standard Time)Bewerken ===
+
+
+=== UTC-9:30Bewerken ===
+Frans-Polynesië (Marquesaseilanden)
+
+
+=== UTC-9 (AKST - Alaska Standard Time)Bewerken ===
+
+
+=== UTC-8 (PST - Pacific Standard Time)Bewerken ===
+
+
+=== UTC-7 (MST - Mountain Standard Time)Bewerken ===
+
+
+=== UTC-6 (CST - Central Standard Time)Bewerken ===
+
+
+=== UTC-5 (

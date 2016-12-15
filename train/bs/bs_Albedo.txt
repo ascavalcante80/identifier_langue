@@ -1,0 +1,6 @@
+Albedo je mjera moći odbijanja svjetlosti koju ima jedna površina ili tijelo.
+Albedo izražava omjer između odbijene (reflektirane) i primljene (absorbirane) svjetlosti koja pada na jedno određeno tijelo ili površinu.
+Albedo se izražava kao decimalni broj između nula i jedan ili kao vrijednost u procentima. 100% (ili jedan) znači da se sva svjetlost koja pada na jednu određenu površinu se odbija dok 0% (ili nula) znači da ta površina absorbira svo elektromagnetsko zračenje koje na nju pada.
+Albedo je kao mjera koja se često koristi u astronomiji i klimatologiji. Ako je poznata količina svjetlosti koja pada na jedno određeno tijelo i albedo tog tijela onda je moguće odrediti od kojih hemijskih elemenata se to tijelo sastoji. Na ovaj način su određeni sastojci mnogih tijela u svemiru.
+Albedo naše planete, Zemlje iznosi u prosjeku 38%. Mjesec čija se površina sastoji od bazaltnih stijena ima veoma nizak albedo (12%). Planete prekrivene oblacima kao naprimjer Venera (75%) i Jupiter (52%) imaju ekstremno visok albedo.
+Na našoj planeti postoje velike varijacije u mjeri odbijanja svjetlosti između različitih površina. Površine kao oblaci (do 80%) i snijeg (do 90%) imaju visok albedo dok naseljene površine (do 12%) i okeani (do 4%) i

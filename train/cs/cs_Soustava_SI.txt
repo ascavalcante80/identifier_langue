@@ -1,0 +1,45 @@
+Soustava SI (zkratka z francouzského Le Système International d'Unités) je mezinárodně domluvená soustava jednotek fyzikálních veličin, která se skládá ze základních jednotek, odvozených jednotek a násobků a dílů jednotek. Mezinárodně garantuje definice jednotek a uchování etalonů Bureau International des Poids et Mesures v Sèvres (Francie), v České republice Český metrologický institut se sídlem v Brně.
+Základních jednotek je sedm: metr, kilogram, sekunda, kelvin, ampér, kandela, mol. Odvozené jednotky se tvoří výhradně jako součiny a podíly jednotek základních. Násobky a díly (výhradně dekadické) se tvoří pomocí předpon před jednotkami.
+Soustava vznikla v roce 1960 ze soustavy metr-kilogram-sekunda (MKS), který byl zaveden za Velké francouzské revoluce (1789 až 1799) a v dalších letech rozšiřován (Británie 1860, 1921 fyzikální jednotky, v roce 1948 pak začal samotný standardizační proces).
+V Česku vyplývá pro subjekty a orgány státní správy povinnost používat soustavu jednotek SI ze zákona č. 505/1990 Sb. ze dne 16. listopadu 1990 (Zákon o metrologii; se změnami podle zákonů č. 4/1993, 20/1993, 119/2000, 137/2002, 13/2002, 226/2003, 444/2005, 481/2008, 223/2009 a 155/2010 Sb.) a souvisejících vyhlášek Ministerstva průmyslu a obchodu ČR, zejména MPO vyhlášky č. 264/2000 Sb.
+
+
+== Základní jednotkyEditovat ==
+Základních jednotek je sedm a jsou stanoveny pro následující fyzikální veličiny:
+Délka
+Základní jednotkou je metr (značka „m“). 1 metr je délka dráhy, kterou urazí světlo ve vakuu za  sekundy.
+Hmotnost
+Základní jednotkou hmotnosti je kilogram (značka „kg“). Ten je definován hmotností mezinárodního prototypu kilogramu, který je uložen v Mezinárodním úřadě pro váhy a míry v Sèvres u Paříže. (Připravovaná nová definice kilogramu se má opírat o pevně stanovenou Planckovu konstantu.)
+Čas
+Základní jednotkou času je sekunda (značka „s“). 1 sekunda je doba trvání 9 192 631 770 period záření, odpovídající přechodu mezi dvěma hyperjemnými hladinami základního stavu atomu 133Cs.
+Elektrický proud
+Základní jednotkou elektrického proudu je ampér (značka „A“). 1 ampér je takový elektrický proud, který ve dvou přímých rovnoběžných vodičích o nekonečné délce a zanedbatelném průřezu vzájemně vzdálených ve vakuu jeden metr vyvolá mezi těmito vodiči sílu rovnou 2 × 10−7 N na jeden metr délky. (Připravovaná nová definice ampéru se má opírat o pevně stanovenou hodnotu elementárního náboje.)
+Termodynamická teplota
+Základní jednotkou termodynamické teploty je kelvin (značka „K“). 1 kelvin je 1/273,16 díl absolutní teploty trojného bodu vody. (Připravovaná nová definice kelvinu se má opírat o pevně stanovenou Boltzmannovu konstantu.)
+Svítivost
+Základní jednotkou svítivosti je kandela (značka „cd“). 1 kandela je svítivost zdroje, který v daném směru vysílá monochromatické záření s frekvencí 540 × 1012 Hz, a jehož zářivost v tomto směru je 1/683 W/sr.
+Látkové množství
+Základní jednotkou látkového množství je mol (značka „mol“). 1 mol je takové množství, které obsahuje tolik elementárních jednotek (atomů, molekul, iontů, elektronů…), kolik je uhlíkových atomů v 12 g uhlíku 12C. Podle současných znalostí je v tomto množství uhlíku (6,022 140 857 ± 0,000 000 074) × 1023 atomů. (Připravovaná nová definice molu se má opírat o pevně stanovenou Avogadrovu konstantu.)
+Původně byly základní jednotky stanoveny jako na sobě vzájemně nezávislé. Postupně jsou některé definovány odvozením z jiných základních jednotek pomocí pevně stanovené hodnoty fundamentálních fyzikálních konstant (např. metr ze sekundy pomocí rychlosti světla ve vakuu), což umožňuje vyhnout se problémům s prototypy jednotek a dosahovat přesnějšího stanovení. V posledních letech vrcholí přípravy na redefinici základních jednotek SI tak, aby byly všechny odvozeny od přírodních konstant po vzoru stávající definice metru.
+
+
+== Odvozené jednotkyEditovat ==
+Podrobnější informace naleznete v článku Odvozená jednotka SI.
+Odvozené jednotky se tvoří kombinacemi (povoleny jsou výhradně součiny a podíly) základních jednotek, u některých veličin dostaly samostatné názvy.
+Příklady: kilogram na metr krychlový, metr čtverečný, metr krychlový, metr za sekundu…
+Odvozené jednotky se samostatným názvem: becquerel, coulomb, farad, gray, henry, hertz, joule, katal, lumen, lux, newton, ohm, pascal, radián, siemens, sievert, steradián, tesla, volt, watt, weber, stupeň Celsia
+Definice, doporučené značení odvozených veličin, jejich jednotky a jejich závazné značky jsou upraveny normami řady ČSN ISO IEC 80000 „Veličiny a jednotky“, která postupně nahrazuje předchozí řadu ČSN ISO 31 stejného názvu.
+
+
+== Násobné a dílčí jednotkyEditovat ==
+K vyjádření násobků nebo dílů základních nebo odvozených jednotek (výhradně dekadických) slouží předpony, viz Předpony soustavy SI.
+
+
+== Vedlejší jednotkyEditovat ==
+Vedlejší jednotky jsou jednotky, které byly dříve pro svoji všeobecnou rozšířenost a užitečnost řazeny do soustavy SI, přestože nebyly odvozeny ze základních jednotek. V současnosti se považují za mimosoustavové.
+Soustava SI akceptuje používat souběžně s jednotkami SI následující jednotky: minuta, hodina, den, úhlový stupeň, úhlová minuta, (úhlová) vteřina, hektar, litr, tuna.
+Připouští se rovněž používání některých mimosoustavových jednotek, jejichž vztah k jednotkám SI není definován pevně, ale závisí na experimentálním určení: elektronvolt, dalton, astronomická jednotka.
+
+
+== RelativitaEditovat ==
+Jednotky SI jsou s

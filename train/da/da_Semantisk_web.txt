@@ -1,0 +1,38 @@
+Semantisk web er et koncept der betegner udviklingen af en universel medieform til udveksling af information. Gennem vedligeholdelsen af mening (heraf semantisk) i online dokumenter gennem forskellige markup-rutiner opstår muligheden for at maskin-aflæse denne mening. Ved begrebet forstås ideelt og visionært det moment i internettets udvikling hvor software kan lagre, udveksle og anvende metadata om alle webressourcer og dermed sætte bruger-programmer i stand til at håndtere disse ressourcer med større effektivitet og præcision.
+Det semantiske web er blandt andet drevet frem af en af World Wide Webs foregangsmænd, Tim Berners-Lee fra World Wide Web Consortium. Netop under W3C's regi understøttes det semantiske web gennem udarbejdelsen af standarder for markup og relaterede aktiviteter.
+
+
+== Se også ==
+Beskrivelseslogik
+DAML
+DAML+OIL
+OIL
+RDF
+OWL
+
+
+== Eksterne henvisninger ==
+Tim Berners-Lee's profil hos W3C
+Tim Berners-Lee: Weaving the Semantic Web, af Andy Carvin. Udgivet af Digital Divide Network, oktober 2004
+World Wide Web Technology Architecture: A conceptual analysis, af Luciano Polo.
+Libby Miller and Simon Price: The Semantic Web is Your Friend, FreePint 27th May 2004 No.160
+Semantic Web Overview
+Semantic Web Starting Points
+OWL Web Ontology Language Overview
+ZDNet Article
+W3C Semantic Web initiative
+Tim Berners-Lee's 1998 roadmap paper
+Scientific American article on The Semantic Web, Maj 2001
+Semantic Web Community Portal
+The Semantic Web In One Day
+The Rule Markup Initiative
+International Semantic Web Conference (ISWC)
+European Semantic Web Conference (ESWC) 2006
+Semantic Web Research
+DeepaMehta
+Friend-of-a-Friend-o-matic
+Not Your Father’s Internet af Bill Gates
+Semantic Web Encyclopedia of Terms
+Google base kan opfattes som en praktisk indgangsvinkel til Semantisk web.
+Værktøjer
+Altova SemanticWorks Redigeringsværktøj til RDF and OWL som automatisk genererer RDF/XML eller nTriples på grundlag af visuelt 

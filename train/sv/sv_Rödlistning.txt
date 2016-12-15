@@ -1,0 +1,62 @@
+Rödlistning är en klassificering av arter efter en bedömning av deras utdöenderisk. Syftet är att kartlägga och bedöma arters tillstånd och status, den risk de löper att försvagas eller dö ut, och vilka åtgärder som krävs för att förbättra deras situation.
+Internationellt samordnas arbetet med rödlistning av Internationella naturvårdsunionen (IUCN). IUCN listar i januari 2013 10935 växter, 3 svampar, 6 protister och 14106 djur som nära hotad till akut hotad, varav 4476 växter, 3 svampar, 5 protister och 5526 djur tillhör kategorierna starkt hotad och akut hotad. Miljöförstöring och överexploatering är internationellt de helt dominerande hoten, och är särskilt allvarliga i fattiga områden med hög befolkningstäthet. I en del länder tas också nationella rödlistor fram av för detta utsedda institutioner. IUCN:s rödlistning innefattar ej arter som dog ut innan år 1500. Kategorin "Utdöd i vilt tillstånd" gäller på global nivå medan kategorin "Nationellt utdöd" endast gäller för enskilda länder.
+I Sverige tas nationella rödlistor fram av ArtDatabanken vid Sveriges lantbruksuniversitet i Uppsala. Listorna slås slutligen fast av Naturvårdsverket och revideras normalt vart femte år. Utifrån bedömningar av listorna utarbetar Naturvårdsverket åtgärdsprogram och förvaltningsplaner. Sådana planer kan också utarbetas för hotade miljöer och biotoper.
+
+
+== Kategorisering ==
+
+En bokstavskod används för att beskriva på vilka kriterier som arten har rödlistats
+
+
+=== Hotsituation ===
+I rödlistan kategoriseras arter efter deras bedömda tillstånd och status (internationell kod inom parentes):
+Utdöd (EX, Extinct)
+Utdöd i vilt tillstånd (EW, Extinct in the wild)
+Nationellt utdöd (RE, Regionally extinct)
+Akut hotad (CR, Critically endangered)
+Starkt hotad (EN, Endangered)
+Sårbar (VU, Vulnerable)
+Nära hotad (NT, Near threatened)
+Livskraftig (LC, Least concern) benämns arter som inte står inför större hot inom en nära framtid.
+Kunskapsbrist (DD, Data deficiency) är en tvärgående kategori och arten kan höra hemma i vilken annan kategori som helst men listas inte där på grund av kunskapsbrist.
+Ej bedömd (NE, Not evaluated) inkluderar arter som ännu inte har kunnat utvärderas.
+
+
+=== Hotförklaring ===
+Arter som hamnar under en av kategorierna CR, EN eller VU ovan kallas för hotade. För arter som förs upp som hotade anges orsakerna till klassificeringen med en andra bokstavskod,
+A – populationsminskning
+A1 – har minskat (men orsaker till minskningen nu undanröjda)
+A2 – har minskat
+A3 – förväntas minska
+A4 – minskar i en period både bakåt och framåt i tiden
+
+B – Geografiskt begränsad:
+B1 – i sitt utbredningsområde
+B2 – i sin förekomstarea och (a) kraftigt fragmenterad (b) minskande eller (c) extremt fluktuerande
+
+C – populationen är liten och minskar
+C1 – avsevärd fortgående minskning
+C2 – fortgående minskning samt få individer eller extremt fluktuerande
+
+D – mycket liten population
+D1 – för arter klassade "VU"
+D2 – för arter klassade "VU" som dessutom har mycket liten förekomstarea
+
+E – Kvantitativ riskanalys
+En sammanfattande översikt över rödlistningskategorier och kriterier finns att läsa här (IUCN) och här (ArtDatabanken).
+
+
+=== Hänsyn till faktorer ===
+Flera olika faktorer har betydelse vid rödlistebedömningen av arter. Fragmentering betyder att en arts utdöenderisk är förhöjd på grund av att flertalet individer lever i små och relativt isolerade delpopulationer. Generationstid definieras i allmänhet som livslängden hos en genomsnittsindivid. Generationstiden ger bland annat viktig information om hur kapabel stammen är att återhämta sig efter en försvagning. Dessutom görs en allmän sårbarhetsanalys. Andra arter kan vara utsatta för biotopförändring som minskar deras livsutrymme, eller illegal jakt. Alla dessa faktorer sammanvägs för att ge en sammantagen bedömning av artens tillstånd och status.
+
+
+== Översikt över rödlistade arter i Sverige ==
+En art listas med asterisk när den på grund av intilliggande starkare stammar tagits upp i en lägre hotkategori trots att hotbilden lokalt kan motivera en allvarligare hotkategori.
+
+
+=== Naturtypskoder ===
+I den svenska rödlistan anges landskapstyper (biom) för arter utifrån tre kategorier:
+Ingen betydelse
+Har betydelse
+Stor betydelse
+De beteck

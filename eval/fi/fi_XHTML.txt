@@ -1,0 +1,18 @@
+määrittely on:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.0//EN" "http://www.w3.org/TR/xhtml-basic11/xhtml-basic10.dtd">
+
+
+=== XHTML5 ===
+HTML 5 -luonnos määrittelee kaksi sarjallistusta: HTML5:n text/html:lle ja XHTML5:n application/xhtml+xml:lle.
+XHTML5 ei edellytä dokumenttityyppimäärittelyä.
+
+
+== Viitteet ==
+
+
+== Aiheesta muualla ==
+Ohjelmointiputka: HTML:stä XHTML:ään
+Weppipakin XHTML 1.0 -materiaalia
+XHTML/CSS-opas Suomenkielinen opas XHTML-merkkauksesta ja CSS-tyyleistä.
+XHTML-tutoriaali Suomenkielinen opas, joka johdattelee XHTML:n perusteisiin.
+Menthal27 Suomenkielinen perusteellinen opas XHTML-merkkauksesta sekä CSS-tyyleistä. Tietoa ja tutoriaaleja myös PHP:stä ja muuta vastaavaa.

@@ -1,0 +1,57 @@
+Nomenclatura binomial ou nomenclatura binária designa o conjunto de normas que regulam a atribuição de nomes científicos às espécies de seres vivos. Chama-se binominal porque o nome de cada espécie é formado por duas palavras: o nome do gênero e o restritivo específico, normalmente um adjectivo que qualifica género.
+A utilização do sistema de nomenclatura binomial é um dos pilares da classificação científica dos seres vivos sendo regulada pelos códigos específicos da nomenclatura botânica, zoológica e bacteriológica. Foi primeiramente proposta pelo naturalista suíço Gaspard Bauhin, no século XVII e formalizada por Carl Von Linné no século seguinte. Os nomes utilizados são em latim, ou numa versão latinizada da palavra ou das palavras que se pretende utilizar. O nome genérico e o epíteto específico devem sempre ser escritos em tipo itálico, ou, na sua indisponibilidade, ser sublinhados, sendo, sempre que possível, seguidos pelo autor ou autores da descrição (em geral, referido como a "autoridade").
+Embora no âmbito do esforço de unificação da nomenclatura biológica os conceitos tenham sido fundidos, tendo hoje o mesmo significado, tradicionalmente, no campo da zoologia, o conceito é referido como "nomenclatura binominal", enquanto que, no campo da botânica, da micologia e da bacteriologia, o conceito é, geralmente, apelidado "nomenclatura binária" ou, por vezes, "nomenclatura binomial".
+
+
+== Regras básicas de nomenclatura ==
+A nomenclatura binomial é o método formal e o único universalmente aceito para a atribuição do nome científico a espécies (com excepção dos vírus). Como o termo "binomial" sugere, o nome científico de uma espécie é formado pela combinação de dois termos: o nome do género e o descritor específico. Apesar de alguns pormenores diferirem consoante o campo da biologia em que a espécie se insere, os traços determinantes do sistema são comuns e universalmente adaptados:
+As espécies são identificadas por um binome, isto é um nome composto por dois nomes: um nome genérico e um descritor específico. Nenhum outro taxon pode ter nomes compostos por mais de um complemento.
+As subespécies têm um nome composto por três nomes, ou seja, um trinome, colocados pela seguinte ordem: nome genérico, descritor específico e descritor subespecífico. Exemplo: Rhea americana alba, onde alba é a subespécie.
+Todos os taxa hierarquicamente superiores à espécie tem nomes compostos por uma única palavra, ou seja, um "nome uninominal".
+Os nomes científicos devem ser sempre escritos em itálico, como em Homo sapiens. Quando manuscritos, ou quando não esteja disponível a opção de escrita em itálico, devem ser sempre sublinhados.
+O primeiro termo, o nome genérico é sempre escrito começando por uma maiúscula, enquanto o descritor específico (em zoologia, o nome específico, em botânica o epíteto específico) nunca começa por uma maiúscula, mesmo quando seja derivado de um nome próprio ou de uma designação geográfica.
+
+Por exemplo, Canis lupus ou Anthus hodgsoni. Note-se que esta convenção é recente: Carolus Linnaeus usava sempre maiúscula no descritor específico e até princípios do século XX era prática comum capitalizar o descritor específico se este derivasse de um nome próprio. Apesar de incorrecto pelos padrões actuais, e inaceitável em contexto científico, a utilização de descritores específicos com maiúscula é relativamente comum em literatura não científica, particularmente quando reproduza fontes desactualizadas.
+
+Em textos académicos e científicos, a primeira referência a um taxon, nomeadamente a uma espécie, é seguida da sobrenome do cientista que primeiro validamente o publicou (na zoologia) ou da sua abreviatura padrão (botânica e micologia). Se a espécie teve a sua posição taxonómica alterada por inclusão em género diferente do original, o sobrenome ou a abreviatura padrão do autor original e a data de publicação original são fornecidos em parênteses antes da indicação de quem publicou o novo nome.
+
+Por exemplo, Amaranthus retroflexus L. ou Passer domesticus (Linnaeus, 1758) – o último foi originalmente descrita como uma espécie do género Fringilla, daí o parêntesis.
+
+Quando usado em conjunção com o nome vernáculo da espécie, o nome científico normalmente aparece imediatamente a seguir no texto, incluído em parêntesis.
+
+Por exemplo, "A população do pardal doméstico (Passer domesticus) está a decrescer na Europa."
+
+O nome científico deve ser sempre usado por extenso na sua primeira ocorrência no texto e sempre que diversas espécies do mesmo género estiverem a ser discutidas no mesmo documento. Nos usos subsequentes, as referências podem ser abreviadas à inicial do género, seguida de um ponto e do nome específico completo.
+
+Por exemplo, após a primeira referência, Canis lupus pode ser referido como C. lupus. Em alguns casos, em literatura não científica, a abreviatura é mais conhecida do que o nome completo da espécie: — a bactéria Escherichia coli é frequentemente referida simplesmente por E. coli; o Tyrannosaurus rex é provavelmente mais conhecido por T. rex.
+
+A abreviatura "sp." é usada quando o nome da espécie não pode ou não interessa ser explicitado. A abreviatura "spp." (plural) indica "várias espécies".
+
+Por exemplo: "Canis sp." significa "uma espécie do género Canis".
+
+Facilmente confundível com a anterior são as abreviaturas "ssp." (zoologia) e "subsp." (botânica), que indicam uma subespécie não especificada (veja trinome, nome ternário). As abreviaturas "sspp." ou "subspp." indicam "um número não especificado de subespécies".
+A abreviatura "cf." é utilizada quando a identificação da espécie requer confirmação por ser incerta ou estar a ser citada através de uma referência secundária não verificável.
+
+Por exemplo Corvus cf. corax indica "um pássaro similar ao corvo-comum, mas não identificado com segurança como sendo da espécie.
+
+A nomenclatura binomial é também referida como Sistema de classificação binomial ou como sistema lineano.
+
+
+== Vantagens da nomenclatura binomial ==
+As principais vantagens da nomenclatura binomial derivam essencialmente da sua economia descritiva, do seu uso generalizado e da estabilidade de nomes que é por ele favorecida:
+Todas as espécies podem ser identificadas, sem risco de ambiguidade, por apenas duas palavras.
+O mesmo nome é de uso universal, independente da língua de trabalho, evitando erros e problemas de tradução.
+Apesar da estabilidade dos nomes estar longe de ser uma regra absoluta, os procedimentos estabelecidos em relação à renomeação de espécies favorecem fortemente a estabilidade. Por exemplo, quando uma espécie é transferida para um género diferente, o que não é incomum face aos avanços da ciência, sempre que possível o descritor específico é mantido. O mesmo acontece quando uma espécie é desqualificada como independente e é integrada noutra pré-existente, situação em que o descritor é mantido ao nível subespecífico.
+Apesar das regras existentes terem como objectivo garantir que cada nome é único e que não há ambiguidades na nomenclatura, na prática algumas espécies têm vários nomes científicos em circulação na literatura, o uso de cada um deles dependendo da opinião taxonómica do autor do texto. Daí que a sinonímia biológica seja um campo de grande complexidade, sendo frequente o aparecimento de espécies com longas listas de sinónimos.
+A mais importante fonte de instabilidade no sistema binomial é a ressurreição de nomes esquecidos, mas para os quais se pode reclamar validamente prioridade na publicação. Neste caso, contudo, nos códigos de nomenclatura estão previstas normas de conservação de nomes que permitem a manutenção, pelo menos em certos casos, do nome de uso mais comum.
+
+
+== Códigos de nomenclatura ==
+A partir de meados do século XIX passou a ser aparente a necessidade de um corpo de regras que governassem de forma inequívoca a atribuição de nomes científicos. Tais normas foram inicialmente vertidas nos actuais códigos de nomenclatura: o ICZN, governando a atribuição de nomes a animais; o ICBN, governando a atribuição de nomes a plantas, incluindo os fungos, algas e cianobactérias; e o ICNB governando a nomenclatura de bactérias e vírus. Apesar de um crescente esforço de convergência, estes códigos diferem em aspectos significativos:
+Por exemplo, o ICBN, o código da botânica, não permite o uso de tautónimos, isto é a utilização de um descritor específico igual ao nome do género, o que é permitido pelo ICZN, o código zoológico.
+As datas a partir das quais os códigos se aplicam (retroactivamente) variam: na botânica o ponto de partida é em geral 1753, o ano em que Carolus Linnaeus publicou a 10ª edição de Species Plantarum); em zoologia é 1758; em bacteriologia foi decidido fazer tábua rasa (quase) do passado e a data de referência inicial é 1980.
+Diversos autores têm sugerido a aprovação de um BioCode que substituísse todos os códigos, mas a sua implementação não está para breve. Há também um debate em torno do desenvolvimento de um PhyloCode, criando uma classificação e uma nomenclatura assente em clades das árvores filogenéticas, em vez dos taxa actuais. Os proponentes do PhyloCode referem-se aos códigos existentes como os "códigos lineanos" e denominam "taxonomia lineana" à classificação científica feita com base nesses códigos.
+
+
+== Derivação de nomes ==
+O nome do género e do descritor específico podem derivar de qualquer palavra ou provir de qualquer fonte, tendo apenas como exigência o serem latinizados. Em geral são palavras latinas, mas muitas delas são derivadas de palavras do grego antigo, de nomes de regiões ou 

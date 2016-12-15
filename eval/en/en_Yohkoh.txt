@@ -1,0 +1,18 @@
+ted of two proportional gas counters with nominal energy band 5 keV–40 keV, which was divided into two PC channels and 128 PH channels. It was found after the launch that PH to energy relationship was distorted. No energy calibration for WBS PH data was available in 1999.
+Hard X-ray Spectrometer (HXS) was a NaI(Tl) scintillator. The energy band after June 1992 was 24 keV–830 keV. It was divided into 2 PC channels and 32 PH channels.
+Gamma-ray Spectrometer (GRS) consisted of two identical bismuth germanate oxide scintillators. It covered energy range 0.3 MeV–100 MeV, which was divided into 6 PC channels and 128+16 PH channels.
+Radiation Belt Monitor (RBM) unlike the other three was not aimed at solar flare observations and served to sound the alarm for radiation belt passage.
+
+
+== References ==
+
+
+== External links ==
+JAXA/ISAS overview of mission
+SXT project page
+SXT observation images
+Encyclopædia Britannica, Yohkoh
+HXT project page
+NASA/NSSDC information on Yohkoh
+U.S.-European-Japanese Workshop on Space Cooperation: Summary Report, 1999
+Yohkoh Science Nuggets

@@ -1,0 +1,134 @@
+r se rendre compte si ce froissement provoque les interruptions incriminées.
+Audition nulle ;
+L'audition subitement annulée peut provenir :
+du cristal à galène : Pointe non en contact, ou bien en contact avec la cupule porte-cristal ;
+des circuits de réception proprement dits : Vérifier soigneusement les fils en suivant tous les circuits dans leur ordre d'utilisation, primaire, puis secondaire.
+Le plus souvent l'interruption est provoquée par la rupture d'un fil de son attache, parfois le fil tient encore par son isolant ; aussi doit-on, pour vérifier, opérer sur chaque fil une légère traction.
+Enfin, cette interruption peut provenir du récepteur téléphonique lui-même : plaque collée. Donner un coup sec sur la plaque avec la pointe d'un crayon ; si la plaque ne vibre pas et rend un son mat, elle est collée. Dans ce cas, dévisser le couvercle d'ébonite et retourner la plaque sans déplacer la bague d'écartement. Ce remède suffit souvent ; sinon, ajouter une bague mince (feuille de carton ou de papier découpée) entre la membrane et le boîtier.
+Dans tous les cas, vérifier l'intégrité des condensateurs : ceux-ci ne doivent jamais laisser passer le courant continu d'une pile. Les essayer au galvanomètre ou à la sonnerie, comme pour la recherche de fils brisés.
+
+
+== Le poste Tesla ==
+
+Pour le poste en montage Tesla.
+La puissance de réception arrivant a l'écouteur est plus faible (due au faible couplage des circuits d'accord), d’une utilisation très compliquée, et destiné à l’écoute d'une bande radio en séparant les stations les une des autres grâce à la syntonie poussée par le couplage entre les circuits d'accord inductance-condensateur.
+Le poste en montage Tesla permet l'accord dans une plage restreinte en bande : BF, MF, HF. Il faut plusieurs jeux de bobines interchangeables par bandes à écouter: bobine d'antenne, bobine primaire et bobine secondaire. Ou un poste Tesla par bande.
+Chaque jeux de bobines est parfaitement adapté à la bande à écouter; donc permet une meilleure sélectivité et une meilleure sensibilité.
+Ce poste en montage Tesla a eu peu d’utilisation par le grand public par la complexité des réglages et les faibles signaux parvenant à l’écouteur. Le poste en montage Tesla est principalement utilisable par les radiotélégraphistes: des stations des navires, des stations côtières, des stations de radiogoniométrie, des stations aéronautiques.
+
+
+=== Description ===
+A : antenne.
+T : terre.
+B : curseur de self d'antenne.
+E : self primaire couplée à la self secondaire S .
+S : self secondaire couplée à la self primaire E .
+G : curseur de changement des bandes.
+J : commutateur de circuit périodique.
+D : détecteur.
+F : écouteur (500 ohms à 10 000 ohms).
+M et N : manettes de mise en série, parallèle ou hors circuit du condensateur de Terre.
+C 1 et C 2 : condensateurs variables à air de 500 pF environ pour les petites ondes et les grandes ondes. Et 2 nF environ pour les VLF et LF.
+C 3 : condensateur fixe à papier paraffiné de 2 nF à 3 nF environ.
+
+
+=== Poste de station utilitaire ===
+
+Image de droite: Poste à galène donnant une image de la technique de la radioélectricité vers 1914.
+Ce type de poste à galène à montage en Tesla équipait les stations TSF aéronautiques, les stations TSF maritimes, les stations TSF militaires et quelques stations d'amateurs de T.S.F..
+Concurrencés par les stations Marconi avec le détecteur magnétique, ces deux types de postes sont restés les maîtres sur onde moyenne jusqu’en 1920 et sur onde courte jusqu’en 1925, (impossibilité de gain des lampes électroniques sur les fréquences de plus de 300 kHz) jusqu’à l’arrivée vers 1920 du tube électronique (architecture lampe électronique en forme de grosse boule et tube électronique en forme de petit tube).
+L'amplificateur audio micro téléphonique est en deux étages en cascade (écouteur actionnant un micro au charbon par une même membrane) dont Graham Bell lui-même posa le principe.
+L'ondemètre est utilisé pour le réglage du poste/antenne.
+Le ticker est remplacé par l'ondemètre faiblement couplé qui hétérodyne la radiotélégraphie (crée une tonalité). (Avec l'inconvénient de rayonner une porteuse radio sur l'antenne).
+L'ondemètre faiblement couplé donne un semblant de réaction. Avec l'inconvénient de rayonner une onde radio par l’antenne. Ce qui pause un problème de brouillage radio dès 1925 (par la grande sensibilité des postes à lampe).
+Le cadre est pour la radiogoniométrie des stations aéronautiques, maritimes, avec une portée de 60 km.
+
+
+=== Récepteur moderne type Tesla ===
+Le poste en montage Tesla est plus difficile à construire.
+Avec le poste en montage Tesla, il faut, soit plusieurs jeux de bobines L1 et L2 interchangeables par bandes à écouter, soit un poste Tesla par bande : un poste aéronautique VHF, un poste FM, un poste HF, un poste GO et PO.
+Chaque jeu de bobines est parfaitement adapté à la bande à écouter ; donc avec une meilleure sélectivité et une meilleure sensibilité.
+Si l'on dispose d'une antenne radioélectrique d'une vingtaine de mètres, il permet l’écoute des stations de radiodiffusion lorsqu’il fait nuit entre le lieu d’émission et de réception dans la bande décamétrique des 49 mètres, SW de 5,8 à 6,2 MHz.
+Il permet en outre l’écoute des stations de radiodiffusion des GO ou LW, de la radiodiffusion des PO ou MW (si l'on dispose d'une antenne radioélectrique soutenue par un cerf-volant ou par un ballon à gaz).
+Il permet encore l’écoute des stations locales de radiodiffusion de la bande FM grâce au circuit d'accord inductance L2-condensateur C2 pouvant être décalé en fréquence comme un circuit "discriminateur" (qui transforme alors la modulation de fréquence en une variation d'amplitude BF). Mais la sélectivité du seul circuit d'accord L1 C1 est très médiocre (de l'ordre de 10 MHz) ().
+À quelques centaines de mètres d’un aérodrome, d'une tour de contrôle, avec une antenne demi-onde de 1,2 mètre, il permettra l’écoute des stations aéronautiques dans la bande comprise entre 117,975 MHz à 137 MHz, grâce aux divers circuits d'accord inductance-condensateur pouvant être calés sur la même fréquence pour réduire le nombre des stations perçues au même instant.
+
+Description
+Antenne et terre.
+S1: curseur d'antenne de changement des bandes.
+L1: self primaire couplée à la self secondaire L2 .
+L2: self secondaire couplée à la self primaire L1 .
+D1: détecteur à diode à pointe type : OA85 ou OA95.
+E1: écouteur d'impédance entre (500 ohms à 10 000 ohms).
+C1: et C2: condensateurs variables à air de 500 pF environ pour la radiodiffusion des petites ondes et des grandes ondes ou (quelques dizaines de picofarad pour la bande VHF)
+C3: condensateur fixe papier ou céramique de 2 nF à 3 nF environ.
+
+
+== Récepteur à préamplificateur ==
+
+Le détecteur prend l'énergie du préamplificateur à transistor à effet de champ (BF244) et non plus au circuit résonnant ce qui donne comme avantages:
+le facteur de qualité du circuit résonnant est sensiblement plus élevé,
+la bande passante du circuit résonnant pour la séparation entre les stations radios est bien meilleur,
+les signaux des stations utiles au fonctionnement du casque audio arrivant au casque ont un volume sensiblement plus élevé.
+Le transistor à effet de champ présente une impédance d'entrée de plusieurs millions d'ohms. À ce stade le doubleur de tension (est pour atteindre des signaux plus élevés) par deux diodes à pointe en germanium ou des diodes pour faibles signaux.
+La résistance du casque se situe entre 500 Ω et 50 kΩ, si besoin une résistance correspondant est installé.
+Dans le contexte du concours Set DX Contest annuel des radioécouteurs avec des récepteurs à cristal. Cela a permis au vainqueur de la compétition 2003 avec le meilleur récepteur de recevoir 190 stations donc la plus éloignée est à 4 000 km.
+
+
+== Récepteur à amplificateur opérationnel ==
+
+De nos jours, un radioécouteur qui possède un poste à galène, souhaite sans l'application de casque audio écouter la radiodiffusion sur haut-parleur avec un amplificateur opérationnel (remplaçant l'amplificateur électronique à transistor).
+
+
+== Poste à réception pour écouteur à faible impédance ==
+
+Ce poste à réception (type indirecte) fonctionnera avec un écouteur à faible impédance vers 1907.
+Le circuit de résonance inductance-condensateur est trop amorti par le détecteur et par l'écouteur ou le casque audio donc :
+La sensibilité très faible est insuffisante pour la réception à grande distance.
+La bande passante est trop large pour l'écoute de la radiodiffusion GO, PO.
+La discrimination entre fréquences proches étant très faible, la réception est facilement brouillée.
+Ce système est abandonné.
+
+
+== Notes et références ==
+
+
+== Bibliographie ==
+Les livres écrits par Camille Tissot, sur le site camille-tissot.fr.
+[PDF] Manuel élémentaire de télégraphie sans fil (1914) PDF (21 Mo)., sur le site camille-tissot.fr
+Laurent Péricone (officier radio de bord), Le mémento de l’étudiant radioélectricien (à l’usage des radiotechniciens et des candidats aux divers examens d’opérateur radio),, Dunod, Paris,‎ 1949
+Manuel des stations radioélectriques de bord, vers 1949
+Joseph Roussel (secrétaire général de la Société française d’étude de télégraphie et de téléphonie sans fil), Le premier livre de l’amateur de TSF, Librairie Vuibert, Paris,‎ 1924
+Géo Mousseron, Les Postes à galène modernes,‎ 1958
+Georges Giniaux, Les Postes à galène - Premiers pas du sans-filiste, Étienne Chiron - Les Cahiers de la T.S.F,‎ 1940
+Pierre Hémardinquer, Le Poste de l'amateur de T.S.F, Étienne Chiron, Paris,‎ 1923
+Ballon à gaz d'hélium. (Section: Antenne et prise de terre)
+(it) Fabio Courmoz, Alessandro Battocchio, La radio a galena. Dal coherer al transistor nella ricezione passiva. Ed. Mosè 2002.
+(en) crystal experimenters handbook de 1922
+Le poste à Galène est évoqué dans le 47° des 480 souvenirs cités par Georges Perec, dans son texte Je me souviens (Perec)
+
+
+== Annexes ==
+
+
+=== Articles connexes ===
+Circuit à réaction • Radio AM • Réception des ondes radioélectriques : la technique générale des récepteurs radio
+Radiotélégraphiste • Radioécouteur • Radio Hat
+Bande des 160 mètres • 600 mètres
+Télégraphie sans fil • Les ondes courtes • Les ondes moyennes • Les basses fréquences
+Détecteur électrolytique • Détecteur magnétique (radio)
+Histoire des techniques d'émission radio • Émetteur à ondes amorties • Émetteur à arc
+Préfixes du système international d'unités
+
+
+=== Liens externes ===
+
+Comment réaliser un poste à galène ?
+HISTOIRE DU POSTE À GALÈNE (à l'intention des jeunes générations et pour l'Histoire)
+Raconte-moi la radio
+Brève histoire de la radio
+le site de l'amateur de radios anciennes
+
+ Portail de la physique
+ Portail de l’électricité et de l’électronique
+ Portail des télécommunications

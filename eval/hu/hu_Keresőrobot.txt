@@ -1,0 +1,6 @@
+atározó linkek közé, tehát nem része a PageRank számításának.
+Fontos megjegyezni, hogy a keresőrobotok számára a fenti szabályok betartása önkéntes kooperáció, ha egy robotot nem ilyen módon programoztak, akkor nem kényszeríthető a betartására, a weboldal tulajdonosa legfeljebb tűzfal segítségével zárhatja ki a már ismert kártékony robot ip címét, vagy olyan dinamikus kódot szerkeszt, amely a robot oldal lekérésének a szövegéből kitalálja hogy az egy bizonyos fajta robot, és neki egy másik oldalt generál.
+A kártékony keresőrobotok csoportját alkotják az olyan keresőrobotok, amelyek emailcímeket, vagy más elérhetőségeket keresnek. Ezek nem weboldalakat gyűjtenek indexelés céljából, hanem csak a gyanútlan felhasználók elérhetőségét, amit a későbbiekben spam céljára fognak használni.
+
+
+== Jegyzetek ==

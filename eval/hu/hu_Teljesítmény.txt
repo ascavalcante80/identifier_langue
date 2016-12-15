@@ -1,0 +1,21 @@
+az elektromos ellenállás ohmban (Ω).
+
+
+=== Váltakozóáram teljesítménye ===
+A váltakozóáram pillanatnyi teljesítménye periodikusan változik hasonlóan a feszültséghez és az áramerősséghez. A váltóáram átlagos effektív teljesítménye egy periódus (és így hosszabb idő) alatt:
+,
+ahol
+ a feszültség amplitúdója (legnagyobb értéke),
+ az áramerősség amplitúdója
+ pedig a fázisszög
+
+
+== Szivattyú, vízturbina teljesítménye ==
+A vízgépek teljesítménye:
+,
+ahol
+ az átáramló folyadék mennyisége
+ a nyomáskülönbség a beömlő és kilépő csonk között
+
+
+== Jegyzetek ==

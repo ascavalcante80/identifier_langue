@@ -1,0 +1,40 @@
+aliciosos, entre outros conteúdos maliciosos que possam existir em páginas web acessadas.
+A segurança dos navegadores gera disputa entre eles em busca de mais segurança. Sua proteção tem que ser sempre atualizada, pois com o passar do tempo, surgem cada vez mais novas técnicas para burlar os sistemas de segurança dos navegadores.
+
+
+== O futuro dos navegadores ==
+Em 2008, a W3C anunciou a especificação do HTML5, que entre outras, muda a forma de "execução e funcionamento" dos navegadores, fazendo com que os mesmos não mais executem as linhas de comandos em HTML, buscando os recursos agregados (arquivos contendo dados e informações, ou mesmo, configurações adicionais de funcionamento), atrelando programas adicionais à sua execução (como plugin), e como ocorre atualmente, limitando o acesso a alguns conteúdos da Web, que ficam "amarrados" a programas de terceiros (outras empresas). Assim sendo, a especificação HTML5 propicia uma liberdade incondicional do navegador, transformando-o de mero "exibidor e agregador" em um "programa on-line", que contém as especificações (comandos) de forma única, não sendo necessário o complemento de outros recursos e ferramentas. Excetuando-se o IE8, todos os demais navegadores já contêm o algoritmo que os torna "compatíveis" com a especificação HTML5.
+
+
+== Navegadores mais usados ==
+
+Como é possível de ser verificado com o gráfico ao lado, por muito tempo o Internet Explorer foi o líder no mercado dos browsers, sendo dominado atualmente pelo Chrome. De acordo com a StatCounter, o navegador da Microsoft chegou a possuir uma participação no mercado de 38.9% contra 25,0% do seu maior rival, o Firefox da Mozilla [1]. Segundo os dados da StatCounter, os navegadores mais usados são: Google Chrome, Internet Explorer, Firefox, Apple Safari e Opera.
+
+
+== Ver também ==
+História da Internet
+Lista de navegadores
+Guerra dos navegadores
+Acessibilidade
+Motor de renderização
+Google Chrome
+Internet Explorer
+Mozilla Firefox
+Opera
+Safari
+Netscape Navigator
+KHTML
+Gecko
+Navegadores de texto
+Microsoft
+Apple Inc.
+SeaMonkey
+
+
+== Ligações externas ==
+Linha de tempo dos navegadores (1993-2001) (em inglês)
+evolt.org - Arquivo de navegadores (em português)
+Deja Vu: (re-) criando a história da Internet (em inglês)
+História dos navegadores (em inglês)
+
+↑ Dicionário Priberam da Língua Portuguesa. Navegador. Visitado em 24 de março de 2015.

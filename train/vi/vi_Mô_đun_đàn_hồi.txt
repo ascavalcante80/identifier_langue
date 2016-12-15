@@ -1,0 +1,12 @@
+Khi chịu tác động của một ứng suất kéo hoặc nén (lực tác động trên một đơn vị diện tích), một vật phản ứng bằng cách biến dạng theo tác dụng của lực dãn ra hoặc nén lại. Trong một giới hạn biến dạng nhỏ, độ biến dạng này tỷ lệ thuận với ứng suất tác động. Hệ số tỷ lệ này gọi là mô đun đàn hồi. Mô đun đàn hồi của một vật thể được xác định bằng độ dốc của đường cong ứng suất-biến dạng trong vùng biến dạng đàn hồi:
+
+ở đây λ (lambda) là mô đun đàn hồi; ứng suất là lực gây ra biến dạng được chia cho diện tích mà lực tác động vào; và biến dạng là tỷ số thay đổi kích thước được gây ra bởi ứng suất so với kích thước ban đầu của đối tượng.
+Nếu ứng suất được đo theo đơn vị pascal thì biến dạng là một tỷ số không thứ nguyên, khi đó đơn vị của λ cũng là pascal. Theo một định nghĩa khác, mô đun đàn hồi là biến dạng cần thiết để làm cho một mẫu vật liệu tăng gấp đôi chiều dài của nó. Điều này là không thực tế đối với hầu hết các vật liệu bởi giá trị là lớn hơn nhiều so với trường ứng suất của vật liệu hoặc tại điểm nơi sự kéo dài trở nên không tuyến tính, nhưng một số người có thế thấy định nghĩa này trực quan hơn.
+
+
+== Các loại mô đun đàn hồi ==
+Việc định rõ ứng suất và biến dạng được đo như thế nào, bao gồm cả các hướng, cho phép xác định một số loại mô đun đàn hồi. Có ba loại cơ bản là:
+Mô đun Young (E): mô tả đàn hồi dạng kéo, hoặc xu hướng của một vật thể bị biến dạng dọc theo một trục khi các lực kéo được đặt dọc theo trục đó; nó được định nghĩa bằng tỷ số giữa ứng suất kéo cho biến dạng kéo. Nó cũng thường được kể đến một cách đơn giản bằng tên mô đun đàn hồi.
+Mô đun cắt (G hoặc \mu \,) miêu tả xu hướng của một vật thể bị cắt (hình dạng của biến dạng với thể tích không đổi) khi bị tác động bởi các lực ngược hướng; nó được định nghĩa bằng ứng suất cắt chia cho biến dạng kéo. Mô đun cắt là một phần nguồn gốc của tính dẻo (the derivation of viscosity).
+Mô đun khối (K) mô tả biến dạng thể tích, hoặc xu hướng thể tích của một vật thể bị biến dạng dưới một áp lực; nó được định nghĩa bằng tỷ số ứng suất thể tích chia cho biến dạng thể tích, và là nghịch đảo của hệ số nén (compresibility). Mô đun thể tích là trường hợp sự mở rộng của mô đun Young trong không gian ba chiều.
+Các mô đun đàn hồi khác là hệ số Poisson, các thô

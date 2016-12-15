@@ -1,0 +1,34 @@
+cialized equipment, such as that used in spectroscopy.
+Thermal properties of solids include thermal conductivity, which is the property of a material that indicates its ability to conduct heat. Solids also have a specific heat capacity, which is the capacity of a material to store energy in the form of heat (or thermal lattice vibrations).
+
+
+=== Electrical ===
+
+Electrical properties include conductivity, resistance, impedance and capacitance. Electrical conductors such as metals and alloys are contrasted with electrical insulators such as glasses and ceramics. Semiconductors behave somewhere in between. Whereas conductivity in metals is caused by electrons, both electrons and holes contribute to current in semiconductors. Alternatively, ions support electric current in ionic conductors.
+Many materials also exhibit superconductivity at low temperatures; they include metallic elements such as tin and aluminium, various metallic alloys, some heavily doped semiconductors, and certain ceramics. The electrical resistivity of most electrical (metallic) conductors generally decreases gradually as the temperature is lowered, but remains finite. In a superconductor however, the resistance drops abruptly to zero when the material is cooled below its critical temperature. An electric current flowing in a loop of superconducting wire can persist indefinitely with no power source.
+A dielectric, or electrical insulator, is a substance that is highly resistant to the flow of electric current. A dielectric, such as plastic, tends to concentrate an applied electric field within itself which property is used in capacitors. A capacitor is an electrical device that can store energy in the electric field between a pair of closely spaced conductors (called 'plates'). When voltage is applied to the capacitor, electric charges of equal magnitude, but opposite polarity, build up on each plate. Capacitors are used in electrical circuits as energy-storage devices, as well as in electronic filters to differentiate between high-frequency and low-frequency signals.
+
+
+==== Electro-mechanical ====
+Piezoelectricity is the ability of crystals to generate a voltage in response to an applied mechanical stress. The piezoelectric effect is reversible in that piezoelectric crystals, when subjected to an externally applied voltage, can change shape by a small amount. Polymer materials like rubber, wool, hair, wood fiber, and silk often behave as electrets. For example, the polymer polyvinylidene fluoride (PVDF) exhibits a piezoelectric response several times larger than the traditional piezoelectric material quartz (crystalline SiO2). The deformation (~0.1%) lends itself to useful technical applications such as high-voltage sources, loudspeakers, lasers, as well as chemical, biological, and acousto-optic sensors and/or transducers.
+
+
+=== Optical ===
+Materials can transmit (e.g. glass) or reflect (e.g. metals) visible light.
+Many materials will transmit some wavelengths while blocking others. For example, window glass is transparent to visible light, but much less so to most of the frequencies of ultraviolet light that cause sunburn. This property is used for frequency-selective optical filters, which can alter the color of incident light.
+For some purposes, both the optical and mechanical properties of a material can be of interest. For example, the sensors on an infrared homing ("heat-seeking") missile must be protected by a cover which is transparent to infrared radiation. The current material of choice for high-speed infrared-guided missile domes is single-crystal sapphire. The optical transmission of sapphire does not actually extend to cover the entire mid-infrared range (3–5 µm), but starts to drop off at wavelengths greater than approximately 4.5 µm at room temperature. While the strength of sapphire is better than that of other available mid-range infrared dome materials at room temperature, it weakens above 600 °C. A long-standing trade-off exists between optical bandpass and mechanical durability; new materials such as transparent ceramics or optical nanocomposites may provide improved performance.
+Guided lightwave transmission involves the field of fiber optics and the ability of certain glasses to transmit, simultaneously and with low loss of intensity, a range of frequencies (multi-mode optical waveguides) with little interference between them. Optical waveguides are used as components in integrated optical circuits or as the transmission medium in optical communication systems.
+
+
+==== Opto-electronic ====
+
+A solar cell or photovoltaic cell is a device that converts light energy into electrical energy. Fundamentally, the device needs to fulfill only two functions: photo-generation of charge carriers (electrons and holes) in a light-absorbing material, and separation of the charge carriers to a conductive contact that will transmit the electricity (simply put, carrying electrons off through a metal contact into an external circuit). This conversion is called the photoelectric effect, and the field of research related to solar cells is known as photovoltaics.
+Solar cells have many applications. They have long been used in situations where electrical power from the grid is unavailable, such as in remote area power systems, Earth-orbiting satellites and space probes, handheld calculators, wrist watches, remote radiotelephones and water pumping applications. More recently, they are starting to be used in assemblies of solar modules (photovoltaic arrays) connected to the electricity grid through an inverter, that is not to act as a sole supply but as an additional electricity source.
+All solar cells require a light absorbing material contained within the cell structure to absorb photons and generate electrons via the photovoltaic effect. The materials used in solar cells tend to have the property of preferentially absorbing the wavelengths of solar light that reach the earth surface. However, some solar cells are optimized for light absorption beyond Earth's atmosphere as well.
+
+
+== References ==
+
+
+== External links ==
+Wiki on equipment for handling and processing Bulk Solids

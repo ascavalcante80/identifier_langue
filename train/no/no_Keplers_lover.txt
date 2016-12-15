@@ -1,0 +1,79 @@
+Keplers lover for planetenes bevegelser er Johannes Keplers viktigste bidrag til astronomi og astrofysikk. Kepler (1571–1630) var en tysk matematiker. Han studerte planetariske observasjoner gjort av den legendariske danske astronomen Tycho Brahe, og fant mellom 1605 og 1619 at disse observasjonene fulgte tre forholdsvis enkle matematiske lover. Den fysiske forklaringen på planetenes bevegelser kom imidlertid ikke før nesten 100 år senere, da Isaac Newton i sitt verk Principia viste hvordan Keplers lover kunne utledes fra sin bevegelseslov og gravitasjonslov ved hjelp av matematisk analyse.
+Lovene er:
+Planetenes baner er ellipser med sola i det ene brennpunktet.
+Baneradiene sveiper over like store flater på like lange tider.
+Forholdet mellom kvadratet av omløpstiden og middelavstanden fra Solen i tredje potens er det samme for alle planeter.
+Selv om Kepler fant lovene for planetenes bevegelser i Solsystemet, ble det raskt klart at de gjelder for all bevegelse i et tolegemesystem som beveger seg ikke-relativistisk slik at Newtons gravitasjonslov er gyldig.
+I dag utledes disse lovene mer direkte fra Runge-Lenz-vektoren som er konstant i dette tilfellet, eller mer generelt ved bruk av Lagrange-mekanikk.
+
+
+== Kepler-bevegelse ==
+Anta at planeten har masse m og beveger seg kun påvirket av gravitasjonskraften fra Solen med masse M. Da er den potensielle energien til planeten V = - GmM/r hvor G er gravitasjonskonstanten. Denne avhenger bare av avstanden r og er derfor den samme i alle punkt rundt Solen med samme avstand til denne. Bevegelsen skjer da i et plan normalt til dreieimpulsen L = r × p hvor p er impulsen til planeten. Det er da hensiktsmessig å benytte polarkoordinater (r,θ) i dette planet slik at den kinetiske energien kan skrives som
+
+Med disse koordinatene er nå
+
+det konstante impulsmomentet. Ved bruk av Lagrangemekanikk ville man ha forklart dette ved at vinkelen θ er en syklisk variabel da den ikke opptrer i uttrykket for energien til planeten.
+Den totale energien til planeten
+
+er også konstant for bevegelsen. Det kan nå brukes til å finne ligningen r = r(θ) for banen til planeten. Det gjøres enklest ved å bruke den konstante dreieimpulsen til å skrive den tidsderiverte som
+
+etter å ha innført den spesifikke dreieimpulsen λ = L/m. I tillegg er det hensiktsmessig å benytte den inverse radialavstand u = 1/r som avhengig variabel. Da blir
+
+Benyttes denne omskrivningen i uttrykket for energien, tar den ligningen den nye formen
+
+etter å ha innført den spesifikke energien ε = E/m og hvor u' = du/dθ. Deriverer vi nå begge sidene her med hensyn på vinkelen θ, gir venstresiden null da energien til planeten er en konstant. Høyresiden gir da en andre ordens differensialligning
+
+En løsning er opplagt u = GM/λ2 som tilsvarer bevegelse i en sirkel. Dette spesielle tilfellet ser vi foreløbig bort fra.
+Hvis høyresiden var null, ville løsningen av differensialligningen være en oscillerende bevegelse u = u0 cos(θ - θ0) hvor u0 og θ0 er integrasjonskonstanter. Men her er høyresiden en positiv konstant slik at den generelle løsningen blir u = u0 cos(θ - θ0) + GM/λ2. Går man så tilbake til den opprinnelige koordinaten r = 1/u, finner man at banen er gitt ved ligningen
+
+som beskriver et kjeglesnitt. Konstanten p = λ2/GM er semi latus rectum og e = u0 /p er eksentrisiteten for banen. Denne kan finnes ved å sette denne løsningen inn i uttrykket for energien. Det gir at
+
+Når energien ε > 0 er derfor e > 1 og banen er en hyperbel, mens for ε < 0 blir e < 1 og banen er en ellipse. I det spesielle tilfellet at energien ε = 0 degenerer denne til en sirkel som har null eksentrisitet.
+Newtons gravitasjonslov har samme form som Coulombs lov for kraften mellom to elektriske ladninger. Har disse motsatt fortegn, er den elektriske kraften tiltrekkende og begge ladningene vil kunne ha en bundet Kepler-bevegelse i en ellipse. Denne egenskapen ligger bak Bohrs atommodell. Men for ladninger med samme fortegn er kraften frastøtende, og deres gjensidige bevegelse vil kun ha positiv energi. Derfor er eksentrisiteten e > 1 slik at banen alltid må være en hyperbel. Dette er relevant i forklaringen av Rutherfords gullfolieeksperiment med spredning av positiv ladete α - partikler på positive ladete atomkjerner.
+
+
+== Keplers tre lover ==
+Basert på sine observasjoner av planeten Mars som han hadde gjort som assistent for Tycho Brahe, publiserte Kepler sine to første lover i 1609 i sitt verk Astronomia Nova. Ti år senere formulerte han sin tredje lov i det nye verket Harmonices Mundi.
+
+
+=== Første lov ===
+
+Planeten beveger seg i en ellipse som er nærmest solen for θ = θ0. Det er hensiktsmessig å legge koordinatsystemet slik at θ0 = 0. Da er ellipsen beskrevet ved ligningen
+
+slik at for θ = 90° blir r = p som vist i figuren ved siden av.
+Når θ = 0 er planeten i sitt perihelium (nærmest solen) ved minimumsavstanden
+
+mens den for θ = 180° er ved sitt aphelium (lengst fra solen) ved maksimumsavstanden
+
+Den store halvaksen er det aritmetiske gjennomsnittet mellom rmin og rmax,
+
+og den lille halvaksen er det geometriske gjennomsnittet
+.
+Herav følger at b2 = ap.
+
+
+=== Andre lov ===
+
+Den andre loven sier at baneradien sveiper ut like store arealer i løpet av like lange tid. Denne loven er også kjent som loven om like arealer.
+Om vi antar at en planet bruker en dag på å bevege seg fra punkt A til B, vil linjene fra solen til A og B som vist i figuren, utgjøre en vinkelsektor. Keplers andre lov sier at arealet av denne vinkelsektoren vil være like stort som arealet av sektoren som dannes mellom solen og C og D, dersom det også tar en dag for planeten å bevege seg fra C til D.
+Etter et kort tidsinterval gitt ved differensialet dt, vil vinkelsektoren få et tillegg fra en liten trekant som har sider r og rdθ. Den har arealet dA = (1/2)r2dθ slik at flatehastigheten blir
+
+Da drieimpulsen L er konstant, vil også denne hastigheten være konstant og Keplers andre lov er bevist.
+Planeten får altså større fart jo nærmere solen den kommer. Dette skyldes at solens tyngdefelt akselererer planeten mens den nærmer seg mot solen, og bremser den mens den beveger seg bort fra solen. Kepler kjente imidlertid ikke til denne fysiske forklaringen av fenomenet, han bare fastslo at det var slik det skjedde og beskrev det matematisk.
+De to lovene ga Kepler muligheten til å beregne posisjonen til en planet ut fra tiden t som var gått siden planeten befant seg i sitt perihelion, og dens omløpstid T. Beregningen kan gjøres i fire trinn:
+1. Beregn den midlere anomali M fra formelen
+
+2. Beregn den eksentriske anomali E ved å numerisk løse Keplers ligning
+
+3. Beregn vinkelen θ som er den sanne anomali, fra ligningen
+
+4. Beregn den heliosentriske avstanden r fra den første loven
+
+Det var ved en lignenede prosess at Kepler kom frem til sine epokegjørende oppdagelser.
+
+
+=== Tredje lov ===
+
+Den tredje loven sier at forholdet mellom kvadratet av omløpstiden T og middelavstanden a fra Solen i tredje potens er det samme for alle planeter som går i bane rundt det samme legemet:
+
+Denne loven kan bevises ved å benytte at planeten i løp

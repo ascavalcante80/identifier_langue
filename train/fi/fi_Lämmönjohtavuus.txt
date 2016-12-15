@@ -1,0 +1,13 @@
+Lämmönjohtavuus (toisinaan myös lämmönjohtavuuskyky, tunnus λ) kuvaa, miten hyvin jokin materiaali johtaa lämpöä. Mitä suurempi lämmönjohtavuuslukema on, sitä paremmin lämpö johtuu. Lämmönjohtavuus ilmoittaa siirtyvän lämpötehon P poikkipinta-alaa A ja tiettyä materiaalissa vallitsevaa lämpötilagradienttia dT/dx kohti. SI-järjestelmän mukaisesti lämmönjohtavuudelle tulee yksiköksi watti / kelvin·metriä kohti eli W/(K·m). 
+λ = P/(A·dT/dx)
+Materiaalille ominaisen lämmönjohtavuuden avulla voidaan laskea jonkin kappaleen (poikkipinta-ala A ja pituus l) lämpöresistanssi Rth:
+Rth = l / (λ·A)
+Laskentaesimerkkejä liittyen piirilevyihin:
+Lämpöresistanssi 100 mm² kokoisen ja 1 mm paksun piirilevypalasen läpi pinnasta vastapuolen pintaan (FR-4)
+100 mm² = 0,000100 m²
+Rth = l / (λ·A) = 0,001 m / (0,5 W/(K·m)·0,000100m²) = 20 K/W
+Lämpöresistanssi 10 mm leveää ja 10 mm pitkää ja 1 mm paksua piirilevyn palasta pitkin reunasta vastakkaiseen reunaan (FR-4)
+Rth = l / (λ·A) = 0,010 m / (0,5 W/(K·m)·0,010 m·0,001 m) = noin 2000 K/W
+Lämpöresistanssi 10 mm leveää ja 10 mm pitkää piirilevyn kuparifoliota pitkin reunasta vastakkaiseen reunaan (paksuus 0,035 mm)
+Rth = l / (λ·A) = 0,010 m / (390 W/(K·m)·0,010 m·0,000035 m) = noin 73 K/W
+Käytännössä näistä arvoista voi päätellä, että lämpö kulkee piirilevyissä kohtuullisesti lasikuidun 

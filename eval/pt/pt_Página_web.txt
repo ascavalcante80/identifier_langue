@@ -1,0 +1,2 @@
+um servidor web é conhecida como site. Uma sítio web costuma incluir uma página principal chamada index.htm ou index.html.
+Uma dificuldade no desenho e teste de páginas web é torná-las adequadas a muitos navegadores e definições, e a diferentes resoluções de écran.

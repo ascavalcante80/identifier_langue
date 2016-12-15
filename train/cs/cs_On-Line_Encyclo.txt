@@ -1,0 +1,47 @@
+On-Line Encyclopedia of Integer Sequences je databáze celočíselných posloupností volně dostupná na webu. Obsahuje přes 250 000 posloupností (k prosinci 2014), ve kterých lze vyhledávat jak pomocí klíčových slov, tak uvedením části hledané posloupnosti. O každé posloupnosti je uchováváno množství informací včetně odkazů na další literaturu a webové stránky týkající se dané posloupnosti.
+
+
+== Historie ==
+Neil Sloane začal svou sbírku celočíselných posloupností vytvářet v prosinci 1963 jako postgraduální student na Cornell University; tehdy si je poznamenával na děrné štítky. V roce 1973 vydal přehled 2400 posloupností jako knihu A Handbook of Integer Sequences. V průběhu dalších let sbírku rozšiřoval i o velké množství posloupností, které mu posílali čtenáři. V roce 1995 proto spolu se Simonem Plouffem vydal druhý díl knihy, který obsahoval 5500 posloupností, pod názvem The Encyclopedia of Integer Sequences. Zhruba ve stejnou dobu také umožnil k databázi posloupností přistupovat z internetu, tehdy ještě pouze prostřednictvím e-mailu. Po vydání knihy opět začal dostávat velké množství nových posloupností a v roce 1996, když databáze obsahovala již více než 16 000 posloupností, zprovoznil webové stránky databáze. I jejich prostřednictvím se databáze neustále rozšiřuje, zhruba o 10 000 nových posloupností ročně. V roce 2004 dosáhla databáze 100 000 záznamů.
+
+
+== Obsažené informace o posloupnosti ==
+OEIS obsahuje pro každou posloupnost jednu stránku v čistém ASCII textu (neobsahuje tedy obrázky, ale i řecké či jiné zvláštní symboly a matematické vzorce jsou reprezentovány omezenou textovou formou).
+Každá posloupnost v databázi má přiděleno jednoznačné šestimístné identifikační číslo, uváděné s počátečním písmenem A, například A000594 (někdy se identifikátor uvádí bez úvodních nul, např. A594).
+Stránka o posloupnosti, kterou lze nalézt na URL http://www.research.att.com/~njas/sequences/číslo, obsahuje seznam položek s různými informacemi o posloupnosti:
+
+
+=== Položky ===
+Identifikační číslo posloupnosti: V hlavičce záznamu je uvedeno identifikační číslo posloupnosti – písmeno A (původně znamenající „absolutní“) následované šesti číslicemi. Toto číslo přiděluje novým posloupnostem editor, případně si mohou přispěvatelé předem požádat o přidělení balíčku několika čísel, aby mohli poslat skupinu souvisejících posloupností.
+Název: Obsahuje stručný popis či definici posloupnosti. Někdy je přímo v názvu definiční vzorec ( v něm označuje -tý prvek posloupnosti).
+Starší identifikační čísla: Některé posloupnosti mají uvedena také čísla, pod kterými byly uvedeny v knižních vydáních encyklopedie – počáteční písmeno M (např. M5153) odkazuje na The Encyclopedia of Integer Sequences, počáteční písmeno N (např. N2237) odkazuje na A Handbook of Integer Sequences.
+Začátek posloupnosti: Dále je uveden začátek posloupnosti jako seznam hodnot jejích členů, oddělených čárkami. Počet uvedených členů se u různých posloupností liší, zpravidla jich je dost k uvedení několik řádků textu, u některých posloupností však je známo jen několik málo členů (případně jsou konečné).
+Offset: Offset udává index prvního uvedeného členu posloupnosti. Například Fibonacciho posloupnost začíná  a je u ní uvedeno 0, 1, 1, 3, …; jelikož uvedená část posloupnosti začíná členem , je offset 0. Většina posloupností v databázi má offset 0 nebo 1. U posloupností definovaných jako číslice desetinného rozvoje nějaké konstanty je zde řád první číslice (např. rychlost světla ve vakuu je rovna 299792458 m·s−1, takže posloupnost A003678 s hodnotami 2, 9, 9, 7, … má offset 9). Pole navíc obsahuje pořadí (počítané od jedné) prvního členu, který má absolutní hodnotu větší než 1. (U Fibonacciho posloupnosti je to čtvrtý uvedený člen, je zde tedy uvedeno „0, 4“</math>.)
+Komentář: Další podrobnější údaje o posloupnosti, které nejsou uvedeny v jiných polích. Bývají zde uvedeny např. některé známé vlastnosti posloupnosti či další situace, ve kterých se posloupnost objevuje.
+Reference: Seznam citací, odkazů na zdroje, ve kterých lze uvedenou posloupnost nalézt.
+Odkazy: Další hypertextové odkazy na internetové stránky vztahující se k uvedené posloupnosti.
+Vzorec: Obsahuje vzorce pro výpočet členů posloupnosti, rovnice obsahující posloupnost, generující funkce atp.
+Příklad: Podrobnější popis nebo ukázka výpočtu některých hodnot posloupnosti.
+Programy pro výpočet: Definice programů schopných generovat posloupnost. Vyhrazená pole mají programy Maple a Mathematica, programy v jiných systémech se zapisují do společného pole.
+Křížové odkazy: Odkazy na jiné související posloupnosti; jsou zde uvedeny jak posloupnosti tematicky související, tak i posloupnosti sousedící s touto posloupností při seřazení v lexikografickém uspořádání a posloupnosti se sousedními identifikačními čísly.
+Klíčová slova: Seznam předdefinovaných vlastností, které tato posloupnost splňuje; podle nich lze posléze v databázi hledat. Jsou definována následující klíčová slova:base – Posloupnost závisí na použitém základu číselné soustavy.
+bref – Posloupnost nelze analyzovat, neboť je její známá část příliš krátká.
+cofr – Posloupnost popisuje rozvoj čísla do řetězového zlomku.
+cons – Posloupnost popisuje desetinný rozvoj čísla.
+core – Jedná se o důležitou konstantu, která má základní význam pro nějaký matematický obor.
+dead – Chybná nebo duplicitní posloupnost, v popisu je uveden odkaz na správnou verzi.
+dumb – Doslova „hloupá“ – podle nějakého subjektivního názoru se jedná o nedůležitou posloupnost, někdy pocházející ze zcela nematematického kontextu.
+easy – Posloupnost lze snadno vyčíslit.
+eigen – Jedná se o posloupnost vlastních čísel, tedy o posloupnost, která se při nějaké transformaci nemění.
+fini – Posloupnost je konečná (je definována jen pro konečný počet členů).
+frac – Posloupnost je tvořena čitateli nebo jmenovateli nějaké posloupnosti racionálních čísel.
+full – Posloupnost je v databázi uvedena celá (samozřejmě se musí jednat o konečnou posloupnost).
+hard – Členy posloupnosti se těžko určují, toto klíčové slovo zpravidla označuje posloupnosti odkazující na nevyřešené matematické úlohy a další členy obvykle dosud vůbec nejsou známy.
+less – „Méně zajímavá posloupnost“.
+more – Je potřeba do databáze doplnit další členy této posloupnosti (a teoreticky by nemělo být obtížné je doplnit).
+mult – Posloupnost odpovídá multiplikativní funkci, tedy , kdykoli jsou  a  nesoudělná.
+new – Nově přidaná nebo nedávno upravená posloupnost.
+nice – Doslova „hezká“ – posloupnost je (podle nějakého subjektivního hodnocení) nějak výjimečně zajímavá.
+nonn – Zobrazená část posloupnosti obsahuje pouze nezáporná čísla.
+obsc – Posloupnost je považována za nejasnou, je pro ni potřeba lepší definice či popis.
+probation – Posloupnost je v databázi na zkušeb

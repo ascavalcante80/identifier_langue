@@ -1,0 +1,206 @@
+Amharic (/æmˈhærɪk/ or /ɑːmˈhɑrɪk/; Amharic: አማርኛ Amarəñña, IPA: [amarɨɲːa]) is a Semitic language spoken in Ethiopia. It is the second-most spoken Semitic language in the world, after Arabic, and the official working language of the Federal Democratic Republic of Ethiopia. Amharic is also the official or working language of several of the states within the federal system. It has been the working language of government, the military, and the Ethiopian Orthodox Tewahedo Church throughout medieval and modern times. The 2007 census counted nearly 22 million native speakers in Ethiopia. Outside Ethiopia, Amharic is the language of some 2.7 million emigrants. It is written (left-to-right) using Amharic Fidel, ፊደል, which grew out of the Ge'ez abugida—called, in Ethiopian Semitic languages, ፊደል fidel ("writing system", "letter", or "character") and አቡጊዳ abugida (from the first four Ethiopic letters, which gave rise to the modern linguistic term abugida).
+There is no agreed way of transliterating Amharic into Roman characters. The Amharic examples in the sections below use one system that is common, though not universal, among linguists specializing in Ethiopian Semitic languages.
+
+
+== PhonologyEdit ==
+* - Only in words borrowed from English and other languages
+The Amharic ejective consonants correspond to the Proto-Semitic "emphatic consonants", usually transcribed with a dot below the letter. The consonant and vowel tables give these symbols in parentheses where they differ from the standard IPA symbols.
+
+
+== Writing systemEdit ==
+
+The Amharic script is an abugida, and the graphs of the Amharic writing system are called fidel. Each character represents a consonant+vowel sequence, but the basic shape of each character is determined by the consonant, which is modified for the vowel. Some consonant phonemes are written by more than one series of characters: /ʔ/, /s/, /sʼ/, and /h/ (the last one has four distinct letter forms). This is because these fidel originally represented distinct sounds, but phonological changes merged them. The citation form for each series is the consonant+ä form, i.e. the first column of the fidel. A font that supports Ethiopic, such as GF Zemen Unicode, is needed to see fidel on typical modern computer systems.
+
+
+=== AlphasyllabaryEdit ===
+
+
+=== GeminationEdit ===
+As in most other Ethiopian Semitic languages, gemination is contrastive in Amharic. That is, consonant length can distinguish words from one another; for example, alä 'he said', allä 'there is'; yǝmätall 'he hits', yǝmmättall 'he is hit'. Gemination is not indicated in Amharic orthography, but Amharic readers typically do not find this to be a problem. This property of the writing system is analogous to the vowels of Arabic and Hebrew or the tones of many Bantu languages, which are not normally indicated in writing. The noted Ethiopian novelist Haddis Alemayehu, who was an advocate of Amharic orthography reform, indicated gemination in his novel Fǝqǝr Ǝskä Mäqabǝr by placing a dot above the characters whose consonants were geminated, but this practice is rare.
+
+
+=== PunctuationEdit ===
+Punctuation includes the following:
+፠ section mark
+፡ word separator
+። full stop (period)
+፣ comma
+፤ semicolon
+፥ colon
+፦ Preface colon (introduces speech from a descriptive prefix)
+፧ question mark
+፨ paragraph separator
+
+
+== GrammarEdit ==
+Simple Amharic sentences
+One may construct simple Amharic sentences by using a subject and a predicate. Here are a few simple sentences:
+ኢትዮጵያ አፍሪቃ ውስጥ ናት
+ʾItyop̣p̣ya ʾAfriqa wǝsṭ nat
+(lit., Ethiopia Africa inside is)
+'Ethiopia is in Africa.'
+ልጁ ተኝቷል
+Lǝǧu täññǝtʷall.
+(lit., the boy is asleep)
+-u is a definite article. Lǝǧ is 'boy'. Lǝǧu is 'the boy'
+
+'The boy is asleep.'
+አየሩ ደስ ይላል
+Ayyäru däss yǝlall.
+(lit., the weather good is)
+'The weather is good.'
+እሱ ወደ ከተማ መጣ
+Ǝssu wädä kätäma mäṭṭa.
+(lit., he to city came)
+'He came to the city.'
+
+
+=== PronounsEdit ===
+
+
+==== Personal pronounsEdit ====
+In most languages, there is a small number of basic distinctions of person, number, and often gender that play a role within the grammar of the language. We see these distinctions within the basic set of independent personal pronouns, for example, English I, Amharic እኔ ǝne; English she, Amharic እሷ ǝsswa. In Amharic, as in other Semitic languages, the same distinctions appear in three other places within the grammar of the languages.
+Subject–verb agreement
+All Amharic verbs agree with their subjects; that is, the person, number, and (second- and third-person singular) gender of the subject of the verb are marked by suffixes or prefixes on the verb. Because the affixes that signal subject agreement vary greatly with the particular verb tense/aspect/mood, they are normally not considered to be pronouns and are discussed elsewhere in this article under verb conjugation.
+Object pronoun suffixes
+Amharic verbs often have additional morphology that indicates the person, number, and (second- and third-person singular) gender of the object of the verb.
+
+While morphemes such as -at in this example are sometimes described as signaling object agreement, analogous to subject agreement, they are more often thought of as object pronoun suffixes because, unlike the markers of subject agreement, they do not vary significantly with the tense/aspect/mood of the verb. For arguments of the verb other than the subject or the object, there are two separate sets of related suffixes, one with a benefactive meaning (to, for), the other with an adversative or locative meaning (against', to the detriment of, on', at).
+
+Morphemes such as -llat and -bbat in these examples will be referred to in this article as prepositional object pronoun suffixes because they correspond to prepositional phrases such as for her and on her, to distinguish them from the direct object pronoun suffixes such as -at 'her'.
+Possessive suffixes
+Amharic has a further set of morphemes that are suffixed to nouns, signalling possession: ቤት bet 'house', ቤቴ bete, my house, ቤቷ; betwa, her house.
+In each of these four aspects of the grammar, independent pronouns, subject–verb agreement, object pronoun suffixes, and possessive suffixes, Amharic distinguishes eight combinations of person, number, and gender. For first person, there is a two-way distinction between singular (I) and plural (we), whereas for second and third persons, there is a distinction between singular and plural and within the singular a further distinction between masculine and feminine (you m. sg., you f. sg., you pl., he, she, they).
+Amharic is a pro-drop language. That is, neutral sentences in which no element is emphasized normally do not have independent pronouns: ኢትዮጵያዊ ነው ʾityop̣p̣yawi näw 'he's Ethiopian', ጋበዝኳት gabbäzkwat 'I invited her'. The Amharic words that translate he, I, and her do not appear in these sentences as independent words. However, in such cases, the person, number, and (second- or third-person singular) gender of the subject and object are marked on the verb. When the subject or object in such sentences is emphasized, an independent pronoun is used: እሱ ኢትዮጵያዊ ነው ǝssu ʾityop̣p̣yawi näw 'he's Ethiopian', እኔ ጋበዝኳት ǝne gabbäzkwat 'I invited her', እሷን ጋበዝኳት ǝsswan gabbäzkwat 'I invited her'.
+The table below shows alternatives for many of the forms. The choice depends on what precedes the form in question, usually whether this is a vowel or a consonant, for example, for the 1st person singular possessive suffix, አገሬ agär-e 'my country', ገላዬ gäla-ye 'my body'.
+Within second- and third-person singular, there are two additional polite independent pronouns, for reference to people toward whom the speaker wishes to show respect. This usage is an example of the so-called T-V distinction that is made in many languages. The polite pronouns in Amharic are እርስዎ ǝrswo 'you (sg. polite)'. and እሳቸው ǝssaččäw 's/he (polite)'. Although these forms are singular semantically—they refer to one person—they correspond to third-person plural elsewhere in the grammar, as is common in other T-V systems. For the possessive pronouns, however, the polite 2nd person has the special suffix -wo 'your sg. pol.'
+For possessive pronouns (mine, yours, etc.), Amharic adds the independent pronouns to the preposition yä- 'of': የኔ yäne 'mine', ያንተ yantä 'yours m. sg.', ያንቺ yanči 'yours f. sg.', የሷ yässwa 'hers', etc.
+
+
+==== Reflexive pronounsEdit ====
+For reflexive pronouns ('myself', 'yourself', etc.), Amharic adds the possessive suffixes to the noun ራስ ras 'head': ራሴ rase 'myself', ራሷ raswa 'herself', etc.
+
+
+==== Demonstrative pronounsEdit ====
+Like English, Amharic makes a two-way distinction between near ('this, these') and far ('that, those') demonstrative expressions (pronouns, adjectives, adverbs). Besides number, as in English, Amharic also distinguishes masculine and feminine gender in the singular.
+There are also separate demonstratives for formal reference, comparable to the formal personal pronouns: እኚህ ǝññih 'this, these (formal)' and እኒያ ǝnniya 'that, those (formal)'.
+The singular pronouns have combining forms beginning with zz instead of y when they follow a preposition: ስለዚህ sǝläzzih 'because of this; therefore', እንደዚያ ǝndäzziya 'like that'. Note that the plural demonstratives, like the second and third person plural personal pronouns, are formed by adding the plural prefix እነ ǝnnä- to the singular masculine forms.
+
+
+=== NounsEdit ===
+Amharic nouns can be primary or derived. A noun like ǝgǝr 'foot, leg' is primary, and a noun like ǝgr-äñña 'pedestrian' is a derived noun.
+
+
+==== GenderEdit ====
+Amharic nouns can have a masculine or feminine gender. There are several ways to express gender. An example is the old suffix -t for femininity. This suffix is no longer productive and is limited to certain patterns and some isolated nouns. Nouns and adjectives ending in -awi usually take the suffix -t to form the feminine form, e.g. ityop̣p̣ya-(a)wi 'Ethiopian (m.)' vs. ityop̣p̣ya-wi-t 'Ethiopian (f.)'; sämay-awi 'heavenly (m.)' vs. sämay-awi-t 'heavenly (f.)'. This suffix also occurs in nouns and adjective based on the pattern qǝt(t)ul, e.g. nǝgus 'king' vs. nǝgǝs-t 'queen' and qǝddus 'holy (m.)' vs. qǝddǝs-t 'holy (f.)'.
+Some nouns and adjectives take a feminine marker -it: lǝǧ 'child, boy' vs. lǝǧ-it 'girl'; bäg 'sheep, ram' vs. bäg-it 'ewe'; šǝmagǝlle 'senior, elder (m.)' vs. šǝmagǝll-it 'old woman'; t'ot'a 'monkey' vs. t'ot'-it 'monkey (f.)'. Some nouns have this feminine marker without having a masculine opposite, e.g. šärär-it 'spider', azur-it 'whirlpool, eddy'. There are, however, also nouns having this -it suffix that are treated as masculine: säraw-it 'army', nägar-it 'big drum'.
+The feminine gender is not only used to indicate biological gender, but may also be used to express smallness, e.g. bet-it-u 'the little house' (lit. house-FEM-DEF). The feminine marker can also serve to express tenderness or sympathy.
+
+
+===== SpecifiersEdit =====
+Amharic has special words that can be used to indicate the gender of people and animals. For people, wänd is used for masculinity and set for femininity, e.g. wänd lǝǧ 'boy', set lǝǧ 'girl'; wänd hakim 'physician, doctor (m.)', set hakim 'physician, doctor (f.)'. For animals, the words täbat, awra, or wänd (less usual) can be used to indicate masculine gender, and anəst or set to indicate feminine gender. Examples: täbat t'ǝǧa 'calf (m.)'; awra doro 'cock (rooster)'; set doro 'hen'.
+
+
+==== PluralEdit ====
+The plural suffix -očč is used to express plurality of nouns. Some morphophonological alternations occur depending on the final consonant or vowel. For nouns ending in a consonant, plain -očč is used: bet 'house' becomes bet-očč 'houses'. For nouns ending in a back vowel (-a, -o, -u), the suffix takes the form -ʷočč, e.g. wǝšša 'dog', wǝšša-ʷočč 'dogs'; käbäro 'drum', käbäro-ʷočč 'drums'. Nouns that end in a front vowel pluralize using -ʷočč or -yočč, e.g. ṣähafi 'scholar', ṣähafi-ʷočč or ṣähafi-yočč 'scholars'. Another possibility for nouns ending in a vowel is to delete the vowel and use plain očč, as in wǝšš-očč 'dogs'.
+Besides using the normal external plural (-očč), nouns and adjectives can be pluralized by way of reduplicating one of the radicals. For example, wäyzäro 'lady' can take the normal plural, yielding wäyzär-očč, but wäyzazər 'ladies' is also found (Leslau 1995:173).
+Some kinship-terms have two plural forms with a slightly different meaning. For example, wändǝmm 'brother' can be pluralized as wändǝmm-očč 'brothers' but also as wändǝmmam-ač 'brothers of each other'. Likewise, ǝhǝt 'sister' can be pluralized as ǝhǝt-očč ('sisters'), but also as ǝtǝmm-am-ač 'sisters of each other'.
+In compound words, the plural marker is suffixed to the second noun: betä krǝstiyan 'church' (lit. house of Christian) becomes betä krǝstiyan-očč 'churches'.
+
+
+===== Archaic formsEdit =====
+Amsalu Aklilu has pointed out that Amharic has inherited a large number of old plural forms directly from Classical Ethiopic (Ge'ez) (Leslau 1995:172). There are basically two archaic pluralizing strategies, called external and internal plural. The external plural consists of adding the suffix -an (usually masculine) or -at (usually feminine) to the singular form. The internal plural employs vowel quality or apophony to pluralize words, similar to English man vs. men and goose vs. geese. Sometimes combinations of the two systems are found. The archaic plural forms are sometimes used to form new plurals, but this is only considered grammatical in more established cases.
+Examples of the external plural: mämhǝr 'teacher', mämhǝr-an; t'äbib 'wise person', t'äbib-an; kahǝn 'priest', kahǝn-at; qal 'word', qal-at.
+Examples of the internal plural: dǝngǝl 'virgin', dänagǝl; hagär 'land', ahǝgur.
+Examples of combined systems: nǝgus 'king', nägäs-t; kokäb 'star', käwakǝb-t; mäs'ǝhaf 'book', mäs'ahǝf-t.
+
+
+==== DefinitenessEdit ====
+If a noun is definite or specified, this is expressed by a suffix, the article, which is -u or -w for masculine singular nouns and -wa, -itwa or -ätwa for feminine singular nouns. For example:
+In singular forms, this article distinguishes between the male and female gender; in plural forms this distinction is absent, and all definites are marked with -u, e.g. bet-očč-u 'houses', gäräd-očč-u 'maids'. As in the plural, morphophonological alternations occur depending on the final consonant or vowel.
+
+
+==== AccusativeEdit ====
+Amharic has an accusative marker, -(ə)n. Its use is related to the definiteness of the object, thus Amharic shows differential object marking. In general, if the object is definite, possessed, or a proper noun, the accusative must be used (Leslau 1995: pp. 181 ff.).
+The accusative suffix is usually placed after the first word of the noun phrase:
+'He bought this watch.'
+
+
+==== NominalizationEdit ====
+Amharic has various ways to derive nouns from other words or other nouns. One way of nominalizing consists of a form of vowel agreement (similar vowels on similar places) inside the three-radical structures typical of Semitic languages. For example:
+CəCäC: — ṭǝbäb 'wisdom'; hǝmäm 'sickness'
+CəCCaC-e: — wǝffar-e 'obesity'; č'ǝkkan-e 'cruelty'
+CəC-ät: — rǝṭb-ät 'moistness'; 'ǝwq-ät 'knowledge'; wəfr-ät 'fatness'.
+There are also several nominalizing suffixes.
+-ǝnna: — 'relation'; krǝst-ənna 'Christianity'; sənf-ənna 'laziness'; qes-ǝnna 'priesthood'.
+-e, suffixed to place name X, yields 'a person from X': goǧǧam-e 'someone from Gojjam'.
+-äñña and -täñña serve to express profession, or some relationship with the base noun: ǝgr-äñña 'pedestrian' (from ǝgǝr 'foot'); bärr-äñña 'gate-keeper' (from bärr 'gate').
+-ǝnnät and -nnät — '-ness'; ityop̣p̣yawi-nnät 'Ethiopianness'; qǝrb-ənnät 'nearness' (from qǝrb 'near').
+
+
+=== VerbsEdit ===
+
+
+==== ConjugationEdit ====
+As in other Semitic languages, Amharic verbs use a combination of prefixes and suffixes to indicate the subject, distinguishing 3 persons, two numbers and (in all persons except first-person and "honorific" pronouns) two genders.
+
+
+==== GerundEdit ====
+Along with the infinitive and the present participle, the gerund is one of three non-finite verb forms. The infinitive is a nominalized verb, the present participle expresses incomplete action, and the gerund expresses completed action, e.g. ali məsa bälto wädä gäbäya hedä 'Ali, having eaten lunch, went to the market'. There are several usages of the gerund depending on its morpho-syntactic features.
+
+
+===== Verbal useEdit =====
+The gerund functions as the head of a subordinate clause (see the example above). There may be more than one gerund in one sentence. The gerund is used to form the following tense forms:
+present perfect nägro -all/näbbär 'He has said'.
+past perfect nägro näbbär 'He had said'.
+possible perfect nägro yǝhonall 'He (probably) has said'.
+
+
+===== Adverbial useEdit =====
+The gerund can be used as an adverb: alfo alfo yǝsǝqall 'Sometimes he laughs'. ǝne dägmo mämṭat ǝfällǝgallähu 'I also want to come'.
+
+
+=== AdjectivesEdit ===
+Adjectives are words or constructions used to qualify nouns. Adjectives in Amharic can be formed in several ways: they can be based on nominal patterns, or derived from nouns, verbs and other parts of speech. Adjectives can be nominalized by way of suffixing the nominal article (see Nouns above). Amharic has few primary adjectives. Some examples are dägg 'kind, generous', dǝda 'mute, dumb, silent', bi č̣a 'yellow'.
+
+
+==== Nominal patternsEdit ====
+CäCCaC — käbbad 'heavy'; läggas 'generous'
+CäC(C)iC — räqiq 'fine, subtle'; addis 'new'
+CäC(C)aCa — säbara 'broken'; ṭämama 'bent, wrinkled'
+CəC(C)əC — bǝlǝh 'intelligent, smart'; dǝbbǝq' 'hidden'
+CəC(C)uC — kǝbur 'worthy, dignified'; t'ǝqur 'black'; qəddus 'holy'
+
+
+==== Denominalizing suffixesEdit ====
+-äñña — hayl-äñña 'powerful' (from hayl 'power'); ǝwnät-äñña 'true' (from ǝwnät 'truth')
+-täñña — aläm-täñña 'secular' (from aläm 'world')
+-awi — lǝbb-awi 'intelligent' (from lǝbb 'heart'); mǝdr-awi 'earthly' (from mǝdr 'earth'); haymanot-awi 'religious' (from haymanot 'religion')
+
+
+==== Prefix yǝEdit ====
+yǝ-kätäma 'urban' (lit. 'from the city'); yǝ-krästänna 'Christian' (lit. 'of Christianity'); yǝ-wǝšhet 'wrong' (lit. 'of falsehood').
+
+
+==== Adjective noun complexEdit ====
+The adjective and the noun together are called the 'adjective noun complex'. In Amharic, the adjective precedes the noun, with the verb last; e.g. kǝfu geta 'a bad master'; tǝllǝq bet särra (lit. big house he-built) 'he built a big house'.
+If the adjective noun complex is definite, the definite article is suffixed to the adjective and not to the noun, e.g. tǝllǝq-u bet (lit. big-def house) 'the big house'. In a possessive construction, the adjective takes the definite article, and the noun takes the pronominal possessive suffix, e.g. tǝllǝq-u bet-e (lit. big-def house-my) "my big house".
+When enumerating adjectives using -nna 'and', both adjectives take the definite article: qonǧo-wa-nna astäway-wa lǝǧ mäṭṭačč (lit. pretty-def-and intelligent-def girl came) "the pretty and intelligent girl came". In the case of an indefinite plural adjective noun complex, the noun is plural and the adjective may be used in singular or in plural form. Thus, 'diligent students' can be rendered tǝgu tämariʷočč (lit. diligent student-PLUR) or təguʷočč tämariʷočč (lit. diligent-PLUR student-PLUR).
+
+
+== DialectsEdit ==
+There has not been much published about Amharic dialect differences. All dialects are mutually intelligible, but certain minor variations are noted.
+Mittwoch described a form of Amharic spoken by the descendants of Weyto language speakers, but it was likely not a dialect of Amharic so much as the result of incomplete language learning as the community shifted languages from Weyto to Amharic.
+
+
+== LiteratureEdit ==
+There is a growing body of literature in Amharic in many genres. This literature includes government proclamations and records, educational books, religious material, novels, poetry, proverb collections, dictionaries (monolingual and bilingual), technical manuals, medical topics, etc. The Holy Bible was first translated into Amharic by Abu Rumi in the early 19th century, but other translations of the Bible into Amharic have been done since. The most famous Amharic novel is Fiqir Iske Meqabir (transliterated various ways) by Haddis Alemayehu (1909–2003), translated into English by Sisay Ayenew with the title Love unto Crypt, published in 2005 (ISBN 978-1-4184-9182-6).
+
+
+== Translation companiesEdit ==
+
+Because of the rapid growth of Ethiopian communities in Europe, the United States, Canada and Israel, several public service organizations started to offer Amharic language translation and interpretation services.
+
+
+== Rastafari movementEdit ==
+The etymology of the word Rastafari comes from Amharic. Ras Täfäri was the pre-regnal

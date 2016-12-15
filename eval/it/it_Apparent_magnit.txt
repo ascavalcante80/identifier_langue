@@ -1,0 +1,24 @@
+, centrati rispettivamente a 797 e 1220 nm (sistema di Johnson-Morgan-Cousins).
+Una volta scelta la banda su cui osservare, bisogna anche ricordare che ogni rivelatore utilizzato per raccogliere la radiazione (pellicole, sensori CCD, fotomoltiplicatori..) ha una diversa efficienza al variare della frequenza del fotone incidente: dovremo quindi tenere conto anche di queste caratteristiche curve di risposta quando vogliamo risalire alla luminosità di un oggetto osservato. Le pellicole fotografiche utilizzate all'inizio del XX secolo erano molto sensibili alla luce blu e, di conseguenza, nelle fotografie prese a quell'epoca la supergigante blu Rigel appare molto più luminosa della supergigante rossa Betelgeuse di quanto non appaia ad occhio nudo. Di conseguenza le magnitudini ottenute a partire da queste fotografie, conosciute come magnitudini fotografiche, sono oggi considerate obsolete.
+Nella pratica il passaggio dalle magnitudini strumentali a quantità di effettivo significato astrofisico avviene attraverso il confronto con opportune stelle standard, oggetti scelti come riferimento di cui si conosce la luminosità e la distribuzione spettrale.
+
+
+== Tavola delle magnitudini di alcuni oggetti celesti notevoliModifica ==
+Alcune delle magnitudini riportate sopra sono solo approssimative. La sensibilità di un telescopio dipende dal tempo di osservazione, dalla lunghezza d'onda e da interferenze atmosferiche come lo scattering o l'airglow.
+
+
+== NoteModifica ==
+
+
+== Voci correlateModifica ==
+Magnitudine assoluta
+Luminosità (astronomia)
+Lista delle stelle più brillanti del cielo notturno osservabile
+Lista delle stelle storicamente più luminose
+Lux
+Luminosità superficiale
+Modulo di distanza
+
+
+== Collegamenti esterniModifica ==
+The astronomical magnitude scale, su International Comet Quarterly. URL consultato il 2 marzo 2013.

@@ -1,0 +1,332 @@
+I fusi orari sono "spicchi" della superficie terrestre (ogni spicchio è formato da un meridiano e un parallelo), che hanno la stessa ora convenzionale, usate per scopi legali, economici e sociali. Precedentemente alla loro adozione nelle varie zone della Terra si usava l'ora solare locale (media o vera), che produceva un orario più o meno differente da luogo a luogo.
+I fusi orari, unificando una fascia o una zona di un fuso orario, consentono di impostare gli orologi di una regione, o stato, sull'ora solare media del meridiano centrale del fuso in cui la zona ricade.
+La maggior parte dei fusi si discostano dal Tempo Coordinato Universale (UTC) per un numero di ore intero (da UTC−12 a UTC+12), ma alcuni hanno uno scostamento di 30 o 45 minuti (come ad esempio il fuso orario di Terranova è UTC -03:30 e quello del Nepal UTC +05:45). Alcune delle nazioni del nord usano l'ora legale per parte dell'anno, solitamente cambiando l'orario di un'ora. Molti fusi orari terreni sono distorti verso ovest dei corrispondenti fusi orari nautici. Questo crea anche un effetto di ora legale permanente.
+
+
+== Caratteristiche e aggiustamentiModifica ==
+Considerando la Terra come sferica, e considerando che la rotazione terrestre si compie in 24 ore, dividendo i 360° della rotazione per 24 si può immaginare la superficie sferica divisa in 24 "spicchi" di 15° l'uno, che vengono quindi percorsi in un'ora ciascuno. A questi spicchi si dà il nome di fusi orari, e si assume per convenzione che in tutto il fuso ci sia l'ora del meridiano centrale a esso, quello che taglia il fuso esattamente a metà.
+I fusi orari sono perciò centrati sui meridiani con longitudine multipla di 15°; i confini delle zone di fuso orario risultano però irregolari, in quanto seguono solitamente i confini degli stati.
+Tutti i fusi orari sono definiti relativamente al Tempo Coordinato Universale (UTC). Il punto di riferimento per i fusi orari è il meridiano primo (longitudine 000) che passa attraverso l'Osservatorio reale di Greenwich, a Londra, Inghilterra. Per questo motivo il termine Tempo medio di Greenwich (GMT) viene ancora spesso utilizzato (dalla BBC ad esempio) per denotare l'"orario base" al quale tutti i fusi orari sono relativi. UTC è, ciò non di meno, il termine ufficiale per l'odierno orario misurato con gli orologi atomici, distinto da quello determinato dall'osservazione astronomica che veniva svolta a Greenwich.
+Incidentalmente GMT (UTC) è l'ora locale di Greenwich solo tra le 01:00 UTC dell'ultima domenica di ottobre e le 01:00 UTC dell'ultima domenica di marzo. Per il resto dell'anno l'ora locale è UTC+1 (a causa dell'ora estiva).
+L'ora di un luogo è data relativamente all'UTC. Ad esempio:
+Roma: UTC+1 (ovvero se sono le 12:00 UTC, allora sono le 13:00 a Roma)
+Los Angeles, California, USA: UTC-8 (ovvero se sono le 12:00 UTC, allora sono le 04:00 a Los Angeles)
+Mumbai, India: UTC+5,30 (ovvero se sono le 13:00 UTC, allora sono le 18:30 a Mumbai)
+Tokyo, Giappone: UTC+9 (ovvero se sono le 11:00 UTC, allora sono le 20:00 a Tokyo)
+Pechino, Cina: UTC+8 (ovvero se sono le 12:00 UTC, allora sono le 20:00 a Pechino)
+Quando l'aggiustamento dovuto ai fusi orari dà un'ora che oltrepassa la mezzanotte, allora la data locale è spostata al giorno dopo. Alcuni esempi:
+Il Cairo, Egitto: UTC+2 (ovvero se sono le 23:00 UTC di lunedì 15 marzo, allora l'ora del Cairo è la 01:00 di martedì 16 marzo)
+Auckland, Nuova Zelanda: UTC+12 (ovvero se sono le 21:00 UTC di mercoledì 30 giugno, allora l'ora di Auckland è le 09:00 di giovedì 1º luglio)
+Quando l'aggiustamento dovuto ai fusi orari dà un'ora che precede la mezzanotte, allora la data locale è spostata al giorno prima. Alcuni esempi:
+Buenos Aires, Argentina: UTC-3 (ovvero se sono le 02:00 UTC di sabato 23 luglio, allora l'ora di Buenos Aires sono le 23:00 di venerdì 22 luglio)
+Honolulu, Hawaii, USA: UTC-10 (ovvero se sono le 06:00 UTC di lunedì 1º maggio, allora l'ora di Honolulu è le 20:00 di domenica 30 aprile)
+Nota: L'aggiustamento del fuso orario per una specifica locazione può variare a causa dell'uso dell'ora legale.
+ad esempio, la Nuova Zelanda che è normalmente a UTC+12, osserva un aggiustamento di un'ora, dovuto all'ora legale durante l'estate dell'emisfero australe, che risulta in un'ora locale di UTC+13.
+I militari indicano i fusi orari usando delle designazioni a una singola lettera. La "Z" viene usata per indicare l'UTC, i fusi orari in avanti rispetto all'UTC usano le lettere della prima metà dell'alfabeto latino, mentre quelli indietro rispetto all'UTC sono designati usando la seconda metà. Fusi orari con una deviazione dall'UTC di una quantità non intera usano la lettera dell'ora locale intera più vicina all'UTC, con aggiunto * o †. La lettera "J" si riferisce all'ora locale. Non esistono giurisdizioni che osservino il fuso orario designato dalla lettera "Y" (UTC-12), ma quel particolare fuso orario viene comunque riconosciuto per comodità.
+
+
+=== Orario ai poliModifica ===
+Per le regioni polari viene adottata convenzionalmente un'ora corrispondente a UTC per il Polo Nord e UTC+12 al Polo Sud
+
+
+== Le originiModifica ==
+Con l'aumentare del sistema degli scambi e degli spostamenti internazionali incominciò a consolidarsi l'idea dell'importanza di individuare un sistema di coordinamento delle diverse ore locali. Si pensi che solamente il 12 dicembre 1866 Roma e Milano adottarono un'ora comune fissata sull'ora corrispondente al meridiano che passava per il Campidoglio. Qualche giorno più tardi (1º gennaio 1867) anche Torino e Bologna si adeguarono al nuovo sistema, mentre ad esempio Venezia lo fece più tardi (1º maggio 1880) e Cagliari solo nel 1886. Con queste decisioni si passò dall'ora locale, segnata dal passare del sole nelle varie località, a un'ora nazionale. L'introduzione delle diverse ore nazionali non era però ancora sufficiente per realizzare un sistema efficiente di relazioni sul piano internazionale.
+I fusi orari furono proposti per la prima volta da Quirico Filopanti. L'idea però non venne realizzata in quanto non trovò negli stati nazionali di allora o nelle istituzioni economiche degli "sponsor" che promuovessero la loro adozione. Non a caso la loro introduzione viene attribuita a Sanford Fleming, ingegnere capo delle ferrovie canadesi, che riprese l'idea per rispondere alle necessità delle compagnie ferroviarie di avere un orario locale coerente tra le varie stazioni. Il 18 novembre 1883 le ferrovie degli Stati Uniti e del Canada divennero le prime a istituire i fusi orari quando stabilirono quattro fusi orari continentali del Nord America.
+Il sistema dei fusi orari fu discusso nel corso della Conferenza Internazionale dei Meridiani convocata a Washington D.C. nell'ottobre del 1884 a cui parteciparono 25 paesi tra cui l'Italia. La Conferenza stabilì le regole generali del sistema che fu ufficialmente assunto come standard internazionale a partire dal 1º novembre
+In Italia l'adozione del sistema dei fusi orari fu introdotto con un regio decreto del 10 agosto 1893 ed entrò in vigore il 31 ottobre dello stesso anno. Il meridiano di riferimento per il fuso orario al quale appartiene l'Italia passa per il meridiano Termoli – Etna.
+
+
+== Lista dei fusi orari e delle zone in essi contenutiModifica ==
+
+Le regioni segnate con * osservano l'ora legale aggiungendo 1 ora in estate. Si noti che l'orario di alcune regioni differisce di più di 24 ore. I due fusi orari più estremi differiscono di 25 ore quindi, per un'ora al giorno, le date differiscono per due giorni.
+
+
+=== UTC-11 (BEST – Bering Standard Time)Modifica ===
+Designazione militare: X
+Isole Midway
+Niue
+Samoa Americane
+
+
+=== UTC-10 (HST – Hawaii-Aleutian Standard Time)Modifica ===
+Designazione militare: W
+Atollo Johnston
+Isole Cook
+Polinesia Francese (Isole della Società inclusa Tahiti, Isole Tuamotu, Isole Tubuai)
+Stati Uniti (Hawaii)
+Stati Uniti (Isole Aleutine dell'Alaska)*
+
+
+=== UTC-9:30Modifica ===
+Designazione militare: V*
+Polinesia Francese (Isole Marchesi)
+
+
+=== UTC-9 (AKST – Alaska Standard Time)Modifica ===
+Designazione militare: V
+Polinesia Francese (Isole Gambier)
+Stati Uniti (Alaska*)
+
+
+=== UTC-8 (PST – Pacific Standard Time)Modifica ===
+Designazione militare: U
+Canada (Columbia Britannica*, Yukon*)
+Messico (Bassa California Nord*)
+Isole Pitcairn
+Stati Uniti (California*, Idaho (settentrionale)*, Nevada*, Oregon (esclusa la Contea Malheur)*, Stato di Washington*)
+
+
+=== UTC-7 (MST – Mountain Standard Time)Modifica ===
+Designazione militare: T
+Canada (Alberta*, Territori del Nord-Ovest*, Nunavut (montagne)* )
+Messico (Bassa California Sud, Chihuahua, Nayarit, Sinaloa, Sonora*)
+Stati Uniti (Arizona (La nazione Navajo osserva l'ora legale), Colorado*, Idaho (meridionale)*, Montana*, Nebraska (occidentale)*, Nuovo Messico*, Dakota del Nord (occidentale)*, Oregon (Contea Malheur)* Dakota del Sud (occidentale)*, Texas* (occidentale), Utah*, Wyoming*)
+
+
+=== UTC-6 (CST – Central Standard Time)Modifica ===
+Designazione militare: S
+Messico (Città del Messico, Cancun, Yucatan, Chiapas e altri stati non menzionati)*
+Belize
+Canada (Manitoba*, Nunavut (Isola Southampton), Nunavut (centrale)*, Ontario (occidentale)*, Saskatchewan)
+Costa Rica
+Ecuador (Isole Galapagos)
+El Salvador
+Guatemala
+Honduras
+Nicaragua
+Stati Uniti (Alabama*, Arkansas*, Illinois*, Indiana*, Iowa*, Florida (occidentale)*, Kansas*, Kentucky (occidentale)*, Louisiana*, Minnesota*, Mississippi*, Missouri*, Nebraska (orientale)*, Dakota del Nord*, Oklahoma*, Dakota del Sud (orientale)*, Tennessee (centrale e occidentale)*, Texas* (centrale e orientale), Wisconsin*)
+
+
+=== UTC-5 (EST – Eastern Standard Time)Modifica ===
+Designazione militare: R
+Bahamas
+Canada (Nunavut (orientale)*, Ontario*, Quebec*)
+Cile (Isola di Pasqua)
+Colombia
+Cuba*
+Ecuador
+Giamaica
+Haiti
+Isole Cayman
+Isole Turks e Caicos*
+Panamá
+Perù
+Stati Uniti (Connecticut*, Delaware*, Distretto di Columbia*, Florida (orientale e centrale)*, Georgia*, Indiana (gran parte dello stato), Kentucky (orientale e centrale)*, Maine*, Maryland*, Massachusetts*, Michigan*, New Hampshire*, New Jersey*, New York*, Carolina del Nord*, Ohio*, Pennsylvania*, Rhode Island*, Carolina del Sud*, Tennessee (orientale)*, Vermont*, Virginia*, Virginia Occidentale*)
+
+
+=== UTC-4:30Modifica ===
+Designazione militare: Q†
+Venezuela
+
+
+=== UTC-4 (AST – Atlantic Standard Time)Modifica ===
+Designazione militare: Q
+Anguilla
+Antigua e Barbuda
+Antille Olandesi
+Aruba
+Bermuda
+Bolivia
+Brasile (Amazonas, Mato Grosso*, Mato Grosso do Sul*, Pará (occidentale), Rondonia, Roraima)
+Canada (Labrador*, Nuovo Brunswick*, Nuova Scozia*, Isola del Principe Edoardo*)
+Dominica
+Grenada
+Guadalupa
+Guyana
+Isole Falkland*
+Isole Vergini
+Martinica
+Montserrat
+Paraguay*
+Porto Rico
+Repubblica Dominicana
+Saint Kitts e Nevis
+Saint Vincent e le Grenadine
+Santa Lucia
+Trinidad e Tobago
+
+
+=== UTC-3:30 (NST – Newfoundland Standard Time)Modifica ===
+Designazione militare: P*
+Canada (Terranova*)
+
+
+=== UTC-3Modifica ===
+Designazione militare: P
+Argentina
+Brasile (Alagoas, Amapá, Bahia*, Ceará, Distrito Federal*, Espirito Santo*, Goias*, Maranhao, Minas Gerais*, Para (orientale), Paraíba, Paraná*, Pernambuco, Piauí, Rio de Janeiro*, Rio Grande do Norte, Rio Grande do Sul*, Santa Catarina*, San Paolo*, Sergipe, Tocantins*)
+Cile
+Groenlandia
+Guiana Francese*
+Saint Pierre e Miquelon*
+Suriname
+Uruguay
+
+
+=== UTC-2Modifica ===
+Designazione militare: O
+Brasile (Fernando de Noronha)
+Regno Unito (Georgia Australe)
+
+
+=== UTC-1Modifica ===
+Designazione militare: N
+Capo Verde
+Azzorre*
+
+
+=== UTC+0 (WET – West European Time)Modifica ===
+Designazione militare: Z
+Burkina Faso
+Canarie * (Spagna)
+Costa d'Avorio
+Gambia
+Ghana
+Guinea
+Guinea-Bissau
+Irlanda*
+Islanda
+Isole Fær Øer*
+Liberia
+Mali
+Mauritania
+Marocco
+Polo Nord
+Portogallo*
+Regno Unito*
+Sant'Elena
+São Tomé e Príncipe
+Senegal
+Sierra Leone
+Togo
+
+
+=== UTC+1 (CET – Central European Time)Modifica ===
+Designazione militare: A
+Albania*
+Andorra*
+Angola
+Austria*
+Belgio*
+Benin
+Bosnia ed Erzegovina*
+Camerun
+Ciad
+Città del Vaticano*
+Croazia*
+Danimarca*
+Francia*
+Gabon
+Germania*
+Gibilterra*
+Guinea Equatoriale
+Italia*
+Isole Svalbard e Jan Mayen*
+Libia
+Liechtenstein*
+Lussemburgo*
+Macedonia*
+Malta*
+Principato di Monaco*
+Montenegro*
+Namibia*
+Niger
+Nigeria
+Norvegia*
+Paesi Bassi*
+Polonia*
+Repubblica Ceca*
+Repubblica Centroafricana
+Repubblica del Congo
+Repubblica Democratica del Congo (Kinshasa, Bandundu, Bas-Congo, Provincia dell'Equatore)
+San Marino*
+Serbia*
+Slovacchia*
+Slovenia*
+Spagna*
+Svezia*
+Svizzera*
+Tunisia*
+Ungheria*
+
+
+=== UTC+2 (EET – East European Time)Modifica ===
+Designazione militare: B
+Bielorussia*
+Botswana
+Bulgaria*
+Burundi
+Cipro*
+Egitto*
+Estonia*
+Finlandia*
+Giordania
+Grecia*
+Israele*
+Lettonia*
+Lesotho
+Libano*
+Lituania*
+Malawi
+Moldavia*
+Mozambico
+Palestina*
+Repubblica Democratica del Congo (Kasai-Occidental, Kasai-Oriental, Alto Zaire, Katanga)
+Romania*
+Russia (Zona 1*, compresa Kaliningrad)
+Ruanda
+Striscia di Gaza*
+Sudafrica
+Swaziland
+Siria*
+Turchia*
+Ucraina*
+Zambia
+Zimbabwe
+
+
+=== UTC+3 (MSK – Moscow Time)Modifica ===
+Designazione militare: C
+Arabia Saudita
+Bahrain
+Comore
+Eritrea
+Etiopia
+Gibuti
+Iraq*
+Kenya
+Kuwait
+Madagascar
+Mayotte
+Qatar
+Russia (Zona 2*, include Mosca e San Pietroburgo; questo fuso orario si applica anche alle ferrovie di tutta la Russia)
+Somalia
+Sudan
+Sudan del Sud
+Tanzania
+Uganda
+Yemen
+
+
+=== UTC+3:30Modifica ===
+Designazione militare: C*
+Iran
+
+
+=== UTC+4Modifica ===
+Designazione militare: D
+Armenia
+Azerbaigian
+Emirati Arabi Uniti
+Georgia
+Mauritius*
+Oman
+Riunione
+Russia (Zona 3*)
+Seychelles
+
+
+=== UTC+4:30Modifica ===
+Designazione militare: D*
+Afghanistan
+

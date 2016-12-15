@@ -1,0 +1,67 @@
+refore stored and communicated without DST offsets. Hence, an appointment in London at noon in the summer will be represented as 12:00 (UTC +00:00) even though the event will actually take place at 13:00 UTC. In Google calendar, calendar events are stored in "real" UTC and not updated after time-zone changes.
+
+
+=== Operating systems ===
+
+
+==== Unix ====
+
+Most Unix-like systems, including Linux and Mac OS X, keep system time as UTC (Coordinated Universal Time). Rather than having a single time zone set for the whole computer, timezone offsets can vary for different processes. Standard library routines are used to calculate the local time based on the current timezone, normally supplied to processes through the TZ environment variable. This allows users in multiple timezones to use the same computer, with their respective local times displayed correctly to each user. Time zone information most commonly comes from the IANA time zone database. In fact, many systems, including anything using the GNU C Library, can make use of this database.
+
+
+==== Microsoft Windows ====
+Windows-based computer systems prior to Windows 2000 used local time, but Windows 2000 and later can use UTC as the basic system time. The system registry contains time zone information that includes the offset from UTC and rules that indicate the start and end dates for daylight saving in each zone. Interaction with the user normally uses local time, and application software is able to calculate the time in various zones. Terminal Servers allow remote computers to redirect their time zone settings to the Terminal Server so that users see the correct time for their time zone in their desktop/application sessions. Terminal Services uses the server base time on the Terminal Server and the client time zone information to calculate the time in the session.
+
+
+=== Programming languages ===
+
+
+==== Java ====
+While most application software will use the underlying operating system for timezone information, the Java Platform, from version 1.3.1, has maintained its own timezone database. This database is updated whenever timezone rules change. Oracle provides an updater tool for this purpose.
+As an alternative to the timezone information bundled with the Java Platform, programmers may choose to use the Joda-Time library. This library includes its own timezone data based on the IANA time zone database.
+
+
+==== JavaScript ====
+There is very little in the way of timezone support for JavaScript. Essentially the programmer has to extract the UTC offset by instantiating a time object, getting a GMT time from it, and differencing the two. This does not provide a solution for daylight saving variations.
+
+
+==== Perl ====
+The DateTime object supports all time zones in the Olson DB and includes the ability to get, set and convert between time zones.
+
+
+==== PHP ====
+The DateTime objects and related functions have been compiled into the PHP core since 5.2. This includes the ability to get and set the default script timezone, and DateTime is aware of its own timezone internally. PHP.net provides extensive documentation on this. As noted there, the most current timezone database can be implemented via the PECL timezonedb.
+
+
+==== Python ====
+The standard module datetime stores and operates on the timezone information class tzinfo. The third party pytz module provides access to the full IANA time zone database. Negated time zone offset in seconds is stored time.timezone and time.altzone attributes.
+
+
+==== Smalltalk ====
+Each Smalltalk dialect comes with its own built-in classes for dates, times and timestamps, only a few of which implement the DateAndTime and Duration classes as specified by the ANSI Smalltalk Standard. VisualWorks provides a TimeZone class that supports up to two annually recurring offset transitions, which are assumed to apply to all years (same behavior as Windows time zones). Squeak provides a Timezone class that does not support any offset transitions. Dolphin Smalltalk does not support time zones at all.
+For full support of the tz database (zoneinfo) in a Smalltalk application (including support for any number of annually recurring offset transitions, and support for different intra-year offset transition rules in different years) the third-party, open-source, ANSI-Smalltalk-compliant Chronos Date/Time Library is available for use with any of the following Smalltalk dialects: VisualWorks, Squeak, Gemstone, or Dolphin.
+
+
+== Time zones in outer space ==
+Orbiting spacecraft typically experience many sunrises and sunsets in a 24-hour period, or in the case of Apollo program astronauts travelling to the moon, none. Thus it is not possible to calibrate time zones with respect to the sun, and still respect a 24-hour sleep/wake cycle. A common practice for space exploration is to use the Earth-based time zone of the launch site or mission control. This keeps the sleeping cycles of the crew and controllers in sync. The International Space Station normally uses Greenwich Mean Time (GMT).
+Timekeeping on Mars can be more complex, since the planet has a solar day of approximately 24 hours and 39 minutes, known as a sol. Earth controllers for some Mars missions have synchronized their sleep/wake cycles with the Martian day, because solar-powered rover activity on the surface was tied to periods of light and dark. The difference in day length caused the sleep/wake cycles to slowly drift with respect to the day/night cycles on Earth, repeating approximately once every 36 days.
+
+
+== See also ==
+
+Daylight saving time
+ISO 8601
+Jet lag
+List of time zone abbreviations
+List of time zones by country
+Lists of time zones
+Metric time
+Time by country
+World clock
+
+
+== References ==
+
+
+== External links ==
+LEGAL TIME 2015

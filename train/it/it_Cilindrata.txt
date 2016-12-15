@@ -1,0 +1,48 @@
+Per cilindrata in meccanica s'intende il volume d'aria teoricamente aspirato durante un ciclo termico da una macchina volumetrica. Nel caso di una macchina alternativa, è data dal volume descritto dal ciclo del pistone tra il punto morto inferiore e il punto morto superiore.
+Nel caso di motori a più cilindri, tale grandezza va moltiplicata per il loro numero e talvolta la cilindrata così calcolata è detta totale, per distinguerla dalla cilindrata unitaria, che indica il volume riferito ai singoli cilindri.
+
+
+== Misura e misurazione ==
+In meccanica viene indicata generalmente con il centimetro cubo o con il centilitro, oppure in litri; negli USA si usa in alcuni casi il pollice cubico.
+
+
+=== Motori a movimento alternativo ===
+Nei motori con i pistoni a movimento alternativo (anche il motore rotativo a pistoni cade in questa categoria), per ottenere questa misurazione vengono di solito indicati due dati: l'alesaggio e la corsa, espressi in millimetri.
+
+
+=== Motore Wankel ===
+Questa misurazione è molto più complicata nel caso di motore rotativo Wankel, anche per il fatto che in un ciclo termico il motore compie tre aspirazioni; la cilindrata per camera (singola faccia del rotore) è pari a:
+
+Legenda:
+Larghezza, spessore del rotore (lato minore della facciata del rotore);
+Raggio, raggio dello statore, con cui si è generato l'epicicloide.
+Per ottenere la cilindrata di ogni singolo rotore è sufficiente fare una semplice moltiplicazione
+
+Mentre la cilindrata totale è:
+
+
+== Moltiplicatore di cilindrata ==
+Fattore importante per il confronto delle varie tecnologie.
+
+
+=== Premessa ===
+Dato che la potenza sviluppata dal motore è legata a:
+Regime di rotazione: al crescere del regime cresce la potenza; difatti in condizioni ideali un motore da 125 cm³ a 6 000 rpm svilupperà la metà della potenza rispetto a un motore da 125 cm³ a 12 000 rpm (in realtà non è così, perché si modificano i vari rendimenti).
+Cilindrata: maggiore è la cilindrata, maggiore sarà la potenza; difatti in condizioni ideali un motore da 125 cm³ svilupperà la metà della potenza rispetto a un motore da 250 cm³ (in realtà non è così, perché si modificano i vari rendimenti).
+Qualità e impostazione della tecnologia: la qualità delle varie soluzioni e le loro diverse impostazioni giocano un ruolo importante nelle prestazioni.
+Elementi della combustione: il combustibile e il comburente influiscono direttamente sulla resa del motore.
+Rendimenti: rendimento termico (dato dalla combustione), rendimento volumetrico (riempimento del cilindro), rendimento meccanico (attriti generati dal motore).
+
+
+=== Uso ===
+Quindi nelle competizioni e per il confronto tra i diversi tipi di motore, si usa questo fattore in modo da paragonare nel modo più equo il rendimento delle diverse tecnologie; questo fattore viene determinato in modo che il motore di nuova tecnologia sia paragonabile ad un motore con tecnologia a quattro tempi, ed esso viene ricavato mediante la divisione del numero di fasi termiche per il numero delle rotazioni del motore compiute in queste fasi termiche.
+I Moltiplicatori di cilindrata sono:
+Motore a due tempi=2
+dato che il motore a due tempi compie il doppio dei cicli a parità di regime o la metà delle rotazioni a parità dei cicli.
+Motore Wankel=2/3 della cilindrata totale
+dato che il motore Wankel compie 3 cicli a ogni rotazione del rotore e quindi a ogni 3 giri dell'albero motore, si ha un ciclo a ogni rotazione, dove questi cicli hanno 1/3 della cilindrata totale.
+In un motore a quattro tempi la cilindrata totale viene svolta in due rotazioni, mentre in due rotazioni il motore Wankel ha coperto solo i 2/3 della cilindrata totale, quindi un motore a quattro tempi deve avere una cilindrata di due volte la cilindrata unitaria, quindi tramite il rapporto della cilindrata che deve avere il motore a quattro tempi rispetto alla cilindrata totale del Wankel si ha il fattore 2/3.
+
+
+=== Considerazioni ===
+Questo fattore per essere usato correttamente andrebbe accoppiato con il limite di regime massimo e il numero di cilindri, in modo da evitare di favorire un motore rispetto 

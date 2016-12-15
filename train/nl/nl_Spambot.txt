@@ -1,0 +1,6 @@
+Een spambot is een bot (een autonoom opererend stuk software) die ontworpen is om ongewenste e-mailberichten (beter bekend als spam) in grote hoeveelheden naar zo veel mogelijk mensen te sturen of hun berichten op fora te plaatsen. Daarnaast fungeert een spambot ook als een webcrawler die het internet afstruint naar e-mailadressen. Een spambot kan als een stuk malware op iemands computer terechtkomen en het daardoor deel van een botnet maken.
+De programmeurs van zulke spambots zijn erop uit om de vele e-mailadressen die verzameld zijn aan (onofficiële) bedrijven door te verkopen, zodat zij dan via een botnet aan een grote groep mensen ongewenste reclame kunnen versturen.
+
+
+== Beveiliging ==
+Voor het wereldwijde web zien spambots er als gewone gebruikers uit: ze lijken webpagina's met hedendaagse webbrowsers op te vragen en daarom valt er ook weinig tegen te doen. In het begin herkenden dit soort bots alle e-mailadressen op basis van het 'at' teken, ook wel apenstaartje genoemd. Door dit teken op alle websites door een ander teken of woord zoals AT te vervangen, konden alleen mensen begri

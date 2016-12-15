@@ -1,0 +1,49 @@
+Przeglądarka internetowa lub przeglądarka WWW (ang. web browser) – program komputerowy służący do pobierania i wyświetlania stron internetowych udostępnianych przez serwery WWW, a także odtwarzania plików multimedialnych, często przy użyciu dodatków, zwanych wtyczkami.
+
+
+== Cechy nowoczesnych przeglądarek ==
+Przeglądarki internetowe komunikują się z serwerem zazwyczaj za pomocą protokołu HTTP, aczkolwiek w obsłudze są również inne, np. HTTPS, FTP, Gopher. Często wraz z przeglądarką dostarczane są komponenty, które umożliwiają korzystanie z serwerów grup dyskusyjnych (protokół NNTP), poczty elektronicznej (protokoły POP3, IMAP i SMTP) oraz serwerów plików (protokół FTP).
+Trwająca na rynku wojna przeglądarek powoduje, że oprogramowanie do przeglądania stron WWW cały czas ewoluuje w stronę większej ergonomii, użyteczności i wygody użytkownika. Nowoczesne przeglądarki spełniają szereg wymagań – za dobry poziom uznawana jest obecnie obsługa następujących technologii:
+HTTP i HTTPS
+HTML, XML i XHTML
+grafika w formatach: GIF, JPEG, PNG z obsługą półprzezroczystości oraz SVG
+kaskadowe arkusze stylów (CSS)
+JavaScript (w tym DHTML)
+obiektowy model dokumentu (DOM)
+ciasteczka
+Adobe Flash
+aplety Java
+Oprócz tego, rozwijane są następujące funkcje ułatwiające korzystanie z Internetu:
+zakładki (ulubione)
+synchronizacja zakładek i ustawień
+import zakładek i ustawień
+menedżery pobierania plików
+przechowywanie plików w pamięci podręcznej
+obsługa wtyczek i rozszerzeń
+obsługa skórek (motywów), możliwość dostosowania interfejsu do preferencji i potrzeb użytkownika
+przeglądanie w kartach
+zapamiętywanie haseł
+menedżer sesji
+gesty myszy i skróty klawiaturowe
+blokowanie wyskakujących okienek
+zarządzanie prywatnymi danymi (ciasteczka, historia odwiedzin, dane formularzy, hasła itp.)
+sprawdzanie poprawności pisowni (formularze, listy elektroniczne itp.)
+filtry reklam
+powiększanie tekstu, grafik lub całej zawartości strony
+wbudowane programy do obsługi poczty elektronicznej
+czytniki RSS i Atom
+funkcja szybkiego wybierania stron (ang. speed dial)
+wbudowany klient BitTorrent
+tryb prywatny
+
+
+== Historia przeglądarek internetowych ==
+
+Oto lista „kamieni milowych” na przestrzeni ostatnich dwóch dekad.
+WorldWideWeb. Pierwsza przeglądarka Tima Bernersa-Lee, twórcy WWW, przygotowana w grudniu 1990 roku dla platformy NextStep. Program został rozesłany do grupy osób w instytucie CERN w marcu 1991 roku.
+Erwise. Pierwsza przeglądarka z graficznym interfejsem, stworzona w kwietniu 1992 roku przez studentów Helsińskiego Uniwersytetu Technicznego: Kima Nyberga, Teemu Rantanena, Katiego Suominena i Kari Sydänmaanlakka.
+Mosaic. Pierwsza przeglądarka, której udało się zdobyć szeroką popularność. Jej autorami byli Marc Andreessen i Eric Bina z NCSA. Pierwsza wersja Mozaiki została opracowana dla X Window System dla środowisk uniksowych w lutym 1993 roku. Wersję dla Macintosha wydał kilka miesięcy później Aleks Totić. Mosaic interpretował grafikę, dźwięk, klipy wideo, formularze, zawierał zakładki i plik historii. Początkowo program miał status niekomercyjny, ale w sierpniu 1994 roku NCSA przekazał prawa do komercyjnej dystrybucji firmie Spyglass, znanej później ze swoich walidatorów. Spyglass udostępniał potem technologię innym firmom i w ten sposób Mosaic stał się m.in. pierwowzorem Internet Explorera. Program został zamknięty w styczniu 1997 roku.
+Opera. Norweska przeglądarka, która powstała w 1994 roku, przed Netscapem i Internet Explorerem. Jej twórcami byli pracownicy zespołu badawczego z firmy telekomunikacyjnej Telenor w Oslo. W 1995 roku Jon Stephenson von Tetzchner i Geir Ivarsøy opuścili Telenor i założyli przedsiębiorstwo Opera Software. Komercyjna wersja programu Opera 2 pojawiła się latem 1996, natomiast pod koniec 2000 roku przeglądarkę w wersji 5 udostępniono na licencji adware. Począwszy od wersji 8.50 program jest pozbawiony wszelkich reklam.
+Netscape Navigator. Powstała w 1994 roku w firmie Netscape Communications Corporation jako pierwsza komercyjna przeglądarka na rynku. Początkowo była oparta na kodzie źródłowym NCSA Mosaic. 31 marca 1998 roku kod źródłowy Netscape został upubliczniony, co zapoczątkowało rozwój Mozilli Suite, na podstawie której powstały wersje Netscape'a 6 i 7. Wersja 8 bazowała na kodzie przeglądarki Mozilla Firefox.
+Internet Explorer. Została udostępniona 23 sierpnia 1995 roku wraz z Windows 95. Po roku program miał już 1/3 rynku, zaś po kolejnych trzech latach stał się liderem. Obecnie powoli traci na popularności, cały czas jest jednak najpopularniejszą przeglądarką. W Polsce straciła pozycję lidera i ma mniej niż 40 procent udziału w rynku.
+Mozilla Suite. Początkowo Mozilla była nazwą kodową przeglądarki Netscape Navigator oraz maskotką tego pakietu. 31 marca 1998 roku firma Netscape Communications Corporation up

@@ -1,0 +1,73 @@
+A Mértékegységek Nemzetközi Rendszere, röviden SI (Système International d’Unités) modern, nemzetközileg elfogadott mértékegységrendszer, amely néhány kiválasztott mértékegységen, illetve a 10 hatványain alapul. A jelenleg használt SI mértékegységrendszert a 11. Általános Súly- és Mértékügyi Konferencia (General Conference on Weights and Measures) fogadta el 1960-ban.
+A korábbi, nemzetközileg is elfogadott mértékegységrendszert MKSA-nek nevezték, amely a méter, a kilogramm, a másodperc (secundum) és az amper mértékegységeken alapult, nevét ezek kezdőbetűiből alkották. Ezt egészítették ki később (1948-ban) 3 alapmértékegységgel: az erő (newton), az energia (joule) és a teljesítmény (watt) egységekkel.
+A mértékegységek rendszerét az alapegységek, a kiegészítő egységek és a velük leírható származtatott egységek alkotják.
+A mértékegységek nagyságrendjét a prefixumok (előtagok) adják meg.
+A Magyar Népköztársaságban már 1960-tól az SI figyelembevételével készült kormányrendelet (50/1960. Korm. sz.) szabályozta a mértékegységek használatát. 1972-ben megjelent az MSZ 4900 „Fizikai mennyiségek neve, jele és mértékegysége” című magyar szabvány, amely teljes egészében a nemzetközi mértékegységrendszert használta, de kötelező használatát nem írta elő. 1976-ban kiadták a 8/1976.(IV. 27) MT. sz. minisztertanácsi rendeletet, amely már előírta az SI rendszerre való kötelező áttérést. Ez a rendelet az SI kizárólagos, kötelező használatát (azaz más mértékegységek használatának tilalmát) 1980. január 1-jétől írta elő. A Magyar Köztársaság országgyűlése az 1991. évi XLV. törvény 1. mellékletében ismét meghatározta a szabványos magyar mértékegységrendszer alapjait, az 1976 óta ismertté vált tudományos eredmények figyelembevételével. Jelenleg (2013-ban) ez az idevágó joghatályos előírás. Az SI mértékegységrendszer továbbfejlesztése a Mennyiségek Nemzetközi Rendszere, ez gondolkodásmódjában eltérő, de az SI valamennyi mértékegysége változatlan értelmezésű maradt.
+
+
+== MértékegységekSzerkesztés ==
+A nemzetközi rendszer mértékegységeket és prefixumokat tartalmaz. Az SI mértékegységeket két részre lehet osztani. Hét SI-alapegység van, ezek mindegyike dimenziófüggetlen a többitől. Ezzel a hét alapegységgel több származtatott egységet lehet létrehozni. Az SI mértékegységeken kívül több nem SI mértékegység is használatos az SI-vel összhangban.
+SI-prefixumokat lehet hozzátenni a mértékegységekhez, hogy így osztó, vagy szorzó (kisebb, vagy nagyobb) mértékegységhez jussunk. Mindegyik prefixum a 10 hatványa. Például a kilo- ezerszerest, a milli- ezredrésznyit jelent, így ezer milliméter egy méter és ezer méter egy kilométer. A prefixumokat nem lehet többszörösen alkalmazni: a kilogramm milliomod része milligramm és nem mikrokilogramm. Érdekes mértékegységek találhatóak a Sulineten. Mértékegységek és letölthető átváltó (Műszaki portál)
+* Sajátos helyzet áll fenn a tömeg mértékegysége esetében. Maga a mértékegység a gramm, amely durván 1 cm³ tiszta, hideg víz tömege, jele g és a prefixumokat ez elé kell illeszteni. A tömeg SI-alapegysége viszont a kilogramm, amely a nevének megfelelően pontosan 1000 grammot jelent. Az SI rendszer megalkotói nem egy természeti állandóra alapítva rögzítették a tömeg alapegységét, hanem azt a Sèvres-ben gondosan őrzött etalon tömegeként definiálták, és magát a grammot is ebből kell visszaszármaztatni. Ezt a furcsa helyzetet a köztársasági politikai helyzet idézte elő 1795-ben. A név eredetileg a grave volt, de ez a szó rosszul hangzott a forradalmárok számára, mert a német Graf szóra emlékeztetett.
+
+
+=== PrefixumokSzerkesztés ===
+A BIPM és a NIST által közreadott lista:
+
+A magyar mérésügyi törvény csak egyes kiemelt esetekben engedélyezi a hekto, deka, deci, centi előtagokat, mint például a deciliter, vagy dekagramm esetében (a tíz hatványkitevője nem többszöröse a háromnak).
+
+
+=== KoherenciaSzerkesztés ===
+A mértékegységrendszer koherenciája azt jelenti, hogy a rendszerhez tartozó egységeket korlátozás nélkül átszámíthatjuk egymásba, és a számításoknál együtthatókat, vagy matematikai függvényeket nem kell alkalmazni. Valamennyi mértékegység az alapvető mértékegységekből szorzás, vagy hatványozás műveletével levezethető. A kifejezés a kohézió (összetartozás) szóból származik. Rövid meghatározása a MKEH honlapján található.
+Az SI koherenciáját sértő mennyiségek:
+a vákuum permeabilitásának értékében szerepel a 4π
+a Planck-állandó és a Dirac-állandó közötti átszámításban szerepel a 2π
+a prefixumok valójában együtthatóként viselkednek, ezért a prefixumos mértékegységek nem koherens SI mértékegységek: „Ezek előnyösek abból a célból, hogy kifejezhessük olyan mennyiségek mérőszámát, amelyek vagy túl nagyok, vagy túlságosan kicsik a koherens mértékegységhez képest.” Ugyanott: „Bár a prefixumokat az SI mértékegységeivel együtt használjuk, az eredményül kapott egységek nem koherensek többé, mivel a származtatott egységhez illesztett prefixum valójában együtthatóként viselkedik.”
+A prefixumok közt is kifejezetten magyar jelenség a deka „dk”-val való jelölése a nemzetközileg elfogadott „da” helyett. Jellemzően tömeg-mértékegységként „dkg” formában fordul elő, jelentése összetett szóalkotás: deka-gramm. Ez a mértékegység először – hivatalosan – az 1907. évi V. törvénycikkben jelenik meg: „A kilogramm századrésze, dekagramm elnevezéssel, jelzése: dkg”. A jelenleg hatályos 1991. évi XLV. törvény határozottan csak a „da” prefixumot tekinti érvényesnek a deka kifejezésére. A deka a görög tíz számnévből származik.
+Az SI által elfogadott, nem koherens mértékegységek: a csillagászati egység, a km/h, az óra, a nap, a perc, a szögfok, szögperc és szögmásodperc, az elektronvolt, a kWh, a var, a hektár, a neper, a bel (dB), a liter, a tonna és a bar.
+
+
+== Az SI mértékegységrendszer jövőjeSzerkesztés ==
+A XXIV. általános Súly- és Mértékügyi Konferencia 2011. október 16. és 22. között jelentős döntéseket hozott a nemzetközi mértékegységrendszerrel kapcsolatban. Ezek a változások a mértékegységeket általános fizikai állandókkal definiálják. Hét olyan általános természeti állandó értékét rögzítették, amelyek közül többet csak a mérési bizonytalansággal jellemeztek:
+a cézium-133 által kibocsátott fény frekvenciája ν = 9 192 631 770 Hz
+a fény sebessége c= 299 792 458 m/s
+a Planck-állandó h = 6,62606·10−34 J s
+az elemi töltés nagysága e = 1,60217·10−19 C
+a Boltzman-állandó k = 1,3806·10−23 J/K
+az Avogadro állandó NA = 6,02214·1023 mol−1
+a fényhasznosítás értéke Kcd = 683 lm/W
+Ennek megfelelően a hét fizikai alapmennyiség mértékegysége változik:
+a másodpercet a cézium-133 sugárzása alapján
+a métert a fény sebessége alapján
+a kilogrammot a Planck-állandó alapján
+az ampert az elemi töltés értéke alapján
+a kelvint a Boltzmann-állandó alapján
+a mól mértékegységet az Avogadro állandó alapján
+a kandelát a spektrális fényhasznosítás maximális értéke alapján
+A mértékegységek definíciója nem változtatja meg jelentősen az értéküket, de megbízhatóbbá teszi a definíciójukat. A víz hármaspontja termodinamikai hőmérsékletének változása például kisebb lesz 0,25 mK-nél.
+Ezek a változtatások az eddiginél nagyobb eltérést jelentenek majd a definíció és a valóságos mérés között. A kilogramm mérése például a Josephson állandó és a van Klizting állandó alapján, feszültség- és árammérés útján történik; definíciója viszont a Planck-állandóra épül (az anyag–energia ekvivalencia képletére)
+A kilogramm számára két definíciót versenyeztetnek: a szilícium-gömbbel történő, illetve a Watt-mérleggel történő meghatározást. A Watt-mérleggel végzett mérések mérési bizonytalanságát 2011 októberére sikerült a 10−8 érték alá szorítani a NIST, az NPL és a BIPM laboratóriumaiban.
+
+
+== Egyéb, az SI-től eltérő mértékegységrendszerekSzerkesztés ==
+Planck-egységek a részecskefizika eredményeit felhasználva az ott előforduló számításokat nagyban egyszerűsítik.
+CGS rendszer: Korábban Európában használatos mértékegységrendszer, amely a centiméter, a gramm és a másodperc (secundum) mértékegységeken alapult. Az MKSA, majd az SI mértékegységrendszer elterjedése teljesen kiszorította a műszaki gyakorlatból.
+Műszaki–technikai mértékegységrendszer: alapmennyiségként a tömeg helyett az erőt használta. Nem szabványosították, a mérnöki gyakorlatban mégis hosszú ideig használták. Utolsó maradványa a jelenleg is használatos ata („atmoszféra”)
+Brit mértékegységrendszer (Imperial Unit System): A Brit Birodalomban és gyarmatain, majd a Brit Nemzetközösség államaiban elterjedten használt hagyományos mértékegységrendszer. Tömegegysége a font (libra, lb); hosszegysége a láb (foot, ft), illetve ezek változatos, nem-decimális törtrészei, többszörösei és leszármaztatott egységei. Energiaegysége a British Thermal Unit (BTU). Míg az 1970-es években Nagy-Britannia áttért a nemzetközi SI mértékegységrendszerre, az Amerikai Egyesült Államok megtartotta a hagyományos brit mértékrendszert, emiatt több, korábbi brit nemzetközösségi állam sem tért át az SI-re (Ausztrália, Japán, egyes anglofil arab államok stb.). Az Egyesült Államok Szövetségi Törvénye felmentést ad a méterrendszer használata alól, ha az kereskedelmi szempontból előnytelen, így törvényesen is fennáll az a kettősség, hogy a hétköznapi életben a hagyományos mértékegységeket használják, míg a tudományos életben következetesen a méterrendszert.
+
+
+== A mennyiségértékek írásaSzerkesztés ==
+A mennyiségérték a számérték és a mértékegység szorzata. Írásukra angolszász nyelvterületen következő szabályok vonatkoznak:
+1. A számérték utolsó számjegye és az egység jele között egy betűhelyet (space) kell hagyni, pl.
+Kivetélek e szabály alól a felső indexben levő különleges mértékegység-jelek (mint pl. a síkszög egységei, a fok, a perc, a másodperc), ezek a számhoz „tapadnak”, pl.
+2. Ha a mennyiségérték számértékében tizedestört van, akkor a mértékegység jelét az utolsó számjegy után kell írni, például
+3. Ha a mennyiségérték tűréssel van megadva, akkor a számérték a tűréssel együtt zárójelbe kell foglalni, pl.
+4. a számértéket és a mértékegységet nem szabad külön sorba írni, vagyis elválasztani, pl.
+5. a vonatkoztatási egységet nem szabad többszörös osztási művelettel jelölni, pl. egy foglalkoztatási csoport naponkénti tápanyagszükséglete; fejenként és naponként, illetve BIPM
+6. Az összetett mértékegységeket tilos elválasztani, a műveleti jelet nem szabad a következő sorban megismételni, pl.
+7. egy mértékegység jelölésében prefixum csak egyszer szerepelhet (a grammot úgy tekintjük, mintha a kilogramm milli előtagos, tehát prefixumos változata lenne), pl.
+
+
+== LábjegyzetekSzerkesztés ==
+↑ 11. CGPM: BIPM - SI. bipm.org, 2010. (Hozzáférés: 2011. február 11.)
+↑ BME: A

@@ -1,0 +1,137 @@
+Chama-se ano bissexto o ano ao qual é acrescentado um dia extra, ficando ele com 366 dias, um dia a mais do que os anos normais de 365 dias, ocorrendo a cada quatro anos (exceto anos múltiplos de 100 que não são múltiplos de 400). Isto é feito com o objetivo de manter o calendário anual ajustado com a translação da Terra e com os eventos sazonais relacionados às estações do ano. O último ano bissexto foi 2012 e o próximo será 2016.
+A origem do nome bissexto advém da implantação do Calendário Juliano em 48 a.C. que se modificou evoluindo para o Calendário Gregoriano que hoje é usado em muitos países a todos os quais ocorrem os anos bissextos.
+Dentro de um contexto histórico, a inclusão deste dia extra, dito dia intercalar, ocorreu e é feita em calendários ditos solares em diferentes meses e posições. No Calendário Gregoriano é acrescentado ao final do mês de Fevereiro, sendo seu 29º dia.
+Hoje a expressão bissexto vez ou outra é associada ao duplo seis (66) da expressão 366, o que expressa uma coerência mnemônica popular, porém, aos estudiosos é um grande e histórico equívoco.
+
+
+== Motivação dos anos bissextos ==
+Acrescenta-se um dia a mais para se corrigir a discrepância entre o ano-calendário convencional e o tempo de translação da Terra em volta do Sol tomando-se o ano trópico que utiliza o equinócio vernal (ou seja, o equinócio de primavera no hemisfério norte) como referência. A Terra demora aproximadamente 365,2422 dias solares (1 ano trópico) para dar uma volta completa ao redor do Sol, enquanto o ano-calendário comum (por convenção) tem 365 dias solares. Sobram, portanto, aproximadamente 5h48m46 (0,2422 dia) a cada ano trópico. As horas excedentes são somadas e adicionadas ao calendário na forma inteira de um dia (4 x 6h = 1 dia).
+No caso do Calendário Gregoriano este dia extra é incluído no final do mês de fevereiro, que passa a ter 29 dias (ano com 366 dias) em lugar dos 28 dias de anos normais (ano de 365 dias).
+
+
+== Determinação dos anos bissextos ==
+As regras para determinação do ano bissexto são distintas em três períodos:
+
+
+=== Calendário Juliano ===
+O Calendário Juliano vigorou inicialmente de 45 a. C. até 7 d. C.. Em 46 a. C. o ditador Júlio César, no final de seu governo, modifica radicalmente o calendário de Numa Pompílio e a partir de 45 a. C. e durante todo este período inicial de uso deste calendário, o dia extra era acrescentado após o dia 25 de Februarius e deveria ocorrer de três em três anos.
+Foi neste período e em conseqüência da forma com que os romanos contavam os dias do mês que estes anos com um dia a mais ficaram conhecidos como anos bissextos. O erro da inserção de anos bissextos de a cada três anos em vez de quatro só foi detectado cerca de trinta anos mais tarde. Julga-se que este erro tenha sido corrigido pela não existência de anos bissextos entre 12 a. C. e 3 d. C., ou seja, os anos bissextos do calendário juliano foram abandonados nesse período.[carece de fontes?]
+
+
+=== Calendário Augustiano ===
+O Calendário Augustiano vigorou de 8 d. C. até 1581. Em 8 d.C. o imperador César Augusto fez uma correção no calendário e a partir deste ano e durante todo este período até 1581 o dia extra era acrescentado após o dia 24 de Februarius e deveria ocorrer de quatro em quatro anos. Com o passar dos anos, aquela forma de contagem dos dias do mês foi mudando e em lugar de ser interpretado como um duplo dia 24 ele já passou a ser interpretado como um dia a mais que era incluído no final do mês de Fevereiro.
+O senado romano homenageou o imperador trocando o nome do mês Sextilius para Augustus que passou de 30 para 31 dias, sendo retirado de Februarius que passou de 29 para 28 dias o que afetou o ponto de inclusão do dia extra.
+O Calendário Augustiano ou Juliano/Augustiano é considerado muitas vezes como uma revisão pequena do Calendário Juliano, prevalecendo o entendimento de que o Calendário Juliano vigorou de 45 a. C. a 1581.
+
+
+=== Calendário Gregoriano ===
+Em 1582, para corrigir o atraso acumulado, o Papa Gregório XIII modificou e ajustou o calendário, que ficou conhecido como Calendário Gregoriano. Definiu-se que o ajuste deveria ser feito de forma que o equinócio de março caísse no dia 21 daquele mês, o que estava em conformidade com o primeiro Concílio de Niceia (325 d.C). Para isso o Papa Gregório encomendou estudos que permitissem corrigir os erros dos calendários passados buscando definir os ajustes de acordo com a Páscoa cristã, atrelada ao equinócio de março. Buscou também uma regra muito mais precisa para os anos bissextos.
+Entre 325 e 1582 passaram-se 1257 anos. Como no sistema juliano a cada 128 anos haveria a necessidade retirar 1 dia do calendário, acumularam-se, depois de 1257 anos, aproximadamente 10 dias (9,82 dias). Portanto, em 1582, na transição entre os Calendários Juliano e Gregoriano, o dia 4 de outubro foi seguido pelo dia 15 de outubro. Os 10 dias entre eles foram retirados do calendário e não existem na sequência cronológica de contagem do tempo.
+Feitas as correções de calendário definiu-se a nova regra para o cálculo dos anos bissextos:
+De 4 em 4 anos é ano bissexto.
+De 100 em 100 anos não é ano bissexto.
+De 400 em 400 anos é ano bissexto.
+Prevalecem as últimas regras sobre as primeiras.
+Para melhor entender
+São bissextos todos os anos múltiplos de 400, p.ex: 1600, 2000, 2400, 2800...
+São bissextos todos os múltiplos de 4 e não múltiplos de 100, p.ex: 1996, 2004, 2008, 2012, 2016…
+Não são bissextos todos os demais anos.
+Essa regra aproxima o ano trópico pelo valor de 365,2425 dias.
+Em função da nossa longevidade média, é comum e compreensível que nos lembremos apenas da primeira regra, a de quatro em quatro anos, embora a correção dos anos bissextos seja mais complexa.
+Como curiosidade, o ano de 2000 foi o segundo ano em que a terceira regra foi aplicada. Contudo, como foi ano bissexto, o ano de 1900 foi a última vez que a regra da divisão por 100 foi aplicada até os dias atuais; a próxima ocorrerá apenas em 2100.
+
+
+=== Algoritmo de determinação ===
+Eis um pseudocódigo que determina quando um ano é bissexto ou não:
+
+Inicio
+    Declare ano Inteiro;
+    Declare bissexto Booleano;
+    Leia(ano);
+    Se ano módulo 400 é 0 então bissexto=Verdade;
+    Se ano módulo 4 é 0 E ano módulo 100 é diferente de 0 então bissexto=Verdade;
+        Senão bissexto=Falso;
+Fim
+
+Na linguagem C/C++:
+
+Na linguagem Java:
+
+Na Linguagem Python 3.5:
+
+
+== Considerações astronômicas ==
+O fundamento dos anos bissextos rege-se através da astronomia no sentido de se corrigir o início dos calendários solares com o início do ano trópico. O ano trópico da Terra ao redor do Sol é de, aproximadamente 365,242190 dias. Dessa forma a aproximação dos anos bissextos através dos Calendários Juliano e Gregoriano importam em pequenas diferenças acumuladas.
+
+
+=== Calendário Juliano ===
+O Calendário Juliano, implantado em 46 a. C. por Júlio César e válido a partir de 45 a. C., tinha uma regra mais simples que a atual, seriam bissextos, sem exceção, todos os anos múltiplos de três. A regra foi válida de 45 a. C. até 8 d. C. quando o imperador César Augusto viria a modificar para todos os anos múltiplos de quatro.
+Dessa forma a duração média de um ano segundo o Calendário Juliano (Tj) em dias solares é:
+Tj =365 + 1/4= 365,25
+O 1/4 da fórmula acima refere-se ao fato de que há 1 ano bissexto no calendário juliano a cada 4 anos. A diferença entre a duração de 1 ano trópico e Tj é dada por:
+Dj = ano trópico - Tj
+Dj = 365,242190 - 365,250000
+Dj = - 0,00781
+Como a duração média do ano no calendário juliano (Tj) é maior que a duração do ano trópico, para que o ajuste entre o ano sazonal e o ano trópico se mantenha, essa diferença de 0,00781 dia acarreta a necessidade de retirarmos 1 dia do calendário anual a cada 128 anos. Portanto essa fórmula de correção do ano bissexto acaba causando, a longo prazo, atrasos nas estações do ano, o inverso do que ocorreria se nada fosse feito. Veja a conta abaixo:
+Anos para ajuste de 1 dia =1 / 0,00781= 128 anos
+Apesar da existência dessa pequena diferença nada foi feito até 1582 para corrigir a ocorrência dos atrasos, que passaram a ser relevantes para o início das estações do ano.
+
+
+=== Calendário Gregoriano ===
+Estabeleceu-se para o calendário gregoriano que seriam bissextos todos os anos múltiplos de 4, exceto se, sendo um ano múltiplo de 100 (1600, 1700 (…)), não fosse também múltiplo de 400 (1700 por exemplo). Na prática isso significa que há 97 anos bissextos a cada 400 anos. Portanto a duração média de um ano de acordo com o calendário gregoriano (Tg) é:
+Tg = 365 + 1/4 - 1/100 + 1/400
+Tg = 365 + 97/400
+Tg = 365,2425
+Então a diferença entre 1 ano trópico e Tg é:
+Dg = ano trópico - Tg
+Dg = 365,242190 - 365,242500
+Dg = - 0,00031
+Ou seja, ainda há um erro mas é muito menor que o proporcionado pelas regras do calendário juliano. Nessa nova regra adotada pelo calendário gregoriano o erro de 1 dia de atraso ocorrerá só depois de mais de 3000 anos.
+
+
+== A origem do nome bissexto ==
+A origem da expressão bissexto foi uma conseqüência da adoção do Calendário Juliano em 45 a.C. quando Júlio César fez várias modificações no irregular Calendário Romano de Numa Pompilio: acrescentou dois meses Unodecembris e Duodecembris ao ano deslocando assim Januarius e Februarius para o início do ano. Fixou os dias dos meses em uma sequência de 31, 30, 31, 30… de Januarius a Duodecembris (Duodecembris com 30 dias), à exceção de Februarius que ficou com 29 dias e que, a cada três anos, seria de 30 dias.
+Como os romanos dividiam o mês em Calendas, Nonas e Idos, coincidentes com fases lunares, ao passar dos Idos e próximo ao final do mês eles se expressavam em linguagem regressiva dizendo algo como: faltam 6 dias para as Calendas de Março, faltam 5 dias para as Calendas de Março… e também eles o faziam de forma inclusa, …faltam 4 dias, faltam 3 dias, dia anterior e dia. Nesta época era mais importante contar desta forma, pois, ela representava as fases lunares as quais eram muito mais significativas para a vida cotidiana da população.
+Com esta forma de contagem, e não pela numeral seqüencial que hoje usamos, nestes anos de 366 dias o mês de Februarius teria então dois dias "Ante die VI (sextum) Kalendas Martias", sendo daí a origem da expressão "bis sextum", hoje por nós conhecidos como anos bissexto. Transposta e obedecida esta forma de contagem, hoje seria algo equivalente ao mês de Fevereiro ter dois dias 25.
+Veja o exemplo, desde a sua implantação em 45 a.C. até sua alteração em 8 d.C.:
+Como a contagem era inclusa, observe que não existia um 2° dia antes das Calendae. Então o dia antes das Calendae e o 2° dia antes das Calendae significavam a mesma coisa.
+Na prática, fazendo um paralelo entre a forma de expressão romana e a forma de expressão atual, nos anos de 365 dias após 45 a. C. com a implantação do Calendário Juliano, o final do mês de Februarius se apresentaria da seguinte forma:
+
+7° dia antes das Calendae de março (ante diem septimum kalendas martias) = 24 de fevereiro
+6° dia antes das Calendae de março (ante diem sextum kalendas martias) = 25 de fevereiro
+5° dia antes das Calendae de março (ante diem quintum kalendas martias) = 26 de fevereiro
+4° dia antes das Calendae de março (ante diem quartum kalendas martias) = 27 de fevereiro
+3° dia antes das Calendae de março (ante diem tertium kalendas martias) = 28 de fevereiro
+o dia antes das Calendae de março (pridiem kalendas martias) = 29 de fevereiro
+Calendae de março (primus kalendas martias) = 1º de março
+
+Fazendo novamente um paralelo entre a forma de expressão romana e a forma de expressão atual, nos anos de 366 dias, quando se incluía o dia extra próximo ao final de Februarius a expressão de tempo à época ficava da seguinte forma:
+
+7° dia antes das Calendae de março (ante diem septimum kalendas martias) = 24 de fevereiro
+6° dia antes das Calendae de março (ante diem sextum kalendas martias) = 25 de fevereiro
+5° dia antes das Calendae de março (ante diem sextum kalendas martias) = 26 de fevereiro
+4° dia antes das Calendae de março (ante diem quintum kalendas martias) = 27 de fevereiro
+3° dia antes das Calendae de março (ante diem quartum kalendas martias) = 28 de fevereiro
+2° dia antes das Calendae de março (ante diem tertium kalendas martias) = 29 de fevereiro
+o dia antes das Calendae de março (pridiem kalendas martias) = 30 de fevereiro
+Calendae de março ( primus kalendas martias) = 1º de março
+
+O dia era inserido após o sexto dia antes das Calendae de Março e com isto este mês tinha dois dias ante diem sextum kalendas martias, ou seja, era um ano "bis sextum". Isso também explica que o dia extra do mês de Februarius era inserido no 25° dia e não no 29°.
+Após 8 d. C., com a alteração de César Augusto da regra do "bis sextum" de três em três anos para de quatro em quatro anos e após ser retirado um dia de Februarius que ficou com 28 dias, a expressão à época para o final deste mês Februarius, nos anos de 366 dias, ficava da seguinte forma:
+
+7° dia antes das Calendae de março (ante diem septimum kalendas martias) = 23 de fevereiro
+6° dia antes das Calendae de março (ante diem sextum kalendas martias) = 24 de fevereiro
+5° dia antes das Calendae de março (ante diem sextum kalendas martias) = 25 de fevereiro
+4° dia antes das Calendae de março (ante diem quintum kalendas martias) = 26 de fevereiro
+3° dia antes das Calendae de março (ante diem quartum kalendas martias) = 27 de fevereiro
+2° dia antes das Calendae de março (ante diem tertium kalendas martias) = 28 de fevereiro
+o dia antes das Calendae de março (pridiem kalendas martias) = 29 de fevereiro
+Calendae de março ( primus kalendas martias) = 1º de março
+
+O que mostra que após a modificação feita por César Augusto em 8 d. C., nestes anos de 366 dias, o mês de Februarius possuía o equivalente a ter dois dias 24 em função da forma de contagem que à época era praticada pelos romanos.
+
+
+== O ano bissexto e outros calendários ==
+Ao longo do tempo o Calendário Gregoriano foi sendo adotado por diferentes países que procederam a iguais ajustes e supressões de dias e que hoje, como nós, convivem com o ano "bis sextum".
+Outros calendários solares seguiram regras de compensação semelhante, porém, inserindo o dia extra em meses e posições diferentes que é o caso do Calendário Persa onde ele é inserido no fim do ano.
+Calendários lunares e luni-solares onde o ciclo anual é de 354 dias, semelhantemente ao que existia na época de Numa Pompílio, inserem meses in

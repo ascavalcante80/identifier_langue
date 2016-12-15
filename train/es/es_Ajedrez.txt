@@ -1,0 +1,212 @@
+El ajedrez es un juego entre dos personas, cada una de las cuales dispone de 16 piezas móviles que se colocan sobre un tablero dividido en 64 escaques. En su versión de competición está considerado como un deporte.
+Originalmente inventado como un juego para personas, a partir de la creación de computadoras y programas comerciales de ajedrez una partida de ajedrez puede ser jugada por dos personas, por una persona contra un programa de ajedrez o por dos programas de ajedrez entre sí.
+Se juega sobre un tablero cuadriculado de 8×8 casillas, alternadas en colores blanco y negro, que constituyen las 64 posibles posiciones para el desarrollo del juego. Al principio del juego cada jugador tiene dieciséis piezas: un rey, una dama, dos alfiles, dos caballos, dos torres y ocho peones. Se trata de un juego de estrategia en el que el objetivo es «derrocar» al rey del oponente. Esto se hace amenazando la casilla que ocupa el rey con alguna de las piezas propias sin que el otro jugador pueda proteger a su rey interponiendo una pieza entre su rey y la pieza que lo amenaza, mover su rey a un escaque libre o capturar a la pieza que lo está amenazando, lo que trae como resultado el jaque mate y el fin de la partida.
+Este juego, tal como se conoce actualmente, surgió en Europa durante el siglo XV, como evolución del juego persa shatranj, que a su vez surgió a partir del más antiguo chaturanga,    que se practicaba en la India en el siglo VI. La tradición de organizar competiciones de ajedrez empezó en el siglo XVI. El primer campeonato oficial del mundo de ajedrez se organizó en 1886. El ajedrez está considerado por el Comité Olímpico Internacional como un deporte, y las competiciones internacionales están reguladas por la FIDE. Los jugadores compiten a nivel individual en diferentes torneos, aunque también existen competiciones por equipos, siendo una de las más importantes las Olimpíadas de ajedrez.
+
+
+== Historia del ajedrez ==
+
+El predecesor de todos los juegos de la familia del ajedrez, es decir, no solo del ajedrez europeo sino también del xiangqi, shōgi o el markuk, surgió presumiblemente en la India septentrional como juego para cuatro. Este ajedrez primitivo se conocería como chaturanga (चतुरङ्ग en Sánscrito) en Persia y tras la conquista por los árabes continuaría desarrollándose siguiendo las expansiones islámicas.
+Los árabes conquistaron entre los años 632 y 651 el imperio Sasánida. Durante ese tiempo entraron en contacto con el ajedrez. Por ellos llegó el juego, que solo por adaptación fonética se llama shatranj, a su primera época de gran esplendor. Como ajedrecistas de élite se nombra al-Adli (ca. 800-870), quien compuso el primer manual de ajedrez. Le siguen ar-Razi (ca. 825-860), Mawardi (en 900), as-Suli (880-946) y al-Lajlaj (en 970). Importantes fuentes literarias les debemos a Firdausi y a al-Mas'udi. Se desarrolló mediante una rica colección de aperturas (Tabjien) y situaciones finales (Mansuben). Un elemento clave del shatranj son el planteamiento y la resolución de problemas. Los árabes contribuyeron decisivamente a su expansión.
+El juego entró en Europa a través de varios caminos. Uno de los primeros contactos se produjo a través del Imperio bizantino, especialmente en Constantinopla. El ajedrez bizantino o zatrikion, se distingue sin embargo del shatranj. Los varegos trajeron el juego de Constantinopla (Miklagard, para ellos) a Rusia, donde desde comienzos del siglo octavo comenzó a jugarse. A través de los árabes llegó el ajedrez en el siglo noveno a España. El texto europeo más antiguo, en el que se contienen las reglas del juego, es un libro del alto medioevo, titulado Versus de Scachis escrito en versos latinos por un compositor anónimo del siglo décimo. Procede probablemente de entre los años 900 y 950 y de Italia septentrional. Del siglo duodécimo procede un poemario compuesto en hebreo por el filósofo sefardí Abraham ibn Ezra (1089-1164). En el siglo décimo tercero se compuso bajo el patrocinio del rey Alfonso X un famoso manuscrito titulado Libro de los juegos y que trata sobre ajedrez, tablas reales (hoy backgammon) y dados. Desde España se expandió hacia Italia y la Provenza. De ahí, por ejemplo, los nombres de dos famosas aperturas: la española y la italiana.
+Hacia finales del siglo décimo quinto comenzaron a cambiar las reglas de manera decisiva. Se regularían los movimientos del peón, el alfil y la dama. El peón podría ahora dar dos pasos en el primer movimiento (hasta entonces uno solo); el alfil, a cualquier distancia (hasta entonces solo saltaba dos escaques); y la dama, a discreción en cualquiera de las ocho direcciones (antes llamada alferza, avanzaba únicamente un escaque en dirección diagonal), con lo que de repente pasó de ser una figura relativamente débil a convertirse en la más importante del tablero y a dotar de gran espectacularidad al juego.
+Mediante estos ajustes se cambió el juego completamente. Se trata del nacimiento del ajedrez moderno. El nuevo juego exigía distintas tácticas y aperturas. El ejercicio ganó en velocidad y, al mismo tiempo, en popularidad. Estas novedades se introdujeron probablemente en Valencia entre los años 1470 y 1490 y se manifestaron en el poema valenciano Scachs d′amor, el documento más antiguo sobre el ajedrez moderno. Los compositores y a la vez famosos ajedrecistas fueron Francesc de Castellvi, Narcis Vinyoles y Bernat Fenollar. En el año 1495 Francesch Vincent publicó el primer libro de ajedrez con el título Libre dels Jochs Partits dels Schacs en Nombre de 100 ordenat e compost. Durante mucho tiempo se consideró perdido, hasta que en 2005 J. Ant. Garzón descubrió un ejemplar en Italia y lo publicó en su libro El regreso de Francesch Vicent: La historia del nacimiento y expansión del ajedrez moderno. En él afirma que también Fran Francesch Vicent participó de manera decisiva en la gestación del nuevo estilo, si acaso no fue su auténtico iniciador.
+En el año 1498 apareció un libro de ajedrez de Luis Ramírez de Lucena: Repeticion de Amores e Arte de Axedres con CL Juegos de Partido. Pero la caligrafía gótica con que está escrito solo surge hacia 1500, con lo que la autoría y la datación no están claras. Contiene doce aperturas según las nuevas reglas y treinta problemas de ajedrez. Hacia 1512 aparece en Roma el libro de aprendizaje de Pedro Damiano titulado Questo libro e da imparare giocare a scachi et de le partite. Esta primera edición marcó el comienzo del ajedrez moderno. Como consecuencia parece que surgieron círculos ajedrecistas especialmente en la Península Ibérica y en Italia. A finales del siglo décimo sexto era Ruy López de Segura el mejor jugador del mundo. Fue derrotado en 1575 en el primer torneo internacional de la historia organizado en la corte de Felipe II por el calabrés Giovanni Leonardo da Cutro, quien a continuación venció también al mejor jugador portugués, El Morro, y de regreso en Madrid, a su paisano Paolo Boi. De entre los mejores ajedrecistas de su tiempo destaca también Giulio Cesare Polerio. Estas personalidades fundaron la época dorada del ajedrez italiano, que finalizó en 1634 con Alessandro Salvio y la muerte de Gioacchino Greco.
+
+
+== Introducción al juego ==
+
+Una partida de ajedrez se disputa entre dos jugadores; cada uno posee 16 piezas, siendo las de un jugador de color claro, llamadas blancas, y las de su oponente de color oscuro, llamadas negras. Las piezas se mueven sobre un tablero de ajedrez cuadrado de 8×8 = 64 escaques o casillas también cuadradas, alternando colores claro y oscuro (32 y 32). Las piezas de cada jugador al principio de la partida son:
+Un rey
+Una dama, también conocida popularmente como reina.
+Dos alfiles
+Dos caballos
+Dos torres
+Ocho peones
+Cada tipo de pieza se mueve de una forma diferente, lo que determinará su potencia y su importancia en el desarrollo del juego.
+El ajedrez no es un juego de azar, sino un juego racional, ya que cada jugador decidirá el movimiento de sus piezas en cada turno. El desarrollo del juego es tan complejo que ni siquiera los mejores jugadores (o los más potentes ordenadores existentes) pueden llegar a considerar todas las posibles combinaciones: aunque el juego solo pueda desarrollarse en un tablero con solo 64 casillas y 32 piezas al inicio, el número de diferentes partidas que pueden jugarse excede el número de átomos en el universo (véase: Número de Shannon).
+Comienza a jugar quien lleve las blancas, lo que le concede una ventaja pequeña pero esencial en los niveles altos de competición, por lo que el color de las piezas suele sortearse antes de la partida; y en el caso de los torneos se busca que un jugador tenga la misma cantidad de partidas con las piezas blancas que con las negras. A partir de entonces ambos jugadores se turnan para mover alguna de sus piezas. Cada jugador intentará obtener ventaja sobre su oponente, ya sea material o posicional; aunque el objetivo final es atacar al rey de modo que no pueda ser defendido, lo que es conocido como jaque mate.
+La victoria puede obtenerse además, si el rival abandona o se le agota el tiempo. En los torneos también se declara perdedor a quien muestre conducta antideportiva, por ejemplo al negarse a saludar al comienzo de la partida o si suena el teléfono móvil durante ésta.
+Otro resultado posible es el empate o tablas, que se produce en cualquiera de los siguientes casos:
+
+Por acuerdo común
+Cuando ningún jugador tiene piezas suficientes para dar jaque mate
+Si se repite tres veces la misma posición de las piezas en el tablero
+Cuando un jugador, sin estar en jaque, no puede realizar en su turno ninguna jugada legal, lo que se denomina tablas por ahogado
+Cuando después de cincuenta jugadas consecutivas no se ha hecho ninguna captura o se ha avanzado un peón
+
+
+== Elementos del juego ==
+
+Para jugar, es preciso contar con el tablero de ajedrez y las piezas; si bien dos personas que sepan de memoria las posiciones, pueden jugar (a la ciega) simplemente diciendo los movimientos. Además, deben conocerse las reglas del juego. Opcionalmente, puede utilizarse un reloj de ajedrez, que es imprescindible en las competencias.
+También es necesario un espacio físico, donde los jugadores desarrollen sus partidas. En partidas de competición, éstas suelen ser jugadas habitualmente dentro de un Club de ajedrez y si la capacidad o aforo del club de acoger un máximo número de partidas al mismo tiempo es sobrepasada, suelen los organizadores habilitar un edificio, mediante permiso o negociación con sus propietarios, como el espacio abierto de juego de un Estadio cubierto, adaptar una sala de reuniones o utilizar aulas de colegio como locales de juego.
+
+
+=== Las piezas ===
+
+Para diferenciar un bando de otro, las piezas de un jugador son de color distinto, uno dirige las claras, llamadas «las blancas», y el otro las de color oscuro, llamadas «las negras». Cada jugador dispone de 16 trebejos (piezas) de seis tipos distintos, de los cuales cada jugador tiene: ocho peones, dos torres, dos caballos, dos alfiles, una dama (también llamada «reina») y un rey. Cada pieza se mueve en el tablero de forma diferente:
+El Rey se puede mover en cualquier dirección (vertical, horizontal y diagonales) avanzando o retrocediendo una sola casilla (excepto en el enroque, en el cual se mueve 2).
+La Dama también se puede mover en cualquier dirección (vertical, horizontal y diagonales) avanzando o retrocediendo en el tablero el número de casillas que se desee, hasta topar con otra pieza o el borde del tablero.
+El Alfil solo se puede mover en dirección diagonal, tantas casillas como se desee, pero siempre en línea recta.
+La Torre solo se puede mover en las direcciones verticales y horizontales, no en diagonal.
+El Caballo, según la definición oficial, se puede mover a la casilla más cercana que no se encuentre en su propia fila, columna o diagonal, aunque para simplificar se dice que se mueve avanzando 2 casillas en vertical y una en horizontal, o viceversa, realizando un movimiento de ‘L’, siendo la única pieza que puede saltar por encima de las demás piezas.
+El peón puede avanzar una o dos casillas en dirección vertical en su primer movimiento, después de adelantado por primera vez solo puede avanzar una casilla, a diferencia del resto de piezas no puede ir hacia atrás y no puede capturar las piezas contrarias que se encuentran en la misma dirección en la que se mueve, el peón podrá capturar las piezas que se encuentran a una casilla en diagonal respecto a él, no a las que estén delante de ellos (excepto en la toma de peón al paso). Un peón tiene la capacidad de transformarse en la pieza que su jugador desee (normalmente en dama) si es capaz de alcanzar la última fila del tablero opuesta a la de su bando, por lo que un peón puede adquirir un enorme poder táctico en determinadas posiciones donde no tiene oposición para "coronar" (peón pasado).
+La palabra pieza, puede adoptar tres significados, dependiendo del contexto:
+Puede referirse a cualquiera de las 32 figuras.
+Puede hacer referencia solo a la dama, torre, alfil, caballo, y tal vez también al rey, para diferenciarlos de los peones.
+Puede referirse solo a una pieza menor (alfil o caballo). 
+Puesto que las blancas tienen la ventaja de realizar la primera jugada, el color de las piezas se asigna a cada jugador mediante sorteo. En los torneos se procura que un jugador tenga el mismo número de partidas con piezas blancas y con piezas negras, ya sea mediante la elaboración de un fixture, de la alternación de colores en cada ronda, o de la disputa de un número de rondas par.
+El modelo estándar de piezas usado en competiciones recibe el nombre de modelo Staunton (que se ve en la imagen adyacente), diseñado en 1849 por Nathaniel Cook, y llamado así en nombre del campeón inglés del siglo XIX Howard Staunton.
+
+
+=== El tablero de ajedrez ===
+
+El tablero de ajedrez es un cuadrado subdividido en 64 casillas o escaques iguales (8×8), también cuadradas, alternativamente de color claro y de color oscuro. Cada jugador se sitúa de cara al ajedrecista contrincante, colocando el tablero de manera tal que cada jugador tenga una casilla blanca en su esquina derecha.
+Los elementos básicos del tablero son:
+Fila. Es cada una de las ocho líneas de ocho casillas que se forman alineando éstas horizontalmente respecto a los jugadores. Se nombran con números del 1 al 8, comenzando desde la primera fila con respecto al bando de las piezas blancas.
+Columna. Es cada una de las ocho líneas de ocho casillas que se forman alineando éstas verticalmente respecto a los jugadores. Se nombran con letras minúsculas de la a a la h, comenzando desde la primera columna izquierda con respecto al bando de las piezas blancas.
+Diagonal. Es cada una de las 16 líneas que se forman agrupando las casillas diagonalmente. Las dos diagonales mayores tienen ocho casillas.
+Centro. El centro del tablero son los cuatro escaques centrales. Por extensión, a veces se incluyen los 12 que rodean a esos cuatro.
+Esquinas. Cada una de las cuatro casillas ubicadas en las esquinas del tablero.
+Bordes. Las dos columnas (a y h) y dos filas (1 y 8) situadas en los extremos del tablero.
+Un tablero puede tener los números y letras para identificar las filas, columnas y casillas, con el fin de registrar el desarrollo de las partidas mediante la notación algebraica, que es la notación oficial. Es frecuente en el mundo del ajedrez utilizar este sistema para poder reproducir y comentar las partidas. Debe, sin embargo, dejarse constancia de que muchos autores y especialistas han empleado o prefieren continuar utilizando la llamada notación descriptiva.
+
+
+=== El reloj de ajedrez ===
+
+El reloj de ajedrez consiste en un doble cronómetro que mide el tiempo que tiene cada jugador para realizar sus movimientos. Mientras que el reloj del jugador que tiene el turno está en marcha, el de su oponente permanece detenido, hasta cuando el primero efectúe su jugada y detenga su reloj, poniendo así en marcha el reloj del contrario.
+Los relojes de ajedrez analógicos, están basados en un funcionamiento mecánico ya que para que funcionen, en su parte posterior hay una tuerca, la cual debe moverse en un sentido hasta que no se pueda mover más, llamado “darle cuerda al reloj” y que sirve para que el reloj funcione por un tiempo superior al de una partida. Antes de empezar una partida con este tipo de reloj, los jugadores se aseguran de darle cuerda al reloj, para que esté en su capacidad operativa al máximo y no se detenga en mitad de una partida. Estos relojes analógicos disponen de un elemento llamado “bandera”, el cual es sostenido por el minutero durante los últimos tres minutos del tiempo asignado a cada jugador. Cuando se excede ese tiempo, el minutero deja caer la bandera, y el primer jugador cuya bandera cae, pierde la partida si no ha completado las jugadas establecidas o excede el límite de tiempo.
+Actualmente, los más utilizados son los relojes de ajedrez digitales basados en un funcionamiento electrónico, mediante pilas, que permiten configurar diferentes ritmos de juego, como por ejemplo el sistema Fischer (incremento de varios segundos por cada jugada) o el sistema Bronstein (igual que el sistema Fischer pero sin sobrepasar el tiempo inicial asignado); así como determinar con exactitud cuál jugador agota primero su tiempo.
+
+
+=== Ritmos de juego ===
+
+Los controles de tiempo en ajedrez nacen de la necesidad de evitar que los jugadores tarden demasiado en reflexionar sus jugadas, algo muy común hasta finales del siglo XIX. En partidas amistosas, el ritmo de juego es normalmente acordado por los jugadores, que pueden decidir si utilizan un reloj o no. En cambio en torneos oficiales el tiempo disponible para cada jugador depende del tipo de torneo (normal, semirrápidas, ajedrez activo, etc.) y es establecido por la organización del torneo. Un jugador puede disponer de cierto tiempo para toda la partida, o para alcanzar un número de jugadas establecido; además puede recibir o no cierta bonificación en tiempo por cada jugada realizada. Si un jugador agota su tiempo o no es capaz de realizar el número de jugadas asignadas, pierde la partida.
+De acuerdo con la duración de cada partida, esta puede ser:
+Partida Blitz o relámpago: aquella en la cual cada jugador dispone de un máximo de 15 minutos para toda la partida, o bien, todas aquellas partidas con incremento de tiempo por jugada en las que de la suma del incremento multiplicado por 60 y el tiempo inicial de reflexión no se obtenga una cantidad mayor de los 15 minutos.
+Partida rápida: aquella en la cual el tiempo para cada jugador está entre 15 y 60 minutos, o si se juega con incremento, aquella cuyo tiempo de reflexión inicial, más la suma del incremento multiplicado por sesenta, quede comprendida en ese intervalo. Normalmente este ritmo de juego se utiliza en desempates de torneos jugados con ritmo normal, y su tiempo se fija en 25 minutos.
+Partida estándar (ritmo clásico): aquella en la cual el tiempo de reflexión por jugador es mayor de 60 minutos. Este es el ritmo de juego más usado a nivel magistral. En torneos con gran cantidad de participantes, suele existir un control de 90 minutos por jugador más 15 segundos de incremento por jugada, mientras que en torneos de élite se asignan controles de tiempo para cierto número de jugadas, más un tiempo para el final de la partida. También se las denomina partidas de ritmo normal o lento.
+Las partidas sin reloj no tienen un nombre específico, aunque popularmente en España se las llama partidas amistosas o también partidas de café. El nombre de partidas amistosas viene en contraposición a que no es una partida de competición, por tanto el resultado no puede afectar al Elo ni crear disputa por algún tipo de clasificación o premio, ni crear rivalidad debido a esto. El nombre de partidas de café es debido a la costumbre de jugar este tipo de partidas, que no son de competición, en las mesas de un bar-café, generalmente de un centro cultural.
+
+
+== Resumen de las reglas del juego ==
+
+Cuando el juego comienza, un jugador controla 16 piezas blancas y otro jugador controla 16 piezas negras. El color asignado a cada jugador suele sortearse, aunque en el caso de los torneos está en función del emparejamiento de los jugadores. El tablero es colocado de tal forma que ambos jugadores tengan un escaque blanco en la casilla de la esquina derecha respectiva. Las piezas se ubican de la forma en que se muestra en el diagrama adyacente. Las torres, caballos y alfiles más cercanos al rey suelen llamarse de rey (ejemplo: torre de rey) y las más alejadas, más próximas a la dama se llaman de dama (ejemplo: alfil de dama). Asimismo, el lado donde se encuentran en origen ambos reyes se suele llamar flanco rey y el otro flanco dama.
+En el ajedrez tradicional, las piezas se colocan siempre en la forma descrita. Hay variantes (poco frecuentes en la práctica) en las que la situación de las piezas en la primera fila puede variar (Ajedrez aleatorio de Fischer o Ajedrez 960).
+Los jugadores mueven por turnos. En cada turno, un jugador solo puede mover una pieza (con la única excepción de una jugada especial llamada enroque, en la cual el rey mueve dos casillas hacia la derecha o hacia la izquierda y la torre se ubica a su lado opuesto). El jugador que juega con las piezas blancas es siempre el que mueve primero.
+Cada tipo de pieza se mueve de una forma diferente, aunque las normas comunes al movimiento de las piezas son: (ver más en Reglas del ajedrez: Movimiento de las piezas)
+Las piezas no pueden saltar, en su movimiento, una por encima de la otra (a excepción del caballo, que puede saltar sobre otras, moviendo en ‘L’, y de la torre, en el enroque).
+Una pieza no puede ocupar una casilla ocupada por otra pieza del mismo color, pero sí una ocupada por otra del contrario, retirándola del tablero. Esta acción se conoce como “tomar” o “capturar”, y es voluntaria, a decisión del jugador.
+Las casillas a las cuales puede moverse una pieza, se dice que están controladas por ésta. Si una pieza se encuentra dentro de las casillas controladas por una pieza de color contrario, se encuentra atacada por aquélla.
+El rey es la única pieza que no puede moverse o pasar por casillas controladas por piezas contrarias.
+Una jugada que ataque al rey se conoce como jaque; es obligatorio para el jugador cuyo rey esté atacado salir del jaque. Si no hay defensa posible contra un jaque, el rey está en jaque mate. Ese es el objetivo y quien lo inflige al rey rival, gana.
+Una partida de ajedrez también termina cuando un jugador decide rendirse o abandonar, o si excede el tiempo establecido; en ambos casos el oponente gana el juego. También la partida termina cuando no es posible la victoria para ninguno de los jugadores, o si ambos acuerdan este resultado, conocido como tablas o empate. Igualmente la partida termina en tablas si se repite tres veces la misma posición sobre el tablero (por repetición de jugadas), cuando ninguno de los jugadores tiene piezas suficientes para dar jaque mate, o si el jugador que tiene el turno no puede realizar ninguna jugada reglamentaria, situación conocida como ahogado.
+En torneos, y a efecto de computar los resultados, se otorga al ganador de una partida un punto, medio punto a cada jugador que ha hecho tablas, y cero puntos al perdedor de una partida. En algunos torneos se aplican 3 puntos al ganador; un punto a cada jugador si hay tablas y cero puntos al perdedor de una partida.
+
+
+== Resumen de las normas de notación ajedrecística ==
+
+Existen varios sistemas de notación de partidas de ajedrez, cuyo objetivo es registrar las partidas con propósitos documentales. El sistema algebraico es el utilizado y recomendado por la FIDE. También existen otros métodos, como la notación descriptiva (actualmente en desuso), o el sistema de Forsyth-Edwards para anotar posiciones particulares.
+
+Las normas generales de la notación algebraica son:
+Las filas del tablero se nombran con los números del 1 al 8; las piezas blancas ocuparán las filas 1 y 2 y las piezas negras las filas 7 y 8.
+Las columnas del tablero se nombran con las letras minúsculas de la a la h comenzando por la izquierda del jugador con piezas blancas.
+Las casillas reciben el nombre de la columna y la fila correspondientes (e8, d5, c6, etc.)
+Las piezas son designadas por su inicial, excepto el peón: R (Rey), D (Dama), T (Torre), A (Alfil), C (Caballo).
+Una jugada se escribe con la inicial de la pieza y la casilla a la cual se mueve, excepto por el peón, del que se menciona solo la casilla (Ce4, por ejemplo, significa que un caballo mueve a la casilla e4; d5 representa la jugada de un peón de la columna d a la quinta fila).
+Una captura se indica con una x entre la inicial de la pieza (o la columna del peón) y la casilla de la pieza capturada (“Txb5” indica que una torre captura una pieza en b5; “dxe6” indica que el peón de la columna d captura en e6).
+Si dos piezas iguales pueden ir a una misma casilla, se indica la columna de la pieza que mueve; si ambas piezas están en la misma columna, se indica la fila (Ced5 significa que, de entre dos caballos del mismo bando, el ubicado en la columna e mueve a la casilla d5).
+El jaque se indica con un signo ‘+’, y el jaque mate con ‘++’ (o también ‘#’).
+El enroque corto se anota como “0-0”, y el enroque largo se anota como “0-0-0”.
+Una captura al paso se indica con: “a.p.”
+Algunos símbolos utilizados para comentar partidas son:
+!: Buena jugada
+!!: Jugada brillante (muy buena)
+?: Mala jugada
+??: Muy mala jugada
+!?: Jugada interesante
+?!: Jugada dudosa
+±: Ventaja blanca
++/= o ±: Ligera ventaja blanca
++–: Ventaja ganadora blanca
+–/+ o ∓ (símbolo ± invertido): Ventaja negra
+=/+ o ∓ (símbolo ± invertido): Ligera ventaja negra
+–+: Ventaja ganadora negra
+∞: Posición incierta
++: Jaque
+++: Jaque Mate
+
+
+== Etapas del juego ==
+
+En el juego del ajedrez se consideran habitualmente tres etapas:
+La apertura, que comprende las primeras jugadas, donde las piezas van saliendo de sus casillas iniciales.
+El medio juego, cuando los dos bandos aún tienen muchas piezas y peones, y éstos entran en intenso conflicto.
+El final, donde quedan pocas piezas y peones.
+Cada fase de la partida requiere del jugador planteamientos tácticos y estratégicos generalmente distintos. Esto incrementa mucho la complejidad del juego. Se puede decir que el ajedrez es muchos juegos en uno: por ejemplo jugar bien la apertura y el final requiere de habilidades distintas y no es raro encontrar jugadores muy fuertes en una fase y considerablemente más débiles en otra.
+
+
+== Táctica y estrategia ajedrecísticas ==
+
+Normalmente una partida de ajedrez se gana bien por jaque mate, bien porque el contrario sepa que va a recibir inexorablemente jaque mate y, por ello, abandona.
+Sin embargo, ganar una partida muchas veces no implica intentar dar mate al rey enemigo. Entre jugadores fuertes, basta en muchas ocasiones con pequeñas consideraciones inapreciables para un aficionado para estar seguros de la victoria. Se consideran posiciones ganadoras aquéllas en las que se puede demostrar que un bando gana con juego perfecto. Muchas de estas posiciones distan mucho del mate. Un ejemplo muy simple sería el siguiente: si eliminamos la dama (o cualquier otra pieza) de uno de los jugadores al inicio de la partida, es seguro que con juego perfecto el bando que tiene la pieza extra tiene posición ganadora. Llevar la partida hasta jaque mate, sin embargo, puede requerir decenas de jugadas.
+Por tanto, podemos concluir que el objetivo de un jugador, mucho antes que dar jaque mate, es alcanzar una posición ganadora. Esto puede conseguirse de muchos modos. Los más frecuentes pueden englobarse en unas cuantas clases, caracterizadas por el tipo de ventaja que posee el bando fuerte:
+Ganar material sin compensación (de largo el más habitual).
+Conseguir un ataque directo contra el rey.
+Conseguir ventajas posicionales sustanciales como la destrucción de la coordinación de los peones o piezas enemigos, debilitación de la posición del rey contrario, dejar al contrario con piezas muy limitadas en movilidad, etc. Estas ventajas se deberán convertir más adelante en alguna de las dos ventajas anteriores.
+Entre jugadores novatos, las ventajas surgen espontáneamente por graves errores, tales como colocar una pieza en una casilla en donde puede ser capturado, o llevar el rey a una posición fácilmente atacable. Pero entre jugadores más avanzados, las ventajas solo pueden conseguirse de forma mucho más sutil. Los procedimientos que se han ido desarrollando para conseguir ventaja se han englobado en dos grandes tipos: procedimientos tácticos y procedimientos estratégicos.
+Por tanto, todo jugador avanzado sabe que no basta conocer los elementos básicos del juego (tablero, piezas y reglas), sino que es necesario conocer y aplicar correctamente las tácticas y estrategias ajedrecísticas.
+
+
+=== Valor relativo de las piezas ===
+
+En una partida de ajedrez, las piezas suelen tener un valor dependiendo de una situación determinada. En primer lugar, las piezas tienen un valor estático fijado por su movilidad, es decir la cantidad de casillas a las que puede mover sin tener en cuenta la presencia de otras piezas en el tablero. La movilidad de las piezas suele ser mayor mientras más cerca estén del centro del tablero, y menor si están en los bordes o las esquinas. Por ejemplo, un caballo en una esquina puede moverse a un máximo de dos casillas y en un borde puede ir a tres o cinco, mientras que su movilidad máxima es de ocho casillas, cuando está lejos de los bordes del tablero.
+Ya en la partida, las piezas tienen un valor dinámico de acuerdo con la situación de una posición en particular: la presencia de piezas propias y contrarias, las casillas controladas por piezas del oponente, las líneas controladas u ocupadas, y la posibilidad de llevar a cabo planes estratégicos o posicionales. Por ejemplo, un alfil casi siempre es más importante que un caballo, excepto en las posiciones en que haya peones inmóviles del mismo bando del alfil que ocupen las casillas que este controla, limitando su movilidad; por lo cual el caballo, al poder saltar por encima de los peones, es superior en estos casos.
+El valor material de las piezas es una guía para evaluar una posición; el caballo y el alfil suelen denominarse piezas menores por su limitado alcance sobre el tablero (un alfil solo puede ir a las diagonales de casillas blancas y el otro a las diagonales de casillas negras, mientras que el caballo tiene que ir a una casilla de distinto color cada vez que mueve). La torre y la dama se conocen como piezas mayores por su movilidad superior respecto del caballo y el alfil. El rey tiene un valor absoluto: si se pierde el rey, se pierde la partida; aunque con respecto a su movilidad se le asigna un valor intermedio entre el del caballo y el alfil.
+La forma más usual de determinar el valor material de las piezas es tomando el valor del peón como unidad. Así, el valor de las piezas se expresa en peones: el caballo y el alfil valen 3 peones, la torre 5 y la dama 9. Con esto se puede decir, por ejemplo, que dos torres valen más que una dama, o que sacrificar un caballo por tres peones es un cambio aceptable, desde el punto de vista del material. Generalmente se acepta, que la pareja de alfiles es más fuerte que la pareja de caballos.
+
+
+=== La táctica ===
+
+Se entiende por táctica ajedrecística, al conjunto de procedimientos, generalmente implicando una o unas pocas jugadas, por las que un jugador intenta ejecutar en el tablero una idea sencilla. El objetivo de una maniobra táctica es obtener algún tipo de ventaja, entre las cuales la más característica es ganar material.
+
+Por la forma en la que se mueven las piezas, surgen maniobras tácticas características. Por ejemplo, el caballo es capaz de atacar dos casillas alejadas entre sí y sin que importe el que haya muchas piezas alrededor. Eso favorece el que esa pieza pueda realizar con frecuencia ataques dobles (llamados también horquillas). Como su nombre indica, un ataque doble es aquél en el que se ataca a la vez dos piezas, de forma que una de ellas será necesariamente capturada. Otro ejemplo es la maniobra conocida como clavada en donde se ataca cierta pieza por una fila o diagonal y resulta que ésta no puede retirarse (“está clavada”), dado que si lo hace, otra pieza más valiosa que se encuentra tras la pieza atacada en esa fila o diagonal quedaría amenazada. También existe la desviación, en la que una pieza es obligada a abandonar su lugar, en el que ejercía una tarea defensiva. Existen muchas otras maniobras típicas semejantes, que se producen muy frecuentemente y con las que todos los jugadores se familiarizan pronto.
+Un tipo particular de maniobra táctica se conoce como combinación en donde uno de los bandos, muchas veces sacrificando material, fuerza al otro a realizar una serie de jugadas so pena de perder la partida. El objetivo de una combinación es obtener a cambio del material sacrificado ventajas más importantes, tales como el jaque mate, o bien recuperar con creces el material más adelante. Algunas combinaciones requieren de un alto grado de originalidad y fantasía, por lo que son uno de los aspectos más espectaculares del ajedrez. Por ello, algunos jugadores, y muy especialmente el ex campeón mundial Mikhail Tal, se han hecho famosos principalmente por su capacidad de realizar combinaciones inesperadas y tremendamente complicadas.
+
+
+=== La estrategia ===
+
+Se conoce como estrategia ajedrecística al conjunto de planes que realiza un jugador en una partida a medio o largo plazo. Las decisiones estratégicas pueden influir en el futuro de una partida durante muchas jugadas, o incluso en su totalidad.
+Un ejemplo típico de decisión estratégica es la de eliminar piezas con el fin de alcanzar un final de partida. Esto puede ser ventajoso en diversas ocasiones. Por ejemplo, si se tiene ventaja material, dicha ventaja suele ser más fácil de explotar cuanto menos piezas existan. Por otro lado, si el contrario tiene la iniciativa o incluso un fuerte ataque, cambiar piezas puede también contribuir a que dicha iniciativa o ataque se disipe. La decisión estratégica de gran alcance debo cambiar piezas debe entonces llevarse a la práctica por medios concretos, tácticos.
+En la estrategia ajedrecística se suelen definir dos tipos distintos de elementos. Por una parte, están los elementos estáticos, que influyen en la partida durante largos períodos. Por otro lado, están los elementos dinámicos, que influyen durante un periodo más breve. A menudo, las decisiones estratégicas consisten en elegir cuál entre todos los elementos es el más importante. Por ejemplo, a menudo es posible al principio de la apertura conseguir capturar un peón a cambio de un considerable retraso en el desarrollo de las piezas. La pregunta es cuándo la ventaja estática que supone el disponer de más material se verá compensada por la ventaja dinámica que confiere el tener un mejor desarrollo. Esta comparación entre ambas ventajas será lo que hará que un jugador se arriesgue o no a realizar la maniobra de captura.
+Son típicas ventajas estáticas:
+Disponer de más material.
+Una mejor estructura de peones.
+Controlar más espacio, especialmente en el centro del tablero.
+Una mejor posición del rey.
+Piezas móviles contra piezas constreñidas por peones fijados.
+Pareja de alfiles contra alfil y caballo o dos caballos.
+Mientras que son típicas ventajas dinámicas:
+Mejor desarrollo, en la apertura.
+Ganancia de tiempo.
+Disponer de la iniciativa o poder iniciar un ataque.
+Piezas mejor coordinadas.
+Un concepto fundamental dentro de la estrategia ajedrecística es la formulación de un plan de juego en donde el jugador establece lo que desea obtener de una posición. Es en la ejecución del plan de juego, es decir, el paso de las ideas estratégicas generales a la ejecución táctica, donde surge el conflicto entre ambos jugadores.
+A las decisiones estratégicas se las llama también decisiones posicionales, y al juego que se desarrolla sin obvios motivos tácticos, de forma lenta y progresiva, se le suele llamar juego posicional. Los jugadores también se suelen calificar como posicionales o tácticos, según cuál sea su punto más fuerte.
+En la mayoría de los casos, puede determinarse según el conjunto de aperturas usadas por un jugador, según sean abiertas o cerradas, la tendencia a adoptar sistemas posicionales donde se resuelvan a largo plazo y planes menores o tácticos para los que usen aperturas abiertas.
+
+
+=== Relación entre táctica y estrategia ===
+
+Para jugadores poco avanzados, la partida es simplemente una sucesión de episodios tácticos, a menudo no relacionados entre sí. Las partidas parecen ganarse o perderse casi por azar, por ejemplo al “hacer una mala jugada” que pierde material. Al avanzar en el juego, sin embargo, los jugadores adquieren un control tal que los errores más graves van desapareciendo. A partir de entonces, el juego a menudo se define a favor de quien posee una mejor comprensión de cómo jugar una determinada posición, un mayor entendimiento estratégico.
+En general, puede decirse que la táctica es lo más importante para ser un jugador fuerte, dado que el cálculo de variantes concretas sin excesivos errores es esencial para poder jugar a un alto nivel. Sin embargo, la inmensa mayoría de posiciones de ajedrez son tan complicadas que el simple cálculo no basta para orientarse y por tanto, se debe recurrir en muchas ocasiones a evaluar las opciones existentes mediante una visión global de cómo va a desarrollarse la partida a medio-largo plazo. Normalmente un jugador que es muy fuerte estratégicamente y más débil tácticamente usará con frecuencia su intuición en sus decisiones. Los jugadores muy avanzados son capaces de desarrollar una intuición ajedrecística que les permite descartar rápidamente las jugadas erróneas sin apenas calcular.
+Por tanto, un gran jugador será aquél que obtenga un buen equilibrio entre táctica y estrategia. Aun así, cada jugador tiene puntos fuertes y débiles. Incluso entre los campeones mundiales pueden señalarse algunos que poseían sobre todo una acertadísima y original visión posicional (José Raúl Capablanca, Alexander Alekhine, Mikhail Botvinnik, Tigran Petrosian, Anatoly Karpov) y los que destacaron sobre todo por su extraordinaria capacidad táctica (Emanuel Lasker, Alexander Alekhine, Mikhail Tal).
+
+
+== Clasificación de los jugadores atendiendo a su fuerza ==
+
+La fuerza de los jugadores de ajedrez oscila entre aquellos que apenas si saben cómo mover las piezas y los que son capaces de jugar partidas esencialmente sin errores y con una profundidad de ideas pasmosa. Para jugadores avanzados, se han establecido una serie de clasificaciones que en parte se basan en si un jugador es capaz de obtener una serie de resultados mínimos en ciertos torneos, contra jugadores de un nivel predeterminado, y en parte, y cada vez más comúnmente, en su fuerza evaluada de acuerdo con todos sus resultados y resumida en la puntuación Elo.
+Ésta es quizás la clasificación de los jugadores según su puntuación Elo más ampliamente aceptada:
+De 0 a 1400 puntos: Nivel Principiante. Estos jugadores tienen poca experiencia y su juego se caracteriza por mostrar numerosos errores evidentes y fácilmente detectables por un jugador habitual durante la partida, como por ejemplo situar piezas en casillas donde el oponente puede capturarlas sin más o realizar aperturas claramente defectuosas que no responden a ninguna estrategia ni coordinación.
+Entre 1400 y 1600 puntos: Nivel Aficionado o de jugador de club medio. En este nivel los jugadores ya denotan tener ciertos conocimientos sobre la táctica y estrategia del ajedrez, aunque estos conocimientos han sido mayormente adquiridos por la propia experiencia obtenida durante las partidas y no por un estudio riguroso del juego, lo que les hace incurrir en errores fácilmente detectables para un jugador profesional. En las partidas entre aficionados aún es frecuente ver fallos graves como el olvido de proteger un peón atacado o la ejecución de jugadas sin ninguna finalidad. Las federaciones o clubes suelen asignar una puntuación Elo inicial de 1400 a los jugadores que ingresan por primera vez en su escalafón.
+Entre 1600 y 2100 puntos de Elo: Nivel semiprofesional o de jugador de club fuerte. Este intervalo engloba a la amplia mayoría de los jugadores de club no profesionales. Los jugadores de este nivel desarrollan un ajedrez correcto donde es raro encontrar errores graves. Incluso un Gran Maestro necesitará normalmente muchas jugadas para dar mate a un jugador de club pero probablemente no necesitará muchas para conseguir una pos

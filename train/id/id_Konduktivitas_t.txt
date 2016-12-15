@@ -1,0 +1,10 @@
+Konduktivitas atau keterhantaran termal, k, adalah suatu besaran intensif bahan yang menunjukkan kemampuannya untuk menghantarkan panas. Konduksi termal adalah suatu fenomena transport di manaperbedaan temperatur menyebabakan transfer energi termal dari satudaerah benda panas ke daerah yang sama pada temperatur yang lebihrendah. Panas yang di transfer dari satu titik ke titik lain melalui salahsatu dari tiga metoda yaitu konduksi, konveksi, dan radiasi.
+konduktivitas termal = laju aliran panas × jarak / ( luas × perbedaan suhu )
+
+Besaran ini didefinisikan sebagai panas, Q, yang dihantarkan selama waktu t melaui ketebalan L, dengan arah normal ke permukaan dengan luas A yang disebabkan oleh perbedaan suhu ΔT dalam kondisi tunak dan jika perpindahan panas hanya tergantung dengan perbedaan suhu tersebut.
+
+
+== Pranala luar ==
+http://physics.nist.gov/Pubs/SP811/appenB9.html
+http://www.npl.co.uk/thermal/faq_index.html#heat%20transfer%20property thermophysics FAQ5
+http://www.ornl.gov/ro

@@ -1,0 +1,24 @@
+ora, mentre quando è in vigore l'ora legale si usa l'orario CEST che è pari a UTC +2 ore.
+I fusi orari coincidono con l'ora invernale locale (detta anche ora solare) e non cambiano con l'ora legale.
+
+
+== NoteModifica ==
+^ (EN) Why is UTC used as the acronym for Coordinated Universal Time instead of CUT?, dal National Institute of Standards and Technology
+^ Windows (da XP in poi) rappresenta le date a partire dalla mezzanotte del 1º gennaio dell'anno 1 d.c.
+
+
+== Voci correlateModifica ==
+Tempo
+Tempo Atomico Internazionale
+Orologio atomico
+Network Time Protocol
+Greenwich Mean Time
+
+
+== Altri progettiModifica ==
+
+ Wikimedia Commons contiene immagini o altri file su Tempo Universale Coordinato
+
+
+== Collegamenti esterniModifica ==
+UTC, GPS, LORAN e TAI - Confronto tra gli standard UTC, GPS, LORAN e TAI.

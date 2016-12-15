@@ -1,0 +1,29 @@
+A szilárdságtanban és rugalmasságtanban a rugalmassági modulus vagy Young-modulus egy anyagra jellemző állandó, az adott anyag merevségéről nyújt információt. A lineárisan rugalmas anyag Hooke-modelljében a húzó vagy nyomó mechanikai feszültség (σ) a fajlagos nyúlással (ε) arányos. Az arányossági tényező a rugalmassági modulus:
+
+Jele , mindig pozitív szám, szokásos mértékegysége N/mm² (MPa) vagy kN/cm².
+Nevét Thomas Youngról kapta, aki angol fizikus, orvos és egyiptológus volt.
+
+
+== Leírása ==
+Ha egy szokásos szerkezeti anyagot (fémet, betont, kerámiát, fát stb.) terhelés alá helyezünk, egy darabig rugalmasan viselkedik, vagyis ha a terhelést megszüntetjük, megnyúlása megszűnik, eredeti hosszát veszi fel. Ezt a tartományt rugalmassági tartománynak nevezik. Ha a terhelést tovább fokozzuk, az anyag maradó alakváltozást szenved, még nagyobb terhelés hatására eltörik.
+A szerkezeti anyagok nagy része a rugalmassági tartományban a Hooke-törvényt követi, vagyis rugalmassági modulusa a terheléstől független.
+Azonban nem minden anyag viselkedik így. A műanyagok és a gumi nem lineáris tulajdonságokat mutat, vagyis a rugalmassági modulus esetükben a terheléstől is függ, nemcsak az anyagminőségtől. Ezért a rugalmassági modulus pontosabb definíciója:
+
+Más anyagok egyáltalán nem követik a Hooke-törvényt: tartósan folynak. Így viselkedik sok műanyag, például a polimerek, de bizonyos fémek is, például az ólom.
+A legtöbb fém és kerámikus anyag tulajdonságai a terhelés irányától függetlenek. Ezeket izotróp anyagoknak nevezik. Vannak azonban olyan (anizotróp, illetve ortotróp) anyagok, például szálas szerkezetű anyagok, fa, kompozit anyagok, amelyek rugalmassági modulusa a terhelés irányától függ. Így például a szénszálas műanyagok szálirányban sokkal merevebbek, mint arra merőlegesen.
+
+
+== Hozzávetőleges értékek ==
+
+
+== Nyírási rugalmassági modulus ==
+A rugalmassági modulust csak húzásra-nyomásra értelmezzük. Nyírásra a nyírási rugalmassági modulus érvényes:
+,
+itt  a csúsztató feszültség,  a szögelfordulás, G a nyírási rugalmassági modulus. A nyírási rugalmassági modulust használjuk a torziós (csavaró) igénybevételnél is.
+A rugalmassági modulus és a nyírási rugalmassági modulus (csúsztató rugalmassági modulus) között az alábbi összefüggés áll fenn:
+
+ahol  az anyagminőségtől függő Poisson-tényező.
+
+
+== Folyadékok rugalmassági modulusa ==
+A folyadékok nyomásra igen kis mértékben változtatják meg térfogatukat, az áramlástani számításoknál ez a jelenség általában elhanyagolható. A folyadék térfogati rugalmassági modulusa vagy annak re

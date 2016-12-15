@@ -1,0 +1,10 @@
+Objętość (pojemność) skokowa cylindra – różnica pomiędzy maksymalną a minimalną objętością cylindra. Dla wielocylindrowych silników spalinowych podaje się łączną objętość wszystkich cylindrów, w których następuje spalanie. Jej wartość podawana jest w centymetrach sześciennych, czasem oznaczanych skrótem ccm od ang. cubic centimeter. Inaczej mówiąc – jest to objętość utworzona w cylindrze pomiędzy górnym martwym położeniem tłoka (zewnętrznym górnym skrajnym położeniem) a jego dolnym martwym położeniem (wewnętrznym dolnym skrajnym położeniem).
+Objętość (pojemność) skokową silnika – iloczyn objętości (pojemności) skokowej cylindra i liczba cylindrów „n”:
+
+Gdzie:
+d: średnica cylindra
+s: skok tłoka
+n: liczba cylindrów
+Uwaga: dla silników gwiazdowych i niektórych widlastych skok tłoka jest różny dla poszczególnych cylindrów i wzór ten jest przybliżony.
+W silniku Wankla objętość skokowa cylindra jest równa podwojonej zmianie objętości komory spalania.
+Objętość skokowa jest jednym z podstawowych parametrów silników spali

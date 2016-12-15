@@ -1,0 +1,50 @@
+Un ion o ión ("yendo", en griego; ἰών [ion] es el participio presente del verbo ienai: ‘ir’) es una partícula cargada eléctricamente constituida por un átomo o molécula que no es eléctricamente neutral. Conceptualmente esto se puede entender como que, a partir de un estado neutro de un átomo o partícula, se han ganado o perdido electrones; este fenómeno se conoce como ionización.
+Los iones cargados negativamente, producidos por haber más electrones que protones, se conocen como aniones (que son atraídos por el ánodo) y los cargados positivamente, consecuencia de una pérdida de electrones, se conocen como cationes (los que son atraídos por el cátodo).
+Anión y Catión significan:
+Anión ("el que va hacia arriba") tiene carga eléctrica negativa.
+Catión ("el que va hacia abajo") tiene carga eléctrica positiva.
+Unas definiciones más formales son : Un catión es una especie monoatómica o poliatómica que tiene una o más cargas elementales del protón. Un anión es una especie monoatómica o poliatómica que tiene una o más cargas elementales del electrón.
+Ánodo y cátodo utilizan el sufijo '-odo', del griego odos (-οδος), que significa camino o vía.
+Ánodo: ("camino ascendente de la corriente eléctrica") polo positivo".
+Cátodo: ("camino descendente de la corriente eléctrica") polo negativo".
+Un ion conformado por un solo átomo se denomina ion monoatómico, a diferencia de uno conformado por dos o más átomos, que se denomina ion poliatómico.
+
+
+== Energía de ionización ==
+La energía de ionización, también llamada potencial de ionización, es la energía que hay que suministrar a un átomo neutro, gaseoso y en estado fundamental, para arrancarle el electrón más débil retenido.
+X + 1ª energía de ionización → X+ + e-
+Puede deducirse el significado de la tercera energía de ionización y de las posteriores.
+X+ + 2ª energía de ionización → X2+ + e-
+La energía de ionización se expresa en electrón-voltio, julios o en kilojulios por mol (kJ/mol).
+1 eV = 1,6.10−19 culombios × 1 voltio = 1,6.10−19 julios
+En los elementos de una misma familia o grupo la energía de ionización disminuye a medida que aumenta el número atómico, es decir, de arriba abajo.
+En los alcalinos, por ejemplo, el elemento de mayor potencial de ionización es el litio y el de menor el francio. Esto es fácil de explicar, ya que al descender en el grupo el último electrón se sitúa en orbitales cada vez más alejados del núcleo y, además, los electrones de las capas interiores ejercen un efecto de apantallamiento frente a la atracción nuclear sobre los electrones periféricos por lo que resulta más fácil extraerlos.
+En los elementos de un mismo período, la energía de ionización crece a medida que aumenta el número atómico, es decir, de izquierda a derecha.
+Esto se debe a que el electrón diferenciador está situado en el mismo nivel energético, mientras que la carga del núcleo aumenta, por lo que será mayor la fuerza de atracción y, por otro lado, el número de capas interiores no varía y el efecto de apantallamiento no aumenta.
+Sin embargo, el aumento no es continuo, pues en el caso del berilio y el nitrógeno se obtienen valores más altos que lo que podía esperarse por comparación con los otros elementos del mismo período. Este aumento se debe a la estabilidad que presentan las configuraciones s2 y s2p3, respectivamente.
+La energía de ionización más elevada corresponde a los gases nobles, ya que su configuración electrónica es la más estable, y por tanto habrá que proporcionar más energía para arrancar un electrón. Puedes deducir y razonar cuáles son los elementos que presentan los valores más elevados para la segunda y tercera energías de ionización.
+
+
+== Clases de iones ==
+
+
+=== Aniones ===
+
+En los iones negativos, aniones, cada electrón, del átomo originalmente cargado, está fuertemente retenido por la carga positiva del núcleo. Al contrario que los otros electrones del átomo, en los iones negativos, el electrón adicional no está vinculado al núcleo por fuerzas de Coulomb, lo está por la polarización del átomo neutro. Debido al corto rango de esta interacción, los iones negativos no presentan series de Rydberg. Un átomo de Rydberg es un átomo con uno o más electrones que tiene un número cuántico principal muy elevado.
+
+
+=== Cationes ===
+
+Los cationes son iones positivos. Son especialmente frecuentes e importantes los que forman la mayor parte de los metales.
+Son átomos que han perdido electrones, como el oro y plata.
+
+
+=== Otros iones ===
+Un dianión es una especie que tiene dos cargas negativas sobre ella. Por ejemplo: el dianión del pentaleno es aromático.
+Un zwitterión es un ion con una carga neta igual a cero pero que presenta dos cargas aisladas sobre la misma especie, una positiva y otra negativa y, por lo tanto, es negativo.
+Los radicales iónicos son iones que contienen un número irregular de electrones y presentan una fuerte inestabilidad y reactividad.
+
+
+=== Plasma ===
+
+Se denomina plasma a un 

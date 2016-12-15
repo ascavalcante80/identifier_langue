@@ -1,0 +1,30 @@
+Albedo (din limba latină alb) este o măsură a reflectivității unei suprafețe sau a unui corp.
+Albedo, în definiția sa curentă numit albedoul lui Bond, este o valoare cuprinsă între 0 și 1: un corp negru perfect, care ar absorbi toate lungimile de undă fără să reflecte niciuna, ar avea un albedo nul, în timp ce o oglindă perfectă, care ar reflecta toate lungimile de undă, fără să absoarbă niciuna, ar avea albedoul egal cu 1. Alte definiții, dintre care cea a albedoului geometric, ar putea da valori superioare lui 1.
+Termenul albedo a fost introdus în optică de Johann Heinrich Lambert, în lucrarea sa, din 1760, Photometria.
+
+
+== Etimologie ==
+Cuvântul românesc albedo este împrumutat din franceză: albédo: „albeață” sau albedo, care, la rândul său, provine din cuvântul latinesc albēdo, iar acesta este un derivat al cuvântului din latină albus, alba, album „alb [mat]”, spre deosebire de candidus, candida, candidum: „alb [strălucitor]”.
+
+
+== Albedoul sferic ==
+Albedoul sferic As este o mărime fotometrică egală cu raportul dintre intensitatea luminii radiate difuzată de un corp și intensitatea luminii (de la soarele local) care cade pe acel corp.
+As=Lp/Lo
+Albedo reprezintă o măsură a capacității de reflexie a unui obiect (albedo de 1.0 pentru un obiect care reflectă perfect, și albedo de 0.0 pentru un obiect care absoarbe toată lumina), fiind raportul dintre lumina reflectată de un obiect și lumina incidentă. [1]
+
+
+== Albedoul terestru ==
+
+
+== Albedoul astronomic ==
+
+Albedo este utilizat în astronomie pentru a avea o idee privitoare la compoziția unui corp ceresc prea rece pentru a emite propria sa lumină, măsurând reflexia unei surse luminoase externe, cum este Soarele. Se pot diferenția astfel, cu ușurință, planetele gazoase, care au un albedo puternic, de planetele telurice, care au un albedo slab.
+Astronomii au afinat această definiție distingând pe de o parte albedoul lui Bond, care corespunde reflectivității globale a unui astru pentru toate lungimile de undă și toate unghiurile de fază confundate, și pe de altă parte albedoul geometric, care corespunde raportuluidintre intensitatea electromagnetică reflectată de un astru cu unghiul de fază nul și intensitatea electromagnetică reflectată cu unghiul de fază nul de către o suprafață echivalentă reflectanței ideal lambertiene (adică isotropă, oricare ar fi unghiul de fază) consecințe ale acestor definiții, albedoul lui Bond este întotdeauna cuprins între 0 și 1, în timp ce albedoul geometric poate fi superior lui 1.
+
+
+== Referințe și note ==
+
+
+== Bibliografie ==
+G. Guțu, Dicționar latin – român, Editura Științifică și Enciclopedică, București, 1983.
+Ioan Oprea, Carmen-Gabriela Pamfil, Rodica Radu, Victoria Zăstroiu, Noul dicționar universal al limbii române, Ediția a doua, Editura Litera Internațional, București – Chișinău, 2

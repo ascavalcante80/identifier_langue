@@ -1,0 +1,16 @@
+'n hoek θ vanaf die verplasingsarm met 'n lengte r uitgeoefen word (en op 'n vlak loodreg tot die draai-as), volg uit die definisie van kruisproduk dat die grootte van die wringkrag wat ontstaan as volg is:
+
+
+=== Statiese ewewig ===
+Vir 'n voorwerp om in statiese ewewig te verkeer, moet nie net die som van alle kragte nul wees nie, maar ook die som van al die wringkragte (momente) rondom enige punt. Vir 'n twee dimensionele situasie met horisontale en vertikale kragte, lewer die som van kragte vereiste twee vergelykings:ΣH = 0 and ΣV = 0 en die wringkrag 'n derde vergelyking:Στ = 0. Drie vergelykings word dus benodig om 'n statiese bepaalde ewewigsprobleem op te los.
+
+
+=== Wringkrag as 'n funksie van tyd ===
+
+Wringkrag is 'n tyd-afgeleide van hoekmomentum, net soos krag 'n tyd-afgeleide is van linêere momentum is:
+
+waar
+L die hoekmomentum is.
+
+
+== Verwysings ==

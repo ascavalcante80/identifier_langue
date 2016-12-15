@@ -1,0 +1,54 @@
+プリングし、一般に検索可能なWebは少なくとも115億ページ存在するとの結果を得ている。
+2006年2月では、静的なページだけでも150億ページ以上、動的に生成されるページを含めると350億ページ以上が存在するとの推定がある。
+
+
+== WWWの読み方編集 ==
+英語では「World Wide Web」より「WWW」の略称が一般的。ただし、皮肉なことに、「WWW」の方が「World Wide Web」よりも音節数が多く（下記）、発音するのにかえって時間がかかる。バーナーズ＝リーによれば、他の人はそれを理由に名前を変えるように助言したが、バーナーズ＝リー本人がこの名称に固執したとのことである。
+英語圏では、「WWW」は「double-u, double-u, double-u」と発音される（「W」も参照）ため、音節数が6つないし9つになるが、一方の「World Wide Web」は音節数が3つしかない（en:Pronunciation of "www"も参照）。
+ニュージーランドでは「doub, doub, doub」と発音されることが多く、これは英語表現中でより簡潔である。
+
+
+== 脚注編集 ==
+
+
+== 関連項目編集 ==
+ウェブサイト
+コーポレートサイト
+Webプログラミング
+CMS(コンテンツマネージメントシステム)
+セマンティック・ウェブ
+検索エンジン
+ウェブディレクトリ
+ウェブマイニング
+ハイパーテキスト
+ストリーミング
+Web 2.0 - これはWWWが単なるWebサイトの集合体からWebアプリケーションを提供するプラットフォームへと変化していくことを表す用語として使われる。
+
+
+== 外部リンク編集 ==
+World wide webcams
+日本最初のホームページ
+WWW黎明期の歴史と立役者
+Open Directory - World: Japanese: コンピュータ: インターネット: ウェブデザイン・開発
+ウェブ工学の研究室
+ASCII.jpデジタル用語辞典『World Wide Web』 - コトバンク
+デジタル大辞泉『ワールドワイドウェブ』 - コトバンク
+
+
+=== 標準規格編集 ===
+以下は、World Wide Web の基本的な3つの標準規格を定義した文書のリストである。
+Uniform Resource Identifier (URI)
+RFC 1738, URL Specification (updated by RFC 3986 "Uniform Resource Identifier (URI): Generic Syntax" in January 2005)
+
+HyperText Markup Language (HTML)
+Internet Draft, HTML version 1
+RFC 1866, HTML version 2.0
+HTML 3.2 Reference Specification
+HTML 4.01 Specification
+Extensible HTML (XHTML) Specification
+XHTML 1.1 - Module-based XHTML
+
+Hypertext Transfer Protocol (HTTP)
+RFC 1945, HTTP version 1.0
+RFC 2068, HTTP version 1.1
+RFC 2616, HTTP version 1.1 (updated)

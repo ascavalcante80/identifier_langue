@@ -1,0 +1,18 @@
+in resimlendirilmesi için aşağıdaki bileşim farz edilmiştir:
+Sedna için (RR çok kırmızı): %24 Triton tolin, %7 karbon, %10N2, %26 metanol, %33 metan
+Orcus için (BB, gri/mâvi): %85 şekilsiz karbon +%4 titan tolin, %11 H20 buz
+
+
+=== Boyut saptanımı ===
+NÖClerin çapını tespit zordur. Çok iyi yörüngesel bilgi alınmış olan büyük cisimler için (ismen Plüton ve Charon) çaplar, yıldız tutulmalarıyla kesin olarak ölçülebilir.
+Diğer NÖCler için çaplar termal ölçümlerle saptanır. Cismi aydınlatan ışığın şiddeti (Güneş'e olan uzaklıktan) bilinemediğinden ve (atmosfersiz bir cisim için genelde kötü olmayan) yüzeyinin büyük bölümünün termal dengede olduğu varsayımıyla büyük NÖClerin çapı tespit edilir. Bilinen bir aklılık için yüzey sıcaklığını ve ona karşılık olan ısı radyasyonu tahmin edilebilir. Bunun dışında cisim boyutları bilinirse hem görünen ışık miktârı, hem de yayımlanıp Dünya'ya gelen ısı radyasyonunun tahmîni yapılabilir. Basitleştirici bir değişken de Güneş'in neredeyse bütün ışınlarını görünen ışık ve ona yakın frekanslarda yayımlarken NÖClerin soğuk sıcaklıklarında ısı radyasonu tamâmen farklı dalga boylarında (uzak kızılötesi) yayımlanır.
+Bunun sonucu olarak iki bilinmeyen (aklık ve boyut) vardır. Bu bilinmeyenler iki bağımsız ölçümle (yansıtılan ışık ve yayımlanan kızılötesi ısı radyasyonuyla) tespit edilebilir.
+Mâlesef NÖCler Güneş'ten o kadar uzaktadırlardır ki hepsi çok soğuktur. Bundan dolayı 60 µm dalgaboyu cıvârında kara cisim radyasyonu verirler.
+Bu dalgaboyunu Dünya'dan izlemek imkânsızdır. Ancak uzaydan, örn. Spitzer Uzay Teleskobu'yla ölçülebilir. Yere bağlı rasatlarda astronomlar kara cisim radyasyonunun uzak kızılötesinde görünen ucunu gözleyebilirler. Bu uzak kızılötesi radyasyonu o denli zayıfdır ki termal metotla ancak en büyük KKC'lara uygulanabilir. (Küçük) Cisimlerin çoğunluğu için çap, bir aklık farzedilerek tahmin edilir. Fakat bulunan aklıklar 0,50 ilâ 0,05 arası olduğundan kadiri 1,0 olan bir cisimde belirsizlik 1200 – 3700 km arasıdır.
+
+
+== Kaynakça ==
+
+
+== Dış bağlantılar ==
+Harvard Üniversitesi'nin Neptün ötesi cisimler listesi(İngilizce)

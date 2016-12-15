@@ -1,0 +1,33 @@
+sszetételétől függően – az A1–A3 hőmérséklet fölé hevítik 20–50 °C-kal és hőntartják (ausztenitesítik). Ezt követően gyorsan lehűtik. A hűlés megfelelő gyorsaságát a hűtő közeg (víz, olaj, só- vagy fémolvadék fürdő) helyes megválasztásával érik el. A hűtés során az izzítás hőmérsékletén fennálló állapotot mintegy „befagyasztják”, a ferritté vagy perlitté alakulás nem tud végbemenni. Emiatt az edzett acél mindig metastabilis állapotúnak tekintendő. A martenzit kialakulásához kedvező a 0,4 tömegszázaléknál nagyobb C-tartalom. Az, hogy az ausztenitnek mennyi hányada alakul martenzitté, a hűtés sebességével szabályozható, az edzés során általában több-kevesebb bénit is képződik.
+A martenzitnek az ausztenitnél kisebb a sűrűsége, így az átalakulás egyik következménye a térfogatnövekedés. Ennek következtében belső nyomófeszültségek lépnek fel a martenzitkristályokban, húzófeszültség az ezeket körülvevő ferritben, jelentős nyírófeszültséggel mindkét kristályban. Az edzés helytelen kivitelezése a belső feszültségek miatt akár repedésekhez is vezethet.
+Az edzést rendszerint megeresztés követi, aminek a célja a martenzites állapottal együttjáró ridegség csökkentése. A megeresztés 100–700 °C-on történő hőntartást jelent. Szerkezeti acélokat általában 500–680 °C-on szoktak megereszteni, szerszámacélokat 100–300 °C on. Az izzítást követő hűtést általában nagy sebességgel hajtják végre. Ez a folyamat tehát csökkenti az acél keménységét, de rugalmasabb és szívósabb fémet eredményez. Az edzés + megeresztés folyamatot együttesen nemesítésnek nevezik. Nem tévesztendő össze a német (EN 10020 szerinti) nemesacéllal, ami speciális tisztaságú acélt jelent korlátozott (maximum 0,025 %) kén- és foszfortartalommal.
+
+
+=== Normalizálás ===
+Szerkezeti acélok egyik leggyakrabban alkalmazott hőkezelése. A mechanikai tulajdonságokat azáltal javítja, hogy finomszemcsés ausztenitből finomszemcsés perlitet hoz létre. A normalizálás A3 ill. A1 fölött 20–50 °C-on történő izzításból és levegőn való lehűtésből áll. A meleg képlékeny alakítás bizonyos körülményei között is lehet ilyen típusú szövetet előállítani.
+
+
+=== Kérgesítő eljárások ===
+A dinamikus igénybevételnek, ugyanakkor erős koptató hatásnak kitett alkatrészek esetén fontos, hogy egy belső szívós magon kemény, kopásálló külső kéreg helyezkedjen el. A kérgesítő hőkezelések csak a darabok felületére hatnak, azt keményítik.
+Felületi edzés: A módszer alkalmazásakor csak a darab külső felületi rétegét melegítik fel, így az ezt követő gyors hűtés során is csak ez a felületi réteg edződik meg.
+Felületi ötvözés: A módszer azt a jelenséget használja ki, hogy izzításkor a darab felületével érintkező anyag atomjai bediffundálnak a munkadarab külső rétegébe. Speciális esetben különböző fémeket is alkalmaznak felületi ötvözésre (alumínium, króm, ón, titán, volfrám stb.). Nitridáláskor nitrogént diffundáltatnak a munkadarab felületi rétegeibe, a kemény kérget a kialakuló nitridréteg okozza. A nitridálást általában NH3-tartalmú gázzal végzik. A cementálás során a munkadarabot széntartalmú közegben izzítják, melynek során nagy karbontartalmú ausztenit vagy cementit képződik a felületi rétegben.
+
+
+== Az acél fizikai jellemzői ==
+Sűrűség: ρ = 7850 kg/m3
+Hőtágulási együttható: αT = 0,000012 K−1 (ferrit-perlites szerkezetű acélra)
+Hővezetési tényező: λ = 58 W/mK
+Rugalmassági modulus: E = 206 000 N/mm2
+Poisson-tényező: ν = 0,30
+
+
+== Acéltermelés országok szerint ==
+
+
+== Jegyzetek ==
+
+
+== Források ==
+
+Ashby, Michael F.; & David R. H. Jones (1992) [1986] (in English). Engineering Materials 2 (with corrections ed.). Oxford: Pergamon Press. ISBN 0-08-032532-7.
+Mittemeijer, E. J.; Slycke, J. T.. "Chemical potentials and activities of nitrogen and carbon imposed by gaseous nitriding and carburising atmospheres" (PDF). Surface Engineering 1996 Vol. 12 No. 2. pp. 156. http://www.it-innovation.soton.ac.uk/surfaceweb/se/Se-12-2/se122152.pdf. Retrieved 2006-08-10.

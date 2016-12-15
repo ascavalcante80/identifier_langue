@@ -1,0 +1,12 @@
+Wikidata es una wiki de la Fundación Wikimedia que sirve como base de datos con el objetivo de proporcionar una fuente común para ciertos tipos de datos, como fechas de nacimiento usados para los proyectos Wikimedia como Wikipedia.  Esto es similar a la forma en que Wikimedia Commons proporciona almacenamiento para archivos multimedia y acceso a estos archivos en todos los proyectos Wikimedia.
+
+
+== Historia del desarrollo ==
+Wikidata fue lanzada el 30 de octubre de 2012 y fue el primer proyecto nuevo de la Fundación Wikimedia desde 2006.  
+La creación del proyecto fue financiada por donaciones del Instituto Allen para la Inteligencia Artificial, la Fundación Gordon y Betty Moore  y Google Inc., sumando en total 1,3 millones de euros.  El desarrollo inicial del proyecto está siendo supervisado por Wikimedia Deutschland, y se ha dividido en tres fases:
+Centralizar los enlaces interlingüísticos – enlaces entre artículos sobre el mismo tema en diferentes idiomas.
+Proporcionar un lugar central para la información de las fichas de todas las Wikipedias.
+Crear y actualizar listas de artículos basados en datos de Wikidata.
+La primera fase tuvo lugar el 30 de octubre de 2012. Esto permitió que se crearan elementos y que pudieran ser rellenados con información básica; una etiqueta (un nombre o título), un alias (un nombre alternativo a la etiqueta), una descripción y enlaces interlingüísticos para artículos de Wikipedia. Cada elemento tiene un identificador único precedido de la letra Q, por ejemplo Q7163 es el elemento para política. Esto permite que la etiqueta, el alias, y la descripción, puedan ser traducidas sin favorecer a ningún idioma en particular.
+El 14 de enero de 2013, la Wikipedia en húngaro fue la primera Wikipedia en utilizar los enlaces interlingüísticos de Wikidata. Esta funcionalidad después fue extendida a la versión hebrea e italiana el 30 de enero y a la versión inglesa el 11 de febrero.  El cambio afecta al resto de Wikipedias desde el día 6 de marzo de 2013.
+Los primeros aspectos de la segunda fase fueron puestos en marcha el 4 de febrero de 2013, introduciendo pares de claves y valores para entradas de Wikipedia. De momento los valores están

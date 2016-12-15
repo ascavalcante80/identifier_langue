@@ -1,0 +1,4 @@
+Rrjeti gjithë botrorë, ose WWW (nga anglishtja Word Wide Web; lexo Uorld Uaid Ueb) është një sistem dokumentësh në Hypertext të shërbyera nëpërmjet Internetit. Me një Shfletues Rrjeti, mund të shikohen faqe rrjeti që mund të përmbajnë tekst, imazhe, video, dhe multimedia të tjerë, duke lundruar mes tyre me përdorimin e hyperlinkeve.
+Ky shërbim është i dalluar për thjeshtësinë e përdorimit të tij edhe nga personat e zakonshëm. Përderisa tek shërbimet tjera si ai FTP për gjurmimin e regjistrave duhet para njohuri, këtu të dhënat për regjistrin prezantohen në shfletues. Me këtë shërbim interneti a
+le jo e saktë dhe prezantimin e regjistrave të mundëshëm për atë fjalë, e bëjnë këtë shërbim interesant për masat e gjëra.
+Rrjeti për transferimin e të dhënave përdor protokollin HTTP (Hypertext Transfer Protocol). Me anë të shfletuesit dërgohen pyetjet (Request) tek lloga

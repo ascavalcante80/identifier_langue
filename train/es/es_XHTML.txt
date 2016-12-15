@@ -1,0 +1,51 @@
+XHTML, Siglas del inglés eXtensible HyperText Markup Language. XHTML es básicamente HTML expresado como XML válido. Es más estricto a nivel técnico, pero esto permite que posteriormente sea más fácil al hacer cambios o buscar errores entre otros. En su versión 1.0, XHTML es solamente la versión XML de HTML, por lo que tiene, básicamente, las mismas funcionalidades, pero cumple las especificaciones, más estrictas, de XML. Su objetivo es avanzar en el proyecto del World Wide Web Consortium de lograr una web semántica, donde la información, y la forma de presentarla estén claramente separadas. La versión 1.1 es similar, pero parte a la especificación en módulos. En sucesivas versiones la W3C planea romper con los tags clásicos traídos de HTML.
+
+
+== Ventajas respecto al HTML ==
+Las principales ventajas del XHTML sobre el HTML son:
+Se pueden incorporar elementos de distintos espacios de nombres XML (como MathML y Scalable Vector Graphics).
+Un navegador no necesita implementar heurísticas para detectar qué quiso poner el autor, por lo que el parser puede ser mucho más sencillo.
+Como es XML se pueden utilizar fácilmente herramientas creadas para procesamiento de documentos XML genéricos (editores, XSLT, etc.).
+
+
+== Apéndice ==
+El estándar XHTML indica en un apéndice informativo una manera de escribir XHTML de modo tal que los navegadores actuales que sólo entienden HTML, lo procesen como si fuera éste. Para esto se deberá crear un documento con algunas restricciones y consideraciones, y servirlo con el «content-type» text/html, en vez del correcto para XHTML.
+Algunas de las reglas propuestas para que XHTML «parezca» HTML son:
+No usar instrucciones de proceso.
+Los elementos vacíos (como <br>) deberán escribirse <br />, es decir en forma abreviada y con un espacio antes de «/».
+No se debe utilizar la forma abreviada para elementos no vacíos que no tengan contenido, es decir: no se debe escribir <p/>.
+Los elementos deben estar correctamente anidados.
+Los elementos deben contener el atributo title en forma obligatoria.
+Para algunos autores, la inclusión de este apéndice en el estándar fue un error y consideran que es un error usar XHTML de esta manera.
+
+
+== Diferencias entre HTML y XHTML ==
+
+La siguiente lista muestra algunas reglas de XHTML 1.0 que lo diferencian de HTML 4.01. Muchas de estas diferencias vienen con el cambio de ser una aplicación SGML a ser una aplicación del más estricto XML:
+Los elementos vacíos deben cerrarse siempre:
+Incorrecto: <br>
+Correcto: <br></br> o <br/> o <br />
+Nota: Cualquiera de las tres formas es válida en XHTML. Para compatibilidad según el "Apéndice C" debe usarse <br />.
+
+Los elementos no vacíos también deben cerrarse siempre:
+Incorrecto: <p>Primer párrafo<p>Segundo párrafo
+Correcto: <p>Primer párrafo</p><p>Segundo párrafo</p>
+
+Los elementos anidados deben tener un correcto orden de apertura/cierre (el que se abre último, debe cerrarse primero).
+Incorrecto: <em><strong>Texto</em></strong>
+Correcto: <em><strong>Texto</strong></em>
+
+Los valores de los atributos deben siempre ir encerrados entre comillas (simples o dobles).
+Incorrecto: <td rowspan=3>
+Correcto: <td rowspan="3">
+
+Los nombres de elementos y atributos deben ir en minúsculas.
+Incorrecto: <A HREF="http://www.domname.com">Domname</A>
+Correcto: <a href="http://www.domname.com">Domname</a>
+
+No está permitida la minimización de atributos (se usa el nombre del atributo como valor).
+Incorrecto: <textarea readonly>Solo-lectura</textarea>
+Correcto: <textarea readonly="readonly">Solo-lectura</textarea>
+
+Los atributos desaprobados en HTML 4.01 no forman parte de XHTML.
+Incorrecto: <font color="#0000FF">Blue text</fon

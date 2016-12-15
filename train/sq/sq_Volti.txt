@@ -1,0 +1,13 @@
+Volti (simboli: V) është njësi e nxjerrë për potencialin elektrik, ndryshimin e potencialit elektrik (tensionin) dhe forcës elektrolëvizore. Volti është emëruar për nderë të fizikantit italian Alessandro Volta (1745-1827), i cili shpiku pilën voltaike, e cila ka mundësi të jetë bateria e parë kimike.
+
+
+== Përshkrimi ==
+Volti është njësia e potencialit elektrik. Potenciali elektrik është një tip i potencialit eneregjetik, dhe i referohet energjisë që do të mund të çlirohej nëse rryma elektrike është e lejuar të rrjedhë. Një analogji është se një objekt i pezulluar thuhet se ka një potencial energjetik gravitacional, e cili është sasi e energjisë e çliruara nëse objekti është i lejuar të bjerë.
+Në rrymën e alternuar, tensioni rritet, bie dhe ndryshon drejtim në intervale të rregullta. Si rezultat, tensioni për rrymën e alternuar pothuajse asnjëherë nuk i referohet tensionit në një pjesë, por në vend të kësaj është tensioni root mean square (RMS), i cili është një mënyrë për definimin e një tensioni të efektshëm kur llogaritet fuqia (tensioni RMS x rryma RMS). Në të shumtën e rasteve, faksti se një tension është një tension RMS nuk është i specifikuar, por i supozuar.
+
+
+== Përkufizimi ==
+Një volt është i përcaktuar si ndryshim i potencialit elektrik në mes të dy pikave të kabllos përçuese kur një rrymë elektrike prej 1 amperi harxhon 1 ëati të fuqisë në mes të këtyre pikave. 
+Përveç kësaj, është ndryshimi i potencialit në mes të dy pikave që do të jap një xhul energji për kulon të ngarkesës që kalon nëpër të. Mund të shprehet në terma të njësive bazike të sistemit SI:
+.
+Po ashtu mund të shprehes si prodhim në mes të amperit dhe omit (Ligji i Omit), wat për amper (Ligji i Xhaulit), ose xhaul për ku

@@ -1,0 +1,153 @@
+Número é um objeto da matemática usado para descrever quantidade, ordem ou medida. O conceito de número provavelmente foi um dos primeiros conceitos matemáticos assimilados pela humanidade no processo de contagem.
+Para isto, os números naturais eram um bom começo. O trabalho dos matemáticos nos levou a descobrir outros tipos de números. Os números inteiros são uma extensão dos números naturais que incluem os números inteiros negativos. Os números racionais, por sua vez, incluem frações de inteiros. Os números reais são todos os números racionais mais os números irracionais.
+
+
+== História dos números ==
+A noção de número e suas extraordinárias generalizações estão intimamente ligadas à história da humanidade. E a própria vida está impregnada de matemática: grande parte das comparações que o homem formula, assim como gestos e atitudes cotidianas, aludem conscientemente ou não a juízos aritméticos e propriedades geométricas. Sem esquecer que a ciência, a indústria e o comércio nos colocam em permanente contato com o amplo mundo da matemática.   
+Em todas as épocas da evolução humana, mesmo nas mais atrasadas, encontra-se no homem o sentido do número. Esta faculdade lhe permite reconhecer que algo muda em uma pequena coleção (por exemplo, seus filhos, ou suas ovelhas) quando, sem seu conhecimento direto, um objeto tenha sido retirado ou acrescentado.
+O sentido do número, em sua significação primitiva e no seu papel intuitivo, não se confunde com a capacidade de contar, que exige um fenômeno mental mais complicado. Se contar é um atributo exclusivamente humano, algumas espécies de animais parecem possuir um sentido rudimentar do número. Assim opinam, pelo menos, observadores competentes dos costumes dos animais. Muitos pássaros têm o sentido do número. Se um ninho contém quatro ovos, pode-se tirar um sem que nada ocorra, mas o pássaro provavelmente abandonará o ninho se faltarem dois ovos. De alguma forma inexplicável, ele pode distinguir dois de três.
+Os estudos sobre os povos primitivos fornecem uma notável comprovação desses resultados. Os selvagens que não alcançaram ainda o grau de evolução suficiente para contar com os dedos estão quase completamente desprovidos de toda noção de número. Os habitantes da selva da África do Sul não possuem outras palavras numéricas além de um, dois e muitos, e ainda essas palavras estão desvinculadas que se pode duvidar que os indígenas lhes atribuam um sentido bem claro.
+Realmente não há razões para crer que nossos remotos antepassados estivessem mais bem equipados, já que todas as linguagens européias apresentam traços destas antigas limitações: a palavra inglesa thrice, do mesmo modo que a palavra latina ter, possui dois sentidos: "três vezes" e "muito". Há evidente conexão entre as palavras latinas tres (três) e trans (mais além). O mesmo acontece no francês: trois (três) e très (muito).
+Como nasceu o conceito de número? Da experiência? Ou, ao contrário, a experiência serviu simplesmente para tornar explícito o que já existia em estado latente na mente do homem primitivo? Eis aqui um tema apaixonante para discussão filosófica.
+Julgando o desenvolvimento dos nossos ancestrais pelo estado mental das tribos selvagens atuais, é impossível deixar de concluir que sua iniciação matemática foi extremamente modesta. Um sentido rudimentar de número, de alcance não maior que o de certos pássaros, foi o núcleo do qual nasceu nossa concepção de número. Reduzido à percepção direta do número. Todavia, através de uma série de circunstâncias, o homem aprendeu a completar sua percepção limitada de número com um artifício que estava destinado a exercer influência extraordinária em sua vida futura. Esse artifício é a operação de contar, e é a ele que devemos o progresso da humanidade.
+
+
+=== O número sem contagem ===
+Apesar disso, ainda que pareça estranho, é possível chegar a uma ideia clara e lógica de número sem recorrer a contagem. Entrando numa sala de cinema, temos diante de nós dois conjuntos: o das poltronas da sala e o dos espectadores. Sem contar, podemos assegurar se esses dois conjuntos têm ou não igual número de elementos e, se não têm, qual é o de menor número. Com efeito, se cada assento está ocupado e ninguém está de pé, sabemos sem contar que os dois conjuntos têm igual número. Se todas as cadeiras estão ocupadas e há gente de pé na sala, sabemos sem contar que há mais pessoas que poltronas.
+Esse conhecimento é possível graças a um procedimento que domina toda a matemática, e que recebeu o nome de correspondência biunívoca. Esta consiste em atribuir a cada objeto de um conjunto um objeto de outro, e continuar assim até que um ou ambos os conjuntos se esgotem. O princípio de contagem, em muitos povos primitivos, se reduz precisamente a tais associações de idéias. Eles registram o número de suas ovelhas ou de seus soldados por meio de incisões feitas num pedaço de madeira ou por meio de pedras empilhadas. Temos uma prova desse procedimento na origem da palavra "cálculo", da palavra latina calculus, que significa pedra.
+
+
+=== A ideia de correspondência ===
+A correspondência biunívoca resume-se numa operação de "fazer corresponder". Pode-se dizer que a contagem se realiza fazendo corresponder a cada objeto da coleção (conjunto), um número que pertence à sucessão natural: 1,2,3...
+A gente aponta para um objeto e diz: um; aponta para outro e diz: dois; e assim sucessivamente até esgotar os objetos da coleção; se o último número pronunciado for oito, dizemos que a coleção tem oito objetos e é um conjunto finito. Mas o homem de hoje, mesmo com conhecimento precário de matemática, começaria a sucessão numérica não pelo um mas por zero, e escreveria 0,1,2,3,4...
+A criação de um símbolo para representar o "nada" constitui um dos atos mais audaciosos da história do pensamento. Essa criação é relativamente recente (talvez pelos primeiros séculos da era cristã) e foi devida às exigências da numeração escrita. O zero não só permite escrever mais simplesmente os números, como também efetuar as operações. Imagine como fazer uma divisão ou multiplicação em números romanos! E no entanto, antes ainda dos romanos, tinha florescido a civilização grega, onde viveram alguns dos maiores matemáticos de todos os tempos; e nossa numeração é muito posterior a todos eles.
+
+
+=== Do relativo ao absoluto ===
+Pareceria à primeira vista que o processo de correspondência biunívoca só pode fornecer um meio de relacionar, por comparação, dois conjuntos distintos (como o das ovelhas do rebanho e o das pedras empilhadas), sendo incapaz de criar o número no sentido absoluto da palavra. Contudo, a transição do relativo ao absoluto não é difícil.
+Criando conjuntos modelos, tomados do mundo que nos rodeia, e fazendo cada um deles caracterizar um agrupamento possível, a avaliação de um dado conjunto fica reduzida à seleção, entre os conjuntos modelos, daquele que possa ser posto em correspondência biunívoca com o conjunto dado.
+Começou assim: as asas de um pássaro podiam simbolizar o número dois, as folhas de um trevo o número três, as patas do cavalo o número quatro, os dedos da mão o número cinco. Evidências de que essa poderia ser a origem dos números se encontram em vários idiomas primitivos.
+É claro que uma vez criado e adotado, o número se desliga do objeto que o representava originalmente, a conexão entre os dois é esquecida e o número passa por sua vez a ser um modelo ou um símbolo. À medida que o homem foi aprendendo a servir-se cada vez mais da linguagem, o som das palavras que exprimiam os primeiros números foi substituindo as imagens para as quais foi criado. Assim os modelos concretos iniciais tomaram a forma abstrata dos nomes dos números. É impossível saber a idade dessa linguagem numérica falada, mas sem dúvida ela precedeu de vários milhões de anos a aparição da escrita.
+Todos os vestígios da significação inicial das palavras que designam os números foram perdidos, com a possível exceção de cinco (que em várias línguas queria dizer mão, ou mão estendida). A explicação para isso é que, enquanto os nomes dos números se mantiveram invariáveis desde os dias de sua criação, revelando notável estabilidade e semelhança em todos os grupos lingüísticos , os nomes dos objetos concretos que lhes deram nascimento sofreram uma metamorfose completa.
+
+
+== Definições ==
+
+O conceito de números na sua forma mais simples é claramente abstrata e intuitiva; entretanto, foi objeto de estudo de diversos pensadores. Pitágoras de Samos (cerca de 571 a.C. ou 570 a.C. - 497 a.C. ou 496 a.C.), por exemplo, considerava o número a essência e o princípio de todas as coisas ; para Arthur Schopenhauer 1788 — 1860) o conceito numérico apresenta-se como a ciência do tempo puro  . Outras definições:
+Número é a relação entre a quantidade e a unidade, Isaac Newton (1643 — 1727) ;
+Número é um composto da unidade, Euclides de Alexandria (360 a.C. — 295 a.C.);
+Número é uma coleção de objetos de cuja natureza fazemos abstração, Émile Boutroux (1845 — 1921);
+Número é o resultado da comparação de qualquer grandeza com a unidade, Benjamin Constant (1767 — 1830);
+Número é o movimento acelerado ou retardado, Aristóteles (384 a.C. – 322 a.C.);
+Número é uma coleção de unidades, Tales de Mileto (cerca de 624 ou 625 a.C. - 556 ou 558 a.C.) e Marie Jean Antoine Nicolas Caritat ( 1743 - 1794);
+Número é a razão entre uma quantidade abstrata e uma outra quantidade da mesma espécie, Isaac Newton (1643— 1727);
+Número é a classe de todas as classes equivalente a uma dada classe, Bertrand Russell ( 1872 — 1970) em Principia mathematica)   .
+
+
+== Palavras que representam números em algumas línguas indo-europeias ==
+
+
+== Tipos de números ==
+Os números podem ser classificados em conjunto de números que vem a ser uma coleção de elementos
+Diferentes tipos de números podem ser digitados por dois métodos diferentes, pelo método construtivista ou através de axiomas. Pelo método construtivista é introduzido tipos diferentes de números através da construção de um conjunto de elementos. Pelo método axiomático é adotado um conjunto de postulados a partir dos quais e por dedução lógica, são demonstrados teoremas.
+
+Exemplos de diferentes tipos de números:
+
+
+=== Número complexo ===
+
+Um número complexo é um número  que pode ser escrito na forma , em que  e  são números reais e  denota a unidade imaginária. Esta tem a propriedade , sendo que  e  são chamados respectivamente parte real e parte imaginária de .    O conjunto dos números complexos, denotado por , contém o conjunto dos números reais.
+Os números complexos são utilizados em várias áreas do conhecimento, tais como engenharia, eletromagnetismo, física quântica, teoria do caos, além da própria matemática, em que são estudadas análise complexa, álgebra linear complexa, álgebra de Lie complexa, com aplicações em resolução de equações algébricas e equações diferenciais.
+
+
+=== Número real ===
+
+O conjunto dos números reais  é uma expansão do conjunto dos números racionais que engloba não só os inteiros e os fracionários, positivos e negativos, mas também todos os números irracionais.
+Os números reais são números usados para representar uma quantidade contínua (incluindo o zero e os negativos).
+
+
+=== Número racional ===
+
+É todo o número que pode ser representado por uma razão (ou fração) entre dois números inteiros.
+O conjunto dos números racionais (representado por Q, o uso da letra Q é derivada da palavra inglesa quotient, cujo significado é quociente, já que a forma de escrever um número racional é o quociente de dois números inteiros, com o denominador diferente de 0).
+
+
+=== Número inteiro ===
+
+São constituídos dos números naturais, incluindo o zero (0, 1, 2, 3, ...) e dos simétricos dos números naturais não nulos (-1, -2, -3, ...). Dois números são simétricos se, e somente se, sua soma é zero. Por vezes, estes números são chamados de inteiros relativos.
+O conjunto de todos os inteiros é representado por um Z em negrito (ou ainda um  em blackboard bold, ou ℤ, cujo código Unicode é U+2124), que vem do alemão Zahlen, que significa números, algarismos.
+Os inteiros (juntamente com a operação de adição) formam o menor grupo que contém o monoide aditivo dos números naturais. Como os números naturais, os inteiros formam um conjunto infinito contável.
+
+
+=== Número natural ===
+
+Um número natural é um número inteiro não-negativo (0, 1, 2, 3,...). O número natural também é definido como um número inteiro positivo, aonde o zero não é considerado como um número natural. Quando o símbolo dos números naturais (N) vier seguido de um asterisco (*) é retirado o 0 (zero).
+
+
+=== Número inteiro negativo ===
+
+Número negativo é todo número real menor que zero, como o −1 e o −3. Dois números são chamados de números simétricos quando estão à mesma distância do zero, como o −5 e o 5.
+
+
+=== Número fracionário ===
+
+Fração é um modo de expressar uma quantidade a partir de um valor que é dividido por um determinado número de partes iguais entre si. Número fracionário expressa esta condição. A palavra vem do latim fractus e significa "partido", "quebrado" (do verbo frangere: "quebrar").
+
+
+=== Número irracional ===
+
+Número irracional é um número real que não pode ser obtido pela divisão de dois números inteiros, ou seja, são números reais mas não racionais. O conjunto dos números irracionais é representado pelo símbolo .O conceito de número irracional remonta ao conceito de incomensurabilidade.
+A primeira descoberta de um número irracional é geralmente atribuída a Hipaso de Metaponto, um seguidor de Pitágoras.
+
+
+==== Origem dos números irracionais ====
+A origem histórica da necessidade de criação dos números irracionais está intimamente ligada com fatos de natureza geométrica e de natureza aritmética. Os de natureza geométrica podem ser ilustrados com o problema da medida da diagonal do quadrado quando a comparamos com o seu lado.
+
+Este problema geométrico arrasta outro de natureza aritmética, que consiste na impossibilidade de encontrar números conhecidos - racionais - para raízes quadradas de outros números, como por exemplo, raiz quadrada de 2.
+Estes problemas já eram conhecidos da Escola Pitagórica (séc. V a.c.), que considerava os irracionais heréticos. A Ciência grega conseguiu um aprofundamento de toda a teoria dos números racionais, por via geométrica - "Elementos de Euclides" - mas não avançou, por razões essencialmente filosóficas, no campo do conceito de número.
+Para os gregos, toda a figura geométrica era formada por um número finito de pontos, sendo estes concebidos como minúsculos corpúsculos - "as mónadas" - todos iguais entre si; daí resultava que, ao medir um comprimento de n mónadas com outro de m, essa medida seria sempre representada por uma razão entre dois inteiros n/m (número racional); tal comprimento incluía-se, então na categoria dos comensuráveis.
+Ao encontrar os irracionais, aos quais não conseguem dar forma de fração, os matemáticos gregos são levados a conceber grandezas incomensuráveis. A reta onde se marcavam todos os racionais era, para eles, perfeitamente contínua; admitir os irracionais era imaginá-la cheia de "buracos". É no séc. XVII, com a criação da Geometria Analítica (Fermat e Descartes), que se estabelece a simbiose do geométrico com o algébrico, favorecendo o tratamento aritmético do comensurável e do incomensurável. Newton (1642-1727) define pela primeira vez "número", tanto racional como irracional.
+A descoberta dos números irracionais, simbolizou um grande passo para o desenvolvimento da matemática.
+Dentre os números irracionais encontramos os transcendentes, que são os números não algébricos, ou seja não existe nenhum polinômio de coeficientes inteiros de que sejam raiz.
+Temos como exemplo de números transcendentes o Pi e a constante de Euler:
+ (número Pi, constante de Arquimedes)
+ (constante de Euler)
+
+
+==== O irracional Pi ====
+
+Com o estudo contínuo dos elementos da matemática, os matemáticos se depararam com a necessidade de calcular o comprimento de uma circunferência; e com cálculos contínuos, notaram que um número se repetia para qualquer que fosse a circunferência, número este que outrora foi denominado de número pi (π).
+Esse número é encontrado através da razão do comprimento pelo diâmetro da circunferência.
+ ou ainda 
+Esse é um dos números que foi citado no início do texto: a constante π é de fundamental importância para a área de geometria e trigonometria..
+
+
+==== O irracional Número de Euler ====
+
+O número de Euler é assim chamado em homenagem ao matemático suiço Leonhard Euler, ele é à base dos logaritmos naturais.
+As variantes do nome do número incluem: número de Napier, constante de Néper, número neperiano, constante matemática e número exponencial, etc. A primeira referência à constante foi publicada em 1618 na tabela de um apêndice de um trabalho sobre logaritmos de John Napier. No entanto, este não contém a constante propriamente dita, mas apenas uma simples lista de logaritmos naturais calculados a partir desta. A primeira indicação da constante foi descoberta por Jakob Bernoulli, quando tentava encontrar um valor para a seguinte expressão (muito comum no cálculo de juros compostos):
+
+E vale aproximadamente .
+O número  é um número irracional e mesmo transcendente (como pi). A irracionalidade de  só foi demonstrada por Lambert em 1761 e mais tarde por Euler. A prova da transcendência de e foi estabelecida por Hermite em 1873.
+
+
+==== O irracional Número de ouro ====
+
+ é um número irracional, porém não é transcendente, pois é raiz do polinômio . É considerado símbolo de harmonia. Os artistas gregos usavam-no em arquitetura; Leonardo da Vinci, nos seus trabalhos artísticos; e, no mundo moderno, o arquiteto Le Corbusier, com base nele, apresentou, em 1948, O modulor. O número de ouro descobre-se em relações métricas:
+- na natureza: em animais (como na concha do Nautilus) flores, frutos, na disposição dos ramos de certas árvores; - em figuras geométricas, tais como o retângulo de ouro, hexágono e decágono regulares e poliedros regulares; - em inúmeros monumentos, desde a Pirâmide de Quéops até diversas catedrais, na escultura, pintura e até na música.
+
+
+=== Número imaginário ===
+
+Número imaginário é um número complexo com parte real igual a zero, ou seja, um número da forma b i, em que i é a unidade imaginária. Em alguns contextos, exige-se que b seja diferente de zero. O termo foi inventado por René Descartes em 1637 no seu La Géométrie para designar os números complexos em geral, e tem esse nome pelo objetivo inicialmente pejorativo: na época, acreditava-se que tais números não existissem  .
+
+
+== Outros números ==
+Número excessivo ou abundante: número cuja soma de seus divisores (excluído o próprio número) é maior do que ele mesmo (p. ex.: 12).
+Número perfeito: número cuja soma de seus divisores (excluído o próprio número) é igual a ele mesmo (p. ex.: 6).
+Número defectivo ou deficiente: número cuja soma de seus divisores (excluído o próprio número) é menor do que ele mesmo (p. ex.: 10).
+Número levemente imperfeito: número cuja soma de seus divisores é o próprio número menos a unidade (p. ex.: 4, 8, 16, 32, ).
+Números amigáveis: são dois números cuja soma dos divisores de um resulta no outro e vice-versa. Pares amigáveis: 220 e 284, 1184 e 1210, 17296 e 18416, 9363584 e 9437056.
+Números sociáveis: grupo de três ou mais números que formam um círculo fechado, pois a soma dos divisores do primeiro forma o segundo e assim por diante até que a soma dos divisores do último forma o primeiro (p. ex.: 12496, 14288, 15472, 14536 e 14264).
+Número primo: é um número natural que tem exatamente dois divisores distintos: o número um e ele mesmo .
+Número ordinal: são números usados para assinalar uma posição numa sequência ordenada. Exemplos: primeiro, segundo, terceiro, quarto, quin

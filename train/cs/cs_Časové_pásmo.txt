@@ -1,0 +1,343 @@
+Časové pásmo je ta část Země, která používá stejný standardní čas. Původně používali lidé sluneční čas, který má ovšem tu nevýhodu, že se liší od místa k místu. S rozvojem dopravy a komunikace byla tato nevýhoda stále výraznější, takže se postupem času přešlo na pásmový čas, kdy celá oblast Země, zhruba 15 ° kolem daného poledníku, používá stejný čas, který je určen svým posunem od UTC, koordinovaného světového času (většinou je posun určen celistvým počtem hodin, jsou však i výjimky).
+Základním časovým pásmem je pásmo, ve kterém platí UTC a které se rozkládá kolem nultého poledníku, který prochází Královskou observatoří v Greenwichi (Londýn, Anglie). Z toho důvodu se pásmovému času odpovídajícímu UTC někdy říká Greenwichský čas (GMT, Greenwich Mean Time).
+
+Ostatní časová pásma jsou popsána rozdílem počtu hodin, o které se v nich platný čas liší od UTC. Např. středoevropský čas (SEČ) je označen jako UTC+1, neboť je vzhledem k UTC posunut o hodinu napřed (tzn. ve chvíli, kdy je 12.00 UTC, je ve střední Evropě 13.00). Na západní polokouli je čas oproti UTC posunut zpět (např. v New Yorku, USA platí časové pásmo UTC-5), na východní polokouli platí čas, který je před UTC (např. v Tokiu, Japonsko je časové pásmo UTC+9).
+Ideální časová pásma by se navzájem lišila o celý počet hodin, takže by Zemi rozdělila na přesné pruhy široké 15 °. To by však znamenalo, že státy, které procházejí hranicí takových teoretických pásem, by musely používat dvě časová pásma, jakkoli by byla jejich rozloha malá. Z praktických důvodů se proto stanovily takové tvary časových pásem, které se přizpůsobují hranicím států či jiných územních celků. Některá časová pásma pak používají čas, který se od UTC neliší o celý počet hodin, ale o půlhodiny, či dokonce čtvrthodiny.
+Čas aktuálně platný na daném místě není dán pouze časovým pásmem, do kterého místo patří, ale také tím, jestli je v daném místě používán letní čas. Skutečná odchylka místně platného času od UTC se tedy může v průběhu roku měnit.
+Pokud se po přičtení časového rozdílu k UTC překročí půlnoc, změní se i datum platné na daném místě (např. pokud je pátek, 18.00 UTC, pak v pásmu UTC+8 je sobota, 02.00). Datum se mění též při překročení tzv. datové čáry, která prochází zhruba po 180. poledníku a která tvoří hranici mezi pásmy UTC+12 a UTC-12. Při překročení této čáry směrem na západ (což ovšem znamená ze západní polokoule na východní) se přechází z pásma UTC-12 do pásma UTC+12, takže platný čas se zvýší o 24 hodin, tzn. čas se nemění, ale datum se posune o jeden den vpřed. Při přechodu směrem na východ opačně.
+
+
+== Seznam časových pásem a příslušných území ==
+V následujícím seznamu je u každého časového pásma uvedena odchylka od UTC, jednopísmenné označení používané námořníky (které lze pomocí hláskovací tabulky převést na jednoslovný název) a případná dále používaná označení časového pásma. U každého pásma je pak uveden seznam států či území, která pásmo používají. V seznamu jsou hvězdičkou (*) označena území, ve kterých se používá letní čas.
+
+
+=== UTC-12 Y ===
+Bakerův ostrov (neobydlený)
+Howlandův ostrov(neobydlený)
+
+
+=== UTC-11 X ===
+Americká Samoa
+Atol Midway (USA)
+Niue
+
+
+=== UTC-10 W, HST (Hawaii-Aleutian Standard Time) ===
+Cookovy ostrovy
+Části Francouzské Polynésie
+Johnstonův atol
+Části Spojených států (Havaj, Aleutské ostrovy)*
+
+
+=== UTC-9.30 V* ===
+Část Francouzské Polynésie (Markézy)
+
+
+=== UTC-9 V, AKST (Alaska Standard Time) ===
+Části Francouzské Polynésie
+Část Spojených států (Aljaška)*
+
+
+=== UTC-8 U, PST (Pacific Standard Time) ===
+Části Kanady (Yukon, Britská Kolumbie)*
+Části Mexika (Baja California)*
+Pitcairnovy ostrovy
+Části Spojených států (Kalifornie, Nevada, Oregon, Washington)*
+
+
+=== UTC-7 T, MST (Mountain Standard Time) ===
+Části Kanady (Alberta)*
+Části Mexika (Chihuahua, Sonora, Baja California Sur, Sinaloa, Nayarit)*
+Části Spojených států (Arizona, Colorado)*
+
+
+=== UTC-6 S, CST (Central Standard Time) ===
+Belize
+Část Ekvádor (Galapágy)
+Salvador
+Guatemala
+Honduras
+
+Části Kanady (Manitoba, Saskatchewan)*
+Kostarika
+Většina Mexika*
+Nikaragua
+Části Spojených států (Illinois, Texas)*
+
+
+=== UTC-5 R, EST (Eastern Standard Time) ===
+Bahamy*
+Ekvádor
+Haiti
+Část Chile (Velikonoční ostrov)*
+Jamajka
+Části Kanady (Ontario, Québec)*
+Kajmanské ostrovy
+Kolumbie
+Kuba*
+Panama
+Peru
+Turks a Caicos*
+část Mexika (Quintana Roo)
+Části Spojených států (východní pobřeží Washington, D.C., New York)*
+
+
+=== UTC-4.30, Q† ===
+Venezuela (od 9. prosince 2007 02.30:00 UTC-4.30)
+
+
+=== UTC-4 Q, AST (Atlantic Standard Time) ===
+Anguilla
+Americké i Britské Panenské ostrovy
+Antigua a Barbuda
+Aruba
+Barbados
+Bermudy*
+Bolívie
+Části Brazílie (Amazonas)*
+Curaçao
+Dominika
+Dominikánská republika
+Falklandy*
+Grenada
+Část Grónska*
+Guadeloupe
+Guyana
+Části Kanady (Nové Skotsko)*
+Martinik
+Montserrat
+Paraguay*
+Portoriko
+Sint Maarten
+Svatá Lucie
+Svatý Kryštof a Nevis
+Svatý Vincenc a Grenadiny
+Trinidad a Tobago
+
+
+=== UTC-3.30 P*, NST (Newfoundland Standard Time) ===
+Části Kanady (Newfoundland)*
+
+
+=== UTC-3 P ===
+Argentina
+Části Brazílie Brasila, Rio de Janeiro, São Paulo*
+Francouzská Guyana
+Většina Grónska*
+Chile (kontinentální)*
+Saint-Pierre a Miquelon*
+Surinam
+Uruguay
+
+
+=== UTC-2 O ===
+Část Brazílie (Fernando de Noronha)
+Jižní Georgie a Jižní Sandwichovy ostrovy
+
+
+=== UTC-1 N ===
+Část Grónska*
+Kapverdy
+Část Portugalska (Azorské ostrovy) *
+
+
+=== UTC Z (Zulu), GMT (Greenwich Mean Time), WET (West European Time) ===
+Burkina Faso
+Faerské ostrovy*
+Gambie
+Ghana
+Část Grónska
+Guinea
+Guinea-Bissau
+Irsko*
+Island
+Libérie
+Mali
+Maroko
+Mauritánie
+Pobřeží slonoviny
+Portugalsko (kontinentální, Madeira)*
+Senegal
+Sierra Leone
+Svatá Helena, Ascension a Tristan da Cunha
+Svatý Tomáš a Princův ostrov
+Část Španělska (Kanárské ostrovy) *
+Togo
+Velká Británie*
+
+
+=== UTC+1 A, SEČ (Středoevropský čas), CET (Central European Time) ===
+Albánie*
+Alžírsko
+Andorra*
+Angola
+Belgie*
+Benin
+Bosna a Hercegovina*
+Čad
+Černá Hora*
+Česká republika*
+Dánsko*
+Francie*
+Gabon
+Gibraltar*
+Chorvatsko*
+Itálie*
+Libye
+Lichtenštejnsko*
+Lucembursko*
+Kamerun
+Kongo
+Maďarsko*
+Makedonie*
+Malta*
+Monako*
+Namibie*
+Německo*
+Niger
+Nigérie
+Nizozemsko*
+Norsko*
+Polsko*
+Rakousko*
+Rovníková Guinea
+San Marino*
+Slovensko*
+Slovinsko*
+Srbsko*
+Středoafrická republika
+Svalbard*
+Španělsko*
+Švédsko*
+Švýcarsko*
+Tunisko
+Vatikán*
+
+
+=== UTC+2 B, EET (East European Time) ===
+Botswana
+Bulharsko*
+Burundi
+Demokratická republika Kongo
+Egypt
+Estonsko*
+Finsko*
+Pásmo Gazy*
+Izrael*
+Jihoafrická republika
+Jordánsko*
+Kypr*
+Lotyšsko*
+Lesotho
+Libanon*
+Litva*
+Malawi
+Moldavsko*
+Mosambik
+Rumunsko*
+Rwanda
+Řecko*
+Svazijsko
+Sýrie*
+Turecko*
+Ukrajina*
+Západní břeh Jordánu*
+Zambie
+Zimbabwe
+
+
+=== UTC+3 C ===
+Bahrajn
+Bělorusko*
+Džibutsko
+Eritrea
+Etiopie
+Irák*
+Jemen
+Katar
+Keňa
+Komory
+Kuvajt
+Madagaskar
+Mayotte
+Část Ruska (Kaliningradská oblast)*
+Saúdská Arábie
+Somálsko
+Súdán
+Tanzanie
+Uganda
+
+
+=== UTC+3.30 C* ===
+Írán*
+
+
+=== UTC+4 D, MSK (Moscow Time) ===
+Arménie*
+Ázerbájdžán*
+Gruzie*
+Mauricius
+Omán
+Réunion
+Evropská část Ruska a Republika Krym (sporné území)*
+Seychely
+Spojené arabské emiráty
+
+
+=== UTC+4.30 D* ===
+Afghánistán
+
+
+=== UTC+5 E ===
+Části Kazachstánu*
+Maledivy
+Pákistán
+Části Ruska*
+Tádžikistán
+Turkmenistán
+Uzbekistán
+
+
+=== UTC+5.30 E*, IST (Indian Standard Time) ===
+Indie
+Šrí Lanka
+
+
+=== UTC+5.45 E‡ ===
+Nepál
+
+
+=== UTC+6 F ===
+Bangladéš
+Bhútán
+Kyrgyzstán*
+Části Kazachstánu*
+Části Ruska (Čeljabinská oblast, Sverdlovská oblast)*
+
+
+=== UTC+6.30 F* ===
+Kokosové ostrovy
+Myanmar
+
+
+=== UTC+7 G ===
+Část Indonésie (Sumatra, Jáva, část Kalimantanu)
+Kambodža
+Laos
+Část Ruska (Novosibirská oblast)*
+Thajsko
+Vietnam
+Vánoční ostrov
+
+
+=== UTC+8 H, AWST (Australian Western Standard Time) ===
+Část Austrálie (Západní Austrálie)
+Brunej
+Čína (celá)
+Hongkong
+Část Indonésie (Sulawesi)
+Macao
+Malajsie
+Mongolsko (většina)*
+Filipíny
+Části Ruska (Krasnojarský

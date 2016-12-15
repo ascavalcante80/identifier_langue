@@ -1,0 +1,83 @@
+Matematik (fra oldgræsk μάθημα, máthēma: det jeg lærte, at lære; μαθηματικός mathēmatikós: glad for at lære) er studiet af mønstre i mængde, struktur, ændringer og rummet.
+
+
+== Definition ==
+Matematikken er en deduktiv og abstrakt videnskab, som bygger på logiske metoder. I den moderne definition er det undersøgelsen af aksiomatisk definerede abstrakte strukturer ved brug af logik, som er det fælles udgangspunkt. De specifikke strukturer, der undersøges, har ofte deres udgangspunkt i naturvidenskaben, oftest i fysikken. Men i modsætning til naturvidenskaben beskriver matematikken en uvirkelig ideel verden, hvor for eksempel rette eller parallelle linjer findes modsat den virkelige verden. Matematikere definerer og undersøger også strukturer udelukkende af hensyn til matematikkens udvikling af egene regler, for eksempel fordi de finder ud af, at en struktur giver en samlende generalisering, eller at der findes et værktøj, der kan hjælpe i flere forskellige grene af matematikken.
+
+
+== Historie ==
+
+Historisk set er matematikken opstået ud fra behovet for at lave beregninger i handel, for at opmåle land og for at forudsige astronomiske begivenheder. Disse tre behov kan groft relateres til en bred underopdeling af matematikken i studiet af struktur, rum og ændring. Ligeledes har det været væsentligt for matematikkens fortsatte udvikling at specielle tegn-systemer, ex, den arabiske algebra i den vestlige kulturkreds, blev komstrueret.
+
+
+== Strukturer ==
+Studiet af struktur starter med tallene, i begyndelsen de velkendte naturlige tal og heltallene. De regler, der gælder for aritmetiske operationer, er optegnet i elementær algebra, og de dybere egenskaber ved heltallene studeres i talteorien. Undersøgelsen af metoder til at løse ligninger fører til studiet af abstrakt algebra. Det for fysikerne vigtige begreb vektorer, der er generaliseret til vektorrummet og studeret i lineær algebra, tilhører de to grene struktur og rum.
+
+
+== Geometri ==
+Studiet af rummet starter med studiet af geometri, først den euklidiske geometri og trigonometri i det sædvanlige tredimensionale rum, men senere også generaliseret til ikke-euklidisk geometri som spiller en central rolle i den generelle relativitetsteori. De moderne områder differentialgeometri og algebraisk geometri generaliserer geometri i forskellige retninger: differentialgeometri fremhæver begreberne koordinatsystemer, glathed og retning, mens geometriske objekter i algebraisk geometri beskrives som løsninger til et sæt af ligninger. Gruppeteori undersøger på en abstrakt måde begrebet geometri og giver en sammenhæng mellem studiet af rum og struktur. Topologi giver en sammenhæng mellem studiet af rum og studiet af ændring ved at fokusere på begrebet kontinuitet.
+
+
+== Infinitesimalregning ==
+At forstå og beskrive ændringer i målelige størrelser er det centrale emne i naturvidenskab, og infinitesimalregningen er udviklet som et særdeles brugbart værktøj til at gøre præcis det. Det centrale begreb, man bruger til at beskrive en variabel, der ændrer sig, er en funktion. Mange problemer leder helt naturligt til relationen mellem mængde og størrelsen af dens ændring, og metoderne til at løse disse er studeret i emnet differentialligninger. Tallene, man bruger til at repræsentere kontinuerlige mængder, er de reelle tal, og det detaljerede studium af deres egenskaber er kendt som reel analyse. Af forskellige årsager er det bekvemt at generalisere til komplekse tal, som studeres i en kompleks analyse. Funktionalanalyse fokuserer på et (typisk uendeligt-dimensionalt) rum af funktioner, som danner basis for blandt andet kvantemekanik.
+
+
+== Computernes indflydelse ==
+For at tydeliggøre og undersøge matematikkens fundament udviklede man områderne mængdeteori, matematisk logik og modelteori.
+Da computere i sin tid blev opfundet, blev flere omkringliggende problemer tacklet af matematikere, og det ledte til områderne beregnelighed og informationsteori. Mange af disse spørgsmål er nu undersøgt under teoretisk datalogi.
+Computere har også hjulpet til ved emner som kaosteori, som handler om at mange dynamiske systemer i naturen adlyder love, der gør, at deres adfærd bliver uforudsigelig i praksis, selvom det er deterministisk i teorien. Kaosteori er tæt forbundet med fraktal geometri.
+
+
+== Anvendt matematik ==
+
+Et vigtigt område i anvendt matematik er sandsynlighedsregning, som muliggør beskrivelse, analyse og forudsigelse af tilfældige fænomener og er brugt i alle videnskaber.
+Numerisk analyse undersøger metoder til at udføre beregninger på computer.
+Den følgende liste af emner repræsenterer én måde at organisere matematikkens grene på:
+
+
+== Emneoversigt ==
+Herunder følger en detaljeret emneoversigt.
+
+
+=== Mængde ===
+
+Tal – Naturlige tal – Heltal – Rationale tal – Reelle tal – Komplekse tal – Kvaternioner – Okternioner – Sedenioner – Hyperreelle tal – Surreelle tal – Ordinaltal – Kardinaltal – Heltalsfølge – Matematiske konstanter – Talnavne – Uendelig
+
+
+=== Ændring ===
+
+Infinitesimalregning – Vektoranalyse – Matematisk analyse – Differentialligninger – Dynamiske systemer – Kaosteori – Funktioner
+
+
+=== Struktur ===
+
+Abstrakt algebra – Talteori – Algebraisk geometri – Gruppeteori – Matematisk analyse – Topologi – Lineær algebra – Grafteori – Universel algebra – Kategoriteori
+
+
+=== Rum ===
+
+Topologi – Geometri – Trigonometri – Algebraisk geometri – Differentialgeometri – Differentiel topologi – Algebraisk topologi – Lineær algebra
+
+
+=== Diskret matematik ===
+
+Kombinatorik – Mængdeteori – Sandsynlighedsregning – Statistik – Beregnelighed – Diskret matematik – Kryptologi – Grafteori – Spilteori
+
+
+=== Anvendt matematik ===
+Mekanik – Numerisk analyse – Optimering – Sandsynlighed – Statistik
+
+
+== Se også ==
+matematisk sætning
+andengradsligning og tredjegradsligning
+matematiker
+matematisk skønhed
+Matematikkens historie
+matematisk notation
+
+
+== Yderligere litteratur ==
+Davis, Philip J.; Hersh, Reuben: The Mathematical Experience. Birkhäuser, Boston, Mass., 1980. En skånsom introduktion til matematikkens verden.
+Rusin, Dave: The Mathematical Atlas, http://www.math-atlas.org. En tur gennem de forskellige grene i moderne matematik.
+Weisstein, Eric: World of Mathematics, http://www.mathworld.com. En online encyklopædi om matemati

@@ -1,0 +1,21 @@
+Absolut størrelsesklasse (på engelsk: absolut magnitude) er i astronomien et mål for, hvor meget lys et astronomisk objekt (stjerne, galakse, stjernetåge, osv.) udsender. Absolut størrelsesklasse betegnes med symbolet M.
+Hvis størrelsesklassen er bestemt fotometrisk ud fra et bestemt filter, kan den angives med dette også. Således hedder f.eks. den absolutte størrelsesklasse bestemt med V-filter (det "visuelle" (505 nm til 595 nm filter)) Mv, og en måling af al den elektromagnetiske stråling objektet udsender, kaldes bolometrisk størrelsesklasse (Mbol).
+Den tilsyneladende størrelsesklasse er et mål for, hvor meget lys vi modtager på Jorden fra et astronomisk objekt, men da dette stærkt afhænger af afstanden til det astronomiske objekt, er det altså ikke et mål for det astronomiske objekts lysudsendelse. Det er den absolutte størrelsesklasse derimod, som er et mål, der er oprettet for at give astronomerne et redskab til at sammenligne astronomiske objekters lysstyrker.
+
+
+== Afstandsmodulet ==
+Den absolutte størrelsesklasse er ikke afstandsbestemt, idet den benytter standardafstanden 10 pc (parsec) (ca. 32 lysår). Man kan derfor ikke måle den absolutte størrelsesklasse, men man måler derimod den tilsyneladende størrelsesklasse og korrigerer for afstanden vha. det såkaldte afstandsmodul:
+.
+Dette kræver selvfølgelig, at man kender afstanden til det astronomiske objekt i forvejen. Hvis det er denne, man ønsker at finde ud fra de to størrelsesklasser, kan man nemt indse, at formlen bliver:
+
+Afstanden r i denne ligning har enheden parsec.
+
+
+== Definition ==
+Den absolutte størrelsesklasse er som sådan ikke nogen enhed, men betegnes med talværdien enten med et foranstillet, midtstillet og opløftet, eller et efterstillet og opløftet M (eksempler: Mv 4,32; 4M32; 4,32M). Et m betegner den tilsyneladende størrelsesklasse. Et væsentligt aspekt af størrelsesklasseskalaen er, at den er omvendt, således at de laveste værdier svarer til de højeste lysstyrker. Værdierne kan sagtens være negative.
+
+
+== Abstrakt forklaring ==
+For at forstå den absolutte størrelsesklasse skal man forestille sig, at man har et astronomisk objekt, for hvilken man kender den mængde lys, man modtager. Man "flytter" det astronomiske objekt til en afstand af 10 pc fra Jorden og måler den nu modtagne lysmængde.
+Hvis det astronomiske objekt var tættere på Jorden end de 10 pc, inden den blev rykket, modtager vi altså mindre lys fra den, hvilket svarer til at den absolutte størrelsesklasse er større end den tilsyneladende (da skalaerne jo er "omvendte").
+Var det astronomiske

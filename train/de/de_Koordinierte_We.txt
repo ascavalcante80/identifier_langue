@@ -1,0 +1,55 @@
+Die koordinierte Weltzeit (englisch Coordinated Universal Time, französisch Temps universel coordonné), kurz UTC, ist die heute gültige Weltzeit. Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die entsprechende, in Deutschland, Österreich und anderen mitteleuropäischen Staaten geltende Mitteleuropäische Zeit (MEZ), indem man eine Stunde, und die im Sommer geltende Mitteleuropäische Sommerzeit (MESZ), indem man zwei Stunden addiert.
+Im Gegensatz zur Universalzeit (Universal Time UT), die den Schwankungen der Erdrotation stetig folgt, indem die Länge der Zeiteinheit angepasst wird, folgt die UTC diesen Schwankungen mit Hilfe von Schaltsekunden, während ihr Sekundentakt jener der gleichmäßig mit SI-Sekunden durchlaufenden internationalen Atomzeit (TAI) ist.
+
+
+== Anwendung ==
+UTC ist die Zeitskala für Zeitangaben:
+in der Luftfahrt und Seefahrt
+in der synoptischen Meteorologie
+für den wissenschaftlichen Gebrauch, soweit er nicht unmittelbar an der Zeitmessung beteiligt ist oder speziellere Ansprüche stellt
+teilweise für internationale Projekte, die sich über mehrere Zeitzonen erstrecken
+auf der Internationalen Raumstation (ISS)
+in der Antarktis
+in den digitalen Kontrollgeräten von Nutzfahrzeugen
+in internationalen Fernmeldediensten
+auf vielen internationalen Internet-Portalen wie z. B. der englischsprachigen Wikipedia
+Kurzwellenrundfunk
+in E-Mails
+im Amateurfunk
+Von der koordinierten Weltzeit werden, ausgehend vom Nullmeridian, der durch den Londoner Stadtteil Greenwich verläuft, die Zeiten in den verschiedenen Zeitzonen der Erde abgeleitet. UTC selbst wird für die Westeuropäische Zeit (WEZ/WET) – die in Großbritannien, Irland und Westafrika noch immer Greenwich Mean Time (GMT) genannt wird – als Zonenzeit verwendet.
+
+
+== Herkunft der Abkürzung ==
+Vor Normierung der Abkürzung ergab sich aus der in der englischen Sprache genutzten Bezeichnung Coordinated Universal Time die Abkürzung CUT, aus der französischen Variante Temps Universel Coordonné hingegen TUC. Die Internationale Fernmeldeunion sowie die Internationale Astronomische Union hatten jedoch das Bestreben, eine gemeinsame Abkürzung für alle Sprachen zu etablieren. Um keine der beiden Sprachen zu bevorzugen, wurde daher als international einheitliche Abkürzung der Kompromiss UTC gewählt, der sich auch alphabetisch in die anderen Ableitungen der Universal Time (wie UT1, UT2) einordnet. Das C steht aufgrund dieser Festlegung für die koordinierten Schaltsekunden (engl. coordinated, franz. coordonné).
+
+
+== Notation ==
+Die UTC besteht aus Uhrzeit und Kalenderdatum als vollständige Datumsangabe. Bei nationalen oder regionalen Zeitzonen steht meist der Hinweis, um wie viele Stunden diese von der UTC abweichen, beispielsweise entspricht UTC+1 der mitteleuropäischen Zeit (MEZ) und UTC+2 der Mitteleuropäischen Sommerzeit (MESZ) wie auch der Osteuropäischen Zeit. Die beiden Zeitzonen westlich und östlich der Datumsgrenze, die beide eine um 12 Stunden von der UTC abweichende Uhrzeit haben, in denen aber das lokale Datum unterschiedlich ist, werden mit UTC−12 und UTC+12 angegeben.
+Diese allgemeine Zeitzone wurde insbesondere in der Luftfahrt und der NATO mit dem Buchstaben Z bezeichnet. Z steht hierbei für Zero (= Null). Daher spricht man auch von Z-Zeit oder Zulu-Zeit (gemäß dem im ICAO-Alphabet dem Buchstaben Z zugeordneten Wort Zulu). Z steht für zero meridian, also Nullmeridian. Jedoch ist diese Zeitangabe so grob, dass sie sowohl für UT als auch für UTC stehen kann. Mittlerweile wird der Begriff Z-Zeit in der Luftfahrt jedoch nicht mehr genutzt, sondern nur noch von UTC gesprochen. Bei Wettermeldungen (TAF/METAR) findet man allerdings noch die Zulu-Zeiten; die Angabe 1350Z bedeutet 13:50 UTC, siehe auch ISO 8601. GPS-relevante Werte, beispielsweise zur Kalibrierung von Navigationsgeräten, werden mit UTC, niemals mit Z gekennzeichnet. Die Standardzeit in Deutschland, Polen, Österreich, der Schweiz und Italien ist die mitteleuropäische Zeit (MEZ), die gleich der UTC plus einer Stunde ist. Das Militär bezeichnet diese auch als Alfa-Zeit (A). Während der Sommerzeit gilt die mitteleuropäische Sommerzeit (MESZ/engl. CEST), die der UTC plus zwei Stunden entspricht, im NATO-Bereich mit dem Code Bravo-Zeit (für B) bezeichnet.
+Ein Praxisbeispiel aus der Luftfahrt: Alle Zeiten werden intern als UTC-Zeit angegeben, z. B. UTC 13:52. Ein Pilot, der diese Zeit sieht, schaut in einem Verzeichnis nach, welche Abweichung für seinen Aufenthaltsort gilt, z. B. LOT (Local Time), also Ortszeit Berlin = UTC +1. Er rechnet nun: z. B. 13:52 + 1 = 14:52 Ortszeit Berlin. Dies gilt aber nur im Winter, bei Sommerzeit müsste er nicht eine, sondern zwei Stunden hinzurechnen.
+Eine Zeitangabe in der Form 14:52 UTC+1:00 bedeutet also 14:52 Ortszeit (örtliche Zonenzeit) für eine Zeitzone, die der UTC eine Stunde voraus ist, z. B. MEZ. Die UTC ist zu diesem Zeitpunkt 13:52.
+Wenn Datums- und Zeitangaben kombiniert werden, sollte die Datumsangabe vollständig sein, die Zeitangabe kann mit reduzierter Genauigkeit angegeben werden. Die Zeitangabe 23:20:50 Uhr am 12. April 1985 wird wie folgt dargestellt:
+Grundformat: 19850412T232050
+Erweitertes Format: 1985-04-12T23:20:50
+Sofern nicht aus dem Zusammenhang eindeutig klar ist, welche Zeitzone gemeint ist, ist immer anzufügen, welchen Offset zur UTC die angegebene Zeit besitzt
+Grundformat: 19850412T232050+0100
+Erweitertes Format: 1985-04-12T23:20:50+01:00
+Erst damit wird die im Beispiel angegebene Uhrzeit eindeutig als UTC 22:20:50 identifizierbar.
+Auch wenn eine Zeitangabe in UTC erfolgt, ist dies durch Anfügen der Zeitzone (+00:00 oder UTC oder Z) kenntlich zu machen.
+
+
+== Bezug UTC – TAI ==
+Die UTC geht gegenüber der Internationalen Atomzeit (TAI) nach. Am 1. Juli 2015 betrug die Differenz zwischen UTC und TAI −36 Sekunden. Durch das Einfügen weiterer Schaltsekunden in die UTC wird sich diese Differenz vergrößern.
+
+
+== Verwaltung ==
+Die Koordination der UTC ist Aufgabe des Internationalen Büros für Maß und Gewicht (BIPM). Dessen Consultative Committee for Time and Frequency (CCTF), das aus Mitgliedern und Beobachtern verschiedener Zeitinstitute besteht, sorgt für die weltweite Koordinierung der UTC.
+Zeitinstitute verwalten weltweit die UTC für nationale Zwecke, so zum Beispiel die Physikalisch-Technische Bundesanstalt (Deutschland), das Bundesamt für Eich- und Vermessungswesen (Österreich) und das Eidgenössische Institut für Metrologie (Schweiz). Deren Darstellungen werden dann z. B. als UTC(PTB) für Deutschland, als UTC(BEV) für Österreich und als UTC(CH) für die Schweiz bezeichnet. Die UTC ist über die Zeitserver via Internet abrufbar.
+
+
+== Weblinks ==
+
+Dynamische digitale Anzeige der UTC, Java-Applet, offizieller BIPM-Server, (englisch)
+Koordinierte Weltzeitskala UTC – Informationen der PTB
+TAI und UTC – Informationen des BIPM (englisch/französisch)
+Gesetz über die Einheiten im Messwesen und die Zeitbestimmung 

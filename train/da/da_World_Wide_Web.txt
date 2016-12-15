@@ -1,0 +1,38 @@
+World Wide Web (kort WWW) er et hypertekst-system, der formidles via internettet. I daglig tale bruges termen internet ofte fejlagtigt om World Wide Web.
+For at se information på WWW, bruger man en applikation kaldet en webbrowser (som regel blot benævnt en browser), til at hente websider fra en eller flere webservere og vise dem i en grafisk brugerflade (eller tidligere tekstbrugerflade) på brugerens skærm. Brugeren kan så følge hyperlinks til andre websider – eller sende information tilbage til en server via en webformular. Det at følge hyperlinks på WWW kaldes også at web-surfe eller at surfe på internettet.
+World Wide Web blev skabt i 1989 af Sir Tim Berners-Lee.
+
+
+== Hvordan findes websider ==
+For at finde en ønsket side blandt mange på WWW, bruger man eksempelvis et linkkatalog eller en søgemaskine. Den største af disse er for tiden Google.
+
+
+== Hvordan laves websider ==
+Websider eller hjemmesider kan "håndlaves" med en almindelig teksteditor evt. med html-hjælpeudvidelser. Det er en yderst simpel men besværlig måde, men skal man kun lave få sider eller teste nogle html-tags, er metoden god.
+En lettere metode er at anvende en (WYSIWYG) HTML-editor, hvor man kan klippe-klistre tekst direkte ind med formateringer eller overskrifter. Faktisk kan mange tekstbehandlingsprogrammer direkte gemme i html-format og automatisk gemme billeder i en separat mappe.
+Større firmaer eller personer, som har brug for et stort website, anvender CMS (Content Management System). I et CMS-system kan man lave skabeloner og evt. lave brugergrupper, så hver gruppe har ansvaret for hver sit indhold. Ydermere kan man kræve, at en side først publiceres, når en eller flere bestemte personer har godkendt indholdet.
+Andre måder er wikis, blogs...
+Siderne kan evt. dynamisk dannes af serverteknologier valgt af webmastere; f.eks. ASP eller PHP og data kan hentes eller sendes til databaser.
+
+
+== Check af websider ==
+Først bør man tjekke om html-syntaksen er i orden. Dette kan gøres gratis via W3C-validatoren for websider på WWW eller uploadede filer.  En anden god service W3C stiller til rådighed, er at tjekke om ens WWW-henvisninger virker og finde dem som ikke gør. 
+Nogle CMS-systemer tjekker automatisk for en eller flere af ovenstående mulige problemer.
+Herefter skal man tjekke om websiderne ser gode ud i de browsere, folk bruger, eller som ens kundesegment anvender. Der er nemlig små forskelle i den måde websiderne udseendesmæssigt præsenteres på af forskellige browsere
+
+
+== Hvordan lægges siderne på World Wide Web ==
+Bruger man f.eks. en wiki eller et CMS-system, lægges websiderne automatisk på WWW, eventuelt under forudsætning af, at de først er godkendt. Ellers kan man købe plads på et webhotel og herefter uploade websiderne med tilhørende billedfiler o.l. via f.eks. webdav, cvs, sftp, ftp, http... Webhotellet oplyser hvordan siderne uploades. Er der tale om dynamiske websider, der benytter databaser, skal man også have disse oprettet på serveren og vide, hvordan de tilgås.
+Har man lyst til at eksperimentere eller sætte sin egen server op, kan man lægge websiderne på den maskine, der skal være webserver. Det kræver dog at serveren har en fast ikke-privat ip-adresse – eller bliver NATtet til en sådan, ellers kan andre ikke se siderne udefra internettet. Man kan købe en internetadgang, som har en fast ikke-privat ip-adresse hos en internetudbyder. Hedder den faste ip-adresse f.eks. "1.2.3.4", kan man se sin startside ved at skrive "http://1.2.3.4/minstartsidesnavn.html".
+Vil man have et symbolsk navn (DNS-adresse), skal man købe et domæne under et eller andet topdomæne.
+
+
+== Hvad består World Wide Web af og hvad kan websider indeholde ==
+Som basis for WWW er der anvendt følgende kategorier af standarder:
+Obligatoriske:
+En URL, der angiver en unik adresse for hver side på internettet. Eksempel på en URL som også er en hyperlink: "https://da.wikipedia.org/wiki/World_Wide_Web".
+URLs, som hyperlinks er en delmængde af, kan også pege andre internetobjekter udenfor World Wide Web, som for det meste serviceres af andre applikationer f.eks. filer via ftp, sende mail via "mailto:"-opmærkningstags, nyhedsgruppelinks via "nntp://.." eller "news://..."-opmærkningstags osv.
+
+Protokollerne HTTP eller HTTPS specificerer, hvordan webbrowseren og webserveren sender information til hinanden. Det forreste af en URL indikerer hvilken protokol, der ønskes anvendt: "http://da.wikipedia.org/". I http eller https forhandlingen sender webserveren eller beder om at modtage en eller flere cookies.
+Et www-opmærkningssprog; f.eks. en HTML- eller XHTML-variant ofte med anvendelse af en CSS-variant, der indeholder websideindhold og som definerer, hvordan informationen skal formateres, så den præsenteres på passende vis af webbrowseren.
+Et WWW-kompatibelt tegnsæt, som indikeres via http, https eller websiden selv. F.eks. en unicode-variant (f.eks. UTF-8), US-ASCII eller en ISO 8859-variant (f.eks. ISO 8859-1). Bemærk at æøå fint kan repræsenteres i US-ASCII som hhv. &aelig; &oslash; og &ar

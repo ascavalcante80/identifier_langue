@@ -1,0 +1,5 @@
+QRpedia, kullanıcılara tercih ettikleri dilde Wikipedia makalelerini sunmak için QR kodlarını kullanan mobil Web tabanlı bir sistemdir. QR kodları kolayca herhangi bir Tekdüzen Kaynak Tanımlayıcı (URI) tarafından doğrudan oluşturulabilir ancak QRpedia sistemi ayrıca ek işlevsellik eklemektedir. Sistem Wikimedia UK'nın (WMUK) bir yan kuruluşu tarafından işletilmektedir.
+QRpedia, bir Vikipedi gönüllüsü olan Roger Bamkin tarafından tasarlanmış, Terence Eden tarafından kodlanmış ve Nisan 2011'de aktifleşmiştir. Halen Avustralya, Bulgaristan, Çek Cumhuriyeti, Estonya, İspanya, Hindistan, İngiltere ve Amerika Birleşik Devletleri de dahil birçok ülkede müzeler ve diğer kurumlarda kullanımdadır. Projenin kaynak kodu MIT Lisansı altında serbestçe tekrar kullanılabilir.
+
+
+== Ayrıca ba

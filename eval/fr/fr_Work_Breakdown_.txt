@@ -1,0 +1,13 @@
+ité de la part des participants au projet. Pour les projets de développement de nouveaux produits, la technique la plus courante pour s'assurer d'une WBS axée sur les résultats consiste à utiliser une structure de répartition des constituants du produit. Les projets logiciels axés sur les fonctionnalités peuvent utiliser une technique similaire qui consiste à employer une structure caractéristique des sous-fonctions. Lorsqu'un projet consiste à fournir des services, une technique courante consiste à capturer tous les livrables prévus pour créer une WBS axée sur les livrables. Les WBS qui subdivisent le travail par phases du projet (phase de conception préliminaire, phase de conception détaillée…) veillent à ce que les phases soient clairement séparées par un livrable également utilisé dans la définition des critères d'entrée et de sortie (par exemple un examen d’approbation de la conception préliminaire ou détaillée).
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Structure organisationnelle du projet (OBS)
+Matrice RACI (OBS-WBS)
+ Portail du management

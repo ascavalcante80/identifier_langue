@@ -1,0 +1,38 @@
+QRpedia ist ein System im mobilen Internet, das QR-Codes verwendet, um Anwendern Wikipedia-Artikel in der mobilen Ansicht anzuzeigen. QR-Codes lassen sich einfach erzeugen, um einen direkten Link zu einem Uniform Resource Identifier (URI) zu erhalten. Das QRpedia-System verweist ausgehend von den Spracheinstellungen des Mobilgerätes direkt auf die entsprechende Sprachversion des Wikipedia-Artikels.
+QRpedia wurde im April 2011 von Roger Bamkin, dem Vorsitzenden der Wikimedia UK, konzipiert und präsentiert. Es ist derzeit bei Institutionen wie Museen in Großbritannien, USA und Spanien im Einsatz. Der Quellcode des Projekts ist unter der MIT-Lizenz frei wiederverwendbar.
+
+
+== Entstehung ==
+
+QRpedia wurde von Roger Bamkin, dem Vorsitzenden der Wikimedia UK und dem Mobile-Web-Berater Terence Eden konzipiert. Das System wurde am 9. April 2011 bei der Veranstaltung Backstage Pass des Derby Museums vorgestellt. Es ist Teil der GLAM/Derby-Zusammenarbeit zwischen dem Derby Museum and Art Gallery und Wikipedia, während dessen über 1200 Wikipedia-Artikel in mehreren Sprachen erstellt wurden. Der Projektname ist ein Kofferwort, das die Initialen „QR“ von „QR-Code“ und „pedia“ von „Wikipedia“ kombiniert.
+
+
+== Erstellung ==
+Um einen QRpedia-Code zu erzeugen, kopiert man den kompletten Adresspfad eines Wikipedia-Artikels und fügt ihn auf der QRpedia-Webseite im Eingabefeld ein. Der Code wird sofort erstellt und auf der Webseite dargestellt. Nun kann man ihn ausdrucken, kopieren oder speichern.
+
+
+== Benutzung ==
+
+Ein QRpedia-Code wird wie ein QR-Code genutzt und kann an jedem Ort benutzt werden, an dem ein (mobiler) Datenzugriff möglich ist. Mit einem Mobilgerät (z.B. Mobiltelefon) mit Kamera und installiertem QR-Code-Lese-Software wird der Code gescannt und man erhält den entsprechenden Wikipedia-Artikel im mobilen Format in der Sprache, die am Gerät eingestellt ist.
+Auf diese Weise bietet ein QR-Code einen Link auf den gleichen Wikipedia-Artikel in vielen Sprachen, auch wenn das betreffende Exponat vor Ort nur einsprachig beschrieben ist.
+Sollte der Artikel in der angeforderten Sprache nicht existieren, bekommt der Anwender eine Liste von Links zu dem Artikel in anderen Sprachen angeboten.
+
+
+== Technische Umsetzung ==
+Wird ein QRpedia-Code eingescannt, wird dieser in eine URL dekodiert, die sich aus dem Domain-Namen „qrwp.org“ und dem Titel des betreffenden Wikipedia-Artikels als Pfad zusammensetzt. Mit Hilfe dieser erzeugten URL wird eine Anfrage für den Wikipedia-Artikel an den QRpedia-Webserver abgegeben, wobei zusätzlich noch die Spracheinstellung des Gerätes übertragen wird.
+Der QRpedia-Server verwendet dann die Wikipedia-API um zu ermitteln, ob der angeforderte Wikipedia-Artikel in der übertragenen Sprache existiert. Wenn das der Fall ist, so wird diese Version im mobilen Wikipedia-Format zurückgegeben. Wenn nicht, dann sucht der QRpedia-Server nach dem Artikeltitel in anderen Sprachen und gibt das Suchergebnis zurück. QRpedia zeichnet nebenbei Nutzungsstatistiken auf.
+
+
+== Einsatz ==
+
+Seit September 2011 sind QRpedia-Codes bei folgenden Institutionen im Einsatz:
+The Children’s Museum of Indianapolis, USA
+Derby Museum and Art Gallery, Vereinigtes Königreich
+Fundació Joan Miró, Spanien
+The National Archives, Vereinigtes Königreich
+Museum für Hamburgische Geschichte, Hamburg
+QRpedia wird auch außerhalb von Museen und Galerien benutzt, um Betrachtern weiterführende Informationen zu Objekten und Begriffen zu liefern:
+Auf Demo-Plakaten der englischsprachigen Occupy-Bewegung
+Auf der Kölner Hohenzollernbrücke bei den Liebesschlössern
+In der Wikipedia-Stadt MonmouthpediA
+An bedeut

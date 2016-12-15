@@ -1,0 +1,139 @@
+El verbo es la parte de la oración o categoría léxica que expresa acción o movimiento, existencia, consecución, condición o estado del sujeto; semánticamente expresa una predicación completa. En la oración, el verbo conjugado funciona como el núcleo sintáctico del predicado (si el verbo está en una forma conjugada ocupará en general la posición del núcleo del sintagma de tiempo, y si no de un sintagma verbal ordinario).
+Los verbos, según su valencia o gramática, pueden ser clasificados en intransitivos, transitivos, ditransitivos, etc. Son transitivos cuando el verbo requiere más de un argumento obligatorio. Los intransitivos tienen un solo argumento obligatorio.
+
+
+== Introducción ==
+
+
+=== Accidentes gramaticales ===
+En la inmensa mayoría de lenguas del mundo el verbo es la clase de palabra más compleja en el sentido de que puede reflejar muchas más categorías gramaticales que otras palabras. Es frecuente que exprese una o varias personas gramaticales (en lenguas como el español solo marca la persona gramatical asociada al sujeto; en otras lenguas también puede marcar el objeto), número gramatical, tiempo-modo-aspecto y más raramente en algunas lenguas puede llevar género gramatical, evidenciales, direccionales, clasificadores de forma, intencionales, etc. En gramática tradicional las categorías expresadas en el verbo se denominan "accidentes gramaticales".
+En la mayoría de lenguas flexivas existen tres categorías gramaticales típicas del verbo.
+La categoría verbal de tiempo gramatical asume diferentes formas en diferentes lenguas. En muchas lenguas europeas existen tres posibles valores del tiempo: presente, pasado y futuro; en otras lenguas la diferencia es entre pasado y no-pasado (presente o futuro). Incluso existen lenguas como el chino que no tienen tiempo gramatical, y la noción semántica de tiempo se realiza mediante adverbios explícitos (hoy, ayer, …) o bien contextualmente.
+La categoría de modo puede incluir diversas variantes, tales como condicional, imperativo, indicativo, negativo, optativo, potencial, subjuntivo, etc.
+El aspecto gramatical se refiere a la noción semántica de acción acabada (perfecto), acción inacabada (imperfecto), acción continuada, etc.
+En muchas lenguas indoeuropeas el tiempo, el aspecto y el modo gramatical frecuentemente se expresan fusionadamente mediante un único morfema que expresa simultáneamente los diversos valores de esas categorías. Por ejemplo en español, en la forma amaste el morfema -ste expresa simultáneamente el modo indicativo, el tiempo pasado y el aspecto perfecto (además de expresar segunda persona y singular).
+
+
+=== Argumentos verbales ===
+Los argumentos requeridos por el verbo incluyen el sujeto y los complementos verbales. En diversas lenguas se denominan de manera diferente pero en términos generales un verbo transitivo requiere un complemento directo (ocasionalmente complemento de régimen); algunos ditransitivos requieren también complemento indirecto. El llamado "complemento" circunstancial no es obligatorio en ningún caso, por lo que sintácticamente es un adjunto del sintagma verbal.
+Semánticamente el complemento directo suele asumir un papel temático de paciente o tema, mientras que el complemento indirecto suele recibir un papel temático de beneficiario o recipiente. En español y otras lenguas, algunos verbos requieren complementos obligatorios con papeles temáticos diferentes o expresan ese complemento mediante un complemento de régimen.
+Los complementos circunstanciales no son argumentos verbales ya que pueden omitirse, pero cuando están presentes completan el significado de la predicación expresando modo, lugar, tiempo, etc. Estos son adjuntos frecuentemente introducidos por adposiciones o son realizados por adverbios de modo, tiempo y lugar.
+
+
+=== Diátesis ===
+
+La diátesis gramatical tiene que ver con el número de argumentos requeridos por el verbo o valencia del verbo. Muchos verbos requieren solo un argumento (intransitivos) cuyo papel temático frecuentemente es un experimentador. Otros verbos que requieren entre sus argumentos un agente frecuentemente son transitivos y requieren además un paciente o tema.
+En español algunos de los verbos que requiren un agente como uno de sus argumentos pueden aparecer en diátesis transitivas o intranstivas:
+me comí el pollo (DT)
+estabas comiendo (DI)
+Otros verbos transitivos del español son rígidamente intransitivos y no admiten esta duplicidad de diátesis:
+Juan devoró el pollo (DT)
+*Juan devoró (DI)
+La segunda oración no es directamente interpretable sin inferencias pragmáticas adicionales, ya que devorar no admite aquí una diátesis intransitiva.
+Las lenguas del mundo presentan procedimientos morfológicos que pueden alterar la valencia del verbo entre ellos:
+La pasivación consiste en la formación de un intransitivo a partir de un transitivo. Obsérvese que por ejemplo en español el "complemento agente" introducido por la preposición por en una oración pasiva es omitible, y por tanto es un adjunto sintáctico: Fue elegido presidente es gramatical al igual que Fue elegido presidente por la mayoría de la cámara. En las lenguas nominativo-acusativas este proceso de intransitivización se llama formación de voz pasiva, mientras que en las lenguas ergativo-absolutivas este proceso se llama formación de voz antipasiva.
+La voz causativa.
+La voz aplicativa.
+
+
+=== Sintaxis ===
+Además de requerimientos de orden sintáctico, la aparición de un verbo en una frase puede estar ligada por concordancia gramatical. Esto significa que en muchas lenguas se requiere que el verbo tenga una u otra forma en función de otros constituyentes sintácticos que le preceden o le siguen.
+En español el verbo concuerda con el sujeto:
+El niño corrió mucho
+Los niños corrieron mucho
+En cambio en otras lenguas como el euskera hay concordancia con el "sujeto" y "objeto":
+ditut 'los tengo' / dut 'lo tengo'
+ditugu 'los tenemos' / dugu 'lo tenemos'
+
+
+== El verbo en las lenguas del mundo ==
+En gramática tradicional se concibe el verbo como la palabra principal del predicado en la oración. Como designar y predicar son funciones básicas de toda lengua humana, todas las lenguas poseen verbos. Típicamente muchas lenguas diferencian entre dos grandes clases de categorías léxicas: en la primera estarían básicamente los nombres y en la segunda los verbos, aunque en algunas pocas lenguas estas clases no son disjuntas. Los adjetivos en algunas lenguas son tratados de manera similar a los nombres y en otras de manera más similar a verbos estativos. La predicación verbal típicamente incluye un conjunto de categorías primarias como la persona gramatical, el tiempo gramatical, el aspecto gramatical, y en muchas lenguas también categorías secundarias como género y número, aunque algunas de estas categorías pueden faltar en cada lengua concreta. Por ejemplo en las lenguas indoeuropeas, a diferencia de lo que pasa en lenguas semíticas, el verbo no incluye distinciones de género.
+
+
+=== El verbo en español ===
+
+En español constituye la clase de palabra flexivamente más variable y está constituido por un lexema, así como morfemas de número y persona en su periferia, y de modo, voz (activa o pasiva), aspecto e infijo de vocal temática entre el lexema y aquellos. Admite morfemas derivativos (afijos) de distintas significaciones.
+Dependiendo del tipo de lengua de que se trate, los verbos pueden variar de forma. Además, el verbo puede concordar en género, persona y número con algunos de sus argumentos o complementos (a los que normalmente se conoce como sujeto, objeto, etc.). En español concuerda con el sujeto siempre en número y casi siempre en persona (la excepción es el caso del llamado sujeto inclusivo: Los españoles somos así), y bastantes veces con el atributo de los verbos copulativos.
+Las lenguas en las que los verbos son conjugados se denominan flexivas y cada una determina un patrón específico de conjugación, difiriendo notablemente de un sistema lingüístico a otro. En el caso de la lengua española, que es flexiva, la mayoría de los verbos se conjugan de forma regular según tres patrones únicos (conjugaciones) definidos según la vocal temática (1.ª o en -ar, 2.ª o en -er; 3.ª o en -ir):
+1.ª conjugación: saltar, caminar, amar, arrastrar, etc.
+2.ª conjugación: correr, comer, temer, suceder, querer, etc.
+3.ª conjugación: vivir, morir, sacudir, ir, existir, etc.
+Las formas verbales además varían según su voz, según si son formas personales o no personales, según el tiempo-modo-aspecto, según número y persona (en español estas dos categorías están a sujetas a concordancia con el sujeto). Otros patrones de conjugación menos generales son denominados de verbos irregulares. Junto a este tipo de conjugación, existe además otro tipo de conjugación regular mediante estructuras analíticas llamadas perífrasis verbales, que expresan modos y aspectos más precisos y concretos que no aparecen recogidos en la conjugación regular, que es más general. Como la terminación es distinta para cada persona, el uso de pronombres sujeto se considera a menudo redundante.
+
+
+=== Francés e inglés ===
+El verbo presenta rasgos razonablemente comunes en todas las lenguas indoeuropeas: conjugación basada en la persona, el número y el tiempo-modo-aspecto, pero no en el género, la evidencialidad o la existencia de derivación que cambia la valencia de tipo causativo, aplicativo, etc. Sin embargo, a pesar de estas características extendidas existen diferencias no desdeñables en los sistemas verbales de las lenguas indoeuropeas.
+En otros idiomas, como por ejemplo el francés, los verbos tienen terminaciones distintas para cada persona, pero debido a su particular ortografía, muchas de ellas son homófonas, por lo que el pronombre sí se considera necesario. En inglés se presenta una situación similar por lo que en general se requiere sujeto explícito.
+
+
+=== Chino y japonés ===
+En chino el verbo tiene siempre la misma forma y no tiene variación según persona, número, aspecto, tiempo o voz. Tanto el aspecto (perfecto o imperfecto), el tiempo (futuro) como la voz (pasiva) se expresan mediante partículas auxiliares sin afectar a la forma del verbo. La ausencia de marcas de persona o de concordancia en el verbo obligan a que en toda oración sin sujeto léxico deba aparecer un pronombre tónico para indicar la persona.
+Los verbos del japonés, por otra parte, no se conjugan con la persona ni el número, por lo que expresiones como nihongo no hon wo yondeimasu pueden interpretarse como "Estoy leyendo un libro de japonés", "Están leyendo un libro de japonés" o cualquier persona o número, dependiendo del contexto.
+Además en chino, japonés y otras lenguas, los adjetivos son de hecho verbos estativos.
+
+
+=== Lenguas africanas ===
+Un número significativo de lenguas africanas de la familia Níger-Congo fuera del grupo bantú son altamente analíticas[cita requerida] por lo que de manera similar a lo que sucede en chino, la conjugación de los verbos se realiza mediante partículas que pueden entenderse como auxiliares. Esto sucede tanto en las lenguas mandé como en el yoruba.
+
+
+=== Lenguas amerindias ===
+Algunas lenguas amerindias como el náhuatl (familia utoazteca) o el Xwlemi (familia salish) no presentan diferencia formal entre nombres y verbos, pudiendo cualquier raíz que funciona como nombre conjungarse según la persona gramatical. Esta situación es similar a la del chino donde los adjetivos son de hecho verbos estativos, solo que en las lenguas amerindias también los nombres comunes pueden ser considerados verbos estativos.
+
+
+== Clases de verbos ==
+
+
+=== Verbos transitivos e intransitivos ===
+
+Desde el punto de vista sintáctico, un verbo con diátesis transtitiva o verbo transitivo requiere dos participantes (un participante de tipo A(gentivo) y un participante de tipo O(bjeto)). Por el contrario, los verbos intransitivos requieren un único participante. En las lenguas nominativo-acusativas el segundo participante requerido sintácticamente es un complemento directo (CD), mientras que en las lenguas ergativas sería un complemento ergativo. Una misma raíz verbal puede ser en algunas oraciones intransitiva y en otras oraciones transitiva. Los siguiente son ejemplos en español:
+Estoy comiendo (intransitivo)
+Estoy comiendo nueces (transitivo)
+Los verbos transitivos son aquellos que exigen la presencia de un objeto directo (también llamado "complemento directo") para tener un significado completo; esto es, que se refieren a acciones que transitan desde el actor al objeto (véase transitividad). Un ejemplo de esta categoría en español es:
+He conseguido dos entradas para la ópera.
+Aquí, el grupo compuesto por "dos entradas para la ópera" representa el objeto directo. La construcción "He conseguido..." no tiene sentido por sí misma, y requiere que se aporte información sobre lo que se consigue. Por regla general, los verbos transitivos son de la forma "alguien hace algo a algo".
+Los verbos intransitivos no admiten o no van acompañados de CD, no requieren de la presencia de un objeto directo que determine al verbo. Un ejemplo en español es el verbo delinquir, por ejemplo en la oración:
+Ese hombre delinque.
+Se trata de un verbo intransitivo, ya que no requiere especificar un objeto directo, por lo tanto, el concepto de "delinquir algo" no tiene sentido en español. En general en español y otras lenguas los verbos no son en sí mismos transitivos o intransitivos, sino que se convierten en tales según su uso concreto, y así es posible usar verbos típicamente intransitivos como transitivos, por ejemplo en La soprano canta una ópera, y también expresar verbos transitivos sin la presencia de un objeto directo, por ejemplo en Déjaselo al técnico, que él seguro [que] entiende.
+Son pocos los verbos intransitivos en el castellano al compararlo con idiomas con fuerte división entre verbos transitivos e intransitivos. En general, el castellano dispone de la forma autorreflexiva se para denotar intransitividad, como por ejemplo "se rompió", "se caerá", etc.
+
+
+=== Verbos regulares e irregulares ===
+Los verbos irregulares son aquellos que poseen conjugaciones particulares. Las irregularidades morfológicas de cualquier tipo son más comunes en los idiomas fusionales, menos en los aglutinantes y prácticamente no existen en los aislantes.
+Los verbos regulares son, por el contrario, aquellos que se atienen estrechamente a los paradigmas o modelos de conjugación más usados en la lengua.
+
+
+==== Verbos irregulares en español ====
+En español las irregularidades se presentan diferenciadas en los llamados tiempos verbales primitivos, que son el presente del modo indicativo ("Yo quepo"), el pretérito perfecto simple del indicativo ("Yo cupe") y el futuro simple del mismo modo ("Yo cabré"); es posible determinar si un verbo es o no irregular conjugándolo en esos tres tiempos y viendo si se atiene a las reglas de conjugación a las que se adaptan los demás verbos.
+En español, la irregularidad de un verbo simple cualquiera generalmente se mantienen en la conjugación de los verbos que de él se deriven, aunque hay excepciones. Ejemplos:
+Hacer: deshacer, satisfacer, rehacer, etc.
+Poner: componer, descomponer, reponer, etc.
+Entre las excepciones, la más común es la que se aprecia en los derivados del verbo "decir" ("maldecir" y "bendecir"), que en el futuro del modo indicativo no se conjugan como "maldiré" y "bendiré" (que es lo que se supondría según la regla) sino "maldeciré" y "bendeciré".
+Los verbos regulares son aquellos que se atienen estrechamente a los modelos de conjugación. En español hay tres de esos paradigmas: la primera conjugación, cuyos infinitivos terminan en -ar; la segunda, en la que terminan en -er y la tercera, en la que terminan en -ir. Dentro de la conjugación regular puede considerarse también una conjugación extendida por medio de perífrasis verbales que señalan distintos tipos de aspecto y modo verbal.
+
+
+=== Verbos impersonales en español ===
+En español se distingue entre verbos impersonales propios (también llamados unipersonales), y los impropios.
+Los verbos impersonales propios son verbos que, en su sentido original (es decir, no-metafórico) se conjugan solo en la 3.ª persona. Dicha categoría está compuesta por los llamados "verbos meteorológicos"[cita requerida] o "climáticos" (llueve, nieva, etc.). Estos verbos son intransitivos.
+Los verbos impersonales impropios, por el contrario, son verbos que si bien en algunos contextos poseen una conjugación normal, pueden ser usados como impersonales (de ahí su categoría de impropios). Por ejemplo: el verbo "hacer" puede ser usado en contextos como:
+"Espartaco hace sus tareas".
+o en frases como
+"Hace calor"; "hace años", en singular.
+En este segundo ejemplo está siendo usado como verbo impersonal. Los verbos impersonales impropios del español son:
+
+Haber: "Hay cosas que hacer". "Hay héroes para todos los gustos"
+Hacer: "Hace muchísimo calor".
+Bastar (en su forma "bastar + preposición"): "Basta de palabrería".
+Ser: "Es de noche".
+Ir: "Me fue bien en el examen" o Me fue bien en el partido.
+
+
+=== Verbos terciopersonales en español ===
+Son verbos que por lo general solamente se conjugan en tercera persona del singular y/o del plural, como acaecer (algo acaece, las cosas acaecen, pero normalmente ni yo ni nosotros ni tú ni vosotros realizan esa acción). La mayoría de estos verbos, por razones lógicas, se refieren a fenómenos meteorológicos.
+Ejemplos: llover, tronar, granizar, relampaguear, diluviar, nevar.
+→ Las oraciones con verbos meteorológicos carecen de sujeto. Ejemplo: Anoche llovió muy fuerte.
+
+
+=== Verbos defectivos en español ===
+Los verbos defectivos son aquellos en los que no se cumple el paradigma de conjugación completo. Para estos verbos no existen conjugaciones en algunos tiempos y personas, principalmente debido a razones de eufonía o de uso.
+Algunos ejemplos de verbos defectivos en español son:
+Algunos verbos son defectivos porque necesitan por su significado un sujeto de cosa y, por tanto, solo tienen formas de tercera persona. Este es el caso de los verbos ocurrir o su

@@ -1,0 +1,58 @@
+Wikipedia je slobodna enciklopedija koju razvijaju brojni korisnici uz pomoć Wiki softvera. Wikipediju vodi i njome upravlja Wikimedia fondacija. Uz standardne enciklopedijske podatke, Wikipedia često prikuplja informacije koje bi se obično našle u almanasima i geografskim leksikonima ili informacije koje se tiču trenutnih događaja.
+Sav originalni materijal priložen Wikipediji je otvoren, definisan GNU licencom za slobodnu dokumentaciju, što znači da se može slobodno upotrebljavati, izmijeniti, kopirati, i distribuirati, uz uvjet da bilo koja kopija modifikacija ili izmjena ne smije stavljati dodatne restrikcije na sadržaj (tj. mora bit izdata pod istom dozvolom). Wikipedijin sadržaj kreiraju njeni korisnici, a administratori imaju veću kontrolu. Bilo koja stranica na Wikipediji se uvijek može izmjeniti, pa tako nijedan članak nikada nije završen.
+Wikipedia je počela kao projekat na engleskom jeziku 15. januara 2001, a malo zatim (23. mart 2001.) pokrenuta je Wikipedia na francuskom jeziku. Veliki broj korisnika se trudi napraviti Wikipediju višejezičnom. Trenutno postoji preko 3.600.000 članaka na engleskom jeziku, i više od 18 miliona na 269 jezika (april 2011. godine). Popularnost Wikipedije raste velikom brzinom i trenutno je rangirana među 7 najposjećenijih web-sajtova.
+
+
+== Historija ==
+
+Historija Wikipedije počinje 2. januara 2001, u razgovoru u San Diegu, u Kaliforniji između dva stara prijatelja, Larryja Sangera, glavnog korisnika Nupedije, i Ben Kovitza, računarskog programera. Kovitz je tokom večere objasnio Wiki koncept Sengru koji je odmah shvatio da bi Wiki format odlično pristajao enciklopediji. Sanger je potom nagovorio šefa Nupedije da napravi Wiki od Nupedije, a prva verzija je bila postavljena online 10. januara. Međutim, mnogi korisnici Nupedije nisu htjeli da Nupedia bude Wiki pa tako 15. januara, pravi se "Wikipedia" na svojoj jedinstvenoj stranici, wikipedia.org.
+Mnogi su brzo saznali o Wikipediji i projekat je rastao izvanrednim tempom. Dana 12. februara 2001. Wikipedia već ima 1.000 članaka, a 7. septembra 2001. ima 10.000 članaka. Od tada, Wikipedia na engleskom jeziku raste sve brže i brže. Uskoro su joj se pridružile međunarodne Wikipedije na jezicima poput kineskog, njemačkog, francuskog, italijanskog, ruskog, itd.
+Wikipedia na bosanskom jeziku je pokrenuta 12. decembra 2002. godine. Trenutno se na Wikipediji na bosanskom jeziku nalazi 66.291 članaka.
+
+
+== Preci ==
+Zamisao da se sve znanje svijeta skupi na jednom mjestu datira iz antičkog doba. Može se vidjeti u staroj Biblioteci kod Aleksandrije, ili kod Pergamona. Moderna ideja štampane enciklopedije se prvi put pojavljuje malo prije Denisa Diderota i enciklopedija 18. vijeka.
+Zamisao da se pri formiranju enciklopedije koristi automatiziranja mašinerija se može pratiti do H. G. Wellsa i njegove knjige World Brain (1937.) i Vannevara Busha i njegove knjige As We May Think (1945.) u kojoj Bush iznosi svoju viziju Memeksa (Memex) baziranog na mikrofilmu. Važan doprinos na ovom putu je i projekat Ksanadu (Xanadu) Teda Nelsona iz 1960. godine kao i ideje koje je u svom govoru 1959. iznio američki fizičar Richard Feynman.
+Ideja za enciklopediju koja nije samo štampana je do pojave Interneta bila smatrana fantazijom. Međutim, trenutno postoje mnoge online enciklopedije. Wikipedia je trenutno vjerovatno najveća od svih online enciklopedija. Izumitelj i zagovarač slobodnog softvera, Richard Stallman je 1999. izrazio korisnost "Slobodne univerzalne enciklopedije i resursa znanja" i njegova organizacija Free Software Foundation poziva korisnike da posjete i doprinose Wikipediji.
+
+
+== Glavne karakteristike ==
+Postoje tri glavne karakteristike Wikipedia projekata, koje zajedno uređuju njenu ulogu na Internetu.
+Ona je, ili pokušava da bude, uglavnom enciklopedija.
+Ona je Wiki, u tome što je može izmjeniti bilo ko (osim blokiranih korisnika).
+Ona je slobodna i koristi GNU Slobodnu Dokumentacionu Dozvolu.
+Kada se govori o multijezičnim Wikipedijama, važno je napomenuti da ne postoje nacionalne Wikipedije. Iz tog razloga ne postoji ni austrijska niti australijska niti britanska Wikipedia nego Wikipedije na austrijskom jeziku i engleskom jeziku itd.
+
+
+== Vandalizam ==
+Veliki problem Wikipedije je vandalizam, koji donose razni vandali. Oni često prave besmislene i uvrjedljive izmjene na člancima. Npr. u julu i augustu 2004. godine, članak o bosanskom jeziku je bio vandaliziran par puta.
+
+Zbog toga što je Wikipedia radikalno slobodna i javan projekat, ona privlači anarhistički element.
+
+Leri Sengr, osnivač Wikipedije je priznao medijima.
+
+Na sreću, većina nas je spremna da zaustavi vandalizam... i da ga se riješi čim se pojavi.
+
+Na sreću najmanje par korisnika (ako ne stotine ili više u nekim slučajevima) generalno dnevno prati izmjene na određenim člancima. Vandalizam na člancima obično ne traje duže od nekoliko minuta u zavisnosti od broja korisnika na određenoj Wikipediji. Nedavna studija koju je sproveo IBM-ov tim je našla da većina vandalizma kojeg Wikipedia na engleskom jeziku pretrpi biva prepravljen za manje od pet minuta.
+
+Bili smo iznenađeni kako često smo nailazili na vandalizam i bili smo opet iznenađeni kako brzo je vandalizam bivao prepravljen.
+
+izjavio je Martin Wattenberg, istraživač koji radi pri IBM-ovom TJ Watson istraživačkom centru u Kembridžu, u Masačusecu, Sjedinjene Američke Države.
+
+
+== Police i principi ==
+Korisnici Wikipedije (koji se nazivaju Wikipedijanci), se drže nekoliko jednostavnih principa:
+Korisnici Wikipedije nastoje da svi članci budu nepristrasni. Ovo ne znači da članci treba da se pišu samo jednim objektivnim načinom i da postoji određeno "stanje nepristrasnosti", nego znači da sva različita mišljenja o nekoj temi trebaju biti predstavljena na neutralan način.
+Postoji nekoliko konvencija oko imenovanja članaka. Kad postoji nekoliko različitih imena za jednu temu, prednost ima ime koje je uobičajnije u bosanskom jeziku.
+Wikipedijanci koriste stranice za razgovor o nekoj temi (a ne stranicu samog članka) da bi razgovarali o izmjenama na članku.
+Postoji nekoliko vrsta sadržaja koji su nepoželjni na Wikipediji, jer ustvari nisu enciklopedijski članci. Naprimjer, Wikipedia članci nisu definicije iz rječnika niti su repozitorija za čitave tekstove knjiga, dokumenata, članaka, govora i sl. Za tu vrstu sadržaja postoje srodni projekti (detaljnije pod sekcijom srodni projekti, ispod).
+Nekad postoje proturječna pravila i konvencije. Kad dođe do tog slučaja, Wikipedijina zajednica korisnika odlučuje svaki slučaj odvojeno.
+
+
+== Korisnici ==
+Wikipediju uređuju mnogi ljudi (Wikipedijanci). Ne postoji nijedan "glavni korisnik" ili šef. Osnivači Wikipedije su Jimmy Wales i Larry Sanger.
+
+
+== Softver i hardver ==
+
+Originalni Wikipedia softver je UseModWiki, koji je napisao Kilford Edams (Prva faza). Početkom 2002. godine, Wikipedia je počela upotrebljavati PHP Wiki engine koji je, koristeći MySQL bazu podataka, dodao mnogo novih mogućnosti i bio napravljen isključivo za Wikipedia

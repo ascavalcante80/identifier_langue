@@ -1,0 +1,96 @@
+Mobilní telefon (hovorově mobil) je elektronické zařízení, které umožňuje uskutečňovat telefonní hovory jako normální telefon, jehož uživatel však není díky použití rádiových vln vázán na místo, kde končí telefonní přípojka.
+Podle způsobu připojení do telefonní sítě rozlišujeme:
+Celulární (buňkové) telefony – připojují se do celulárních rádiových sítí, které v podobě veřejných pozemních mobilních sítí (Public Land Mobile Network – PLMN) pokrývají hustěji osídlené oblasti většiny zemí; díky roamingovým smlouvám lze většinou komunikovat i ze zahraničí; překážkou však může být nekompatibilita různých systémů mobilních telefonů (GSM proti CDMA2000)
+Satelitní telefony – umožňují komunikaci i z odlehlých míst, kde není pokrytí buňkovými sítěmi; protože komunikují s telekomunikační družicí (satelitem), je podmínkou použití volný výhled na oblohu
+Bezšňůrové telefony – umožňují volný pohyb po bytě, domě nebo pozemku; komunikují se základnovou stanicí nebo přímo mezi sebou; základnová stanice je vlastněna účastníkem a je připojenou na běžnou pevnou telefonní linku, případně do mobilní sítě
+Protože naprostá většina mobilních telefonů používá buňkovou technologii, jako GSM UMTS, CDMA, LTE (nebo starší NMT, v USA AMPS) v mnoha jazycích jsou slova mobilní telefon (anglicky mobile phone) a buňkový telefon (anglicky cellphone) synonyma. To platí i o češtině, kde se název buňkový telefon prakticky nepoužívá, a pro přenosné telefony používající jinou než buňkovou technologii se používají názvy satelitní telefon a bezdrátový telefon.
+Mobilní telefony umožňují nejen komunikaci v rámci mobilní sítě, ale i spojení s pevnou telefonní sítí přímo volbou telefonního čísla na vestavěné klávesnici a poskytují širokou škálu dalších telekomunikačních služeb, jako jsou SMS, MMS, WAP a připojení na Internet. Protože patří k nejrozšířenějším elektronickým zařízením, výrobci je vybavují také dalšími funkcemi dříve dostupnými u Personal Digital Assistant. Mobilní telefony vybavené operačním systémem mohou v mnoha ohledech nahradit osobní počítače.
+Mezi největší producenty mobilů patří Alcatel, Apple, BenQ Mobile (dříve Siemens), Blackberry, HTC, Huawei, LG Electronics, Motorola, Nokia, Samsung, Sony Ericsson. Někteří mobilní operátoři jako T-Mobile si nechávají vyrábět mobilní telefony, které dodávají pod vlastní značkou. Jedinými českými producenty mobilních telefonů jsou firmy Verzo a Jablotron.
+Kromě mobilních systémů pro veřejnost existují i specializované komunikační systémy – profesionální mobilní rádio.
+V prodejnách mobilů se používají pro ilustraci věrné makety telefonu.
+
+
+== Historie ==
+
+Přestože vynález bezdrátové telefonie spadá již do konce 19. století, první mobilní telefony pro veřejnost se začaly objevovat až v 50. letech 20. století v USA a byly zpočátku prodávány jako vybavení automobilů. Až v průběhu 70. let se objevily první skutečně přenosné (ale zdaleka ne kapesní) přístroje. Ještě při vývoji systému GSM v 80. letech 20. století se předpokládalo, že mobilní telefony bude i ve vyspělých zemích používat pouze malá část obyvatelstva. Díky nižším zaváděcím nákladům a rychlejšímu rozmístění případných nutných pozemních technologií se mobilní sítě dokázaly rychleji rozšířit po světě a předstihly růst tedy i následně rozšíření pevné telefonie. V současnosti je počet telefonních účastníků srovnatelný s počtem obyvatel Země. První MMS zpráva: Služba multimediálních zpráv neboli MMS, je standardní způsob odeslání zpráv, které obsahují multimediální obsah (fotografie, MP3 apod.). Rozšiřuje tak možnosti SMS zpráv.
+Předchůdcem MMS zpráv je japonský Sha-Mail, zavedené J-Phone v roce 2001. Tento systém sloužil pro zasílání fotografií z jednoho mobilního telefonu na druhý.
+MMS zprávy jsou odesílány úplně jiným způsobem, než SMS zprávy. Prvním krokem je zakódování multimediálního obsahu v módu, podobnému pro e-mail. Zpráva je poté předána do centra MMS zpráv a předána serveru, známému jako MMSC. Není-li mobilní telefon příjemce schopen MMS zprávu přijmout, je zpráva doručena na webové služby. Na mobilní telefon příjemce dorazí SMS zpráva o uložení MMS na běžném internetovém prohlížeči.
+
+
+== Světové rozmístění ==
+
+Mobilní sítě mohou často profitovat i s malým počtem zákazníků, protože náklady mobilní sítě většinou souvisí s objemem hovorů, zatímco telefonie pevných linek má mnohem vyšší náklady spojené s každým účastníkem sítě. Ve většině Evropy, rozvinutější části Asie a Austrálie jsou mobily už prakticky univerzální u většiny dospělých, dospívajících a i dětská populace je často používá. Trochu méně obvyklé jsou v USA — i když široce používané, tržní penetrace (průnik) je nižší než v dalších rozvinutých zemích (asi 66 procent populace USA v roce 2003). Mezi důvody patří nekompletní pokrytí, směs nekompatibilních technických standardů (Mnoho evropských zemí a některé asijské země přijaly GSM standard zákonem pro všechny telefony, zatímco jiné asijské země přijaly standardy CDMA2000. V USA i Kanadě podobný zákon není a každý poskytovatel si standard vybere), relativně vysoké minimální měsíční poplatky (asi 30 USD) a dostupnost relativně levných pevných sítí (asi 30 USD za neomezené lokální hovory). Předplacené telefonní hovory (měsíční paušál) nebo předplacené karty pro mobily, obvyklé jinde, jsou v USA méně obvyklé a jsou dražší než porovnatelné služby v jiných zemích. Zkrácení telefonních čísel a nedostatek neregionálních speciálních telefonních čísel pro mobilní služby – to vše značí, že cenový systém používaný jinde (hovory stojí víc do mobilní sítě, ale přijímány jsou bezplatně) nemůže být použit, a proto uživatelé platí za přicházející hovory, co odrazuje od použití mobilů. Některé technické problémy postihují mobilní telefonii v Kanadě, protože používá stejnou směs nekompatibilních standardů jako USA a je též součástí severoamerického plánu číslování (North American Numbering Plan – NANP).
+
+
+== Charakteristiky mobilů ==
+Mobily jsou navrženy pro fungování v celulárních sítích a obsahují standardní sadu služeb GSM, která umožňuje telefonům různých typů a v různých zemích vzájemně komunikovat.
+Před použitím telefonu je nutné zvolit si mobilního operátora (poskytovatele přenosu) a zařídit si u něj služby. Pro telefony v sítích GSM operátor vydá SIM kartu, která obsahuje unikátní účastnické a autentizační (ověřovací) parametry pro daného zákazníka. Případně operátor vloží zákazníkův identifikátor mikrotelefonu do jeho účastnické databáze, aby mikrotelefon mohl realizovat hovory do sítě. Po vložení SIM karty do telefonu jsou služby přístupné. Mobily nepodporují jen hlasové hovory, ale mohou též posílat a přijímat data a faxy, posílat a přijímat krátké zprávy (nebo „textové zprávy“, víc v článku SMS), přistupovat na WAP a poskytovat kompletní internetový přístup použitím technologií jako GPRS, EDGE, HSDPA a další. Mobily mají samozřejmě hodiny, kalkulátor a umožňují hrát různé hry.
+Operátoři podporují službu „roaming“ (cestování). Ta stejnému mobilu umožňuje použití ve více zemích. Mobilní operátoři obou zemí v takovém případě musí mít dohodu o roamingu.
+Většina nových mobilů s barevným displejem též umožňuje posílání a příjem multimediálních zpráv, takzvaně MMS. Většinou také mají zabudovaný digitální fotoaparát, což podnítilo určité otázky kolem soukromí. Saúdská Arábie proto na jistou dobu zakázala prodej mobilů s fotoaparátem a povolila jej až v prosinci 2004 (i když země poutníkům na Hadždž umožňovala vzít si mobil s fotoaparátem). Jižní Korea požádala výrobce mobilů, aby zajistili, že při každém snímku fotoaparátu je slyšet charakteristický zvuk.
+Přijímače GPS (lokalizační služby) se začínají objevovat integrovány nebo připojené (např. přes Bluetooth) k mobilům. Nejsou určeny jen na pomoc pracovníkům záchranné služby a službám pro odtahování vozidel; GPS v mobilu lze použít i pro osobní navigaci.
+Většinu dnešních mobilních telefonů lze dnes díky možnosti přehrávání hudby ve formátech MP3 a WMA, výstupu na sluchátka, kvalitním integrovaným reproduktorům, barevnému displeji, možnosti přehrávat video a podpoře paměťových karet použít jako MP3 nebo MP4 přehrávač.
+Mobilní telefony se vyrábějí v různém velikostním provedení, kdy je různým způsobem kladen důraz na tloušťku či velikost telefonu. Nejmenší mobilní telefon na světě, který byl zapsán do Guinessovy knihy rekordů, vyrobila izraelská společnost Modu. Tento telefon má na výšku 7,2 cm, na šířku 3,76 cm a je tlustý 7,8 mm.
+
+
+== Stručný přehled funkcí dnes vyráběných telefonů ==
+Běžné funkce dnešních mobilů:
+telefonování
+posílání textových zpráv (SMS)
+barevný displej
+vibrační zvonění
+hodiny, budík, kalendář, poznámky (záleží na aplikacích (app), které si stáhnete do mobilu)
+posílání multimediálních zpráv (MMS)
+připojení k WAPu
+připojení k internetu technologií GPRS, EDGE, 3G, HSDPA a nově i LTE a 4G.
+integrovaná funkce handsfree
+podpora JAVA her a JAVA aplikací
+slot na paměťové karty
+hudební přehrávač, přehrávání hudebních souborů (např. mp3, wma, flac)
+přehrávač videa (dříve 3gp, dnes nejčastěji mp4, avi, mkv), většina Xvid a Dvix
+bluetooth (nejnovější 4.0)
+integrovaný digitální fotoaparát (rozlišení až 41 megapixelů, digitální zoom, přisvětlovací dioda nebo xenonový blesk, pořizování a přehrávání videa až ve Full HD, popř. 4K - UHD)
+integrovaný GPS přijímač
+FM rádio
+otevřený operační systém (Android, iOS, Bada, Windows Phone)
+podpora sítě 4.generace (LTE)
+videohovory
+micro USB konektor
+dotykový displej
+AMOLED displej/ super AMOLED/ super AMOLED PRO/ Super AMOLED HD (LED displej s aktivní matricí, extrémní kontrast a velmi malá spotřeba)
+připojení k internetu technologií Wi-Fi
+videohovory
+NFC
+FM vysílač
+flash player
+proximity sensor
+multitouch
+kompas
+3,5 mm jack
+většinou přední = sekundární kamera
+4 jádrové procesory
+
+Starší, dnes spíše nepoužívané funkce:
+infraport
+zrcátko pro autoportrét
+operační systémy Symbian, Windows Mobile
+3D display - 3D ON (2 displeje umístěné nad sebou, z nichž jeden je černobílý a zapíná se pouze po zapnutí 3D modu. Výsledný obraz, je samozřejmě barevný. Tato technologie se využívá pouze u mobilů HTC Evo 3D a LG Optimus 3D.
+
+
+== Multimodální mobily ==
+Multimodální (tedy dvoupásmové – dualband, třípásmové triband nebo čtyřpásmové quadband) mobily jsou telefony navržené fungovat na víc než jedné radiové frekvenci GSM. Multimodální případy se vyskytují nejvíc v GSM síti, která začínala v pásmu 900, ale expandovala i do pásem 1800 a 1900 MHz. Některé multimodální telefony mohou fungovat i v analogových sítích (např. duální pásmo, tri-mód: AMPS 800 / CDMA 800 / CDMA 1900).
+Multimodální telefony byly užitečné pro umožnění roamingu, ale teď jsou nejdůležitější při zavedení WCDMA (celulární sítě 3. generace) bez toho, aby se zákazníci museli vzdát mobilů se širokým pokrytím GSM. Téměř každý prodaný opravdový telefon 3G (třetí generace) je v současnosti WCDMA/GSM duální mobil. To platí i o telefonech 2.75G založených na CDMA2000 nebo EDGE.
+Speciální požadavky zahrnuté v produkci multimodálních mobilů je nalezení způsobu, jak sdílet komponenty mezi různými standardy. Obvykle telefonní klávesnice a displej mohou být sdíleny. Navíc existují požadavky na každém stupni integrace. Složitost těchto požadavků závisí na rozdílech mezi systémy. Různé varianty systémů GSM mají jen různé frekvence a proto nejsou považovány za pravé multimodální telefony, ale raději za multi-pásmové telefony. Co se týče multimodálních telefonů IS-95/GSM nebo telefonů AMPS/IS-95, základní pásmové zpracování se mezi jednotlivými systémy velmi liší. To vede k reálným problémům při integraci složek a tedy k objemnějším telefonům.
+Zajímavý speciální případ multimodálních telefonů je telefon WCDMA/GSM. Radiová rozhraní se od sebe velmi liší, ale posílání zpráv z mobilní do centrální sítě je velmi podobné, což značí, že software pro sdílení je dost jednoduchý. Asi důležitější je, že vysílací rozhraní WCDMA bylo navrženo s ohledem na GSM kompatibilitu. Má speciální mód operace, nazývaný přerušovaný mód, v kterém namísto souvislého přenosu je mobil schopen na krátký čas stopnout posílání a zkoušet hledat zdroje signálu GSM v okolí. Tento mód umožňuje bezpečné mezifrekvenční předání s kanálovými měřeními, které mohou být jen aproximovány použitím „pilotních signálů“ v jiných systémech založených na CDMA.
+Další zajímavý případ se týká mobilů v sítích DS-WCDMA a MC-CDMA – 3G varianta CDMA2000. Původně byla čipová rychlost těchto telefonů nekompatibilní. Částí projednávání souvisejícího s patentem byla dohoda o použití kompatibilních čipových rychlostí. To by mělo znamenat, že i když vysílací a systémové rozhraní jsou značně odlišné i na teoretické úrovni, většina hardwaru pro každý systém v telefonu má být společná a rozdíly budou především v softwaru.
+Jak vyplývá z uvedeného, většina současných mobilních sítí používá jeden z dvou standardů – GSM nebo CDMA2000. Třetí standard iDEN se používá exkluzivně v Severní Americe a je omezen na použití v síti Nextel. Předpokládá se, že tato síť bude zrušena po fúzi firmy Nextel a Sprint PCS, která provozuje síť CDMA. Podobně firma AT&T Wireless po fúzi s firmou Cingular pomalu nahrazuje TDMA sítí GSM.
+
+
+== Zdravotní otázky ==
+Jako s mnoha novými technologiemi, i tady vznikly otázky o účincích používání mobilů na zdraví. Existuje malá vědecká evidence o zvýšení případů určitých typů nádorů při dlouhodobém pravidelném používání mobilů. Novější panevropská studie poskytla důležité důkazy o poškození DNA za určitých podmínek. Ale expertní skupina (Task Force on EMF effects on health), kterou pověřila Světová zdravotnická organizace, nemá definitivní závěr o platnosti těchto tvrzení. Ale obecně se míní, že radiové pole není schopno produkovat víc než tepelné účinky, proto je považováno za neionizující radiaci, jinými slovy, že nemá energii na poškození molekulárních vazeb jaké se vyskytují u genetických mutací. Mezinárodní agentura pro výzkum rakoviny (pobočka WHO) vydala prohlášení, že mobilní telefony mohou napomáhat ke vzniku některých mozkových nádorů a záření z mobilních telefonu je zařazeno do skupiny 2B karcinogenů (podezření z karcinogenity pro člověka).
+Dá se ovšem říci, že každý rok s sebou přináší nové výsledky vědeckých výzkumů, které prokazují jak škodlivost, tak neškodlivost záření mobilního telefonu. Aby mobilní telefony eliminovaly možná rizika, existují přísné normy určující jejich maximální hodnotu záření, která se udává jako Specific Absorption Rate (SAR). Maximální hodnota SAR je u nynějších [kdy?] mobilních telefonů stanovena maximálně na 1.6 W/kg živé tkáně.[zdroj?]
+Další kontroverzní zdravotní otázkou je souvislost používání mobilních telefonů s automobilovými nehodami. Některé země zakázaly držet mobil během jízdy nebo požadují použití systémů „hands-free“. Mnoho evropských zemí a New York už požaduje „hands-free“ zařízení pro použití mobilů ve vozidlech a ostatní státy USA je následují. Statistiky říkají, že reakce řidičů se při hovoru mobilním telefonem sníží až o 19 %. Stejně tak se i zvyšuje nebezpečí nedodržování bezpečné vzdálenosti od ostatních vozidel.
+Jak technologie pokračuje kupředu a datové požadavky na mobilní síť rostou, posledním rozruchem jsou vyšší pásmové stožáry sítě 3G. Síť podnítila mnoho zdravotních námitek a společenských sporů. Bylo málo komunikace mezi vládami a skupinami poskytujícími informace o zavedení technické aktualizace na sítě 3.generace (3G upgrade). Instituce ACA (Australian Communications Authority) a ARPANSA (Australian Radiation Protection And Nuclear Safety Agency) oznámily, že stožáry 3G způsobují méně radiace než už zavedená síť 2G. Průměrný radiační výkon jsou 3 watty. Není dostupné žádné vládní vyjádření a je otázkou, zda současné stožáry uvolňují víc radiace. Ale jisté je, že použití dalších stožárů nevyhnutně značí víc zamořenou oblast.
+
+
+== Bezpečnostní záležitosti ==
+První mobily byly velmi jednoduché a hlavní bezpečnostní problém bylo „klonování“, varianta odcizení identity, která je mnohem složitější u nových digitálních systémů. Mnoho uživatelů nepochopilo, že mobil je doslova jednoduchá přenosná vysílačka s nějakými počítačovými elementy. Radiové skenery datované do roku 1996 nebo 1997 typicky mohou zachytit staré analogové celulární telefony jednoduše, jako se dá poslouchat radio FM. Ale po letech technologie určil

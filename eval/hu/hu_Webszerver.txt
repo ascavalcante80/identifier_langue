@@ -1,0 +1,17 @@
+ogy terméke.
+Sun ONE a Sun Microsystems terméke.
+Cherokee HTTP Server – egy gyors és rugalmas webszerver, szabad szoftver.
+Xerver egy nyílt forráskódú, ingyenes, GPL licencelt szoftver.
+IBM Lotus Domino.
+MyServer egy gyors, biztonságos, sokoldalú webszerver, a MyServer Project terméke.
+Abyss X1 egy ingyenes webszerver PHP/Perl/ASP.NET/ASP és Ruby On Rails támogatással, Linux, Mac OS X és Microsoft Windows rendszerekre. Az Aprelium terméke.
+Az Apache 1996 áprilisa óta a legnépszerűbb webszerver volt, mióta csak észszerű alternatíváját tudta nyújta a Netscape Communications webszerverének (jelenlegi neve: Sun Java System Web Server). 2005 májusában még a piac 70%-át uralta[forrás?], 2006 márciusa óta azonban folyamatosan veszített piaci részesedéséből, elsősorban a Microsoft IIS-ével és a .NET platformmal szemben, másodsorban gyors, kicsi, de nagy tudású nyílt forráskódú webszerverek terjedése miatt, mint például a lighttpd. 2007 szeptemberében az összes weboldal mintegy 50%-át Apache szolgálta ki, míg a Microsoft megoldása 35%-ot birtokolt.
+A statikus fájlok kiszolgálásában egyre meredekebb növekedési tendenciát mutat az Nginx kiszolgáló használata.
+
+
+== Külső hivatkozások ==
+RFC 2616 – A HTTP 1.1 protokoll leírása
+Netcraft Web Server Survey – A webszerverek eloszlása
+
+
+== Jegyzetek ==

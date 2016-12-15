@@ -1,0 +1,2 @@
+The On-Line Encyclopedia of Integer Sequences (OEIS) on laaja internet-tietokanta kokonaislukujonoista. OEIS:ää ylläpitää matemaatikko Neil Sloane. Tietokanta on suosittu sekä ammattimatemaatikoiden että matematiikkaharrastajien keskuudessa.
+Jokaisella tietokannan lukujonolla on oma yksilöivä A-numero. Esimerkiksi alkuluvut ovat A000040 OEIS

@@ -1,0 +1,17 @@
+Công suất P (từ tiếng Anh Power) là một đại lượng cho biết công được thực hiện ΔW hay năng lượng biến đổi ΔE trong một khoảng thời gian T = Δt.
+ hay ở dạng vi phân .
+Công suất trung bình 
+Trong hệ SI, công suất có đơn vị đo là watt (W).
+
+
+=== Công suất cơ ===
+Trong chuyển động đều, thời gian Δt, khoảng cách ΔS, chuyển động với vận tốc v dưới tác dụng của lực F thì công suất được tính:
+
+hay 
+Trong chuyển động quay, thời gian Δt, góc quay Δφ, vận tốc góc ω dưới tác dụng của mômen M thì công suất là:
+
+
+=== Công suất điện ===
+Công suất điện tức thời  với u, i là những giá trị tức thời của hiệu điện thế và cường độ dòng điện.
+Nếu u và i không đổi theo thời gian (dòng điện không đổi) thì .
+Trong điện xoay chiều, có 3 loại công suất: công suất hi

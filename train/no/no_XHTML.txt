@@ -1,0 +1,13 @@
+XHTML (Extensible HyperText Markup Language) er et markeringsspråk som følger XML-standarden isteden for SGML som HTML bygger på. Forskjellen fra HTML er at XHTML er et mer fleksibelt språk og har strengere syntaksregler enn HTML.
+XHTML kan sees som en utvidet utgave av HTML 4.0 og er både etterfølger av HTML og en separat parallell (anbefalt) standard. XHTML vurderes av mange som «aktuell versjon» av HTML, men W3C fortsetter å anbefale både bruken av XHTML 1.1, XHTML 1.0, og HTML 4.01 for publisering på verdensveven.
+Behovet for en strengere versjon av HTML oppstod fordi innhold på verdensveven skal leveres til mange slags maskiner (bl.a. små skjermer) og løs HTML skapte mye unødig kompleksitet i syntaks.
+
+
+== Noen begreper i XHTML-sammenheng ==
+Attribute er en parameter til et element, som er beskrevet i DTDen. Mulige verdier, eventuelt standardverdier av attributtet, er definert i DTDen.
+DTD   definisjon av en dokumenttype. En DTD er en samling av XML-beskrivelser som definerer struktur, elementer og attributter som er tilgjengelige for et dokument som er laget med XHTML.
+Document er en datastrøm som er strukturert slik at den inneholder informasjon organisert i henhold til den tilknyttede DTDen.
+Element er strukturenheten som er definert i DTDen. Elementets innholdsmønster er definert i DTDen
+Implementation er et system som tilbyr en samling av muligheter som støtter denne spesifikasjonen
+Parsing er måten dokumentet blir skannet, og informasjonen i dokumentet er filtrert, etter hva elementene tilsier
+Rendering (visning) er en betegnelse på dokumentets presentasjon for sluttbruker, og det gjelder ikke nødvendigvis bare synlig visning, de

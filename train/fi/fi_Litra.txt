@@ -1,0 +1,22 @@
+Litra (tunnus l tai L) on SI-järjestelmän lisäyksikkö tilavuudelle. Kuution mallisen kappaleen, jonka koko on 10 cm · 10 cm · 10 cm eli kuutiodesimetri, tilavuus on litra. Tuhat litraa on kuutiometri.
+Litran tunnus on joko l tai L. Tästä päätti 16. yleinen paino- ja mittakonferenssi v. 1979. Tämä on poikkeus siihen sääntöön, että vain erisnimiin perustuvien yksiköiden tunnukset alkavat versaalilla (isolla kirjaimella)  . Päätöksen syynä oli kirjaimen l ja numeron 1 sekaantumismahdollisuus. Käytäntö eri maissa on vaihteleva. Usein yksikön tunnus ilman etuliitteitä kirjoitetaan L, mutta kertoimen sisältävät yksiköt, joissa sekaantumisen vaara on pienempi, kirjoitetaan esim. cl, ml, µl. Annetun lukuarvon jälkeen ennen yksikön tunnusta on kirjoitettava välilyönti.
+1000 l = 1 m³
+1 l = 1 dm³ = 1000 cm³
+
+
+== SI-kertoimet ==
+Litrasta voidaan SI-järjestelmän kertoimilla muodostaa suurempia tai pienempiä yksiköitä seuraavasti:
+Näistä ovat kuitenkin yleisesti käytössä vain seuraavat:
+Hehtolitra (tunnus hl) on sata litraa eli sata kuutiodesimetriä
+1 hl = 100 dm³
+Desilitra (tunnus dl) on litran kymmenesosa eli sata kuutiosenttimetriä.
+1 dl = 100 cm³
+Senttilitra (tunnus cl) on litran sadasosa eli kymmenen kuutiosenttimetriä.
+1 cl = 10 cm³
+Millilitra (tunnus ml) on litran tuhannesosa eli kuutiosenttimetri.
+1 ml = 1 cm³
+
+
+== Historia ==
+Litra otettiin käyttöön Ranskassa 1790-luvulla osana metrijärjestelmää. Alkujaan oli tarkoitus määritellä myös kilogramma sen suuruiseksi, että yksi kuutiodesimetri eli litra vettä olisi massaltaan tarkalleen kilogramman suuruinen. Kilogrammalle valmistettiin kuitenkin oma mallikappaleensa, ja myöhemmin entistä tarkemmiksi tulleet mittaukset osoittivat, että se on hieman suurempi kuin vesikuutiodesimetrin massa.
+Kun Sèvresissä vuonna 1901 pidettiin kolmas yleinen paino- ja mittakonferenssi (CGPM), tämä ero oli jo tunnettu. Konferenssissa päätettiin, että litra oli yhtä kuin tilavuus, joka on 1 kg:lla vettä normaalissa ilmanpaineessa siinä lämpötilassa (3,98 °C), jossa sen tihey

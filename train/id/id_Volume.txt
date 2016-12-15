@@ -1,0 +1,36 @@
+Volume atau bisa juga disebut kapasitas adalah penghitungan seberapa banyak ruang yang bisa ditempati dalam suatu objek. Objek itu bisa berupa benda yang beraturan ataupun benda yang tidak beraturan. Benda yang beraturan misalnya kubus, balok, silinder, limas, kerucut, dan bola. Benda yang tidak beraturan misalnya batu yang ditemukan di jalan. Volume digunakan untuk menentukan massa jenis suatu benda.
+
+
+== Rumus volumeSunting ==
+
+
+=== Rasio volume untuk kerucut, bola, dan silinder dengan tinggi dan jari-jari samaSunting ===
+
+Rumus diatas dapat digunakan untuk menunjukkan bahwa volume kerucut, bola, dan silinder dengan jari-jari dan tinggi sama memiliki rasio 1 : 2 : 3, seperti berikut ini.
+Besar jari-jari dianggap r dan tinggi dianggap h (menjadi 2r untuk bola), maka volume kerucut
+
+volume bola
+
+sedangkan volume silinder
+
+Penemuan rasio volume bola dan silinder 2 : 3 ditemukan oleh Archimedes.
+
+
+== Volume dalam kalkulusSunting ==
+Pada kalkulus, volume dari sebuah region D dalam R3 adalah integral rangkap tiga dari fungsi konstanta  dan biasanya dituliskan sebagai:
+
+Integral volume pada koordinat silinder adalah
+
+dan integral volume dalam koordinat bola dituliskan sebagai
+
+
+== Satuan volumeSunting ==
+Satuan SI volume adalah m3. Satuan lain yang banyak dipakai adalah liter (=dm3) dan ml.
+1 m3 = 103 dm3 = 106 cm3
+1 dm3 = 1 l
+1 cm3 = 1 ml = 1 cc
+
+
+== Volume dalam termodinamikaSunting ==
+
+Dalam termodinamika, volume dari sebuah sistem termodinamika a

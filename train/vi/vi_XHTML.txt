@@ -1,0 +1,107 @@
+XHTML (viết tắt của tiếng Anh Extensible HyperText Markup Language, "Ngôn ngữ Đánh dấu Siêu văn bản Mở rộng") là một ngôn ngữ đánh dấu có cùng các khả năng như HTML, nhưng có cú pháp chặt chẽ hơn. XHTML 1.0 là Khuyến cáo của World Wide Web Consortium (W3C) vào ngày 26 tháng 2, 2000.
+
+
+== Tổng quan ==
+Về phương diện kĩ thuật, XHTML là một họ các kiểu tài liệu hiện tại và tương lai cùng các mô đun nhằm tái tạo lại, mở rộng, thâu nạp HTML, tái cấu trúc lại dưới dạng XML. Các dạng tài liệu thuộc họ XHTML tất cả đều dựa trên XML, và được thiết kế để làm việc tuyệt đối với các trình đại diện người dùng hiểu XML. XHTML là thế hệ kế tiếp HTML, và đã có một loại các đặc tả được phát triển cho XHTML.
+
+
+== Một số khác biệt giữa HTML và XHTML ==
+
+
+=== Các phần tử phải được lồng nhau đúng cách ===
+Trong HTML một số phần tử có thể được lồng vào nhau không đúng cách như thế này.
+
+<b><i>This text is bold and italic</b></i>
+
+Trong XHTML tất cả các phần tử phải được lồng vào nhau đúng cách như thế này:
+
+<b><i>This text is bold and italic</i></b>
+
+Chú ý: Một lỗi thường thấy ở các danh sách gạch đầu dòng lồng vào nhau mà quên mất rằng danh sách bên trong phải được đặt trong phần tử li. Ví dụ:
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+  <li>Milk</li>
+</ul>
+
+Đây mới là đúng:
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+
+
+=== Phải có đặt ở dạng chuẩn (well-formed) ===
+Tất cả các phần tử XHTML phải được đặt lồng bên trong phần tử gốc <html>. Tất cả các phần tử khác có thể có các phần tử con. Các phần tử con phải đi theo cặp và phải được đặt lồng nhau đúng cách bên trong phần tử mẹ. Cấu trúc tài liệu cơ bản là:
+
+<html>
+  <head>... </head>
+  <body>... </body>
+</html>
+
+
+=== Tên gọi của thẻ đều phải viết thường ===
+Do XHTML kế thừa cú pháp của XML và mỗi trang XHTML đều là các ứng dụng XML cho nên XHTML có phân biệt chữ hoa chữ thường, điều không có ở HTML. Với HTML thì các thẻ như <br> và <BR> là hiểu là giống nhau nhưng một khi bạn đã xác định trang web của bạn là XHTML thì trình duyệt sẽ dịch hai thẻ này là khác nhau.
+HTML chấp nhận cách viết dưới:
+
+<BODY>
+  <P>This is a paragraph</P>
+</BODY>
+
+XHTML đòi hỏi phải viết lại phần trên thành:
+
+<body>
+  <p>This is a paragraph</p>
+</body>
+
+
+=== Tất cả các phần tử XHTML phải được đóng lại ===
+Phần tử không rỗng phải có một thẻ đóng. HTML chấp nhận cách viết dưới:
+
+<p>This is a paragraph
+<p>This is another paragraph
+
+XHTML đòi hỏi phải viết lại phần trên thành:
+
+<p>This is a paragraph</p>
+<p>This is another paragraph</p>
+
+
+=== Các phần tử rỗng cũng phải được đóng lại ===
+Các phần tử rỗng hoặc là phải có thể đóng hoặc là thẻ khởi đầu phải được kết thúc bằng />. HTML chấp nhận cách viết dưới:
+
+This is a break<br>
+Here comes a horizontal rule:<hr>
+Here's an image <img src="happy.gif" alt="Happy face">
+
+XHTML đòi hỏi phải viết lại phần trên thành:
+
+This is a break<br />
+Here comes a horizontal rule:<hr />
+Here's an image <img src="happy.gif" alt="Happy face" />
+
+
+==== Chú ý quan trọng ====
+Để làm cho trang XHTML tương thích với các trình duyệt hiện nay thì nên đặt một khoảng trắng thêm vào trước kí tự / kiểu như <br />, và:
+
+<hr />
+
+
+=== Các giá trị của thuộc tính phải được đặt trong dấu nháy kép ===
+HTML chấp nhận cách viết dưới:
+
+<table width=100%>
+
+XHTML đòi hỏi phải viết 

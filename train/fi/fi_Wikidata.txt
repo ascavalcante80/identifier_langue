@@ -1,0 +1,6 @@
+Wikidata on Wikimedia-säätiön omistama yhteisesti muokattava Wikipediaa tukeva tietokanta. Saksan Wikimedia-säätiön aloittaman hankkeen on tarkoitus toimia keskitettynä paikkana erilaisille tiedoille, esimerkiksi henkilöiden syntymäajoille. Palvelu avattiin virallisesti 30. lokakuuta 2012. Se on ensimmäinen Wikimedian uusi hanke vuoden 2006 jälkeen.
+Hanketta ovat rahoittaneet Allen Institute for Artificial Intelligence, Gordon and Betty Moore Foundation sekä Google, yhteensä 1,3 miljoonalla eurolla. Kesäkuussa 2013 Jandeks lahjoitti projektille 150 000 euroa.
+
+
+== KehitysMuokkaa ==
+Wikidatan ensimmäisessä vaiheessa Wikipedian kielilinkit korvattiin Wikidataan siirretyillä kielilinkeillä. Tämä vaihe otettiin käyttöön kaikissa Wikipedioissa 6. maaliskuuta 2013 mennessä. Toinen vaihe kerää tietolaatikoihin liittyvää dataa, tarkoituksena täyttää Wikipedian tietolaatikot Wikidataan lisätyillä tiedoilla. Ensimmäinen ohjelmistoversio toisesta vaiheesta otettiin käyttöön Wikidatassa 4. helmikuu

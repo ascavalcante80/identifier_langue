@@ -1,0 +1,18 @@
+n (bis zu einem Mashup erstellen):
+Flash-API: Nutzt die Adobe Flash-Plattform, so dass die Entwickler in JavaScript, ActionScript, Adobe Flex 1.5 schreiben können.
+Ajax-API: für interaktive Karten ohne Flash-Plugin. Ajax-Anwendungen sind in JavaScript geschrieben.
+Simple-API: Die Simple API ist im Grunde ein XML-Datenformat, eine Erweiterung von GeoRSS, zur Anzeige von Points-of-Interest.
+
+
+== Siehe auch ==
+Bing Maps
+Google Maps
+NASA World Wind
+OpenStreetMap
+Yandex.Maps
+
+
+== Weblinks ==
+Yahoo Maps (de)
+Yahoo! Maps API
+Chip-Artikel (Yahoo Maps: Finales Kartenmaterial kennt Europa)

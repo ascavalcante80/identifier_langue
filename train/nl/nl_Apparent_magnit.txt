@@ -1,0 +1,27 @@
+Magnitude is een begrip in de astronomie waarmee de helderheid van een ster of ander hemellichaam wordt uitgedrukt in een getal. Magnitude betekent letterlijk grootte of omvang. Men onderscheidt:
+Absolute helderheid, die bepaald wordt door de eigenschappen van het hemellichaam.
+Schijnbare of waargenomen helderheid. Deze hangt af van de absolute helderheid, maar ook van de afstand tot de (aardse) waarnemer. Verder beïnvloeden bijvoorbeeld verstrooiing, absorptie en zwaartekrachtlenzen de waargenomen helderheid.
+
+
+== Schijnbare magnitudeBewerken ==
+De schijnbare helderheid van sterren werd door Hipparchus in de oudheid reeds aangegeven met getallen: de helderste sterren kende hij de magnitude of grootte 1 toe en de zwakste de magnitude 6. Een lage waarde betekent dus een grote helderheid, zoals ook tegenwoordig nog het geval is. Later is deze helderheidsschaal uitgebreid en verfijnd, waarbij afgesproken is dat een verschil in magnitude van 5 overeenkomt met een helderheidsverhouding van een factor 100. De magnitude is dus een logaritmische schaal, waarbij een verschil in magnitude van 1 overeenkomt met een helderheidsverhouding van 2,512.
+Enkele hemellichamen zijn zo helder dat hun magnitude een negatief getal geeft op de logaritmische schaal. De zon heeft op een onbewolkte dag een magnitude van -26,5, wat men ook noteert als -26m,5 of -26,5 mag, de volle maan heeft op een heldere nacht een magnitude van -12,5. De helderheid van de planeten in het zonnestelsel varieert met hun afstand tot de aarde en hun schijngestalte. Zie de Tabel van schijnbare magnitudes in het zonnestelsel.
+
+
+== Absolute en schijnbare magnitudeBewerken ==
+De absolute helderheid van een hemellichaam is gedefinieerd als de helderheid die het zou hebben als het op een afstand van 10 parsec zou staan, ongeveer 32,6 lichtjaar. De absolute helderheid hangt direct samen met de lichtkracht.
+Zo heeft de zeer heldere ster Sirius (8,7 lichtjaren) een schijnbare magnitude van -1,46 en een absolute magnitude van (+) 1,43 (op een bijna 4 maal zo grote afstand zou hij bijna 16 maal zo zwak zijn, wat de magnitude bijna 3 hoger zou maken).
+Onze zon heeft een absolute magnitude van + 4,88 en tussen andere sterren zou hij onopvallend maar nog wel met het blote oog zichtbaar zijn.
+Er wordt ook onderscheid gemaakt tussen visuele- en fotografische magnitude, sterren hebben verschillende kleuren (zie ook spectraalklasse) en het blote oog heeft zijn maximale gevoeligheid in het geel, terwijl fotografische platen meer gevoelig zijn voor blauw en violet. Een blauwe ster zal in verhouding dus helderder lijken op een fotografische plaat.
+Voor objecten binnen ons zonnestelsel, zoals planetoïden is de absolute helderheid gedefinieerd als de helderheid wanneer het object op precies één A.E. van de zon zou staan. De helderheid van objecten die verder van de zon af staan neemt extra snel af omdat er meerdere effecten meespelen:
+als het object verder van de zon staat ontvangt het zelf minder zonlicht en ziet er van gelijke afstand gezien al donkerder uit
+een object dat verder van ons af staat lijkt kleiner en heeft dus een kleiner lichtgevend oppervlak (dit in tegenstelling tot sterren die vrijwel altijd zo ver weg staan dat ze een puntbron zijn).
+de schijnbare lichtsterkte neemt af met het kwadraat van de afstand, althans bij gelijke oppervlakte en oppervlaktehelderheid.
+
+
+== SchaalBewerken ==
+De magnitudeschaal is in het verleden zo gedefinieerd dat een A0V ster zoals Wega een absolute magnitude 0 heeft. Dit geldt voor elke golflengteband. In de praktijk is Wega een veranderlijke ster en tegenwoordig zijn er nauwkeurigere bepalingen mogelijk.
+
+
+== ZichtbaarheidBewerken ==
+Afhankelijk van de omstandigheden kunnen sterren tot een bepaalde magnitude met het blote oog gezien worden. In een stad met veel lichtvervuiling zullen misschien sterren tot een grensmagnitude 2 gezien kunnen worden, op een hoge bergtop ver van alle omgevingslicht is de grensmagnitude ongeveer 6. Dit is geen absolute grens, het hangt ook van de waarnemer zelf af en zelfs van de manier van kijken. De gele vlek in het centrum van het gezichtsveld is minder gevoelig voor licht dan de gebieden met staafjes er naast, maximale gevoeligheid wordt bereikt door net

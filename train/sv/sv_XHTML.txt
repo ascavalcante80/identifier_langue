@@ -1,0 +1,71 @@
+XHTML (Extensible HyperText Markup Language) är ett märkspråk och en vidareutveckling av HTML. XHTML är till skillnad från HTML, som (i teorin, inte praktiken) är baserat på det flexiblare SGML, baserat på det striktare XML, som utvecklas av organisationen W3C. Tanken är att man med XHTML (liksom med HTML) ska kunna bygga och länka samman dokument som kan visas över webben. XHTML 1.0 blev en W3C-rekommendation 26 januari 2000. XHTML 1.1 blev en W3C-rekommendation 31 maj 2001.
+Eftersom XHTML började som en omformulering av HTML i XML anses den ibland vara den senaste versionen av HTML. Men XHTML är ett separat märkspråk.
+W3C själva rekommenderar både aktuella versioner av XHTML och HTML parallellt - även om XHTML 1.0 tycks framhållas som det föredragna alternativet med tanke på att http://www.w3.org/TR/html/ leder till rekommendationen för XHTML 1.0 och inte rekommendationen för HTML 4.01 eller XHTML 1.1.
+
+
+== Anledning ==
+I mindre, mobila enheter som mobiltelefoner är det viktigt att inte slösa på resurser för onödiga uppgifter. En av dessa uppgifter var att tolka den komplexa HTML-syntaxen. För att göra all information på Internet mer tillgänglig för fler mottagare krävdes därför ett nytt och striktare språk. Därför skapades XHTML, som tack vare den striktare syntaxen inte krävde lika mycket arbete från tolken.
+Eftersom HTML "tillät" fel så kämpade tolkarna oftast med att korrigera de fel som koden innehöll. Detta drog massa extra kraft och bidrog till att felaktig kod inte upptäcktes lika lätt. Med XHTML så är det rekommenderat att tolken genast slutar rendera koden och visar ett felmeddelande så fort ett fel upptäcks. Detta kan få till följd att sidan inte visas alls om den innehåller fel (som i Firefox), eller att den bara visar informationen fram till felet (som i Safari). På så sätt krävs det inte lika mycket arbete av en XHTML-tolk som en HTML-tolk.
+Förutsättningen för att tolkarna skall använda detta effektivare tolkningsläge är att koden skickas med rätt MIME-deklaration. I praktiken sker det sällan, och majoriteten av marknadens mobila webbläsare tolkar de facto XHTML som om det vore "tagg-gröt".
+
+
+== Skillnader mot HTML ==
+Skillnaderna mellan HTML och XHTML 1.0 syftar till största del att skapa XML-kompatibilitet. Detta kräver att dokumentet ska vara välformaterat. Med detta menas bland annat att alla element alltid måste stängas och inte får nästlas så att de överlappar varandra. Även tomma elementtyper måste stängas. XML är även skiftlägeskänsligt och därför kräver XHTML, per definition, att alla element- och attributnamn skrivs med gemener. Attributnamn måste dessutom inneslutas inom citationstecken (enkel ' eller dubbel ") och får inte förkortas. <INPUT checked> är därför felaktigt, <input checked="checked" /> är av samma anledning korrekt.
+XHTML är utbyggbart (eXtensible) i den meningen att man med hjälp av namnrymder kan använda element och attribut som inte tillhör XHTML-standarden. Det är en klar skillnad och förbättring från den tidigare HTML-standarden som bara tillät ett fixerat antal element. Exempel på namnrymder som kan blandas med XHTML är SVG, för att märka upp vektorgrafik, och MathML, för att beskriva matematiska uttryck. På så sätt kan dessa tolkas direkt i en webbläsare och man hoppas genom detta slippa webbläsarspecifika tillägg till XHTML-standarden.
+
+
+== Övergången ==
+Likheten mellan XHTML och HTML gjorde att många webbutvecklare tidigt gick över till det nya formatet. Många webbläsare som skrivits för vanlig HTML kan nämligen presentera XHTML-dokument om det uppfyller vissa krav. Det innebär att dokument skrivna med XHTML är tillgängliga för alla, även med äldre läsare. Om detta ska vara möjligt kan man inte använda några XHTML-specifika egenskaper och därför skapade W3C Appendix C med punkter som måste följas. Om dessa följs så kan en gammal läsare tolka XHTML-dokumentet som ett vanligt HTML-dokument.
+
+
+== Olika versioner ==
+
+
+=== XHTML 1.0 ===
+XHTML 1.0 är egentligen bara en omformulering av HTML 4.01 som XML. Denna version definieras alltså på samma sätt som HTML 4.01 av tre olika dokumentmallar.
+XHTML 1.0 Strict är samma sak som HTML 4.01 Strict fast med XML-syntax.
+XHTML 1.0 Transitional är samma sak som HTML 4.01 Transitional fast med XML-syntax, det vill säga där tillåts även några utgångna element, till exempel font,center och u.
+XHTML 1.0 Framesets är samma sak som HTML 4.01 Frameset fast med XML-syntax, det vill säga med den dokumentmallen kan man enbart definiera sidor som håller samman ramar och innehåller ett alternativinnehåll.
+
+
+=== XHTML Modularization ===
+XHTML Modularization är ingen XHTML-version i sig, utan består av ett antal moduler som kan sammanfogas till olika dokumenttyper. Exempel på dokumenttyper som bygger på XHTML Modularization är XHTML 1.1, XHTML Basic och XHTML 2.0
+
+
+=== XHTML 1.1 ===
+XHTML 1.1 är en version av XHTML som i grunden är moduluppdelad. Nästan alla element som beskriver utseende samt ramar har tagits bort ur denna version och ersatts av stilmallar (Cascading Style Sheets). Samtidigt har även möjligheten att leverera XHTML 1.1 med MIME-typen text/html ("som HTML") tagits bort.
+Eftersom XHTML 1.1 inte får levereras "som HTML" utan bara som "äkta XHTML" — det vill säga XHTML levererad med MIME-typen application/xhtml+xml — kan korrekt kodade och levererade sidor skrivna i XHTML 1.1 för närvarande (våren 2007) till exempel inte tolkas av webbläsaren Internet Explorer 7, på grund av att den webbläsaren helt saknar stöd för "äkta XHTML" — det vill säga application/xhtml+xml.
+
+
+=== XHTML Basic och XHTML Mobile Profile ===
+När "den mobila webben" uppdaterades från "WAP 1" till "WAP 2.0", byttes rekommenderat märkspråk ut från WML till XHTML. Tyvärr kunde man till en början inte enas. W3C tog fram XHTML Basic för ändamålet, samtidigt som WAP Forum tog fram XHTML Mobile Profile. Skillnaderna mellan de två har aldrig varit speciellt stora, men en viss prestige har kunnat skönjas om vem som egentligen definierar märkspråket för "WAP 2.0"
+Efter flera års konkurrens har man till slut enats om en enda "mobil version" av XHTML och den benämns både "XHTML Mobile Profile 1.3" och "XHTML basic 1.1".
+Stora mobiltelefontillverkare som Nokia och Ericsson rekommenderar att man använder XHTML Mobile Profile när man producerar webbsidor specifikt för den mobila webben, och vill man driva en webbplats under toppdomänen ".mobi" är det ett uttryckligt krav att ens webbplats använder XHTML Mobile Profile som märkspråk.
+
+
+== XHTML och framtiden ==
+
+
+=== XHTML 2.0-projektet ===
+Arbetet med XHTML 2.0 påbörjades 2002, men avbröts i juli 2009. Denna nya version bryter den tidigare trenden att vara bakåtkompatibelt och kan därför snarare betraktas som ett nytt märkspråk.
+Några nya egenskaper med XHTML 2.0:
+HTML-formulär ersätts av XForms, en XML-baserad specifikation som tillåter formulär att visas korrekt på olika medium.
+HTML-ramar ersätts av XFrames.
+DOM Events ersätts av XML Events.
+En ny nivålös rubrik-tagg <h> läggs till. Nivån på rubriken bestäms sedan av vilken nästlad <section> den ligger i.
+Alla element kommer att kunna ha attributen href och src.
+Ytterligare ett par presentationella element kommer tas bort, bland annat b, i och tt.
+Inbyggt stöd för uppmärkning med egna begreppsdefinitioner via RDFa.
+XHTML 2 är ett generiskt dokumentformat som kan vara användbart även utanför webbsammanhang.
+
+
+=== (X)HTML 5-projektet ===
+HTML5 kommer troligen att finnas i två serialiseringar, HTML och XHTML. XHTML 5 är att betrakta som en möjlig ersättare till dagens XHTML 1.0. (medan XHTML 1.1., XHTML Basic 1.1., XHTML 2 samt dessas eventuella efterföljare utvecklas separat vid sidan av HTML5). Google, Apple, Mozilla, Microsoft och Opera har redan börjat implementera delar av (X)HTML 5 i sina webbläsare, men stödet är ännu ganska begränsat - HTML5 beräknas f.n. (vintern 2008/2009) nå "Candidate recommendation" ca år 2012 och vara fullt infört till den nivån "Recommendation" (dvs. att minst två "major browsers" stödjer det likvärdigt) ca år 2022 - se till exempel http://wiki.whatwg.org/wiki/FAQ#When_will_HTML_5_be_finished.3F9
+
+
+== Korrekta XHTML-dokument ==
+Ett XHTML dokument som följer XHTML-specifikationerna sägs validera. Tyvärr är inte alla webbläsare standardiserade så att ett dokument garanterat visas likadant överallt. Ett validerat dokument är ändå ett steg närmare ett konsekvent utseende. Validera kan du göra hos W3Cs valideringsservice.
+
+
+=== Dokumentmall ===
+För att validera ett XHTML-dokumen

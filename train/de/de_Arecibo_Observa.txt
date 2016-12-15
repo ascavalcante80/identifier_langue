@@ -1,0 +1,29 @@
+Das Arecibo-Observatorium in Puerto Rico ist nach dem RATAN 600 zur Zeit noch das zweitgrößte Radioteleskop der Welt, denn in der Provinz Guizhou im Südwesten von China soll 2016 das Radioteleskop Five hundred meter Aperture Spherical Telescope (kurz FAST) fertiggestellt werden, das dann das größte und genaueste Radioteleskop der Welt sein soll.
+
+
+== BeschreibungBearbeiten ==
+Der sphärische Reflektor des Radioteleskops ist nicht schwenkbar und hat einen Durchmesser von 304,8 m. Dieser ist in ein natürliches, schüsselförmiges Tal ca. 15 km südlich von Arecibo im Norden Puerto Ricos eingelassen. Der dreijährige Bau begann im Sommer 1960 und war mit der Einweihung am 1. November 1963 abgeschlossen.
+Arecibo wird im Auftrag der National Science Foundation (NSF) der USA von der Cornell University betrieben. Da es ursprünglich für die Ionosphärenforschung konzipiert war, hieß das Teleskop zunächst Arecibo Ionospheric Observatory (AIO) und war dem US-Verteidigungsministerium unterstellt. Im Oktober 1969 wurde die Einrichtung von der NSF übernommen und wurde im September 1971 in National Astronomy and Ionosphere Center (NAIC) umbenannt.
+Das Teleskop steht allen Astronomen offen – rund 200 Forscher jährlich nutzen die Anlage. Die Beobachtungszeit wird von einem unabhängigen Gremium aus den weltweit eingehenden Anfragen vergeben.
+Um den Reflektor herum befinden sich drei große Trägermasten – zwei sind 80,8 m hoch, der dritte ist 30,4 m höher, um die Geländeunterschiede auszugleichen. Von jedem Mast gehen sechs lange Drahtseile aus, an denen über der Mitte des Reflektors in 137,2 m Höhe eine dreieckige Plattform befestigt ist. Daran ist über eine ringförmige Schiene ein gebogener Azimutarm drehbar angebracht. Der 100 m lange Arm dient zur Ausrichtung der Empfänger des Teleskops. Diese befinden sich im „Gregorian Dome“: zwei Subreflektoren, die die Signale bündeln.
+Obwohl der Reflektor des Teleskops fest steht, können durch diese verschiedenen Verstellmöglichkeiten Himmelsobjekte mit einer Deklination zwischen etwa −1° und +38° für eine gewisse Zeit beobachtet werden, indem die Empfänger der Bewegung des Objekts am Himmel nachgeführt werden.
+In den Empfängern stehen Antennen für verschiedene Frequenzbereiche des Radiobandes zur Verfügung, um mehr Beobachtungsaufgaben abzudecken. Umgekehrt kann die Antenne aber auch ein Signal in die Schüssel strahlen, die es dann ins All reflektiert. Somit kann das Radioteleskop von Arecibo auch als Sender genutzt werden, zum Beispiel für Radarbeobachtungen von Planeten und Asteroiden. Am Observatorium, das rund um die Uhr in Betrieb ist, sind etwa 140 Menschen beschäftigt.
+
+
+== Technische DatenBearbeiten ==
+Teleskopmaße:
+effektiver Durchmesser: 304,8 m
+Fläche des Reflektors: 73.000 m²
+Oberflächengenauigkeit: 2,2 mm (RMS)
+Tiefe des Kugelspiegels: 50,9 m
+Antennenplattform:
+Gewicht der Antennenplattform: 816 t
+Höhe über der Spiegeloberfläche: 137,2 m
+Sender:
+Sendeleistung: 500 kW
+Empfänger:
+Empfangsbereich: 300 MHz bis 10 GHz
+
+
+== Die Arecibo-Botschaft und SETIBearbeiten ==
+Das Radioteleskop wurde zur Ausstrahlung der Arecibo-Botschaft eingesetzt. Dieses Radiosignal hat das Ziel, Informationen über die Menschheit an möglicherweise existierende extraterrestrische Zivilisationen zu übermitteln. Die Hauptinitiatoren dieses Projekts waren Fra

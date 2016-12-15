@@ -1,0 +1,53 @@
+XML (eXtensible Markup Language) é uma recomendação da W3C para gerar linguagens de marcação para necessidades especiais.
+É um dos subtipos da SGML (acrônimo de Standard Generalized Markup Language ou Linguagem Padronizada de Marcação Genérica) capaz de descrever diversos tipos de dados. Seu propósito principal é a facilidade de compartilhamento de informações através da internet.
+Entre linguagens baseadas em XML incluem-se XHTML (formato para páginas Web), RDF, SDMX, SMIL, MathML (formato para expressões matemáticas), NCL, XBRL, XSIL e SVG (formato gráfico vetorial). A principal característica do XML, de criar uma infraestrutura única para diversas linguagens, é que linguagens desconhecidas e de pouco uso também podem ser definidas sem maior trabalho e sem necessidade de ser submetidas aos comitês de padronização.
+
+
+== Características do XML ==
+Em meados da década de 1990, o World Wide Web Consortium (W3C) começou a trabalhar em uma linguagem de marcação que combinasse a flexibilidade da SGML com a simplicidade da HTML. O princípio do projeto era criar uma linguagem que pudesse ser lida por software, e integrar-se com as demais linguagens. Sua filosofia seria incorporada por vários princípios importantes:
+Separação do conteúdo da formatação
+Simplicidade e legibilidade, tanto para humanos quanto para computadores
+Possibilidade de criação de tags sem limitação
+Criação de arquivos para validação de estrutura (chamados DTDs)
+Interligação de bancos de dados distintos
+Concentração na estrutura da informação, e não na sua aparência
+O XML é um formato para a criação de documentos com dados organizados de forma hierárquica, como se vê, frequentemente, em documentos de texto formatados, imagens vetoriais ou bancos de dados.
+Pela sua portabilidade, já que é um formato que não depende das plataformas de hardware ou de software, um banco de dados pode, através de uma aplicação, escrever em um arquivo XML, e um outro banco distinto pode ler então estes mesmos dados.
+
+
+== Exemplo ==
+Este exemplo demonstra a sintaxe flexível do XML sendo usada para descrever uma receita de pão:
+
+Onde temos na primeira linha:
+
+"Receita" é o nome principal para o seu documento. Note que a semelhança entre XML e HTML é grande, na 1ª linha abrimos a tag Receita e na última linha a fechamos, como em HTML, assim se estendendo por todo o exemplo.
+
+
+== Vantagens e desvantagens ==
+Com relação aos outros "formatos universais para intercâmbio de dados" já propostos e experimentados, o XML apresenta diversas vantagens técnicas, mas são as vantagens não-técnicas que o tornam um tópico de tão grande importância:
+É um padrão "de fato" e formalmente: num universo onde cada desenvolvedor e cada fabricante tem a liberdade de criar e impor seu próprio formato, a aceitação do XML tem sido vista como o seu maior trunfo
+Tem sua origem em uma instituição de padronização das mais abertas e dinâmicas, o W3C
+Se baseia na experiência de sucesso do SGML, sendo considerado inclusive o "sucessor da SGML"
+
+
+=== Vantagens técnicas ===
+É baseado em texto simples
+Com relação aos formatos não-texto (binários), um debate existe desde os tempos do SGML, mas ainda hoje a comunidade de usuários e desenvolvedores prefere o texto ao binário, e as opções do tipo txt.zip (texto comprimido) tais como o OpenDocument são a saída mais largamente adotada
+
+Suporta Unicode, permitindo que a maior parte da informação codificada em linguagem humana possa ser comunicada
+Pode representar as estruturas de dados relevantes da computação: listas, registros, árvores
+É auto-documentado (DTDs e XML Schemas): o próprio formato descreve a sua estrutura e nomes de campos, assim como valores válidos
+A sintaxe restrita e requerimentos de parsing tornam os algoritmos de análise mais eficientes e consistentes
+É editável, devido à popularidade do XML nos dias de hoje, com diferentes níveis de automação, em qualquer ambiente:
+Sem automação: editores txt antigos, tais como vi
+Com recurso automático de destaque: a maior parte dos editores txt modernos oferece recursos para destaque de XML (distinção visual entre tag, atributo e conteúdo)
+Com recursos de visualização e controle (folding) da hierarquia: editores txt mais especializados e editores simples acoplados a navegadores
+Com recursos de validação e análise sintática: ferramentas um pouco mais sofisticadas, orientadas a programadores, tais como as IDEs, ou orientadas a conteúdo, tais como editores XHTML, ambos vem se adaptando para lidar com outros formatos XML, interpretando DTD, XSLT ou XML Schema
+
+
+=== Desvantagens técnicas ===
+As desvantagens em geral se restringem às aplicações que não demandam maior complexidade, tais como vetores, listas associativas (chave-valor) e informações relativas a configuração, em que o bom senso estabelece a melhor escolha (entre o XML ou um formato menos popular).
+O "XML simples" pode ser substituído por formatos mais simples, como properties, YAML, JSON e Simple Outline XML. Os principais critérios para se avaliar a demanda por um formato mais simples são:
+Velocidade: a grande quantidade de informação repetida prejudicando a velocidade de transferência real de informação (quando esta é transportada na forma de XML)
+Editabilidade txt: o arquivo "XML simples" (como se pode ver nos exemplos acima) pode ser bem pouco intuitivo, dificultando sua edição com editores txt por pessoas leigas, mais ainda no caso de volume de dados muito grandes, onde o XML pode sequer ser facilmente editável por pessoas experientes
+O formato p

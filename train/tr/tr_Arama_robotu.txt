@@ -1,0 +1,3 @@
+Arama robotu (web robotu ve web crawler olarak da bilinir), Web'i otomatik olarak gezen bir program veya betiktir.
+Hedef bir adresten başlayarak girdiği sitelerdeki yeni adresleri kendi listesine ekler. Daha sonra, listesindeki adresleri sırayla dolaşmaya ve yeni adresleri listeye eklemeye devam eder.
+

@@ -1,0 +1,16 @@
+De elasticiteitsmodulus E (Youngs modulus, naar de Engelse natuurkundige, dokter en egyptoloog Thomas Young), is een materiaalkundige eigenschap van een materiaal die een maat is voor de stijfheid of starheid van een materiaal, en die ten dele de rek van het materiaal onder een trekbelasting bepaalt, en de compressie onder een drukkracht.
+In het elastisch gebied geldt de wet van Hooke, met de veerconstante gelijk aan de elasticiteitsconstante: de rek  (relatieve lengteverandering) die optreedt is lineair afhankelijk van de aangebrachte rekspanning σ, met als evenredigheidsconstante de elasticiteitsmodulus: . Eenvoudig gesteld is de elasticiteitsmodulus de spanning nodig om het proefstuk in de lengte te verdubbelen (dit is een extrapolatie, de meeste materialen breken voordat een dergelijke grote rek optreedt).
+De eenheid van elasticiteitsmodulus is een kracht op een oppervlak of N/m2 of Pa. Meestal gebruikt men de grotere eenheid N/mm² = MPa, zo heeft staal een E-modulus van 210000 MPa = 210GPa.
+
+
+== Bepaling ==
+De elasticiteitsmodulus kan op meerdere wijzen worden bepaald:
+via een trekproef: hierbij wordt een bepaalde normaalkracht aangebracht op een proefstuk materiaal. Hierbij constateert men dat in het elastisch gebied (waarbij een spanning op het proefstuk werkt lager dan de vloeigrens) de rek evenredig is aan de spanning: , met  de aangebrachte spanning,  de elasticiteitsmodulus, en  de rek. De richtingscoëfficiënt van de curve, , is de elasticiteitsmodulus (zolang dus  ).
+via de eigenfrequentie van een trillende staaf die aan haar uiteinden opgehangen wordt.
+via nanoindentatie: hierbij wordt een indrukking gemaakt in het materiaal oppervlak. hieruit kan door de diepte te meten (tijdens of na de meting) de elasticiteit bepaald worden.
+
+
+== Eigenschappen ==
+De elasticiteitsmodulus is vrijwel constant per materiaal. Thermische behandelingen hebben er maar een beperkte invloed op.
+De modulus is functie van de temperatuur van het materiaal, en van de tijd die de spanning al op het proefstuk werkt (dit is belangrijk bij polymeren: kruip).
+De modulus kan wel verschillend 

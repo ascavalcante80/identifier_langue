@@ -1,0 +1,22 @@
+nenhum ponto de referência,
+
+Na figura abaixo o momento do binário é um vetor para fora da figura, representado pela seta circular no sentido anti-horário.
+
+Uma força  aplicada num ponto P pode ser deslocada para outro ponto Q, fora da sua linha de ação, usando o procedimento ilustrado na figura acima.
+Adicionam-se duas forças  e  nos pontos P e Q e, para não alterar nada, adiciona-se também um binário  com o mesmo módulo do binário das forças introduzidas, mas no sentido oposto.
+No caso da figura anterior,  deve ser no sentido horário e com módulo igual ao produto de  pela distância desde Q até a linha de ação da força original; ou, em forma vetorial, .
+No ponto P há duas forças iguais e opostas que se anulam, ficando no fim a força  no ponto Q e o binário  que é igual ao momento  que a força original, em P, produz em relação ao ponto Q.
+Conclui-se que para somar um conjunto de forças num ponto Q, somam-se os momentos das forças em relação a esse ponto, dando um binário resultante, e somam-se as forças como vetores livres. O resultado é a força resultante no ponto Q e o binário resultante.
+Quando as direções de todas as forças estiverem num mesmo plano, será conveniente definir dois dos eixos coordenados nesse plano, por exemplo  e  e a origem no ponto onde vão ser somadas as forças. Assim sendo, o momento de cada força  em relação à origem introduz um binário que tem unicamente componente segundo , dada pelo determinante,
+
+em que  e  são as coordenadas do ponto onde está a ser aplicada a força .
+Para obter o binário resultante bastará somar os valores de  obtidos para cada força.
+
+
+== Ver também ==
+Impulso
+Movimento circular uniforme
+Binário do motor ou torque do motor
+
+
+== Referências ==

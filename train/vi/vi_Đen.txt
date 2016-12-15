@@ -1,0 +1,34 @@
+Màu đen là một màu với những sự sai khác tinh tế trong ý nghĩa. Khi nhìn vào hình bên, nhiều người sẽ có cảm giác về màu này.
+
+
+== Màu sắc hay ánh sáng ==
+Màu đen có thể được định nghĩa như ấn tượng thị giác khi người ta ở trong khu vực hoàn toàn không có ánh sáng. Điều này ngược lại với màu trắng, là ấn tượng thị giác khi tổ hợp các màu của ánh sáng kích thích đều cả ba loại tế bào cảm quang.
+Các loại vật chất hấp thụ hết ánh sáng thì tạo ra cảm giác cho con người là có màu đen (thực tế thì không có loại vật chất nào hiện biết là có khả năng như vậy, nhưng các vật chất gần như vậy thì rất nhiều). Các chất màu đen có thể là do tổ hợp của một vài loại chất màu khác (không nhất thiết phải có màu đen) có khả năng hấp thụ gần như hết mọi thành phần của ánh sáng. Nếu trộn cả ba chất màu gốc cơ bản trong một lượng phù hợp, thì kết quả là nó phản xạ rất ít ánh sáng, vì thế nó cũng được gọi là "đen".
+Điều này dẫn đến hai sự miêu tả trái ngược nhau đáng kể nhưng thực tế là bổ sung cho nhau về khái niệm màu đen. Đó là:
+Màu đen là sự vắng mặt của các thành phần tạo ra ánh sáng.
+hay tổ hợp đầy đủ của các màu khác nhau của các chất màu. Xem thêm Màu gốc.
+
+
+== Tọa độ màu ==
+
+Số Hex = #000000
+RGB    (r, g, b)    =  (0, 0, 0)
+CMYK   (c, m, y, k) =  (0, 0, 0, 100) (nếu tính theo thang độ phần trăm).
+HSV (h, s, v) =  (-, -, 0)
+
+
+== Các tổ hợp khác của CMYK ==
+Ở đây tính theo thang độ phần trăm, chứ không tính theo thang độ 0-255 như RGB.
+
+
+== Sử dụng ==
+Đối với con người, thuật ngữ "đen" đôi khi còn được sử dụng để chỉ những người có nước da từ sắc nhạt đến sắc sẫm của màu nâu, đặc biệt là người có nguồn gốc châu Phi.
+Mực đen là loại mực phổ biến trong ngành công nghiệp in ấn cũng như trong các văn phòng.
+Trong văn hóa phương Đông cổ đại, như trong Ngũ hành thì màu đen là màu của nguyên tố Thủy, đại diện cho phương bắc hay nước (H2O).
+Mực Tàu có thể coi là có màu đen, được sử dụng trong viết lách thời phong kiến ở Trung Quốc, Việt Nam v.v
+Trong văn hóa phương Tây, màu đen là màu của tang lễ hoặc mang ý nghĩa tiêu cực, phi pháp hay tối nghĩa, bí mật, không rõ ràng.
+Ở bộ lạc Maasai của Kenya và Tanzania, màu đen liên tưởng tới các đám mây, là biểu tượng của sự sống và thịnh vượng.
+Gương đen được sử dụng trong thiên văn.
+Thuật ngữ lỗ đen, hay hố đen, trong thiên văn học để chỉ tới các ngôi sao đã tắt có khối lượng rất lớn để không cho bất kỳ cái gì (như ánh sáng) có thể thoát ra khỏi nó.
+Trong tài chính-kế toán, khi tài khoản không âm thì người ta sử dụng mực đen để ghi, ngược lại với tài khoản có giá trị âm được ghi bằng mực đỏ.
+Trong chính trị ở Đức, màu đen được sử 

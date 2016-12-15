@@ -1,0 +1,45 @@
+inem passend gewählten Anfangsimpuls (durch den Start) eine geeignete Umlaufbahn zu erzeugen: Je kreisförmiger die Bahn, desto gleichmäßiger die Umlaufgeschwindigkeit.
+
+
+=== 3. Keplersches Gesetz ===
+Die Quadrate der Umlaufzeiten  und  je zweier Trabanten um ein gemeinsames Zentrum sind proportional zu den dritten Potenzen der großen Halbachsen  und  ihrer Ellipsenbahnen.
+oder
+Die Quadrate der Umlaufzeiten stehen im gleichen Verhältnis wie die Kuben der großen Halbachsen:
+ … 3. Keplersches Gesetz
+Kepler verwendete für die Bahnachsen a die mittlere Entfernung von der Sonne (im Sinne des Mittels von Periheldistanz und Apheldistanz).
+ … 3. Keplersches Gesetz, massenunabhängige Formulierung mit Kepler-Konstante der Zentralmasse (Gaußsche Gravitationskonstante des Sonnensystems)
+In Kombination mit dem Gravitationsgesetz erhält das 3. Keplersche Gesetz für die Bewegung zweier Massen M und m die Form:
+ … 3. Keplersches Gesetz, Formulierung mit zwei Massen
+wobei die Näherung gilt, wenn die Masse m vernachlässigbar klein im Vergleich zu M ist (etwa im Sonnensystem). Durch diese Form kann man etwa die Gesamtmasse von Doppelsternsystemen aus der Messung der Umlaufdauer und des Abstandes bestimmen.
+Berücksichtigt man die unterschiedlichen Massen zweier Himmelskörper und obige Formel, so lautet eine exaktere Formulierung des 3. Keplerschen Gesetzes:
+ … 3. Keplersches Gesetz, Formulierung mit drei Massen
+Offensichtlich gewinnt die Abweichung nur dann an Bedeutung, wenn beide Trabanten sich stark in ihren Massen unterscheiden und das Zentralobjekt eine Masse M hat, die von der eines der beiden Trabanten nicht stark abweicht.
+Das 3. Keplersche Gesetz gilt dabei für alle Kräfte, die quadratisch mit dem Abstand abnehmen, wie man auch leicht aus der Skalenbetrachtung herleiten kann. In der Gleichung
+
+taucht r in der dritten Potenz, und t quadratisch auf. Unter einer Skalentransformation  erhält man somit dieselbe Gleichung wenn  ist. Andererseits ist dadurch schnell erkennbar, dass das Analogon des 3. Keplerschen Gesetzes für geschlossene Bahnen in einem -Kraftfeld für beliebiges k gerade  lautet.
+
+
+== Siehe auch ==
+Hohmann-Transfer, die Verbindungsbahn zweier Keplerbahnen der Raumfahrt
+
+
+== Literatur ==
+ Johannes Kepler: Astronomia nova aitiologetos seu Physica coelestis. In: Max Caspar (Hrsg.): Gesammelte Werke. Band 3, C. H. Beck, München 1938.
+ Johannes Kepler: Harmonices Mundi libri V. In: Max Caspar (Hrsg.): Gesammelte Werke. Band 6, C. H. Beck, München 1940/1990, ISBN 3-406-01648-0.
+ Andreas Guthmann: Einführung in die Himmelsmechanik und Ephemeridenrechnung. BI-Wiss.-Verlag, Mannheim 1994, ISBN 3-411-17051-4.
+
+
+== Weblinks ==
+
+Walter Fendt: 1. Keplersches Gesetz, 2. Keplersches Gesetz (Java-Applets)
+Keplersche Gesetze (LEIFI)
+Joachim Hoffmüller: 2. Keplersches Gesetz (Flächensatz): Beweis mit dynamischen Arbeitsblättern selbst nachvollziehen Geometrisch-anschaulicher Beweis nach Newton, ohne höhere Mathematik (Java-Applet)
+
+
+== Einzelnachweise ==
+↑ Guthmann, §II.2.37 Lösung der Clairotschen Gleichung: Der Fall e<1. S. 81 f
+↑ Guthmann, §II.1 Ein- und Zweikörperproblem. Einführung, S. 64 f; und 30. Die Clairotsche Gleichung, S. 71 ff
+↑ Guthmann, §II.1.26 Der Flächensatz. S. 66 f
+↑ Guthmann, §II.5 Bahndynamik des Keplerproblems, S. 108 ff
+↑ David L. Goodstein, Judith R. Goodstein: Feynmans verschollene Vorlesung: Die Bewegung der Planeten um die Sonne. Piper Verlag GmbH, München 1998
+↑ J. Wess: Theoretische Mechanik, Springer. Kapitel über das Zweikörperproblem.

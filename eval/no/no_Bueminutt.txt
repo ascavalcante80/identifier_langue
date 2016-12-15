@@ -1,0 +1,6 @@
+lige desimaler. Grader angitt med tre desimaler gir dårligere nøyaktighet (ca. 111 m) enn grader, minutter og sekunder (ca. 31 m), mens grader med fire desimaler gir bedre (ca. 11 m). I navigasjon brukes ofte også grader og desimalminutter.
+
+
+== Eksterne lenker ==
+Jorden i følge WGS 84.
+Grad-konverteringer (eng.).

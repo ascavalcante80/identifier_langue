@@ -1,0 +1,72 @@
+Tid er et abstrakt begreb, som i den lineære tidsforståelse oftest bruges om hændelsers konstante bevægelse fra fortid til nutid og fremtid. Tiden måles i år, måneder, uger, dage, timer, minutter og sekunder. Tiden kan også være intervallet mellem to hændelser. SI-enheden for tid er sekund.
+Opfattelsen af tid er imidlertid helt afhængig af den kulturelle og filosofiske baggrund. I nyere fysik har man bevæget sig bort fra den forståelsen af tid som et absolut lineært begreb, og i relativitetsteorien er samtidighed et relativt begreb.
+Man kan sige, at en begivenhed sker efter en anden, og man kan måle afstanden mellem de to begivenheder. Den udmålte afstand svarer til mængden af tid, der ligger mellem de to begivenheder. Hvis man vil definere begrebet efter, kan man bygge på antagelsen af kausalitet. Det bliver fastslået i én af fysikkens vigtigste love, termodynamikkens 2. lov, at et lukket systems totale entropi vil forøges med tiden, og sådan at den nærmer sig en maksimumværdi. I modsætning til alle andre fysiske love er denne helt asymmetrisk, og det forbinder termodynamikken med en tidspil.
+Den standardiserede, lineære tidsopfattelse har været en afgørende forudsætning for de videnskabelige opdagelser siden middelalderen. Det er bl.a. sket gennem arbejdet med at forbedre og standardisere kalendere og ure.
+
+
+== Etymologi ==
+Ordet tid stammer fra indoeuropæisk *di-t- = "afsnit". På fællesgermansk blev det til *tiði = "tidsafsnit". På oldnordisk hed ordet tið.
+Vores tidsbegreb bygger altså på et ord, der oprindelig betød opdeling. Dette stiller os i modsætning til andre folkeslag, f.eks. de ute-aztekisk-talende Hopi'er, der opfatter tiden som en glidende, ubrudt bevægelse.
+Der er dog ikke nødvendigvis belæg for at tolke vore forfædres tidsopfattelse ud fra den sproghistoriske baggrund alene, da ordet jo netop har udviklet sig mod en bredere betydning – oprindelig betød det kun et tidsrum, men i dag bruges "tid" i meget bred forstand. De forskellige bevidsthedsmæssige og åndelige strømninger gennem historien kan have præget og forandret tidsopfattelsen og dermed ordets betydning, f.eks. har kristendommen en ganske anden tidsopfattelse end den forudgående hedenske religion.
+
+
+== Måling af tid ==
+
+Standardenheden for tidsmåling er SI-enheden sekund. Ud fra den fastlægges de store enheder som minuttet, timen, døgnet, ugen, måneden, året og århundredet. Det betyder, at man stadig bruger sumerernes 60-talsystem til tidsangivelse og ikke decimalsystemet. Først med enheden "år" kan den moderne tællemåde bruges. Tilsvarende er der intet fastlagt forhold mellem sekund, minut, time, døgn og uge på den ene side og måned og år på den anden. Minuttet, timen og døgnet er officielle "ikke-SI enheder, der accepteres til anvendelse sammen med det internationale system". (Se denne brochure om tidsangivelser i pdf-format)
+Tid kan måles ligesom andre fysiske dimensioner. Apparater til tidsmåling hedder ure. Meget præcise ure kaldes ofte kronometre. De allermest præcise ure er atomure. Der findes adskillige tidsskalaer: Universaltid, International Atomtid (TAI), der er basis for andre tidsskalaer, Koordineret Universaltid (UTC), der er basis for civil tid, Centraleuropæisk tid (CET), der er standardtid i Midteuropa osv.
+Desuden har mennesker opfundet kalendere til registrering af døgn, uger, måneder og år. Babylonerne antog, at året havde 360 dage. Det viste sig hurtigt at være unøjagtigt og med den julianske kalender og indførelsen af skudår hvert 4. år, kom kalenderåret i meget bedre overensstemmelse med solåret. Heller ikke det er dog nøjagtigt nok, og kalenderen kom langsomt ud af trit med virkeligheden, selv om der gik århundreder, før det blev rigtigt mærkbart. Til sidst måtte der gøres noget, og man reviderede skudårssystemet, sådan at der kun skal være skudår i hele århundreder, hvis deres årstal er deleligt med 400. Den nye kalender blev opkaldt efter paven og kom til at hedde den gregorianske kalender.
+I 1998 forsøgte den schweiziske urproducent Swatch at indføre en ny måleindhed for tid hvor man i stedet for timer og minutter delte døgnet ind beats, som havde en længde på 1 minut og 26,4 sekunder. Tidsenheden kaldte de Swatch Internet Time, og den tog udgangspunkt i virksomhedens hovedkvarter i Biel, Schweiz og havde ingen tidszoner.
+
+
+== Tid i ingeniørkunst og anvendt fysik ==
+I fysikken defineres tid som afstanden mellem begivenheder ud ad den fjerde akse i rumtidsystemet. Den specielle relativitetsteori viste os, at tid kun kan forstås som en koordinat i rumtid, som er en 4D-kombination af rum og tid. Afstanden mellem begivenheder afhænger da af iagttagernes relative hastighed i forhold til begivenhederne og hinanden. Den generelle relativitetsteori ændrede tidsopfattelsen yderligere ved at indføre ideen om den krumme rumtid. En vigtig tidsenhed i den teoretiske fysik er "Plancktid". (Se Planck enheder.)
+
+
+== Tid i filosofi og teoretisk fysik ==
+Væsentlige spørgsmål i den filosofiske beskæftigelse med emnet “tid”: Er tiden absolut eller bare relativ? Er det umuligt at forestille sig tid uden ændringer eller har tanken mere for sig? "Går" tiden, eller er begreberne fortid, nutid og fremtid fuldstændigt subjektive beskrivelser af vore sansers bedrag?
+Zenons paradoks ændrede fuldstændig oldtidens opfattelse af tid, og det gav en begrundelse for at udvikle matematikken. Et diskussionsemne for Newton og Leibniz bestod i spørgsmålet om absolut tid: Newton mente, at tiden er en beholder for begivenheder ligesom rummet, mens Leibniz opfattede tiden i modsætning til rummet som et begrebsapparat til beskrivelse af forhold mellem begivenheder. McTaggart mente – ret excentrisk og på baggrund af en meget svag argumentation – at tid og forandring er illusioner. Se også Jorge Luis Borges: "A Refutation of Time".
+Immanuel Kant betragtede tid og rum som transcendentale erkendelsesbetingelser, der går forud for enhver erkendelse, men hvis eksistens vi ikke kan udtale os om.
+Einsteins relativitetsteori forbandt tid og rum til én samlet rumtid på en måde, som også fik filosofiske konsekvenser. Den gjorde nemlig begrebet bloktid mere sandsynligt og påvirkede derved også begreberne om fri vilje og kausalitet.
+
+
+=== Relativitetsteori ===
+Tidsdimensionen har en række af egenskaber, som den deler med rumdimensionen, hvad der især stod klart efter opstillingen af relativitetsteorien. Tiden begynder med Big Bang samtidig med den begyndende udvidelse af rummet.
+Relativitetsteorien siger, at der ikke findes absolut tid. Genstande, der bevæger sig med forskellig hastighed, har hver deres opfattelse af tiden, som man kalder egentid, og som er uafhængig af en tænkt, absolut hastighed.
+I den sammenhæng er tyngdekraften snævert forbundet med begrebet tid. Præcise atomure viser, at et tyngdefelt gør tiden mere langsom.
+Relativitetsteori binder fortiden, nu og fremtiden sammen når individer forskellige steder i universet bevæger sig i forhold til hinanden.
+
+
+=== Kvantemekanik ===
+I dag går man som regel ud fra, at tiden forløber kontinuerligt. Hvis det er tilfældet, kan man opdele ethvert tidsinterval i mindre stykker.
+Men i visse generelle, fysiske teorier (f.eks. Kvantegravitation, den store teori om alt, M-teorien har man overvejet, om der findes en såkaldt Plancktid, som er så kort, at man ikke kan finde nye begivenheder ved at opdele den.
+Hvis det er tilfældet, går tiden i (uendeligt korte), adskilte spring.
+
+
+=== Tiden er irreversibel ===
+Mens man kan bevæge sig gennem rummet i enhver retning, så tillader tiden kun bevægelse i én retning, nemlig fra fortiden via nutiden ind i fremtiden. Man formoder, at der findes en dybere sammenhæng mellem tidens irreversibilitet og termodynamikkens 2. lov, som siger, at entropien tiltager uafbrudt i et lukket system. Se også: Tidspil.
+
+
+== Astronomi ==
+I astronomien er måling af tid én af de ældste discipliner. Der skelner man mellem soltid og stjernetid (som adskiller sig fra hinanden med et døgn pr. år). Soltiden svarer ikke nøjagtigt til SI-sekundet, så derfor har man været nødt til at indføre skudsekunder. Disse problemer har man søgt at løse ved indførelse af forskellige tidsskalaer:
+TCB er solsystemets egentid målt ud fra dets centrum af dets tyngdefelt.
+TCG angiver egentid ud fra Jordens centrum.
+
+
+== I litteraturen ==
+
+I litteraturen og særligt i science fiction behandler man afvigelser fra tidens normale forløb. Ligesom i fysikken er tiden her afstand mellem begivenheder, men det er en subjektivt oplevet afstand, og tiden bliver ikke behandlet som noget, der strømmer kontinuerligt i én retning. Det klassiske og mest kendte værk er H.G. Wells, Tidsmaskinen, hvor man kan manipulere tidens ensrettede strøm ved hjælp af en ikke nærmere beskrevet teknik. Litteratur af denne type tematiserer dermed kausaliteten.
+
+
+== Hverdagssprog ==
+Man udtrykker ubevidst mange af tidsbegrebets filosofiske konsekvenser i hverdagssproget.
+(ikke) have tid
+tiden forgår (ikke)
+(ikke)tage sig tid
+vinde / tabe tid
+slå tiden ihjel
+Disse formuleringer udtrykker den subjektive tidsfornemmelse og gør brug af henvisninger til de begivenheder, der bestemmer tidens strøm. Samtidig giver man i dagligdags sprogbrug udtryk for en vurdering af begivenheder, tilstande og ens egen person. Tiden bliver til et mellemmenneskeligt referencesystem ved indførelse af ure. Som et vedtaget neutralt referencegrundlag får tid samme karakter som penge.
+
+
+== Tidsopfattelse ==
+
+Man kan have den opfattelse, at tiden går hurtigt ("tid

@@ -1,0 +1,93 @@
+
+Dentro de los átomos pueden existir un núcleo atómico y uno o más electrones. Los electrones son muy importantes para las propiedades y las reacciones químicas. Dentro del núcleo se encuentran los neutrones y los protones. Los electrones se encuentran alrededor del núcleo. También se dice que el átomo es la unidad básica de la materia con características propias. Está formado por un núcleo, donde se encuentran protones.
+
+
+=== De los átomos a las moléculas ===
+Los enlaces son las uniones entre átomos para formar moléculas. Siempre que existe una molécula es porque ésta es más estable que los átomos que la forman por separado. A la diferencia de energía entre estos dos estados se le denomina energía de enlace.
+Generalmente los átomos se combinan en proporciones fijas para generar moléculas. Por ejemplo, dos átomos de hidrógeno se combinan con uno de oxígeno para dar una molécula de agua. Esta proporción fija se conoce como estequiometría.
+
+
+=== Orbitales ===
+
+Para una descripción y comprensión detalladas de las reacciones químicas y de las propiedades físicas de las diferentes sustancias, es muy útil su descripción a través de orbitales, con ayuda de la química cuántica.
+Un orbital atómico es una función matemática que describe la disposición de uno o dos electrones en un átomo. Un orbital molecular es el análogo en las moléculas.
+En la teoría del orbital molecular la formación del enlace covalente se debe a una combinación matemática de orbitales atómicos (funciones de onda) que forman orbitales moleculares, llamados así por que pertenecen a toda la molécula y no a un átomo individual. Así como un orbital atómico (sea híbrido o no) describe una región del espacio que rodea a un átomo donde es probable que se encuentre un electrón, un orbital molecular describe también una región del espacio en una molécula donde es más factible que se hallen los electrones.
+Al igual que un orbital atómico, un orbital molecular tiene un tamaño, una forma y una energía específicos. Por ejemplo, en la molécula de hidrógeno molecular se combinan dos orbitales atómicos, ocupado cada uno por un electrón. Hay dos formas en que puede presentarse la combinación de orbitales: aditiva y substractiva. La combinación aditiva produce la formación de un orbital molecular que tiene menor energía y que presenta una forma casi ovalada, mientras que la combinación substractiva conduce a la formación de un orbital molecular con mayor energía y que genera un nodo entre los núcleos.
+
+
+=== De los orbitales a las sustancias ===
+Los orbitales son funciones matemáticas para describir procesos físicos: un orbital únicamente existe en el sentido matemático, como pueden existir una suma, una parábola o una raíz cuadrada. Los átomos y las moléculas son también idealizaciones y simplificaciones: un átomo y una molécula solo existen en el vacío, y en sentido estricto una molécula solo se descompone en átomos si se rompen todos sus enlaces.
+En el "mundo real" únicamente existen los materiales y las sustancias. Si se confunden los objetos reales con los modelos teóricos que se usan para describirlos, es fácil caer en falacias lógicas.
+
+
+=== Disoluciones ===
+
+En agua, y en otros disolventes (como la acetona o el alcohol), es posible disolver sustancias, de forma que quedan disgregadas en las moléculas o en los iones que las componen (las disoluciones son transparentes). Cuando se supera cierto límite, llamado solubilidad, la sustancia ya no se disuelve, y queda, bien como precipitado en el fondo del recipiente, bien como suspensión, flotando en pequeñas partículas (las suspensiones son opacas o traslúcidas).
+Se denomina concentración a la medida de la cantidad de soluto por unidad de cantidad de disolvente.
+
+
+=== Medida de la concentración ===
+
+La concentración de una disolución se puede expresar de diferentes formas, en función de la unidad empleada para determinar las cantidades de soluto y disolvente. Las más usuales son:
+g/l (gramos por litro) razón soluto/disolvente o soluto/disolución, dependiendo de la convención
+% p/p (concentración porcentual en peso) razón soluto/disolución
+% V/V (concentración porcentual en volumen) razón soluto/disolución
+M (molaridad) razón soluto/disolución
+N (normalidad) razón soluto/disolución
+m (molalidad) razón soluto/disolvente
+x (fracción molar)
+ppm (partes por millón) razón soluto/disolución
+
+
+=== Acidez ===
+
+El pH es una escala logarítmica para describir la acidez de una disolución acuosa. Los ácidos, como por ejemplo el zumo de limón y el vinagre, tienen un pH bajo (inferior a 7). Las bases, como la sosa o el bicarbonato de sodio, tienen un pH alto (superior a 7).
+El pH se calcula mediante la siguiente ecuación:
+
+donde  es la actividad de iones hidrógeno en la solución, la que en soluciones diluidas es numéricamente igual a la molaridad de iones hidrógeno  que cede el ácido a la solución.
+una solución neutral (agua ultra pura) tiene un pH de 7, lo que implica una concentración de iones hidrógeno de 10-7 M;
+una solución ácida (por ejemplo, de ácido sulfúrico)tiene un pH < 7, es decir, la concentración de iones hidrógeno es mayor que 10-7 M;
+una solución básica (por ejemplo, de hidróxido de potasio) tiene un pH > 7, o sea que la concentración de iones hidrógeno es menor que 10-7 M.
+
+
+=== Formulación y nomenclatura ===
+La IUPAC, un organismo internacional, mantiene unas reglas para la formulación y nomenclatura química. De esta forma, es posible referirse a los compuestos químicos de forma sistemática y sin equívocos.
+Mediante el uso de fórmulas químicas es posible también expresar de forma sistemática las reacciones químicas, en forma de ecuación química.
+Por ejemplo:
+
+
+== Véase también ==
+ Portal:Química. Contenido relacionado con Química.
+Absorción
+Biología
+Catalizador
+Dinámica molecular
+Farmacia
+Filosofía de la química
+Física
+IUPAC
+Lista de compuestos
+Matemáticas
+Propiedades periódicas
+Química (etimología)
+Sustancia química
+Tabla periódica de los elementos
+
+
+== Referencias ==
+
+-Atkins, Peter; de Paula, Julio (2009) [1992]. Elements of Physical Chemistry (5th ed.). New York: Oxford University Press. ISBN 978-0-19-922672-6.
+-Burrows, Andrew; Holman, John; Parsons, Andrew; Pilling, Gwen; Price, Gareth (2009). Chemistry3. Italy: Oxford University Press. ISBN 978-0-19-927789-6.
+-Housecroft, Catherine E.; Sharpe, Alan G. (2008) [2001]. Inorganic Chemistry (3rd ed.). Harlow, Essex: Pearson Education. ISBN 978-0-13-175553-6.
+
+
+== Enlaces externos ==
+ Wikcionario tiene definiciones y otra información sobre química.Wikcionario
+ Wikiquote alberga frases célebres de o sobre Química. Wikiquote
+ Wikimedia Commons alberga contenido multimedia sobre QuímicaCommons.
+Wikilibros
+ Wikilibros alberga un libro o manual sobre Química.
+ Wikinoticias tiene noticias relacionadas con Química.Wikinoticias
+ Wikiversidad alberga proyectos de aprendizaje sobre Química.Wikiversidad
+Instituto Catalán de Investigación Química (ICIQ)
+Libros antiguos de ciencia

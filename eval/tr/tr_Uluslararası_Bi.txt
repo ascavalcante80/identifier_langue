@@ -1,0 +1,22 @@
+e Japonya'da yaygındır ama bu halen herhangi bir standartlar kuruluşu tarafından resmen desteklenmemiştir. Daha fazla bilgi için litre maddesine bakınız.
+Birimler kelime olarak yazıldıkları zaman eğer kullanılan dil çoğul ekini gerektiriyorsa (İngilizce, Fransızcada -s eki gibi) çoğul eki alırlar ama sembol olarak yazıldıkları zaman çoğul eki eklenmez.
+Sembollere, eğer cümle sonunda değillerse, nokta konmaz (örneğin, "kg." değil "kg").
+Tipografik olarak sembollerin eğri değil dik yazılması tercih edilmelidir, eğri yazılan matematik değişkenlerden (örneğin, kütle için m, uzunluk için l gibi) ayırt edilmelerini sağlamak için .
+Sayı ile sembol arasında bir boşluk konmalıdır (örneğin "2,21 kg" veya "22 °C"). Bu kuralın istisnaları düzlemsel açılar için kullanılan derece, dakika ve saniye sembolleridir (°, ′ ve ″), bunlar sayıdan hemen sonra konur.
+Ondalık haneleri üçlü gruplar halinde gruplandırmak için boşluklar kullanılabilir (başka yazım sistemlerinde nokta veya virgül kullanılmasından, örneğin 1,000,000 veya 1.000.000, farklı olarak). Basımda bu amaç için kullanılan boşluk, kelimeleri ayıran boşluktan daha kısadır.
+2003'te toplanan Ağırlık ve Ölçümler Genel Konferansı'nın (CGPM) 10. kararı, ondalık ayırıcısının ya nokta ya da virgül olabileceği şeklindedir. Pratikte İngilizce'de nokta kullanılır, çoğu Avrupa dilinde virgül kullanılır.
+Birden fazla birimden oluşmuş semboller birbirlerine ya bir orta nokta (·) ya da bir boşlukla bağlanır (örneğin, N m veya N·m).
+Bir birimin başka bir birime bölünmesinden oluşan semboller ya bir bölme işareti (/) ile bağlanır ya da negatif üsle gösterilir. Örneğin "metre bölü saniye", "m/s" veya "m s-1", "m·s-1" veya  olarak yazılır. Eğer sonucun ne anlama geldiği belirsiz ise bölü işareti kullanılmamalıdır, örneğin "kg/m·s2" yerine "kg·m-1·s-2" tercih edilmelidir.
+
+
+== Kaynakça ==
+
+İngilizce Wikipedia'da Uluslararası Ölçüm Sistemi maddesi
+
+
+== Dış bağlantılar ==
+Ulusal Metroloji Enstitüsü
+The International System of Units
+Metroloji Okulu / Metrenin Geçmişinde Küçük Bir Gezinti
+Metroloji Okulu / Pera müzesi sergisi
+T.C. Sanayi ve Ticaret Bakanlığı:Birimler Yönetmeliği

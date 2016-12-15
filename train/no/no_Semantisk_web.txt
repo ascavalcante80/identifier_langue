@@ -1,0 +1,54 @@
+Semantisk web (oversettelse fra engelske Semantic web) er et begrep skapt av World Wide Web Consortiums (W3C) direktør, Tim Berners-Lee, for å beskrive teknologier og metoder for å få maskiner til å forstå meningen - eller semantikken - bak informasjonen som finnes på internett.
+I følge den originale visjonen om en semantiske web vil muligheten for en maskin å forstå meningen bak innholdet tillate automatiske intelligente agenter å få tilgang til data på internett på en mer intelligent måte. Agentene vil være i stand til å utføre instruksjoner automatisk og finne relatert informasjon på vegne av brukeren.
+Det finnes ingen fast definisjon på hva semantisk web er i dag. Begrepet blir for det meste brukt for å beskrive forskjellige metoder og teknologier som har blitt foreslått av W3C. Teknologiene det er snakk om inkluderer Resource Description Framework (RDF) – en familie av spesifikasjoner fra W3C, forskjellige dataformater (som RDF/XML, N3, Turtle og lignende), og notasjoner eller betegnelser som RDF Schema (RDFS) og Web Ontology Language (OWL).
+
+
+== Historie ==
+Når Tim Berners-Lee la frem idéen om World Wide Web i Mars 1989 var tanken at brukere skulle få fri tilgang til informasjon gjennom et nett av noder som var lenket sammen. Han kalte denne idéen og prosjektet som kom fra det HyperText. I det opprinnelige forslaget var det interaksjon mellom brukere og informasjon som stod i sentrum. Etter den beskrivelsen var aldri internett, eller World Wide Web, beregnet for å bli lest av maskiner, men av personer - brukere.
+Det semantiske web var en visjon av Berners-Lee som ble først nevnt i boken Weaving the web av nevnte person.
+
+
+=== Eksempel på en semantisk web ===
+I 2001 ga Tim Berners-Lee, sammen med James Hendler og Ora Lassila (en av skribentene bak RDF-spesifikasjonene) ut den første vitenskapelige artikkelen om den semantiske web i Scientific American. Artikkelen begynner ved å gi et illustrativt eksempel på hvordan skribentene ser for seg en semantisk web.
+Eksempelet viser hvordan Lucy and Pete, med hver sin intelligent agent, klarer nærmest automatisk å hente informasjon fra flere kilder, sortere, presentere og dele til hverandre. Ovennevnte eksempel er i dagens web ikke mulig, for data er beskrevet og presentert for å være leselig for mennesker. Maskiner vil ikke klare å vite hva som er en person anser som viktig, eller hva som er hjem.
+
+
+== Semantisk oppmerking av HTML ==
+HTML har ingen innebygget funksjonalitet for å definere betydningen av innholdet i dokumentet. Man kan til dels beskrive metadata om dokumentet og innholdet i dokumentet gjennom <meta> taggen; man kan benytte attributter for å fortelle nettlesere og søkemotorer visse ting om dokumentet, slik som tegnsett, forfatter, beskrivelse av dokument, nøkkelord, osv. Det er imidlertid begrenset hva dette tillater, i tillegg til at hverken beskrivelse av dokument eller nøkkelord faktisk gir innholdet noen betydning, annet enn å knytte det til noen tilfeldige nøkkelord og en tekst-strenge. For eksempel, hvis følgende nøkkelord er spesifisert, "Doktor,Hartman,klinikk,fysisk,terapi", så vil ikke en maskin forstå at Doktor Hartman jobber i en klinikk for fysisk terapi. Den vil knytte ordene til dokumentet, men ikke ha noen formening om hva en doktor er, eller hvilken relasjon det er mellom nøkkelordene.
+Denne typen betydning kan man oppnå ved bruk av semantisk oppmerking. Det finnes fire formater for å merke opp HTML-dokumenter; Mikroformater, RDFa, Mikrodata, og JSON-LD. De benytter seg av eksterne kontrollerte vokabularer, som definerer konsepter og begreper innenfor spesifike domener. Det finnes mange ulike vokabularer og hele samlinger med vokabularer, som definerer mange forskjellige domener. Dublin Core, FOAF, Schema.org er noen eksempler på dette.
+
+
+=== Mikroformater ===
+Mikroformater bruker eksisterende XHTML/HTML-koder for å legge til semantiske opplysninger som GPS-koordinater, visittkort, lyd- og videofiler og kalendernotater. Til sammenligning med andre semantiske oppmerkinger er mikroformater hovedsakelig beregnet for å være enkelt leselig for mennesker, slik at maskiner kommer i andre rekke.
+I formater mer typiske semantiske formater som RDF, OWL og XML, er spesifikt designet for publisering av data. Sammen med (X)HTML skal disse enten være en supplement til World Wide Web, eller en erstatter. Berners-Lee kaller dette nettverket Giant Global Graph (GGG), men spesifiserer i et dokument at en semantisk web ikke er tenkt på som en erstatter av World Wide Web, men heller en samarbeidspartner.
+
+
+=== Eksempel: HTML meta-tagger vs. semantisk oppmerking med RDFa ===
+For å vise forskjellene mellom HTML og semantisk oppmerking ved bruk av RDFa, vurder følgende eksempler som skal forklare at en artikkel er skrevet av Bob Dylan og skal forklare at han kjenner Neil Young og Joan Baez
+
+I det ovennevnte eksempelet kan en agent lese hvem som er skribenten, en beskrivelse av nettsiden og noen nøkkelord til å binde til nettsiden. I eksempelet nedenfor har vokabularene Dublin Core og FOAF blitt brukt for å forklare til agenter hva som er meningen bak innholdet innenfor hver tagg.
+
+I det eksempelet kan en datamaskin lese at skribenten av dokumentet er Bob Dylan og at Neil Young og Joan Baez er to personer og har to forskjellige navn. I FOAF-vokabularet kan man også spesifisere mer bestemt fornavn, etternavn og lignende. I dette eksempelet har vi prøvd å holde det så enkelt som mulig.
+
+
+== Komponenter ==
+En semantisk web har mange komponenter, alle i forskjellige typer og formater, som kan gjøre en forståelse av en semantisk web til en utfordringer for de som blir introdusert til det.
+XML angir en elementær syntakse for innholdsstruktur innenfor et dokument, men i seg selv angir ingen semantiske betegnelser til meningen av elementene i dokumentet.
+XML Skjema er et språk for å bidra til å restriktere strukturen og innholdet i et XML-dokument.
+RDF er et simpelt språk for å uttrykke datamodeller som referanser til objekter (kalt ressurser) og deres relasjoner. En RDF-basert modell kan bli presentert i flere formater, bl.a. XML.
+RDF Skjema utvider RDF et vokabular for å beskrive klasser og egenskaper for RDF-baserte ressurser.
+OWL gir i tillegg enda større vokabular for å beskrive egenskaper og klasser. Blant annet relasjonene mellom klasser, større muligheter for beskrivelse av egenskaper, symmetri og nummere klasser.
+SPARQL er en protokoll og et språk beregnet på å gjøre operasjoner som å stille spørringer mot semantiske datakilder.
+
+
+== Formål ==
+For å gjøre nettet mer brukbart, automatisert og tilkoblet gjennom sine ressurser har det blitt lagt opp til flere måter å omvende tjenester og ikke-semantiske ressurser til semantiske formater. Flere tjenere sitter allerede på store mengder data i flere formater. Av den grunn har det blitt produsert flere applikasjoner som konverterer andre dataformater til RDF-formater.
+Dokumenter kan bli markert med semantiske tagger (pr. dags dato er det kun <meta>-taggene, beskrevet ovenfor, som er standardisert i HTML) for å beskrive de forskjellige egenskapene til dataen presentert i dokumentet. For eksempel kan man markere opp ting som hvem som har skapt dokumentet ved å ha en "skaper" eller "skribent"-tagg. Når maskiner leser denne vil de forstå at skaperen av dokumentet er personen, eller personene innenfor nevnte tagger. Det finnes et bredt utvalg av slike vokabular som kan definere egenskaper på en hel rekke ting. Alt kan bli definert gjennom bruken av URIer, slik at en semantisk web kan skille mellom (f.eks.) plasser, mennesker, dyr og mat.
+Åpne ontologier gir skribenter av et dokument en indeks over hvilke klasser kan bli tilegnet forskjellige egenskaper for å være leselig for agenter. Sett at man har en skribent som skriver et dokument som omhandler en forfatter og boken forfatteren har skrevet. For at en semantisk web og dens agenter skal klare å forstå forskjellen på disse to skribentene eller forfatterene lages det individuelle ontologier. Èn kan for eksempel være skribentForDokument hvor den andre kan være forfatterAvBok. Når en agent leser de to klassene vil den forstå at en skribent og en forfatter (som regel kun ett ord i HTML, author) ikke er den samme.
+
+
+== Utfordringer ==
+Det er mange lag med hindringer som man må beherske for å få til en fullstendig semantisk web. Internett har rundt 24 milliarder sider. Terminologier som SNOMED CT inneholder over 370 000 navn på forskjellige klasser og nåværende teknologi har enda ikke vært i stand til å skille ut duplikater i semantiske betydninger.
+Enkelte ord i språket er veldig vage og upresise. Ung og høy er et eksempelet på dette. Dette gjør at spørringer mot en semantisk datakilde gjør det veldig vanskelig å få korrekt informasjon siden konseptene "ung" og "høy" har variable betydninger hos folk. Som regel bli reguleringsprinsippet "fuzzy logic", eller uskarp logikk, anvendt for å avgjør hva det er brukeren faktisk spør om.
+I motsatt retning har man også de veldig presise og nøyaktige spørringene som gjør at man ofte må anvende seg av probabilitetsregning for å finne ut de spesifikke resultatene man vil ha. Et eksempel på en situasjon som kan oppstå er ved å se på en pasient som har blitt presentert et sett av symptomer. Det kan finnes flere diagnoser på akkurat de symptomene, men en agent med en algoritme for probabilitet vil kunne regne ut hvilken diagnose er mest sannsynlig basert på symptomene angitt.
+Inkonsistens er også et d

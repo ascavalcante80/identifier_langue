@@ -1,0 +1,30 @@
+El meridiano de Greenwich /ˈɡrɛnɪtʃ/, también conocido como meridiano cero, meridiano base o primer meridiano, es el meridiano a partir del cual se miden las longitudes. Se corresponde con la circunferencia imaginaria que une los polos y recibe su nombre por cruzar por la localidad inglesa de Greenwich, en concreto por su antiguo observatorio astronómico.
+El meridiano fue adoptado como referencia en una conferencia internacional celebrada en 1884 en Washington D. C., auspiciada por el presidente de los Estados Unidos, a la que asistieron delegados de 25 países. En dicha conferencia se adoptaron los siguientes acuerdos:
+Es deseable adoptar un único meridiano de referencia que reemplace los numerosos existentes.
+El meridiano que atraviesa el Real Observatorio de Greenwich será el meridiano inicial.
+Las longitudes alrededor del globo al este y oeste se tomarán hasta los 180° desde el meridiano inicial.
+Todos los países adoptarán el día universal.
+El día universal comienza a medianoche (hora solar) en Greenwich y tendrá una duración de 24 horas (véase línea internacional de cambio de fecha).
+Los días náuticos y astronómicos comenzarán también a medianoche.
+Se promoverán todos los estudios técnicos para la regulación y difusión de la aplicación del Sistema Métrico Decimal a la división del tiempo y el espacio.
+La segunda resolución se aprobó con la oposición de Santo Domingo (actualmente República Dominicana) y las abstenciones de Francia (cuyos mapas siguieron utilizando el meridiano de París durante algunas décadas más) y Brasil.
+Un huso horario se extiende sobre 15 grados de longitud (porque 360 grados corresponden a 24 horas y 360/24 = 15).
+La línea opuesta al meridiano de Greenwich, es decir, la semicircunferencia que completa una vuelta al Mundo, corresponde a la línea internacional de cambio de fecha, que atraviesa el océano Pacífico. Por razones prácticas –no tener varios husos horarios en algunos archipiélagos– se ha adaptado esta línea a la geografía (ya no es recta en la superficie del globo), al igual que otras que limitan husos horarios, por lo que no coinciden con los meridianos.
+Antiguamente la mayoría de las marinas de la Europa continental usaban el meridiano de El Hierro, que pasaba por la Punta de la Orchilla, al oeste de esta isla de las Canarias. Sin embargo, existieron muchas otras referencias.
+
+
+== Geografía ==
+
+El meridiano de Greenwich, también conocido como meridiano 0°, pasa por los siguientes países, ordenados de norte a sur:
+Reino Unido
+Francia
+España
+Argelia
+Malí
+Burkina Faso
+Ghana
+Togo
+
+
+== ¿Por qué un dispositivo GPS situado sobre el Meridiano de Greenwich, no indica la longitud 0º00'00"? ==
+Existe una diferencia angular de 5.3 segundos entre el meridiano de Greenwich y el meridiano de referencia utilizado por el sistema GPS WGS84 (denominado IRM). Es consecuencia del procedimiento utilizado para la puesta en marcha en 1958 del primer Sistema de Posicionamiento Global por satélite, cuando se usaron como base de partida del nuevo sistema geodésico las coordenadas en el sistema NAD27 de la estación de observación de satélites situada en las inmediaciones de Baltimore. La mayor precisión del nuevo método por satélite, se tradujo en un desplazamiento del Meridiano 0º del Sistema GPS (utilizando la longitud de Baltimore como r

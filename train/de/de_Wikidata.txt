@@ -1,0 +1,45 @@
+Wikidata ist der Name einer frei bearbeitbaren Datenbank, die unter anderem das Ziel hat, Wikipedia zu unterstützen. Das Projekt wurde von Wikimedia Deutschland gestartet und stellt als gemeinsame Quelle bestimmte Datentypen für Wikimedia-Projekte bereit, zum Beispiel Geburtsdaten oder sonstige allgemeingültige Daten, die in allen Artikeln der Wikimedia-Projekte verwendet werden können.
+Die Datensätze in Wikidata stehen unter der Creative-Commons-Lizenz CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. Dadurch können die Daten ohne Angabe eines Urhebers frei verwendet werden. Alle anderen Namensräume stehen unter der Creative-Commons-Attribution/Share-Alike-Lizenz (CC BY-SA 3.0).
+
+
+== Aufbau ==
+
+Wikidata ist eine Sammlung von Objekten (bezeichnet mit dem Präfix Q, z. B. Berlin (Q64)). Die Objekte wiederum bestehen aus beliebig vielen Aussagen und Behauptungen (bezeichnet mit dem Präfix P für englisch property, z. B. Einwohnerzahl (P1082)). Diese Eigenschaften können mit Qualifikatoren (z. B. Zeitpunkt (P585)) weiter präzisiert werden. Durch Quellen belegte Behauptungen werden Aussagen genannt.
+
+
+== Historische Entwicklung ==
+Wikidata ist das erste neue Projekt der Wikimedia Foundation seit 2006. Das Projekt Wikidata wurde erstmals im September 2004 von Erik Möller vorgeschlagen. Magnus Manske implementierte kurz darauf einen ersten Prototyp, der die grundsätzliche Machbarkeit des Projekts demonstrierte. Die eigentliche Umsetzung begann schließlich im April 2012 und wurde durch Spenden von Paul Allens Allen Institute for Artificial Intelligence, der Gordon and Betty Moore Foundation und Google Inc. mit insgesamt 1,3 Millionen Euro finanziert. Die Finanzierung durch Spenden lief offiziell bis zum Frühjahr 2013; für den Zeitraum danach plante Wikimedia Deutschland daran, eine Anschlussfinanzierung zu finden.
+Am 15. Dezember 2012 wurde das einmillionste Datenobjekt eingetragen. Inzwischen gibt es mehr als 15 Millionen Objekte.
+Der Projektplan sah drei Phasen vor:
+Phase 1 begann am 30. Oktober 2012 mit dem offiziellen Start von Wikidata und seiner Freigabe für die Bearbeitung. Zunächst wurden die in den einzelnen Wikipedias lokal im Wikitext gespeicherten Sprachlinks in Wikidata zu Datenobjekten (englisch Items) zentral zusammengeführt und mit Bezeichnungen und Beschreibungen versehen. Bei diesen Aufgaben wurden vor allem automatische Computerskripte (auch bekannt als Bots) eingesetzt. Anfangs konnten nur Sprachlinks eingefügt werden. Seit dem 14. Januar 2013 sind diese in der ungarischsprachigen Wikipedia verfügbar, am 30. Januar 2013 wurden sie in der hebräischen und der italienischen und am 13. Februar in der englischsprachigen Wikipedia freigeschaltet. Seit 6. März 2013 sind sie in allen Sprachversionen verfügbar, darunter auch die deutschsprachige Wikipedia.
+Am 4. Februar 2013 ging die „Phase 2“ mit noch limitiertem Funktionsumfang in Betrieb. Hier wurden Aussagen zu Datenobjekten hinzugefügt (Beispiel Marie Curie: Geburtsort → Warschau). Diese Informationen wurden zum Teil automatisiert aus Wikipedia-Infoboxen und -Kategorien übertragen. Ziel sei es, Infoboxen in den Wikipedia-Ausgaben mit Daten zentral aus Wikidata zu befüllen. Am 27. März 2013 wurde in den ersten elf Wikipedia-Sprachversionen die Unterstützung für Phase 2 aktiviert. Am 23. April zogen die restlichen Wikipedias nach.
+In Phase 3 soll es möglich werden, automatisiert Listen zu erstellen. Bisher werden Listen, wie zum Beispiel die Liste von Seehäfen, in jeder Wikipedia extra erstellt und gewartet. In Zukunft müssten dann nur noch einmal neue oder geänderte Informationen in Wikidata eingetragen werden. Auch innerhalb von Artikeln gibt es oft Listen (z. B. der Abschnitt Konsum im Artikel „Milch“).
+Weitere Funktionen sollen schrittweise hinzugefügt werden.
+
+
+== Sonstiges ==
+Im Jahr 2013 spendete IBM das Preisgeld des Feigenbaum-Preises 2013 für das Watson-Projekt an die Wikimedia Foundation und namentlich Wikidata, weil die Wikipedia einen großen Beitrag zum Erfolg des Projektes geleistet habe und Wikidata es sich zum Ziel gesetzt habe, Menschen wie Maschinen leichteren Zugang zu Wissen zu verschaffen.
+Ende 2014 gab Google bekannt, die eigene Faktendatenbank Freebase im Jahr 2015 zugunsten des Wikidata-Projektes zu schließen. Um Daten einfacher nach Wikidata übernehmen zu können, will Google bis zum März 2015 ein Importtool bereitstellen.
+In der Anfangszeit von Wikidata wurde kritisiert, dass eine Lizenz ohne Copyleft verwendet wird.
+
+
+== Literatur ==
+Torsten Kleinz: Daten-Enzyklopädie. Das Wikidata-Projekt will die Inhalte der Wikipedia strukturieren. In: c't - Magazin für Computertechnik. Nr. 9/2013, S. 76–79.
+Denny Vrandečić, Markus Krötzsch: Wikidata: A Free Collaborative Knowledge Base. In: Communications of the ACM. ACM. 2014 (im Erscheinen, Preprint).
+Jakob Voß u. a. (2014): Normdaten in Wikidata. ISBN 978-1-291-85658-3
+
+
+== Weblinks ==
+
+Hauptseite von Wikidata
+Projektseite auf dem Meta-Wiki der Wikimedia Foundation
+Wikipedia:Wikidata − weitere Informationen in der Projektdokumentation der deutschsprachigen Wikipedia
+Pressestimmen zu Wikidata (auf Englisch)
+
+
+== Einzelnachweise ==
+↑ Lizenz
+↑ Wikidata:Glossar
+↑ Matthew Roth: The Wikipedia data revolution, Wikimedia Foundation.  30. März 2012. Abgerufen am 10. April 2012. 
+↑ Erik Möller: Die heimliche Medienrevolution – Wie Weblogs, Wikis und freie Software die Welt verändern. Heise Zeitschriften Verlag, Hannover 2005, S. 189 und 196ff.
+↑ Boonsri Dickinson: Paul Allen Invests in a Massive Project to Mak

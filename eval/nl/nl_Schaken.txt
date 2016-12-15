@@ -1,0 +1,68 @@
+ ====
+Weggeefschaak wordt gespeeld door twee spelers op één bord met één set stukken. Maar het doel van het spel is om al je stukken weg te geven. Bij deze variant van schaken is slaan verplicht en mag de koning verloren gaan. Bij deze variant kan ook de klok worden gebruikt.
+
+
+==== Chess960Bewerken ====
+Chess960 of Fischer random chess is een variant van het schaakspel welke door de FIDE officieel is toegestaan. In deze variant begint de partij met een afwijkende beginstelling.
+In de beginstelling staan de pionnen op de gewone plaats, dus op de 2e en 7e rij. De witte stukken op de eerste rij staan in een willekeurige volgorde, die in principe door het lot wordt bepaald. De zwarte stukken op de achtste rij staan in dezelfde volgorde tegenover dezelfde stukken van wit. Dus tegenover bijvoorbeeld een wit paard op f1 staat een zwart paard op f8. De enige beperking is dat de koning tussen de twee torens moet staan (eventueel met andere stukken ertussen) en dat de twee witte lopers op velden van een verschillende kleur moeten staan. Met deze uitgangspunten zijn 960 verschillende beginposities mogelijk, vandaar de naam, waarvan de klassiek beginstelling er één is. Er is ook een rokade gedefinieerd. Koning en toren gaan dan naar de velden waar ze in het klassieke schaakspel ook terecht zouden komen (Kc1-Td1 resp. Tf1-Kg1 voor wit).
+
+
+==== Can IBewerken ====
+Bij Can I kunnen de spelers alleen hun eigen stukken zien. Elke speler heeft dus een eigen schaakbord waarop alleen zijn eigen stukken staan. Een helper of arbiter (of computer) zorgt voor de communicatie, waarbij hij eventueel een derde bord kan gebruiken.
+Doet een speler een zet die niet mogelijk is, bijvoorbeeld doordat er een stuk van de tegenstander in de weg staat of doordat hij zichzelf schaak zet, dan zegt de arbiter dat hij een andere zet moet doen.
+Doet een speler een reglementaire zet, dan zegt de arbiter dat de andere speler aan zet is. Werd er een stuk geslagen, dan verwijdert de arbiter het geslagen stuk stilzwijgend van het bord van de tegenstander.
+Wordt een speler schaak gezet, dan deelt de arbiter dat mede.
+Een speler kan vragen "Can I?" en dat betekent: "Kan ik met een pion slaan?" Is het antwoord bevestigend, dan moet de speler minstens een keer proberen met een pion te slaan.
+
+
+== ComputerschaakBewerken ==
+Naast de fysieke bordvariant bestaat tegenwoordig ook de computervariant, soms in de vorm van een elektronisch bord, maar doorgaans wordt op een computerscherm een bord getoond. Computers spelen soms tegen elkaar, maar de mens kan ook tegen de computer spelen middels schaakprogrammatuur die vaak instelbaar is op speelsterkte, rekendiepte en tempo.
+Zie ook: lijst van schaakmachines.
+
+
+=== RybkaBewerken ===
+In 2012 was Rybka versie 4 met afstand het sterkste schaakprogramma. De speelsterkte, uitgedrukt in de ELO-rating, overtreft ook die van de menselijke grootmeesters zodanig dat zelfs de wereldkampioen in een match weinig kans maakt. In matches tegen grootmeesters krijgen die een voorgift. Dzindzichashvili speelde in maart 2008 acht partijen met wit en kreeg in vier daarvan een pion voor; het werd 4-4. Nog slechter verging het Ehlvest: tegen een 'uitgeklede' versie uitsluitend met wit spelend eindigde zijn match in 3,5-1,5 voor Rybka.
+Een match tussen de elektronische top en die van vlees en bloed is niet te verwachten, maar het ratingsysteem geeft houvast. Wereldkampioen Magnus Carlsen heeft in 2015 een rating van 2862 terwijl Rybka in 2012 een rating van 3221 had. Een laag geschat ratingverschil van 200 punten geeft aan dat Rybka dan per partij een winstkans heeft van 75%.
+
+
+== ComplexiteitBewerken ==
+
+Het aantal reglementaire stellingen op het schaakbord ligt naar schatting tussen 1043 en 1050, en de speltheoretische complexiteit is bij benadering 10123. De speltheoretische complexiteit van het schaakspel werd als eerste benaderd door Claude Shannon (grondlegger van de informatietheorie) zijnde 10120, het "Shannon getal". Vanuit een 'gemiddelde' stelling (middenspel) zijn er dertig tot veertig reglementaire zetten mogelijk, maar het kunnen er ook nul zijn (bij schaakmat of pat) of 218. Zie ook: speltheorie.
+
+
+== VariaBewerken ==
+Een zeer bekend geworden leerboek in de Nederlandse taal is Oom Jan leert zijn neefje schaken, door Albert Loon en Max Euwe. Het werd voor het eerst uitgegeven in 1935 en werd vele malen herdrukt: in 2003 verscheen de 25ste editie.
+
+
+== Grote toernooien in NederlandBewerken ==
+Tata Steel-toernooi (voormalige Corus-toernooi, daarvoor Hoogovens-toernooi) in Wijk aan Zee
+Univé-toernooi (voormalige Essent-toernooi en daarvoor VAM-toernooi) in Hoogeveen
+AVRO-toernooi in tien Nederlandse steden (1938)
+
+
+== SchaakorganisatiesBewerken ==
+Koninklijke Belgische Schaakbond (KBSB)
+Koninklijke Nederlandse Schaakbond (KNSB)
+Nederlandse Bond van Correspondentieschakers (NBC)
+Fédération Internationale des Échecs/Wereld Schaak Federatie (FIDE)
+International Correspondence Chess Federation/Wereldbond Correspondentieschakers (ICCF)
+
+
+== Zie ookBewerken ==
+Wereldkampioenschap schaken
+Europees kampioenschap schaken
+Schaken van A tot Z
+Lijst van schakers
+Bekende schakers en kampioenen.
+
+Schaaknotatie
+Schaaktoernooi, met overzicht van nationale en internationale wedstrijden
+Schaakolympiade
+Schaakopening
+Schaakvariant
+Internationale schaaktitels
+Internationale correspondentieschaaktitels
+Chinees schaken
+Simultaanspel
+Blindschaken
+Tempozet

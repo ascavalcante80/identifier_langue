@@ -1,0 +1,103 @@
+Væske betegner en aggregattilstand (fase) som har fast volum men ikke fast form. I likhet med gasser, kan væsker flyte (strømme) og endre form på vilkårlig måte, men vil i motsetning til gasser ikke fylle tilgjengelig volum i en beholder. Faststoff har tilnærmet fast volum, men kan i motsetning til væske ikke endre form på vilkårlig måte. Væsker kan flyte mer eller mindre lett, hvor vann er et eksempel på en væske som flyter lett, mens honning er seigtflytende.
+Væske er, sammen med faststoff og gass, en av de tre klassiske aggregattilstandene og et svært viktig begrep i fysikk, kjemi og andre naturvitenskaper.
+
+
+== Egenskaper ==
+Væskefasen er knyttet til en større samling av stoff: en kan ikke snakke om at et enkelt atom eller molekyl er væske, gass eller faststoff. Væsker er bygget opp av molekyler hvor bindingen mellom molekylene er langt sterkere enn for gasser, men ikke så sterk at molekylene sitter i låste posisjoner, som faststoff. De fleste væsker har forholdsvis små molekyler, bestående av én til noen titalls atomer, men noen kan også være større, som termoplast.
+
+Stoff endrer faser og typisk blir en væske til faststoff når den kjøles ned, og til gass når det varmes opp. Denne overgangen skjer gjerne ved klart definerte temperaturer (kalt kritiske temperaturer) som er spesielt for hvert enkelt stoff. Eksempel på dette er væsken vann, som fryser til is (faststoff) ved 0 °C og fordamper (gass) ved 100 °C ved et trykk på en atmosfære. Tilsvarende går gass ofte over til væske under stort trykk. På langt nær alle faste stoffer har en væskefase, fordi temperaturøkning fører til en kjemisk reaksjon i stedet for en faseendring. F.eks. vil tre begynne å brenne (kjemisk reaksjon) ved oppvarming i stedet for å gå over i væskeform. De eneste grunnstoffene som er væsker ved standard trykk og temperatur er kvikksølv og brom.
+Når man har stoff som er sammensatt av flere typer molekyler skjer ofte overgang til væskefasen ved ulike temperaturer for de ulike typene. F.eks. ved blanding av fett i vann, vil disse danne en felles væskefase ved 80 °C mens fettet separeres ut og blir fast, mens vannet fortsatt er flytende, når temperaturen reduseres til 15 °C.
+Overflatehinner er vanlige på væsker og disse gjør at små mengder væsker fanges i dråper isteden for å renne. Overflatehinner er spesielt viktig ved små mengder væske og strøm gjennom tynne rør. Den kjemiske sammensetningen av væsken avgjør hvor sterk overflatehinnen er. F.eks. vil tilsetning av salt eller oppvaskmiddel svekke overflatehinnen til vann.
+
+
+== Anvendelser ==
+
+
+=== Husholdning ===
+Vann er det viktigste næringsmiddelet og tilførsel av rent vann, eller vannbasert væske, er en forutsetning for ethvert samfunn. I moderne husholdninger er stort sett dette løst ved hjelp av et omfattende rørnett for vannforsyning, ofte supplert med separat salg av vann på flaske hvis vannet fra rørene ikke er rent nok. Tilsvarende finnes separate rørnett for kloakk, hvor vann brukes til å frakte avfall vekk fra husholdningene. En husholdning bruker væsker til matlaging, rengjøring (såper og rengjøringsmidler) og oppvarming (sentralfyr).
+
+
+=== Prosessindustri ===
+Prosessindustri er den samfunnsektoren som i størst grad gjør bruk av væsker og de fleste industrielt fremstilte produkter har gjort bruk av væsker.
+Kjemisk industri er i hovedsak basert på bruk av væsker, enten ved at væsken selv inngår i en kjemisk reaksjon eller ved at den brukes som løsemiddel.
+Metallurgi er basert på smelting av metaller og legeringer.
+Oljeindustrien er basert på væsken olje og dens derivater.
+Farmasøytisk industri lager stort sett produkter som kan løses i vann, og væsker inngår også som viktige mellomsteg i produksjonen, selv om de fleste legemidler distribueres i fast form.
+
+
+=== Jordbruk ===
+Vann er forutsetning for alt jordbruk, inkludert fiske og havbruk. Jordbruk er enten basert på naturlig tilførsel av vann, men en stor del av verdens jordbruk er også avhengig av kunstig vanning, og kunstige vanningsanlegg er dermed nødvendig for verdens matproduksjon. I tillegg bruker moderne jordbruk i stort omfang insektmidler i væskeform samt at jordbruksindustrien bruker store mengder vann til rengjøring av jordbruksprodukter.
+
+
+=== Skipsfart ===
+Skipsfart bruker vann til transport og den største delen av frakt av tung eller voluminøst materiale foregår til sjøs.
+
+
+== Historikk ==
+Forståelse av væsker er knyttet sterkt til utviklingen av vitenskap, teknologi og industri.
+Den første milepælen i kunstig fremstilte væsker er smelting av metall, som sparket i gang bronsealderen for ca. 5500 år siden. De antikke høykulturene gjorde også bruk av væsker til medisinske salver og kremer, forløperen til moderne farmasi. Fluiddynamikk, dvs. læren om hvordan væsker strømmer, har røtter i antikken, hvor det ble laget avanserte rørsystemer, både basert på pumper (Arkimedes' skrue) og på hevertprinsippet. Hevertprinsippet sier at væske strømmer gjennom en fylt slange (eller rør) hvis uttaket ligger lavere enn inntaket, uavhengig av hvor midten av slangen er. Oppdagelsen av hevertprinsippet tilskrives Ktesibios fra Alexandria, 3. århundre f.kr. Prinsippet bak Oppdrift ble først forstått av Arkimedes, som fant at et legemes oppdrift er lik tyngden av vannet den trenger bort.
+
+Den moderne, matematiske formulerte, fysiske forståelsen av væsker begynner på 1600-tallet med Blaise Pascals, som viser hvordan væskenivå avhenger av trykk, dvs. prinsippet bak et barometer. De dynamiske egenskapene til væsker bygger først og fremst på Isaac Newtons mekanikk og den første generelle beskrivelse for væskers bevegelse er Eulerligningene, som gjelder for ikke-viskøse (lettflytende), ikke-kompressible, væsker, slik som vann (uten turbulens). Den komplette forståelsen av klassiske væsker kommer med Navier-Stokes-ligningene på begynnelsen av 1800-tallet. Disse ligningene beskriver alle egenskapene til klassiske væsker og alle andre ligninger er spesialtilfeller av disse. Navier-Stokes-ligningene er dog vanskelige å løse og ennå er ikke alle typer løsninger funnet. Først og fremst gjelder dette turbulent flyt. Ut over klassiske væsker finnes det fire andre moderne væsketeorier: 1) Relativistiske væsker. 2) Mikroskopisk beskrivelse av væsker. Denne er fortsatt mangelfull. 3) Kvantevæsker, som oppstår nær det absolutte nullpunkt. 4) Væskeligende tilstander, f.eks. strøm av sand i et timeglass.
+
+
+== Fysisk beskrivelse ==
+
+
+=== Fysiske størrelser ===
+Tetthet: Forholdet mellom massen i et volum og volumet, .
+Trykk: Kraft F per areal A, .
+Viskositet: Strømningsmotstanden i væsken, dvs. hvor lettflytende den er.
+Overflatespenning: Overflatekraft per lengde kraften virker, .
+De fysiske ligninger for væsker avhenger ikke direkte av temperatur, men væskeparametrene avhenger av temperatur, f.eks. blir viskositeten i honning mindre når den varmes opp. Væsker klassifiseres ut fra tetthet og viskositet
+En ideell væske har konstant tetthet og ingen viskositet.
+En newtonsk væske har konstant viskositet.
+En viskøs væske har høy viskositet og tungt for å flyte, slik som sirup.
+En kompressibel væske væske endrer volum ved trykkendring. De fleste væsker er i liten grad kompressible, mens noen, f.eks. flytende helium, er svært kompressible.
+Ofte bruks kombinasjoner og negasjoner av de ovennevnte typene, f.eks. ikke-newtonske væsker.
+
+
+=== Oppdrift ===
+Hovedartikkel: Oppdrift
+Kraften som virker på et legeme senket i en væske. Oppdriften går alltid i retning av overflaten, motsatt retning av tyngden. Arkimedes lov sier at oppdriften er like stor som tyngden av vannet legemet fortrenger. Positiv oppdrift vil si at oppdriften er større en tyngden og legemet vil stige mot overflaten. Negativ oppdrift vil si at oppdriften er mindre enn tyngden og legemet vil syke mot bunnen. Nøytral oppdrift vil si at oppdrift og tyngde er like og legemet er i ro.
+
+
+=== Hydrodynamikk ===
+Hovedartikkel: Hydrodynamikk
+Hydrodynamikk beskriver væskers bevegelse, som igjen er av to hovedtyper: strømer og bølger. Strøm vil si at det foregår en masseforflytning. En deler ofte inn i to typer strøm: laminær strøm vil si at væsken strømmer langsomt, stabilt og uten turbulens. Turbulent strøming vil si at strømmen er kaotisk. Ofte kan en større strøm ha både laminære og ikke-laminære områder. Bølge vil si at det er energioverføring uten netto masseoverføring. F.eks. kan en bølge bevege seg tvers over Atlanterhavet, mens vannet egentlig bare beveger seg opp og ned. De store havene har en særdeles komplisert bølgedynamikk og det finnes mange typer bølger. Ofte er disse bølgene knyttet til en flate, enten havoverflaten eller termiske sjikt. Tsunamibølger er bølger forårsaket av jordskjelv eller ras, som kan tilbakelegge store avstander, og forårsake stor skade når de treffer land.
+
+
+=== Pascals lov ===
+Hovedartikkel: Pascals lov
+Pascals lov beskriver trykket til en væske i et tyngdefelt, f.eks. på jorden. Loven sier at trykkforskjellen mellom to punkter er proporsjonal med dybdeendringen,
+
+med trykk P, dybde y, tetthet , og tyngdeakselerasjon g. Dette betyr at trykket i havet blir større jo dypere en kommer. Loven brukes også til å lage barometer, hvor en leser av høyden av en kvikksølvsøyle for å bestemme trykket.
+
+
+=== Bernoullis ligning ===
+Hovedartikkel: Bernoullis ligning
+Bernoullis ligning beskriver hvordan hastigheten til en væske i en slange avhenger av trykk og høyde. Denne ligningen brukes for å beskrive rørsystemer og hydraulikk.
+
+
+=== Eulerligningene ===
+Hovedartikkel: Eulerligningene
+Eulerligningene beskriver flyt av ikke-viskøse væsker. Eulers ligninger regnes som en god tilnærming til mange typer væsker og er i utstrakt bruk, siden de er fundamentalt mye enklere å løse en Navier-Stokes ligninger.
+
+
+=== Navier-Stokes-ligningene ===
+Hovedartikkel: Navier-Stokes-ligningene
+Navier-Stokes-ligningene er den overordnede teorien som beskriver bevegelse av all typer klassiske væsker. Ligningene er i sin mest generell form svært vanskelige å håndtere og hydrodynamikk er som fag er i hovedsak opptatt med å finne egnede beskrivelser for spesielle tilfeller.
+
+
+=== Relativistisk strømning ===
+Hovedartikkel: Relativistisk strøming
+Relativistisk strømining betyr at strømningshastigheten er svært høy, i nærheten av Lysets hastighet, og disse beskrives med formler som er Lorentz-invariante.
+
+
+=== Væskelignende tilstander ===
+Hovedartikkel: Komplekse systemer
+Det finnes en rekke fysiske systemer som flyter, men som ikke egentlig er væsker, f.eks. strømning av sand i timeglass, leire, bolledeig, og snøras. Slike væskelignende tilstander er vanlige, men kan ikke beskrives av Navier-Stokes ligninger og mangler en enhetlig teori.
+
+
+=== Kvantevæsker ===
+Hovedartikkel: Superfluid
+En superfluid er en type væske som opptrer ved svært lave temperaturer. Superfluider flyter uten viskositet. Helium er det

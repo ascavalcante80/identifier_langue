@@ -1,0 +1,78 @@
+Il momento meccanico, indicato con  o, in ambito anglosassone, con  (dall'inglese torque), esprime l'attitudine di una forza ad imprimere una rotazione ad un corpo rigido attorno ad un punto (nel piano) o ad un asse (nello spazio) quando questa non è applicata al suo centro di massa (altrimenti si avrebbe moto traslatorio). Costituisce quindi il momento della forza.
+Il momento meccanico è uno pseudovettore, non uno scalare come l'energia o il lavoro. Per questo motivo l'unità di misura del momento meccanico nel SI è N·m o Nm (newton per metro), non il joule, anche se le due unità hanno le stesse dimensioni fisiche.
+L'analisi dei momenti meccanici determina la condizione di equilibrio dei corpi estesi e serve allo studio dei moti rotazionali, infatti compaiono nella seconda equazione di Eulero.
+
+
+== Coppia di forze ==
+
+Il problema è: misurare la forza che viene esplicata da qualcosa che gira. Il modo più naturale è fissare una sbarra al rotore e misurare la forza che questa esercita ortogonalmente a una certa distanza dal fulcro. Si potrebbe a questo punto definire, per convenzione, la "forza di un rotore" come quella misurata alla distanza, ad esempio, di 1 metro dal fulcro. In tal modo sarebbe possibile confrontare le forze di rotori diversi.
+Per le leggi che regolano le leve (oppure sperimentalmente) è tuttavia evidente che il modulo del prodotto vettoriale fra Forza e distanza dal fulcro (detta braccio della forza) è una costante: se si misura la forza esercitata (ortogonale alla sbarra) alla distanza di mezzo metro si trova che essa è pari al doppio di quella misurata a 1 metro; a 10 cm è 10 volte più grande; a 2 m la metà e così via. È quindi in sintesi rilevante per un corpo rigido solo il prodotto: braccio × Forza, e non i singoli valori delle due componenti.
+La coppia è spesso usata nell'industria meccanica per quantificare la potenza generata da un motore secondo la formula:
+
+dove:
+P è la potenza del motore espressa in W (watt) al numero di giri desiderato
+T è la coppia generata espressa in N·m (newton × metri)
+ω è la velocità angolare espressa in radianti al secondo a cui si riferisce la potenza P
+(NB. ω = 2·π·f dove f = n° giri al secondo)
+Per misurare la coppia viene utilizzato un estensimetro a ponte intero.
+
+
+== Momento meccanico polare ==
+
+Il momento meccanico polare rispetto ad un determinato punto O detto polo o centro di riduzione è definito in meccanica newtoniana come il prodotto vettoriale tra il vettore posizione (rispetto al polo stesso) e la forza e ai poli nord e sud:
+
+Il modulo di M è quindi definito da
+
+Il vettore M è perpendicolare al piano definito da F e da r; il verso, come espresso dalla regola della mano destra, è quello di un osservatore che vede ruotare F in senso antiorario. La grandezza , distanza dell'asse di rotazione dalla retta su cui giace F, è detta braccio b della forza F.
+Se F ed r sono ortogonali tra loro, il braccio (vedi leva) si identifica con r, e il modulo del momento è massimo. Il momento può essere nullo se la forza o il braccio sono nulli, oppure se F è parallela a r.
+Se il sistema è composto di più componenti puntiformi, il momento meccanico totale è la somma dei singoli momenti meccanici, ognuno dovuto alla forza sul singolo componente e al relativo braccio:
+
+Nei sistemi continui si estende in modo naturale la definizione introducendo la densità  e il campo di accelerazioni :
+
+
+== Momento meccanico assiale ==
+Si definisce momento meccanico assiale di una forza rispetto ad un asse a passante per un punto O, uno scalare che indica la componente ortogonale del momento polare su un particolare asse a, detto asse centrale:
+
+dove  è un vettore di lunghezza unitaria (versore) che identifica l'asse. Il modulo sarà:
+
+dove φ è l'angolo formato dal vettore momento polare MΩ con l'asse n. In pratica è la proiezione ortogonale del momento polare sull'asse n. Per questo il momento assiale è nullo se l'angolo φ = π/2 e massimo quando l'asse a coincide con l'asse di MΩ, in tal caso infatti: φ = 0.
+
+
+== Risultante ==
+Il teorema di Varignon si applica al momento meccanico: il risultante dei momenti meccanici applicati in uno stesso punto nel caso polare o anche solo ugualmente distanti dallo stesso asse nel caso assiale, corrisponde al momento meccanico della risultante:
+
+Ciò risulta di particolare utilità nelle equazioni di Eulero.
+
+
+== Momento angolare ==
+Il momento meccanico è pari alla variazione del momento angolare attorno allo stesso centro o asse del primo. Infatti da:
+
+dove p è la quantità di moto, e v è la velocità del punto di applicazione, segue che:
+
+dove L è il momento angolare del punto.
+
+
+== Tensore d'inerzia ==
+Poiché il momento angolare risulta proporzionale alla velocità angolare ω attraverso il tensore d'inerzia I:
+
+Il momento meccanico, detta α l'accelerazione angolare, attraverso la relazione dimostrata nel precedente paragrafo risulta in generale:
+
+Quest'ultima uguaglianza è valida secondo la relazione di Poisson: il prodotto vettoriale del prodotto triplo può essere convertito in prodotto ordinario servendosi della matrice antisimmetrica della velocità angolare (in analogia per esempio con la definizione del tensore di Kong), definita per esempio in uno spazio tridimensionale come:
+
+Risulta quindi che:
+
+Si nota allora che il momento meccanico ha in generale due componenti, una a velocità angolare nulla, l'altra ad accelerazione angolare nulla:
+
+Come esempio notevole si consideri un corpo è vincolato ad un asse fisso baricentrico in un riferimento in cui è inclinato come l'asse z, come per esempio una manovella:
+
+M risulta in generale:
+
+
+== Lavoro rotazionale ==
+Il lavoro rotazionale, compiuto dal momento meccanico risulta essere:
+
+Come nel caso traslazionale, è possibile quindi per un momento compiere anche lavoro negativo (nel caso si opponga allo spostamento angolare reale), o nullo (nel caso sia normale allo spostamento angolare reale). Si notano qui le analogie con il lavoro traslazionale, che permetteranno l'unificazione lagrangiana di forza generalizzata.
+
+
+== Energia potenziale rotazionale ==
+Un momento 

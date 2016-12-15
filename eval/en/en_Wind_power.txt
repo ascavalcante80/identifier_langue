@@ -1,0 +1,71 @@
+
+In a survey conducted by Angus Reid Strategies in October 2007, 89 per cent of respondents said that using renewable energy sources like wind or solar power was positive for Canada, because these sources were better for the environment. Only 4 per cent considered using renewable sources as negative since they can be unreliable and expensive. According to a Saint Consulting survey in April 2007, wind power was the alternative energy source most likely to gain public support for future development in Canada, with only 16% opposed to this type of energy. By contrast, 3 out of 4 Canadians opposed nuclear power developments.
+A 2003 survey of residents living around Scotland's 10 existing wind farms found high levels of community acceptance and strong support for wind power, with much support from those who lived closest to the wind farms. The results of this survey support those of an earlier Scottish Executive survey 'Public attitudes to the Environment in Scotland 2002', which found that the Scottish public would prefer the majority of their electricity to come from renewables, and which rated wind power as the cleanest source of renewable energy. A survey conducted in 2005 showed that 74% of people in Scotland agree that wind farms are necessary to meet current and future energy needs. When people were asked the same question in a Scottish renewables study conducted in 2010, 78% agreed. The increase is significant as there were twice as many wind farms in 2010 as there were in 2005. The 2010 survey also showed that 52% disagreed with the statement that wind farms are "ugly and a blot on the landscape". 59% agreed that wind farms were necessary and that how they looked was unimportant. Scotland is planning to obtain 100% of electricity from renewable sources by 2020.
+In other cases there is direct community ownership of wind farm projects. The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there.
+This 2010 Harris Poll reflects the strong support for wind power in Germany, other European countries, and the U.S.
+
+
+=== Community ===
+
+Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms. In other cases there is direct community ownership of wind farm projects. Appropriate government consultation, planning and approval procedures also help to minimize environmental risks. Some may still object to wind farms but, according to The Australia Institute, their concerns should be weighed against the need to address the threats posed by climate change and the opinions of the broader community.
+In America, wind projects are reported to boost local tax bases, helping to pay for schools, roads and hospitals. Wind projects also revitalize the economy of rural communities by providing steady income to farmers and other landowners.
+In the UK, both the National Trust and the Campaign to Protect Rural England have expressed concerns about the effects on the rural landscape caused by inappropriately sited wind turbines and wind farms.
+
+Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the Glasgow Science Centre.
+In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property's value.
+Despite this general support for the concept of wind power in the public at large, local opposition often exists and has delayed or aborted a number of projects. For example, there are concerns that some installations can negatively affect TV and radio reception and Doppler weather radar, as well as produce excessive sound and vibration levels leading to a decrease in property values. Potential broadcast-reception solutions include predictive interference modeling as a component of site selection. A study of 50,000 home sales near wind turbines found no statistical evidence that prices were affected.
+While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block new wind power sites for various reasons.
+This type of opposition is often described as NIMBYism, but research carried out in 2009 found that there is little evidence to support the belief that residents only object to renewable power facilities such as wind turbines as a result of a "Not in my Back Yard" attitude.
+
+
+== Turbine design ==
+Main articles: Wind turbine and Wind turbine design. See also: Wind turbine aerodynamics.
+
+Wind turbines are devices that convert the wind's kinetic energy into electrical power. The result of over a millennium of windmill development and modern engineering, today's wind turbines are manufactured in a wide range of horizontal axis and vertical axis types. The smallest turbines are used for applications such as battery charging for auxiliary power. Slightly larger turbines can be used for making small contributions to a domestic power supply while selling unused power back to the utility supplier via the electrical grid. Arrays of large turbines, known as wind farms, have become an increasingly important source of renewable energy and are used in many countries as part of a strategy to reduce their reliance on fossil fuels.
+Wind turbine design is the process of defining the form and specifications of a wind turbine to extract energy from the wind. A wind turbine installation consists of the necessary systems needed to capture the wind's energy, point the turbine into the wind, convert mechanical rotation into electrical power, and other systems to start, stop, and control the turbine.
+In 1919 the German physicist Albert Betz showed that for a hypothetical ideal wind-energy extraction machine, the fundamental laws of conservation of mass and energy allowed no more than 16/27 (59.3%) of the kinetic energy of the wind to be captured. This Betz limit can be approached in modern turbine designs, which may reach 70 to 80% of the theoretical Betz limit.
+The aerodynamics of a wind turbine are not straightforward. The air flow at the blades is not the same as the airflow far away from the turbine. The very nature of the way in which energy is extracted from the air also causes air to be deflected by the turbine. In addition the aerodynamics of a wind turbine at the rotor surface exhibit phenomena that are rarely seen in other aerodynamic fields. The shape and dimensions of the blades of the wind turbine are determined by the aerodynamic performance required to efficiently extract energy from the wind, and by the strength required to resist the forces on the blade.
+In addition to the aerodynamic design of the blades, the design of a complete wind power system must also address the design of the installation's rotor hub, nacelle, tower structure, generator, controls, and foundation. Further design factors must also be considered when integrating wind turbines into electrical power grids.
+
+
+== Wind energy ==
+
+Wind energy is the kinetic energy of air in motion, also called wind. Total wind energy flowing through an imaginary surface with area A during the time t is:
+
+where ρ is the density of air; v is the wind speed; Avt is the volume of air passing through A (which is considered perpendicular to the direction of the wind); Avtρ is therefore the mass m passing through "A". Note that ½ ρv2 is the kinetic energy of the moving air per unit volume.
+Power is energy per unit time, so the wind power incident on A (e.g. equal to the rotor area of a wind turbine) is:
+
+Wind power in an open air stream is thus proportional to the third power of the wind speed; the available power increases eightfold when the wind speed doubles. Wind turbines for grid electricity therefore need to be especially efficient at greater wind speeds.
+Wind is the movement of air across the surface of the Earth, affected by areas of high pressure and of low pressure. The global wind kinetic energy averaged approximately 1.50 MJ/m2 over the period from 1979 to 2010, 1.31 MJ/m2 in the Northern Hemisphere with 1.70 MJ/m2 in the Southern Hemisphere. The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures. The process is responsible for production of wind kinetic energy at a rate of 2.46 W/m2 sustaining thus the circulation of the atmosphere against frictional dissipation. A global 1km2 map of wind resources is housed at http://irena.masdar.ac.ae/ , based on calculations by the Technical University of Denmark.
+The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources. Axel Kleidon of the Max Planck Institute in Germany, carried out a "top down" calculation on how much wind energy there is, starting with the incoming solar radiation that drives the winds by creating temperature differences in the atmosphere. He concluded that somewhere between 18 TW and 68 TW could be extracted.
+Cristina Archer and Mark Z. Jacobson presented a "bottom-up" estimate, which unlike Kleidon's are based on actual measurements of wind speeds, and found that there is 1700 TW of wind power at an altitude of 100 metres over land and sea. Of this, "between 72 and 170 TW could be extracted in a practical and cost-competitive manner". They later estimated 80 TW. However research at Harvard University estimates 1 Watt/m2 on average and 2–10 MW/km2 capacity for large scale wind farms, suggesting that these estimates of total global wind resources are too high by a factor of about 4.
+The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there.
+To assess prospective wind power sites a probability distribution function is often fit to the observed wind speed data. Different locations will have different wind speed distributions. The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations. The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model.
+
+
+== Gallery ==
+
+
+== See also ==
+
+
+== Notes ==
+^ For example, a 1 MW turbine with a capacity factor of 35% will not produce 8,760 MW·h in a year (1 × 24 × 365), but only 1 × 0.35 × 24 × 365 = 3,066 MW·h, averaging to 0.35 MW.
+^ California is an exception.
+
+
+== References ==
+
+
+== Further reading ==
+Robert Gasch, Jochen Twele (ed.), Wind power plants. Fundamentals, design, construction and operation, Springer 2012 ISBN 978-3-642-22937-4.
+Erich Hau, Wind turbines: fundamentals, technologies, application, economics Springer, 2013 ISBN 978-3-642-27150-2 (preview on Google Books)
+Siegfried Heier, Grid integration of wind energy conversion systems Wiley 2006, ISBN 978-0-470-86899-7.
+Peter Jamieson, Innovation in Wind Turbine Design. Wiley & Sons 2011, ISBN 978-0-470-69981-2
+Alois Schaffarczyk (ed.), Understanding wind power technology, Wiley & Sons 2014, ISBN 978-1-118-64751-6.
+Hermann-Josef Wagner, Jyotirmay Mathur, Introduction to wind energy systems. Basics, technology and operation. Springer 2013, ISBN 978-3-642-32975-3.
+
+
+== External links ==
+World Wind Energy Association (WWEA)
+Tethys – an online knowledge management system that provides the offshore wind community with access to information and scientific literature on the environmental effects of offshore wind developments

@@ -1,0 +1,40 @@
+
+== WGS 84 ==
+WGS 84 (World Geodetic System) é uma norma usada em cartografia de origem geocêntrica utilizado pelo GNSS do DoD, e pelo Sistema de Posicionamento Global - (GPS), definida em 1984. É composta por um sistema de coordenadas para a Terra, uma superfície de referência esferoidal padrão (a base ou elipsóide de referência) para dados de altitude, e uma superfície gravitacional equipotencial (o geoide) que define o nível médio do mar.
+
+
+=== Outros DATA ===
+Airy 1830
+Modified Airy
+Australian National
+Bessel 1841 (Namibia)
+Bessel 1841
+Clarke 1866,
+Clarke 1880,
+Corrego Alegre (Brasil)
+Datum73 (Portugal)
+Everest (India 1830)"
+Everest (Sabah Sarawak)
+Everest (India 1956)
+Everest (Malaysia 1969)
+Everest (Malay. & Sing)
+Everest (Pakistan)
+Modified Fischer 1960
+Helmert 1906
+Hough 1960
+Indonesian 1974
+International 1924
+Krassovsky 1940
+Lisboa
+GRS 80
+South American 1969 (SAD 69)
+WGS 72
+
+
+== Ver também ==
+Altímetro
+Bússola
+Círculo Polar Antártico
+Círculo polar ártico
+Coordenada geográfica
+Elipsóide de refe

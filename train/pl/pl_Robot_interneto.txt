@@ -1,0 +1,11 @@
+Robot internetowy (lub też Robot indeksujący) – program zbierający informacje o strukturze, stronach i treściach znajdujących się w internecie. Efekty pracy robota mogą być różne, w zależności od jego przeznaczenia, na przykład może on skanować wybrane witryny w celu zbudowania bazy adresów e-mail, natomiast roboty zbierające treści dla wyszukiwarek działają szerzej:
+badają zawartość witryny,
+sprawdzają kod strony,
+zbierają dodatkowe informacje o stronie,
+monitorują aktualizacje,
+tworzą mirrory stron.
+W przypadku robota Google tzn. Googlebota mówi się o robotach wykonujących "Google's fresh crawl" i "Google's deep crawl" lub "Google's main crawl". "Fresh crawl" jest wykonywany często, nawet kilka razy dziennie - robot najprawdopodobniej sprawdza co się zmieniło na stronie, "deep crawl" głębokie indeksowanie najprawdopodobniej polega na pobieraniu większej ilości danych z witryny i odbywa się kilka razy w miesiącu.
+Ruch generowany przez roboty jest jednym z podstawowych wskaźników mówiących o pozycjonowaniu strony.
+
+
+== Nazwy używane wymiennie ==

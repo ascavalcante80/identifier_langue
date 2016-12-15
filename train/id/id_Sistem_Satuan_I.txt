@@ -1,0 +1,29 @@
+Sistem Satuan Internasional (nama aslinya dalam bahasa Perancis: Système International d'Unités atau SI) adalah sistem satuan atau besaran yang paling umum digunakan. Pada awalnya sistem ini merupakan sistem MKS, yaitu panjang (meter), massa (kilogram), dan waktu (detik/sekon). Sistem SI ini secara resmi digunakan di semua negara di dunia kecuali Amerika Serikat (yang menggunakan Sistem Imperial), Liberia, dan Myanmar.[1]
+Dalam sistem SI terdapat 7 satuan dasar/pokok SI dan 2 satuan tanpa dimensi. Selain itu, dalam sistem SI terdapat standar awalan-awalan (prefix) yang dapat digunakan untuk penggandaan atau menurunkan satuan-satuan yang lain.
+
+
+== Satuan dasarSunting ==
+7 satuan dasar/pokok SI adalah sebagai berikut :
+Dua satuan SI tanpa dimensi adalah Radian (rad) dan Steradian (sr).
+
+
+== Satuan turunanSunting ==
+
+Satuan turunan adalah satuan yang diturunkan dari satuan pokok. Beberapa contoh satuan turunan yaitu:
+Satuan gaya: Newton (kg m/s²)
+Satuan kecepatan: m/s
+Satuan percepatan: m/s²
+Satuan luas: m²
+Satuan volume: m³
+Satuan energi: Joule (J)
+Satuan tegangan listrik (beda potensial): Volt (AΩ)
+Satuan daya: Watt (VA = A²Ω = J/s)
+
+
+== PenulisanSunting ==
+Berikut aturan umum penulisan nilai kuantitas dan simbol SI.
+Nilai kuantitas ditulis dengan angka yang diikuti spasi dan simbol satuan, mis "2.21 kg", "7.3×102 m2", "22 K". Pengecualian diberikan untuk satuan sudut, menit, dan detik (°, ′, dan ″), yang dituliskan langsung setelah angka tanpa disisipkan spasi.
+Simbol satuan turunan yang dibentuk dengan perkalian dihubungkan dengan titik tengah (·) atau spasi non-penggal (non-break space), misalnya "N·m" atau "N m".
+Simbol satuan turunan yang dibentuk dengan pembagian dihubungkan dengan solidus (⁄), pangkat negatif, atau garis miring (/), misalnya "m⁄s", "m/s", atau "m s−1". Hanya satu solidus yang digunakan, misalnya "kg⁄(m·s2)" atau "kg·m−1·s−2", dan bukan "kg⁄m⁄s2".
+Simbol tidak diakhiri dengan tanda titik (.) karena merupakan entitas matematika dan bukan singkatan, kecuali jika berada di akhir kalimat.
+Simbol ditulis dengan huruf tega

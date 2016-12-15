@@ -1,0 +1,72 @@
+Máy thu vô tuyến tinh thể - còn gọi là máy thu tinh thể - là một máy phát thanh đơn giản mà rất thông dụng trong những ngày đầu tiên của ngành vô tuyến. Nó không cần pin hoặc nguồn năng lượng nào khác để hoạt động mà dùng chính năng lượng nhận được từ sóng vô tuyến thông qua một ăngten dây rất dài và cao. Ở Việt Nam trước đây thường gọi là Galen
+
+
+== Nguyên lý làm việc ==
+
+Máy thu vô tuyến tinh thể nhận các chương trình phát sóng từ các đài phát. Đài phát dùng âm thanh để điều chế biên độ của sóng vô tuyến và truyền nó đi từ các ăngten của đài phát. Sóng vô tuyến từ các đài phát mà máy thu có thể nhận được sẽ đi qua ăngten của máy thu và cảm ứng nên một dòng điện giữa dây ăngten máy thu và điểm tiếp địa của dây ăngten. Một mạch cộng hưởng được dùng để chọn năng lượng sóng vô tuyến từ một đài phát nào đó. Một mạch tách sóng tinh thể (có thể dùng bộ tách sóng kiểu lông mèo hay dùng điốt tách sóng) để chuyển dòng điện từ sóng vô tuyến sang dòng điện tạo ra âm thanh trong tai nghe.
+
+
+== Lịch sử ==
+Máy thu vô tuyến tinh thể được sáng chế dựa trên một chuỗi dài các phát minh vào cuối thế kỷ 19 - trong đó có cả những phát minh âm thầm không tên tuổi - mà dần dần mở ra hướng chế tạo nên những máy thu thanh thực tế vào đầu thế kỷ 20, đặt nền móng cho cái gọi là ngành điện tử ngày nay. Ứng dụng sớm nhất của máy thu vô tuyến tinh thể là dùng để nhận tín hiệu vô tuyến mã Morse được phát ra từ các máy phát ngắt quãng công suất rất mạnh của các nhà thực nghiệm vô tuyến nghiệp dư. Rồi đến khi ngành điện tử phát triển, khả năng nhận được tín hiệu giọng nói bằng sóng vô tuyến đã thúc đẩy một bùng phát về kỹ thuật vào những năm khoảng 1920 để góp phần đi đến cả một ngành công nghiệp phát thanh vô tuyến ngày nay.
+
+
+=== Những năm đầu tiên ===
+Lúc đầu các máy điện báo vô tuyến dùng các bộ phát ngắt quãng và các bộ phát hồ quang cũng như các máy phát điện đồng bộ tần số cao nhằm mục đích tạo ra tần số vô tuyến và cho phép tín hiệu được "cài" vào trong tần số vô tuyến này. Đầu tiên, người ta dùng một bộ tách sóng được gọi tên là Branley Coherer để phát hiện sự tồn tại (hoặc không tồn tại) của tín hiệu vô tuyến. Tuy nhiên, bộ tách sóng này không đủ nhạy để làm việc với tín hiệu yếu.
+
+Vào đầu thế kỷ 20, nhiều nhà nghiên cứu khám phá ra rằng nếu dùng các khoáng vật tính kim loại, chẳng hạn galena, thì có thể tách tín hiệu. Năm 1901, Sir Jagadish Chandra Bose đã nộp đơn xin cấp bằng sáng chế với tên là "Một dụng cụ dùng để tách các nhiễu loạn điện", mà trong đó đề nghị dùng tinh thể galena; và sáng chế này được cấp bằng vào năm 1904, mang số 755840. Tuy nhiên, công trình cũng như bằng sáng chế của ông đã không được giới khoa học phương Tây biết nhiều. Đến ngày 30, tháng 8, 1906, Greenleaf Whittier Pickard đã nộp đơn xin cấp bằng sáng chế trong đó có đưa ra một bộ tách sóng bằng tinh thể silicon, mà được công nhận vào ngày 20, tháng 11, năm 1906. Bộ tách sóng của Pickard thật sự là một khám phá lớn khi ông chỉ ra rằng nếu dùng một sợi dây có đầu thật nhỏ - vì thế sợi dây này được gọi tên là "lông mèo" – tiếp xúc thật nhẹ với một khoáng vật thì sẽ tạo ra một hiệu ứng bán dẫn rất tốt. Bộ tách sóng tinh thể bao gồm một thạch anh, một sợi dây đặc biệt mỏng tiếp xúc với thạch anh và một bộ gá để giữ vững các bộ phận. Thạch anh thường được dùng nhất là một miếng nhỏ galena; pyrite cũng thường được sử dụng, bởi nó là loại khoáng vật ổn định và dễ chỉnh sửa. Bộ tách sóng kiểu như vậy đủ dùng trong trường hợp tín hiệu đủ mạnh ví dụ trong thành phố. Một ưu điểm nữa của thạch anh là chúng có thể giải điều chế tín hiệu điều chế biên độ. Như vậy, máy thu vô tuyến tinh thể là phương pháp đơn giản về mặt kỹ thuật và ít tốn kém nhất để thu tín hiệu vô tuyến vào lúc mới bắt đầu của ngành công nghiệp truyền thanh vô tuyến.
+
+Trong năm 1922, cục tiêu chuẩn Mỹ phát hành một ấn phẩm mang tựa đề theo kiểu Làm thế nào để chế tạo tại nhà một máy thu thanh đơn giản [1]. Ấn phẩm này chỉ ra cho hầu hết mọi gia đình có thể dùng các công cụ đơn giản để tạo ra một máy thu thanh nhằm nghe thông tin về thời tiết, giá cả nông sản, tin tức và các bản nhạc. Ấn phẩm này có giá trị lớn vì nó đưa máy thu thanh vào cộng đồng dân cư. Sau đó, cục tiêu chuẩn Mỹ tiếp tục đưa ra hai bản thiết kế máy thu có độ nhạy tốt hơn với tựa đề Làm thế nào để tạo ra một trong hai mạch thu thanh với bộ tách sóng tinh thể[2], mà hiện nay các tay nghiệp dư vẫn còn dùng.
+
+
+=== Những năm 1920 và 1930 ===
+
+Bắt đầu thế kỷ 20, máy thu thanh chỉ dành cho một số người đam mê. Công nghiệp phát thanh chưa có và máy thu cũng như máy phát không có mặt rộng rãi, vì vậy các tay hâm mộ tự tạo ra chúng bằng cách quấn dây đồng lên gậy bóng chày, lên hộp để tạo ra máy thu, còn máy phát thì làm từ thủy tinh và sắt, còn loa thì họ dùng giấy báo bọc lên một vật thể nào đó có hình nón. Cho đến mùa Thu năm 1920 thì mới có sự xuất hiện của truyền thanh vô tuyến nhằm mục đích giải trí. Tại Pittsburgh, PA, đài phát KDKA, thuộc công ty Westinghouse, nhận được giấy phép từ Bộ Thương Mại Hoa Kỳ để hoạt động. Bên cạnh việc thông báo các sự kiện đặc biệt, đài này còn đưa ra một dịch vụ công cộng rất quan trọng là báo cho nông dân biết các thông tin về giá cả khi thu hoạch. Năm 1921, máy thu được sản xuất từ nhà máy rất đắt tiền. Nếu đưa về giá trị đồng đô la bây giờ thì nó vào khoảng 2.000 USD [cần dẫn nguồn]. Trừ một số gia đình giàu có, còn lại thì các báo hoặc tạp chí đều có các bài viết nhằm chỉ cách tự tạo ra một máy thu vô tuyến tinh thể. Để giúp người dân giảm tiền chế tạo, nhiều bài chỉ cách quấn lõi cộng hưởng lên trên những hộp bìa cứng rỗng như hộp đựng lúa mạch, và tạo ra một xu hướng chung để chế tạo máy thu tự làm tại nhà.
+
+
+=== Những năm 1940 ===
+Vào mùa Xuân năm 1944, khi quân đội Đồng Minh bị cầm chân gần Anzio, Ý, các máy thu vô tuyến cầm tay bị cấm ngặt, vì quân Đức có các thiết bị phát hiện tần số vô tuyến mà có thể phát hiện tín hiệu dao động nội của các máy thu đổi tần. Trong khi đó máy thu vô tuyến tinh thể lại không có bộ dao động nội nên quân Đức không thể phát hiện được. Một số lính Mỹ giỏi xoay xở đã khám phá ra rằng có thể tạo ra một máy thu vô tuyến tinh thể thô sơ bằng cách dùng các cuộn dây phế liệu, một lưỡi dao cạo bị rỉ và một đầu bút chì để làm điốt. Bằng cách chạm nhẹ đầu bút chỉ vào những điểm xanh trên lưỡi dao, hay đến những điểm bị rỉ, sẽ tạo nên một điốt tiếp xúc điểm và tín hiệu chỉnh lưu có thể nghe được bằng tai nghe. Ý tưởng này đã được phổ biến suốt vùng tranh chấp, đến những nơi khác của chiến tranh và cả vào trong dân cư. Loại máy thu thô sơ như vậy được các tạp chí gọi là "máy thu trong chiến hào" và nó trở thành một phần trong các truyền thuyết của chiến tranh thế giới thứ II.
+Trong một số quốc gia bị Khối Quốc xã chiếm đóng, các máy thu thanh trong dân chúng bị tịch thu. Điều này khiến cho một số người phải lén lút tự tạo ra những máy thu mà thực ra là một dạng thô sơ của máy thu vô tuyến tinh thể. Tuy nhiên, bất kỳ ai làm như vậy đều có khả năng bị bỏ tù hoặc có thể chết nếu bị phát hiện và hầu hết ở Châu Âu lúc đó tín hiệu từ BBC (hoặc từ các đài phát Đồng Minh khác) đều không đủ mạnh để thu được bởi những máy thô sơ như vậy.
+
+
+=== Những năm về sau ===
+Trong khi máy thu vô tuyến tinh thể sẽ không bao giờ có được tính phổ biến như nó đã từng đạt được vào thời kỳ bắt đầu, máy này hiện nay vẫn còn được dùng. Tổ chức Hướng Đạo (mà nổi lên như là một tổ chức đang giữ gìn các kiến thức về máy thu vô tuyến tinh thể một cách không chính thức) vẫn còn dạy cách tạo ra một máy như vậy trong chương trình huấn luyện của họ kể từ năm 1920. Một số lớn các phần tử khá lạ và một số dạng mạch đơn giản có thể tìm thấy trong suốt các thập niên 1950 và 1960, đồng thời nhiều bạn trẻ yêu thích điện tử cũng thích tạo ra một máy như vậy. Như vậy là việc tự tạo ra một máy thu tinh thể đã là một phong trào trong những năm 1920 và lại xuất hiện một lần nữa vào những năm 1950. Hiện nay, các tay ưa thích đã bắt đầu thiết kế và tự chế tạo những mô hình độc đáo về loại máy thu này. Nhiều cố gắng để tạo ra những kiểu dáng lạ kỳ cũng như cải thiện tính năng của máy thu vô tuyến tinh thể và thực tế đã có nhiều ví dụ nổi tiếng. Cuộc thu DX vô tuyến tinh thể hàng năm và các cuộc thi chế tạo cho phép những người chủ máy thu có thể so tài với mọi người khác và hình thành nên một cộng đồng quan tâm đến loại máy này.
+
+
+=== Những dự tính nhằm tái sử dụng năng lượng của sóng mang vô tuyến ===
+Ý tưởng ở đây là có thể dùng một máy thu vô tuyến tinh thể bắt sóng một đài phát địa phương mạnh rồi dùng máy thu làm nguồn cung cấp năng lượng cho một máy thu thứ hai loại khuếch đại và máy thu thứ hai này có thể thu được những đài khá xa mà không thể nghe được bằng một máy thu vô tuyến thông thường. Lịch sử cho thấy đã có một thời gian rất dài những dự định như vậy nhưng không thành công và những công bố không kiểm chứng được về việc cố gắng tái sử dụng năng lượng trong sóng mang của tín hiệu thu được. Các máy thu vô tuyến tinh thể cổ điển dùng mạch chỉnh lưu bán sóng. Khi tín hiệu AM có hệ số điều chế khoảng 30% điện áp tại đỉnh, thì chỉ có khoảng không quá 9% công suất tín hiệu thu được () là có chứa thông tin âm tần cần có, còn 91% còn lại là điện áp DC chỉnh lưu. Với tín hiệu âm tần không đạt đỉnh mọi thời điểm thì tỉ số năng lượng này còn lớn hơn. Đã có những nỗ lực đáng kể nhằm chuyển điện áp DC này vào năng lượng âm thanh. Một trong những dự định này có thể kể đến mạch khuếch đại một transistor trong năm 1966. Đôi khi những cố gắng để khai thác năng lượng này thường bị nhầm lẫn với những cố gắng để có được mạch tách sóng hiệu suất cao hơn.. Và những dự định như vậy vẫn còn tiếp tục cho đến ngày nay. Ít nhất có một hãng sản xuất điện thoại di động đang nghiên cứu việc tích lũy tín hiệu vô tuyến có khắp xung quanh ta để tạo nên nguồn năng lượng nhằm nạp cho pin trong máy di động của họ. Các sản phẩm thử đã cho thấy có thể thu được từ 5 đến 10 miliwatt từ không gian xung quanh máy.
+
+
+== Một số điểm cần lưu ý khi thiết kế và sử dụng máy thu vô tuyến tinh thể ==
+
+
+=== Việc tiếp địa là rất quan trọng ===
+Máy thu vô tuyến tinh thể thường sử dụng ăngten loại dây dài hay còn gọi là ăngten Monopole. Để nhận được tín hiệu thu từ loại ăngten này, cần có một điểm chuẩn đất để cung cấp một vị trí nhờ đó tín hiệu ăngten có thể chạy vào và ra. Bởi vì máy thu vô tuyến tinh thể không có bất cứ nguồn cung cấp năng lượng nào khác ngoài năng lượng điện mà nó thu được từ ăngten, điểm tiếp địa của máy thu vô tuyến tinh thể phải tốt hơn nhiều so với loại máy thu có khuếch đại. Điểm đất tạo ra một đường dẫn điện tốt để tạo ra một mạch hoàn chỉnh để tín hiệu điện cảm ứng bởi sóng vô tuyến giữa ăngten và đất. Tính quan trọng của việc tiếp địa này có thể bỏ qua trong trường hợp máy thu có khuếch đại. Các máy thu có khuếch đại dùng loại tách sóng điện áp và như vậy không cần nhiều công suất từ ăngten và cần rất ít hay có thể không cần điểm tiếp địa vật lý. Máy thu vô tuyến tinh thể dùng bộ tách sóng công suất và cần có dòng điện từ ăngten càng lớn càng tốt. Vì thế chúng đòi hỏi phải được tiếp địa tốt.
+
+
+=== Một dạng mạch quá đơn giản ===
+
+Mạch vô tuyến tinh thể được mô tả ở đây thường được đưa ra nhằm mục đích bắt các đài nằm trong dải phát thanh AM sóng trung với bộ cộng hưởng được tạo thành bởi một cuộn dây song song và một tụ điện, cùng với một ăngten và một điểm tiếp địa. Trong thực tế có nhiều mạch vô tuyến tinh thể, nhưng nối cả ăngten và một tụ điện thay đổi được dọc theo một cuộn dây cố định mà muốn máy thu bắt được toàn bộ dải phát thanh AM hai bát độ là không khả thi. Nguyên nhân là để đạt hiệu suất cao, ăngten của máy thu vô tuyến tinh thể thường phải dài khoảng 20m và cao khoảng 6m, và khi đó nó có tác dụng như một tụ điện có điện dung từ 250 đến 300 pF. (Tổng quát thì ăngten có điện dung, điện cảm và điện trở, nhưng với ăngten loại dây dài thì điện dung sẽ chiếm ưu thế tại tần số vô tuyến AM.) Nếu một ăngten có điện dung là 250 pF được nối đến một mạch cộng hưởng dùng một lõi có điện cảm hơn 75 H, thì mạch đó không thể cộng hưởng ở các tần số trên 1400 Hz. Như vậy kích thước của cuộn dây cố định phải nhỏ hơn 75 H để có thể cộng hưởng các tần số ở vùng trên của dải phát (khoảng từ 1600 kHz hay 1710 kHz). Giả sử cuộn dây có điện cảm 70 H, thì để có thể cộng hưởng các tần số ở vùng dưới của dải phát (khoảng 540 kHz) thì tụ điện trong mạch phải có giá trị cỡ 1000 pF. Mặt khác, để có thể cộng hưởng các tần số vùng trên của dải phát thì tụ điện biến đổi được này phải có giá trị chỉ là 4 pF. Điều này cho thấy tụ điện biến đổi phải có tỉ số thay đổi điện dung cỡ 1: 250, mà như vậy là quá cao. Thông thường trong thực tế tỉ số này chỉ khoảng 200:1. Chính vì thế, các nhà thiết kế có kinh nghiệm không sử dụng mạch này. Tuy nhiên, mạch này làm việc tốt trong trường hợp chỉ cần bắt một đài nào đó. Tầm bắt đài có thể mở rộng bằng cách dùng lõi có thể thay đổi được. Để làm điều đó có thể lấy nhiều đầu dây ra từ cuộn dây, nhờ đó có thể xác định một số tần số cụ thể cần cộng hưởng.
+
+
+== Xem thêm ==
+
+Radio
+Batteryless radio, Cat's whisker detector, Coherer, Detector (radio), Demodulator, Electrolytic detector, History of radio, Hot wire barretter, Magnetic detector, Radio receiver, Transistor radio, Wireless Telegraphy
+People
+Alfred Powell Morgan - Author of books on early electronics
+Lists
+List of obsolete technological nomenclature
+Other
+Wireless energy transfer, Energy efficiency, Numbers station (related to espionage)
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+=== Thông tin tổng quát ===
+The Xtal Set Society, Dedicated to once again building and experimenting with radio electronics.
+Building a simple crystal radio.Field, Simon Quellen, Scitoys.
+Stay Tuned. Crystal radio 

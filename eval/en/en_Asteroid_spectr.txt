@@ -1,0 +1,21 @@
+ system, three different filters are used:
+U: passband for the ultraviolet light
+B: passband for the blue light
+V: passband sensitive to visible light, more specifically the green-yellow portion of the visible light
+In an observation, the brightness of an object is measured twice through a different filter. The resulting difference in magnitude is called the color index. The U–B or B–V color indices are the most common ones.
+
+
+== Appraisal ==
+These classification schemes are expected to be refined and/or replaced as further research progresses. However, for now the spectral classification based on the two above coarse resolution spectroscopic surveys from the 1990s is still the standard. Scientists have been unable to agree on a better taxonomic system, largely due to the difficulty of obtaining detailed measurements consistently for a large sample of asteroids (e.g. finer resolution spectra, or non-spectral data such as densities would be very useful).
+Some groupings of asteroids have been correlated with meteorite types:
+C-type - Carbonaceous chondrite meteorites
+S-type - Stony meteorites
+M-type - Iron meteorites
+V-type - HED meteorites
+
+
+== See also ==
+Asteroid mining
+
+
+== References ==

@@ -1,0 +1,35 @@
+Areal er en kvantitet, som udtrykker udstrækningen af en to-dimensionel overflade eller form – i et plan (fladt).
+Areal kan forstås som mængden af materiale med en given tykkelse, som ville være nødvendig til at danne en model af formen, eller mængden af maling, der er nødvendig for at dække en (glat) overflade med et enkelt malingslag.
+Areal er den to-dimensionelle analog til længden af en kurve (et én-dimensionelt begreb) – eller rumfanget af et faststof (et 3-dimensionelt begreb).
+Arealet af en form kan måles ved at sammenligne formen med kvadrater med en kendt størrelse – f.eks. SI-enheden kvadratmeter (m2). Én kvadratmeter er arealet af et kvadrat med en sidelængde på én meter.  En form med et areal på 3 kvadratmeter vil have det samme areal som 3 af disse kvadrater. I matematik er enhedskvadratet defineret til at have arealet én, og arealet af enhver anden form eller overflade er et dimensionløst reelt tal.
+Der er adskillige velkendte formler for arealer af simple former såsom trekanter, rektangler og cirkler. Ved at anvende disse formler, kan arealet af enhver polygon beregnes ved hjælp af opdeling af polygonen i trekanter.  For former med kurvede grænser, kan infinitesimalregning anvendes til at beregne arealet. Faktisk var problemet med at bestemme arealet af flade figurer/former en af de store motivationer for den historiske udvikling af infinitesimalregning. 
+For en faststof form som f.eks. en kugle, kegle eller cylinder, kaldes deres grænseoverflade for dets overfladeareal. Formler af overfladearealer af simple former blev beregnet af antikkens grækere, men beregningen af overfladearealer af mere komplicerede former forudsætter normalt infinitesimalregning med flere variable.
+Areal spiller en vigtig rolle i moderne matematik. Udover arealets indlysende vigtighed indenfor geometri og infinitesimalregning, er arealet relateret til definitionen af determinanter i linear algebra, og er en grundlæggende egenskab af overflader i differentialgeometri.  I analyse, defineres arealet som en delmængde af planet ved hjælp af Lebesgue-målet, selvom ikke alle delmængder er målelige. Generelt, ses arealet indenfor højere matematik som et specielt tilfælde af rumfang for to-dimensionelle omegne.
+
+
+== Enheder ==
+Der findes mange forskellige enheder for flademål. Mange af de ældre arealenheders omregningsfaktorer er forskellige fra land til land. SI-enheder med evt. tilhørende SI-præfiks derimod er ens overalt:
+Den officielt anerkendte afledte SI-enhed for flademål er kvadratmeter og angives ofte som m². Kvadratmeter er afledt af SI-enheden meter og kan have et SI-præfiks. Men det er dog sjældent dette benyttes, da man i stedet sætter præfikset foran grundenheden meter:
+Kvadratcentimeter (0,0001 m² = 10−4 m²)
+Kvadratkilometer (1.000.000 m² = 106 m²)
+
+
+=== Andre anvendte enheder ===
+Arealenheder som er i anvendelse i dag.
+
+
+==== Anvendte danske enheder ====
+Ar (100,00 m²)
+Hektar (10.000,00 m²)
+
+
+==== Anvendte udenlandske enheder ====
+Square foot (sq ft) i USA (0,09290304 m²)
+Square yard (sq yd) i USA (0,83612736 m²) (1 yard = 3 feet)
+Square perch i USA (25,2928526 m²) (1 perch = 5,5 yard).
+Acre i USA (4046,8564224 m²) (1 acre = 43,560 square feet = 160 square perch).
+Square mile (sq mi) i USA (2,5899881103 m²) (1 square mile = 640 acres).
+
+
+== Ældre enheder ==
+Mange af de 

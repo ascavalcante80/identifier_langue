@@ -1,0 +1,103 @@
+Webbrowser oder allgemein auch Browser (engl. [ˈbɹaʊ̯zə(ɹ)], to browse, ‚stöbern, schmökern, umsehen‘, auch ‚abgrasen‘) sind spezielle Computerprogramme zur Darstellung von Webseiten im World Wide Web oder allgemein von Dokumenten und Daten. Das Durchstöbern des World Wide Webs beziehungsweise das aufeinanderfolgende Abrufen beliebiger Hyperlinks als Verbindung zwischen Webseiten mit Hilfe solch eines Programms wird auch als Internetsurfen bezeichnet. Neben HTML-Seiten können Webbrowser verschiedene andere Arten von Dokumenten wie zum Beispiel Bilder und PDF-Dokumente anzeigen. Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar.
+
+
+== Browser und WebbrowserBearbeiten ==
+Ursprünglich bezeichnete der aus dem Englischen entlehnte Begriff browsen am Computer lediglich das Nutzen von Navigationselementen („Vor“, „Zurück“, „Index“, etc.) zum Lesen von Texten bzw. Textdateien. Erweitert wurde dieser Begriff später durch das Aufkommen von Hypertext, bei dem man bestimmte als Querverweis (auch „Hyperlinks“ genannt) wirkende Wörter auswählen kann, um zu einem anderen Text zu gelangen. Später kamen dann Funktionen zur Anzeige von Bildern dazu und auch sogenannte verweissensitive Grafiken, bei denen man auf einer Computergrafik einen Bereich (zum Beispiel bei einer Weltkarte) anklickt und dadurch zu einer verlinkten Textseite (zum Beispiel über ein bestimmtes Land) gelangt. Des Weiteren existieren PDF-Browser zur Navigation und Recherche in PDF-Büchern, -Magazinen, -Abhandlungen etc., die auch Hyperlinks und audiovisuelle Medien enthalten können. Programme zum Verwalten von Inhalten auf Dateisystemen bezeichnet man als Dateimanager.
+
+
+== BedienungBearbeiten ==
+
+Der Großteil der Benutzeroberfläche eines heutigen Webbrowsers wird in der Regel zur Anzeige von Inhalten genutzt. Diese können durch Eingabe in eine Adressleiste erreicht werden. Zudem besitzen Browser eine definierte Startseite, die beim Öffnen angezeigt wird und bei der es sich z. B. um ein Internetportal oder eine Internetsuchmaschine handelt.
+Daneben verfügen Browser über Schaltflächen, mit denen der Benutzer zu zuvor besuchten Seiten sowie zur Startseite navigieren kann. Die URL einer Website kann als Lesezeichen gespeichert werden, um weitere Besuche der Webseite zu vereinfachen.
+Die meisten Browser unterstützen Tabbed Browsing, was es ermöglicht, mehrere Seiten in verschiedenen Registerkarten zu öffnen. Neben diesen Basisfunktionen lassen sich Browser über Plug-ins häufig mit weiteren Funktionen ausstatten.
+
+
+== EinsatzgebieteBearbeiten ==
+Browser werden auf Computern eingesetzt. Auch mobile Endgeräte (PDAs, Smartphones) verfügen über Browsersoftware für den Zugriff auf das World Wide Web. Der erste mobile Browser „PocketWeb“ wurde 1994 am TecO für den Apple Newton entwickelt. Heutige mobile Browser sind zum Beispiel Opera Mini, Internet Explorer, Firefox Mobile, Dolphin Browser, Boat Browser, Google Chrome, Safari und Skyfire.
+
+Aufgrund ihrer großen Verbreitung haben Webbrowser eine wichtige Funktion als sogenannte Thin Clients von Webanwendungen (siehe Schichtenarchitektur).
+Mit dem fortschreitenden Trend zum Internet und später Multimedia wandelte sich der Webbrowser zur zentralen Anwendersoftware auf einem heute üblichen PC. Heutige Browser zeigen Inhalte wie Computergrafiken, Musik, Radio oder Filme und benutzen dazu gegebenenfalls externe Bausteine, wie Java-Applets oder sogenannte Plug-ins.
+Zudem lassen sich damit Programme oder Dateien auf den PC laden („herunterladen“), um sie dort zu speichern und gegebenenfalls zu einem späteren Zeitpunkt zu öffnen oder auszuführen.
+Insbesondere die Verbreitung von Breitband-Internetzugängen förderte diese zentralen Funktionen heutiger Webbrowser. Somit verschwimmt zunehmend auch der Unterschied zu einem Dateimanager, der ursprünglich ausschließlich zum Öffnen, Kopieren oder Löschen von Dateien verwendet wurde. Viele Dateimanager haben heute auch Browser-Funktionen („Datei-Browser“) und können so auch zum Anzeigen von Dokumenten verwendet werden.
+Oft lässt sich ein Webbrowser auch für Tätigkeiten am lokalen Computer einsetzen, sofern funktionale Einheiten in der Lage sind, gemäß HTTP mit dem Webbrowser zu „kommunizieren“. Der Vorteil hierbei besteht darin, dass dafür kein eigenes Programm auf dem Rechner installiert werden muss. Dabei spielen auch Überlegungen zur Sicherheit des jeweiligen Computersystems eine Rolle.
+Inzwischen haben auch viele netzwerkfähige Geräte eine Webschnittstelle und können so mit einem Browser bedient werden.
+
+
+=== Weitere FunktionenBearbeiten ===
+
+Webbrowser beherrschen neben HTTP weitere Protokolle der Anwendungsschicht des TCP/IP-Referenzmodells, zum Beispiel FTP. Einige Webbrowser haben auch Funktionen für E-Mail, Usenet oder BitTorrent. Andere decken diese Funktionen durch externe Programme ab. So werden heute manche Browser (wie Mozilla oder Opera) als Browser-Garnitur mit integrierten Funktionen für zum Beispiel E-Mail und Usenet ausgeliefert. Andere, wie Internet Explorer und Konqueror, sind kombinierte Browser und Dateimanager. In den letzten Jahren hat wiederum eine Gegenbewegung eingesetzt, die sich für Browser ohne solche Zusatzfunktionen einsetzt, wie zum Beispiel Galeon und Firefox. Diese können jedoch durch installierbare Erweiterungen angepasst werden, so dass weitere Funktionen mit dem Browser ausgeführt werden können. Beispielsweise kann Firefox nach Installation von ChatZilla am Internet Relay Chat teilnehmen.
+Eine weitere wichtige Funktion, die Webbrowsern zukommt, ist die Anmeldung bei Benutzerkonten im Internet. Hierzu wird der Benutzer aufgefordert, einen Benutzernamen und ein Kennwort in einer Eingabemaske einzugeben, wobei die Zeichen des Kennworts in der Regel nicht im Browserfenster angezeigt werden. Für eine möglichst sichere Kommunikation mit einem Rechnernetzwerk haben einige Webbrowser erweiterte Sicherheitsfunktionen mit zusätzlichen Authentifizierungsfaktoren, wie zum Beispiel nach den Standards der FIDO-Allianz eingebaut.
+
+
+== Spezielle BrowserBearbeiten ==
+
+
+=== Textbasierte BrowserBearbeiten ===
+
+Manche Browser können nach wie vor nur einfachen Text darstellen. Solche Browser werden auch textbasierte Browser genannt. Meist ermöglichen sie es, Computergrafik-Dokumente abzuspeichern oder mit externen Programmen darzustellen. Textbrowser eignen sich besonders zur schnellen Recherche, da Bilder, Werbung und Ähnliches gar nicht geladen werden. Beispiele für textbasierte Browser sind Links, Line Mode Browser, ELinks, Lynx und w3m. Opera kann einen Textbrowser nachahmen.
+
+
+=== Offline-BrowserBearbeiten ===
+Offline-Browser arbeiten offline, also ohne Internetverbindung. Sie verwenden ausschließlich lokale Inhalte oder lokale Kopien von Web-Inhalten. Vorrangiges Einsatzgebiet sind nicht-internetfähige Rechner. Zur Herstellung geeigneter Offline-Kopien von Webseiten sind spezielle Programme wie wget oder HTTrack erforderlich. Auch viele Standard-Webbrowser lassen sich in einen Offline-Modus umschalten, wobei diese dann ihre Daten (sofern vorhanden) aus dem sogenannten Browser-Cache laden. Zudem werden Browser-Caches genutzt, um bereits betrachtete Seiten beim nächsten Besuch nicht neu herunterladen zu müssen.
+
+
+== GeschichteBearbeiten ==
+
+Tim Berners-Lee, ein Pionier des Hypertextes, entwickelte ab 1989 am CERN bei Genf (Schweiz) den ersten Webbrowser und -editor unter dem Namen WorldWideWeb (später Nexus) auf einer NeXT-Workstation. Eingelagerte Grafiken öffneten sich noch nicht automatisch, sondern mussten erst angeklickt werden. Im November 1990 beauftragte er Nicola Pellow mit der Entwicklung des minimalistischen Line Mode Browsers, der nur Text darstellen konnte, dafür aber auf „praktisch allen“ Rechnern lief. Weihnachten 1990 waren beide Browser präsentationsreif. Im August 1991 machte Berners-Lee das Projekt und beide Browser in der Newsgruppe alt.hypertext öffentlich bekannt.
+
+
+=== MosaicBearbeiten ===
+
+Größere Verbreitung fand nach dem unzureichenden WWW/Nexus der Browser NCSA Mosaic, eine Software mit grafischer Benutzeroberfläche (GUI) und sich automatisch vollständig aufbauendem Seitendesign, die ursprünglich auf Unix lief, aber bald schon auf Apple Macintosh und Microsoft Windows portiert wurde. Die Version 1.0 von Mosaic erschien am 1. April 1993.
+
+
+=== NetscapeBearbeiten ===
+
+Marc Andreessen, Leiter des Entwicklerteam Mosaics, erkannte die kommerziellen Möglichkeiten des Internets und gründete Netscape Communications. Das Unternehmen brachte seinen Navigator im Oktober 1994 auf den Markt. Er war ein gegenüber NCSA Mosaic verbesserter Webbrowser mit schnellerem Seitenaufbau. Netscape verbreitete sich sehr schnell und verdrängte Mosaic fast vollständig; für einige Jahre wurde er Marktführer im rasanten Wachstum des Internets. Das Unternehmen wurde Ende 1998 von AOL (America Online) aufgekauft. Neue Versionen von Netscape (Netscape 6.0, Netscape 7.0) hatten nur bescheidenen Erfolg. Insbesondere Netscape 6.0 wurde zu einem Fehlschlag. Am 1. März 2008 wurden die Weiterentwicklung und der Support eingestellt.
+
+
+=== Internet ExplorerBearbeiten ===
+
+Aufgrund des Erfolgs des Netscape Navigators brachte Microsoft, das bis dahin das Internet unterschätzt hatte, 1995 seinen Internet Explorer heraus, der nicht selbst entwickelt, sondern vom Unternehmen Spyglass (NCSA Mosaic) eingekauft worden war. Mit Erscheinen des Internet Explorers begann ein Verdrängungswettbewerb zwischen den Browser-Herstellern Microsoft und Netscape (siehe Browserkrieg).
+Dabei konnte sich Microsoft den Wettbewerbsvorteil zunutze machen, Hersteller des Betriebssystems Microsoft Windows zu sein und mit jeder Installation des Betriebssystems auch den hauseigenen Browser mitauszuliefern, sodass er wie selbstverständlich sofort benutzt wurde. Dieser Wettbewerbsvorteil führte zur Entscheidung BrowserChoice.eu der EU im Dezember 2009, eine Browserwahl im Betriebssystem Microsoft Windows einzuführen.
+Eine Folge dieses Wettbewerbs war zum einen eine starke Verbreitung beider Browser. Andererseits führte die Konkurrenz zwischen Microsoft und Netscape dazu, dass die beiden Firmen in ihrem Wettkampf um Marktanteile eine Vielzahl selbsterfundener Erweiterungen in ihre Programme integrierten, die vom jeweiligen Konkurrenzprodukt zunächst nicht unterstützt wurden. Letztlich gelang es Microsoft, den Konkurrenten Netscape vom Markt weitgehend zu verdrängen.
+
+
+=== Mozilla FirefoxBearbeiten ===
+
+Netscape reagierte auf seine Marktanteilverluste, indem es sich zu einem Open-Source-Projekt umwandelte. Unter dem neuen Namen Mozilla wurde die Internet-Suite weiterentwickelt.
+Später wurde der Webbrowser ausgegliedert und zunächst Phoenix, später Firefox genannt. Er wird durch den E-Mail-Client Thunderbird ergänzt, während Mozilla noch einen integrierten E-Mail-Client besaß. Die Versionen 1.0 von Firefox und Thunderbird erschienen nach einer längeren Betaphase im Dezember 2004.
+Während die Mozilla-Entwickler zuvor darauf bedacht gewesen waren, möglichst alle wichtigen Internetfunktionen wie Webbrowser, E-Mail-Programm, Adressbuch und HTML-Editor in einem Programmpaket (Mozilla Application Suite) zusammenzufassen, strebten sie später die Veröffentlichung einzelner, voneinander unabhängiger Komponenten an. Das Ziel der Entwicklung war ein schneller Programmstart und geringere Speicher- und Rechenzeitauslastung. Gleichzeitig sollte die Entwicklung der einzelnen Komponenten ausgebaut und vorangetrieben werden.
+Die Webbrowser-Funktion übernahm Mozilla Firefox. Die E-Mail-Funktion wurde unter dem Namen Mozilla Thunderbird ausgelagert, der Kalender wird unter dem Namen Mozilla Sunbird und der HTML-Editor zunächst als Nvu, nun als BlueGriffon weiterentwickelt. Die offizielle Mozilla Application Suite 1.7 wurde lediglich mit Sicherheitsaktualisierungen versorgt. Allerdings arbeitet seit Mitte 2005 ein Community-Projekt an der Weiterentwicklung der Application Suite unter dem Namen SeaMonkey.
+
+
+=== OperaBearbeiten ===
+
+Der Browser Opera erschien in der ersten Version 1996. Opera ist für eine Vielzahl von Betriebssystemen und Benutzersprachen verfügbar. Opera war einer der ersten Browser, die Tabs und einen Pop-up-Blocker fest integriert hatten.
+Nintendos Spielkonsole Wii und der Nintendo DS verwenden den Opera-Browser, um Internetdienstleistungen anzubieten. Ebenso setzen Sony, Loewe und bald auch Samsung bei der aufkommenden Verschmelzung von TV und Internet auf Opera.
+2013 ersetzte Opera beim Sprung von Version 12.17 auf 15 seinen HTML-Renderer Presto durch Googles neue Engine Blink und vollzog auch durch Beschränkung des üppigen Funktionsumfangs einen Paradigmenwechsel Richtung Massentauglichkeit.
+
+
+=== SafariBearbeiten ===
+
+Safari ist ein Browser des Unternehmens Apple. Er wurde im Januar 2003 veröffentlicht und ist seit Mac OS X Panther (10.3) der Standardbrowser, der den bis dahin genutzten Internet Explorer ersetzte. Der HTML-Rendering-Engine WebKit liegt die KHTML-Bibliothek des KDE-Projekts zugrunde, die von Apple an eigene Bedürfnisse angepasst und freien Entwicklern wieder als Open Source zur Verfügung gestellt wurde. Die Versionen 3.0 bis 6 waren auch für Windows verfügbar. Safari erfüllte als erster Browser den Acid3-Test. Safari wird auch in einer mobilen Version unter iOS als Browser verwendet.
+
+
+=== Google ChromeBearbeiten ===
+
+Am 2. September 2008 brachte Google den Webbrowser Chrome als Beta-Version für Windows heraus. Im Dezember 2008 wurde die erste stabile Version veröffentlicht. Chrome ist für Windows, Linux, Mac OS X, iOS und Android erhältlich.
+
+
+=== Microsoft EdgeBearbeiten ===
+
+Am 30. März 2015 brachte Microsoft den neuen Webbrowser Microsoft Edge (Codename Spartan) als Vorversion heraus, die endgültige Version erschien zusammen mit Windows 10 am 27. August 2015. Microsoft Edge ersetzte den Internet Explorer, der aber noch in Windows integriert ist.
+
+
+=== VivaldiBearbeiten ===
+
+Vivaldi ist ein neuer Browser des kleinen Unternehmens Vivaldi Technologies, das Opera-Mitgründer Jon Stephenson von Tetzchner nach seinem Ausscheiden dort 2013 gründete, um an die Opera-Version 12.17 für anspruchsvolle oder professionelle Benutzer anzuknüpfen und vor allem dessen Linie des Dialogs mit der Commununity der Nutzer fortzuentwickeln. An 27. Januar 2015 wurde die erste Vorversion als funktionstüchtige „Technical Preview“ der Presse vorgestellt, der bis zum Sommer drei weitere Previews folgten. Am 3. November wurde schließlich das erste Beta-Release veröffentlicht.
+
+
+=== Kompatibilität und StandardkonformitätBearbeiten ===
+Das World Wide Web Consortium (W3C) organisiert die Standardisierung der das World Wide Web betreffenden Techniken. Diese Standards wurden in der Vergangenheit und auch noch heute von einigen Browserherstellern nur teilweise oder abweichend umgesetzt beziehungsweise erweitert. Dies macht die Programmierung von browserunabhängigen Webanwendungen wegen des hohen Testaufwandes zum Teil schwierig und zeitaufwendig. Die Standardkonformität eines Browsers kann mit den Acid-Tests geprüft werden.
+Des Weiteren werden immer noch weltweit in nicht zweifelsfrei repräsentativen Stichproben in über 

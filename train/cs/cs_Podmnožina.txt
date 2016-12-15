@@ -1,0 +1,22 @@
+V matematice se jako podmnožina množiny A označuje taková množina B, o jejíchž všech prvcích platí, že jsou zároveň i prvky množiny A. Obdobně se může množina A označit jako nadmnožina množiny B. Tato fakta značíme , případně . Relace „být podmnožinou“ se nazývá také inkluze.
+Každá množina je svojí podmnožinou. Podmnožina množiny B, která jí není rovna, se označuje jako vlastní podmnožina množiny B. Tzn. žádná množina není svojí vlastní podmnožinou.
+
+
+== Formální definice ==
+
+
+== Způsoby zápisu ==
+Existují dva obvyklé způsoby zápisu podmnožin: Ve starším systému se symbolem „⊂“ označuje jakákoli podmnožina, zatímco symbolem „⊊“ se označuje vlastní podmnožina. V novějším systému se symbolem „⊂“ označuje vlastní podmnožina, zatímco pro označení obecné podmnožiny se používá symbol „⊆“ (analogický např. k „≤“).
+
+
+== Příklady ==
+Množina { 1, 2, 3 } je vlastní podmnožinou množiny { 0, 1, 2, 3 }.
+Množina všech celých čísel je vlastní podmnožinou množiny všech reálných čísel.
+Množina všech prvočísel větších než 500 je vlastní podmnožinou všech lichých čísel.
+Množina { 2 } je podmnožinou množiny sudých prvočísel (ovšem nikoli vlastní podmnožinou, protože je jí rovna).
+Množina českých prezidentů je vlastní podmnožinou množiny hlav evropských států.
+Prázdná množina je podmnožinou každé množiny.
+
+
+== Vlastnosti ==
+Relace  je uspořádání na množině všech podmnožin (tj. na potenční množině) libovolně zvolené množiny - to znamená, že splňuje pravidla reflexivity,

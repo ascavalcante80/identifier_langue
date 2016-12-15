@@ -1,0 +1,43 @@
+ndo a diferença de temperatura entre as extremidades do sistema composto é de 1 K.
+
+onde P é a potência térmica atrelada ao sistema.
+A relação entre a condutividade térmica e o coeficiente de transferência de calor é dada por
+.
+A reciproca do coeficiente de transferência de calor é o isolamento térmico. Em resumo:
+Condutância térmica , cuja unidade é o watt por kelvin (W/K), propriedade do objeto.
+Resistência térmica , cuja unidade é o kelvin por watt (K/W); propriedade do objeto.
+Coeficiente de transferência de calor , cuja unidade é o watt por kelvin e por metro quadrado (W/(K.m²)).
+Isolação térmica , medida em kelvin metro quadrado por watt (K.m²/W).
+
+
+=== Resistência térmica ===
+Conforme definida acima, a resistência térmica de um sistema (objeto) ou seção reta desse define-se como a razão entre o comprimento da seção e a condutividade térmica do material do qual é feita.
+Quando temos resistências térmicas em série, estas são adicionadas. Assim, quando há calor através de duas seções justapostas, cada um com uma resistência de 1 °C*W-1, a resistência total é de 2 °C*W-1. Um dos problemas mais comuns no design de engenharia envolve a seleção de um dissipador térmico com tamanho adequado para uma determinada fonte de calor. Trabalhar em unidades de resistência térmica simplifica o projeto. A seguinte fórmula pode ser usada para estimar o desempenho
+
+onde  é a resistência térmica máxima do dissipador de calor à temperatura ambiente,  é a potência térmica e  é a resistência térmica da fonte de calor.
+
+
+=== Transmissão ===
+Um terceiro termo é a transmitância térmica, que incorpora a condutividade térmica de uma estrutura com a transferência de calor devido à convecção e a radiação. Esta é medida nas mesmas unidades da condutividade térmica e é conhecida como a condutibilidade térmica de compósito.
+
+
+== Ver também ==
+Condução térmica
+Propagação do calor
+Transferência de calor
+Calor específico
+Isolante térmico
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Callister, William. Materials Science and Engineering - An Introduction. [S.l.]: John Wiley & Sons, INC, 2003. Capítulo: Appendix B. , 757 p. ISBN 0-471-22471-5
+Halliday, David; Resnick, Robert; & Walker, Jearl (1997). Fundamentals of Physics (5ª ed.). John Wiley and Sons. ISBN 0-471-10558-9.
+Srivastava G. P (1990), "The Physics of Phonons." Adam Hilger, IOP Publishing Ltd, Bristol.
+TM 5-852-6 AFR 88-19, volume 6 (Army Corp of Engineers publication)
+
+
+== Ligações externas ==
+P A Hilton Ltd., Thermal Conductivity of Liquids and Gases Unit. - P. A. Hilton. (em inglês)

@@ -1,0 +1,32 @@
+5 Prozent deutlich veraltete Browserversionen des Internet Explorers genutzt. In Deutschland ergibt sich ein anderes Bild, hier sind (ältere) Firefoxversionen häufiger. 
+Auf Abwärtskompatibilität einer Webseite sollte daher im Sinne einer guten Erreichbarkeit und Anzeigequalität von seriösen Webdesignern beim Angebot hingewiesen und auch im fertigen Produkt getestet werden.
+
+
+== Marktanteile und deren MessungBearbeiten ==
+
+Die tatsächliche Verbreitung eines Webbrowsers ist nicht zweifelsfrei feststellbar. Verschiedene Anbieter veröffentlichen Statistiken über die Verbreitung von Webbrowsern aufgrund unterschiedlicher häufig recht begrenzter Datenbasen. Da die generelle Verbreitungsrate eines Browsers von verschiedensten Faktoren beeinflusst wird, sind diese Statistiken unterschiedlich aussagekräftig und kommen zu teilweise stark unterschiedlichen, scheinbar widersprüchlichen Ergebnissen. So schwankt die Verbreitung eines Browsers je nach Themengebiet einer aufgerufenen Webseite, Herkunftsregion der aufrufenden Person und dem Zeitpunkt der Messung. Beispielsweise können Benutzer an ihrem Arbeitsplatz an die Verwendung eines vorgegebenen Webbrowsers gebunden sein, privat jedoch einen anderen Browser bevorzugen und verwenden. Auch verschiedene Ereignisse führen zu starken Schwankungen. So steigt der Marktanteil bei der Veröffentlichung einer neuen Hauptversion oder sinkt beim Bekanntwerden einer Sicherheitslücke.
+Insgesamt geben Browserstatistiken nur die grobe Verteilung und ggf. Trends an, da jede Statistik nur auf der Auswertung der Logdateien ausgewählter Websites beruht und es keine unbestritten repräsentative Auswahl dafür zu verwendender Websites gibt.
+Die Messungen werden in der Regel anhand des sogenannten User-Agent-Headers durchgeführt, mit der sich der verwendete Browser identifizieren lässt und die dieser bei jeder Anfrage an den Server übermittelt. Bei praktisch allen Browsern kann diese Kennung vom Benutzer verändert werden.
+
+
+== Siehe auchBearbeiten ==
+Liste von Webbrowsern
+
+
+== WeblinksBearbeiten ==
+
+Browser-Archiv: Herunterladen von alten Browsern (englisch)
+Funktionsweise von Browsern: Hinter den Kulissen moderner Web-Browser. – Detaillierte Informationen zur Architektur von Webbrowsern (deutsch).
+
+
+== EinzelnachweiseBearbeiten ==
+↑ PocketWeb. TecO, abgerufen am 7. Januar 2011. 
+↑ S. Gessler, A. Kotulla: PDAs as mobile WWW browsers. Proc. of 2nd International WWW Conference, Chicago, Oct. 1994. doi:10.1016/0169-7552(95)00093-6
+↑ Robert Cailliau: A Little History of the World Wide Web. CERN/W3C, 1995, abgerufen am 24. Juli 2010 (englisch). 
+↑ Tim Berners-Lee: Re: Qualifiers on Hypertext links… Usenet Nachricht. 6. August 1991, abgerufen am 28. Juli 2010 (englisch): „We have a prototype hypertext editor for the NeXT, and a browser for line mode terminals which runs on almost anything.“ 
+↑ Microsoft Corporation: Wählen Sie Ihre(n) Webbrowser (Memento vom 16. Dezember 2014 im Internet Archive)
+↑ Statcounter Statistiken der weltweiten Browser-Versionen über ein Jahr gerechnet. statcounter.com. 8. November 2015. Abgerufen am 8. November 2015.
+↑ Statcounter Statistiken der in Deutschland benutzten Browser-Versionen ohne Rapid Cycling Berücksichtigung über ein Jahr gerechnet. statcounter.com. 8. November 2015. Abgerufen am 8. November 2015.
+↑ Statcounter Statistiken der in Deutschland benutzten Browser-Versionen über ein Jahr gerechnet. statcounter.com. 8. November 2015. Abgerufen am 8. November 2015.
+↑ [eingeschränkte Vorschau in der Google-Buchsuche Principles of Web Design: The Web Warrior Series]. Joel Sklar. 2015. Abgerufen am 7. November 2015.
+↑ Vorlage:Internetquelle/Wartung/Datum nicht im ISO-FormatTop Browsers Per Country, June 2015. statcounter.com, Juni 2015, abgerufen am 1. November 2015.

@@ -1,0 +1,90 @@
+La matematica (dal greco μάθημα (máthema), traducibile con i termini "scienza", "conoscenza" o "apprendimento"; μαθηματικός (mathematikós) significa "incline ad apprendere") è la disciplina che studia le quantità (i numeri), lo spazio, le strutture e i calcoli.
+Per l'origine del termine occorre andare al vocabolo egizio maat, nella cui composizione appare il simbolo del cubito, strumento di misura lineare, un primo accostamento al concetto matematico. Simbolo geometrico di questo ordine è un rettangolo, da cui sorge la testa piumata della dea egizia Maat, personificazione dei concetti di ordine, verità e giustizia. Figlia di Ra, unico Uno, creatore di ogni cosa, ma neppure il padre può vivere senza la figlia, la sua potenza demiurgica è limitata e ordinata da leggi naturali e morali.
+All'inizio del papiro Rhind si trova questa affermazione: "Il calcolo accurato è la porta d'accesso alla conoscenza di tutte le cose e agli oscuri misteri". Il termine maat riappare in copto, in babilonese e in greco. In greco la radice ma, math, met entra nella composizione di vocaboli contenenti le idee di ragione, disciplina, scienza, istruzione, giusta misura, e in latino il termine materia indica ciò che può essere misurato.
+Col termine matematica di solito si designa la disciplina (ed il relativo corpo di conoscenze) che studia problemi concernenti quantità, estensioni e figure spaziali, movimenti di corpi, e tutte le strutture che permettono di trattare questi aspetti in modo generale. La matematica fa largo uso degli strumenti della logica e sviluppa le proprie conoscenze nel quadro di sistemi ipotetico-deduttivi che, a partire da definizioni rigorose e da assiomi riguardanti proprietà degli oggetti definiti (risultati da un procedimento di astrazione, come triangoli, funzioni, vettori ecc.), raggiunge nuove certezze, per mezzo delle dimostrazioni, attorno a proprietà meno intuitive degli oggetti stessi (espresse dai teoremi).
+La potenza e la generalità dei risultati della matematica le ha reso l'appellativo di regina delle scienze: ogni disciplina scientifica o tecnica, dalla fisica all'ingegneria, dall'economia all'informatica, fa largo uso degli strumenti di analisi, di calcolo e di modellizzazione offerti dalla matematica.
+
+
+== Evoluzione e finalità della matematicaModifica ==
+
+La matematica ha una lunga tradizione presso tutti i popoli della storia antica e moderna; è stata la prima disciplina a dotarsi di metodi di elevato rigore e portata. Ha progressivamente ampliato gli argomenti della sua indagine e progressivamente ha esteso i settori ai quali può fornire aiuti computazionali e di modellizzazione. È significativo che, in talune lingue e in talune situazioni, al termine singolare si preferisca il plurale matematiche.
+Nel corso della sua lunga storia e nei diversi ambienti culturali si sono avuti periodi di grandi progressi e periodi di stagnazione degli studi. Questo in parte è dovuto a singoli personaggi, capaci di dare apporti profondamente innovativi e illuminanti e di stimolare all'indagine matematica grazie alle loro doti didattiche. Si sono avuti anche periodi di arretramento delle conoscenze e dei metodi, specie in relazione a eventi distruttivi o a periodi di decadenza complessiva della vita intellettuale e civile. Negli ultimi 500 anni, per il miglioramento dei mezzi di comunicazione, è prevalsa la crescita del patrimonio di risultati e di metodi, dovuta alla natura stessa delle attività matematiche, tese alla esposizione precisa di problemi e soluzioni; ciò impone di comunicare col fine ultimo di chiarire ogni dettaglio delle costruzioni logiche e dei risultati (alcuni chiarimenti richiedono un impegno non trascurabile, talora molti decenni). Questo ha corrisposto alla definizione di un linguaggio, strumento esemplare per la trasmissione e la sistemazione delle conoscenze.
+
+
+=== Il linguaggio e il rigore matematicoModifica ===
+
+Del linguaggio matematico moderno, fatto di simboli riconosciuti in tutto il mondo, la maggior parte è stata introdotta dopo il XVI secolo. Prima di allora la matematica era scritta usando parole, un processo faticoso che rallentava le scoperte matematiche. Eulero (1707-1783) è stato il responsabile di molte delle notazioni oggi in uso. La notazione matematica moderna rende molto più facile il lavoro del matematico, ma i principianti lo trovano scoraggiante. È estremamente compressa: pochi simboli contengono una grande quantità di informazioni; come le note musicali, la notazione matematica moderna ha una sintassi rigorosa (che in misura limitata varia da autore ad autore, e da disciplina a disciplina) e codifica informazioni difficili da scrivere in qualsiasi altro modo.
+
+Il linguaggio matematico può essere difficile per i principianti. Parole come o e solo hanno precisi significati, più che nella lingua corrente. Inoltre, parole come aperto e campo hanno specifici significati matematici. Il gergo matematico comprende moltissimi termini tecnici, come omeomorfismo e integrabile, perché la matematica richiede assai più precisione del linguaggio quotidiano.
+Nelle dimostrazioni matematiche è fondamentale il rigore. Per rigore si intende un utilizzo preciso e logico di teoremi già dimostrati, in modo che, analizzando la dimostrazione in profondità attraverso un processo a ritroso, si arrivi ad assiomi e definizioni universalmente accettati. Il livello di rigore richiesto in matematica è variato col tempo: i Greci richiedevano argomentazioni dettagliate, ma nel periodo di Isaac Newton il rigore utilizzato nelle dimostrazioni si era alleggerito. I problemi nati dalle definizioni usate da Newton hanno portato alla rinascita di una attenta analisi delle dimostrazioni nel corso del Diciannovesimo secolo. Il significato di rigore matematico non è sempre chiaro. Ad esempio i matematici continuano a discutere sull'opportunità di considerare valide le dimostrazioni effettuate attraverso computer: dato che lunghi calcoli sono difficili da verificare, tali dimostrazioni potrebbero essere considerate non sufficientemente rigorose.
+Gli assiomi, nel pensiero tradizionale, erano considerati le "verità auto-evidenti", ma questa concezione comporta alcuni problemi. A livello formale, un assioma è solo una successione di simboli, che ha un significato intrinseco solo nel contesto di tutte le formule derivabili di un sistema assiomatico. L'obiettivo del programma di Hilbert è stato proprio quello di fornire l'intera matematica di una solida base assiomatica, ma secondo il teorema di incompletezza di Gödel una completa assiomatizzazione della matematica è impossibile. Nonostante ciò, la matematica è spesso immaginata consistere (per lo meno nel suo contenuto formale) nella teoria degli insiemi in una qualche assiomatizzazione, nel senso che ogni enunciato matematico, o dimostrazione, può essere scritto con formule esprimibili all'interno di tale teoria.
+
+
+== Matematica teorica e applicataModifica ==
+
+Le attività matematiche sono naturalmente interessate alle possibili generalizzazioni e astrazioni, in relazione alle economie di pensiero e ai miglioramenti degli strumenti (in particolare degli strumenti di calcolo) che esse sono portate a realizzare. Le generalizzazioni e le astrazioni quindi spesso conducono a visioni più approfondite dei problemi e stabiliscono rilevanti sinergie tra progetti di indagine inizialmente rivolti ad obiettivi non collegati.
+Nel corso dello sviluppo della matematica si possono rilevare periodi ed ambienti nei quali prevalgono alternativamente atteggiamenti generali e valori riconducibili a due differenti generi di motivazioni e di approcci: le motivazioni applicative, con la loro spinta a individuare procedimenti efficaci, e le esigenze di sistemazione concettuale con la loro sollecitazione verso generalizzazioni, astrazioni e panoramiche strutturali.
+Si tratta di due generi di atteggiamenti tra i quali si costituisce una certa polarizzazione; questa talora può diventare contrapposizione, anche astiosa, ma in molte circostanze i due atteggiamenti stabiliscono rapporti di reciproco arricchimento e sviluppano sinergie. Nel lungo sviluppo della matematica si sono avuti periodi di prevalenza di uno o dell'altro dei due atteggiamenti e dei rispettivi sistemi di valori.
+Del resto la stessa nascita della matematica può ragionevolmente ricondursi a due ordini di interessi: da un lato le esigenze applicative che fanno ricercare valutazioni praticabili; dall'altro la ricerca di verità tutt'altro che evidenti, forse tenute nascoste, che risponde ad esigenze immateriali, la cui natura può essere filosofica, religiosa o estetica.
+Negli ultimi 30 o 40 anni tra i due atteggiamenti si riscontra un certo equilibrio non privo di tensioni riemergenti, ma con molteplici episodi di mutuo supporto. A questo stato di cose contribuisce non poco la crescita del mondo del computer, rispetto al quale il mondo della matematica presenta sia canali di collegamento (che è ormai assurdo cercare di interrompere) che differenze, ad esempio differenze dovute a diverse velocità di mutazione e a diversi stili comunicativi, che proiettano le due discipline agli antipodi.
+
+
+== Argomenti principali della matematicaModifica ==
+Cerchiamo ora di segnalare a grandi linee i temi dell'indagine matematica, illustrando una sorta di itinerario per un progressivo accostamento dei problemi, delle argomentazioni e delle sistemazioni teoriche.
+
+
+=== AritmeticaModifica ===
+I primi problemi che inducono ad accostarsi alla matematica sono quelli che si possono affrontare con l'aritmetica elementare: i calcoli eseguibili con le quattro operazioni possono riguardare contabilità finanziarie, valutazioni di grandezze geometriche o meccaniche, calcoli relativi agli oggetti ed alle tecniche che si incontrano nella vita quotidiana.
+I più semplici di questi calcoli possono effettuarsi servendosi solo di numeri interi naturali, ma presto i problemi di calcolo richiedono di saper trattare i numeri interi relativi e i numeri razionali.
+
+
+=== AlgebraModifica ===
+I problemi aritmetici più semplici sono risolti mediante formule che forniscono risultati conseguenti. Ad esempio: l'area di un rettangolo con lati lunghi  e  è il loro prodotto . Complicando gli enunciati diventa necessario servirsi di equazioni. Ad esempio: per il Teorema di Pitagora, se un triangolo rettangolo ha i lati più corti (cateti) di lunghezza  e , quello più lungo (ipotenusa) ha come lunghezza il numero positivo  che risolve l'equazione:
+.
+Le equazioni più semplici sono le equazioni lineari, sia perché rappresentano le questioni geometriche più semplici, sia perché sono risolvibili con procedimenti standard.
+Nelle formule e nelle equazioni conviene far entrare parametri con valori indeterminati: in tal modo si viene a disporre di strumenti di portata più generale, che permettono di conseguire evidenti economie di pensiero. Ad esempio: in un triangolo rettangolo con cateti di lunghezza  e , la lunghezza dell'ipotenusa è il numero positivo  tale che . Per meglio valutare le formule e per risolvere molti tipi di equazioni è necessario sviluppare un calcolo letterale che permetta di rimaneggiarle. Le regole di questo calcolo letterale costituiscono la cosiddetta algebra elementare.
+
+
+=== GeometriaModifica ===
+Lo studio della geometria piana e spaziale riguarda inizialmente primitivi: il punto, la retta, il piano. Combinando questi elementi nel piano o nello spazio si ottengono altri oggetti quali segmenti, angoli, angoli solidi, poligoni e poliedri.
+Punto, retta, piano e spazio hanno dimensione rispettivamente 0, 1, 2 e 3. Tramite il calcolo vettoriale si definiscono e studiano spazi a dimensione più alta (anche infinita). Gli analoghi "curvi" di questi spazi "piatti" sono le curve e le superfici, di dimensione rispettivamente 1 e 2. Uno spazio curvo in dimensione arbitraria si chiama varietà. Dentro a questo spazio si possono spesso definire punti e rette (dette geodetiche), ma la geometria che ne consegue può non soddisfare gli assiomi di Euclide: una tale geometria è generalmente detta non euclidea. Un esempio è dato dalla superficie terrestre, che contiene triangoli aventi tutti e tre gli angoli retti.
+
+
+=== AnalisiModifica ===
+L'analisi riguarda principalmente il calcolo infinitesimale, introduce la fondamentale nozione di limite, e quindi di derivata e integrale. Con questi strumenti sono analizzati i comportamenti delle funzioni, che spesso non hanno una descrizione esplicita ma sono soluzioni di una equazione differenziale, derivante ad esempio da un problema fisico.
+
+
+== Settori della matematicaModifica ==
+
+Come riportato sopra, le discipline principali sviluppate all'interno della matematica sono nate dalla necessità di eseguire calcoli nel commercio, di capire i rapporti fra i numeri, di misurare la terra e di predire eventi astronomici. Questi quattro bisogni possono essere collegati approssimativamente con la suddivisione della matematica nello studio sulla quantità, sulla struttura, sullo spazio e sul cambiamento (cioè, aritmetica, algebra, geometria e analisi matematica). Oltre a queste, vi sono altre suddivisioni come la logica, la teoria degli insiemi, la matematica empirica di varie scienze (matematica applicata) e più recentemente allo studio rigoroso dell'incertezza.
+
+
+=== QuantitàModifica ===
+Lo studio sulle quantità inizia con i numeri, in primo luogo con i numeri naturali (numeri interi non negativi) e tramite operazione aritmetiche su di essi. Le proprietà più profonde dei numeri interi sono studiate nella teoria dei numeri, di cui un esempio famoso è l'ultimo teorema di Fermat. La teoria dei numeri inoltre presenta due problemi non risolti, largamente considerati e discussi: la Congettura dei numeri primi gemelli e la congettura di Goldbach.
+I numeri interi sono riconosciuti come sottoinsieme dei numeri razionali ("frazioni"). Questi, a loro volta, sono contenuti all'interno dei numeri reali, usati per rappresentare quantità continue. I numeri reali sono generalizzati ulteriormente dai numeri complessi. Queste sono i primi punti di una gerarchia dei numeri che continua ad includere i quaternioni e gli ottonioni. L'analisi dei numeri naturali conduce inoltre ai numeri infiniti.
+
+
+=== StrumentiModifica ===
+
+
+==== Strumenti informaticiModifica ====
+Fra gli strumenti informatici negli ultimi anni si sono resi disponibili vari generi di pacchetti software volti ad automatizzare l'esecuzione di calcoli numerici, le elaborazioni simboliche, la costruzione di grafici e di ambienti di visualizzazione e, di conseguenza, volti a facilitare lo studio della matematica e lo sviluppo delle applicazioni che possano essere effettivamente incisive.
+Particolare importanza ed efficacia vanno assumendo quelli che vengono chiamati sistemi di algebra computazionale o addirittura con il termine inglese Computer algebra systems, abbreviato con CAS.
+Segnaliamo alcuni programmi open source o comunque gratuitamente disponibili per lo studio della matematica:
+
+
+=== StruttureModifica ===
+Molti oggetti matematici, come gli insiemi di numeri e funzioni, mostrano la loro struttura interna e coerente. Le proprietà strutturali di questi oggetti sono investigate nello studio di gruppi, anelli, campi e altri sistemi astratti, i quali sono a loro volta oggetti. Questo è il campo dell'algebra astratta. In questo campo un concetto importante è rappresentato dai vettori, generalizzati nello spazio vettoriale, e studiati nell'algebra lineare. Lo studio di vettori combina tre tra le fondamentali aree della matematica: quantità, struttura, e spazio. Il calcolo vettoriale espande il campo in una quarta area fondamentale, quella delle variazioni.
+
+
+=== SpaziModifica ===
+Lo studio dello spazio inizia con la geometria, in particolare con la geometria euclidea. La Trigonometria poi combina simultaneamente spazio e numeri. Lo studio moderno dello spazio generalizza queste premesse includendo la Geometria non euclidea (che assume un ruolo centrale nella teoria della relatività generale) e la topologia. Quantità e spazio sono trattati contemporaneamente in geometria analitica, geometria differenziale, e geometria algebrica. Con la geometria algebrica si ha la descrizione di oggetti geometrici come insiemi di soluzioni di equazioni polinomiali combinando i concetti di quantità e spazio, e anche lo studio di gruppi topologici, i quali combinano a loro volte spazio e strutture. I gruppi di Lie sono usati per studiare lo spazio, le strutture e le variazioni. La Topologia in tutte le sue molte ramificazioni può essere considerata la zona di sviluppo più grande nella matematica del XX secolo ed include la congettura di Poincaré e il controverso teorema dei quattro colori, di cui l'unica prova, eseguita a computer, non è mai stata verificata da un essere umano.
+
+
+=== Matematica discretaModifica ===
+Matematica discreta è il nome comune per i campi della matematica utilizzati nella maggior parte dei casi nell'informatica teorica. Questa include teoria della computazione, teoria della complessità computazionale, e informatica teorica. La teoria della computazione esamina le limitazioni dei vari modelli di computer, compresi i modelli più potenti conosciuti - la Macchina di Turing. La teoria della complessità è lo studio delle possibilità di trattazione da parte di un calcolatore; alcuni problemi, nonostante siano teoricamente risolvibili attraverso un calcolatore, sono troppo costosi in termini di tempo o spazio tanto che risolverli risulta praticamente impossibile, anche prevedendo una rapida crescita delle potenze di calcolo. Infine la teoria dell'informazione si interessa della quantità di dati che possono essere immagazzinati su un dato evento o mezzo e quindi di concetti come compressione dei dati e entropia.
+Come campo relativamente nuovo, la matematica discreta possiede un numero elevato di problemi aperti. Il più famoso di questi è il problema " P=NP?" uno dei problemi per il millennio.
+
+
+=== Matematica applicataModifica ===
+La matematica applicata considera l'utilizzo della matematica teorica come strumento utilizzato per la risolu

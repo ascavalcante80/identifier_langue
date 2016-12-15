@@ -1,0 +1,23 @@
+Work Breakdown Structure (WBS) (en anglais ; en français : structure de découpage du projet – SDP ; le sigle anglais étant le plus souvent utilisé) est une décomposition hiérarchique, axée sur les tâches et activités, du travail que l’équipe de projet doit exécuter pour atteindre les objectifs du projet et produire les livrables voulus (définition du Project Management Institute).
+La WBS est constituée d'éléments. Chaque élément correspond à une tâche ou à un ensemble de tâches du projet. Le premier élément d’une WBS est le projet lui-même et donc, il reçoit le nom du projet. À partir de celui-ci, d'autres éléments sont créés en dessous pour représenter chaque élément du projet. Ils sont donc sous-catégorisés en différentes parties comme le commercial, l'ergonomique, l'informatique, le graphique, le pilotage... (Ici c'est un exemple pour la création d'un site internet). Tout dépend du projet lui-même, mais l'objectif est de bien déterminer les livrables au préalable et de les catégoriser.
+La WBS a pour but d’aider à organiser le projet, à établir la planification de référence et le budget prévisionnel. Il permet également de déléguer et de contractualiser la mission confiée à chaque acteur.
+
+
+== Origine ==
+Le concept de WBS a été développé par le département américain de la Défense (United States Department of Defense), pour piloter la mise au point du programme de missile Polaris en 1957 dans la Marine. Même si le terme n'était à l'époque pas employé, il constitue la première application d'une décomposition hiérarchique axée sur les tâches et activités à produire pour atteindre les livrables (résultats) voulus. C'est en 1962 que la NASA et l'industrie aéronautique publient un article qui décrit l'approche WBS. En 1968, le département américain de la Défense publie une notice définissant l'utilisation de cette méthode de projet dans l'industrie aéronautique
+
+
+== Les principes de réalisation d'un WBS ==
+
+
+=== La règle des 100 % ===
+L'une des règles les plus importantes de la Work Breakdown Structure est appelée la règle des 100 %. Elle a été définie ainsi :
+La règle des 100 % indique que la WBS comprend 100 % des travaux définis par la portée du projet et capte tous les livrables – internes, externes, intermédiaires – en ce qui concerne le travail à accomplir, y compris de gestion de projet. La règle des 100 % est l'un des plus importants principes guidant le développement, la décomposition et l'évaluation de la WBS. La règle s'applique à tous les niveaux dans la hiérarchie : la somme des travaux au niveau « enfant » doit être égale à 100 % du travail représenté par le « parent » et la WBS n'inclut pas n'importe quel travail qui tombe en dehors de la portée réelle du projet, autrement dit, elle ne peut pas inclure plus de 100 % du travail... Il est important de se rappeler que la règle de 100 % s'applique également au niveau de l'activité. Le travail représenté par les activités dans chaque sous-ensemble de travail doit s’ajouter jusqu'à 100 % des travaux nécessaire pour compléter l’ensemble du travail. [...]
+
+
+=== Éléments mutuellement exclusifs ===
+Mutuellement exclusifs : outre la règle des 100 %, il est important qu'il n'y ait pas de chevauchement dans la définition de la portée entre les différents éléments d'une WBS. Ces chevauchements pourraient entraîner du travail effectué en double ou une mauvaise communication sur la responsabilité et l'autorité. Un tel chevauchement pourrait aussi prêter à confusion au sujet de la comptabilité analytique du projet. Si les noms d'élément de code WBS sont ambigus, un dossier WBS peut aider à clarifier les distinctions entre les éléments de la WBS. Le dossier WBS décrit chaque composant de la WBS avec jalons, résultats attendus, activités, portée, et parfois des dates, ressources, coûts, qualité.
+
+
+=== Décomposition par résultats, pas par actions ===
+Si le/la chef de projet essaie de saisir tous les détails pragmatiques dans la WBS, il/elle inclura probablement soit trop d’actions soit trop peu. De trop nombreuses actions dépasseront 100 % du champ d'application du parent et trop peu seront en deçà des 100 %. La meilleure façon de se conformer à la règle des 100 % est de définir des éléments WBS en termes de résultats, pas d'actions. Cela garantit également que la WBS n'inclut pas de méthodes trop normatives, ce qui permet une plus grande ingéniosité et créativ

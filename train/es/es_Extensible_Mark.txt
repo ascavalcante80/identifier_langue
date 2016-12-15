@@ -1,0 +1,150 @@
+XML, siglas en inglés de eXtensible Markup Language ('lenguaje de marcas extensible'), es un lenguaje de marcas desarrollado por el World Wide Web Consortium (W3C) utilizado para almacenar datos en forma legible. Proviene del lenguaje SGML y permite definir la gramática de lenguajes específicos (de la misma manera que HTML es a su vez un lenguaje definido por SGML) para estructurar documentos grandes. A diferencia de otros lenguajes, XML da soporte a bases de datos, siendo útil cuando varias aplicaciones deben comunicarse entre sí o integrar información.
+XML no ha nacido sólo para su aplicación para Internet, sino que se propone como un estándar para el intercambio de información estructurada entre diferentes plataformas. Se puede usar en bases de datos, editores de texto, hojas de cálculo y casi cualquier cosa imaginable.
+XML es una tecnología sencilla que tiene a su alrededor otras que la complementan y la hacen mucho más grande y con unas posibilidades mucho mayores. Tiene un papel muy importante en la actualidad ya que permite la compatibilidad entre sistemas para compartir la información de una manera segura, fiable y fácil.
+
+
+== Historia ==
+XML proviene de un lenguaje inventado por IBM en los años setenta, llamado GML (Generalized Markup Language), que surgió por la necesidad que tenía la empresa de almacenar grandes cantidades de información y compartirla en otros SO y plataformas. Este lenguaje gustó a la ISO, por lo que en 1986 trabajaron para normalizarlo, creando SGML (Standard Generalized Markup Language), capaz de adaptarse a un gran abanico de problemas. A partir de él se han creado otros sistemas para almacenar información.
+En el año 1989 Tim Berners Lee creó la web, y junto con ella el lenguaje HTML. Este lenguaje se definió en el marco de SGML y fue de lejos la aplicación más conocida de este estándar. Los navegadores web sin embargo siempre han puesto pocas exigencias al código HTML que interpretan y así las páginas web son caóticas y no cumplen con la sintaxis. Estas páginas web dependen fuertemente de una forma específica de lidiar con los errores y las ambigüedades, lo que hace a las páginas más frágiles y a los navegadores más complejos.
+Otra limitación del HTML es que cada documento pertenece a un vocabulario fijo, establecido por el DTD. No se pueden combinar elementos de diferentes vocabularios. Asimismo es imposible para un intérprete (por ejemplo un navegador) analizar el documento sin tener conocimiento de su gramática (del DTD). Por ejemplo, el navegador sabe que antes de una etiqueta <div> debe haberse cerrado cualquier <p> previamente abierto. Los navegadores resolvieron esto incluyendo lógica ad hoc para el HTML, en vez de incluir un analizador genérico. Ambas opciones, de todos modos, son muy complejas para los navegadores.
+Se buscó entonces definir un subconjunto del SGML que permita:
+Mezclar elementos de diferentes lenguajes. Es decir que los lenguajes sean extensibles.
+La creación de analizadores simples, sin ninguna lógica especial para cada lenguaje.
+Empezar de cero y hacer hincapié en que no se acepte nunca un documento con errores de sintaxis.
+Para hacer esto XML deja de lado muchas características de SGML que estaban pensadas para facilitar la escritura manual de documentos. XML en cambio está orientado a hacer las cosas más sencillas para los programas automáticos que necesiten interpretar el documento.
+
+
+== Críticas ==
+XML y sus extensiones han sido regularmente criticadas por su nivel de detalle y complejidad. El mapeo del modelo de árbol básico de XML hacia los sistema de tipos de lenguajes de programación o bases de datos puede ser difícil, especialmente cuando se utiliza XML para el intercambio de datos altamente estructurados entre aplicaciones, lo que no era su objetivo primario de diseño. Otras críticas intentan refutar la afirmación de que XML es un lenguaje autodescriptivo (aunque la especificación XML no hace ninguna afirmación de este tipo). Se propone a JSON y YAML frecuentemente como alternativas, centrándose ambas en la representación de datos estructurados, en lugar de documentos narrativos.
+
+
+== Ventajas del XML ==
+Es extensible: Después de diseñado y puesto en producción, es posible extender XML con la adición de nuevas etiquetas, de modo que se pueda continuar utilizando sin complicación alguna.
+El analizador es un componente estándar, no es necesario crear un analizador específico para cada versión de lenguaje XML. Esto posibilita el empleo de cualquiera de los analizadores disponibles. De esta manera se evitan bugs y se acelera el desarrollo de aplicaciones.
+Si un tercero decide usar un documento creado en XML, es sencillo entender su estructura y procesarla. Mejora la compatibilidad entre aplicaciones. Podemos comunicar aplicaciones de distintas plataformas, sin que importe el origen de los datos, es decir, podríamos tener una aplicación en Linux con una base de datos Postgres y comunicarla con otra aplicación en Windows y Base de Datos MS-SQL Server.
+Transformamos datos en información, pues se le añade un significado concreto y los asociamos a un contexto, con lo cual tenemos flexibilidad para estructurar documentos.
+
+
+== Estructura de un documento XML ==
+La tecnología XML busca dar solución al problema de expresar información estructurada de la manera más abstracta y reutilizable posible. Que la información sea estructurada quiere decir que se compone de partes bien definidas, y que esas partes se componen a su vez de otras partes. Entonces se tiene un árbol de trozos de información. Ejemplos son un tema musical, que se compone de compases, que están formados a su vez por notas. Estas partes se llaman elementos, y se las señala mediante etiquetas.
+Una etiqueta consiste en una marca hecha en el documento, que señala una porción de éste como un elemento. Un pedazo de información con un sentido claro y definido. Las etiquetas tienen la forma <nombre>, donde nombre es el nombre del elemento que se está señalando.
+A continuación se muestra un ejemplo para entender la estructura de un documento XML:
+
+Aquí está el ejemplo de código del DTD del documento «Edit_Mensaje.dtd»:
+
+
+=== Documentos XML bien formados y control de errores ===
+Los documentos denominados como «bien formados» (del inglés well formed) son aquellos que cumplen con todas las definiciones básicas de formato y pueden, por lo tanto, analizarse correctamente por cualquier analizador sintáctico (parser) que cumpla con la norma. Se separa esto del concepto de validez que se explica más adelante.
+Los documentos han de seguir una estructura estrictamente jerárquica con lo que respecta a las etiquetas que delimitan sus elementos. Una etiqueta debe estar correctamente incluida en otra, es decir, las etiquetas deben estar correctamente anidadas. Los elementos con contenido deben estar correctamente cerrados.
+Los documentos XML sólo permiten un elemento raíz del que todos los demás sean parte, es decir, solo pueden tener un elemento inicial.
+Los valores atributos en XML siempre deben estar encerrados entre comillas simples o dobles.
+El XML es sensible a mayúsculas y minúsculas. Existe un conjunto de caracteres llamados espacios en blanco (espacios, tabuladores, retornos de carro, saltos de línea) que los procesadores XML tratan de forma diferente en el marcado XML.
+Es necesario asignar nombres a las estructuras, tipos de elementos, entidades, elementos particulares, etc. En XML los nombres tienen alguna característica en común.
+Las construcciones como etiquetas, referencias de entidad y declaraciones se denominan marcas; son partes del documento que el procesador XML espera entender. El resto del documento entre marcas son los datos «entendibles» por las personas.
+
+
+=== Partes de un documento XML ===
+Un documento XML está formado por el prólogo y por el cuerpo del documento así como texto de etiquetas que contiene una gran variedad de efectos positivos o negativos en la referencia opcional a la que se refiere el documento, hay que tener mucho cuidado de esa parte de la gramática léxica para que se componga de manera uniforme.
+
+
+==== Prólogo ====
+Aunque no es obligatorio, los documentos XML pueden empezar con unas líneas que describen la versión XML, el tipo de documento y otras cosas.
+El prólogo de un documento XML contiene:
+Una declaración XML. Es la sentencia que declara al documento como un documento XML.
+Una declaración de tipo de documento. Enlaza el documento con su DTD (definición de tipo de documento), o el DTD puede estar incluido en la propia declaración o ambas cosas al mismo tiempo.
+Uno o más comentarios e instrucciones de procesamiento.
+EJEMPLO: <?xml version="1.0" encoding="UTF-8"?>
+
+
+==== Cuerpo ====
+A diferencia del prólogo, el cuerpo no es opcional en un documento XML, el cuerpo debe contener solo un elemento raíz, característica indispensable también para que el documento esté bien formado. Sin embargo es necesaria la adquisición de datos para su buen funcionamiento.
+EJEMPLO:
+
+       <Edit_Mensaje>
+           (...)
+       </Edit_Mensaje>
+
+
+=== Elementos ===
+Los elementos XML pueden tener contenido (más elementos, caracteres o ambos), o bien ser elementos vacíos.
+
+
+=== Atributos ===
+Los elementos pueden tener atributos, que son una manera de incorporar características o propiedades a los elementos de un documento. Deben ir entre comillas.
+Por ejemplo, un elemento «estudiante» puede tener un atributo «Mario» y un atributo «tipo», con valores «come croquetas» y «taleno» respectivamente.
+<Estudiante Mario="come croquetas" tipo="taleno">Esto es un día que Mario va paseando…</Estudiante>
+
+
+=== Entidades predefinidas ===
+Entidades para representar caracteres especiales para que, de esta forma, no sean interpretados como marcado en el procesador XML.
+Ejemplo: entidad predefinida: & carácter: &.
+
+
+=== Secciones CDATA ===
+
+Es una construcción en XML para especificar datos utilizando cualquier carácter sin que se interprete como marcado XML. No confundir con 2(#PCDATA) que es para los elementos. Permite que caracteres especiales no rompan la estructura. Ejemplo:
+
+
+=== Comentarios ===
+Comentarios a modo informativo para el programador que han de ser ignorados por el procesador. Los comentarios en XML tienen el siguiente formato:
+
+
+== Validez ==
+Que un documento esté «bien formado» solamente se refiere a su estructura sintáctica básica, es decir, que se componga de elementos, atributos y comentarios como XML especifica que se escriban. Ahora bien, cada aplicación de XML, es decir, cada lenguaje definido con esta tecnología, necesitará especificar cuál es exactamente la relación que debe verificarse entre los distintos elementos presentes en el documento.
+Esta relación entre elementos se especifica en un documento externo o definición (expresada como DTD —Document Type Definition, 'Definición de Tipo de Documento'— o como XSchema). Crear una definición equivale a crear un nuevo lenguaje de marcado, para una aplicación específica.
+
+
+=== Document Type Definition ===
+La Document Type Definition o DTD (en español "definición de tipo de documento") define los tipos de elementos, atributos y entidades permitidas, y puede expresar algunas limitaciones para combinarlos. Los documentos XML que se ajustan a su DTD son denominados válidos.
+
+
+==== Declaraciones tipo elemento ====
+Los elementos deben ajustarse a un tipo de documento declarado en una DTD para que el documento sea considerado como válido.
+
+
+==== Modelos de contenido ====
+Un modelo de contenido es un patrón que establece los subelementos aceptados, y el orden en que se aceptan.
+
+
+==== Declaraciones de lista de atributos ====
+Los atributos se usan para añadir información adicional a los elementos de un documento.
+
+
+==== Tipos de atributos ====
+Atributos CDATA y NMTOKEN
+Atributos enumerados y notaciones
+Atributos ID e IDREF
+
+
+==== Declaración de entidades ====
+XML hace referencia a objetos que no deben ser analizados sintácticamente según las reglas XML, mediante el uso de entidades. Las entidades pueden ser:
+Internas o externas
+Analizadas o no analizadas
+Generales o parametrizadas
+
+
+==== Espacios de nombres ====
+Los espacios de nombres XML permiten separar semánticamente los elementos que forman un documento XML.
+
+
+=== XML Schemas (XSD) ===
+Un Schema es algo similar a un DTD. Define qué elementos puede contener un documento XML, cómo están organizados y qué atributos y de qué tipo pueden tener sus elementos.
+
+
+==== Ventajas de los Schemas frente a los DTD ====
+Usan sintaxis de XML, al contrario que los DTD.
+Permiten especificar los tipos de datos.
+Son extensibles.
+
+
+== Herramientas para trabajar con documentos XML ==
+Puede ser cualquier procesador de texto, que sea capaz de producir archivos .txt es capaz de generar XML, aunque en los entornos de desarrollo como Eclipse o Visual Studio, se facilita, ya que reconoce los formatos y ayuda a generar un XML bien formado. Aunque se puede dividir en dos grupos:
+• Herramientas de creación.
+• Herramientas de administración de contenido.
+
+
+== Lenguajes creados usando XML ==
+
+
+=== Extensible Stylesheet Language (XSL) ===
+El Lenguaje de Hoja de Estilo Extensible (eXtensible Stylesheet Language, XSL) es una familia de lenguajes que permiten describir como los archivos codif

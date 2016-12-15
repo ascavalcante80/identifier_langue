@@ -1,0 +1,34 @@
+Geografische coördinaten zijn coördinaten waarmee een plaats op aarde  numeriek wordt vastgelegd.
+
+
+== Methode ==
+Als coördinatenstelsel dient een stelsel meridianen (halve cirkels met begin- en eindpunt in de geografische polen) geïdentificeerd door de lengtegraad, en breedte- of parallelcirkels, dat zijn denkbeeldige cirkels die evenwijdig met de evenaar lopen, geïdentificeerd door de breedtegraad.
+De ooster- of westerlengte van een plaats is de hoek tussen de meridiaan van die plaats en de nulmeridiaan (sinds 1884 de meridiaan van Greenwich); de noorder- of zuiderbreedte is de afstand in graden tot de evenaar, gemeten langs een meridiaan.
+De polen worden geheel geïdentificeerd door de breedtegraad en hebben dus geen eenduidige lengtegraad. Elk ander punt heeft maar één stel geografische coördinaten. Er zijn diverse manieren om ze weer te geven op een kaart, in functie van de kaartprojectie of de wiskundige methode om het (evenals een globe driedimensionale) gebogen oppervlak van de geoïde over te brengen op een vlakke kaart, dat resulteert in een cartografische coördinaat.
+
+
+== Afstanden berekenen ==
+Om cartesiaanse coördinaten te berekenen uit geografische coördinaten moet men er rekening mee houden dat de aarde een ellipsoïde is.
+
+
+=== Latitudinale afstanden ===
+De latitudinale afstand voor 1° is neemt enigszins toe in functie van de latitude φ en kan berekend worden als volgt:
+
+
+=== Longitudinale afstanden ===
+De longitudinale afstand voor 1° neemt heel sterk af in functie van de latitude φ omdat alle meridianen samenlopend zijn aan de noord- en zuidpool. De afwijkingen nemen heel sterk toe voor de hogere latitudes.
+Veronderstel de aarde als een bol:
+
+Beschouw de aarde als een ellipsoïde:
+
+Referentie: WGS 84 geodetisch datum
+ = 6367449 (gemiddelde aardstraal)
+ = latitude
+ = gereduceerde latitude
+ = 0,99664719 (verhouding poolstraal / equatoriale aardstraal)
+ = 6378137 m (equatoriale aardstraal)
+Merk op:
+49°50'N en 51°10'N is de basis van de Lambert 2008-projectie.
+Het latitudinale verschil voor 1° tussen deze breedtegraden is minder dan 20 m.
+Bemerk dat er ≈ 1500 m longitudinaal verschil is voor 1° tussen 50°N en 51°N.
+De zeemijl = 1852 m zou overeenkomen met 1852 * 60 = 111 120 m (dus de zeemijl is iets te kor

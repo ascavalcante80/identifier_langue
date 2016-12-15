@@ -1,0 +1,241 @@
+Spisak internetskih domena:
+
+
+== Spisak generičkih internetskih domena ==
+.aero
+.arpa
+.asia
+.bitnet
+.biz
+.cat
+.com
+.coop
+.csnet
+.edu
+.example
+.exit
+.gov
+.info
+.int
+.invalid
+.jobs
+.local
+.localhost
+.mil
+.mobi
+.museum
+.name
+.nato
+.net
+.onion
+.org
+.pro
+.root
+.tel
+.test
+.travel
+.uucp
+.xxx
+
+
+== Spisak državnih internetskih domena ==
+.ad - Andora
+.ae - Ujedinjeni Arapski Emirati
+.af - Afganistan
+.ag - Antigva i Barbuda
+.ai - Angvila
+.al - Albanija
+.am - Armenija
+.an - Holandski Antili
+.ao - Angola
+.aq - Antarktik
+.ar - Argentina
+.as - Američka Samoa
+.at - Austrija
+.au - Australija
+.aw - Aruba
+.az - Azerbejdžan
+.ba - Bosna i Hercegovina
+.bb - Barbados
+.bd - Bangladeš
+.be - Belgija
+.bf - Burkina Faso
+.bg - Bugarska
+.bh - Bahrein
+.bi - Burundi
+.bj - Benin
+.bm - Bermuda
+.bn - Brunej
+.bo - Bolivija
+.br - Brazil
+.bs - Bahami
+.bt - Butan
+.bv - Ostrvo Bouvet
+.bw - Bocvana
+.by - Bjelorusija
+.bz - Belize
+.ca - Kanada
+.cc - Kokosova ostrva
+.cf - Centralnoafrička republika
+.cd - Demokratska republika Kongo
+.cg - Republika Kongo
+.ch - Švicarska
+.ci - Obala Slonovače
+.ck - Kukova ostrva
+.cl - Čile
+.cm - Kamerun
+.cn - Narodna Republika Kina
+.co - Kolumbija
+.cr - Kostarika
+.cs - Srbija
+.cu - Kuba
+.cv - Zelenortska Ostrva
+.cx - Božićno ostrvo
+.cy - Kipar
+.cz - Češka
+.de - Njemačka
+.dj - Džibuti
+.dk - Danska
+.dm - Dominika
+.do - Dominikanska republika
+.dz - Alžir
+.ec - Ekvador
+.ee - Estonija
+.eg - Egipat
+.eh - Zapadna Sahara
+.er - Eritreja
+.es - Španija
+.et - Etiopija
+.fi - Finska
+.fj - Fidži
+.fk - Falklandska ostrva
+.fm - Mikronezija
+.fo - Farska ostrva
+.fr - Francuska
+.ga - Gabon
+.gb - Velika Britanija
+.gd - Grenada
+.ge - Gruzija
+.gf - Francuska Gvajana
+.gh - Gana
+.gi - Gibraltar
+.gl - Grenland
+.gm - Gambija
+.gn - Gvineja
+.gp - Gvadalupe
+.gq - Ekvatorijalna Gvineja
+.gr - Grčka
+.gs - Južna Georgija i arhipelag Sandwich
+.gt - Gvatemala
+.gu - Guam
+.gw - Gvineja Bisao
+.gy - Gvajana
+.hk - Hong Kong
+.hm - Ostrvo Heard i arhipelag McDonald
+.hn - Honduras
+.hr - Hrvatska
+.ht - Haiti
+.hu - Mađarska
+.id - Indonezija
+.ie - Republika Irska
+.il - Izrael
+.in - Indija
+.io - Britanski teritorij Indijskog okeana
+.iq - Irak
+.ir - Iran
+.is - Island
+.it - Italija
+.jm - Jamajka
+.jo - Jordan
+.jp - Japan
+.ke - Kenija
+.kg - Kirgistan
+.kh - Kambodža
+.ki - Kiribati
+.km - Komori
+.kn - Sveti Kristofor i Nevis
+.kp - Sjeverna Koreja
+.kr - Južna Koreja
+.kw - Kuvajt
+.ky - Kajmanska ostrva
+.kz - Kazahstan
+.la - Laos
+.lb - Liban
+.lc - Sveta Lucija
+.li - Lihtenštajn
+.lk - Šri Lanka
+.lr - Liberija
+.ls - Lesoto
+.lt - Litvanija
+.lu - Luksemburg
+.lv - Latvija
+.ly - Libija
+.ma - Maroko
+.mc - Monako
+.md - Moldavija
+.me - Crna Gora
+.mg - Madagaskar
+.mh - Maršalova ostrva
+.mk - Makedonija
+.ml - Mali
+.mm - Burma
+.mn - Mongolija
+.mo - Makao
+.mp - Sjeverna ostrva Marijana
+.mq - Martinik
+.mr - Mauritanija
+.ms - Monserat
+.mt - Malta
+.mu - Mauricijus
+.mv - Maldivi
+.mw - Malavi
+.mx - Meksiko
+.my - Malezija
+.mz - Mozambik
+.na - Namibija
+.nc - Nova Kaledonija
+.ne - Niger
+.nf - Ostrvo Norfolk
+.ng - Nigerija
+.ni - Nikaragva
+.nl - Holandija
+.no - Norveška
+.np - Nepal
+.nr - Nauru
+.nu - Niue
+.nz - Novi Zeland
+.om - Oman
+.pa - Panama
+.pe - Peru
+.pf - Francuska Polinezija
+.pg - Papua Nova Gvineja
+.ph - Filipini
+.pk - Pakistan
+.pl - Poljska
+.pm - Sveti Petar i Mikelon
+.pn - Pitcairn
+.pr - Porto Riko
+.pt - Portugal
+.pw - Palau
+.py - Paragvaj
+.qa - Katar
+.re - Reunion
+.ro - Rumunija
+.rs - Srbija
+.ru - Rusija
+.rw - Ruanda
+.sa - Saudijska Arabija
+.sb - Solomonova ostrva
+.sc - Sejšeli
+.sd - Sudan
+.se - Švedska
+.sg - Singapur
+.sh - Sveta Helena
+.si - Slovenija
+.sj - Svalbard i Jan Majen
+.sk - Slovačka
+.sl - Sijera Leone
+.sm - San Marino
+.sn - Senegal
+.so - Somalija
+.sr -

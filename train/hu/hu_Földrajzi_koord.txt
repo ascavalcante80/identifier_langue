@@ -1,0 +1,55 @@
+A Föld felszínén minden pont helye egyértelműen meghatározható a földrajzi koordináta-rendszer két koordinátájával.
+
+
+== Első és második dimenzió: a földrajzi szélesség és hosszúság ==
+A gömb felületén valamely P pont a φ földrajzi szélességével és a λ földrajzi hosszúságával adható meg. Az ókori Babiloniaktól származó, majd a görög gondolkodó és földrajztudós, Ptolemaiosz által kiterjesztett elképzelés szerint a teljes kör 360 fokra (360°) osztható fel. Ez alapján alkotható meg a földrajzban használt speciális gömbi koordináta-rendszer.
+
+
+=== Földrajzi szélesség ===
+(φ): A P pont szélességét úgy kapjuk, hogy összekötjük a Föld középpontjával, és az így kapott egyenes és az Egyenlítő síkja által bezárt szög adja a szélességet. Megállapodás alapján északi irányba pozitív, déli irányba negatív az érték előjele.
+Az azonos szélességű pontok alkotta vonal a szélességi kör. A szélességi körök síkjai párhuzamosak egymással és az Egyenlítővel. Az Egyenlítő (φ=0) a leghosszabb szélességi kör, a szélességi körök a pólusok felé rövidülnek. A pólusok a 90 foknál találhatók: Északi-sark: +90°; Déli-sark: -90°.
+
+
+=== Földrajzi hosszúság ===
+(λ): egy pont meridiánsíkjának a kezdőmeridián síkjával bezárt, (megállapodás szerint keleti irányban pozitív, nyugati irányban negatív) szöge. A pont meridiánsíkja az a sík, ami tartalmazza a két pólust és a pontot.
+Az azonos hosszúságú pontok alkotta görbe a meridián, vagy más néven hosszúsági kör. A kezdő meridián (λ=0), egy a Föld felszínén önkényesen kijelölt ponton, a greenwichi obszervatóriumon (Royal Observatory, Greenwich) halad keresztül. Az antimeridián a kezdő meridiántól 180°-ra van egyaránt keletre és nyugatra. A szélességi körökkel ellentétben a meridiánok azonos hosszúságúak és nem párhuzamosak: mindegyik áthalad az északi és a déli póluson.
+
+
+=== Idealisztikus koordináta-rendszer ===
+E két szög megadásával a Földön bármely hely horizontális pozíciója leírható. A szögek pozitív és negatív irányait gyakran jelölik az angol égtájak kezdőbetűivel is (N, S, E, W).
+A Lánchíd középpontja például Budapesten az északi szélesség 47,498970 fok és keleti hosszúság 19,043604 foknál, azaz az északi szélesség 47 fok 29 perc 56,29 másodperc és keleti hosszúság 19 fok 2 perc 36,97 másodpercnél található. (é. sz. 47° 29′ 56″, k. h. 19° 02′ 37″47.498969444444, 19.043602777778)
+A szélességi és hosszúsági körök összessége az általános fokhálózat. Létezik keresztirányú (transzverzális) fokhálózat is, a fokhálózat 90°-kal való elfordításával, azaz ahol a pólusok a vízszintes Egyenlítőn vannak, melynek alapja szintén a gömbfelületi koordináta-rendszer.
+Hagyományosan a szögek feloszthatók fokokra (°), percekre (') és másodpercekre ("). Azonban a szögeknek létezik számos más megadási formátuma is, mindegyiknél szélességi – hosszúsági sorrendben.
+Például:
+DM (Degree:Minute) Fok:Perc (49:30.0-123:30.0)
+DMS (Degree:Minute:Second) Fok:Perc:Másodperc (49:30:00-123:30:00)
+DD (Decimal Degree) Tizedes fok (49.5000-123.5000), általában 4 tizedes jegyig
+Az átváltás DM-ről vagy DMS-ről DD-re, Tizedes fok = fokok egész száma + percek száma osztva 60-nal + másodpercek száma osztva 3600-zal. Jelenleg a fokok tizedes osztása a legáltalánosabban elfogadott szabvány.
+Az Egyenlítő nyilvánvalóan ennek a földrajzi koordináta-rendszernek fontos részét képezi, mert nullpontját reprezentálja a szélességi szögnek és félúton van a pólusok között. Az Egyenlítő az alapsíkja ennek a földrajzi koordináta-rendszernek. Minden gömbi koordináta-rendszernél definiálni kell hasonló alapsíkot.
+
+
+=== Realisztikus koordináta-rendszer ===
+A tényleges szélességi és hosszúsági koordináta értékek megadása a vonatkozó forgásiellipszoid-modell (az. ún. geodéziai dátum) megadásával vagy az adatoknak egy ismert dátumhoz való hozzárendelésével lehetséges. (Ilyen például a WGS84 vonatkoztatási rendszer, a Földet globálisan közelítő ellipszoid-modell. A WGS84 modellben a Föld sugara az Egyenlítőnél 6 378 137 m, a pólusoknál pedig 6 356 752 m a lapultsága pedig 1/298,257 223 563.) Amennyiben a geodéziai dátum definiálva van, a földrajzi koordináták ezen alapfelületen értelmezettek. Más szavakkal, a Föld felszínén ugyanahhoz az egzakt ponthoz eltérő szélességi és hosszúsági értékek tartoznak a választott alapfelület függvényében.
+A térinformatikai (GIS-) szoftverekben a vetített szélességi/hosszúsági adatok különböző, a WGS84-től eltérő alapfelületű földrajzi koordináta-rendszerekben is megadhatók és egyik rendszerből a másikba konvertálhatók. Például lehet az adatok szélességi/hosszúsági vonatkoztatási rendszere az „1983-as észak-amerikai dátum”, amit „GCS_North_American_1983” vagy leggyakrabban NAD83 jelöl. A Magyarországon polgári célokra, az EOV-hez használt geodéziai dátum a HD72 („Hungarian Datum 1972”).
+
+
+== Harmadik dimenzió: magasság vagy mélység ==
+A Föld felszíne alatt vagy a Föld felszíne fölötti pozícióhoz meg kell adni a magasságot is. A magasság megadja a kérdéses pont függőleges távolságát egy meghatározott ponthoz, vagy egy adott felszínhez képest. Elfogadott viszonyítási definíciót adnak a mért adatok, ilyen az átlagos tengerszint, vagy a geoidhoz viszonyított magasság. A Föld középpontjától mért távolság egy célszerű koordináta mind a nagyon mély, mind az űrben levő pozícióhoz.
+
+
+== A geostacionárius műholdak koordinátáinak megadása ==
+A geostacionárius műholdak (például a televíziós műsorszóró műholdak) az Egyenlítő fölött vannak. Így helyzetük a Földhöz képest hosszúsági fokokban kifejezhető, mert szélességi koordinátáik nem változnak, hiszen annak értéke jó közelítéssel nulla.
+
+
+== Geocentrikus polárkoordináták ==
+A gömbi modellnél használható a hely Föld középpontjától való távolsága harmadik koordinátaként, ami így egy (φ,λ,r) koordinátákkal meghatározott polárkoordináta-rendszert definiál. Ebben az esetben a közepes földsugár (R) bevezetésével a h (gömb feletti) magasságra vonatkozóan felírhatjuk: r = R+h. A gömb feletti magasság a szokásosan használt magasságnak csak közelítése, a pontatlanságát a közepes földsugár átlagos volta, valamint az a körülmény okozza, hogy az ellipszoid normálisa a legtöbb helyen nem illeszkedik a koordináta-rendszer középpontjára. A földsugárnál lényegesen nagyobb távolságokra a közelítés hibája kezd elhanyagolhatóvá válni.
+
+
+== A Föld alakja és a földrajzi koordináták ==
+
+A Föld alakja szabálytalan, de jól közelíthető egy kissé lapult forgási ellipszoiddal. Ettől a hegyek és a tengeri mélységek miatt néhány kilométernyit eltér. A legnagyobb eltérés nem éri el a 20 km-t (Csomolungma +8848 méter, Mariana-árok -10 994 méter), ami a Föld átmérőjének nem egészen 0,2%-a, ezért a forgási ellipszoid még a felszíni egyenetlenségeket figyelembe véve is jó közelítés. A felszín kiegyenlítésére használják a térképezésnél a vetítési felületet, amire első lépésben a felszíni pontokat vetítik. Ez a vetítési felület – a térképezés alapfelülete – lehet különböző az igények szerint. A vetítési sík definíciója befolyásolja egy adott tereppont földrajzi koordinátájának értékét.
+a. - A fizikai (topográfiai) alak a tényleges felszín.
+b. - A Föld matematikai alakjának tekintett geoid a nehézségi erő azon nívófelülete, amely a világóceánok közepes tengerszintjével egybeesik. Ez a definíció meghatározza a geoidfelszín lefutását a szárazulatok alatt is.
+c. - Gyakorlati célokra a geoidot különféleképpen jól közelítő forgási ellipszoidok használatosak, mivel az ellipszoid matematikailag jól kezelhető felület. A szélességet és hosszúságot ekkor a választott alapfelületi ellipszoidon mérjük. A geoid és az választott alapfelület közötti eltérés a geoidunduláció, melynek mértékét méterben fejezzük ki. Globálisan illeszkedő ellipszoid esetén ez a Föld nagy részére általában kisebb, mint 60 m, néhány helyen meghaladhatja a 100 métert.
+d. - Gyakran elegendő pontosságot szolgáltat a gömbi közelítés, amelynek sugara a modell célja szerint választható: egyenlítői sugár (R=a), sarki sugár (R=b) vagy bármilyen köztes érték.
+A Föld szabálytalan alakja és a vetítési felszínek kiválasztásának nehézségei miatt a pontos térképezéshez egy-egy kisebb területen önáll

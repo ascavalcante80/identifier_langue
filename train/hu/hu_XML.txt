@@ -1,0 +1,122 @@
+Az XML (Extensible Markup Language, Kiterjeszthető Jelölő Nyelv) a W3C által ajánlott általános célú leíró nyelv, speciális célú leíró nyelvek létrehozására. Az SGML egyszerűsített részhalmaza, mely különböző adattípusok leírására képes. Az elsődleges célja strukturált szöveg és információ megosztása az Interneten keresztül. Az XML-en alapuló nyelvek (például RDF, RSS, MathML, XSIL, SVG) leírása formális, így lehetővé téve a programok számára a dokumentumok módosítását és validálását a formátum előzetes ismerete nélkül.
+
+
+== Története ==
+Az XML-t Tim Bray fejlesztette ki, miután az IBM, az Oxford University Press és a University of Waterloo egy internetes szótáron dolgozott. Mivel hatalmas mennyiségű adatot kellett tárolni és feldolgozni, kereskedelmi szoftvermérnököket vontak be a projektbe, hogy megoldást találjanak az adatok indexelésére és tárolására. Az Association for Computing Machinery (ACM) számára adott interjú során Bray azt nyilatkozta, hogy bevonták a projektbe és megmutatták neki a szótár számára kifejlesztett belső struktúrát: „kis beágyazott címke határozta meg, hogy mi bejegyzés illetve szó, és aztán kiejtés, etimológia, rövid idézet, és aztán adat, forrás, szöveg és így tovább” (ACM Queue, 2005). Ez vált az XML elődjévé. Miután kifejlesztették a technológiát a szótárprojekthez, Bray megalapította az Open Text Corporationt, kifejlesztett egy keresőmotort, valamint meghívták a W3C-be, hogy legyen az XML specifikációjuk szerkesztője.
+
+
+== Előnyei és hátrányai ==
+Az XML azon tulajdonságai, amelyek alkalmassá teszik adattovábbításra:
+mind ember, mind gép számára olvasható formátum
+támogatja a Unicode-ot, ami lehetővé teszi bármely információ bármely emberi nyelven történő közlését
+képes a legtöbb általános számítástudományi adatstruktúra ábrázolására (rekord, lista, fa…)
+öndokumentáló formátum, amely struktúra- és mezőneveket ír le speciális értékekkel együtt
+szigorú szintaktikus és elemzési követelményeket támaszt, ami biztosítja, hogy a szükséges elemzési algoritmus egyszerű, hatékony és ellentmondásmentes maradjon
+Az XML-t gyakran használják dokumentumtárolási és feldolgozási formátumként, mind online, mind offline módon, és több előnnyel is jár:
+internetes szabványokon alapuló erőteljes, logikailag ellenőrizhető formátum
+a hierarchikus struktúrája megfelel a legtöbb (de nem mindegyik) dokumentumtípusnak
+sima szövegformátumban (plain text) valósul meg, licencektől és korlátozásoktól mentesen
+platformfüggetlen, így viszonylag immunis a technológiai változásokkal szemben
+az XML-t és elődjét, az SGML-t már több, mint tíz éve használják, így széles tapasztalat és eszközkészlet áll rendelkezésre
+Bizonyos alkalmazások szempontjából a következő hátrányokkal rendelkezik:
+A szintaxisa elég bőbeszédű és részben redundáns. Ez nehezítheti az emberi olvashatóságot és az alkalmazások hatékonyságát, valamint nagyobb tárolási költséggel jár. Nehézzé teszi az XML alkalmazását korlátozott sávszélesség esetén, bár bizonyos esetekben a tömörítés csökkentheti a problémát. Ez részben igaz a telefonokon és PDA-kon futó multimédiás alkalmazásokra, melyek XML-t szeretnének használni képek és videók leírására.
+A szintaxis számos homályos, felesleges tulajdonsággal bír, ami az SGML hagyatéka.
+Az alapvető elemzési követelmények nem támogatják az adattípusok túl széles körét, így néha a kívánt adat kinyerése a dokumentumból plusz munkával jár az elemző részéről.
+Nincs lehetőség a dokumentum egyes részeinek közvetlen elérésére és frissítésére.
+Egymást részben átfedő (nem hierarchikus) adatstruktúrák modellezése külön erőfeszítést igényel.
+Az XML relációs és objektumorientált paradigmához kötése néha fáradságos.
+
+
+== XML dokumentumok helyessége ==
+Ahhoz, hogy egy XML dokumentum helyes legyen, a következő követelményeknek kell megfelelnie:
+Jólformáltság. Egy helyesen formázott XML dokumentum megfelel minden XML szintaxis szabálynak. Például ha egy nem üres elem rendelkezik nyitó taggel, de nem rendelkezik záró taggel, akkor nem helyesen formázott. Az a dokumentum, ami nem helyesen formázott, nem tekinthető XML-nek. Az elemzőnek meg kell tagadnia a feldolgozását.
+Érvényesség. Egy érvényes dokumentum olyan adatot tárol, ami megfelel a felhasználó által definiált tartalmi szabálynak, ami leírja, hogy a dokumentum mely részében milyen értékek érvényesek. Például ha a dokumentum egy elemének olyan szöveget kell tartalmaznia, ami egész számként értelmezhető, és ehelyett a szöveg "helló", üres, vagy más elemeket tartalmaz, akkor a dokumentum nem érvényes.
+
+
+=== Helyesen formázott XML dokumentumok ===
+Egy XML dokumentum szövegből áll, Unicode karakterek sorozata. Amíg az XML megköveteli az UTF-8 és UTF-16 kódolás támogatását, melyek elterjedtek, addig más kódolások (például ISO-8859) nem túl gyakoriak.
+Egy helyesen formázott XML dokumentumnak többek között a következő szabályoknak kell megfelelnie:
+Egyetlen gyökérelem lehet egy dokumentumban. Az XML deklaráció, a feldolgozó utasítások és megjegyzések azonban megelőzhetik a gyökérelemet.
+A nem üres elemeket mind nyitó, mind záró tageknek kell határolniuk.
+Az üres elemek megjelölhetők üres elem (önlezáró) taggel, mint például az <ÜresVagyok/>. Ez szemantikailag egyenértékű az <ÜresVagyok></ÜresVagyok> párossal.
+Minden attribútumérték idézőjelek között van, vagy szimpla('), vagy dupla(") idézőjelek között. Szimpla idézőjel szimpla idézőjelet, dupla idézőjel dupla idézőjelet zár.
+A tagek egymásba ágyazhatók, de nem lehetnek átfedők. Mindegyik nem gyökér elemet másik elemnek kell magában foglalnia.
+A dokumentum megfelel a karakterkészlet-definíciónak. A karakterkészlet meghatározása általában az XML deklarációban van, de a szállító protokoll (például HTTP) is meghatározhatja. Ha nincs karakterkészlet-definíció, akkor Unicode karakterkészletet feltételez, amit a Unicode bájtsorrend jel (BOM) határoz meg. Ha a jel nem található, UTF-8 az alapértelmezett.
+Az elemnevek érzékenyek a kis- és nagybetűk közötti különbségre. Például a következő egy helyesen formázott pár:
+
+<ÉnPéldám> … </ÉnPéldám>
+
+míg ez nem:
+<ÉnPéldám> … </Énpéldám>
+
+Az XML-elemek körültekintő névválasztása magában hordozza az adat jelentését a leírásban. Ez növeli az olvashatóságot az emberek számára, míg megőrzi a szoftveres elemzők számára szükséges szigort.
+Például egy egyszerű recept a következőképpen fejezhető ki XML-ben:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Recept név="kenyér" elk_idő="5 perc" sütés_idő="3 óra">
+  <cím>Egyszerű kenyér</cím>
+  <összetevő mennyiség="3" egység="csésze">Liszt</összetevő>
+  <összetevő mennyiség="10" egység="dekagramm">Élesztő</összetevő>
+  <összetevő mennyiség="1.5" egység="csésze">Meleg víz</összetevő>
+  <összetevő mennyiség="1" egység="teáskanál">Só</összetevő>
+  <Utasítások>
+    <lépés>Keverj össze minden összetevőt, aztán jól gyúrd össze!</lépés>
+    <lépés>Fedd le ruhával és hagyd pihenni egy óráig egy meleg szobában!</lépés>
+    <lépés>Gyúrd össze újra, helyezd bele egy bádogedénybe, aztán süsd meg a sütőben!</lépés>
+  </Utasítások>
+</Recept>
+
+
+=== Érvényes XML dokumentumok ===
+Egy olyan XML dokumentum, ami azon kívül, hogy helyesen formázott, még meg is felel egy adott sémának, érvényesnek nevezhető.
+Egy XML séma az XML dokumentum típusának leírása, jellemzően az XML megkötésein túli korlátozásokat tartalmaz az adott típus struktúrájára és tartalmára. Nagy mennyiségű szabványos és szabadalmazott XML séma jelent meg, hogy leírja ezeket a megkötéseket, és ezen sémák egy része maga is XML-alapú.
+Az általánosított adatleíró nyelvek (mint például az SGML és az XML) megjelenése előtt a szoftvertervezőknek speciális fájlformátumokat vagy kis nyelveket kellett kifejleszteniük, hogy adatot tudjanak megosztani több alkalmazás között. Ez részletes specifikációk megírását, valamint speciális célú elemzők és írók megalkotását követelte meg.
+Az XML szabályos struktúrája és szigorú elemzési szabályrendszere képessé teszi a szoftvertervezőket, hogy az elemzést szabványos eszközökre bízzák, és mivel az XML egy általános, adatmodell-orientált keretrendszert biztosít az alkalmazásspecifikus nyelvek fejlesztőinek, a szoftverfejlesztőknek csak a szabályrendszer és az adat kifejlesztésére kell koncentrálni, így viszonylag magas absztrakciós szintet elérve.
+Alaposan tesztelt eszközök állnak rendelkezésre, hogy az XML dokumentumot a sémával szemben validálják: az eszköz automatikusan ellenőrzi, hogy a dokumentum megfelel-e a sémában kifejtett megkötéseknek. Vannak olyan eszközök, melyek az XML elemzőbe építve érhetők el, és vannak, melyek külön használhatók.
+A sémák más felhasználása is létezik: az XML szerkesztők például a szerkesztés során fel tudják használni a sémákat a hatékonyság és a kényelem növelése érdekében.
+
+
+==== DTD ====
+A legrégebbi XML séma a Document Type Definition (DTD, dokumentum típus definíció), ami az SGML-ből származik. Mivel a DTD az XML 1.0 szabvány része, így mindenhol támogatott. Azonban megvannak a maga hátrányai:
+nem támogatja az XML újabb képességeit, például a névtereket
+hiányzik a szemléletessége, az XML több formális képessége nem használható a DTD-ben
+az SGML-ből származtatott, nem XML szintaxist használ a sémák leírására
+
+
+==== XML Schema ====
+Az XML Schema egy újabb keletű XML séma nyelv, amit a W3C a DTD utódaként definiáltak. Gyakran XSD (XML Schema Definition) néven is szokták emlegetni. Az XSD lényegesen többre képes a DTD-nél az XML nyelvek leírása terén. Sokoldalú adattípus rendszert használ, ami részletesebb megkötéseket tesz lehetővé az XML dokumentum logikai szintjén, de ezért sokkal robusztusabb érvényesítő keretrendszert követel meg. Ráadásul az XSD XML-alapú formátumon alapul, minek következtében szokványos XML eszközöket lehet használni a létrehozásához és feldolgozásához, bár az implementációk sokkal többet kívánnak, mint az egyszerű XML olvasási képesség.
+Az XML Schema-t érő kritikák közül néhány:
+A specifikáció nagyon nagy, ami nehézzé teszi a megértést és az implementálást.
+Az XML-alapú szintaxis bőbeszédűséghez vezet a sémadefinícióban, ami nehezíti az XSD olvasását és írását
+
+
+==== Más sémanyelvek ====
+Néhány sémanyelv nem csak egy adott XML formátum struktúráját írja le, de korlátozott lehetőséget is biztosít az egyedi XML fájlok feldolgozásának befolyásolására is, melyek megfelelnek ennek a szabványnak. A DTD és XSD szintén rendelkezik ezzel a képességgel: képesek alapértelmezett attribútumdefiníciók meghatározására is. A RELAX NG szándékosan nem nyújt ilyen lehetőséget.
+
+
+== XML megjelenítése a Weben ==
+Az Extensible Stylesheet Language (XSL, kiterjeszthető stílusleíró nyelv) támogató technológia, ami leírja, hogy hogyan kell formázni vagy átalakítani az XML dokumentumban található adatot. A dokumentumot a böngészők által olvasható formátumra alakítja át. A folyamat hasonló a HTML dokumentumokon alkalmazott CSS eljáráshoz. Egy sor az XML dokumentum tetején:
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+azt mondja meg, hogy a transform.xsl egy XSLT stíluslap, ami az XML-ről HTML formátumra való átalakításra vonatkozóan hordoz információt.
+Az XML dokumentumot néhány böngésző közvetlenül is meg tudja jeleníteni. Ilyen például az Internet Explorer vagy a Mozilla Firefox a CSS segítségével. A CSS stíluslapok alkalmazása érdekében az XML dokumentumnak speciális hivatkozással kell rendelkeznie a stíluslapra:
+<?xml-stylesheet type="text/css" href="myStyleSheet.css"?>
+Ez eltér a szabványos, stíluslapra hivatkozó HTML kódtól, ami a <link> tag-et használja.
+Amíg a böngészőalapú XML megjelenítés fejlődik, alternatívát a HTML, PDF vagy más formátum előállítása jelenthet a szerveren. Vannak olyan programok, melyek feldolgozzák az XML-t a stíluslappal együtt és visszaküldik az eredményt a felhasználó böngészőjébe anélkül, hogy a felhasználónak tudnia kellene, hogy mi is zajlik a háttérben.
+
+
+== XML kiterjesztések ==
+XPath: Lehetővé teszi az egyes komponensekre való hivatkozást egy XML dokumentumon belül. Ez a képesség például lehetővé teszi XSL és XSLT stíluslapokon belül, hogy dinamikusan kiválasszuk a dokumentum egyes részeit olyan sorrendben, ahogy azt a kimenet megköveteli.
+XQuery: Olyan az XML-ben, mint az SQL a relációs adatbázisokban.
+XML névterek: Lehetővé teszik, hogy egy dokumentum több szótárból tartalmazzon XML elemeket és attribútumokat névütközések nélkül.
+XML aláírás: Digitális aláírások létrehozására szolgáló szintaxist és feldolgozási szabályt definiál.
+XML titkosítás: XML dokumentumok titkosítására szolgáló szintaxist és feldolgozási szabályt definiál.
+
+
+== XML fájlok feldolgozása ==
+A SAX és a DOM széles körben használt API XML adat feldolgozásához. A SAX soros feldolgozásra, míg a DOM véletlen hozzáférésű feldolgozásra alkalmas. Másik formája az XML feldolgozó API-nak az adatkötés, ahol az XML adat erősen típusos programnyelvi adatstruktúraként áll rendelkezésre. Jó példa az adatkötő rendszerekre a Java Architecture for XML Binding (JAXB) és a Strathclyde Novel Architecture for Querying XML (SNAQue). Az ADO.NET is képes erősen típusos adatstruktúraként kezelni XML forrásokat.
+Egy szűrő az Extensible Stylesheet Language (XSL, kiterjeszthető stílusleíró nyelv) családban képes átalakítani az XML fájlt megjelenítésre vagy nyomtatásra.
+XSL-FO megjelenítésre alakítja át az XML fájlokat. Az XSL-FO alapvetően egy XML-alapú, lapon belüli elrendezést szabályozó nyelv.
+XSLT átalakítja az XML-t más formátumra, például HTML-re, más XML szótárra vagy egyszerű szövegre.
+XQuery egy W3C nyelv XML adatok lekérdezésére, megalkotására és átalakítására.
+XPath egy elérési utakat leíró nyelv, mely adatok kiválasztására használható az XML fájlon belül. Az XPath az XQuery és az XSLT alnyelve.
+Az OpenOffice.org és az AbiWord natív fájlformátuma az XML. A Microsoft Office 2003-tól kezdve lehetőség van XML fájlba menteni

@@ -1,0 +1,18 @@
+Kapasitas mesin adalah volume dari semua piston di dalam silinder mesin pembakaran dalam, yang diukur dari satu pergerakan maksimum dari atas ke bawah. Biasanya dinyatakan dengan menggunakan satuan sentimeter kubik (cc), liter (l), atau inchi kubik (CID) di pasar Amerika Utara. Kapasitas mesin tidak termasuk dengan total volume dari ruang pembakaran.
+
+
+== Definisi ==
+Kapasitas mesin dapat diketahui dari diameter dan langkah dari sebuah silinder mesin.
+
+Contoh: Mesin Chevrolet 427 memiliki diameter 4,312 inchi, dan langkah 3.65 inchi, maka mesin 8 silinder ini memiliki kapasitas mesin:
+3.1416/4 * 4.3122 * 3.65 * 8 = 426.4 CID (inchi kubik).
+Jika diameternya 10 cm dan langkahnya 5 cm dengan 4 silinder, maka kapasitas mesinnya:
+3.1416/4 * 102 * 5 * 4 = 1570 cm3 ≈ 1.6L (liter).
+
+
+== Regulasi pemerintah ==
+Pengenaan pajak pada kendaraan biasanya didasarkan pada kapasitas mesin mobil tersebut daripada keluaran tenaga mesinnya. Kapasitas mesin ini adalah dasar dari sebuah desain mesin, sedangkan keluaran tenaga bisa bergantung pada beberapa faktor lainnya. Hal ini berakibat pada banyaknya pabrikan otomotif yang berkonsentrasi untuk meningkatkan tenaga mesin dengan berbagai teknologi seperti variable valve timing dan turbocharger.
+Ada 4 macam metode utama yang mengatur emisi permobilan: Eropa, Inggris, Jepang, dan Amerika Serikat. Metode yang dipakai di beberapa negara Eropa adalah mengenakan pajak pada kendaraan di atas 1.0L (1000 cc) dan di level 1.6L (1600 cc). Di Inggris, sistem pengenaan pajaknya adalah emisi gas buang mulai tanggal 1 Maret 2001 (sebelumnya mereka memakai kapasitas mesin sebagai metode, mobil dengan mesin dibawah 1549 cc pajaknya lebih murah).
+Di Jepang metodenya mirip dengan Eropa (berdasarkan kapasitas mesinnya) ditambah dengan pajak bobot kendaraan.
+Di Belanda dan Swedia, pengenaan pajak dilihat dari bobot kendaraan. Tapi, Swedia mengubah peraturannya tahun 2008 menjadi pengenaan pajak didasarkan pada emisi karbon dioksida.
+Kapasitas mesin juga digunakan untuk membedakan berbagai macam kategori motor. Di Perancis dan beberapa negara Eropa lainnya, motor di bawah 

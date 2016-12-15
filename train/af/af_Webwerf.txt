@@ -1,0 +1,4 @@
+'n Webwerf of webtuiste is 'n versameling webblaaie, prente, video's en ander digitale bates wat op een of meer webbedieners bedryf word, en gewoonlik beskikbaar is vanaf die Internet, selfoon of 'n LAN.
+'n Webbladsy (of webblad) is 'n dokument, tipies geskryf in HTML, wat meestal beskikbaar gemaak word deur die HTTP protokol. Die HTTP protokol is verantwoordelik om die inligting van die webbediener aan te stuur na die gebruiker se webblaaier.
+Al die publiek toeganklike webwerwe word kollektief beskou as die Wêreldwye Web.
+Die blaaie van 'n webwerf kan gewoonlik bekom word van 'n eerste- of worteladres (URL). Die worteladres van 'n webwerf word die hoofblad of tuisblad genoem. Die adresse van die blaaie word gewoonlik in 'n hiërargie georganiseer, maar skakels tussen die blaaie beheer hoe die leser die struktuur sien en hoe verkeer tuss

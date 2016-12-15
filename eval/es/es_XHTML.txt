@@ -1,0 +1,32 @@
+t>
+Correcto: <span style="color: #0000FF;">Blue text</span>
+
+
+=== Reglas para DTDs estrictos ===
+El texto no debe ser insertado directamente en el cuerpo (dentro de la etiqueta body).
+Incorrecto: <body>Texto plano</body>
+Correcto: <body><span>Texto plano</span></body>
+
+No se deben insertar elementos de bloque dentro de elementos de línea.
+Incorrecto: <em><h2>Título</h2></em>
+Correcto: <h2><em>Título</em></h2>
+
+
+== Véase también ==
+Anexo:Etiquetas HTML/XHTML
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Wikilibros
+ Wikilibros alberga un libro o manual sobre lenguaje XHTML.
+Guía breve oficial de XHTML del World Wide Web Consortium (W3C)
+Traducción de la especificación oficial de XHTML
+Resumen sobre las novedades del borrador XHTML 2.0
+Especificación oficial de XHTML (en inglés)
+Validador en línea del W3C (en inglés)
+Guía en línea sobre el lenguaje XHTML
+Introducción a XHTML
+Guía de referencia rápida XHTML

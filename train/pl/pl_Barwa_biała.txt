@@ -1,0 +1,39 @@
+Barwa biała – najjaśniejsza z barw. Jest to zrównoważona mieszanina barw prostych, która jest odbierana przez człowieka jako najjaśniejsza w otoczeniu odmiana szarości.
+Wyjaśnieniem tej definicji może być przykład, że zawsze fragment tła można oświetlić mocniejszym światłem białym i wtedy dotychczasowa, pozostała biała powierzchnia stanie się w efekcie ciemniejsza, a więc jasnoszara.
+
+
+== Skład bieli ==
+W skład widma światła białego może wchodzić od dwóch barw prostych czyli długości (częstotliwości) fal elektromagnetycznych z zakresu fal widzialnych. W przypadku najprostszym – tylko dwóch częstotliwości – mowa jest o barwach dopełniających, czyli barwach leżących na wspólnej średnicy koła barw. Ponieważ jednak nie da się całego koła barw zapełnić barwami prostymi (pozostaje pewien fragment zwany barwami purpury na granicy fal najkrótszych i najdłuższych), to dla długości fali w okolicach zieleni nie da się dobrać drugiej barwy prostej do pary stanowiącej biel. Dlatego więc mówi się, że biel można osiągnąć już od pary barw prostych, ale wybranych, lub od trójki barw prostych, gdzie do dowolnej barwy można dobrać dwie pozostałe.
+Nie istnieje wyłącznie jedna konkretna barwa biała, lecz pewien zakres odcieni od barwy lekko zażółconej bieli do bieli zaniebieszczonej, inaczej mówiąc od bieli ciepłej do bieli chłodnej. Wrażenie czystej, neutralnej bieli jest odbierane indywidualnie przez każdego człowieka, a pomijając cechy osobnicze obserwatora (wiek, stan zdrowia, bieżące samopoczucie), jest uzależnione też od siły światła – w przypadku słabego oświetlenia jako barwę neutralnie białą odbieramy odcienie cieplejsze, a w miarę wzrostu oświetlenia wrażenie neutralnej bieli przesuwa się w kierunku odcieni chłodniejszych.
+Odcienie bieli określa się za pomocą parametru o nazwie temperatura barwowa i wyraża się odnosząc do temperatury w kelwinach, ponieważ istnieje ścisły związek pomiędzy temperaturą ciała (w teorii jest to ciało doskonale czarne), a emitowanymi przez to ciało falami elektromagnetycznymi, które w miarę wzrostu temperatury ciała przechodzą z zakresu fal podczerwonych do fal widzialnych, a następnie do fal bliskiego nadfioletu.
+Pojęcie barwy ciepłej lub chłodnej jest również umowne, i tak, w produktach oświetleniowych u różnych producentów, ta sama wartość temperatury barwowej może być określana jeszcze jako barwa lekko ciepła, jako barwa neutralna lub jako barwa już lekko chłodna. Ze szczególnie dużym rozrzutem wartości można zetknąć się w przypadku sztucznych źródeł światła określanych jako „barwa dzienna”. Typowe dzienne oświetlenie naturalne to barwa już wyraźnie chłodna. Źródła światła białego dzieli się ze względu na temperaturę barwową kolejno na:
+ciepłe
+neutralne
+chłodne
+dzienne
+dzienne chłodne.
+Co ciekawe wyższa temperatura barwowa to chłodniejsza biel.
+Tak więc można powiedzieć, że biel jest w pewnym sensie pozorna. Co prawda wszelkie zjawiska barwne są wrażeniami subiektywnymi, bo powstającymi w ludzkiej psychice, jednak szczególnie wyraźnie ten subiektywizm występuje w przypadku odczuwania bieli oraz odcieni zbliżonych do szarości. Każdy człowiek widzi biały kolor, ale każdy trochę inaczej. Okazuje się, że u starszych ludzi zmieniają się proporcje widzenia różnych fragmentów widma światła białego. Widzą oni znacznie słabiej kolory niebieskie, oraz trochę słabiej zielone, przy nadal dobrym widzeniu kolorów czerwonych, ale mimo to postrzegają w swojej świadomości nadal kolor biały i wszystkie inne barwy. Interpretują jedynie inaczej różnice między nimi i wyrazistość poszczególnych odcieni. Znany malarz Julian Fałat u schyłku swojego życia malował odcienie śniegu na niebiesko, choć prawdopodobnie widział je jako szarości.
+
+
+== Źródła światła białego ==
+Źródła naturalne i sztuczne
+Źródła gorące i zimne
+Źródła gorące to światło żarowe, czyli światło powstające podczas emisji fal elektromagnetycznych z zakresu fal widzialnych z ciała rozgrzanego do białości. Należą tutaj: słońce, żarówka, lampa halogenowa, łuk elektryczny. Bardzo ważną cechą budowy światła białego przez źródła gorące jest występowanie pełnego spektrum światła białego, czyli inaczej mówiąc pełnego widma. Mamy tutaj do czynienia ze zrównoważoną mieszaniną wszystkich barw prostych.
+Źródła zimne to wszelkiego rodzaju lampy wyładowcze i indukcyjne. Typowym przedstawicielem jest tutaj świetlówka, czyli lampa fluorescencyjna. Tego typu źródła światła świecą tylko kilkoma wybranymi przez producenta wąskimi zakresami widma (czyli tylko kilkoma barwami prostymi) w ten sposób, aby sumarycznie było zachowane wrażenie bieli. W przypadku zimnych źródeł – o jakości generowanej bieli mówi parametr zwany stopniem oddawania barw, stopniem renderowania barw, albo stopniem wierności bieli. Jeśli parametr ten jest niski, to zimne źródło światła oświetla prawidłowo tylko typowe materiały białe i szare, natomiast w przypadku powierzchni kolorowych może dojść do dużych przekłamań.
+
+O różnicy w składzie widmowym żarówki i świetlówki można przekonać się obserwując załamanie światła odbitego w płycie kompaktowej. Żarówka da nam tęczę o płynnych przejściach pomiędzy kolorami, świetlówka zaś da kilka obszarów o jednorodnym kolorze.
+
+
+== Temperatury typowych źródeł światła ==
+2000 K – światło świecy i lampy naftowej
+2700 K – żarówka wolframowa, w typowych warunkach, którą wszyscy postrzegamy jako dającą światło ciepłobiałe i bardziej żółte od naturalnego dziennego (wcześniej za wartość typową dla żarówek podawano 2500 K)
+2900-3200 K – lampa halogenowa (żarówka halogenowa)
+3000-4000 K – barwa neutralnie biała
+4000-5000 K – barwa lekko-chłodnobiała
+5000-5500 K – światło typowo dzienne
+6000 K – niebo z białymi chmurami
+7000 K – zachmurzone niebo
+8000 K – mgła
+10000 K – bezchmurne niebo zimą w południe
+20000 K – błękitny nieboskłon w krajach południowych latem 

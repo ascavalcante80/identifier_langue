@@ -1,0 +1,15 @@
+ paradan tasarruf edip bilgisayarın kolaylık ve eğlencesinden yararlanan bilgisayar kullanıcıları, Web de dahil teknoloji getirilerini kullanma karşılığında özel hayatın gizliliği haklarını kullanmış ya da kullanmamış olabilirler. Yani İnternet kullanıcılarının bir kısmı özel hayatını gizli tutarken bir kısmı bu ayrıntıyı çok da fazla önemsememekte. Dünya çapında yarım milyondan fazla insan, İnternet'i kullanarak ve İnternet'le büyümüş olan Amerikalıların yarısı, çevrimiçi profiller oluşturarak kalıpları yıkan, kuralları değiştiren nesile mahsus bir değişimin de parçası olmuş durumdalar. Facebook, önceden yalnızca Amerikalı üniversite öğrencileri tarafından kullanılırken şimdilerde %70'i Amerikan olmayan insanlar tarafından kullanılıyor. Üstelik 2009'da yapılan araştırmalar gösteriyor ki bu kullanıcıların yalnızca %20'si özel hayatın gizliliği ayarlarını kullanıyor. Facebook'un kuruluşundan altı yıl sonra 2010'da şirketin kurucusu Mark Zuckerberg şunları yazdı: "Kullanımı çok kolay olan ve güvenlik kontrolü sağlayan uygulamalar ekleyeceğiz."
+
+
+== Hız sorunları ==
+İnternet'teki yoğunluk probleminden dolayı sayfa yüklemelerinde aşırı gecikme oluşmaktadır. Bu nedenden dolayı 'World Wide Web' (Dünya Çapında Ağ) terimi küçük düşürülerek 'World Wide Wait' (Dünya Çapında Bekleme) olarak tanımlanmaktadır. İnternet'i hızlandırma tartışmaları Qos teknolojilerini kullanmak üzerine devam ediyor. Yoğunluğu düşürmek için diğer çözümler W3C'de bulundu. İdeal Web sayfası için standart zaman aralığı şunlardır:
+0,1 saniye (100 ms) ideal cevap süresidir. Kullanıcı herhangi bir kesinti hissetmez.
+1 saniye en yüksek ulaşılabilecek cevap süresidir ve kullanıcı 1 saniyeden sonra kesinti yaşayabilir.
+10 saniye cevap süresinin en yüksek süredir ve kullanıcı, bu kesintiden dolayı siteden ayrılır.
+
+
+== Kaynaklar ==
+
+
+== Dış bağlantılar ==
+İlk Web sitesinin arşivlenmiş görüntüsü

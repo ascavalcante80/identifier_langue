@@ -1,0 +1,5 @@
+Um spambot, ou robô de spam, é um programa de computador automatizado projetado para auxiliar no envio de spam. Robôs de spam normalmente criam contas de e-mail falsas e enviam spam através delas. Alguns robôs de spam, entretanto, podem quebrar senhas e enviar spam usando as contas de outras pessoas.
+
+
+== Spambots de E-mail ==
+Spambots de e-mail vasculham e extraem endereços de e-mail encontrados na Internet, com o objetivo de construir listas de endereços de e-mail, que serão eventualmente utilizadas para o envio de spam. Tais spambots são programas de computador que podem obter endereços de e-mail de sítios e páginas na internet, postagens em grupos de discussão, conversas em programa
